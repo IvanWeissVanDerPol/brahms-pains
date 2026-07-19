@@ -1,0 +1,1 @@
+Lo que te puedo hacer es un archivo que analiza, o sea, un file que analice todo, un mchpio algo que analice todo tus archivos y te busques los que son más grandes, tipo, sí que todos los archivos son de cien linea y tenés uno de mil, ese de mil tenés que modularizar a los archivos más pequeños y me eron de eso.
