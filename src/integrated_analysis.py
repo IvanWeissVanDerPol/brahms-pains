@@ -16,17 +16,42 @@ import json
 import re
 import sys
 from collections import defaultdict
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
-from typing import Optional
 
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
+sys.path.insert(0, str(Path(__file__).parent))
 
 from transcription import config
 from transcription.utils.logging_utils import setup_logging
-from transcription.utils.quality import is_quality_transcript
+
+from extract_psychology import PsychologicalExtractor
 
 logger = setup_logging(__name__)
+
+
+def _matched_categories(extractor: PsychologicalExtractor, text: str) -> set[str]:
+    """Return set of category names with ≥1 regex match in text."""
+    return {cat for cat, hits in extractor.analyze_text(text).items() if hits}
+
+
+TEMPORAL_CATEGORIES = {
+    "sadness_depression",
+    "physical_affection",
+    "deflection_minimizing",
+}
+CROSS_CHAT_CATEGORIES = {
+    "sadness_depression",
+    "physical_affection",
+    "deflection_minimizing",
+    "asking_for_help",
+    "offering_help",
+}
+PREDICTIVE_CATEGORIES = {
+    "sadness_depression",
+    "deflection_minimizing",
+    "self_deprecation",
+}
 
 
 class TemporalAnalyzer:
@@ -171,7 +196,7 @@ class PredictiveAnalyzer:
 
         return sequences
 
-    def generate_risk_assessment(self, chat_patterns: dict) -> dict:
+    def generate_risk_assessment(self, chat_patterns: dict) -> list[dict]:
         """Generate risk assessment based on pattern combinations."""
         risks = []
 
@@ -257,7 +282,7 @@ class QuestionnaireIntegrator:
 
         return data
 
-    def cross_reference_with_patterns(self, voice_patterns: dict) -> dict:
+    def cross_reference_with_patterns(self, voice_patterns: dict) -> list[dict]:
         """Cross-reference questionnaire claims with voice note evidence."""
         questionnaire = self.load_questionnaire_responses()
 
@@ -318,6 +343,9 @@ def run_integrated_analysis():
     predictive = PredictiveAnalyzer()
     questionnaire = QuestionnaireIntegrator()
 
+    # Canonical regex extractor — config/psychological_patterns.json (20 categories)
+    extractor = PsychologicalExtractor()
+
     # Load all transcripts and extract patterns
     logger.info("\n1. Loading transcript data...")
     chat_data = {}
@@ -349,22 +377,9 @@ def run_integrated_analysis():
             if not date:
                 continue
 
-            # Simple pattern detection (keywords)
-            text_lower = t["text"].lower()
-
-            # Add to temporal analysis
-            if any(kw in text_lower for kw in ["triste", "deprim", "llor"]):
-                temporal.add_event(date, chat_name, "sadness", t["text"][:100])
-
-            if any(kw in text_lower for kw in ["abraz", "beso", "toque"]):
-                temporal.add_event(
-                    date, chat_name, "physical_affection", t["text"][:100]
-                )
-
-            if any(kw in text_lower for kw in ["no puedo", "no sé", "no entiendo"]):
-                temporal.add_event(
-                    date, chat_name, "communication_difficulty", t["text"][:100]
-                )
+            matched = _matched_categories(extractor, t["text"])
+            for cat in matched & TEMPORAL_CATEGORIES:
+                temporal.add_event(date, chat_name, cat, t["text"][:100])
 
     # Detect escalation periods
     escalations = temporal.detect_escalation_periods(threshold=5)
@@ -379,30 +394,24 @@ def run_integrated_analysis():
             if not t.get("text"):
                 continue
 
-            text_lower = t["text"].lower()
-
-            if any(kw in text_lower for kw in ["triste", "deprim", "llor"]):
-                patterns["sadness"] += 1
-            if any(kw in text_lower for kw in ["abraz", "beso", "toque"]):
-                patterns["physical_affection"] += 1
-            if any(kw in text_lower for kw in ["no puedo", "no sé"]):
-                patterns["communication_difficulty"] += 1
-            if any(kw in text_lower for kw in ["help", "ayuda", "te ayudo"]):
-                patterns["help_exchange"] += 1
+            for cat in _matched_categories(extractor, t["text"]) & CROSS_CHAT_CATEGORIES:
+                patterns[cat] += 1
 
         for cat, count in patterns.items():
             cross_chat.add_pattern(chat_name, cat, "unknown")
 
-    # Relationship type mapping
-    relationship_types = {
-        "Laura": "romantic_partner",
-        "Jonatan_Verdun": "male_friend",
-        "Lourdes_Youko_Kurama": "fwb",
-        "Magali_Carreras": "university_friend",
-        "Defi": "kink_community",
-        "Ara_Nunez_Poli": "balanced_friend",
-        "Cookie": "breakthrough_friend",
-    }
+    # Relationship type mapping — loaded from config/relationships.json
+    rel_config_path = config.paths.project_root / "config" / "relationships.json"
+    try:
+        with open(rel_config_path, "r", encoding="utf-8") as f:
+            rel_data = json.load(f)
+        relationship_types: dict[str, str] = rel_data.get("relationship_types", {})
+        logger.info(
+            f"  Loaded {len(relationship_types)} relationship mappings from {rel_config_path}"
+        )
+    except (OSError, json.JSONDecodeError) as e:
+        logger.error(f"Failed to load relationships.json ({e}); using empty map")
+        relationship_types = {}
 
     for chat, rel_type in relationship_types.items():
         if chat in chat_data:
@@ -418,13 +427,8 @@ def run_integrated_analysis():
         patterns = defaultdict(int)
         for t in transcripts:
             if t.get("text"):
-                text_lower = t["text"].lower()
-                if any(kw in text_lower for kw in ["triste", "deprim"]):
-                    patterns["sadness_depression"] += 1
-                if any(kw in text_lower for kw in ["no puedo", "no sé"]):
-                    patterns["deflection_minimizing"] += 1
-                if any(kw in text_lower for kw in ["soy tont", "idiota", "imbécil"]):
-                    patterns["self_deprecation"] += 1
+                for cat in _matched_categories(extractor, t["text"]) & PREDICTIVE_CATEGORIES:
+                    patterns[cat] += 1
         chat_pattern_summary[chat_name] = dict(patterns)
 
     risk_assessment = predictive.generate_risk_assessment(chat_pattern_summary)

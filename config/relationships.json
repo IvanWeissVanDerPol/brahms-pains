@@ -1,0 +1,13 @@
+{
+  "description": "Mapping of chat/contact name → relationship type used by integrated_analysis.py",
+  "version": "1.0.0",
+  "relationship_types": {
+    "Laura": "romantic_partner",
+    "Jonatan_Verdun": "male_friend",
+    "Lourdes_Youko_Kurama": "fwb",
+    "Magali_Carreras": "university_friend",
+    "Defi": "kink_community",
+    "Ara_Nunez_Poli": "balanced_friend",
+    "Cookie": "breakthrough_friend"
+  }
+}

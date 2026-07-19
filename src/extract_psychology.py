@@ -428,26 +428,25 @@ def main() -> int:
 
         logger.info(f"Report saved to: {output_path}")
 
-        # Generate category export
+        # Generate category export — export ALL 20 categories, not just high-value 10
         logger.info("Generating category exports...")
         cat_path = config.paths.source_of_truth / "CATEGORY_EXTRACTION.json"
-        save_category_export(
-            all_results, pattern_config.high_value_categories, cat_path
-        )
+        all_category_names = list(pattern_config.categories.keys())
+        save_category_export(all_results, all_category_names, cat_path)
 
-        # Print summary
+        # Print summary — iterate every exported category so nothing is hidden
         logger.info("=" * 60)
-        logger.info("HIGH-VALUE CATEGORY SUMMARY")
+        logger.info("CATEGORY SUMMARY (all %d categories)", len(all_category_names))
         logger.info("=" * 60)
 
-        # Load the export we just saved to get counts
         with open(cat_path, "r", encoding="utf-8") as f:
             category_export = json.load(f)
 
-        for cat in pattern_config.high_value_categories:
+        for cat in all_category_names:
             count = len(category_export.get(cat, []))
             if count > 0:
-                logger.info(f"  {cat}: {count} findings")
+                marker = "*" if cat in pattern_config.high_value_categories else " "
+                logger.info(f" {marker} {cat}: {count} findings")
 
         logger.info("Done!")
         return 0
