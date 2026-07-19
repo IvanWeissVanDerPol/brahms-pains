@@ -1,6 +1,6 @@
 # Comprehensive Voice Note Psychological Extraction
 
-> **Generated:** 2026-01-28 16:48
+> **Generated:** 2026-07-19 17:24
 > **Method:** Deep pattern extraction across all transcripts
 
 ---
@@ -11,11 +11,12 @@
 |------|-------------|---------------|----------------|
 | Ara_Nunez_Poli | 12 | 10 | none |
 | Cookie | 3 | 3 | none |
-| Defi | 613 | 561 | deflection_minimizing, physical_affection, sadness_depression |
-| Jonatan_Verdun | 1194 | 1129 | care_receiving, physical_affection, illness_medical |
-| Laura | 2915 | 2660 | relationship_negative, physical_affection, illness_medical |
-| Lourdes_Youko_Kurama | 1036 | 982 | anxiety_fear, loneliness, deflection_minimizing |
-| Magali_Carreras | 437 | 406 | sadness_depression, care_giving, conflict_tension |
+| Defi | 613 | 571 | deflection_minimizing, physical_affection, care_receiving |
+| Jonatan_Verdun | 1194 | 1133 | deflection_minimizing, loneliness, physical_affection |
+| Laura | 2915 | 2697 | relationship_positive, physical_affection, care_giving |
+| Lourdes_Youko_Kurama | 1036 | 997 | deflection_minimizing, physical_affection, sadness_depression |
+| Magali_Carreras | 437 | 421 | deflection_minimizing, physical_affection, loneliness |
+| _wa_ptt_bulk | 1169 | 1114 | deflection_minimizing, care_receiving, relationship_negative |
 
 ---
 
@@ -54,7 +55,7 @@
 
 *... and 12 more occurrences*
 
-### Anxiety Fear (48 occurrences)
+### Anxiety Fear (49 occurrences)
 
 **PTT-20250826-WA0116.opus** (2025-08-26)
 > Wey, yo no sé si hiciste ese propósito, pero me salió ese join, me asusté y yo dije que coño, entonces aproveché, pero no te preocupes. Y eso, te estoy contando mis planes todavía, estoy envisionando todavía, falta mucho todavía, pero ya estoy viendo la visión. Si hay algo que nos ...
@@ -71,7 +72,7 @@
 **PTT-20250830-WA0037.opus** (2025-08-30)
 > ... revisar ya los collares Y las colas y todo eso Para confirmar que está todo ok Y no haga falta nada, verdad? Pero eso nomás, me da mucha Me da mucho miedo, wey, irme Incomodar con mi presencia Porque yo soy cercana A vos y a Ale Pero no Necesariamente, osea No me llevo mal con Kiri, pero ves que Técnica...
 
-*... and 43 more occurrences*
+*... and 44 more occurrences*
 
 ### Asking For Help (17 occurrences)
 
@@ -92,7 +93,7 @@
 
 *... and 12 more occurrences*
 
-### Care Giving (74 occurrences)
+### Care Giving (75 occurrences)
 
 **PTT-20250405-WA0031.opus** (2025-04-05)
 > ... nomás yo el bol de mi cosa a tu ubi y que sea de venida en vez de llevar abajo. Quiere transferirte para que te pidas el cosa. Pero ya hubo. Avisad, te traigo. O sea, te pido el uber.
@@ -109,7 +110,7 @@
 **PTT-20250828-WA0070.opus** (2025-08-28)
 > O sea, no te quiero decir onda para qué tipo más mala onda con el manes y onda eso. Si llegan bien, recontra llévense bien. Es más, no más onda... Yo qué sé, warning por...
 
-*... and 69 more occurrences*
+*... and 70 more occurrences*
 
 ### Care Receiving (120 occurrences)
 
@@ -130,7 +131,7 @@
 
 *... and 115 more occurrences*
 
-### Conflict Tension (74 occurrences)
+### Conflict Tension (76 occurrences)
 
 **PTT-20250405-WA0048.opus** (2025-04-05)
 > Sorry, mi bolsillo se fue en más, mi pantalón. Uh, estamos acá chillando con él.
@@ -147,7 +148,7 @@
 **PTT-20250826-WA0063.opus** (2025-08-26)
 > Pero a mi no me jodía mi culo un bad plug, si era un bad plug tranquichil iba a estar en mi culo El mío se fue la puta porque me entraron dedos con uñas Y después PAF, feroz dildo Pero muy rico, cuando se recupera mi culo, una plugcito de vuelta Y realmente ha...
 
-*... and 69 more occurrences*
+*... and 71 more occurrences*
 
 ### Deflection Minimizing (194 occurrences)
 
@@ -206,7 +207,7 @@
 
 *... and 17 more occurrences*
 
-### Loneliness (58 occurrences)
+### Loneliness (59 occurrences)
 
 **PTT-20250818-WA0102.opus** (2025-08-18)
 > ...o, ¿entendés? O sea, yo sé que ella solamente paga 150 por otras mesas, le paga Adrián, le paga 150 por otras mesas, que es 100 mil, no es nada, y no solo eso. Tipo, bien, ¿cómo puedes decir? Eh, espera, te mando todo, es súper, no, espera, vos me mandas más largo, yo miro. Eh, no solo eso, uno luego no...
@@ -223,9 +224,9 @@
 **PTT-20250828-WA0067.opus** (2025-08-28)
 > ...o tengo que decir, me dice, ¿verdad? Y sí, ¿entendés? Él es de esos tipos, que se junta con tipos así, pero él no es así, ¿entendés? Por eso luego me extrañaba, por algo, a mí no me importa pasar tiempo con Víctor, porque Víctor, pues, es hombre, hace chistes de hombre de repente, pero no se comporta del ...
 
-*... and 53 more occurrences*
+*... and 54 more occurrences*
 
-### Neglect Abandonment (42 occurrences)
+### Neglect Abandonment (44 occurrences)
 
 **PTT-20250826-WA0105.opus** (2025-08-26)
 > ... que sea. A partir de cuánto ya es caro, porque para mí todo es caro, entonces si es por mí no pongo nada. Pero yo no sé, tipo, en general, artículos no importa. A partir de cuánto es caro, si es a partir de más de 20 es caro, a partir de más de 30, ¿verdad? Yo igual nada más estoy mirando y siempre tipo, po...
@@ -242,9 +243,9 @@
 **PTT-20250830-WA0031.opus** (2025-08-30)
 > Hola Liz, quiero decir nada más que me fui a la cabeza otra vez ayer. O sea, tomé mis medicamentos porque me salía así, como cointestinal por mi caquis. Y le contacté a mi doctora de Paraguay, me dijo que hiciera el tratamiento y tomé la ciprofloxacina. Que ahora ya sé ya que ese es el que me da toda alergia, me tengo que tomar. Y me fui a la puta....
 
-*... and 37 more occurrences*
+*... and 39 more occurrences*
 
-### Offering Help (20 occurrences)
+### Offering Help (21 occurrences)
 
 **PTT-20250324-WA0017.opus** (2025-03-24)
 > ...n hacer luego en celular si yo literalmente hago mi celular como si fuera uno de estos trivia de tipo preguntados por ahi es mucho mas easy hacer asi te puedo pasar las credenciales por Udemy tiene un monton de examenes de prueba y todo el contenido en videos explica todo algún contexto que puedas darle mas...
@@ -252,18 +253,18 @@
 **PTT-20250405-WA0031.opus** (2025-04-05)
 > Avisad nomás, si querés te puedo... A mí no es más fácil que te pida nomás yo el bol de mi cosa a tu ubi y que sea de venida en vez de llevar abajo. Quiere transferirte para que te p...
 
+**PTT-20250909-WA0058.opus** (2025-09-09)
+> ...ganda. No sé, a mí me reú, me dejé muy mucho. Hace rato no tenía mímitos realmente. Ah. Pero es bueno. Que feo, me encantaría. Yo sin cucharitas. Ah. Te puedo hacer así. Con mi mentón y cagar por tu frente y eso. Me puedo poner regato. Miau, miau, miau, miau. Acá님. Y ya con ella. Meходит...
+
 **PTT-20251014-WA0003.opus** (2025-10-14)
 > Acá estamos haciendo Therapy Time con Miami Therapy ¡Hola! ¿Cómo estás? Realmente estoy para escucharte y como te digo no te puedo tratar como una psicóloga como tal pero así te puedo escuchar, más bien te puedo escuchar Así que el momento que necesitas Estoy aquí Es súper genial...
 
 **PTT-20251014-WA0003.opus** (2025-10-14)
 > ...apy Time con Miami Therapy ¡Hola! ¿Cómo estás? Realmente estoy para escucharte y como te digo no te puedo tratar como una psicóloga como tal pero así te puedo escuchar, más bien te puedo escuchar Así que el momento que necesitas Estoy aquí Es súper genial hablarle, tienes que escuchar nomás sus propios cons...
 
-**PTT-20251014-WA0003.opus** (2025-10-14)
-> ...Hola! ¿Cómo estás? Realmente estoy para escucharte y como te digo no te puedo tratar como una psicóloga como tal pero así te puedo escuchar, más bien te puedo escuchar Así que el momento que necesitas Estoy aquí Es súper genial hablarle, tienes que escuchar nomás sus propios consejos Vos también no tienes q...
+*... and 16 more occurrences*
 
-*... and 15 more occurrences*
-
-### Physical Affection (138 occurrences)
+### Physical Affection (147 occurrences)
 
 **PTT-20250323-WA0010.opus** (2025-03-23)
 > Buenos días Sorrillo ya era muertísimo cuando llegué a mi cama Prefiero que haya sido un viaje chico Que no haya sido un overkeeping Un abracitos Un abrazo Un abrazo Un abrazo Un abrazo
@@ -280,9 +281,9 @@
 **PTT-20250406-WA0004.opus** (2025-04-06)
 > Hola, yo la metí para el calle, ofla, ahora que toque mi cama. Pero, no sé, señor, ¿les trinque salió mal? No. Ah. Me daisitos. Te sé que puedas estudiar a full con los vehiculares. Escucho el buen ASMR.
 
-*... and 133 more occurrences*
+*... and 142 more occurrences*
 
-### Physical Needs (11 occurrences)
+### Physical Needs (12 occurrences)
 
 **PTT-20250818-WA0076.opus** (2025-08-18)
 > ...i bueno ooo pues se le mandaron aparte de Holanda, osea de Suecia a Holanda para que me mande Sonia Maniaca para pagar boludecitas y de paso osea les quiero mandar ya de paso asi pueden disfrutar después en Garden Groups Mr. Chilish se puede comprar un pot jajaja se puede que se divierta aunque pasa un rechil ooo un abrazo a Tess
@@ -296,10 +297,10 @@
 **PTT-20251013-WA0008.opus** (2025-10-13)
 > ...ad esta tardecito la mente quedan más voy a dormir un minuto si quedan más voy a dar brazos voy a dar miedo que haya dormido un super rico de repente quiero hacerme relax escuchando así mi corazón me trate ya lo vemos se quedan muchas veces me llega a abrazos me llega a abrazos me llega a abrazos me llega a abrazos sub Zus salen las me cyp hopefully pero
 
-**PTT-20251026-WA0006.opus** (2025-10-26)
-> ... será de context, de pre context de mañana de que siento hace rato Longy no se si Longy es la clara correcta pero no ha sido el frio y con ya cansado quiero sentir las otras no se, jugamos y bajas en y calentita y nikes y todo esto se tiene que haber podado se tiene que haber podado me derretir nunca me puedo destrozar un poco se tiene que haber podado y que hace que hace que me pasaron a las cosas y que hace que hace que hace que hace que hace que hace eso y que hace Encontrar ese valor que quiero. En este tipo tampoco es algo que voy a encontrar así. Tipos de abrazos son distintos. Y yo también. Desde creo que tienes un ámbito..ageos SW200 fighting. ya así porector. Miren. Perces más. Miren. No sé. Quiero pasar a...
+**PTT-20251019-WA0000.opus** (2025-10-19)
+> ...egántame a random. ¿Puedo estar yo para venir random real en algún momento otra vez? No sé si tempranito voy a dormir abrazado. No me gusta mucho. Me quiero mucho, Defi. No está mucho cuando son calentitos estos abrazos. Ahora prendí el aire y se siente muy rico el frío. Pero... Se siente muy frío. No sé sueños. Me siento en el barbo y en Bogotá. De querer abrazar y...
 
-*... and 6 more occurrences*
+*... and 7 more occurrences*
 
 ### Relationship Negative (27 occurrences)
 
@@ -320,7 +321,7 @@
 
 *... and 22 more occurrences*
 
-### Relationship Positive (104 occurrences)
+### Relationship Positive (106 occurrences)
 
 **PTT-20250505-WA0007.opus** (2025-05-05)
 > Hello's, ahora sí, feliz cumple. ¿Qué pasa? Es súper lleno. Te diviertas mucho. La primera vez te divieres.
@@ -337,7 +338,7 @@
 **PTT-20250827-WA0049.opus** (2025-08-27)
 > Yo re quiero tener el opositor, yo te quiero ver a vos el opositor, que puta re, puta va a ser Una vez me compro todos Pero re me quiero, o sea, antes de comprar eso ves una lista y ver cuánto m...
 
-*... and 99 more occurrences*
+*... and 101 more occurrences*
 
 ### Sadness Depression (28 occurrences)
 
@@ -396,7 +397,7 @@
 
 *... and 11 more occurrences*
 
-### Wants Needs Expressed (58 occurrences)
+### Wants Needs Expressed (59 occurrences)
 
 **PTT-20250406-WA0000.opus** (2025-04-06)
 > Uuu, ojalá llegues bien. No hay sal cualquier cosa. Cristin que... Terminó así el... La partida. En serio. No te sientas culpable de nada. Tipo, mil por ciento ...
@@ -413,7 +414,7 @@
 **PTT-20250828-WA0033.opus** (2025-08-28)
 > No quiero que se haga sushi de personal nude en el otro evento que iba a ser más tranqui, wow.
 
-*... and 53 more occurrences*
+*... and 54 more occurrences*
 
 ---
 
@@ -611,10 +612,13 @@
 
 *... and 136 more occurrences*
 
-### Neglect Abandonment (74 occurrences)
+### Neglect Abandonment (75 occurrences)
 
 **PTT-20240320-WA0001.opus** (2024-03-20)
 > ...a eso que va a hacer, que manga de pajeros tipo yo no sé y donde es que tenés portfolio de info y es por eso que tu cursillo me dijeron que soy honda frío o tipo no sé real alex por ahí pero también porque las relaciones que me dijeron de eso yo mismo me puse porque era una frances benefits y tipo yo di...
+
+**PTT-20240629-WA0009.opus** (2024-06-29)
+> ... remembered la indición lo que le llame me parece pessoas más Review que me te More Наíntenlo entonces los animales que République le me dice no lo t ignore
 
 **PTT-20240629-WA0023.opus** (2024-06-29)
 > Nah perro, la única filosofía existencial que importa es que nada importa, ya unilismo. Como vamos a hacer f**king abono, te morís y te pagas, sos una computadora de academia. Nah... Yo he de ser su esclavo, ahí son todos Eurogots, fúrete. He aplicado la full perro, tengo que hablar con tu vieja, no por Intended. Y no me deja estar localmente, osea, enseñamos religión, son full gente cheta, pero gente cheta enferma para mi. Eh... Pero mut, aplicarle con los Eurogots, escapate, latam. Hace fuera bola, mira lo que es, tiene el sílabo online, con exámenes ahí gratis, para tantear, osea, para mirar como es. Y al trabajo es ch**as f**k, un carajo no hago. Y si generando el proyecto no es tu problema, le decís, el ded hizo mal, mata la p**a. Es, pero no porque está mal, sino porque la gente no le da cabeza para atender cosas tan profundas, entonces se rellevarán. Y la g...
@@ -625,10 +629,7 @@
 **PTT-20240629-WA0032.opus** (2024-06-29)
 > En el opinión lo que se haga es que es un relición ignorable y estupido. Porque si su fuentes es un edición, sería mi cabeza, se la come. Pero no sé qué pensé lo que quieran pensar. Ya deleno más mil lombre...
 
-**PTT-20240629-WA0038.opus** (2024-06-29)
-> ...Lo que me gusta de verdad es que la gente salió a la calle y ver como son Cuando apago mi cerebro, puedo entenderse Pero la gente ni voy, ya está por nada Les chupo un huevo como fingen y que les importan Es que los ojos no saben como condiciones Van a tener que mirar con más, tipo Imaginad que la Tierra es un petroidish Y los monos son bacterias Una fucking flag, por ahí son para el planeta Pero la gente se consigue las bendiciones Te mueves Y fue para hablar de para ella seguir hablando hasta Instagram Bueno, si Fio era de que este, tenía unos cuantos issues Pero era muy cute buena onda, tipo No, caía muy bien, era muy cute mi madre estar así de cute Pero, def, muchos issues Bueno, estaba en Muchita, me comentó que tipo era un hijo de puta Pero no tenía ningún contexto en la de esa, tipo Ja ja, si, en el colegio lo hallaron pero Ni idea que te hizo El chico en lo que estoy ahora también me han de issues también Pero el cambio, de verdad, está mejorando Y ojalá, mejora Espero que les vaya bien Ya...
-
-*... and 69 more occurrences*
+*... and 70 more occurrences*
 
 ### Offering Help (39 occurrences)
 
@@ -826,7 +827,7 @@
 
 *... and 85 more occurrences*
 
-### Anxiety Fear (117 occurrences)
+### Anxiety Fear (118 occurrences)
 
 **PTT-20231127-WA0000.opus** (2023-11-27)
 > ...es un poco de tanto tiempo hace un pletón adito si el mande perderme esta vez por falta comunicación y ya sé se orice que tipo me río así en momentos nerviosos es no más tipo mítica pero en serio te puedo me siento a ser por pero no me está así y no quiero repetir así en el futuro tampoco tipo por haberm...
@@ -843,7 +844,7 @@
 **PTT-20231203-WA0039.opus** (2023-12-03)
 > ... es súper mod Y ahhh A mi me gusta muchísimo más hacer onda eso Porque tipo cada narración es perfecta Siempre habla bien el AI No se traba, no tiene nervios Y le da mucha más emoción de lo que yo puedo darle O sea Wow le puedo dar si es que me enfoco mucho Pero hoy me pongo a hablar bien así Pero ahhh n...
 
-*... and 112 more occurrences*
+*... and 113 more occurrences*
 
 ### Asking For Help (76 occurrences)
 
@@ -883,7 +884,7 @@
 
 *... and 294 more occurrences*
 
-### Care Receiving (193 occurrences)
+### Care Receiving (194 occurrences)
 
 **PTT-20231121-WA0023.opus** (2023-11-21)
 > ...ma entrevista. Y así, a ver qué onda. Me estoy yendo, estoy buscando una gomería porque mi rueda está un poco desinflada. Estoy andando en bicicleta. Gracias. Gracias. Gracias. Gracias.
@@ -900,9 +901,9 @@
 **PTT-20231121-WA0025.opus** (2023-11-21)
 > Lo sabes que me fui a muchos y no tienen para mí sí porque tengo el la entrada, es que me piquito este fino y necesita un adaptador para poder infilar y así no tengo conmigo, pero me he guayado de m...
 
-*... and 188 more occurrences*
+*... and 189 more occurrences*
 
-### Conflict Tension (227 occurrences)
+### Conflict Tension (228 occurrences)
 
 **PTT-20231124-WA0037.opus** (2023-11-24)
 > ...flow Hoy estoy re... Tipo... Sleepy Voces ando y... Aaaaaah Linda Me pasé toda la noche despierto Hace las 3 con Emilio Después respondiendo mensajes Discutiendo hasta las Seis... después trabajo Con... Soñitos, osea con soñir... con... Dormirme cada tanto Pero... Que diviones legalmente Dios mio Mmm... q...
@@ -919,9 +920,9 @@
 **PTT-20231204-WA0046.opus** (2023-12-04)
 > No te contesté a caso de que se fue no más le llamas según yo sí, pero creo eso que se fue normal Si te quites, escuché todo o dios y cuando están echando así como eso hayamos Y así Dec...
 
-*... and 222 more occurrences*
+*... and 223 more occurrences*
 
-### Deflection Minimizing (256 occurrences)
+### Deflection Minimizing (258 occurrences)
 
 **PTT-20231127-WA0002.opus** (2023-11-27)
 > ... tal... Va la vida. Jajaja. He tomado un cafecito y seguir trabajando... Ah... Porque ya no he dormido con la lluvia. ¿Exitado hoy? Espero que sea... Tranqui ser... Piñera de tu sobrí. M澤 ventilación, etc... Mátal, rostrán, en dhe tu sobrí. Tu sonidos de verdad... Tenemos que firmar informadamente también ...
@@ -938,7 +939,7 @@
 **PTT-20231127-WA0027.opus** (2023-11-27)
 > ...rácticamente sentimientos ni apego por nada. Entonces, como que hicimos switchamos, normalmente a mí me importan todo lo que hay. Me importan que les estoy bien y no sé cómo que soy más sensible. Pero ahora no estoy en ese punto, entonces como que no ni por más que me diga las cosas, no sé cómo que no me voy ...
 
-*... and 251 more occurrences*
+*... and 253 more occurrences*
 
 ### Family References (179 occurrences)
 
@@ -978,7 +979,7 @@
 
 *... and 216 more occurrences*
 
-### Loneliness (181 occurrences)
+### Loneliness (183 occurrences)
 
 **PTT-20231127-WA0000.opus** (2023-11-27)
 > ...o pero no sé te voy a presentar más la señora y si realmente te puedo voy señora vibes se sienta si la verdad y tomate de te mirete jujas mi vecina y nadie me dicen nosotros no te quieren así decir si la señora te quieren mejor, como yo le digo mi madre y si le inventé de poo que le guste a tus parejades...
@@ -992,12 +993,12 @@
 **PTT-20231203-WA0041.opus** (2023-12-03)
 > Don't worry, igual puedo hacer en si la ofamise que ya es solo Y eso porque creo que ya quiere que nosotras y le mía más si te hubo un vídeo random, hablando en inglés y hasta no así como una presentación Visten ...
 
-**PTT-20231207-WA0003.opus** (2023-12-07)
-> ...reo le anda hacer eso que hacía a sus cruz a mi rubilias si de que me da la tía tipo, en todo el año no es tierra, pero te han de prejuir y le gustan solo a Faroff pero así de más allá tiempo se estoy me dificultado mucho respirar y tipo, por decir la que siempre tengo la nariz de la que ha hablotle apa...
+**PTT-20231204-WA0067.opus** (2023-12-04)
+> ...o y en los forras y ya vamos a ver que mi no es cura con el milio pero es mucho más, a mí me gusta mucho más ver con alguien si me vuelvo cuando veas solo estire viendo con renio con nix
 
-*... and 176 more occurrences*
+*... and 178 more occurrences*
 
-### Neglect Abandonment (163 occurrences)
+### Neglect Abandonment (166 occurrences)
 
 **PTT-20231127-WA0022.opus** (2023-11-27)
 > ...e está super raro que me se comportaba tipo estaba como que de primero no de primero ni se me sabía ni quiero que era que era ahora y no me dijo pues nada, es de esta poco soy divina, tipo yo sabía que te está raro no le dice que caso porque tipo no no hacemos caso cuando así te hubo que le pasa lo al basulcionar su problema porque no me dice pues entonces no quiere no quiere ni una opinión no quiere saber, no necesitan hablarlo ponerle vera y me dijo yo yo quería entrar a debajo de la tierra y morir pero bueno ya hay el popamá la Japanese legalmente y en fin porque cae titled no le voy a culpar CA...
@@ -1014,7 +1015,7 @@
 **PTT-20231204-WA0057.opus** (2023-12-04)
 > Sí, yo. Pero, si es que esta fría es un loto de fues. Si espejamos la en casa. En ya hay filda, Dios. Mi o son tan hastos los procedidos. Día antes de exame en la información para el ...
 
-*... and 158 more occurrences*
+*... and 161 more occurrences*
 
 ### Offering Help (69 occurrences)
 
@@ -1035,7 +1036,7 @@
 
 *... and 64 more occurrences*
 
-### Physical Affection (321 occurrences)
+### Physical Affection (322 occurrences)
 
 **AUD-20240619-WA0050.opus** (2024-06-19)
 > ¿Se genera a Sonya? ¿Te voy a ver? Sípa. Voy a amo a ver la gente en un contacto y te veo. Si me decía el horario que vas a necesitar y los días entonces para tener en cuenta para decir si.
@@ -1052,7 +1053,7 @@
 **PTT-20231129-WA0025.opus** (2023-11-29)
 > ... de que verme si te la has already metado ah p planner de tenemos un molíal y realmente voy a hablar con Jorge, pero en persona y a Javier me gole la cabeza porque yo ramos los vamos o sea, muchísimas cosas nos dijimos, y bueno, si que es todo bien pero me dijo varias cositas y yo así en el momento lo que...
 
-*... and 316 more occurrences*
+*... and 317 more occurrences*
 
 ### Physical Needs (11 occurrences)
 
@@ -1111,7 +1112,7 @@
 
 *... and 350 more occurrences*
 
-### Sadness Depression (229 occurrences)
+### Sadness Depression (230 occurrences)
 
 **AUD-20240911-WA0028.opus** (2024-09-11)
 > ...a casa, ahí van a leer y a algo y que era su una fiscina, parece también un coberkin spacer, me fui porque había un coberkinxico y fui y quedé con la pena sau rápido, pero esto era siempre monitorezor, psicónght, si le logia un grudito se pester al Cola
@@ -1128,9 +1129,9 @@
 **PTT-20231127-WA0023.opus** (2023-11-27)
 > Emmm... I feel you, tipo... Lit... También me siento maldito, maldísimo, así... Re... Tipo no sé... Tipo promedio de... Fiestas así, ni pute de edad, onda... Mis compañeros de colegio por ahí, ah... Pero......
 
-*... and 224 more occurrences*
+*... and 225 more occurrences*
 
-### Self Deprecation (64 occurrences)
+### Self Deprecation (65 occurrences)
 
 **PTT-20231127-WA0002.opus** (2023-11-27)
 > Opa, buenos días. Sorry por dejarte en visto. Me desperté y tuve reuniones a toda puta y me fui a... a eso. Si, osea, estoy bien. Ayer me estaba tristín después de hablar, p...
@@ -1144,12 +1145,12 @@
 **PTT-20231204-WA0059.opus** (2023-12-04)
 > No Law Annual La Profa en la mesa de la casa Emcejo para tu carrera A broma y no vamos a tener mi vida Un lugar luego o vento Se perdon conwan unos 40 de planas En muchaschetes de enresivo pero igual que se pasa, a mí lo que no me ha estado pero te quiera en el fondo, algo así. Y lo d...
 
-**PTT-20231213-WA0034.opus** (2023-12-13)
-> ¿Cuál es tanto plan de far el futuro? Perdón me quiere girte a Chile, a Aronaga. Y a ver. O no sé, no se puede ver a este desperato futuro. El mio va a ser tan chilio ojalá con el fiesto o como ...
+**PTT-20231213-WA0007.opus** (2023-12-13)
+> Ah, me ya, si... Sorry, que también estoy otra. No me he habido. Era... Ya no se... Nosotros dos tendríamos que tener nuestro extravenida la hora de clase. Y tipo, no sé. Y...
 
-*... and 59 more occurrences*
+*... and 60 more occurrences*
 
-### Self Reflection (92 occurrences)
+### Self Reflection (93 occurrences)
 
 **PTT-20231121-WA0023.opus** (2023-11-21)
 > ...yo pensé que no me iban a más a llamar porque lo que ellos buscaban era un personal químico farmacéutico. O sea, yo sé de química obviamente, pero yo entendía que ellos querían más algo de química formación. Porque tipo todos sus clientes son más de esa onda. Y al final igual si tipo me llaman es porque, o...
@@ -1163,12 +1164,12 @@
 **PTT-20231127-WA0034.opus** (2023-11-27)
 > ...os en la misma página y tipo yo no me de di cuenta porque nunca me dije porque no me de siempre me habla pero ni el tipo sabía como se sentía y ahora entendí que todo el tiempo que el mismo bus cuando estemos días últimos y tipo dos tres semanas es porque el necesitaba como que ayuda de mi tipo me extrañab...
 
-**PTT-20231214-WA0029.opus** (2023-12-14)
-> Tipo solamente porque estaba limpiando mi pieza, me di cuenta lo de tu mouse Porque si no, iba a pasar, bueno por lo menos el fin de semana por ahí recién
+**PTT-20231207-WA0023.opus** (2023-12-07)
+> ... me gusta Si estosывайтесь Un día. Tenés que hacer muchas dositas ahí. Pero, se han macurado muy bien, no si te ha hecho de ver entonces. Te voy a me entendir que era algo en la reunión muy contra eso, un fraj con los compas en donde se se peda vuelvo, ¿sí? Pero, esfera que te diers y aparezcan las equipas...
 
-*... and 87 more occurrences*
+*... and 88 more occurrences*
 
-### Wants Needs Expressed (162 occurrences)
+### Wants Needs Expressed (163 occurrences)
 
 **PTT-20231126-WA0025.opus** (2023-11-26)
 > ...sca Las wills las me revelan más ¿No? sürpese de 360 de voir Santi y se es que yo sigo que esperando para hacer la llamada todavía no tiene tiempo yo quiero que tenemos la llamada y de los no sé este es más por eso ¿qué tal? ¿cómo se lo contó a mí? no me darece en los nidos, no sé ni decir con los cosas ¿sas ...
@@ -1185,7 +1186,7 @@
 **PTT-20231127-WA0022.opus** (2023-11-27)
 > ... las semanas, pues está de última semana como le está super raro que me se comportaba tipo estaba como que de primero no de primero ni se me sabía ni quiero que era que era ahora y no me dijo pues nada, es de esta poco soy divina, tipo yo sabía que te está raro no le dice que caso porque tipo no no hacemos ca...
 
-*... and 157 more occurrences*
+*... and 158 more occurrences*
 
 ---
 
@@ -1212,7 +1213,7 @@
 
 *... and 73 more occurrences*
 
-### Anxiety Fear (153 occurrences)
+### Anxiety Fear (154 occurrences)
 
 **AUD-20231111-WA0001.opus** (2023-11-11)
 > mira, lo de además ya te estresado, y ya te escadep, pita luego hasta el 2 años este en día otra vez la entrada de la tarea, en donde es tipo simple, lo hemos como mañana puedo desp...
@@ -1229,7 +1230,7 @@
 **PTT-20230906-WA0018.opus** (2023-09-06)
 > ... me vengo soy un angel no se nunca me enoje con ellos verdad cuando me voy enojando ya ellos ya se regulan todo porque yo soy de terrible y me tienen miedo entonces como para que si saben que soy un angel bueno no cambien ese modo a angel que tengo perras a y na te juro que asi super loco que todo upa qu...
 
-*... and 148 more occurrences*
+*... and 149 more occurrences*
 
 ### Asking For Help (40 occurrences)
 
@@ -1288,7 +1289,7 @@
 
 *... and 146 more occurrences*
 
-### Conflict Tension (143 occurrences)
+### Conflict Tension (148 occurrences)
 
 **PTT-20230804-WA0013.opus** (2023-08-04)
 > ...tercer huevo en mi oriented pero la palla me pongo failing que sí como yo yo creo que ya me mi manse que era no sé chilia tu bueno me gole nada no me molesta nada no me gole el cuy yo pero eso es desde lunes me salió así oír jueves en mi meníbula me vi esa ¿Por qué wijous? mi te llamas por aquí
@@ -1305,9 +1306,9 @@
 **PTT-20230805-WA0032.opus** (2023-08-05)
 > ...uerte. Me había armado la maca. Era un puta íbabe. Literalmente se fue hasta mi cuello, pero del otro lado, mire si, del lado izquierdo. Pero mi baba se fue hasta mi cuello, del lado derecho. Hija puta, que fuerte. Y... ¿Qué haces, hermano? No sé qué. Adiós.
 
-*... and 138 more occurrences*
+*... and 143 more occurrences*
 
-### Deflection Minimizing (240 occurrences)
+### Deflection Minimizing (241 occurrences)
 
 **PTT-20230801-WA0012.opus** (2023-08-01)
 > ...... 20 minutos, a 40 minutos, dos manos dejando hacia la zona. En ese día ya la. Y girando un poco después de Forty. Pero, fue muy de el trabajo, muy relax. Muy buena, donde todos. Me es más chado vibe. Es más chado por que te ponen los me recuerda que tienes un equipo de la plandinglesa. O no, no sé. Me...
@@ -1324,7 +1325,7 @@
 **PTT-20230804-WA0012.opus** (2023-08-04)
 > y de lo que entendí, parece ser uno de los órganos que se ha busado para hacer un 54 por los volvos y mi hija lo que estaba estaba para un tranquilo en mi podamos hacer un test para si es un virus, ¿cuál es como el que está pasando para ahora? Me voy a hacer lo más, o no, a día, y ver, ya te vas...
 
-*... and 235 more occurrences*
+*... and 236 more occurrences*
 
 ### Family References (52 occurrences)
 
@@ -1364,7 +1365,7 @@
 
 *... and 104 more occurrences*
 
-### Loneliness (175 occurrences)
+### Loneliness (176 occurrences)
 
 **AUD-20231111-WA0001.opus** (2023-11-11)
 > ...e que chuchi, lo vemos, está mucho realmente en la presencia de todo trabajo, todo lo de más, y yo te ayo es más legal, antes tipo y así, puretazo no solo se他 mejor,
@@ -1381,9 +1382,9 @@
 **PTT-20230804-WA0012.opus** (2023-08-04)
 > ...o en mi podamos hacer un test para si es un virus, ¿cuál es como el que está pasando para ahora? Me voy a hacer lo más, o no, a día, y ver, ya te vas solo ¿y se vas a ver? No, es un virus de como... si se vas solo, se regla ella pero así se quedando y ahí era un flad así se quedan hasta el mundo, y ahí ...
 
-*... and 170 more occurrences*
+*... and 171 more occurrences*
 
-### Neglect Abandonment (110 occurrences)
+### Neglect Abandonment (111 occurrences)
 
 **PTT-20230803-WA0043.opus** (2023-08-03)
 > ...echa, pues siempre yo fecha ese ruinés y pasa, se poste, ya se ve, entonces es en adopto, pero literalmente le dice que sí, a mí me prefiero no saber nada, que me hizo así como... ¿Te decías antes? Porque de más y o me genera así que cuando anuncian los días así, pasa algo, ¿qué puta que hay? Entonces por eso... Y s...
@@ -1400,7 +1401,7 @@
 **PTT-20230912-WA0001.opus** (2023-09-12)
 > ...eves. Porque ya le puse mucho la doble prioridad y todavía no sale. Entonces, prioridad es que aprenda a leer. Esa es la otra. Yo sí. Y no me divertí nada porque, tipo, fue lindo porque yo me acuerdo que cuando estaba en jardín, con el primer grado, también me fui a la granja de las delicias. Tipo todo lindo por ese lado, pero ahí como para irme justamente con ellos. Estresante con los niños, muy cansador. Pues estaba con dos niños y más allá está. Total atención a dos niños. El autista, la niña con el VH. Pero de entre todos se logró. Estaba súper cansada, no me allí así al mediodía. Ya volvimos al lado. Le elegí otra vez. ¿Qué va a hacer el clase después de eso? Después ya me fui a... O sea, el dedo está muy cansado. Él ahí se va a su mamá. O sea, al lado se coloca que ya es demasiado que un... Yo no tijera que desde las ocho de la mañana hasta las tres de la tarde. Y él vino a buscarme y con ellos ya me fui ya. Entonces, llegué a casa y me morí hasta el... Ocho para ahí, después me fui a entrenar. Hasta las diez. Después vine y vi dos series con mi papá de Water. Es una buena serie de Bruce Lee. Debe haber una buena de Bruce Lee, muy buena. ¿Y qué se hizo ahora en la serie? Está buenísima, qué puta, qué buena serie. Y después dormí hasta ahora otra vez. Estaba muy cansada. Espero que estés bien. No te ...
 
-*... and 105 more occurrences*
+*... and 106 more occurrences*
 
 ### Offering Help (31 occurrences)
 
@@ -1421,7 +1422,7 @@
 
 *... and 26 more occurrences*
 
-### Physical Affection (228 occurrences)
+### Physical Affection (229 occurrences)
 
 **PTT-20230802-WA0016.opus** (2023-08-02)
 > Hello, yo ahora salgo de trabajo ¿Qué tal tu reunión? Me estoy yendo ahorita hacia casa Me voy a dormir así Cucharita, brazaditos, mimitos Es tan mut, así fuera hola Me encanta, super relax Cuando lo que es mi cuello va a estar bien Pero me encanta, es demasiado nice
@@ -1438,7 +1439,7 @@
 **PTT-20230804-WA0006.opus** (2023-08-04)
 > ...aría Porque así Más temprano Y Después de ese Muro Lo tenemos que hacer Durante el día Si lo quiera hacer Anyways Después Nos dormimos tempranito Con mimitos Algo así Se me ocurrió No sé No sé Voy a decirme Yo Estoy Pero No sé Mimitos Y cariñitos Ay Mm Gracias.
 
-*... and 223 more occurrences*
+*... and 224 more occurrences*
 
 ### Physical Needs (8 occurrences)
 
@@ -1459,7 +1460,7 @@
 
 *... and 3 more occurrences*
 
-### Relationship Negative (103 occurrences)
+### Relationship Negative (104 occurrences)
 
 **PTT-20230801-WA0012.opus** (2023-08-01)
 > ...estado trabajando en estas o ni dos. Pero, le escribieron de Yapara, pero no le he ido a la heor, no lo he comento, no me siento, pero si me lo vas a dejar en eso. Y por lo que se mullit, sí, muy collo. Y me buena, donde tengo un laptop de trabajo ahora también. Ah. De más y opuño. De más y opuño, estoy ...
@@ -1476,9 +1477,12 @@
 **PTT-20230808-WA0001.opus** (2023-08-08)
 > Hello, ¿qué tal estás? Yo ahora por el final me acuesto Terminé así de trabajar, me fui a la facultad y me fui de fue a dejar un despedida de un amigo de Estados Unidos que... ...que se va de vuelta El miércoles a la 1 de la mañana ¿Qué tal te día? Estoy demasiado cótose así...
 
-*... and 98 more occurrences*
+*... and 99 more occurrences*
 
-### Relationship Positive (125 occurrences)
+### Relationship Positive (126 occurrences)
+
+**PTT-20230801-WA0041.opus** (2023-08-01)
+> ...o en esta casa la cámara con lic守 a Iván pésrilo ghost Y ya tranquí pyram ¿ ребás me сосerlya lo clip Hola, hola Naturally,iate. No he tratado un muy feliz... no no quedo un recupero adequate a la ad einen sobre todo este proyecto como cual nos las llamos más. No me compreó así.
 
 **PTT-20230803-WA0043.opus** (2023-08-03)
 > ...ces por eso... Y sí, esto, y si quiero, mi tan necesito... No, no, se me mueve toda la tenerna no. ¿Qué te parece lo mingo? Esto es para mí, mi tosa, te quiero lo mingo y de ahí no me me trajo que me es no sé, a puer mi en mi tosa. Me he sido que he ido aquí, yo. Y a ver así, toí, esa cosa. Ah, sí, es un síl...
@@ -1492,12 +1496,9 @@
 **PTT-20230805-WA0033.opus** (2023-08-05)
 > ...emplo, quiere que piense que ya... O sea, que no existe. ¿Estamos? ¿Estamos así? Estábamos corriendo así, y tal. Y caminábamos muchísimo, buscando... Lindo, y acasando plantas, ¿verdad? Aparecíamos así buscando Pokémon para lo real, y había Pokémon en las plantas para él hacer. Y ahora que puse el camino...
 
-**PTT-20230806-WA0005.opus** (2023-08-06)
-> Man estoy hecho un puto, muchísimo, me encanta esto de hacer mi round, que te queda dar nice Ah mañana no necesito de limitos Te quiero la merda, te quiero la merda Man estoy hecho vergüísimo ahora Ya me hace un... Me encanta Te quiero la merda, te quiero la merda, nooo se cayó mi cel...
+*... and 121 more occurrences*
 
-*... and 120 more occurrences*
-
-### Sadness Depression (194 occurrences)
+### Sadness Depression (197 occurrences)
 
 **PTT-20230804-WA0006.opus** (2023-08-04)
 > ...s y domingo Uff El resto de viernes y domingo Ay que puta con tal Todo sea por mimitos Dormir juntos Muchos mimitos Mucho cariño Y El resto El sábado No puedo Porque Mi mejor amigo Tiene una fiesta Quiero ser DJ O sea Su fiesta de K-pop Y esas cosas Le contaron a un DJ Y como nadie se va a ver Qué pido le v...
@@ -1514,7 +1515,7 @@
 **PTT-20230907-WA0003.opus** (2023-09-07)
 > ...o Para que el nene rompe bola era Pero Traya Que moth que arde de dormir así Yo pongo mi audio libro Escucho dos minutos y ZZZ Nada no me acuerdo Así no puedo leer mis libros Pero me hacía peor Mañana vení entonces A donde la sitio Voy a ver para Para tener algo nice Para comer eso Don't worry, tráelo en se...
 
-*... and 189 more occurrences*
+*... and 192 more occurrences*
 
 ### Self Deprecation (90 occurrences)
 
@@ -1535,7 +1536,7 @@
 
 *... and 85 more occurrences*
 
-### Self Reflection (69 occurrences)
+### Self Reflection (70 occurrences)
 
 **PTT-20230802-WA0035.opus** (2023-08-02)
 > ... yo no soy muy sociable. Y la gente, bueno, tipo pico meñera, tipo son así como que, no sé, redistantes y como que tales con un palito, ¿entendés? Yo siempre hago todo solo, la verdad. Y me quedé colgada pensando en eso. Y de repente así veo, estoy en el centro. ¡Hijo de puta! ¿Verdad qué? Y dije, chaval, ¿qué ...
@@ -1552,9 +1553,9 @@
 **PTT-20230811-WA0002.opus** (2023-08-11)
 > Hello, buenos días, ahora voy a ver a Club Enfermitos es verdad que te mejoras todo bien para tu competencia y eso pero mañana no entendí muy bien como es el plan lo ideal es mañana a las 7 en lo de mis viejos hasta que se abra la gente o sea hoy a las 7 en lo de mis viejos hasta que se...
 
-*... and 64 more occurrences*
+*... and 65 more occurrences*
 
-### Wants Needs Expressed (121 occurrences)
+### Wants Needs Expressed (124 occurrences)
 
 **PTT-20230804-WA0006.opus** (2023-08-04)
 > ... que puta con tal Todo sea por mimitos Dormir juntos Muchos mimitos Mucho cariño Y El resto El sábado No puedo Porque Mi mejor amigo Tiene una fiesta Quiero ser DJ O sea Su fiesta de K-pop Y esas cosas Le contaron a un DJ Y como nadie se va a ver Qué pido le voy a dejar El mejor amigo Que literalmente Soy su ...
@@ -1571,7 +1572,7 @@
 **PTT-20230811-WA0002.opus** (2023-08-11)
 > ... como se va el domingo entonces decíamos a la otra despedida pero con todos los compañeros porque hay mas y otra que son demasiadas veces yo sí, pero me encantaría venga sí, mi mitos, restira y realmente quiero invitar a todos
 
-*... and 116 more occurrences*
+*... and 119 more occurrences*
 
 ---
 
@@ -1631,7 +1632,7 @@
 **PTT-20251205-WA0002.opus** (2025-12-05)
 > y más todavía necesito que me agarran porque Leo pues me va a pedir en dos semanas porque me va a pedir casamiento y él me va a dar anillo de compromiso y viste que cuando vos ...
 
-### Care Giving (15 occurrences)
+### Care Giving (17 occurrences)
 
 **PTT-20230801-WA0008.opus** (2023-08-01)
 > ...o después yo me fui de viaje y después cuando yo estaba, tipo, llegando y faltaba dos o tres días para que yo llegue y me dijo eeeh... cuando llegues te quiero invitar en un hotel para que descanses de tu viaje y pases y pasemos juntos, ¿verdad? en un hotel re lindo detrás del pasado de la galería, ¿verdad? ...
@@ -1648,9 +1649,12 @@
 **PTT-20250807-WA0010.opus** (2025-08-07)
 > ...ola el disco cantó Si es tipo Pegas y para un grato para los guías Y así a romper Y así Def me parece mejor gasto Bueno, es una buena clase de masaje Para vos y de masaje a todas las veces que quedan masaje Me para el asio un cuadernito de Terasi un tiquetivo le dan a masaje dos O no sé mi grande eso Retill...
 
-*... and 10 more occurrences*
+*... and 12 more occurrences*
 
-### Care Receiving (59 occurrences)
+### Care Receiving (62 occurrences)
+
+**PTT-20230815-WA0003.opus** (2023-08-15)
+> ...que se reparon estoy jugando Baldur's Gate, es un juego, tipo de años son dragons pero no con puta hora, que de verdad esta no se va bien, que yo, no me hace abonando la historia me encanta Carlos Bueno, para él ya no me toca Youtuber niendo te mana un poco ranked por mi al entretenir 시럽 Canal A mí me Betw...
 
 **PTT-20231207-WA0040.opus** (2023-12-07)
 > que si quieres saber miro perforar, o te quedes? bueno no se cuando deshado pero deshado que viene miro perforar pero me hace una orgullita no más de mi oreja tengo miedo de... desde mi lo pezone pero es el plan me quiero hacer lo pezone no se cuando ni como? porque tengo mi...
@@ -1661,15 +1665,12 @@
 **PTT-20240820-WA0001.opus** (2024-08-20)
 > ... yo, sino que tipo veo que es de repente la hace sufrir eso, pero se lozo de que me maltraza y todas las cosas no, ya y por suerte es muy bueno, tipo me traen.
 
-**PTT-20240902-WA0035.opus** (2024-09-02)
-> Le preguntan que aún compa también que está también acá que es la blico de me hace poco a momento en mi y también dice que anda hasta una nueva motivación. O sea, en mi experiencia es cosas relevantes, tipo igual si para vas me ir r...
+**PTT-20240828-WA0009.opus** (2024-08-28)
+> ...n una orgulla Riches la minutos luego Logo yo en el Türkiyeuster De以上 del Dr. Cassocin llega a changed y vendieron en los foto Tome pero er человек Y gracias
 
-**PTT-20240902-WA0037.opus** (2024-09-02)
-> ...t mi gabrio. Hay puse que más me le indió una triple voluntaria de la restauración de un converter. 6000 ossas. Albole con el cejo de sal ­93% Muchas gracias a mí. Y ayer antes, Caitlin márdalosta del Trail del César Barn S actuando unandomo
+*... and 57 more occurrences*
 
-*... and 54 more occurrences*
-
-### Conflict Tension (68 occurrences)
+### Conflict Tension (70 occurrences)
 
 **PTT-20230801-WA0008.opus** (2023-08-01)
 > ...lo que yo quería de hecho todos los días anteriores también yo ni llevaba mi billetera él me compraba todo lo que yo quería después en el hotel em... me dejaba elegir lo que yo quería a la carta la mañana nueva y eso es normalmente preferably en gran número de mes primero nos fuimos luego down la parsón t...
@@ -1686,7 +1687,7 @@
 **PTT-20241104-WA0020.opus** (2024-11-04)
 > ...tenéis que dirigir que el potón de atrás te lleve la tráz. El potón de Submitear, tira hacer Submite y se guarda los datos. Y si no anda, no la estoy problema. De ese programa, el desarrayador. Ah, que sí este mal. Y el está a la futa madre. Ah, ese que más hay llora y o no, mi día de lines y vos estás a ir...
 
-*... and 63 more occurrences*
+*... and 65 more occurrences*
 
 ### Deflection Minimizing (132 occurrences)
 
@@ -1707,7 +1708,7 @@
 
 *... and 127 more occurrences*
 
-### Family References (37 occurrences)
+### Family References (39 occurrences)
 
 **PTT-20230812-WA0008.opus** (2023-08-12)
 > a la familia Frankitava y lo que fermo he transportationado ya que las nas pero que puto no es habado usted computer que pasa hacerlos settlement así que entran N...
@@ -1724,7 +1725,7 @@
 **PTT-20250731-WA0083.opus** (2025-07-31)
 > ... o semestre. Y van yo no sé nada. No sé nada, impresionante de tipo cosas y respecifica de la carrera. Bueno, pero... bueno, los me dajo el le paso a mi papá algo y después te sigo haciendo una hora.
 
-*... and 32 more occurrences*
+*... and 34 more occurrences*
 
 ### Illness Medical (37 occurrences)
 
@@ -1745,7 +1746,7 @@
 
 *... and 32 more occurrences*
 
-### Loneliness (90 occurrences)
+### Loneliness (91 occurrences)
 
 **PTT-20230801-WA0024.opus** (2023-08-01)
 > ...nco ish. Y capaz sea a los amierarios libertades de nueve a 18, pero capaz tomó de siete a cuatro. No creo que era, de cita cinco. Y después de... Me extraño universidades, pues de eso. Y a los abazos algunos días, a lo menos de más excelente, en base de clases y caminizos. Pero, pero ya... Tipo miro, ¿a ...
@@ -1762,7 +1763,7 @@
 **PTT-20240818-WA0008.opus** (2024-08-18)
 > ...po no sé dinero de para voy para mi dinero de monopoli no valen nada y tipo de contacto de eso es tipo litcon si estificado que pierna hace tres días nadie más en el preso consiguió si digo que quedó un proyecto por este evento con el Banco con alguien si que pierna y también tipo hasta el otro día como ...
 
-*... and 85 more occurrences*
+*... and 86 more occurrences*
 
 ### Neglect Abandonment (33 occurrences)
 
@@ -1802,10 +1803,16 @@
 
 *... and 11 more occurrences*
 
-### Physical Affection (101 occurrences)
+### Physical Affection (106 occurrences)
+
+**PTT-20230801-WA0006.opus** (2023-08-01)
+> ...amigo que le veje a alir! ¡Ay, y va a no estar en que todo le tengo un tercer año no te había comentado lo antes porque yo pensé que su sedía todo mi cabeza no me lo había cuando se te puse pensé que yo no me has pensado y como no voy a empezar a contar lo que yo no se veen, ahora ya se vea yo era que hag...
 
 **PTT-20230801-WA0008.opus** (2023-08-01)
 > ...ba dos o tres días para que yo llegue y me dijo eeeh... cuando llegues te quiero invitar en un hotel para que descanses de tu viaje y pases y pasemos juntos, ¿verdad? en un hotel re lindo detrás del pasado de la galería, ¿verdad? y ahí lo que yo te dije que estaba con él y que no te podía hablar todavía n...
+
+**PTT-20231207-WA0037.opus** (2023-12-07)
+> ... Dios mi�pe解iño? Voy a mantener US молendo El sal de KL 30, bagore sixth ions que orcadora de laадно por su hola ahora幾 cactus a estas por casas de 5 pelo de 5 dearonos pasaje y de brownie Fue��mца y me�
 
 **PTT-20240818-WA0008.opus** (2024-08-18)
 > si me interesa, te voy a hacer un flash con texto porque en mi opinión deberían de poder pagarme así tipo de contacto mis directoras y espalros estoy tentando atentar pero para mi 70 sigue siendo poco tipo no sé dinero de para voy para mi dinero de monopoli no valen ...
@@ -1813,13 +1820,7 @@
 **PTT-20240818-WA0008.opus** (2024-08-18)
 > ... y espalros estoy tentando atentar pero para mi 70 sigue siendo poco tipo no sé dinero de para voy para mi dinero de monopoli no valen nada y tipo de contacto de eso es tipo litcon si estificado que pierna hace tres días nadie más en el preso consiguió si digo que quedó un proyecto por este evento con el Ba...
 
-**PTT-20240819-WA0026.opus** (2024-08-19)
-> ... él y que todos los camo hiciera el día y después qué tú pueda tener con una forma. No me han creado tu nombre, es que en bien. Quivo ayer tenemos un beso en largo, se va a venir en la pagina, que se hace cualquier país y se también, en definitiva por el siguiente momento, que se pueda conectar bien a B...
-
-**PTT-20240820-WA0013.opus** (2024-08-20)
-> ...ue contar así, yo que sé, cuántas de cierta parte de esta creciendo en el vídeo este y una foto y le cuento si lo has en cuenta. Con lo íbimos claros juntos, pero es un flaco de la mavaxorilla, tipo, tiene un apartamento que está acá cerca, pero si la pasta dorme no se aparta aumentadora, en el que alguie...
-
-*... and 96 more occurrences*
+*... and 101 more occurrences*
 
 ### Physical Needs (7 occurrences)
 
@@ -1859,7 +1860,7 @@
 
 *... and 35 more occurrences*
 
-### Relationship Positive (64 occurrences)
+### Relationship Positive (66 occurrences)
 
 **PTT-20230801-WA0008.opus** (2023-08-01)
 > ...o después yo me fui de viaje y después cuando yo estaba, tipo, llegando y faltaba dos o tres días para que yo llegue y me dijo eeeh... cuando llegues te quiero invitar en un hotel para que descanses de tu viaje y pases y pasemos juntos, ¿verdad? en un hotel re lindo detrás del pasado de la galería, ¿verdad? ...
@@ -1876,9 +1877,9 @@
 **PTT-20240819-WA0050.opus** (2024-08-19)
 > ...ue te podes hacer tanto, me encantan todo, que le avisarte, si es que te tienes que hacer, te podes penalizar, si te podes pensar en mi hijo, y saber mejor momento, para decirte cualquier gracicia. Porque, cuando desharte, me la cosa no va a pasar, te podes ir a onda eso. Y este te apúrete, me colucionó, un día,...
 
-*... and 59 more occurrences*
+*... and 61 more occurrences*
 
-### Sadness Depression (66 occurrences)
+### Sadness Depression (67 occurrences)
 
 **PTT-20230801-WA0007.opus** (2023-08-01)
 > ...xplicaba tipo, a mi me miraba, me explicaba. Y después cuando te miró toda la examenía de más, yo le me hizo el sitio, antes que te miraba, examen la pena de cuando era ya primera final y le hizo el sitio en Facebook para que se me miró. Y después, cuando era el primero, yo me miró toda la única señal q...
@@ -1895,7 +1896,7 @@
 **PTT-20250731-WA0089.opus** (2025-07-31)
 > ...o la panza plana tengo un lindo molde tengo buena cintura osea tampoco es como para que un tipo me vea y se le baje dije yo verdad y yo le dije me re bajonea que porque le llego a pasar mas ocasiones que tipo de repente se le bajaba y el me dijo que que eran los nervios que el demasiado osea que por mi ed...
 
-*... and 61 more occurrences*
+*... and 62 more occurrences*
 
 ### Self Deprecation (11 occurrences)
 
@@ -1953,5 +1954,386 @@
 > ...te caliento yo no quiero estar contigo yo quiero estar con alguien que yo le caliente yo no quiero estar con alguien que yo no le caliento osea yo no quiero que estes conmigo porque no encontraste otra opcion porque ya estas mayor y nomas le dije osea no es como mayor verdad? pero le dije que yo no quiero est...
 
 *... and 25 more occurrences*
+
+---
+
+## _wa_ptt_bulk
+
+**Date Range:** 2024-03-14 to 2026-01-19
+
+### Anger Frustration (19 occurrences)
+
+**PTT-20240629-WA0023.opus** (2024-06-29)
+> .... Ya es el sur que hay a todos, eurogots, puré, te. Ya pica la fútbol, tengo que hablar contra el jefe, no poní entenderte. Y no me hijas, está de lo caliente. O sea, en... Sin embargo, el ligerón, usas a un fútbol gente cheta, pero gente cheta, me paga para mí. pero mód, por fin, con los urogots es capaz d...
+
+**PTT-20250330-WA0007.opus** (2025-03-30)
+> ...a un hundio ¿qué tipo usted mirando por tu pantalla y a vos? y cuando miras de costado te dicen, mira de la pantalla por favor si todo el juego están cansados por el que no miras la costado y cosas donde eso tipo si estás cansado, para que mirar en frente y cerrar tus ojos y mirar de ser hasta el web, cerr...
+
+**PTT-20250330-WA0007.opus** (2025-03-30)
+> ...ras de costado te dicen, mira de la pantalla por favor si todo el juego están cansados por el que no miras la costado y cosas donde eso tipo si estás cansado, para que mirar en frente y cerrar tus ojos y mirar de ser hasta el web, cerrar tus ojos y hasta que te escansen y después habrá que ir no estás mira...
+
+**PTT-20250729-WA0040.opus** (2025-07-29)
+> ...? Tipo, si tuvo también un año de mierda y muchas cosas pasaron. eso va más en los fitados, no sé qué nos es juzga, pero lo entiendo que es tipo así, cansada y estresada a veces por eso y mucho, mucho estrámite que se también es ver interior o flas, tiene 27, está terminando de la creerada y química, estab...
+
+**PTT-20250729-WA0040.opus** (2025-07-29)
+> ...ndome y hace el día que por el golpeamos y me adoramos con todos, con besos y todo eso y con los abrazados y ahí sirve más abrazados y me sentí súper caliente y querido pero donde eso me hubiera gustado dos días antes me necesitas explicar por lo tipo, esta va a ser real enfermo y nos rompimos por eso porqu...
+
+*... and 14 more occurrences*
+
+### Anxiety Fear (43 occurrences)
+
+**PTT-20240819-WA0021.opus** (2024-08-19)
+> ...ntras estoy haciendo y fumó por generalmente ahora eso mientras hablo con aledo me va a hacer igual no, no, no, yo rucho así, hacía no esta cosita de miedo
+
+**PTT-20250419-WA0005.opus** (2025-04-19)
+> ...l, entiendas a la toda la empresa, primero en un distancia que puedas. Yo soy un nuevo de cosas de terror, rip, horror porn, o una, mira, menos me da miedo, que a veces tengo piti, es dile, ven, no me y cuantas te parecen. Te cape en medio de skipso con muchas piloras. Flashback que me hizo trabajo, pues...
+
+**PTT-20250729-WA0040.opus** (2025-07-29)
+> ... tuvo también un año de mierda y muchas cosas pasaron. eso va más en los fitados, no sé qué nos es juzga, pero lo entiendo que es tipo así, cansada y estresada a veces por eso y mucho, mucho estrámite que se también es ver interior o flas, tiene 27, está terminando de la creerada y química, estaba viendo ...
+
+**PTT-20250729-WA0043.opus** (2025-07-29)
+> ... que entro en mitad de casa, porque tipo no sé, mi vieja nunca me escuchaba, mi vieja es siempre de mandar y de comandar y decir el como temefacer Te preocupes, en serio siento que el día me extrao mitos, de ellos se me refresaron ahí sentimos todo así, y me acababa.
+
+**PTT-20250730-WA0008.opus** (2025-07-30)
+> ...ue me hubo le está cosa de X me va a retar o me va a putar y se siente el bat y no me estoy tirado no me estoy de estar no osea de vez que no me hace miedo de miedo yo tengo todo el frío miedo Bigosphere, por el bondrismo.
+
+*... and 38 more occurrences*
+
+### Asking For Help (30 occurrences)
+
+**PTT-20240629-WA0045.opus** (2024-06-29)
+> ...en 1500 y eso pero la gente vivía como el culo Voy a mostrar a cualquier persona el pasado, lo que hay ahora mismo y va a estar hija de puta de amor, por favor no me voy a volver
+
+**PTT-20250330-WA0007.opus** (2025-03-30)
+> ...mientras estás rendiendo te vigila un hundio ¿qué tipo usted mirando por tu pantalla y a vos? y cuando miras de costado te dicen, mira de la pantalla por favor si todo el juego están cansados por el que no miras la costado y cosas donde eso tipo si estás cansado, para que mirar en frente y cerrar tus ojos y ...
+
+**PTT-20250409-WA0011.opus** (2025-04-09)
+> ...gente certificada afuera porque en la tanmosa considera gente con certificaciones en mi opinión si te va a lecistigo y si te cube quiero trabajar acá por favor la blanjena en inglés con flas te van a decir jodita y si pasas lecite cube si o si que puede pasar eso, sabéis entre vista de mierda tipo no se tan ...
+
+**PTT-20250729-WA0047.opus** (2025-07-29)
+> ...la puta. Y sormía de este puta acta así, me voy a volatinar, 3 de zapato y eso, un flamado de rota. Yo me llamo en el Refincionitis Play de nuevo la, por favor atención. En el volégeno era tan facbueo y por que crea una atención de nuevo la por favor y me sentía venir las razones en mi mito. Y también ahora,...
+
+**PTT-20250729-WA0047.opus** (2025-07-29)
+> ...de rota. Yo me llamo en el Refincionitis Play de nuevo la, por favor atención. En el volégeno era tan facbueo y por que crea una atención de nuevo la por favor y me sentía venir las razones en mi mito. Y también ahora, pero no te vas a ver. Tiene que ser facbueo y por que te voy a vacionar la open. y hacemos...
+
+*... and 25 more occurrences*
+
+### Care Giving (24 occurrences)
+
+**PTT-20240629-WA0059.opus** (2024-06-29)
+> me voy a entrar en el truco, si me voy a ver lo que sepa, la gente que era mucha, pero si te damos, si me fue a esta edad y todo en el tipo, te quiero mucho, onda, me cae, si en el tipo no sé, pues a ver, ¿puedes estar más simple de que ir a la gente? pero cuando le digo, me dejó no me tiene así, me...
+
+**PTT-20240824-WA0006.opus** (2024-08-24)
+> No te estoy jinatirando la onda, te habizo esos, soy mi cariño, soy lo más, ahora que soy más frito, eso...
+
+**PTT-20250402-WA0046.opus** (2025-04-02)
+> Si no, si la buscena que leer para ti por la teoría, pero mi proquipa es sencillo, es hacer lo examen en el nomás. Así te da una idea de que parte del si la buscena es que hay actualidad....
+
+**PTT-20250716-WA0055.opus** (2025-07-16)
+> ...da que pisa, diga me tiene que ir a mi nios que onda De me haré estimado más que ya basta ya Pero no sé Es difícil Además, no puso Pisa que puedo ser si necesito
+
+**PTT-20250731-WA0087.opus** (2025-07-31)
+> Puede que el conflale así es que te llevo a los slum y el fluida suxit ambiar el dinero a ver pero lo impronda.
+
+*... and 19 more occurrences*
+
+### Care Receiving (125 occurrences)
+
+**PTT-20240314-WA0022.opus** (2024-03-14)
+> ...tan si estené la círcula sin prácticas, la la la la no tengo ni idea que john enbome pero aquí le quiere no tripeje demasiado pero de acuerdo, es que para mí es una muy moja me quedo para llegar a tripear mal y me contase de experiencia y estoy onda ¿Qué chile? no sé, yo cuando estoy de demasiado tripeado ...
+
+**PTT-20240320-WA0001.opus** (2024-03-20)
+> ...o de ver tipo yo aprendí a una contagiación en guitarra con ese estoy chile y siempre avisaron la flour, daris guran a for mi. No, la mejor inversión para mí es tirar en dinero, hacerte bien fue quinceto y estar chileando todo el día de juez. No sé que hagas más objetivo en el imagen cuando asintimiento. Y...
+
+**PTT-20240321-WA0004.opus** (2024-03-21)
+> ...esto usó así gulden si es verdad pero igual alguna cosita hay que corregir verdad para que sea perfecto cual es lo que es eso por eso está tratando y gracias por los consejos chen serios me van a servir mucho sabéis ponerle práctica un sal de lo que yo se me digo lo soy medio raro como es decir Es como muy...
+
+**PTT-20240321-WA0004.opus** (2024-03-21)
+> ...oner en práctica, voy a ver qué hago y así, pero tiende como hablo, por si no si pues estoy en retrasado que valga así pero bueno la verdad que digo, gracias y van
+
+**PTT-20240413-WA0006.opus** (2024-04-13)
+> y no sé, para mí es normal de mentaliar, para el paraboyo típico de, ah no, no me va a salir luego mi pobre yo, es posible demasiado difícil es conseguir un trabajo r...
+
+*... and 120 more occurrences*
+
+### Conflict Tension (111 occurrences)
+
+**PTT-20240321-WA0004.opus** (2024-03-21)
+> ...toy haciendo todo eso. O sea, a tu manera. Y eso, ¿qué tal estás? Es como la lluvia está muy fuerte y no sé, quería saber si estás bien y todo eso. y se fue la luga acá, tipo jazos, tipo no puedo trabajar, no puedo hacer nada a eso y estoy con mi cruzillista y con mis socios estamos hablando normal acá no...
+
+**PTT-20240629-WA0009.opus** (2024-06-29)
+> ...novoz se han tome con el futuro. Tener vosotros, un registro de mi nifro vos no más mueren el vos al lugar correcto. Jodita. Y así con cualquier otra problema. Tener, es que dentro de cuerpo mi nirro vosotros que están en la infogida de soltrucción que futa.
+
+**PTT-20240629-WA0023.opus** (2024-06-29)
+> ...online con exámenes, hay gratis, por antianta o sea para mirar como ver, y el trabajo es chilaz, un carajo no hago, y se genera un proyecto, no es tu problema, leces, el de vizoma, no te la pucar, espero no, porque estaba mal, sino porque la gente no le da a cabeza paten de ver cosas a profunda, entonces se...
+
+**PTT-20240629-WA0023.opus** (2024-06-29)
+> ... Sin embargo, el ligerón, usas a un fútbol gente cheta, pero gente cheta, me paga para mí. pero mód, por fin, con los urogots es capaz de ir la tamo, se fuera a bala, mira lo que y ese tuco de tener el cielo a bojo online con exámenes, hay gratis, por antianta o sea para mirar como ver, y el trabajo es ch...
+
+**PTT-20240629-WA0025.opus** (2024-06-29)
+> ...mierda que pienso tu único output es sobre ti y vean en un frazo de mi, en un... pero así te daré una que está flotando lo más así de onda por qué el problema que existe ahí no es correo y li problem, vale? es fucking verga a decir otra vez, toda la que la accesión hace para la calle en espacios infinitas e...
+
+*... and 106 more occurrences*
+
+### Deflection Minimizing (179 occurrences)
+
+**PTT-20240629-WA0011.opus** (2024-06-29)
+> No, no, tranquilo, pero... ...es un desconvado del post para ayudar a la Poyerle. Pero, tiene que también no en los contensan antes, son de mí. Era profesora y vario...
+
+**PTT-20240629-WA0039.opus** (2024-06-29)
+> ... person, gente que está muy normal, muy normal, me te da mucho otro meterle realmente, solo he tuve un otro más y me rees una espereza y yo puedo ver todo bien así, se lo yo recono y te lo mejora, yo creo que depende de la persona, de la persona de la candela, como va a ser, gente que viene así, luego eres r...
+
+**PTT-20240629-WA0040.opus** (2024-06-29)
+> aquí hay que ir también a decirse trata no sé para mi es tipo le dan más fiel lo tienen una relación chill open-ish bien suinger porque el trataya fue es no sé si no sale te dejaba bastante más aquí de después pero ojalá ya vienen su versión con el persona...
+
+**PTT-20240629-WA0044.opus** (2024-06-29)
+> ...omputaba ahora, así que le pongo a enseñar un flashback o suistifica todo, aplicando empresas y lo dovenamos si no cremen un Dice de estamos viajando relax. Pero, no sé, no pido nada más dar que iba a hacer así, entonces estaba andando. Paso. ¿Dónde son los más de fijo? Si es que si estaba andando, ya hu...
+
+**PTT-20240629-WA0045.opus** (2024-06-29)
+> ...ne a los finales y después de eso te voy a traer un break Pero ya estoy relativamente chile, tengo una materia de ensalomas Ah, fortes, este y lo más todo bien que sea De forma a la reunión, yo resto que no, estoy chile o yo estoy chile mañana Es que llegaron a la aula en quince no sé, tengo lo más bueno de ...
+
+*... and 174 more occurrences*
+
+### Family References (61 occurrences)
+
+**PTT-20240413-WA0006.opus** (2024-04-13)
+> ...ya a la foto, si es que va a estar cansando el trabajo que no hace conseguir, no hace lo que os iré, un primer trabajo no sé si cuanta, pero era para mi viejo, era el Welfare Home, pero porque está a mi home y después el pandemia se hizo full remoto para todos los trabajadores, los compañeros trabajaban y a...
+
+**PTT-20240629-WA0038.opus** (2024-06-29)
+> ...la seguirrando hasta instaurar. Sí, ahora aquí estenieron unos con dos hichos, pero era muy cute, bueno, ¿eh? ¿Dejí? No, ella muy bien, era muy cute, mi madre estaría así de cute, pero... Muchos hichos. O más estaba en un buchito, muy comentó que tipo era ni juputa, pero no tenía ningún contexto ni nada, ¿d...
+
+**PTT-20240923-WA0027.opus** (2024-09-23)
+> Yo con mis padres o que, chill, o sea... No sé, no les hablo casi... Con Jon, la onda es tipo... Lo mismo, onda que tendrás que un compañero de trabajo por ahí Y con s...
+
+**PTT-20240923-WA0027.opus** (2024-09-23)
+> ...ro tú dejes esa Y yo estoy bastante... yo soy bastante propa de la estina y estaba bastante projudidos y yo jaja capé no pero no son meditulación con mis padres estos preguntas que las he de hacer es una chica y quedas aquí
+
+**PTT-20250419-WA0005.opus** (2025-04-19)
+> ...agar más y le mandé eso y... hay negocios por 30 y me dieron que eran 14, más que te podamos dar y yo tranqui. Quiero poder ser chilo, voy a llevar a mis padres, pero bueno se te dejé lo que dijiste, si buscando igual más trabajo, voy a aplicar, sí, tipo, si ya tenéis 17 cubetas, entiendas a los metrames, ent...
+
+*... and 56 more occurrences*
+
+### Illness Medical (25 occurrences)
+
+**PTT-20240314-WA0022.opus** (2024-03-14)
+> ... mucho, tipo yo niero que le meto de res por rito y alcohol. A ungo me estaría para probar, pero probablemente no tengo cuarenta por ahí. No sé si me enfermo de algo, estoy extreminando así, le haría yo. pero me quedo con las plantitas desde Trina le importan si estené la círcula sin prácticas, la la la l...
+
+**PTT-20240629-WA0009.opus** (2024-06-29)
+> no la suma más tal ya tipo el lo que ella tiene en el chico un automesa estaba manejando ella mucho y por esa tachuputa hay enfermedad y lo que se tiene que ver con eso a pesar de que puse la por ser algo en el que me puse la medicina lo mejor que se hace es como gente de info es...
+
+**PTT-20240629-WA0011.opus** (2024-06-29)
+> ...tiene que también no en los contensan antes, son de mí. Era profesora y varios de esos algunos se están llevados a la mano. Def, sin escribir y no de remedios, no lo hacen muy un tipo de donan. Y después, así, creo que le más consumé y que le ento que se tomando aquí. Unigur, sí. Fuerzas con tus medos... ....
+
+**PTT-20240629-WA0045.opus** (2024-06-29)
+> ...n robo si que es de posibilista por lo menos efectos y pros y contra la clave es forria, la sociedad, moderna, es antinatural y una sola violencia de enferma una bomber tenía razón no sé que una bomber me dice fue un bomber pero ahora le conoce solo que menos destructivo o sea, yo era artificial también p...
+
+**PTT-20240629-WA0046.opus** (2024-06-29)
+> ...fuera tipo así si te interesa trabajar tipo así estoy así con texto de mi último mes terminó un proyecto para dar Norway de un dispositivo para salud médica de mujeres terminó el proyecto Onda junio Is por ahí no nos junio el a inicios de junio por ahí terminó y hasta ahora todavía no hay un culo o sea e...
+
+*... and 20 more occurrences*
+
+### Loneliness (103 occurrences)
+
+**PTT-20240315-WA0004.opus** (2024-03-15)
+> ... tener poderos. Sí, sí. Pero de vuelta. No hay igual tener poder o no porque de vuelta a esta gente para wine. Por más poder que tengas bajas, no hay nadie entre sermos. Y bueno, que en todas partes, Canadáes y le galmenle para discriminación hacia gente latina, las negras. Y por este primero empezó a ve...
+
+**PTT-20240629-WA0028.opus** (2024-06-29)
+> ...Tener que soy mi hermana, que es la gente de estúpida. ¿Qué hace probo? Que yo tenga hierro y vos tenos que estar a vos no más afecta. Para la afecta nadie más. O sea que todos decisiones son hierras puta. Para aquí mirar, van las gente como más la gente, ¿qué tengo? Interverís. Pero si eres en Ojar, mir...
+
+**PTT-20240629-WA0039.opus** (2024-06-29)
+> ...e no tengo nadie, tengo que estar tipo más inginiubing objected person, gente que está muy normal, muy normal, me te da mucho otro meterle realmente, solo he tuve un otro más y me rees una espereza y yo puedo ver todo bien así, se lo yo recono y te lo mejora, yo creo que depende de la persona, de la per...
+
+**PTT-20240629-WA0039.opus** (2024-06-29)
+> ...o me voy a ir más con gente que no hace ni ingeniería, mínimo tengo que ser otaku hich, pero de este video te cuata de emparejarlo en el que no tengo nadie, tengo que estar tipo más inginiubing objected person, gente que está muy normal, muy normal, me te da mucho otro meterle realmente, solo he tuve un ...
+
+**PTT-20240629-WA0044.opus** (2024-06-29)
+> ...ba a estar andando uf legalmente, pero... Ajá, ese. Nos fueron a través de la chifba. ¿Qué quede la gente? ni de como se la ni la chifa no le conozco nadie esa es que eso es lo que quiero mucho, pero me agraíte y me estoy centro realmente esa es que no sé tan lo mejor ni por la tomar viejo te hace más re...
+
+*... and 98 more occurrences*
+
+### Neglect Abandonment (58 occurrences)
+
+**PTT-20240629-WA0032.opus** (2024-06-29)
+> Ejí no sé, en el piñón, una que sé que ella va a que religión es ignorable y estúpido, porque si sus fuentes es, me dijo, un serémique a esa, se la comé. Pero no sé, ¿qué piensan lo que quieran pensar? Ella tiene una bas...
+
+**PTT-20240629-WA0038.opus** (2024-06-29)
+> La verdad es que la gente se le dio la calle, como son como a Pago en diciembre, puedo entenderse La gente tiene que estar por nada, les choco como a fin gente que les importa Es que los homenos son como fondizantes, a la gente mira con un vaso Imaginar que la tierra es un petro y el homenos son bacterios Para que me plaga por ahí son para la planeta La gente se considera de fondizantes Te muestro. Y fue por aquí para ella seguirrando hasta instaurar. Sí, ahora aquí estenieron unos con dos hichos, pero era muy cute, bueno, ¿eh? ¿Dejí? No, ella muy bien, era muy cute, mi madre estaría así de cute, pero... Muchos hichos. O más estaba en un buchito, muy comentó que tipo era ni juputa, pero no tenía ningún contexto ni nada, ¿dejí? Sí, en el colegio lo hayan perdido, ni la que te hizo. Lleguen lo que se llama también, no me mandáis, pero con vio de verdad están mejorando. Y yo con lo mejora. Espero que despechad bien. Es decir, lo ...
+
+**PTT-20240629-WA0051.opus** (2024-06-29)
+> ...reticadas a los ejercicios de los exámenes y tengo la experiencia en lo que es tipo de negras que es mi ingresa estudiar y me estoy algo super rondo, no entiendo nada, tipo no me estoy agregando. Entonces, tipo lo que yo le hice fue un de esos tipos. Estoy en un área, obviamente me les ha dado la parte de mi ...
+
+**PTT-20240824-WA0011.opus** (2024-08-24)
+> ...o más formalmente estructurado, te voy a mostrar porque ahora mismo estoy hablando con otro ingeniero que es el que va más por el lado estructurado, ¿no entiendes? y entiendo tu cautela y me parece muy sabido de tu parte, así que eso
+
+**PTT-20250726-WA0005.opus** (2025-07-26)
+> ¿Qué? No entiendo. Si está trabajando con ella, primero lo, si le que hago un pronto de que quieras hacer. Y ahora que la esa pronto, que te le to la voludeces, ya fu...
+
+*... and 53 more occurrences*
+
+### Offering Help (44 occurrences)
+
+**PTT-20240629-WA0050.opus** (2024-06-29)
+> ...n problema onda que tienes en mi suegra ahora yo quiero poder estar onda veo el hospital y le digo mira acá tienes 100 palos en cash sin si estás más avísame arreglar todo lo que te quieran quieren más cash más que te tiras otro 200 palos en cash y que esa te sea onda estar ni ahí tipo eso es dinero de pri...
+
+**PTT-20240701-WA0018.opus** (2024-07-01)
+> ... El los videos se que dicen, donde estos son todos los tipos delING. entre aquí me voy a poner un fondo así el area para la gemma que no es adquipete te puedo hacer luego no la tenés que fijar tu entra, pues no me voy a mejorar eso no me voy a sacar como un tren, vique tipo tienes tu foto y gris atrás mínim...
+
+**PTT-20240824-WA0007.opus** (2024-08-24)
+> ...eñor que se llama Julius Haduska Y aprendí aleman y ahora estoy aprendiendo a deslobaco y es lo venio Porque me considero algunos que otras cositas y te puedo comentar también porque te puede interesar Man, esto es una cosa que explica, y yo creo que este país no sé, no sé, si es de nadie, no es de la pena ...
+
+**PTT-20250327-WA0015.opus** (2025-03-27)
+> ... el americano, tipo, un chilte van a decir, en serio, 10 patos para yo de un chiste y en para buena idea, tipo de idea de como es el subo de mercado. Te puedo decir que a Mead or Mate, Will, dos me están siempre buscando las otras áreas ni idea, no sé qué se hacen ahí. Pero no están teniendo para que están ...
+
+**PTT-20250402-WA0021.opus** (2025-04-02)
+> ...ando voy a actividad así de la comunidad de developer tipo en mi top.com creo que hay interrepentes eventos de paraguay de gente en info. Me dije que te puedo ir a marketing. Ay, mentor mate y will don. Les interesa gente que sabe inglés, sabe programar y sabe cubar. Así que me puede meter un clas y se te c...
+
+*... and 39 more occurrences*
+
+### Physical Affection (96 occurrences)
+
+**PTT-20240314-WA0022.opus** (2024-03-14)
+> ...toy de demasiado tripeado me quedo mi misma un tercera persona que ir a que la cámara está girando alrededor de un ejército central que está sobre mi cabeza. Esa es la que te está jugando Zelda, es el de la GAL control y gira a no más alrededor de la cabeza del link. Hasta de mi nombre es psicótico por co...
+
+**PTT-20240314-WA0022.opus** (2024-03-14)
+> ...rededor de un ejército central que está sobre mi cabeza. Esa es la que te está jugando Zelda, es el de la GAL control y gira a no más alrededor de la cabeza del link. Hasta de mi nombre es psicótico por comer. Como te posees psicótico, voy a dar mucho tripping y no, pero ya pasó de San Helicrocillo. Mi ti...
+
+**PTT-20240320-WA0001.opus** (2024-03-20)
+> ...de más de info? le decía si lo tenés la página bueno no te van a venir clientes lo hacen más tu presencia en la página web, google maps a llegar a su contacto porque ni siquiera eso que van a hacer, ¿qué manga el paje de los? tipo ya no sé y donde lo hacen, te me he porfolio de info y por su contocursión Bu...
+
+**PTT-20240320-WA0001.opus** (2024-03-20)
+> ...o purete, ahora ya ya no llegaron tipo más renais, más de 5, y lo sé, tipo le mi maxea así todo purete, de conseguir yo de a varios puretes y después juntas a seis inversiones, de para afuera que tipo de fues de tipo de 40, 50 tipo te lleguen más dinero, onda cada mes, 10 palos, hablando del одном del cla...
+
+**PTT-20240629-WA0014.opus** (2024-06-29)
+> ...er un certificado de ISCQ y con si se le podés tan tener es mi acorito certificado 200 dólares pero es reposable de superisí y en mario ven a para un beso tipo trabajo, fútbol, que es bien chero
+
+*... and 91 more occurrences*
+
+### Physical Needs (4 occurrences)
+
+**PTT-20240320-WA0001.opus** (2024-03-20)
+> ...l primero de aquí a 500.000, los siguientes aquí a un palo. Les voy a cobrar cuatro palos y se llaga cada lugar y si no, además yo no sé dónde tengo. necesitan hacer más caro le decía la gente bueno y no sé ¿Qué pensabelo de más de info? le decía si lo tenés la página bueno no te van a venir clientes lo hacen más tu presencia en la página web, google maps a llegar a su contacto porque ni siquiera eso que van a hacer, ¿qué manga el paje de los? tipo ya no sé y donde lo hacen, te me he porfolio de info y por su contocursión Bu...
+
+**PTT-20240320-WA0001.opus** (2024-03-20)
+> ... idea. Saber musíos es fruto. Yo diría que aprendas más tipo música, que tipo te sea al ouf. Y, o sea, disfrutaría estar chil con eso. con eso. No se falta hacer el mejor pianista instrumento de ver tipo yo aprendí a una contagiación en guitarra con ese estoy chile y siempre avisaron la flour, daris guran a for mi. No, la mejor inversión para mí es tirar en dinero, hacerte bien fue quinceto y estar chileando todo el día de juez. No sé que hagas más objetivo en el imagen cuando asintimiento. Y no sé, la música que cuenta en el de mil formas. y entonces también pueden tener de mil formas como alguien te dice algo y se les dejo más abstracto de cómo la gente dice el frito ni idea para mi la música es uf que muta, nice te bueno hacer, tampoco estoy así, honkito y viajo así con un música y te estás así como la que he ido a jane y madras, retrapis creo que estará bien de poco está mejor de hecho siente penada de mi, malas cada vez menos autística es más confortable a cosas que hago, a analizar esos ah, lo que había secretivo y ya es más fácil decir que hay más tomar el que vas a cambiar pues lo primero paso para hacerte la piada de hacerte cuenta que quede a cambiar era ni idea que me te va a hacer así que a trigo porque o no, alguien te dice palabras tengo que ir así que a trigo porque o no, le vi esta tuyo Es que no es que la primera idea es que siempre hay un mundo de copiable y separa el tercer mundo. También que podés hacerte un business en el que las se nomas página web, salos negocios que han para web. Ninguno que tiene las páginas web de presente. Hola, es uno puretito. Si le puedes hacer el primero de aquí a 500.000, los siguientes aquí a un palo. Les voy a cobrar cuatro palos y se llaga cada lugar y si no, además yo no sé dónde tengo. necesitan hacer más caro le decía la gente bueno y no sé ¿Qué pensabelo de más de info? le decía si lo tenés la página bueno no te van a venir clientes lo hacen más tu presencia en la página web, google maps a llegar a su contacto porque ni siquiera eso que van a hacer, ¿qué manga el paje de los? tipo ya no sé y donde lo hacen, te me he porfolio de info y por su contocursión Bu...
+
+**PTT-20250813-WA0006.opus** (2025-08-13)
+> ...a y le conocen las francesas, así. Una mexicana, Jordyn Ellie, ¿qué puta? Pero no sé más. Rear aplicar en la década, Wichita también. Renate Working, necesitaba saber inglés, sabés Chile, y pasar un examen de inglés ahí de ellos, es que están en los documentos de la facultad, ya ver pasado la mitad de la carrera por ahí. Creo que ya estaba ella por ahí. ¿Se acuerda tener la ciencia? Estoy empeorándome con sacar de la entera de la ciencia que es en Inno, porque me agote que esto por este nieto y bueno se conoce por el río interesante. Si no os recono�, tipo si tu mira a esta cuenta la ciencia, me va a hacer pasar normal y me la onda y no te conviene a esto. De vuelta, no tengo contacto de todo su banda, pero Renault Workfit se ejecuta y potea de algo más mal que bien. ¿Estás con... ¿sabes inglés? Por eso no hay que ya llegue a ganar...
+
+**PTT-20260111-WA0010.opus** (2026-01-11)
+> ...e así real de la asipin, y fue y no se me gustó mucho, y vímitos y quedamos de cosas interesantes. Pero ya no sé, hace noviembre hasta ahora, volado, quiero decirse tiembre, sino un poco antes, hasta ahora tipo hasta ya si tach start en la way. Era por fin de estar en un rico de medir a mi mitas, me siento muy barmi, me siento muy nice. pero no sé, gente no sigue regenerando tipo, legalmente estoy haciendo la bastante of a mi giri se me amiguré de mis anteriores porque cada aquí vieron es para que asupar que tomen el el de ellos, que jarse de mas de estar frándome o estar así, así y el el hoy es bastante mas nice y mas linda, realmente, muy bien Vamos a la MuteStyle y bueno a donde a ti con las enteras muy nice, pero de flos mis amiguites son normales y son un ser no, no es más, me son fíjitos, y como les sé, bueno más cortado no es tan nice, pero a lo sabés, estuve muy nice, estuve así el Coda del Dapp, por el pecho de nico, y está así, y es así Choby, por ellos sí te di, no me lo hace dos, y Mike es más pollo, y de unos leísos y hemos a guitarra, y muy nadie se ha pasado, los abrazos, y estoy así, a pie, de que te gustaría que ya también de este algo juchar un flado de fuego es la música que había hecho en mi estado mental por en...
+
+### Relationship Negative (115 occurrences)
+
+**PTT-20240315-WA0004.opus** (2024-03-15)
+> ...sado, sino que era el procedimiento de la reivol pro, en el más ondo, recién despertado, eneda de repaja de tipo mi ingeniero Ways y maybe mi idea de terminar de semestres y materiales de fuertesis, después de abrirme y después de abrirme al país. Es muy chile, es como son dos para la joda y ahora dos de la...
+
+**PTT-20240629-WA0021.opus** (2024-06-29)
+> ... banda 7 en mínima. Pero ya, ni da que hacen raider, pero si no vas a estar más que tenga full, en general, las empresas lo van a sumar y que se va a dejar empezar siempre de esto, que tiene el trinismo, tipo rochila, en ese judía de parte de mi apada. Aquí es de aquí la bomba, aquí es de la entre los is...
+
+**PTT-20240629-WA0031.opus** (2024-06-29)
+> ...atar. El tipo no está marcialmente no es malo, solamente es malvado, lo jodiar y otra vez. Eso es bastante malo, un tipo que no se hubiera hecho ir y dejar vivir a los demás felices. No es eso por a mí es el mundo. Se ha emburecado a la gente al pego.
+
+**PTT-20240629-WA0048.opus** (2024-06-29)
+> ...ciste, lo único que sí, bueno, es que eso fue decir, donde estoy acuado, es súper simple, trabajar en remoto, no me citas un diversidad. Le tengo que dejar empresas en plen... tipo, mientras me he estado hebre, que he estado hebre y es de que fucking... es caminar yo, así que... te pago en así en dólares...
+
+**PTT-20250402-WA0016.opus** (2025-04-02)
+> ... hay que aplicar en serio copé, cuá, pagar bien y no sé un culo mentor mate will don't do areas por éte para aplicarle certificar y se te cube le vas dejar chupetísimo si le vendejo flake sabe inglés, también te van a decir chupetísimo Yo la hemos estado despertando el plan para empezar a negar en este d...
+
+*... and 110 more occurrences*
+
+### Relationship Positive (98 occurrences)
+
+**PTT-20240629-WA0030.opus** (2024-06-29)
+> ...erropeor hace bastante cansante más motos, esta lo más chileando y disfrutando total, llegadas a las 50 y temoriz deciremos a haber estado a momentos felices y chile disfrutando a un casta o no, la vecina dice tal cosa
+
+**PTT-20240629-WA0031.opus** (2024-06-29)
+> ...rcialmente no es malo, solamente es malvado, lo jodiar y otra vez. Eso es bastante malo, un tipo que no se hubiera hecho ir y dejar vivir a los demás felices. No es eso por a mí es el mundo. Se ha emburecado a la gente al pego.
+
+**PTT-20240629-WA0042.opus** (2024-06-29)
+> ...se llenó mucho el equilibrio, no tengo así contexto de ella. Tiene problemas, también así que cada mil random. Pero también lo he hecho, porque es de feliz, de lo que he conocido. No sé que yo reguien. Tiene una cosa. Era muy gut, chaish, pero me dejó nada.
+
+**PTT-20240629-WA0044.opus** (2024-06-29)
+> ...úsico a lo que él me dice, sí, me tele pero el personalmente creo que estoy muy chile tipo mi mut es mutnialista y se percibe nada importante hacerse feliz estoy jodiendo de postual virión y súper chique en general pasan flores tipo No hace correo, me hace rápido, pero no sé, tipo no sé, es rápido, tipo ...
+
+**PTT-20240629-WA0052.opus** (2024-06-29)
+> ... normal es con medio punto de bueno es que pueden rendir el mínimo para ese cemento ingreso ya entran, tipo la gente, la nos paga este tipo, ojo, que felicidad pasaste exactamente de mierda James Gesayn, vieja que estaba siendo liberando que ingresé y no ingresó un man que más se agulen en Metro colegio,...
+
+*... and 93 more occurrences*
+
+### Sadness Depression (56 occurrences)
+
+**PTT-20240321-WA0004.opus** (2024-03-21)
+> ...nera. Y eso, ¿qué tal estás? Es como la lluvia está muy fuerte y no sé, quería saber si estás bien y todo eso. y se fue la luga acá, tipo jazos, tipo no puedo trabajar, no puedo hacer nada a eso y estoy con mi cruzillista y con mis socios estamos hablando normal acá normal y así, pero voy a volver a rescuch...
+
+**PTT-20240321-WA0004.opus** (2024-03-21)
+> ...al estás? Es como la lluvia está muy fuerte y no sé, quería saber si estás bien y todo eso. y se fue la luga acá, tipo jazos, tipo no puedo trabajar, no puedo hacer nada a eso y estoy con mi cruzillista y con mis socios estamos hablando normal acá normal y así, pero voy a volver a rescuchar otra vez tu oye ...
+
+**PTT-20240629-WA0056.opus** (2024-06-29)
+> ... por mí, va a ser a jonesculing todo el tiempo y esto llaman nomás por eso con lejejo en el alinoque. Aquí va a subir los colesjeos acá. Pero ya, una pena nunca que me deslubare a mi la comida de que hay gente nacionalista. Dios. Ah. Tan simple también que se fue a defender un peso de tierra literal. No...
+
+**PTT-20240824-WA0007.opus** (2024-08-24)
+> ...puedo comentar también porque te puede interesar Man, esto es una cosa que explica, y yo creo que este país no sé, no sé, si es de nadie, no es de la pena Pero creo que nos puede hacer muy bien eso, tipo las dos. Y yo también, obviamente no quiero estar acá, quiero tener la posible idea de Jard. voy a v...
+
+**PTT-20250411-WA0021.opus** (2025-04-11)
+> ...s poner tal ver cursitos a lo que te da a ver latidamente es paja poner el cursito de fondo de la tal presa la tensión y en serio te queda hormido yo no puedo ver los cursitos de tal ver y sin el sin dormir Fáquini puta madre en serio como obligado a ver el Fáquini curso de mierda este estoy haciendo mi pc ...
+
+*... and 51 more occurrences*
+
+### Self Deprecation (25 occurrences)
+
+**PTT-20240314-WA0022.opus** (2024-03-14)
+> Sorry, ahora siempre desfondo un flag y en todo. Ayo flag, me tienes... si se le pende si me dices, me dices que portan tuca el trip. Y le gane el deyer de...
+
+**PTT-20240629-WA0054.opus** (2024-06-29)
+> ...qué te comiste? ¿estaba así? ¿untre tripeado? ¿o qué le te mueriste de religión y dice? ¿y todo era así normal? ¿no? Tienes que esperar tres años más perdón para hacer eso ahí tienes permitido
+
+**PTT-20250814-WA0018.opus** (2025-08-14)
+> ... no te refondo a un rato porque estoy con 1000 cosas, y no sé, el, el, el everyday como estás cuando estaba hecho puta, no sé, me era más onda mayas, perdón, esta nidí, pero no me muere esto tampoco tipo, estoy no más chilita, respondría cuando esté con más tiempo con cosas. Ah. Ah también como tipo de es...
+
+**PTT-20250816-WA0048.opus** (2025-08-16)
+> ... hay que aportar. No estoy sobre lo que te reflejo que vas a hacer los 55 work items. Si es de ponerlo más en la página, re no hago más porque al veo perdón. tipo, no importa tanto, o sea el board es para sacar más o menos los estudios y si tenés tu tuy todo lo que está trabajando localmente, también rech...
+
+**PTT-20250818-WA0070.opus** (2025-08-18)
+> ...así, y no me lo ni en el instagram ligé. Algo de onda, porque no se había visto que estaba en una foto contigo, algo así le dije, ahi manají que tal, perdón. Y no sé, era algo onda mala onda, perdón. Pero literal fue donde estaba un wichita, que fue hace dos años, tres años. Ni da.
+
+*... and 20 more occurrences*
+
+### Self Reflection (20 occurrences)
+
+**PTT-20240629-WA0033.opus** (2024-06-29)
+> ¿Quién que pensaba que se llamó a una chica un seló manó? La reaccorra el setando, que iba a ser un buen trauma.
+
+**PTT-20240629-WA0038.opus** (2024-06-29)
+> ...ten. No le veo que te veo que la gente piensa tipo o sea de no ser pasivo siempre para mí es muy pro que ellos siguen refando de femdom para satis yo siempre estoy el que es top no hay femdom hay que faltar sería pero te la gente tiene que aprender a ver por tuernos y escucharlo que le dicen pues con todas cosas...
+
+**PTT-20250729-WA0041.opus** (2025-07-29)
+> ... varias cosas así que tipo me molesta pero no sé explicar de forma de que me molesta más onda de algo que he falto en la relación que tengo más, pero entendíamos a menos cómo se sentí cuando les puse el ejemplo de Cigil al revés y estaba ahí a enferma, yo es potísima y yo le dejaba lo más así. Pero no sé, ...
+
+**PTT-20250729-WA0050.opus** (2025-07-29)
+> ...stá así contigo. Pero sí, yo que se le entiende a cosas, me siguen no saben o qué hago, para ir a mi más, esta secadijo. Quisiera que cuando tiene un trauma con eso, ahí pues se distrae a Nación, pero no saben ser sin ser ex. Y me he visto que se compara un flaco, se compara un flaco como la... No sé, no ...
+
+**PTT-20250730-WA0004.opus** (2025-07-30)
+> No sé, se me psicóloga a mí y yo de gesto y siempre chill. No es que tipo... No es que o sea, nunca hubo así conflicto en la relación porque siempre estoy chill. Y no le puedo decir como voy a decir, le cuando me muere estarlo... No sé, reconoce cuando no estoy chill. Estoy de hacer un flar y... Yo chil...
+
+*... and 15 more occurrences*
+
+### Wants Needs Expressed (54 occurrences)
+
+**PTT-20240320-WA0001.opus** (2024-03-20)
+> ...r jugar videojuegos tolvia. De vez me ha borrón videojuegos, voy a hacer cuando habí tarra sino proyecto mejorando otra cosa rechilo. Pero mi moda es quiero estar chiltolvia. Entonces le mi maxiaje más un flas que está en ese estado y ahí ya puede hacer lo que quieras. Pero ya ni idea. Saber musíos es fruto. Yo...
+
+**PTT-20240629-WA0032.opus** (2024-06-29)
+> ...eligiosos del otro religión es ahora o no el big bang realmente era Dios creando un universo que es trútero que en todo el historiario post hecho, no me gustaría ser ni listado, no podamos no más formar eso, por lo que nosotros vamos a decir, que el concepto de troma fue ser una chica, si es que cosa es que fu...
+
+**PTT-20240629-WA0040.opus** (2024-06-29)
+> ...dan más fiel lo tienen una relación chill open-ish bien suinger porque el trataya fue es no sé si no sale te dejaba bastante más aquí de después pero ojalá ya vienen su versión con el personal le decían también que le vayan a reivieren tipo ya me conozco tanto creo a sumo que tuvieron bajos ustedes pero ...
+
+**PTT-20240629-WA0045.opus** (2024-06-29)
+> ... tipo, una vez que haya la nueva voz a parte de LIA, ya va a estar faquín solución la dos, 90% de los problemas, tipo ella y con la nueva voz pueden, Quiero que no pones lucinar, tipo. ¿Y yo gener el carbono? ¿De... ¿No se llama? Además, yo escribo en el aire. Tenés faquina no voz. Pueden agarrar así las part...
+
+**PTT-20240629-WA0050.opus** (2024-06-29)
+> ... ese dinero y dejen de los pelajos, las arreglantes lo que haga falta. ¿Oda eso? Por ahí quiero vivir yo. Y quiero cambiar todo sin tener la cara, no quiero que nadie sepa donde vivo, y cambio pero te juro que me mayor de ese día de miero. Simple pero no me mate de Paraguay. No sé cambiar esto. Y bueno, no sé...
+
+*... and 49 more occurrences*
 
 ---

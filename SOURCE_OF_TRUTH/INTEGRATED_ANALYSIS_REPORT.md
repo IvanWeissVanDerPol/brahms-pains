@@ -1,6 +1,6 @@
 # INTEGRATED PSYCHOLOGICAL ANALYSIS REPORT
 
-> **Generated:** 2026-01-30 18:59
+> **Generated:** 2026-07-19 17:28
 > **Method:** Temporal, cross-chat, predictive, and questionnaire-integrated analysis
 > **Source:** 5,597 voice note transcripts + questionnaire responses
 
@@ -8,10 +8,10 @@
 
 ## Executive Summary
 
-- **Total Chats Analyzed:** 7
-- **Escalation Periods Detected:** 92
-- **High-Risk Relationship Periods:** 0
-- **Questionnaire-Voice Data Consistency:** Partial
+- **Total Chats Analyzed:** 8
+- **Escalation Periods Detected:** 84
+- **High-Risk Relationship Periods:** 5
+- **Questionnaire-Voice Data Consistency:** High
 
 ---
 
@@ -23,16 +23,16 @@ These periods show elevated psychological pattern frequency, indicating potentia
 
 | Week | Total Patterns | Key Categories |
 |------|----------------|----------------|
-| 2023-W31 | 20 | communication_difficulty(18), sadness(1), physical_affection(1) |
-| 2023-W32 | 10 | communication_difficulty(9), sadness(1) |
-| 2023-W37 | 11 | communication_difficulty(7), sadness(2), physical_affection(2) |
-| 2023-W38 | 16 | communication_difficulty(13), physical_affection(2), sadness(1) |
-| 2023-W40 | 7 | communication_difficulty(6), sadness(1) |
-| 2023-W42 | 12 | communication_difficulty(10), physical_affection(2) |
-| 2023-W44 | 12 | communication_difficulty(9), sadness(2), physical_affection(1) |
-| 2023-W45 | 28 | communication_difficulty(22), physical_affection(4), sadness(2) |
-| 2023-W46 | 7 | communication_difficulty(3), sadness(2), physical_affection(2) |
-| 2023-W47 | 7 | communication_difficulty(6), physical_affection(1) |
+| 2023-W31 | 18 | physical_affection(8), deflection_minimizing(8), sadness_depression(2) |
+| 2023-W32 | 12 | physical_affection(5), deflection_minimizing(5), sadness_depression(2) |
+| 2023-W36 | 6 | physical_affection(3), deflection_minimizing(2), sadness_depression(1) |
+| 2023-W37 | 10 | deflection_minimizing(4), sadness_depression(3), physical_affection(3) |
+| 2023-W38 | 10 | sadness_depression(5), deflection_minimizing(3), physical_affection(2) |
+| 2023-W40 | 6 | sadness_depression(3), deflection_minimizing(2), physical_affection(1) |
+| 2023-W42 | 9 | physical_affection(4), deflection_minimizing(4), sadness_depression(1) |
+| 2023-W43 | 5 | sadness_depression(2), deflection_minimizing(2), physical_affection(1) |
+| 2023-W44 | 11 | deflection_minimizing(4), sadness_depression(4), physical_affection(3) |
+| 2023-W45 | 28 | deflection_minimizing(11), physical_affection(9), sadness_depression(8) |
 
 **Insights:**
 - Escalation periods often precede major relationship events (breakups, conflicts)
@@ -42,63 +42,68 @@ These periods show elevated psychological pattern frequency, indicating potentia
 
 ## 2. CROSS-CHAT ANALYSIS: Patterns by Relationship Type
 
-### Balanced Friend
+### Male Friend
 
 | Pattern | Average | Range | Chats |
 |---------|---------|-------|-------|
-| communication_difficulty | 1.0 | 1-1 | 1 |
-| sadness | 1.0 | 1-1 | 1 |
+| physical_affection | 1.0 | 1-1 | 1 |
+| deflection_minimizing | 1.0 | 1-1 | 1 |
+| sadness_depression | 1.0 | 1-1 | 1 |
+| asking_for_help | 1.0 | 1-1 | 1 |
+| offering_help | 1.0 | 1-1 | 1 |
 
 ### Breakthrough Friend
 
 | Pattern | Average | Range | Chats |
 |---------|---------|-------|-------|
-| communication_difficulty | 1.0 | 1-1 | 1 |
-
-### Kink Community
-
-| Pattern | Average | Range | Chats |
-|---------|---------|-------|-------|
-| communication_difficulty | 1.0 | 1-1 | 1 |
-| physical_affection | 1.0 | 1-1 | 1 |
-| help_exchange | 1.0 | 1-1 | 1 |
-| sadness | 1.0 | 1-1 | 1 |
-
-### Male Friend
-
-| Pattern | Average | Range | Chats |
-|---------|---------|-------|-------|
-| communication_difficulty | 1.0 | 1-1 | 1 |
-| sadness | 1.0 | 1-1 | 1 |
-| physical_affection | 1.0 | 1-1 | 1 |
-| help_exchange | 1.0 | 1-1 | 1 |
-
-### Romantic Partner
-
-| Pattern | Average | Range | Chats |
-|---------|---------|-------|-------|
-| communication_difficulty | 1.0 | 1-1 | 1 |
-| physical_affection | 1.0 | 1-1 | 1 |
-| help_exchange | 1.0 | 1-1 | 1 |
-| sadness | 1.0 | 1-1 | 1 |
-
-### Fwb
-
-| Pattern | Average | Range | Chats |
-|---------|---------|-------|-------|
-| help_exchange | 1.0 | 1-1 | 1 |
-| communication_difficulty | 1.0 | 1-1 | 1 |
-| sadness | 1.0 | 1-1 | 1 |
-| physical_affection | 1.0 | 1-1 | 1 |
+| deflection_minimizing | 1.0 | 1-1 | 1 |
 
 ### University Friend
 
 | Pattern | Average | Range | Chats |
 |---------|---------|-------|-------|
-| help_exchange | 1.0 | 1-1 | 1 |
-| communication_difficulty | 1.0 | 1-1 | 1 |
 | physical_affection | 1.0 | 1-1 | 1 |
-| sadness | 1.0 | 1-1 | 1 |
+| sadness_depression | 1.0 | 1-1 | 1 |
+| deflection_minimizing | 1.0 | 1-1 | 1 |
+| offering_help | 1.0 | 1-1 | 1 |
+| asking_for_help | 1.0 | 1-1 | 1 |
+
+### Balanced Friend
+
+| Pattern | Average | Range | Chats |
+|---------|---------|-------|-------|
+| sadness_depression | 1.0 | 1-1 | 1 |
+| asking_for_help | 1.0 | 1-1 | 1 |
+
+### Kink Community
+
+| Pattern | Average | Range | Chats |
+|---------|---------|-------|-------|
+| deflection_minimizing | 1.0 | 1-1 | 1 |
+| physical_affection | 1.0 | 1-1 | 1 |
+| sadness_depression | 1.0 | 1-1 | 1 |
+| offering_help | 1.0 | 1-1 | 1 |
+| asking_for_help | 1.0 | 1-1 | 1 |
+
+### Fwb
+
+| Pattern | Average | Range | Chats |
+|---------|---------|-------|-------|
+| deflection_minimizing | 1.0 | 1-1 | 1 |
+| physical_affection | 1.0 | 1-1 | 1 |
+| sadness_depression | 1.0 | 1-1 | 1 |
+| asking_for_help | 1.0 | 1-1 | 1 |
+| offering_help | 1.0 | 1-1 | 1 |
+
+### Romantic Partner
+
+| Pattern | Average | Range | Chats |
+|---------|---------|-------|-------|
+| physical_affection | 1.0 | 1-1 | 1 |
+| asking_for_help | 1.0 | 1-1 | 1 |
+| sadness_depression | 1.0 | 1-1 | 1 |
+| offering_help | 1.0 | 1-1 | 1 |
+| deflection_minimizing | 1.0 | 1-1 | 1 |
 
 
 **Key Findings:**
@@ -111,17 +116,26 @@ These periods show elevated psychological pattern frequency, indicating potentia
 
 ## 3. PREDICTIVE INDICATORS: Risk Assessment
 
-*No high-risk pattern combinations detected in current data.*
+### High-Risk Pattern Combinations
+
+| Chat | Risk Type | Severity | Description |
+|------|-----------|----------|-------------|
+| Jonatan_Verdun | mask_overload | high | High deflection with self-criticism suggests unsustainable suppression |
+| Defi | mask_overload | high | High deflection with self-criticism suggests unsustainable suppression |
+| Lourdes_Youko_Kurama | mask_overload | high | High deflection with self-criticism suggests unsustainable suppression |
+| _wa_ptt_bulk | mask_overload | high | High deflection with self-criticism suggests unsustainable suppression |
+| Laura | mask_overload | high | High deflection with self-criticism suggests unsustainable suppression |
+
 
 ### Pattern Sequences
 
 High-activity days that may indicate processing events:
 
-- **2023-11-27:** 10 patterns - Elevated emotional expression - potential processing event
-- **2023-12-04:** 15 patterns - Elevated emotional expression - potential processing event
-- **2024-06-21:** 11 patterns - Elevated emotional expression - potential processing event
-- **2024-06-23:** 15 patterns - Elevated emotional expression - potential processing event
-- **2024-06-24:** 12 patterns - Elevated emotional expression - potential processing event
+- **2024-06-23:** 10 patterns - Elevated emotional expression - potential processing event
+- **2024-06-24:** 11 patterns - Elevated emotional expression - potential processing event
+- **2024-06-29:** 35 patterns - Elevated emotional expression - potential processing event
+- **2025-04-02:** 11 patterns - Elevated emotional expression - potential processing event
+- **2025-06-09:** 10 patterns - Elevated emotional expression - potential processing event
 
 **Predictive Model:**
 - 3+ deflection_minimizing + 2+ self_deprecation in one week = 80% chance of suppression episode
@@ -136,10 +150,8 @@ High-activity days that may indicate processing events:
 
 | Pattern | Questionnaire Claim | Voice Evidence | Consistency |
 |---------|-------------------|----------------|-------------|
-| The Fixer | ✗ No | 0 | ~ Partial |
-| Communication Difficulty | ✓ Yes | 1675 | ✓ Confirmed |
 
-**Overall Consistency Score:** 50%
+**Overall Consistency Score:** 0%
 
 **Key Validations:**
 - The Fixer pattern: Self-reported AND heavily evidenced in voice notes (429+ instances)
