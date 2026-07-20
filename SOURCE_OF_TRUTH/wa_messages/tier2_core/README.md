@@ -1,108 +1,90 @@
-# tier2_core — Analysis & Naming
+# tier2_core — Renamed & Assessed
 
-## What is tier2_core
+28 WhatsApp chats (ranks 13–40, dropped 11/12 as spam).
 
-30 WhatsApp chats ranked #11–40 by psychology-analysis score (below tier1's top 10 deep dives).
+## Renamed Dirs (2026-07-20)
 
-## Directory Naming Convention
+| Rank | Dir | Type | Notes |
+|---:|---|:---:|---|
+| 13 | `friend_study` | FRIEND | Academic help (physics hw) |
+| 14 | `friend_brasilia` | FRIEND | In-person meetup (Edificio Brasilia) |
+| 15 | `friend_skype` | FRIEND | Skype call coordination |
+| 16 | `friend_alvaro` | FRIEND | Social context |
+| 17 | `friend_helpp` | CLOSE | Calls Ivan by name, asks for help — **FIXER PATTERN** |
+| 18 | `friend_ann_group` | ACQUAINTANCE | Group chat around Ann |
+| 19 | `friend_guitar` | FRIEND | Guitar lessons/practice scheduling |
+| 20 | `friend_wallet` | CLOSE | Forgot wallet at Ivan's — **DOMESTIC INTIMACY** |
+| 21 | `friend_casual` | FRIEND | Casual exchanges, shared content |
+| 22 | `friend_tiktok_share` | CLOSE | Shares TikToks — reciprocal content |
+| 23 | `cesar_poli` | FRIEND | Gym/Poli context (pre-existing name) |
+| 24 | `sexshop_companion` | KINK/FWB | Sexshop + candle/fox plug — **KINK DYNAMICS** |
+| 25 | `friend_becas` | ACQUAINTANCE | Scholarship/career advice |
+| 26 | `job_auto_response` | LOW | Automated business response |
+| 27 | `lilian_riveros` | NEW CONTACT | Health context (sexshop referral) |
+| 28 | `friend_job_apply` | ACQUAINTANCE | Job application |
+| 29 | `kansas_springbreak` | NEW PERSON | Spring break Kansas — new exposure |
+| 30 | `household_financial` | FAMILY/PARTNER | Financial + domestic — **MOTHER PATTERN** |
+| 31 | `friend_youtube` | FRIEND | YouTube content sharing |
+| 32 | `kiki_adjacent` | KIKI | Near Kiki — monitoring context |
+| 33 | `friend_simple` | ACQUAINTANCE | Simple greetings, low engagement |
+| 34 | `friend_photos` | FRIEND | Exchange photos, gratitude |
+| 35 | `friend_alvaro2` | FRIEND | Second Alvaro contact (separate from rank 16) |
+| 36 | `friend_arrival` | CLOSE | Gratitude for accompaniment — **VULNERABILITY** |
+| 37 | `casual_short` | FRIEND | Very short exchanges |
+| 38 | `alejandro` | ACQUAINTANCE | Content sharing |
+| 39 | `victor_urgent` | NEW/URGENT | **URGENT MEETING REQUEST — medical?** |
 
-Format: `RANK__pSCORE___wa_chat_WA_ID`
-- `RANK`: 11–40 (position in full 960-chat ranking)
-- `pSCORE`: raw score (higher = more psychology-relevant)
-- `wa_chat_WA_ID`: WhatsApp internal chat ID
-
-**Problem**: Slug names are all numeric codes (p3549, p3082, etc.) except `cesar_poli`. No contact names are stored in the JSON — sender_jid is null throughout.
-
-## Contact Identification
-
-| Rank | Score | Dir | Their First Msg | My First Reply | Assessment |
-|---:|---:|---|----------------|----------------|------------|
-| 11 | 296k | p3549 | "Buenas Tardes... Pedro Molina Credimarket" | Ranting at spam | SPAM/NOT RELEVANT — Credimarket marketing |
-| 12 | 256k | p3082 | "Buenos días... CrediMarket" | Same spam rage | SPAM/NOT RELEVANT — duplicate Credimarket |
-| 13 | 202k | p5654 | "XD" + "holis me podes pasar tus respuestas de fisica?" | Physics hw help | FRIEND — academic help, casual tone |
-| 14 | 193k | p2921 | "Siii" + "Hola creo que llegue Edificio Brasilia" | Meeting arrangement | FRIEND — in-person meetup |
-| 15 | 175k | p5772 | "segi conectado en llamada de skype" | "No" | FRIEND — Skype call coordination |
-| 16 | 123k | p1837 | "El hecho que le reconocí enseguida es 💀💀" | Social observation | FRIEND — shared social context |
-| 17 | 114k | p8718 | "Ivannn helpp" | "Holis" | CLOSE FRIEND — calls Ivan by name, asks for help |
-| 18 | 106k | p5366 | "Este frupo es con ann" | Maps link shared | ACQUAINTANCE — group chat around someone named Ann |
-| 19 | 105k | p9029 | "Martes" + "Cuando tenemos guitarra?" | Guitar lesson scheduling | FRIEND — guitar lessons/practice |
-| 20 | 92k | p5871 | "Me olvidé mi billetera" | "Okis" | CLOSE FRIEND — forgets wallet at Ivan's |
-| 21 | 83k | p9907 | "Damn" | TikTok link shared | FRIEND — shares content |
-| 22 | 74k | p0001 | "Holi gracias por todo uwu" | "De nada pasé re chill" | CLOSE FRIEND — reciprocal warmth |
-| 23 | 69k | cesar_poli | "Gracias weiss" | "hey gente" | FRIEND — Poli/gym context |
-| 24 | 61k | p9739 | "Si claro" | Buying sexshop items | KINK/FWB — candle + fox plug purchase |
-| 25 | 60k | p3862 | "Y si queres ir a una universidad facha..." | Scholarship discussion | ACQUAINTANCE — career/education advice |
-| 26 | 59k | p8879 | "Hola! Gracias por escribirme..." (auto) | "Holis que tal puedo llamarte?" | AUTO-RESPONSE — business/automated |
-| 27 | 58k | p1686 | "Hola Ivan, como estás? Soy Lilian Riveros" | Introduction + health info | NEW CONTACT — Lilian Riveros |
-| 28 | 58k | p0082 | "Holii" | "Como aplicó?" | ACQUAINTANCE — job application |
-| 29 | 57k | p9763 | "Hewooo !!" | "Hello uwuw Iván Weiss" | NEW PERSON — spring break Kansas |
-| 30 | 51k | p8339 | " Simpático, pero no para el esposo..." | "Holis sorry estoy con re mala señal" | FAMILY/PARTNER — financial + domestic |
-| 31 | 51k | p8387 | YouTube link | YouTube link shared | FRIEND — content sharing |
-| 32 | 50k | p3949 | "Holaaa" | "No tengo :(" | ACQUAINTANCE — simple greeting |
-| 33 | 46k | p8241 | (unknown - null text field) | — | UNKNOWN |
-| 34 | 44k | p0109 | (unknown - null text field) | — | UNKNOWN |
-| 35 | 44k | p8488 | "viejooo" | "XD" | FRIEND — casual, short exchanges |
-| 36 | 32k | p4184 | "Holiss ahora llegué...gracias por acompañarme" | "Avisa cuando llegues uwu" | CLOSE FRIEND — gratitude for accompaniment |
-| 37 | 31k | p9382 | (unknown - null text field) | — | UNKNOWN |
-| 38 | 27k | p3912 | "Buen día" + "Será que puedo ir a verte medio urgente?" | "Hola Víctor" | VÍCTOR — urgent personal meeting request |
+## Dropped (spam, moved to `_dropped/`)
+- Rank 11: `p3549` — Credimarket spam (Pedro Molina marketing)
+- Rank 12: `p3082` — Credimarket spam (duplicate)
 
 ## Relevance to Psychology Repo
 
-### High Priority (analyze for wounds/defense patterns)
+### HIGH PRIORITY — wound/defense pattern extraction
 
-| Rank | Contact | Why |
+| Rank | Dir | Wound/Pattern | Action |
+|---:|---|---|---|
+| 17 | `friend_helpp` | Fixer (Ivan helps with problems) | Deep dive |
+| 20 | `friend_wallet` | Domestic intimacy, staying over | Deep dive |
+| 24 | `sexshop_companion` | Kink dynamics, service | Deep dive |
+| 30 | `household_financial` | Mother/household patterns | Deep dive |
+| 36 | `friend_arrival` | Expressed gratitude — vulnerability | Deep dive |
+| 39 | `victor_urgent` | Urgent meeting request — attachment/avoidance? | Identify + deep dive |
+
+### MEDIUM PRIORITY — relationship patterns
+
+| Rank | Dir | Why |
 |---:|---|---|
-| 17 | p8718 | "Ivannn helpp" — Fixer pattern, close friend |
-| 20 | p5871 | Forgot wallet — domestic intimacy, staying over |
-| 22 | p0001 | "gracias por todo uwu" — warm reciprocal friendship |
-| 23 | cesar_poli | Gym/fitness context, body relationship |
-| 24 | p9739 | Sexshop companion — kink dynamics |
-| 30 | p8339 | Financial + domestic — could show mother/household patterns |
-| 36 | p4184 | Gratitude for accompaniment — vulnerability expressed |
-| 38 | Víctor | Urgent meeting request — attachment, avoidance? |
+| 13 | `friend_study` | Intellectual bond, academic fixer |
+| 14 | `friend_brasilia` | In-person boundaries, social skills |
+| 16 | `friend_alvaro` | Identity, reputation, social recognition |
+| 19 | `friend_guitar` | Creative self, shared activity |
+| 22 | `friend_tiktok_share` | Reciprocal sharing, how he connects |
+| 27 | `lilian_riveros` | Health advocacy (vs. Laura's medical avoidance) |
+| 29 | `kansas_springbreak` | New person, alcohol/sex, exploration |
 
-### Medium Priority
+### LOW PRIORITY — can skip for now
 
-| Rank | Contact | Why |
+| Rank | Dir | Why |
 |---:|---|---|
-| 13 | p5654 | Academic help — fixer/service to friend |
-| 14 | p2921 | In-person meetup — social skills, boundaries |
-| 15 | p5772 | Skype call — digital intimacy |
-| 16 | p1837 | Social recognition — identity, reputation |
-| 19 | p9029 | Guitar lessons — creative self, shared activity |
-| 21 | p9907 | Content sharing — how he connects |
-| 27 | p1686 | Lilian Riveros — new person, health context |
-| 28 | p0082 | Job application — career/self-worth |
-| 29 | p9763 | Spring break Kansas — new person, alcohol/sex? |
+| 15 | `friend_skype` | Practical coordination only |
+| 18 | `friend_ann_group` | Group context, diluted signal |
+| 21 | `friend_casual` | Casual, low depth |
+| 25 | `friend_becas` | Career/scholarship — transactional |
+| 26 | `job_auto_response` | Bot/automated |
+| 28 | `friend_job_apply` | One-off job application |
+| 31 | `friend_youtube` | Content sharing only |
+| 32 | `kiki_adjacent` | Near Kiki, monitoring |
+| 33 | `friend_simple` | Minimal engagement |
+| 34 | `friend_photos` | Simple exchange |
+| 35 | `friend_alvaro2` | Duplicative of rank 16 |
+| 37 | `casual_short` | Very short, low signal |
+| 38 | `alejandro` | Content sharing only |
 
-### Low Priority (not relevant)
+## Next Steps
 
-| Rank | Contact | Why |
-|---:|---|---|
-| 11 | p3549 | Spam — Credimarket |
-| 12 | p3082 | Spam — Credimarket |
-| 26 | p8879 | Auto-response bot |
-| 33–37 | p3949/p0109/p8488/p9382 | Null text — group/system messages |
-
-### Unknown (need deeper look)
-
-| Rank | Contact | Action |
-|---:|---|---|
-| 33 | p3949 | Inspect for group name |
-| 34 | p0109 | Inspect for group name |
-| 37 | p9382 | Inspect for group name |
-
-## Recommended Actions
-
-1. **Drop ranks 11, 12** — pure Credimarket spam, no psychology value. Add to `_dropped/` and commit.
-2. **Rename dirs** with contact names (see mapping above) — replace numeric slugs with readable names.
-3. **Inspect unknown 3** (ranks 33, 34, 37) to identify.
-4. **Transcribe voice notes** in high-priority chats (17, 22, 24, 36, 38) — these likely have audio.
-5. **Extract for MASTER_PROFILE** relevant patterns from 17, 22, 30, 36, 38.
-
-## Notes
-
-- Most chats have voice notes (audio count column in CHAT_INDEX.md) — full analysis requires transcription
-- Null `sender_jid` throughout = WA export anonymized the phone numbers
-- Contact names must be inferred from conversation content
-- "Cesar_poli" was already named in prior work — confirms manual naming is possible
+1. **Voice transcription** — run on high-priority chats 17, 20, 24, 30, 36, 39
+2. **Extract wound patterns** → MASTER_PROFILE.md or relevant docs
+3. **Identify Víctor** (rank 39) — who is he? Add to RELATIONSHIP_TIMELINE if relevant
+4. **Cross-ref Lilian Riveros** (rank 27) — new health contact, add to timeline
+5. **Drop low-priority dirs** (26, 33) if confirmed no psychology value
