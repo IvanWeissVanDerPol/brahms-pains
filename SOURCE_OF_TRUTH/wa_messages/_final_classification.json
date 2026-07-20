@@ -2,16 +2,16 @@
   "generated_from": "_triage.json",
   "reclassified_lid_to_personal": 62,
   "counts": {
-    "keep_total": 321,
-    "drop_total": 639,
+    "keep_total": 319,
+    "drop_total": 641,
     "keep_by_category": {
-      "personal_1on1": 263,
+      "personal_1on1": 261,
       "group_active": 49,
       "group_lurker_context": 9
     },
     "drop_by_category": {
       "group_lurker": 53,
-      "personal_1on1": 121,
+      "personal_1on1": 123,
       "low_signal": 457,
       "group_active": 7,
       "notification": 1
@@ -19,12 +19,10 @@
   },
   "keep_slugs": [
     "_wa_chat_595981225272_62",
-    "_wa_chat_595983008816_9253",
     "_wa_chat_595976538689_3231",
     "_wa_chat_595971922708_3654",
     "_wa_chat_595981791823_1683",
     "_wa_chat_595981324569_1092",
-    "_wa_chat_595971167729_9255",
     "_wa_chat_595982515138_64",
     "_wa_chat_595985724135_111",
     "_wa_chat_595972130867_49",
@@ -979,24 +977,24 @@
     "_wa_lid_78971597271125_17125",
     "_wa_lid_89485660393604_13010",
     "_wa_lid_99901308416109_14653",
-    "_wa_other_newsletter_120363177781450585_9944"
+    "_wa_other_newsletter_120363177781450585_9944",
+    "_wa_chat_595983008816_9253",
+    "_wa_chat_595971167729_9255"
   ],
   "tiers": {
     "tier1_deep": [
       "_wa_chat_595981225272_62",
-      "_wa_chat_595983008816_9253",
       "_wa_chat_595976538689_3231",
       "_wa_chat_595971922708_3654",
       "_wa_chat_595981791823_1683",
       "_wa_chat_595981324569_1092",
-      "_wa_chat_595971167729_9255",
       "_wa_chat_595982515138_64",
       "_wa_chat_595985724135_111",
-      "_wa_chat_595972130867_49"
+      "_wa_chat_595972130867_49",
+      "_wa_chat_595976333549_9257",
+      "_wa_chat_595971353082_9263"
     ],
     "tier2_core": [
-      "_wa_chat_595976333549_9257",
-      "_wa_chat_595971353082_9263",
       "_wa_chat_595986805654_1271",
       "_wa_chat_595983822921_11297",
       "_wa_chat_595981925772_1253",
