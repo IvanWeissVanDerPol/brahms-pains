@@ -305,3 +305,78 @@ Lourdes represents Ivan's capacity for physical intimacy without emotional vulne
 - [Relationship Timeline](../history/RELATIONSHIP_TIMELINE.md)
 - [The Fixer Defense](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_FIXER.md)
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's psychological expressions
+
+---
+
+## WhatsApp corpus signals (tier1_deep rank 05)
+
+> Source: `SOURCE_OF_TRUTH/wa_messages/tier1_deep/05__lourdes_youko_kurama___wa_chat_595981791823_1683/messages.json`
+> Contact `595981791823@s.whatsapp.net`. Lourdes's self-assigned display alias in chat is **"Youko Kurama💗💞"** (YuYu Hakusho reference); Ivan's saved contact name for her cycles through **"Wtf Are You In My Life What Are You Doing Here"** — a mutual naming pattern that itself encodes the ambivalence of this bond.
+
+### Communication statistics
+
+| Metric | Value |
+|---|---|
+| `total_msgs` | **16,905** (existing doc estimated "900+" — undercount by ~18x) |
+| `from_me_ratio` | **0.503** (Ivan 8,497 / Lourdes 8,408 — near-perfect symmetry) |
+| `my_text_chars` | **304,558** (Lourdes: 343,674 — she writes ~13% more text per turn) |
+| `audio_msgs` | **2,261** total: Ivan 1,076 / Lourdes 1,185 (voice is ~13% of channel) |
+| `images` | 1,075 (Ivan 646 / Lourdes 429) — Ivan sends 1.5x more images (nudes, memes, screenshots) |
+| `videos` | 121 |
+| `span_days` | **1,502** (2022-06-08 → 2026-07-20, ~4.1 years) |
+
+### Temporal arc (revises "2 years on-off" in existing profile)
+
+| Phase | Window | Msgs | Character |
+|---|---|---:|---|
+| **Ignition** | 2022-06 → 2022-07 | 4,421 | Instant sexual/casual register from message #4 ("Y la dick pic"), first meetup negotiated within days |
+| **Cruise** | 2022-08 → 2023-04 | ~1,040 | Intermittent, mostly transactional (help, meetups, memes) |
+| **Deepening + first rupture** | 2023-05 → 2023-11 | 4,397 | Kink escalation (shibari, praise kink), then Nov-2023 FWB-vs-novios showdown |
+| **Silence (the "Laura era")** | 2023-12 → 2025-07 | **1 message** ("Happy new year 🎊🥳", 2024-01-01) — ~20-month blackout confirms existing profile's "ended when Ivan started dating Laura" but reframes it as a *pause*, not an end |
+| **Resurgence** | 2025-08 → 2026-07 | **6,896** — LARGEST phase by volume, restarted with Ivan's cold-open "Hola qué tal? n.n" (2025-08-17) |
+
+### Top themes (this corpus)
+
+1. **FWB architecture (16 explicit tags)** — Ivan repeatedly articulates his framework in Nov-2023: *"Yo veo fwb como la forma de estar con alguien y tener las cosas nice de novios / Sin tener los strings attached"*. By 2026 he uses "fwb" as a category label for a portfolio ("FWB de shibari", "FWB trans", Ale, pazzu).
+2. **Ivan-as-consultant / psychoanalyst** — the 2025-2026 phase is dominated by Ivan sending multi-thousand-character analytical essays: psychoanalysis of her Victor situationship, remote-work opportunities for her, "Cómo usar Cursor para tu práctica de psicología", ADHD study guides, fisioterapia contact scrapes. The Fixer defense has scaled from PC advice to full-service life-operations support.
+3. **Kink continuity — shibari as the durable motif** — praise kink, switch dynamic, shibari mentioned across 2022/2023/2026. Lourdes explicitly requests it ("siiii jau shibari. Atameee", 2022-09-24).
+4. **Lourdes's chronic mental-health thread** — suicidal ideation appears in 2022, 2023, 2026; Ivan's response pattern stays consistent (practical / dark-humor / anime deflect).
+5. **The Victor triangle (2025-2026)** — Lourdes is the "amante que espera" of a man named Víctor who has a primary partner. Ivan positions himself as her outside strategist, not competitor.
+
+### Notable dated exchanges
+
+- **2022-06-08 12:41 (first message ever)** — Ivan: *"Holis / Que tal tu mañana? / Iván soy"*; Lourdes (23 min later): *"Nahh / Y la dick pic / JAJAJAJA bola / No puedo dormir".* Register is sexual/joking from turn one.
+- **2023-11-24 (FWB rupture)** — Ivan: *"Se que somos fwb pero te quiero comentar para evitar no salir herida... cuando volví de Wichita hablamos de que no nos íbamos a enamorar."* Lourdes rebuts: *"lo único que vas a hacer es romperme más con tus inseguridades y falta de compromiso"* (2023-11-27). Confirms and sharpens existing profile's "she was angry" claim.
+- **2024-01-01 → 2025-08-17 (the silence)** — one perfunctory "Happy new year" then 594 days of nothing until Ivan cold-opens with *"Hola qué tal? n.n"*. Within 24 hours the register is back to anal/dildo talk.
+- **2025-11-20** — Lourdes: *"325 días podes ponerte en mi lugar sin huir 😔 no puede doler tanto amarte y no tener mi lugar"* — she is now saying *"amarte"* to Ivan while ostensibly complaining about Victor; the substitution reads as directed at both.
+- **2026-03-23** — Ivan: *"queda un mes de vasectomia recuperacion y confirmed que no kids... Modo horny fwb mientras dure y después happy memories"*; **2026-05-18**: *"Btw ya me vasectomize también"*. Vasectomy operationalizes the "My line ends with me" declaration (2025-08-21).
+
+### Anime / nerd cultural register (shared)
+
+- **Alias identity**: "Youko Kurama" (YuYu Hakusho kitsune character) + heart emojis — Lourdes's chosen persona for the relationship; ties into the "shared-nerd" framing hypothesized in the task brief.
+- **Recurring**: JoJo (20 hits, Lourdes: *"Esperaba algo de jojos"* — first day), Overwatch (17, they duo-queued), Jujutsu Kaisen, Naruto, Zelda, Pokémon (Mercy/Arceus comparison), Minecraft, cosplay commissions (Lourdes as customer, Ivan as maker/3D-print). Discord (30) as co-play channel.
+- **Music**: shared Joji fandom (2022-06-14 Lourdes: *"Que potente está la nueva canción de joji"*).
+
+### Relationship-status signals
+
+- Zero literal "Laura" mentions in the corpus — the "Laura era" is documented by the 2024 silence, not by naming.
+- Lourdes says "te amo" to Ivan ≥6 times in 2025-2026 (2025-10-23, 10-24, 11-03, 11-06, 11-20, 11-23). Ivan says "te amo" back exactly zero times *to Lourdes* — his "te amo" in the corpus is directed at "kiki" (called sister) in a message he pasted for her to read.
+- "te quiero" appears 42 times — the register Ivan does reciprocate.
+- Ivan discloses concurrent partners freely by 2026 (Ale, "FWB de shibari", trans FWB, pazzu) — the relationship has evolved into open-network confidante.
+
+### Contradictions & refinements vs existing profile
+
+| Existing claim | Corpus reality |
+|---|---|
+| "900+ messages" | **16,905** — off by 18x; the existing profile was built off a much smaller slice |
+| "approximately 2 years on-off" | **~4.1 years** with a single dominant 20-month blackout; 2025-2026 resurgence is the largest phase |
+| "Ended when Ivan started dating Laura" | **Paused, not ended.** Fully resumed Aug 2025 with even higher intensity than the original run |
+| Voice notes "primarily FROM Lourdes TO Ivan" | Nearly balanced: **1,076 from Ivan / 1,185 from Lourdes** (Ivan is 47.6% of audio). Ivan uses voice too. |
+| Sexual > Emotional Fluency (pattern) | **Confirmed and sharpened.** Even in Nov-2023 rupture Ivan renders his position as a policy statement ("Para mi la solucion fue guardar mis feelings") rather than an emotional response to her hurt |
+| The Fixer (pattern) | **Scaled up.** By 2025-2026 Ivan sends full-length career-plan documents, psychoanalytic essays on her love life, ADHD math tutorials, fisioterapia contact lists — service has become his primary channel with her |
+| Kink (switch/toys/aftercare) | Extend with: **shibari is the durable, mutually-requested motif** (2022, 2023, 2026); Lourdes is the one repeatedly asking |
+| Ivan "avoids vulnerability of romantic attachment" | **Confirmed.** Vasectomy (Mar-May 2026) permanentizes the no-family stance ("My line ends with me"). |
+
+### New signal not in existing profile
+
+Lourdes is now studying psychology (4° año, clinical/humanistic orientation) and pastes drafted psychological reports of herself into the chat for Ivan to react to. **The relationship has mutated into a mirror**: she is professionalizing the language of her own dysfunction while Ivan feeds her clinical framings of her outside relationships. Both use ChatGPT-generated psychological analyses of each other and of third parties as a shared genre. This is a new dynamic post-2024 not captured anywhere in the existing document.

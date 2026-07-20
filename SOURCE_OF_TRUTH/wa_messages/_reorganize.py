@@ -118,7 +118,7 @@ def plan() -> list[dict]:
             continue
 
         meta = load_meta(d)
-        name = resolve_name(slug, meta)
+        name = resolve_name(meta)
         cat = cat_by_slug.get(slug, "")
 
         if slug in tier1_set:

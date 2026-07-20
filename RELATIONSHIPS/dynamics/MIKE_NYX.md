@@ -396,3 +396,49 @@ Ivan finds a middle path:
 - [LAURA.md](./LAURA.md) - Contrast: Fixer without reciprocity
 - [THE_FIXER.md](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_FIXER.md) - Can be healthy!
 - [04_TOUCH_STARVATION.md](../../CORE_PSYCHOLOGY/wounds/04_TOUCH_STARVATION.md) - Being addressed here
+
+---
+
+## WhatsApp corpus signals (tier1_deep rank 06 — Nyx-bot channel)
+
+> **Disambiguation notice.** The tier1_deep rank-06 chat (`+595 981 324569`, WA chat_id 1092, 663 messages) is **NOT** the human Mike / Miki / Nyx documented above. It is Ivan's **WhatsApp self-chat** with his own agentic bot codenamed **"Nyx"** (plugin package `openclaw`). Every one of the 663 messages carries `from_me: true` because the chat's JID **is Ivan's own phone number**. The extraction pipeline ranked it into tier1_deep because of raw message volume, then labeled the JID "p4569" — a coincidence that collided with the human Mike's chatname "Nyx". This section documents the bot channel so future readers do not conflate the two "Nyxes."
+>
+> Bytes appended: this section only. The human-Mike enrichment for this file is drawn from a separate chat (the 829-line WhatsApp chat referenced in the header — a different JID).
+
+### Bot vs human — evidence for the "bot / self-relay" verdict
+
+| Signal | Observation | What it rules out |
+|--------|-------------|-------------------|
+| `from_me` distribution | 663 / 663 messages marked `from_me: true`; 0 inbound | Rules out real human — a bidirectional chat has both directions |
+| `sender_jid` | `null` on every row (self-chat convention) | Rules out group / multi-party |
+| JID identity | `595981324569@s.whatsapp.net` is Ivan's own line | Any "reply" is Ivan's phone posting back, not a peer |
+| Prefix tokens | 130 messages start with `[openclaw]`; further messages with `[Nyx]`; 128 lines of `HEARTBEAT_OK`; 37 `⚠️ API rate limit reached`; recurring `LLM error: {…}` JSON blobs from Google API | These are automation artifacts, not human replies |
+| Bot self-identification | 2026-02-05 02:50 — `[openclaw] Hey Ivan 👋 You found the self-chat. Working perfectly — I see you loud and clear from WhatsApp. 🌑` | The bot literally introduces itself as a self-chat bridge on turn 1 |
+| Response cadence | 67 consecutive bot-to-bot message pairs (multi-part streamed replies within seconds) | Humans do not emit N-part markdown-formatted replies in <5s |
+| Directive grammar | Ivan's outbound is imperative ("whitelist +595 982 783951", "Analyze this repository", "Explain in ai whisper", "Nyx you hear me?") | Human friendship registers do not read like CLI arguments |
+
+**Verdict: bot / agentic self-relay.** This is the WhatsApp bridge for Ivan's `openclaw`/`Nyx` agent — a phone-facing endpoint of the same multi-agent stack that ships work into `Ai-Whisperers/work-coordination`.
+
+### Chat shape
+
+- **Message count:** 663 (659 text, 4 media stragglers from Aug 2024 / Dec 2024 — pre-bot era)
+- **Active window:** 2026-01-07 → 2026-03-14 (~9 weeks)
+- **Peak month:** Feb 2026 (598 messages) — the bot's initial commissioning and shakedown period
+- **Tail:** Mar 2026 (60 messages, decaying) — usage drops off after the March 14 `⚠️ API rate limit reached` failure cluster
+- **Composition:** ~490 user directives from Ivan + ~169 bot responses (`[openclaw]` / `[Nyx]` prefixed, plus heartbeat / error frames)
+- **Time-of-day:** night-owl skew — peak hours are 01h UTC (120 msgs) and 02h UTC (80 msgs) = ~22h–23h Asunción local. Secondary bump at 20h–22h UTC (17h–19h Asunción). Trough 08h–14h UTC.
+
+### What Ivan uses the bot for (top 3 themes)
+
+1. **WhatsApp bridge orchestration & routing rules.** Whitelisting peers (Sarah, John, Gerardo Ramos of Tietoevery, +595 982 783951), toggling `👀` reactions per chat, mention-only mode in groups (`AI Whisperers` group id `120363404918156195@g.us`), DM vs group behavior, restart / lock-file / stale-sync recovery via `wacli`. Recurring debug loop: rate-limit → restart → heartbeat → resume. High "sarah" (117), "group" (133), "config" (82), "heartbeat" (128), "error" (210), "rate limit" (37) counts.
+2. **Multi-agent task delegation into `Ai-Whisperers` repos.** Ivan dispatches work verbally through WhatsApp: analyse / criticise / roast `infrastructure-cost-tracker` (34 mentions), `infrastructure-cost-manager` (32), `work-coordination` (5), Vete (veterinary product) autonomous-worker runs, and — critically — pushes to Mike-the-human's site (see next). "Nyx Cloud" appears as a committer identity in `work-coordination`. Related agents surface: Erebus (20 mentions), the vanished/never-instantiated Mnemos/Aion/Charon (0).
+3. **The Fixer, executed by proxy.** On 2026-02-05 19:47 Ivan tells the bot *"update Mike's website — Currently she isn't a licenciada yet"* and by 19:50:41 the bot replies with commit `080161b` pushed to master, changing `hero.tsx` / `about.tsx` / `sobre-mi/page.tsx` to reflect "Estudiante de último año — Fisioterapia". Same day the bot reports it is *"Coordinating with Mikie and Sonia to arrange help for your mum's back issues (as requested by John)."* **The Fixer pattern documented earlier in this file is now being scaled through automation** — Ivan can commission website edits for Mike between the massage sessions without opening a laptop. The bot's roster of "people I might message" also names Ivan's inner circle: *"Sarah, John, Kiki, Alex, Mikie, Lilian, Daisy, Gerardo."*
+
+### Cross-reference to the human Mike
+
+The bot channel is not silent about the human Mike — it edits his site, plans logistics with him, and enumerates him among the whitelist. This means the Fixer→Mike pipeline documented in the sections above is partly **operationalised by this bot**: Ivan verbalises a request on WhatsApp, and Nyx-the-agent ships a commit within minutes. Any future audit of "how much unpaid infrastructure work does Ivan do for Mike?" needs to count *this* channel's automation too, not only Ivan's direct hours.
+
+### Do-not-conflate note for future enrichments
+
+- Human Mike / Miki / Nyx — masajista, kinesio student, birthday Jan 28, chatname coincidentally "Nyx" — is the subject of THIS file.
+- Bot Nyx / openclaw — Ivan's WhatsApp-bridged agent — is the subject of THIS APPENDIX ONLY. If a future tier1 chat is again labeled with p4569 or JID 595981324569, it will still be the bot channel; do not merge its message log into the human Mike's psychological profile.

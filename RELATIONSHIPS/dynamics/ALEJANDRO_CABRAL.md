@@ -150,3 +150,74 @@ Ivan's healing path may involve recognizing that The Fixer is a STRATEGY, not an
 - Request voice note mentions of Alejandro
 - Ask Ivan directly about this friendship's history
 - Look for Alejandro in existing WhatsApp transcripts
+
+---
+
+## WhatsApp corpus signals (tier1_deep rank 10)
+
+**Source:** `SOURCE_OF_TRUTH/wa_messages/tier1_deep/10__alejandro_cabral___wa_chat_595972130867_49/messages.json`
+**Extracted:** 2026-07-20. Confidence upgrade: LOW -> HIGH on origin, firewall status, and communication mode.
+
+### Communication stats
+
+| Metric | Value |
+|--------|-------|
+| Total messages | 23,000 |
+| Span | 2020-09-28 -> 2026-07-20 (2,121 days, ~5.8 years) |
+| From Ivan | 10,751 (46.7%) |
+| From Alejandro | 12,249 (53.3%) |
+| Ivan's text characters | 222,535 |
+| Alejandro's text characters | 438,169 (~2x Ivan) |
+| Audio messages | 991 total (931 from Ivan, 60 from Alejandro) |
+| Images | 2,459 |
+| Videos | 171 |
+| Peak year | 2022 (10,075 msgs) |
+
+**Reciprocity note:** message-count reciprocity is balanced (~50/50) and Alejandro actually writes ~2x more text characters than Ivan. But voice-note flow is **radically asymmetric** — 94% of audios flow Ivan->Alej. Ivan uses Alejandro as an audio-dumping partner; Alejandro receives and replies mostly in text. This is atypical of Ivan's other tier1 chats.
+
+### Themes and tone
+
+Top thematic keyword hits (across 5.8-year corpus):
+
+1. **Daily-life logistics** — casa (444), comida (152), viaje (116), auto (85), gym (94)
+2. **University / study collab** — estudiar+facultad+parcial (128), computing terms (algo3, tp, foro, mec, knime). Origin was clearly a university CS/electronica cohort with mutual friend **César** (97 mentions), studying **Algoritmos 3** together in 2020.
+3. **Emotional processing & sexual openness** — kink (10 explicit BDSM references, both directions), sex/party themes, and Ivan seeking relationship advice. Family (papa 58, mama 11), games together (47), and shared friends Junior (40), Laura (30), Maga (8), Cookie (6), Defi (1).
+
+Tone: heavy `jajaja` texture, chronic `xd/xdxd/uwu`, no formality. Alejandro's characteristic tic: `uwu`, `jsjsjs`, `kakakaka`. Ivan's: `xd`, `nomas`, `surge`, `nice`. Frequent shortened English ("nice", "sad", "don't worry", "fdb", "lgm"). Very low filter; no politeness overhead.
+
+### 3-5 notable dated exchanges
+
+**2020-10-04 — Origin as CS study group, first kink joke normalized**
+Alej: "recien termine fisica uwu ... voy a decirle a cesar para mirar con el". Ivan: "traten de terminar ya asi empezamos con el tp". Same night pivots into kink humor — Ivan: "Hace bdsm solo(?" -> Alej: "jajaja puede ser". Origin is **university group project** (Algoritmos 3, with César), not "unknown/predates history".
+
+**2021-05-31 — Ivan seeks relationship advice from Alej (Fixer inverted)**
+Ivan drafts a long breakup message to a partner and sends it to Alejandro FIRST for review: "voy a escribir porque no digo lq quiero decir en los audios por alguna extraña razón ... capaz tengamos que ser amigos nomas". Alej responds as counselor: "si te sentis asi, quizas no sea malo cortar por lo sano ... es mejor dejar nomas en claro tu parecer". This is Ivan being FIXED, not fixing. Confirms Fixer-LOW hypothesis with direct evidence.
+
+**2022-04-19 — Alejandro's own family wound disclosed**
+Alej: "yo siempre le pedía que me deje mudarme de ahi inclusive llorando y no me daba bola ... al final me dejaron mudarme en último año porque no me iba más". Alejandro shares his own parental-permission trauma with Ivan. Bidirectional vulnerability, not one-way support.
+
+**2024-06-21 — Kink community integration**
+Alej: "me pasarias link para entrar al grupo bdsm". Ivan brings Alej *into* the kink community, not the reverse. Reinforced 2025-08-18 Alej: "Muy buena onda gente que le gusta el bdsm también".
+
+**2026-07-01 & 2026-07-09 — HIV medication logistics**
+Ivan: "Podes llevar los HIV meds? Plz" -> Alej: "de una uwu 👍". Then 2026-07-09 Ivan: "Tengo 1% ... Si podes mandarle HIV pills". Alejandro is the physical courier for Ivan's antiretrovirals. Highest-trust practical infrastructure — HIV status is fully open, not compartmentalized.
+
+### Nature of relationship (revised)
+
+**Deep chosen-family friend, not sexual/romantic partner and not clearly a current roommate.**
+- **Origin:** university CS cohort ~2020 (Algoritmos 3, group projects with César). Predates pandemic peak.
+- **Role in Ivan's life:** primary voice-note dump target, emotional confidant, kink-community peer, medical-logistics courier, gaming buddy (Stardew, CoD, Overwatch, DnD).
+- **Direction of care:** genuinely bidirectional. Ivan asks Alej for advice; Alej shares his own wounds; Alej physically shows up (moves furniture, delivers pills, runs errands).
+- **Shared social graph:** César (heaviest), Junior, Laura, Magali, Cookie, Defi — Alej is embedded in Ivan's friend cluster, not a parallel channel.
+
+### Contradictions / refinements vs existing profile
+
+| Existing claim | Corpus evidence | Verdict |
+|----------------|-----------------|---------|
+| "Connection Origin: Unknown - predates documented history" | Clear origin: 2020 university CS study group (Algoritmos 3) with César as third node | **REFINE** — document origin |
+| "Roommate, daily cohabitation" | No confirming exchange found; "Podes llevar los HIV meds?" (2026-07-01) implies separate residences, and 2023-08-27 mentions Junior (not Alej) as a roommate. Existing "roommate" claim likely refers to past arrangement or upcoming; needs check with Ivan | **QUESTION** — verify current cohabitation |
+| "IRL-first (in-person > chat)" | Contradicted by volume: 23,000 messages over 5.8 years (top of tier1_deep). This is a **chat-heavy** relationship on top of IRL, not chat-light. Ivan does prefer audio (931 outbound voice notes) over text | **REFINE** — IRL-primary but chat is still very active |
+| "The Firewall - Status Unknown" (kink, HIV, family) | Firewall is DOWN on all three: BDSM openly discussed since 2020 and Alej is in the kink group; HIV meds physically delivered by Alej in 2026; family dynamics discussed openly since 2021 (Ivan compared his parents' marriage to his own romance in front of Alej) | **UPDATE** — Firewall LOW/absent |
+| "Has Ivan been vulnerable with Alejandro?" (Missing Data #4) | Yes — 2021-05-31 breakup consult, family comparisons, HIV logistics, kink identity. Full vulnerability documented | **RESOLVED — YES** |
+| "Does Alejandro appear in voice notes with other friends?" (Missing Data #5) | Direct evidence: 931 outbound voice notes TO Alejandro. Alej is Ivan's #1 voice-note recipient in this corpus | **RESOLVED — YES, as recipient** |
+| Fixer LOW hypothesis | **STRONGLY CONFIRMED** — 2021-05-31 is Ivan being counseled by Alej, not the reverse. Alej also fixes Ivan practically (couriering meds). Reciprocal care, not asymmetric service | **CONFIRM** |

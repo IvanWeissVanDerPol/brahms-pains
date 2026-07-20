@@ -352,3 +352,91 @@ The pattern: When Ivan was most vulnerable (sick, in pain, crying), Laura "gave 
 - [LOURDES_YOUKO_KURAMA.md](./LOURDES_YOUKO_KURAMA.md) - Previous FWB (ended when Laura began)
 - [DEFI.md](./DEFI.md) - Friend who received breakup news
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's breakup processing quotes
+
+---
+
+## WhatsApp corpus signals (tier1_deep rank 03)
+
+> **Source file:** `SOURCE_OF_TRUTH/wa_messages/tier1_deep/03__p8689___wa_chat_595976538689_3231/messages.json` (7.4 MB, chat 3231, JID `595976538689@s.whatsapp.net`)
+> Enrichment date: 2026-07-20. This section is derived directly from the raw msgstore dump — treat it as canonical over any earlier count.
+
+### Communication stats
+
+| Metric | Value |
+|---|---|
+| `total_msgs` | **23,105** |
+| `from_me_ratio` | **0.511** (Ivan 11,801 / Laura 11,304 — near-symmetric volume) |
+| `my_text_chars` | **322,316** (Ivan's typed characters) |
+| Laura's text chars | 215,259 (Ivan writes ~1.5x more per message) |
+| `audio_msgs` (type 2) | **2,921** — matches the 2,915 voice-note transcript count in the profile within rounding |
+| Image / media (type 1) | 1,269 |
+| Links / other (type 3) | 138 |
+| First message | 2023-11-15 23:38 UTC |
+| Last message | 2026-07-10 09:14 UTC |
+| `span_days` | **967** (~31 months of contact — well beyond the "ended Aug 2025" framing above) |
+
+Monthly volume peaked in **Dec 2023** (2,008), **Mar 2024** (1,982), **Jun 2024** (2,065). Sustained-decline months: **Sep–Oct 2024** (~450) matching the "decline" phase. Post-breakup: Sep 2025 = 34 msgs, Oct = 104, Dec = 60, Feb 2026 = 38, Jul 2026 = 2.
+
+### Message-derived themes and tone
+
+Regex counts across all texts (rough, single-file scan):
+
+| Theme | Hits | Reading |
+|---|---:|---|
+| `uwu` softeners | 1,053 | Confirms Mask/permission-structure pattern; overwhelmingly Ivan |
+| `amor` (as vocative) | 611 | **421 from Laura, 190 from Ivan** — Laura is the heavier user of the pet name |
+| `bb` / `baby` | 473 / 139 | Again **Laura leads** (374 vs 99 for "bb"; 55 vs 1 for "amorcito") |
+| Domestic / logistics (`casa`, `mudanza`, `pieza`) | 491 | Constant cohab coordination |
+| Cooking / food service (`cocine`, `ramen`, `onigiri`) | 217 | Ivan's fixer-feeding pattern |
+| `trabajo`, `plata`, `pagar` | 190 | Money / rides / covering costs threads |
+| `terminar` family (context-dependent) | 161 | Most are "termine de trabajar/estudiar" — real breakup instances are few |
+| `te quiero` / `te amo` | 121 | Bidirectional; escalates to "te amo" only in **2025** (Jan onward) |
+| `mama` / `madre` / `internada` | 101 | Laura's mother's hospitalization — a running thread through mid-2024 |
+| Sickness (`enferm`, `dengue`, `fiebre`, `hospital`, `fistula`) | 95 | Distributed across both — Ivan's dengue 2024-02, hospital May 2024, mother-in-law June 2024, fistula 2025 |
+| Sex/kink lexicon (`consolador`, `pegging`, `sounding`, etc.) | 67+ | Explicit banter continues **past breakup** (see 2025-12-15 sounding thread below) |
+| Cerdito / 🐷 motif | ~10 | Confirms the profile's "Laura 🐷" title — piggies were a running in-joke Ivan initiated |
+| Overt conflict language (`pelea`, `pichada`, `bronca`, `discuti`) | 42 | **Low.** Overt fights are rare in-thread — consistent with Ivan's PTT-20250730 quote that "nunca hubo así conflictos porque siempre estoy chill" |
+
+**Tone:** Overwhelmingly warm-domestic-logistical. Fights don't happen on WhatsApp; they show up as tone shifts and gaps, not as arguments. Sexual and kink content is openly discussed by both.
+
+### Notable dated exchanges (short quoted fragments)
+
+1. **2024-02-08 23:29 — Ivan alone:** `"Tengo dengue"` — the illness the profile flags as the first care-neglect data point. Terse, unadorned; no follow-up thread of Laura care in the surrounding messages.
+
+2. **2024-05-26 03:46 — Ivan alone at hospital:** `"Estoy en el hospital Bautista :("` — hospitalization at 3am, sent to her.
+
+3. **2024-06-19/20 — Ivan serving Laura's family:** `"En que parte del hospital estás / Te llevo el cargador cuando esté lleno"` and `"Onda si le es más cómodo cuando salga del hospital / Re te paso mi cama así puede reposar más cómodamente tu ma"` — literal fixer behavior: giving up his own bed for Laura's hospitalized mother. Corroborates the "extreme fixer" section.
+
+4. **2025-07-11 17:35 — Ivan to himself, sent as message:** `"Ya deberia terminar"` — the exit-intent moment surfacing in chat. Then **2025-07-28 22:46:** `"Termine de trabajar y fui a la cama y me puse a llorar un rato"` — crying alone again, still in the relationship.
+
+5. **2025-08-07 01:02 — The actual breakup message (Ivan):**
+   > `"Perdon Lau :( / Nuestra relación no fue una basura, para nada... Pero siento in my gut que no puedo seguir :( / Que si seguimos nos vamos a lastimar... Sos una persona increíble, pero si me comprometo a estar long term con alguien necesito que siempre esté ahí cuando le necesite"`
+   Laura's reply, same night: `"Éstoy muy triste... todavia pienso que capaz podamos aun tener una linda relación"` and `"Odio que ni siquiera quisiste hablar y llegar a algo / Cómo si fuera todo una basura"`.
+
+6. **2025-09-03 — Post-breakup care reversal:** Laura opens with `"Me dijo Fida que estuviste por el hospital"` and follows with detailed medical advice (`"No te olvides de tomar probioticos... segui cuidandote mucho"`) — she is proactively checking on his health *after* the breakup she didn't want. Notable given the profile's frame that Laura couldn't care for him when sick.
+
+7. **2025-12-06/07 — Going out together, warmth intact:** Ivan escorts Laura to a bar (`La Otra Bar`), covers Uber. Laura at 06:43 next morning: `"Modo piloto automático me subí, gracias por acompañarme hoy 🫶 / Linda noche ✨"`. Ivan: `"Merece un sana sana tu mano... Yo tambien pase re lindo / Dulces sueños n.n"`.
+
+8. **2025-12-15 03:25 — Explicit kink banter, post-breakup:** Ivan describes a sounding-toy mishap in detail (`"Entro hasta la base / Y me pito dijo / Ñam y paso la base adentro"`); Laura responds curious and shares manga recs. Confirms the profile's "Sexual > Emotional Fluency" pattern is *still active* between them 4+ months after the breakup.
+
+### Relationship-status signals
+
+- **Endearment inversion vs the profile:** The current profile characterizes Laura as "responsive but not initiating." At the *lexical* level of pet-names, **Laura initiated `amor` 2.2x more often than Ivan, `bb` 3.8x more, and `amorcito` 55x more**. Verbal warmth from her side was in fact abundant and easy — the deficit was in **care behavior during his crises**, not in expressed affection. Worth flagging: Ivan's "she gave me nothing" wound may be more specifically "she gave me words but no embodied care" than "she was cold."
+- **"Te amo" (as opposed to `te quiero`) does not appear from Laura until 2025-01-14** — 14 months in. Escalation of stated commitment happens *during the decline phase*, not the honeymoon.
+- **Life events surfaced:** Laura's mother hospitalized (running thread June 2024); Ivan's own dengue (Feb 2024), hospital admission (May 2024), fistula and antibiotics (July–Aug 2025), allergic reaction to ciprofloxacin in Mexico (Sept 2025); Laura sustained 5-month antibiotic course starting ~mid 2025.
+- **Overt arguments in-chat are rare** — 42 hits on `pelea|pichad|enojad|bronca|discuti` across 23k messages, most of them referring to third parties or minor moments. This corroborates Ivan's PTT-20250730 self-diagnosis: conflict was suppressed, not processed.
+
+### Refinements / contradictions with existing profile
+
+1. **Breakup date:** Profile lists **Aug 9, 2025** (based on the Defi mention). The actual rupture happened **Aug 7, 2025 ~01:02 UTC** in this chat — Ivan's `"Perdon Lau"` message. Aug 9 was when he *reported* it to Defi. Suggest updating the timeline.
+
+2. **"Ended (Ivan initiated breakup)" is technically true but incomplete.** Contact continues warm and frequent through **at least July 2026** — including going out together, sex-toy banter, mutual care during illness, and Laura still using `amor`/`bb`. The "Duration: Nov 2023 – Aug 2025 (~21 months)" line understates the entanglement, which spans **31 months on the corpus and is still open at the last message**. Recommend adding a "Post-breakup entanglement" phase to the timeline.
+
+3. **"Communication Patterns / Laura's Style: Responsive but not initiating"** is contradicted by the endearment counts and by Sept 2025 (she reaches out first to check on his health). More precise framing: Laura *does* initiate verbal warmth and post-facto worry, but historically did not initiate **caregiving action** during his acute medical crises.
+
+4. **"Contrast: Sexual vs Emotional Fluency"** section can now be *strengthened, not revised* — the Dec 2025 sounding thread is direct additional evidence: the sexual channel is the one that survived the breakup intact, while the emotional-need channel remains the closed one.
+
+5. **Voice-note count consistency:** Profile says 2,915 voice-note transcripts (2,661 quality); corpus reports 2,921 type=2 messages. Numbers agree.
+
+6. **The "Comparison to Other Relationships" table row for Laura says `Care Received: Minimal`.** The post-breakup pattern (Sept 2025 health check-ins with concrete medical advice) suggests Laura *can* extend care once the relational stakes are lower. This does not invalidate the fistula-incident wound, but it complicates the model of her as globally incapable of care — the incapacity appears situationally specific to being-his-partner + her-mother-in-crisis, not a stable trait.
+

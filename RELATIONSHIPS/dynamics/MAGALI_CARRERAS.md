@@ -349,3 +349,87 @@ This is The Fixer at work in a non-romantic context, showing the pattern is stru
 - [The Fixer Defense](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_FIXER.md)
 - [The Mask Defense](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_MASK.md)
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's psychological expressions
+
+---
+
+## WhatsApp corpus signals (tier1_deep rank 01)
+
+Source: `SOURCE_OF_TRUTH/wa_messages/tier1_deep/01__p5272___wa_chat_595981225272_62/messages.json`
+(rank 01 = Ivan's most-engaged 1:1 chat).
+
+### Raw stats
+
+| Metric | Value |
+|--------|-------|
+| Total messages | **28,457** |
+| From Ivan | 15,005 (52.7%) |
+| From Maga | 13,452 (47.3%) |
+| Ivan text chars | 473,856 |
+| Maga text chars | 319,805 |
+| Audio (ptt) msgs | 3,175 |
+| Images | 1,743 |
+| Videos | 163 |
+| Span | 2020-09-28 → 2026-07-14 (**2,114 days / ~5.8 yr**) |
+
+Volume trajectory: **2021 peak 14.4k → 2022 7.5k → 2023 1.2k → 2024 447 (near-silence) → 2025 revival 2.5k → 2026 1.1k (through mid-July).**
+
+### Corrections to existing profile
+
+The existing sections above frame this as a 2020-2021 COVID-era university friendship of "3000+ messages" with Ivan investing "10-20x more time/effort than he receives." The full corpus corrects this:
+
+1. **Not 3k messages — 28,457.** Nearly 10x larger than the previous estimate.
+2. **Not a 2020-2021 chat — active through 2026-07-14.** Almost six-year span. What existed above captures only the first ~15% of the timeline.
+3. **Message-count balance is near parity (52.7 / 47.3), not 10-20x asymmetric.** The asymmetry was specifically in *programming help*, a subset of 2020-2022. Overall dialogic engagement is symmetric across the arc.
+4. **Not "just a friendship" in the flat sense.** The relationship evolved: academic-help partner (2020-22) → dormant/drift (2023-24) → deep adult confidant (2025-26) covering Ivan's HIV disclosure, sexuality, kink community, dating pipeline.
+
+### Themes that dominate the corpus
+
+1. **2020-2022 — Academic scaffolding + everyday intimacy.** Programming help, calc/physics exams, endearments (`bb`, `ami`, `mi vida`), voice-note gossip, Discord & farra.
+2. **2023-2024 — Drift.** Volume collapses. Only ~1,600 messages across both years combined. Maga apologizes: `TE QUIERO PERDÓN POR ESTAR AUSENTEEEEEE` (2023-03-20). Both are in early-career work mode (Ivan at MentorMate as QA, angling for AI automation; Maga cohabiting with Leo).
+3. **2025-2026 — Adult reactivation.** Sex, kink, dating, health, medication become dominant topics. `bdsm` appears 10+ times, all from 2025 onward. Ivan discloses HIV+ status; Maga tells him her professor became her boyfriend. Tone shifts from "study buddy" to "sworn confidants who trade adult life updates."
+
+### Notable dated exchanges
+
+**2021-10-18 — First BDSM signal (Halloween party).**
+> IVAN: "Básicamente de conejo bdsm al final jajajaja / Parece que le gusta dominarme a la gente jajana / Fue fun"
+> MAGA: "Me encanta / Pero un conejo fachero"
+
+Earliest recorded reference in the corpus to kink; framed as a party costume that got interactive. Establishes that Ivan has been openly discussing his sexuality with Maga since at least age ~20.
+
+**2024-08-18/20 — Career pivot (Ivan) + cohabitation (Maga).**
+> IVAN: "la semana que viene es mi negociacion de salario … En mentormate estoy como asegurador de calidad / Pero quiero ir a asegurar de calidad con automation y inteligencia artificial"
+> MAGA: "Leo si que me dijo para ir a vivir juntos una vez que amueble su casa"
+
+New facts not in the existing profile: Ivan employed at MentorMate as QA angling into AI/automation; Maga in serious cohabiting relationship with "Leo."
+
+**2025-07-30/31 — Mutual romantic post-mortems.**
+> IVAN: "Estoy haciendo un mapa mental de cosas que me gustan y quiero en mi pareja … Voy a crowdsourcear mis requisitos de pareja jsjsjs"
+> MAGA: "creo que fue un mal necesario que hayas terminado con ella porque vos demasiado bueno sos … buen novio / Mi novio co era mi profesor JAJAJ"
+
+Ivan recently broke up with a girlfriend (not named in surrounding context) and is explicitly using Maga to help spec his next partner. Maga is dating her former professor. Ivan is single but reflective, not fixing — inversion of the 2020-2022 dynamic.
+
+**2025-10-25 — HIV+ disclosure. Major life event, not present in existing profile.**
+> MAGA: "Vos co sos un amorcito … yo de verdad no veo como un defecto en vos el tener vih❤️ jamás me alejaría de alguien por algo así … Amigo yo co soy paciente psiquiátrica y esa enfermedad tb me va acompañar hasta la tumba... Todos tenemos algo"
+> MAGA: "estuve hablando con mi hermano el Doctor … vio tu estudio y me dijo que en dos meses de tratamiento ya vas a dar negativo otra vez, al parecer tu carga viral es muy poquita … quiere que mañana te vayas al Instituto de medicina tropical y que pidas que te inscriban al PRONASIDA"
+
+Ivan discloses HIV+ diagnosis around late October 2025. Maga responds with immediate non-judgmental acceptance, mutualizes vulnerability (her bipolar / psychiatric care), and operationalizes by relaying her physician brother's care plan (PRONASIDA at IMT, ~2mo to undetectable). This is the single most consequential exchange in the corpus and reframes 2025-2026 traffic as post-diagnosis processing.
+
+**2025-08-19 — Peer estimation of Ivan.**
+> MAGA: "Es que vos sos un novio 360, haces de todo y abarcas todo"
+
+Maga articulating an external read of Ivan's partner-behavior: "360 boyfriend, does everything, covers everything." Consistent with the Fixer pattern documented above — but now framed by her as a virtue rather than a labor imbalance.
+
+**2026-06-17 — Ivan's fidelity as fixed trait (Maga's read).**
+> MAGA: "Cuando vos sos fiel / Sos re fiel"
+> IVAN: "re uwuwu"
+
+### Relationship-status signals
+
+- **No breakup, no arguments, no reconciliation event.** Zero explicit rupture across 2,114 days. The 2023-2024 dip is drift-through-life-phase, not conflict — Maga's `PERDÓN POR ESTAR AUSENTEEEEEE` is the only apology-for-absence in six years.
+- **Endearments continuous but low-density.** `bb / ami / mi vida / vida / bestie` sustained throughout. `te amo` appears only 3x in 2021 and drops off — the register is warm-friend, not paired-romantic.
+- **Not currently or previously partnered romantically** (per the corpus surface). Maga speaks of her boyfriends (Ale in 2020-21, Leo in 2024, "profesor" in 2025). Ivan speaks of his own girlfriends and kuki (situationship, 2025-10). Neither ever refers to the other as a current or past partner. What exists between them is unusually intimate best-friend confidant status.
+- **Life events referenced:** Maga's breakup with Ale (4/26/21, in existing profile); Ivan's move-out (existing); Ivan starting at MentorMate as QA (2024); Maga cohabiting with Leo (2024); Ivan's unnamed girlfriend breakup (~mid-2025); Ivan's HIV+ diagnosis (2025-10); Maga starting a job (2025-12); Ivan's ongoing BDSM community and la-quebrada-viva 3D project (2026).
+
+### Trajectory summary
+
+Academic caretaker → dormant colleague-of-life → **mutual adult confidant with unusually low defenses**. The 2025-2026 traffic is the first period in the corpus where Ivan is *not* primarily performing service — he is receiving support (HIV disclosure), asking for input (partner spec), and disclosing sexuality freely (BDSM, kuki). The Fixer / Mask framing from the earlier sections is accurate for 2020-2022 but should not be extended to the current phase without qualification.
