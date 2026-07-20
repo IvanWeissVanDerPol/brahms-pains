@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T17:26:46.075318",
+  "generated_at": "2026-07-20T00:18:56.175274",
   "analysis_type": "integrated_psychological_analysis",
   "temporal_analysis": {
     "escalation_periods": [
@@ -16,9 +16,9 @@
         "week": "2023-W32",
         "total_patterns": 12,
         "categories": {
-          "sadness_depression": 2,
+          "deflection_minimizing": 5,
           "physical_affection": 5,
-          "deflection_minimizing": 5
+          "sadness_depression": 2
         }
       },
       {
@@ -34,8 +34,8 @@
         "week": "2023-W37",
         "total_patterns": 10,
         "categories": {
-          "sadness_depression": 3,
           "deflection_minimizing": 4,
+          "sadness_depression": 3,
           "physical_affection": 3
         }
       },
@@ -61,8 +61,8 @@
         "week": "2023-W42",
         "total_patterns": 9,
         "categories": {
-          "physical_affection": 4,
           "deflection_minimizing": 4,
+          "physical_affection": 4,
           "sadness_depression": 1
         }
       },
@@ -80,8 +80,8 @@
         "total_patterns": 11,
         "categories": {
           "deflection_minimizing": 4,
-          "sadness_depression": 4,
-          "physical_affection": 3
+          "physical_affection": 3,
+          "sadness_depression": 4
         }
       },
       {
@@ -96,14 +96,14 @@
     ],
     "weekly_pattern_summary": {
       "2024-W10": {
-        "physical_affection": 7,
-        "deflection_minimizing": 2,
+        "deflection_minimizing": 4,
+        "physical_affection": 8,
         "sadness_depression": 3
       },
       "2024-W11": {
-        "sadness_depression": 3,
+        "deflection_minimizing": 5,
         "physical_affection": 4,
-        "deflection_minimizing": 3
+        "sadness_depression": 3
       },
       "2024-W25": {
         "deflection_minimizing": 35,
@@ -111,13 +111,13 @@
         "physical_affection": 22
       },
       "2024-W33": {
-        "sadness_depression": 3,
-        "deflection_minimizing": 3,
+        "deflection_minimizing": 6,
+        "sadness_depression": 4,
         "physical_affection": 5
       },
       "2024-W36": {
         "deflection_minimizing": 3,
-        "sadness_depression": 1
+        "sadness_depression": 2
       },
       "2024-W38": {
         "deflection_minimizing": 3,
@@ -129,47 +129,47 @@
         "sadness_depression": 2
       },
       "2025-W13": {
-        "deflection_minimizing": 11,
+        "deflection_minimizing": 14,
         "physical_affection": 5,
         "sadness_depression": 6
       },
       "2025-W14": {
-        "deflection_minimizing": 9,
+        "deflection_minimizing": 10,
         "physical_affection": 3,
         "sadness_depression": 7
       },
       "2025-W15": {
-        "deflection_minimizing": 8,
+        "deflection_minimizing": 9,
         "physical_affection": 3,
         "sadness_depression": 3
       },
       "2025-W16": {
-        "deflection_minimizing": 6,
-        "sadness_depression": 2,
-        "physical_affection": 1
+        "deflection_minimizing": 9,
+        "physical_affection": 1,
+        "sadness_depression": 2
       },
       "2025-W17": {
-        "deflection_minimizing": 8,
+        "deflection_minimizing": 9,
         "physical_affection": 4,
         "sadness_depression": 2
       },
       "2025-W18": {
-        "deflection_minimizing": 6,
+        "deflection_minimizing": 9,
         "sadness_depression": 3,
         "physical_affection": 6
       },
       "2025-W19": {
-        "deflection_minimizing": 1
+        "deflection_minimizing": 2
       },
       "2025-W22": {
+        "deflection_minimizing": 6,
         "sadness_depression": 4,
-        "deflection_minimizing": 5,
         "physical_affection": 2
       },
       "2025-W28": {
-        "deflection_minimizing": 5,
+        "deflection_minimizing": 6,
         "physical_affection": 3,
-        "sadness_depression": 1
+        "sadness_depression": 2
       },
       "2025-W29": {
         "physical_affection": 3,
@@ -177,32 +177,32 @@
         "sadness_depression": 2
       },
       "2025-W30": {
-        "deflection_minimizing": 26,
-        "sadness_depression": 24,
-        "physical_affection": 32
+        "deflection_minimizing": 29,
+        "physical_affection": 33,
+        "sadness_depression": 24
       },
       "2025-W31": {
         "sadness_depression": 11,
-        "deflection_minimizing": 23,
+        "deflection_minimizing": 25,
         "physical_affection": 12
       },
       "2025-W32": {
-        "deflection_minimizing": 25,
-        "sadness_depression": 5,
-        "physical_affection": 10
+        "deflection_minimizing": 31,
+        "physical_affection": 10,
+        "sadness_depression": 6
       },
       "2025-W33": {
-        "deflection_minimizing": 53,
-        "physical_affection": 37,
+        "deflection_minimizing": 57,
+        "physical_affection": 38,
         "sadness_depression": 19
       },
       "2025-W34": {
-        "deflection_minimizing": 20,
+        "deflection_minimizing": 23,
         "physical_affection": 15,
         "sadness_depression": 3
       },
       "2025-W36": {
-        "deflection_minimizing": 7,
+        "deflection_minimizing": 8,
         "physical_affection": 6,
         "sadness_depression": 1
       },
@@ -212,98 +212,98 @@
         "physical_affection": 7
       },
       "2025-W38": {
-        "deflection_minimizing": 3,
+        "deflection_minimizing": 6,
         "sadness_depression": 1,
         "physical_affection": 1
       },
       "2025-W39": {
+        "deflection_minimizing": 20,
         "sadness_depression": 11,
-        "deflection_minimizing": 17,
-        "physical_affection": 13
+        "physical_affection": 14
       },
       "2025-W40": {
-        "deflection_minimizing": 28,
+        "deflection_minimizing": 29,
         "sadness_depression": 5,
-        "physical_affection": 14
+        "physical_affection": 16
       },
       "2025-W41": {
         "sadness_depression": 19,
-        "deflection_minimizing": 27,
+        "deflection_minimizing": 29,
         "physical_affection": 19
       },
       "2025-W42": {
-        "deflection_minimizing": 36,
-        "physical_affection": 25,
+        "deflection_minimizing": 39,
+        "physical_affection": 26,
         "sadness_depression": 14
       },
       "2025-W43": {
-        "deflection_minimizing": 49,
-        "sadness_depression": 16,
-        "physical_affection": 38
+        "deflection_minimizing": 52,
+        "physical_affection": 39,
+        "sadness_depression": 16
       },
       "2025-W44": {
-        "deflection_minimizing": 30,
+        "deflection_minimizing": 33,
         "physical_affection": 20,
         "sadness_depression": 12
       },
       "2025-W45": {
-        "physical_affection": 32,
-        "deflection_minimizing": 41,
+        "physical_affection": 33,
+        "deflection_minimizing": 45,
         "sadness_depression": 17
       },
       "2025-W46": {
-        "deflection_minimizing": 43,
+        "deflection_minimizing": 49,
         "physical_affection": 22,
         "sadness_depression": 24
       },
       "2025-W47": {
+        "deflection_minimizing": 21,
         "sadness_depression": 14,
-        "deflection_minimizing": 16,
-        "physical_affection": 13
+        "physical_affection": 15
       },
       "2025-W48": {
-        "deflection_minimizing": 18,
-        "physical_affection": 1,
-        "sadness_depression": 3
+        "deflection_minimizing": 23,
+        "physical_affection": 4,
+        "sadness_depression": 4
       },
       "2025-W49": {
-        "sadness_depression": 8,
-        "physical_affection": 5,
-        "deflection_minimizing": 12
+        "deflection_minimizing": 15,
+        "physical_affection": 7,
+        "sadness_depression": 8
       },
       "2025-W50": {
-        "physical_affection": 7,
-        "deflection_minimizing": 7,
+        "deflection_minimizing": 10,
+        "physical_affection": 10,
         "sadness_depression": 4
       },
       "2025-W51": {
-        "physical_affection": 30,
-        "sadness_depression": 13,
-        "deflection_minimizing": 33
+        "physical_affection": 33,
+        "sadness_depression": 14,
+        "deflection_minimizing": 37
       },
       "2025-W52": {
-        "deflection_minimizing": 14,
+        "deflection_minimizing": 17,
         "sadness_depression": 4,
-        "physical_affection": 1
+        "physical_affection": 2
       },
       "2026-W00": {
-        "physical_affection": 4,
-        "deflection_minimizing": 5,
+        "deflection_minimizing": 8,
+        "physical_affection": 5,
         "sadness_depression": 1
       },
       "2026-W01": {
-        "physical_affection": 18,
-        "deflection_minimizing": 23,
+        "deflection_minimizing": 27,
+        "physical_affection": 21,
         "sadness_depression": 6
       },
       "2026-W02": {
-        "physical_affection": 7,
-        "deflection_minimizing": 11,
-        "sadness_depression": 5
+        "deflection_minimizing": 15,
+        "physical_affection": 10,
+        "sadness_depression": 6
       },
       "2026-W03": {
-        "deflection_minimizing": 3,
-        "physical_affection": 2,
+        "deflection_minimizing": 5,
+        "physical_affection": 3,
         "sadness_depression": 2
       },
       "2026-W04": {
@@ -336,8 +336,8 @@
         "deflection_minimizing": 1
       },
       "2025-W35": {
-        "deflection_minimizing": 13,
-        "physical_affection": 3,
+        "deflection_minimizing": 15,
+        "physical_affection": 4,
         "sadness_depression": 2
       },
       "2023-W50": {
@@ -356,9 +356,9 @@
         "physical_affection": 2
       },
       "2023-W32": {
-        "sadness_depression": 2,
+        "deflection_minimizing": 5,
         "physical_affection": 5,
-        "deflection_minimizing": 5
+        "sadness_depression": 2
       },
       "2023-W35": {
         "deflection_minimizing": 2,
@@ -371,8 +371,8 @@
         "deflection_minimizing": 2
       },
       "2023-W37": {
-        "sadness_depression": 3,
         "deflection_minimizing": 4,
+        "sadness_depression": 3,
         "physical_affection": 3
       },
       "2023-W38": {
@@ -390,8 +390,8 @@
         "physical_affection": 1
       },
       "2023-W42": {
-        "physical_affection": 4,
         "deflection_minimizing": 4,
+        "physical_affection": 4,
         "sadness_depression": 1
       },
       "2023-W43": {
@@ -401,8 +401,8 @@
       },
       "2023-W44": {
         "deflection_minimizing": 4,
-        "sadness_depression": 4,
-        "physical_affection": 3
+        "physical_affection": 3,
+        "sadness_depression": 4
       },
       "2023-W45": {
         "physical_affection": 9,
@@ -419,6 +419,11 @@
         "sadness_depression": 3,
         "physical_affection": 2
       },
+      "2026-W26": {
+        "physical_affection": 5,
+        "sadness_depression": 4,
+        "deflection_minimizing": 2
+      },
       "2024-W24": {
         "physical_affection": 19,
         "sadness_depression": 3,
@@ -432,16 +437,16 @@
       },
       "2024-W00": {
         "deflection_minimizing": 1,
-        "sadness_depression": 3,
-        "physical_affection": 2
+        "physical_affection": 2,
+        "sadness_depression": 3
       },
       "2024-W01": {
         "deflection_minimizing": 1
       },
       "2024-W02": {
         "deflection_minimizing": 3,
-        "sadness_depression": 1,
-        "physical_affection": 1
+        "physical_affection": 1,
+        "sadness_depression": 1
       },
       "2024-W03": {
         "deflection_minimizing": 6,
@@ -449,8 +454,8 @@
         "sadness_depression": 1
       },
       "2024-W04": {
-        "sadness_depression": 2,
-        "physical_affection": 2
+        "physical_affection": 2,
+        "sadness_depression": 2
       },
       "2024-W05": {
         "physical_affection": 1
@@ -473,12 +478,12 @@
       },
       "2024-W13": {
         "physical_affection": 4,
-        "deflection_minimizing": 3
+        "deflection_minimizing": 4
       },
       "2024-W14": {
+        "deflection_minimizing": 6,
         "physical_affection": 5,
-        "deflection_minimizing": 4,
-        "sadness_depression": 6
+        "sadness_depression": 8
       },
       "2024-W15": {
         "physical_affection": 9,
@@ -542,7 +547,8 @@
         "physical_affection": 1
       },
       "2024-W40": {
-        "physical_affection": 1
+        "physical_affection": 1,
+        "deflection_minimizing": 1
       },
       "2024-W41": {
         "physical_affection": 2,
@@ -557,7 +563,7 @@
         "physical_affection": 1
       },
       "2024-W46": {
-        "deflection_minimizing": 2,
+        "deflection_minimizing": 3,
         "physical_affection": 1,
         "sadness_depression": 1
       },
@@ -569,8 +575,8 @@
         "physical_affection": 2
       },
       "2024-W49": {
-        "sadness_depression": 1,
-        "deflection_minimizing": 1
+        "deflection_minimizing": 1,
+        "sadness_depression": 1
       },
       "2024-W50": {
         "physical_affection": 2,
@@ -624,20 +630,22 @@
       },
       "2025-W20": {
         "sadness_depression": 1,
-        "physical_affection": 1
+        "physical_affection": 1,
+        "deflection_minimizing": 1
       },
       "2025-W21": {
         "sadness_depression": 1,
-        "physical_affection": 1
+        "physical_affection": 1,
+        "deflection_minimizing": 2
       },
       "2025-W23": {
         "physical_affection": 17,
-        "deflection_minimizing": 27,
+        "deflection_minimizing": 28,
         "sadness_depression": 6
       },
       "2025-W24": {
-        "sadness_depression": 3,
         "physical_affection": 4,
+        "sadness_depression": 3,
         "deflection_minimizing": 8
       },
       "2025-W25": {
@@ -648,20 +656,47 @@
         "deflection_minimizing": 1
       },
       "2025-W27": {
-        "deflection_minimizing": 3
+        "deflection_minimizing": 4
+      },
+      "2026-W13": {
+        "physical_affection": 2,
+        "deflection_minimizing": 1
+      },
+      "2026-W14": {
+        "deflection_minimizing": 3,
+        "physical_affection": 4
+      },
+      "2026-W15": {
+        "deflection_minimizing": 4,
+        "physical_affection": 4
+      },
+      "2026-W16": {
+        "physical_affection": 2
+      },
+      "2026-W17": {
+        "physical_affection": 3,
+        "deflection_minimizing": 2,
+        "sadness_depression": 1
+      },
+      "2026-W18": {
+        "deflection_minimizing": 1,
+        "physical_affection": 1
+      },
+      "2024-W30": {
+        "deflection_minimizing": 1
       }
     }
   },
   "cross_chat_analysis": {
     "by_relationship_type": {
       "male_friend": {
-        "physical_affection": {
+        "deflection_minimizing": {
           "avg": 1.0,
           "min": 1,
           "max": 1,
           "count": 1
         },
-        "deflection_minimizing": {
+        "physical_affection": {
           "avg": 1.0,
           "min": 1,
           "max": 1,
@@ -839,34 +874,34 @@
     },
     "correlation_matrix": {
       "physical_affection": {
-        "offering_help": 6,
-        "sadness_depression": 6,
-        "deflection_minimizing": 6,
-        "asking_for_help": 6
-      },
-      "offering_help": {
-        "physical_affection": 6,
-        "sadness_depression": 6,
-        "deflection_minimizing": 6,
-        "asking_for_help": 6
-      },
-      "sadness_depression": {
-        "physical_affection": 6,
-        "offering_help": 6,
-        "deflection_minimizing": 6,
-        "asking_for_help": 7
+        "deflection_minimizing": 9,
+        "asking_for_help": 9,
+        "offering_help": 9,
+        "sadness_depression": 9
       },
       "deflection_minimizing": {
-        "physical_affection": 6,
-        "offering_help": 6,
-        "sadness_depression": 6,
-        "asking_for_help": 6
+        "physical_affection": 9,
+        "asking_for_help": 9,
+        "offering_help": 9,
+        "sadness_depression": 9
       },
       "asking_for_help": {
-        "physical_affection": 6,
-        "offering_help": 6,
-        "sadness_depression": 7,
-        "deflection_minimizing": 6
+        "physical_affection": 9,
+        "deflection_minimizing": 9,
+        "offering_help": 9,
+        "sadness_depression": 10
+      },
+      "offering_help": {
+        "physical_affection": 9,
+        "deflection_minimizing": 9,
+        "asking_for_help": 9,
+        "sadness_depression": 9
+      },
+      "sadness_depression": {
+        "physical_affection": 9,
+        "deflection_minimizing": 9,
+        "asking_for_help": 10,
+        "offering_help": 9
       }
     }
   },
@@ -951,7 +986,7 @@
       {
         "date": "2025-06-09",
         "type": "high_activity",
-        "total_patterns": 10,
+        "total_patterns": 11,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -981,13 +1016,13 @@
       {
         "date": "2025-07-30",
         "type": "high_activity",
-        "total_patterns": 23,
+        "total_patterns": 25,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-07-31",
         "type": "high_activity",
-        "total_patterns": 13,
+        "total_patterns": 14,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -999,19 +1034,19 @@
       {
         "date": "2025-08-08",
         "type": "high_activity",
-        "total_patterns": 16,
+        "total_patterns": 17,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-08-13",
         "type": "high_activity",
-        "total_patterns": 33,
+        "total_patterns": 35,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-08-17",
         "type": "high_activity",
-        "total_patterns": 19,
+        "total_patterns": 20,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -1021,9 +1056,15 @@
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
+        "date": "2025-08-19",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
         "date": "2025-08-21",
         "type": "high_activity",
-        "total_patterns": 18,
+        "total_patterns": 20,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -1041,7 +1082,7 @@
       {
         "date": "2025-08-30",
         "type": "high_activity",
-        "total_patterns": 10,
+        "total_patterns": 11,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -1053,7 +1094,7 @@
       {
         "date": "2025-10-02",
         "type": "high_activity",
-        "total_patterns": 21,
+        "total_patterns": 22,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -1101,7 +1142,7 @@
       {
         "date": "2025-10-21",
         "type": "high_activity",
-        "total_patterns": 10,
+        "total_patterns": 11,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -1125,7 +1166,7 @@
       {
         "date": "2025-10-27",
         "type": "high_activity",
-        "total_patterns": 17,
+        "total_patterns": 19,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -1143,25 +1184,25 @@
       {
         "date": "2025-10-30",
         "type": "high_activity",
-        "total_patterns": 13,
+        "total_patterns": 14,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-11-01",
         "type": "high_activity",
-        "total_patterns": 12,
+        "total_patterns": 13,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-11-02",
         "type": "high_activity",
-        "total_patterns": 14,
+        "total_patterns": 15,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-11-04",
         "type": "high_activity",
-        "total_patterns": 22,
+        "total_patterns": 23,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -1173,7 +1214,7 @@
       {
         "date": "2025-11-12",
         "type": "high_activity",
-        "total_patterns": 17,
+        "total_patterns": 19,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
@@ -1185,43 +1226,85 @@
       {
         "date": "2025-11-16",
         "type": "high_activity",
-        "total_patterns": 34,
+        "total_patterns": 35,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-11-17",
         "type": "high_activity",
-        "total_patterns": 12,
+        "total_patterns": 13,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-18",
+        "type": "high_activity",
+        "total_patterns": 10,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-11-20",
         "type": "high_activity",
-        "total_patterns": 11,
+        "total_patterns": 12,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-11-21",
         "type": "high_activity",
-        "total_patterns": 14,
+        "total_patterns": 15,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-11-24",
         "type": "high_activity",
-        "total_patterns": 12,
+        "total_patterns": 14,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-25",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-11-28",
+        "type": "high_activity",
+        "total_patterns": 10,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-12-07",
+        "type": "high_activity",
+        "total_patterns": 11,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2025-12-24",
         "type": "high_activity",
-        "total_patterns": 46,
+        "total_patterns": 48,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2025-12-26",
+        "type": "high_activity",
+        "total_patterns": 10,
         "warning": "Elevated emotional expression - potential processing event"
       },
       {
         "date": "2026-01-05",
         "type": "high_activity",
-        "total_patterns": 31,
+        "total_patterns": 33,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2026-01-11",
+        "type": "high_activity",
+        "total_patterns": 11,
+        "warning": "Elevated emotional expression - potential processing event"
+      },
+      {
+        "date": "2026-06-28",
+        "type": "high_activity",
+        "total_patterns": 11,
         "warning": "Elevated emotional expression - potential processing event"
       }
     ]
@@ -1231,8 +1314,8 @@
     "consistency_score": 0
   },
   "summary": {
-    "total_chats_analyzed": 8,
-    "total_escalation_periods": 84,
+    "total_chats_analyzed": 11,
+    "total_escalation_periods": 90,
     "high_risk_chats": 5,
     "questionnaire_consistency": "high"
   }

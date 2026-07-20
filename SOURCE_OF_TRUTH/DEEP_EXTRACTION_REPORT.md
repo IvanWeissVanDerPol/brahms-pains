@@ -1,6 +1,6 @@
 # Comprehensive Voice Note Psychological Extraction
 
-> **Generated:** 2026-07-19 17:24
+> **Generated:** 2026-07-20 00:17
 > **Method:** Deep pattern extraction across all transcripts
 
 ---
@@ -16,6 +16,9 @@
 | Laura | 2915 | 2697 | relationship_positive, physical_affection, care_giving |
 | Lourdes_Youko_Kurama | 1036 | 997 | deflection_minimizing, physical_affection, sadness_depression |
 | Magali_Carreras | 437 | 421 | deflection_minimizing, physical_affection, loneliness |
+| _documents_ivan_voice | 7 | 7 | loneliness, conflict_tension, physical_affection |
+| _wa_chat_jonatan_ivan_msgs | 240 | 209 | deflection_minimizing, physical_affection, loneliness |
+| _wa_chat_thais_ivan_msgs | 43 | 42 | physical_affection, deflection_minimizing, self_deprecation |
 | _wa_ptt_bulk | 1169 | 1114 | deflection_minimizing, care_receiving, relationship_negative |
 
 ---
@@ -1954,6 +1957,1991 @@
 > ...te caliento yo no quiero estar contigo yo quiero estar con alguien que yo le caliente yo no quiero estar con alguien que yo no le caliento osea yo no quiero que estes conmigo porque no encontraste otra opcion porque ya estas mayor y nomas le dije osea no es como mayor verdad? pero le dije que yo no quiero est...
 
 *... and 25 more occurrences*
+
+---
+
+## _documents_ivan_voice
+
+**Date Range:** 2026-06-28 to 2026-06-29
+
+### Anxiety Fear (4 occurrences)
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...paciente, jóvenes, que se van y me pierden yo, que carillas. Eso es porque no es eso. Es moda. Es moda. Mucha internet, mucha cosa. Todo el bueno. El miedo a ser coheso. Sí, eso. Es una cosa. Eso, la moda. Sí. Pero, ¿cómo sabes que yo por lo menos ni por treingote de ornuesa? ¿O no? ¿Por qué? Porque simp...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...o paciente que viene y te dicen, doctora, yo veo otra clínica y, o sea, que no confío, no sé si me están haciendo bien. Por eso es... Estos no tienen miedo, todo el mundo es muy sumiso acá. acá, acá, osea, y no es por nada, pero se hace mucha. Yo no quiero hablar mal de mi colega. Eso nunca le voy a habl...
+
+**documents/06-28-2026 22.02.m4a** (2026-06-28)
+> ... tienes que darles a abrir a la entena del concierto va... Ok, pero no te he de edad. Una pregunta simple. Para ver el consurio, que es lo que más te preocupo, hay una sola cosa, lo que te quita el sueño. estoy un poco manito a tu chile si no me parecen muy bueno es una máquina que me quita el sueño que me...
+
+**documents/06-28-2026 22.23.m4a** (2026-06-28)
+> ..., me va a ser raro esa transición entre trabajar muy chile y trabajar a mi ritmo, porque yo soy yo, tengo bastante energía. Por eso que vi lo también estresado. A ver, tengo demasiado free time. Hago un poco de cosas para un reto. Yo sé. O sea, si ha habido, pues me voy a decir eso. No, puedo, bueno, ya e...
+
+### Asking For Help (6 occurrences)
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...o business profile es si no tengo unos desde tu cuenta de Gmail dentist, descripción, u, bueno ahí sí que me va a tener que ayudar a crear un dentist por favor no tengo idea cómo se hace, es lo que dentiste, ah, allá, accion como muerta, sumate a dos grupos de Facebook, de Facebook, de pedicín, correcena pac...
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...e horario, mensaje bienvenía el primer contacto que me dijo de sí, mensaje de bienvenía, guaco en olas, el otro abril, mi nombre se fue cuando blele, por favor escriban bien por una vez en la vida, mi consultorio que han por que ya no es en asunción, no es en luque, en asunción, va en por que ya asunción. No...
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...ueremos una lista de 20 subreddits, 20 páginas en Facebook, 20 de canal de Instagram, tipo 20 de cada protege social que sea el levanto para nosotros por favor poseí no 20 líneas de cada uno ok 20 líneas cada uno pero necesito meterlo que he visto perfecto y me atrasco tu cuenta de Facebook y se contraen mir...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... mundial, o sea. Te caigo de 17 en algún momento. Te necesito, no van a moran. ¿Qué? ¿Centro? Lo que necesito es que te hagan una conroscopía, lo que necesito que te hagan, porque estás moviendo de un lado para el otro tu hija de puta. ¿En otro lado? No importa, pero es un lado. O sea, no es bilateral, es unila...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...u cara nunca me tuviera el acorde, bueno puedo por el profesión misma no podría, o sea ya tiene tipo de la cara creo, dejo no junto por su opisonario por favor lo que pasa es que otra cosa lo que hacía que vienen con piercing en la lengua, why? ya te lo pide, no pierdes en el lengua, no te vas a seguir, no t...
+
+*... and 1 more occurrences*
+
+### Care Giving (5 occurrences)
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...hacer eso a parte volviendo a lo mío lo que más me única hacer es planificar, pensar por qué y qué paciente sepa decir al paciente mira que hago esto te hago el otro vamos a hacer por qué o sea darle un criterio y explicarle por qué con la placa con su panorámica en pantalla y explicándole mira tenemos que...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...o una si gerencia en tal la lata, te ha suprimo, no es así eso, sí estoy al mismo cerrado, estoy bien, hay que decirle de este todos los archivos que te preparo hasta ahora. Este ha que te llamó que quitarle, del de los nombres. que por lo que tuvo en nuevo, los nombran anterior en toda afiración, la hizuna y...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... Cuando tengas 10 reseñas, dejar de pedir con incendioña no es necesario. Cambiar el pedio así te gustó la atención mayoras con una reseña. Es gratis para vos y me siguen mucho. Aún, empezar a responder todas las reseñas buenas y malas con tu nombre real. Y... eso sí, eso por ejemplo es... por el analizante...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...tipo... La idea pues... Si me encantaría hacer eso, el coaching que me dijiste, pues saben enseñar la otra. Eso es por la hija, parte de tu cosa, Sí, para ti. Es un esperado que tipo, por su tipo... te vas juntada con otros dentistas o los los gigentes y te vas a la universidad y mirad un flar la gente fre...
+
+**documents/06-28-2026 22.23.m4a** (2026-06-28)
+> ...e Calendar o tu Apple Calendar lo que sea. Pero si lo corris en el progadx. Lo que les tengo en este tipo, uno es un calendario. Te para mí me va, yo te hago tres cumpleaños y te avisa tu calendario. Sí. ¿Ves a tener hoy tenés que estar paciente? ¿Ves a tener que estar calentemente? Ok, ya, sí, está bien. ...
+
+### Care Receiving (10 occurrences)
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...uir sesiones también puedes... ¿Qué es eso? Buen día que se ha fuera. a lo que mi Facebook algo, ¿qué es eso? ¿Que pasa a Facebook y Seguridad? No es para mí nada. ¿Qué es expads? Expads son expatriotas. Por ejemplo, expatriotas de Estados Unidos, porque bistroamericanos son niños de puta que vivían acá en...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ... orden de OPEG o si no una orden de tomo o si no una orden de coine y de acuerdo a lo que vean eso, puede armar su planteramiento. Eso no es problema para mí porque es lo que más me gusta hacer, planificar. Y ahí hago todo lo que corresponde a las derivaciones, si sea lo que cirugía, cirugía simple, puede ...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...lanes de la eterna. No hay esos hay muchos, los que les trao mar, hay muchos. Y sabes que, por el que sea también un poco conveniencia para nosotros, para mí, por el otro mar, es bien como a niño, de lo que son los que me es por poder tratar. No te ha venido con bullsits, hay no tal cosa. A mí no, tengo de...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...sta lo que es sencillo quiero los casos donde pueda pensar y tampoco me parece que le puedo ver a un paciente como una cosa y algo también importante para mí es que el paciente entienda cada cosa que se va a hacer que voy a hacer en su boca. procedimiento siempre va imprevio a una explicación del porqué pa...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ... hacer en su boca. procedimiento siempre va imprevio a una explicación del porqué para que y si lleno paciente me dice una nena de 18 años de 15 años para mí una nena y me dice que yo quiero carillas no le voy a hacer ni en perro que le hago otro son como unos forritos de los dientes que la que mucho otro ...
+
+*... and 5 more occurrences*
+
+### Conflict Tension (13 occurrences)
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...e ausencia, después de horario, mensaje bienvenía el primer contacto que me dijo de sí, mensaje de bienvenía, guaco en olas, el otro abril, mi nombre se fue cuando blele, por favor escriban bien por una vez en la vida, mi consultorio que han por que ya no es en asunción, no es en luque, en asunción, va en...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...tomatiza, ver si es lo que no queja, pues, pues, el cambio es auto, 5 secuencia automática, reseña, sí, yes, for yes. Pedió el 100% de una answer sin problema, ya tengo mente quién es, aquí en el pedir, le tengo sus números y todos, cosa que necesito demagrar antes de seguir fética. ¿Qué? De ti que es un co...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...iente una orden de OPEG o si no una orden de tomo o si no una orden de coine y de acuerdo a lo que vean eso, puede armar su planteramiento. Eso no es problema para mí porque es lo que más me gusta hacer, planificar. Y ahí hago todo lo que corresponde a las derivaciones, si sea lo que cirugía, cirugía simple...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...solamente a hacer su tratamiento y se vuelven a su país. También existe esa grandiosa posibilidad de poder yo puedo hacer consultas con ellos. No hay problema, pero tengo idioma, así que me puedo comunicar perfectamente con el paciente. Eso también debería ser decir acá que puedo ayudarte. y allá abajo, aba...
+
+**documents/06-28-2026 21.31.m4a** (2026-06-28)
+> ... tu dentista no haces por la feza que para el otro y tenés así el mismo pos, pero no hay... Ah sí porque cierto, no o me sí que no me ocurre tengo un problema del cuero que hay en el momento ¿Qué me imagino que estará en un flas de pesada? Un flas, un flas, un flas no estoy inflátil y pretresada no es tan f...
+
+*... and 8 more occurrences*
+
+### Deflection Minimizing (5 occurrences)
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...necesito es que te hagan una conroscopía, lo que necesito que te hagan, porque estás moviendo de un lado para el otro tu hija de puta. ¿En otro lado? No importa, pero es un lado. O sea, no es bilateral, es unilateral. Será que un usa. Bueno, no sé. No sé si siempre está, si tiene faceta, desgaste, si no tiene...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... yo. Niños, niños, niños. niños niñas, bueno la consulta todo nuevo, todo es muy blanco, si no te has imaginado la consulta toma nuevos, con el nudo, no importa si te te llaman la foto, si te enerro y una fotografía toma, pueden mandar por acá a foto pfc, me pasas, ahora si te pide una interconsulta, hay otra...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... con el presidente, entonces hay que variar acá, tan frorero una si gerencia en tal la lata, te ha suprimo, no es así eso, sí estoy al mismo cerrado, estoy bien, hay que decirle de este todos los archivos que te preparo hasta ahora. Este ha que te llamó que quitarle, del de los nombres. que por lo que tuvo en...
+
+**documents/06-28-2026 22.23.m4a** (2026-06-28)
+> ...cedimientos sí, a esa hora. Mejor. Ugu, gu. ¿Qué pasa? Bueno, esta es el cuestionario uno. ¿O no es lo que no te voy a preguntar a este cuestionario? No importa recaragua, no me importa nada eso, no me pregunté nada por reunión mi no. ¿Tenés a ese registrado? No sé qué es, primer punto que es. Si no sabes qué...
+
+**documents/06-28-2026 22.23.m4a** (2026-06-28)
+> ...ctor? No sé qué es para voslo doctor. ¿Pueses a voslo doctor? ¿No nos pude ver si te es tanto que te dan a ahí? ¡Vamos! Yo te digo rico, me no pague. No pasa nada de que pude ser solo en los 80, ¿Qué le pecan? Bueno, poné lebo, pero lo merejendes no. A su recomendación es lo bueno, listo perfecto. ¿Cuánto días ...
+
+### Family References (6 occurrences)
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ... vine, son vine, lo de hecho. y pero vos sabes qué no saque, en serio, eso es para gente, cosa caso muy aislado ¿cuál es el ambiente en tan cómodo de mi mamá? ¿La trabajo es su, es su el sabor de mi mamá? Sí, o sea, tiene una de las dos braques Sí, yo sé qué pasó por su boca, pero su boca está bien igual, ...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ... qué no saque, en serio, eso es para gente, cosa caso muy aislado ¿cuál es el ambiente en tan cómodo de mi mamá? ¿La trabajo es su, es su el sabor de mi mamá? Sí, o sea, tiene una de las dos braques Sí, yo sé qué pasó por su boca, pero su boca está bien igual, o sea, pero en la comparación, la planta en el...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...e salen de las personas por agua y ya no es la misma que vos tenés. Tu padres son distintos, o sea, tienen otra mentalidad. Entonces, por ahí, por mi familia, yo crecí otra forma diferente. Esa es la mujer para agua y ya básica es muy machita. No, acá está, usted es internalizado. Este poder fe de la guerr...
+
+**documents/06-28-2026 22.23.m4a** (2026-06-28)
+> ...e mucho, eh? Porque digo, ¿Fiel humor significa, ¿A engol? ¿Qué? Ahora, ya hay 15.000, 20.000 luli. ¿Qué es eso? ¿Tanto me he preguntado a la mujer a mi mamá? ¿Ustedes preguntan a esto? ¿Era una atención? ¿Cómo te tira que sea? De luna, aviones. De luna es a viernes a un horario cor. Y, generalmente, de lo...
+
+**documents/06-28-2026 22.23.m4a** (2026-06-28)
+> ...go, confí de estar confí de estar confí de estar confí de estar confí de la misma lugar? Ah, sí, podría ser. Pero pasa que el confí de la confí de mi familia, mi familia, muy amiga. Una vez que estés más confi... Con un tipo de todo, se está... Es así que puedo hacer. Con que tiempo está más torturado, tod...
+
+*... and 1 more occurrences*
+
+### Illness Medical (8 occurrences)
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ... la mamá que quiere responder. OK. Con el griego, tres principios, rectores. ¿Por qué no me ha estado fiel? Ahí está. Vos para guayo calio no robo de médicos, usas vos. No tú te des de más. Vos para guayo. Nunca desprecio, fijo de implante en chal. Yo no hay implantes. son muy variables y dependen del ca...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...nto. Eso no es problema para mí porque es lo que más me gusta hacer, planificar. Y ahí hago todo lo que corresponde a las derivaciones, si sea lo que cirugía, cirugía simple, puede hacer yo. Ahora, cirugía más complejas, no implantes yo no hago, pero tengo colegas con quién trabajo. Yo puedo hacer la prote...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...no es problema para mí porque es lo que más me gusta hacer, planificar. Y ahí hago todo lo que corresponde a las derivaciones, si sea lo que cirugía, cirugía simple, puede hacer yo. Ahora, cirugía más complejas, no implantes yo no hago, pero tengo colegas con quién trabajo. Yo puedo hacer la protección sob...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ... más me gusta hacer, planificar. Y ahí hago todo lo que corresponde a las derivaciones, si sea lo que cirugía, cirugía simple, puede hacer yo. Ahora, cirugía más complejas, no implantes yo no hago, pero tengo colegas con quién trabajo. Yo puedo hacer la protección sobre implante, a la PSI, puedo hacer y ta...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...atoria digitales, que tenemos la laboratoria digitales. Y eso, falta muchas cosas, gavias en muchas cosas, muchas. Lo único que no hago es en doncia, cirugía o todo doncia, cirugía implantes, eso va a toda la especialidad correspondiente. Ahí vamos a menú de tener esa parte. Qué más que más que más. Para t...
+
+*... and 3 more occurrences*
+
+### Loneliness (24 occurrences)
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...acebook, de pedicín, correcena paciente actuales en cuando hablas o limólie. Bueno, pero quien dijo que no yo puedo hacerlo si quiero, estoy hablando sola. Ahora responde a la mamá que quiere responder. OK. Con el griego, tres principios, rectores. ¿Por qué no me ha estado fiel? Ahí está. Vos para guayo...
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...espués volví otra vez a mí. Porque no quiera hasta ahora si ya eso, de eso se día año por ella. ¿Qué? Cruz ya quiste. La tendré un flagre. O sea, hay nadie o me en no aquí? No, no, no no, no, no, no, no, no, no, no, no, no, no, no, no. No no, no, no, no, no, no, no, no, no, no, no, no, no. No, no, no, no...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...e que vos dijiste cerrada, te pasabas nada hablando de esto? Ah sí, ya estaba que arritificado. ¿A qué se refiere para guayo cálido? No estoy seguro, solo. No sé, hola. Al sombre que estaba por alguna parte de acá. Sí, estaba por ahí, criptó nuevos, te un mensaje, no sé que la que se refiere con para gu...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...o. Le dejo a la cual está. Ahora sí el caso, a merita, si me viene con diente negro acá en el medio, si ahora te encaso una paciente así que tiene un solo diente negro, y es la… Tiene un diente con un congluz cana contra elamiento conducto, y el sal que hace el conducto el endocicta muchas veces no cort...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...nerse en el diente pero si siempre un diente en doncita vas a un poco más curito que los demás pero se arregla más fácil si son cinco dientes que aún solo diente pero para que tocar el resto de los dientes si puedo tocar uno solo es más desafiante no más pero se puede resolver Sí, porque no. Esa, tú. Y ...
+
+*... and 19 more occurrences*
+
+### Neglect Abandonment (11 occurrences)
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...s, claro, esto es algo altos y responder como si fuera un pregunta, o tirar los datos de que tenéis o que no. Esto, ok, dale. ¿Op, no tenía? No tiene nada. Tienes. Ok, ok. Tengo, ya tengo todo lo que es. ¿Vamos? Rugita tengo. Sí, me falta dominio registrar dominio, eso me falta hacer no tengo. y talar brucuilla, business, eso toca ser todo porque necesito comprar o tener un número. Y pues, configurar cinco quiz replies a Tajo que manda mensaje guardado, preciso agenda como hacer lo que no tengo pacientes. No, eso es preparar para aguasar pismes, las mensajes. Ah, esa tipo mensaje enviado. Esa es una mensaje rápida de tipo de teletriven y tipo de buco cualquier es ver. ya dirección de configurar 5 quick replies, precio agenda, segunda ubicación horario si te ahorra tpr 50 es lo mismo, ok, la hay una hora, bien bueno eso cuando después crear go business profile es si no tengo unos desde tu cuenta de Gmail dentist, descripción, u, bueno ahí sí que me va a tener que ayudar a crear un dentist por favor no tengo idea cómo se hace, es lo que dentiste, ah, allá, accion como muerta, sumate a dos grupos de Facebook, de Facebook, de pedicín, correcena paciente actuales en cuando hablas o limólie. Bueno, pero quien dijo que no yo puedo hacerlo si quiero, estoy hablando sola. Ahora responde a la mamá que quiere responder. OK. Con el griego, tres principios, rectores. ¿Por qué no me ha estado fiel? Ahí está. Vos para guayo calio no robo de médicos, usas vos. No tú te des de más. Vos para guayo. Nunca desprecio, fijo de implante en chal. Yo no hay implantes. son muy variables y dependen del caso de darme un presupuesto que me llegó a Raya yo hacer lo que tengo que decir, mensaje ausencia, después de horario, mensaje bienvenía el primer contacto que me dijo de sí, mensaje de bienvenía, guaco en olas, el otro abril, mi nombre se fue cuando blele, por favor escriban bien por una vez en la vida, mi consultorio que han por que ya no es en asunción, no es en luque, en asunción, va en por que ya asunción. No tengo ni idea de que pienso un sergo explico, no por cimientos que no son ensayos, aunque puedo ayudarte. En el principal, se le hace entender la física, le hace una opción agenda, consulta, urgencia, hablar con la autora, placer planes y no hay nada. cuidroplai y tratado tomado de tiempo, precio, álgula, la receta y no hay cuándo ellos. Quiero tu no, oye, casi uno de cada voy ya. Está muy fuera horario de atención, te respondo en mañalas, no decido, ciencia de tal. Llama, al... Lo que es, pues su programa no dio un recoratorio ante la cita mañana, es eso sí. El seguimiento de cuatro horas posterior como te sentí, la pedía de roseña, la radiación sin contacto, no, no, no. Lo que nunca automatiza que he ganos a vos directiva, es clomabales. Pero en esta gran nueva discusión de facturas, en un mal cambio, a tu un normal. En el primer día de hoy estamos ahí preguntando ¿Cuánto puesto a una limpia de famosa? ¿Cuánto puesto a la ligera? No, no. Con todo lo que hicimos, en las dos que nos van a ver. Y los estimales, directamente debes... Con su triniciar, 30 minutos tenías una piña, nos empiezas a mirar así. El encamamiento es Blow it, el precio se está teniendo, si ya la la la... pero si cuétera en ti vamos a ser en segundo pino informal, tendré otro grupo escrito, en la ciudad de Mecanta está buenísimo esto. Y onda, esto le puede hablar así como si fuera un WhatsApp, pero te hablas en un chat de este. Está buenísimo. Es un momento que se ve la puta tucha. Es pretendo más chat de vuelta. La idea que voy a buscar en sesiones y eso, pero tu termas irán en el mismo chile. Para seguir sesiones también puedes... ¿Qué es eso? Buen día que se ha fuera. a lo que mi Facebook algo, ¿qué es eso? ¿Que pasa a Facebook y Seguridad? No es para mí nada. ¿Qué es expads? Expads son expatriotas. Por ejemplo, expatriotas de Estados Unidos, porque bistroamericanos son niños de puta que vivían acá en Paraguay, igual de cobranipuestos. Amina? Y dicen, ¿sabes que ya pido a Estados Unidos yo me ahorro completamente y se vuelven expads? ¿A qué? Por acá me dice esto, me juzca su mate a Doge y puse Facebook de Expo en Paraguay. Yo, ¿Eh? Expo en Paraguay, que atensilencia una semana leyendo. ¿Y por mirar? ¿Asá? Bueno, en el grupo de Facebook, grupos de Reddit, tipo, ¿eh? En basaste audio, ¿eh? Y queremos una lista de 20 subreddits, 20 páginas en Facebook, 20 de canal de Instagram, tipo 20 de cada protege social que sea el levanto para nosotros por favor poseí no 20 líneas de cada uno ok 20 líneas cada uno pero necesito meterlo que he visto perfecto y me atrasco tu cuenta de Facebook y se contraen mirar más que postar a la gente mira que dicen que loco y después ahí están se estas quedando así de fuck gente esta acá me aculando todo y se ve y pues a ver que acá hay una dentista que sabe que esto Tu público meta ese un opinión está ahí. Tu público meta ese un opinión, eso que se alenta que jango y me hizo todo mal famoso. Está desierto y en mi dos por día, cinco recenas pasado le rote. ¿Qué potustó, ex pacientes? Es que tengo una lista de pacientes que...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...os van a irse con otra persona y van a ir con mío para guayo cálido, no entendí que mi herda es refiere. Este fue que vos dijiste cerrada, te pasabas nada hablando de esto? Ah sí, ya estaba que arritificado. ¿A qué se refiere para guayo cálido? No estoy seguro, solo. No sé, hola. Al sombre que estaba por alguna parte de acá. Sí, estaba por ahí, criptó nuevos, te un mensaje, no sé que la que se refiere con para guayo teniendo un cario. ¿veniste que los europeos, primero en el mundo, son muy secos? Y no son así de welcome, hacéis. Ay, tipo así como estamos hablando de nosotros, Chile. Normal. Mejor pedos a este alistra de la ciencia. ¿Le depran la preciosa? La consulta de esa de esta hora. No, no, no, no. A nosotros son los homos y ¿sabes o qué no somos? Los pravayos no somos así. Pero solo que falta mucho hermos para que sea un poco más inteligente. Ok. que yo que yo que yo que yo que yo que yo que yo que yo que yo que más ésta ella estaba Ok 20 links es el nombre comercial que querés para la marca lo leí en el resumente que no confirme esto para mañar esto es para mañar whatever you know se no sé lo que ya estaba confirmado quick supplies precios a quien está evitó bien educación horario no está que ha confirmado ubicación ya está según lo que ya está agenda precios también ya está por precios de lo que tenés acá es básico hay tres mil procedimientos que faltan muchísimo faltan y aparte de que la cora lo que cora en otros colegas también me tengo que ir fijando en cuanto cobran ellos porque no voy a poder cobrar lo mismo. O sea yo tengo idea la rancel básico del círculo de todos. Puedo corar, no puedo corar ni siquiera el 50% porque es un arancel tipo para gente de que no sé, no sé, que acá no se puede corar desde en Macias. En lo que automatiza, ver si es lo que no queja, pues, pues, el cambio es auto, 5 secuencia automática, reseña, sí, yes, for yes. Pedió el 100% de una answer sin problema, ya tengo mente quién es, aquí en el pedir, le tengo sus números y todos, cosa que necesito demagrar antes de seguir fética. ¿Qué? De ti que es un cosa replizó que encontró en el proyecto que estaba haciendo a... pues su café se pasa a su maquete, es el nombre o jamás le pasamos un nombre para tu cosa jamás le pasamos un nombre tienes alguna idea de nombre? mi nombre perfecto no tengo correo de otra parte open code no sé lo sé open code dentista que de verdad en serio si que es su nombre y sugiere 20 ideas de nombre para la comercio y explica por qué cada idea de nombre es buena, critica de rostra cada una y mejora la lista de nombres. Ok, ya elegí de todo. La irisofinal es burguilla asunción, no es burguilla asunción, es burguilla a función, no es luque. Pero probablemente sea también muy probable que es también el luque, o sea es probable que haga consultorio en dos lugares. en luque y en asunción, vamos a ver, el mercado del luque no es el mismo mercado de asunción y los costos son totalmente diferentes, otra cosa de esas. Falta a ajustar, faltas a ajustar muchísimos precios de muchísimas cosas, restauraciones, coronas, incutaciones, proteciles removiles, fija, online, en online, blancamientos directos, indirectos combinados, todo lo que es operatorial, todo tipo de restauración operatorial, clase 1, 2, 2, 3, 4, 6, 5, si son complejas, compuestas, si son directas, indirectas, si qué material va a usar, si depende del tipo de colonas, si es corononitaria, si es decir, cone, si no es ircoña, si es héroes, si es resina, si es fresado, si es por ser lana libre de metal, si es... a ver qué más me falta, si es corona, metalociérámica con este tipo de cultura de cerámica se usa, falta... tengo creo que tenemos que hacer por orden eso porque de acuerdo a eso podemos armar el cataló de precios porque yo creo que pongo más el cataló de precios por especialidad básicamente, por lo que de mi especialidad porque el resto de los pacientes van a ser derivados. Faltas lo que es protesir removibles, si es acrílico, si es flex, si es cromo. Faltas pernos, los pernos pueden ser metálicos, podemos probar yo casi no uso metálicos, generalmente vamos a ser perno de fibra personalizado con núcleo, vio base, fibra de virio, esos son todos los detalles de los procedimientos que yo podría poder tener en página web con, no sé si ponerle costo porque se unen tiendo la mayoría de las personas de lo entoló, no le ponen costo a sus anuncios que me escriban a mi Whatsapp y preguntan a los costos, no sé en página web, no me parece muy, no me parece sería poner costos de procedimientos ahí. Implantes, si yo puedo al hacer un protocolo de algún plan de armar un plan de tratamiento, evidentemente tengo que pedir al paciente una orden de OPEG o si no una orden de tomo o si no una orden de coine y de acuerdo a lo que vean eso, puede armar su planteramiento. Eso no es problema para mí porque es lo que más me gusta hacer, planificar. Y ahí hago todo lo que corresponde a las derivaciones, si sea lo que cirugía, cirugía simple, puede hacer yo. Ahora, cirugía más complejas, no implantes yo no hago, pero tengo colegas con quién trabajo. Yo puedo hacer la protección sobre implante, a la PSI, puedo hacer y también podamos poner de alguna forma, tenemos tratamientos de ofrecer, de muestratamiento con la laboratoria digitales, que tenemos la laboratoria digitales. Y eso, falta muchas cosas, gavias en muchas cosas, muchas. Lo único que no hago es en doncia, cirugía o todo doncia, cirugía implantes, eso va a toda la especialidad correspondiente. Ahí vamos a menú de tener esa parte. Qué más que más que más. Para todas las cosas de precio, he ahí quiero que me parez un mega Google Sheets o CSV file que tenga todas las cosas con un precio, una idea que explique porque el precio posiblemente con una columna para comparación con otros negocios y todos los datos relevantes para decidir los precios. Entonces, Gabi podría optarte a ese Google Sheet o Excel para hacerte los precios optiteados y estamos a eso. ¿Vamos a decir? Limbisa. ¿De para? Hoy te lo voy. ¿No te he pedido algo? ¿No te he pedido algo? ¿No te he pedido algo? ¿No te he pedido algo? ¿No te he pedido algo? ¿No te he pedido algo? ¿No te he pedido algo? ¿No te he pedido algo? No, no. Esta estructura, primero, fue la armada de la estructura de la página web y me encantaría que en vez de limpieza de tal que es un termino batético horrible, porque no ese es el término. No sé cómo sería mejor que los pacientes, que las personas conozcan. Todo el mundo le llama limpieza de tal o que ese no es el nombre, es profilaxis de tal. No sé si hay que cambiar eso o poner en idioma que el paciente entienda. No sé, la mayoría es limpieza, pero no es limpieza. Es profilaxis buco, entaria realmente. Y eso, creo que empezar armar eso primero, la estructura de la página web. y saca esa cosa que dice ahí, limpieza en tal porque no es limpieza en tal. ¿Ustedes después de dos cosas para el bueno? Si, vos decís. ¿Puedes trabajar en mil cosas para el hilo? ¿Tiene una infinidad? Sí. ¿No se ha que arculgado ahí? No, esto a diferencia de nosotros no se acuelve. O clilear a muchos. Más o lo que le pasa es que se desconnecta y tú necesitas seguirlo otra vez. No, pero igual no se cuelga. Es que es el importante. ¿Qué es eso? ¿Qué es eso? Sí, nos vemos. Yo la sé. Si es muy bien, la inspiración. ¿Y? No. De verdad, ¿Qué capaz no me va a hacer un peo? No siento nada. No, ahora tiene que cargar, todavía. No sé. A ti, hay que cargar. Eso lo que quedaba en la bolsa. A lo que quedaba. OK. Vuelve a la vuelta. OK. Thank you. Thank you, John. Yo, Tom. ¿Qué es? Pagina. Todo lo ha tocado todo lo nuevo para guayos. Precio el master. Vos para guayos me mata. Precio el master y referencia a función de estructura web. Empieza a intentar. ¿Qué es? Sí, yo. Search engine optimization. Es para que realmente busquen dentistas unción y salgan tuyo antes de los demás, porque es más chámejor con lo que estamos buscando. Eso. Buscan después con el IA, y que el primero que se parezca es el tuyo que va a ser AI Search Optimización, o algo así. Ok. 280 mil que incluye porque importa cuento vuestro. Y 280 mil lo básico junto. es sólo te puede traer 5 a 10 consultas mes esta página sólo te puede traer 5 a 10 consultas orgánicas mes de de ok, ya, ya pueden empezar ok, crew place de whatsappvines 5 un te vuelta a todas las cosas de persona es red y vaga porque no es objetivo que pasemos bien con la página y te vienen más de 10 sí, probable, whatsappvines 5 Pero la página es más para que tu Google Maps sea más completo que los demás y más lindo y se están viendo y ligiendo, dicen a este que se den las profesionales. Eso es la única cosa que siempre dio, será que la gente busca en Google a un baén pitos. Google no tanto, pero en Google Maps sí, dicen Google Maps te vas y ve uno que tiene Facebook Instagram y para que una web pasa, ver la página web un flabre que informa eso en ti. Sí, o lo que primero te salte. Yo creo que unas personas que no han visto el primero que le salte, y los que ya le tomaron bastante, van a haber un placer. Para investigar los planes de la eterna. No hay esos hay muchos, los que les trao mar, hay muchos. Y sabes que, por el que sea también un poco conveniencia para nosotros, para mí, por el otro mar, es bien como a niño, de lo que son los que me es por poder tratar. No te ha venido con bullsits, hay no tal cosa. A mí no, tengo demasiada, o sea, yo sentía que tengo mucha... Yo me tocó atender demasiada gente, esa es mi ventaja. Esa es mi herramienta que yo pude trabajar con mucha, o sea, un ontólogo medio trabaja, ni mi compañero de facultad, estoy segura que no trabajaron con tantas personas con mucho trabajo. Y en el que viene la repite, dice, un toro no lo pago a plaza. o sea, en serio, no veo que yo la voy a perder pacientes, ¿sabes? ¿Pero esa tipo qué? ¿En dónde? No, no, por eso yo creo que todo mi yo hizo y hicimos un recuento, ahí me homenudio pacientes por un, es un promedio paciente por mes atendiendo cinco veces a la semana con dos o tres de pacientes por día, cuánto es muchísimo, es mucho, yo trabajé con mucha gente, vi mucha boca, vi muchos casos ravi, y te dé demasiada persona, entonces esa es la ventaja que tengo y eso es lo que más me respalda criterio y ojo clínico, entonces por eso que me gusta más pensar que arrar primero la turbina, o sea, mi tarde de paciente, sería los dos, y brillo, más o menos paciente que un paciente básico que quiere una restauración normal o una profilaxis perfecto y un paciente así que está traumado que tiene su boca chomierda que le metieron un millón de tratamiento que nada que ver que le hicieron parte por todo lado que tiene mucha operatoria y que viene así con la boca reventada eso en mi. Me encanta eso. No me gusta lo que es sencillo quiero los casos donde pueda pensar y tampoco me parece que le puedo ver a un paciente como una cosa y algo también importante para mí es que el paciente entienda cada cosa que se va a hacer que voy a hacer en su boca. procedimiento siempre va imprevio a una explicación del porqué para que y si lleno paciente me dice una nena de 18 años de 15 años para mí una nena y me dice que yo quiero carillas no le voy a hacer ni en perro que le hago otro son como unos forritos de los dientes que la que mucho otro luego te venden como si ¿Eso es el cómodo de divino? ¿Entendéis de ponerlo? Claro que te liman, pero... ¿Pero eso? ¿Ves? Sí, es una protecis. Pero ahí depende, o sea, de diferente. Hay varias tipos. Y hay nenas que, para mi sonera, que tienen 18 o 20. O poner aquí van por un día en mi semilla, me voy a hacer carillar, ni en peor voy a hacer. Sí. O vos mismo, por ejemplo, no. Me empecé porque yo soy con los jóvenes. Ah, vine, son vine, son vine, lo de hecho. y pero vos sabes qué no saque, en serio, eso es para gente, cosa caso muy aislado ¿cuál es el ambiente en tan cómodo de mi mamá? ¿La trabajo es su, es su el sabor de mi mamá? Sí, o sea, tiene una de las dos braques Sí, yo sé qué pasó por su boca, pero su boca está bien igual, o sea, pero en la comparación, la planta en el despostito es eso también y eso es tener mucha aparaturía, y esos pacientes, generalmente son pacientes que pasaron por muchas cosas. Entonces, hay pacientes que vienen y que quieren los pacientes que vienen desde afuera, que vienen a hacer sacar tratamientos, esos pacientes quieren que voos les camis todo, a venir cambiarme todo. Y hay cosas que sí le puse. Sí, exactamente, reparar. Yo puedo reparar, pero voy a reparar hasta donde realmente valga la pena repasiente, porque no le había eso eso me te da una tortura, porque el paciente que ya pasó por todo eso, que ya tiene todo ese en su boca, significa que una persona que ya pasó por mucha tortura. Entonces, para que yo voy a, si tiene una corona que está bien hecha, que respeta todo lo que tiene que respetar, yo para que miér...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...necesito es que te hagan una conroscopía, lo que necesito que te hagan, porque estás moviendo de un lado para el otro tu hija de puta. ¿En otro lado? No importa, pero es un lado. O sea, no es bilateral, es unilateral. Será que un usa. Bueno, no sé. No sé si siempre está, si tiene faceta, desgaste, si no tien...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... yo. Niños, niños, niños. niños niñas, bueno la consulta todo nuevo, todo es muy blanco, si no te has imaginado la consulta toma nuevos, con el nudo, no importa si te te llaman la foto, si te enerro y una fotografía toma, pueden mandar por acá a foto pfc, me pasas, ahora si te pide una interconsulta, hay otr...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... Este poder fe de la guerra así no, me dijamos de todo para el rey de la casa. Literal, sí. Yo fui útil, la auto, tu cuerpo está todo, yo siempre fui fría. Me he citado ahora, sí, tuve ha sido ha sido. Ay, mi... y como es, tengo tanto control de mi pala. Tengo a mí que hacer el... Y tú me se me hace tan...
+
+*... and 6 more occurrences*
+
+### Offering Help (2 occurrences)
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...abe, el paciente es repente no sabe. El paciente, ¿qué se lleva? ¿Qué se lleva? te puede decir, mucho paciente, tiene que descuartizan a otra polega, te puedo mirar la boca al paciente y no sabe el contexto, no puede no sabe como un peso que empezó, que hizo que no hizo, y aparte que cualquier ratamiento......
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...o para cubrir su empobrado hacia la realidad. ¿Qué te vas al coaching? Y ahí, y ahí, y vos sabes que, vos puedes hacer una buena ontología básica, no te puedo anar mucho, pero aguantos de ser, te resistir y reciente sirve bastante. Por eso acá en esta parte, por ejemplo, sí, y atiendo solo con cita, o hay q...
+
+### Physical Affection (13 occurrences)
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...tes, los que estaban conmigo y saben que me voy a morar, me dicen yo me voy contigo. Yo tengo pacientes que dicen que no quieren que otra personal le toque, que no sea yo. No, reconflate, puedo. Sí, son los dos. Bueno, como piérganelo a la empresa, ¿vamos confiar en tu doctor? Sí, exacto. Sí, realmente s...
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...l caso de darme un presupuesto que me llegó a Raya yo hacer lo que tengo que decir, mensaje ausencia, después de horario, mensaje bienvenía el primer contacto que me dijo de sí, mensaje de bienvenía, guaco en olas, el otro abril, mi nombre se fue cuando blele, por favor escriban bien por una vez en la vida,...
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...ma no dio un recoratorio ante la cita mañana, es eso sí. El seguimiento de cuatro horas posterior como te sentí, la pedía de roseña, la radiación sin contacto, no, no, no. Lo que nunca automatiza que he ganos a vos directiva, es clomabales. Pero en esta gran nueva discusión de facturas, en un mal cambio, a ...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...stáis si no me va a meterlele a ver un tiempo que te vas a hacer. Y se le engoazas. No me... Es decir, por lo que por la experiencia, al menos quiero besarle. Niños, yo. Niños, niños, niños. niños niñas, bueno la consulta todo nuevo, todo es muy blanco, si no te has imaginado la consulta toma nuevos, co...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...simo y está ahí Y a veces me vuelve, a veces me vuelve, pero mi espada la que está hecho ni a la hora. Pero es por por por por por te les. Te tiro el contacto. Hace de librar tu casa y se va con la camina y todo. Sí. Y quién es suología. Porque pues esta ficheta era la plena que es otra cosa. Agenda... Tu r...
+
+*... and 8 more occurrences*
+
+### Physical Needs (6 occurrences)
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ... es. ¿Vamos? Rugita tengo. Sí, me falta dominio registrar dominio, eso me falta hacer no tengo. y talar brucuilla, business, eso toca ser todo porque necesito comprar o tener un número. Y pues, configurar cinco quiz replies a Tajo que manda mensaje guardado, preciso agenda como hacer lo que no tengo pacientes. No, eso es preparar para aguasar pismes, las mensajes. Ah, esa tipo mensaje enviado. Esa es una mensaje rápida de tipo de teletriven y tipo de buco cualquier es ver. ya dirección de configurar 5 quick replies, precio agenda, segunda ubicación horario si te ahorra tpr 50 es lo mismo, ok, la hay una hora, bien bueno eso cuando después crear go business profile es si no tengo unos desde tu cuenta de Gmail dentist, descripción, u, bueno ahí sí que me va a tener que ayudar a crear un dentist por favor no tengo idea cómo se hace, es lo que dentiste, ah, allá, accion como muerta, sumate a dos grupos de Facebook, de Facebook, de pedicín, correcena paciente actuales en cuando hablas o limólie. Bueno, pero quien dijo que no yo puedo hacerlo si quiero, estoy hablando sola. Ahora responde a la mamá que quiere responder. OK. Con el griego, tres principios, rectores. ¿Por qué no me ha estado fiel? Ahí está. Vos para guayo calio no robo de médicos, usas vos. No tú te des de más. Vos para guayo. Nunca desprecio, fijo de implante en chal. Yo no hay implantes. son muy variables y dependen del caso de darme un presupuesto que me llegó a Raya yo hacer lo que tengo que decir, mensaje ausencia, después de horario, mensaje bienvenía el primer contacto que me dijo de sí, mensaje de bienvenía, guaco en olas, el otro abril, mi nombre se fue cuando blele, por favor escriban bien por una vez en la vida, mi consultorio que han por que ya no es en asunción, no es en luque, en asunción, va en por que ya asunción. No tengo ni idea de que pienso un sergo explico, no por cimientos que no son ensayos, aunque puedo ayudarte. En el principal, se le hace entender la física, le hace una opción agenda, consulta, urgencia, hablar con la autora, placer planes y no hay nada. cuidroplai y tratado tomado de tiempo, precio, álgula, la receta y no hay cuándo ellos. Quiero tu no, oye, casi uno de cada voy ya. Está muy fuera horario de atención, te respondo en mañalas, no decido, ciencia de tal. Llama, al... Lo que es, pues su programa no dio un recoratorio ante la cita mañana, es eso sí. El seguimiento de cuatro horas posterior como te sentí, la pedía de roseña, la radiación sin contacto, no, no, no. Lo que nunca automatiza que he ganos a vos directiva, es clomabales. Pero en esta gran nueva discusión de facturas, en un mal cambio, a tu un normal. En el primer día de hoy estamos ahí preguntando ¿Cuánto puesto a una limpia de famosa? ¿Cuánto puesto a la ligera? No, no. Con todo lo que hicimos, en las dos que nos van a ver. Y los estimales, directamente debes... Con su triniciar, 30 minutos tenías una piña, nos empiezas a mirar así. El encamamiento es Blow it, el precio se está teniendo, si ya la la la... pero si cuétera en ti vamos a ser en segundo pino informal, tendré otro grupo escrito, en la ciudad de Mecanta está buenísimo esto. Y onda, esto le puede hablar así como si fuera un WhatsApp, pero te hablas en un chat de este. Está buenísimo. Es un momento que se ve la puta tucha. Es pretendo más chat de vuelta. La idea que voy a buscar en sesiones y eso, pero tu termas irán en el mismo chile. Para seguir sesiones también puedes... ¿Qué es eso? Buen día que se ha fuera. a lo que mi Facebook algo, ¿qué es eso? ¿Que pasa a Facebook y Seguridad? No es para mí nada. ¿Qué es expads? Expads son expatriotas. Por ejemplo, expatriotas de Estados Unidos, porque bistroamericanos son niños de puta que vivían acá en Paraguay, igual de cobranipuestos. Amina? Y dicen, ¿sabes que ya pido a Estados Unidos yo me ahorro completamente y se vuelven expads? ¿A qué? Por acá me dice esto, me juzca su mate a Doge y puse Facebook de Expo en Paraguay. Yo, ¿Eh? Expo en Paraguay, que atensilencia una semana leyendo. ¿Y por mirar? ¿Asá? Bueno, en el grupo de Facebook, grupos de Reddit, tipo, ¿eh? En basaste audio, ¿eh? Y queremos una lista de 20 subreddits, 20 páginas en Facebook, 20 de canal de Instagram, tipo 20 de cada protege social que sea el levanto para nosotros por favor poseí no 20 líneas de cada uno ok 20 líneas cada uno pero necesito meterlo que he visto perfecto y me atrasco tu cuenta de Facebook y se contraen mirar más que postar a la gente mira que dicen que loco y después ahí están se estas quedando así de fuck gente esta acá me aculando todo y se ve y pues a ver que acá hay una dentista que sabe que esto Tu público meta ese un opinión está ahí. Tu público meta ese un opinión, eso que se alenta que jango y me hizo todo mal famoso. Está desierto y en mi dos por día, cinco recenas pasado le rote. ¿Qué potustó, ex pacientes? Es que tengo una lista de pacientes que tengo ya con sus números y todo eso. Me voy a decir que todos mis pacientes, los que estaban conmigo y saben que me voy a morar, me dicen yo me voy contigo. Yo tengo pacientes que dicen que no quieren que otra personal le toque, que no sea yo. No, reconflate, puedo. Sí, son los dos. Bueno, como piérganelo a la empresa, ¿vamos confiar en tu doctor? Sí, exacto. Sí, realmente s...
+
+**documents/06-28-2026 18.42.m4a** (2026-06-28)
+> ...os de que tenéis o que no. Esto, ok, dale. ¿Op, no tenía? No tiene nada. Tienes. Ok, ok. Tengo, ya tengo todo lo que es. ¿Vamos? Rugita tengo. Sí, me falta dominio registrar dominio, eso me falta hacer no tengo. y talar brucuilla, business, eso toca ser todo porque necesito comprar o tener un número. Y pues, configurar cinco quiz replies a Tajo que manda mensaje guardado, preciso agenda como hacer lo que no tengo pacientes. No, eso es preparar para aguasar pismes, las mensajes. Ah, esa tipo mensaje enviado. Esa es una mensaje rápida de tipo de teletriven y tipo de buco cualquier es ver. ya dirección de configurar 5 quick replies, precio agenda, segunda ubicación horario si te ahorra tpr 50 es lo mismo, ok, la hay una hora, bien bueno eso cuando después crear go business profile es si no tengo unos desde tu cuenta de Gmail dentist, descripción, u, bueno ahí sí que me va a tener que ayudar a crear un dentist por favor no tengo idea cómo se hace, es lo que dentiste, ah, allá, accion como muerta, sumate a dos grupos de Facebook, de Facebook, de pedicín, correcena paciente actuales en cuando hablas o limólie. Bueno, pero quien dijo que no yo puedo hacerlo si quiero, estoy hablando sola. Ahora responde a la mamá que quiere responder. OK. Con el griego, tres principios, rectores. ¿Por qué no me ha estado fiel? Ahí está. Vos para guayo calio no robo de médicos, usas vos. No tú te des de más. Vos para guayo. Nunca desprecio, fijo de implante en chal. Yo no hay implantes. son muy variables y dependen del caso de darme un presupuesto que me llegó a Raya yo hacer lo que tengo que decir, mensaje ausencia, después de horario, mensaje bienvenía el primer contacto que me dijo de sí, mensaje de bienvenía, guaco en olas, el otro abril, mi nombre se fue cuando blele, por favor escriban bien por una vez en la vida, mi consultorio que han por que ya no es en asunción, no es en luque, en asunción, va en por que ya asunción. No tengo ni idea de que pienso un sergo explico, no por cimientos que no son ensayos, aunque puedo ayudarte. En el principal, se le hace entender la física, le hace una opción agenda, consulta, urgencia, hablar con la autora, placer planes y no hay nada. cuidroplai y tratado tomado de tiempo, precio, álgula, la receta y no hay cuándo ellos. Quiero tu no, oye, casi uno de cada voy ya. Está muy fuera horario de atención, te respondo en mañalas, no decido, ciencia de tal. Llama, al... Lo que es, pues su programa no dio un recoratorio ante la cita mañana, es eso sí. El seguimiento de cuatro horas posterior como te sentí, la pedía de roseña, la radiación sin contacto, no, no, no. Lo que nunca automatiza que he ganos a vos directiva, es clomabales. Pero en esta gran nueva discusión de facturas, en un mal cambio, a ...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...rque para que coma opción de materiales ahora primero es armar el plano de ref wonder nisto ver lo que es correspondiente al paciente lo que paciente necesita y después nos vamos a la ejecución porque la ejecución por la miren la que no cuesta la ejecución el lo más fácil es lo que voy a lo que más más, pues tienes precisión y buscar un vetto correcto sería el plan tendramiento, por ahí empieza, porque creo que cualquier tipo de restauración, cualquier tipo de rehabilitación depende muchísimo de eso, del plan de tendramiento y el enfoque que vuelve a tu plan de tendramiento para el paciente que trates y aparte que tenés que el paciente en una primera consulta, vos tenés que sacarle toda la información que puedas, pero también tenés que saber cómo le vas a sacar ese sistema. El paciente que muchas cosas no saben, el paciente que volve es decir, yo estoy, vos está apretando, cruzando y te dicen no, no. Y hablando, hablando, hablando, después de la consulta de cual te cosa, de ma historia clínica, hablar, hablar, lo decía el paciente, prey, hace un ruido algo, si eso yo suelo hacer, ok, perfecto. O sea, nunca tomarte nada de lo que el paciente dice a la ligera en la primera consulta porque hay informaciones muy importantes. ¿Con realidad sí? ¡Infant! No te ríase cuántas es eso. ¿De siempre? ¿Vos estás desplazando ahí tu puta? ¿Pústenes el mismo con la marca Lully? ¿Vos tenes buenicitado? ¿Uá prestas? Probablemente. ¿No te lo siento nada? ¿No? No te suele leer nada. Nada más acá, el más cerrado, nada. Y la voy a la cabeza. Másimos, son, tenemos, cuando quiero rápido a mi cuello, siento que a mi mucro, lo tipo hace el trímpice y me sale colorcito, y tipo está en la jefe. ¡Muy bien! Este es un dolor que es un calor que se espande, que tipo está... No es cosi, pero eso puede ser algo de el puesto. No, vos tenés que ver. Tu puedes terminar con una ser vertical, porque vos usas mucha computadora. O sea, tu posición usualmente, pues estás acá. Es imposible, es usual, pero sí. Bueno, o sea, ¿qué vos estás acostado a mendedrosas tu computadora? Es usual. A veces así. Bueno, pero siempre igual, fíjate que siempre hace esto. No hay que estar acá y tu computadora está acá y yo. No sé esto. En mi pata está más altos, porque tengo las puntallas altas que están así. Ok, de todas formas hay cierta, es una idea muy aseo, un salto mandibular mundial, o sea. Te caigo de 17 en algún momento. Te necesito, no van a moran. ¿Qué? ¿Centro? Lo que necesito es que te hagan una conroscopía, lo que necesito que te hagan, porque estás moviendo de un lado para el otro tu hija de puta. ¿En otro lado? No importa, pero es un lado. O sea, no es bilateral, es unilateral. Será que un usa. Bueno, no sé. No sé si siempre está, si tiene faceta, desgaste, si no tienes, depende. Eso depende mucho. ¿Se esté caer en un mes? ¿Se es un scan? Yo soy un scan. En el scan... No, si lo es mucho para eso. El scan. Te caigo, no sé lo que ni quieras hacer, ya estoy chile. No me diga lo que te queda hacer, porque es otra cosa. Allá vamos a ir por otro lado. Puedes comer el sitio de este nivel de gente. No puedo decirte, es porque yo no soy una persona experimenta, así que tendría que aprender el rímbano. Sí, debería de aprender cosas que nunca me enseñan. Igual, estás en merril, voy a aprender por tu culpa, porque vos me pasaste esa página. ¿Se aprenden? Se aprenden todo, era. Aquí pasa que, en serio, antes, era... Era diferente, y la cultura acá no es la misma cultura que no son, que salen de las personas por agua y ya no es la misma que vos tenés. Tu padres son distintos, o sea, tienen otra mentalidad. Entonces, por ahí, por mi familia, yo crecí otra forma diferente. Esa es la mujer para agua y ya básica es muy machita. No, acá está, usted es internalizado. Este poder fe de la guerra así no, me dijamos de todo para el rey de la casa. Literal, sí. Yo fui útil, la auto, tu cuerpo está todo, yo siempre fui fría. Me he citado ahora, sí, tuve ha sido ha sido. Ay, mi... y como es, tengo tanto control de mi pala. Tengo a mí que hacer el... Y tú me se me hace tanto con el electrónaco que es con tu cala. Inesio, lo que. En serio, te potezco a ustedes a vos te acuerdas muy bien. Porque te pago mi Jay, y yo no somos muy... Big y... Me gustan que no se lo tenés mucho moclado. Ahora tomo una sitio más flagra, no sé, para su impal o con pierna. y lo hace más fácil a Mike porque a tiempo con un brunes de repente sí claro porque su espalda es grande, pero yo estoy estar contraturada, pero es de estrés, ¿no? a mí me fue por esto es que tipo me juiro a silbredar, soy de jodos de donerme a ser ejercicio de esta parte pero capaz porque tenías algún tipo con tratura, y sí por eso la contratura se siente y yo tengo una canalización muchísimo y está ahí Y a veces me vuelve, a veces me vuelve, pero mi espada la que está hecho ni a la hora. Pero es por por por por por te les. Te tiro el contacto. Hace de librar tu casa y se va con la camina y todo. Sí. Y quién es suología. Porque pues esta ficheta era la plena que es otra cosa. Agenda... Tu respuesta o la difundía semana. Segunda, buscona, segunda opinión antes de avanzar en buena edición. Claro. Buscaron a segunda opinión sería derribar. La derivación en correcondientes. No, a quien te escribaba vos? Para peor todo vos, una es una opinión de lo que otros están haciendo. Te voy a pedir que te pasen los datos para que vos podáis decirle, si me parece que estoy haciendo que o que carajo te están haciendo. Ya de mil basta, esperan a poco. La gente pide eso. No. Pero puede eso, ¿sí que pide? La relojción. Es una buen... Ahora que me está diciendo, iban para... Eso es una excelente idea. La mayoría de las personas no saben qué carajo les dan a ser un duolo. Esa una... Míchples, y puede jugar 20.000 por decirles si está bien a botas por el que están haciendo. Así les of todos los otros. Sí, o eso es... De verdad, ponen en serio sin juego. Ponen en Flare frente a todos los otros sentistas y pedí a la siga en la que no pide a quitar. Eso es verdad, de verdad, es algo así que, honestamente, porque de todo esto año que trabajé, así poquitos, poquitos son los... ¿cómo te aman? Lo paciente que viene y te dicen, doctora, yo veo otra clínica y, o sea, que no confío, no sé si me están haciendo bien. Por eso es... Estos no tienen miedo, todo el mundo es muy sumiso acá. acá, acá, osea, y no es por nada, pero se hace mucha. Yo no quiero hablar mal de mi colega. Eso nunca le voy a hablar a mi paciente. Jamás, le voy a decir, le voy a hablar mal de otro colega. ¿Por qué? Porque yo no sé el contexto. Y ahí no es realidad también. El paciente nunca sabe, eso es cierto. El paciente nunca está bien informado, el paciente es repente sabe, el paciente es repente no sabe. El paciente, ¿qué se lleva? ¿Qué se lleva? te puede decir, mucho paciente, tiene que descuartizan a otra polega, te puedo mirar la boca al paciente y no sabe el contexto, no puede no sabe como un peso que empezó, que hizo que no hizo, y aparte que cualquier ratamiento... No, siempre la pérdida de acá, algo será rarito. Veo siempre, veo vientes, o sea piezas... Fielfri lo ofrecer también en servicio de que vengan a ganar un scan de su boca de un tipo de grama, radiografía o sea que haran tipo de seguro. ¿Este tícito ahora? El me lo has prometido que hay unas fantasmas a veces en ese roto. ¿Por qué? Por eso te pusieron platicito. ¿Por qué? El platicito es parte de... El platicito es porque entraron mi seca. Me lo quiero decir, no, no, no, no, no, no, no, no, no. Tícito ahora, ahora. ¿Este tícito ahora? ¿Eso es mi córrer? Sí, cuando sí, porque me gite que te hiciste. ¿Eso y cuál? Este de acá, no me cambia este. Y me puse el nuevo de este. O sea, me puse una suela en vez del palito de No 2. Ese me doble, deja te dejó de... A mí me dolió 12 días. ¿Qué por cierto? Es así, me parece... A mí me dolió más, pero sí, me puse un cobre en mi pequeño. ¿Te puse tanto un poco en chava porque sí, ¿cuarando se le quitamos? No, yo me doble. De verdad, me doble. un poquito más sensible, no, el que encartila o duele se que duele un poquito, a mí me va a dar algunos, de todo lo que me dice que cuesta que yo me hice suela, sí me falta una acá y me falta otro, me quiero hacer otro acá pero no sé, ese quien no apaga para hacer, porque acá es un lugar muy difícil de hacer. Y esto le dirá que, con el que me dijiste, Olga, hace bastante bien, tenemos una toto a bajar por su cara y le puede hablar así un plazo antes de este por su cara nunca me tuviera el acorde, bueno puedo por el profesión misma no podría, o sea ya tiene tipo de la cara creo, dejo no junto por su opisonario por favor lo que pasa es que otra cosa lo que hacía que vienen con piercing en la lengua, why? ya te lo pide, no pierdes en el lengua, no te vas a seguir, no te vas a seguir, no te vas, te que me dijiste que te fue que voy a hacer la No me interesa no te vas a hacer ni cada vez, no. Sobre mi cada vez, pero te voy a necesitar esa cargónima a... Así te voy a ir. No, no, no, no, es piercing. Esa le va a partir. ¿Qué pasa? ¿No sé? Y va, no. ¿Qué te puede hacer? ¿Qué te puede hacer? ¿Qué te puede hacer? No, no va a hacer eso. Estáis loco. Estáis si no me va a meterlele a ver un tiempo que te vas a hacer. Y se le engoazas. No me... Es decir, por lo que por la experiencia, al menos quiero besarle. Niños, yo. Niños, niños, niños. niños niñas, bueno la consulta todo nuevo, todo es muy blanco, si no te has imaginado la consulta toma nuevos, con el nudo, no importa si te te llaman la foto, si te enerro y una fotografía toma, pueden mandar por acá a foto pfc, me pasas, ahora si te pide una interconsulta, hay otra cosa también, si ya es segundo opinión y otra cosa, según la complejía, exame en completo, documentación de llago, opción de los nudo, por escrito totalmente, queréis que agendemos si Me tu nombre le dije que te queda perfecto. Mi nada, fue hacerle de chequear el trabajo de otra gente. Sí. Que te pueden hacer, eh, me hicieron bien. Slash, el full check, que te pueden hacer así, el scan, o las cosas que te sean útiles a vos para ver. Eso de sí. Y para que puedan tener nomas ellos. Porque a mí me pasa que jamás te mandaron mis canses. ¿Por qué? Dejame al le pedir. Ya. Pero tiene que mandar igual. Si o si. ¿Seguro que te voy a ir? Es capaz de mandar una sonia, o algo de sí. Porque de tipo. A sonia puede ser. Sí. a mí no es que me cae más bien, ni ningún cosa. Sí. O sea, escribíme si vení de Luke y bueno, atiendo solo con cita previa. Eso por ejemplo, no sé si me conveniría. O sea, claro, de hecho, claro que tiene que haber cita previa. Tiene que haber la idea, y ahí lo que es digo, ¿jabmín? ¿Cómo hago? Refresera, de atiendo solo con citas previas, tengo un horario muy tipo, no soy solo de dentista, también le enseño a gente o que tipo, algo que de antelineros de que tipo sos profesionales estás haciendo muchas cosas. Sí. Porque esto hace unos tenés tiempo. Sí, o sea tipo hacer como, si tipo un coaching, a un tolo, a colegas que están empezando, le podemos traer genera idea de una clínica, enseñar un poco, eso acá no existe, no existe nadie hace eso. la gente sale la universidad y lo primero que hace es, y son pogrado hacer la habitación oral, acá nadie hace un coche, de donde lo hicieron. Sí, no, o sea, y me voy a andar, pues, tener así el mensaje de que tipo, yo estoy acá, en vez de que si eso lo concita previa, que eso nada que tipo me ve cuando me llamas lo más. Eso, eso es lo que no quiero que se entienda. En vez de así, algo más reflexo de algo, tipo, soy profesional, estoy muy ocupada. tengo acá con un menes de títas lo más. Sí, no, tengo un tipo... No, no, no, no, no, no hay salidas palabras, pero que tipo de liada le buche una forma mejor de decir tipo de... Claro, estoy haciendo otras otras tipos de liada, ya estoy con no sé, porque algo que no hay a que tipo... La idea pues... Si me encantaría hacer eso, el coaching que me dijiste, pues saben enseñar la otra. Eso es por la hija, parte de tu cosa, Sí, para ti. Es un esperado que tipo, por su tipo... te vas juntada con otros dentistas o los los gigentes y te vas a la universidad y mirad un flar la gente freja y le decís, este es mi tarjeta, me vienes a prender un flacar o sea tipo si, o me voy te a un coach de ondología, ofrecer a los profesores actuales en la facultad de decirle mira tu al mismo logente y por te parece un prós, pasar en mi contacto y luego coaching este es mi servicio lo que sea si pudiera ser, acá no existe eso realmente no existe No, pero... No, eso le podás hacer, me van a hacer el primero no sabía. Esa es la idea, ser original. Andáter es la universidad de eso de la gente. Flajera así, con el lisa y poner la sirecina para que no podamos sacar de cosas. Esa es la gente, esa es la gente. La gente se da prima por un lado. Para guay era así su... Igual de todas formas. No, todas pueden. No, hay mucha gente que quiere estudiar y no tiene dinero para cubrir su empobrado hacia la realidad. ¿Qué te vas al coaching? Y ahí, y ahí, y vos sabes que, vos puedes hacer una buena ontología básica, no te puedo anar mucho, pero aguantos de ser, te resistir y reciente sirve bastante. Por eso acá en esta parte, por ejemplo, sí, y atiendo solo con cita, o hay que valiar un poquito. Estos son tipos de whatsapps, para tus pacientes, no para los que... Claro, claro. Para lo otro le hace, es una seja esprivada, o así, o tipo, tienes un foro donde la gente yo estoy interesado a mis amigos tenés pasos para que te pasas en el coche y ya eso es lo más de mandas son mensajes eso por ejemplo pero ahí por ejemplo en esos casos yo no sé si es que ahí tenés que tener habilitado algo en mi interior no creo de educación porque yo no doy no tiene un título de nada es tipo fril ando más adetivo no sé por eso si te Y luego, se le puede preguntar a un flaky investigate y después le puede preguntar a alguien abogado de ver la de leche ¿Es que tu estigue de ver la otra vez? Y si le esta lo que encontraste ahora, chequeque, que este bien y vissenes y me faltan algo Pero si te para de fuego, no vas a tener coche hasta que tengas todo lo de los... Pero no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no... Pero si es una urgencia... el blog fue teniendo en la misa mi te priorizo, exactamente ok, el mensaje que me nía para contacto o el auto se le abrió el en un video de las nuevas noticias, el audio de la opción te lo hago como un teleón de tele bien antes de tu parte, la agend...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...stán allá, o sea yo tengo un conificato, esto es un tocar o la coluna, o sea la paciente no quiere tocar su corona, esta bien, respeto porque no hace falta tocar la corona, pero son así todos casos, yo no tengo casos muy estenilizadora, creo que te mostré, ¿cuál te terminamos? El caso que te había mostrado es canear, el paciente tiene 5 días en vez de tener 3. Eso es lo que le pusimos. Hay que llegar un solo diente, yo puse 2, porque partimos la raíz. Por ejemplo, el paciente y el nacido un su carro reventado, donde está este, que ese flaturo se partió. Era un chico que las saltaron. Yo creo que puedo dejar ser un deporte de un audio en el que explica tipo... Ya colgar ahí ¿Te pongo más de tu más o menos flasida de tu stop pacientes de lo que más te gustó regular y trabajar? Muy ¿Cuáles son las cosas que te gustó? Porque para tener lista compuesta de todo lo que haces, pero no lo que te gusta es el baño Si le falta bastante diente ahí No de qué le falta, está de que mierda su boca Ah Mira, mira, estos son todos dientes para quitar acá no tiene esta extracción, este se puede salvar este se va conducto, tiene una infección acá, este tiene un conducto mal hecho, acá hay un proceso pero ya pica, la catea una corona, la corona tiene perno, los dientes arriba mira, sabes por qué satasgan por este pedito de todas, porque no tiene abajo, no tiene tanta bonita, esto no tiene donde de occluir, entonces destruyen los de arriba, a esto probablemente esto diente ya no sé, creo que tener mucha movilidad. Estas son las hojas en los norte. Este kilo mo, porque este un kilo mo, pero para mí no me encanta. Y acá hay uno contra y que se puede hacer, porque se puede hacer, pero hay mucho por hacer y tengo muchas cosas que no están hacer. Este es el refrauturo, la que hemos entendido lo puede pasar, está un atomo. Este paciente se partió con él. se rompió un enegüe de la saltar en el de la fe así hay muchos casos y casos, pero no me gustan tanto lo que no me gustan más con esto pero por filancias ni nada de preparación nos contó ejemplos de mensajes para tu pacientes más cercanos para los que estrenan así ultra traumados porque este era una reseña distinta de las que tipo te quieren mucho te estaba haciendo este quiero mucho por ahí jaja putal, las anteriores me hicieron verga ok, sí, en serio sí sí que tenemos unos regularos, así que tipo bien el pame nuevo, tipo si la mejora el impienzo, yo que sea sí, no es si, hay gente que viene por bloca hay pacientes que vienen casi, depende el paciente que se casa con tío siempre viene con tío, se había llegado una vez al año, que se lló, casi, se te depende por yontal depende por sí ¿Déjame mandar más de 10 personas? 3 a 4 días, entre míos, personalizan el nombre siempre. Claro, evidentemente que le decían, ¿o la furlano? Pues eso es lo más duro. No le da 7 pacientes. ¿O la paciente? ¿O la paciente? ¿Tienes de acuerdo a los jóvenes? ¿Tienes así? Las cosas de template. Claro. Sí, pacientes contados, confirmados, yo dejaron. ¿Qué es ya dejaron? te dejaron una reseña. Ah ok, aplauden un cemento de un gratu claro. Cuando tengas 10 reseñas, dejar de pedir con incendioña no es necesario. Cambiar el pedio así te gustó la atención mayoras con una reseña. Es gratis para vos y me siguen mucho. Aún, empezar a responder todas las reseñas buenas y malas con tu nombre real. Y... eso sí, eso por ejemplo es... por el analizante página, para ponerle... porque el paciente le gusta el trató... el trató con su... su doctor, eso es... ya... Tijo Dios. Ente que se me tiene tu... Ah, es un friar. No, a ver, ¿que tipo de... de juega es el tan gris? Sí. Es tipo porque se está acá en las partículas por la bolsa. En vez de tipo que te deja a sorprendirse y se va a no ser... se pean, se pean una vuelta. ¿Filaxis? No, lo tienen. No, lo tienen. Si tiene la idea de que uno ofutor. No, no. No, no. La idea es que sigo un poco focado por falaxis, porque el tipo de no es que uno de que pasa a la idea es que te puede explicar que es más del otro. La habititación, metame. La habititación es una alumina muy básica, a lo que hace uno de los logos que se los había llenos. y por las realizaciones también puedes dar un odio que lo recibió ayer la diferencia del criterio, esa es la manera de ejecutar, la manera de armar un plan de herramientas, al que yo hago básicamente se basa en eso, en pensar en un plan de redadamiento que corresponde y que sea correo y todo acorda el caso el paciente, en el caso que realmente amerite cierto tratamiento, le hago y realmente si no amerita no le hago, no voy a hacerle algo el paciente solamente por cobrarle plata o lo que sea ahora, simplemente voy a hacer lo que corresponde hacerle en ese momento, si tengo que sacrificar dinero por lo que me paguen, por hacer lo que corresponde voy a hacer lo que corresponde porque el paciente no es una cosa, el paciente es un ser humano que me está dando su confianza a la de su boca y bueno, entonces más que nada es hacer lo que responde y ya eso es lo que yo creo que por ahí está es la diferencia del lado de un tolosilla que me gustaría hacer que no te lo gaya con criterio, más que nada lo que más me gusta es planificar, planificar y porque no enseñar a otros colegas me gustaría que es lo que estoy haciendo ahora mismo tengo serían como residentes no son mis residentes pero son como mis residentes porque yo le estoy enseñando a ellos básicamente se ha sido una tener muy poco tiempo y le estoy enseñando a estoy enseñando cómo desarrollarse en la clínica, porque yo trabajo, creo que con té eso trabajo, trabajé y sí yo trabajando con un lujo grande paciente, entonces más que nada, ¿cómo que no estoy haciendo? Yo cobro son como más recientes, yo soy como que le estoy su su doctora de que lo estoy enseñando me gusta hacer eso a parte volviendo a lo mío lo que más me única hacer es planificar, pensar por qué y qué paciente sepa decir al paciente mira que hago esto te hago el otro vamos a hacer por qué o sea darle un criterio y explicarle por qué con la placa con su panorámica en pantalla y explicándole mira tenemos que hacer esto podemos hacer esto esto esto, esto, esto, tampoco no quiero decirle, por ejemplo, no sé, tu presupuesto es de que se yo quince veinte millones, no sé, y si yo le tienes que pagar los veinte millones ahora mismo, no, no es así, es decirle del paciente, decirle del paciente que voy a que puede muy ir de espacio, que vamos con lo básico, que empezamos con lo básico y que el plan de entonces se pueda hacer por etapas. Siempre todo se le explica el paciente porque para que coma opción de materiales ahora primero es armar el plano de ref wonder nisto ver lo que es correspondiente al paciente lo que paciente necesita y después nos vamos a la ejecución porque la ejecución por la miren la que no cuesta la ejecución el lo más fácil es lo que voy a lo que más más, pues tienes precisión y buscar un vetto correcto sería el plan tendramiento, por ahí empieza, porque creo que cualquier tipo de restauración, cualquier tipo de rehabilitación depende muchísimo de eso, del plan de tendramiento y el enfoque que vuelve a tu plan de tendramiento para el paciente que trates y aparte que tenés que el paciente en una primera consulta, vos tenés que sacarle toda la información que puedas, pero también tenés que saber cómo le vas a sacar ese sistema. El paciente que muchas cosas no saben, el paciente que volve es decir, yo estoy, vos está apretando, cruzando y te dicen no, no. Y hablando, hablando, hablando, después de la consulta de cual te cosa, de ma historia clínica, hablar, hablar, lo decía el paciente, prey, hace un ruido algo, si eso yo suelo hacer, ok, perfecto. O sea, nunca tomarte nada de lo que el paciente dice a la ligera en la primera consulta porque hay informaciones muy importantes. ¿Con realidad sí? ¡Infant! No te ríase cuántas es eso. ¿De siempre? ¿Vos estás desplazando ahí tu puta? ¿Pústenes el mismo con la marca Lully? ¿Vos tenes buenicitado? ¿Uá prestas? Probablemente. ¿No te lo siento nada? ¿No? No te suele leer nada. Nada más acá, el más cerrado, nada. Y la voy a la cabeza. Másimos, son, tenemos, cuando quiero rápido a mi cuello, siento que a mi mucro, lo tipo hace el trímpice y me sale colorcito, y tipo está en la jefe. ¡Muy bien! Este es un dolor que es un calor que se espande, que tipo está... No es cosi, pero eso puede ser algo de el puesto. No, vos tenés que ver. Tu puedes terminar con una ser vertical, porque vos usas mucha computadora. O sea, tu posición usualmente, pues estás acá. Es imposible, es usual, pero sí. Bueno, o sea, ¿qué vos estás acostado a mendedrosas tu computadora? Es usual. A veces así. Bueno, pero siempre igual, fíjate que siempre hace esto. No hay que estar acá y tu computadora está acá y yo. No sé esto. En mi pata está más altos, porque tengo las puntallas altas que están así. Ok, de todas formas hay cierta, es una idea muy aseo, un salto mandibular mundial, o sea. Te caigo de 17 en algún momento. Te necesito, no van a moran. ¿Qué? ¿Centro? Lo que necesito es que te hagan una conroscopía, lo que necesito que te hagan, porque estás moviendo de un lado para el otro tu hija de puta. ¿En otro lado? No importa, pero es un lado. O sea, no es bilateral, es unilateral. Será que un usa. Bueno, no sé. No sé si siempre está, si tiene faceta, desgaste, si no tienes, depende. Eso depende mucho. ¿Se esté caer en un mes? ¿Se es un scan? Yo soy un scan. En el scan... No, si lo es mucho para eso. El scan. Te caigo, no sé lo que ni quieras hacer, ya estoy chile. No me diga lo que te queda hacer, porque es otra cosa. Allá vamos a ir por otro lado. Puedes comer el sitio de este nivel de gente. No puedo decirte, es porque yo no soy una persona experimenta, así que tendría que aprender el rímbano. Sí, debería de aprender cosas que nunca me enseñan. Igual, estás en merril, voy a aprender por tu culpa, porque vos me pasaste esa página. ¿Se aprenden? Se aprenden todo, era. Aquí pasa que, en serio, antes, era... Era diferente, y la cultura acá no es la misma cultura que no son, que salen de las personas por agua y ya no es la misma que vos tenés. Tu padres son distintos, o sea, tienen otra mentalidad. Entonces, por ahí, por mi familia, yo crecí otra forma diferente. Esa es la mujer para agua y ya básica es muy machita. No, acá está, usted es internalizado. Este poder fe de la guerra así no, me dijamos de todo para el rey de la casa. Literal, sí. Yo fui útil, la auto, tu cuerpo está todo, yo siempre fui fría. Me he citado ahora, sí, tuve ha sido ha sido. Ay, mi... y como es, tengo tanto control de mi pala. Tengo a mí que hacer el... Y tú me se me hace tanto con el electrónaco que es con tu cala. Inesio, lo que. En serio, te potezco a ustedes a vos te acuerdas muy bien. Porque te pago mi Jay, y yo no somos muy... Big y... Me gustan que no se lo tenés mucho moclado. Ahora tomo una sitio más flagra, no sé, para su impal o con pierna. y lo hace más fácil a Mike porque a tiempo con un brunes de repente sí claro porque su espalda es grande, pero yo estoy estar contraturada, pero es de estrés, ¿no? a mí me fue por esto es que tipo me juiro a silbredar, soy de jodos de donerme a ser ejercicio de esta parte pero capaz porque tenías algún tipo con tratura, y sí por eso la contratura se siente y yo tengo una canalización muchísimo y está ahí Y a veces me vuelve, a veces me vuelve, pero mi espada la que está hecho ni a la hora. Pero es por por por por por te les. Te tiro el contacto. Hace de librar tu casa y se va con la camina y todo. Sí. Y quién es suología. Porque pues esta ficheta era la plena que es otra cosa. Agenda... Tu respuesta o la difundía semana. Segunda, buscona, segunda opinión antes de avanzar en buena edición. Claro. Buscaron a segunda opinión sería derribar. La derivación en correcondientes. No, a quien te escribaba vos? Para peor todo vos, una es una opinión de lo que otros están haciendo. Te voy a pedir que te pasen los datos para que vos podáis decirle, si me parece que estoy haciendo que o que carajo te están haciendo. Ya de mil basta, esperan a poco. La gente pide eso. No. Pero puede eso, ¿sí que pide? La relojción. Es una buen... Ahora que me está diciendo, iban para... Eso es una excelente idea. La mayoría de las personas no saben qué carajo les dan a ser un duolo. Esa una... Míchples, y puede jugar 20.000 por decirles si está bien a botas por el que están haciendo. Así les of todos los otros. Sí, o eso es... De verdad, ponen en serio sin juego. Ponen en Flare frente a todos los otros sentistas y pedí a la siga en la que no pide a quitar. Eso es verdad, de verdad, es algo así que, honestamente, porque de todo esto año que trabajé, así poquitos, poquitos son los... ¿cómo te aman? Lo paciente que viene y te dicen, doctora, yo veo otra clínica y, o sea, que no confío, no sé si me están haciendo bien. Por eso es... Estos no tienen miedo, todo el mundo es muy sumiso acá. acá, acá, osea, y no es por nada, pero se hace mucha. Yo no quiero hablar mal de mi colega. Eso nunca le voy a hablar a mi paciente. Jamás, le voy a decir, le voy a hablar mal de otro colega. ¿Por qué? Porque yo no sé el contexto. Y ahí no es realidad también. El paciente nunca sabe, eso es cierto. El paciente nunca está bien informado, el paciente es repente sabe, el paciente es repente no sabe. El paciente, ¿qué se lleva? ¿Qué se lleva? te puede decir, mucho paciente, tiene que descuartizan a otra polega, te puedo mirar la boca al paciente y no sabe el contexto, no puede no sabe como un peso que empezó, que hizo que no hizo, y aparte que cualquier ratamiento... No, siempre la pérdida de acá, algo será rarito. Veo siempre, veo vientes, o sea piezas... Fielfri lo ofrecer también en servicio de que vengan a ganar un scan de su boca de un tipo de grama, radiografía o sea que haran tipo de seguro. ¿Este tícito ahora? El me lo has prometido que hay unas fantasmas a veces en ese roto. ¿Por qué? Por eso te pusieron platicito. ¿Por qué? El platicito es parte de... El platicito es porque entraron mi seca. Me lo quiero decir, no, no, no, no, no, no, no, no, no. Tícito ahora, ahora. ¿Este tícito ahora? ¿Eso es mi córrer? Sí, cuando sí, porque me gite que te hiciste. ¿Eso y cuál? Este de acá, no me cambia este. Y me puse el nuevo de este. O sea, me puse una suela en vez del palito de No 2. Ese me doble, deja te dejó de... A mí me dolió 12 días. ¿Qué por cierto? Es así, me parece... A mí me dolió más, pero sí, me puse un cobre en mi pequeño. ¿Te puse tanto un poco en chava porque sí, ¿cuarando se le quitamos? No, yo me doble. De verdad, me doble. un poquito más sensible, no, el que encartila o duele se que duele un poquito, a mí me va a dar algunos, de todo lo que me dice que cuesta que yo me hice suela, sí me falta una acá y me falta otro, me quiero hacer otro acá pero no sé, ese quien no apaga para hacer, porque acá es un lugar muy difícil de hacer. Y esto le dirá que, con el que me dijiste, Olga, hace bastante bien, tenemos una toto a bajar por su cara y le puede hablar así un plazo antes de este por su cara nunca me tuviera el acorde, bueno puedo por el profesión misma no podría, o sea ya tiene tipo de la cara creo, dejo no junto por su opisonario por favor lo que pasa es que otra cosa lo que hacía que vienen con piercing en la lengua, why? ya te lo pide, no pierdes en el lengua, no te vas a seguir, no te vas a seguir, no te vas, te que me dijiste que te fue que voy a hacer la No me interesa no te vas a hacer ni cada vez, no. Sobre mi cada vez, pero te voy a necesitar esa cargónima a... Así te voy a ir. No, no, no, no, es piercing. Esa le va a partir. ¿Qué pasa? ¿No sé? Y va, no. ¿Qué te puede hacer? ¿Qué te puede hacer? ¿Qué te puede hacer? No, no va a hacer eso. Estáis loco. Estáis si no me va a meterlele a ver un tiempo que te vas a hacer. Y se le engoazas. No me... Es decir, por lo que por la experiencia, al menos quiero besarle. Niños, yo. Niños, niños, niños. niños niñas, bueno la consulta todo nuevo, todo es muy blanco, si no te has imaginado la consulta toma nuevos, con el nudo, no importa si te te llaman la foto, si te enerro y una fotografía toma, pueden mandar por acá a foto pfc, me pasas, ahora si te pide una interconsulta, hay otra cosa también, si ya es segundo opinión y otra cosa, según la complejía, exame en completo, documentación de llago, opción de los nudo, por escrito totalmente, queréis que agendemos si Me tu nombre le dije que te queda perfecto. Mi nada, fue hacerle de chequear el trabajo de otra gente. Sí. Que te pueden hacer, eh, me hicieron bien. Slash, el full check, que te pueden hacer así, el scan, o las cosas que te sean útiles a vos para ver. Eso de sí. Y para que puedan tener nomas ellos. Porque a mí me pasa que jamás te mandaron mis canses. ¿Por qué? Dejame al le pedir. Ya. Pero tiene que mandar igual. Si o si. ¿Seguro que te voy a ir? Es capaz de mandar una sonia, o algo de sí. Porque de tipo. A sonia puede ser. Sí. a mí no es que me cae más bien, ni ningún cosa. Sí. O sea, escribíme si vení de Luke y bueno, atiendo solo con cita previa. Eso por ejemplo, no sé si me conveniría. O sea, claro, de hecho, claro que tiene que haber cita previa. Tiene que haber la idea, y ahí lo que es digo, ¿jabmín? ¿Cómo hago? Refresera, de atiendo solo con citas previas, tengo un horario muy tipo, no soy solo de dentista, también le enseño a gente o que tipo, algo que de antelineros de que tipo sos profesionales estás haciendo muchas cosas. Sí. Porque esto hace unos tenés tiempo. Sí, o sea tipo hacer como, si tipo un coaching, a un tolo, a colegas que están empezando, le podemos traer genera idea de una clínica, enseñar un poco, eso acá no existe, no existe nadie hace eso. la gente sale la universidad y lo primero que hace es, y son pogrado hacer la habitación oral, acá nadie hace un coche, de donde lo hicieron. Sí, no, o sea, y me voy a andar, pues, tener así el mensaje de que tipo, yo estoy acá, en vez de que si eso lo concita previa, que eso nada que tipo me ve cuando me llamas lo más. Eso, eso es lo que no quiero que se entienda. En vez de así, algo más reflexo de algo, tipo, soy profesional, estoy muy ocupada. tengo acá con un menes de títas lo más. Sí, no, tengo un tipo... No, no, no, no, no, no hay salidas palabras, pero que tipo de liada le buche una forma mejor de decir tipo de... Claro, estoy haciendo otras otras tipos de liada, ya estoy con no sé, porque algo que no hay a que tipo... La idea pues... Si me encantaría hacer eso, el coaching que me dijiste, pues saben enseñar la otra. Eso es por la hija, parte de tu cosa, Sí, para ti. Es un esperado que tipo, por su tipo... te vas juntada con otros dentistas o los los gigentes y te vas a la universidad y mirad un flar la gente freja y le decís, este es mi tarjeta, me vienes a prender un flacar o sea tipo si, o me voy te a un coach de ondología, ofrecer a los profesores actuales en la facultad de decirle mira tu al mismo logente y por te parece un prós, pasar en mi contacto y luego coaching este es mi servicio lo que sea si pudiera ser, acá no existe eso realmente no existe No, pero... No, eso le podás hacer, me van a hacer el primero no sabía. Esa es la idea, ser original. Andáter es la universidad de eso de la gente. Flajera así, con el lisa y poner la sirecina para que no podamos sacar de cosas. Esa es la gente, esa es la gente. La gente se da prima por un lado. Para guay era así su... Igual de todas formas. No, todas pueden. No, hay mucha gente que quiere estudiar y no tiene dinero para cubrir su empobrado hacia la realidad. ¿Qué te vas al coaching? Y ahí, y ahí, y vos sabes que, vos puedes hacer una buena ontología básica, no te puedo anar mucho, pero aguantos de ser, te resistir y reciente sirve bastante. Por eso acá en esta parte, por ejemplo, sí, y atiendo solo con cita, o hay que valiar un poquito. Estos son tipos de whatsapps, para tus pacientes, no para los que... Claro, claro. Para lo otro le hace, es una seja esprivada, o así, o tipo, tienes un foro donde la gente yo estoy interesado a mis amigos tenés pasos para que te pasas en el coche y ya eso es lo más de mandas son mensajes eso por ejemplo pero ahí por ejemplo en esos casos yo no sé si es que ahí tenés que tener habilitado algo en mi interior no creo de educación porque yo no doy no tiene un título de nada es tipo fril ando más adetivo no sé por eso si te Y luego, se le puede preguntar a un flaky investigate y después le puede preguntar a alguien abogado de ver la de leche ¿Es que tu estigue de ver la otra vez? Y si le esta lo que encontraste ahora, chequeque, que este bien y vissenes y me faltan algo Pero si te para de fuego, no vas a tener coche hasta que tengas todo lo de los... Pero no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no... Pero si es una urgencia... el blog fue teniendo en la misa mi te priorizo, exactamente ok, el mensaje que me nía para contacto o el auto se le abrió el en un video de las nuevas noticias, el audio de la opción te lo hago como un teleón de tele bien antes de tu parte, la agend...
+
+**documents/06-28-2026 22.23.m4a** (2026-06-28)
+> ...acerme, tengo 20 años de profesión, mi especialidad es rebelitación oral, estética y operatorial, yo tengo tres especialidades en caso de que alguien necesita que pieza y algo así, ahora mismo por eso es una referencia. Sí, después de más o de teatro. ¿Qué servicio presento consultorio, fresco, todo lo que mencionas en el caso? y con primera lista de servicio la lista va a ser tened en esta lista, que es la que va a jugar. Me puede ser confirmada porque hay falta muchísimo. Ahí por lo tanto en carro el arancel del círculo, y ahí con eso puedo formar una lista, pero hay también muchos procedimientos que a mí no me corresponden, hay muchos procedimientos que no están en el arancelado y que yo tengo en el arancelar aparte. Sí, que tenés la lista completa. Tengo. Puedes ser lo que yo diré, repente de este tipo, todo el eje tipo de cosas no hago. Sí. Tengo un PDF, inclusive, todo lo que es IDS, PDF, posa, carlo que yo hago, no me hay ya está. ¿Pasen así? ¿Voy a pasar el PDF completo y decirme en las áreas que no? Sí. Sí, todo lo que hizo para Toria, en tal, protecis, todos a o yo. Después, y algunas cosas más que se necesitan, después, tengo el PDF, el Arancial del Círculo, eso, solamente que el salancer en el o un todo lo particular no puede corrar, porque es mucho. Es mucho. ¿Otra cosa más? ¿Qué? ¿Se hubiese sido consultorio? ¿Qué pasamos recién? ¿Quieres tener expas? ¿Pasen si te tiene excesión en inglés? Sí, totalmente. Si, si, si te tiene excesión en inglés, vamos a hacerle que tenga inglés y español con un switch. Creo que ya está luego puesto. ¿Crees que tu foto personal esté en el sitio? Si mi foto en la home no prefiero no mostrar mi cara, una foto mi atendiendo, pero no mi cara. ¿Podría ser una foto mi atendiendo? Puede ser. O algo así. Algo así que no sea muy. No quiero decir, hola, mi cara, yo hay. O sea, puede ser también una foto profesional, porque no, pero una foto linda. Tienes una bio más larga para la página de sobre mí. Si tienes así un resumen completo, se ve lo que se ha que hiciste tipo tu historial, puede prepararte una bio que te se ha sobre yo y te explique todo tu diave. Por acá alguien que quieras saber no en Procombe de vos antes de irse a tu dentista, te mire y diga, ah, hizo algo. y se muye. O sea, creo que eso es lo que me respaldan. Creo que la diferencia es más que nada eso. Criterio, años de experiencia. Eso es lo que creo que para mí es de mi plube especial, o sea, mi plube que tengo mucho año de experiencia, muchísimo y trabajé con demasiadas, con un flujo de pacientes que normalmente no trabajan todos los autólogos, unirlo a la gente. Esa es la lo aditivo que te usar la diferencia que te morio. Creo no creo que estoy segura porque no actual la gente trabaja con tanta cantidad de pacientes. Es con tanta cantidad y trabaja muy bien más que nada porque puede trabajar con muchas gente de allá que trabaje bien y sé para lo que estaba haciendo otra cosa. Y yo nunca tuve un problema de técnicos, a un problema de praxis en todo el año carrera, la verdad que nunca tuvo un problema de que vienes un paciente y se quejó, porque se le cayó una corona, porque se rompió a lo que yo le hice. De hecho, tengo paciente que vienes 10 años después de mi doctora. A esta retorreciente me hiciste hacer 200 mil años, se cayó, o sea, ahora se ve, el cambiar o se rompió o se pico o se whatever. y está ahí hace 10 años y nada, el gambiar, pues ella cumplió con su tiempo, eso sería. ¿Cuándo crees a mí o formarmente consultorio? Una fecha aproximadamente. Ehh, tres semanas más o menos, a plóxito. Entre semanas sería una mitad de julio. en mi mitad de juo cuando termine en el Andrología 3 y 3 semanas, revo a todo eso porque ya por hechar, arrobarme todo mi paciente todo estos años. Sí, retodo. O sea, abocar los datos de mi paciente, tanto años. No tengo ya unos cuándo que se dice que... Aceto unos cuantos flyers y pegas, así, en frente de ellos luego. Esa onda, antes de ver, ¿ aparte que eso? de repente tengo todo el tiempo porque me tengo que mudar, puedo tener que hablar con Nadriz sobre algunas cosas, ¿más de qué ya empiezo? ¿Y ahí? ¿Quieres hacer un soft lunch? ¿Qué es abrir silencioso con pocos pacientes o anuncer a full tipo lleno de ads? Soft lunch? Atiendo dos, tres pacientes por semana no anunción. Y lo otro es con varios anunciones en redes, hacer ruido tipo lo que es mí. Y en teoría, En teoría es lo que debería ser. Y me puede dejarse empezar primero a software y se me interfiejar a estos cosas y todo lo demás. Y después las sé más a ver que el dinero le dan anuncios cuando estás más actupeado. Puede ser, sí, baby. Sí, puede ser. Lo que pasa es que eso sí, sí, va más con mío. El problema que la idea es más ser cosas que vaya entiendo con mío. es que tengo que salir y hacer cosas que vayan tanto conmigo, esa idea. Bueno, pero sí, podamos hacer más chiro al comienzo y después cuando esté bien... ¿Sabes? ¿Vas a decir, imagino que el inicio vas a estar donde hace un flash, tres, con conseguir las cosas, poner todos en su lugar, estar en el nuevo consultorio, familiarizarte con donde está cada volve. ¿Qué pasa que en el consultorio nuevo no sé si voy a... No sé si voy a estar ahí todo el día? Pues, generalmente, la gente no está todo el día en su consultorio, la gente está solo con que el paciente se le pone a estar. Yo sí estoy todo el día, estoy acostumbrada a estar todo el día en el consultorio porque yo trabajo todo el tiempo, desde que llegaba hasta que se leía tenia paciente. O sea, no hay que me llenar, me sentaba. En cuanto estoy diciendo algo, siempre que esté en esto, la estoy contigo, le puedes seguir planteando y hablando de este corredito con su tutorial mientras viene gente, trabajando el proyecto, pensando ideas de post, que te ayuden, y apropiar las poluces. tengo muchísimo de esa avulta, muchísimo de... pero solamente que ahora me tengo... sal, tengo que poner... tengo en mi Facebook. Mi Facebook tengo que hacer un perfil profesional, verdad. Tipo la página, en la página lo que sí. Y cuando todo ese tema llueva a preparar. ¿Qué? ¿Y vos lo le de tu nombre en Facebook para tu negocio, tu contenido, tu bio, todo todo lo que se des, tu información de Facebook, tu conectar a Google Maps. Pero entonces a un desoflanche, mientras que se tupe a este para todo, de confirmar, y después le ponés a fue la anunciaria y eso con los temas más confí, todo estructurado. Confí, eso no me falta, con fianza tengo. ¿Ya le digo, confí de estar confí de estar confí de estar confí de estar confí de la misma lugar? Ah, sí, podría ser. Pero pasa que el confí de la confí de mi familia, mi familia, muy amiga. Una vez que estés más confi... Con un tipo de todo, se está... Es así que puedo hacer. Con que tiempo está más torturado, todo, y tipo... Sí. Lo que tú les que estara haciendo 20 cosas al mismo tiempo. Sí, cosa que hago muy rápido, no creo que me cueste mucho a gustumbrar. Me pongo esto... O sea, lo que me va... ¿Sabes qué me va a costar? No laurar. O sea, no ser... ¿Entista lo que me va a costar? O sea, me va a ser raro esa transición entre trabajar muy chile y trabajar a mi ritmo, porque yo soy yo, tengo bastante energía. Por eso que vi lo también estresado. A ver, tengo demasiado free time. Hago un poco de cosas para un reto. Yo sé. O sea, si ha habido, pues me voy a decir eso. No, puedo, bueno, ya estoy pensando en nuestra cosa, te iré. La tiballa, llés, todos sus juguetas, sus juguetas, y todo eso, ¡ahí va! Tadío, mío por Dios. No, llés, si se va con una maleta, su juguetorio. No. Mimente está llendo a vosotros. Yo, yo, yo, en la de Drugsson, tipo como estaba esperando su esposa, tipo, much like, ah, no te voy a leerlo o no hay yo. Si te podamos hacer un plan de presos. Le deciste, si, traqué, mirá, traqué de dolor. ¿Cómo te haces? Y te podés estar chistando, de vez que así cuando te vas a lo que te quita, joder, me he disinpiró acá, es la dentista. Te hace falta aquí, te quita la ronera. Yo te hace falta, yo tiene dientes, no el cuerpo hay. Pasta, ¿me vienes? ¿Dale que, ¿ ahí de nuevo? ups. ¿Como usted va en el prostite exam? Estas así. ¿En Normal ponerse duro? Sí. Pero ¿vo solo doctor? No sé qué es para voslo doctor. ¿Pueses a voslo doctor? ¿No nos pude ver si te es tanto que te dan a ahí? ¡Vamos! Yo te digo rico, me no pague. No pasa nada de que pude ser solo en los 80, ¿Qué le pecan? Bueno, poné lebo, pero lo merejendes no. A su recomendación es lo bueno, listo perfecto. ¿Cuánto días por semana lunes, miércoles? Por el momento tres. ¿Sabes si es que algún paciente no puede, que si, pero sabe casi no, no creo. Depende, no creo. Lo que necesito para lograr es un sitio muy bien. Y sí, ya te dije, 3 días a las semanas, probablemente. no sé puede ser de luna viernes puede ser cinco depende porque no quiere estar todavía colgada en el consultorio al peor la idea que lo men si tengo pacientes me llevo por whatsabi voy a tenerle ya si no pues la tepo se que es un leve o onda está existiendo en tu casa te dicen puedo irme el lunes y te vas el lunes y dicen puedo irme el viernes te vas el viernes y eso más que nada o sea por lo que no está en el consultorio entonces tipo agenda un día que puede, pero sí podemos en una viernes pero pagendamos ya. Estas apenas en día entre los semanas de lunes a viernes. Sí, por la tarde, preferiblemente. Atenciendo urgencias fuera horario con un número de calo depende, depende mucho. La urgencia, al llamado, depende, pueda tener preferitando una urgencia, si me llaman, y si hablamos y si hace falta de de arriba, pues si no la tiendo, a Agendama. Porque pasa que el concepto urgencia es muy... una cosa es... me duela el diente, otra cosa es... ¿Qué le saltaron? Sí. Y aparte que... hay que ver bien también como es una urgencia, hay gente que viene y te dice, me duela este diente acá porque tiene una cari ahí hace 300 años, que ya estaba, ¿Por qué no se fue antes de hacerse ver? Eso por ejemplo, no. Yo soy ya otro tipo, por eso que necesito manejar la orgencia, manejó lo de esa forma, como definirme un qué orgencia para el pacientía y le preguntas. ¿A vos te gustaría que te manden en la mejor la foto más hacha de que puedan? ¿Qué foto, Chile? Tipo, tener una WhatsApp, así tipo, ¿Hola, quiero tenerme de este, te mando unas fotos fotos así de su diente? Puedes decirle, onda, si te den y más, puedes manderme una foto para ver qué tal estás. Sí, totalmente, podría ser una idea. Hay personas que, cuando te toca la guardia, hay muchas personas que le pedís, mandan una foto. ¿Y desacasió una foto para el culo? Para el culo, pero algo tiene que servirte. Tiene seguro de responsabilidad, seguir con su riesgo. No, no tengo nada de eso. Es crítico para la parte privada, sino sí sé muy bien lo que, pero ahora mismo aquí no hay que sacar tampoco. Esto acá resumen y voludeces. Esto es el otro cuestionario. ¿Quién ha ido a operar a Sinaldo? ¿Tené fotos tuyas con los craps o con full outfit de entista? No, no tengo, dice. Miren, tengo. Profesional, fotos profesionales no tengo. No hace falta que empasos opciones fotógrafo. Tengo fotógrafo que sirve muchísimo. Sí, o sea, ¿cuántas fotos hacía chequecerte de ahí? Y después el día te hacía el fotógrafo y profesional. Tengo. ¿Creías una foto por completo o solo del busto? ¿Cuales camilla? Lo que se ha... Cafi. No sé. ¿Puedes ser la mitad de esa no? Foto por poner un nipeo. Foto el consultor todavía no tengo pueda conseguir. ¿Qué lees fotos con pacientes? Bueno, no, sí. O sea, tengo fotos con pacientes. De hecho, lo que pasa es que nunca voy a poner una foto. En una foto nunca se pone la cara al paciente sin condescimiento al paciente. Se vuelve a decir, yo siempre le di al paciente, cuando le dí a tomar una foto, le pasé en el momento en un cantidad problema, porque vos sacar la foto de su boca, no de su cara, no se ve su cara, no que por lo que no es lo agradable, ¿no? Yo me refiero a tipo de que está empezando una foto en el que estábamos atendiendo la línea de la camilla. Sí, podría ser. Y de ese también, a poco, una vez que tenías una foto de sentes de voz, le personales camillas puede ser alguien artificial que no existe y ya está. Sí, tengo ahí. Puedes tener un foto de caso, Notísimos. Sí, se puede publicar sin problema. No hay ningún porqué. Se puede publicar. ¿Lo pasa? Testimonio, tenés pacientes que quieran dejar testimonios escrito los que se lo suelen ahora. ¿Tienés pacientes que quieran dejar testimonio en vídeo? Eso no creo. Eso no puede ser así. He dejado testimonio en vídeo y tenés descuento de 100%. Hola, por lo que no creo, difícil los pacientes. Eso no va a no crearse. Es muy difícil. Destimonio en vídeo lo dudo. Eso es lo paciente, no se nos fa muy. de de de flito sí por el video no después crees que este simón es un fotol paciente del no nimo no testimonio simplemente y por ejemplo fula ese es ejemplo y su el testimonio no sé el rec 55 años punto sí sí sí sí sí sí sí sí sí sí mi pregunta ahí tenés pacientes expas si quieras dejar este simón en inglés todavía no tengo tener fórmula Iguales que es para guayo isch, pero que a lo en inglés puede dejar en inglés. Me pueden conseguir un año problemado. Yo todo era temaci, podemos conseguir, no es un hidrama. ¿Tienes como formulario de consentimiento afirmado para pacientes? Formulario de consentimiento. ¡Uuuu! Ahí está eso. Eso toque traeré la clínica donde los hiatres. Todos los consentimientos. Todos los formularios que puedas copiarles, todos los consentimientos, los release forms. Sobreles poco, no me lo sé. Sobreles poco, sacarle fotos más a eso. hay todos esos, todos los consentimientos de protesis, de tratamiento, eso sí. Para todos, te puede hacer de forma digital, que sea un cosa que completa de forma digital, no más, que no te haga falta, que imprima gasté pa' pa' el estera, haciendo esto que aquello, hay celulares que tienen el pen, que pueden escribir en tu celular y hay firmas, que hace falta firmas. Sí, por igual yo puedo traer ese onda de los hiedres, ¿no? ¿cuántos locks? sin no recontrasar yo, yo decía más del de como estaba fuult digital porque ya se pasaba a hacer bajas de semestre no, después ya no, pero ahora mientras para tener algo si tengo los consentimientos pero, o sea que se usa eso pero... la también no va a dar mucho bola la también estamos muy importantes ¿Uso? ¿quieres tener Facebook, Tio, para omets? y tengo que tener Yo creo que para el Facebook vas a tener Manage por el día, tipo que tenés hacido en chat con el a gente, en el que tipo le hablas de los postos, tipo de la blas así como el otro, y te ayuda a preparar y diseñar todas las cosas. ¿O qué? Después y te harán personal lo que crees que no, que tenga que tener uno en la cuenta, yo ya tengo personal, pero, o sea, si se puede juntar, o algo así, lo que en el sitio web, Sí, puedo tener. Si tenéis ideas para hacer el parálogo que haga, y tirará a tu información, a ver si puedo tener un muchas ideas. Solamente, ¿qué es esa? Me protengo. Pótenlo perfecto. No tengo ley. No tengo. Y no sé ni cómo se tienen y cómo es ni cómo funciona la cosa. Es un Facebook para empresas. ¿Qué le puedes hablar a empresas y decirle, o la te gustaría de un tista para todo tu empleados? O que necesites tenerlo ya. Es más de cómo hablarse entre empresas y empresas para contratar gente. Sí, ya me acuerdo ahora. ¿Octi personal de menos así? ¿Tienes que ir a un acuerdo? No, no tengo, pero sí, pero no puedo grabar un aguendo. ¿Te gustaría mandarle emails a la gente? Porque te deje en su contacto de email en el página web. No de hacer, porque, repente, eso podría servir para después enviarles cosas por correo. Ahora, cuando te envío esto, por supuesto, por correo. ¿Te tengo que ver? ¿Qué sí? Para mandarlas, tipo, las anuncias cuando hay provociones, cuando hay eventos. Sí. Pao par. Pao par. La persona de plan cuyo te me gustan para voy. No, no tengo. Pero igual, voy a investigar en la malleta. Para no tengo bancar post, igual puedo tener con el banjo que te vos trabajas. Ahora, todos tienen curras. ¿Tú cuándo te pago? No hace falta tener pos. Pero sí, en el momento que ahora mismo no necesito pos. Pero puedo tener. Tengo esta idea que te agende en un calendario, que sería conectado con tu Google Calendar o tu Apple Calendar lo que sea. Pero si lo corris en el progadx. Lo que les tengo en este tipo, uno es un calendario. Te para mí me va, yo te hago tres cumpleaños y te avisa tu calendario. Sí. ¿Ves a tener hoy tenés que estar paciente? ¿Ves a tener que estar calentemente? Ok, ya, sí, está bien. Sejando bien el merge con calentemente, estaría muy por detener. Vale. ¿Tenés con el analític en el sitio web? No, ahora no, tenés. ¿Ves a tener que estar en el sitio web? ¿Tenga formulario de contacto? Sí. Entonces, tipo, ponés una misoformación y van a ser, y preparó un mensaje de WhatsApp que te manda a vos de su cuenta. Sí, sí, sí. Yo pete en la...
+
+*... and 1 more occurrences*
+
+### Relationship Negative (12 occurrences)
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... Este es un dolor que es un calor que se espande, que tipo está... No es cosi, pero eso puede ser algo de el puesto. No, vos tenés que ver. Tu puedes terminar con una ser vertical, porque vos usas mucha computadora. O sea, tu posición usualmente, pues estás acá. Es imposible, es usual, pero sí. Bueno, o sea...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... ejemplo, el paciente y el nacido un su carro reventado, donde está este, que ese flaturo se partió. Era un chico que las saltaron. Yo creo que puedo dejar ser un deporte de un audio en el que explica tipo... Ya colgar ahí ¿Te pongo más de tu más o menos flasida de tu stop pacientes de lo que más te gust...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... ¿O la paciente? ¿O la paciente? ¿Tienes de acuerdo a los jóvenes? ¿Tienes así? Las cosas de template. Claro. Sí, pacientes contados, confirmados, yo dejaron. ¿Qué es ya dejaron? te dejaron una reseña. Ah ok, aplauden un cemento de un gratu claro. Cuando tengas 10 reseñas, dejar de pedir con incendioña n...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...la paciente? ¿Tienes de acuerdo a los jóvenes? ¿Tienes así? Las cosas de template. Claro. Sí, pacientes contados, confirmados, yo dejaron. ¿Qué es ya dejaron? te dejaron una reseña. Ah ok, aplauden un cemento de un gratu claro. Cuando tengas 10 reseñas, dejar de pedir con incendioña no es necesario. Camb...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... ¿Tienes de acuerdo a los jóvenes? ¿Tienes así? Las cosas de template. Claro. Sí, pacientes contados, confirmados, yo dejaron. ¿Qué es ya dejaron? te dejaron una reseña. Ah ok, aplauden un cemento de un gratu claro. Cuando tengas 10 reseñas, dejar de pedir con incendioña no es necesario. Cambiar el pedio...
+
+*... and 7 more occurrences*
+
+### Relationship Positive (5 occurrences)
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ... con la página y te vienen más de 10 sí, probable, whatsappvines 5 Pero la página es más para que tu Google Maps sea más completo que los demás y más lindo y se están viendo y ligiendo, dicen a este que se den las profesionales. Eso es la única cosa que siempre dio, será que la gente busca en Google a un...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...o carillas y volve mirad así tres y no contigo no se puede hacer carilla primero vamos a realizar tu boca vamos a poner todo en si vamos a poner todo lindo y después vamos a mover si a me a ser te carillas no le puedo poner carillas cualquiera hay muchas cosas que tener en cuenta y yo como amo mi carrera...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... ponerle mi mismo nombre ultorabriela y ya punto por igual muy sécomo y tiene que ser un nombre mirá, te hace tu... hace tu alter ego y dar un nombre lindo si yo te digo como se llama mi alter ego te ha caado a la risa si te digo que eres el hombre puta que no sé un tlíquico que mejor ni el tligo Es mi a...
+
+**documents/06-28-2026 21.31.m4a** (2026-06-28)
+> ...huevada, mucha huevada, muy profeora al mesello así no sé, bueno no veo tele también a poco y os mire una otra cosa que nos salió el cosa a lo que es lindo, como tener otro cerebro más normal y pa' perderte de este baja y mire a fútbol todos los días o sea, pues en un cerebro que me dejaron mir por ejemp...
+
+**documents/06-28-2026 21.31.m4a** (2026-06-28)
+> ...sé un flado bastante contexto del resto de audios y... Lo de el dominio y la otra cosa. No, no sé. Raki lo loco. No, no, no, no. Y de ahí. Se hizo un bonito arrobente. Lo que mi gente recién lo importante, ya sabemos. En que hubo las muchas más buenos que yo le digo, ¿Qué esto no va? Este es un totalea. S...
+
+### Sadness Depression (9 occurrences)
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ... que ir fijando en cuanto cobran ellos porque no voy a poder cobrar lo mismo. O sea yo tengo idea la rancel básico del círculo de todos. Puedo corar, no puedo corar ni siquiera el 50% porque es un arancel tipo para gente de que no sé, no sé, que acá no se puede corar desde en Macias. En lo que automatiza, v...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...do, a venir cambiarme todo. Y hay cosas que sí le puse. Sí, exactamente, reparar. Yo puedo reparar, pero voy a reparar hasta donde realmente valga la pena repasiente, porque no le había eso eso me te da una tortura, porque el paciente que ya pasó por todo eso, que ya tiene todo ese en su boca, significa...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ..., ya estoy chile. No me diga lo que te queda hacer, porque es otra cosa. Allá vamos a ir por otro lado. Puedes comer el sitio de este nivel de gente. No puedo decirte, es porque yo no soy una persona experimenta, así que tendría que aprender el rímbano. Sí, debería de aprender cosas que nunca me enseñan. Ig...
+
+**documents/06-28-2026 21.31.m4a** (2026-06-28)
+> ...e, no que estoy y el nundo de los hiatres todavía es buscarlo en mi paciente antes. Todo lo que pueda hacer es meterle. Es que eso. Como para, o sea, no puedo entrar en la base de datos, no tengo satisfiéndente y no se puede. A no ser que esa tipo, alguien que tenda mucho del sistema y puede ir a un nuevo. ...
+
+**documents/06-28-2026 21.31.m4a** (2026-06-28)
+> ...atos, no tengo satisfiéndente y no se puede. A no ser que esa tipo, alguien que tenda mucho del sistema y puede ir a un nuevo. Pero desde mi sistema, no puedo ir aparte de lo que en mi sistema. Si eso es así, por ese caso, a mí de alguien en la oficina, Por decirle una rica convida y decirle, es por ese cas...
+
+*... and 4 more occurrences*
+
+### Self Deprecation (4 occurrences)
+
+**documents/06-28-2026 22.23.m4a** (2026-06-28)
+> ...tarde, de forever. A la tarde, ¿tú puedes estar quedado en el deporte? Podes de las 13 o zades de las 14, poné en les 14 o 14 30, 14 30 hasta las 17. Perdón, hasta las 19, por ahí, aplauso. Perfecto. ¿Sí? ¿Tenés urgencia? ¿Casos extremos o lo que sea? ¿Qué te escriban y vos te vas? ¿No más chiles? ¿Agendá...
+
+**documents/06-29-2026 00.23.m4a** (2026-06-29)
+> ...And they can also do outside things or whatever, but that is a little bit the construction that he was having in mind. You're not doing the wood now. Sorry? No, I'm feeling the wind in my eyes. Now you feel the weight in your ass Anyway watch out with the vaping don't do it It's bad for your lungs Here I...
+
+**documents/06-29-2026 00.23.m4a** (2026-06-29)
+> ...ne also. Also, there is a hill on the other side. If you have the Google map, when you look from the top what you have a hill on There was a meeting. Sorry? That was the meeting at work. That was meeting, yes. Yeah, but there was a meeting. All the meetings were left over. And there was a little bit. Yea...
+
+**documents/06-29-2026 00.23.m4a** (2026-06-29)
+> ...etitors all the competitors. also, the place is the activities to do, activities that could be done. And I think I would try to apply map below this. Sorry, the map in high quality here, I think low poly like here, the polygonal height plus vegetation. But for the images, I think vegetation with AI, imag...
+
+### Self Reflection (7 occurrences)
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...me siguen haciendo mucho tiempo. y que de hecho son pacientes, traumados que nos van a irse con otra persona y van a ir con mío para guayo cálido, no entendí que mi herda es refiere. Este fue que vos dijiste cerrada, te pasabas nada hablando de esto? Ah sí, ya estaba que arritificado. ¿A qué se refiere par...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...bos por eso? No es por otra cosa. Bueno, Mina oro perfecto, sí, si tengo pacientes que me siguen haciendo mucho tiempo. y que de hecho son pacientes, traumados que nos van a irse con otra persona y van a ir con mío para guayo cálido, no entendí que mi herda es refiere. Este fue que vos dijiste cerrada, te...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ...os dos, y brillo, más o menos paciente que un paciente básico que quiere una restauración normal o una profilaxis perfecto y un paciente así que está traumado que tiene su boca chomierda que le metieron un millón de tratamiento que nada que ver que le hicieron parte por todo lado que tiene mucha operatori...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...ra y que se puede hacer, porque se puede hacer, pero hay mucho por hacer y tengo muchas cosas que no están hacer. Este es el refrauturo, la que hemos entendido lo puede pasar, está un atomo. Este paciente se partió con él. se rompió un enegüe de la saltar en el de la fe así hay muchos casos y casos, pero n...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... más con esto pero por filancias ni nada de preparación nos contó ejemplos de mensajes para tu pacientes más cercanos para los que estrenan así ultra traumados porque este era una reseña distinta de las que tipo te quieren mucho te estaba haciendo este quiero mucho por ahí jaja putal, las anteriores me hi...
+
+*... and 2 more occurrences*
+
+### Wants Needs Expressed (9 occurrences)
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ..., eso va a toda la especialidad correspondiente. Ahí vamos a menú de tener esa parte. Qué más que más que más. Para todas las cosas de precio, he ahí quiero que me parez un mega Google Sheets o CSV file que tenga todas las cosas con un precio, una idea que explique porque el precio posiblemente con una column...
+
+**documents/06-28-2026 19.08.m4a** (2026-06-28)
+> ... te he pedido algo? ¿No te he pedido algo? ¿No te he pedido algo? No, no. Esta estructura, primero, fue la armada de la estructura de la página web y me encantaría que en vez de limpieza de tal que es un termino batético horrible, porque no ese es el término. No sé cómo sería mejor que los pacientes, que las per...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...mensaje de que tipo, yo estoy acá, en vez de que si eso lo concita previa, que eso nada que tipo me ve cuando me llamas lo más. Eso, eso es lo que no quiero que se entienda. En vez de así, algo más reflexo de algo, tipo, soy profesional, estoy muy ocupada. tengo acá con un menes de títas lo más. Sí, no, tengo...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ... mundial, o sea. Te caigo de 17 en algún momento. Te necesito, no van a moran. ¿Qué? ¿Centro? Lo que necesito es que te hagan una conroscopía, lo que necesito que te hagan, porque estás moviendo de un lado para el otro tu hija de puta. ¿En otro lado? No importa, pero es un lado. O sea, no es bilateral, es unila...
+
+**documents/06-28-2026 20.07.m4a** (2026-06-28)
+> ...oca y bueno, entonces más que nada es hacer lo que responde y ya eso es lo que yo creo que por ahí está es la diferencia del lado de un tolosilla que me gustaría hacer que no te lo gaya con criterio, más que nada lo que más me gusta es planificar, planificar y porque no enseñar a otros colegas me gustaría que ...
+
+*... and 4 more occurrences*
+
+---
+
+## _wa_chat_jonatan_ivan_msgs
+
+**Date Range:** 2024-03-13 to 2026-01-19
+
+### Anger Frustration (7 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-28.txt** (2025-09-28)
+> ...z sea al mail de ai whisper
+Veo si está somewhere el email y pass
+Yeah
+Veo si me sale algo en la app en mi cell
+Te mandé
+Que disfrutes del baño
+Chill cansado Tengo una salida en un rato y cuando llegue a casa crasheo
+https://youtu.be/oowzvdpH_2o
+Kinda interesting
+Uwu
+Tenes una noche libre algún día de la s...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-17.txt** (2025-10-17)
+> ...trabaja def le va a costar más jsjsj
+Si ella no quiere no va a hacer No le podes forzar a alguien a que haga algo Van a hacer de mala gana y te vas a frustrar
+Def tírale tips y trata de inspirarle
+Pero de ella tiene que venir las ganas de hacer algo
+PTT-20251017-WA0093.opus (file attached)
+PTT-20251017-WA...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-16.txt** (2025-12-16)
+> ...que?
+Vi nomás lo del curso de verano y dije Jau mando antes que nos olvidemos
+Le estaba haciendo a Claude deployar por que a Kiki no le anda y estaba frustrandose
+Uwu
+Disfruta nomás del concierto
+Uwu
+Tomate de noche la manteca y dormí rico
+Mira si dormís mientras esperas su turno ?
+Chill Me frustre un fla...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-16.txt** (2025-12-16)
+> ... estaba frustrandose
+Uwu
+Disfruta nomás del concierto
+Uwu
+Tomate de noche la manteca y dormí rico
+Mira si dormís mientras esperas su turno ?
+Chill Me frustre un fla con lo de agentes para research Y prepare un template de pag web revendible barato + analítica de clientes de clientes Generic web page para ...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-18.txt** (2025-12-18)
+> ...ployo chill a vercell lo de vetes kiki paree que ya puede deployear tambien / en serio configura los mcps para el deploy todo te hacen
+chill no estoy cansado aun
+recien tome cafe
+mi plan es dormir a las 8 o 9
+para arreglar mi ciclo de sueno
+Wsl nomás le meto cuando necesita
+Uwu
+Pero def para unos setups ni...
+
+*... and 2 more occurrences*
+
+### Anxiety Fear (9 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2025-05-06.txt** (2025-05-06)
+> ... fail cagaste jsjasjasj
+hace nomas bien 20 0 40 en  90 va a ser mas wasted time si no pasas
+tiene 100 examines el udemy verdad?
+imagina no pasas y te estresa eso / no tener stable job jasjajs
+Si
+Voy el 8 de jun voy
+Y vuelvo el 15
+PTT-20250506-WA0005.opus (file attached)
+PTT-20250506-WA0006.opus (file atta...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-14.txt** (2025-08-14)
+> ...0814-WA0002.opus (file attached)
+IMG-20250814-WA0003.jpg (file attached)
+PTT-20250814-WA0004.opus (file attached)
+Es que siento que none En todo caso preocupación por ella y su mamá
+Yeah
+Yeah Ya le ayude suficiente No creo que haga más Currently mi cama usa su ma Por que es una cama médica y me conseguí ya...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-17.txt** (2025-10-17)
+> ...51017-WA0090.jpg (file attached)
+Ywah
+Chill uwu por si estás workaholic nomas
+Muy mood pero vivi también Onda yo crashee después del work un fla
+Chil estresada x andar a mill
+Pero ok está
+After 24 se hace meetings irl y planeamos mas
+Meanwhile pulir stuff
+Van mal las cosas?
+Onda a mi me confunde un fla el...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-07.txt** (2025-12-07)
+> Ahora vuelvo a casa
+Muy mood lgmt cuddles con mi ex jajsja
+Me perdí un fla acá Pero fuente de autistas no me preocupa mucho Yo creo que relativamente Easy encontrar si vamos a lugares de autistas
+Como la liga de aventureros (?
+PTT-20251207-WA0001.opus (file attached...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-21.txt** (2025-12-21)
+> ...for all tables for testing and validating functionality Así puedo abrir y ver nomás si se ve todo en la pag Y andan las cosas que más me importan sin estresarme de las pantallas de cargar datos y esk
+PTT-20251221-WA0046.opus (file attached)
+PTT-20251221-WA0061.opus (file attached)
+
+*... and 4 more occurrences*
+
+### Asking For Help (7 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-04-13.txt** (2024-04-13)
+> ...R redirige a tu página Que tiene tu LinkedIn
+. La totalidad de mis búsquedas requieren un mínimo de 3 años de experiencia profesional en la posición. Por favor si estás interesado, chequear cumplir con la totalidad de los requisitos solicitados una vez vista la JD. LATAM (USD) (excepto Cuba y Venezuela) (Se ...
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-24.txt** (2025-09-24)
+> ...ambién (?
+Uwu
+Posible proyecto random
+Suelo hacer
+PTT-20250924-WA0008.opus (file attached)
+PTT-20250924-WA0009.opus (file attached)
+Pásame tu ubi(?
+Y te pido
+Te queda bien si pido ahora O estás haciendo aún stuff de casa ?
+Chill
+Chill dormí en el avión
+Capaz le llevo un fla a mis gatos al vet
+Y te pido a l...
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-24.txt** (2025-09-24)
+> ...?
+Y te pido
+Te queda bien si pido ahora O estás haciendo aún stuff de casa ?
+Chill
+Chill dormí en el avión
+Capaz le llevo un fla a mis gatos al vet
+Y te pido a la vuelta (?
+Avisa nomás cuando estés free para venir
+Parece que nyx se escondió
+PTT-20250924-WA0010.opus (file attached)
+PTT-20250924-WA0011.opus ...
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-24.txt** (2025-09-24)
+> ...o si le agregamos
+Yo exportó a logs y le pasó al IA nomás siempre jsjsjsjsjs re util
+Nice
+Yeah Debería ser en otra rama
+Y al mergear correr los tests
+Te pido el Uber ?
+Ya
+Me pasas tu GPS en nombre de dirección?
+Al abrir tu GPS no me deja poner como origen
+IMG-20250924-WA0020.jpg (file attached)
+Ahí está ok...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-20.txt** (2025-10-20)
+> ...x2
+Hola
+Te estira otro meet
+Ahora off de work de Canadá ya
+Osea hoy
+PTT-20251020-WA0062.opus (file attached)
+PTT-20251020-WA0065.opus (file attached)
+me podes agregar como team en vercel? ivanweissvanderpol weissvanderpol.ivan@gmail.com
+
+*... and 2 more occurrences*
+
+### Care Giving (14 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-11.txt** (2025-08-11)
+> ...ja de pagar y usa el Claude nomas
+Si ves algo mejor que Claude vemos de mudarnos también de una
+Onda este https://youtu.be/0Vx1MWojNaU
+Chill descansa si necesitas No hay mucho apuro para estar matando te En todo caso prepara un todo largo Y que agregué más cosas varias veces Y luego corres y le decís que no p...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-12.txt** (2025-08-12)
+> ...ón Pero estoy bien Full focus IA Y proyectos para estar chetos y full viaje
+Si querés pasar y hacer therapy Time y hablar de el proyecto feel free :)
+Si necesitas hablar de tu relación re cae Hay porro para divagar
+Mejor que estar depre solo
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-16.txt** (2025-08-16)
+> ...ile attached)
+PTT-20250816-WA0027.opus (file attached)
+https://youtu.be/fb19HiCb8xk
+Holis te mandé 700 n.n Espero que te sea enough para tus dues uwu
+Si necesitas un task adicional Esto es lo que el gefe dijo que le sería útil Que puedo presentar en Canadá como usos de IA para la empresa Debería de ser un pro...
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-03.txt** (2025-09-03)
+> ...3-WA0030.jpg (file attached)
+PTT-20250903-WA0045.opus (file attached)
+PTT-20250903-WA0046.opus (file attached)
+Uwu Ojalá salga money de personal Pero si necesitas ya avisa y te paso por duckascopy
+Mira tú duckascopy
+Uwuwuwu
+Uwu
+Ya que empieza el mes ;)
+PTT-20250903-WA0071.opus (file attached)
+PTT-20250903-WA0...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-05.txt** (2025-10-05)
+> ...hed)
+Lit que puta El que es más alto su volumen tiene razón pio? Xd
+Def mudarte te va a dar paz mental
+On the side vivir en el interior es re cheap X si necesitas vacaciones de mental health de programar y ir a un arrollo y 0 gritos
+<View once voice message omitted>
+PTT-20251005-WA0079.opus (file attached)
+PT...
+
+*... and 9 more occurrences*
+
+### Care Receiving (17 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-09-10.txt** (2024-09-10)
+> ...s Que le.falta a la tierra
+Exacto no hay competencia
+Xd
+Yeah Cuando sea cheto y tenga 400 M usd en el banco voy a meterme en eso
+Jsjsjsjs
+Why
+Jsjsjsj
+Para mí está bien que ganen en base a lo que saben Igual 20 palos es poco jajajajja
+Money
+Cada dron cuesta 2 k usd y no time de ser empresario
+Me estira más ...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-13.txt** (2025-08-13)
+> ...da toda la navegacion
+no entiendo nomas nada de la parte de investment como esta ahora asi que no puedo opinar de ese jsjsjs pero esta re nice
+muchas gracias :)
+puse un epic medio divague en el azure para refinar despues en un meeting a user stories y eso
+PTT-20250813-WA0041.opus (file attached)
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-16.txt** (2025-08-16)
+> ...re Debería de ser lo mismo Y en todo caso después le veo con Claude de la versión que anda de vos par adaptar para los canadienses
+Perfect Muchísimas gracias
+Re Te veo Cuando ale llegue a oviedo
+Ahí va a sacar su pc
+Alv Avisa si te cobra más stuff
+Veo si mañana estoy free para discord y vemos qué tal el to...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-20.txt** (2025-08-20)
+> ...ron
+Y decile que te busque youtubers de los temas Y onda unos cuantos de usa unos de Europa y de asia y LATAM Así viene de más sourced distintos
+Okis
+Gracias
+Re
+PTT-20250820-WA0038.opus (file attached)
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-27.txt** (2025-08-27)
+> PTT-20250827-WA0015.opus (file attached)
+Metele el divague
+Muchas gracias por ayudarle / solucionarle
+Estira
+Encima si son asi sus proyectos Se hace en una tarde mostly
+Jsjsjsjs
+PTT-20250827-WA0016.opus (file attached)
+PTT-...
+
+*... and 12 more occurrences*
+
+### Conflict Tension (16 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-20.txt** (2024-03-20)
+> ... money y podes pagar para estar chill para divagarte en los temas random y filosóficos que te estiran
+Joker jsjsjs Vivimos en una sociedad
+A mi no me molesta Jajaja Así nomás es la gente autistic
+Dude cuando En el ipt nio escuchabas porno jajaja
+Yooo
+Jajajajaj
+Nihilismo
+Jajajaja
+Mira en Reddit como hace o...
+
+**WhatsApp Chat with Jonatan Verdún__2025-07-29.txt** (2025-07-29)
+> ...ttached)
+PTT-20250729-WA0044.opus (file attached)
+PTT-20250729-WA0045.opus (file attached)
+Es que eso justamente no pega Se siente re Mal que haya un problema y se abra nomas o se Piche y te deje solo tu pareja
+Sad
+Yeah Ingreso a poli Pero SUS padres le cambiaron a quimica. Esta por recibirce Le falta tesis...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-11.txt** (2025-08-11)
+> ...ro apruebo usar sus herramientas para sacarles money
+Yeah Es que si se setupea con IA 90% es automatizable Trabajas de Hobbie nomás
+Y delegas a gente
+Peleabdome con ueno para mandar mi money
+IMG-20250811-WA0030.jpg (file attached)
+IMG-20250811-WA0029.jpg (file attached)
+IMG-20250811-WA0031.jpg (file atta...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-19.txt** (2025-08-19)
+> ...0250819-WA0021.opus (file attached)
+Siempre tengo
+Jajajaja
+Yeah
+You deleted this message
+PTT-20250819-WA0041.opus (file attached)
+Hay una lista de no molestar o algo
+PTT-20250819-WA0064.opus (file attached)
+Yeah así es mejor
+Mira nomás todos los videos de IA y context engineering
+Y vas a estar pro
+Perfect...
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-12.txt** (2025-09-12)
+> ...es de uplodear
+Puede hacer una lista de preguntas/ verificaciones de acceso para mandar a los clientes Al inicio En vez de cuando el dev encuentra el problema
+Es al menos un problema en la empresa actual
+PTT-20250912-WA0026.opus (file attached)
+PTT-20250912-WA0028.opus (file attached)
+PTT-20250912-WA0029.op...
+
+*... and 11 more occurrences*
+
+### Deflection Minimizing (230 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-13.txt** (2024-03-13)
+> ...acer el setup de presencia digital
+LinkedIn y certificaciónes + Tantearle a usa y Europa
+Entendí que probaron unas veces Pero no tengo mucho contexto
+No importa Siempre están en demanda info Más en 2er mundo donde sos barato
+IMG-20240313-WA0024.jpg (file attached)
+IMG-20240313-WA0022.jpg (file attached)
+IMG-2...
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-13.txt** (2024-03-13)
+> Hello Chill haciendo cursos jsjsjsjjs
+por que?
+QA automation en java aplicado a APIs
+del trabajo es me dan certificados por cursos internos en Mentormate
+aprende...
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-15.txt** (2024-03-15)
+> Nop Sos un mecha de carne Controlado por tu cerebro Que se muere y es PC apagada
+Chill Me quedan 6 clases y son todos al mismo tiempo
+Por que ya estoy mega chill y nice con como estoy ahora
+Onda me estímulo suficiente con cannabis
+STK-2...
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-15.txt** (2024-03-15)
+> ...s un mecha de carne Controlado por tu cerebro Que se muere y es PC apagada
+Chill Me quedan 6 clases y son todos al mismo tiempo
+Por que ya estoy mega chill y nice con como estoy ahora
+Onda me estímulo suficiente con cannabis
+STK-20221228-WA0033.webp (file attached)
+En el interior escucho que la gente est...
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-19.txt** (2024-03-19)
+> ... haga una versión más pro Lit para trabajos cool hay que hacerse marketing
+Trabajando y espero que venga la luz para seguir trabajando
+Jsjsjsjsjsj re chill
+
+*... and 225 more occurrences*
+
+### Family References (16 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-02.txt** (2025-08-02)
+> ...10k por unos reportes Jajajaja
+Chill vere maybe en la semana Xq voy a estar sin cell mientras me atan
+Osea Imagina que me ofreces a mi Y si sale bien Mi viejo va a analizar tu código ver que mejorar y likely invertir un buen chunk
+Pero again Estoy high ahora jsjsjs Pero def veo que el ai tiene el potencial ...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-20.txt** (2025-10-20)
+> ...a estoy free
+Mi trabajo de Canadá de hoy era algo pequeño que ya terminé
+Y aún no tuvimos meeting para next task
+Ahora volvimos a casa
+Fuimos a lo de mis viejos a almorzar
+avisa cuando comas todo?
+no
+ya te anda la pag?
+a mi no me deja subir
+estoy en 15
+ahi estoy
+38E!z-+r9&T.anY
+este no es?
+PTT-20251020-WA0039...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-31.txt** (2025-10-31)
+> ...e attached)
+PTT-20251031-WA0039.opus (file attached)
+Si
+Happy Halloween
+Uwu
+NICE
+recien hice merge de tu branch al mio
+okis yo onda las 8 voy a lo de mis viejos
+cena de que se va el aleman
+after eso voy a tango a saludar a la gente de bdsm
+mira que lo de personal anda bien testea un fla con los archivos de pr...
+
+**WhatsApp Chat with Jonatan Verdún__2025-11-02.txt** (2025-11-02)
+> PTT-20251102-WA0012.opus (file attached)
+Jmjsjsjs
+Capaz vamos a lo de mis viejos  enseguida
+Vení nomas
+PTT-20251102-WA0032.opus (file attached)
+location: https://maps.google.com/?q=-25.3176476,-57.5156303
+PTT-20251102-WA0033.opus ...
+
+**WhatsApp Chat with Jonatan Verdún__2025-11-02.txt** (2025-11-02)
+> ...s (file attached)
+location: https://maps.google.com/?q=-25.3176476,-57.5156303
+PTT-20251102-WA0033.opus (file attached)
+Venís?
+?
+Yo ya estoy en lo de mis viejos
+IMG-20251102-WA0040.jpg (file attached)
+Chill
+Nos falta aún hablar con John
+Que veo que va a tardar unas horas
+Esta hablando con mi hermano
+I mean te...
+
+*... and 11 more occurrences*
+
+### Illness Medical (8 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-04.txt** (2025-08-04)
+> Nose
+Osea usa nomás otro profile en tu browser (?
+Creo que me enferme otv Mi cuello está hinchado una parte al costado Pero chill
+Bajo el mentón En ambas esquinas
+Chill estoy capaz a la noche vaya al doc
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-14.txt** (2025-08-14)
+> ...ne En todo caso preocupación por ella y su mamá
+Yeah
+Yeah Ya le ayude suficiente No creo que haga más Currently mi cama usa su ma Por que es una cama médica y me conseguí ya otros colchones y todo Así que estoy chill de eso
+Yeah Ya acepte ser nomás evil some times En algunas historias toca Noma ser el ma...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-09.txt** (2025-12-09)
+> ...N10w1KvFKNQ nice vids
+Vemos cómo usar apenas saquen jsjsjs
+Si no se vende se hace open
+Y algún Man va a usar maybe
+Yo espero que tengan lgmt
+Def usos médicos con IA
+Son re interesantes
+Ya viste la serie pantheon ?
+El verdadero vibe gobernanding
+A tu lado schitzo le va a gustar
+Y re bueno para estar cuddl...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-21.txt** (2025-12-21)
+> ...Onda 1 vetes 2 dentistas oculistas clínicas médicas específicas básicas pequeñas 3 clínicas de humanos pequeños y veteriros de ganados (+600 vacas) 4 hospitales Y de ahí Ya tenemos contacto con sector de salud y medicina que tienen interés en tech Para lo de alfafold etc
+Chill va Más me peleó con el setup d...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-21.txt** (2025-12-21)
+> ...le veo lo de vetes again
+Le agrego también inventory y todas las funcionalidades que necesite una clínica
+Onda 1 vetes 2 dentistas oculistas clínicas médicas específicas básicas pequeñas 3 clínicas de humanos pequeños y veteriros de ganados (+600 vacas) 4 hospitales Y de ahí Ya tenemos contacto con secto...
+
+*... and 3 more occurrences*
+
+### Loneliness (40 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-13.txt** (2024-03-13)
+> ...ursos jsjsjsjjs
+por que?
+QA automation en java aplicado a APIs
+del trabajo es me dan certificados por cursos internos en Mentormate
+aprende web en py nadie tiene pag web y es re facil hacer el setup de presencia digital
+LinkedIn y certificaciónes + Tantearle a usa y Europa
+Entendí que probaron unas veces...
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-18.txt** (2024-03-18)
+> ...ja se viaja a peru de random a tripear en las montanas XD
+no suelo pasar mucho por la una mas que nada estoy en mi trabajo y estudiando por mi cuenta solo voy para clases de noche
+? Yo decía por que entiendo que de ahí era el ayuhuasca O decías por las menores de K-pop en Perú que le escribas antes ? O ...
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-20.txt** (2024-03-20)
+> Que le pasó?
+Same Hoy y mañana solo hay trabajo ✨✨
+Y eran bastante close en el ipt
+Chill
+Uwu
+Hello
+Nunca es tarde para buscar terapeuta uwuww Te recomendaría online a en py
+Nah
+Se que a...
+
+**WhatsApp Chat with Jonatan Verdún__2024-04-05.txt** (2024-04-05)
+> ...a ciberseguridad front end backend fullstack C,Java,python dev Automation QE  (pandas selenium python restful API OOP)
+chill
+hago nomas todos mis TPs solo jajaja
+
+**WhatsApp Chat with Jonatan Verdún__2024-08-19.txt** (2024-08-19)
+> ...h
+Cereales cuentas de Grindr con AI deep fake
+Va a tener más success
+Eso va a pasar cuando la población vea los post de los políticos en Grindr
+X eso solo coges trapitos verdad jsjs
+Yooo
+Jsjsjsjs
+Se consigue una bici
+Y te roba el vecino
+#me paso jajajajaja
+Aplica a Wichita
+Y consegui un novio gringo
+Fdb...
+
+*... and 35 more occurrences*
+
+### Neglect Abandonment (8 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-13.txt** (2024-03-13)
+> ...acer el setup de presencia digital
+LinkedIn y certificaciónes + Tantearle a usa y Europa
+Entendí que probaron unas veces Pero no tengo mucho contexto
+No importa Siempre están en demanda info Más en 2er mundo donde sos barato
+IMG-20240313-WA0024.jpg (file attached)
+IMG-20240313-WA0022.jpg (file attached)
+IMG-...
+
+**WhatsApp Chat with Jonatan Verdún__2024-08-24.txt** (2024-08-24)
+> no escuche jaajja
+?
+por ahora no
+no puedo escuhcar
+cuando me mude va a ser cuando me vaya en cruceros modo nomada digital
+aprende istqb y aplica a mentormate
+n...
+
+**WhatsApp Chat with Jonatan Verdún__2025-06-05.txt** (2025-06-05)
+> yo ya estoy a full hasta irme jsjsjs tendras que pasar por casa para ver cuando vuelva de usa estudia a full y asegura todo el certificado :)
+no entiendo pero cuando vuelva chill se compra el examen pasas y a full marketing y trabaja
+veremos aun no XD
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-13.txt** (2025-08-13)
+> ...nscripts y los audios para hacer un plan en base a eso y poner en azure
+pero se ve re bien la pag
+me gusta que esta lila y ya anda toda la navegacion
+no entiendo nomas nada de la parte de investment como esta ahora asi que no puedo opinar de ese jsjsjs pero esta re nice
+muchas gracias :)
+puse un epic medio di...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-20.txt** (2025-08-20)
+> ...on AI  para que solo se agregue todo y def hacer test driven dev
+yeah
+cuanto pudo haber ganado si compraba en momento X cuanto va a ganar en tiempo Y no importa aun queremos onda ofrecer informacion y analisis de los stocks motivos por el que creemos que va a crecer quienes estan comprando y posibles motivos...
+
+*... and 3 more occurrences*
+
+### Offering Help (15 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-11.txt** (2025-08-11)
+> ...o side project que capaz te interese y re va a facilitar pasar money a aca de clientes serios en py ninguno es serio
+jasjajsja
+Si te creas una cuenta te puedo mandar directo ahí también
+Yeah
+35 USD es any transacción internacional
+Solo mando cuando tengo onda 2/3 k por eso
+Si te mando ahí Podes usar de ahí ...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-11.txt** (2025-08-11)
+> ...ja de pagar y usa el Claude nomas
+Si ves algo mejor que Claude vemos de mudarnos también de una
+Onda este https://youtu.be/0Vx1MWojNaU
+Chill descansa si necesitas No hay mucho apuro para estar matando te En todo caso prepara un todo largo Y que agregué más cosas varias veces Y luego corres y le decís que no p...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-12.txt** (2025-08-12)
+> ...ón Pero estoy bien Full focus IA Y proyectos para estar chetos y full viaje
+Si querés pasar y hacer therapy Time y hablar de el proyecto feel free :)
+Si necesitas hablar de tu relación re cae Hay porro para divagar
+Mejor que estar depre solo
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-16.txt** (2025-08-16)
+> ...ile attached)
+PTT-20250816-WA0027.opus (file attached)
+https://youtu.be/fb19HiCb8xk
+Holis te mandé 700 n.n Espero que te sea enough para tus dues uwu
+Si necesitas un task adicional Esto es lo que el gefe dijo que le sería útil Que puedo presentar en Canadá como usos de IA para la empresa Debería de ser un pro...
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-03.txt** (2025-09-03)
+> ...3-WA0030.jpg (file attached)
+PTT-20250903-WA0045.opus (file attached)
+PTT-20250903-WA0046.opus (file attached)
+Uwu Ojalá salga money de personal Pero si necesitas ya avisa y te paso por duckascopy
+Mira tú duckascopy
+Uwuwuwu
+Uwu
+Ya que empieza el mes ;)
+PTT-20250903-WA0071.opus (file attached)
+PTT-20250903-WA0...
+
+*... and 10 more occurrences*
+
+### Physical Affection (60 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-15.txt** (2024-03-15)
+> ... lgmt mainly con la gente que me parecio cool hasta ahora y hablo nomas en Wichita aprendi a hacer amis con gente mas normie Tambien es nomas onda te juntas y hablas de los problems de la gente y les escuchas / hablas de ideas de cosas cool para hacer (otras becas, aplicar a trabajos mejores, hacer pagina...
+
+**WhatsApp Chat with Jonatan Verdún__2025-07-30.txt** (2025-07-30)
+> ...es surgeon implementar
+Hello sorry ahora recien termino de leer jsjsjsjs
+Sorry uwu
+Es que mi cell se quedo en El chat cuando me dormir Y Al despertar toque mi cell y te llame sin querer
+PTT-20250730-WA0096.opus (file attached)
+PTT-20250730-WA0097.opus (file attached)
+PTT-20250730-WA0098.opus (file attach...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-21.txt** (2025-08-21)
+> ...o demás de su canal
+Muy buenos videos tiene
+Te veo uwu
+https://www.dukascopy.bank/swiss/open-mca-account/?ref=A3Y-NMV&lang=en
+No se dónde es para ver contactos
+Pero mi ref x si le podes poner somewhere y después me sale una notificación o algo para encontrarte
+Nice
+1AWS o azzure Ya que tenemos azzure why no...
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-03.txt** (2025-09-03)
+> ...whisperers
+osea en vez del GitHub que no van a entender los marketeros jsajsja a nuestra pagina de AI whisperers
+de cursos servicosos Otros proyectos contacto Schedule a meeting etc
+Comentarios FTTH.xlsx (file attached) Comentarios FTTH.xlsx
+Uwu ahí te mandé :)
+Keep track de los gastos mensuales de la empre...
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-29.txt** (2025-09-29)
+> ...//drive.google.com/file/d/1gRZzQUgIC9PI-fD9uJDA3hHXjhC3MlvM/view?usp=drivesdk
+PTT-20250929-WA0009.opus (file attached)
+Ya
+Sorry
+De 4am a 10
+Pero tuve cuddles de noche
+Así que nice
+Osea viernes a sábado 0h Sábado a domingo sab 1pm a 7pm Domingo a lunes  0h Lunes 4am a 10
+Nop
+Tengo concierto de jazz de noch...
+
+*... and 55 more occurrences*
+
+### Relationship Negative (16 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-13.txt** (2024-03-13)
+> ...0240313-WA0020.jpg (file attached)
+Java
+De un hiring manager que me spamea
+STK-20240221-WA0038.webp (file attached)
+Entiendo que comer azúcar ayuda a terminar el trio
+Por ahí es buen tip no comer dulces alrededor del cuando comes los hongos para que te pegue bien
+Sugar and Fat Content: The sugar and fats in...
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-15.txt** (2024-03-15)
+> ... steins gate
+Jajajja
+Por eso Onda era chiste de que después es peor jjaaja
+Aprende info por tu cuenta y certifica Si estaba en mis primeros semestres dejaría la uni Demasiada pérdida de tiempo Y en lo que estoy  uso más lo que aprendí por mi cuenta que lo.que llegue a tocar en clase
+Dev siempre es comple...
+
+**WhatsApp Chat with Jonatan Verdún__2025-04-09.txt** (2025-04-09)
+> ...ca nomas al pedo la uni los trabajos no les importa mas la uni solo certificados XD
+wakala
+lo mejor ya es revivir onda las 9 recien
+mis conocidos que terminaron la facu y trabajan para Paraguay ganan menos de lo que yo ganaba como QA
+mi amigo que es Arquitecto de software en UENO  gana 10 palos
+yo com QA 2 ...
+
+**WhatsApp Chat with Jonatan Verdún__2025-05-24.txt** (2025-05-24)
+> Sure
+Moverte a windsurf uwu
+Chill fui a nisei a dejar para que arreglen mi Roomba
+Ahora camino por la zona y voy a casa en un rato
+
+**WhatsApp Chat with Jonatan Verdún__2025-07-21.txt** (2025-07-21)
+> xd lo que estaba haciendo ahora
+si tenes mas ideas de donde sacar data puedo agregarle mi plan es dejarle free en el repo
+feel free to add stuff pero creo que le voy a divagar una pag web backend y luego mas in deapth scraping y mining
+PTT-20250721-WA00...
+
+*... and 11 more occurrences*
+
+### Relationship Positive (15 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-04-05.txt** (2024-04-05)
+> ... markdown una seccion de about me con mi info y repeti para lo demas despues pasale el html de la pagina y preguntale por tips de cosas que hacer mas lindo
+es una pag resumen no va a ser sorptesa si es igual al de otros
+cambia los colores las fotos y el font y listo
+muy random que no tenga seccion de edu...
+
+**WhatsApp Chat with Jonatan Verdún__2025-05-06.txt** (2025-05-06)
+> ...go una entrevista random nomás ahora en 9 min
+Para un puesto de QA que aplique de yolo
+PTT-20250506-WA0032.opus (file attached)
+El dinero te va a dar felicidad después uwu
+Jsjsjs
+Osea 1 try nomás tenés Jsjsjs
+Te sale otro.try si entras a mentormarte Que para asegurar Necesitas pasar este try
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-13.txt** (2025-08-13)
+> ...antas y comes sushi de 10 mill authentic Al lado del mar
+Si te sirve de motivación pone videos de nómada digital de fondo mientras corre el Claude Re hermoso todo asia Y relativamente cheap si trabajas para afuera
+Ree
+PTT-20250813-WA0013.opus (file attached)
+Jau
+PTT-20250813-WA0015.opus (file attached)
+PTT...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-20.txt** (2025-08-20)
+> ...en prueba  prueba listed ?
+No recuerdo
+Me parece perfecto
+Ahora en el doc para que me revisen el qlo antes de viajar
+Metele a full
+Yo estoy chill Muy feliz de tener muchas amigas Def pro.tip es hablarle a muchas chicas Pero en plan amigas No gf Re geniales son asi
+Tenes Tiktok?
+No se qué tan obsessed est...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-17.txt** (2025-10-17)
+> ...lique el Excel O que cada pag incluya sus fórmulas (? Y que representa cada cosa (?
+Y correo que joya ya
+/ si le querés explicar a John (?
+Va a estar feliz con el context
+Y así te es más fácil hablarle la próx
+PTT-20251017-WA0055.opus (file attached)
+Pero def asegurarnos de hasta cuánto aguanta realmente...
+
+*... and 10 more occurrences*
+
+### Sadness Depression (10 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-04-11.txt** (2024-04-11)
+> Chill A full trabajando y haciendo mis cursos Jdjdjs
+Nop No vale la pena Py es protesta y stuff así no hace nada Me quedo nomás trabajando y adelantando mis entrenamientos Irse a perder el tiempo así es muy al peso
+Automat...
+
+**WhatsApp Chat with Jonatan Verdún__2024-04-13.txt** (2024-04-13)
+> ...sus tiendas
+https://youtu.be/_y6y4Fd1gWQ?si=lDXzUAEEqJAyEd3H
+Ai (an Indian)
+Yeah marketing nomas es para conseguir online
+Yeah Paraguay es no vale la pena trabajar en este mercado
+Hace tu pag web y aplica afuera
+Xdxd
+Yo estoy updateando mi resumen  ahora que me dieron feedback en mentormate y está termi...
+
+**WhatsApp Chat with Jonatan Verdún__2024-08-24.txt** (2024-08-24)
+> no escuche jaajja
+?
+por ahora no
+no puedo escuhcar
+cuando me mude va a ser cuando me vaya en cruceros modo nomada digital
+aprende istqb y aplica a mentormate
+no vale la pena trabajar para py
+...
+
+**WhatsApp Chat with Jonatan Verdún__2024-08-24.txt** (2024-08-24)
+> ...
+por ahora no
+no puedo escuhcar
+cuando me mude va a ser cuando me vaya en cruceros modo nomada digital
+aprende istqb y aplica a mentormate
+no vale la pena trabajar para py
+no esucho
+XD
+lgmt estudia istqb gana 7 palos y chillea con cursos de idomas despues
+se aprende mas facil con dinero extra jasjajsjas...
+
+**WhatsApp Chat with Jonatan Verdún__2024-09-10.txt** (2024-09-10)
+> ...tabas buscando trabajo y que sabías inglés
+Hace tu resumen y pag web Marketeate bien y no trabajes con py
+Jajajaja
+Si inclvocra Paraguayos no vale la pena jsjsjs
+Mucha corrupción
+Más ahi
+Jajajajaj
+Jajajajaja Aún más corrupción
+Network Chuck busca
+En Youtube
+Pero que querés hacer
+Todo eso ya es ser scrip...
+
+*... and 5 more occurrences*
+
+### Self Deprecation (9 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2025-07-30.txt** (2025-07-30)
+> ...)
+PTT-20250730-WA0090.opus (file attached)
+Prepara una lista de cosas que harias si tenes Claude code Max x5
+Y vemos cuales surgeon implementar
+Hello sorry ahora recien termino de leer jsjsjsjs
+Sorry uwu
+Es que mi cell se quedo en El chat cuando me dormir Y Al despertar toque mi cell y te llame sin quere...
+
+**WhatsApp Chat with Jonatan Verdún__2025-07-30.txt** (2025-07-30)
+> ...repara una lista de cosas que harias si tenes Claude code Max x5
+Y vemos cuales surgeon implementar
+Hello sorry ahora recien termino de leer jsjsjsjs
+Sorry uwu
+Es que mi cell se quedo en El chat cuando me dormir Y Al despertar toque mi cell y te llame sin querer
+PTT-20250730-WA0096.opus (file attached)
+P...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-15.txt** (2025-08-15)
+> Hola sorry estaba a full con una amiga
+:)
+Chill
+Mírale nomas Todo lo que puedas y vemos de hacer algo pro Def estructurar va a hacer más eficiente todo
+
+**WhatsApp Chat with Jonatan Verdún__2025-09-29.txt** (2025-09-29)
+> https://drive.google.com/file/d/1gRZzQUgIC9PI-fD9uJDA3hHXjhC3MlvM/view?usp=drivesdk
+PTT-20250929-WA0009.opus (file attached)
+Ya
+Sorry
+De 4am a 10
+Pero tuve cuddles de noche
+Así que nice
+Osea viernes a sábado 0h Sábado a domingo sab 1pm a 7pm Domingo a lunes  0h Lunes 4am a 10
+Nop
+Te...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-22.txt** (2025-10-22)
+> ...51022-WA0033.opus (file attached)
+Yo estoy
+Avisa cuando te unis
+PTT-20251022-WA0034.opus (file attached)
+PTT-20251022-WA0038.opus (file attached)
+Uwu
+Sorry
+Pero re therapy Time when you need
+IMG-20251022-WA0041.jpg (file attached)
+Si querés venir a las 8 salgo uwu
+Uwu
+PTT-20251022-WA0048.opus (file attac...
+
+*... and 4 more occurrences*
+
+### Self Reflection (8 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-13.txt** (2024-03-13)
+> ...tormate
+aprende web en py nadie tiene pag web y es re facil hacer el setup de presencia digital
+LinkedIn y certificaciónes + Tantearle a usa y Europa
+Entendí que probaron unas veces Pero no tengo mucho contexto
+No importa Siempre están en demanda info Más en 2er mundo donde sos barato
+IMG-20240313-WA0024.j...
+
+**WhatsApp Chat with Jonatan Verdún__2025-10-14.txt** (2025-10-14)
+> ...f podemos hacer un agente para posts y marketing por LinkedIn
+Y otro para buscar clientes
+Que después podemos vender a otras empresas
+Jsjsjsjs
+Tbh no entendí mucho del tema Pero why not hacer también
+Re
+Pero def hay que que nos veamos bien profesional
+Kiki te manda un fla todo lo de LinkedIn
+Mira que nicho...
+
+**WhatsApp Chat with Jonatan Verdún__2025-11-13.txt** (2025-11-13)
+> ...erte sad en código
+Jajaja
+Okno
+PTT-20251113-WA0041.opus (file attached)
+Por mi no prob en pagar n8n
+En lo de mis viejos tienen un server de n8n
+Tengo entendido
+Escribí nomás en el grupo con Jhon
+Onda
+Ser live transcripción me re interesa
+PTT-20251113-WA0044.opus (file attached)
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-21.txt** (2025-12-21)
+> ...n eso
+Chill Def es re frustrante la fam some times Yo creo que te va a hacer bien ir a la office para salir y salud mental
+Ñam pared dijo el auto
+Uwu Entendí que ya pasó algunas veces cosas similares por el audio Uwu Pero def me parece que desde colegio Time re hacían medio drama
+Por que se enoja contigo?
+...
+
+**WhatsApp Chat with Jonatan Verdún__2025-12-30.txt** (2025-12-30)
+> ...tant fuck de planeta  + gente hdp en poder y mira mas pequeño si un bicho me reza que no le pise likely ni le noto mientras camino en todo caso si le entendiese seria onda ahh mood study etc pero same goes for todos los animales que sufren para food
+jsjs def capaz hay una meta realidad divague pero como no...
+
+*... and 3 more occurrences*
+
+### Wants Needs Expressed (15 occurrences)
+
+**WhatsApp Chat with Jonatan Verdún__2024-03-19.txt** (2024-03-19)
+> ... están todos
+Capaz tu dealer conoce Sino descarga Grindr y pregunta ahí(? Jsjsjsjjs Si o si hay un gay ahí que va a saber cómo conseguir
+Premio doble
+Ojalá le sirva de ejemplo y haga una versión más pro Lit para trabajos cool hay que hacerse marketing
+Trabajando y espero que venga la luz para seguir trab...
+
+**WhatsApp Chat with Jonatan Verdún__2024-04-05.txt** (2024-04-05)
+> ...mas los markdown
+hablale a chatgpt y pedile que te haga preguntas respond mas preguntas responde y despues pedile estoy haciendo una pag web personal quiero que escribas en unrendered markdown una seccion de about me con mi info y repeti para lo demas despues pasale el html de la pagina y preguntale por tips ...
+
+**WhatsApp Chat with Jonatan Verdún__2024-09-10.txt** (2024-09-10)
+> ...rabajo de QA automation
+Jajajaja
+Me pagan 14 palos por chilear
+Paso 1 ser cheto
+Jajajaja
+https://youtu.be/qLdDJksPNsw?si=mKVimoxy0ivnInL3
+Jajajaja Te deseo Money y que puedas meterle jajajaja
+https://youtu.be/Ge40-Z6Lahw?si=2t-lE6cTdRETY_Fc
+Jajaja su dios es el dinero ahora
+Xd
+Tu kp el sktitzo ? Jajajaj
+...
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-11.txt** (2025-08-11)
+> ...es y divagar jsjsjsjs Si le podes ver todos los detalles esta genial
+Same Pegaría bastante trabajar en IA Y directo para 1 era mundo
+Si sale bien def me gustaría pagarte a vos y a Kiki onda 10 Palos Pero re depende de que dicen los gringos jajaja
+Def si sale re bien capaz se empieza en 20  jajajajaja
+
+**WhatsApp Chat with Jonatan Verdún__2025-08-20.txt** (2025-08-20)
+> ...youtubers y redes como reddit
+y analizar los comentarios para extraer la info de las personas que siguen y estan metidos en eso
+onda personalmente no quiero ser un finance bro pero me estira sacar toda la info de los autistas de finanza que postean y hablan de eso y filtrar tamabien fuentes de estas redes por...
+
+*... and 10 more occurrences*
+
+---
+
+## _wa_chat_thais_ivan_msgs
+
+**Date Range:** 2026-03-31 to 2026-05-14
+
+### Anger Frustration (2 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-24.txt** (2026-04-24)
+> ...M7o
+Cute
+Muy ghibli
+Ropitas de femboy vikingo(?
+Por si inspiración jsjsjsjsjsjjs
+Ojalá las que quieras se consigan en py :( Jajsjsjs
+Reee
+Esta soft y caliente ahí
+mis outfits bastante default tbh pantalon o jean negro con remera nerga ajsjajsjas maybe some accesorios mas? def se upgradea
+es muy cal,ming abr...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-28.txt** (2026-04-28)
+> ...con alguien que no me cuido cuando estaba enfermo pero re dead Uwuwu i appreciate your mommy protectora instinct jajaja
+Ree Los warm bath onda pileta caliente en saunas es lo Max
+yeah decis que hay sauna mixto o algun airbnb que tenga ?
+Se le cae en algún momento Re estoy
+Cuddles en sauna en winter
+osea ese...
+
+### Anxiety Fear (2 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> Good morning uwu
+Esta demasiado mood la lluvia jsjsjs
+location: https://maps.google.com/?q=-25.3284,-57.5254567
+x2 re clima de cuddles
+Te asustan los rayos?
+A mi que me griten modo mean me hace lagrimear Jsjsjsjs
+Si
+Yoite
+Jajajjajaja
+Osea es más onda Cuando discutis de algo con alguien que te...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...reja
+hope hacerte squirtear con mi boca some day ❤️
+si se moja mi cama 0 probs tengo lava ropa y secadora  uwuwu re worthit
+a mi me pasa que me pongo nervioso yu se me pone medio soft pero igual es fun Por si te es bajon que se me baje randomly jasjajs
+o si pienso en aaa no bajon no estoy todo duro le se...
+
+### Asking For Help (2 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ...o Jajajaj
+Jsjsjsjs
+Que servidor usas en genshi?
+Asia o america?
+Tranki uwuwuw Mientras te espero chilleo en la pc
+Y le instalo genshi y edo
+Eso
+Uwuwu
+Te pido el uber sin drama n.n
+I'm on my way — follow my Bolt ride: https://ride.bolt.eu/?s=te5nXVyh904a Dropoff: Destacamento Cazal, San Lorenzo Vehicle: Toy...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-05-13.txt** (2026-05-13)
+> Te pido el Uber
+I'm on my way — follow my Bolt ride: https://ride.bolt.eu/?s=2jmPqTFr1Ry6 Dropoff: Destacamento Cazal, San Lorenzo Vehicle: Suzuki Swift, Red...
+
+### Care Giving (8 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ... ponerme muy Dom de una sin saber que es welcome y que no
+Plz It's allways welcome Me decís rojo  duelo para o any key word y paro al toque uwuwuwuwu
+Te preparo un guide uwu Pero mainly re amo face sitting Cuddles bites chupones Sometimes pegging/sounding Def I'm open a probar lamiditas de orejas te veías muy...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ...o uwu Next time te mimo un montón más n.n
+Y good food Jsjsjs veo de cocinar algo cool
+Yo re amo dar y recibir mimos
+Up to donde estés comfortable n.n
+Si necesitas que esté más Dom let me know Soy re switch
+Me questa nomás ponerme muy Dom de una sin saber que es welcome y que no
+Plz It's allways welcome Me dec...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...nso en aaa no bajon no estoy todo duro le sera bajon jasjajs
+yeah jasjajs
+igual disfrute un monton n,n
+next sabado uwu con muchos cuddles
+let me know si necesitas help con los estudios uwu
+gracias por tomar la iniciative para prep def es muchisimo mas safe y mas tranquilizante que accidental paranoia
+yo me hi...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...on
+si no te responden te busco otro contacto
+somos gay tambien ayudan con todo el proceso
+te paso su numero?
+Somosgay.vcf (file attached)
+let me know si necesitas anything para el prep n,n
+En IMT me habían hecho todo gratis
+maenas que cute su carita vienen a pedir por comida?
+si necesitas ir a la manana avisa...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ... attached)
+let me know si necesitas anything para el prep n,n
+En IMT me habían hecho todo gratis
+maenas que cute su carita vienen a pedir por comida?
+si necesitas ir a la manana avisa cuando vas y veo de hacer mi checkup de paso tengo que hacer refil esta semana o la que viene
+sounds good veo que me responden...
+
+*... and 3 more occurrences*
+
+### Care Receiving (11 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-05.txt** (2026-04-05)
+> ...ilia capaz voy cuando baje el sol un poco
+Hace demasiado calor para estar goth aesthetic
+Hasta las 21 es verdad?
+Voy a caer con mi roomie un rato n.n
+Gracias UwU Comimos tortitas y treats holandeses Hope you had a tasty lunch as well
+Amo esta divino el vestido
+A mi me cuesta un montón los corsets también
+P...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-05.txt** (2026-04-05)
+> ... cuando llegas home lgmt
+Mi vida que cute el tuxido cat
+Y el huge doggo
+Yo likely me quedo vivo un rato preparando work
+Que duermas rico al acostarte Gracias por el aventon :)
+You allways give rockera vibes Con pelo atado también te quedaba cool
+Me recordó a Annie ( the female Titan )
+Tu face shape me da e...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-09.txt** (2026-04-09)
+> ...án re mood
+Yo suelo hornear los huesos de mis pollos y hacer sopa en olla de presión para el broth
+Jjajajaja sorry es súper detallado por que prepare para mí compa
+Pero ignora nomás todo eso Si te es mood cocinar y cortar ingredientes Def pagable el servicio
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ... la lluvia jsjsjs
+location: https://maps.google.com/?q=-25.3284,-57.5254567
+x2 re clima de cuddles
+Te asustan los rayos?
+A mi que me griten modo mean me hace lagrimear Jsjsjsjs
+Si
+Yoite
+Jajajjajaja
+Osea es más onda Cuando discutis de algo con alguien que te importa y su mentality es como hablo más fuerte e...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ...: https://ride.bolt.eu/?s=te5nXVyh904a Dropoff: Destacamento Cazal, San Lorenzo Vehicle: Toyota Aqua, White, AAKB722
+Ahi va
+Estoy afu
+Me alegro<3
+Amo
+Me hace sentir que hice a good job
+Woof woof
+Yo sigo en bliss y happy de los cuddles y mimos
+Me re encantan
+se pone Sabrina de fondo next time
+https://youtu....
+
+*... and 6 more occurrences*
+
+### Conflict Tension (8 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-01.txt** (2026-04-01)
+> ...cios y pop ups de stuff así también Pero suelo pasar nomás Muy sketchy como después te culean todo
+Audio libros para mimir
+Yo re amo eso
+Demasiado me molesta que cada vez que leo mis libros Leo el mismo párrafo Llegó al final y pienso hmmm muy familiar lo que acabo de leer Y leo otra vez el mismo párrafo ...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-01.txt** (2026-04-01)
+> ...n flores
+Mostrarme irl como jugas Capaz me descargo y voy medio casual
+Good morning uwuwu
+Lo mejor son
+YOO
+Lgmt me desperté onda las 12 y mi Michi no me dejó levantarme (estaba sobre mi pansa)
+Bajón The best is to cuddle them while sleeping
+Se lleva una hamaca al patio (?
+😂😂😂😂
+Py be like
+Pobrecito el veci...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-08.txt** (2026-04-08)
+> ...a vete de la esquina O la tienda x small business no tienen los fondos para gente Pero re pueden levelupear su negocio ellos mismos con IA Si a 3 les molesta a 5 les da igual y a 2 les gusta Ya es Worth it por el reach que te da
+Tipo el issue no es negocios pequeños usando Es billoniarios despidiendo a su...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ...567
+x2 re clima de cuddles
+Te asustan los rayos?
+A mi que me griten modo mean me hace lagrimear Jsjsjsjs
+Si
+Yoite
+Jajajjajaja
+Osea es más onda Cuando discutis de algo con alguien que te importa y su mentality es como hablo más fuerte entonces tengo razón Tiendo a ponerme sadish y lagrimear
+En bdsm mood no...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...esitos
+Es re mimosa pero silenciosa nyx Se queda hasta que le mimas mucho y ahí se va
+Jajajaja
+Pero igual le mimo
+Nice que toma en buena onda y no se moleste
+Que tembo el 🤙al final
+Jajajajaja
+Unlimited kisses and cuddles hay
+a mi me pasa con mordidas y caricas de nuca
+me pone modo sumi JASJAJS
+modo dom me...
+
+*... and 3 more occurrences*
+
+### Deflection Minimizing (13 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-04.txt** (2026-04-04)
+> ...z de hoy
+Uwuwuw cute Va a estar happy de festejar con ustedes
+Cuales días son los que te quedan mejor para salidas así? Ayer pasó de merienda a party chill en casa
+Es más nice así que en bares Ahí cuesta un montón hablar y interactuar con gente jajaja
+After coffee Salida se hace un domingo de tragos y an...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-05.txt** (2026-04-05)
+> ...elfo
+Si te son mood elf vibes Veo de ir con mis outfits más de plantas / flores next time
+Hoy fui de rockero bi Jajajajajaja
+Def mis vibes son hippie chill jsjsjs Me alegro de hacerles caído bien uwu
+Vemos cuando sale el next coffee outing / Paseo
+Te queda bien sábado de mañana hasta 2 ish (a las 3 tengo...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-09.txt** (2026-04-09)
+> ...a probar onda 1 batch Y si te es mood En el proyecto está todo planeado y estructurado para py Def veo que mucha gente no tiene Time de ir de compras
+Chill te cubro el Uber / el servicio (Feel free de aprovechar cuando tu ma va de compras y darle un kick back (? )
+Ree guaraní tiene mucha variedad
+Los top...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-11.txt** (2026-04-11)
+> ...l day con cositas ransom en casa máximo Así que re free n.n
+Missing cuddles (? #Yooo
+Me tomo una melatonina a las 10 y debería revivir para la mañana chill
+Te parece 10 am para asegurar Que reviva
+Also good
+El mío sabe a cerveza Best sleeping candy jajajaja
+Pongo 20 alarmas en mi cell
+El portón está siem...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-11.txt** (2026-04-11)
+> ...disfrutar de tus series en el móvil!
+Maybe así (?
+Uwuwuw
+Nice
+Que tal tu sábado Al final no hubo shibari hoy
+Aprovechamos y limpiamos la casa
+Sábados relax excepto por el Bro thing jsjsjs
+Jsjsjs yeah
+Osea mando foto por que explica mejor y da todo mi contexto
+Mood
+Quería traer unas cartas de temu de esa ...
+
+*... and 8 more occurrences*
+
+### Family References (8 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-01.txt** (2026-04-01)
+> ...e no tengo 0 drama en estar cringe en publico jajaja Pero tocar cosas ajenas y no devolver si te dicen no es gratis Could never
+A nosotros en casa de mis padres Nos entraron gente de la villa de atrás a robar herramientas del garaje y bicicletas
+Jajajaja
+Así mismo
+Jsjsjsjsj
+Wishing you virtual cuddles
+Con air...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-05.txt** (2026-04-05)
+> Good morning uwuwu
+Vas hoy al coffee cat
+?
+Uwu
+Yo sigo en asado familia capaz voy cuando baje el sol un poco
+Hace demasiado calor para estar goth aesthetic
+Hasta las 21 es verdad?
+Voy a caer con mi roomie un rato n.n
+Grac...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ...nerme sadish y lagrimear
+En bdsm mood no me llegaron a gritar
+Jsjsjsjs Por suerte
+X2
+Jsjsjsjs
+Jsjsjs El mío estoy re consciente que traumitas de casa mi viejo habla fuerte y es medio sordo Jajajaj
+Jsjsjsjs
+Que servidor usas en genshi?
+Asia o america?
+Tranki uwuwuw Mientras te espero chilleo en la pc
+Y le in...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-27.txt** (2026-04-27)
+> ...el bosque some time
+Jsjsjsnsns
+Def Esta existiendo chill el animal Nada cambia en que le dejen un pollo frente a la casa a alguien jsjsjsjsjsn
+Yo con mis viejos probé hongos Pero dormí nomás en el.sofa
+Y estaba silly
+No recuerdo mucho más que la sensación de aceptación y modo paz
+Congrats
+El mágico
+Jsjsjsjsjs...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-27.txt** (2026-04-27)
+> ...mt gay heaven Un amigo que fue dice que la mejor experiencia de su life cogerse a los pai s etc y los otros nenes gay
+Jajajjajaja
+Un buffet le dieron de pequeño jajaja Si sirve de contexto El es de San Juan en el interior
+Jsjsjs
+Ree
+Jsjsjsjsjs
+Que bobo
+Jsjsjsjsjs
+Jajajaja
+A ella le va a gustar el chiste del e...
+
+*... and 3 more occurrences*
+
+### Illness Medical (5 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-28.txt** (2026-04-28)
+> ...o con mi real mom no había mucha atención y me es cute que me traten con care y worry(? / Una tiempo estuve con alguien que no me cuido cuando estaba enfermo pero re dead Uwuwu i appreciate your mommy protectora instinct jajaja
+Ree Los warm bath onda pileta caliente en saunas es lo Max
+yeah decis que hay ...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-05-05.txt** (2026-05-05)
+> ...a ni bollo por los profes
+X2 yo me crié con internet access de pequeño
+En vez de canales de tele
+Jsjsjs
+Lgmt más responsable que no le lleves si está enfermo
+Le va a enfermar a los demás del curso nomás si va jsjsjs
+Jsjsjsjsjs
+Ni ellos saben
+Mimos night
+okis im chilling en la pc con mis agentes slowly mej...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-05-05.txt** (2026-05-05)
+> ...os profes
+X2 yo me crié con internet access de pequeño
+En vez de canales de tele
+Jsjsjs
+Lgmt más responsable que no le lleves si está enfermo
+Le va a enfermar a los demás del curso nomás si va jsjsjs
+Jsjsjsjsjs
+Ni ellos saben
+Mimos night
+okis im chilling en la pc con mis agentes slowly mejorando mis pagin...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-05-12.txt** (2026-05-12)
+> Amo
+Me alegro uwuwuwuw
+Why (? Xd A full nomas Ale está enfermito Y tuve meetings con posible cliente para pag web y preparando stuff asi jsjsnsns
+Enseguida a full again con Kiki en preparar todo en base a lo que...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-05-12.txt** (2026-05-12)
+> ... le pasó siempre mis resultados a Gemini y me explica y anota con todos mis datos anteriores Re nice que te explique que significa todo esos términos médicos
+Jau a mi me parece bien ir temprano
+Te interesa plan tomar y fumar antes un buen ammount ?
+Jaja yeah
+Vemos donde esconder jsjsjs
+Se guarda en un po...
+
+### Loneliness (4 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-01.txt** (2026-04-01)
+> ...voy a escuchar ASMR de lectura de horror
+Vas a llegar más lejos que yo
+Hay un vídeo que es re bueno
+https://youtu.be/gFxFGxu_PvA
+Jajajaja
+También hay solo leveling manwha
+One punch Con personaje con pelo y sistema de level up Básicamente Pero es muy lindo el arte y los plot twists
+Que hiciste de la maña...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-08.txt** (2026-04-08)
+> ...es Worth it por el reach que te da
+Tipo el issue no es negocios pequeños usando Es billoniarios despidiendo a su staff para remplazar con IA Y no hay nadie que verifique que haga bien jajaja
+Ree ojalá se cambie en algún momento la canción de arete
+El de chenille
+Or something like that
+Se comisiona jaja
+Y...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...e ponia ma masajear ese jajaja
+its ok
+yo estuve con fistula confirmo que no pega lastimaduras de cola
+buien suave y con mucho lube
+yeah no se lubrica solo ahi
+si se lubrica solo algo paso mal XD
+jasjajsajsja
+its ok me gusto igual un monton
+feel free de practicar hasta que puedas uwu
+a mi tambien es muy ...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ... jajaja
+its ok
+yo estuve con fistula confirmo que no pega lastimaduras de cola
+buien suave y con mucho lube
+yeah no se lubrica solo ahi
+si se lubrica solo algo paso mal XD
+jasjajsajsja
+its ok me gusto igual un monton
+feel free de practicar hasta que puedas uwu
+a mi tambien es muy hot verle happy y gimie...
+
+### Neglect Abandonment (4 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-05.txt** (2026-04-05)
+> ... Jsjsjjs
+You can do it jsjsjs Se hace una tarde de hyperfocus y updateas todos
+Jajaja Amandu es re nice
+Estaba pensando que cuando vaya def pido algo frío por la temp Def would love to share the treat :)
+Amo esta re elden ring tu hair
+https://t.me/+cJhS4t4qrJVjM2Vh
+Baño
+https://www.khanacademy.org/
+Pero...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-09.txt** (2026-04-09)
+> ... hornear los huesos de mis pollos y hacer sopa en olla de presión para el broth
+Jjajajaja sorry es súper detallado por que prepare para mí compa
+Pero ignora nomás todo eso Si te es mood cocinar y cortar ingredientes Def pagable el servicio
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...nny boy ahora Los últimos episodios <This message was edited>
+Cerca de casa hay una pizzería Italiana que hace una pizza muy nice
+Es muy divague
+Lgmt no entiendo la mitad de la serie
+Pero pega
+Van a estar happy en lazzerini
+Yo suelo dormir asi
+Tarda demasiado en secarse
+Jsjs yeah suelo dejar atado
+Y ataja tod...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-28.txt** (2026-04-28)
+> ...ters de bdsm que es nomás hablar de kink y tomar O la mascarada y eso
+Entiendo que su onda es más densa En la comunidad bdsm me dieron a entender que no entienden tanto concentimiento en bdsm context y que les fue xd las veces que interacionarom con esa comunidad
+Que pajero
+Re wholesome es la comunidad
+Guau q...
+
+### Offering Help (6 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-03-31.txt** (2026-03-31)
+> ...dio meh comparado a los de ahora
+https://www.tiktok.com/t/ZTkjkXYQA
+Me.fijo un fla
+Quiero conseguir un cosplay de Incubus
+Y uno de bunny
+Eyyy esos re te puedo pedir if you are down :)
+Onda esos vibes creo que me van a quedar cute Cuando esté lila mi pelo
+Para modo sumi Modo Dom traje + rope siempre tengo Pe...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ...o uwu Next time te mimo un montón más n.n
+Y good food Jsjsjs veo de cocinar algo cool
+Yo re amo dar y recibir mimos
+Up to donde estés comfortable n.n
+Si necesitas que esté más Dom let me know Soy re switch
+Me questa nomás ponerme muy Dom de una sin saber que es welcome y que no
+Plz It's allways welcome Me dec...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...nso en aaa no bajon no estoy todo duro le sera bajon jasjajs
+yeah jasjajs
+igual disfrute un monton n,n
+next sabado uwu con muchos cuddles
+let me know si necesitas help con los estudios uwu
+gracias por tomar la iniciative para prep def es muchisimo mas safe y mas tranquilizante que accidental paranoia
+yo me hi...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...on
+si no te responden te busco otro contacto
+somos gay tambien ayudan con todo el proceso
+te paso su numero?
+Somosgay.vcf (file attached)
+let me know si necesitas anything para el prep n,n
+En IMT me habían hecho todo gratis
+maenas que cute su carita vienen a pedir por comida?
+si necesitas ir a la manana avisa...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ... attached)
+let me know si necesitas anything para el prep n,n
+En IMT me habían hecho todo gratis
+maenas que cute su carita vienen a pedir por comida?
+si necesitas ir a la manana avisa cuando vas y veo de hacer mi checkup de paso tengo que hacer refil esta semana o la que viene
+sounds good veo que me responden...
+
+*... and 1 more occurrences*
+
+### Physical Affection (35 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-03-31.txt** (2026-03-31)
+> ...un cosplay de Incubus
+Y uno de bunny
+Eyyy esos re te puedo pedir if you are down :)
+Onda esos vibes creo que me van a quedar cute Cuando esté lila mi pelo
+Para modo sumi Modo Dom traje + rope siempre tengo Pero re open a ideas
+Tira nomás el price por el service y todo y de una n.n
+Como querés hacer la f...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-01.txt** (2026-04-01)
+> ...casual
+Good morning uwuwu
+Lo mejor son
+YOO
+Lgmt me desperté onda las 12 y mi Michi no me dejó levantarme (estaba sobre mi pansa)
+Bajón The best is to cuddle them while sleeping
+Se lleva una hamaca al patio (?
+😂😂😂😂
+Py be like
+Pobrecito el vecino Ni para su hamaca tiene(? Que rata
+Jajaja
+What Que 🤡 son La c...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-01.txt** (2026-04-01)
+> ...a de mis padres Nos entraron gente de la villa de atrás a robar herramientas del garaje y bicicletas
+Jajajaja
+Así mismo
+Jsjsjsjsj
+Wishing you virtual cuddles
+Con aire y series de fondo par dormir rico
+Jajaja
+Re early
+Jajaja Me suelen mandar anuncios y pop ups de stuff así también Pero suelo pasar nomás Mu...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-01.txt** (2026-04-01)
+> ...egar más lejos que yo
+Hay un vídeo que es re bueno
+https://youtu.be/gFxFGxu_PvA
+Jajajaja
+También hay solo leveling manwha
+One punch Con personaje con pelo y sistema de level up Básicamente Pero es muy lindo el arte y los plot twists
+Que hiciste de la mañana ? Yo enseguida me conecto a la PC a configurar...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-05.txt** (2026-04-05)
+> ...huge doggo
+Yo likely me quedo vivo un rato preparando work
+Que duermas rico al acostarte Gracias por el aventon :)
+You allways give rockera vibes Con pelo atado también te quedaba cool
+Me recordó a Annie ( the female Titan )
+Tu face shape me da esos vibes
+Maybe la nariz ?
+Osea quería sacar de vos de fon...
+
+*... and 30 more occurrences*
+
+### Relationship Negative (3 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-13.txt** (2026-04-13)
+> ...divague
+Lgmt no entiendo la mitad de la serie
+Pero pega
+Van a estar happy en lazzerini
+Yo suelo dormir asi
+Tarda demasiado en secarse
+Jsjs yeah suelo dejar atado
+Y ataja todo
+A mi cuando se me infla me gusta como queda todo fluffy
+Ale se seca en instantes
+Jsjsjsj
+Osea en buena onda siempre chisteamos los...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-14.txt** (2026-04-14)
+> Que gusto terminar a las 12
+Amo siempre faltan bolsillos en vestidos
+Jsjsjjs Para vender carteras Best marketing moves(?
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-05-01.txt** (2026-05-01)
+> ...
+Sorry me re colgué
+https://dayah.paragu-ai.com/ estoy updating esta pag con los datos que me pasaron jsjsjsj def some aestetic things que arreglar y dejar nicer
+que tipo de remote vibe te es mas interesante? estimulacion interna o los que son de clit? llegue a ver un strap on que vibra en todas partes
+s...
+
+### Relationship Positive (2 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-01.txt** (2026-04-01)
+> ...https://youtu.be/gFxFGxu_PvA
+Jajajaja
+También hay solo leveling manwha
+One punch Con personaje con pelo y sistema de level up Básicamente Pero es muy lindo el arte y los plot twists
+Que hiciste de la mañana ? Yo enseguida me conecto a la PC a configurar IAs
+Avisa si haces pre order para stuff de la feria...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ...un guide uwu Pero mainly re amo face sitting Cuddles bites chupones Sometimes pegging/sounding Def I'm open a probar lamiditas de orejas te veías muy feliz
+Te muestro una mordida de yo por mi brazo next time
+Para que tengas de referencia (?
+Investigo como hacer modo asiático pro
+Siento que es muy gruesa ...
+
+### Self Deprecation (12 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-03-31.txt** (2026-03-31)
+> ... <This message was edited>
+Que ricos los Doritos del fondo de la bolsa
+Jsjsjsj
+Alv Is that a Gilgamesh?
+La de tu idea de cosplay verdad ?
+Muy sexy
+Ah Sorry por las fotos de los dibujos que mandaste pensé que eran planes
+Esta amazing Me encanta la máscara
+Yo mandé a hacer con Katerine la mascara de succub...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-06.txt** (2026-04-06)
+> ...a cuddle (?
+Onda que estaba puppy eyed obsessed y después está ni bollo cuando ya no está más horny o paso la novedad de conocer la persona?
+Jajajaja sorry me emocioné con cuddles
+I'm wasn't so different tbh
+Xdxd Warning Cuando conozcas la mía Por fuera es súper sketchy Pero dentro está super equipado pa...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-09.txt** (2026-04-09)
+> ...aní tiene mucha variedad
+Los toppings están re mood
+Yo suelo hornear los huesos de mis pollos y hacer sopa en olla de presión para el broth
+Jjajajaja sorry es súper detallado por que prepare para mí compa
+Pero ignora nomás todo eso Si te es mood cocinar y cortar ingredientes Def pagable el servicio
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-11.txt** (2026-04-11)
+> ...o
+https://play.google.com/store/apps/details?id=com.life360.android.safetymapd
+Anda he deserves it
+Jsjs
+Anda a add ons. Y busca torrentio
+Jsjsjss
+Nah sorry por no explicar esa parte Se me re olvidó
+Que había que hacer
+Le diste el de configure ?
+Te manda un link para instalar el addon
+Borro un fla en mi c...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-12.txt** (2026-04-12)
+> ...it
+Praise y que me digan cosas cute me meltea todo
+Si estoy Sumi me pone todo blushing
+Xdxdxd Best des ayuno Pero sorry Tengo mis lubes están el baúl Perdón que no acerqué uwu
+Si estabas muy moist Sigue deliciosamente perfumada mi cara <3
+Por eso pensé que estarías ok UwU Pero igual it's re bobo que no po...
+
+*... and 7 more occurrences*
+
+### Self Reflection (2 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-11.txt** (2026-04-11)
+> ...plicar esa parte Se me re olvidó
+Que había que hacer
+Le diste el de configure ?
+Te manda un link para instalar el addon
+Borro un fla en mi cell y veo
+Entendido! Como ya tienes Stremio instalado en tu Android, aquí te explico cómo configurar Torrentio directamente desde el celular, que es el paso que te fal...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-11.txt** (2026-04-11)
+> ...s cuddles
+Me alegro de poder estar ahí 4 you y darte cuddles
+Never
+0 incomodacion
+Ni ahí You are still beautiful Es valid sentir tus emociones
+Muchos traumas de la época de seguro (?
+Pero es bueno sentir tus feelings
+Es bueno sacar todo el sad así Sino se queda adentro y después sale de una y es re bajón
+...
+
+### Wants Needs Expressed (6 occurrences)
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-06.txt** (2026-04-06)
+> ...1,350) TIP: Ofrecé descuento si 2+ personas del mismo domicilio se atienden juntas. Ahorrás viaje y ganás más por visita.
+Le digo uwu
+A full El cole? Ojalá hoy duermas bien
+Amooo sus ojitos rojos
+The worst feeling es cuando estás cómode en invierno y tu cama te abraza pero tenés que levantarte jsjsjsjjs
+...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-08.txt** (2026-04-08)
+> ...Q
+Jsjsnsns
+Si tenés algún estilo que sea más nice o una mejor idea de la letra Let me know
+Tengo el premium de Suno Así que en minutos genera otro :)
+Ojalá le guste
+Yeah Yo me dedico a IA stuff Y suno es uno de los que más me gustó para hacer música Para detalles etc preparo la letra y estilo en gemini P...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-08.txt** (2026-04-08)
+> ...sue no es negocios pequeños usando Es billoniarios despidiendo a su staff para remplazar con IA Y no hay nadie que verifique que haga bien jajaja
+Ree ojalá se cambie en algún momento la canción de arete
+El de chenille
+Or something like that
+Se comisiona jaja
+Yo re estoy para comisionar un raccoon de mi f...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-21.txt** (2026-04-21)
+> ... https://paragu-ai.com/nexa-paraguay
+bruh XD
+pendejo tu ex ami jasjajs
+Tan bueno para marketing y traer clientela y verte más profesional jsjsjs
+Mood ojalá salga te compro skin en cantidad (? Uwuwu
+Jajsjsja
+Me imagino Mira de upgradear tu cv con IA y questionarte a fondo para poner todos tus skills en tu...
+
+**WhatsApp Chat with Thais Barrios 🖤__2026-04-24.txt** (2026-04-24)
+> ...n fla capaz te sea util? n,n
+https://www.youtube.com/watch?v=WF7jiBn-M7o
+Cute
+Muy ghibli
+Ropitas de femboy vikingo(?
+Por si inspiración jsjsjsjsjsjjs
+Ojalá las que quieras se consigan en py :( Jajsjsjs
+Reee
+Esta soft y caliente ahí
+mis outfits bastante default tbh pantalon o jean negro con remera nerga a...
+
+*... and 1 more occurrences*
 
 ---
 
