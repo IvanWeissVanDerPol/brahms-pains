@@ -60540,7 +60540,7 @@
    "from_me": true,
    "sender_jid": null,
    "type": 0,
-   "text": "mi cuenta es \n5897596\nPolivan123",
+   "text": "mi cuenta es \n5897596\n[REDACTED_PASSWORD]",
    "starred": false
   },
   {
@@ -72904,7 +72904,7 @@
    "from_me": true,
    "sender_jid": null,
    "type": 0,
-   "text": "Polivan123Amazon",
+   "text": "[REDACTED_PASSWORD]",
    "starred": false
   },
   {
@@ -86914,7 +86914,7 @@
    "from_me": true,
    "sender_jid": null,
    "type": 0,
-   "text": "hola \nte dejo un fla aca mis accessos de banco \n\n\nUENO \nacceso \n\t595981324569\tPolivan123Ueno!\ntransferencia\nPIN 69420\n\n\nFAMILIAR\nacceso \n\tuser 5897596\n\tpass ADA69420\ntransferencia 69420\n\nITAU\nacceso 420420\ntransferencia 160720",
+   "text": "hola \nte dejo un fla aca mis accessos de banco \n\n\nUENO \nacceso \n\t595981324569\t[REDACTED_PASSWORD]\ntransferencia\nPIN 69420\n\n\nFAMILIAR\nacceso \n\tuser 5897596\n\tpass ADA69420\ntransferencia 69420\n\nITAU\nacceso 420420\ntransferencia 160720",
    "starred": false
   },
   {
