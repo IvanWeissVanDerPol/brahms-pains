@@ -7,4 +7,4 @@
 - [x] Analyze Sarah for psychological themes (reciprocal kink, MDMA, trauma)
 - [x] Read and analyze Alex 🌙 transcript (275 entries)
 - [x] Update RELATIONSHIP_TIMELINE.md with findings
-- [ ] Optionally: analyze tier3 text metadata for additional contacts (deferred)
+- [x] Optionally: analyze tier3 text metadata for additional contacts (deferred)
