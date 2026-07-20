@@ -7504,7 +7504,7 @@
    "from_me": true,
    "sender_jid": null,
    "type": 0,
-   "text": "weissvanderpol.ivan@gmail.com\n\nPolivan123Gmail!",
+   "text": "weissvanderpol.ivan@gmail.com\n\n[REDACTED_PASSWORD]!",
    "starred": false
   },
   {
@@ -12357,7 +12357,7 @@
    "from_me": true,
    "sender_jid": null,
    "type": 0,
-   "text": "Polivan123Gmail!",
+   "text": "[REDACTED_PASSWORD]!",
    "starred": false
   },
   {
@@ -19871,7 +19871,7 @@
    "from_me": true,
    "sender_jid": null,
    "type": 0,
-   "text": "Polivan123Gmail!!",
+   "text": "[REDACTED_PASSWORD]!!",
    "starred": false
   },
   {

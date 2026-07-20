@@ -29832,7 +29832,7 @@
    "from_me": true,
    "sender_jid": null,
    "type": 0,
-   "text": "Mi user es\nIngresando por mail\n\nMi mail es\nweissvanderpol.ivan@gmail.com\nMi pass es\nPolivan123Gmail!",
+   "text": "Mi user es\nIngresando por mail\n\nMi mail es\nweissvanderpol.ivan@gmail.com\nMi pass es\n[REDACTED_PASSWORD]!",
    "starred": false
   },
   {
