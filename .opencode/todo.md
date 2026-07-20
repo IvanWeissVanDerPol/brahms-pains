@@ -1,4 +1,55 @@
-# Mission: Complete WA chat triage — commit drops, handle stashes
+# Mission: Analyze tier2_core (ranks 11-40) — in progress
+
+## Done
+- [x] Inspect 30 tier2 chats — identified 27/30 contacts from conversation content
+- [x] Classified by psychology relevance (high/medium/low/spam/unknown)
+- [x] Committed tier2_core/README.md with full assessment
+- [x] Committed full tiered reorganization (297 files, all tiers)
+- [x] Clean working tree, all pushed
+
+## Remaining
+
+### Drop spam (ranks 11/12)
+- [ ] Add _wa_chat_595976333549_9257 + _wa_chat_595971353082_9263 to _dropped/ + commit
+
+### Inspect 3 unknown chats
+- [ ] Ranks 33, 34, 37 — need deeper look for group/contact name
+
+### Rename dirs with contact names
+- [ ] p5654 → friend_physics (or actual name)
+- [ ] p2921 → friend_edificio_brasilia
+- [ ] etc. — see README.md mapping
+
+### Transcribe voice notes (high-priority chats)
+- [ ] p8718 (rank 17) — "Ivannn helpp" — close friend
+- [ ] p0001 (rank 22) — "gracias por todo uwu" — warm reciprocity
+- [ ] p9739 (rank 24) — sexshop/kink dynamics
+- [ ] p4184 (rank 36) — gratitude + accompaniment
+- [ ] p3912 (rank 38) — Víctor urgent meeting
+
+### Cross-ref with RELATIONSHIP_TIMELINE.md
+- [ ] Match tier2 contacts to documented relationships
+- [ ] Flag undocumented high-relevance contacts
+
+---
+
+# Previous Mission: WA triage + credential redaction (COMPLETED)
+
+## M1: Resolve working tree deletions | completed
+- [x] Triage drops committed (848706a)
+- [x] 275 _wa_ dirs remain — confirmed
+
+## M2: Credential redaction stashes | completed
+- [x] All stashes applied + committed (db8d065, 80e4916, 6530899, 855c056)
+
+## M3: Full credential sweep | completed
+- [x] Polivan123Gmail → 41678df
+- [x] Polivan123[variants] → 3734e11
+- [x] ADA69420 bank PIN → 3734e11
+- [x] No plaintext credentials in SOURCE_OF_TRUTH/
+
+## M4: Final state | completed
+- [x] 11 commits total pushed, clean branch
 
 ## M1: Resolve working tree deletions | status: completed
 
