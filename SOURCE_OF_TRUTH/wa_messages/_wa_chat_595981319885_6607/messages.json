@@ -1,0 +1,196 @@
+{
+ "chat_id": 6607,
+ "slug": "_wa_chat_595981319885_6607",
+ "subject": null,
+ "jid_user": "595981319885",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981319885@s.whatsapp.net",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1287883,
+   "key_id": "E90D41036B5F6681A90F6BF21D85CEE5",
+   "ts_ms": 1715695599343,
+   "ts_iso": "2024-05-14T14:06:39.343000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240514-WA0001.jpg",
+    "size": 74886,
+    "duration_s": 0,
+    "sha256_b64": "UmCYILV1UnuE/vZtHjHUG5PepWT2W5AiohuQrvxXQqM=",
+    "media_name": "c56b710c-e0f3-4d30-b6d6-9c9b0964239e.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1287884,
+   "key_id": "DC2D5E2B666AA3B14FB26FD748E0160D",
+   "ts_ms": 1715695601538,
+   "ts_iso": "2024-05-14T14:06:41.538000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1287972,
+   "key_id": "FF800EAB4B75473DF1B0F3C49B0C18C0",
+   "ts_ms": 1715703699000,
+   "ts_iso": "2024-05-14T16:21:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal bro",
+   "starred": false
+  },
+  {
+   "id": 1287973,
+   "key_id": "834C8A645D940C28C909F2BBE1AC0130",
+   "ts_ms": 1715703708000,
+   "ts_iso": "2024-05-14T16:21:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que necesitas saber?",
+   "starred": false
+  },
+  {
+   "id": 1287974,
+   "key_id": "CD9D93000B823DB1E000509F35321735",
+   "ts_ms": 1715703718000,
+   "ts_iso": "2024-05-14T16:21:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avendesema",
+   "starred": false
+  },
+  {
+   "id": 1287975,
+   "key_id": "ACDA2F4D8617F3401067EC4D7B02513D",
+   "ts_ms": 1715703739000,
+   "ts_iso": "2024-05-14T16:22:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por 1.200 vendía y vaje 3 veces hasta 900mil",
+   "starred": false
+  },
+  {
+   "id": 1287977,
+   "key_id": "14FA7EDEFEC1A7E98437648209B6E3D3",
+   "ts_ms": 1715704052343,
+   "ts_iso": "2024-05-14T16:27:32.343000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Donde estarias ?\n\nMe iría en Bolt y vuelvo en la bici \n\n\n900 me parece bien \n\nNo tengo efectivo solo para transferencia de banco :( \n\nEn todo caso voy en la semana cuando pase por cajero",
+   "starred": false
+  },
+  {
+   "id": 1287983,
+   "key_id": "CA68343EA8CFD51026DC5F4D0616D486",
+   "ts_ms": 1715705301000,
+   "ts_iso": "2024-05-14T16:48:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahi mismo amigo",
+   "starred": false
+  },
+  {
+   "id": 1287984,
+   "key_id": "8B0A268FB0F1D6034945F94B6C407459",
+   "ts_ms": 1715705304000,
+   "ts_iso": "2024-05-14T16:48:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Recién llegue",
+   "starred": false
+  },
+  {
+   "id": 1287985,
+   "key_id": "31C4AEBADBA0152A02CFBDB38EC30657",
+   "ts_ms": 1715705311000,
+   "ts_iso": "2024-05-14T16:48:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La bici esta en condiciones para usar",
+   "starred": false
+  },
+  {
+   "id": 1287986,
+   "key_id": "41F9EACA7900DC17ECC5643AD15A34F7",
+   "ts_ms": 1715705338000,
+   "ts_iso": "2024-05-14T16:48:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202420/PTT-20240514-WA0008.opus",
+    "size": 46772,
+    "duration_s": 20,
+    "sha256_b64": "lSgu8mMf+hXngPW6l882kHegtRcb8k443HNpq6TXkoo=",
+    "media_name": "PTT-20240514-WA0008.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1288008,
+   "key_id": "A351D52CBADD36E4C7790D0B970FFBA7",
+   "ts_ms": 1715707256944,
+   "ts_iso": "2024-05-14T17:20:56.944000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1288009,
+   "key_id": "BB644D5EC47FF59EE4D416D78781008F",
+   "ts_ms": 1715707264032,
+   "ts_iso": "2024-05-14T17:21:04.032000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te aviso para ir",
+   "starred": false
+  },
+  {
+   "id": 1288017,
+   "key_id": "DC1C5DB21582B538DB71FE06CAB5CCCD",
+   "ts_ms": 1715707840000,
+   "ts_iso": "2024-05-14T17:30:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale amigo",
+   "starred": false
+  },
+  {
+   "id": 1288018,
+   "key_id": "32734609A16351BFC46F10F03D537037",
+   "ts_ms": 1715707844000,
+   "ts_iso": "2024-05-14T17:30:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avisa y te digo si estoy",
+   "starred": false
+  }
+ ]
+}

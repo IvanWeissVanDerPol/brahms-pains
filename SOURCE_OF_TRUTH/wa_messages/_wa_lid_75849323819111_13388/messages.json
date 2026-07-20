@@ -1,0 +1,24 @@
+{
+ "chat_id": 13388,
+ "slug": "_wa_lid_75849323819111_13388",
+ "subject": null,
+ "jid_user": "75849323819111",
+ "jid_server": "lid",
+ "jid_raw": "75849323819111@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1679570,
+   "key_id": "AC0111E6E6BAC03372A95652CB4D56C2",
+   "ts_ms": 1770300959000,
+   "ts_iso": "2026-02-05T14:15:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "chat_id": 14357,
+ "slug": "_wa_lid_40570311434494_14357",
+ "subject": null,
+ "jid_user": "40570311434494",
+ "jid_server": "lid",
+ "jid_raw": "40570311434494@lid",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1720998,
+   "key_id": "AC34174875FF80B7D7A20FF1230B006B",
+   "ts_ms": 1773751357334,
+   "ts_iso": "2026-03-17T12:42:37.334000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¿Cuál es la compra mínima para ser cliente?",
+   "starred": false
+  },
+  {
+   "id": 1720999,
+   "key_id": "A5C2DA6C600EC68E89BA73913F63B234",
+   "ts_ms": 1773751361000,
+   "ts_iso": "2026-03-17T12:42:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "👉 Con una sola bandeja de productos precocios por sabor ya podés arrancar con Pastas Medina.",
+   "starred": false
+  },
+  {
+   "id": 1721007,
+   "key_id": "AC0F6A115870341DEF7522624C8D406C",
+   "ts_ms": 1773751515334,
+   "ts_iso": "2026-03-17T12:45:15.334000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasan los sabores y precios",
+   "starred": false
+  },
+  {
+   "id": 1721008,
+   "key_id": "AC11B6561C251BB73B1FE2ACDACB55CF",
+   "ts_ms": 1773751517006,
+   "ts_iso": "2026-03-17T12:45:17.006000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Porfa",
+   "starred": false
+  },
+  {
+   "id": 1721012,
+   "key_id": "A564AEC4CDE5364C2B5FBD8923218B66",
+   "ts_ms": 1773751880000,
+   "ts_iso": "2026-03-17T12:51:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1721013,
+   "key_id": "A5C6DEA7599252139E09F479E6247CB3",
+   "ts_ms": 1773751886000,
+   "ts_iso": "2026-03-17T12:51:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si claro",
+   "starred": false
+  }
+ ]
+}

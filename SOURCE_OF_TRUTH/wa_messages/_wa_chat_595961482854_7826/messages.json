@@ -1,0 +1,134 @@
+{
+ "chat_id": 7826,
+ "slug": "_wa_chat_595961482854_7826",
+ "subject": null,
+ "jid_user": "595961482854",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595961482854@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1335567,
+   "key_id": "E63B21BBC277A5115BB707B13B59091C",
+   "ts_ms": 1722964573885,
+   "ts_iso": "2024-08-06T17:16:13.885000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas hacen delivery?",
+   "starred": false
+  },
+  {
+   "id": 1335568,
+   "key_id": "654B94E237040619CBC50FE15BDA5FA7",
+   "ts_ms": 1722964578085,
+   "ts_iso": "2024-08-06T17:16:18.085000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero comprar un bong",
+   "starred": false
+  },
+  {
+   "id": 1335569,
+   "key_id": "893DA0F215A80AEBD405A93B99FE7AE9",
+   "ts_ms": 1722964585957,
+   "ts_iso": "2024-08-06T17:16:25.957000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuales tienen?",
+   "starred": false
+  },
+  {
+   "id": 1335574,
+   "key_id": "9697BCE4AF906863D5EA66A7D603A95A",
+   "ts_ms": 1722966531000,
+   "ts_iso": "2024-08-06T17:48:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1335575,
+   "key_id": "A1800EEA3A733F1FC7BEE93D14037682",
+   "ts_ms": 1722966534000,
+   "ts_iso": "2024-08-06T17:48:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te paso",
+   "starred": false
+  },
+  {
+   "id": 1335576,
+   "key_id": "42B9884E7E6AA2C28D508E2FDC3035CB",
+   "ts_ms": 1722966540000,
+   "ts_iso": "2024-08-06T17:49:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El número de showroom",
+   "starred": false
+  },
+  {
+   "id": 1335578,
+   "key_id": "A8D999848274DE08CF2B92FCF790F442",
+   "ts_ms": 1722966594843,
+   "ts_iso": "2024-08-06T17:49:54.843000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1335585,
+   "key_id": "577D5AF9272D97A4CC806D1652576D14",
+   "ts_ms": 1722966682000,
+   "ts_iso": "2024-08-06T17:51:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale 🤝",
+   "starred": false
+  },
+  {
+   "id": 1335588,
+   "key_id": "E63EF0608D1BB837B8FB3A70A7BAFE0B",
+   "ts_ms": 1722966692000,
+   "ts_iso": "2024-08-06T17:51:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora ya te van a atender señor",
+   "starred": false
+  },
+  {
+   "id": 1336267,
+   "key_id": "A221830037148BB7A0AD0A883E9B66DF",
+   "ts_ms": 1723067961595,
+   "ts_iso": "2024-08-07T21:59:21.595000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tiene thc y cbd esto? Me interesa",
+   "starred": false
+  },
+  {
+   "id": 1336273,
+   "key_id": "3EB058708571EEDBA06CF9",
+   "ts_ms": 1723068040000,
+   "ts_iso": "2024-08-07T22:00:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buenas tardes es a base de cbd",
+   "starred": false
+  }
+ ]
+}

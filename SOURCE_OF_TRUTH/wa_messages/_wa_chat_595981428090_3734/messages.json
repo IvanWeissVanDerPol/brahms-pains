@@ -1,0 +1,86 @@
+{
+ "chat_id": 3734,
+ "slug": "_wa_chat_595981428090_3734",
+ "subject": null,
+ "jid_user": "595981428090",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981428090@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1458653,
+   "key_id": "0CAF12337920B4C69C48CFE5D7ED906C",
+   "ts_ms": 1743534517353,
+   "ts_iso": "2025-04-01T19:08:37.353000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250401-WA0015.jpg",
+    "size": 114107,
+    "duration_s": 0,
+    "sha256_b64": "FIZ2LbsV3kqbR3/6yk3bC6nXZNuJu6HuxadgmSzS798=",
+    "media_name": "42ea5b64-7545-4e5e-bc2b-cefc67204765.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1458654,
+   "key_id": "882906E66CB27449DF78F77B9AFE6C63",
+   "ts_ms": 1743534520762,
+   "ts_iso": "2025-04-01T19:08:40.762000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Este tengo",
+   "starred": false
+  },
+  {
+   "id": 1458655,
+   "key_id": "CF3CEBB6894E86C22EF84D0584EBF007",
+   "ts_ms": 1743534551000,
+   "ts_iso": "2025-04-01T19:09:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202514/PTT-20250401-WA0016.opus",
+    "size": 19509,
+    "duration_s": 8,
+    "sha256_b64": "A0IF++6uRk1NYzAdQWbjtI5sxP74hUsBZg2CzrNe1mg=",
+    "media_name": "PTT-20250401-WA0016.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1458658,
+   "key_id": "23B4C17AEEF21D743479918F22FEA90C",
+   "ts_ms": 1743534742606,
+   "ts_iso": "2025-04-01T19:12:22.606000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No se \nEn mi cell tengo ese y el de Tigo",
+   "starred": false
+  },
+  {
+   "id": 1458659,
+   "key_id": "E224D159E1C75FDDDE01B4CCFC3D7401",
+   "ts_ms": 1743534757436,
+   "ts_iso": "2025-04-01T19:12:37.436000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si no es le habré devolvidó ya",
+   "starred": false
+  }
+ ]
+}

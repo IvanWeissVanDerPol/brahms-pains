@@ -1,0 +1,24 @@
+{
+ "chat_id": 5812,
+ "slug": "_wa_chat_595985547457_5812",
+ "subject": null,
+ "jid_user": "595985547457",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985547457@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1257543,
+   "key_id": "3EB06143ABEABB8750CB61",
+   "ts_ms": 1710529620000,
+   "ts_iso": "2024-03-15T19:07:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "POR SER CLIENTE DE FIBRA OPTICA QUEREMOS QUE FORMES PARTE DE LA FAMILIA DE CLARO Y POR ESO TE TRAEMOS LOS MEJORES PLANES 🔴\n🥳🥳🥳🥳🥳🥳🥳🥳🥳\n✔️ 7GB - 28.000GS\n✔️ 12GB - 40.000GS\n✔️ 25GB - 90.000GS  \n✔️ 50GB - 189.000GS \n🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉\n            🚨TE DAMOS :\n- WhatsApp gratis.\n- Llamadas ilimitadas a todas las líneas (incluye líneas bajas). \n- Mensajes de textos ilimitados.\n- 10.000GS de Saldo acumulable\n- Roaming a toda America.\n- Claro video, claro música y claro juegos gratuitos. \n- Amazon PRIME Video gratuito -HBO-PARAMOUNT-😱🎥\n* CON LA NUEVA SEÑAL DE 4.5G LTE* 📢\n 👉🏼Primer abono en 30 DIAS",
+   "starred": false
+  }
+ ]
+}

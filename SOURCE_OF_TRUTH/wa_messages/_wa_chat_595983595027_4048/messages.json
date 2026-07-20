@@ -1,0 +1,90 @@
+{
+ "chat_id": 4048,
+ "slug": "_wa_chat_595983595027_4048",
+ "subject": null,
+ "jid_user": "595983595027",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983595027@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1153055,
+   "key_id": "ED61E5FA85BE943D6441E45CB9709C30",
+   "ts_ms": 1693763719000,
+   "ts_iso": "2023-09-03T17:55:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Op",
+   "starred": false
+  },
+  {
+   "id": 1153056,
+   "key_id": "7843894017BCBEAC4FCFA714F93ECE5F",
+   "ts_ms": 1693763727000,
+   "ts_iso": "2023-09-03T17:55:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal weiss",
+   "starred": false
+  },
+  {
+   "id": 1153057,
+   "key_id": "804237D26A2C58395DD36C6F8E0D507C",
+   "ts_ms": 1693763738000,
+   "ts_iso": "2023-09-03T17:55:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Chaparro soy",
+   "starred": false
+  },
+  {
+   "id": 1153058,
+   "key_id": "97ABCA99107933D117",
+   "ts_ms": 1693763742000,
+   "ts_iso": "2023-09-03T17:55:42+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1153059,
+   "key_id": "399124B98276EF6032EED108AF2AD373",
+   "ts_ms": 1693763751000,
+   "ts_iso": "2023-09-03T17:55:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Agg👉👈",
+   "starred": false
+  },
+  {
+   "id": 1153060,
+   "key_id": "661D7E6E25DFCE03F5",
+   "ts_ms": 1693763765000,
+   "ts_iso": "2023-09-03T17:56:05+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "?",
+   "starred": false
+  },
+  {
+   "id": 1153062,
+   "key_id": "30D68061915C361F1E96028B48D08E9B",
+   "ts_ms": 1693763817472,
+   "ts_iso": "2023-09-03T17:56:57.472000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok(?",
+   "starred": false
+  }
+ ]
+}

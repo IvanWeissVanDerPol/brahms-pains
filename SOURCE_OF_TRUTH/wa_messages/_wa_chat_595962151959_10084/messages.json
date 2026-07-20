@@ -1,0 +1,35 @@
+{
+ "chat_id": 10084,
+ "slug": "_wa_chat_595962151959_10084",
+ "subject": null,
+ "jid_user": "595962151959",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595962151959@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1462824,
+   "key_id": "D1B7288EFB0EBC98818E34C7B5CE10E6",
+   "ts_ms": 1744115889533,
+   "ts_iso": "2025-04-08T12:38:09.533000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1462825,
+   "key_id": "207B1BB78B50CB63189BF98BB080E1B4",
+   "ts_ms": 1744115893038,
+   "ts_iso": "2025-04-08T12:38:13.038000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal?",
+   "starred": false
+  }
+ ]
+}

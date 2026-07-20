@@ -1,0 +1,35 @@
+{
+ "chat_id": 14961,
+ "slug": "_wa_lid_97212994470016_14961",
+ "subject": null,
+ "jid_user": "97212994470016",
+ "jid_server": "lid",
+ "jid_raw": "97212994470016@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1753597,
+   "key_id": "AC02E8F06C343A09D0D4ED3A57AE97C5",
+   "ts_ms": 1776461641887,
+   "ts_iso": "2026-04-17T21:34:01.887000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1753598,
+   "key_id": "AC6BED20DA8E761CFB28809F18B39F96",
+   "ts_ms": 1776461644131,
+   "ts_iso": "2026-04-17T21:34:04.131000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que paso?",
+   "starred": false
+  }
+ ]
+}

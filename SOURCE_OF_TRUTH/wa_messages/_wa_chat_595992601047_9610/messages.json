@@ -1,0 +1,33 @@
+{
+ "chat_id": 9610,
+ "slug": "_wa_chat_595992601047_9610",
+ "subject": null,
+ "jid_user": "595992601047",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992601047@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1405492,
+   "key_id": "6D3CA1E293C3A61D9A9A3D16E32F8501",
+   "ts_ms": 1734449390000,
+   "ts_iso": "2024-12-17T15:29:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "🎄✨ ¡Ofertas Navideñas en Bristol! 🎁\nCompra HOY y paga el AÑO QUE VIENE 🛍️💳\n¡Renová tu hogar con los mejores precios! 🎅🎉\n\n🛍️Con tus compras estás participando de la promo 3.000 Millones en premios!\n📣Llevá hoy y pagá tu 1ra cuota a los 30 días!\n🙋‍♂️Escribinos y chatea con uno de nuestros asesores por Whatsapp al wa.me/0992601047📲",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241217-WA0014.jpg",
+    "size": 196781,
+    "duration_s": 0,
+    "sha256_b64": "LMzJpkWkwP2rPkHGqbIr+npdrOIyl87jaXkrj8C6b00=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

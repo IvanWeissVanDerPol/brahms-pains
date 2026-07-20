@@ -1,0 +1,35 @@
+{
+ "chat_id": 14787,
+ "slug": "_wa_lid_49735771639861_14787",
+ "subject": null,
+ "jid_user": "49735771639861",
+ "jid_server": "lid",
+ "jid_raw": "49735771639861@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1738947,
+   "key_id": "AC0D4FCFCE153E99A3EA75C9B22037FC",
+   "ts_ms": 1774938065408,
+   "ts_iso": "2026-03-31T06:21:05.408000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1738948,
+   "key_id": "AC7813C10BED6FFA2F5EF454C109BE73",
+   "ts_ms": 1774938068252,
+   "ts_iso": "2026-03-31T06:21:08.252000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://photos.app.goo.gl/3BaVYjwKQqyh1Poq6",
+   "starred": false
+  }
+ ]
+}

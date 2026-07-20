@@ -1,0 +1,64 @@
+{
+ "chat_id": 5185,
+ "slug": "_wa_chat_595992223429_5185",
+ "subject": null,
+ "jid_user": "595992223429",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992223429@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1211773,
+   "key_id": "5E91BBBDB7603F92621E4F6EC62BF853",
+   "ts_ms": 1702905390926,
+   "ts_iso": "2023-12-18T13:16:30.926000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Private/IMG-20231218-WA0005.jpg",
+    "size": 926185,
+    "duration_s": 0,
+    "sha256_b64": "r7O78OvWB2ELikxoiFo1bJhBP5EhB2OcmwborKVreD4=",
+    "media_name": "cd136852-54d3-49c3-86c1-21b35ffe9228.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1211774,
+   "key_id": "6BD32AC247F381B997F6BB24973E0A19",
+   "ts_ms": 1702905391428,
+   "ts_iso": "2023-12-18T13:16:31.428000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Private/IMG-20231218-WA0004.jpg",
+    "size": 706480,
+    "duration_s": 0,
+    "sha256_b64": "HJ8ji412eNa/YJaUMKVm7wijQeJut9v3ltWfkOupOSw=",
+    "media_name": "fbae982f-e1c8-4f66-98c9-d1f08458a222.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1710404,
+   "key_id": "3EB0C98645B08C20413D88",
+   "ts_ms": 1772724465000,
+   "ts_iso": "2026-03-05T15:27:45+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "chat_id": 6646,
+ "slug": "_wa_chat_595991710569_6646",
+ "subject": null,
+ "jid_user": "595991710569",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991710569@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1292834,
+   "key_id": "9FEE344925799501754AD6F2EA78161D",
+   "ts_ms": 1716740671000,
+   "ts_iso": "2024-05-26T16:24:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Buenas tardes, le escribo de Presupuestos y Cuentas Internados del Centro Médico Bautista, remito de presupuesto del material que se estaría utilizando en su procedimiento, el mismo debe ser abonado con 48hs de anticipación para solicitar al proveedor.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240526-WA0034.jpg",
+    "size": 115510,
+    "duration_s": 0,
+    "sha256_b64": "j4T8iWxnZX9Zn3j1OCGcLupNKP4tcKjJvbwr1enkE74=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

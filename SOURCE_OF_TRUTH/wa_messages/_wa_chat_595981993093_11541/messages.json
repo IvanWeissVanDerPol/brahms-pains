@@ -1,0 +1,35 @@
+{
+ "chat_id": 11541,
+ "slug": "_wa_chat_595981993093_11541",
+ "subject": null,
+ "jid_user": "595981993093",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981993093@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1559087,
+   "key_id": "ABDCD724B30E0E9B36BA88D2DEE97B52",
+   "ts_ms": 1756215460598,
+   "ts_iso": "2025-08-26T13:37:40.598000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nNo puedo recuperar mi cuenta \n\nweissvanderpol.ivan@gmail.com \n\nY no me deja crear una cuenta nueva con mi cédula por que ya se uso mi nombre",
+   "starred": false
+  },
+  {
+   "id": 1559141,
+   "key_id": "71393B871FBD185C7E4E38831545AA2F",
+   "ts_ms": 1756224273000,
+   "ts_iso": "2025-08-26T16:04:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan, un gusto saludarte. Ya te llegó el mail con las credenciales?",
+   "starred": false
+  }
+ ]
+}

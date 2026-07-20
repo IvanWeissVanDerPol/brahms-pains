@@ -1,0 +1,112 @@
+{
+ "chat_id": 9209,
+ "slug": "_wa_chat_59899000784_9209",
+ "subject": null,
+ "jid_user": "59899000784",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "59899000784@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1383235,
+   "key_id": "9941410BA24548EE1603664776DE8A6A",
+   "ts_ms": 1730593096226,
+   "ts_iso": "2024-11-03T00:18:16.226000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1383236,
+   "key_id": "EED5828B4AB8173D6D",
+   "ts_ms": 1730593099000,
+   "ts_iso": "2024-11-03T00:18:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola weissvanderpol, ¿cómo estás? Soy el asistente virtual de Itaú UY y estoy aquí para ayudarte 😉",
+   "starred": false
+  },
+  {
+   "id": 1383237,
+   "key_id": "7879BFD714F3C9D747",
+   "ts_ms": 1730593100000,
+   "ts_iso": "2024-11-03T00:18:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No conozco el teléfono desde donde estás escribiendo.",
+   "starred": false
+  },
+  {
+   "id": 1383239,
+   "key_id": "C0D57111FC4E52FE17BD6ECD5E55A0B7",
+   "ts_ms": 1730593104422,
+   "ts_iso": "2024-11-03T00:18:24.422000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero abrir una cuenta en dólares",
+   "starred": false
+  },
+  {
+   "id": 1383240,
+   "key_id": "CA14310BEE24DB5A31",
+   "ts_ms": 1730593106000,
+   "ts_iso": "2024-11-03T00:18:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Recordá ingresar *únicamente la letra* de alguna de las opciones disponibles del menú anterior para continuar.",
+   "starred": false
+  },
+  {
+   "id": 1383241,
+   "key_id": "772FA6884736EA3A133E927FEAA78230",
+   "ts_ms": 1730593107457,
+   "ts_iso": "2024-11-03T00:18:27.457000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero no me deja",
+   "starred": false
+  },
+  {
+   "id": 1383242,
+   "key_id": "3688837D1B6C4B09EA",
+   "ts_ms": 1730593109000,
+   "ts_iso": "2024-11-03T00:18:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Recordá ingresar *únicamente la letra* de alguna de las opciones disponibles del menú anterior para continuar.",
+   "starred": false
+  },
+  {
+   "id": 1383248,
+   "key_id": "442BBA71C065353C04",
+   "ts_ms": 1730593128000,
+   "ts_iso": "2024-11-03T00:18:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.itau.com.uy/inst/paratiCuentaCorriente.html",
+   "starred": false
+  },
+  {
+   "id": 1383253,
+   "key_id": "643D22A2269E980FE6",
+   "ts_ms": 1730593144000,
+   "ts_iso": "2024-11-03T00:19:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por contactarte con nosotros.\n¡Te esperamos pronto! 👋",
+   "starred": false
+  }
+ ]
+}

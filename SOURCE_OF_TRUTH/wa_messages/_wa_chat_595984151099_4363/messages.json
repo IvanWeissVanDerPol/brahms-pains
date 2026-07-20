@@ -1,0 +1,165 @@
+{
+ "chat_id": 4363,
+ "slug": "_wa_chat_595984151099_4363",
+ "subject": null,
+ "jid_user": "595984151099",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984151099@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1791933,
+   "key_id": "ACEB6247C84817B50D1902106C826467",
+   "ts_ms": 1780517890000,
+   "ts_iso": "2026-06-03T20:18:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Como lo que vos sabes estas cosas",
+   "starred": false
+  },
+  {
+   "id": 1791936,
+   "key_id": "AC5DECD9CE68A02725803D1B447DBF99",
+   "ts_ms": 1780517902000,
+   "ts_iso": "2026-06-03T20:18:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y sobre sounding también aparte",
+   "starred": false
+  },
+  {
+   "id": 1791938,
+   "key_id": "AC0C94ACBE93CF44A64233BC4AC7CEB8",
+   "ts_ms": 1780517919374,
+   "ts_iso": "2026-06-03T20:18:39.374000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1791939,
+   "key_id": "AC9FE4A5630824DA334F3B22511BE6E1",
+   "ts_ms": 1780517929261,
+   "ts_iso": "2026-06-03T20:18:49.261000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Trabaje de QA desde 2015",
+   "starred": false
+  },
+  {
+   "id": 1791941,
+   "key_id": "AC47A387C767DF909EFFF895F6F46834",
+   "ts_ms": 1780517934935,
+   "ts_iso": "2026-06-03T20:18:54.935000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y estoy en IA desde que salio",
+   "starred": false
+  },
+  {
+   "id": 1791943,
+   "key_id": "AC2E6AE71EEEC0806E27AB1664CC6A44",
+   "ts_ms": 1780517951054,
+   "ts_iso": "2026-06-03T20:19:11.054000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260603-WA0056.jpg",
+    "size": 127123,
+    "duration_s": 0,
+    "sha256_b64": "M4Ph6J7NIG3tfUhu/SVvtUtbuhFiirjWDRFg2+X9LfU=",
+    "media_name": "e1236890-f45f-44af-b383-178d490cd27e.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1791944,
+   "key_id": "ACC980CF22BB17CFFA1B124C986542F6",
+   "ts_ms": 1780517955415,
+   "ts_iso": "2026-06-03T20:19:15.415000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y trabajo asi",
+   "starred": false
+  },
+  {
+   "id": 1791945,
+   "key_id": "ACE745688D6FB15CE37973C6CE09B5F1",
+   "ts_ms": 1780517964746,
+   "ts_iso": "2026-06-03T20:19:24.746000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Usually 5 chats mínimo",
+   "starred": false
+  },
+  {
+   "id": 1791947,
+   "key_id": "AC464F10F039B20561A88382D7EEA756",
+   "ts_ms": 1780518016000,
+   "ts_iso": "2026-06-03T20:20:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuántas IAs tenés con suscripción?",
+   "starred": false
+  },
+  {
+   "id": 1791950,
+   "key_id": "ACBE42BED9BFA98D47D25FCD0F375B94",
+   "ts_ms": 1780518051790,
+   "ts_iso": "2026-06-03T20:20:51.790000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Minimax\nZ.ai\nNousportal\nFeatherless\nOpenaicodex",
+   "starred": false
+  },
+  {
+   "id": 1791967,
+   "key_id": "AC200A3029C5379938CE9907E92EEB10",
+   "ts_ms": 1780518491000,
+   "ts_iso": "2026-06-03T20:28:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y claude?",
+   "starred": false
+  },
+  {
+   "id": 1791972,
+   "key_id": "ACB7440D6FF8B5AC490493F3AF37392E",
+   "ts_ms": 1780519240321,
+   "ts_iso": "2026-06-03T20:40:40.321000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pagaba",
+   "starred": false
+  },
+  {
+   "id": 1791973,
+   "key_id": "ACF6DC9EF5326BCA03F0C543BEE984BB",
+   "ts_ms": 1780519244364,
+   "ts_iso": "2026-06-03T20:40:44.364000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cada tanto pago un mes",
+   "starred": false
+  }
+ ]
+}

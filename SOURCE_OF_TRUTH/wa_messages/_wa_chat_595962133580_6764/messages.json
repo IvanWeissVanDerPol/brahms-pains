@@ -1,0 +1,79 @@
+{
+ "chat_id": 6764,
+ "slug": "_wa_chat_595962133580_6764",
+ "subject": null,
+ "jid_user": "595962133580",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595962133580@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1303636,
+   "key_id": "3A2EB40025B69D5A9E50",
+   "ts_ms": 1718635624000,
+   "ts_iso": "2024-06-17T14:47:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia que tal! Queria pedirte tu ubicacion para entregarte el regalo que te envia tu empresa☺️",
+   "starred": false
+  },
+  {
+   "id": 1303646,
+   "key_id": "AB2C2887A684ABBB0193711C92BDA4C6",
+   "ts_ms": 1718636364566,
+   "ts_iso": "2024-06-17T14:59:24.566000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avisa y salgo",
+   "starred": false
+  },
+  {
+   "id": 1303647,
+   "key_id": "3A2F0768E8F630768766",
+   "ts_ms": 1718636417000,
+   "ts_iso": "2024-06-17T15:00:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si muchas gracias🙌🏻",
+   "starred": false
+  },
+  {
+   "id": 1303648,
+   "key_id": "3AAD5AFEBA9403ED2529",
+   "ts_ms": 1718636505000,
+   "ts_iso": "2024-06-17T15:01:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llegamos en 10 minutos aprox.",
+   "starred": false
+  },
+  {
+   "id": 1303650,
+   "key_id": "3A309EDBCFF76504ECE7",
+   "ts_ms": 1718636999000,
+   "ts_iso": "2024-06-17T15:09:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estamos♥️",
+   "starred": false
+  },
+  {
+   "id": 1303651,
+   "key_id": "3ACF5947DA32B470A1E8",
+   "ts_ms": 1718637012000,
+   "ts_iso": "2024-06-17T15:10:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "#1023",
+   "starred": false
+  }
+ ]
+}

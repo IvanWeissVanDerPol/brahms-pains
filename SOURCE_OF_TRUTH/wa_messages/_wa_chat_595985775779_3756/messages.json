@@ -1,0 +1,46 @@
+{
+ "chat_id": 3756,
+ "slug": "_wa_chat_595985775779_3756",
+ "subject": null,
+ "jid_user": "595985775779",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985775779@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1706825,
+   "key_id": "AC51D5DBF75E91797078CED4AC4CA227",
+   "ts_ms": 1772262772312,
+   "ts_iso": "2026-02-28T07:12:52.312000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1706826,
+   "key_id": "AC3CBE1EE3BA7026D9D8D2582F097C38",
+   "ts_ms": 1772262861500,
+   "ts_iso": "2026-02-28T07:14:21.500000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero 4 lomitos árabe",
+   "starred": false
+  },
+  {
+   "id": 1707418,
+   "key_id": "A54F3E9D648EE655DEFA5BDC4BD7D22C",
+   "ts_ms": 1772314052000,
+   "ts_iso": "2026-02-28T21:27:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "👋🏻Hola! Ya estamos activos, tomamos pedidos por WhatsApp hasta las 23hs.",
+   "starred": false
+  }
+ ]
+}

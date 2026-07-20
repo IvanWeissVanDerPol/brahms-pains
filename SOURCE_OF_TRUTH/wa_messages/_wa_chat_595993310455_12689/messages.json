@@ -1,0 +1,24 @@
+{
+ "chat_id": 12689,
+ "slug": "_wa_chat_595993310455_12689",
+ "subject": null,
+ "jid_user": "595993310455",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595993310455@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1615633,
+   "key_id": "AC85E433A40015B1B8BC8423A220AB59",
+   "ts_ms": 1763621974754,
+   "ts_iso": "2025-11-20T06:59:34.754000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Belen vi tu video en Hot",
+   "starred": false
+  }
+ ]
+}

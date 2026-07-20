@@ -1,0 +1,733 @@
+{
+ "chat_id": 7612,
+ "slug": "_wa_group_talleres_de_invierno_iin_-_lcik_7612",
+ "subject": "Talleres de Invierno IIN - LCIK 🧣💻",
+ "jid_user": "120363319166032726",
+ "jid_server": "g.us",
+ "jid_raw": "120363319166032726@g.us",
+ "message_count": 45,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1330104,
+   "key_id": "33D3E4BCD2B5759B32551D0B4890A621",
+   "ts_ms": 1722076466000,
+   "ts_iso": "2024-07-27T10:34:26+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "*‼️Incian los talleres de invierno ‼️*",
+   "starred": false
+  },
+  {
+   "id": 1330106,
+   "key_id": "BC494BFB38674325C34983F0BD301F3E",
+   "ts_ms": 1722076473000,
+   "ts_iso": "2024-07-27T10:34:33+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240727-WA0002.jpg",
+    "size": 151202,
+    "duration_s": 0,
+    "sha256_b64": "TGp7ugJv/v3ETK4SSpI59CDyqhQZxg0brwFw517nbok=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1334216,
+   "key_id": "A63D3F4B37F2F42A790AB139F1F8F12B",
+   "ts_ms": 1722680049000,
+   "ts_iso": "2024-08-03T10:14:09+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240727-WA0002.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "TGp7ugJv/v3ETK4SSpI59CDyqhQZxg0brwFw517nbok=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1334217,
+   "key_id": "BE48DE21AC311DD518FED7220D6B6E6E",
+   "ts_ms": 1722680090000,
+   "ts_iso": "2024-08-03T10:14:50+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "‼️ Comienzan otro día de nuestras clases‼️",
+   "starred": false
+  },
+  {
+   "id": 1334218,
+   "key_id": "7D790081AF029D54EB9229DF76FA6103",
+   "ts_ms": 1722680105000,
+   "ts_iso": "2024-08-03T10:15:05+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Éxitos para todos!!",
+   "starred": false
+  },
+  {
+   "id": 1334332,
+   "key_id": "9DBD9B2E44934705BFF8146F9EF503E4",
+   "ts_ms": 1722694370000,
+   "ts_iso": "2024-08-03T14:12:50+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "¡📢 Nuevo Taller de Introducción a TypeScript! 📢\n\n🗓️ Fecha: Martes 6 de agosto\n🕡 Horario: 19:00h\n📍Aula a confirmar\nInscribite aquí: https://bit.ly/ci24_typescript\n\n¡No te pierdas esta oportunidad de aprender y mejorar tus habilidades en TypeScript! 🚀",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "xMGzn7NqvWp1nSExsdHQHMH7B96FPDjb0j+Rais5uiw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1335734,
+   "key_id": "08AA97FE9106825F24D90AA1049E75E6",
+   "ts_ms": 1722976700000,
+   "ts_iso": "2024-08-06T20:38:20+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "El Taller de Typescript se estará desarrollando en el auditorio de la Facultad de Ciencias Químicas \n📍https://maps.app.goo.gl/CFyEKFDvVSnwSXTP6\n\n¡LES ESPERAMOS A TODOS!",
+   "starred": false
+  },
+  {
+   "id": 1335735,
+   "key_id": "A5C3E39FB537AC543ED6FC31D6C8EB70",
+   "ts_ms": 1722976716000,
+   "ts_iso": "2024-08-06T20:38:36+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": null,
+    "size": 0,
+    "duration_s": 10,
+    "sha256_b64": "CS7uDNzXalLdpaxVnkrLlsgMW2TPLmex69bRW/Gzg5c=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1335736,
+   "key_id": "34683B1FA69B3FED59F43DD5C2CF0B6F",
+   "ts_ms": 1722976717000,
+   "ts_iso": "2024-08-06T20:38:37+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240806-WA0026.jpg",
+    "size": 196442,
+    "duration_s": 0,
+    "sha256_b64": "ar6BrZs0r+K1i4LzumDSn8dglfXMIgmX/gDzIldPHGk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1337402,
+   "key_id": "CEFFE9F56543B262ECBC9528F5125AA7",
+   "ts_ms": 1723292872000,
+   "ts_iso": "2024-08-10T12:27:52+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240727-WA0002.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "TGp7ugJv/v3ETK4SSpI59CDyqhQZxg0brwFw517nbok=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1344137,
+   "key_id": "0083E3C4AE729153CA9017A103F07715",
+   "ts_ms": 1724271377000,
+   "ts_iso": "2024-08-21T20:16:17+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🎓 Cierre de los Talleres de Invierno IIN-LCIK 2024 💻\n\nTe invitamos a la Clausura y Entrega de Certificados por tu participación en los cursos. Este evento se llevará a cabo el sábado 24 de agosto, a las 11:00 h, en el Aula Magna de la FP-UNA.\n\nPara asegurarnos de que tu certificado sí esté listo, por favor completa el formulario de asistencia. ¡Gracias por ser parte de nuestra iniciativa y te esperamos para compartir este logro juntos!\n\n🔗 Inscríbete aquí: bit.ly/ci24_asistencia\n\n#TalleresDeInvierno #IIN #LCIK #FPUNA\n\nhttps://www.instagram.com/p/C-8exs2yxmP/?igsh=MTV2bzZmNGhlNXgwMA==",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "DQKEXvOTSTp8fOHGKyP/v9YP9OkcwP6W7bHGYHmwqKA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1344139,
+   "key_id": "61DF68983837D3B378E119FEE5CFD07F",
+   "ts_ms": 1724271776000,
+   "ts_iso": "2024-08-21T20:22:56+00:00",
+   "from_me": false,
+   "sender_jid": "71468373299441@lid",
+   "type": 0,
+   "text": "Para las personas del extranjero que no podemos recibir el carton en físico, lo enviaran digital?",
+   "starred": false
+  },
+  {
+   "id": 1344140,
+   "key_id": "3EB0EADF22D5D17C602A1B",
+   "ts_ms": 1724271951000,
+   "ts_iso": "2024-08-21T20:25:51+00:00",
+   "from_me": false,
+   "sender_jid": "149525058560186@lid",
+   "type": 0,
+   "text": "Buenas tardes, no asistiré pero me gustaria recibir el certificado en formato digital, igual complete el formullario",
+   "starred": false
+  },
+  {
+   "id": 1344148,
+   "key_id": "0D34A834F500DC1D5AE60E6BDBE73ED8",
+   "ts_ms": 1724272168000,
+   "ts_iso": "2024-08-21T20:29:28+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Buenas Tardes a todos!!\n\nAgradecemos antes que nada la participación de todos en los Talleres de Invierno 2024, para nosotros se convirtió en una tradición muy bonita realizarlos cada año desde las delegaciones de IIN y LCIK 💙\n\nLa entrega de certificados presencial va a estar realizándose este sábado en Aula Magna de la FPUNA para todos quiénes hayan completado el 70% de asistencia 🫶🏻\n\nObs.: Todos las personas que no puedan participar de este evento, estaremos enviando una copia de los certificados a sus correos 🤩\n\nUna vez más, gracias por ser parte de los Talleres 💙💻",
+   "starred": false
+  },
+  {
+   "id": 1344149,
+   "key_id": "FEFE0A4DB8242395A52842C0D3CBBFA0",
+   "ts_ms": 1724272192000,
+   "ts_iso": "2024-08-21T20:29:52+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🚀 Continúan los Talleres de Invierno IIN-LCIK 2024. Aprende a optimizar y desarrollar con Flutter este 24 de agosto.\n\n📍 Aula Magna, 09:00 hs.\n\n🔗 Inscripciones: bit.ly/ci24_optimizacion",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "fL+0CPO/z+PlbpBLiHI//jU9QWaexlbRX5WS3OohkN0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1344150,
+   "key_id": "582D2D0A9536D4E4B94DAB31AE823A37",
+   "ts_ms": 1724272247000,
+   "ts_iso": "2024-08-21T20:30:47+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Antes de la entrega de certificados se estara dando un taller de la mano de Itti sobre herramientas Útiles para los desarrolladores",
+   "starred": false
+  },
+  {
+   "id": 1344152,
+   "key_id": "2D5372F77187BED7B39EE0104559507D",
+   "ts_ms": 1724272446000,
+   "ts_iso": "2024-08-21T20:34:06+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "‼️El formulario de asistencia nos sirve para poder imprimir los certificados de las personas que van a estar en el evento éste sábado‼️",
+   "starred": false
+  },
+  {
+   "id": 1344153,
+   "key_id": "3F8835A50E45A1DD0F83D65E72F8BD8C",
+   "ts_ms": 1724272716000,
+   "ts_iso": "2024-08-21T20:38:36+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Si no van a poder estar en la entrega de certificados esté sabado, de igual manera estaremos enviando todos los certificados por correo (a quienes vayan a participar también se les estaran enviando los certificados)",
+   "starred": false
+  },
+  {
+   "id": 1344157,
+   "key_id": "ACAE3314FE93BD36DC0E9C8495613F21",
+   "ts_ms": 1724273251000,
+   "ts_iso": "2024-08-21T20:47:31+00:00",
+   "from_me": false,
+   "sender_jid": "43937632940034@lid",
+   "type": 0,
+   "text": "En la fecha dentro del formulario dice sábado 24 de *septiembre*. Creo que pusieron mal.😅",
+   "starred": false
+  },
+  {
+   "id": 1344176,
+   "key_id": "C769215E55569C00B571503517CEAA7A",
+   "ts_ms": 1724275629000,
+   "ts_iso": "2024-08-21T21:27:09+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Tienen tiempo de rellenar el formulario de Confirmación de asistencia hasta el viernes al mediodía, para la impresión de los certificados",
+   "starred": false
+  },
+  {
+   "id": 1345338,
+   "key_id": "3A029380DADC7BF0F827",
+   "ts_ms": 1724436461000,
+   "ts_iso": "2024-08-23T18:07:41+00:00",
+   "from_me": false,
+   "sender_jid": "595972770003@s.whatsapp.net",
+   "type": 1,
+   "text": "Buenas tardes!!✨\nEsta tarde a las *17:00* hrs🕔 se estará cerrando el forms de asistencia de la entrega de certificados de mañana\nPara los que no hayan llenado el forms y aún deben hacerlo, favor de completarlo antes del *límite de horario*\nNos vemos mañana!!✨\nhttps://docs.google.com/forms/d/e/1FAIpQLSf8fPw3Et909VGvLm4wAf7lShZJ0nffXU5IUPkdtgqoasP7HQ/viewform",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240823-WA0014.jpg",
+    "size": 183299,
+    "duration_s": 0,
+    "sha256_b64": "BHjyfUzRiD1G93RY04vs5BOosupq5jh2snLSF4qsWTM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1345366,
+   "key_id": "3EB01C85915D0ECBD3221B",
+   "ts_ms": 1724436906000,
+   "ts_iso": "2024-08-23T18:15:06+00:00",
+   "from_me": false,
+   "sender_jid": "264089133654131@lid",
+   "type": 0,
+   "text": "Gracias por el recordatorio. ¿Qué pasa con las personas que vivimos en otro país? En mi caso México.",
+   "starred": false
+  },
+  {
+   "id": 1345424,
+   "key_id": "3EB04DE97E9769156EDAD6",
+   "ts_ms": 1724437678000,
+   "ts_iso": "2024-08-23T18:27:58+00:00",
+   "from_me": false,
+   "sender_jid": "73306568941803@lid",
+   "type": 0,
+   "text": "Habria certificados digitales de igual manera.",
+   "starred": false
+  },
+  {
+   "id": 1346129,
+   "key_id": "35AF378873CE81C5734988CBB48B3713",
+   "ts_ms": 1724507806000,
+   "ts_iso": "2024-08-24T13:56:46+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "🔴 *¡El taller \"Optimización y Desarrollo con Flutter\" está en vivo ahora!*\n\nÚnete a la transmisión por Google: Meet:meet.google.com/nbc-zmmn-esf\n\n¡No te",
+   "starred": false
+  },
+  {
+   "id": 1346856,
+   "key_id": "8D158DB38CC076D34871E0CA8AE0D272",
+   "ts_ms": 1724679148000,
+   "ts_iso": "2024-08-26T13:32:28+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Buenos Días!!",
+   "starred": false
+  },
+  {
+   "id": 1346857,
+   "key_id": "A68F1F5745BD64E301D114952036325A",
+   "ts_ms": 1724679200000,
+   "ts_iso": "2024-08-26T13:33:20+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Les comparto link del drive donde fuimos subiendo todas las fotitos que estuvimos sacando el sábado: https://drive.google.com/drive/folders/1bMNS6fymdSu8RFOBmOiKWTuC5wZw3oY-",
+   "starred": false
+  },
+  {
+   "id": 1346864,
+   "key_id": "AFA3E4F68BE1E2F5D6CC4F2109B91EBD",
+   "ts_ms": 1724679315000,
+   "ts_iso": "2024-08-26T13:35:15+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Así también comentarles que estamos procediendo a enviar todos los certificados en el transcurso del día de ayer y hoy, así que estén atentos a sus correos 🫶🏻🫶🏻",
+   "starred": false
+  },
+  {
+   "id": 1347940,
+   "key_id": "11DB891C0B6B0FCCAE6A56F1E2338BDD",
+   "ts_ms": 1724761667000,
+   "ts_iso": "2024-08-27T12:27:47+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🎉 ¡Los certificados de participación en los Talleres de Invierno IIN-LCIK 2024 ya han sido enviados por correo electrónico! 📩 Asegúrate de revisar tu bandeja de entrada. \n\nRecuerda que para obtener tu certificado era necesario estar inscrito oficialmente y haber cumplido con el 70% de asistencia requerida. Si tienes alguna duda, no dudes en contactarnos a delegacion.lcik@pol.una.py. 📧\n\n🌟 ¡Nos vemos en la próxima edición de los Talleres de Verano 2025! Prepárate para nuevas oportunidades de aprendizaje y desarrollo. \n\n📞Contactos\nRodrigo Alvarenga 0982 684027\nAlejandra Gómez 0991 381668",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "JNpzTFuvNptyFVRgXPtrBqCDxnSo3KXpQ1adm4QZKNQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1347944,
+   "key_id": "A9ED2768342CCACA77A373BF0BBEDA05",
+   "ts_ms": 1724762467000,
+   "ts_iso": "2024-08-27T12:41:07+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "Obs.: Por favor, revisen su bandeja de SPAM, ya que el correo podría estar ahí.",
+   "starred": false
+  },
+  {
+   "id": 1375934,
+   "key_id": "E2238833981778C7B19EC1EBB30F1D63",
+   "ts_ms": 1729615328000,
+   "ts_iso": "2024-10-22T16:42:08+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🟢 *Hacktoberfest 2024* 🟢\n\n_¡Te traemos el evento anual sobre Open Source con muchas sorpresas!_\n\nNos acompañan exponentes increíbles para contarnos sobre sus experiencias, trayectoria y brindarnos información de primera mano\n\n🙌 Te invitamos a unirte a los esta hermosa fiesta de tecnología *¡Happy Hacking!*\n\n📝  *Se otorgarán certificados de participación*\n\n*Fechas*\n📆 Lunes 28 de octubre - *Virtual*\n📆 Martes 29 de octubre - Presencial\n📆 Miércoles 30 de octubre - Presencial\n*Lugar:*\n📍 Aula Magna - Facultad Politécnica \n\n🔗 *Inscripciones:* https://bit.ly/inscripHacktober2024\n\n🎁 Inscribiendote y participando de las charlas y talleres formas parte del gran *sorteo* al final del evento!",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Sent/IMG-20241024-WA0000.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "jfqSQzvoDyBcpv078LlOUdDMtH+U0Wvnh7aNCdqq3jc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1376093,
+   "key_id": "1B0C1C3FEA453AD42F4E43DC55EF6904",
+   "ts_ms": 1729628945000,
+   "ts_iso": "2024-10-22T20:29:05+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🟢 Te traemos el cronograma preparado para el hacktoberfest edición virtual 🟢\n\n🕐 Te esperamos el lunes 28 de octubre, para acceder a los enlaces de las charlas debes inscribirte mediante el formulario\n\n📝 Se otorgarán certificados de participación\n\n🎁 Inscribiendote y participando de las charlas y talleres formas parte del gran sorteo al final del evento!\n\nInscribite en :\n🔗bit.ly/inscripHacktober2024\n\n#RepresFPUNA #DelegacionLCIK #LCIK #DelegacionIIN #IIN #ClubDeInformatica #CDI #FPUNA #IEEECS #HacktoberFest #OpenSource",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "IuBbrOUEIEqPqlp7POQYa2oj1N1kjfBcxcvVaMdk9Ns=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1380248,
+   "key_id": "2EA6E75E5B61291E8C64EF340EB3AABB",
+   "ts_ms": 1730147738000,
+   "ts_iso": "2024-10-28T20:35:38+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🟢 *HACKTOBERFEST 2024* 🟢\n*Taller de Node JS - Giulliano Diaz*\n\n📆Lunes, 28 de octubre \n⏰18:00 h\n\n*Enlace de la videollamada:* https://meet.google.com/zae-zbuo-rhv\n\n*Sólo a los inscriptos de le adjudicarán los certificados de participación*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241028-WA0012.jpg",
+    "size": 522584,
+    "duration_s": 0,
+    "sha256_b64": "9aVdxX2zL6Mxr9KGDhSy7oryG6jNOuQIPa6VsXVneDg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1380551,
+   "key_id": "9F14762F968738E13F4A36A6B72D482C",
+   "ts_ms": 1730157064000,
+   "ts_iso": "2024-10-28T23:11:04+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🟢 *HACKTOBERFEST 2024* 🟢\n\n*Aprovechando la computación Serverless - Cristian Cabral*\n\n📆Lunes, 28 de octubre \n⏰20:00 h\n\n*Enlace de la videollamada:* https://meet.google.com/fvf-oakp-hgf\n \n*Sólo a los inscriptos se le adjudicarán los certificados*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "HejLqT+Cn5MncMhAr/mvYAhuuZk2pI/DQ4p/1/vjBFk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1380803,
+   "key_id": "603323A1FC2D19F9A1752D1031342BB8",
+   "ts_ms": 1730205974000,
+   "ts_iso": "2024-10-29T12:46:14+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "¡Hoy continuamos con el HACKTOBER FEST 2024! Te esperamos 😎💚✨",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241029-WA0002.jpg",
+    "size": 115055,
+    "duration_s": 0,
+    "sha256_b64": "Udca0zjWYkMs1wcL/NAkZdtjDR9ym7l+gLkNf9pKDSs=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1380804,
+   "key_id": "F6D54BAABEFCF7A7331568ECE0D8264E",
+   "ts_ms": 1730205990000,
+   "ts_iso": "2024-10-29T12:46:30+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "📣 *HOY*‼️\n\n🟢 *Hacktoberfest 2024* 🟢\n\n_¡Te traemos el evento anual sobre Open Source con muchas sorpresas!_\n\n🙌 Te invitamos a unirte a esta hermosa fiesta de tecnología *¡Happy Hacking!*\n\n📝  *Se otorgarán certificados de participación*\n\n*Fechas*\n📆 Martes 29 de octubre - Presencial\n📆 Miércoles 30 de octubre - Presencial\n*Lugar:*\n📍 Aula Magna - Facultad Politécnica \n\n🔗 Inscripciones: https://bit.ly/inscripHacktober2024\n#RepresFPUNA #DelegacionLCIK #DelegacionIIN",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "WmpsQB4EID+4thYocNf7SgctpKeHzahcm8KD4g4mcMM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1381370,
+   "key_id": "38B971E096ACC3662A667DF30C6640A2",
+   "ts_ms": 1730323916000,
+   "ts_iso": "2024-10-30T21:31:56+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🟢 *Conociendo el Proyecto OSM* 🟢\n\n*LIVE Instagram:*\nhttps://www.instagram.com/represfpuna/live/18124954474383906",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "NioBC7V0qVbdGFpiSKvWtSJmtCYRUA5hQS+UzJIlrcE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1421472,
+   "key_id": "0ADF4130DCF0A0A508880B098787A198",
+   "ts_ms": 1737217374000,
+   "ts_iso": "2025-01-18T16:22:54+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 0,
+   "text": "‼️ATENCIÓN‼️ ¡Último día para inscribirse como instructor voluntario en los Cursos de Verano IIN - LCIK 2025!  💙🖥️\n\nSi estás interesado en enseñar y necesitas horas de extensión de tipo A estamos en busqueda de instructores comprometidos para ofrecer una amplia variedad de cursos este verano.\n\nNo dejes pasar esta oportunidad de contribuir y compartir tu conocimiento. \n\nInscríbet: bit.ly/CV25_voluntarios\n\n☀️☀️☀️",
+   "starred": false
+  },
+  {
+   "id": 1423763,
+   "key_id": "BF036A31BC2D4B676037ED828CD63242",
+   "ts_ms": 1737727004000,
+   "ts_iso": "2025-01-24T13:56:44+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🌟 ¡Talleres de Verano IIN-LCIK! ☀️\n\n🎓 Aprende, comparte y crece con nosotros.\n📅 Del 3 al 14 de febrero.\n🖥️ Modalidad virtual.\n💡 Certificado de participación incluido.\n\n🔔 ¡Están abiertos a todo público y son gratuitos!\n\n📌 Mantente atento a nuestras próximas publicaciones.\n\n#TalleresDeVerano #IIN #LCIK",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Sent/IMG-20250126-WA0000.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "BPDFSXW4Y1hNcnQ1/oyYIk/960QRNcBdUR97zJzF7Vo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1423770,
+   "key_id": "D7156180F36D16E5467EEB9349A6884D",
+   "ts_ms": 1737727147000,
+   "ts_iso": "2025-01-24T13:59:07+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "☀️¡Talleres de Verano IIN-LCIK!☀️\n\n¿Listo para aprender algo nuevo? 👩‍💻👨‍💻 ¡Únete a nuestro taller Introducción a la programación en Python y desarrolla habilidades clave en Python!\n\n📚 Detalles del curso:\n🧑‍🏫 Instructores:\n* Lucas Boicetta\n* Rodrigo Brizuela \n⏳ Duración: 7 clases\n🕒 Horario: Lunes a Viernes, del 03 al 11 de febrero, de 19:00 a 21:00\n📍 Modalidad: Virtual\n\n✔️ Clases gratuitas\n✔️ Abierto a todo público\n✔️ Certificado de participación\n\n💡 Inscríbete ahora!\n👉 https://bit.ly/cv25_python\n\n📞 Más info: \nAndrea Núñez \n0986 728 385\n\n¡Transforma tus conocimientos este verano! ☀️💻\n\n#TalleresDeVerano #IIN #LCIK #AprendeConNosotros",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 17344,
+    "duration_s": 0,
+    "sha256_b64": "kCTLKUEyZ5B+H/lkVsT6aLZypqaaqztJP31uoYA6wHQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1423777,
+   "key_id": "14236E4566ABF64F914478BCBDE37CB6",
+   "ts_ms": 1737727410000,
+   "ts_iso": "2025-01-24T14:03:30+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "☀️¡Talleres de Verano IIN-LCIK!☀️\n\n¿Listo para aprender algo nuevo? 👩‍💻👨‍💻 Únete a nuestro taller Introducción a C y desarrolla habilidades clave en el lenguaje C.\n\n📚 Detalles del curso:\n🧑‍🏫 Instructores:\n* Marcos González \n* Rodrigo Portillo \n⏳ Duración: 10 clases\n🕒 Horario: del 03 al 14 de febrero, Lunes a Viernes, de 15:00 a 17:00\n📍 Modalidad: Virtual\n\n✔️ Clases gratuitas\n✔️ Abierto a todo público\n✔️ Certificado de participación\n\n💡 Inscríbete ahora!\n👉 https://bit.ly/cv25_introC\n\n📞 Más info: \nAlejandra Gómez \n0991 381 669\n\n¡Transforma tus conocimientos este verano! ☀️💻\n\n#TalleresDeVerano #IIN #LCIK #AprendeConNosotros",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Zr6XfHr/AAwB5mH7Oo0YMAAsafFgoQJF8EvtCM0Ws3E=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1423787,
+   "key_id": "73AFC07FF4E75B1647BC65CB7F3C5811",
+   "ts_ms": 1737728159000,
+   "ts_iso": "2025-01-24T14:15:59+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "☀️¡Talleres de Verano IIN-LCIK!☀️\n\n¿Listo para aprender algo nuevo? 👩‍💻👨‍💻 Únete a nuestro taller Curso de Frontend y Backend con Flutter y Firebase y desarrolla habilidades clave en Flutter y Firebase.\n\n📚 Detalles del curso:\n🧑‍🏫 Instructor: Francisco Sanabria\n⏳ Duración: 10 clases\n🕒 Horario: del 03 al 14 de febrero, Lunes a Viernes, de 19:00 a 21:00\n📍 Modalidad: Virtual\n\n✔️ Clases gratuitas\n✔️ Abierto a todo público\n✔️ Certificado de participación\n\n💡 Inscríbete ahora!\n👉 https://bit.ly/cv25_flutter\n\n📞 Más info: \nAdilson Ibañez \n0981 282 378\n\n¡Transforma tus conocimientos este verano! ☀️💻\n\n#TalleresDeVerano #IIN #LCIK #AprendeConNosotros",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "EFhtsoRIydBzqkXx/5vG89Bq3LMtPD81xEmQF+J5was=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1423795,
+   "key_id": "8201128371C85E6A11324CF4B9C3FBC3",
+   "ts_ms": 1737728250000,
+   "ts_iso": "2025-01-24T14:17:30+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "☀️¡Talleres de Verano IIN-LCIK!☀️\n\n¿Listo para aprender algo nuevo? 👩‍💻👨‍💻 Únete a nuestro taller Jira desde Cero: Herramienta para Equipos Ágiles y desarrolla habilidades clave en Jira.\n\n📚 Detalles del curso:\n🧑‍🏫 Instructora: María José Duarte\n⏳ Duración: 5 clases\n🕒 Horario: del 03 al 07 de febrero, de 15:00 a 16:00\n📍 Modalidad: Virtual\n\n✔️ Clases gratuitas\n✔️ Abierto a todo público\n✔️ Certificado de participación\n\n💡 Inscríbete ahora!\n👉 https://bit.ly/cv25_jira\n\n📞 Más info: \nAdilson Ibañez\n0981 282 378\n\n¡Transforma tus conocimientos este verano! ☀️💻\n\n#TalleresDeVerano #IIN #LCIK #AprendeConNosotros",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "MJ2fmzmbUAD/CyLHHjMTtSfSpl+sGpsjQrUcrU63FpQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1423801,
+   "key_id": "6843FDCE4FD4FD726138C0D3C6951DE5",
+   "ts_ms": 1737728300000,
+   "ts_iso": "2025-01-24T14:18:20+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "☀️¡Talleres de Verano IIN-LCIK!☀️\n\n¿Listo para aprender algo nuevo? 👩‍💻👨‍💻 Únete a nuestro taller SQL y Desarrollo en PL/SQL y desarrolla habilidades clave en SQL en Oracle.\n\n📚 Detalles del curso:\n🧑‍🏫 Instructores:\nBruno Azuaga\nFátima O'Higgins \n⏳ Duración: 8 clases\n🕒 Horario: del 05 al 14 de febrero, Lunes a Viernes, de 20:00 a 22:00.\n📍 Modalidad: Virtual\n\n✔️ Clases gratuitas\n✔️ Abierto a todo público\n✔️ Certificado de participación\n\n💡 Inscríbete ahora!\n👉 https://bit.ly/cv25_oracle\n\n📞 Más info: \nAlejandra Gómez \n0991 381 669\n\n¡Transforma tus conocimientos este verano! ☀️💻\n\n#TalleresDeVerano #IIN #LCIK #AprendeConNosotros",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 16864,
+    "duration_s": 0,
+    "sha256_b64": "a5A+cBLzPMtXPlCy9Ib5973uDjCuVp0UoQu+0y4MgG0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1423804,
+   "key_id": "8E0BB715A9ABE588E4D014A72B168587",
+   "ts_ms": 1737728625000,
+   "ts_iso": "2025-01-24T14:23:45+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "☀️¡Talleres de Verano IIN-LCIK!☀️\n\n¿Listo para aprender algo nuevo? 👩‍💻👨‍💻 Únete a nuestro taller UI/UX Introducción al Frontend y desarrolla habilidades clave en UI/UX.\n\n📚 Detalles del curso:\n🧑‍🏫 Instructor: Giuliano Díaz\n⏳ Duración: 5 clases\n🕒 Horario: del 03 de febrero al 07 de febrero, de 18:30 a 20:30\n📍 Modalidad: Virtual\n\n✔️ Clases gratuitas\n✔️ Abierto a todo público\n✔️ Certificado de participación\n\n💡 Inscríbete ahora!\n👉 https://bit.ly/cv25_front \n\n📞 Más info: \nRodrigo Alvarenga\n0982 684 027\n\n¡Transforma tus conocimientos este verano! ☀️💻\n\n#TalleresDeVerano #IIN #LCIK #AprendeConNosotros",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "zupFC3cSBQkB+/AncfXzJ/tfbgnnrpllknBdgd8ZPxQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1426567,
+   "key_id": "3D6C39F8B4C0F949705E0A37A5813FA2",
+   "ts_ms": 1738263924000,
+   "ts_iso": "2025-01-30T19:05:24+00:00",
+   "from_me": false,
+   "sender_jid": "595991381669@s.whatsapp.net",
+   "type": 1,
+   "text": "🚀 ¡Inscripciones abiertas para los Talleres de Verano IIN-LCIK! ☀️🎓  \n\nAprende nuevas habilidades con nuestros cursos *gratuitos y virtuales*🌍💻. ¡No te pierdas esta oportunidad de crecimiento!  \n\n📅 *Inscripciones hasta el 31/01/2025*\n✅ *Clases virtuales*  \n✅ *Se desarrollan los sábados*  \n✅ *Abiertos a todo público*  \n✅ *Certificado de participación*\n\n🔔 ¡INSCRIBITE YA!\nlinktr.ee/delegacion_lcik\n\n#TalleresDeVerano #IIN #LCIK #CursosGratis #Aprendizaje #Capacitación",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "6hisok585jGW9j6Q+ezSRLD02WXeTH5Z7O/bmQtjE7E=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

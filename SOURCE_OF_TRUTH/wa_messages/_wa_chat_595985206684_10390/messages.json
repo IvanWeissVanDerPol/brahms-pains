@@ -1,0 +1,249 @@
+{
+ "chat_id": 10390,
+ "slug": "_wa_chat_595985206684_10390",
+ "subject": null,
+ "jid_user": "595985206684",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985206684@s.whatsapp.net",
+ "message_count": 19,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1473814,
+   "key_id": "DD520E04CAC495029DB96832B2264317",
+   "ts_ms": 1745521704156,
+   "ts_iso": "2025-04-24T19:08:24.156000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250424-WA0030.jpg",
+    "size": 76173,
+    "duration_s": 0,
+    "sha256_b64": "r+dc57q4Zd4lER+v7mLN31t1qWDkjPRCaSBORpBEIFY=",
+    "media_name": "28c61cb6-2fd3-4fc7-8b3f-8635186811b8.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1473815,
+   "key_id": "30420BD91B10D1AEC6",
+   "ts_ms": 1745521710000,
+   "ts_iso": "2025-04-24T19:08:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "✨Gracias por CONTACTAR a BOTICA MAGISTRAL. ✨",
+   "starred": false
+  },
+  {
+   "id": 1473816,
+   "key_id": "36B9D48DC2A45ACA13",
+   "ts_ms": 1745521710000,
+   "ts_iso": "2025-04-24T19:08:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "1️⃣ SOLICITAR UN PRESUPUESTO\n2️⃣ CONSULTAR ESTADO DE UN PRESUPUESTO\n3️⃣ RENOVACIÓN DE FÓRMULA\n4️⃣ COMUNICARME CON UN AGENTE",
+   "starred": false
+  },
+  {
+   "id": 1473818,
+   "key_id": "7BCD3B4B7D7CA8E06D",
+   "ts_ms": 1745521714000,
+   "ts_iso": "2025-04-24T19:08:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "1️⃣ SOLICITAR UN PRESUPUESTO\r\n2️⃣ CONSULTAR ESTADO DE UN PRESUPUESTO\r\n3️⃣ RENOVACIÓN DE FÓRMULA\r\n4️⃣ COMUNICARME CON UN AGENTE\n Opción no valida 😕, por favor ingresa una opción del menú 🙂",
+   "starred": false
+  },
+  {
+   "id": 1473819,
+   "key_id": "40AD93431CD88E24A4C5ED207FC687AF",
+   "ts_ms": 1745521724279,
+   "ts_iso": "2025-04-24T19:08:44.279000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "4",
+   "starred": false
+  },
+  {
+   "id": 1473820,
+   "key_id": "66E8604D06030AA572",
+   "ts_ms": 1745521725000,
+   "ts_iso": "2025-04-24T19:08:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con nosotros, un agente te atenderá en la brevedad.",
+   "starred": false
+  },
+  {
+   "id": 1473821,
+   "key_id": "1975B15EF943B2A184A7EA1E074DACAB",
+   "ts_ms": 1745521752268,
+   "ts_iso": "2025-04-24T19:09:12.268000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola quiero pedir este por delivery",
+   "starred": false
+  },
+  {
+   "id": 1473891,
+   "key_id": "B140C346004A6FD5A7",
+   "ts_ms": 1745525795000,
+   "ts_iso": "2025-04-24T20:16:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes Estimado Cliente\nMuchas gracias por aguardar.\n*Para confirmar el pedido favor indicar:*\n- Nombre completo del paciente:\n- Número de C.I. Del paciente:\n- Este presupuesto es válido por un día-\nLe informo el detalle de su presupuesto:\n\n*PRESUPUESTO: 5 - 14337 - 0* 250 ML \n\n*TOTAL:* Gs. 240.000\nAguardamos su confirmación y nos quedamos a su disposición.\n\nANGELI GAVILAN\nAtención al Cliente\nBotica",
+   "starred": false
+  },
+  {
+   "id": 1473925,
+   "key_id": "3FCC2A5AAF623F6239CA",
+   "ts_ms": 1745526234000,
+   "ts_iso": "2025-04-24T20:23:54+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ivan Weiss Van Der Pol\n5897596",
+   "starred": false
+  },
+  {
+   "id": 1473958,
+   "key_id": "AC14243CC3F0B709EC",
+   "ts_ms": 1745530045000,
+   "ts_iso": "2025-04-24T21:27:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "15.000gs seria el costo del envio, le quedaria  bien la entrega el dia sabado en el periodo de 10hs a 13?\nLa factura seria a nombre del paciente? abonaria en efectivo, transferncia o le enviamos pos?",
+   "starred": false
+  },
+  {
+   "id": 1473963,
+   "key_id": "EFD47A55B211E653D89C5823CD4ACC84",
+   "ts_ms": 1745530355147,
+   "ts_iso": "2025-04-24T21:32:35.147000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pueden mandar QR",
+   "starred": false
+  },
+  {
+   "id": 1473964,
+   "key_id": "7A1F4705D4CED7D70CC556D88FEB973F",
+   "ts_ms": 1745530363739,
+   "ts_iso": "2025-04-24T21:32:43.739000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y pago con Itaú crédito",
+   "starred": false
+  },
+  {
+   "id": 1473965,
+   "key_id": "B9FCDBBB3BD33DC5347345F635F9B45C",
+   "ts_ms": 1745530369682,
+   "ts_iso": "2025-04-24T21:32:49.682000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mi RUC es 5897596",
+   "starred": false
+  },
+  {
+   "id": 1474028,
+   "key_id": "3FA0564808F1A669CD49",
+   "ts_ms": 1745537759000,
+   "ts_iso": "2025-04-24T23:35:59+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "les espero el sabado entinces :)",
+   "starred": false
+  },
+  {
+   "id": 1474356,
+   "key_id": "5EE1173B1DF1A986D2",
+   "ts_ms": 1745587059000,
+   "ts_iso": "2025-04-25T13:17:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*Una vez realizada la transferencia, favor facilitar la imagen del comprobante para verificar la acreditación con el Dpto. Financiero*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250425-WA0017.jpg",
+    "size": 30743,
+    "duration_s": 0,
+    "sha256_b64": "4XOJhxA30MeYPqyk5bR1ohrPyBVMm7UBM10zUk4NNOM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1474357,
+   "key_id": "9E8A6067B569123BAB",
+   "ts_ms": 1745587079000,
+   "ts_iso": "2025-04-25T13:17:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Buenos dias! Le facilito el codigo Qr para realizar el pago",
+   "starred": false
+  },
+  {
+   "id": 1474367,
+   "key_id": "7FEBB3129E5F766394FEFAFCB11CA839",
+   "ts_ms": 1745590322830,
+   "ts_iso": "2025-04-25T14:12:02.830000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250425-WA0018.jpg",
+    "size": 31854,
+    "duration_s": 0,
+    "sha256_b64": "Uu/uy3uwSS4TBksWXjlKQPSiqzVP22qAohBhgw+stlc=",
+    "media_name": "afd71594-aa2e-403e-8211-7ab5b7195dd7.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1474369,
+   "key_id": "3DA8CA04271C78E2BD",
+   "ts_ms": 1745590353000,
+   "ts_iso": "2025-04-25T14:12:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Derivo la imagen de su comprobante de pago al Dpto. Financiero en la brevedad le confirmo el ingreso del mismo.",
+   "starred": false
+  },
+  {
+   "id": 1474445,
+   "key_id": "27CB9A9CC52B87EA43",
+   "ts_ms": 1745597265000,
+   "ts_iso": "2025-04-25T16:07:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pago recibido!\nProcesamos su pedido, la entrega seria el día de *mañana*en el periodo de *10hs a 13hs*  en el transcurso de ese tiempo le estaría llegando su preparado.\n\t\nAnte dudas o consultas estamos a las ordenes!!\nMuchas gracias por la preferencia.",
+   "starred": false
+  }
+ ]
+}

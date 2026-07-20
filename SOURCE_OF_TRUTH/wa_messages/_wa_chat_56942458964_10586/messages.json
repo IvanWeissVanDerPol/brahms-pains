@@ -1,0 +1,90 @@
+{
+ "chat_id": 10586,
+ "slug": "_wa_chat_56942458964_10586",
+ "subject": null,
+ "jid_user": "56942458964",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "56942458964@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1499612,
+   "key_id": "D49FE28915E24DDE69B5C5BECEC257ED",
+   "ts_ms": 1749308289514,
+   "ts_iso": "2025-06-07T14:58:09.514000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1499613,
+   "key_id": "5524C9A7C6B9FDE36CDB55A532ADC283",
+   "ts_ms": 1749308296710,
+   "ts_iso": "2025-06-07T14:58:16.710000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es este el número de united airlines?",
+   "starred": false
+  },
+  {
+   "id": 1501200,
+   "key_id": "3A7985949D72537A0950",
+   "ts_ms": 1749476793000,
+   "ts_iso": "2025-06-09T13:46:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola. Buen día. Este número es de United pero no de atención de clientes. Que necesitas ?",
+   "starred": false
+  },
+  {
+   "id": 1501201,
+   "key_id": "469B76B384F9219180974114EC8DDF41",
+   "ts_ms": 1749476998103,
+   "ts_iso": "2025-06-09T13:49:58.103000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya solucioné",
+   "starred": false
+  },
+  {
+   "id": 1501202,
+   "key_id": "2E848F5212BCC167CC87B8B93118F464",
+   "ts_ms": 1749477007937,
+   "ts_iso": "2025-06-09T13:50:07.937000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Viajaba el domingo \nY tenía problemas",
+   "starred": false
+  },
+  {
+   "id": 1501203,
+   "key_id": "7A08C9D2A21A25E551CEBBAF5841FF77",
+   "ts_ms": 1749477009998,
+   "ts_iso": "2025-06-09T13:50:09.998000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1501214,
+   "key_id": "3AC04168BAB1523105D5",
+   "ts_ms": 1749478594000,
+   "ts_iso": "2025-06-09T14:16:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok. Me podría decir quien le dio este teléfono. Solo por curiosidad.",
+   "starred": false
+  }
+ ]
+}

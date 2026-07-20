@@ -1,0 +1,44 @@
+{
+ "chat_id": 11928,
+ "slug": "_wa_chat_595982833757_11928",
+ "subject": null,
+ "jid_user": "595982833757",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982833757@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581440,
+   "key_id": "AC222CE11E5C6E3823A34071A3D2E066",
+   "ts_ms": 1759637787569,
+   "ts_iso": "2025-10-05T04:16:27.569000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Soy LETY\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1582498,
+   "key_id": "2A6EA9C08E1459785065",
+   "ts_ms": 1759749889000,
+   "ts_iso": "2025-10-06T11:24:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202541/PTT-20251006-WA0003.opus",
+    "size": 10560,
+    "duration_s": 4,
+    "sha256_b64": "iB5l/qYiaOWBm2IrBuY3dZinaMDcrY+OopgbRlEEftw=",
+    "media_name": "PTT-20251006-WA0003.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

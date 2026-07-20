@@ -1,0 +1,90 @@
+{
+ "chat_id": 4234,
+ "slug": "_wa_chat_595981147364_4234",
+ "subject": null,
+ "jid_user": "595981147364",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981147364@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1160417,
+   "key_id": "6281DBE979ABB0AD71",
+   "ts_ms": 1694978772000,
+   "ts_iso": "2023-09-17T19:26:12+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola CADIEM👋 Visité la página web y me gustaría contactarme con un asesor",
+   "starred": false
+  },
+  {
+   "id": 1160418,
+   "key_id": "2FDA8CFB8CCAAA0A4B66",
+   "ts_ms": 1694978776000,
+   "ts_iso": "2023-09-17T19:26:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Gracias por comunicarte con *CADIEM Casa de Bolsa*! \n\n*Por favor, facilitanos los siguientes datos para una mejor atención:*\n- Nombre y Apellido\n- Número de cédula _(si es cliente CADIEM)._\n- Consulta / Motivo de contacto\n\nResponderemos tu mensaje tan pronto como podamos.",
+   "starred": false
+  },
+  {
+   "id": 1160419,
+   "key_id": "2F53302A178596FA5BC2",
+   "ts_ms": 1694978776000,
+   "ts_iso": "2023-09-17T19:26:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Gracias por escribirnos! \n\nActualmente nuestra oficina está cerrada, con gusto atenderemos tu consulta tan pronto veamos tu mensaje. \n\nAgradecemos tu paciencia.",
+   "starred": false
+  },
+  {
+   "id": 1160420,
+   "key_id": "40A3A5A5922D01C1E7",
+   "ts_ms": 1694978787000,
+   "ts_iso": "2023-09-17T19:26:27+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ivan weiss van der pol",
+   "starred": false
+  },
+  {
+   "id": 1160421,
+   "key_id": "DEF7A84D08168C9946",
+   "ts_ms": 1694978802000,
+   "ts_iso": "2023-09-17T19:26:42+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "quiero informacion para invertir mi dinero",
+   "starred": false
+  },
+  {
+   "id": 1161349,
+   "key_id": "3EB0D47B2C775F302EF18A",
+   "ts_ms": 1695054414000,
+   "ts_iso": "2023-09-18T16:26:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola Ivan, un gusto saludarte!",
+   "starred": false
+  },
+  {
+   "id": 1161350,
+   "key_id": "3EB04845135C19BAD03936",
+   "ts_ms": 1695054419000,
+   "ts_iso": "2023-09-18T16:26:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ofrecemos varias alternativas de inversión a través de la bolsa de valores, cada una con características que se adecuan al perfil del inversionista y a los objetivos que tengas",
+   "starred": false
+  }
+ ]
+}

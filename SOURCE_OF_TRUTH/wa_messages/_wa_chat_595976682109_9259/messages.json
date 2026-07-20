@@ -1,0 +1,75 @@
+{
+ "chat_id": 9259,
+ "slug": "_wa_chat_595976682109_9259",
+ "subject": null,
+ "jid_user": "595976682109",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976682109@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1388146,
+   "key_id": "3A72966E2936D759994F",
+   "ts_ms": 1731360798000,
+   "ts_iso": "2024-11-11T21:33:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202446/PTT-20241111-WA0005.opus",
+    "size": 19646,
+    "duration_s": 8,
+    "sha256_b64": "HedlKTk6lcMfEzBEw7zmqJFjjpWSx+NU4Zn7NOmBl18=",
+    "media_name": "PTT-20241111-WA0005.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1388147,
+   "key_id": "241B1554293102E386AC8E74635DDF68",
+   "ts_ms": 1731360835081,
+   "ts_iso": "2024-11-11T21:33:55.081000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nSorry ya no hay :(",
+   "starred": false
+  },
+  {
+   "id": 1388148,
+   "key_id": "3A12AE4DA45117810396",
+   "ts_ms": 1731360895000,
+   "ts_iso": "2024-11-11T21:34:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202446/PTT-20241111-WA0006.opus",
+    "size": 4624,
+    "duration_s": 1,
+    "sha256_b64": "YLkbpjbA7tfSYAXDvaj010mz2VYnnjFR/WEPBa/q3B0=",
+    "media_name": "PTT-20241111-WA0006.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1388149,
+   "key_id": "66B6C448B83453EA5E65E78FFF686931",
+   "ts_ms": 1731360906230,
+   "ts_iso": "2024-11-11T21:35:06.230000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No ni idea",
+   "starred": false
+  }
+ ]
+}

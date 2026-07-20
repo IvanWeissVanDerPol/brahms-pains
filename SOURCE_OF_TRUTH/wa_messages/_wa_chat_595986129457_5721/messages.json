@@ -1,0 +1,79 @@
+{
+ "chat_id": 5721,
+ "slug": "_wa_chat_595986129457_5721",
+ "subject": null,
+ "jid_user": "595986129457",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986129457@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1246854,
+   "key_id": "822CCC0E1073883F4B85DC100253641D",
+   "ts_ms": 1708881465271,
+   "ts_iso": "2024-02-25T17:17:45.271000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1246855,
+   "key_id": "0103F3F73A368B9E33851E8C68F8F7F3",
+   "ts_ms": 1708881466000,
+   "ts_iso": "2024-02-25T17:17:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con *Casa Rosada Central -  Sajonia  te recordamos nuestro  Horario  de Atención  de lunes a viernes  de 08:00 a 17:30hrs Sábado  de 08:00 a 12:30hrs .. En breve  serás atendido 😊🫱🏻‍🫲🏼le facilitamos el sgte link para brindarles mejor servicio\nhttps://wa.me/59521421566",
+   "starred": false
+  },
+  {
+   "id": 1246856,
+   "key_id": "B476AF64421E47B157B1C774F98B85C8",
+   "ts_ms": 1708881481915,
+   "ts_iso": "2024-02-25T17:18:01.915000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tienen freezers verticales ?",
+   "starred": false
+  },
+  {
+   "id": 1247122,
+   "key_id": "0752D3068C41886402F28FE683A141D0",
+   "ts_ms": 1708947526000,
+   "ts_iso": "2024-02-26T11:38:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día",
+   "starred": false
+  },
+  {
+   "id": 1247124,
+   "key_id": "FF3AC8FE9E6E5229B00D30DAED80D3EA",
+   "ts_ms": 1708947532000,
+   "ts_iso": "2024-02-26T11:38:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le paso el nro de ventas",
+   "starred": false
+  },
+  {
+   "id": 1247125,
+   "key_id": "F47DAC48BE0310169FEBAC0B46CCAFF6",
+   "ts_ms": 1708947533000,
+   "ts_iso": "2024-02-26T11:38:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "0974.626.700",
+   "starred": false
+  }
+ ]
+}

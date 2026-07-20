@@ -1,0 +1,154 @@
+{
+ "chat_id": 3560,
+ "slug": "_wa_chat_595971885483_3560",
+ "subject": null,
+ "jid_user": "595971885483",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971885483@s.whatsapp.net",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1330370,
+   "key_id": "A66E1247D70D786A0A11D91F256035A8",
+   "ts_ms": 1722084663000,
+   "ts_iso": "2024-07-27T12:51:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia",
+   "starred": false
+  },
+  {
+   "id": 1330372,
+   "key_id": "15C568C9703F5720C32FC2E80A026D7D",
+   "ts_ms": 1722084720000,
+   "ts_iso": "2024-07-27T12:52:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Este es el correo a introducción a NLP.\nel enlace de abajo me llevo al curso de QA",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240727-WA0006.jpg",
+    "size": 104331,
+    "duration_s": 0,
+    "sha256_b64": "AHsxivTEffa1LtzX2+O2nFJQ6NifEdOy0BY9eNF+lnk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1330376,
+   "key_id": "F872CF6C83EE61AD2141BA78DDA22680",
+   "ts_ms": 1722084754000,
+   "ts_iso": "2024-07-27T12:52:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora pido acceso al grupo de NLP",
+   "starred": false
+  },
+  {
+   "id": 1330377,
+   "key_id": "9FFAAA9FA124CEF0038724BC20E4549B",
+   "ts_ms": 1722084770028,
+   "ts_iso": "2024-07-27T12:52:50.028000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Xdxd le digo a él org",
+   "starred": false
+  },
+  {
+   "id": 1330378,
+   "key_id": "4995FA8288237C889D1ADD290EBBE084",
+   "ts_ms": 1722084783000,
+   "ts_iso": "2024-07-27T12:53:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dalee, gracias",
+   "starred": false
+  },
+  {
+   "id": 1330667,
+   "key_id": "EE06BA2C76C71547AD575106C7D49240",
+   "ts_ms": 1722098960000,
+   "ts_iso": "2024-07-27T16:49:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hey podés pedir que me agreguen al grupo de NLP?\nAún no me aceptan, y la clase empieza a la tarde creo",
+   "starred": false
+  },
+  {
+   "id": 1330668,
+   "key_id": "D19402446996FB0F45",
+   "ts_ms": 1722098987000,
+   "ts_iso": "2024-07-27T16:49:47+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "+595 991 381669",
+   "starred": false
+  },
+  {
+   "id": 1330669,
+   "key_id": "B57683465EC1C58FDC",
+   "ts_ms": 1722098991000,
+   "ts_iso": "2024-07-27T16:49:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "este es el org",
+   "starred": false
+  },
+  {
+   "id": 1330670,
+   "key_id": "30A975B9D8C788A321",
+   "ts_ms": 1722098999000,
+   "ts_iso": "2024-07-27T16:49:59+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te va a ser mas facil hablarle dirceto :)",
+   "starred": false
+  },
+  {
+   "id": 1330671,
+   "key_id": "856618F9CE19BD1AD3",
+   "ts_ms": 1722099023000,
+   "ts_iso": "2024-07-27T16:50:23+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "organizador :)",
+   "starred": false
+  },
+  {
+   "id": 1330672,
+   "key_id": "4149E699112EB261F6CA58E3B63F2061",
+   "ts_ms": 1722099028000,
+   "ts_iso": "2024-07-27T16:50:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias!",
+   "starred": false
+  },
+  {
+   "id": 1330673,
+   "key_id": "50E63612477F6D919AE40823D621E44B",
+   "ts_ms": 1722099030000,
+   "ts_iso": "2024-07-27T16:50:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le escribo",
+   "starred": false
+  }
+ ]
+}

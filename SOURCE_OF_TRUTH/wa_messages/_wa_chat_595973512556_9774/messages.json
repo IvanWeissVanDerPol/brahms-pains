@@ -1,0 +1,112 @@
+{
+ "chat_id": 9774,
+ "slug": "_wa_chat_595973512556_9774",
+ "subject": null,
+ "jid_user": "595973512556",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595973512556@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1421814,
+   "key_id": "A92128CACB17C6E277A4BD54CB439131",
+   "ts_ms": 1737317404387,
+   "ts_iso": "2025-01-19T20:10:04.387000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtube.com/@aeracoop\n Reforestación con drones\n https://youtube.com/@precious_plastichq\n\nReciclaje de basura",
+   "starred": false
+  },
+  {
+   "id": 1421815,
+   "key_id": "3BE75916280C362544FEE66955DF5C71",
+   "ts_ms": 1737317421007,
+   "ts_iso": "2025-01-19T20:10:21.007000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://gooey.ai/qr-code/?run_id=h7rx8lfs3hn4&uid=FZ2KXpO7XHg17X3FyLoM5FzF1fm2\n\nQr hecho con imagen hecha con inteligencia artificial",
+   "starred": false
+  },
+  {
+   "id": 1421822,
+   "key_id": "F45E18BAC6E2BD1A01417A65AD192F00",
+   "ts_ms": 1737319133000,
+   "ts_iso": "2025-01-19T20:38:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1421823,
+   "key_id": "72C236777561408155AB8FE717343957",
+   "ts_ms": 1737319178000,
+   "ts_iso": "2025-01-19T20:39:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Genial 😁",
+   "starred": false
+  },
+  {
+   "id": 1421824,
+   "key_id": "4AEF4CD7C866C7E5657BF2C14AEA68EA",
+   "ts_ms": 1737319238000,
+   "ts_iso": "2025-01-19T20:40:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Amoo quiero contactarme con ellos",
+   "starred": false
+  },
+  {
+   "id": 1421825,
+   "key_id": "62789AB7078C3C34AB5A9E085164D5EF",
+   "ts_ms": 1737319248000,
+   "ts_iso": "2025-01-19T20:40:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🙌🩷",
+   "starred": false
+  },
+  {
+   "id": 1421826,
+   "key_id": "4F4D381D8295CAF7D2342FF1E2C6732A",
+   "ts_ms": 1737319253000,
+   "ts_iso": "2025-01-19T20:40:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te agendo",
+   "starred": false
+  },
+  {
+   "id": 1421827,
+   "key_id": "682A7174B2FB47290B10F8DBA77EC619",
+   "ts_ms": 1737319330000,
+   "ts_iso": "2025-01-19T20:42:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bon Voyage!",
+   "starred": false
+  },
+  {
+   "id": 1427135,
+   "key_id": "770144BAB5B337A4F5252C83AE56EB0C",
+   "ts_ms": 1738349624000,
+   "ts_iso": "2025-01-31T18:53:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ingresa comenta y dale 👍si apoyas a Joana Carballo Concejal 2026!\n\nhttps://www.facebook.com/share/r/15ii3sYw4t/?mibextid=rS40aB7S9Ucbxw6v",
+   "starred": false
+  }
+ ]
+}

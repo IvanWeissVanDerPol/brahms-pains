@@ -1,0 +1,55 @@
+{
+ "chat_id": 11222,
+ "slug": "_wa_chat_595992289627_11222",
+ "subject": null,
+ "jid_user": "595992289627",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992289627@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1534290,
+   "key_id": "80A3D4F0F0571A6C3C602407DD964E86",
+   "ts_ms": 1753297750000,
+   "ts_iso": "2025-07-23T19:09:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes! Del Centro Médico Bautista nos comunicamos con usted con respecto a la cita agendada para el día de hoy con la Proctologa Wilma Bordon para informarle que la doctora está cancelando su consultorio a último momento por motivos particulares, para reagendamiendo o para más información favor llamar al 021 688 9900.  Muchas gracias",
+   "starred": false
+  },
+  {
+   "id": 1539057,
+   "key_id": "3EB058D76C43B48DA5E1EA",
+   "ts_ms": 1753795246000,
+   "ts_iso": "2025-07-29T13:20:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días! Del *Centro Médico Bautista* nos comunicamos usted referente a la cita agendada para el día de *hoy* con el *Cirujano Gabriel Rodríguez* para informarle que el médico esta cancelando su consultorio esta mañana por motivos de fuerza mayor y estamos *reagendando* su cita para el día de *hoy* para las *16:30hs* con el mismo médico. Para más información o para reagendamiento favor comunicarse al 021 688 9900",
+   "starred": false
+  },
+  {
+   "id": 1539058,
+   "key_id": "3EB073FDCCD9BCFCC3B18E",
+   "ts_ms": 1753795252000,
+   "ts_iso": "2025-07-29T13:20:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250729-WA0003.jpg",
+    "size": 23989,
+    "duration_s": 0,
+    "sha256_b64": "ErA6paONoXhhygguw5jqTpfai/bOwUl/YVs+PlA/U3Q=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

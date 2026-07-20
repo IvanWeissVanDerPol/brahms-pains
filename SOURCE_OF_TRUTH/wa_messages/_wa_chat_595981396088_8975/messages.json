@@ -1,0 +1,381 @@
+{
+ "chat_id": 8975,
+ "slug": "_wa_chat_595981396088_8975",
+ "subject": null,
+ "jid_user": "595981396088",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981396088@s.whatsapp.net",
+ "message_count": 22,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1356909,
+   "key_id": "3A95C2FA7376AEBFE274FC70FB186B3C",
+   "ts_ms": 1725981718000,
+   "ts_iso": "2024-09-10T15:21:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Buen día! 🤩\nHoy nos encontramos en el after talentoso! 🥳\n⏱️Hora: 18:30\n📍 Ubicación: Mentormate\nhttps://maps.app.goo.gl/XkvZm2A3x1kVjQsx9",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240910-WA0009.jpg",
+    "size": 415491,
+    "duration_s": 0,
+    "sha256_b64": "uV2Ap4Qe49C5rKJFRNxzkWyuLjp3bIJh7ab6sb64RnQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1358249,
+   "key_id": "714F8453830D83A6210CBC74799441F7",
+   "ts_ms": 1726080535000,
+   "ts_iso": "2024-09-11T18:48:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Hola!👋🏽\n Si estas interesado en participar en la rueda de negocios del encarprograma, podes inscribirte rellenando el formulario. 🤩\nLa rueda de negocios sera\n 📆Fecha: 28/09/2024  \n🕛Hora: 18:00 a 20:00hs\n📍Lugar: Hotel Savoy de la Ciudad de Encarnacion\nEsperamos contar con tu presencia!\n🔗Form:https://docs.google.com/forms/d/e/1FAIpQLSfOmL8GHvHy22JHhVkCZIqtMjctIrGpEbuYM0cOXYLDT7y5BQ/viewform?usp=sharing",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240911-WA0022.jpg",
+    "size": 130879,
+    "duration_s": 0,
+    "sha256_b64": "pbB0KV1dGQpwa748NAT1aSFMcSg0bgU6SgYtMCjyWPg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1358526,
+   "key_id": "E6210C905116052C8A2AF11C3909F164",
+   "ts_ms": 1726154157000,
+   "ts_iso": "2024-09-12T15:15:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Buenas tardes👋🏽\nQuedan invitados para el Webinar *Qué es una Rueda de Negocios*🤩\n🧏🏽Vamos a hablar sobre \n✅ Qué es una rueda de negocios\n✅Para qué sirve una rueda de negocios\n✅ Como prepararse a una rueda de negocios\n📆Fecha: 20/09\n🕛Hora: 18:00\n🔗Inscripciones: https://forms.gle/CQNPxz4edbPvEJv66",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240912-WA0002.jpg",
+    "size": 99334,
+    "duration_s": 0,
+    "sha256_b64": "Eh8A5REuy38Tq+BnMeQM86B2O46pDKPHYdHQ3WrZuCA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1359307,
+   "key_id": "888CD3E47A6DD1309C8351364698C82A",
+   "ts_ms": 1726265088000,
+   "ts_iso": "2024-09-13T22:04:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Buenas tardes👋🏽\nQuedan invitados para el Webinar *Qué es una Rueda de Negocios*🤩\n🧏🏽Vamos a hablar sobre \n✅ Qué es una rueda de negocios\n✅Para qué sirve una rueda de negocios\n✅ Como prepararse a una rueda de negocios\n📆Fecha: 20/09\n🕛Hora: 18:00\n🔗Inscripciones: https://forms.gle/CQNPxz4edbPvEJv66",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240912-WA0002.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Eh8A5REuy38Tq+BnMeQM86B2O46pDKPHYdHQ3WrZuCA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1363458,
+   "key_id": "D506581A09B8FAF635BB6383AD480BB2",
+   "ts_ms": 1727126046000,
+   "ts_iso": "2024-09-23T21:14:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Buenas tardes! 👋🏽\nInvitamos a  participar en la rueda de negocios del encarprograma, una oportunidad única para conectar, generar alianzas y potenciar tu negocio!🤩 \nPodes inscribirte rellenando el formulario. 🤩\nLa rueda de negocios sera\n 📆Fecha: 28/09/2024  \n🕛Hora: 18:00 a 20:00hs\n📍Lugar: Hotel Savoy de la Ciudad de Encarnacion\nEsperamos contar con tu presencia!\n🔗Form:https://docs.google.com/forms/d/e/1FAIpQLSfOmL8GHvHy22JHhVkCZIqtMjctIrGpEbuYM0cOXYLDT7y5BQ/viewform?usp=sharing",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240911-WA0022.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "pbB0KV1dGQpwa748NAT1aSFMcSg0bgU6SgYtMCjyWPg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1367421,
+   "key_id": "824175147468533470EA5D31EC478CCC",
+   "ts_ms": 1728000114000,
+   "ts_iso": "2024-10-04T00:01:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Buenas tardes!👋🏽\nDesde Cisoft estamos apoyando el bootcamp de Programando+, Esta iniciativa forma parte del plan de sostenibilidad de Cisoft - ProgramandoPy, cuyo objetivo es capacitar a jóvenes en tecnología y articular oportunidades laborales para los mismos. \nEs el segundo bootcamp de Programando+, con ProgramandoPy se realizaron en total 10 Bootcamps con jóvenes de Itapua que actualmente ya se encuentran trabajando en tecnología🚀👨🏽‍💻👩🏽‍💻.\nEn ese sentido, invitamos a las empresas socias CISOFT, a inscribir a sus colaboradores, hijos de colaboradores y público en general a nuestro Bootcamp que es para todo el país y sin límite de edad.\n💵*Costo:* 2.450.000 que puede ser financiado en una *matrícula de 480.000* y *4 cuotas de 550.000*, para generar recursos y seguir invirtiendo  en el proyecto.    \n📆*Fecha de Inicio:* Noviembre 2024\n🕛*Horario de clases:* Lunes, Miercoles y Viernes de 19:00 a 21:00. Mentorias de refueroz: Martes, Jueves y Sabado.\n🚨*Modalidad:* Virtual\n💡*Certificación habilitada por el MEC.*\nℹ️Los part",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20241003-WA0024.jpg",
+    "size": 129894,
+    "duration_s": 0,
+    "sha256_b64": "32ZPcC9rt1RUOQht+sVYjLzxXVknnKCPw25CG9ek4yY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1367435,
+   "key_id": "9C9526E23069C9B1605BBC610F3A0BC2",
+   "ts_ms": 1728001429000,
+   "ts_iso": "2024-10-04T00:23:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ℹ️Los participantes de este programa, en solo 12 semanas, van a aprender a desarrollar proyectos tecnológicos, páginas y aplicaciones web, así como automatizar procesos de trabajo y generar soluciones para responder a desafíos de la empresa. \n🔗Info e inscripciones en: https://www.programandopy.com/\n\n🚨🚨🚨*Responder Si, si esta interesado en becar a alguien de su equipo, No si no esta interesado en el Bootcamp*🚨🚨🚨",
+   "starred": false
+  },
+  {
+   "id": 1374436,
+   "key_id": "A078E3EFC90053A700ED45C8AAABC3EE",
+   "ts_ms": 1729262367000,
+   "ts_iso": "2024-10-18T14:39:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes!👋🏽\nDesde Cisoft estamos apoyando el bootcamp de Programando+, Esta iniciativa forma parte del plan de sostenibilidad de Cisoft - ProgramandoPy, cuyo objetivo es capacitar a jóvenes en tecnología y articular oportunidades laborales para los mismos. \nEs el segundo bootcamp de Programando+, con ProgramandoPy se realizaron en total 10 Bootcamps con jóvenes de Itapua que actualmente ya se encuentran trabajando en tecnología🚀👨🏽‍💻👩🏽‍💻.\nEn ese sentido, invitamos a las empresas socias CISOFT, a inscribir a sus colaboradores, hijos de colaboradores y público en general a nuestro Bootcamp que es para todo el país y sin límite de edad.\n💵*Costo:* 2.450.000 que puede ser financiado en una *matrícula de 480.000* y *4 cuotas de 550.000*, para generar recursos y seguir invirtiendo  en el proyecto.    \n📆*Fecha de Inicio:* Noviembre 2024\n🕛*Horario de clases:* Lunes, Miercoles y Viernes de 19:00 a 21:00. Mentorias de refueroz: Martes, Jueves y Sabado.\n🚨*Modalidad:* Virtual\n💡*Certificación habilitada por el MEC.*\nℹ️Los participantes de este programa, en solo 12 semanas, van a aprender a desarrollar proyectos tecnológicos, páginas y aplicaciones web, así como automatizar procesos de trabajo y generar soluciones para responder a desafíos de la empresa. \n🔗Info e inscripciones en: https://www.programandopy.com/\n\n🚨🚨🚨*Responder Si, si esta interesado en becar a alguien de su equipo, No si no esta interesado en el Bootcamp*🚨🚨🚨",
+   "starred": false
+  },
+  {
+   "id": 1374451,
+   "key_id": "3052AC9D392F5D72DEC1ACD3E6A508EF",
+   "ts_ms": 1729264231035,
+   "ts_iso": "2024-10-18T15:10:31.035000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tu link no es clickeable",
+   "starred": false
+  },
+  {
+   "id": 1374456,
+   "key_id": "10D940DAEE4077814AE333659DF019B7",
+   "ts_ms": 1729264639000,
+   "ts_iso": "2024-10-18T15:17:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.programandopy.com/",
+   "starred": false
+  },
+  {
+   "id": 1374457,
+   "key_id": "791E1283667DCBE74FA129AAB6391204",
+   "ts_ms": 1729264643000,
+   "ts_iso": "2024-10-18T15:17:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahí si?",
+   "starred": false
+  },
+  {
+   "id": 1379842,
+   "key_id": "744CE3C1624145DD43C7215D12BDF6F9",
+   "ts_ms": 1730125822000,
+   "ts_iso": "2024-10-28T14:30:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia!👋🏽\nDebido a reiteradas solicitudes de espacio de pasantias que recibimos en la Camara, necesitamos saber que empresas cuentan con espacios para pasantes, para asi poder referirlos a los pedidos. \nPodrian ayudarnos completando este form: https://docs.google.com/forms/d/1ggDB-EHqk_tcJUfdKuh5Xkh5b0JSb7aoGlRnnac2M1A/edit\nMuchas gracias🤩",
+   "starred": false
+  },
+  {
+   "id": 1394164,
+   "key_id": "DB2DDD1F30AB2E9F4B21AE041542793C",
+   "ts_ms": 1732562348000,
+   "ts_iso": "2024-11-25T19:19:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*Estimado Socio/a de la Cámara Paraguaya de la Industria del Software* 🤩\n\n_Te invitamos al evento de cierre de año: *La industria del Software 2024, Logros y Futuro Sostenible🚀* será un espacio para compartir nuestros logros, oportunidades y desafíos para el 2025._\n\n📆 *Fecha*: 10 de diciembre\n🕛 *Hora*: 11:00 a 13:00 hs. \n📍 *Lugar*: UCOM - Dr Juan Eulogio Estigarribia y Juan S. Bogarin.\n\n🔗 *Formulario de Inscripción*: http://bit.ly/3OigUsb\n💵 *Costo por participante*: Gs. 150.000\n🔗 *Link de pago Metrepay*: https://portal.metrepay.com/users/r673e7f338923a/pay",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241125-WA0008.jpg",
+    "size": 353161,
+    "duration_s": 0,
+    "sha256_b64": "VEF1KDoNUBbB1RNWFaAvm80+j0Jrjzokxss3NmPeXRg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1395430,
+   "key_id": "F50EE193BED55772F3B6CDB9AFD5B233",
+   "ts_ms": 1732800178000,
+   "ts_iso": "2024-11-28T13:22:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*Estimado Socio/a de la Cámara Paraguaya de la Industria del Software* 🤩\n\n_Te invitamos al evento de cierre de año: *La industria del Software 2024, Logros y Futuro Sostenible🚀* será un espacio para compartir nuestros logros, oportunidades y desafíos para el 2025._\n\n📆 *Fecha*: 10 de diciembre\n🕛 *Hora*: 11:00 a 13:00 hs. \n📍 *Lugar*: UCOM - Dr Juan Eulogio Estigarribia y Juan S. Bogarin.\n\n🔗 *Formulario de Inscripción*: http://bit.ly/3OigUsb\n💵 *Costo por participante*: Gs. 150.000\n🔗 *Link de pago Metrepay*: https://portal.metrepay.com/users/r673e7f338923a/pay",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "VEF1KDoNUBbB1RNWFaAvm80+j0Jrjzokxss3NmPeXRg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1398265,
+   "key_id": "4E8D5A7432863C2A551B7675A1B36BBC",
+   "ts_ms": 1733144266000,
+   "ts_iso": "2024-12-02T12:57:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*Estimado Socio/a de la Cámara Paraguaya de la Industria del Software* 🤩\n\n_Te invitamos al evento de cierre de año: *La industria del Software 2024, Logros y Futuro Sostenible🚀* será un espacio para compartir nuestros logros, oportunidades y desafíos para el 2025._\n\n📆 *Fecha*: 10 de diciembre\n🕛 *Hora*: 11:00 a 13:00 hs. \n📍 *Lugar*: UCOM - Dr Juan Eulogio Estigarribia y Juan S. Bogarin.\n\n🔗 *Formulario de Inscripción*: http://bit.ly/3OigUsb\n💵 *Costo por participante*: Gs. 150.000\n🔗 *Link de pago Metrepay*: https://portal.metrepay.com/users/r673e7f338923a/pay",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241125-WA0008.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "VEF1KDoNUBbB1RNWFaAvm80+j0Jrjzokxss3NmPeXRg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1399766,
+   "key_id": "22782E1BAD34916EAABE5CE3AC949FA4",
+   "ts_ms": 1733342488000,
+   "ts_iso": "2024-12-04T20:01:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*Estimado Socio/a de la Cámara Paraguaya de la Industria del Software* 🤩\n\n_Te invitamos al evento de cierre de año: *La industria del Software 2024, Logros y Futuro Sostenible🚀* será un espacio para compartir nuestros logros, oportunidades y desafíos para el 2025._\n\n📆 *Fecha*: 10 de diciembre\n🕛 *Hora*: 11:00 a 13:00 hs. \n📍 *Lugar*: UCOM - Dr Juan Eulogio Estigarribia y Juan S. Bogarin.\n\n🔗 *Formulario de Inscripción*: http://bit.ly/3OigUsb\n💵 *Costo por participante*: Gs. 150.000\n🔗 *Link de pago Metrepay*: https://bit.ly/41dWoAA",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241204-WA0018.jpg",
+    "size": 150273,
+    "duration_s": 0,
+    "sha256_b64": "JET9ClppzzTXV/n256WY3/6tPmkyccpP6ypY/VEyXU0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1400301,
+   "key_id": "1F4BE742E739F8CFE07F8044B7827DBA",
+   "ts_ms": 1733490829000,
+   "ts_iso": "2024-12-06T13:13:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*Estimado Socio/a de la Cámara Paraguaya de la Industria del Software* 🤩\n\n_Te invitamos al evento de cierre de año: *La industria del Software 2024, Logros y Futuro Sostenible🚀* será un espacio para compartir nuestros logros, oportunidades y desafíos para el 2025._\n\n📆 *Fecha*: 10 de diciembre\n🕛 *Hora*: 11:00 a 13:00 hs. \n📍 *Lugar*: UCOM - Dr Juan Eulogio Estigarribia y Juan S. Bogarin.\n\n🔗 *Formulario de Inscripción*: http://bit.ly/3OigUsb\n💵 *Costo por participante*: Gs. 150.000\n🔗 *Link de pago Metrepay*: https://bit.ly/41dWoAA",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241204-WA0018.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "JET9ClppzzTXV/n256WY3/6tPmkyccpP6ypY/VEyXU0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1409193,
+   "key_id": "EF2EC74961B37E04B58B2AF335153337",
+   "ts_ms": 1734975868000,
+   "ts_iso": "2024-12-23T17:44:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas Tardes!🤩👋🏽\nNecesito agendar una llamada con usted o el equipo de su empresa para poder crear su perfil en el *_Observatorio de compras_* !\nDejo el enlace del calendario donde puede agendar su llamada en la semana o coordinar conmigo un horario que les quede bien!☺️\nCalendario: https://calendly.com/secretaria-cisoft/observatorio-cisoft",
+   "starred": false
+  },
+  {
+   "id": 1416884,
+   "key_id": "BAB2E4E79874F4AD31EA6FA47C54FBF8",
+   "ts_ms": 1736426510000,
+   "ts_iso": "2025-01-09T12:41:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día! 👋🏼 \nNos encontramos trabajando en la actualización de datos de nuestras empresas socias CISOFT y para ello necesitamos saber el tamaño de su empresa. \n🙏🏽Podría ayudarnos por favor completando este Google form:\n🔗Link: https://bit.ly/40b2IXp\nMuchas gracias!🤩",
+   "starred": false
+  },
+  {
+   "id": 1452146,
+   "key_id": "38A1AFAF20EEBE8936059E6DE20C9210",
+   "ts_ms": 1742591224000,
+   "ts_iso": "2025-03-21T21:07:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "En cumplimiento de las disposiciones estatutarias, les convocamos a la Asamblea General Ordinaria de Socios  \n📍 Ubicación: UIP -  Sala Junta Ejecutiva\n📆 Fecha: 28/03/2025\n🕛Hora: 18:00\n🔗Link de inscripcion: https://forms.gle/2kAi5Wu1tY7w5GzD6\nSolicitamos completen el formulario para confirmar su presencia. !",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250321-WA0053.jpg",
+    "size": 245113,
+    "duration_s": 0,
+    "sha256_b64": "c309rcMqqGHcZifv2jQBfx7zMbMQAIktMzwhk4FpTdM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1492328,
+   "key_id": "3CC28250E819F89E4736C8520A6D54D8",
+   "ts_ms": 1748089736000,
+   "ts_iso": "2025-05-24T12:28:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "📢 Invitación Especial para Socios de *CISOFT*\n\n🤩Este Lunes te esperamos en un importante encuentro con la Federación Económica de Corrientes (FEC), una entidad que nuclea a más de 40 asociaciones empresariales argentinas de distintos sectores productivos.\nEstarán presente 11 representantes de la FEC. \n\n🤝 Es una excelente oportunidad para generar lazos comerciales, explorar inversiones y vincularse con empresarios interesados en el mercado paraguayo.\n\n📍 Lugar: Embajada Argentina Av. España 743, entre Perú y Boquerón\n📆Fecha: 26/05/2025\n🗓️ Hora: 18:00 h\n\n¡No te lo pierdas! \nConfírmanos tu asistencia para asegurar tu lugar en este Link\n🔗 *Form* : https://forms.gle/728rihohAc78jPFdA\nCualquier consulta, quedamos a disposición.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250524-WA0001.jpg",
+    "size": 278071,
+    "duration_s": 0,
+    "sha256_b64": "uTwRcgOoZQhpNUc6/z1UUsYmjVn7pU+Qz5YQNPrV8pA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1493017,
+   "key_id": "1AF3B465049C23A2594EC625C64E7088",
+   "ts_ms": 1748260029000,
+   "ts_iso": "2025-05-26T11:47:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "📢 Invitación Especial para Socios de *CISOFT*\n\n🤩Este Lunes te esperamos en un importante encuentro con la Federación Económica de Corrientes (FEC), una entidad que nuclea a más de 40 asociaciones empresariales argentinas de distintos sectores productivos.\nEstarán presente 11 representantes de la FEC. \n\n🤝 Es una excelente oportunidad para generar lazos comerciales, explorar inversiones y vincularse con empresarios interesados en el mercado paraguayo.\n\n📍 Lugar: Embajada Argentina Av. España 743, entre Perú y Boquerón\n📆Fecha: 26/05/2025\n🗓️ Hora: 18:00 h\n\n¡No te lo pierdas! \nConfírmanos tu asistencia para asegurar tu lugar en este Link\n🔗 *Form* : https://forms.gle/728rihohAc78jPFdA\nCualquier consulta, quedamos a disposición.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "uTwRcgOoZQhpNUc6/z1UUsYmjVn7pU+Qz5YQNPrV8pA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

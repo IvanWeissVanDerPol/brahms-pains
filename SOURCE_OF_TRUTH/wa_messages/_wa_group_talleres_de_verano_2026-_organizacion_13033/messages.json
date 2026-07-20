@@ -1,0 +1,292 @@
+{
+ "chat_id": 13033,
+ "slug": "_wa_group_talleres_de_verano_2026-_organizacion_13033",
+ "subject": "Talleres de Verano 2026- Organizacion",
+ "jid_user": "120363423187387012",
+ "jid_server": "g.us",
+ "jid_raw": "120363423187387012@g.us",
+ "message_count": 18,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1669113,
+   "key_id": "3A6C857AF0DD2573E1C1",
+   "ts_ms": 1769601058000,
+   "ts_iso": "2026-01-28T11:50:58+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Buenos días a todos\nLes envié en cada grupo el enlace para que se unan a los grupos con los alumnos, para hacerles ya admin y puedan modificar lo que crean conveniente (Foto de perfil, nombre de grupo, biografía, etc).\nImportante: no compartir el enlace, esta tarde vamos a estar enviando a los alumnos.\nÉxitos para todos, recuerden que empiezan los cursos el Dia 2 de Febrero",
+   "starred": false
+  },
+  {
+   "id": 1669871,
+   "key_id": "3EB0BFC9166D74477CF40A",
+   "ts_ms": 1769627270000,
+   "ts_iso": "2026-01-28T19:07:50+00:00",
+   "from_me": false,
+   "sender_jid": "241196890906846@lid",
+   "type": 0,
+   "text": "Buenas tardes, ya enviamos los enlaces a los grupos de los respectivos cursos por correo, ya estan entrando los alumnos, lo ideal siempre es que puedan presentarse cuando haya mucha gente en los grupos y si pueden poner asi como menciono Miguel una foto de perfil del grupo una biografia con lo que desean tambien",
+   "starred": false
+  },
+  {
+   "id": 1669872,
+   "key_id": "3EB0C141DB13171422B74B",
+   "ts_ms": 1769627313000,
+   "ts_iso": "2026-01-28T19:08:33+00:00",
+   "from_me": false,
+   "sender_jid": "241196890906846@lid",
+   "type": 0,
+   "text": "El lunes 2 de Febrero esta previsto arrancar con los talleres para los que empiezan Lunes ya, exitos a todos!",
+   "starred": false
+  },
+  {
+   "id": 1673364,
+   "key_id": "3ABE6E7798D0A98B8E5C",
+   "ts_ms": 1769988233000,
+   "ts_iso": "2026-02-01T23:23:53+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Buenas noches a todos. El mayor de los éxitos en los talleres estas dos semanas. Avisen siempre cualquier cosa a los coordinadores sus dudas y si hace falta voluntarios vamos a estar completando",
+   "starred": false
+  },
+  {
+   "id": 1673604,
+   "key_id": "3EB0130CEAE223F9DB16B5",
+   "ts_ms": 1770037927000,
+   "ts_iso": "2026-02-02T13:12:07+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 1,
+   "text": "Buenos Dias. Oficialmente arrancamos los Talleres. Empezamos con Redes",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260202-WA0042.jpg",
+    "size": 140649,
+    "duration_s": 0,
+    "sha256_b64": "OhBWisEiFSl9QyPaqmM/PKaDf6Daokw6CIRwP8W4Zg4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1673676,
+   "key_id": "3EB0AE03A0394BAF72E659",
+   "ts_ms": 1770043602000,
+   "ts_iso": "2026-02-02T14:46:42+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Buenas, les comparto por aca las carpetas de cada curso para pasarles a los alumnos\nLenguaje C: https://drive.google.com/drive/folders/1o51V1YizYg54n6g72gGnfWX_AvAiV65h?usp=drive_link\nPython:https://drive.google.com/drive/folders/1eTm7oSD2QwqOyo1kHFrnaeVqTPCLXgNo?usp=drive_link\nLinux:https://drive.google.com/drive/folders/1z1nwHno1dMl7h0ZlvpozCiJRqMtLW8hJ?usp=drive_link\nIA:https://drive.google.com/drive/folders/1Fl8EBu2dp0m5W8vdZbBZ5BAkzyLbIb_B?usp=drive_link\nJava:https://drive.google.com/drive/folders/1Ad7jqN2kmWLrbPiqh2lemgfHaWGY7Z-A?usp=drive_link\nBase de Datos:https://drive.google.com/drive/folders/1C3cU7tECF3XJHrlu582iUieZQ145rECs?usp=drive_link\nRedes:https://drive.google.com/drive/folders/1SQUOx3pb2edafq-O0EqCM05JeAYwoSci?usp=drive_link",
+   "starred": false
+  },
+  {
+   "id": 1673822,
+   "key_id": "3A6199C4EDAA66ACEE8E",
+   "ts_ms": 1770055962000,
+   "ts_iso": "2026-02-02T18:12:42+00:00",
+   "from_me": false,
+   "sender_jid": "241196890906846@lid",
+   "type": 1,
+   "text": "Introducción a Python- Primera Clase",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 7264,
+    "duration_s": 0,
+    "sha256_b64": "L1I78T5rG1/Ev9R9hGs0kWkYtZNN29fA+EHkN+8UrQE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1674221,
+   "key_id": "3A1C692B2B4233EB7D73",
+   "ts_ms": 1770066840000,
+   "ts_iso": "2026-02-02T21:14:00+00:00",
+   "from_me": false,
+   "sender_jid": "241196890906846@lid",
+   "type": 1,
+   "text": "Productividad Academica con IA🤖- Primera clase",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 6992,
+    "duration_s": 0,
+    "sha256_b64": "RS/jxrz/dz6DOzWd8Fz3rYX9/r7TjeKGY2qNwSzARiE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1674418,
+   "key_id": "3A575F547C3A2A643746",
+   "ts_ms": 1770070138000,
+   "ts_iso": "2026-02-02T22:08:58+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 1,
+   "text": "Introducción a Base de Datos - Primera Clase",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 10768,
+    "duration_s": 0,
+    "sha256_b64": "n5y7yc0kNt4/aILDzgT9IbydfdarWG1HQVZYFWzqj8g=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1674420,
+   "key_id": "3AB8990E41D91C1F465F",
+   "ts_ms": 1770070233000,
+   "ts_iso": "2026-02-02T22:10:33+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 1,
+   "text": "INTRODUCCIÓN A JAVA - Primera Clase",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 7776,
+    "duration_s": 0,
+    "sha256_b64": "vtllEXZs4Fw88sc2imQdKaycOqWvN67TmcJBz3Ok6S0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1674421,
+   "key_id": "3A60D236125C1C7B6B1F",
+   "ts_ms": 1770070335000,
+   "ts_iso": "2026-02-02T22:12:15+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 1,
+   "text": "INTRODUCCIÓN A LENGUAJE C - Primera Clase",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 6960,
+    "duration_s": 0,
+    "sha256_b64": "TUaLLiDNMq4Ahe1BTh2NuRdhSOv7dSVHfYaAD+3Npsk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1676943,
+   "key_id": "3A79E0EF818D3D79D164",
+   "ts_ms": 1770157400000,
+   "ts_iso": "2026-02-03T22:23:20+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 1,
+   "text": "INTRODUCCIÓN A LINUX - Primera Clase",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 10368,
+    "duration_s": 0,
+    "sha256_b64": "h7HFtcFnQa2jeS9oqF1hr44wLQavpE7SEYm8BYDogs0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1684989,
+   "key_id": "3A156CBE8A06F5BAF0BD",
+   "ts_ms": 1770642676000,
+   "ts_iso": "2026-02-09T13:11:16+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Buenos Días para todos.\nEmpezamos la segunda y última semana de talleres. *El Paro no nos afecta a nosotros*. Recordatorio de que si algun voluntario no va poder asistir a la clase, hablar con el coordinador. Éxitos",
+   "starred": false
+  },
+  {
+   "id": 1691269,
+   "key_id": "3AD0E6A3D92C43976636",
+   "ts_ms": 1771027583000,
+   "ts_iso": "2026-02-14T00:06:23+00:00",
+   "from_me": false,
+   "sender_jid": "241196890906846@lid",
+   "type": 0,
+   "text": "Buenas noches, desde ya les quiero agradecer a todos por la predisposición, ganas de enseñar apoyo como voluntarios  y coordinacion, muchisimas gracias a todos, por mi parte un orgullo como delegado haber podido organizar junto con ustedes estos talleres, nos vemos en otra oportunidad, feliz finde a tod@s",
+   "starred": false
+  },
+  {
+   "id": 1711935,
+   "key_id": "3EB0657B6474A52223F3EE",
+   "ts_ms": 1772804690000,
+   "ts_iso": "2026-03-06T13:44:50+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Buenas a todos, asi quedo la lista de Voluntarios, por favor si pueden ver que esten todos sus datos correctos y si alguien mas falta que me olvide poner por favor me avisa.",
+   "starred": false
+  },
+  {
+   "id": 1711936,
+   "key_id": "3EB00E333ADECBFC9F6407",
+   "ts_ms": 1772804706000,
+   "ts_iso": "2026-03-06T13:45:06+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260306-WA0016.jpg",
+    "size": 163735,
+    "duration_s": 0,
+    "sha256_b64": "Y4RB1tIKCuZNlQmC9ZtxZ23WyuFWyCEr0yaV7P1lxCk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1711937,
+   "key_id": "3EB008C84F35705B326815",
+   "ts_ms": 1772804713000,
+   "ts_iso": "2026-03-06T13:45:13+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "LHEXlQ4MDXerSJoa+etby37xGAV6ZGVWzFYOg6XMNw4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1711938,
+   "key_id": "3EB03CDEE73F8589439C42",
+   "ts_ms": 1772804740000,
+   "ts_iso": "2026-03-06T13:45:40+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Si alguien es de la filial, por favor que me avise",
+   "starred": false
+  }
+ ]
+}

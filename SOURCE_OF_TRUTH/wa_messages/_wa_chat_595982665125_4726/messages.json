@@ -1,0 +1,156 @@
+{
+ "chat_id": 4726,
+ "slug": "_wa_chat_595982665125_4726",
+ "subject": null,
+ "jid_user": "595982665125",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982665125@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1170186,
+   "key_id": "5A00129AB0863352BF888AB63781A0EC",
+   "ts_ms": 1696507322000,
+   "ts_iso": "2023-10-05T12:02:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas soy Nicolas de Facebook el que vende las cápsulas de cafe",
+   "starred": false
+  },
+  {
+   "id": 1170187,
+   "key_id": "C186723B66BA1C7907417EA36CB0D683",
+   "ts_ms": 1696507324000,
+   "ts_iso": "2023-10-05T12:02:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "_LA TIENDA DE CÁPSULAS DOLCE GUSTO ONLINE._ (* Las cajas contienen 16 cápsulas*)\n\n*Promoción* Por comienzo del mes \n\nComprando 30 cajas te quedan a 33.000gs cada caja sin IVA \n\nComprando 3 cajas del mismo sabor te quedan a 110.000gs sin IVA \n\nComprando 3 sabores surtidos quedan a 120.000gs IVA incluido.\n\nLa caja por unidad te sale a 40.000gs la caja con IVA incluído \n\nTe ofrecemos las cápsulas dolce gusto con los siguientes sabores:\n \n☕️Café con leche \n☕️Lungo  \n☕Cortado\n☕️Canela \n☕️Chocochino \n☕Mocha\n☕Espresso\n☕️Capuchino\n☕ Espresso intenso \n☕️Late machiato \n\nConsultas al📲0982 665125 \nhttps://wa.link/qlsxdt\n\n\nContamos con delivery con costo adicional y envíos por encomienda 📦 a todo el país.\nTambién podes pasar a retirar; somos de Asunción, Barrio Sajonia (estamos a cuadras de la cancha defensores).",
+   "starred": false
+  },
+  {
+   "id": 1170198,
+   "key_id": "43E49004DC69D1A305",
+   "ts_ms": 1696509336000,
+   "ts_iso": "2023-10-05T12:35:36+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "donde podria retirar?\ncuanto seria el delivery hasta aqui?",
+   "starred": false
+  },
+  {
+   "id": 1170202,
+   "key_id": "0AF2E069BE872883E55B9FB0AA46D040",
+   "ts_ms": 1696509468000,
+   "ts_iso": "2023-10-05T12:37:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy de Asunción Barrio sajonia a cuadras del defensores",
+   "starred": false
+  },
+  {
+   "id": 1170206,
+   "key_id": "30B11F284BE112B465A9DF6FAC9A3581",
+   "ts_ms": 1696509473000,
+   "ts_iso": "2023-10-05T12:37:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Seria 20.000",
+   "starred": false
+  },
+  {
+   "id": 1170214,
+   "key_id": "220D747952FB4EE05C",
+   "ts_ms": 1696509648000,
+   "ts_iso": "2023-10-05T12:40:48+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ok hablo con mis compass a ver si quieren",
+   "starred": false
+  },
+  {
+   "id": 1170215,
+   "key_id": "3EE1C83AAF894B8092",
+   "ts_ms": 1696509649000,
+   "ts_iso": "2023-10-05T12:40:49+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gracias",
+   "starred": false
+  },
+  {
+   "id": 1170226,
+   "key_id": "550FEF9B6A334AAE9234D70C110FBF72",
+   "ts_ms": 1696509800000,
+   "ts_iso": "2023-10-05T12:43:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A usted",
+   "starred": false
+  },
+  {
+   "id": 1171468,
+   "key_id": "01EBE1C9EE7B5256525D91688F9F83F4",
+   "ts_ms": 1696645653000,
+   "ts_iso": "2023-10-07T02:27:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas contamos con las capsulas de Starbucks \n\n40 cajas de Starbucks te queda a 33.000 por cajita \n\nStarbucks: 40.000 por cajita \n\nAmericano\nCapuccino \nCaramel machiato \n\n\n\nConsultas al📲0982 665125 \nhttps://wa.link/qlsxdt\n\nContamos con delivery con costo adicional y envíos por encomienda 📦 a todo el país.\nTambién podes pasar a retirar; somos de Asunción, Barrio Sajonia (estamos a cuadras de la cancha defensores).",
+   "starred": false
+  },
+  {
+   "id": 1173164,
+   "key_id": "E8726531B567763A2C423ABCC5384B35",
+   "ts_ms": 1696954456000,
+   "ts_iso": "2023-10-10T16:14:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Promoción* DEL 10 AL 31 DE OCTUBRE \n\n\nComprando 3 cajas del mismo sabor te quedan a 100.000gs sin IVA \n\nComprando 3 sabores surtidos quedan a 110.000gs Sin Iva \n\nLa caja por unidad te sale a 40.000gs la caja con IVA incluído",
+   "starred": false
+  },
+  {
+   "id": 1188739,
+   "key_id": "5F15DCA1568E42DCD33ACC16E433EABD",
+   "ts_ms": 1698888653000,
+   "ts_iso": "2023-11-02T01:30:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "_LA TIENDA DE CÁPSULAS DOLCE GUSTO ONLINE._ (* Las cajas contienen 16 cápsulas*)\n\n*Promoción* \n\nComprando 30 cajas te sale a 33.000 cada caja \n\n\nComprando 3 cajas del mismo sabor te quedan a 110.000gs sin IVA \n\nComprando 3 sabores surtidos quedan a 120.000gs con Iva \n\nLa caja por unidad te sale a 40.000gs la caja con IVA incluído \n\nTe ofrecemos las cápsulas dolce gusto con los siguientes sabores:\n \n☕️Café con leche \n☕️Lungo  \n☕Cortado\n☕️Chocochino \n☕Mocha\n☕Espresso\n☕️Capuchino\n☕ Espresso intenso \n☕️Late machiato \n\n40 cajas de Starbucks te queda a 33.000 por cajita \n\nStarbucks: 40.000 por cajita \n\nAmericano\nCapuccino \nCaramel machiato \n\nConsultas al📲0982 665125 \nhttps://wa.link/qlsxdt\n\n\nContamos con delivery con costo adicional y envíos por encomienda 📦 a todo el país.\nTambién podes pasar a retirar; somos de Asunción, Barrio Sajonia (estamos a cuadras de la cancha defensores).",
+   "starred": false
+  },
+  {
+   "id": 1191759,
+   "key_id": "2C38ECC0787E477DDC5CDEF59E05AD12",
+   "ts_ms": 1699482853000,
+   "ts_iso": "2023-11-08T22:34:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sabores disponibles:\n \n☕️Café con leche \n☕️Lungo  \n☕Cortado\n☕️Canela \n☕️Chocochino \n☕Mocha\n☕Espresso\n☕️Capuchino\n☕ Espresso intenso \n☕️Late machiato",
+   "starred": false
+  },
+  {
+   "id": 1193604,
+   "key_id": "F10B4156614F6CC3F1CF9F1C9A9DEB2E",
+   "ts_ms": 1699826409000,
+   "ts_iso": "2023-11-12T22:00:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "PROMOO FLASH \n\nDESDE HOY: Domingo 12/11 AL MIERCOLES 16/11\n\n3 cajas del mismo sabor por 100.000gs sin IVA\n\n3 cajas de diferentes sabores a 110.000gs sin IVA\n\nSabores disponibles:\n\n☕️Café con leche \n☕️Lungo  \n☕Cortado\n☕️Canela \n☕Mocha\n☕Espresso\n☕️Capuchino\n☕Espresso intenso\n☕️Late machiatto \n\nSabores Starbucks :\n\n☕️Capuccino \n☕️Caramel machiato\n\nNúmero de contacto 0982665125",
+   "starred": false
+  }
+ ]
+}

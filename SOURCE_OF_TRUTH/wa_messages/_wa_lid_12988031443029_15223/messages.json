@@ -1,0 +1,35 @@
+{
+ "chat_id": 15223,
+ "slug": "_wa_lid_12988031443029_15223",
+ "subject": null,
+ "jid_user": "12988031443029",
+ "jid_server": "lid",
+ "jid_raw": "12988031443029@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1781867,
+   "key_id": "3AC661D71FE28F749B01",
+   "ts_ms": 1779471502000,
+   "ts_iso": "2026-05-22T17:38:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, quiero una demo gratis de mi sitio web.",
+   "starred": false
+  },
+  {
+   "id": 1781875,
+   "key_id": "ACB0B0E9BA89904BE1C86910E2766C74",
+   "ts_ms": 1779472133089,
+   "ts_iso": "2026-05-22T17:48:53.089000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días \n\nSoy Iván Weiss de Paragu AI\n\nHacemos páginas web con IA basados en el contexto del negocio que nos pases \n\n\nDe que trataría tu negocio/ página web?\n\n\nPodes ver si alguna de nuestras demos se asemeja a alguna visión que tengas de tu idea",
+   "starred": false
+  }
+ ]
+}

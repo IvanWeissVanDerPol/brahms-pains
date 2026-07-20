@@ -1,0 +1,123 @@
+{
+ "chat_id": 6715,
+ "slug": "_wa_chat_918617838526_6715",
+ "subject": null,
+ "jid_user": "918617838526",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "918617838526@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1296723,
+   "key_id": "3EB0C2699D5A10E868A922",
+   "ts_ms": 1717430440000,
+   "ts_iso": "2024-06-03T16:00:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, encantado de conocerte 😊",
+   "starred": false
+  },
+  {
+   "id": 1296727,
+   "key_id": "35610F0C4026158A502EC1CABA5D1B85",
+   "ts_ms": 1717432753228,
+   "ts_iso": "2024-06-03T16:39:13.228000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola mucho gusto \nIgualmente \nSoy Iván weiss",
+   "starred": false
+  },
+  {
+   "id": 1296728,
+   "key_id": "3EB03C9E8C21F3CF1D5811",
+   "ts_ms": 1717432840000,
+   "ts_iso": "2024-06-03T16:40:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola espero que estés bien. Soy la Sra. Elena del Departamento de Contratación de Haofa Network Technology. Tenemos un trabajo secundario que no afecta tu trabajo principal y puedes ganar más de 400000 PYG por día. Su trabajo es simplemente darle me gusta a nuestros videos en Tiktok, le pagarán. La empresa paga a diario.\r\n¿Estás interesado en trabajar con nosotros?",
+   "starred": false
+  },
+  {
+   "id": 1296729,
+   "key_id": "387BDD4E0A52C51B172F2B03DD10CA26",
+   "ts_ms": 1717432939288,
+   "ts_iso": "2024-06-03T16:42:19.288000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Como nos pagan ?\n\nTenés referencia?\n\nQue más info hay ?",
+   "starred": false
+  },
+  {
+   "id": 1296747,
+   "key_id": "3EB04FF09022ECCBB26323",
+   "ts_ms": 1717433460000,
+   "ts_iso": "2024-06-03T16:51:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Este es un trabajo a tiempo parcial que no afecta su otro trabajo. El trabajo es muy simple y todo lo que tienes que hacer es darle me gusta a los videos de Tiktok y enviar capturas de pantalla, y te pagarán. Pagamos 4000 PYG por cada tarea y usted puede ganar hasta 40000-400000 PYG por día.\r\n dándole me gusta a los vídeos en tu tiempo libre.",
+   "starred": false
+  },
+  {
+   "id": 1296748,
+   "key_id": "3EB0A71F46F2C23CB68225",
+   "ts_ms": 1717433470000,
+   "ts_iso": "2024-06-03T16:51:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pagamos tu salario diario directamente a tu cuenta bancaria\r\nTienes una cuenta bancaria ?",
+   "starred": false
+  },
+  {
+   "id": 1296750,
+   "key_id": "C00AF69C2D49121B3538F858A0D41048",
+   "ts_ms": 1717433671526,
+   "ts_iso": "2024-06-03T16:54:31.526000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No \nQue banco online recomendas?",
+   "starred": false
+  },
+  {
+   "id": 1296756,
+   "key_id": "3EB0157CE94190E6E317DA",
+   "ts_ms": 1717433770000,
+   "ts_iso": "2024-06-03T16:56:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Antes de comenzar, ¿puedo saber?  \r\nCuántos años tiene ?\r\n\r\nPagamos tu salario diario directamente a tu cuenta bancaria\r\nTienes una cuenta bancaria ?\r\n\r\nNuestro grupo de tareas diarias y salario en Telegram. \r\n¿Tienes la aplicación Telegram?",
+   "starred": false
+  },
+  {
+   "id": 1297029,
+   "key_id": "3EB0018F3D242AD7E70294",
+   "ts_ms": 1717505020000,
+   "ts_iso": "2024-06-04T12:43:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "\\",
+   "starred": false
+  },
+  {
+   "id": 1297030,
+   "key_id": "3EB086F0821B43AF506F4F",
+   "ts_ms": 1717505030000,
+   "ts_iso": "2024-06-04T12:43:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  }
+ ]
+}

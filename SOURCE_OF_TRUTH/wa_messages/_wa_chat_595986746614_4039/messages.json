@@ -1,0 +1,24 @@
+{
+ "chat_id": 4039,
+ "slug": "_wa_chat_595986746614_4039",
+ "subject": null,
+ "jid_user": "595986746614",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986746614@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1145271,
+   "key_id": "3EB09947F2CF65A5980C92",
+   "ts_ms": 1693495860000,
+   "ts_iso": "2023-08-31T15:31:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dispone de un crédito PRE APROBADO EN BNF aprovecha esta oportunidad si tenes operación morosa vigente, cancela tus deuda y lleva dinero en efectivo, mas info INGRESA AL LINCK https://wa.me/595986746614",
+   "starred": false
+  }
+ ]
+}

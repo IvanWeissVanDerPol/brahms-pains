@@ -1,0 +1,134 @@
+{
+ "chat_id": 232,
+ "slug": "_wa_chat_595986186810_232",
+ "subject": null,
+ "jid_user": "595986186810",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986186810@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1807090,
+   "key_id": "3EB016B82E0605944FA877",
+   "ts_ms": 1781568209000,
+   "ts_iso": "2026-06-16T00:03:29+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://paragu-ai.com/ \n\n\nholis yo estoy autisteando con pag webs n,n",
+   "starred": false
+  },
+  {
+   "id": 1807091,
+   "key_id": "3EB08D257B4BC478086E1E",
+   "ts_ms": 1781568211000,
+   "ts_iso": "2026-06-16T00:03:31+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "por si te sirve",
+   "starred": false
+  },
+  {
+   "id": 1807092,
+   "key_id": "3EB0332C87138E4F41D21C",
+   "ts_ms": 1781568222000,
+   "ts_iso": "2026-06-16T00:03:42+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "tho no prob todos los prices son ajustables modo startup jasjajsjas",
+   "starred": false
+  },
+  {
+   "id": 1807093,
+   "key_id": "3EB0FF2F9E2A20428B780B",
+   "ts_ms": 1781568287000,
+   "ts_iso": "2026-06-16T00:04:47+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "mostly el workflow es un monton de research del area del negocio \nluego research de gaps \nluego research de competencia y que tienen \nluego same pero en 1er mundo \ny de ahi compilar a unalista de requisitos etc \n\npara que trabaje hermes en base a template reusando componentes que preapre para otras pags",
+   "starred": false
+  },
+  {
+   "id": 1807096,
+   "key_id": "3EB0218246F898CD2D4AD6",
+   "ts_ms": 1781568654000,
+   "ts_iso": "2026-06-16T00:10:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas! excelente",
+   "starred": false
+  },
+  {
+   "id": 1807097,
+   "key_id": "3EB0D9B8E77ECAFC3FEEB2",
+   "ts_ms": 1781568689000,
+   "ts_iso": "2026-06-16T00:11:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Genial jeje",
+   "starred": false
+  },
+  {
+   "id": 1807098,
+   "key_id": "3EB0B8CEA289AFD9FF46",
+   "ts_ms": 1781568709000,
+   "ts_iso": "2026-06-16T00:11:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero que experiencia tenes de forma concreta en crear eCommerce?",
+   "starred": false
+  },
+  {
+   "id": 1807101,
+   "key_id": "3EB0713E7592E382D854CD",
+   "ts_ms": 1781568879000,
+   "ts_iso": "2026-06-16T00:14:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "necesitas con pago en la pagina o con pago via chat de whatsapp por mensaje\n\npara con pago en pagina web necesitas tus datos de bancard o pagopar y poner en el API nomas",
+   "starred": false
+  },
+  {
+   "id": 1807102,
+   "key_id": "3EB00D322E6EE2AED0C0",
+   "ts_ms": 1781568932000,
+   "ts_iso": "2026-06-16T00:15:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con pago, es para una empresa de tiendas grande, y trabaja con el sistema BIMS actualmente, se debe vincular con dicho sistema",
+   "starred": false
+  },
+  {
+   "id": 1807103,
+   "key_id": "3EB0CA1CE54351B47B1828",
+   "ts_ms": 1781568951000,
+   "ts_iso": "2026-06-16T00:15:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por eso estoy buscando alguien con experiencia en E-commerce",
+   "starred": false
+  },
+  {
+   "id": 1807104,
+   "key_id": "3EB0A3C5964CCE9BEE244C",
+   "ts_ms": 1781569127000,
+   "ts_iso": "2026-06-16T00:18:47+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "def es investigable y setupeable \nla parte de tienda le veo medio complex si quieren editar constantly todo a mano como un cliete anterior \n\nahi necesita un monton de extra setup y abstraccion \nonda queria cambiar todos los textos en la pagina el nomas XD\n\nsi tienen todo definido ya \ny cargan sus productos y preciosde una base de datos \nsus promos sus clientes etc \ndef mas easy de setup \n\nquieren tambien usuarios log in google account singup ?\n\nosea crece en complex cuanto mas quieren agregar y haer on their own \n\ncurrently todos los updates hago por chats con hermesagent y me anda joya \npero le es completx hablar con hermes a gente mayor",
+   "starred": false
+  }
+ ]
+}

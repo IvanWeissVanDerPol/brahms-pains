@@ -1,0 +1,128 @@
+{
+ "chat_id": 2323,
+ "slug": "_wa_chat_595993598454_2323",
+ "subject": null,
+ "jid_user": "595993598454",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595993598454@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1203654,
+   "key_id": "94AAF8AF51DAE47428EBD14F45441ACC",
+   "ts_ms": 1701572104388,
+   "ts_iso": "2023-12-03T02:55:04.388000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io",
+   "starred": false
+  },
+  {
+   "id": 1203655,
+   "key_id": "E6B5FB35DE7B546D6D8FFAC98BC89FAC",
+   "ts_ms": 1701572164355,
+   "ts_iso": "2023-12-03T02:56:04.355000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pásale tu resumen a chatgpt \nPedile que te haga preguntas \nPedile que te genere una sección de contenido unrenderd markdown para cada parte de la página web \n\nGenera las imágenes con Leonardus app (Google )",
+   "starred": false
+  },
+  {
+   "id": 1203779,
+   "key_id": "3A9657097E140B0B9B08",
+   "ts_ms": 1701618389000,
+   "ts_iso": "2023-12-03T15:46:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hey pasa la fotoo",
+   "starred": false
+  },
+  {
+   "id": 1203785,
+   "key_id": "2D3CB8A378B8134F76B07B3DDEADB383",
+   "ts_ms": 1701621092700,
+   "ts_iso": "2023-12-03T16:31:32.700000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Sent/VID-20231203-WA0026.mp4",
+    "size": 1799932,
+    "duration_s": 9,
+    "sha256_b64": "w/QEVbKKIBkCmNyv6/O6AMcmoMkPR0hSQG8ktgLec0U=",
+    "media_name": "4b133679-453f-4dd7-9a6f-f6e8c78862d6.mp4",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1203786,
+   "key_id": "869526747A18E4734933E11B2DE2CBB6",
+   "ts_ms": 1701621092922,
+   "ts_iso": "2023-12-03T16:31:32.922000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231203-WA0025.jpg",
+    "size": 145042,
+    "duration_s": 0,
+    "sha256_b64": "uq1orMpvOolzfHthR2vdnHQa/AKKHmtLHLSjdhkDAZU=",
+    "media_name": "8ec07d39-8c82-4304-b05f-1d8d2a524234.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1203787,
+   "key_id": "2E7A2F18268D57C38C0CF3F1CD973866",
+   "ts_ms": 1701621108037,
+   "ts_iso": "2023-12-03T16:31:48.037000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202349/PTT-20231203-WA0027.opus",
+    "size": 0,
+    "duration_s": 12,
+    "sha256_b64": "zKRiHYEQWIBF+vTzc+YoQVAWW6Sln6B2tP1zySCK8o0=",
+    "media_name": "bca5dc3984694b71b324807837253f06.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1203817,
+   "key_id": "3A2056AB197D4CDCEA08",
+   "ts_ms": 1701631722000,
+   "ts_iso": "2023-12-03T19:28:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajajajaja ya da ya",
+   "starred": false
+  },
+  {
+   "id": 1203818,
+   "key_id": "3ACFE79861293866835B",
+   "ts_ms": 1701631746000,
+   "ts_iso": "2023-12-03T19:29:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "✨ Aesthetic ✨",
+   "starred": false
+  }
+ ]
+}

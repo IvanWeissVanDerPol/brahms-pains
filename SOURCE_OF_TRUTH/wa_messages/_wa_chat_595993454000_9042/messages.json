@@ -1,0 +1,44 @@
+{
+ "chat_id": 9042,
+ "slug": "_wa_chat_595993454000_9042",
+ "subject": null,
+ "jid_user": "595993454000",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595993454000@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1361555,
+   "key_id": "3EB0DDFF1FFB643B07B23A",
+   "ts_ms": 1726847378000,
+   "ts_iso": "2024-09-20T15:49:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! 👋🏼 Si estás buscando dar un salto en tu carrera, esta *maestría es para ti.* Al graduarte, estarás listo para liderar con sólidos conocimientos gerenciales, tanto en empresas públicas como privadas. Aprenderás a generar proyectos de inversión con herramientas prácticas y teóricas, administrarás equipos en empresas innovadoras, y dominarás todos los aspectos de la investigación empresarial. 🚀 ¡Atención! La *convocatoria de septiembre está a punto de cerrar*. Si *trabajas para una empresa, dejame en los comentarios*, \n y obtienes un *30% de descuento y accedes a un precio súper accesible.*🌟 ¡No pierdas la oportunidad de llevar tu perfil profesional al siguiente nivel! Escríbeme un *\"SI\"* y te cuento todos los detalles. 📩",
+   "starred": false
+  },
+  {
+   "id": 1361556,
+   "key_id": "3EB08272526B83B58782CB",
+   "ts_ms": 1726847379000,
+   "ts_iso": "2024-09-20T15:49:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240920-WA0006.jpg",
+    "size": 238444,
+    "duration_s": 0,
+    "sha256_b64": "e1GH7WjKAT9fRk8avCiskQt0wEIpQfCQuWkfV1aINy8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

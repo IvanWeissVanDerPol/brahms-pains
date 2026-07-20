@@ -1,0 +1,134 @@
+{
+ "chat_id": 14648,
+ "slug": "_wa_lid_165768624893999_14648",
+ "subject": null,
+ "jid_user": "165768624893999",
+ "jid_server": "lid",
+ "jid_raw": "165768624893999@lid",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1735031,
+   "key_id": "AC22C3C99A080D6493C34697EC756452",
+   "ts_ms": 1774546478636,
+   "ts_iso": "2026-03-26T17:34:38.636000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1735033,
+   "key_id": "AC661E8ED72CC1D560F776A991E49859",
+   "ts_ms": 1774546527547,
+   "ts_iso": "2026-03-26T17:35:27.547000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero una remera lila oscura sin diseños talla m y una talla g \n\nPara hombre pero para que quede pegado al cuerpo",
+   "starred": false
+  },
+  {
+   "id": 1735035,
+   "key_id": "ACE3C013CA7754588F53BFF6B67234B0",
+   "ts_ms": 1774546542023,
+   "ts_iso": "2026-03-26T17:35:42.023000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuanto seria con delivery a acá?",
+   "starred": false
+  },
+  {
+   "id": 1735037,
+   "key_id": "A51F571AA220F4E87F91CE9006C310F6",
+   "ts_ms": 1774546575000,
+   "ts_iso": "2026-03-26T17:36:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas Tardes.",
+   "starred": false
+  },
+  {
+   "id": 1735038,
+   "key_id": "A5CDDDDEAA2CBBA60077123DD08D15E5",
+   "ts_ms": 1774546583000,
+   "ts_iso": "2026-03-26T17:36:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Este es el local de ✅️Ita, también estamos en  ✅️ San Lorenzo.Cual le quedaría  mejor?",
+   "starred": false
+  },
+  {
+   "id": 1735039,
+   "key_id": "A5ED9528F1CF1F8887F4D4634B81ABE0",
+   "ts_ms": 1774546589000,
+   "ts_iso": "2026-03-26T17:36:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con delivery particular no contamos",
+   "starred": false
+  },
+  {
+   "id": 1735040,
+   "key_id": "ACE738F31A9CBE16C44CC140DAF25F2F",
+   "ts_ms": 1774546591649,
+   "ts_iso": "2026-03-26T17:36:31.649000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "San Lorenzo",
+   "starred": false
+  },
+  {
+   "id": 1735041,
+   "key_id": "AC92DD3F25CBFDEE5B91851ABE1219A8",
+   "ts_ms": 1774546597466,
+   "ts_iso": "2026-03-26T17:36:37.466000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puedo mandar un Uber a buscar",
+   "starred": false
+  },
+  {
+   "id": 1735042,
+   "key_id": "A5A11CD3FC0273682F649B73EA5A6B30",
+   "ts_ms": 1774546600000,
+   "ts_iso": "2026-03-26T17:36:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si ustd envía su delivery o motobolt le entregamos en tienda",
+   "starred": false
+  },
+  {
+   "id": 1735043,
+   "key_id": "A5AFEFE7D8B080EC51F95461C5E53E90",
+   "ts_ms": 1774546606000,
+   "ts_iso": "2026-03-26T17:36:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "0986 706 463  con Yeni, en ese número podes consultar la disponibilidad con mi compañera de San Lorenzo..",
+   "starred": false
+  },
+  {
+   "id": 1735045,
+   "key_id": "AC81A882FECC4E4B724525A729DF4770",
+   "ts_ms": 1774546610591,
+   "ts_iso": "2026-03-26T17:36:50.591000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  }
+ ]
+}

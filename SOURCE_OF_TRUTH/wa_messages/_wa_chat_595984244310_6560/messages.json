@@ -1,0 +1,156 @@
+{
+ "chat_id": 6560,
+ "slug": "_wa_chat_595984244310_6560",
+ "subject": null,
+ "jid_user": "595984244310",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984244310@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1276935,
+   "key_id": "685451E9C81C11A6DAA50E10740FB4C4",
+   "ts_ms": 1713652956000,
+   "ts_iso": "2024-04-20T22:42:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1276936,
+   "key_id": "A1A0B5FFF6DB5E3221960A14D223C1BE",
+   "ts_ms": 1713652959000,
+   "ts_iso": "2024-04-20T22:42:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Traigo su pedido de shawarma",
+   "starred": false
+  },
+  {
+   "id": 1276940,
+   "key_id": "0D84651E64D38BFDE206C9837B425BC1",
+   "ts_ms": 1713653233000,
+   "ts_iso": "2024-04-20T22:47:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy afuera",
+   "starred": false
+  },
+  {
+   "id": 1321296,
+   "key_id": "A82F814AB78305994D3ED6592997CB40",
+   "ts_ms": 1720928429000,
+   "ts_iso": "2024-07-14T03:40:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1321297,
+   "key_id": "12B8DC42E56C62774E3C9C29B6A6C952",
+   "ts_ms": 1720928432000,
+   "ts_iso": "2024-07-14T03:40:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Traigo su pedido de shawarma",
+   "starred": false
+  },
+  {
+   "id": 1321298,
+   "key_id": "C1B271AA57C5F3ECDA6FCF1716EA73F9",
+   "ts_ms": 1720928435000,
+   "ts_iso": "2024-07-14T03:40:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy en la ubicación",
+   "starred": false
+  },
+  {
+   "id": 1439972,
+   "key_id": "148A5459282B098935B3F3978CEC7D3A",
+   "ts_ms": 1740532945000,
+   "ts_iso": "2025-02-26T01:22:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1439973,
+   "key_id": "C9BBF35F4049E07BF4077E733AFFA144",
+   "ts_ms": 1740532947000,
+   "ts_iso": "2025-02-26T01:22:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Traigo su pedido de shawarma",
+   "starred": false
+  },
+  {
+   "id": 1439974,
+   "key_id": "7341CB36FA6D489A1DCA351E0501FD1B",
+   "ts_ms": 1740532948000,
+   "ts_iso": "2025-02-26T01:22:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy aquí",
+   "starred": false
+  },
+  {
+   "id": 1439975,
+   "key_id": "FB9DB89F5E9B0BE5E4D6CBC08F66EF8C",
+   "ts_ms": 1740532964992,
+   "ts_iso": "2025-02-26T01:22:44.992000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Viy",
+   "starred": false
+  },
+  {
+   "id": 1445589,
+   "key_id": "692E4972C3EE50CFB20C58EEAD52B3C9",
+   "ts_ms": 1741568024000,
+   "ts_iso": "2025-03-10T00:53:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1445590,
+   "key_id": "A6A41F47B8C9E217DF6CA58DB7E5B3CD",
+   "ts_ms": 1741568026000,
+   "ts_iso": "2025-03-10T00:53:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Traigo su pedido de shawarma",
+   "starred": false
+  },
+  {
+   "id": 1445591,
+   "key_id": "0538EB64F1E183930E2358BF47177390",
+   "ts_ms": 1741568028000,
+   "ts_iso": "2025-03-10T00:53:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy aquí",
+   "starred": false
+  }
+ ]
+}

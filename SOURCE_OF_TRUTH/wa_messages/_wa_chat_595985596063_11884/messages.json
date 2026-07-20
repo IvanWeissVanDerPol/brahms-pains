@@ -1,0 +1,24 @@
+{
+ "chat_id": 11884,
+ "slug": "_wa_chat_595985596063_11884",
+ "subject": null,
+ "jid_user": "595985596063",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985596063@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581453,
+   "key_id": "ACD58568D16F10E810F711883C338F92",
+   "ts_ms": 1759638393052,
+   "ts_iso": "2025-10-05T04:26:33.052000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Mika jovencita fogosa dis(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  }
+ ]
+}

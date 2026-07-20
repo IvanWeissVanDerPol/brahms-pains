@@ -1,0 +1,167 @@
+{
+ "chat_id": 5234,
+ "slug": "_wa_chat_595981346069_5234",
+ "subject": null,
+ "jid_user": "595981346069",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981346069@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1213582,
+   "key_id": "3EB0BF5890D96C5157F25A",
+   "ts_ms": 1703181804000,
+   "ts_iso": "2023-12-21T18:03:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa! como estas? te saluda Ceci Silva agente de programas de OCE✈️ \nTu oportunidad de realizar el WORK AND STUDY IRLANDA 🇮🇪🍀 es ahora!\nContamos con salidas para Abril y Septiembre del 2024! y lo mejor, con UNA SUPER PROMO y lugares limitados\nte gustaría recibir mas información sobre el programa? 🙌\nHOY CHARLA INFORMATIVA A LAS 16HS",
+   "starred": false
+  },
+  {
+   "id": 1213588,
+   "key_id": "D15946E408216D8AA0",
+   "ts_ms": 1703181939000,
+   "ts_iso": "2023-12-21T18:05:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me pasas el link?",
+   "starred": false
+  },
+  {
+   "id": 1213589,
+   "key_id": "68B03B32EB996C9F45",
+   "ts_ms": 1703181950000,
+   "ts_iso": "2023-12-21T18:05:50+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y cuanto es?",
+   "starred": false
+  },
+  {
+   "id": 1213590,
+   "key_id": "3EB0E21F7FC6046F15FD4D",
+   "ts_ms": 1703182079000,
+   "ts_iso": "2023-12-21T18:07:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "la charla es gratutita",
+   "starred": false
+  },
+  {
+   "id": 1213593,
+   "key_id": "3EB0533FAE6808D40AEE8B",
+   "ts_ms": 1703182093000,
+   "ts_iso": "2023-12-21T18:08:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "facilitame por aqui tu correo electronico y te envio el enlace ☺️🙌",
+   "starred": false
+  },
+  {
+   "id": 1213596,
+   "key_id": "7B5585D8427C5ADFFE",
+   "ts_ms": 1703182116000,
+   "ts_iso": "2023-12-21T18:08:36+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "weissvanderpol@gmail.com",
+   "starred": false
+  },
+  {
+   "id": 1213607,
+   "key_id": "3EB0D5D11913F82FB17C05",
+   "ts_ms": 1703182361000,
+   "ts_iso": "2023-12-21T18:12:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La invitacion con el enlace para ingresar a la plataforma ya esta en tu correo, podes revisar y confirmar presencia 🙌🏻✈️",
+   "starred": false
+  },
+  {
+   "id": 1213609,
+   "key_id": "020692CB25835E0EE3",
+   "ts_ms": 1703182451000,
+   "ts_iso": "2023-12-21T18:14:11+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "veo si me uno",
+   "starred": false
+  },
+  {
+   "id": 1213610,
+   "key_id": "A6527A456E20B70A10",
+   "ts_ms": 1703182457000,
+   "ts_iso": "2023-12-21T18:14:17+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "tengo ya actis hoy",
+   "starred": false
+  },
+  {
+   "id": 1213611,
+   "key_id": "C4A33A4CF65DADEC01",
+   "ts_ms": 1703182464000,
+   "ts_iso": "2023-12-21T18:14:24+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "btw",
+   "starred": false
+  },
+  {
+   "id": 1213612,
+   "key_id": "BDE3320EFC6DFA5526",
+   "ts_ms": 1703182470000,
+   "ts_iso": "2023-12-21T18:14:30+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "de donde sacaron mi contacto?",
+   "starred": false
+  },
+  {
+   "id": 1214315,
+   "key_id": "3EB00F6C622DC1C78990A8",
+   "ts_ms": 1703244950000,
+   "ts_iso": "2023-12-22T11:35:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos dias! pudiste ingresar a la charla ?",
+   "starred": false
+  },
+  {
+   "id": 1214316,
+   "key_id": "3EB0411655148874F4D8AC",
+   "ts_ms": 1703244973000,
+   "ts_iso": "2023-12-22T11:36:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "si no se pudo, hoy tenemos otra a la misma hora 🙌☺️",
+   "starred": false
+  },
+  {
+   "id": 1214317,
+   "key_id": "3EB053BABF806F77DCD8A5",
+   "ts_ms": 1703245028000,
+   "ts_iso": "2023-12-22T11:37:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ya lo teniamos registrado desde hace mucho, de algun canal nos habra llegado, ya sea por web, ig o tal vez un agente que haya registrado",
+   "starred": false
+  }
+ ]
+}

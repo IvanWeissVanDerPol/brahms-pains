@@ -1,0 +1,238 @@
+{
+ "chat_id": 13511,
+ "slug": "_wa_lid_279907431121033_13511",
+ "subject": null,
+ "jid_user": "279907431121033",
+ "jid_server": "lid",
+ "jid_raw": "279907431121033@lid",
+ "message_count": 18,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1683503,
+   "key_id": "ACFF5FF4293E5010C6AC74462035DC02",
+   "ts_ms": 1770513486168,
+   "ts_iso": "2026-02-08T01:18:06.168000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1683504,
+   "key_id": "AC95CEE0ABD855ED67F4E3D6CF5A6EA8",
+   "ts_ms": 1770513489430,
+   "ts_iso": "2026-02-08T01:18:09.430000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasan su menú",
+   "starred": false
+  },
+  {
+   "id": 1683505,
+   "key_id": "AC38E240F5D633D5617A6BCFFDDECC42",
+   "ts_ms": 1770513494911,
+   "ts_iso": "2026-02-08T01:18:14.911000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "/ promociónes ?",
+   "starred": false
+  },
+  {
+   "id": 1683510,
+   "key_id": "ACC027B10B1409A9B1830C4BEE150E00",
+   "ts_ms": 1770513600000,
+   "ts_iso": "2026-02-08T01:20:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Buenas",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260207-WA0049.jpg",
+    "size": 112673,
+    "duration_s": 0,
+    "sha256_b64": "5vZ3oPgnE7arRhSA9kZprWoUhBLGG9ffOTnl11Yp1nM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1683511,
+   "key_id": "AC69C96351FA52210F93A3920DA51F06",
+   "ts_ms": 1770513606000,
+   "ts_iso": "2026-02-08T01:20:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260207-WA0050.jpg",
+    "size": 131097,
+    "duration_s": 0,
+    "sha256_b64": "CVvCarMzpIWn/DdMdjQS2rbYcx8T6jaE745Wf83Ng8o=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1683513,
+   "key_id": "ACF8ACB40C9D0AF60CAC5303F772EFD5",
+   "ts_ms": 1770513630000,
+   "ts_iso": "2026-02-08T01:20:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Promo de lunes a jueves",
+   "starred": false
+  },
+  {
+   "id": 1683529,
+   "key_id": "AC7C673D73B49DA0E5532BEDB459F9D0",
+   "ts_ms": 1770514111541,
+   "ts_iso": "2026-02-08T01:28:31.541000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero un árabe de carne",
+   "starred": false
+  },
+  {
+   "id": 1683530,
+   "key_id": "ACB4D967CE582EAFAB9AF04257B06E49",
+   "ts_ms": 1770514117038,
+   "ts_iso": "2026-02-08T01:28:37.038000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puedo pagar con tarjeta?",
+   "starred": false
+  },
+  {
+   "id": 1683532,
+   "key_id": "AC007A71EF6F591F1AEFDEAEBEA51E1A",
+   "ts_ms": 1770514133262,
+   "ts_iso": "2026-02-08T01:28:53.262000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y voy cuando esté listo?\n\nEstoy enfrente",
+   "starred": false
+  },
+  {
+   "id": 1683533,
+   "key_id": "AC71DFFFE30F2F25213D541580FF9E69",
+   "ts_ms": 1770514167849,
+   "ts_iso": "2026-02-08T01:29:27.849000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si es posible que esté todo crujiente el pan \nOnda tostado \n\nLes re voy a amar <3",
+   "starred": false
+  },
+  {
+   "id": 1683537,
+   "key_id": "AC1EAC6F23CFBD6F0476415312664975",
+   "ts_ms": 1770514299000,
+   "ts_iso": "2026-02-08T01:31:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Efectivo y tranferéncias trabajamos",
+   "starred": false
+  },
+  {
+   "id": 1683539,
+   "key_id": "ACB608611615FB0C8C61BE765C8586FA",
+   "ts_ms": 1770514311820,
+   "ts_iso": "2026-02-08T01:31:51.820000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasas su alias",
+   "starred": false
+  },
+  {
+   "id": 1683540,
+   "key_id": "AC492056A8A8309D42B6C38DCB889B69",
+   "ts_ms": 1770514313720,
+   "ts_iso": "2026-02-08T01:31:53.720000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ":)",
+   "starred": false
+  },
+  {
+   "id": 1683541,
+   "key_id": "AC964C0F92B06A0A0A6A6827CADF361A",
+   "ts_ms": 1770514339000,
+   "ts_iso": "2026-02-08T01:32:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cí 1914076",
+   "starred": false
+  },
+  {
+   "id": 1683542,
+   "key_id": "AC2BA3A06D77DF3515A482DAA0E266DE",
+   "ts_ms": 1770514347000,
+   "ts_iso": "2026-02-08T01:32:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "26000",
+   "starred": false
+  },
+  {
+   "id": 1683547,
+   "key_id": "ACD2B0D0C2CD8C780503C660C270F1F2",
+   "ts_ms": 1770514401967,
+   "ts_iso": "2026-02-08T01:33:21.967000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260207-WA0052.jpg",
+    "size": 70489,
+    "duration_s": 0,
+    "sha256_b64": "uEevXolTp84orPfcW+ojedWcy1V//aW/EKrco8l37p8=",
+    "media_name": "dc7ec2af-51ca-47f3-9729-70e0509d9104.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1683548,
+   "key_id": "AC2953130B40E5AA07DA8FDE3F63AC4F",
+   "ts_ms": 1770514422000,
+   "ts_iso": "2026-02-08T01:33:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1683562,
+   "key_id": "ACEFBB60C930D511BBDA3979A1224A87",
+   "ts_ms": 1770514929000,
+   "ts_iso": "2026-02-08T01:42:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yá esta tu pedído",
+   "starred": false
+  }
+ ]
+}

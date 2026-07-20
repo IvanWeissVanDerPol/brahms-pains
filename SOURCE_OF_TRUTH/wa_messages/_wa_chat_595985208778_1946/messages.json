@@ -1,0 +1,143 @@
+{
+ "chat_id": 1946,
+ "slug": "_wa_chat_595985208778_1946",
+ "subject": null,
+ "jid_user": "595985208778",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985208778@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 984876,
+   "key_id": "055B7EEDBF2969AFB606AB9053CEFBF6",
+   "ts_ms": 1671626093005,
+   "ts_iso": "2022-12-21T12:34:53.005000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis que tal?\nEstán x si acaso en la tienda?",
+   "starred": false
+  },
+  {
+   "id": 984909,
+   "key_id": "C77123B686664E7BC6257FAB2C61875B",
+   "ts_ms": 1671626534127,
+   "ts_iso": "2022-12-21T12:42:14.127000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero ir para hacer compras de Navidad",
+   "starred": false
+  },
+  {
+   "id": 984910,
+   "key_id": "4C06BBA8995EC739E103D62BA01366AC",
+   "ts_ms": 1671626535381,
+   "ts_iso": "2022-12-21T12:42:15.381000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajaja",
+   "starred": false
+  },
+  {
+   "id": 985300,
+   "key_id": "0FCD8B5EB465CD4E5E01EB1DDBC8D7F9",
+   "ts_ms": 1671631882180,
+   "ts_iso": "2022-12-21T14:11:22.180000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20221221-WA0055.jpg",
+    "size": 98296,
+    "duration_s": 0,
+    "sha256_b64": "1UNiCuYti9xFEH9ghXLdk+fFlQ8rJpe2LKtBk2z6D2w=",
+    "media_name": "d88b4a94-f5d1-4af7-9758-d74f9b53a973.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1203188,
+   "key_id": "7DC4E2E4E3869026F21A3F997569CE3D",
+   "ts_ms": 1701535616669,
+   "ts_iso": "2023-12-02T16:46:56.669000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis \nQuiero pasar un fla por fun4me\n\nEstán open ?\n\nNo vi en maps el horario:(",
+   "starred": false
+  },
+  {
+   "id": 1203190,
+   "key_id": "3AF32B9688D0FDBF516B",
+   "ts_ms": 1701535634000,
+   "ts_iso": "2023-12-02T16:47:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan",
+   "starred": false
+  },
+  {
+   "id": 1203192,
+   "key_id": "3A596C320A5DBD305EEB",
+   "ts_ms": 1701535649000,
+   "ts_iso": "2023-12-02T16:47:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ella está atendiendo",
+   "starred": false
+  },
+  {
+   "id": 1203193,
+   "key_id": "3A3A24DED8C49DF271ED",
+   "ts_ms": 1701535654000,
+   "ts_iso": "2023-12-02T16:47:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo estoy fuera del país",
+   "starred": false
+  },
+  {
+   "id": 1203194,
+   "key_id": "E14DBAF955D09FF61C56B6A9FF74B07F",
+   "ts_ms": 1701535657627,
+   "ts_iso": "2023-12-02T16:47:37.627000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis le escribo gracias",
+   "starred": false
+  },
+  {
+   "id": 1203195,
+   "key_id": "FFB0E8592F9FBEF661E43572678A7444",
+   "ts_ms": 1701535661489,
+   "ts_iso": "2023-12-02T16:47:41.489000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Niiice",
+   "starred": false
+  },
+  {
+   "id": 1203196,
+   "key_id": "A38CDDA0E5524291C01266A90DBB5B85",
+   "ts_ms": 1701535667998,
+   "ts_iso": "2023-12-02T16:47:47.998000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que disfrutes del viaje ✨🖤",
+   "starred": false
+  }
+ ]
+}

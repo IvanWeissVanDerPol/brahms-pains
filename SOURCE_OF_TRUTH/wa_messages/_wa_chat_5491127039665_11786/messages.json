@@ -1,0 +1,200 @@
+{
+ "chat_id": 11786,
+ "slug": "_wa_chat_5491127039665_11786",
+ "subject": null,
+ "jid_user": "5491127039665",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "5491127039665@s.whatsapp.net",
+ "message_count": 17,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1570234,
+   "key_id": "AC7035D811D9BE8181658B7A2D5524EE",
+   "ts_ms": 1757901680037,
+   "ts_iso": "2025-09-15T02:01:20.037000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Case number: 00E9E00\nIVAN WEISS VAN DER POL\nHello. I need to request assistance.",
+   "starred": false
+  },
+  {
+   "id": 1570241,
+   "key_id": "EDFB5B3DA57842CCA5",
+   "ts_ms": 1757901734000,
+   "ts_iso": "2025-09-15T02:02:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I think I didn't understand your message. 🔴\n\nLet's try again!",
+   "starred": false
+  },
+  {
+   "id": 1570276,
+   "key_id": "ACEE450A60FA1C30131DB3BF097CC3E1",
+   "ts_ms": 1757904172719,
+   "ts_iso": "2025-09-15T02:42:52.719000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1570277,
+   "key_id": "6FE47D890DE755090A",
+   "ts_ms": 1757904175000,
+   "ts_iso": "2025-09-15T02:42:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Welcome! 🛫\n\nThis is the Assist Card assistance center. Please, hold on. We will contact you in a few minutes. 📲",
+   "starred": false
+  },
+  {
+   "id": 1570278,
+   "key_id": "2A68BDAC3E541F6FBE",
+   "ts_ms": 1757904176000,
+   "ts_iso": "2025-09-15T02:42:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ingresa a la llamada haciendo clic en el siguiente enlace: https://my.assistcard.com/ACCallWifi?code=d768542111",
+   "starred": false
+  },
+  {
+   "id": 1570282,
+   "key_id": "ACC1471DA7962FF76BAB79809FB87020",
+   "ts_ms": 1757904795453,
+   "ts_iso": "2025-09-15T02:53:15.453000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Case number: 00E9E00\nIVAN WEISS VAN DER POL\nHello. I need to request assistance.",
+   "starred": false
+  },
+  {
+   "id": 1570283,
+   "key_id": "0138D8D486C48BF616",
+   "ts_ms": 1757904798000,
+   "ts_iso": "2025-09-15T02:53:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te damos la bienvenida. 🛫\n\nEste es el canal de asistencia de Assist Card. Serás atendido en los próximos minutos. 📲",
+   "starred": false
+  },
+  {
+   "id": 1570284,
+   "key_id": "1F9AF52CF0A50E2C70",
+   "ts_ms": 1757904800000,
+   "ts_iso": "2025-09-15T02:53:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ingresa a la llamada haciendo clic en el siguiente enlace: https://my.assistcard.com/ACCallWifi?code=ceeca92d7f",
+   "starred": false
+  },
+  {
+   "id": 1570422,
+   "key_id": "AC7DBE241C107C2707445CB5FDF36832",
+   "ts_ms": 1757911360231,
+   "ts_iso": "2025-09-15T04:42:40.231000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola si",
+   "starred": false
+  },
+  {
+   "id": 1570423,
+   "key_id": "43C46E038B7CAAE463",
+   "ts_ms": 1757911363000,
+   "ts_iso": "2025-09-15T04:42:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te damos la bienvenida. 🛫\n\nEste es el canal de asistencia de Assist Card. Serás atendido en los próximos minutos. 📲",
+   "starred": false
+  },
+  {
+   "id": 1570424,
+   "key_id": "DAF0B97A3DCD3DBA09",
+   "ts_ms": 1757911364000,
+   "ts_iso": "2025-09-15T04:42:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ingresa a la llamada haciendo clic en el siguiente enlace: https://my.assistcard.com/ACCallWifi?code=4eb3c1647f",
+   "starred": false
+  },
+  {
+   "id": 1571203,
+   "key_id": "ACD5EC48B048DC8E5AD71B9B9FA06DD8",
+   "ts_ms": 1757999120251,
+   "ts_iso": "2025-09-16T05:05:20.251000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola si",
+   "starred": false
+  },
+  {
+   "id": 1571204,
+   "key_id": "8D64C806AC6E0441FD",
+   "ts_ms": 1757999123000,
+   "ts_iso": "2025-09-16T05:05:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te damos la bienvenida. 🛫\n\nEste es el canal de asistencia de Assist Card. Serás atendido en los próximos minutos. 📲",
+   "starred": false
+  },
+  {
+   "id": 1571205,
+   "key_id": "D9125BC45113A9704C",
+   "ts_ms": 1757999125000,
+   "ts_iso": "2025-09-16T05:05:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ingresa a la llamada haciendo clic en el siguiente enlace: https://my.assistcard.com/ACCallWifi?code=fe8e02fb77",
+   "starred": false
+  },
+  {
+   "id": 1575560,
+   "key_id": "AC9C311A9FEC419315944D9458F764AC",
+   "ts_ms": 1758719479789,
+   "ts_iso": "2025-09-24T13:11:19.789000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1575561,
+   "key_id": "8121A4A799EFCBAB92",
+   "ts_ms": 1758719483000,
+   "ts_iso": "2025-09-24T13:11:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te damos la bienvenida. 🛫\n\nEste es el canal de asistencia de Assist Card. Serás atendido en los próximos minutos. 📲",
+   "starred": false
+  },
+  {
+   "id": 1575562,
+   "key_id": "8DBF52C98D2DF17C72",
+   "ts_ms": 1758719484000,
+   "ts_iso": "2025-09-24T13:11:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ingresa a la llamada haciendo clic en el siguiente enlace: https://my.assistcard.com/ACCallWifi?code=ad79344a09",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "chat_id": 10392,
+ "slug": "_wa_chat_5493515406764_10392",
+ "subject": null,
+ "jid_user": "5493515406764",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "5493515406764@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1474071,
+   "key_id": "4D699C0D3FA8224D132F0E71D57CF145",
+   "ts_ms": 1745541809171,
+   "ts_iso": "2025-04-25T00:43:29.171000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1474072,
+   "key_id": "C82EEECA427C46B7875793DF90F341F0",
+   "ts_ms": 1745541813164,
+   "ts_iso": "2025-04-25T00:43:33.164000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250424-WA0040.jpg",
+    "size": 72845,
+    "duration_s": 0,
+    "sha256_b64": "ylvWr0d/Gf8OZLNELThzoG1sVGhQ3tFJevhfCaDjjMw=",
+    "media_name": "83c2b8bf-0308-4b6d-a5a7-b805112918b1.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1474073,
+   "key_id": "DFE6B3B5922B388708966D5ED4A1B891",
+   "ts_ms": 1745541819335,
+   "ts_iso": "2025-04-25T00:43:39.335000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esta bien el número?",
+   "starred": false
+  }
+ ]
+}

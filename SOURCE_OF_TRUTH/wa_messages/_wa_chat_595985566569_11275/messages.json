@@ -1,0 +1,24 @@
+{
+ "chat_id": 11275,
+ "slug": "_wa_chat_595985566569_11275",
+ "subject": null,
+ "jid_user": "595985566569",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985566569@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581372,
+   "key_id": "ACD318F6A9A3EF74CF7244422C62E180",
+   "ts_ms": 1759636075101,
+   "ts_iso": "2025-10-05T03:47:55.101000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola quiero ir al club \nComo es la onda ?\n\nSería la primera vez que voy",
+   "starred": false
+  }
+ ]
+}

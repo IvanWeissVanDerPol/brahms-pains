@@ -1,0 +1,79 @@
+{
+ "chat_id": 13128,
+ "slug": "_wa_lid_159961812320427_13128",
+ "subject": null,
+ "jid_user": "159961812320427",
+ "jid_server": "lid",
+ "jid_raw": "159961812320427@lid",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1745990,
+   "key_id": "3EB0BC2D5C9D5A3B7100ED",
+   "ts_ms": 1775590817000,
+   "ts_iso": "2026-04-07T19:40:17+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hello \nkinda random \npero como recorde que estabass kinda into IA stuff\n\nhttps://moonshot.ueno.com.py/\n\npor si te interesa aplicar def prepara tu idea con IA y mira que sale :)",
+   "starred": false
+  },
+  {
+   "id": 1746794,
+   "key_id": "ACF9DD48C702EC2257CFC9F5F911D2DB",
+   "ts_ms": 1775677361000,
+   "ts_iso": "2026-04-08T19:42:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Alo",
+   "starred": false
+  },
+  {
+   "id": 1746795,
+   "key_id": "AC5DD131EC82737597D60E54170DE2B9",
+   "ts_ms": 1775677370000,
+   "ts_iso": "2026-04-08T19:42:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perdon por tardar 24hs en responder",
+   "starred": false
+  },
+  {
+   "id": 1746796,
+   "key_id": "AC53927F2178D4116E256021A376BD09",
+   "ts_ms": 1775677381000,
+   "ts_iso": "2026-04-08T19:43:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Toy pensando en ideas",
+   "starred": false
+  },
+  {
+   "id": 1746799,
+   "key_id": "AC0065219EE1B84BD0EECE7F03CF79FD",
+   "ts_ms": 1775677415436,
+   "ts_iso": "2026-04-08T19:43:35.436000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello uwu\nTranki \nSe que es de bien random también jajajaja",
+   "starred": false
+  },
+  {
+   "id": 1746803,
+   "key_id": "ACCFACC5D09411FB90840B605E8E1B7C",
+   "ts_ms": 1775677472000,
+   "ts_iso": "2026-04-08T19:44:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No es random jajaj",
+   "starred": false
+  }
+ ]
+}

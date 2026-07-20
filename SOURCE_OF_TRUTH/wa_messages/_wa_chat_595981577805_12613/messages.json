@@ -1,0 +1,90 @@
+{
+ "chat_id": 12613,
+ "slug": "_wa_chat_595981577805_12613",
+ "subject": null,
+ "jid_user": "595981577805",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981577805@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1600316,
+   "key_id": "3EB0915E6E9F3861A0078A",
+   "ts_ms": 1761682929000,
+   "ts_iso": "2025-10-28T20:22:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola 💛 Te escribimos de Pira Sushi. Nos encantó que nos hayas elegido y queríamos saber cómo fue todo. ¿Tenes alguna sugerencia? ¿Hubo algo que no te gustó? \nNos encantaría que vuelvas, por eso preparamos un regalito especial 🎁 Nuestro nuevo combo SORPRESA de 15 piezas con una varieadad de rolls deli🤤, para acompañar tu próxima compra. Porque para nosotros cada cliente cuenta, y siempre hay lugar en Pira para vos 🐟✨\nVálido  por 15 días, para canjear por Delivery.\n¿Te animás a pedir de nuevo?",
+   "starred": false
+  },
+  {
+   "id": 1645394,
+   "key_id": "ACB8E6FEE2669F5C4013A74C7F79AA89",
+   "ts_ms": 1767623881430,
+   "ts_iso": "2026-01-05T14:38:01.430000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¿Cuál es el horario de los Martes de Sushi Libre?",
+   "starred": false
+  },
+  {
+   "id": 1645395,
+   "key_id": "ACF9A4098203E90C2583DA6A7D88317A",
+   "ts_ms": 1767623886794,
+   "ts_iso": "2026-01-05T14:38:06.794000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuanto es ?",
+   "starred": false
+  },
+  {
+   "id": 1645396,
+   "key_id": "A57FB954DC84402112FA9D47E0CB5228",
+   "ts_ms": 1767623895000,
+   "ts_iso": "2026-01-05T14:38:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas nuestro horario es de 18:30hs a 23:30hs 🍱😊\n En breve lo estaremos atendiendo✨",
+   "starred": false
+  },
+  {
+   "id": 1645397,
+   "key_id": "AC9B9B783699F86C223F5083DFFF8243",
+   "ts_ms": 1767623961531,
+   "ts_iso": "2026-01-05T14:39:21.531000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1645398,
+   "key_id": "AC8E602BB7FF3958EA62E1909E176C88",
+   "ts_ms": 1767623966667,
+   "ts_iso": "2026-01-05T14:39:26.667000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero a cuánto es el.costo ?",
+   "starred": false
+  },
+  {
+   "id": 1645983,
+   "key_id": "3EB054B7053C108C211875",
+   "ts_ms": 1767647479000,
+   "ts_iso": "2026-01-05T21:11:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "* 120.000 es el estándar que salen en la primera ronda 3 bandejas, 1 de 12 piezas y otras 2 de 6 piezas cada una 24 piezas en total.. una vez que te sirven las 24 piezas, empieza la ronda de nuevo, las veces que quieras ya de 3 bandejas de 6 piezas cada una desde la segunda ronda.. incluye bebida de Cortesia.\nY el premium es 160.000 gs incluye tb bebida de cortesía🍷🥃, y el cliente elige los rolls que quieran comer tb puede ser nigiri sashiimi entradas y rolls calientes...🤗🍣",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "chat_id": 13622,
+ "slug": "_wa_lid_169002668171442_13622",
+ "subject": null,
+ "jid_user": "169002668171442",
+ "jid_server": "lid",
+ "jid_raw": "169002668171442@lid",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1707311,
+   "key_id": "AC9184FF834CB55D8ABEFB12E769A145",
+   "ts_ms": 1772307699250,
+   "ts_iso": "2026-02-28T19:41:39.250000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello I'm Iván n.n",
+   "starred": false
+  },
+  {
+   "id": 1707313,
+   "key_id": "3B881669720FF29F567C",
+   "ts_ms": 1772307728000,
+   "ts_iso": "2026-02-28T19:42:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, this is Allen",
+   "starred": false
+  },
+  {
+   "id": 1707315,
+   "key_id": "3EB0A43822E462D36A7F58",
+   "ts_ms": 1772307771000,
+   "ts_iso": "2026-02-28T19:42:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "nice to meet you \n\nhope you meet a lot of people in the hackaton \ndef would love to hear your experience in it :)",
+   "starred": false
+  }
+ ]
+}

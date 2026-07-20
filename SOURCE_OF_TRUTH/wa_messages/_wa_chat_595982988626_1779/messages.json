@@ -1,0 +1,262 @@
+{
+ "chat_id": 1779,
+ "slug": "_wa_chat_595982988626_1779",
+ "subject": null,
+ "jid_user": "595982988626",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982988626@s.whatsapp.net",
+ "message_count": 21,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1095013,
+   "key_id": "4C51F91FBB3571D5844184043D354749",
+   "ts_ms": 1687877055305,
+   "ts_iso": "2023-06-27T14:44:15.305000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas \nHacen por si acaso castración de perras ?",
+   "starred": false
+  },
+  {
+   "id": 1095014,
+   "key_id": "2E8A9424C3C433F83E65696981A84590",
+   "ts_ms": 1687877058000,
+   "ts_iso": "2023-06-27T14:44:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Vida Animal. ¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1095015,
+   "key_id": "9B2DA64C95A352582F482A3134F502AF",
+   "ts_ms": 1687877059000,
+   "ts_iso": "2023-06-27T14:44:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible. Horario de atención de 08:30 a 17:00 hs 🐶🐱❤️",
+   "starred": false
+  },
+  {
+   "id": 1095034,
+   "key_id": "81B3D732F5148BA01A2BA5E35879E554",
+   "ts_ms": 1687877130000,
+   "ts_iso": "2023-06-27T14:45:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia",
+   "starred": false
+  },
+  {
+   "id": 1095035,
+   "key_id": "C42FD131B266493E19398251AA35B103",
+   "ts_ms": 1687877132000,
+   "ts_iso": "2023-06-27T14:45:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sii",
+   "starred": false
+  },
+  {
+   "id": 1095036,
+   "key_id": "145A85950EFCE856F9B0B69A4BF8BF6A",
+   "ts_ms": 1687877165023,
+   "ts_iso": "2023-06-27T14:46:05.023000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A cuánto sería ?",
+   "starred": false
+  },
+  {
+   "id": 1095037,
+   "key_id": "D610BC9B797B2969A204A96D7A3E3C5B",
+   "ts_ms": 1687877171464,
+   "ts_iso": "2023-06-27T14:46:11.464000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es para ella",
+   "starred": false
+  },
+  {
+   "id": 1095038,
+   "key_id": "8539D4F604CAEAC965DF45A872F4E987",
+   "ts_ms": 1687877181968,
+   "ts_iso": "2023-06-27T14:46:21.968000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20230626-WA0012.jpg",
+    "size": 96826,
+    "duration_s": 0,
+    "sha256_b64": "WhqRNSy3zJJVcLQX8sjux5536qS4dJor6b5EDo1UUvk=",
+    "media_name": "5f263478-6d55-4795-9cc2-e758029416c2.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1095039,
+   "key_id": "DCDF0140131221D4684AF851503176F8",
+   "ts_ms": 1687877182028,
+   "ts_iso": "2023-06-27T14:46:22.028000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20230626-WA0010.jpg",
+    "size": 101226,
+    "duration_s": 0,
+    "sha256_b64": "5NdhpKuOCoOgziCfnQ7JyOWOFaiT4zM7z7zaZYwbSBI=",
+    "media_name": "764d62cb-df5e-4ea9-87f2-16d820d8d527.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1095040,
+   "key_id": "8B767F3339433C90743A64357A2AA6E9",
+   "ts_ms": 1687877181000,
+   "ts_iso": "2023-06-27T14:46:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Depende del tamaño",
+   "starred": false
+  },
+  {
+   "id": 1095042,
+   "key_id": "E98102F9195BC7E3264C25201E13AA46",
+   "ts_ms": 1687877200000,
+   "ts_iso": "2023-06-27T14:46:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "450",
+   "starred": false
+  },
+  {
+   "id": 1095043,
+   "key_id": "BD36C9C03963A3C9A755D3F911D5CDD5",
+   "ts_ms": 1687877220896,
+   "ts_iso": "2023-06-27T14:47:00.896000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok a que horario le puedo llevar?",
+   "starred": false
+  },
+  {
+   "id": 1095044,
+   "key_id": "CAA1A60FD5CC6897914B2E794664B1A7",
+   "ts_ms": 1687877232882,
+   "ts_iso": "2023-06-27T14:47:12.882000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Osea puedo llevarle hoy ?",
+   "starred": false
+  },
+  {
+   "id": 1095045,
+   "key_id": "B3EE16A74A46F85A39AB2A54F2E08A90",
+   "ts_ms": 1687877244000,
+   "ts_iso": "2023-06-27T14:47:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tendríamos que hacerle un Hemograma antes",
+   "starred": false
+  },
+  {
+   "id": 1095046,
+   "key_id": "A14785714E120E99BD84820BAF30C752",
+   "ts_ms": 1687877249000,
+   "ts_iso": "2023-06-27T14:47:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y con el resultado",
+   "starred": false
+  },
+  {
+   "id": 1095047,
+   "key_id": "7A6F66556BB95793A22622797E4CD8B6",
+   "ts_ms": 1687877262000,
+   "ts_iso": "2023-06-27T14:47:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Se agenda para la ciru",
+   "starred": false
+  },
+  {
+   "id": 1095048,
+   "key_id": "38ABC9E76A157C53BB9941F43B803B30",
+   "ts_ms": 1687877289000,
+   "ts_iso": "2023-06-27T14:48:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hoy le podemos hacer la extracción para hemograma",
+   "starred": false
+  },
+  {
+   "id": 1095049,
+   "key_id": "ECA0F4244645A8A8D617575154153976",
+   "ts_ms": 1687877311375,
+   "ts_iso": "2023-06-27T14:48:31.375000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Veo un fla con mi fam como hacemos",
+   "starred": false
+  },
+  {
+   "id": 1095050,
+   "key_id": "340A23269682B290BB7D197F3075B150",
+   "ts_ms": 1687877322000,
+   "ts_iso": "2023-06-27T14:48:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avisame nomas",
+   "starred": false
+  },
+  {
+   "id": 1095052,
+   "key_id": "05C6B8233E61664E3951122407D8889C",
+   "ts_ms": 1687877325000,
+   "ts_iso": "2023-06-27T14:48:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y coordinamos",
+   "starred": false
+  },
+  {
+   "id": 1095054,
+   "key_id": "FA8916EC73CF1965CFFF5A2C56DEC935",
+   "ts_ms": 1687877337000,
+   "ts_iso": "2023-06-27T14:48:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Porque estoy fuera ahora",
+   "starred": false
+  }
+ ]
+}

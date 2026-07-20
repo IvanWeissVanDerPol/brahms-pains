@@ -1,0 +1,35 @@
+{
+ "chat_id": 6930,
+ "slug": "_wa_chat_595972259553_6930",
+ "subject": null,
+ "jid_user": "595972259553",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972259553@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1321252,
+   "key_id": "515180110FABD5028B0B0CB946FA6444",
+   "ts_ms": 1720926627114,
+   "ts_iso": "2024-07-14T03:10:27.114000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola tienen depiladora láser?",
+   "starred": false
+  },
+  {
+   "id": 1417949,
+   "key_id": "C7FF03EBC013E10B72220E8979A6F142",
+   "ts_ms": 1736630926712,
+   "ts_iso": "2025-01-11T21:28:46.712000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola tienen hornos?",
+   "starred": false
+  }
+ ]
+}

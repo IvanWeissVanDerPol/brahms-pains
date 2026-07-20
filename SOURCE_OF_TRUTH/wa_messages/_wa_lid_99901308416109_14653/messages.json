@@ -1,0 +1,24 @@
+{
+ "chat_id": 14653,
+ "slug": "_wa_lid_99901308416109_14653",
+ "subject": null,
+ "jid_user": "99901308416109",
+ "jid_server": "lid",
+ "jid_raw": "99901308416109@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1735148,
+   "key_id": "A59DB479B9F3CD8F36D4335E50931C62",
+   "ts_ms": 1774551760000,
+   "ts_iso": "2026-03-26T19:02:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en tu ubicación",
+   "starred": false
+  }
+ ]
+}

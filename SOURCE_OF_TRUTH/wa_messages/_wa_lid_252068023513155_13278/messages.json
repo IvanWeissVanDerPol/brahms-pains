@@ -1,0 +1,238 @@
+{
+ "chat_id": 13278,
+ "slug": "_wa_lid_252068023513155_13278",
+ "subject": null,
+ "jid_user": "252068023513155",
+ "jid_server": "lid",
+ "jid_raw": "252068023513155@lid",
+ "message_count": 18,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1674412,
+   "key_id": "3EB050B7290CC9FBF91E73",
+   "ts_ms": 1770070097000,
+   "ts_iso": "2026-02-02T22:08:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Wz7cHRiQNQ+9sa1woJZwve+77vdZYEjJ7h+raV7+ALc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1674413,
+   "key_id": "3EB024DC29257E43A313BF",
+   "ts_ms": 1770070097000,
+   "ts_iso": "2026-02-02T22:08:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "oz0RHIh5OP159jWdqxFZlpIIzlha3tf+ocJxeFuy2Yg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1674414,
+   "key_id": "3EB01E563B0DF0D665340C",
+   "ts_ms": 1770070097000,
+   "ts_iso": "2026-02-02T22:08:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "qMYkabaxGfrbKJNkllqX5tpqMtn7Dhzzw/cA+QbEnRE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1674423,
+   "key_id": "3EB0C960E4584DC9B0068B",
+   "ts_ms": 1770071063000,
+   "ts_iso": "2026-02-02T22:24:23+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "It looks like your agentic workflow in **OpenCode** is hitting a wall with the Gemini API. Based on the screenshots, you're running into a classic **Rate Limit (429 Error)**.\n\nSpecifically, you are being throttled on the **Free Tier** for `gemini-3-flash`.\n\n### Breakdown of the Errors\n\n* **Quota Limit:** The first image shows you’ve hit the `generativelanguage.googleapis.com/generate_content_free_tier_requests` limit. It explicitly mentions a limit of **20 requests**, which is extremely low for an automated coding agent.\n* **Cooldown:** The system is asking you to back off for about **36 seconds**.\n* **The \"Too Hot\" Message:** Your CLI (OpenCode) is catching this error and displaying \"gemini is way too hot right now,\" which is just a cheeky way of saying the API is overloaded or you've been rate-limited.\n\n---\n\n### Why this is happening\n\nEven though you have a high-tier personal Google AI Ultra plan, the **Gemini API (Google AI Studio/Cloud Vertex AI)** operates on a separate billing and quota system from your consumer Gemini subscription.\n\nWhen using external tools like OpenCode or Claude Code with Gemini models, they typically use an **API Key**. If that key is associated with a project in the \"Free of charge\" tier, you get hit with these strict RPM (Requests Per Minute) limits.\n\n### How to Fix It\n\n1. **Enable Billing in AI Studio:** Go to [Google AI Studio](https://aistudio.google.com/) and check your plan. To get past the 20-request limit, you'll need to \"Pay-as-you-go.\" This moves you to the Pay Tier, which significantly increases your RPM and RPD (Requests Per Day) limits.\n2. **Check your Orchestrator (LiteLLM/OpenRouter):** Since you use LiteLLM and OpenRouter, ensure your environment variables are pointing to a paid key. If you are routing through OpenRouter, make sure your account there has credits, as they handle the rate-limiting on their end.\n3. **Adjust Agent Concurrency:** If you're running multiple agentic loops (e.g., a \"researcher\" and a \"coder\" agent simultaneously), they are likely exhausting those 20 requests in seconds. Try setting a slight delay between requests in your OpenCode config.\n\nWould you like me to help you configure a back-off strategy in your environment variables or check if there's a specific LiteLLM setting to throttle these requests?",
+   "starred": false
+  },
+  {
+   "id": 1674424,
+   "key_id": "3EB00E2E6CEA142715BED0",
+   "ts_ms": 1770071166000,
+   "ts_iso": "2026-02-02T22:26:06+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "apreta /models",
+   "starred": false
+  },
+  {
+   "id": 1674425,
+   "key_id": "3EB0BC4645A9B4A41B325E",
+   "ts_ms": 1770071175000,
+   "ts_iso": "2026-02-02T22:26:15+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y elegi 2.5 pro",
+   "starred": false
+  },
+  {
+   "id": 1674460,
+   "key_id": "3EB07F18F4CF2C203E652E",
+   "ts_ms": 1770072158000,
+   "ts_iso": "2026-02-02T22:42:38+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te anda?",
+   "starred": false
+  },
+  {
+   "id": 1674468,
+   "key_id": "ACF49AEB36765ED4B2C8110C86AA17F9",
+   "ts_ms": 1770072339000,
+   "ts_iso": "2026-02-02T22:45:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Probé, mismo error, por lo que leo se acabaron los prompt's disponibles en mi plan",
+   "starred": false
+  },
+  {
+   "id": 1674470,
+   "key_id": "ACDDE60448D93D501CB78EBAD54B8126",
+   "ts_ms": 1770072351000,
+   "ts_iso": "2026-02-02T22:45:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Al instalar el oh my open code",
+   "starred": false
+  },
+  {
+   "id": 1674471,
+   "key_id": "3EB07026BC7F339D73F792",
+   "ts_ms": 1770072406000,
+   "ts_iso": "2026-02-02T22:46:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://opencode.ai/auth",
+   "starred": false
+  },
+  {
+   "id": 1674475,
+   "key_id": "3EB01D53A8927150076FD7",
+   "ts_ms": 1770072550000,
+   "ts_iso": "2026-02-02T22:49:10+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te sirve ?",
+   "starred": false
+  },
+  {
+   "id": 1674476,
+   "key_id": "3EB03B6B33F304C76FB74F",
+   "ts_ms": 1770072567000,
+   "ts_iso": "2026-02-02T22:49:27+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "o muy complex la explicacion de setup?",
+   "starred": false
+  },
+  {
+   "id": 1674479,
+   "key_id": "ACCEAD36519CCD8B312AA50EACFCBBBE",
+   "ts_ms": 1770072656000,
+   "ts_iso": "2026-02-02T22:50:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es raro porque en todos me sale lo mismo, voy a ver varios tutoriales",
+   "starred": false
+  },
+  {
+   "id": 1674480,
+   "key_id": "ACC4ED8EF7E91F87F921DB84ACC733AB",
+   "ts_ms": 1770072663000,
+   "ts_iso": "2026-02-02T22:51:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Igual gracias profe",
+   "starred": false
+  },
+  {
+   "id": 1674485,
+   "key_id": "3EB04C02EFC564B981BBE6",
+   "ts_ms": 1770072693000,
+   "ts_iso": "2026-02-02T22:51:33+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "❤️",
+   "starred": false
+  },
+  {
+   "id": 1674486,
+   "key_id": "3EB07A8F2C9C878C0D5A18",
+   "ts_ms": 1770072704000,
+   "ts_iso": "2026-02-02T22:51:44+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "tira tu error en gemini",
+   "starred": false
+  },
+  {
+   "id": 1674487,
+   "key_id": "3EB0B1CDEF6F4226DF5DBF",
+   "ts_ms": 1770072720000,
+   "ts_iso": "2026-02-02T22:52:00+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "usa IA para todo\ntenes tutoriales detallados a tu pc",
+   "starred": false
+  },
+  {
+   "id": 1674488,
+   "key_id": "ACEAA4E42D9B462E54CBFA1B52D5AF2A",
+   "ts_ms": 1770072733000,
+   "ts_iso": "2026-02-02T22:52:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfect",
+   "starred": false
+  }
+ ]
+}

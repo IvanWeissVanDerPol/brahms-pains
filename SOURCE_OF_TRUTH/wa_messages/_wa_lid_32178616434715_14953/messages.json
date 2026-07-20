@@ -1,0 +1,77 @@
+{
+ "chat_id": 14953,
+ "slug": "_wa_lid_32178616434715_14953",
+ "subject": null,
+ "jid_user": "32178616434715",
+ "jid_server": "lid",
+ "jid_raw": "32178616434715@lid",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1752810,
+   "key_id": "ACBF6CFCCA6BDF92017F962694509B00",
+   "ts_ms": 1776342402416,
+   "ts_iso": "2026-04-16T12:26:42.416000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260416-WA0006.jpg",
+    "size": 56320,
+    "duration_s": 0,
+    "sha256_b64": "WCOoJAkXayEY81JmhcTLorlSWyFdHUHaEC0LxXot/hk=",
+    "media_name": "53546eef-de55-448a-a009-4bf4fe4bbef8.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1752811,
+   "key_id": "A56EE2E8A1E82057B8085864AD6B59AE",
+   "ts_ms": 1776342408000,
+   "ts_iso": "2026-04-16T12:26:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Este número estará habilitado sólo para el envío de informes médicos. Para agendar o consultas de citas, sólo será por llamada normal.",
+   "starred": false
+  },
+  {
+   "id": 1781905,
+   "key_id": "ACA88A4DF85A0BC6118EA27560F97CA3",
+   "ts_ms": 1779477290160,
+   "ts_iso": "2026-05-22T19:14:50.160000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1781907,
+   "key_id": "AC30EF0193DE2E42D5D47D1848001A7E",
+   "ts_ms": 1779477410666,
+   "ts_iso": "2026-05-22T19:16:50.666000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Será que puedo agendar una cita para la semana que viene ?",
+   "starred": false
+  },
+  {
+   "id": 1785451,
+   "key_id": "AC0E268A1A3F08C2EFDFCC12AAB9EC58",
+   "ts_ms": 1779710588549,
+   "ts_iso": "2026-05-25T12:03:08.549000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  }
+ ]
+}

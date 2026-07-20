@@ -1,0 +1,273 @@
+{
+ "chat_id": 3066,
+ "slug": "_wa_chat_13162108040_3066",
+ "subject": null,
+ "jid_user": "13162108040",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "13162108040@s.whatsapp.net",
+ "message_count": 22,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1069993,
+   "key_id": "3A9671270F523FF0872D",
+   "ts_ms": 1683841389000,
+   "ts_iso": "2023-05-11T21:43:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Come to Alvaro’s flat and take your bed back pls",
+   "starred": false
+  },
+  {
+   "id": 1069994,
+   "key_id": "604D7B1C4CE49AB48DBF89A19075F6B4",
+   "ts_ms": 1683841495305,
+   "ts_iso": "2023-05-11T21:44:55.305000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Omw",
+   "starred": false
+  },
+  {
+   "id": 1070148,
+   "key_id": "3A010908E434C0F61065",
+   "ts_ms": 1683859911000,
+   "ts_iso": "2023-05-12T02:51:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jonatan is going to pick you up from the Flats I think",
+   "starred": false
+  },
+  {
+   "id": 1070149,
+   "key_id": "3AFC9F825DF588706D28",
+   "ts_ms": 1683859915000,
+   "ts_iso": "2023-05-12T02:51:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Because he is currently at WSU",
+   "starred": false
+  },
+  {
+   "id": 1070151,
+   "key_id": "8AF9CB1F45A7035EBFD4476134FC9C60",
+   "ts_ms": 1683859932535,
+   "ts_iso": "2023-05-12T02:52:12.535000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ah okis",
+   "starred": false
+  },
+  {
+   "id": 1070152,
+   "key_id": "74615B6ECF3E584367007EA0E10C8369",
+   "ts_ms": 1683859934743,
+   "ts_iso": "2023-05-12T02:52:14.743000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Im in the lobby",
+   "starred": false
+  },
+  {
+   "id": 1070153,
+   "key_id": "7FF06D72DE78A65CAB80676ED20330ED",
+   "ts_ms": 1683859935441,
+   "ts_iso": "2023-05-12T02:52:15.441000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Usu",
+   "starred": false
+  },
+  {
+   "id": 1070154,
+   "key_id": "9A4D2BE4C4AE37C090E7F946539E48E8",
+   "ts_ms": 1683859936814,
+   "ts_iso": "2023-05-12T02:52:16.814000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwu",
+   "starred": false
+  },
+  {
+   "id": 1070155,
+   "key_id": "3A7DA38E7EC3D8F812DA",
+   "ts_ms": 1683859960000,
+   "ts_iso": "2023-05-12T02:52:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok I’ll let him know",
+   "starred": false
+  },
+  {
+   "id": 1070156,
+   "key_id": "3ADE727438DB7CF893D6",
+   "ts_ms": 1683860169000,
+   "ts_iso": "2023-05-12T02:56:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202319/PTT-20230511-WA0029.opus",
+    "size": 50635,
+    "duration_s": 21,
+    "sha256_b64": "ZCPXhST8vwDip2juhLSOZmYOpIGxigs8cdqZwAp23W4=",
+    "media_name": "PTT-20230511-WA0029.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1070157,
+   "key_id": "3A5F3F622213B98EAA40",
+   "ts_ms": 1683860176000,
+   "ts_iso": "2023-05-12T02:56:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202319/PTT-20230511-WA0030.opus",
+    "size": 9698,
+    "duration_s": 4,
+    "sha256_b64": "0WAS5biAkxJnDSf9bAraYjwuCaDykVIOxoOK5uNcCoA=",
+    "media_name": "PTT-20230511-WA0030.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1070162,
+   "key_id": "609CB984CD3233B7A46D84B7789BBA7F",
+   "ts_ms": 1683860201398,
+   "ts_iso": "2023-05-12T02:56:41.398000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya hice check out",
+   "starred": false
+  },
+  {
+   "id": 1070163,
+   "key_id": "AF57CE96B62B6E5F81F53792E17E9F78",
+   "ts_ms": 1683860206905,
+   "ts_iso": "2023-05-12T02:56:46.905000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis le digo",
+   "starred": false
+  },
+  {
+   "id": 1072794,
+   "key_id": "C744B0E057C8E27DEB7CBD2511D3C7C2",
+   "ts_ms": 1684300250388,
+   "ts_iso": "2023-05-17T05:10:50.388000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mira TikTok \nSeries \nRecomendado cosas animadas y con muchos colores \n\nO si querés re trioear \nMira algo sci-fi \n\n\nPelis como guardianes de la galaxia tienen mucho colores. Y es lindo + música buena\n\n\nMaybe audio libro",
+   "starred": false
+  },
+  {
+   "id": 1072813,
+   "key_id": "349DB28D93A54A0847BD659C6A1133F3",
+   "ts_ms": 1684325878349,
+   "ts_iso": "2023-05-17T12:17:58.349000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal están?",
+   "starred": false
+  },
+  {
+   "id": 1072886,
+   "key_id": "3A184D410F5C89D1E12B",
+   "ts_ms": 1684339211000,
+   "ts_iso": "2023-05-17T16:00:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Todavía está vivo",
+   "starred": false
+  },
+  {
+   "id": 1072887,
+   "key_id": "3A6204B2439FC1B74171",
+   "ts_ms": 1684339213000,
+   "ts_iso": "2023-05-17T16:00:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I think",
+   "starred": false
+  },
+  {
+   "id": 1072899,
+   "key_id": "ECA311CC37F5C4ECC6BAAC8B139FBF69",
+   "ts_ms": 1684340800912,
+   "ts_iso": "2023-05-17T16:26:40.912000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Xdxd",
+   "starred": false
+  },
+  {
+   "id": 1072900,
+   "key_id": "DACAA49566A88A037C91676314974107",
+   "ts_ms": 1684340803549,
+   "ts_iso": "2023-05-17T16:26:43.549000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "That's good",
+   "starred": false
+  },
+  {
+   "id": 1072901,
+   "key_id": "6928A48D8D2C2452F5FFEA309CCF3AA7",
+   "ts_ms": 1684340808288,
+   "ts_iso": "2023-05-17T16:26:48.288000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sigue mimiendo?",
+   "starred": false
+  },
+  {
+   "id": 1072910,
+   "key_id": "3AE4A52B4ABC7EDC4C09",
+   "ts_ms": 1684341354000,
+   "ts_iso": "2023-05-17T16:35:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nah, yo intenté, pero no lo quería",
+   "starred": false
+  },
+  {
+   "id": 1072912,
+   "key_id": "76C295ABA4D7C8F9490110580A32AAE6",
+   "ts_ms": 1684341371581,
+   "ts_iso": "2023-05-17T16:36:11.581000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajajaja",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "chat_id": 9547,
+ "slug": "_wa_chat_595982945349_9547",
+ "subject": null,
+ "jid_user": "595982945349",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982945349@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1399359,
+   "key_id": "23220FE0A04458C0A8EFC8874142A9F8",
+   "ts_ms": 1733310309000,
+   "ts_iso": "2024-12-04T11:05:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Iván cómo estás! Buen día 🙌",
+   "starred": false
+  },
+  {
+   "id": 1399360,
+   "key_id": "E163A976DE5949F863879438D7A144D4",
+   "ts_ms": 1733310334000,
+   "ts_iso": "2024-12-04T11:05:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lucas González soy, me pasaste tu contacto por Messenger. Por lo de las frutas y verduras 🫐🍓🥦🥕🍒🍈🍅",
+   "starred": false
+  },
+  {
+   "id": 1399393,
+   "key_id": "FF01AA4A4CF9414F8DBCB155594968AE",
+   "ts_ms": 1733315599661,
+   "ts_iso": "2024-12-04T12:33:19.661000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola si\n\nMe podes pasar tus precios",
+   "starred": false
+  },
+  {
+   "id": 1399395,
+   "key_id": "D2F6D209D3A0C34067CB40900570EC86",
+   "ts_ms": 1733315615079,
+   "ts_iso": "2024-12-04T12:33:35.079000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y cuanto es delivery?\n\n\nAcá vivo",
+   "starred": false
+  },
+  {
+   "id": 1399472,
+   "key_id": "0CA6E2ED458BA542F9A926963031D8B3",
+   "ts_ms": 1733321470000,
+   "ts_iso": "2024-12-04T14:11:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "𝗣𝗥𝗘𝗖𝗜𝗢 𝗩𝗘𝗥𝗗𝗨𝗥𝗔𝗦 🍅🥕🍠🥬\n\n✓ Tomate Perita Primera: 8.000 Kg 🍅\n✓ Tomate Perita Económico: 6.000 Kg 🍅\n✓ Tomate Liza: 18.000 Kg 🍅\n✓ Locote Verde: 8.000 kg 🫑\n✓ Locote Rojo Brasil: 28.000 Kg 🫑\n✓ Locote Amarillo Brasil: 28.000 Kg 🫑\n✓ Zanahoria: 8.000 kg 🥕\n✓ Cebolla Blanca Grande: 8.000 kg 🧅\n✓ Cebollita Blanca: 6.000 Kg 🧅\n✓ Cebolla Morada: 18.000 kg 🧅\n✓ Papa Negra: 10.000 Kg 🥔\n✓ Ajo Grande: 4.000 C/u 🧄\n✓ Ajo Mediano 3.000 C/u 🧄\n✓ Pepino: 8.000 kg 🥒\n✓ Zapallo Nacional Grande 25.000 C/u \n✓ Zapallo Nacional Mediano: 20.000 C/u\n✓ Zapallo Brasil: 9.000 Kg\n✓ Repollo Blanco: 8.000 Kg \n✓ Repollo Morado: 16.000 Kg\n✓ Jengibre: 25.000 Kg 🫚\n✓ Remolacha: 13.000 kg\n✓ Cúrcuma Por Paquete: 13.000 C/u\n✓ Mandioca: 3.500 Kg\n✓ Zucchini: 9.000 Kg\n✓ Berenjena: 9.000 Kg 🍆",
+   "starred": false
+  },
+  {
+   "id": 1399473,
+   "key_id": "C108C50E99EBA129F3E5AD6DD90087CC",
+   "ts_ms": 1733321470000,
+   "ts_iso": "2024-12-04T14:11:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "𝗣𝗥𝗘𝗖𝗜𝗢 𝗙𝗥𝗨𝗧𝗔𝗦 🥭🍇🥝🫐\n\n✓ Manzana Roja Grande: 4.000 C/u 🍎\n✓ Manzana Roja Mediana: 3.500 C/u 🍎\n✓ Manzana Verde Grande: 4.000 C/u 🍏\n✓ Manzana Verde Chica: 3.000 C/u 🍏\n✓ Pera Grande: 3.500 C/u 🍐\n✓ Pera Chica: 3.000 C/u 🍐\n✓ Banana Karapé Grande: 18.000 Dc 🍌\n✓ Banana Karapé Mediana: 13.000 Dc 🍌\n✓ Banana de Oro: 12.000 Dc 🍌\n✓ Mburucuyá: 34.000 Kg\n✓ Ciruela española: 48.000 Kg\n✓ Kiwi Por Paquete De 7/10u : 28.000 C/u 🥝\n✓ Mamón Brasil Grande: 34.000 C/u\n✓ Mamón Brasil Mediano: 29.000 C/u \n✓ Melón Brasil Amarillo: 15.000 C/u 🍈\n✓ Uva Verde Brasil: 38.000 Kg 🍇\n✓ Uva Negra Brasil: 38.000 Kg 🍇\n✓ Uva Sin Semilla Paquete 1/2kg: 30.000 C/u 🍇\n✓ Limón Tahití: 18.000 Dc 🍋\n✓ Limón Común: 15.000 Dc 🍋\n✓ Arándano Por Paquete: 25.000 C/u 🫐\n✓ Piña Nacional Grande: 12.000 C/u 🍍\n✓ Piña Nacional Mediano: 10.000 C/u 🍍\n✓ Aguacate Brasil: 49.000 Kg 🥑\n✓ Naranja Grande: 25.000 Dc 🍊\n✓ Naranja Mediana: 20.000 Dc 🍊\n✓ Mandarina Frutika Grande: 3.000 C/ 🍊\n✓ Mandarina Frutika Mediana: 2.500 C/u 🍊\n✓ Melón Japones Grande: 15.000 C/u 🍈\n✓ Melón Japonés Mediano: 10.000 C/u 🍈\n✓ Mango Brasil: 25.000 Kg 🥭\n✓ Frutilla Brasilera: 75.000 Kg 🍓\n✓ Cereza Importada: 90.000 Kg 🍒",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "chat_id": 15528,
+ "slug": "_wa_lid_181131756462202_15528",
+ "subject": null,
+ "jid_user": "181131756462202",
+ "jid_server": "lid",
+ "jid_raw": "181131756462202@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1788835,
+   "key_id": "ACCD710B2907E196AC7F49EBA9E763B1",
+   "ts_ms": 1780208594521,
+   "ts_iso": "2026-05-31T06:23:14.521000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis \nSoy Iván el autista de IA",
+   "starred": false
+  },
+  {
+   "id": 1788836,
+   "key_id": "AC21EBC0463FA1991B9B92BBAEE1AA68",
+   "ts_ms": 1780208597634,
+   "ts_iso": "2026-05-31T06:23:17.634000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ":)",
+   "starred": false
+  }
+ ]
+}

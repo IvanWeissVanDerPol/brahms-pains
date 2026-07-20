@@ -1,0 +1,68 @@
+{
+ "chat_id": 3227,
+ "slug": "_wa_chat_595976900782_3227",
+ "subject": null,
+ "jid_user": "595976900782",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976900782@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1086337,
+   "key_id": "605E27624C2469906D5FBEFD283971D2",
+   "ts_ms": 1686675630383,
+   "ts_iso": "2023-06-13T17:00:30.383000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas por que medio haríamos la entrevista?",
+   "starred": false
+  },
+  {
+   "id": 1086339,
+   "key_id": "659DF19337D985BAA560949E093436AC",
+   "ts_ms": 1686676028000,
+   "ts_iso": "2023-06-13T17:07:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola!\n\nGracias por tu interés en sumarte al gran equipo de Plub! 🚀🛒🛍📲\n\nSabemos que te estás esforzando en encontrar esa gran oportunidad laboral y que te hayas postulado es un gran paso para lograrlo.\n\nPor el momento, podés tener más información sobre Plub y su Cultura en este video: https://youtu.be/emhHQg1EKtE , además de conocer a alguno de los Plubers que hacen de este sueño una realidad.\n\nVamos a guardar tu CV en nuestra base de datos y te contactamos en caso de tener una vacante acorde a tu perfil 🙌😁",
+   "starred": false
+  },
+  {
+   "id": 1086340,
+   "key_id": "2F4B43A8C0F387F1875BCB729DEAFA17",
+   "ts_ms": 1686676080811,
+   "ts_iso": "2023-06-13T17:08:00.811000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Emm \nHabíamos hablado por llamada el viernes\n\nTendrían mi cv en LinkedIn pero les puedo pasar aquí otravez no problem",
+   "starred": false
+  },
+  {
+   "id": 1086353,
+   "key_id": "3EB0A03798ED235D273589",
+   "ts_ms": 1686679314000,
+   "ts_iso": "2023-06-13T18:01:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes, podrias indicarme tu nombre por favor",
+   "starred": false
+  },
+  {
+   "id": 1086354,
+   "key_id": "A104D5551D1C69BA8196E2E67B7F5C86",
+   "ts_ms": 1686679333922,
+   "ts_iso": "2023-06-13T18:02:13.922000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ivan Weiss van Der pol",
+   "starred": false
+  }
+ ]
+}

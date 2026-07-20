@@ -1,0 +1,57 @@
+{
+ "chat_id": 6562,
+ "slug": "_wa_chat_62882162936422_6562",
+ "subject": null,
+ "jid_user": "62882162936422",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "62882162936422@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1277208,
+   "key_id": "3A2BF0FF07748549161B",
+   "ts_ms": 1713791338000,
+   "ts_iso": "2024-04-22T13:08:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola !! Espero que estes teniendo un gran dia",
+   "starred": false
+  },
+  {
+   "id": 1277213,
+   "key_id": "48FF15AD437BE40C6089B56CBB5E8138",
+   "ts_ms": 1713791623788,
+   "ts_iso": "2024-04-22T13:13:43.788000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1277214,
+   "key_id": "3A7E9C8B01D34E219296",
+   "ts_ms": 1713792510000,
+   "ts_iso": "2024-04-22T13:28:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por tu respuesta ❤️❤️❤️",
+   "starred": false
+  },
+  {
+   "id": 1277231,
+   "key_id": "B3D146D56F083AF7106A25D8BA74B600",
+   "ts_ms": 1713794120352,
+   "ts_iso": "2024-04-22T13:55:20.352000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quien sos?",
+   "starred": false
+  }
+ ]
+}

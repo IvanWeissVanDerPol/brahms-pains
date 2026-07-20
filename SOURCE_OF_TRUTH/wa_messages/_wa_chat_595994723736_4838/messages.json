@@ -1,0 +1,66 @@
+{
+ "chat_id": 4838,
+ "slug": "_wa_chat_595994723736_4838",
+ "subject": null,
+ "jid_user": "595994723736",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994723736@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1719552,
+   "key_id": "ACBAE29CA7D2A4B9F60E8C26CE4DDB23",
+   "ts_ms": 1773533978640,
+   "ts_iso": "2026-03-15T00:19:38.640000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260314-WA0018.jpg",
+    "size": 33011,
+    "duration_s": 0,
+    "sha256_b64": "KYud6je2zu8Up+DrV/B9FXbGMkmsdeSA984D4HKy6DA=",
+    "media_name": "365ce62a-55a2-429b-b644-025ea508b6e8.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1719553,
+   "key_id": "AC3BF4EE26DFAF8389055DC16EE4A53C",
+   "ts_ms": 1773533986831,
+   "ts_iso": "2026-03-15T00:19:46.831000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis la pag no carga uwu :(",
+   "starred": false
+  },
+  {
+   "id": 1719554,
+   "key_id": "ACCBEF991167009B33528EC1A8FD1F59",
+   "ts_ms": 1773533994304,
+   "ts_iso": "2026-03-15T00:19:54.304000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero mood suena interesante",
+   "starred": false
+  },
+  {
+   "id": 1719583,
+   "key_id": "ACF66F727B7A86657B7707E71A838ECB",
+   "ts_ms": 1773534575000,
+   "ts_iso": "2026-03-15T00:29:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "weXare.com",
+   "starred": false
+  }
+ ]
+}

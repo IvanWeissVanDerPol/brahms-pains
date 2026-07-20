@@ -1,0 +1,46 @@
+{
+ "chat_id": 11287,
+ "slug": "_wa_chat_595982149267_11287",
+ "subject": null,
+ "jid_user": "595982149267",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982149267@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1544967,
+   "key_id": "D19BC514A7D8E8769D2A02DFEB6433A2",
+   "ts_ms": 1754278180525,
+   "ts_iso": "2025-08-04T03:29:40.525000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1544968,
+   "key_id": "C335F06A04384EF5752F34FCD6FE8819",
+   "ts_ms": 1754278184216,
+   "ts_iso": "2025-08-04T03:29:44.216000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por dónde andan?",
+   "starred": false
+  },
+  {
+   "id": 1544969,
+   "key_id": "D0319B27A1092DA89B66272400709703",
+   "ts_ms": 1754278190546,
+   "ts_iso": "2025-08-04T03:29:50.546000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy solo de sanlo hacia la UNA",
+   "starred": false
+  }
+ ]
+}

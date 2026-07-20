@@ -1,0 +1,57 @@
+{
+ "chat_id": 9594,
+ "slug": "_wa_chat_595985808318_9594",
+ "subject": null,
+ "jid_user": "595985808318",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985808318@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1402601,
+   "key_id": "B9150715617A36015498202914BA6A65",
+   "ts_ms": 1733948508000,
+   "ts_iso": "2024-12-11T20:21:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas que tal m",
+   "starred": false
+  },
+  {
+   "id": 1402602,
+   "key_id": "06548FDF37A6E52AED087999655A38B2",
+   "ts_ms": 1733948510000,
+   "ts_iso": "2024-12-11T20:21:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "????",
+   "starred": false
+  },
+  {
+   "id": 1402603,
+   "key_id": "08E9ACE5FC28A29DA39FBF3FAE490E59",
+   "ts_ms": 1733948520000,
+   "ts_iso": "2024-12-11T20:22:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Haces impresión 3D",
+   "starred": false
+  },
+  {
+   "id": 1402604,
+   "key_id": "3F28CD744A28BCCA8716",
+   "ts_ms": 1733948544000,
+   "ts_iso": "2024-12-11T20:22:24+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no sorry",
+   "starred": false
+  }
+ ]
+}

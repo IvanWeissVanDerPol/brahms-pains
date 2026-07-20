@@ -1,0 +1,44 @@
+{
+ "chat_id": 6776,
+ "slug": "_wa_chat_595983236333_6776",
+ "subject": null,
+ "jid_user": "595983236333",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983236333@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1304893,
+   "key_id": "9BD56CBC88B0F8E92C4C803AD5B37323",
+   "ts_ms": 1718769871000,
+   "ts_iso": "2024-06-19T04:04:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202425/PTT-20240619-WA0000.opus",
+    "size": 3251,
+    "duration_s": 1,
+    "sha256_b64": "9USy7ICvqiVHF52YlXMoxJkvqIEOr+xfdAHkSNsl5JA=",
+    "media_name": "PTT-20240619-WA0000.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1304894,
+   "key_id": "67D32BD8A5C0A651AFC1409A240DCD93",
+   "ts_ms": 1718769892026,
+   "ts_iso": "2024-06-19T04:04:52.026000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Salgo",
+   "starred": false
+  }
+ ]
+}

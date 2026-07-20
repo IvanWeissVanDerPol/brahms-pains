@@ -1,0 +1,79 @@
+{
+ "chat_id": 11920,
+ "slug": "_wa_chat_5491161048979_11920",
+ "subject": null,
+ "jid_user": "5491161048979",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "5491161048979@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1580483,
+   "key_id": "2A5A968F195D644CD92C",
+   "ts_ms": 1759511839000,
+   "ts_iso": "2025-10-03T17:17:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan, soy el Dr. Demián Glujovsky",
+   "starred": false
+  },
+  {
+   "id": 1580484,
+   "key_id": "2A9A003160AFC3D5A346",
+   "ts_ms": 1759511862000,
+   "ts_iso": "2025-10-03T17:17:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te escribo porque me contactaste por Placid Way hace un tiempo y veo que el mensaje nunca lo respondi",
+   "starred": false
+  },
+  {
+   "id": 1580485,
+   "key_id": "2A0229BC55B4B7677BA8",
+   "ts_ms": 1759511867000,
+   "ts_iso": "2025-10-03T17:17:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy de Fertility Argentina",
+   "starred": false
+  },
+  {
+   "id": 1580572,
+   "key_id": "AC4F96B0899FCA5CB1311F78F75E1062",
+   "ts_ms": 1759528331346,
+   "ts_iso": "2025-10-03T21:52:11.346000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nSorry no recuerdo haberte escrito",
+   "starred": false
+  },
+  {
+   "id": 1580576,
+   "key_id": "2AEBBA1F4455377D1ACC",
+   "ts_ms": 1759528908000,
+   "ts_iso": "2025-10-03T22:01:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No hay problema",
+   "starred": false
+  },
+  {
+   "id": 1580577,
+   "key_id": "2A1895E1024E7A5A3ADB",
+   "ts_ms": 1759528910000,
+   "ts_iso": "2025-10-03T22:01:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Saludos",
+   "starred": false
+  }
+ ]
+}

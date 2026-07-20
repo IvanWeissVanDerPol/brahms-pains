@@ -1,0 +1,269 @@
+{
+ "chat_id": 1850,
+ "slug": "_wa_chat_31640912250_1850",
+ "subject": null,
+ "jid_user": "31640912250",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "31640912250@s.whatsapp.net",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1060545,
+   "key_id": "F0755C89A96EAA70E1EDA254C2B0DD60",
+   "ts_ms": 1681930824000,
+   "ts_iso": "2023-04-19T19:00:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Oma liet mij het youtubefilmpje zien van de Botanic Buddy. Knap gedaan! Ik hoor dat je het heel goed naar je zin hebt in Amerika. Geniet nog van je tijd daar en succes met je project.",
+   "starred": false
+  },
+  {
+   "id": 1060999,
+   "key_id": "067ADA2B2A38584B5FDA5DDB97E00370",
+   "ts_ms": 1682045766732,
+   "ts_iso": "2023-04-21T02:56:06.732000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "dank je wel tante ester Het is erg leuk hier in Wichita. morgen om 12.00 uur is de presentatie van het project",
+   "starred": false
+  },
+  {
+   "id": 1061045,
+   "key_id": "081C5BBD2652D8A3C7640AF016B7B28D",
+   "ts_ms": 1682062077000,
+   "ts_iso": "2023-04-21T07:27:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Heel veel succes bij de presentatie!",
+   "starred": false
+  },
+  {
+   "id": 1273740,
+   "key_id": "68E22123CC575E6D8669BD3DBB4F3B4E",
+   "ts_ms": 1713181509000,
+   "ts_iso": "2024-04-15T11:45:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Kun jij mij nog wat leuke foto's van jezelf sturen voor de verjaardagskalender van opa?",
+   "starred": false
+  },
+  {
+   "id": 1273750,
+   "key_id": "942A4E171608B73F14",
+   "ts_ms": 1713183746000,
+   "ts_iso": "2024-04-15T12:22:26+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hallo tante Ester\nJa geen probleem\nIk weet niet zeker hoeveel je er al hebt\nAls het goed is, stuur ik je een Google-fotoalbum met foto's die ik heb gemaakt in Los Angeles en San Francisco",
+   "starred": false
+  },
+  {
+   "id": 1273751,
+   "key_id": "54710A0DE8C9595E8CA2603964024535",
+   "ts_ms": 1713183747933,
+   "ts_iso": "2024-04-15T12:22:27.933000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://photos.app.goo.gl/yJkxtHZCVtWrHinPA",
+   "starred": false
+  },
+  {
+   "id": 1273767,
+   "key_id": "3EB094AA58DB7A6F3EE0B3",
+   "ts_ms": 1713185596000,
+   "ts_iso": "2024-04-15T12:53:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "bedankt!",
+   "starred": false
+  },
+  {
+   "id": 1507914,
+   "key_id": "FF1814D1323008C4AECC790A9D456147",
+   "ts_ms": 1750225487000,
+   "ts_iso": "2025-06-18T05:44:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Een dag te laat, maar toch nog van harte gefeliciteerd met je verjaardag!🎉🎉🎉",
+   "starred": false
+  },
+  {
+   "id": 1507915,
+   "key_id": "C645417B32A1C31DDD1E1FB1FFA16A1F",
+   "ts_ms": 1750225498000,
+   "ts_iso": "2025-06-18T05:44:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ben je nog in Canada?",
+   "starred": false
+  },
+  {
+   "id": 1507917,
+   "key_id": "25D9684557AB4CF4B7FA1D3256D2BDC7",
+   "ts_ms": 1750226699730,
+   "ts_iso": "2025-06-18T06:04:59.730000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202525/PTT-20250617-WA0067.opus",
+    "size": 0,
+    "duration_s": 47,
+    "sha256_b64": "2W0daAtUbhe6Sp8eboPpvq3AmjDBLFMW5d7cr9/apj0=",
+    "media_name": "91919a55cd4e4288a16ecf48504086cd.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1615651,
+   "key_id": "ACA6B34DC642C7D9EDDB9F45C7448328",
+   "ts_ms": 1763626714000,
+   "ts_iso": "2025-11-20T08:18:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Je wist niet wat te schrijven voor opa. Ik weet dat opa erg genoten heeft van de smartwatch, die jij gaf, want die gaf hem dagelijks complimentjes. Hoe vaak hij dat heeft gezegd.😃Opa ging ook echt wandelen om de 10.000 stappen te halen. Dus misschien is dit iets om over te schrijven. Opa was trots dat je al werkte en eigen inkomsten had.",
+   "starred": false
+  },
+  {
+   "id": 1615672,
+   "key_id": "ACC5974B7914C2A2CE71258FA36DF46E",
+   "ts_ms": 1763630675407,
+   "ts_iso": "2025-11-20T09:24:35.407000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202547/PTT-20251120-WA0019.opus",
+    "size": 0,
+    "duration_s": 38,
+    "sha256_b64": "S87NKN4kBOKWC+UFOHKlafLf4NTqVtxeUbcF/r5PWWY=",
+    "media_name": "88308e326eab4e94b44ee181aaef7a96.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1615751,
+   "key_id": "ACC85F962842B51EB334BA073D3D3990",
+   "ts_ms": 1763638589611,
+   "ts_iso": "2025-11-20T11:36:29.611000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De laatste keer dat opa en oma in Paraguay waren, kocht ik voor allebei een smartwatch en een telefoon van mijn eigen salaris.\nOpa was zó trots — niet alleen op het cadeau, maar vooral dat ik al werkte en mijn eigen geld verdiende.\nHij ging zelfs extra wandelen om die 10.000 stappen te halen.\nDat is iets wat ik me altijd zal blijven herinneren.”",
+   "starred": false
+  },
+  {
+   "id": 1616010,
+   "key_id": "ACC18011C8ED43B26006A1E7448E46AA",
+   "ts_ms": 1763671257000,
+   "ts_iso": "2025-11-20T20:40:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hier is de link voor de livestream:\nwww.afscheid-av.nl\n\nWachtwoord voor inloggen (allemaal kleine letters):\njan2025",
+   "starred": false
+  },
+  {
+   "id": 1629349,
+   "key_id": "AC33DFE151F943A3405D84C7B9E837CF",
+   "ts_ms": 1765698852000,
+   "ts_iso": "2025-12-14T07:54:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vraagje: voor mijn werk wil ik een opgenomen vergadering(1,5 uur) met AI laten bewerken tot notulen met een actielijst. Welk gratis  programma kan ik daar het beste voor gebruiken. Jullie pap zei dat jij daar veel over weet.",
+   "starred": false
+  },
+  {
+   "id": 1630049,
+   "key_id": "ACB01B20DDBC1B70182154495BED6BC7",
+   "ts_ms": 1765756255830,
+   "ts_iso": "2025-12-14T23:50:55.830000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202551/PTT-20251214-WA0043.opus",
+    "size": 0,
+    "duration_s": 239,
+    "sha256_b64": "3Aj9zJzVLunU+zny/luJg7b96asciUa68QXMO+hnwSM=",
+    "media_name": "554f8ba0b3bf446f90f74faabeaf51ec.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1630548,
+   "key_id": "AC2A13F57CAB40D4CA18D0D662BB302C",
+   "ts_ms": 1765788448000,
+   "ts_iso": "2025-12-15T08:47:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dankjewel voor je bericht en je aanbod om me te helpen als ik er niet uitkom!  😃Gelukkig is mijn Engels goed genoeg om je te begrijpen. Ik kan het vandaag niet proberen, want ik ga zo meteen werken. Ik laat je later deze week weten of ik er uitgekomen ben of toch nog hulp nodig heb.",
+   "starred": false
+  },
+  {
+   "id": 1630584,
+   "key_id": "AC00CF1820481624BEF9661C91805EC4",
+   "ts_ms": 1765800168637,
+   "ts_iso": "2025-12-15T12:02:48.637000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Je kunt het ook aan Kyrian vragen; misschien is het makkelijker te begrijpen hoe zij spreekt.",
+   "starred": false
+  },
+  {
+   "id": 1808491,
+   "key_id": "AC416B79BDCCD86E454122EF5B17B084",
+   "ts_ms": 1781685578000,
+   "ts_iso": "2026-06-17T08:39:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hieperdepiep hoera! Ivan van harte gefeliciteerd met je verjaardag! Fijne dag gewenst!🥳",
+   "starred": false
+  },
+  {
+   "id": 1808609,
+   "key_id": "AC19D025B8E37652231A9F0C800137B6",
+   "ts_ms": 1781700372522,
+   "ts_iso": "2026-06-17T12:46:12.522000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260617-WA0067.opus",
+    "size": 0,
+    "duration_s": 32,
+    "sha256_b64": "L9zABDvIx+/z4JNhGRA7XG8BMB1UlF6agQmfosnlKWU=",
+    "media_name": "9757f9fdb81f40e9b3d82d6ccae341d0.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

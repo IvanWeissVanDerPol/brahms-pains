@@ -1,0 +1,33 @@
+{
+ "chat_id": 14632,
+ "slug": "_wa_lid_40875237347543_14632",
+ "subject": null,
+ "jid_user": "40875237347543",
+ "jid_server": "lid",
+ "jid_raw": "40875237347543@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1734191,
+   "key_id": "ACAA4278E4B982E5FE7B537CD084C8B4",
+   "ts_ms": 1774464620330,
+   "ts_iso": "2026-03-25T18:50:20.330000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Uno lila así no tienen?",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260325-WA0070.jpg",
+    "size": 25381,
+    "duration_s": 0,
+    "sha256_b64": "gdO/zHMicBuozhBjxQWO1MHgH+iT8rb4Y0e4pqAF/xU=",
+    "media_name": "62b55cbc-8269-4429-bc0a-d24228674fee.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

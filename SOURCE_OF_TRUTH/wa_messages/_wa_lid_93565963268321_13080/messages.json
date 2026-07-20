@@ -1,0 +1,189 @@
+{
+ "chat_id": 13080,
+ "slug": "_wa_lid_93565963268321_13080",
+ "subject": null,
+ "jid_user": "93565963268321",
+ "jid_server": "lid",
+ "jid_raw": "93565963268321@lid",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1649233,
+   "key_id": "3EB0446181D4930BAF0662",
+   "ts_ms": 1767980433000,
+   "ts_iso": "2026-01-09T17:40:33+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1649234,
+   "key_id": "3EB0FA2B53310036110FC3",
+   "ts_ms": 1767980445000,
+   "ts_iso": "2026-01-09T17:40:45+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "⭐️Alcohol isopropílico 99,8%⭐️\n✔️250ml: 45.000 Gs\n✔️500ml: 70.000 Gs\n✔️1 litro: 120.000 Gs\n\n✔️Tienda: Reaper's PC de Ayelen Franco y Marcos Raúl Flores\n📌Fernando de la Mora zona Sur (Zona Fortis Abasto)",
+   "starred": false
+  },
+  {
+   "id": 1649235,
+   "key_id": "3EB0D86281767219DE659F",
+   "ts_ms": 1767980451000,
+   "ts_iso": "2026-01-09T17:40:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me interesa este producto",
+   "starred": false
+  },
+  {
+   "id": 1649236,
+   "key_id": "AC8D61BF026415489AC6C6DC1C9276D6",
+   "ts_ms": 1767980587000,
+   "ts_iso": "2026-01-09T17:43:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas!! Que tal?",
+   "starred": false
+  },
+  {
+   "id": 1649237,
+   "key_id": "ACA68B44B1446E4BF9D141A02C226A00",
+   "ts_ms": 1767980591000,
+   "ts_iso": "2026-01-09T17:43:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo disponible",
+   "starred": false
+  },
+  {
+   "id": 1649238,
+   "key_id": "AC7A1820FF9F2D975A2FED82C1FAE4D6",
+   "ts_ms": 1767980592000,
+   "ts_iso": "2026-01-09T17:43:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://maps.app.goo.gl/JM7TqTU3KscZ8bfL7",
+   "starred": false
+  },
+  {
+   "id": 1649239,
+   "key_id": "AC2292876AA52D450A16FE1126257E23",
+   "ts_ms": 1767980594000,
+   "ts_iso": "2026-01-09T17:43:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dirección: Dr. Cástulo Franco c/ San Francisco N° 1319 (Zona Fortis Abasto)",
+   "starred": false
+  },
+  {
+   "id": 1649240,
+   "key_id": "ACE7D4C9840F6FEDFFC42144733BD200",
+   "ts_ms": 1767980595000,
+   "ts_iso": "2026-01-09T17:43:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esta es mi ubicación, es mi domicilio",
+   "starred": false
+  },
+  {
+   "id": 1649241,
+   "key_id": "3EB04FE931B028BEDEB58C",
+   "ts_ms": 1767980730000,
+   "ts_iso": "2026-01-09T17:45:30+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hacen delivery ?\nhttps://maps.app.goo.gl/YwcvSdXiC86kjsif6",
+   "starred": false
+  },
+  {
+   "id": 1649242,
+   "key_id": "3EB038C8E773E93E7F7B55",
+   "ts_ms": 1767980734000,
+   "ts_iso": "2026-01-09T17:45:34+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "quiero 8 L",
+   "starred": false
+  },
+  {
+   "id": 1649365,
+   "key_id": "AC660F986401AAD973CBF3391CC1AB25",
+   "ts_ms": 1767992121000,
+   "ts_iso": "2026-01-09T20:55:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Disculpame la demora, ahora mismo me quedan solo 2 litros 🙌🏻",
+   "starred": false
+  },
+  {
+   "id": 1649366,
+   "key_id": "AC34ADD9E7064A5C3ED5401F468F46D7",
+   "ts_ms": 1767992133000,
+   "ts_iso": "2026-01-09T20:55:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tambien traigo por pedido la cantidad que necesites",
+   "starred": false
+  },
+  {
+   "id": 1649367,
+   "key_id": "AC493795616B3E7D9E57688D54759688",
+   "ts_ms": 1767992139000,
+   "ts_iso": "2026-01-09T20:55:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te puedo hacer precio por esa cantidad",
+   "starred": false
+  },
+  {
+   "id": 1649368,
+   "key_id": "AC70BF11042073E0489A52A5674110AB",
+   "ts_ms": 1767992150000,
+   "ts_iso": "2026-01-09T20:55:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con 50% de seña sería",
+   "starred": false
+  },
+  {
+   "id": 1649396,
+   "key_id": "AC0870A0BB8A3E9543F3DF6CD7177964",
+   "ts_ms": 1767995444225,
+   "ts_iso": "2026-01-09T21:50:44.225000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Chill ya conseguí",
+   "starred": false
+  },
+  {
+   "id": 1649397,
+   "key_id": "AC489A3AD4138C6A0D1DD3C793C6AC16",
+   "ts_ms": 1767995477000,
+   "ts_iso": "2026-01-09T21:51:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale dale",
+   "starred": false
+  }
+ ]
+}

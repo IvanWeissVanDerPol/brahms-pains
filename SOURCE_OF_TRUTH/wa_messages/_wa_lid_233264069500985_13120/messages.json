@@ -1,0 +1,311 @@
+{
+ "chat_id": 13120,
+ "slug": "_wa_lid_233264069500985_13120",
+ "subject": null,
+ "jid_user": "233264069500985",
+ "jid_server": "lid",
+ "jid_raw": "233264069500985@lid",
+ "message_count": 23,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1655352,
+   "key_id": "3EB0FEB6C4176FDC600A7A",
+   "ts_ms": 1768599877000,
+   "ts_iso": "2026-01-16T21:44:37+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1655353,
+   "key_id": "AC9DD6176980EA062686F6FB5264EF40",
+   "ts_ms": 1768599891630,
+   "ts_iso": "2026-01-16T21:44:51.630000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260116-WA0053.jpg",
+    "size": 70416,
+    "duration_s": 0,
+    "sha256_b64": "0Fw9izlsCkWU8Ke9d2KmSQ1AG0uCAX/fVFoJYjJpq0w=",
+    "media_name": "cc8f334f-765d-4e80-bcd1-97dda6dfee6c.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1655354,
+   "key_id": "3EB049DCC8C3057DF8F156",
+   "ts_ms": 1768599906000,
+   "ts_iso": "2026-01-16T21:45:06+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pedido n.º 11105",
+   "starred": false
+  },
+  {
+   "id": 1655355,
+   "key_id": "A578557FB975FFC264C914A77DF64B30",
+   "ts_ms": 1768599909000,
+   "ts_iso": "2026-01-16T21:45:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por tu mensaje! Te responderemos en nuestro horario de atención 🩷 \nLunes a viernes 9:00-18:00\nSábado 9:00-15:00",
+   "starred": false
+  },
+  {
+   "id": 1655845,
+   "key_id": "ACF5CCFC8863A81B4FC9778C50C6FEF8",
+   "ts_ms": 1768651803390,
+   "ts_iso": "2026-01-17T12:10:03.390000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Todo el día",
+   "starred": false
+  },
+  {
+   "id": 1655846,
+   "key_id": "AC8EA05684F37DDBDA221397B193C179",
+   "ts_ms": 1768651811679,
+   "ts_iso": "2026-01-17T12:10:11.679000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si no estoy está mi roomie",
+   "starred": false
+  },
+  {
+   "id": 1655876,
+   "key_id": "AC9FB6563C3771B24E55A43955922182",
+   "ts_ms": 1768655454270,
+   "ts_iso": "2026-01-17T13:10:54.270000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que hora aprox llega ?",
+   "starred": false
+  },
+  {
+   "id": 1734973,
+   "key_id": "AC50CD03EC8DC813781D3BECC5DCB0E8",
+   "ts_ms": 1774542043136,
+   "ts_iso": "2026-03-26T16:20:43.136000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mw sieve",
+   "starred": false
+  },
+  {
+   "id": 1734974,
+   "key_id": "AC012C90ABF3379A0C6CF388AE14F305",
+   "ts_ms": 1774542047496,
+   "ts_iso": "2026-03-26T16:20:47.496000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es para un disfraz nomas",
+   "starred": false
+  },
+  {
+   "id": 1734978,
+   "key_id": "ACFC362F85105D1969C1197BF18E3CAA",
+   "ts_ms": 1774542136828,
+   "ts_iso": "2026-03-26T16:22:16.828000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Todo el dia",
+   "starred": false
+  },
+  {
+   "id": 1734979,
+   "key_id": "AC941F2E012C63C18B01421C645066D0",
+   "ts_ms": 1774542139737,
+   "ts_iso": "2026-03-26T16:22:19.737000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Trabajo de casa",
+   "starred": false
+  },
+  {
+   "id": 1734983,
+   "key_id": "ACCE10727B61D5D0809B7346436FCCB7",
+   "ts_ms": 1774542230952,
+   "ts_iso": "2026-03-26T16:23:50.952000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No pague online ya ?",
+   "starred": false
+  },
+  {
+   "id": 1734987,
+   "key_id": "ACA56E7A8A1434421F9F21DB816502B3",
+   "ts_ms": 1774542351657,
+   "ts_iso": "2026-03-26T16:25:51.657000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260326-WA0004.jpg",
+    "size": 80311,
+    "duration_s": 0,
+    "sha256_b64": "K7tdAa10vA+eEiux/T8uRTsRE2faSZ3q9qDoCmVUvBA=",
+    "media_name": "16afc3a8-b2f8-4e49-a149-a5d4b5d829b6.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734988,
+   "key_id": "ACE78DDCA5AC69D66630FCE8BD8ACFBE",
+   "ts_ms": 1774542351675,
+   "ts_iso": "2026-03-26T16:25:51.675000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260326-WA0003.jpg",
+    "size": 67904,
+    "duration_s": 0,
+    "sha256_b64": "CDsCjS0gaSQVHBzNQ6Efld8Hab9qknhXdZYYFlTnGAo=",
+    "media_name": "78181048-714f-48c6-9188-dcd154db04ff.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734989,
+   "key_id": "ACC606ECBC8A68E81D3EBA16BE4390BB",
+   "ts_ms": 1774542366661,
+   "ts_iso": "2026-03-26T16:26:06.661000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202613/PTT-20260326-WA0005.opus",
+    "size": 0,
+    "duration_s": 13,
+    "sha256_b64": "e/Heb7uYhvMh7VLuQtUH+GAkQTOqhoMvxA8NtrzmHgY=",
+    "media_name": "55f7b59c417f47609eccbc7fd5515768.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734993,
+   "key_id": "AC857A37DDA65EF7CD857A03566E82D1",
+   "ts_ms": 1774542470537,
+   "ts_iso": "2026-03-26T16:27:50.537000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  },
+  {
+   "id": 1734994,
+   "key_id": "AC53F6A7D4FD3D2A22D1FA242D3DF98E",
+   "ts_ms": 1774542479976,
+   "ts_iso": "2026-03-26T16:27:59.976000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Qr me sirve",
+   "starred": false
+  },
+  {
+   "id": 1734999,
+   "key_id": "ACE05C25CB2479535F16AB63CB1BB8A8",
+   "ts_ms": 1774542577949,
+   "ts_iso": "2026-03-26T16:29:37.949000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260326-WA0008.jpg",
+    "size": 31485,
+    "duration_s": 0,
+    "sha256_b64": "1hwEB4iURWNIRo+45BKMX9UzROx68K+531MTF1THqsk=",
+    "media_name": "d88575bd-b813-44a1-b5ef-7166d6ee7daa.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1735000,
+   "key_id": "A533989BB6F895B5C74FF36ED682E6C0",
+   "ts_ms": 1774542602000,
+   "ts_iso": "2026-03-26T16:30:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya te agendo",
+   "starred": false
+  },
+  {
+   "id": 1735007,
+   "key_id": "A590ECA995F728938FEB403CA04976D7",
+   "ts_ms": 1774543141000,
+   "ts_iso": "2026-03-26T16:39:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estas agendado para hoy, muchas gracias por tu compra 🥰 te recomendamos que estes atento a tu celular porque el delivery se va estar comunicando contigo desde otro número. Que tengas un lindo día 🌸",
+   "starred": false
+  },
+  {
+   "id": 1735095,
+   "key_id": "AC4EAA0A9C905C7D32535E795906D10C",
+   "ts_ms": 1774548219104,
+   "ts_iso": "2026-03-26T18:03:39.104000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que hora aprox viene ?",
+   "starred": false
+  },
+  {
+   "id": 1735096,
+   "key_id": "A5EB14A68AEF2D1D8810F838627BC655",
+   "ts_ms": 1774548269000,
+   "ts_iso": "2026-03-26T18:04:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Fue agendado para antes de las 18",
+   "starred": false
+  },
+  {
+   "id": 1735098,
+   "key_id": "ACB1131A9A0C2F0BB52540F6BC4F1E15",
+   "ts_ms": 1774548281554,
+   "ts_iso": "2026-03-26T18:04:41.554000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  }
+ ]
+}

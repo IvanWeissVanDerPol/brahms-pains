@@ -1,0 +1,189 @@
+{
+ "chat_id": 2121,
+ "slug": "_wa_chat_595961888226_2121",
+ "subject": null,
+ "jid_user": "595961888226",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595961888226@s.whatsapp.net",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1264605,
+   "key_id": "3EB0B7326D56B762CD62BD",
+   "ts_ms": 1711670961000,
+   "ts_iso": "2024-03-29T00:09:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1264606,
+   "key_id": "3EB0F8D27EA8DE4E7DDC9D",
+   "ts_ms": 1711670966000,
+   "ts_iso": "2024-03-29T00:09:26+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "yo estoy haciendo solo tambien",
+   "starred": false
+  },
+  {
+   "id": 1264607,
+   "key_id": "3EB0BE1FFA1F98307801EC",
+   "ts_ms": 1711670969000,
+   "ts_iso": "2024-03-29T00:09:29+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "por si te interesa",
+   "starred": false
+  },
+  {
+   "id": 1264608,
+   "key_id": "3EB0716F482EFCB224B8CE",
+   "ts_ms": 1711670970000,
+   "ts_iso": "2024-03-29T00:09:30+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "XD",
+   "starred": false
+  },
+  {
+   "id": 1264650,
+   "key_id": "DC8DC544728DCE7EA1563C198C5AE7BB",
+   "ts_ms": 1711675832000,
+   "ts_iso": "2024-03-29T01:30:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sii me interesa",
+   "starred": false
+  },
+  {
+   "id": 1264651,
+   "key_id": "099D84CC35847DC80E8E8BCB580BF1B0",
+   "ts_ms": 1711675842000,
+   "ts_iso": "2024-03-29T01:30:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Como es tu nombre?",
+   "starred": false
+  },
+  {
+   "id": 1264652,
+   "key_id": "EE6DA679783C6FA8E0B3245035EB6DAC",
+   "ts_ms": 1711675845000,
+   "ts_iso": "2024-03-29T01:30:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya empezaste?",
+   "starred": false
+  },
+  {
+   "id": 1264653,
+   "key_id": "E8F7912F320F5C1EB8A02E8A832448ED",
+   "ts_ms": 1711675875111,
+   "ts_iso": "2024-03-29T01:31:15.111000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Instale todo \nPero estoy viendo cómo montar lo del profe",
+   "starred": false
+  },
+  {
+   "id": 1264654,
+   "key_id": "E276B5A3F4FE62FDCD660049E71A51A2",
+   "ts_ms": 1711675886056,
+   "ts_iso": "2024-03-29T01:31:26.056000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Después veo como hacer los requisitos de la tarea",
+   "starred": false
+  },
+  {
+   "id": 1264655,
+   "key_id": "04A7C79DC501334D54F47EDF668A50F6",
+   "ts_ms": 1711675909569,
+   "ts_iso": "2024-03-29T01:31:49.569000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ivan Weiss",
+   "starred": false
+  },
+  {
+   "id": 1264661,
+   "key_id": "B3A90AA080BD35C4A952C817FDEA7AF8",
+   "ts_ms": 1711677504000,
+   "ts_iso": "2024-03-29T01:58:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aahh dale, estare viendo tambien como hago eso",
+   "starred": false
+  },
+  {
+   "id": 1264662,
+   "key_id": "6E0DDFF6E560CF1C738000A90F25A698",
+   "ts_ms": 1711677512000,
+   "ts_iso": "2024-03-29T01:58:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Todo esta en el educa, verdad?",
+   "starred": false
+  },
+  {
+   "id": 1264663,
+   "key_id": "B41D0265E3AC3B3116DD7559D329A15A",
+   "ts_ms": 1711677517000,
+   "ts_iso": "2024-03-29T01:58:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo soy Marcelo Aguayo",
+   "starred": false
+  },
+  {
+   "id": 1264667,
+   "key_id": "9EFD5DE83B69EAE0494459100A472B71",
+   "ts_ms": 1711678337138,
+   "ts_iso": "2024-03-29T02:12:17.138000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sip",
+   "starred": false
+  },
+  {
+   "id": 1264668,
+   "key_id": "15F33A1F3D0B70827E7FA6F2889BFAB6",
+   "ts_ms": 1711678341139,
+   "ts_iso": "2024-03-29T02:12:21.139000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero si video es kk",
+   "starred": false
+  },
+  {
+   "id": 1264669,
+   "key_id": "4F9D9489D9872342B1FA40F89424F44E",
+   "ts_ms": 1711678347648,
+   "ts_iso": "2024-03-29T02:12:27.648000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y tenés que usar versiones viejas",
+   "starred": false
+  }
+ ]
+}

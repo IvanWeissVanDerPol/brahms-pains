@@ -1,0 +1,101 @@
+{
+ "chat_id": 16945,
+ "slug": "_wa_lid_37371181568043_16945",
+ "subject": null,
+ "jid_user": "37371181568043",
+ "jid_server": "lid",
+ "jid_raw": "37371181568043@lid",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1817806,
+   "key_id": "AC7ED9E857B842D4BA489710FBDC57D9",
+   "ts_ms": 1782670361447,
+   "ts_iso": "2026-06-28T18:12:41.447000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pueden mandar a esta ubi la estufa?",
+   "starred": false
+  },
+  {
+   "id": 1818011,
+   "key_id": "A52479EAFC12430CA36588C72DD18ED3",
+   "ts_ms": 1782679831000,
+   "ts_iso": "2026-06-28T20:50:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas que tal",
+   "starred": false
+  },
+  {
+   "id": 1818012,
+   "key_id": "A5931948ACF02A64962CD6C700700E3D",
+   "ts_ms": 1782679840000,
+   "ts_iso": "2026-06-28T20:50:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "30.000gs sería el envío hasta San Lorenzo",
+   "starred": false
+  },
+  {
+   "id": 1818013,
+   "key_id": "A5E1E0132E841AC13D952B519055E5FC",
+   "ts_ms": 1782679844000,
+   "ts_iso": "2026-06-28T20:50:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para el día de mañana",
+   "starred": false
+  },
+  {
+   "id": 1818030,
+   "key_id": "AC93C123EE78375AF623FE65E388D761",
+   "ts_ms": 1782680042906,
+   "ts_iso": "2026-06-28T20:54:02.906000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sorry tardaron mucho",
+   "starred": false
+  },
+  {
+   "id": 1818033,
+   "key_id": "AC7AA34CAE9512EDD62FC1D239C0E84A",
+   "ts_ms": 1782680046823,
+   "ts_iso": "2026-06-28T20:54:06.823000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya compré de otra parte",
+   "starred": false
+  },
+  {
+   "id": 1818051,
+   "key_id": "A54C77C97F5433E8BBD331130D4F420C",
+   "ts_ms": 1782680178000,
+   "ts_iso": "2026-06-28T20:56:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale sin problema 😊",
+   "starred": false
+  },
+  {
+   "id": 1818052,
+   "key_id": "A5414638DB5DD8240A450F7C8EA06F8A",
+   "ts_ms": 1782680181000,
+   "ts_iso": "2026-06-28T20:56:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos de lunes a viernes de 7:30 a 12:00 y de 13:00 a 17:00hs",
+   "starred": false
+  }
+ ]
+}

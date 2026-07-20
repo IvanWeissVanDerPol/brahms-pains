@@ -1,0 +1,143 @@
+{
+ "chat_id": 1387,
+ "slug": "_wa_chat_595982728533_1387",
+ "subject": null,
+ "jid_user": "595982728533",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982728533@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1196962,
+   "key_id": "898DD4B3506E30C7F8F98B039D7CF826",
+   "ts_ms": 1700484973890,
+   "ts_iso": "2023-11-20T12:56:13.890000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Happy birthday",
+   "starred": false
+  },
+  {
+   "id": 1196965,
+   "key_id": "D013D56A7B7152AF6D2185F91120DC10",
+   "ts_ms": 1700485025000,
+   "ts_iso": "2023-11-20T12:57:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quee?",
+   "starred": false
+  },
+  {
+   "id": 1196970,
+   "key_id": "AB33699485ECA5C725BCF67CF39D4D21",
+   "ts_ms": 1700485137567,
+   "ts_iso": "2023-11-20T12:58:57.567000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me notifico Google calendar que era tu cumple\n\nEspero que esté bien el date \n\nJsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1196971,
+   "key_id": "D7A0E013302ABE5D305697585056C753",
+   "ts_ms": 1700485156000,
+   "ts_iso": "2023-11-20T12:59:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quee no entiendo",
+   "starred": false
+  },
+  {
+   "id": 1196973,
+   "key_id": "5EA391E0C61C733AB92CCBC935DD2FAF",
+   "ts_ms": 1700485214083,
+   "ts_iso": "2023-11-20T13:00:14.083000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Me salió este y dije Jau te felicito",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231120-WA0004.jpg",
+    "size": 25067,
+    "duration_s": 0,
+    "sha256_b64": "ReyTBnejqDlmW1yUAojwAg57bxVO0RDVyQCxQTwH1kw=",
+    "media_name": "b91a203a-1dd7-482c-9001-62f89b0b698c.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1196974,
+   "key_id": "87E42DF5390871A8CDAEC3B79A7BEE68",
+   "ts_ms": 1700485223774,
+   "ts_iso": "2023-11-20T13:00:23.774000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O no es más el número de Lucas este ?",
+   "starred": false
+  },
+  {
+   "id": 1196975,
+   "key_id": "0E526C2B853556CBA0D26047AE64B0EC",
+   "ts_ms": 1700485225204,
+   "ts_iso": "2023-11-20T13:00:25.204000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajaja",
+   "starred": false
+  },
+  {
+   "id": 1196976,
+   "key_id": "9367E94647068E2719F6B06ED908E3AC",
+   "ts_ms": 1700485249000,
+   "ts_iso": "2023-11-20T13:00:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No  es",
+   "starred": false
+  },
+  {
+   "id": 1196978,
+   "key_id": "0443BCD7CF678F5EFBDBE68A25934AE0",
+   "ts_ms": 1700485252000,
+   "ts_iso": "2023-11-20T13:00:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te equivocaste",
+   "starred": false
+  },
+  {
+   "id": 1196981,
+   "key_id": "967B7027C93C912356F50DFE6B45343C",
+   "ts_ms": 1700485280946,
+   "ts_iso": "2023-11-20T13:01:20.946000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mood jajwjqjw",
+   "starred": false
+  },
+  {
+   "id": 1196983,
+   "key_id": "F399D35DFF8D864BF0A1E8A6545CC495",
+   "ts_ms": 1700485298000,
+   "ts_iso": "2023-11-20T13:01:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  }
+ ]
+}

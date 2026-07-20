@@ -1,0 +1,24 @@
+{
+ "chat_id": 14028,
+ "slug": "_wa_lid_195816652325082_14028",
+ "subject": null,
+ "jid_user": "195816652325082",
+ "jid_server": "lid",
+ "jid_raw": "195816652325082@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1714507,
+   "key_id": "AC1DD4F1F596096C78FB8D06A7A8E254",
+   "ts_ms": 1773101972791,
+   "ts_iso": "2026-03-10T00:19:32.791000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwuw sale con Sarah que genial",
+   "starred": false
+  }
+ ]
+}

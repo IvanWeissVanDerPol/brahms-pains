@@ -1,0 +1,192 @@
+{
+ "chat_id": 9899,
+ "slug": "_wa_chat_595981670036_9899",
+ "subject": null,
+ "jid_user": "595981670036",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981670036@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1441675,
+   "key_id": "0F62D24712AE69CB77A6B93129177289",
+   "ts_ms": 1740758008000,
+   "ts_iso": "2025-02-28T15:53:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia soy silvana de insignia le paso sus financiaciones",
+   "starred": false
+  },
+  {
+   "id": 1441676,
+   "key_id": "EA60D455C9980E0DCF46F0055ABC2177",
+   "ts_ms": 1740758030000,
+   "ts_iso": "2025-02-28T15:53:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Los de la torre C solo pueden financiarse durante obra a 7.5 y a 10 años",
+   "starred": false
+  },
+  {
+   "id": 1441677,
+   "key_id": "E947E3F4F583427C7B89110AD09A5F4D",
+   "ts_ms": 1740758045000,
+   "ts_iso": "2025-02-28T15:54:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por lo q le envio a 7.5 años no tenemos a 5",
+   "starred": false
+  },
+  {
+   "id": 1441678,
+   "key_id": "5DC66E5D23729C25BC2F541D49384B1F",
+   "ts_ms": 1740758056000,
+   "ts_iso": "2025-02-28T15:54:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El c24 esta vendido los demas le paso",
+   "starred": false
+  },
+  {
+   "id": 1441680,
+   "key_id": "82F8A3E770CAE166C05E4886D613C7D0",
+   "ts_ms": 1740758092000,
+   "ts_iso": "2025-02-28T15:54:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "C33",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250301-WA0019.jpg",
+    "size": 73168,
+    "duration_s": 0,
+    "sha256_b64": "DIDvfCIqDMovB2iu1Lymp92FAeZIDCVJmxSG/72hoME=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1441681,
+   "key_id": "7A90D21CF6BB7AA5FCD7E2037248ECBB",
+   "ts_ms": 1740758131000,
+   "ts_iso": "2025-02-28T15:55:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Su entrega es 8 mil y algo su cuota hasta q se le entrega es bajita 251 dol ql entregarse el dpto sube la cuota",
+   "starred": false
+  },
+  {
+   "id": 1441682,
+   "key_id": "35DB8E24A68860F206653C7E84ACB427",
+   "ts_ms": 1740758141000,
+   "ts_iso": "2025-02-28T15:55:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tiene 1 refuerzo al año y una cancelacion",
+   "starred": false
+  },
+  {
+   "id": 1441685,
+   "key_id": "FF10CDB59704808724EFEB75BD5DFA3A",
+   "ts_ms": 1740758168000,
+   "ts_iso": "2025-02-28T15:56:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "C64",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250301-WA0020.jpg",
+    "size": 80219,
+    "duration_s": 0,
+    "sha256_b64": "fNm7OFLVpBpNDkxshg8mbVRHfbjriD5FqoDXLAuRIgM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1441686,
+   "key_id": "A66590C17DD0F6C21CCA0F2FF62F38BE",
+   "ts_ms": 1740758195000,
+   "ts_iso": "2025-02-28T15:56:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "C72",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250301-WA0021.jpg",
+    "size": 78200,
+    "duration_s": 0,
+    "sha256_b64": "zGR89EIUDedVNodSU4U7KW/JrzuXpaaj3lsGHdAHUyo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1441688,
+   "key_id": "36E59B69AD339ECF778F5006CA0F8CB2",
+   "ts_ms": 1740758248000,
+   "ts_iso": "2025-02-28T15:57:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "C71",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250301-WA0022.jpg",
+    "size": 80668,
+    "duration_s": 0,
+    "sha256_b64": "7ASnyEipFywmqz/9Zjuh1fvuEWztbbCIuRIDD6unEWc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1441689,
+   "key_id": "3D2604B1F7BB7F350A8EB554F7341266",
+   "ts_ms": 1740758259000,
+   "ts_iso": "2025-02-28T15:57:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Son todos los q pidio",
+   "starred": false
+  },
+  {
+   "id": 1441690,
+   "key_id": "3D3CF428D26E532191E3548545B4CCC6",
+   "ts_ms": 1740758265000,
+   "ts_iso": "2025-02-28T15:57:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cualq cosa a las ordenes",
+   "starred": false
+  },
+  {
+   "id": 1441691,
+   "key_id": "59CB184DE39D1C24FFFB3DD0BF144375",
+   "ts_ms": 1740758273000,
+   "ts_iso": "2025-02-28T15:57:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy silvana de insignia",
+   "starred": false
+  }
+ ]
+}

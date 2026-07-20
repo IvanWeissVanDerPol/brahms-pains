@@ -1,0 +1,46 @@
+{
+ "chat_id": 6877,
+ "slug": "_wa_chat_595991874689_6877",
+ "subject": null,
+ "jid_user": "595991874689",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991874689@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1315964,
+   "key_id": "3EB0DB2C7E7EACB8041326",
+   "ts_ms": 1720103290000,
+   "ts_iso": "2024-07-04T14:28:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas. Estamos tratando de contactar con GOMEZ GALEANO, JUAN CARLOS de parte de BRISTOL S.A Favor hacerle llegar el mensaje que se contacte al 0215194800  https://wa.me/595991874689 o acercarse a una de las sucursales. Muchas Gracias. Aguardamos el contacto.",
+   "starred": false
+  },
+  {
+   "id": 1316004,
+   "key_id": "E4A7376666A2B8AE3FC36F8E620D6A8A",
+   "ts_ms": 1720109615398,
+   "ts_iso": "2024-07-04T16:13:35.398000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Número equivocado",
+   "starred": false
+  },
+  {
+   "id": 1327154,
+   "key_id": "3EB0E55EE7D741F8E24A6E",
+   "ts_ms": 1721746274000,
+   "ts_iso": "2024-07-23T14:51:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas. Estamos tratando de contactar GOMEZ GALEANO, JUAN CARLOS de parte de BRISTOL S.A Favor hacerle llegar el mensaje que se contacte al 0215194800  https://wa.me/595994958710 o acercarse a una de las sucursales. Muchas Gracias. Aguardamos el contacto.",
+   "starred": false
+  }
+ ]
+}

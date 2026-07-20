@@ -1,0 +1,24 @@
+{
+ "chat_id": 5012,
+ "slug": "_wa_chat_595993530737_5012",
+ "subject": null,
+ "jid_user": "595993530737",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595993530737@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1181274,
+   "key_id": "3EB0B3BF9C19E871CDD1CB",
+   "ts_ms": 1697799150000,
+   "ts_iso": "2023-10-20T10:52:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*_Buenas!_*\n\nLe saludo de Tigo Paraguay!\n\n📌No miramos informconf. \n📌 Eliminamos deudas antiguas en tigo. \n\nTenemos disponible estos planes para usted;\n\n1️⃣TIGO TV BASICO sin fútbol 109 MIL PRECIO FIJO\n\n2️⃣Tigo tv Familiar con  fútbol local  139 mil   HBO PRECIO FIJO\n\n3️⃣Internet 120 mbps ILIMITADO x 129 mil PRECIO FIJO\n\n4️⃣ COMBO TV FAMILIAR   Wifi ILIMITADO 209 mil PRECIO FIJO",
+   "starred": false
+  }
+ ]
+}

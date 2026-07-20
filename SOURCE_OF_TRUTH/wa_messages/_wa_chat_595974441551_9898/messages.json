@@ -1,0 +1,33 @@
+{
+ "chat_id": 9898,
+ "slug": "_wa_chat_595974441551_9898",
+ "subject": null,
+ "jid_user": "595974441551",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595974441551@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1429695,
+   "key_id": "3EB048E1CC0927E96268FF",
+   "ts_ms": 1738772901000,
+   "ts_iso": "2025-02-05T16:28:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "¡Ofertas imperdibles   Delivery a MIL guaraníes! 🛒 Si esperabas el mejor momento para comprar, ES AHORA. A🔥 Descuentos irresistibles y envío en minutos a tu puerta. 🛵💨 Mirá el calendario de ofertas y aprovechá todo lo que tenemos para vos. 😉",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250205-WA0015.jpg",
+    "size": 288388,
+    "duration_s": 0,
+    "sha256_b64": "8ABRK7XvqFBRiE46dEOnD2pGvJnYo+nk+0a6dqHqSMU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

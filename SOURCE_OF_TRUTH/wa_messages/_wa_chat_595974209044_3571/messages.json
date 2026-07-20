@@ -1,0 +1,110 @@
+{
+ "chat_id": 3571,
+ "slug": "_wa_chat_595974209044_3571",
+ "subject": null,
+ "jid_user": "595974209044",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595974209044@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1109629,
+   "key_id": "CC35239624D9063E3F1817DF76860E0F",
+   "ts_ms": 1690308754258,
+   "ts_iso": "2023-07-25T18:12:34.258000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes \n\nTienen por si acaso parrilla 0ara hacer takoyaki?",
+   "starred": false
+  },
+  {
+   "id": 1109630,
+   "key_id": "06B43ADD6F97BF51B02DFF6B8ED9CF3E",
+   "ts_ms": 1690308757000,
+   "ts_iso": "2023-07-25T18:12:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! Gracias por comunicarte con Sakura Mini Market!🌸 En breve nos comunicaremos con usted😊Muchas gracias!🙇",
+   "starred": false
+  },
+  {
+   "id": 1109631,
+   "key_id": "9D5E9006C655D479C1F266A15C48888D",
+   "ts_ms": 1690309473000,
+   "ts_iso": "2023-07-25T18:24:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes!",
+   "starred": false
+  },
+  {
+   "id": 1109638,
+   "key_id": "E052CA948D378233BDFDC9D6F7E9A1A8",
+   "ts_ms": 1690310747000,
+   "ts_iso": "2023-07-25T18:45:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "El último que nos queda",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230725-WA0054.jpg",
+    "size": 197827,
+    "duration_s": 0,
+    "sha256_b64": "Ptg1vZ7tn8CvHbvi/1DV4HpXi6vFB8w/Gs1Kg7O+WJ4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1109648,
+   "key_id": "95F1046B6B048C6B6158B8A494EDD873",
+   "ts_ms": 1690311275000,
+   "ts_iso": "2023-07-25T18:54:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sería solamente la plancha",
+   "starred": false
+  },
+  {
+   "id": 1109651,
+   "key_id": "E4B90ADBE6CE9BEB62413962E207A5CC",
+   "ts_ms": 1690311286000,
+   "ts_iso": "2023-07-25T18:54:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y cuesta 500.000Gs",
+   "starred": false
+  },
+  {
+   "id": 1109654,
+   "key_id": "EE5BDFA0FF99E06D449ECF2472BCC6B5",
+   "ts_ms": 1690311544608,
+   "ts_iso": "2023-07-25T18:59:04.608000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias veo para ir cuando junte más money",
+   "starred": false
+  },
+  {
+   "id": 1109657,
+   "key_id": "AAD710B268B67B75329CD0B9C7C9058D",
+   "ts_ms": 1690311949000,
+   "ts_iso": "2023-07-25T19:05:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "☺️👍🏻",
+   "starred": false
+  }
+ ]
+}

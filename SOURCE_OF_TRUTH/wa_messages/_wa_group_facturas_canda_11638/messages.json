@@ -1,0 +1,53 @@
+{
+ "chat_id": 11638,
+ "slug": "_wa_group_facturas_canda_11638",
+ "subject": "Facturas canda",
+ "jid_user": "120363420467104067",
+ "jid_server": "g.us",
+ "jid_raw": "120363420467104067@g.us",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1564018,
+   "key_id": "ECC741724362549F3E1D8E3BCFC39108",
+   "ts_ms": 1756932343931,
+   "ts_iso": "2025-09-03T20:45:43.931000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250903-WA0015.jpg",
+    "size": 114683,
+    "duration_s": 0,
+    "sha256_b64": "F3xeMuOMMahgTs3Lp0kNygVMZ/g/reF+dB7xSy05uXM=",
+    "media_name": "61aaa126-3302-4a39-b80d-13c3c5e9f909.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1564263,
+   "key_id": "8959044B5EC06CFB22B159F5E29F0C8A",
+   "ts_ms": 1756947542879,
+   "ts_iso": "2025-09-04T00:59:02.879000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250903-WA0048.jpg",
+    "size": 126499,
+    "duration_s": 0,
+    "sha256_b64": "HmBdqZx/+JnZKr/QBx1eHIYuqva8EaJ/LQ/4YyEPSAI=",
+    "media_name": "49129498-f4bb-4d3d-89b2-ba7a9f59290b.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

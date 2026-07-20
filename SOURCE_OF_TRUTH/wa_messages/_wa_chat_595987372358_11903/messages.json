@@ -1,0 +1,55 @@
+{
+ "chat_id": 11903,
+ "slug": "_wa_chat_595987372358_11903",
+ "subject": null,
+ "jid_user": "595987372358",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595987372358@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581475,
+   "key_id": "AC83CAADF2F227E01E7E583947189F14",
+   "ts_ms": 1759639091809,
+   "ts_iso": "2025-10-05T04:38:11.809000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Fer 23 añitos\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1582759,
+   "key_id": "3A93CC171D0A126A2C70",
+   "ts_ms": 1759759813000,
+   "ts_iso": "2025-10-06T14:10:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola mi amor como estás ?\n Te saluda fer una diosa del sexo que te volverá loco \n• 30 minutos:150.000 *incluye oral ,y vaginal con Condon \n• 1 hora  :200.000 *oral ,y vaginal con condon servicio sin apuros y con el mejor trato \n• 1 hora completo:300.000 incluye rico oral vaginal y anal sin límites \nContenidos:50.000 incluye video y varias fotos \nTe espero aquí con ganas sere toda tuya",
+   "starred": false
+  },
+  {
+   "id": 1582761,
+   "key_id": "3A614EC4BFA44F4EBDAB",
+   "ts_ms": 1759759813000,
+   "ts_iso": "2025-10-06T14:10:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251006-WA0021.jpg",
+    "size": 54203,
+    "duration_s": 0,
+    "sha256_b64": "+6Ksh8NwgvkM5UDp8hMXQp9/GQHLglEdPNKtKNHu9iU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

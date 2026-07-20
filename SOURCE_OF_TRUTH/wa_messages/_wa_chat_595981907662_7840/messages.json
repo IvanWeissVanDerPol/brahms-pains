@@ -1,0 +1,176 @@
+{
+ "chat_id": 7840,
+ "slug": "_wa_chat_595981907662_7840",
+ "subject": null,
+ "jid_user": "595981907662",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981907662@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1341767,
+   "key_id": "AD5B76C88AB97A4AC4640F3B3F1E9B49",
+   "ts_ms": 1723858161142,
+   "ts_iso": "2024-08-17T01:29:21.142000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1341768,
+   "key_id": "7B8D8ADF28ED0E69A9046092F2242799",
+   "ts_ms": 1723858162537,
+   "ts_iso": "2024-08-17T01:29:22.537000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "?",
+   "starred": false
+  },
+  {
+   "id": 1341769,
+   "key_id": "A1827EAD91CAEBCD24B735C79D01785C",
+   "ts_ms": 1723858177000,
+   "ts_iso": "2024-08-17T01:29:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La delivery de koi soy",
+   "starred": false
+  },
+  {
+   "id": 1341770,
+   "key_id": "812C020DC1341B35BEF4592A1A2BAD1E",
+   "ts_ms": 1723858186002,
+   "ts_iso": "2024-08-17T01:29:46.002000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahh",
+   "starred": false
+  },
+  {
+   "id": 1341771,
+   "key_id": "242B2F01AD002722CE0E11054F3B79C2",
+   "ts_ms": 1723858188541,
+   "ts_iso": "2024-08-17T01:29:48.541000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estás?",
+   "starred": false
+  },
+  {
+   "id": 1341772,
+   "key_id": "D2B25D55B12405723320C72DD3F747F8",
+   "ts_ms": 1723858190000,
+   "ts_iso": "2024-08-17T01:29:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en camino con su pedido",
+   "starred": false
+  },
+  {
+   "id": 1341773,
+   "key_id": "9E2E959F5D7653157F8E7AC5D18C3790",
+   "ts_ms": 1723858193000,
+   "ts_iso": "2024-08-17T01:29:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Enseguida llegó",
+   "starred": false
+  },
+  {
+   "id": 1341774,
+   "key_id": "3944E7349F74D18F2D0338A83AADBD99",
+   "ts_ms": 1723858194918,
+   "ts_iso": "2024-08-17T01:29:54.918000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uff gracias",
+   "starred": false
+  },
+  {
+   "id": 1341783,
+   "key_id": "95CAB1A52876477C8A037456F56FD847",
+   "ts_ms": 1723859056000,
+   "ts_iso": "2024-08-17T01:44:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en su ubicación",
+   "starred": false
+  },
+  {
+   "id": 1341788,
+   "key_id": "F043FACA84B88D4951FFEA59130401CB",
+   "ts_ms": 1723859141000,
+   "ts_iso": "2024-08-17T01:45:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Private/VID-20240816-WA0041.mp4",
+    "size": 842932,
+    "duration_s": 4,
+    "sha256_b64": "BkY7Kd4l8Ep/yJeRY04qcZi01k9hfflAn+eNcqvTang=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1341789,
+   "key_id": "363E222EFC3DC1C9EAB6F2E8D577E589",
+   "ts_ms": 1723859189363,
+   "ts_iso": "2024-08-17T01:46:29.363000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1341790,
+   "key_id": "64BCD6228522035FB76D3A9F514057A5",
+   "ts_ms": 1723859192210,
+   "ts_iso": "2024-08-17T01:46:32.210000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy afuera",
+   "starred": false
+  },
+  {
+   "id": 1341793,
+   "key_id": "209F3B214C12BF01E6E1FF3C8742BA72",
+   "ts_ms": 1723859268257,
+   "ts_iso": "2024-08-17T01:47:48.257000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "C fue",
+   "starred": false
+  },
+  {
+   "id": 1341794,
+   "key_id": "8CDFB7ACE1A4F4FAEF34032AC1008E59",
+   "ts_ms": 1723859278000,
+   "ts_iso": "2024-08-17T01:47:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Noce preocupe",
+   "starred": false
+  }
+ ]
+}

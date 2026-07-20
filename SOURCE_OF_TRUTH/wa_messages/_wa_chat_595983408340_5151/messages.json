@@ -1,0 +1,24 @@
+{
+ "chat_id": 5151,
+ "slug": "_wa_chat_595983408340_5151",
+ "subject": null,
+ "jid_user": "595983408340",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983408340@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1204762,
+   "key_id": "3EB02CBE3076782D037AD4",
+   "ts_ms": 1701791414000,
+   "ts_iso": "2023-12-05T15:50:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "PLANES TIGO SIN CONTRATO DE PERMANENCIA!!! 🥳🤩\n✅ 10GB 99mil\n✅ 15GB 119mil\n✅ 18GB 139mil\n✅ 20GB 170mil\n✅ 30 GB 199mil\nEL PRIMER ABONO RECIEN A LOS 45 DIAS!!!\nTigo TV Familiar 149.000gs📺\nTigo internet 150 megas 139.000gs 🌐\nExtensor 🔊 29.900gs\nTigo TV + internet 219.000gs 📺+🌐\n\n\n  🤩  🤩  🤩  🤩 🤩 🤩  🤩  🤩  🤩  🤩\nRESPONDE SI Y TE ASESORAMOS",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "chat_id": 1720,
+ "slug": "_wa_chat_595984626802_1720",
+ "subject": null,
+ "jid_user": "595984626802",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984626802@s.whatsapp.net",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 917639,
+   "key_id": "A7E5C04185E21000EF246287F079758E",
+   "ts_ms": 1657860556666,
+   "ts_iso": "2022-07-15T04:49:16.666000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20220715-WA0003.jpg",
+    "size": 87378,
+    "duration_s": 0,
+    "sha256_b64": "CivCd3I/Uh0RszezClc3YTSKslkS6T56SfS8LeSAuOs=",
+    "media_name": "8f5a3c1e-7f89-4dd9-84e6-c1c0a4ccd20a.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 917643,
+   "key_id": "14B8B10B6B2C319C4C1A12C453EA8FA4",
+   "ts_ms": 1657861022247,
+   "ts_iso": "2022-07-15T04:57:02.247000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te ves muy bien",
+   "starred": false
+  },
+  {
+   "id": 942187,
+   "key_id": "26AA7A618BA8D5110C5B0296B6FEF150",
+   "ts_ms": 1659740804453,
+   "ts_iso": "2022-08-05T23:06:44.453000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avisa cuando vayas yo tambien quiero hacerme unos agujeros",
+   "starred": false
+  },
+  {
+   "id": 942205,
+   "key_id": "A3028595286014E415BB2BE696FB5EDA",
+   "ts_ms": 1659741733000,
+   "ts_iso": "2022-08-05T23:22:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202232/PTT-20220805-WA0047.opus",
+    "size": 17949,
+    "duration_s": 7,
+    "sha256_b64": "8eziQPBOD+2wogjWNrFDnaExCRwCGAjcC5R/kc0CMKM=",
+    "media_name": "PTT-20220805-WA0047.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 942207,
+   "key_id": "B37C85FFA453B866E9450A671587FA1D",
+   "ts_ms": 1659742122765,
+   "ts_iso": "2022-08-05T23:28:42.765000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jau",
+   "starred": false
+  },
+  {
+   "id": 942208,
+   "key_id": "93F2E1AF40C7DCD859F2D722F85BCB28",
+   "ts_ms": 1659742123839,
+   "ts_iso": "2022-08-05T23:28:43.839000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwu",
+   "starred": false
+  },
+  {
+   "id": 978120,
+   "key_id": "AAA5F88E281F87E4DDC9336D3FD8C71E",
+   "ts_ms": 1665454598462,
+   "ts_iso": "2022-10-11T02:16:38.462000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que buen look 20/20",
+   "starred": false
+  },
+  {
+   "id": 1037566,
+   "key_id": "494741CB5ECFC50F162E211E03170871",
+   "ts_ms": 1678398278946,
+   "ts_iso": "2023-03-09T21:44:38.946000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No haces más jojo poses ?",
+   "starred": false
+  },
+  {
+   "id": 1638896,
+   "key_id": "AC0C4C2A6E33E278F77D52E421626BCE",
+   "ts_ms": 1766775994484,
+   "ts_iso": "2025-12-26T19:06:34.484000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mood rummicube. Te ves re zombie",
+   "starred": false
+  },
+  {
+   "id": 1778679,
+   "key_id": "AC5413671192E97343CFD3265F33D406",
+   "ts_ms": 1779043720976,
+   "ts_iso": "2026-05-17T18:48:40.976000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mood estabas en el concierto de nüdo ?",
+   "starred": false
+  },
+  {
+   "id": 1778680,
+   "key_id": "AC9DC21F02A9D7858C895C85603FD058",
+   "ts_ms": 1779043733370,
+   "ts_iso": "2026-05-17T18:48:53.370000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260517-WA0047.jpg",
+    "size": 96511,
+    "duration_s": 0,
+    "sha256_b64": "DitLcLn7+w/hE5XMvkrWkumyOriw7ke/gkEIeRO61/o=",
+    "media_name": "a13a8051-3d68-49ff-8464-3baab90d7768.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1778683,
+   "key_id": "ACF8EEBF1A2C6F481B1D6F9C8EB7258B",
+   "ts_ms": 1779045760000,
+   "ts_iso": "2026-05-17T19:22:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tu doble",
+   "starred": false
+  },
+  {
+   "id": 1778690,
+   "key_id": "ACE7A3DB8E364A80F4C31422A17CAED5",
+   "ts_ms": 1779048773465,
+   "ts_iso": "2026-05-17T20:12:53.465000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260517-WA0049.jpg",
+    "size": 89281,
+    "duration_s": 0,
+    "sha256_b64": "70Lwi0BKtC6RD+HTe+d3PeqVkNP1JhpYg0Z5nIT5byA=",
+    "media_name": "c2a99fc1-6293-46c3-9bfd-55c33d0ee3e7.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1778691,
+   "key_id": "ACC94DA0239BFA3CE8FBB6AAB8CD3A4D",
+   "ts_ms": 1779048805074,
+   "ts_iso": "2026-05-17T20:13:25.074000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202621/PTT-20260517-WA0050.opus",
+    "size": 0,
+    "duration_s": 30,
+    "sha256_b64": "EW1jSlaIfIlN6TkXxsCE+zteAAV2Xah5u+jMknr/XRQ=",
+    "media_name": "b0db432f602d49e481a8611ffed014d8.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1778805,
+   "key_id": "AC98D5E518C0AA02D177D72AF8D37C10",
+   "ts_ms": 1779053009000,
+   "ts_iso": "2026-05-17T21:23:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si era",
+   "starred": false
+  },
+  {
+   "id": 1778807,
+   "key_id": "AC1A8B4932F62CFD3D1CBEBF2FF396EA",
+   "ts_ms": 1779053012000,
+   "ts_iso": "2026-05-17T21:23:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No te vi",
+   "starred": false
+  },
+  {
+   "id": 1778808,
+   "key_id": "ACC9F3EB01610FB8A15DFFFB7410D555",
+   "ts_ms": 1779053016000,
+   "ts_iso": "2026-05-17T21:23:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vos no me viste?",
+   "starred": false
+  },
+  {
+   "id": 1778821,
+   "key_id": "ACDBEE6283C9C757EF2C05A984788E25",
+   "ts_ms": 1779053619352,
+   "ts_iso": "2026-05-17T21:33:39.352000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nop",
+   "starred": false
+  },
+  {
+   "id": 1778822,
+   "key_id": "AC624769775936870A5186BF03870971",
+   "ts_ms": 1779053632711,
+   "ts_iso": "2026-05-17T21:33:52.711000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Al menos no te reconoci",
+   "starred": false
+  },
+  {
+   "id": 1778823,
+   "key_id": "AC14206CE1EC42A9450CD4621E084FB0",
+   "ts_ms": 1779053665210,
+   "ts_iso": "2026-05-17T21:34:25.210000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Capaz nos vemos again en un concierto random",
+   "starred": false
+  }
+ ]
+}

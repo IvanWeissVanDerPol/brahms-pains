@@ -1,0 +1,46 @@
+{
+ "chat_id": 9704,
+ "slug": "_wa_chat_595976583360_9704",
+ "subject": null,
+ "jid_user": "595976583360",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976583360@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1416575,
+   "key_id": "C7F71DDD553686D609C0BF9E76C3CC32",
+   "ts_ms": 1736363740000,
+   "ts_iso": "2025-01-08T19:15:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1416578,
+   "key_id": "3670DEFC7F9434B90CB382C660F3D63E",
+   "ts_ms": 1736363744000,
+   "ts_iso": "2025-01-08T19:15:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De tienda móvil le saludo",
+   "starred": false
+  },
+  {
+   "id": 1416582,
+   "key_id": "93119BF0BF016456490B110142AB6C89",
+   "ts_ms": 1736363747000,
+   "ts_iso": "2025-01-08T19:15:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en camino",
+   "starred": false
+  }
+ ]
+}

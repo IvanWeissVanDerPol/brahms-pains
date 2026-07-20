@@ -1,0 +1,44 @@
+{
+ "chat_id": 15131,
+ "slug": "_wa_lid_273555795226716_15131",
+ "subject": null,
+ "jid_user": "273555795226716",
+ "jid_server": "lid",
+ "jid_raw": "273555795226716@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1772973,
+   "key_id": "ACA9208B089AE2CA608098DD472A11F9",
+   "ts_ms": 1778336461277,
+   "ts_iso": "2026-05-09T14:21:01.277000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260509-WA0011.jpg",
+    "size": 57459,
+    "duration_s": 0,
+    "sha256_b64": "zUdnYPbMxYXsxlZqJL5uCsEt+8rZ//ygJqQ6+qpRBIM=",
+    "media_name": "ecbcac26-e62f-4716-9e9c-66195f54fe78.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1773014,
+   "key_id": "AC9154032D2B06F61A73A5F7BFEF1087",
+   "ts_ms": 1778336914715,
+   "ts_iso": "2026-05-09T14:28:34.715000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Follow this link to join my WhatsApp group: https://chat.whatsapp.com/C5B8FB1WL7eD9RDcrb5KpK",
+   "starred": false
+  }
+ ]
+}

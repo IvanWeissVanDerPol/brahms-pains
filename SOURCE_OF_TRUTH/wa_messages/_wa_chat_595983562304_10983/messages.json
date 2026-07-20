@@ -1,0 +1,46 @@
+{
+ "chat_id": 10983,
+ "slug": "_wa_chat_595983562304_10983",
+ "subject": null,
+ "jid_user": "595983562304",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983562304@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1519030,
+   "key_id": "9DBE1B6F50529EDF028DCC184392FA26",
+   "ts_ms": 1751719692676,
+   "ts_iso": "2025-07-05T12:48:12.676000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Pareja joven busca trio o(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1519031,
+   "key_id": "5AB908E7BF182EEA594623C7F5AB7285",
+   "ts_ms": 1751719696669,
+   "ts_iso": "2025-07-05T12:48:16.669000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1519032,
+   "key_id": "68C5D86F93A956CD0F78C8DFF6A4FD52",
+   "ts_ms": 1751719703083,
+   "ts_iso": "2025-07-05T12:48:23.083000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy hombre Tengo 24",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "chat_id": 9591,
+ "slug": "_wa_chat_595981945426_9591",
+ "subject": null,
+ "jid_user": "595981945426",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981945426@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1400991,
+   "key_id": "CCF03CDD1E4EC1D6AC6BCEA6C6F27FCE",
+   "ts_ms": 1733677046444,
+   "ts_iso": "2024-12-08T16:57:26.444000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola te llamé recién",
+   "starred": false
+  },
+  {
+   "id": 1400992,
+   "key_id": "3EFB0E6B13BC1E4198F2C18406E9560A",
+   "ts_ms": 1733677047764,
+   "ts_iso": "2024-12-08T16:57:27.764000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Acá es",
+   "starred": false
+  },
+  {
+   "id": 1400994,
+   "key_id": "DFD111FD848315937A9516F8F12A3684",
+   "ts_ms": 1733677077440,
+   "ts_iso": "2024-12-08T16:57:57.440000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sería acoplar para cargar la batería \n\nDe mi auto",
+   "starred": false
+  },
+  {
+   "id": 1400995,
+   "key_id": "D0EFFB3AD67C66B88CA074D12BC4DCBB",
+   "ts_ms": 1733677151818,
+   "ts_iso": "2024-12-08T16:59:11.818000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te parece bien onda 20 o 30 Mill?",
+   "starred": false
+  },
+  {
+   "id": 1401072,
+   "key_id": "F277431773E4C48508C5EF0AB2CDC473",
+   "ts_ms": 1733693796000,
+   "ts_iso": "2024-12-08T21:36:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202450/PTT-20241208-WA0039.opus",
+    "size": 16717,
+    "duration_s": 8,
+    "sha256_b64": "Ek0TfYWptyOJ19U+YIRKgx2vXu+pr2dMoEU5jswkUBo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

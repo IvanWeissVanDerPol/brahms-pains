@@ -1,0 +1,46 @@
+{
+ "chat_id": 10351,
+ "slug": "_wa_chat_5493413296666_10351",
+ "subject": null,
+ "jid_user": "5493413296666",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "5493413296666@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1802886,
+   "key_id": "ACAEC0968D344594207F0C2ED7AF84CC",
+   "ts_ms": 1781202033522,
+   "ts_iso": "2026-06-11T18:20:33.522000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis te puedo comprar 2 entradas ?\nUna para dan y su pareja",
+   "starred": false
+  },
+  {
+   "id": 1802887,
+   "key_id": "3A14C4926779F6604CA8",
+   "ts_ms": 1781202055000,
+   "ts_iso": "2026-06-11T18:20:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si, obvio",
+   "starred": false
+  },
+  {
+   "id": 1808877,
+   "key_id": "3EB00BB57F4124F691B017",
+   "ts_ms": 1781712415000,
+   "ts_iso": "2026-06-17T16:06:55+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://chat.whatsapp.com/D3py06QFoEeA2jHLS5XjlA?s=sh&p=a&mlu=2&amv=3\n\nEn caso que estén chilling \nEstán súper welcome en casa el Finde uwuwuw",
+   "starred": false
+  }
+ ]
+}

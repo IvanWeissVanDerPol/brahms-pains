@@ -1,0 +1,95 @@
+{
+ "chat_id": 11922,
+ "slug": "_wa_chat_595992472217_11922",
+ "subject": null,
+ "jid_user": "595992472217",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992472217@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1580850,
+   "key_id": "ACC701A8761F193DCCBD71C71FCA9BE9",
+   "ts_ms": 1759575002533,
+   "ts_iso": "2025-10-04T10:50:02.533000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"SEMANA DE LOCURA 50MIL 20(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1580926,
+   "key_id": "AC97A654658385B1994875BFE11A38F6",
+   "ts_ms": 1759586900000,
+   "ts_iso": "2025-10-04T14:08:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "SOLO HASTA HOY PROMO DE LA SEMANA 50MIL 20MINUTITOS  100MIL 40MINUTOS DOBLE TERMINACIÓN ANAL 100MIL 25MINUTITOS estamos de 12 del medio dia a 2 de la madrugada J.A.Saldivar Rojas cañada km23",
+   "starred": false
+  },
+  {
+   "id": 1580929,
+   "key_id": "ACB2CC983405BF509A769856B3250E0A",
+   "ts_ms": 1759586901000,
+   "ts_iso": "2025-10-04T14:08:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 17824,
+    "duration_s": 0,
+    "sha256_b64": "9TBzlwmpDzAi1nhNfd3H1uh2Cf5Q+Br2cVymJ43tmTY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1580930,
+   "key_id": "ACE1E9319921EECE56B4D9A6BAF79DE2",
+   "ts_ms": 1759586901000,
+   "ts_iso": "2025-10-04T14:08:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "drZbinBDdEoMTcYebdf9VpUh/KprHHLIQzZPnb0ACoY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1580931,
+   "key_id": "AC05F178222DE1817EF09B53AEF43507",
+   "ts_ms": 1759586901000,
+   "ts_iso": "2025-10-04T14:08:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "3e8KXYmQ6fJaFdZkDloPx0lc5m2vJYNPTa7Yhce/M0U=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

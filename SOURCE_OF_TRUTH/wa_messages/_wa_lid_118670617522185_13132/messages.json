@@ -1,0 +1,24 @@
+{
+ "chat_id": 13132,
+ "slug": "_wa_lid_118670617522185_13132",
+ "subject": null,
+ "jid_user": "118670617522185",
+ "jid_server": "lid",
+ "jid_raw": "118670617522185@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1656925,
+   "key_id": "AC3DF8F65422B6C5AB4F91588B301630",
+   "ts_ms": 1768757362336,
+   "ts_iso": "2026-01-18T17:29:22.336000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "What app is this ?",
+   "starred": false
+  }
+ ]
+}

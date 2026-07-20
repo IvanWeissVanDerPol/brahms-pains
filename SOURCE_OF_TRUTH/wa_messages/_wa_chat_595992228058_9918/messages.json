@@ -1,0 +1,90 @@
+{
+ "chat_id": 9918,
+ "slug": "_wa_chat_595992228058_9918",
+ "subject": null,
+ "jid_user": "595992228058",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992228058@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1433818,
+   "key_id": "3F7C566E1F7B981011EC",
+   "ts_ms": 1739546474000,
+   "ts_iso": "2025-02-14T15:21:14+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1433819,
+   "key_id": "3F6147A78A652A24C952",
+   "ts_ms": 1739546486000,
+   "ts_iso": "2025-02-14T15:21:26+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "perdon pense que habia una confirmacion mas al final\ncon todos los datos",
+   "starred": false
+  },
+  {
+   "id": 1433822,
+   "key_id": "3F169BEDEE940A26F719",
+   "ts_ms": 1739546494000,
+   "ts_iso": "2025-02-14T15:21:34+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no puedo confirmar aun el vuelo",
+   "starred": false
+  },
+  {
+   "id": 1433824,
+   "key_id": "3F4777C0AC59847022FD",
+   "ts_ms": 1739546506000,
+   "ts_iso": "2025-02-14T15:21:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "necesito pasarle los detalles a mi gefe para que me apruebe",
+   "starred": false
+  },
+  {
+   "id": 1433828,
+   "key_id": "D1CC9FA48599AE5C44",
+   "ts_ms": 1739546722000,
+   "ts_iso": "2025-02-14T15:25:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Iavn",
+   "starred": false
+  },
+  {
+   "id": 1433829,
+   "key_id": "40882D9FB09D5AF7FF",
+   "ts_ms": 1739546727000,
+   "ts_iso": "2025-02-14T15:25:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Entiendo, no te preocupes",
+   "starred": false
+  },
+  {
+   "id": 1433830,
+   "key_id": "B36D19AF26980649C4",
+   "ts_ms": 1739546748000,
+   "ts_iso": "2025-02-14T15:25:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Daremos de baja esta reserva, podes tomar una nueva desde la web 😁🙌",
+   "starred": false
+  }
+ ]
+}

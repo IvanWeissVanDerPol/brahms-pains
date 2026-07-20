@@ -1,0 +1,46 @@
+{
+ "chat_id": 11556,
+ "slug": "_wa_chat_595971574241_11556",
+ "subject": null,
+ "jid_user": "595971574241",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971574241@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1559744,
+   "key_id": "9D50477B598B673E71F8EF6F553FDE79",
+   "ts_ms": 1756301342000,
+   "ts_iso": "2025-08-27T13:29:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": ".",
+   "starred": false
+  },
+  {
+   "id": 1559754,
+   "key_id": "384DF5F80F1C18A23D68376220C9978F",
+   "ts_ms": 1756301662256,
+   "ts_iso": "2025-08-27T13:34:22.256000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis uwu",
+   "starred": false
+  },
+  {
+   "id": 1559770,
+   "key_id": "F483725B63163BF3E0CA478C535B2E54",
+   "ts_ms": 1756302918312,
+   "ts_iso": "2025-08-27T13:55:18.312000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Piter sos vd?",
+   "starred": false
+  }
+ ]
+}

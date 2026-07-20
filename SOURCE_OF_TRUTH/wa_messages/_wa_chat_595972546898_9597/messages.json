@@ -1,0 +1,123 @@
+{
+ "chat_id": 9597,
+ "slug": "_wa_chat_595972546898_9597",
+ "subject": null,
+ "jid_user": "595972546898",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972546898@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1403462,
+   "key_id": "3A49405601EAF7D340D3",
+   "ts_ms": 1734126336000,
+   "ts_iso": "2024-12-13T21:45:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas amigo",
+   "starred": false
+  },
+  {
+   "id": 1403463,
+   "key_id": "3ACCD79FDF3DD8CBE593",
+   "ts_ms": 1734126338000,
+   "ts_iso": "2024-12-13T21:45:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te escribo",
+   "starred": false
+  },
+  {
+   "id": 1403464,
+   "key_id": "3AA32AE3E02D31F30F6C",
+   "ts_ms": 1734126350000,
+   "ts_iso": "2024-12-13T21:45:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por el tema de los filamentos para impresoras 3d",
+   "starred": false
+  },
+  {
+   "id": 1403503,
+   "key_id": "212830390716875D9A66CB8BC74F92F8",
+   "ts_ms": 1734128809833,
+   "ts_iso": "2024-12-13T22:26:49.833000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola sorry ya no vendo",
+   "starred": false
+  },
+  {
+   "id": 1403504,
+   "key_id": "3AC45BEA12F5CA84BFBE",
+   "ts_ms": 1734128825000,
+   "ts_iso": "2024-12-13T22:27:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahhh Ndeeee , esta bien",
+   "starred": false
+  },
+  {
+   "id": 1403505,
+   "key_id": "3A61401E6EF1BB4F0EF9",
+   "ts_ms": 1734128832000,
+   "ts_iso": "2024-12-13T22:27:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Algun lugar que me recomiendes",
+   "starred": false
+  },
+  {
+   "id": 1403506,
+   "key_id": "3A8F8B260AF6BF674F21",
+   "ts_ms": 1734128839000,
+   "ts_iso": "2024-12-13T22:27:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por si acaso ya que estabas en el rubro",
+   "starred": false
+  },
+  {
+   "id": 1403508,
+   "key_id": "D08A1728A137F06B0D47642BAA6CAA79",
+   "ts_ms": 1734128859424,
+   "ts_iso": "2024-12-13T22:27:39.424000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No conozco más quienes están en el negocio",
+   "starred": false
+  },
+  {
+   "id": 1403509,
+   "key_id": "4AED6E6946A00313BBCA387498B95DC0",
+   "ts_ms": 1734128869924,
+   "ts_iso": "2024-12-13T22:27:49.924000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ha e unos años ya no vendo",
+   "starred": false
+  },
+  {
+   "id": 1403515,
+   "key_id": "3ACCEF670C82C2A9A1B6",
+   "ts_ms": 1734129019000,
+   "ts_iso": "2024-12-13T22:30:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahhhh ya me pasaron tu numero crei que vendias aun",
+   "starred": false
+  }
+ ]
+}

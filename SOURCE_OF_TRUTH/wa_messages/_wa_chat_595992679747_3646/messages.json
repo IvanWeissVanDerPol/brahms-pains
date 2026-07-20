@@ -1,0 +1,68 @@
+{
+ "chat_id": 3646,
+ "slug": "_wa_chat_595992679747_3646",
+ "subject": null,
+ "jid_user": "595992679747",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992679747@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1122617,
+   "key_id": "CCBB3998CCFD1662134B5446F0DFA9D2",
+   "ts_ms": 1692386757000,
+   "ts_iso": "2023-08-18T19:25:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es mio, solo que no fui a tu casa",
+   "starred": false
+  },
+  {
+   "id": 1122626,
+   "key_id": "0BCE7725117053646874303E1E989F04",
+   "ts_ms": 1692387298608,
+   "ts_iso": "2023-08-18T19:34:58.608000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Xd",
+   "starred": false
+  },
+  {
+   "id": 1122627,
+   "key_id": "1BE3689B7DB3C0446621BEED003EC076",
+   "ts_ms": 1692387312000,
+   "ts_iso": "2023-08-18T19:35:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nde",
+   "starred": false
+  },
+  {
+   "id": 1122628,
+   "key_id": "9F1862AE4887CCEF7D83EEE8FCEE84DF",
+   "ts_ms": 1692387315000,
+   "ts_iso": "2023-08-18T19:35:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Consulta técnica",
+   "starred": false
+  },
+  {
+   "id": 1122629,
+   "key_id": "9654981541BDEE4A4A8ACCBA1577F55F",
+   "ts_ms": 1692387318000,
+   "ts_iso": "2023-08-18T19:35:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vos sos furro?",
+   "starred": false
+  }
+ ]
+}

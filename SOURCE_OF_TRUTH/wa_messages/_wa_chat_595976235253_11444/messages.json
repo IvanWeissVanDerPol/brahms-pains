@@ -1,0 +1,24 @@
+{
+ "chat_id": 11444,
+ "slug": "_wa_chat_595976235253_11444",
+ "subject": null,
+ "jid_user": "595976235253",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976235253@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581419,
+   "key_id": "ACA7D084F31858C60E1237FA397EFDB0",
+   "ts_ms": 1759637112073,
+   "ts_iso": "2025-10-05T04:05:12.073000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"MAGALI SANLO !!\", y me gustaría quedar contigo.",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "chat_id": 10158,
+ "slug": "_wa_chat_595981383649_10158",
+ "subject": null,
+ "jid_user": "595981383649",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981383649@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1446829,
+   "key_id": "9D5EAC416E7F64134E11FE40EC7C7061",
+   "ts_ms": 1741801050000,
+   "ts_iso": "2025-03-12T17:37:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes Ivan como estás? Te saluda Raúl Villalba, Team Leader del área de QA de Bancard, nos pasaron tu CV y nos interesó, queremos coordinar contigo una llamada para una entrevista contigo si se puede para mañana a las 13.30hs si te parece bien?",
+   "starred": false
+  },
+  {
+   "id": 1446845,
+   "key_id": "F90010B53767598A76D643D3ABBE4448",
+   "ts_ms": 1741803204150,
+   "ts_iso": "2025-03-12T18:13:24.150000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Raúl \n\nMañana a las 13 30 tengo meetings \n\nEstoy libre \nde 12 a 1 \nde 14 a 16\nY 17+",
+   "starred": false
+  },
+  {
+   "id": 1446892,
+   "key_id": "E8971616EFA9890829C99FB553228945",
+   "ts_ms": 1741810026000,
+   "ts_iso": "2025-03-12T20:07:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias Ivan, te reconfirmo horario en caso de conseguir un espacio.",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "chat_id": 6604,
+ "slug": "_wa_chat_595981246776_6604",
+ "subject": null,
+ "jid_user": "595981246776",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981246776@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1286874,
+   "key_id": "6901E880D96E0FB72354DAC331DCEFCE",
+   "ts_ms": 1715450014253,
+   "ts_iso": "2024-05-11T17:53:34.253000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.canva.com/design/DAGD7MCWSyY/yFdla7TAocjxIN3-pxiNjA/edit?utm_content=DAGD7MCWSyY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+   "starred": false
+  }
+ ]
+}

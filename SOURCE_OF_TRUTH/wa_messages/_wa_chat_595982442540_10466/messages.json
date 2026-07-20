@@ -1,0 +1,57 @@
+{
+ "chat_id": 10466,
+ "slug": "_wa_chat_595982442540_10466",
+ "subject": null,
+ "jid_user": "595982442540",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982442540@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1767459,
+   "key_id": "159CBB3EB25D04B14B",
+   "ts_ms": 1777905960000,
+   "ts_iso": "2026-05-04T14:46:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esta actualización acompaña la evolución de los servicios digitales 📲 y nos permite ofrecerte la mejor red 📶 y la mayor cobertura 📡, con beneficios exclusivos en tu plan 🎁",
+   "starred": false
+  },
+  {
+   "id": 1767462,
+   "key_id": "ACB5E40F15060821C713BA8253ED21AC",
+   "ts_ms": 1777906015968,
+   "ts_iso": "2026-05-04T14:46:55.968000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No me interesa \nComo puedo downgrade a más barato ?",
+   "starred": false
+  },
+  {
+   "id": 1767469,
+   "key_id": "AC1F6D31A6E8BDB917D70A9F3B334199",
+   "ts_ms": 1777906353970,
+   "ts_iso": "2026-05-04T14:52:33.970000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A que número llamo para hablar?",
+   "starred": false
+  },
+  {
+   "id": 1767474,
+   "key_id": "9344E625091D312D8B",
+   "ts_ms": 1777906728000,
+   "ts_iso": "2026-05-04T14:58:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Un placer poder ayudarte.\r\n¡Hasta pronto! 👋",
+   "starred": false
+  }
+ ]
+}

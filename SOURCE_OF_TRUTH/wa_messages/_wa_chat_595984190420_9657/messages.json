@@ -1,0 +1,33 @@
+{
+ "chat_id": 9657,
+ "slug": "_wa_chat_595984190420_9657",
+ "subject": null,
+ "jid_user": "595984190420",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984190420@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1410104,
+   "key_id": "7960BD11FCEABDA9D6DE0D813D6ED8C8",
+   "ts_ms": 1735174016293,
+   "ts_iso": "2024-12-26T00:46:56.293000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Hola me parece perfecto \nMándame nomás y vemos que supplies pedimos:)",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20241225-WA0009.jpg",
+    "size": 85048,
+    "duration_s": 0,
+    "sha256_b64": "chcvI8iIttUhrapPJiJoMFWf4009vx1Osnru1ihuKLs=",
+    "media_name": "bfbc7a91-4337-4b1e-a121-9d8ca081d813.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,119 @@
+{
+ "chat_id": 10320,
+ "slug": "_wa_chat_595976909490_10320",
+ "subject": null,
+ "jid_user": "595976909490",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976909490@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1455652,
+   "key_id": "D4AF87CD54BED02340E9051533EA2036",
+   "ts_ms": 1743163718188,
+   "ts_iso": "2025-03-28T12:08:38.188000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250328-WA0000.jpg",
+    "size": 71499,
+    "duration_s": 0,
+    "sha256_b64": "CgMZv1AHU83Axves5Y6tGruWFWHzpGF76ls8eszFrBk=",
+    "media_name": "5e90d2b2-407a-4057-bb58-ce0675f27378.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1457232,
+   "key_id": "40EB3C9D323E15AFAC4E4930AE9D26EA",
+   "ts_ms": 1743363230944,
+   "ts_iso": "2025-03-30T19:33:50.944000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1457233,
+   "key_id": "20F1FD282D4D3892F928C1165B945744",
+   "ts_ms": 1743363234669,
+   "ts_iso": "2025-03-30T19:33:54.669000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Casa cuanto pasan?",
+   "starred": false
+  },
+  {
+   "id": 1457236,
+   "key_id": "016EEEE15ED9BAECCA6F9C357FD1E4CA",
+   "ts_ms": 1743363249918,
+   "ts_iso": "2025-03-30T19:34:09.918000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me gustaría pedirles onda 10 o 15 pollos frescos",
+   "starred": false
+  },
+  {
+   "id": 1457237,
+   "key_id": "770E643136E747978D79C4895480BDEB",
+   "ts_ms": 1743363256080,
+   "ts_iso": "2025-03-30T19:34:16.080000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para condimentar y congelar en casa",
+   "starred": false
+  },
+  {
+   "id": 1457396,
+   "key_id": "DFC064C19904D9F633E73B79BB3B652D",
+   "ts_ms": 1743378785000,
+   "ts_iso": "2025-03-30T23:53:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202514/PTT-20250330-WA0027.opus",
+    "size": 33343,
+    "duration_s": 14,
+    "sha256_b64": "hS0ULD5q6XeQZHFThBSMcNW+9sy8cDfjWX3A82BAE5w=",
+    "media_name": "PTT-20250330-WA0027.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1457397,
+   "key_id": "54C59C831F130F4B88F3CD8CA952341D",
+   "ts_ms": 1743378820500,
+   "ts_iso": "2025-03-30T23:53:40.500000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok\nMe podes pasar sus precios porfa :)",
+   "starred": false
+  },
+  {
+   "id": 1457398,
+   "key_id": "BBBC1805FAF13893F280763E074B170D",
+   "ts_ms": 1743378827796,
+   "ts_iso": "2025-03-30T23:53:47.796000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Así te preparo una lista :)",
+   "starred": false
+  }
+ ]
+}

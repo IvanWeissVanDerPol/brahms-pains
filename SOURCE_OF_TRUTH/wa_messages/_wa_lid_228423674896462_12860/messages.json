@@ -1,0 +1,90 @@
+{
+ "chat_id": 12860,
+ "slug": "_wa_lid_228423674896462_12860",
+ "subject": null,
+ "jid_user": "228423674896462",
+ "jid_server": "lid",
+ "jid_raw": "228423674896462@lid",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1630039,
+   "key_id": "ACE53B648F6099991E7A20400FD50D6B",
+   "ts_ms": 1765755383557,
+   "ts_iso": "2025-12-14T23:36:23.557000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola 👋",
+   "starred": false
+  },
+  {
+   "id": 1630040,
+   "key_id": "A5D881BBE71ED744935E7616BAEAB05F",
+   "ts_ms": 1765755386000,
+   "ts_iso": "2025-12-14T23:36:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con PARTY. ¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1630041,
+   "key_id": "ACB68A0AA402F5D1841D2263C734CA9B",
+   "ts_ms": 1765755422405,
+   "ts_iso": "2025-12-14T23:37:02.405000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy Iván soy solo\nTengo 25 vivo en San Lorenzo \n\nMe pasaron el contacto para un grupo swinger puede ser ?",
+   "starred": false
+  },
+  {
+   "id": 1630043,
+   "key_id": "A5316DBE441C090979A53A4CF7C683A2",
+   "ts_ms": 1765755569000,
+   "ts_iso": "2025-12-14T23:39:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas 🤗",
+   "starred": false
+  },
+  {
+   "id": 1630044,
+   "key_id": "A51EEDB5F8478E9605985AA9E4DFE33A",
+   "ts_ms": 1765755604000,
+   "ts_iso": "2025-12-14T23:40:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nuestro grupo de WhatsApp sería solo para los clientes del local que queda en Capiata",
+   "starred": false
+  },
+  {
+   "id": 1630045,
+   "key_id": "AC6FF95408B2B57CAD8A24BEB1DBD328",
+   "ts_ms": 1765755671583,
+   "ts_iso": "2025-12-14T23:41:11.583000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya \n\nMe encantaría ir al local en algún evento que hagan \n\n un fla lejos \nPero re me organizo y voy :)",
+   "starred": false
+  },
+  {
+   "id": 1630046,
+   "key_id": "ACEE46BFFE084568A5746FCAAF801CCA",
+   "ts_ms": 1765755695928,
+   "ts_iso": "2025-12-14T23:41:35.928000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O si saben de algún club similar por sanlo o asu estaría super agradecido",
+   "starred": false
+  }
+ ]
+}

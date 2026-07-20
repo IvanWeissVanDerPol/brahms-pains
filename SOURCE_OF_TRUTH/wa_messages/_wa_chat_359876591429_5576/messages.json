@@ -1,0 +1,68 @@
+{
+ "chat_id": 5576,
+ "slug": "_wa_chat_359876591429_5576",
+ "subject": null,
+ "jid_user": "359876591429",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "359876591429@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1234664,
+   "key_id": "C948311DC613D5207BD6C2703EEB68D5",
+   "ts_ms": 1707251633000,
+   "ts_iso": "2024-02-06T20:33:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hey, it's Kate! Can you let me know how much money I should give you for both me and Nick? For the bbq and the other food and drinks pls 😁",
+   "starred": false
+  },
+  {
+   "id": 1234690,
+   "key_id": "10C4848DB9A35E609E50C2CF898217A0",
+   "ts_ms": 1707252762424,
+   "ts_iso": "2024-02-06T20:52:42.424000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I think Lili Sent me your part and mentioned she would balance the books later ?",
+   "starred": false
+  },
+  {
+   "id": 1234691,
+   "key_id": "3326D7E130F9814571DB1A46DA409E93",
+   "ts_ms": 1707252839194,
+   "ts_iso": "2024-02-06T20:53:59.194000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "But it would be 33.500 per person n.n\nSo 67 for the 2 of you n.n",
+   "starred": false
+  },
+  {
+   "id": 1234716,
+   "key_id": "DA9428A21613A171090163FB9999F294",
+   "ts_ms": 1707255064000,
+   "ts_iso": "2024-02-06T21:31:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "So I give that to Lili, yes?",
+   "starred": false
+  },
+  {
+   "id": 1234719,
+   "key_id": "4E56640A2C71603B8E",
+   "ts_ms": 1707255485000,
+   "ts_iso": "2024-02-06T21:38:05+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "yep",
+   "starred": false
+  }
+ ]
+}

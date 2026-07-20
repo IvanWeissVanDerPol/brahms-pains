@@ -1,0 +1,24 @@
+{
+ "chat_id": 10883,
+ "slug": "_wa_chat_595981967672_10883",
+ "subject": null,
+ "jid_user": "595981967672",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981967672@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1515400,
+   "key_id": "0B85C69ABA011ADE0B10091C799B42BE",
+   "ts_ms": 1751121561000,
+   "ts_iso": "2025-06-28T14:39:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas.. 🤗\nLe saludamos del área comercial de *Bristol S.A*🏬\nPara mencionarle que tenemos promociones y precios increíbles para esta temporada 🥶\nEn artículos como:\n *_Televisores_* \n *_Microondas_* \n *_Motocicletas_* \n *_Heladeras_* \nY mucho más... hace tu pedido!! 🥳🙂‍↕\nLe gustaría adquirir algún producto?😉",
+   "starred": false
+  }
+ ]
+}

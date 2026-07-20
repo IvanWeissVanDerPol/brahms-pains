@@ -1,0 +1,123 @@
+{
+ "chat_id": 6527,
+ "slug": "_wa_chat_595982810360_6527",
+ "subject": null,
+ "jid_user": "595982810360",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982810360@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1270544,
+   "key_id": "4A7E23E25DA6B9E8FC6D6BE763FB0534",
+   "ts_ms": 1712551203000,
+   "ts_iso": "2024-04-08T04:40:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holii.. soy Alex",
+   "starred": false
+  },
+  {
+   "id": 1270545,
+   "key_id": "06A60AD769C699AD50C0C76359E65941",
+   "ts_ms": 1712551206000,
+   "ts_iso": "2024-04-08T04:40:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🐸",
+   "starred": false
+  },
+  {
+   "id": 1270546,
+   "key_id": "CDE6287F8AA61E8215846539CA2A28A8",
+   "ts_ms": 1712551211000,
+   "ts_iso": "2024-04-08T04:40:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llegue super!",
+   "starred": false
+  },
+  {
+   "id": 1270547,
+   "key_id": "5D115ED870F5CFF4B9F95A0B7C40DA20",
+   "ts_ms": 1712551243000,
+   "ts_iso": "2024-04-08T04:40:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pasame tus datis asi te transfiero mañanaaa por mi partee.. all legar me dijo que era tarjeta👉🏻👈🏻",
+   "starred": false
+  },
+  {
+   "id": 1270548,
+   "key_id": "357E5E80A273C2E693F281C851DC5D1A",
+   "ts_ms": 1712551263000,
+   "ts_iso": "2024-04-08T04:41:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bs ns✨",
+   "starred": false
+  },
+  {
+   "id": 1270612,
+   "key_id": "AA6E2F4566C1B05D3C613F02C3E148CA",
+   "ts_ms": 1712589527714,
+   "ts_iso": "2024-04-08T15:18:47.714000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Álex \nMe alegro que hayas llegado bien ayer \n\nTe paso mi alias\nweissvanderpol.ivan@gmail.com \n\nEra 20.000 hasta casa si recuerdo bien \n\nY el total es de 40k\n\nSería un 20k tu parte 🐈‍⬛",
+   "starred": false
+  },
+  {
+   "id": 1270615,
+   "key_id": "D0F7A74B1E80C309B942048CB7D445EC",
+   "ts_ms": 1712589622466,
+   "ts_iso": "2024-04-08T15:20:22.466000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Éxitos en tu día jsjsjs\nRecuerdo que empezabas onda las 5 😬",
+   "starred": false
+  },
+  {
+   "id": 1270616,
+   "key_id": "0EB8D750C6ADDC1E1500997CF13B8214",
+   "ts_ms": 1712589646000,
+   "ts_iso": "2024-04-08T15:20:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero como te transfiero ah,i😆",
+   "starred": false
+  },
+  {
+   "id": 1270617,
+   "key_id": "4B3A3F40027271346D78B41BDCA06348",
+   "ts_ms": 1712589699991,
+   "ts_iso": "2024-04-08T15:21:39.991000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En varios bancos tiene la opción de usar alias para no cargar todos los datos de la persona \n\nPero te paso un fla mis datos completos n.n",
+   "starred": false
+  },
+  {
+   "id": 1270618,
+   "key_id": "5A9E13719EA96395F1B9D348089ECB90",
+   "ts_ms": 1712589751867,
+   "ts_iso": "2024-04-08T15:22:31.867000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Datos para la transferencia*\n\nNombre:\nIVAN WEISS VAN DER POL\nCédula de identidad:\n5897596\nEntidad:\nUeno\nNro. de cuenta:\n619195252\nMoneda de la cuenta:\nGs",
+   "starred": false
+  }
+ ]
+}

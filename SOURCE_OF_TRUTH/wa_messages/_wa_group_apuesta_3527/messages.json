@@ -1,0 +1,79 @@
+{
+ "chat_id": 3527,
+ "slug": "_wa_group_apuesta_3527",
+ "subject": "Apuesta",
+ "jid_user": "120363160370764004",
+ "jid_server": "g.us",
+ "jid_raw": "120363160370764004@g.us",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1100448,
+   "key_id": "AC9308592B1188E35CE0F8515AABD776",
+   "ts_ms": 1688833706000,
+   "ts_iso": "2023-07-08T16:28:26+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "Acá @595972130867",
+   "starred": false
+  },
+  {
+   "id": 1100449,
+   "key_id": "4E53C09F5CD6198238E0E9C0AED029D1",
+   "ts_ms": 1688833710000,
+   "ts_iso": "2023-07-08T16:28:30+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "Acá no está Rodas",
+   "starred": false
+  },
+  {
+   "id": 1100450,
+   "key_id": "3EB03039CCFB96BEC29FBD",
+   "ts_ms": 1688833720000,
+   "ts_iso": "2023-07-08T16:28:40+00:00",
+   "from_me": false,
+   "sender_jid": "595984160109@s.whatsapp.net",
+   "type": 0,
+   "text": "xd",
+   "starred": false
+  },
+  {
+   "id": 1100452,
+   "key_id": "254823CEA5886AB44E1496F718DB9F4C",
+   "ts_ms": 1688833775000,
+   "ts_iso": "2023-07-08T16:29:35+00:00",
+   "from_me": false,
+   "sender_jid": "595983738040@s.whatsapp.net",
+   "type": 0,
+   "text": "Y que tiene que ver? Literal a junior nomás le debo. No se para que un grupo",
+   "starred": false
+  },
+  {
+   "id": 1100455,
+   "key_id": "086CB347D717C19BEB76CAA5C441EEF6",
+   "ts_ms": 1688833830000,
+   "ts_iso": "2023-07-08T16:30:30+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "JAJAJAJAJAJAJAJAJAJAJAJ",
+   "starred": false
+  },
+  {
+   "id": 1100461,
+   "key_id": "FD70E134136DD2B924A0934AF82A662C",
+   "ts_ms": 1688834068000,
+   "ts_iso": "2023-07-08T16:34:28+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 0,
+   "text": "JAAJAJJ",
+   "starred": false
+  }
+ ]
+}

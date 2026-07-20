@@ -1,0 +1,46 @@
+{
+ "chat_id": 9179,
+ "slug": "_wa_chat_595991196568_9179",
+ "subject": null,
+ "jid_user": "595991196568",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991196568@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1376167,
+   "key_id": "E7F81E31D26386AAD6A2FAC43245BA1C",
+   "ts_ms": 1729638823000,
+   "ts_iso": "2024-10-22T23:13:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes",
+   "starred": false
+  },
+  {
+   "id": 1376168,
+   "key_id": "123C62F8519733995A83C84EAE2E78E5",
+   "ts_ms": 1729638847000,
+   "ts_iso": "2024-10-22T23:14:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasaron este número para hacer la compra de filamentos para impresora 3d",
+   "starred": false
+  },
+  {
+   "id": 1376170,
+   "key_id": "81A41A5AC8EC682FB0DC3BE2C83D5948",
+   "ts_ms": 1729638949000,
+   "ts_iso": "2024-10-22T23:15:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Filamentos epet tendría?",
+   "starred": false
+  }
+ ]
+}

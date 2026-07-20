@@ -1,0 +1,172 @@
+{
+ "chat_id": 6575,
+ "slug": "_wa_chat_595984787482_6575",
+ "subject": null,
+ "jid_user": "595984787482",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984787482@s.whatsapp.net",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1281327,
+   "key_id": "A3477D84AE9367D3D9E046D9B257FFB7",
+   "ts_ms": 1714516905825,
+   "ts_iso": "2024-04-30T22:41:45.825000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240430-WA0012.jpg",
+    "size": 119715,
+    "duration_s": 0,
+    "sha256_b64": "H4cElz5G9UsdRM35Uoz/Gcn7f/AP0yWjhHFY5shtI84=",
+    "media_name": "8536554b-0a69-4596-86f9-6580b68a776e.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1281877,
+   "key_id": "1942448DE5F5EE0CDCA022FF80D332EF",
+   "ts_ms": 1714659100000,
+   "ts_iso": "2024-05-02T14:11:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia",
+   "starred": false
+  },
+  {
+   "id": 1281878,
+   "key_id": "C51FA6993659170983A32A55DE8BE100",
+   "ts_ms": 1714659100000,
+   "ts_iso": "2024-05-02T14:11:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La transferencia del martes no se acredito en nuestra cuenta",
+   "starred": false
+  },
+  {
+   "id": 1281879,
+   "key_id": "2D8ACE7F60CDEA4F93E39617C545A3BD",
+   "ts_ms": 1714659101000,
+   "ts_iso": "2024-05-02T14:11:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Podrias verificar de nuevo por favor",
+   "starred": false
+  },
+  {
+   "id": 1281883,
+   "key_id": "428EFDB5D11ACE46EE8EA41EFFD358CB",
+   "ts_ms": 1714659239000,
+   "ts_iso": "2024-05-02T14:13:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240502-WA0012.jpg",
+    "size": 75602,
+    "duration_s": 0,
+    "sha256_b64": "fbh0UlfolkRFtjYKnfz1Ij9pKMso3q6LQqtXPKVClA0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1281890,
+   "key_id": "59EA2F40E8242D0EDD5B0E42A444C6A7",
+   "ts_ms": 1714660358154,
+   "ts_iso": "2024-05-02T14:32:38.154000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240502-WA0013.jpg",
+    "size": 119661,
+    "duration_s": 0,
+    "sha256_b64": "/QNMmCDBcSXEqxwz+KsIGfpIgxjRFPbWeCirAu8y4uw=",
+    "media_name": "80b2cce0-b1d3-475c-a850-9cf5cc43506b.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1281905,
+   "key_id": "3EB0A0C3CE91D8E47F63F4",
+   "ts_ms": 1714662931000,
+   "ts_iso": "2024-05-02T15:15:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me indican que no se acreditó la transferencia",
+   "starred": false
+  },
+  {
+   "id": 1281906,
+   "key_id": "3EB073A6629F6417D5E024",
+   "ts_ms": 1714662952000,
+   "ts_iso": "2024-05-02T15:15:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "por favor si podrias pasar a abonar en efectivo",
+   "starred": false
+  },
+  {
+   "id": 1281907,
+   "key_id": "5F9D04A7C8BF1C71E593B26B083D3B43",
+   "ts_ms": 1714662962949,
+   "ts_iso": "2024-05-02T15:16:02.949000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Podes ver si están bien los datos?",
+   "starred": false
+  },
+  {
+   "id": 1281909,
+   "key_id": "3FDC301A14C8B567043867A9EF334BDA",
+   "ts_ms": 1714662979084,
+   "ts_iso": "2024-05-02T15:16:19.084000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Asi me sale al tratar de actualizar",
+   "starred": false
+  },
+  {
+   "id": 1281910,
+   "key_id": "873F3243E0083B67B0CB37F5CC9591F5",
+   "ts_ms": 1714663007214,
+   "ts_iso": "2024-05-02T15:16:47.214000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Veo de pasar cuando esté por sanlo otravez \n\n\nEstoy por Oviedo ahora :(",
+   "starred": false
+  },
+  {
+   "id": 1281911,
+   "key_id": "532EDA905333CC09E9E5A657D4852532",
+   "ts_ms": 1714663270000,
+   "ts_iso": "2024-05-02T15:21:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Podrias ponerle los puntitos al S.R.L por favor puede que sea por eso",
+   "starred": false
+  }
+ ]
+}

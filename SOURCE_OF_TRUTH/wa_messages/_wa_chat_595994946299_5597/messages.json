@@ -1,0 +1,46 @@
+{
+ "chat_id": 5597,
+ "slug": "_wa_chat_595994946299_5597",
+ "subject": null,
+ "jid_user": "595994946299",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994946299@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581488,
+   "key_id": "AC23670382ADB8434A36150782659631",
+   "ts_ms": 1759639698850,
+   "ts_iso": "2025-10-05T04:48:18.850000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1581489,
+   "key_id": "ACC99CE224D82BC628FB08337CD9AC32",
+   "ts_ms": 1759639739952,
+   "ts_iso": "2025-10-05T04:48:59.952000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quienes están?",
+   "starred": false
+  },
+  {
+   "id": 1581491,
+   "key_id": "A59AB2C7A6C07C25BACB54CC97663D1C",
+   "ts_ms": 1759639806000,
+   "ts_iso": "2025-10-05T04:50:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cerrado",
+   "starred": false
+  }
+ ]
+}

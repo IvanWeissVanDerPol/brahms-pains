@@ -1,0 +1,187 @@
+{
+ "chat_id": 1719,
+ "slug": "_wa_chat_595971194933_1719",
+ "subject": null,
+ "jid_user": "595971194933",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971194933@s.whatsapp.net",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 924624,
+   "key_id": "17B6757341638E6F478FBD04E73AB06E",
+   "ts_ms": 1658421981000,
+   "ts_iso": "2022-07-21T16:46:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "JAJAJAJAJA NOOOOOOO",
+   "starred": false
+  },
+  {
+   "id": 924625,
+   "key_id": "6528E2D328A45CB9B8EE55D310166640",
+   "ts_ms": 1658421995000,
+   "ts_iso": "2022-07-21T16:46:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasas el video pls? Xd",
+   "starred": false
+  },
+  {
+   "id": 924634,
+   "key_id": "89D6E4D4D4CA1C35FC3B0C227523624A",
+   "ts_ms": 1658422280841,
+   "ts_iso": "2022-07-21T16:51:20.841000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/VID-20220721-WA0038.mp4",
+    "size": 320059,
+    "duration_s": 18,
+    "sha256_b64": "zk+5A1ZgiBasRXarf8QSqWwlryGyEoGeG3ayy12TSIo=",
+    "media_name": "cab80956-b224-4342-af81-3bb562bf39ac.mp4",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 924647,
+   "key_id": "8A3162BF8DD223B91F4DB81E8D17FD18",
+   "ts_ms": 1658422554000,
+   "ts_iso": "2022-07-21T16:55:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Graciaas xd",
+   "starred": false
+  },
+  {
+   "id": 924649,
+   "key_id": "2E9FF4E4F964587E4840DE812EEEFFEF",
+   "ts_ms": 1658422570982,
+   "ts_iso": "2022-07-21T16:56:10.982000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://pivigames.blog/stray-pc-espanol/",
+   "starred": false
+  },
+  {
+   "id": 926087,
+   "key_id": "CF50A129E400A7DB3412E408B927AB9C",
+   "ts_ms": 1658513788000,
+   "ts_iso": "2022-07-22T18:16:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "NOOO los gatitos se quedan sin hogaaar",
+   "starred": false
+  },
+  {
+   "id": 926088,
+   "key_id": "7CEC0144599E14A4B138D335D5C1DA28",
+   "ts_ms": 1658513802000,
+   "ts_iso": "2022-07-22T18:16:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por que ya baje pirata :'u",
+   "starred": false
+  },
+  {
+   "id": 926250,
+   "key_id": "FEE3C97EF2EACFAED3121D2CF3F6904D",
+   "ts_ms": 1658526112444,
+   "ts_iso": "2022-07-22T21:41:52.444000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jaja",
+   "starred": false
+  },
+  {
+   "id": 1077528,
+   "key_id": "D8B36BC96DE548BA1AC8E3AFE719ADD2",
+   "ts_ms": 1685151777000,
+   "ts_iso": "2023-05-27T01:42:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuando entras al cuarto del estudiante de IIN",
+   "starred": false
+  },
+  {
+   "id": 1077529,
+   "key_id": "04B7C06B823036C3A0A2CF8405DF5FAA",
+   "ts_ms": 1685151797032,
+   "ts_iso": "2023-05-27T01:43:17.032000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Programador Linux be like",
+   "starred": false
+  },
+  {
+   "id": 1077530,
+   "key_id": "50D63FE6A70A37449E0BA97FC457F2DA",
+   "ts_ms": 1685151798073,
+   "ts_iso": "2023-05-27T01:43:18.073000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okno",
+   "starred": false
+  },
+  {
+   "id": 1077533,
+   "key_id": "3D2A9845B7D60784B15D47947C590202",
+   "ts_ms": 1685152892000,
+   "ts_iso": "2023-05-27T02:01:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "JAJAJAJJAJAJAJAKAKAKKAKA",
+   "starred": false
+  },
+  {
+   "id": 1077534,
+   "key_id": "65F08298AE8EB5A4179F5BE30BBEF713",
+   "ts_ms": 1685152947000,
+   "ts_iso": "2023-05-27T02:02:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "JAJAJAJAJJA por si despues la oficina pasa a ser sex dungeon",
+   "starred": false
+  },
+  {
+   "id": 1077712,
+   "key_id": "11B40647EF62D56D526616652A4A42CD",
+   "ts_ms": 1685217202970,
+   "ts_iso": "2023-05-27T19:53:22.970000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Misma pieza es",
+   "starred": false
+  },
+  {
+   "id": 1077713,
+   "key_id": "D1E319F6FD68097C2E920A48784AC79B",
+   "ts_ms": 1685217203777,
+   "ts_iso": "2023-05-27T19:53:23.777000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajaja",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "chat_id": 3521,
+ "slug": "_wa_group_cursos_de_invierno_2023_3521",
+ "subject": "❄️ Cursos de Invierno 2023",
+ "jid_user": "120363161394266746",
+ "jid_server": "g.us",
+ "jid_raw": "120363161394266746@g.us",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1100417,
+   "key_id": "3AE338CDFC7F0B1B7DA0",
+   "ts_ms": 1688832632000,
+   "ts_iso": "2023-07-08T16:10:32+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": "¡Hola a todos los voluntarios! 🌟 \n\nQuiero agradecerles de corazón por su increíble dedicación durante la primera semana de tareas. Sin ustedes, esto no sería posible. 🙌🏼🙏🏼 ¡Son simplemente asombrosos! 💪🏼💯\n\nEsta semana recibirán más tareas para continuar con este gran trabajo en equipo. ¡Vamos juntos por más éxitos! 💪🏼🚀\n\nQuiero también recordarles que si aún no se han unido al grupo general de WhatsApp, les animo a hacerlo. 🙌\n\n🔗 *Grupo de WhatsApp General*: https://tinyurl.com/VoluntariosCI2023",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "EBxcSv6UoyMB2hwP7gpKWPUegxdLwzq2ZgAeUyVSrHg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1102051,
+   "key_id": "3EB07F27247B3C6DB11A65",
+   "ts_ms": 1689085115000,
+   "ts_iso": "2023-07-11T14:18:35+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 0,
+   "text": "*| CURSOS DE INVIERNO 2️⃣0️⃣2️⃣3️⃣| 💻💡*\n\nDesde la Delegación de LCIK, IIN y LCI, el Club de Robótica de la FP-UNA, la Rama Estudiantil de la UNA y el Computer Society SBC UNA, el Club de Informática de la FP-UNA, hacemos posible una edición más de cursos, con el propósito de contribuir a la formación profesional de los interesados.\n\nLos cursos son *gratuitos*. Abierto a todo público 🙌🏼\n\nPodes encontrar el formulario de inscripción de cada curso en el siguiente link: \n\n🔗 linktr.ee/delegacion_lcik\n\nObservación: Asegúrate de inscribirte en el formulario correcto.\n\n📌 Las inscripciones estarán disponibles hasta el Domingo 16 de Julio.\nCupos limitados ⚠️\nNo te pierdas esta oportunidad de seguir aprendiendo ❗\n\nhttps://www.instagram.com/p/CuihDTQMxzP",
+   "starred": false
+  },
+  {
+   "id": 1102377,
+   "key_id": "1BD09AA3123853468F49EAE6F74FC1AA",
+   "ts_ms": 1689128664000,
+   "ts_iso": "2023-07-12T02:24:24+00:00",
+   "from_me": false,
+   "sender_jid": "595984298494@s.whatsapp.net",
+   "type": 1,
+   "text": "El 20 de Julio es el día mundial del Ajedrez, y desde la secretaría de Deportes del CEP queremos celebrarlo de la mejor manera, por eso te presentamos el \n♟️ Torneo de Ajedrez FP-UNA ♟️🏆\n\n📅 Fecha: Sábado 22 de Julio de 2023\n⏰ Hora de inicio: 9:00 AM\n📍 Lugar: Aula Magna de la Facultad Politécnica\n💰 Costo de inscripción: 20.000 Gs.\n\n\n¡Demuestra tu destreza ajedrecística y vive la emoción de cada movimiento como Beth Harmon! ✨\n\nNo importa si eres principiante o un maestro del tablero, todos son bienvenidos. 🙌🏼\n\n#CEPUNAPY #ajedrez #torneo #politécnica",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230711-WA0029.jpg",
+    "size": 185278,
+    "duration_s": 0,
+    "sha256_b64": "vXge/1J0AxM5BCBrkp+IHPgpd8yoC/8eWKvUoKxnIyo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1103010,
+   "key_id": "7CD6E409786473CF3219391371C9D20E",
+   "ts_ms": 1689260210000,
+   "ts_iso": "2023-07-13T14:56:50+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230713-WA0026.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "sRnHjWcS53I1TnQ9s8tuAQq07NRAl2Usc1mLpjzom6s=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1104089,
+   "key_id": "3EB04E71D63CB2DF12A729",
+   "ts_ms": 1689373642000,
+   "ts_iso": "2023-07-14T22:27:22+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 0,
+   "text": "*| Taller de LLMs y Prompt - Engineering |* 🌐\nBuenas noches, desde la _Sociedad de Computación del IEEE, Rama Estudiantil de la UNA y organizaciones aliadas_ , les hacemos llegar la invitación al taller, el cual estamos transmitiendo en vivo a través de nuestro canal de YouTube 🤩\n🔗*Accede a la transmisión a través del siguiente link:* https://youtube.com/live/ncVgiFUSET4",
+   "starred": false
+  },
+  {
+   "id": 1104433,
+   "key_id": "3EB0C1E1BDFEE4834F9E7E",
+   "ts_ms": 1689442343000,
+   "ts_iso": "2023-07-15T17:32:23+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 0,
+   "text": "👋 Hola voluntarios !!\n\nSe acercan las clases de invierno !! Les dejamos aquí unas instrucciones para los voluntarios de apoyo sobre las inscripciones de los alumnos, la asistencia, las grabaciones, etc.\n\n🔗 Tasks Apoyo:\n\nhttps://tinyurl.com/TasksApoyo",
+   "starred": false
+  },
+  {
+   "id": 1115901,
+   "key_id": "3A2AF087401AF98F0483",
+   "ts_ms": 1691243844000,
+   "ts_iso": "2023-08-05T13:57:24+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 0,
+   "text": "Hola 👋 \nLes esperamos aquí https://meet.google.com/ibd-wdtz-eup para el cierre de los cursos de invierno",
+   "starred": false
+  }
+ ]
+}

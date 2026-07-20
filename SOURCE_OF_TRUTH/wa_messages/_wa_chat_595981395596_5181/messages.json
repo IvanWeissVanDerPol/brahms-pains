@@ -1,0 +1,35 @@
+{
+ "chat_id": 5181,
+ "slug": "_wa_chat_595981395596_5181",
+ "subject": null,
+ "jid_user": "595981395596",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981395596@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1602838,
+   "key_id": "3EB0E20742DF9396ED2BBD",
+   "ts_ms": 1761943038000,
+   "ts_iso": "2025-10-31T20:37:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://p.bioboxcloud.com/estudio/acceso-link?iname=cmb&token=eyJjb2RpZ28iOiJOUjRaTFdaTCIsImFjY2VzbyI6IjQ2NTgyNSJ9",
+   "starred": false
+  },
+  {
+   "id": 1602880,
+   "key_id": "3EB03C05542B354B2C8EA1",
+   "ts_ms": 1761947127000,
+   "ts_iso": "2025-10-31T21:45:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mensaje para el biobox\nLe contactamos del CMB, en relación a su solicitud.\nIngresando al link podrá visualizar su estudio.\nObservaciones:\n-Debe registrar nuestro número de whatsapp \n-El link debe cambiar a color celeste.\n-Puede también copiar el link y pegar en el navegador.\n-Aprobación del paciente para la entrega digital. Si desea en formato físico (cd+informe) tendrá un costo adicional.",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "chat_id": 9052,
+ "slug": "_wa_chat_595984900920_9052",
+ "subject": null,
+ "jid_user": "595984900920",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984900920@s.whatsapp.net",
+ "message_count": 19,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1362716,
+   "key_id": "3AF893FD6025A1EFDDF1",
+   "ts_ms": 1727056422000,
+   "ts_iso": "2024-09-23T01:53:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa",
+   "starred": false
+  },
+  {
+   "id": 1362717,
+   "key_id": "3A03C11179ADDA2E24CD",
+   "ts_ms": 1727056422000,
+   "ts_iso": "2024-09-23T01:53:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Augusto soy",
+   "starred": false
+  },
+  {
+   "id": 1362718,
+   "key_id": "3A17CAEA9E75835B93FB",
+   "ts_ms": 1727056422000,
+   "ts_iso": "2024-09-23T01:53:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No tenes problemas en hacer la entrevista ahora?",
+   "starred": false
+  },
+  {
+   "id": 1362719,
+   "key_id": "884940311D1E98A1C03FA98418E82C3F",
+   "ts_ms": 1727056477981,
+   "ts_iso": "2024-09-23T01:54:37.981000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nEmm hay más contexto?\n\nEntendi de soni que una entrevista para ai\n\nPero solo eso jajajaja\n\nEstoy free \nPero no prendí mi pc\n\nPuedo prebder ahora",
+   "starred": false
+  },
+  {
+   "id": 1362720,
+   "key_id": "B3E5BC42F4217BBA54D18B8C2FE43F41",
+   "ts_ms": 1727056489523,
+   "ts_iso": "2024-09-23T01:54:49.523000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A qué parte de ai \n/ Que topics tenés en mente ?",
+   "starred": false
+  },
+  {
+   "id": 1362721,
+   "key_id": "D5C3A740D2C8FF50AAB3E5328CCAA485",
+   "ts_ms": 1727056555886,
+   "ts_iso": "2024-09-23T01:55:55.886000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para contexto \n\nYo estoy más en automation que en investigación/ cómo anda a fondo",
+   "starred": false
+  },
+  {
+   "id": 1362722,
+   "key_id": "9877C7727F5F8C8862E76D47FE6F5094",
+   "ts_ms": 1727056562956,
+   "ts_iso": "2024-09-23T01:56:02.956000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Más se como usar y que esperar",
+   "starred": false
+  },
+  {
+   "id": 1362723,
+   "key_id": "3AB11687C683A52930C5",
+   "ts_ms": 1727056611000,
+   "ts_iso": "2024-09-23T01:56:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Está bn",
+   "starred": false
+  },
+  {
+   "id": 1362724,
+   "key_id": "3A0A09ED9AE2FD8C6AC8",
+   "ts_ms": 1727056625000,
+   "ts_iso": "2024-09-23T01:57:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Más o menos en eso van las preguntas que tenemos con mi grupo",
+   "starred": false
+  },
+  {
+   "id": 1362725,
+   "key_id": "2761A7B6099F2EBA1071EAE1B926F2A0",
+   "ts_ms": 1727056701799,
+   "ts_iso": "2024-09-23T01:58:21.799000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202439/PTT-20240922-WA0020.opus",
+    "size": 0,
+    "duration_s": 5,
+    "sha256_b64": "FBgxEBTvaprXgBLWX5CRwYhxPUEz+nv/T0KPF8jMdgg=",
+    "media_name": "c61a7bd4e4134b1eb7cbb3a6d06e607c.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1362726,
+   "key_id": "3A811B098098E75463AF",
+   "ts_ms": 1727056721000,
+   "ts_iso": "2024-09-23T01:58:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale👍",
+   "starred": false
+  },
+  {
+   "id": 1362727,
+   "key_id": "554C123143084D5219E4CCA5144C19EA",
+   "ts_ms": 1727056829455,
+   "ts_iso": "2024-09-23T02:00:29.455000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Preferís zoom google meets o discord ?",
+   "starred": false
+  },
+  {
+   "id": 1362728,
+   "key_id": "3ACDC30CE3FC6978EDB3",
+   "ts_ms": 1727056881000,
+   "ts_iso": "2024-09-23T02:01:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora cree un meets",
+   "starred": false
+  },
+  {
+   "id": 1362729,
+   "key_id": "3A166387C3679233126B",
+   "ts_ms": 1727056885000,
+   "ts_iso": "2024-09-23T02:01:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te paso el link",
+   "starred": false
+  },
+  {
+   "id": 1362730,
+   "key_id": "3EB0331FB2AB74A7546D84",
+   "ts_ms": 1727057267000,
+   "ts_iso": "2024-09-23T02:07:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://meet.google.com/tvv-awvo-vte?authuser=0",
+   "starred": false
+  },
+  {
+   "id": 1362743,
+   "key_id": "4BAB33C936463CC9A5",
+   "ts_ms": 1727059905000,
+   "ts_iso": "2024-09-23T02:51:45+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.freecodecamp.org/",
+   "starred": false
+  },
+  {
+   "id": 1362744,
+   "key_id": "0D593777B9EF7DDD73",
+   "ts_ms": 1727060002000,
+   "ts_iso": "2024-09-23T02:53:22+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.coursera.org/degrees\\",
+   "starred": false
+  },
+  {
+   "id": 1362745,
+   "key_id": "21F9CFF0E578580CA9",
+   "ts_ms": 1727060124000,
+   "ts_iso": "2024-09-23T02:55:24+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://ivanweissvanderpol.github.io/",
+   "starred": false
+  },
+  {
+   "id": 1362746,
+   "key_id": "D08477C6ACCC4C77DB5887F191B732BF",
+   "ts_ms": 1727060660704,
+   "ts_iso": "2024-09-23T03:04:20.704000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtu.be/rLGCeTUyBKM?si=q7waMaRshqsxxvnh",
+   "starred": false
+  }
+ ]
+}

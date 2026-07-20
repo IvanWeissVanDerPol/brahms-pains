@@ -1,0 +1,35 @@
+{
+ "chat_id": 13624,
+ "slug": "_wa_lid_203762392137970_13624",
+ "subject": null,
+ "jid_user": "203762392137970",
+ "jid_server": "lid",
+ "jid_raw": "203762392137970@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1707576,
+   "key_id": "ACB3E7FE8D40C5950272CA8059BB8A8C",
+   "ts_ms": 1772336235171,
+   "ts_iso": "2026-03-01T03:37:15.171000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1707577,
+   "key_id": "AC94508819B3D1103E099040C2C84853",
+   "ts_ms": 1772336240172,
+   "ts_iso": "2026-03-01T03:37:20.172000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cual es el menú?",
+   "starred": false
+  }
+ ]
+}

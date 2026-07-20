@@ -1,0 +1,33 @@
+{
+ "chat_id": 1848,
+ "slug": "_wa_chat_595982236093_1848",
+ "subject": null,
+ "jid_user": "595982236093",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982236093@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1056071,
+   "key_id": "BDCDA56FA4039521552BC4514A4077F6",
+   "ts_ms": 1680964848148,
+   "ts_iso": "2023-04-08T14:40:48.148000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Audio/Sent/AUD-20230408-WA0000.",
+    "size": 3888686,
+    "duration_s": 240,
+    "sha256_b64": null,
+    "media_name": "AUD-20230408-WA0000.",
+    "media_caption": null
+   }
+  }
+ ]
+}

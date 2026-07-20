@@ -1,0 +1,33 @@
+{
+ "chat_id": 10308,
+ "slug": "_wa_chat_595984234002_10308",
+ "subject": null,
+ "jid_user": "595984234002",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984234002@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1453752,
+   "key_id": "91E8C0FF5D34DA44E0DF7BA9AF58B7E3",
+   "ts_ms": 1742904708000,
+   "ts_iso": "2025-03-25T12:11:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202513/PTT-20250325-WA0001.opus",
+    "size": 20628,
+    "duration_s": 9,
+    "sha256_b64": "JdlF/iZ5QsayAWzQzYWjvZiU9DveRmgIY0ZaXUWvDEg=",
+    "media_name": "PTT-20250325-WA0001.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

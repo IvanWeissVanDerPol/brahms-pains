@@ -1,0 +1,90 @@
+{
+ "chat_id": 1858,
+ "slug": "_wa_chat_595972808418_1858",
+ "subject": null,
+ "jid_user": "595972808418",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972808418@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1219110,
+   "key_id": "2455ACFF88889FC7290210E358C5B7C7",
+   "ts_ms": 1704220580584,
+   "ts_iso": "2024-01-02T18:36:20.584000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ese es ale?",
+   "starred": false
+  },
+  {
+   "id": 1219111,
+   "key_id": "698BDF46A2CB4B2F3701145BDE6A1980",
+   "ts_ms": 1704220597765,
+   "ts_iso": "2024-01-02T18:36:37.765000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Saltos del lunes",
+   "starred": false
+  },
+  {
+   "id": 1219151,
+   "key_id": "092720D80E2F260F729D081027DD8867",
+   "ts_ms": 1704226289000,
+   "ts_iso": "2024-01-02T20:11:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sii",
+   "starred": false
+  },
+  {
+   "id": 1219153,
+   "key_id": "172C13541C89DCE7781092B8E4CD8F38",
+   "ts_ms": 1704226291000,
+   "ts_iso": "2024-01-02T20:11:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ale es",
+   "starred": false
+  },
+  {
+   "id": 1219154,
+   "key_id": "E1346C7AAD5781DEF2D528227166CDC2",
+   "ts_ms": 1704226293000,
+   "ts_iso": "2024-01-02T20:11:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajajaja",
+   "starred": false
+  },
+  {
+   "id": 1219157,
+   "key_id": "1EAD001C9F70BC47C6B386EE0759213B",
+   "ts_ms": 1704228492676,
+   "ts_iso": "2024-01-02T20:48:12.676000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mooood",
+   "starred": false
+  },
+  {
+   "id": 1219158,
+   "key_id": "7ED9D6EA8763E6B4D381296E0C1ED458",
+   "ts_ms": 1704228494556,
+   "ts_iso": "2024-01-02T20:48:14.556000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Salu2",
+   "starred": false
+  }
+ ]
+}

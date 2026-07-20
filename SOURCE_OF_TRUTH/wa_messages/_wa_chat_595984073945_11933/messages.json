@@ -1,0 +1,24 @@
+{
+ "chat_id": 11933,
+ "slug": "_wa_chat_595984073945_11933",
+ "subject": null,
+ "jid_user": "595984073945",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984073945@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581481,
+   "key_id": "ACD0ABFD7AB869DC751562B3D330BBFD",
+   "ts_ms": 1759639590182,
+   "ts_iso": "2025-10-05T04:46:30.182000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Amalia  masajista erótica(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  }
+ ]
+}

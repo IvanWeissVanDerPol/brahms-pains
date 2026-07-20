@@ -1,0 +1,126 @@
+{
+ "chat_id": 11825,
+ "slug": "_wa_chat_595972908916_11825",
+ "subject": null,
+ "jid_user": "595972908916",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972908916@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1576282,
+   "key_id": "2AA20EACEAB31D535369",
+   "ts_ms": 1758837788000,
+   "ts_iso": "2025-09-25T22:03:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola,  por aquí le facilito el Qr de arirang",
+   "starred": false
+  },
+  {
+   "id": 1576283,
+   "key_id": "ACEB46CF4F2E6BE051C99B4A55F7CC41",
+   "ts_ms": 1758837813168,
+   "ts_iso": "2025-09-25T22:03:33.168000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1576284,
+   "key_id": "2A378DA977CA231CFBB4",
+   "ts_ms": 1758837899000,
+   "ts_iso": "2025-09-25T22:04:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "WhatsApp",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250925-WA0027.jpg",
+    "size": 91992,
+    "duration_s": 0,
+    "sha256_b64": "6KzJ/A/3Ke2VLGIMhwSLmOu62xWqC0KxOayCm/cCNJI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1576285,
+   "key_id": "ACFD19BF293A7D296725AFBB27B233B1",
+   "ts_ms": 1758837931596,
+   "ts_iso": "2025-09-25T22:05:31.596000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250925-WA0028.jpg",
+    "size": 44384,
+    "duration_s": 0,
+    "sha256_b64": "ezHIMuqs+VcRbmumMT9wtREgt7EvnxqGhbv4iGSda98=",
+    "media_name": "cf3a5172-3834-4144-a517-8866c3c50763.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1576286,
+   "key_id": "2A4517355FBEA2401CAE",
+   "ts_ms": 1758838028000,
+   "ts_iso": "2025-09-25T22:07:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250925-WA0029.jpg",
+    "size": 320590,
+    "duration_s": 0,
+    "sha256_b64": "hl2qc05x22kjEGaPpqtX33to0EDLvtXatlCbQbq15Xw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1576289,
+   "key_id": "AC7F27776378E70B9CBB1010E41CB0DD",
+   "ts_ms": 1758838093091,
+   "ts_iso": "2025-09-25T22:08:13.091000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250925-WA0030.jpg",
+    "size": 83994,
+    "duration_s": 0,
+    "sha256_b64": "OqJ961U5PEJev4DPKZ5urPEcs0+Us0VP92CzDw9ZgZk=",
+    "media_name": "dd1947ac-d824-4878-86e9-8369477c0fb7.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1576291,
+   "key_id": "2ACCA8E5ED110D42AFBD",
+   "ts_ms": 1758838101000,
+   "ts_iso": "2025-09-25T22:08:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Genial!",
+   "starred": false
+  }
+ ]
+}

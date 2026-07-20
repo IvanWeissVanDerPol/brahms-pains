@@ -1,0 +1,97 @@
+{
+ "chat_id": 13532,
+ "slug": "_wa_lid_119259044835572_13532",
+ "subject": null,
+ "jid_user": "119259044835572",
+ "jid_server": "lid",
+ "jid_raw": "119259044835572@lid",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1688978,
+   "key_id": "ACB29251C227A419197605836B5B2620",
+   "ts_ms": 1770862973354,
+   "ts_iso": "2026-02-12T02:22:53.354000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola Metxmorfosis! 🖤💉",
+   "starred": false
+  },
+  {
+   "id": 1688979,
+   "key_id": "AC1795B74977A9EFCEF6D1DA014E2251",
+   "ts_ms": 1770862978005,
+   "ts_iso": "2026-02-12T02:22:58.005000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260211-WA0078.jpg",
+    "size": 104381,
+    "duration_s": 0,
+    "sha256_b64": "SfSHfhtJVoUdQUjdP85LXXWuJlNq08FaxSJCpR9zkpc=",
+    "media_name": "14d2eb95-1f34-4e2e-a61d-c6d3595fbf06.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1688980,
+   "key_id": "ACD6F7DD6085FC5D246D483BB2AAE022",
+   "ts_ms": 1770862984686,
+   "ts_iso": "2026-02-12T02:23:04.686000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me hicie este piercing",
+   "starred": false
+  },
+  {
+   "id": 1688981,
+   "key_id": "ACA03208F063F5A16D1ADD311FC8A9B0",
+   "ts_ms": 1770862993371,
+   "ts_iso": "2026-02-12T02:23:13.371000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y me parece que me pusieron demasiado por la aureola",
+   "starred": false
+  },
+  {
+   "id": 1688982,
+   "key_id": "AC12C8DA928E1B3022EC4F2FA8BE426A",
+   "ts_ms": 1770863005754,
+   "ts_iso": "2026-02-12T02:23:25.754000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Será que puedo pasar con ustedes para poner bien ?",
+   "starred": false
+  },
+  {
+   "id": 1689233,
+   "key_id": "A582C40A69E4AEC453D0CA85DE1D2469",
+   "ts_ms": 1770903416000,
+   "ts_iso": "2026-02-12T13:36:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202607/PTT-20260212-WA0006.opus",
+    "size": 24024,
+    "duration_s": 11,
+    "sha256_b64": "1gUReojCHPoHUGnwXJ4ljRoEoEBekQbFUYXqCmZ0RpM=",
+    "media_name": "PTT-20260212-WA0006.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

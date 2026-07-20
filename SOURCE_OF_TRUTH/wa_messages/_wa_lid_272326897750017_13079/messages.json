@@ -1,0 +1,200 @@
+{
+ "chat_id": 13079,
+ "slug": "_wa_lid_272326897750017_13079",
+ "subject": null,
+ "jid_user": "272326897750017",
+ "jid_server": "lid",
+ "jid_raw": "272326897750017@lid",
+ "message_count": 17,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1649211,
+   "key_id": "3EB0B352BA41BD6AE8B4A5",
+   "ts_ms": 1767980068000,
+   "ts_iso": "2026-01-09T17:34:28+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola que tal",
+   "starred": false
+  },
+  {
+   "id": 1649212,
+   "key_id": "A57B2C38B4AF9A32ECFF668F9A43231E",
+   "ts_ms": 1767980072000,
+   "ts_iso": "2026-01-09T17:34:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con GADEVI S.A. INGCO PY \n¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1649213,
+   "key_id": "3EB0529DA9AE133B80D865",
+   "ts_ms": 1767980077000,
+   "ts_iso": "2026-01-09T17:34:37+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ALCOHOL DE CEREALES IDEAL PARA EXTRACTO DE PROPOLIS PARA CONSUMO HUMANO\n\nIndicado para bebidas, perfumes y uso farmacéutico 👨‍🔬\n\n🔹500ml - Gs.60.000\n🔹1.000ml - Gs.100.000\n\nConsultas y pedidos al: 0973500501\nEnvíos a todo el País 🚚📦\n.\n.\n.\n#alcoholdecereal #alcoholcomestible #alcoholdecereales #paraguay #meliponarioparaguay #propolis Ver menos",
+   "starred": false
+  },
+  {
+   "id": 1649214,
+   "key_id": "3EB064626B5E004187CDEB",
+   "ts_ms": 1767980081000,
+   "ts_iso": "2026-01-09T17:34:41+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me interesa este producto",
+   "starred": false
+  },
+  {
+   "id": 1649215,
+   "key_id": "A5731196AE6C8B718B2FE0A59E77115E",
+   "ts_ms": 1767980099000,
+   "ts_iso": "2026-01-09T17:34:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No disponemos en este momento",
+   "starred": false
+  },
+  {
+   "id": 1649216,
+   "key_id": "3EB07FE424EED5A6571100",
+   "ts_ms": 1767980103000,
+   "ts_iso": "2026-01-09T17:35:03+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hacen deliery aca\nhttps://maps.app.goo.gl/MJpeze2aGRQEqr4VA",
+   "starred": false
+  },
+  {
+   "id": 1649217,
+   "key_id": "3EB06507F7EC280FD10692",
+   "ts_ms": 1767980104000,
+   "ts_iso": "2026-01-09T17:35:04+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ahh",
+   "starred": false
+  },
+  {
+   "id": 1649218,
+   "key_id": "3EB0E91C19E9D852873FD0",
+   "ts_ms": 1767980109000,
+   "ts_iso": "2026-01-09T17:35:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "sabes donde podria encontrar?",
+   "starred": false
+  },
+  {
+   "id": 1649219,
+   "key_id": "A5C7B30274DAD9D72D7B578DEBB9408E",
+   "ts_ms": 1767980136000,
+   "ts_iso": "2026-01-09T17:35:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A la casa blanca próxima semana voy a ver si consigo",
+   "starred": false
+  },
+  {
+   "id": 1649220,
+   "key_id": "A5A6F739023F757BEFB2AB5DC78080A7",
+   "ts_ms": 1767980145000,
+   "ts_iso": "2026-01-09T17:35:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuánto necesitas",
+   "starred": false
+  },
+  {
+   "id": 1649221,
+   "key_id": "3EB0FD64B42F51ADCB263C",
+   "ts_ms": 1767980151000,
+   "ts_iso": "2026-01-09T17:35:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okis\n\navisa si conseguis\nn,n",
+   "starred": false
+  },
+  {
+   "id": 1649222,
+   "key_id": "A5719F7935ED6C935B8D4EF8FFBF4E71",
+   "ts_ms": 1767980173000,
+   "ts_iso": "2026-01-09T17:36:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ese precio es viejo te comento",
+   "starred": false
+  },
+  {
+   "id": 1649223,
+   "key_id": "3EB0F79BA77C5D6C4BF1D9",
+   "ts_ms": 1767980184000,
+   "ts_iso": "2026-01-09T17:36:24+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ok cuanto estaria ahora?",
+   "starred": false
+  },
+  {
+   "id": 1649224,
+   "key_id": "3EB0ACE656038BD94A8660",
+   "ts_ms": 1767980191000,
+   "ts_iso": "2026-01-09T17:36:31+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "inda 8 L estoy buscando",
+   "starred": false
+  },
+  {
+   "id": 1649225,
+   "key_id": "A5533384B8EE05B46152B0931C17DDBB",
+   "ts_ms": 1767980205000,
+   "ts_iso": "2026-01-09T17:36:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "140.000",
+   "starred": false
+  },
+  {
+   "id": 1649226,
+   "key_id": "A50AF28A90B413EE731D8FC98F8EDBB4",
+   "ts_ms": 1767980228000,
+   "ts_iso": "2026-01-09T17:37:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te puedo mejorar por 8 l \nContáctame la próxima semana y vemos a qué precio te puedo dejar",
+   "starred": false
+  },
+  {
+   "id": 1649227,
+   "key_id": "3EB039A6D011C4F1DB51B6",
+   "ts_ms": 1767980237000,
+   "ts_iso": "2026-01-09T17:37:17+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ok",
+   "starred": false
+  }
+ ]
+}

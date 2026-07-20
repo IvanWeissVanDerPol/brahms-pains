@@ -1,0 +1,101 @@
+{
+ "chat_id": 17028,
+ "slug": "_wa_lid_92968996368548_17028",
+ "subject": null,
+ "jid_user": "92968996368548",
+ "jid_server": "lid",
+ "jid_raw": "92968996368548@lid",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1825623,
+   "key_id": "3EB0A09BC0CFC41545AB2A",
+   "ts_ms": 1783517490000,
+   "ts_iso": "2026-07-08T13:31:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1825624,
+   "key_id": "3EB0ADBF7FFAF950002ACA",
+   "ts_ms": 1783517509000,
+   "ts_iso": "2026-07-08T13:31:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me contacto con el estudio jurdíico villamayor y asociados?",
+   "starred": false
+  },
+  {
+   "id": 1825791,
+   "key_id": "ACD060ABF9BEF3506A46018755AADC82",
+   "ts_ms": 1783525366546,
+   "ts_iso": "2026-07-08T15:42:46.546000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nEste es el contacto de Paragu-ai \nLe estuvimos haciendo pag web a ellos",
+   "starred": false
+  },
+  {
+   "id": 1825792,
+   "key_id": "ACC61E6F99E0351012BC875E90050216",
+   "ts_ms": 1783525390665,
+   "ts_iso": "2026-07-08T15:43:10.665000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero no nos terminaron de dar info para crearles \n\nSigue su demo en nuestro dominio",
+   "starred": false
+  },
+  {
+   "id": 1825793,
+   "key_id": "AC995122D4C115FC4117C8212E1B87D5",
+   "ts_ms": 1783525400106,
+   "ts_iso": "2026-07-08T15:43:20.106000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te gustaría que te pase el contacto de ellos?",
+   "starred": false
+  },
+  {
+   "id": 1825794,
+   "key_id": "3EB02E425B685E4A7FC7B7",
+   "ts_ms": 1783525417000,
+   "ts_iso": "2026-07-08T15:43:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "siii por fa",
+   "starred": false
+  },
+  {
+   "id": 1825795,
+   "key_id": "ACA40A3E5F0ADB9878B70BFA3DF59BAA",
+   "ts_ms": 1783525433002,
+   "ts_iso": "2026-07-08T15:43:53.002000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "+595 971 870144",
+   "starred": false
+  },
+  {
+   "id": 1825798,
+   "key_id": "3EB0D546BF615A6B41EF37",
+   "ts_ms": 1783525466000,
+   "ts_iso": "2026-07-08T15:44:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "muchisimas gracias",
+   "starred": false
+  }
+ ]
+}

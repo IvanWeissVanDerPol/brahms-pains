@@ -1,0 +1,35 @@
+{
+ "chat_id": 7827,
+ "slug": "_wa_chat_595991587485_7827",
+ "subject": null,
+ "jid_user": "595991587485",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991587485@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1335684,
+   "key_id": "57EB325DB446FFC1BAD724B7D6FE9FF9",
+   "ts_ms": 1722971831000,
+   "ts_iso": "2024-08-06T19:17:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1335685,
+   "key_id": "E178A3F0CEABB8A8A5A3AA24A36DEF80",
+   "ts_ms": 1722971834000,
+   "ts_iso": "2024-08-06T19:17:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy en camino",
+   "starred": false
+  }
+ ]
+}

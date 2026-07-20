@@ -1,0 +1,99 @@
+{
+ "chat_id": 5470,
+ "slug": "_wa_chat_595981945931_5470",
+ "subject": null,
+ "jid_user": "595981945931",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981945931@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1229883,
+   "key_id": "5D66B3EDE2A00136E030B5311264610A",
+   "ts_ms": 1706547700315,
+   "ts_iso": "2024-01-29T17:01:40.315000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola doc\nSoy Iván Weiss\n\nQue tal ?\n\nA que hora te queda bien que vaya ?\n\nYo estoy en el trabajo hasta las 5 todos los.dias \n\nPero puedo pedir para salir antes en todo caso",
+   "starred": false
+  },
+  {
+   "id": 1229892,
+   "key_id": "955A1AB24EC21F0B58456C6FD0760184",
+   "ts_ms": 1706547732000,
+   "ts_iso": "2024-01-29T17:02:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202405/PTT-20240129-WA0037.opus",
+    "size": 16330,
+    "duration_s": 6,
+    "sha256_b64": "vRekMZ6/IX3FXWTEdlRwMsFemsANC9lit89WR+rywHg=",
+    "media_name": "PTT-20240129-WA0037.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1229899,
+   "key_id": "4166EB383F0C57C6BC7A2345B9CBC1AB",
+   "ts_ms": 1706547775545,
+   "ts_iso": "2024-01-29T17:02:55.545000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1229900,
+   "key_id": "B1DC131A463FF4639DA03DB0BA084579",
+   "ts_ms": 1706547801499,
+   "ts_iso": "2024-01-29T17:03:21.499000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Veo si puedo organizarme para ir hoy \nTe aviso cuando salga",
+   "starred": false
+  },
+  {
+   "id": 1229901,
+   "key_id": "7FB273F0B0ACAC4F1963E6FC2B95A4B2",
+   "ts_ms": 1706547804448,
+   "ts_iso": "2024-01-29T17:03:24.448000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si puedo n.n",
+   "starred": false
+  },
+  {
+   "id": 1229983,
+   "key_id": "DE995147C242ECDAAF249C80D29F70FD",
+   "ts_ms": 1706551403943,
+   "ts_iso": "2024-01-29T18:03:23.943000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy saliendo ahora:)",
+   "starred": false
+  },
+  {
+   "id": 1229984,
+   "key_id": "32147EE5D006E551563F56F46891B77A",
+   "ts_ms": 1706551451000,
+   "ts_iso": "2024-01-29T18:04:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  }
+ ]
+}

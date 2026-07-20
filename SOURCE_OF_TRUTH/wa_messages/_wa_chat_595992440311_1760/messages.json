@@ -1,0 +1,110 @@
+{
+ "chat_id": 1760,
+ "slug": "_wa_chat_595992440311_1760",
+ "subject": null,
+ "jid_user": "595992440311",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992440311@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 977993,
+   "key_id": "3EB0B3B5250C19528665",
+   "ts_ms": 1665443708000,
+   "ts_iso": "2022-10-10T23:15:08+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos tardes \n\nEstamos en plena *FERIA DE EMPLEOS - INFORMÁTICOS 2022.*\n\nFavor ingresar a www.pivot.com.py/informatica2022 para visitar la Vidriera Expositora de la Feria. Aquí se muestran las empresas y los puestos vacantes.  Hay un número interesante de empresas participantes y siguen creciendo los pedidos.\n\nAdemás, les paso una estadística de movimientos de ingresos de nuevos currículums de su universidad. Ingrese a través del vínculo:\n\nhttp://www1.pivot.com.py/estadisticas/Movimientos-de-Postulantes/Ingresos-y-Saldos-de-Curriculums\n\nAguardo su respuesta con información sobre el andamiento de su gestión de convocatoria. Muchísimas gracias.\n\nSaludos cordiales.",
+   "starred": false
+  },
+  {
+   "id": 977995,
+   "key_id": "3EB096250051000DCE22",
+   "ts_ms": 1665443716000,
+   "ts_iso": "2022-10-10T23:15:16+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "para poner flyers?",
+   "starred": false
+  },
+  {
+   "id": 978016,
+   "key_id": "3EB0B2628726C0EF3AD4",
+   "ts_ms": 1665443887000,
+   "ts_iso": "2022-10-10T23:18:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "hay que pagar 330 mil para inscribir a WPG",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "yeOXgjql6smrMu/f0nif1/aN5wPXu4YezWKn6yfEdxs=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 978018,
+   "key_id": "3EB0375019FF999F0CB6",
+   "ts_ms": 1665443907000,
+   "ts_iso": "2022-10-10T23:18:27+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y le paso a john",
+   "starred": false
+  },
+  {
+   "id": 978019,
+   "key_id": "3EB0D778FBE599C05D6F",
+   "ts_ms": 1665443919000,
+   "ts_iso": "2022-10-10T23:18:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "capaz sea buena idea",
+   "starred": false
+  },
+  {
+   "id": 978022,
+   "key_id": "3EB0D24376E377CED369",
+   "ts_ms": 1665443947000,
+   "ts_iso": "2022-10-10T23:19:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "avisale",
+   "starred": false
+  },
+  {
+   "id": 978025,
+   "key_id": "3EB08D8688A77E5FEE53",
+   "ts_ms": 1665443958000,
+   "ts_iso": "2022-10-10T23:19:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "a largo plazo puede servir para tener mas CV's",
+   "starred": false
+  },
+  {
+   "id": 978027,
+   "key_id": "3EB0083F0E5471B04005",
+   "ts_ms": 1665443984000,
+   "ts_iso": "2022-10-10T23:19:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "pero es el costo mas grande si queremos seguir pasada la feria por 6 meses o un año",
+   "starred": false
+  }
+ ]
+}

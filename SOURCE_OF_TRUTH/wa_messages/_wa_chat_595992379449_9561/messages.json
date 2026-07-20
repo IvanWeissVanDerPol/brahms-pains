@@ -1,0 +1,161 @@
+{
+ "chat_id": 9561,
+ "slug": "_wa_chat_595992379449_9561",
+ "subject": null,
+ "jid_user": "595992379449",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992379449@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581399,
+   "key_id": "AC5A51AFF5E8451663F26D4AB3B29BDB",
+   "ts_ms": 1759636762686,
+   "ts_iso": "2025-10-05T03:59:22.686000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"🧚‍♀️Vanessa 🧚‍♀️( De regr(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1581458,
+   "key_id": "A5E7FD60263E2C5F9EC90D255968E44B",
+   "ts_ms": 1759638654000,
+   "ts_iso": "2025-10-05T04:30:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202541/PTT-20251005-WA0009.opus",
+    "size": 4838,
+    "duration_s": 2,
+    "sha256_b64": "kW6Wlq9Re4GBpagK64xayCUfXCP8oi5IwhuuGY+6/pg=",
+    "media_name": "PTT-20251005-WA0009.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1581461,
+   "key_id": "AC753587AF3981E6ACDB746CB4A9B0DB",
+   "ts_ms": 1759638673151,
+   "ts_iso": "2025-10-05T04:31:13.151000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si",
+   "starred": false
+  },
+  {
+   "id": 1581462,
+   "key_id": "ACA26898499C53A1CA23E4DE7DF91444",
+   "ts_ms": 1759638678741,
+   "ts_iso": "2025-10-05T04:31:18.741000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quienes están ahora disponible?",
+   "starred": false
+  },
+  {
+   "id": 1581463,
+   "key_id": "A5ACCDCAD5B999163ECC2B66EF1F950E",
+   "ts_ms": 1759638730000,
+   "ts_iso": "2025-10-05T04:32:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202541/PTT-20251005-WA0010.opus",
+    "size": 6630,
+    "duration_s": 2,
+    "sha256_b64": "IL/q1nDBZtLw+O3cjVCgAR74xShODHUCn3HBumhfmV0=",
+    "media_name": "PTT-20251005-WA0010.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1581466,
+   "key_id": "ACAB801832DAD9D2CDB31461F6F8F888",
+   "ts_ms": 1759638935797,
+   "ts_iso": "2025-10-05T04:35:35.797000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Les puedo ver ?",
+   "starred": false
+  },
+  {
+   "id": 1581467,
+   "key_id": "AC81F6578CFA9863EFC5A0FEAA5F8FD6",
+   "ts_ms": 1759638941597,
+   "ts_iso": "2025-10-05T04:35:41.597000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No les conozco aún",
+   "starred": false
+  },
+  {
+   "id": 1581468,
+   "key_id": "A58BEFAB8D76AD80E5E9A267B0D28CF1",
+   "ts_ms": 1759638957000,
+   "ts_iso": "2025-10-05T04:35:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, aquí el link al anuncio: https://py.skokka.com/anuncio/pamela-247-dias-fdo-zona-norte-py3wgaf3q/",
+   "starred": false
+  },
+  {
+   "id": 1581470,
+   "key_id": "ACF73AD97815959C1CAFC5BCFFB4896C",
+   "ts_ms": 1759638997292,
+   "ts_iso": "2025-10-05T04:36:37.292000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me gusta pamela \n\nCuanto sería?",
+   "starred": false
+  },
+  {
+   "id": 1581471,
+   "key_id": "ACB8F926EC4FEC372FE2D041ED99B302",
+   "ts_ms": 1759638999772,
+   "ts_iso": "2025-10-05T04:36:39.772000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y donde ?",
+   "starred": false
+  },
+  {
+   "id": 1581476,
+   "key_id": "A5FFF30E35ADE7CB88F59343E2B4F545",
+   "ts_ms": 1759639236000,
+   "ts_iso": "2025-10-05T04:40:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202541/PTT-20251005-WA0011.opus",
+    "size": 25162,
+    "duration_s": 12,
+    "sha256_b64": "3MyCpomhY1S29W3OZwvv+5aStRqLzFJnneUVHn0Iix4=",
+    "media_name": "PTT-20251005-WA0011.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "chat_id": 11855,
+ "slug": "_wa_chat_595982012889_11855",
+ "subject": null,
+ "jid_user": "595982012889",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982012889@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1580869,
+   "key_id": "AC2B73805E81B693928716C4047637EE",
+   "ts_ms": 1759576303903,
+   "ts_iso": "2025-10-04T11:11:43.903000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, qué tal SARA? Te escribo por tu anuncio en Zonaroja.com.py",
+   "starred": false
+  },
+  {
+   "id": 1580901,
+   "key_id": "AC0F0B81A1B2E58C7BF5D5C180A561E9",
+   "ts_ms": 1759583311000,
+   "ts_iso": "2025-10-04T13:08:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa",
+   "starred": false
+  },
+  {
+   "id": 1580902,
+   "key_id": "ACFC0E2B219A05B86E20B26C8B87F6CA",
+   "ts_ms": 1759583312000,
+   "ts_iso": "2025-10-04T13:08:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "200.000: 30 min \n350.000: una hora \nIncluye masaje thai o relajante y terapéutico (opcional)\nOral y vaginal (con protección) 😍🔥\n🍑Anal adicional",
+   "starred": false
+  }
+ ]
+}

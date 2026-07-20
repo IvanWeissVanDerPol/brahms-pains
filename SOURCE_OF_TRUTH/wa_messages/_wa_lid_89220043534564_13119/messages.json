@@ -1,0 +1,99 @@
+{
+ "chat_id": 13119,
+ "slug": "_wa_lid_89220043534564_13119",
+ "subject": null,
+ "jid_user": "89220043534564",
+ "jid_server": "lid",
+ "jid_raw": "89220043534564@lid",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1655245,
+   "key_id": "ACF02B69E8BC3AD1F8D6D932799F0640",
+   "ts_ms": 1768588385578,
+   "ts_iso": "2026-01-16T18:33:05.578000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1655247,
+   "key_id": "ACCEA80BD25C43BAEF82FB505F2C90BA",
+   "ts_ms": 1768588398035,
+   "ts_iso": "2026-01-16T18:33:18.035000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260116-WA0037.jpg",
+    "size": 67005,
+    "duration_s": 0,
+    "sha256_b64": "Gu20pq+/KXPkTW5znuTkHo1at1t05u0SyVvhPmQbsL8=",
+    "media_name": "68975dfc-b078-4526-ba60-6e409a0c0d25.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1655249,
+   "key_id": "E4875891FDD61003A1",
+   "ts_ms": 1768588406000,
+   "ts_iso": "2026-01-16T18:33:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por favor, indicá tu número de Cédula de Identidad (sin puntos ni espacios)",
+   "starred": false
+  },
+  {
+   "id": 1655251,
+   "key_id": "ACB312B70E9FBB671FB97F770C2A98BD",
+   "ts_ms": 1768588416002,
+   "ts_iso": "2026-01-16T18:33:36.002000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "5897596",
+   "starred": false
+  },
+  {
+   "id": 1655253,
+   "key_id": "85B6B639A298233A70",
+   "ts_ms": 1768588743000,
+   "ts_iso": "2026-01-16T18:39:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¿Continuas en línea? Aguardo tu respuesta para continuar",
+   "starred": false
+  },
+  {
+   "id": 1655256,
+   "key_id": "AC6255EF15BBCC2CC4BB4F4328C42B02",
+   "ts_ms": 1768588753635,
+   "ts_iso": "2026-01-16T18:39:13.635000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Chill justo llegó el delivery",
+   "starred": false
+  },
+  {
+   "id": 1655265,
+   "key_id": "5AEAC28A70C2FAC9E0",
+   "ts_ms": 1768589103000,
+   "ts_iso": "2026-01-16T18:45:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¿Continuas en línea? Aguardo tu respuesta para continuar",
+   "starred": false
+  }
+ ]
+}

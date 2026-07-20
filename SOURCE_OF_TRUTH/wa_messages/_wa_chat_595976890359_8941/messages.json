@@ -1,0 +1,156 @@
+{
+ "chat_id": 8941,
+ "slug": "_wa_chat_595976890359_8941",
+ "subject": null,
+ "jid_user": "595976890359",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976890359@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1353390,
+   "key_id": "946FCDE8B977551B04D98D30E50D56E8",
+   "ts_ms": 1725458878726,
+   "ts_iso": "2024-09-04T14:07:58.726000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas cuentan con delivery?",
+   "starred": false
+  },
+  {
+   "id": 1353391,
+   "key_id": "6665594999425957E116848032A37986",
+   "ts_ms": 1725458881000,
+   "ts_iso": "2024-09-04T14:08:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Chavales 🤗👋!! Nuestro horario es de Lunes a Sábados de 8:30 a 20:00 hs \nTenemos ALL DAY BRUNCH 🥑\nNuestro servicio de delivery por whatsapp es de Lunes a Viernes de 9 a 17 hs.\nAhora también estamos en Monchis  🥖🥐🍞",
+   "starred": false
+  },
+  {
+   "id": 1353393,
+   "key_id": "A23951300EF624B9CA31DC45CC523204",
+   "ts_ms": 1725458916892,
+   "ts_iso": "2024-09-04T14:08:36.892000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Les puedo pagar por qr \n\nO prefieren por Monchies ?",
+   "starred": false
+  },
+  {
+   "id": 1353398,
+   "key_id": "3EB0C20CADC3556C2A2A11",
+   "ts_ms": 1725460524000,
+   "ts_iso": "2024-09-04T14:35:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia!! como estAS!!",
+   "starred": false
+  },
+  {
+   "id": 1353399,
+   "key_id": "3EB06187F7DE3A46789CF5",
+   "ts_ms": 1725460539000,
+   "ts_iso": "2024-09-04T14:35:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "disculpa por la demora",
+   "starred": false
+  },
+  {
+   "id": 1353400,
+   "key_id": "3EB0B4DAAE67353AE4306C",
+   "ts_ms": 1725460543000,
+   "ts_iso": "2024-09-04T14:35:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "estamos con demanda en tienda",
+   "starred": false
+  },
+  {
+   "id": 1353401,
+   "key_id": "F9B46D04780CD01EEF944A8E0ED34CF4",
+   "ts_ms": 1725460552324,
+   "ts_iso": "2024-09-04T14:35:52.324000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola no problem",
+   "starred": false
+  },
+  {
+   "id": 1353402,
+   "key_id": "46FDD7E72EBE6BC616BC2822CC1C785C",
+   "ts_ms": 1725460560696,
+   "ts_iso": "2024-09-04T14:36:00.696000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pedí ya por Monchies",
+   "starred": false
+  },
+  {
+   "id": 1353403,
+   "key_id": "AF938ABE3BEE8E294C6DF6834FA6289A",
+   "ts_ms": 1725460563200,
+   "ts_iso": "2024-09-04T14:36:03.200000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ":)",
+   "starred": false
+  },
+  {
+   "id": 1353404,
+   "key_id": "3EB0B6C1E3E35411A07E31",
+   "ts_ms": 1725460564000,
+   "ts_iso": "2024-09-04T14:36:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "como prefieras! te lo podemos p`reparar y enviarte igual por este medio",
+   "starred": false
+  },
+  {
+   "id": 1353405,
+   "key_id": "3EB0639DA2D887778E2024",
+   "ts_ms": 1725460570000,
+   "ts_iso": "2024-09-04T14:36:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "aahh sii ya recibimos",
+   "starred": false
+  },
+  {
+   "id": 1353406,
+   "key_id": "3EB0C82FA11D8CBDA3B8E4",
+   "ts_ms": 1725460574000,
+   "ts_iso": "2024-09-04T14:36:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "en breve sale en camino",
+   "starred": false
+  },
+  {
+   "id": 1353407,
+   "key_id": "3EB0CE445EDE9717CBAA2C",
+   "ts_ms": 1725460575000,
+   "ts_iso": "2024-09-04T14:36:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "=)",
+   "starred": false
+  }
+ ]
+}

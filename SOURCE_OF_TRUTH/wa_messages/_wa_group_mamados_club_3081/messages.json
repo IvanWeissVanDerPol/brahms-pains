@@ -1,0 +1,385 @@
+{
+ "chat_id": 3081,
+ "slug": "_wa_group_mamados_club_3081",
+ "subject": "Mamados club",
+ "jid_user": "120363132233696620",
+ "jid_server": "g.us",
+ "jid_raw": "120363132233696620@g.us",
+ "message_count": 24,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1073417,
+   "key_id": "AEFE8B9EA5962F391B23E087F886EA27",
+   "ts_ms": 1684382208000,
+   "ts_iso": "2023-05-18T03:56:48+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 0,
+   "text": "Bienvenida",
+   "starred": false
+  },
+  {
+   "id": 1073418,
+   "key_id": "3EB0BAF0215E1EF8A24307",
+   "ts_ms": 1684382209000,
+   "ts_iso": "2023-05-18T03:56:49+00:00",
+   "from_me": false,
+   "sender_jid": "595984241789@s.whatsapp.net",
+   "type": 0,
+   "text": "Nashe",
+   "starred": false
+  },
+  {
+   "id": 1073419,
+   "key_id": "867ED23BAD051F2790E3DBF103720887",
+   "ts_ms": 1684382220000,
+   "ts_iso": "2023-05-18T03:57:00+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230517-WA0045.jpg",
+    "size": 113804,
+    "duration_s": 0,
+    "sha256_b64": "FciXXUebFSmupCcBdRsHWKDtYRMYI6aRGNQQbbiJU+I=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1073420,
+   "key_id": "C838FF13B8CB3D9FA507038CF24BFFAA",
+   "ts_ms": 1684382221000,
+   "ts_iso": "2023-05-18T03:57:01+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230517-WA0046.jpg",
+    "size": 124215,
+    "duration_s": 0,
+    "sha256_b64": "fpDVB2Z6qAOhXH2qfQzHEPikCKt3LINlIhLTT8AkZM8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1073421,
+   "key_id": "74D8BD90A41B8362E8BF80AF68C62F6C",
+   "ts_ms": 1684382221000,
+   "ts_iso": "2023-05-18T03:57:01+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230517-WA0047.jpg",
+    "size": 122634,
+    "duration_s": 0,
+    "sha256_b64": "uFa5nlCwoQnwD7Sz99GJ+KQiYBk9A8VZ27BYzmtZ/pQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1073422,
+   "key_id": "D6AA5AD702804F43CC4F12A36E3018AB",
+   "ts_ms": 1684382224000,
+   "ts_iso": "2023-05-18T03:57:04+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 0,
+   "text": "Jaajjaja",
+   "starred": false
+  },
+  {
+   "id": 1073423,
+   "key_id": "16455D91C9F702A29603C8A0BF68A05C",
+   "ts_ms": 1684382335219,
+   "ts_iso": "2023-05-18T03:58:55.219000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwuwuw",
+   "starred": false
+  },
+  {
+   "id": 1073425,
+   "key_id": "5769DE79D5C9B8F088D297FD134FF4FE",
+   "ts_ms": 1684382356913,
+   "ts_iso": "2023-05-18T03:59:16.913000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Team Pinedo (?",
+   "starred": false
+  },
+  {
+   "id": 1073437,
+   "key_id": "F841F1AAC6EF269429FC84747F3119D0",
+   "ts_ms": 1684401024000,
+   "ts_iso": "2023-05-18T09:10:24+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "Team Gymbros",
+   "starred": false
+  },
+  {
+   "id": 1077552,
+   "key_id": "23AD2C01E11E8C453A84B624831A3C57",
+   "ts_ms": 1685155451000,
+   "ts_iso": "2023-05-27T02:44:11+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 1,
+   "text": "Check",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230527-WA0003.jpg",
+    "size": 93370,
+    "duration_s": 0,
+    "sha256_b64": "T8/KtuHhjxcR+/ncLIihJHLva9ZGsFxjeIqSG9Tgw/w=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1077578,
+   "key_id": "A22554AAE60113E60191CF2AE16D6F26",
+   "ts_ms": 1685170298000,
+   "ts_iso": "2023-05-27T06:51:38+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 1,
+   "text": "😎👌🏻",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230527-WA0004.jpg",
+    "size": 85940,
+    "duration_s": 0,
+    "sha256_b64": "6jUMqtRo9vvMlHlabhWFf0o9byKyScIMuMdOO/hcdsY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1077579,
+   "key_id": "7C917076FBCD89EF9B05CAF1906A1565",
+   "ts_ms": 1685170316000,
+   "ts_iso": "2023-05-27T06:51:56+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 0,
+   "text": "no dice ahí cuánto tiempo me tomo ir 17 veces jjkjk",
+   "starred": false
+  },
+  {
+   "id": 1079067,
+   "key_id": "AFA050FDC22EC20696DB1F4852185854",
+   "ts_ms": 1685404957000,
+   "ts_iso": "2023-05-30T00:02:37+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 1,
+   "text": "Yin shek",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230529-WA0016.jpg",
+    "size": 144664,
+    "duration_s": 0,
+    "sha256_b64": "N080ROJ3n3w9LxHIcwFkPN15MwqoiEgnSJRHIqCu1j0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1079070,
+   "key_id": "B0EE342F9E00810394342ED7A06EB550",
+   "ts_ms": 1685405120486,
+   "ts_iso": "2023-05-30T00:05:20.486000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20230529-WA0018.jpg",
+    "size": 151367,
+    "duration_s": 0,
+    "sha256_b64": "EmTDncZqAhiIA+cApzfz/Zn2Y3sSsCVqzhzhwX9cH3w=",
+    "media_name": "64f0542a-653d-4951-9306-d55953aca7e3.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1079071,
+   "key_id": "341CF30C01D45C0374DA56F43DA1966B",
+   "ts_ms": 1685405700000,
+   "ts_iso": "2023-05-30T00:15:00+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230529-WA0019.jpg",
+    "size": 158596,
+    "duration_s": 0,
+    "sha256_b64": "IRguOSkS/+lzsN886nJ5+/4Bi9/ThbNwHSXf7K8qywY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1079072,
+   "key_id": "5122E6926F5139852E34AEDC0609CCBB",
+   "ts_ms": 1685405735494,
+   "ts_iso": "2023-05-30T00:15:35.494000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pinedo ?",
+   "starred": false
+  },
+  {
+   "id": 1079073,
+   "key_id": "9209CCC8F2FF04B1B565E872DAC3F1E3",
+   "ts_ms": 1685405736000,
+   "ts_iso": "2023-05-30T00:15:36+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202322/PTT-20230529-WA0020.opus",
+    "size": 16037,
+    "duration_s": 6,
+    "sha256_b64": "S/3eWuKamsyd9pSQ/hOTAtoPc9zVRv+6mso1LZKRqUk=",
+    "media_name": "PTT-20230529-WA0020.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1079074,
+   "key_id": "FEA59BAB45C4D2CA46E55CAC15D89379",
+   "ts_ms": 1685405745399,
+   "ts_iso": "2023-05-30T00:15:45.399000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajaja",
+   "starred": false
+  },
+  {
+   "id": 1080154,
+   "key_id": "DC59388116A838C90F7069646F2C71FC",
+   "ts_ms": 1685501090000,
+   "ts_iso": "2023-05-31T02:44:50+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 1,
+   "text": "Check",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230530-WA0066.jpg",
+    "size": 125216,
+    "duration_s": 0,
+    "sha256_b64": "ukR2sYtzdfax4UoAmRFBIJDlLnB0Vx9EqVCAFbWhht8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1082070,
+   "key_id": "94F8C40363701FFDC8DFC3003D2DEE0A",
+   "ts_ms": 1685823939000,
+   "ts_iso": "2023-06-03T20:25:39+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 1,
+   "text": "5/5",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230603-WA0010.jpg",
+    "size": 136309,
+    "duration_s": 0,
+    "sha256_b64": "lIWs5kJ3BdlvYRUMWiHAF15eZTtO9CfEu+wqo5wSoWE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1082078,
+   "key_id": "DFD1A6EF0C75C44A567F2AE3B4A7DD3E",
+   "ts_ms": 1685827749000,
+   "ts_iso": "2023-06-03T21:29:09+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 0,
+   "text": "Nos vemos en qca hoy",
+   "starred": false
+  },
+  {
+   "id": 1082283,
+   "key_id": "D10C10CF9DD4E29C076366CC717D10FD",
+   "ts_ms": 1685895447000,
+   "ts_iso": "2023-06-04T16:17:27+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 1,
+   "text": "Buen día 1/5",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "JfiKDUemQAj9oZEi7t+rpG7VkxRNtZJ25xsHCpm4H38=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1085555,
+   "key_id": "88DF55C80AA8995634A653023F6DAFAD",
+   "ts_ms": 1686437743000,
+   "ts_iso": "2023-06-10T22:55:43+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 0,
+   "text": "Que hacen",
+   "starred": false
+  },
+  {
+   "id": 1101522,
+   "key_id": "E5A07B758A89D53A14FCEDA3AF1B0255",
+   "ts_ms": 1689009619000,
+   "ts_iso": "2023-07-10T17:20:19+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 0,
+   "text": "hay que volver",
+   "starred": false
+  }
+ ]
+}

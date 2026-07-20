@@ -1,0 +1,172 @@
+{
+ "chat_id": 11180,
+ "slug": "_wa_chat_595994778026_11180",
+ "subject": null,
+ "jid_user": "595994778026",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994778026@s.whatsapp.net",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1531804,
+   "key_id": "F925DA50E1938A2AC08FAECF6E6E272F",
+   "ts_ms": 1752979937146,
+   "ts_iso": "2025-07-20T02:52:17.146000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Sent/VID-20250709-WA0041.mp4",
+    "size": 22211983,
+    "duration_s": 106,
+    "sha256_b64": "hQja0AuMFvKgUGhRnamm+ww3WBLTMQd547HdkCksK44=",
+    "media_name": "e11b1ab1-a994-461e-8adb-ba9fc123d015.mp4",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1531805,
+   "key_id": "96BEB68C9130B55BA7E6EE75FD085FFF",
+   "ts_ms": 1752979937632,
+   "ts_iso": "2025-07-20T02:52:17.632000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Sent/VID-20250707-WA0041.mp4",
+    "size": 20364678,
+    "duration_s": 98,
+    "sha256_b64": "UiM98oqbGTgyQhG2kMClC1hsnv6zi0FfJuT4kb2eTTo=",
+    "media_name": "1de8d69e-ce94-49a3-8ce9-5c52ca500b0f.mp4",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1531806,
+   "key_id": "6EADC96C7CFDF4B0DE1DB80D68DB85CA",
+   "ts_ms": 1752979938315,
+   "ts_iso": "2025-07-20T02:52:18.315000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Sent/VID-20250707-WA0064.mp4",
+    "size": 10068855,
+    "duration_s": 48,
+    "sha256_b64": "5192JLai1xhe4fkb5+OxJXtNlbuX6ReY1pRqZ60iINQ=",
+    "media_name": "26c36df0-0862-431e-b051-9535aca3f730.mp4",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1531808,
+   "key_id": "3AD94247858F145E45BF",
+   "ts_ms": 1752980168000,
+   "ts_iso": "2025-07-20T02:56:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que hot",
+   "starred": false
+  },
+  {
+   "id": 1531809,
+   "key_id": "0F6696AFD262470AC4E1C43F434757C1",
+   "ts_ms": 1752980271308,
+   "ts_iso": "2025-07-20T02:57:51.308000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vos tenes vids?",
+   "starred": false
+  },
+  {
+   "id": 1531812,
+   "key_id": "A12B3583C808BBBC84C18707087366DA",
+   "ts_ms": 1752980402948,
+   "ts_iso": "2025-07-20T03:00:02.948000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que Rico cogerte asi",
+   "starred": false
+  },
+  {
+   "id": 1531813,
+   "key_id": "17FA95B4729A811036A3E85BCD5F60EF",
+   "ts_ms": 1752980407597,
+   "ts_iso": "2025-07-20T03:00:07.597000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hasta que TE corras",
+   "starred": false
+  },
+  {
+   "id": 1531815,
+   "key_id": "3A1C2ABCCF76865EAE81",
+   "ts_ms": 1752980467000,
+   "ts_iso": "2025-07-20T03:01:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En tu culo",
+   "starred": false
+  },
+  {
+   "id": 1531816,
+   "key_id": "3A44B652B51AC010C1C5",
+   "ts_ms": 1752980469000,
+   "ts_iso": "2025-07-20T03:01:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🫦",
+   "starred": false
+  },
+  {
+   "id": 1531817,
+   "key_id": "3A552B5E8A291A6B5370",
+   "ts_ms": 1752980634000,
+   "ts_iso": "2025-07-20T03:03:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A ver mas videos",
+   "starred": false
+  },
+  {
+   "id": 1825073,
+   "key_id": "AC70A72B6210DB61CAE1D184014DF853",
+   "ts_ms": 1783448044978,
+   "ts_iso": "2026-07-07T18:14:04.978000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "😢",
+   "starred": false
+  },
+  {
+   "id": 1825074,
+   "key_id": "AC0CA5C9D15124830A3D9A97AFC93383",
+   "ts_ms": 1783448047076,
+   "ts_iso": "2026-07-07T18:14:07.076000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "😍",
+   "starred": false
+  }
+ ]
+}

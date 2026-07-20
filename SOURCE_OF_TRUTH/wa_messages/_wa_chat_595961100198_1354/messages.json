@@ -1,0 +1,123 @@
+{
+ "chat_id": 1354,
+ "slug": "_wa_chat_595961100198_1354",
+ "subject": null,
+ "jid_user": "595961100198",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595961100198@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1355078,
+   "key_id": "2856555D3174668AF8",
+   "ts_ms": 1725668323000,
+   "ts_iso": "2024-09-07T00:18:43+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola profe Norma :) \nSoy Ivan Weiss, estudiante de Ingeniería Informática. Quería consultarte si contigo puedo gestionar el trámite de mi pasantía.\n\nActualmente llevo un año trabajando en MentorMate y tengo 5 años de experiencia previa en WPG.\n\n¿Te parece si coordinamos para la semana que viene? \nQuedo a disposición para adaptarme a tu disponibilidad.",
+   "starred": false
+  },
+  {
+   "id": 1355079,
+   "key_id": "2FBEFDE6F1CA24DEBE71DD61B9187AFD",
+   "ts_ms": 1725668400000,
+   "ts_iso": "2024-09-07T00:20:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Iván, cómo estás??",
+   "starred": false
+  },
+  {
+   "id": 1355080,
+   "key_id": "80EEAEC2B56FAD017954FE1159743EB7",
+   "ts_ms": 1725668449000,
+   "ts_iso": "2024-09-07T00:20:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si, coordinamos la próxima semana. El miércoles me queda bien",
+   "starred": false
+  },
+  {
+   "id": 1355082,
+   "key_id": "864E0C9CE5C6A91106AFB8AB2311738A",
+   "ts_ms": 1725668490000,
+   "ts_iso": "2024-09-07T00:21:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy x la facu a partir de las 14 hs",
+   "starred": false
+  },
+  {
+   "id": 1355083,
+   "key_id": "E9C7291AC5E894969447AC35307D5B80",
+   "ts_ms": 1725668518000,
+   "ts_iso": "2024-09-07T00:21:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No, tenemos que llenar los 4 formularios",
+   "starred": false
+  },
+  {
+   "id": 1355084,
+   "key_id": "F91FD7B5AFDF27EC07",
+   "ts_ms": 1725668527000,
+   "ts_iso": "2024-09-07T00:22:07+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okis\n\nvemos de coordinar para la semana que viene \ny veo de prepar los docs que pueda",
+   "starred": false
+  },
+  {
+   "id": 1355085,
+   "key_id": "2AF417DE3A8CF6035C",
+   "ts_ms": 1725668541000,
+   "ts_iso": "2024-09-07T00:22:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "perfect\nveo de cargar todo ya :)",
+   "starred": false
+  },
+  {
+   "id": 1355086,
+   "key_id": "8DE3A5F1405A9905CCF7994B86FC0BED",
+   "ts_ms": 1725668593000,
+   "ts_iso": "2024-09-07T00:23:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Este es el que le corresponde completar al responsable de la empresa",
+   "starred": false
+  },
+  {
+   "id": 1355087,
+   "key_id": "4956AB1AD9F7C5F34423FBAB2F0717B1",
+   "ts_ms": 1725668601000,
+   "ts_iso": "2024-09-07T00:23:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Genial",
+   "starred": false
+  },
+  {
+   "id": 1355088,
+   "key_id": "5347AAC469BFE8CC74D30613B9001785",
+   "ts_ms": 1725668659000,
+   "ts_iso": "2024-09-07T00:24:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si te queda mejor podemos hacer un meet x si tienes alguna duda",
+   "starred": false
+  }
+ ]
+}

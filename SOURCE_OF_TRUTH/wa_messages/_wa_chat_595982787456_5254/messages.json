@@ -1,0 +1,24 @@
+{
+ "chat_id": 5254,
+ "slug": "_wa_chat_595982787456_5254",
+ "subject": null,
+ "jid_user": "595982787456",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982787456@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1216381,
+   "key_id": "3EB03ED11B944E2510B467",
+   "ts_ms": 1703612734000,
+   "ts_iso": "2023-12-26T17:45:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas buenas. 🤩\nTe saluda JAVIER\nTe cuento que hoy tenemos Megas beneficios con TIGO!🥳\n\n10 GB 99 MIL\nLlamadas ilimitadas a todas las operadoras ✅\nWhatsapp Libre ✅\n\nPAGAS RECIEN EN FEBRERO!!\n\nSERVICIOS PARA EL HOGAR\n🔸TV FAMILIAR  WIFI 150 MBPS x 219.000\n\n🔸TV FAMILIAR 149.000 MIL\n\n🔸WIFI 150 MB X 139.000 MIL",
+   "starred": false
+  }
+ ]
+}

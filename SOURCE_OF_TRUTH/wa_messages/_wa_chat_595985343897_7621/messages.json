@@ -1,0 +1,143 @@
+{
+ "chat_id": 7621,
+ "slug": "_wa_chat_595985343897_7621",
+ "subject": null,
+ "jid_user": "595985343897",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985343897@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1354503,
+   "key_id": "296A2E69AD28108A6BA99A9DC5ED4291",
+   "ts_ms": 1725625460000,
+   "ts_iso": "2024-09-06T12:24:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "holis",
+   "starred": false
+  },
+  {
+   "id": 1354504,
+   "key_id": "496C5984CB7C90E9BB7F705F02702DDD",
+   "ts_ms": 1725625463000,
+   "ts_iso": "2024-09-06T12:24:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "soy césar",
+   "starred": false
+  },
+  {
+   "id": 1354505,
+   "key_id": "61CA64FFFA166589DDD68B723C69E368",
+   "ts_ms": 1725625475000,
+   "ts_iso": "2024-09-06T12:24:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "puedo enviarte mi resume para que critiques otv?",
+   "starred": false
+  },
+  {
+   "id": 1354507,
+   "key_id": "2B9283E588852D78C9A9287556BDE317",
+   "ts_ms": 1725625499807,
+   "ts_iso": "2024-09-06T12:24:59.807000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202436/PTT-20240906-WA0001.opus",
+    "size": 0,
+    "duration_s": 9,
+    "sha256_b64": "1Um7EcT0gJhQz3aTDfa9mLMzzlZ13FFykAze5cDN0tU=",
+    "media_name": "ba16797bb8f1458e9898622e6dd0461f.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1354513,
+   "key_id": "53ECFB8F72BA473290E24D1CB2F38D32",
+   "ts_ms": 1725626497000,
+   "ts_iso": "2024-09-06T12:41:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "todo sirve",
+   "starred": false
+  },
+  {
+   "id": 1354770,
+   "key_id": "1BFC6B4C8BA1240AABDF742E110803FF",
+   "ts_ms": 1725646582058,
+   "ts_iso": "2024-09-06T18:16:22.058000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mira si podes poner en columnas tu GitHub y LinkedIn",
+   "starred": false
+  },
+  {
+   "id": 1354771,
+   "key_id": "01C2582618969641B68B5F2AFD0F1649",
+   "ts_ms": 1725646594147,
+   "ts_iso": "2024-09-06T18:16:34.147000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y pone bajo tu foto no en la columna",
+   "starred": false
+  },
+  {
+   "id": 1354772,
+   "key_id": "E930678BD2BBC4D99D32DEB60E6AD4C0",
+   "ts_ms": 1725646628686,
+   "ts_iso": "2024-09-06T18:17:08.686000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aparte de eso me parece que chill",
+   "starred": false
+  },
+  {
+   "id": 1408034,
+   "key_id": "4EB532BFA6E858F9774258033F42F03F",
+   "ts_ms": 1734825413000,
+   "ts_iso": "2024-12-21T23:56:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y dp?",
+   "starred": false
+  },
+  {
+   "id": 1408056,
+   "key_id": "C19F6878E9E72D0403F6DC4342F05AD0",
+   "ts_ms": 1734825865281,
+   "ts_iso": "2024-12-22T00:04:25.281000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos afu",
+   "starred": false
+  },
+  {
+   "id": 1473254,
+   "key_id": "D24930BC78B6BA86EE90273772F628F7",
+   "ts_ms": 1745447247000,
+   "ts_iso": "2025-04-23T22:27:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Meet Manus — your AI agent with its own computer. It builds websites, writes reports, and runs research tasks, even while you sleep.\nhttps://manus.im/invitation/7H9VTQQTR0E5I",
+   "starred": false
+  }
+ ]
+}

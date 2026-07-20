@@ -1,0 +1,68 @@
+{
+ "chat_id": 14146,
+ "slug": "_wa_lid_266751929544901_14146",
+ "subject": null,
+ "jid_user": "266751929544901",
+ "jid_server": "lid",
+ "jid_raw": "266751929544901@lid",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1717506,
+   "key_id": "AC4742549BAC151D890BDD913EE2308B",
+   "ts_ms": 1773356998921,
+   "ts_iso": "2026-03-12T23:09:58.921000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hoka",
+   "starred": false
+  },
+  {
+   "id": 1717507,
+   "key_id": "ACD1FCBF2A38ADEAE39361678726AD9C",
+   "ts_ms": 1773357303000,
+   "ts_iso": "2026-03-12T23:15:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas si",
+   "starred": false
+  },
+  {
+   "id": 1717508,
+   "key_id": "ACD80A86E7473C2FA72A444AA8A0C1F7",
+   "ts_ms": 1773357326728,
+   "ts_iso": "2026-03-12T23:15:26.728000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Este es el número de paseo ingavi",
+   "starred": false
+  },
+  {
+   "id": 1717510,
+   "key_id": "AC65782BE27BB62FB0C22DE47B2A4006",
+   "ts_ms": 1773357343088,
+   "ts_iso": "2026-03-12T23:15:43.088000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que locales están abiertos?\nMe podrías mandar los menú ?",
+   "starred": false
+  },
+  {
+   "id": 1717526,
+   "key_id": "AC95BFDE9143804E0C2ED7752077DD34",
+   "ts_ms": 1773360286000,
+   "ts_iso": "2026-03-13T00:04:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas están en las redes sociales loa nros Sr de cada local",
+   "starred": false
+  }
+ ]
+}

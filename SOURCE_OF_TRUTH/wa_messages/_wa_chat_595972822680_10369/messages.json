@@ -1,0 +1,24 @@
+{
+ "chat_id": 10369,
+ "slug": "_wa_chat_595972822680_10369",
+ "subject": null,
+ "jid_user": "595972822680",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972822680@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1468978,
+   "key_id": "3EB075CD09979AB0D9A062",
+   "ts_ms": 1744831360000,
+   "ts_iso": "2025-04-16T19:22:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas, mensaje para LUIS CONSTANTINO VARGAS SALINAS \n📌 *Quantum SA le recuerda que posee factura pendiente de pago con PERSONAL*\n💥 *APROVECHA Y ABONA EL DIA DE HOY CON 50% DE DESCUENTO* 💥\n*Descuento disponible para reactivacion de servicio INTERNET con cuenta Nro: 17448352*\nPuede abonar aqui: https://bit.ly//PagosFacturas.\n* Boca de Cobranza\n* Sucursales\n* Desde su app de banco como pago de servicios\n📌 *Solicita el descuento respondiendo este mensaje*\n📌 *De haber abonado no es titular favor, Omita este mensaje*\nDesde ya Muchas gracias!!\n",
+   "starred": false
+  }
+ ]
+}

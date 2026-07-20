@@ -1,0 +1,90 @@
+{
+ "chat_id": 9872,
+ "slug": "_wa_chat_595984607510_9872",
+ "subject": null,
+ "jid_user": "595984607510",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984607510@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1426298,
+   "key_id": "1A9D6A1BD8E3C02CBAAF8CDD2221B0EC",
+   "ts_ms": 1738209888843,
+   "ts_iso": "2025-01-30T04:04:48.843000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1426299,
+   "key_id": "D891337DE5281A0CCE420D3F69E45CA9",
+   "ts_ms": 1738209898680,
+   "ts_iso": "2025-01-30T04:04:58.680000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hacen delivery a San Lorenzo?",
+   "starred": false
+  },
+  {
+   "id": 1426314,
+   "key_id": "3AFCAC0380095D3140BD",
+   "ts_ms": 1738237558000,
+   "ts_iso": "2025-01-30T11:45:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días qué tal?☺️",
+   "starred": false
+  },
+  {
+   "id": 1426315,
+   "key_id": "3A851C562662CD70CF4B",
+   "ts_ms": 1738237565000,
+   "ts_iso": "2025-01-30T11:46:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nuestra única tienda física se encuentra en Ciudad del Este-Barrio Boquerón, también realizamos envíos a cualquier punto del país mediante transportadoras tercerizadas , costo mínimo de envío 25 a 30 mil Gs🙌🏼💚🚚",
+   "starred": false
+  },
+  {
+   "id": 1426430,
+   "key_id": "462A81EF5E1E99F6E6854E9C7F2CCC0C",
+   "ts_ms": 1738254378525,
+   "ts_iso": "2025-01-30T16:26:18.525000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero traer muchos \nFrutos secos y deshidratados\nPara poner en mis granolas \n\nHacen precio mayorista?\n\nOnda para traer medio Kg a 1 Kg de muchas cosas ?",
+   "starred": false
+  },
+  {
+   "id": 1426483,
+   "key_id": "3AA0FC2E85891A4895C4",
+   "ts_ms": 1738254877000,
+   "ts_iso": "2025-01-30T16:34:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Contamos con precios mayoristas y hay algunos requisitos por cumplir",
+   "starred": false
+  },
+  {
+   "id": 1426484,
+   "key_id": "3A64661E76C2C8DAEC91",
+   "ts_ms": 1738254891000,
+   "ts_iso": "2025-01-30T16:34:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te paso el número de mi compañera de ese sector ella te va informar mejor",
+   "starred": false
+  }
+ ]
+}

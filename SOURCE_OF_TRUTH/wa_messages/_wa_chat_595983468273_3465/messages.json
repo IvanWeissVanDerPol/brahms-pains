@@ -1,0 +1,185 @@
+{
+ "chat_id": 3465,
+ "slug": "_wa_chat_595983468273_3465",
+ "subject": null,
+ "jid_user": "595983468273",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983468273@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1094979,
+   "key_id": "E9DA05F6A140B11CFDC181E85C3C97A7",
+   "ts_ms": 1687874952941,
+   "ts_iso": "2023-06-27T14:09:12.941000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas hacen castración de perras por si acaso?",
+   "starred": false
+  },
+  {
+   "id": 1095060,
+   "key_id": "F84EEF2A66F9274AE0D6790BBF4A08C0",
+   "ts_ms": 1687877401832,
+   "ts_iso": "2023-06-27T14:50:01.832000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20230626-WA0012.jpg",
+    "size": 96826,
+    "duration_s": 0,
+    "sha256_b64": "WhqRNSy3zJJVcLQX8sjux5536qS4dJor6b5EDo1UUvk=",
+    "media_name": "76a752f7-a565-499f-a121-a039c7b52660.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1095061,
+   "key_id": "67FEB7CBEAC6FB704F9DF3FE07827EEF",
+   "ts_ms": 1687877401877,
+   "ts_iso": "2023-06-27T14:50:01.877000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20230626-WA0010.jpg",
+    "size": 101226,
+    "duration_s": 0,
+    "sha256_b64": "5NdhpKuOCoOgziCfnQ7JyOWOFaiT4zM7z7zaZYwbSBI=",
+    "media_name": "3407fe94-4ce3-495a-8237-c06eda3b8889.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1095062,
+   "key_id": "1439F01CDA5A53352AE46033F474C826",
+   "ts_ms": 1687877407105,
+   "ts_iso": "2023-06-27T14:50:07.105000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sería para ella",
+   "starred": false
+  },
+  {
+   "id": 1095063,
+   "key_id": "AFA2759183FDCD8AD21DA717FD71663B",
+   "ts_ms": 1687877424000,
+   "ts_iso": "2023-06-27T14:50:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días, si realiza el doctor que trabaja con nosotros",
+   "starred": false
+  },
+  {
+   "id": 1095064,
+   "key_id": "142DEC0727A5626968356424298801A5",
+   "ts_ms": 1687877444732,
+   "ts_iso": "2023-06-27T14:50:44.732000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Como agendo para que le castren ?",
+   "starred": false
+  },
+  {
+   "id": 1095065,
+   "key_id": "2AB333B602D6E2C43F1753FDE59EA56A",
+   "ts_ms": 1687877469000,
+   "ts_iso": "2023-06-27T14:51:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te confirmo la disponibilidad del doctor y coordinamos te parece",
+   "starred": false
+  },
+  {
+   "id": 1095066,
+   "key_id": "F5C4C80AB0C24F5C4BFF81724147C965",
+   "ts_ms": 1687877475131,
+   "ts_iso": "2023-06-27T14:51:15.131000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1095144,
+   "key_id": "34F3AD78B42E3B3FEA47A4FF575EB36D",
+   "ts_ms": 1687881298000,
+   "ts_iso": "2023-06-27T15:54:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Debe realizar 8 a 12 horas de ayuno y el día que le quede bien a usted.",
+   "starred": false
+  },
+  {
+   "id": 1095561,
+   "key_id": "7F0CD5455BDDEF947BE1505355FBED39",
+   "ts_ms": 1687981219957,
+   "ts_iso": "2023-06-28T19:40:19.957000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuanto sería ?",
+   "starred": false
+  },
+  {
+   "id": 1095564,
+   "key_id": "ED4A140A3BE7E4E871352E5D7DE4CDF8",
+   "ts_ms": 1687981617000,
+   "ts_iso": "2023-06-28T19:46:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "200 seria",
+   "starred": false
+  },
+  {
+   "id": 1095566,
+   "key_id": "9A6FC9322814B83E0F57FD46CC2E2339",
+   "ts_ms": 1687981631000,
+   "ts_iso": "2023-06-28T19:47:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te envío el número del doctor y así coordinan el día el horario",
+   "starred": false
+  },
+  {
+   "id": 1095567,
+   "key_id": "F3E2685EFA4C8B8D73A84F78C8CA7DA3",
+   "ts_ms": 1687981637000,
+   "ts_iso": "2023-06-28T19:47:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Creo que le puede buscar tambien",
+   "starred": false
+  },
+  {
+   "id": 1095568,
+   "key_id": "3EB0A4197DB76FAC6F2C15",
+   "ts_ms": 1687981638000,
+   "ts_iso": "2023-06-28T19:47:18+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ok gracias",
+   "starred": false
+  }
+ ]
+}

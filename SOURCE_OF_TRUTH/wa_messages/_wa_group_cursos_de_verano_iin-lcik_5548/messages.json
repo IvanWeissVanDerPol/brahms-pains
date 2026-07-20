@@ -1,0 +1,75 @@
+{
+ "chat_id": 5548,
+ "slug": "_wa_group_cursos_de_verano_iin-lcik_5548",
+ "subject": "Cursos de Verano IIN-LCIK ☀️💻",
+ "jid_user": "120363230284717197",
+ "jid_server": "g.us",
+ "jid_raw": "120363230284717197@g.us",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1233184,
+   "key_id": "739DD51B5937EECB7FFDA12B67AFCDBC",
+   "ts_ms": 1707139724000,
+   "ts_iso": "2024-02-05T13:28:44+00:00",
+   "from_me": false,
+   "sender_jid": "595984298494@s.whatsapp.net",
+   "type": 0,
+   "text": "¡Hola! 😊 Bienvenidos a la comunidad de los Cursos de Verano 2024. Antes de que empiece, hay algunos detalles importantes que me gustaría mencionar:\n\n1. Las *grabaciones de las clases* estarán disponibles gradualmente a lo largo del curso.\n\n2. Para obtener el certificado de participación, se requiere una asistencia y participación *mínima del 70% en las clases*.\n\n3. Por cuestiones de organización, la lista de asistencia se verificará únicamente para aquellos que estén *oficialmente inscritos* en el curso. \n\nSi tienes alguna pregunta o duda, no dudes en ponerte en contacto con nosotros. ¡Nos vemos!",
+   "starred": false
+  },
+  {
+   "id": 1245545,
+   "key_id": "4CA1843CC745F7B37788818462A9C996",
+   "ts_ms": 1708702311000,
+   "ts_iso": "2024-02-23T15:31:51+00:00",
+   "from_me": false,
+   "sender_jid": "595984298494@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240223-WA0038.jpg",
+    "size": 99381,
+    "duration_s": 0,
+    "sha256_b64": "kSRKh6Hohd77UfeCIS2W8FBpWd48RnxFUgdPars4CF4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1245546,
+   "key_id": "D3FA7B87A6E2BED77D9F91F6D043E6A2",
+   "ts_ms": 1708702311000,
+   "ts_iso": "2024-02-23T15:31:51+00:00",
+   "from_me": false,
+   "sender_jid": "595984298494@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240223-WA0037.jpg",
+    "size": 82941,
+    "duration_s": 0,
+    "sha256_b64": "OURTuV2lNnKS+Tc4KC8GoemPNxEQpYYa2utmOKFS9Vs=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1246094,
+   "key_id": "A69449CDDFA5B48CA83430D779907DD5",
+   "ts_ms": 1708782735000,
+   "ts_iso": "2024-02-24T13:52:15+00:00",
+   "from_me": false,
+   "sender_jid": "595984298494@s.whatsapp.net",
+   "type": 0,
+   "text": "Pueden dejarnos sus sugerencias para la proxima edicion en el siguiente formulario: \nhttps://forms.gle/126WG8BeD1Pfe1qL7 \n\n¡Nos vemos en los cursos de invierno! 💫",
+   "starred": false
+  }
+ ]
+}

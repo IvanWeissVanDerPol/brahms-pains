@@ -1,0 +1,35 @@
+{
+ "chat_id": 10322,
+ "slug": "_wa_chat_595986138123_10322",
+ "subject": null,
+ "jid_user": "595986138123",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986138123@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1457074,
+   "key_id": "B10779256CC48732F79A2C569E6A8B80",
+   "ts_ms": 1743303579000,
+   "ts_iso": "2025-03-30T02:59:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches soy el delivery de pausanti estoy afuera",
+   "starred": false
+  },
+  {
+   "id": 1457075,
+   "key_id": "2D6AD8D4AFBC2E13C2FA8B9B142D24E2",
+   "ts_ms": 1743303592316,
+   "ts_iso": "2025-03-30T02:59:52.316000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

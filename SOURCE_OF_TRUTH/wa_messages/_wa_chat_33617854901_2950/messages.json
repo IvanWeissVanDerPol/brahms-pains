@@ -1,0 +1,99 @@
+{
+ "chat_id": 2950,
+ "slug": "_wa_chat_33617854901_2950",
+ "subject": null,
+ "jid_user": "33617854901",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "33617854901@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1037671,
+   "key_id": "D5589889534FD858AD9EE39ED2FB5E9B",
+   "ts_ms": 1678415492236,
+   "ts_iso": "2023-03-10T02:31:32.236000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hii",
+   "starred": false
+  },
+  {
+   "id": 1037672,
+   "key_id": "E0F6358175C2135E09D071F1988C0BB5",
+   "ts_ms": 1678415500336,
+   "ts_iso": "2023-03-10T02:31:40.336000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Are you guys still doing something?",
+   "starred": false
+  },
+  {
+   "id": 1037675,
+   "key_id": "3ACDA09277793FD06B2E",
+   "ts_ms": 1678416599000,
+   "ts_iso": "2023-03-10T02:49:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202310/PTT-20230309-WA0013.opus",
+    "size": 41783,
+    "duration_s": 17,
+    "sha256_b64": "i5CtlAiQIi5FlvH0+XcxAknghQsC+MxVosYt5/xSeFE=",
+    "media_name": "PTT-20230309-WA0013.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1037676,
+   "key_id": "FF458AFC66C24452337A4C93E71D8C65",
+   "ts_ms": 1678416621448,
+   "ts_iso": "2023-03-10T02:50:21.448000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ª",
+   "starred": false
+  },
+  {
+   "id": 1037677,
+   "key_id": "F9DD0FA976CE4317D4D3B688C5ED801A",
+   "ts_ms": 1678416625700,
+   "ts_iso": "2023-03-10T02:50:25.700000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I'm on my way",
+   "starred": false
+  },
+  {
+   "id": 1037678,
+   "key_id": "C2335423234A5A832B182C813D07D488",
+   "ts_ms": 1678416627132,
+   "ts_iso": "2023-03-10T02:50:27.132000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwu",
+   "starred": false
+  },
+  {
+   "id": 1037679,
+   "key_id": "4B314E6CA44FBCC5002E79E9A230183D",
+   "ts_ms": 1678416643939,
+   "ts_iso": "2023-03-10T02:50:43.939000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Maybe I maje it for the last round",
+   "starred": false
+  }
+ ]
+}

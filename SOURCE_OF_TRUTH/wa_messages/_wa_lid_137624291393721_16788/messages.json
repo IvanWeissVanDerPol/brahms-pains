@@ -1,0 +1,110 @@
+{
+ "chat_id": 16788,
+ "slug": "_wa_lid_137624291393721_16788",
+ "subject": null,
+ "jid_user": "137624291393721",
+ "jid_server": "lid",
+ "jid_raw": "137624291393721@lid",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1808630,
+   "key_id": "ACECDA9EBE6B6A020629DC4C71C88554",
+   "ts_ms": 1781701400941,
+   "ts_iso": "2026-06-17T13:03:20.941000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260617-WA0072.jpg",
+    "size": 42960,
+    "duration_s": 0,
+    "sha256_b64": "8/gvzxbwfyZPEzUbw7x4m69nGha5UZdxsmwAMzrMKfE=",
+    "media_name": "c1fbe895-4995-4cef-a973-2ea891ae9e7e.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1808631,
+   "key_id": "A59F7EB6C9A572410EE0268CE4CA2419",
+   "ts_ms": 1781701402000,
+   "ts_iso": "2026-06-17T13:03:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "👋 ¡Hola! Gracias por escribir a @laviejaholanda 🪑\nSomos una tienda online de muebles vintage traídos desde Holanda 🇳🇱\nTe responderé lo antes posible.\nMientras tanto, podés seguirnos en Instagram o escribirme “Sí” si querés recibir nuestras novedades 💛\nComéntanos,☺️ que te gustó?",
+   "starred": false
+  },
+  {
+   "id": 1808633,
+   "key_id": "AC35321C61EE3E260AF5454CA5AC19F0",
+   "ts_ms": 1781701442338,
+   "ts_iso": "2026-06-17T13:04:02.338000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.iloveimg.com/download/k3rcgAmvxmkcbjqb2p83xd3y537kthmwblz34njkjh4516xg7j208k560fl1lrr9wy9dx2xxb0m51fn3hmmhpnz3yt8bvcgbp2xlb2s6y99hf2f4br10tjm8s2mzn2dmAv70rmA53b325p95wsdzslAnqc3rglb8z05c2jk87ypvmf2db8m1/15",
+   "starred": false
+  },
+  {
+   "id": 1808635,
+   "key_id": "AC24B843998834B6386047BA0D81CA69",
+   "ts_ms": 1781701445482,
+   "ts_iso": "2026-06-17T13:04:05.482000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hoa",
+   "starred": false
+  },
+  {
+   "id": 1808637,
+   "key_id": "ACCF171BBA0312D598E12E2131D11B3E",
+   "ts_ms": 1781701448518,
+   "ts_iso": "2026-06-17T13:04:08.518000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Acá va el logo",
+   "starred": false
+  },
+  {
+   "id": 1808638,
+   "key_id": "A52FDB6BC4F161DE15030F06DDAC4D16",
+   "ts_ms": 1781701455000,
+   "ts_iso": "2026-06-17T13:04:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias 😊",
+   "starred": false
+  },
+  {
+   "id": 1808661,
+   "key_id": "A502A71DFCC29907E13DB6D133DBE176",
+   "ts_ms": 1781703797000,
+   "ts_iso": "2026-06-17T13:43:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasas los servicios \nPunto por punto de lo que abarca la empresa... Por favor... 😊",
+   "starred": false
+  },
+  {
+   "id": 1808702,
+   "key_id": "3EB0BAE7B08A1A22037415",
+   "ts_ms": 1781704814000,
+   "ts_iso": "2026-06-17T14:00:14+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Servicios de Ai-Whisperers — punto por punto\nSomos una agencia de desarrollo web + automatización con IA basada en Paraguay. Esto es lo que ofrecemos:\n\n1. 🌐 Sitios web profesionales\nPáginas corporativas, e-commerce, landing pages\nMulti-idioma (es/en/nl/de)\nDiseño responsive + SEO optimizado\nDesde $500 USD sitio básico\n2. 🤖 Agentes de IA para WhatsApp\nAtención al cliente 24/7 automática\nRespuestas con tu base de conocimiento\nCalificación de leads + agendado de citas\nSetup: $300-800 USD + $50-150/mes\n3. 🧠 Automatizaciones con IA\nWorkflows con n8n + LLMs\nPipelines de contenido\nIntegraciones entre sistemas (CRM, email, sheets, WhatsApp)\n$50-80 USD/hora o proyectos fijos\n4. 🏗️ Plataformas SaaS multi-tenant\nBuilders tipo \"tenés tu sitio en 5 minutos\"\nDashboards admin + auth + billing\nDesde $3,000 USD MVP\n5. 🛒 E-commerce completo\nCatálogo, carrito, pagos, envíos\nPanel admin con Supabase\nIntegración WhatsApp para pedidos\nDesde $1,500 USD\n6. 📊 Consultoría en IA\nAuditoría de procesos para IA\nEstrategia de implementación\nCapacitación a equipos\n$100 USD/sesión\n7. 🗺️ Visualización 3D / datos satelitales\nRenders arquitectónicos desde卫星\nVisualización de terrenos (DEM, Sentinel-2)\nTours virtuales para real estate\nCotización por proyecto\n8. 🎨 Branding + identidad\nLogo, paleta, tipografías\nTemplates para redes sociales\nManual de marca\nDesde $400 USD\n9. 🔧 Mantenimiento + hosting\nServidor VPS propio (Hostinger + Cloudflare)\nDocker Swarm + Traefik\nSSL automático, backups, monitoreo\n$20-50 USD/mes por sitio\n10. 📚 Capacitación\nCursos de IA para empresas\nWorkshops de herramientas no-code\nMaterial en español/guaraní\nPrecio por grupo\nStack que usamos\nFrontend: Next.js 15, React, Tailwind, TypeScript\nBackend: Supabase, Postgres, Node.js, n8n\nIA: Claude, GPT-4, DeepSeek, modelos open-source\nInfra: Docker Swarm, Traefik, Cloudflare, Vercel\nMensajería: WhatsApp Business API, Evolution API\n📞 Contacto\nWhatsApp: +595 991 501444\nWeb: paragu-ai.com\nGitHub: github.com/Ai-Whisperers (42 repos públicos — \"practicamos en público, no solo consultamos\")\nBonus que casi nadie más ofrece:\n\n✅ Código abierto (podés ver exactamente qué construimos)\n✅ Paraguay + LATAM + Netherlands (somos bilingual bicultural)\n✅ Setup en días, no meses\n✅ Te damos acceso al admin, no te encerramos\n¿Querés que profundice en alguno, o armamos una cotización para tu caso? 😊",
+   "starred": false
+  }
+ ]
+}

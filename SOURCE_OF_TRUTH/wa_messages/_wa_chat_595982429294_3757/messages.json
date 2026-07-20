@@ -1,0 +1,110 @@
+{
+ "chat_id": 3757,
+ "slug": "_wa_chat_595982429294_3757",
+ "subject": null,
+ "jid_user": "595982429294",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982429294@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1277753,
+   "key_id": "28FA15689A837F0A16216D213CCE5E8B",
+   "ts_ms": 1713888965975,
+   "ts_iso": "2024-04-23T16:16:05.975000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Sole\nSoy Iván Weiss \n\nEstoy teniendo problemas con mi laptop:(\n\nNo tengo WiFi",
+   "starred": false
+  },
+  {
+   "id": 1277754,
+   "key_id": "2B940800EFD53D1562C13637180354D5",
+   "ts_ms": 1713888972041,
+   "ts_iso": "2024-04-23T16:16:12.041000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240423-WA0019.jpg",
+    "size": 266516,
+    "duration_s": 0,
+    "sha256_b64": "3fz16wPCL1mScneTQd5JZTGsr8L2OW1QNDh+JE81R8Y=",
+    "media_name": "105c6360-d769-4dc8-8a0e-c03950e26dea.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1277755,
+   "key_id": "E98CB085AA0655F22FAE78A073C8BB96",
+   "ts_ms": 1713888986831,
+   "ts_iso": "2024-04-23T16:16:26.831000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me podrías ayudar a arreglar (?",
+   "starred": false
+  },
+  {
+   "id": 1277757,
+   "key_id": "0771821DDE0D596766BC98E51B982965",
+   "ts_ms": 1713889197000,
+   "ts_iso": "2024-04-23T16:19:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola me podes escribir a este número porfa",
+   "starred": false
+  },
+  {
+   "id": 1277758,
+   "key_id": "0886BBE5E0A1625AA920CFCCE50398E4",
+   "ts_ms": 1713889206000,
+   "ts_iso": "2024-04-23T16:20:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya que este es mi número personal",
+   "starred": false
+  },
+  {
+   "id": 1277759,
+   "key_id": "4FE918523D9F7468DCCFF0E155E80E3D",
+   "ts_ms": 1713889216000,
+   "ts_iso": "2024-04-23T16:20:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y el otro es el corporativo de la empresa",
+   "starred": false
+  },
+  {
+   "id": 1277760,
+   "key_id": "654A87D7806A1139ABCA28CCA1B13751",
+   "ts_ms": 1713889247703,
+   "ts_iso": "2024-04-23T16:20:47.703000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  },
+  {
+   "id": 1277761,
+   "key_id": "B93467CDFE4A1578C18E5A6BB58DC960",
+   "ts_ms": 1713889251088,
+   "ts_iso": "2024-04-23T16:20:51.088000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te mando :)",
+   "starred": false
+  }
+ ]
+}

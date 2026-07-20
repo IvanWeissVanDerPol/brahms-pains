@@ -1,0 +1,68 @@
+{
+ "chat_id": 9196,
+ "slug": "_wa_chat_595992736353_9196",
+ "subject": null,
+ "jid_user": "595992736353",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992736353@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1380919,
+   "key_id": "8159CF5A3E8361BE211A50ED241B3181",
+   "ts_ms": 1730213815000,
+   "ts_iso": "2024-10-29T14:56:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos dias\nQue tal \nDenilson Lopez.?\n\nYanina Galeano te saluda de CrediMarket 🙋🏻‍♀️ Te quería nomas comentar que tiene una línea aprobada de 1.000.000 que solo esta esperando por usted para que sea desembolsado",
+   "starred": false
+  },
+  {
+   "id": 1380920,
+   "key_id": "65CCA949B789EA6FAE4D41312BE10CD6",
+   "ts_ms": 1730213819000,
+   "ts_iso": "2024-10-29T14:56:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Inclusive se te puede llevar sin problema alguno 🤩",
+   "starred": false
+  },
+  {
+   "id": 1380931,
+   "key_id": "C02DB3E8D69809AD8C43ED232EF294E0",
+   "ts_ms": 1730215647723,
+   "ts_iso": "2024-10-29T15:27:27.723000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De donde sacan mi num",
+   "starred": false
+  },
+  {
+   "id": 1380932,
+   "key_id": "B1B78DACC9037B9318E870402360F2D9",
+   "ts_ms": 1730215650682,
+   "ts_iso": "2024-10-29T15:27:30.682000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dejen de molestar",
+   "starred": false
+  },
+  {
+   "id": 1380933,
+   "key_id": "2ED1F861B84C4E177E716E25C5189A53",
+   "ts_ms": 1730215656088,
+   "ts_iso": "2024-10-29T15:27:36.088000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La puta madre",
+   "starred": false
+  }
+ ]
+}

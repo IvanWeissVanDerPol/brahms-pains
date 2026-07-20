@@ -14,7 +14,9 @@ repos:
       - id: check-toml
       - id: check-merge-conflict
       - id: check-added-large-files
-        args: ["--maxkb=1024"]
+        # 15 MB — allows per-chat WhatsApp JSON exports under SOURCE_OF_TRUTH/wa_messages/
+        # (largest at ~10.7 MB). Still catches accidental model/binary dumps.
+        args: ["--maxkb=15360"]
       - id: detect-private-key
 
   - repo: https://github.com/psf/black

@@ -1,0 +1,233 @@
+{
+ "chat_id": 10849,
+ "slug": "_wa_chat_595991447905_10849",
+ "subject": null,
+ "jid_user": "595991447905",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991447905@s.whatsapp.net",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1514390,
+   "key_id": "ADE9AAE5EBB74ACEAF57ABA1531072F9",
+   "ts_ms": 1751010299000,
+   "ts_iso": "2025-06-27T07:44:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Wow esta genial la foto🤤",
+   "starred": false
+  },
+  {
+   "id": 1514427,
+   "key_id": "75084C225CAF228254B5CB9E660B1C50",
+   "ts_ms": 1751023915765,
+   "ts_iso": "2025-06-27T11:31:55.765000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1514428,
+   "key_id": "6890271BB09DDBDF07CBAAEB6E352B45",
+   "ts_ms": 1751023917438,
+   "ts_iso": "2025-06-27T11:31:57.438000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ":)",
+   "starred": false
+  },
+  {
+   "id": 1514431,
+   "key_id": "3011B2693E02EA596A0AAC366A880D08",
+   "ts_ms": 1751024280000,
+   "ts_iso": "2025-06-27T11:38:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De donde son?",
+   "starred": false
+  },
+  {
+   "id": 1514432,
+   "key_id": "C701432F82C7800795B1C9A48B2B1A1E",
+   "ts_ms": 1751024290000,
+   "ts_iso": "2025-06-27T11:38:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pido disculpas si molesto",
+   "starred": false
+  },
+  {
+   "id": 1514435,
+   "key_id": "8696929E5EEAB5B721B9C0D8605D868A",
+   "ts_ms": 1751024503528,
+   "ts_iso": "2025-06-27T11:41:43.528000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sanlo",
+   "starred": false
+  },
+  {
+   "id": 1514436,
+   "key_id": "96755397A84AE7240667F08E982855DB",
+   "ts_ms": 1751024510469,
+   "ts_iso": "2025-06-27T11:41:50.469000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hacia la UNA",
+   "starred": false
+  },
+  {
+   "id": 1514437,
+   "key_id": "024628A19F423B29D5D3CF0403AF8FA1",
+   "ts_ms": 1751024515185,
+   "ts_iso": "2025-06-27T11:41:55.185000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vos de donde?",
+   "starred": false
+  },
+  {
+   "id": 1514438,
+   "key_id": "A3854532B7766A3846A277DEDBA3D49D",
+   "ts_ms": 1751024747000,
+   "ts_iso": "2025-06-27T11:45:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lastimosamente estamos lejos",
+   "starred": false
+  },
+  {
+   "id": 1514439,
+   "key_id": "14AA5FB5C740B579B18920994012462D",
+   "ts_ms": 1751024751000,
+   "ts_iso": "2025-06-27T11:45:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy de CDE",
+   "starred": false
+  },
+  {
+   "id": 1514451,
+   "key_id": "C59072737A7899F5BCDB46979B13A192",
+   "ts_ms": 1751025692584,
+   "ts_iso": "2025-06-27T12:01:32.584000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lejitos",
+   "starred": false
+  },
+  {
+   "id": 1514452,
+   "key_id": "1ED9A6333331430921CF93E3A8F523FB",
+   "ts_ms": 1751025723983,
+   "ts_iso": "2025-06-27T12:02:03.983000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo solo suelo viajar casa tanto \n\nLau no suele it hasta cde \n\nX si nos vemos en UN viaje",
+   "starred": false
+  },
+  {
+   "id": 1514455,
+   "key_id": "A1453E60F1D1B18ACDFF6D421AE40D1A",
+   "ts_ms": 1751025857000,
+   "ts_iso": "2025-06-27T12:04:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sii estaría bueno eso",
+   "starred": false
+  },
+  {
+   "id": 1514457,
+   "key_id": "D1AD78B9DD27275234B722BCB2916C2E",
+   "ts_ms": 1751025863000,
+   "ts_iso": "2025-06-27T12:04:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero vos sos bi?",
+   "starred": false
+  },
+  {
+   "id": 1514464,
+   "key_id": "5B25F2ADD6A1BC5376E6E3AFA516B409",
+   "ts_ms": 1751026789418,
+   "ts_iso": "2025-06-27T12:19:49.418000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si",
+   "starred": false
+  },
+  {
+   "id": 1514465,
+   "key_id": "5CB7A95C1B83F4F4B22C84BFC689EB06",
+   "ts_ms": 1751026791334,
+   "ts_iso": "2025-06-27T12:19:51.334000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy",
+   "starred": false
+  },
+  {
+   "id": 1514481,
+   "key_id": "E006093980B8EC973319AE9202567100",
+   "ts_ms": 1751028999000,
+   "ts_iso": "2025-06-27T12:56:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que gusto",
+   "starred": false
+  },
+  {
+   "id": 1514482,
+   "key_id": "B409E1B5FD8566C0CF880A7EDFD10D2F",
+   "ts_ms": 1751029009000,
+   "ts_iso": "2025-06-27T12:56:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sos pasivo?",
+   "starred": false
+  },
+  {
+   "id": 1514487,
+   "key_id": "3FF2A032D2616D82C9E9",
+   "ts_ms": 1751029367000,
+   "ts_iso": "2025-06-27T13:02:47+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "mas act pero puedo",
+   "starred": false
+  },
+  {
+   "id": 1514537,
+   "key_id": "E3ECDCF88021C31D3538B396B9E14E73",
+   "ts_ms": 1751032110000,
+   "ts_iso": "2025-06-27T13:48:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Entiendo, no soy también de ser pasivo pero me gusta a veces",
+   "starred": false
+  }
+ ]
+}

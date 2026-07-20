@@ -1,0 +1,79 @@
+{
+ "chat_id": 15177,
+ "slug": "_wa_lid_119769609064508_15177",
+ "subject": null,
+ "jid_user": "119769609064508",
+ "jid_server": "lid",
+ "jid_raw": "119769609064508@lid",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1777639,
+   "key_id": "AC42BC09403B665D90D1CFD1BFC4C26A",
+   "ts_ms": 1778882495226,
+   "ts_iso": "2026-05-15T22:01:35.226000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi",
+   "starred": false
+  },
+  {
+   "id": 1777641,
+   "key_id": "AC51E25DD36BB5A87A9B0C6D5D5855EB",
+   "ts_ms": 1778882520933,
+   "ts_iso": "2026-05-15T22:02:00.933000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://suno.com/s/K1BHC8H9wHeTVyuH",
+   "starred": false
+  },
+  {
+   "id": 1777642,
+   "key_id": "ACFE312981986DD1C04F1AEBB71D34A6",
+   "ts_ms": 1778882549878,
+   "ts_iso": "2026-05-15T22:02:29.878000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://suno.com/s/5NzXoclAhLQGHzyv",
+   "starred": false
+  },
+  {
+   "id": 1777643,
+   "key_id": "ACA54DC81351EB8BFF20D2E271F4BCD7",
+   "ts_ms": 1778882614648,
+   "ts_iso": "2026-05-15T22:03:34.648000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://play.google.com/store/apps/details?id=com.suno.android\n\nEste es el app si querés probar :)",
+   "starred": false
+  },
+  {
+   "id": 1777644,
+   "key_id": "ACA6EE7A2219C6F818033BAB97F41554",
+   "ts_ms": 1778882627738,
+   "ts_iso": "2026-05-15T22:03:47.738000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "weissvanderpol.ivan@gmail.com \n\nPolivan123Gmail!!",
+   "starred": false
+  },
+  {
+   "id": 1777645,
+   "key_id": "AC6CF4AA64271A05CEECAE7F6898752A",
+   "ts_ms": 1778882642998,
+   "ts_iso": "2026-05-15T22:04:02.998000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si querés usar mi cuenta de Google tengo el premium de suno",
+   "starred": false
+  }
+ ]
+}

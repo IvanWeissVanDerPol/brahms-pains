@@ -1,0 +1,33 @@
+{
+ "chat_id": 1522,
+ "slug": "_wa_chat_0_1522",
+ "subject": null,
+ "jid_user": "0",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "0@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1432666,
+   "key_id": "2286115461744120-1",
+   "ts_ms": 1739385175000,
+   "ts_iso": "2025-02-12T18:32:55+00:00",
+   "from_me": false,
+   "sender_jid": "0@s.whatsapp.net",
+   "type": 3,
+   "text": "*New: Quickly find your unfinished messages with drafts 📝*\nEver forget to send a message? Look for the draft indicator while you’re viewing your chats. It’s an easy way to get back to the messages you didn’t finish and jump right back into your conversation.",
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": null,
+    "size": 0,
+    "duration_s": 15,
+    "sha256_b64": "EFbXgVFpL7Dsxh6ybROsU2oQMkKZ44ir4bwBR2wAqLs=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

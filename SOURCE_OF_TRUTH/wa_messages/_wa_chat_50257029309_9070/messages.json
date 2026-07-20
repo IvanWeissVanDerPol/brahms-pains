@@ -1,0 +1,97 @@
+{
+ "chat_id": 9070,
+ "slug": "_wa_chat_50257029309_9070",
+ "subject": null,
+ "jid_user": "50257029309",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "50257029309@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1363765,
+   "key_id": "3A0C3F25D0242E0B432E",
+   "ts_ms": 1727202968000,
+   "ts_iso": "2024-09-24T18:36:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202439/PTT-20240924-WA0004.opus",
+    "size": 59762,
+    "duration_s": 28,
+    "sha256_b64": "O4tzVJ8Md2iCygm5VQMkPBgiKXWWGsFWarae25Og/YU=",
+    "media_name": "PTT-20240924-WA0004.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1363784,
+   "key_id": "429A60F670E14E46D0CD36C4380529E1",
+   "ts_ms": 1727204310434,
+   "ts_iso": "2024-09-24T18:58:30.434000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Lorena \n\nEstoy libre para que me contactes :)\n\nSi necesitas hacer un meet \nPodemos hacer luego de las 5 PM de asunción Paraguay \n\nDe que trataria el proyecto?",
+   "starred": false
+  },
+  {
+   "id": 1363825,
+   "key_id": "3AC9B6208A834DFEC29B",
+   "ts_ms": 1727208036000,
+   "ts_iso": "2024-09-24T20:00:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan",
+   "starred": false
+  },
+  {
+   "id": 1363826,
+   "key_id": "3A564B13C6219C2CEFA3",
+   "ts_ms": 1727208049000,
+   "ts_iso": "2024-09-24T20:00:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puede ser entonces viernes 3pm hora Paraguay ?",
+   "starred": false
+  },
+  {
+   "id": 1363828,
+   "key_id": "5EBFCE876651A241F6DE",
+   "ts_ms": 1727208183000,
+   "ts_iso": "2024-09-24T20:03:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240924-WA0006.jpg",
+    "size": 120728,
+    "duration_s": 0,
+    "sha256_b64": "PfgaN1jN+NH3RHsQaVA9sKneLqNNW2jhfG8ztrozWds=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1363904,
+   "key_id": "03F8755686A8EA65BE40EFC5F770B1A4",
+   "ts_ms": 1727213118476,
+   "ts_iso": "2024-09-24T21:25:18.476000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me queda bien",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "chat_id": 6932,
+ "slug": "_wa_chat_595982756474_6932",
+ "subject": null,
+ "jid_user": "595982756474",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982756474@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1322253,
+   "key_id": "3A30E74B7B290F77B79B",
+   "ts_ms": 1721082902000,
+   "ts_iso": "2024-07-15T22:35:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, qué tal",
+   "starred": false
+  },
+  {
+   "id": 1322254,
+   "key_id": "3A01EB687BE24FE32A9D",
+   "ts_ms": 1721082913000,
+   "ts_iso": "2024-07-15T22:35:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy Sara la novia de Ruben Picco",
+   "starred": false
+  },
+  {
+   "id": 1322255,
+   "key_id": "3A3F9FE85E0452E9B946",
+   "ts_ms": 1721082931000,
+   "ts_iso": "2024-07-15T22:35:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pregunta si estás en tu casa para pasar por su vehículo",
+   "starred": false
+  },
+  {
+   "id": 1322256,
+   "key_id": "D64D2FB846FE33444498DFBA53C78CAD",
+   "ts_ms": 1721082990384,
+   "ts_iso": "2024-07-15T22:36:30.384000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy",
+   "starred": false
+  },
+  {
+   "id": 1322257,
+   "key_id": "3AD54CBA26D6A26EB1FB",
+   "ts_ms": 1721083013000,
+   "ts_iso": "2024-07-15T22:36:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vamos a pasar entonces si no estás ocupado",
+   "starred": false
+  },
+  {
+   "id": 1322258,
+   "key_id": "6424E4A5E606F16C33924F2EB9ED437D",
+   "ts_ms": 1721083023492,
+   "ts_iso": "2024-07-15T22:37:03.492000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "SII chill",
+   "starred": false
+  },
+  {
+   "id": 1322259,
+   "key_id": "C66439ADCA94C808EC9C3984998335C3",
+   "ts_ms": 1721083029303,
+   "ts_iso": "2024-07-15T22:37:09.303000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy haciendo tareas nomas",
+   "starred": false
+  },
+  {
+   "id": 1322260,
+   "key_id": "3A78E7A4DD92FDF7C058",
+   "ts_ms": 1721083029000,
+   "ts_iso": "2024-07-15T22:37:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1322265,
+   "key_id": "3AEE652CBE653BDB10DC",
+   "ts_ms": 1721084316000,
+   "ts_iso": "2024-07-15T22:58:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1322266,
+   "key_id": "3AE757CCBAF70B5945CC",
+   "ts_ms": 1721084318000,
+   "ts_iso": "2024-07-15T22:58:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya llegué",
+   "starred": false
+  }
+ ]
+}

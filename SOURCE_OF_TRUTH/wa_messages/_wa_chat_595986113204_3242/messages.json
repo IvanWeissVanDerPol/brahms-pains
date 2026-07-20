@@ -1,0 +1,79 @@
+{
+ "chat_id": 3242,
+ "slug": "_wa_chat_595986113204_3242",
+ "subject": null,
+ "jid_user": "595986113204",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986113204@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1090184,
+   "key_id": "3EB0E3866B104BC251B381",
+   "ts_ms": 1687218731000,
+   "ts_iso": "2023-06-19T23:52:11+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola\nhace un rato recibí una llamada en la que me pidieron que comparta más detalles sobre mi experiencia en Python.\nAquí tienes una versión ampliada de mi resumen",
+   "starred": false
+  },
+  {
+   "id": 1090548,
+   "key_id": "184DFB3F995C4062C986A0A3CA840F9C",
+   "ts_ms": 1687278059000,
+   "ts_iso": "2023-06-20T16:20:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan, buenas tardes! ¿Comó estás? \nRecibido correctamente. Muchas gracias por remitir tu CV actualizado",
+   "starred": false
+  },
+  {
+   "id": 1090549,
+   "key_id": "E2C8698CFC388DFE22B3EAF6D1745FD3",
+   "ts_ms": 1687278118000,
+   "ts_iso": "2023-06-20T16:21:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me gustaría consultarte sí ¿tendrias disponibilidad mañana a las 16:00 para una entrevista técnica?",
+   "starred": false
+  },
+  {
+   "id": 1090552,
+   "key_id": "3EB0391F045578A88B0313",
+   "ts_ms": 1687278480000,
+   "ts_iso": "2023-06-20T16:28:00+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buenas \nsi manana a las 16:00 me queda bien",
+   "starred": false
+  },
+  {
+   "id": 1090553,
+   "key_id": "F889D3F3AEF2605F9572EA478F617F2E",
+   "ts_ms": 1687278692000,
+   "ts_iso": "2023-06-20T16:31:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfecto, te agendo entonces en ese horario 👌🏻",
+   "starred": false
+  },
+  {
+   "id": 1090554,
+   "key_id": "61E436819BF49FC85A622208CF0186EF",
+   "ts_ms": 1687278702000,
+   "ts_iso": "2023-06-20T16:31:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias Ivan 👌🏻",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "chat_id": 10303,
+ "slug": "_wa_chat_595991717428_10303",
+ "subject": null,
+ "jid_user": "595991717428",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991717428@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1452964,
+   "key_id": "432C01BA01D78104386FD236041BB74A",
+   "ts_ms": 1742764927515,
+   "ts_iso": "2025-03-23T21:22:07.515000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1452965,
+   "key_id": "377B0F6AED90D62BD017FFE1DEF5C89A",
+   "ts_ms": 1742764937443,
+   "ts_iso": "2025-03-23T21:22:17.443000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250322-WA0005.jpg",
+    "size": 114500,
+    "duration_s": 0,
+    "sha256_b64": "6zd6JoSrr9DWLvQ8WTZLwyx3OUCXFYIEM2T3uXXYVmk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

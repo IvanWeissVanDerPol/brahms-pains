@@ -1,0 +1,24 @@
+{
+ "chat_id": 15158,
+ "slug": "_wa_lid_217364603875378_15158",
+ "subject": null,
+ "jid_user": "217364603875378",
+ "jid_server": "lid",
+ "jid_raw": "217364603875378@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1775932,
+   "key_id": "A5399D9403CF4628BB2605517E53A8B0",
+   "ts_ms": 1778608557000,
+   "ts_iso": "2026-05-12T17:55:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, le saluda Emilce.\nContamos con parcelas en Lambaré, Limpio, Luque y Coronel Oviedo, además de servicios de velatorio y cremación a nivel país, con cuotas súper accesibles.\n\nSi desea recibir más información, responda “Sí” y con gusto le atenderé.",
+   "starred": false
+  }
+ ]
+}

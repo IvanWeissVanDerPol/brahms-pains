@@ -1,0 +1,24 @@
+{
+ "chat_id": 11918,
+ "slug": "_wa_chat_595992322514_11918",
+ "subject": null,
+ "jid_user": "595992322514",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992322514@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1579450,
+   "key_id": "2A536C70AFC83BD91095",
+   "ts_ms": 1759344476000,
+   "ts_iso": "2025-10-01T18:47:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola amor disponible",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "chat_id": 11930,
+ "slug": "_wa_chat_595994642574_11930",
+ "subject": null,
+ "jid_user": "595994642574",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994642574@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581460,
+   "key_id": "AC617FFEB628DDDB97A08C0E3BF12E99",
+   "ts_ms": 1759638660431,
+   "ts_iso": "2025-10-05T04:31:00.431000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola hermosa , he visto tu perfil en (https://hakupy.com/perfil.php?chicas=san-lorenzo/lety21) y quiero conversar 💬",
+   "starred": false
+  },
+  {
+   "id": 1582317,
+   "key_id": "A5B1606970F512A87AEF90882012DFE1",
+   "ts_ms": 1759713555000,
+   "ts_iso": "2025-10-06T01:19:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1582318,
+   "key_id": "A5450AA172A2A706B2D9C11C0EA03BF6",
+   "ts_ms": 1759713555000,
+   "ts_iso": "2025-10-06T01:19:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esty de lunes a sábado de 09 a 18hr en frenando de la mora",
+   "starred": false
+  },
+  {
+   "id": 1582319,
+   "key_id": "A57512AA8864579BC954FB4EF8AF5A22",
+   "ts_ms": 1759713556000,
+   "ts_iso": "2025-10-06T01:19:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Trabajo con agendamiento",
+   "starred": false
+  }
+ ]
+}

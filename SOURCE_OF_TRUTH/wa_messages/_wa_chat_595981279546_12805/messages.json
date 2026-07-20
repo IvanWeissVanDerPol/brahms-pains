@@ -1,0 +1,196 @@
+{
+ "chat_id": 12805,
+ "slug": "_wa_chat_595981279546_12805",
+ "subject": null,
+ "jid_user": "595981279546",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981279546@s.whatsapp.net",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1627975,
+   "key_id": "AC2CFA5C21287816EAB77D504B22DFAD",
+   "ts_ms": 1765470958000,
+   "ts_iso": "2025-12-11T16:35:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal",
+   "starred": false
+  },
+  {
+   "id": 1627976,
+   "key_id": "ACB14815F7E7D46A8548B7EF18AC992B",
+   "ts_ms": 1765470964000,
+   "ts_iso": "2025-12-11T16:36:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tu peido de frutika",
+   "starred": false
+  },
+  {
+   "id": 1627977,
+   "key_id": "AC5BE8EAE64DDDE66D259CD2CBD297CF",
+   "ts_ms": 1765470966000,
+   "ts_iso": "2025-12-11T16:36:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te traigo",
+   "starred": false
+  },
+  {
+   "id": 1627978,
+   "key_id": "AC3104CF1E7A75FB06EA33C7869FCC48",
+   "ts_ms": 1765470969000,
+   "ts_iso": "2025-12-11T16:36:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy afuera",
+   "starred": false
+  },
+  {
+   "id": 1627980,
+   "key_id": "ACD2FE4468B4A367B2B3DB3217151388",
+   "ts_ms": 1765471066000,
+   "ts_iso": "2025-12-11T16:37:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Amigo tu pedido te traigo",
+   "starred": false
+  },
+  {
+   "id": 1627990,
+   "key_id": "ACDA8FBCCB84FB275BC2E5610B7BB82C",
+   "ts_ms": 1765471250000,
+   "ts_iso": "2025-12-11T16:40:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vas a poder recibiir ???",
+   "starred": false
+  },
+  {
+   "id": 1627992,
+   "key_id": "AC971E47CBBE9E93B737A532DC035945",
+   "ts_ms": 1765471310000,
+   "ts_iso": "2025-12-11T16:41:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251211-WA0016.jpg",
+    "size": 176260,
+    "duration_s": 0,
+    "sha256_b64": "Ybk8NXSjMwzSiCswQz5jZieIJkhtOVzSDncoNVOqJNs=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1627997,
+   "key_id": "AC6E58308D014A3A62BACCFB7FB6C39F",
+   "ts_ms": 1765471938000,
+   "ts_iso": "2025-12-11T16:52:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Amigo vas a poder recibir tu pedido?",
+   "starred": false
+  },
+  {
+   "id": 1628041,
+   "key_id": "ACC4D171533EFDAA49970FC61E0707C4",
+   "ts_ms": 1765478681131,
+   "ts_iso": "2025-12-11T18:44:41.131000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola perdón estaba en reuniones de trabajo",
+   "starred": false
+  },
+  {
+   "id": 1640503,
+   "key_id": "ACB28888A6A166739EEC7C3D6CB4E44D",
+   "ts_ms": 1767013026000,
+   "ts_iso": "2025-12-29T12:57:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia\nHasta que podras recibir tu pedido de frutika ?",
+   "starred": false
+  },
+  {
+   "id": 1640526,
+   "key_id": "ACA5F30B510EEB5CF89A97010C76E240",
+   "ts_ms": 1767014970969,
+   "ts_iso": "2025-12-29T13:29:30.969000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia",
+   "starred": false
+  },
+  {
+   "id": 1640527,
+   "key_id": "ACED3D71D62D89B336EF32C782CFB0A3",
+   "ts_ms": 1767014975551,
+   "ts_iso": "2025-12-29T13:29:35.551000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Todo el dia",
+   "starred": false
+  },
+  {
+   "id": 1640528,
+   "key_id": "AC404FC7936235E0948E692449B6B920",
+   "ts_ms": 1767014978654,
+   "ts_iso": "2025-12-29T13:29:38.654000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy e. Casa",
+   "starred": false
+  },
+  {
+   "id": 1640529,
+   "key_id": "AC8F1BB395F7CF974D8D9040CE404032",
+   "ts_ms": 1767015055000,
+   "ts_iso": "2025-12-29T13:30:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ah dale amigo super",
+   "starred": false
+  },
+  {
+   "id": 1640589,
+   "key_id": "AC3B0526EDA27C45F380E5CA2DF0EC52",
+   "ts_ms": 1767023268000,
+   "ts_iso": "2025-12-29T15:47:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202501/PTT-20251229-WA0012.opus",
+    "size": 8476,
+    "duration_s": 4,
+    "sha256_b64": "lrnMNLZ+61HKMTUsf25tc3HIJ6KUg2LdywR05GYsTAY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

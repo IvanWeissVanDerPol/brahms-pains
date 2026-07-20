@@ -1,0 +1,134 @@
+{
+ "chat_id": 14793,
+ "slug": "_wa_lid_162681097076843_14793",
+ "subject": null,
+ "jid_user": "162681097076843",
+ "jid_server": "lid",
+ "jid_raw": "162681097076843@lid",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1739642,
+   "key_id": "AC366F6407A6464C09445A764B8C7982",
+   "ts_ms": 1774981716970,
+   "ts_iso": "2026-03-31T18:28:36.970000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola tengo pedidos de temu y AliExpress \n\nQue parece que oparei\n(?\n\nSerá que puedo pagar algo y mudar para hacer con ustedes M",
+   "starred": false
+  },
+  {
+   "id": 1739643,
+   "key_id": "AC33DF7DBCE68695DE69AD32568E6F4B",
+   "ts_ms": 1774981718775,
+   "ts_iso": "2026-03-31T18:28:38.775000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "?",
+   "starred": false
+  },
+  {
+   "id": 1739647,
+   "key_id": "3EB08A5522D0E18202E5A0",
+   "ts_ms": 1774981907000,
+   "ts_iso": "2026-03-31T18:31:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes, nos podria comentar con quien hizo la compra o lo hizo por su cuenta? para poder entender mejor",
+   "starred": false
+  },
+  {
+   "id": 1739648,
+   "key_id": "3EB006851054DAB6E083E4",
+   "ts_ms": 1774981932000,
+   "ts_iso": "2026-03-31T18:32:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "nosotros ofrecemos el servicio de compras con un recargo adicional sobre el valo total, compras en temu y aliexpress es del 10% de comision",
+   "starred": false
+  },
+  {
+   "id": 1739649,
+   "key_id": "3EB0C90FFD57838D06C034",
+   "ts_ms": 1774981948000,
+   "ts_iso": "2026-03-31T18:32:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "aparte de cobramos el peso del envio del paquete a paraguay",
+   "starred": false
+  },
+  {
+   "id": 1739650,
+   "key_id": "ACA6D11B89D2BF5297C26CA3AE3D194D",
+   "ts_ms": 1774981963784,
+   "ts_iso": "2026-03-31T18:32:43.784000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Directo por la.pagina de temu y Alibaba",
+   "starred": false
+  },
+  {
+   "id": 1739651,
+   "key_id": "ACCCB5A718769A30AB60040D75ADCF1F",
+   "ts_ms": 1774981966995,
+   "ts_iso": "2026-03-31T18:32:46.995000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "AliExpress",
+   "starred": false
+  },
+  {
+   "id": 1739653,
+   "key_id": "AC0C21D71F01B740F80B67F69384E9B4",
+   "ts_ms": 1774982004985,
+   "ts_iso": "2026-03-31T18:33:24.985000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No prob",
+   "starred": false
+  },
+  {
+   "id": 1739654,
+   "key_id": "ACD07B5D28BAFD44477D8375C0EF8685",
+   "ts_ms": 1774982016343,
+   "ts_iso": "2026-03-31T18:33:36.343000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hay alguna forma de pasarles los datos de mis pedidos?",
+   "starred": false
+  },
+  {
+   "id": 1739655,
+   "key_id": "AC9FF3973EA43902175F439655192523",
+   "ts_ms": 1774982026701,
+   "ts_iso": "2026-03-31T18:33:46.701000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y que le pasen los precios finales ?",
+   "starred": false
+  },
+  {
+   "id": 1739660,
+   "key_id": "3EB01CEB370C4E6288F411",
+   "ts_ms": 1774982283000,
+   "ts_iso": "2026-03-31T18:38:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para cotizarte la compra a traves de nuestro servicio necesitamos lo siguiente:\n👉 El link del producto exacto (no foto, ni captura)\n👉 Especificacion como talle, color, cantidad\n👉 Confirmar el presupuesto",
+   "starred": false
+  }
+ ]
+}

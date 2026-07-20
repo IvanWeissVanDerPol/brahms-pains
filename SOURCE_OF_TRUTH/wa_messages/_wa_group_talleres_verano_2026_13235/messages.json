@@ -1,0 +1,57 @@
+{
+ "chat_id": 13235,
+ "slug": "_wa_group_talleres_verano_2026_13235",
+ "subject": "TALLERES VERANO 2026",
+ "jid_user": "120363407313482277",
+ "jid_server": "g.us",
+ "jid_raw": "120363407313482277@g.us",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1673584,
+   "key_id": "3AC70B8192A19A285E44",
+   "ts_ms": 1770035486000,
+   "ts_iso": "2026-02-02T12:31:26+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Buenos días para todos\nHoy empiezan los TALLERES DE VERANO IIN-LCIK 2026\nLes comento algunas cosas para hoy\n1) Los Moderadores van a estar pasando los links de las llamadas de meet, no se preocupen si marca lleno, vamos a abrir otra llamada donde también se va a transmitir la clase\n2) Certificado: para conseguir el certificado se necesita un 70% de asistencia mínima durante el desarrollo de las clases, el voluntario avisará como será el llamado de lista en cada curso\n3) Materiales y grabaciones: Si alguien desea esto, le vamos a estar pasando un link del drive donde encontrará lo necesario.\nSi alguien tiene alguna duda, puede escribir a su coordinador\n\nMuchos éxitos para todos en estos Talleres!",
+   "starred": false
+  },
+  {
+   "id": 1691270,
+   "key_id": "3A5397353934ADCAE390",
+   "ts_ms": 1771027773000,
+   "ts_iso": "2026-02-14T00:09:33+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Buenas Noches para todos.\nHoy concluimos con los Talleres de Verano 2026. Muchísimas gracias a todos los que se animaron a inscribir y participar de las clases, espero que hayan aprendido y les pueda servir las clases que ofrecimos durante estas dos semanas. \nDurante la próxima semana, estaremos informando sobre los certificados. Por favor, estén atentos a los grupos, ya que allí comunicaremos a quiénes les corresponden y cómo se realizarán los envíos.",
+   "starred": false
+  },
+  {
+   "id": 1696889,
+   "key_id": "3EB0F15C90F704E9F60A4C",
+   "ts_ms": 1771372332000,
+   "ts_iso": "2026-02-17T23:52:12+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Buenas Noches a todos\nHoy fueron enviados los certificados de participaciónde los Talleres, recuerden que tenian que cumplir ciertos requisitos para obtener el certificado. Muchisimas gracias a todos por participar, nos veremos en futuras ediciones",
+   "starred": false
+  },
+  {
+   "id": 1696890,
+   "key_id": "3EB07AD4356553B18456DF",
+   "ts_ms": 1771372367000,
+   "ts_iso": "2026-02-17T23:52:47+00:00",
+   "from_me": false,
+   "sender_jid": "76824231051438@lid",
+   "type": 0,
+   "text": "Tambien voy a estar agradecido si pueden completar esta encuesta para poder mejorar a futuro. https://forms.gle/v4H4a87aTRFFsp9z9",
+   "starred": false
+  }
+ ]
+}

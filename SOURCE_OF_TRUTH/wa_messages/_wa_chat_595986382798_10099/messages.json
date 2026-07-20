@@ -1,0 +1,57 @@
+{
+ "chat_id": 10099,
+ "slug": "_wa_chat_595986382798_10099",
+ "subject": null,
+ "jid_user": "595986382798",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986382798@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1441673,
+   "key_id": "9ECDABD52FBBDA70E9FF84FEBC4B90A7",
+   "ts_ms": 1740757322000,
+   "ts_iso": "2025-02-28T15:42:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas soy el delibery de Doña Angela si me puede enviar la ubicación por favor gracias",
+   "starred": false
+  },
+  {
+   "id": 1441683,
+   "key_id": "BFFB3F4ECB8761A4E019CAF5F18F41A9",
+   "ts_ms": 1740758155428,
+   "ts_iso": "2025-02-28T15:55:55.428000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te paso",
+   "starred": false
+  },
+  {
+   "id": 1441696,
+   "key_id": "E8507A84D1DC0579DEA78E0F73E6F9A2",
+   "ts_ms": 1740758777000,
+   "ts_iso": "2025-02-28T16:06:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias estoy en camino",
+   "starred": false
+  },
+  {
+   "id": 1441698,
+   "key_id": "E248863D5EFD1A5BF691EB06E04F8FBD",
+   "ts_ms": 1740759052000,
+   "ts_iso": "2025-02-28T16:10:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en la ubicación",
+   "starred": false
+  }
+ ]
+}

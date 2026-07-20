@@ -1,0 +1,79 @@
+{
+ "chat_id": 2237,
+ "slug": "_wa_chat_595971545477_2237",
+ "subject": null,
+ "jid_user": "595971545477",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971545477@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1453485,
+   "key_id": "3ADEE9225AF9E80D978A",
+   "ts_ms": 1742858179000,
+   "ts_iso": "2025-03-24T23:16:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "man",
+   "starred": false
+  },
+  {
+   "id": 1453487,
+   "key_id": "3A2C0493C4124AAEC284",
+   "ts_ms": 1742858180000,
+   "ts_iso": "2025-03-24T23:16:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "está el profe",
+   "starred": false
+  },
+  {
+   "id": 1453488,
+   "key_id": "3A20F0AFB31F8002ED3E",
+   "ts_ms": 1742858185000,
+   "ts_iso": "2025-03-24T23:16:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "como vas a mandar taas",
+   "starred": false
+  },
+  {
+   "id": 1453489,
+   "key_id": "3A0D0EF6F36BD4B2D6CE",
+   "ts_ms": 1742858186000,
+   "ts_iso": "2025-03-24T23:16:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "borra",
+   "starred": false
+  },
+  {
+   "id": 1453492,
+   "key_id": "3F4CBDFD1EA93215058F",
+   "ts_ms": 1742858199000,
+   "ts_iso": "2025-03-24T23:16:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okas",
+   "starred": false
+  },
+  {
+   "id": 1453494,
+   "key_id": "3AF0108A84FC000F7081",
+   "ts_ms": 1742858206000,
+   "ts_iso": "2025-03-24T23:16:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "que retrasado",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "chat_id": 5316,
+ "slug": "_wa_chat_595971227824_5316",
+ "subject": null,
+ "jid_user": "595971227824",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971227824@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1220149,
+   "key_id": "AE470E7B2C4B55D1043C83F824A153D6",
+   "ts_ms": 1704376061062,
+   "ts_iso": "2024-01-04T13:47:41.062000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Sebastián\n\nSoy Iván Weiss \nMe paso tu número el profe copo Cabanellas \n\nEstoy buscando aprender más sobre cómo ahorrar / invertír y hacer que mi dinero crezca \n\nPero la mayoría de los recursos que encuentro son para personas que viven en primer mundo \n\nConoce por si acaso algun sitio web que podría ser más útil ?\nO recursos online ?",
+   "starred": false
+  },
+  {
+   "id": 1220323,
+   "key_id": "3A712057938B64399C03",
+   "ts_ms": 1704386031000,
+   "ts_iso": "2024-01-04T16:33:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De momento yo estoy ofreciendo mi mentoria de por vida en 200 usd, abonable en dos pagos de 100 usd",
+   "starred": false
+  },
+  {
+   "id": 1220324,
+   "key_id": "3AC788AD61877484C639",
+   "ts_ms": 1704386039000,
+   "ts_iso": "2024-01-04T16:33:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si quieres un apoyo bien completo",
+   "starred": false
+  },
+  {
+   "id": 1220327,
+   "key_id": "3AAB71B83C233FFAC90C",
+   "ts_ms": 1704386061000,
+   "ts_iso": "2024-01-04T16:34:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Después te recomendaría canales de youtube que refieran a ict o trading institucional",
+   "starred": false
+  },
+  {
+   "id": 1220445,
+   "key_id": "72884CBE80A5E11C6F29A71F66730621",
+   "ts_ms": 1704396513595,
+   "ts_iso": "2024-01-04T19:28:33.595000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que incluiría la mentira?\nTenés más referencias?\n\nSeria orientado más a gente que se mantiene en LATAM o más onda nómada digital ?\n\nMi contexto es que un profe de la facu me comentó que sabías algo del tema",
+   "starred": false
+  },
+  {
+   "id": 1220472,
+   "key_id": "3AB5C47922DB25666327",
+   "ts_ms": 1704404208000,
+   "ts_iso": "2024-01-04T21:36:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202401/PTT-20240104-WA0018.opus",
+    "size": 126260,
+    "duration_s": 53,
+    "sha256_b64": "UHL6BJtnAZv+O4RA/qjXZoIbTKV8zr+WYdoxwRt8Ih0=",
+    "media_name": "PTT-20240104-WA0018.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1220474,
+   "key_id": "3A2F777939CA76FE06BD",
+   "ts_ms": 1704404237000,
+   "ts_iso": "2024-01-04T21:37:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202401/PTT-20240104-WA0019.opus",
+    "size": 66213,
+    "duration_s": 27,
+    "sha256_b64": "nmy01+nrffH0/b1R2p5ao3kpNsMgz8NePnofPVfZsVw=",
+    "media_name": "PTT-20240104-WA0019.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "chat_id": 14636,
+ "slug": "_wa_lid_1159674785945_14636",
+ "subject": null,
+ "jid_user": "1159674785945",
+ "jid_server": "lid",
+ "jid_raw": "1159674785945@lid",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1734517,
+   "key_id": "AC3B93C3ECE4D7686EE501128832425C",
+   "ts_ms": 1774481234899,
+   "ts_iso": "2026-03-25T23:27:14.899000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \n\nMe pasó tu número Lara",
+   "starred": false
+  },
+  {
+   "id": 1734520,
+   "key_id": "ACBE7CD3FB0804C10CBE437DA2BF4753",
+   "ts_ms": 1774481273384,
+   "ts_iso": "2026-03-25T23:27:53.384000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tenés por si acaso remeras / camisas de color lila / violeta",
+   "starred": false
+  },
+  {
+   "id": 1734521,
+   "key_id": "AC1D17591B03B95C67EDD859EEF32FC7",
+   "ts_ms": 1774481385583,
+   "ts_iso": "2026-03-25T23:29:45.583000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Any estilo pero solo lila onda estos tonos \n\nSi es posible sin diseños?",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260325-WA0070.jpg",
+    "size": 25381,
+    "duration_s": 0,
+    "sha256_b64": "gdO/zHMicBuozhBjxQWO1MHgH+iT8rb4Y0e4pqAF/xU=",
+    "media_name": "a512b1c1-23bd-49de-9d54-ff40e6efba2b.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734525,
+   "key_id": "3A7312A10D1B5E99513D",
+   "ts_ms": 1774481648000,
+   "ts_iso": "2026-03-25T23:34:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aunque si son un violeta tirando a bordo",
+   "starred": false
+  },
+  {
+   "id": 1734526,
+   "key_id": "3A546C552B5E1D37C139",
+   "ts_ms": 1774481650000,
+   "ts_iso": "2026-03-25T23:34:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Holaa, si tenemos camisas lilas, pero si tienen diseño jaja, hay dos tipos diferentes, uno tiene el diseño en la parte trasera y el otro en la parte delantera",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260325-WA0119.jpg",
+    "size": 74741,
+    "duration_s": 0,
+    "sha256_b64": "/6pez1qeDdfuPnuHlz0WqEZLabYUYR7dMZMbxumgUCQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734527,
+   "key_id": "3AD677162D9CD4501F9F",
+   "ts_ms": 1774481650000,
+   "ts_iso": "2026-03-25T23:34:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260325-WA0120.jpg",
+    "size": 92348,
+    "duration_s": 0,
+    "sha256_b64": "IWw4tqm8MxX2/X0YcngE1phYk6uXM8QIlOdBROb6hTQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734529,
+   "key_id": "3A852ED5245E0933DA14",
+   "ts_ms": 1774481651000,
+   "ts_iso": "2026-03-25T23:34:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260325-WA0121.jpg",
+    "size": 69359,
+    "duration_s": 0,
+    "sha256_b64": "AAUR8KGGGBUILJ+2Hi0EPAw3uFkuS02LVhoZwMRAXzI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734531,
+   "key_id": "ACF4FB02A78F78187189BE651B2B4F1A",
+   "ts_ms": 1774481719158,
+   "ts_iso": "2026-03-25T23:35:19.158000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mood \nSadly es para un cosplay :( \n\nPero re aestétic \n\nSorry for taking your time n.n",
+   "starred": false
+  },
+  {
+   "id": 1734532,
+   "key_id": "3ADE473BCD90A1885488",
+   "ts_ms": 1774481950000,
+   "ts_iso": "2026-03-25T23:39:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No pasa nada, gracias por preguntar :))",
+   "starred": false
+  }
+ ]
+}

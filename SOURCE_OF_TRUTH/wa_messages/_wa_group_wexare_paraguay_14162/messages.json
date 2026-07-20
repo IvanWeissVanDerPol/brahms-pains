@@ -1,0 +1,46 @@
+{
+ "chat_id": 14162,
+ "slug": "_wa_group_wexare_paraguay_14162",
+ "subject": "weXare Paraguay",
+ "jid_user": "120363408503673817",
+ "jid_server": "g.us",
+ "jid_raw": "120363408503673817@g.us",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1724936,
+   "key_id": "AC2CEA6AA83F94808F67865C83533586",
+   "ts_ms": 1773862419000,
+   "ts_iso": "2026-03-18T19:33:39+00:00",
+   "from_me": false,
+   "sender_jid": "251114003902621@lid",
+   "type": 0,
+   "text": "Buenas tardes, como andan?",
+   "starred": false
+  },
+  {
+   "id": 1724937,
+   "key_id": "ACF98786F60678761BF870DE90DFD7D7",
+   "ts_ms": 1773862437000,
+   "ts_iso": "2026-03-18T19:33:57+00:00",
+   "from_me": false,
+   "sender_jid": "251114003902621@lid",
+   "type": 0,
+   "text": "Estamos armando el primer grupo de personas que van a trabajar en una plataforma donde combinamos inteligencia artificial + personas para ejecutar tareas reales",
+   "starred": false
+  },
+  {
+   "id": 1724938,
+   "key_id": "ACE98FA1935DB0178513BAB15B691491",
+   "ts_ms": 1773862448000,
+   "ts_iso": "2026-03-18T19:34:08+00:00",
+   "from_me": false,
+   "sender_jid": "251114003902621@lid",
+   "type": 0,
+   "text": "En esta etapa vamos a seleccionar un grupo reducido para probar el sistema con tareas reales.\n\nLos que queden dentro de este grupo inicial van a tener:\n\n- prioridad para recibir trabajos (mejores pagados)\n- posibilidad de generar ingresos desde el inicio\n- construir reputación dentro del sistema\n- acceso directo a nosotros para influir en cómo evoluciona\n\nPara eso, estamos haciendo entrevistas cortas (10 min).\n\nSi te interesa, completa este formulario (es breve, toma menos de 2 minutos) y te contactamos: https://forms.gle/Rnbow24XWV3uJaLV6",
+   "starred": false
+  }
+ ]
+}

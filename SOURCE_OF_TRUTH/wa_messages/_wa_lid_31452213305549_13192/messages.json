@@ -1,0 +1,35 @@
+{
+ "chat_id": 13192,
+ "slug": "_wa_lid_31452213305549_13192",
+ "subject": null,
+ "jid_user": "31452213305549",
+ "jid_server": "lid",
+ "jid_raw": "31452213305549@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1663107,
+   "key_id": "3EB0EC20CC7DDF85DE5B1A",
+   "ts_ms": 1769113394000,
+   "ts_iso": "2026-01-22T20:23:14+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola que tal?",
+   "starred": false
+  },
+  {
+   "id": 1663108,
+   "key_id": "3EB09F04B4888E99DE6161",
+   "ts_ms": 1769113602000,
+   "ts_iso": "2026-01-22T20:26:42+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🛒 Lista de Compras Mejorada (Cantidades Pro)\n1. Carnicería (El corazón del relleno)\n[ ] 500 g de Carne Molida de Cerdo: (Antes pedías 100g, era muy poco). Con medio kilo tenés de sobra para los dumplings y podés sumarle un poco a los harumakis para que sean más nutritivos.\n\n2. Verduras (Para dar volumen y sabor)\n[ ] 1 Repollo Blanco mediano: Usarás la mitad picada bien fina. El repollo reduce mucho al cocinarse, así que mejor que sobre.\n\n[ ] 2 Mazos de Cebollita de Verdeo: Usá tanto la parte blanca como la verde para potenciar el sabor.\n\n[ ] 5 Zanahorias grandes: Para que los Harumakis tengan color y cuerpo.\n\n[ ] 200 g de Brotes de Soja (1 bandeja grande): Los brotes se achican mucho con el calor.\n\n[ ] 2 Raíz de Jengibre (mediana): No escatimes, el jengibre es lo que da el sabor \"oriental\" real.\n\n[ ] 3 Cabeza de Ajo: Usarás unos 3-4 dientes para los rellenos.\n\n3. Harinas y Almidones (Para la masa)\n[ ] 1 kg de Harina de Arroz: (Te sobrará para la próxima, pero es el tamaño estándar).\n\n[ ] 1 kg de Almidón de Mandioca: Es barato y lo vas a usar mucho para dar elasticidad.\n\n[ ] 1 paquete de Maizena (250g o 500g).\n\n[ ] 2 paquetes de Papel de Arroz (Hojas de Arroz): Comprá dos por si se te rompe alguna al hidratarlas.\n\n4. Condimentos y Líquidos\n[ ] 1 Frasco de Aceite de Sésamo: Es el \"perfume\" de la comida asiática. No lo saltes.\n\n[ ] 1 Botella de Salsa de Soja (o Tamari si es Sin TACC): Comprá la de 500ml, la vas a usar para el relleno Y para la salsa de mojar (dipping sauce).\n\n[ ] 1 Litro de Aceite de Girasol: Vas a necesitar suficiente para freír los Harumakis por inmersión.\n\n[ ] Oyster Sauce (Salsa de Ostra): Si podés conseguirla (en Casa Rica hay), es el ingrediente \"trampa\" que usan los chefs para que el relleno sepa a restaurante caro.",
+   "starred": false
+  }
+ ]
+}

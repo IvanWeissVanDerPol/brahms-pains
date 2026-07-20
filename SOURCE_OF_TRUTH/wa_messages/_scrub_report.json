@@ -1,0 +1,137 @@
+{
+ "files_touched": 14,
+ "messages_scrubbed": 52,
+ "hits_by_pattern": {
+  "openai_key": 127,
+  "github_pat": 9,
+  "NUKE:gcp_sa_pk": 2,
+  "google_api": 29,
+  "jwt": 9,
+  "db_url_creds": 7,
+  "telegram_bot": 4,
+  "stripe_key": 4,
+  "generic_secret_kv": 3,
+  "unquoted_env_secret": 1
+ },
+ "chats": [
+  {
+   "chat": "_wa_chat_595971922708_3654/messages.json",
+   "messages_scrubbed": 18,
+   "hits_by_pattern": {
+    "openai_key": 35,
+    "github_pat": 2,
+    "NUKE:gcp_sa_pk": 2,
+    "google_api": 8,
+    "jwt": 3,
+    "db_url_creds": 3,
+    "telegram_bot": 3
+   }
+  },
+  {
+   "chat": "_wa_chat_595985724135_111/messages.json",
+   "messages_scrubbed": 8,
+   "hits_by_pattern": {
+    "openai_key": 51,
+    "google_api": 13,
+    "github_pat": 4,
+    "stripe_key": 4,
+    "jwt": 3,
+    "telegram_bot": 1
+   }
+  },
+  {
+   "chat": "_wa_lid_154288881946676_13498/messages.json",
+   "messages_scrubbed": 7,
+   "hits_by_pattern": {
+    "openai_key": 5,
+    "generic_secret_kv": 1,
+    "jwt": 1
+   }
+  },
+  {
+   "chat": "_wa_chat_595972130867_49/messages.json",
+   "messages_scrubbed": 3,
+   "hits_by_pattern": {
+    "openai_key": 9,
+    "google_api": 2,
+    "github_pat": 1,
+    "db_url_creds": 2,
+    "jwt": 2
+   }
+  },
+  {
+   "chat": "_wa_group_ai_whisperers_11544/messages.json",
+   "messages_scrubbed": 3,
+   "hits_by_pattern": {
+    "openai_key": 3
+   }
+  },
+  {
+   "chat": "_wa_group_el_viajero_15051/messages.json",
+   "messages_scrubbed": 3,
+   "hits_by_pattern": {
+    "generic_secret_kv": 2,
+    "db_url_creds": 2
+   }
+  },
+  {
+   "chat": "_wa_chat_595991549029_1956/messages.json",
+   "messages_scrubbed": 2,
+   "hits_by_pattern": {
+    "openai_key": 2
+   }
+  },
+  {
+   "chat": "_wa_lid_159223061151983_16955/messages.json",
+   "messages_scrubbed": 2,
+   "hits_by_pattern": {
+    "openai_key": 2
+   }
+  },
+  {
+   "chat": "_wa_chat_595981324569_1092/messages.json",
+   "messages_scrubbed": 1,
+   "hits_by_pattern": {
+    "github_pat": 1
+   }
+  },
+  {
+   "chat": "_wa_chat_595983822921_11297/messages.json",
+   "messages_scrubbed": 1,
+   "hits_by_pattern": {
+    "openai_key": 7,
+    "google_api": 2
+   }
+  },
+  {
+   "chat": "_wa_chat_595985725366_99/messages.json",
+   "messages_scrubbed": 1,
+   "hits_by_pattern": {
+    "openai_key": 7,
+    "google_api": 2
+   }
+  },
+  {
+   "chat": "_wa_group_forest_park_16369/messages.json",
+   "messages_scrubbed": 1,
+   "hits_by_pattern": {
+    "github_pat": 1
+   }
+  },
+  {
+   "chat": "_wa_group_kansas_trip_1931/messages.json",
+   "messages_scrubbed": 1,
+   "hits_by_pattern": {
+    "unquoted_env_secret": 1
+   }
+  },
+  {
+   "chat": "_wa_group_meetings_13374/messages.json",
+   "messages_scrubbed": 1,
+   "hits_by_pattern": {
+    "openai_key": 6,
+    "google_api": 2
+   }
+  }
+ ]
+}

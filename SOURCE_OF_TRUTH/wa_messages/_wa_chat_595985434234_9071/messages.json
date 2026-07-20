@@ -1,0 +1,154 @@
+{
+ "chat_id": 9071,
+ "slug": "_wa_chat_595985434234_9071",
+ "subject": null,
+ "jid_user": "595985434234",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985434234@s.whatsapp.net",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1363779,
+   "key_id": "FF1FBE15AF1860D8386AFB9991C4C00E",
+   "ts_ms": 1727203892575,
+   "ts_iso": "2024-09-24T18:51:32.575000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes",
+   "starred": false
+  },
+  {
+   "id": 1363780,
+   "key_id": "E4C07B57E239A50F5DB743ABF8DF40B5",
+   "ts_ms": 1727203909783,
+   "ts_iso": "2024-09-24T18:51:49.783000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Álvaro soy, el del paquete de Celular",
+   "starred": false
+  },
+  {
+   "id": 1363781,
+   "key_id": "87B17F3850504A4B5D978FFF996AD0A8",
+   "ts_ms": 1727203941000,
+   "ts_iso": "2024-09-24T18:52:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola si",
+   "starred": false
+  },
+  {
+   "id": 1363782,
+   "key_id": "F103539F914A3AAA79BA7D26681F840E",
+   "ts_ms": 1727203955000,
+   "ts_iso": "2024-09-24T18:52:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202439/PTT-20240924-WA0005.opus",
+    "size": 30276,
+    "duration_s": 12,
+    "sha256_b64": "ENK62SAEzOJlxQowIu7ZAy7KJGJXd9j0PuWAUylt3jg=",
+    "media_name": "PTT-20240924-WA0005.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1363785,
+   "key_id": "8CF8C6C7FD002278BE54BE4AA91F90D3",
+   "ts_ms": 1727204329290,
+   "ts_iso": "2024-09-24T18:58:49.290000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ol",
+   "starred": false
+  },
+  {
+   "id": 1363786,
+   "key_id": "016D9408CFD57DF85BB2B1E13BFAA951",
+   "ts_ms": 1727204330727,
+   "ts_iso": "2024-09-24T18:58:50.727000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1363787,
+   "key_id": "BD8716567C794D8BE9F9BB425DF7F1A6",
+   "ts_ms": 1727204332577,
+   "ts_iso": "2024-09-24T18:58:52.577000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy yo",
+   "starred": false
+  },
+  {
+   "id": 1363798,
+   "key_id": "4289A232F9D49064173449158EB73609",
+   "ts_ms": 1727205779092,
+   "ts_iso": "2024-09-24T19:22:59.092000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy por shopping fuente, avísame cuando estés por el lugar que me dijiste y voy",
+   "starred": false
+  },
+  {
+   "id": 1363800,
+   "key_id": "3F84DA7EC4C003FF6EE5CE316EAFE211",
+   "ts_ms": 1727205834000,
+   "ts_iso": "2024-09-24T19:23:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora estoy llegando en 3 minutos",
+   "starred": false
+  },
+  {
+   "id": 1363801,
+   "key_id": "C3F154C41F2F645A2D51E7C9B34C765B",
+   "ts_ms": 1727205880957,
+   "ts_iso": "2024-09-24T19:24:40.957000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yendo",
+   "starred": false
+  },
+  {
+   "id": 1363806,
+   "key_id": "8EBA663C9EC82ED04F6284E55A2CEC35",
+   "ts_ms": 1727206119000,
+   "ts_iso": "2024-09-24T19:28:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en la ubicación  que te envie",
+   "starred": false
+  },
+  {
+   "id": 1363807,
+   "key_id": "72650E871DAAF62ACC369C2704DB50B1",
+   "ts_ms": 1727206139447,
+   "ts_iso": "2024-09-24T19:28:59.447000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale, estoy en camino, ya llego",
+   "starred": false
+  }
+ ]
+}

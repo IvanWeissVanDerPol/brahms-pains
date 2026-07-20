@@ -1,0 +1,108 @@
+{
+ "chat_id": 3721,
+ "slug": "_wa_chat_595994609417_3721",
+ "subject": null,
+ "jid_user": "595994609417",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994609417@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1307624,
+   "key_id": "803C2B91969DE814DC1A823D7CF96977",
+   "ts_ms": 1719018431969,
+   "ts_iso": "2024-06-22T01:07:11.969000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202425/PTT-20240621-WA0090.opus",
+    "size": 0,
+    "duration_s": 42,
+    "sha256_b64": "xgqHeA0Zy1s7Wp6b4/Aabu/4hnFDcxfj67hoqugbj3w=",
+    "media_name": "f1ef061a96e64f13bbefc6118268ebe9.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1307625,
+   "key_id": "729D1B98FBD3BAE2A917B73796FF247F",
+   "ts_ms": 1719018644000,
+   "ts_iso": "2024-06-22T01:10:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa",
+   "starred": false
+  },
+  {
+   "id": 1307626,
+   "key_id": "35D351DA1203BD4E2C04EC091B235577",
+   "ts_ms": 1719018658000,
+   "ts_iso": "2024-06-22T01:10:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Siii está genial para mi",
+   "starred": false
+  },
+  {
+   "id": 1307627,
+   "key_id": "D53B4D5AF7371292B86CF2C4E08D17ED",
+   "ts_ms": 1719018677000,
+   "ts_iso": "2024-06-22T01:11:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vos nomás vas a hacer?",
+   "starred": false
+  },
+  {
+   "id": 1307629,
+   "key_id": "8F3C9AAFD212C7DF28653B2D0303CBF1",
+   "ts_ms": 1719018717346,
+   "ts_iso": "2024-06-22T01:11:57.346000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202425/PTT-20240621-WA0091.opus",
+    "size": 0,
+    "duration_s": 35,
+    "sha256_b64": "jLdx0DWPnW9cjdRZcvaAJe6wOmVgcp5+hLk3Hg+qWss=",
+    "media_name": "2f01cc46baa04723859aff27a2adbeec.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1307632,
+   "key_id": "614CA31903FAEAF45AFCFAC58048598B",
+   "ts_ms": 1719018788000,
+   "ts_iso": "2024-06-22T01:13:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale dale",
+   "starred": false
+  },
+  {
+   "id": 1307633,
+   "key_id": "8A49A2138016BB883CC5D0FA18E9DFA4",
+   "ts_ms": 1719018797000,
+   "ts_iso": "2024-06-22T01:13:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Graciaaaas",
+   "starred": false
+  }
+ ]
+}

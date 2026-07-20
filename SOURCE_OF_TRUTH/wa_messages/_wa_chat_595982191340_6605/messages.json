@@ -1,0 +1,271 @@
+{
+ "chat_id": 6605,
+ "slug": "_wa_chat_595982191340_6605",
+ "subject": null,
+ "jid_user": "595982191340",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982191340@s.whatsapp.net",
+ "message_count": 21,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1287139,
+   "key_id": "214D77073D0AC505F0BD49AB99B95438",
+   "ts_ms": 1715531634000,
+   "ts_iso": "2024-05-12T16:33:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muy buenas tardes le saluda Romina Gonzalez de Tupi Electrodomésticos un gusto saludarlo 🤩🙌🏼",
+   "starred": false
+  },
+  {
+   "id": 1287140,
+   "key_id": "837DE3BC0657DEDCCC698EDCE7FEA826",
+   "ts_ms": 1715531701123,
+   "ts_iso": "2024-05-12T16:35:01.123000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola si",
+   "starred": false
+  },
+  {
+   "id": 1287142,
+   "key_id": "3EB0B56846EECF9C8BB85D",
+   "ts_ms": 1715532208000,
+   "ts_iso": "2024-05-12T16:43:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240512-WA0001.jpg",
+    "size": 21342,
+    "duration_s": 0,
+    "sha256_b64": "uPV7DUeJS02K/TBryFsHympMgAfj3w/imJ/ntm4eh/s=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1287143,
+   "key_id": "3EB025B5FFD406507BCF48",
+   "ts_ms": 1715532225000,
+   "ts_iso": "2024-05-12T16:43:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240512-WA0002.jpg",
+    "size": 27998,
+    "duration_s": 0,
+    "sha256_b64": "kmtG2HQeiFl6A2JCKRAE+4jLRx3ckFyVtP50mPYUWxI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1287145,
+   "key_id": "3EB03CD6463D84FE70DF2C",
+   "ts_ms": 1715532321000,
+   "ts_iso": "2024-05-12T16:45:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me avisan cualquier cosita sii",
+   "starred": false
+  },
+  {
+   "id": 1287146,
+   "key_id": "8D985E51B82D68B10DCB62348BF7FBCF",
+   "ts_ms": 1715533139455,
+   "ts_iso": "2024-05-12T16:58:59.455000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1287147,
+   "key_id": "3F82D149597350E164C81B67742D90C2",
+   "ts_ms": 1715533146313,
+   "ts_iso": "2024-05-12T16:59:06.313000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Suplementos de gimnasio?",
+   "starred": false
+  },
+  {
+   "id": 1287148,
+   "key_id": "2A699B43BC2CC76D525A149B4746476B",
+   "ts_ms": 1715533152156,
+   "ts_iso": "2024-05-12T16:59:12.156000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Onda proteína y eso?",
+   "starred": false
+  },
+  {
+   "id": 1287149,
+   "key_id": "9F4D15771CC47BE4BFCD1C83FF7037E9",
+   "ts_ms": 1715533156707,
+   "ts_iso": "2024-05-12T16:59:16.707000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No tienen ?",
+   "starred": false
+  },
+  {
+   "id": 1287151,
+   "key_id": "3EB01328F2541AFB6DA21E",
+   "ts_ms": 1715533227000,
+   "ts_iso": "2024-05-12T17:00:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "se trae bajo pedido",
+   "starred": false
+  },
+  {
+   "id": 1287152,
+   "key_id": "3EB0F42E3C153D420B9C19",
+   "ts_ms": 1715533235000,
+   "ts_iso": "2024-05-12T17:00:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no tenemos aca en exhibicion llega en 78hs",
+   "starred": false
+  },
+  {
+   "id": 1287153,
+   "key_id": "7723606A02F2FB5376EDEF4A2EB04906",
+   "ts_ms": 1715533280830,
+   "ts_iso": "2024-05-12T17:01:20.830000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahh ok y puedo pedir y hacer delivery?",
+   "starred": false
+  },
+  {
+   "id": 1287154,
+   "key_id": "FF9CAC39D416A670CB4DADF1B188083B",
+   "ts_ms": 1715533284698,
+   "ts_iso": "2024-05-12T17:01:24.698000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y pagar?",
+   "starred": false
+  },
+  {
+   "id": 1287155,
+   "key_id": "3EB0D68AE7B1FF2DEE5F2B",
+   "ts_ms": 1715533393000,
+   "ts_iso": "2024-05-12T17:03:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "sii claro se puede",
+   "starred": false
+  },
+  {
+   "id": 1287156,
+   "key_id": "3EB025B59BD0830B8CE8A2",
+   "ts_ms": 1715533413000,
+   "ts_iso": "2024-05-12T17:03:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "esto dos le gustaria retirar ahora'",
+   "starred": false
+  },
+  {
+   "id": 1287157,
+   "key_id": "3EB03AAC8DF6AF41430107",
+   "ts_ms": 1715533423000,
+   "ts_iso": "2024-05-12T17:03:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "avisame nomas en cuanto estes sii",
+   "starred": false
+  },
+  {
+   "id": 1287158,
+   "key_id": "B65FE45B41C1DF733BD52DDBFD381CF8",
+   "ts_ms": 1715533591370,
+   "ts_iso": "2024-05-12T17:06:31.370000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos",
+   "starred": false
+  },
+  {
+   "id": 1287159,
+   "key_id": "E7029882C0550F99DF6EF7CCE9A6584F",
+   "ts_ms": 1715533599390,
+   "ts_iso": "2024-05-12T17:06:39.390000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240512-WA0004.jpg",
+    "size": 100041,
+    "duration_s": 0,
+    "sha256_b64": "sFRY1ry/0PxV3y8SdQ8SdemAUCgXLh0niOkal96JN1c=",
+    "media_name": "5410c725-4128-4c0e-b7c8-938152579dd6.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1287160,
+   "key_id": "3EB00C4BCAE338B81DA4A2",
+   "ts_ms": 1715533680000,
+   "ts_iso": "2024-05-12T17:08:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aca en el primer piso estamos",
+   "starred": false
+  },
+  {
+   "id": 1287161,
+   "key_id": "3EB0BEEBBF7D0C0D48FEA5",
+   "ts_ms": 1715533694000,
+   "ts_iso": "2024-05-12T17:08:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "puede subirse donde estuvimos viendo productos",
+   "starred": false
+  },
+  {
+   "id": 1287162,
+   "key_id": "70D0F56A014C5DBE04A70C4691469444",
+   "ts_ms": 1715533699496,
+   "ts_iso": "2024-05-12T17:08:19.496000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

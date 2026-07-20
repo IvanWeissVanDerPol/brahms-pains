@@ -1,0 +1,57 @@
+{
+ "chat_id": 15480,
+ "slug": "_wa_lid_26346117976092_15480",
+ "subject": null,
+ "jid_user": "26346117976092",
+ "jid_server": "lid",
+ "jid_raw": "26346117976092@lid",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1785445,
+   "key_id": "A5970E1A2F113405B6F91DE6F2A1DCE2",
+   "ts_ms": 1779708308000,
+   "ts_iso": "2026-05-25T11:25:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día!",
+   "starred": false
+  },
+  {
+   "id": 1785446,
+   "key_id": "A5EFE70A1B6B2A4C0C828FFF1BA3D9C7",
+   "ts_ms": 1779708317000,
+   "ts_iso": "2026-05-25T11:25:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con el Sr Joel Gauto?",
+   "starred": false
+  },
+  {
+   "id": 1785447,
+   "key_id": "AC15A41C9E3F7DD3ECE77E7BE1A0BDC2",
+   "ts_ms": 1779708333157,
+   "ts_iso": "2026-05-25T11:25:33.157000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sorry no número equivocado",
+   "starred": false
+  },
+  {
+   "id": 1785448,
+   "key_id": "A5ED0400D04086BFD1422B31E4AE03A9",
+   "ts_ms": 1779708346000,
+   "ts_iso": "2026-05-25T11:25:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Disculpe las molestias!",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "chat_id": 11868,
+ "slug": "_wa_chat_595986316559_11868",
+ "subject": null,
+ "jid_user": "595986316559",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986316559@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1601541,
+   "key_id": "ACE4636EAF868CE8AB5E534FFAEAC175",
+   "ts_ms": 1761807563440,
+   "ts_iso": "2025-10-30T06:59:23.440000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Blanquita 😈🔥buscando ser(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1601542,
+   "key_id": "ACAAF478C660C2B253F991E7E5B11FBA",
+   "ts_ms": 1761807640000,
+   "ts_iso": "2025-10-30T07:00:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*🌙Buenas tu bb de la cama esta disponible 🌙*\n*⭐ Salidas y a Domicilio* ❤️🌙 350 la hora ❤️\n*⭐ Contenido,Fotos y videos* 🌙❤️ 100 mil videos, 155 mil fotos y videos ❤️\n*⭐ Paguina Privada*, Canal de telegram premium 🌙❤️ 160 mil pago único ❤️\n*⭐ Videollamada y Chats Morbosos*🌙 ❤️ 100 mil incluye fotos y videos del momento y muestro todo mi cuerpo ❤️",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "chat_id": 5236,
+ "slug": "_wa_chat_595992503013_5236",
+ "subject": null,
+ "jid_user": "595992503013",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992503013@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1214013,
+   "key_id": "33DB52F6470B3359FB44181EF19A3FDE",
+   "ts_ms": 1703193356792,
+   "ts_iso": "2023-12-21T21:15:56.792000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231221-WA0015.jpg",
+    "size": 71386,
+    "duration_s": 0,
+    "sha256_b64": "qZvdsD7V/y9ATplvR5u8kmcm1CpAyHolT4vCEvOVo9E=",
+    "media_name": "6d4bd358-8541-4d30-b3e1-78838b6a628f.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1214076,
+   "key_id": "061EB62D2C98CBE0DDDC10F8ECBCBC38",
+   "ts_ms": 1703193892000,
+   "ts_iso": "2023-12-21T21:24:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Florencia Martínez \nCI 5162106\nN° CTA 720008331",
+   "starred": false
+  },
+  {
+   "id": 1214087,
+   "key_id": "BD785725902FC4A2D27A6292A8AA31C4",
+   "ts_ms": 1703193989416,
+   "ts_iso": "2023-12-21T21:26:29.416000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231221-WA0076.jpg",
+    "size": 71008,
+    "duration_s": 0,
+    "sha256_b64": "RfRdrlL7M0VtJuu9iRhIdOA2z3/zgJsKzPepqA2fYEQ=",
+    "media_name": "27de8577-9566-4447-9778-9357abfa58a9.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

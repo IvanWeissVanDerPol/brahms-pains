@@ -1,0 +1,57 @@
+{
+ "chat_id": 10159,
+ "slug": "_wa_chat_595985921173_10159",
+ "subject": null,
+ "jid_user": "595985921173",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985921173@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1446903,
+   "key_id": "ED3AEAD3B97F9988C45CA3001AD6FE01",
+   "ts_ms": 1741811866000,
+   "ts_iso": "2025-03-12T20:37:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes",
+   "starred": false
+  },
+  {
+   "id": 1446904,
+   "key_id": "CA47FE8280DA6CDAA9BB851641B2B97A",
+   "ts_ms": 1741811871000,
+   "ts_iso": "2025-03-12T20:37:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Doy el delivery",
+   "starred": false
+  },
+  {
+   "id": 1446905,
+   "key_id": "E29D7414D226B1BEDBC82031F2DC32DE",
+   "ts_ms": 1741811880000,
+   "ts_iso": "2025-03-12T20:38:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy en la ubicación",
+   "starred": false
+  },
+  {
+   "id": 1446906,
+   "key_id": "C2DDA234430765523CFBB6E55B45BA15",
+   "ts_ms": 1741811885620,
+   "ts_iso": "2025-03-12T20:38:05.620000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Salgo",
+   "starred": false
+  }
+ ]
+}

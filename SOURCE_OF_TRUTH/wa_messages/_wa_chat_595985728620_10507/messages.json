@@ -1,0 +1,46 @@
+{
+ "chat_id": 10507,
+ "slug": "_wa_chat_595985728620_10507",
+ "subject": null,
+ "jid_user": "595985728620",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985728620@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1492948,
+   "key_id": "AD131C2EBF7ED60B2112D19958A30C6E",
+   "ts_ms": 1748219077000,
+   "ts_iso": "2025-05-26T00:24:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas!!!!! Soy el Delivery deOsakaSushi,  en 10 minutos aproximadamente estaré ahi con su pedido.",
+   "starred": false
+  },
+  {
+   "id": 1492949,
+   "key_id": "29BA89D213F01DF7C4CB21C20303A5C3",
+   "ts_ms": 1748219736000,
+   "ts_iso": "2025-05-26T00:35:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llegué",
+   "starred": false
+  },
+  {
+   "id": 1492950,
+   "key_id": "12766B099DC26D3E4011995F9EA70581",
+   "ts_ms": 1748219744663,
+   "ts_iso": "2025-05-26T00:35:44.663000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

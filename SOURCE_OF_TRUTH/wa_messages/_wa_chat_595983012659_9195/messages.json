@@ -1,0 +1,35 @@
+{
+ "chat_id": 9195,
+ "slug": "_wa_chat_595983012659_9195",
+ "subject": null,
+ "jid_user": "595983012659",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983012659@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1380891,
+   "key_id": "A2B41A2BFC0A86F5CEBC06FF47887BBD",
+   "ts_ms": 1730210568000,
+   "ts_iso": "2024-10-29T14:02:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas como estas? Con el señor Denilson Lopez puede ser? Quisiera hacerle una consulta si me lo permite señor",
+   "starred": false
+  },
+  {
+   "id": 1380934,
+   "key_id": "E4ADDD677A47E44930863302808308EA",
+   "ts_ms": 1730216271116,
+   "ts_iso": "2024-10-29T15:37:51.116000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Número equivocado",
+   "starred": false
+  }
+ ]
+}

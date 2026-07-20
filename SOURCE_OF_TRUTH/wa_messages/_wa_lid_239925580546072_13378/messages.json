@@ -1,0 +1,150 @@
+{
+ "chat_id": 13378,
+ "slug": "_wa_lid_239925580546072_13378",
+ "subject": null,
+ "jid_user": "239925580546072",
+ "jid_server": "lid",
+ "jid_raw": "239925580546072@lid",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1677797,
+   "key_id": "ACDB3334693E219885C759A700D328BC",
+   "ts_ms": 1770218179249,
+   "ts_iso": "2026-02-04T15:16:19.249000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello! Can I get more info on this?",
+   "starred": false
+  },
+  {
+   "id": 1677865,
+   "key_id": "3EB04385CE8C49F1042B12",
+   "ts_ms": 1770224209000,
+   "ts_iso": "2026-02-04T16:56:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola hola! como estas?",
+   "starred": false
+  },
+  {
+   "id": 1677866,
+   "key_id": "3EB01E008E7AE9A5D058D8",
+   "ts_ms": 1770224212000,
+   "ts_iso": "2026-02-04T16:56:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te envio toda la info!",
+   "starred": false
+  },
+  {
+   "id": 1677867,
+   "key_id": "3EB00C06D22E3487FE33C5",
+   "ts_ms": 1770224214000,
+   "ts_iso": "2026-02-04T16:56:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🔴BLIND ARTE PARTY🔴\n\nMARTES 10 de febrero - 20 a 22hs. \n\nUna noche para experimentar, soltar el control y confiar en tu intuición 🔮 Vamos a pintar en un ambiente con luces solamente rojas, lo cual hace que no podamos distinguir los colores y luego vivimos el reveal final 😱\n\nNo necesitas NADA de experiencia en arte 😉\n\n-CUPOS LIMITADOS-\n\nUbicación: Casa Colombo \nhttps://maps.app.goo.gl/VA9MWtAJy9z6VSKZ7?g_st=ic\n\nLa reserva se realiza una vez recibido el comprobante de transferencia.\n\nDatos para transferencia:\nAlias C.I.N° 3822044 (Alejandra Marín)\n\n*Prohibido el ingreso de menores de edad. No se realizan devoluciones ni cambios de fecha. \n\n¡¡NOS RE VIMOS!! 🤩🤩",
+   "starred": false
+  },
+  {
+   "id": 1677868,
+   "key_id": "3EB08D1EA38DC98088408C",
+   "ts_ms": 1770224216000,
+   "ts_iso": "2026-02-04T16:56:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260204-WA0016.jpg",
+    "size": 134800,
+    "duration_s": 0,
+    "sha256_b64": "94HKR5C3R+akBhyhUE0Hr14MMV1BFES+58tjur9heBg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1681785,
+   "key_id": "3EB011ECBF9A49A26276AF",
+   "ts_ms": 1770381957000,
+   "ts_iso": "2026-02-06T12:45:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🔥 Últimos lugares para la BLIND ARTE PARTY 🔴🎨\n\nEste martes vivimos la experiencia de pintar bajo luz roja y descubrir tu obra en el reveal final ✨\n\nARTE, MUSICA Y TRAGOS 🕺\n\nSi todavía no reservaste, este es el momento.\nEscribinos y asegurá tu lugar.",
+   "starred": false
+  },
+  {
+   "id": 1681786,
+   "key_id": "3EB0173DBCBC396D0D3E4F",
+   "ts_ms": 1770381957000,
+   "ts_iso": "2026-02-06T12:45:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "5ADLe7mZJhleYi7wl8MIn9MDwNrvoJBIr5jC2hg8WZ0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1681787,
+   "key_id": "3EB0052EA742BFE9440CA6",
+   "ts_ms": 1770381959000,
+   "ts_iso": "2026-02-06T12:45:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260204-WA0016.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "94HKR5C3R+akBhyhUE0Hr14MMV1BFES+58tjur9heBg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1720227,
+   "key_id": "3EB06FD62219F1885BD8B0",
+   "ts_ms": 1773683724000,
+   "ts_iso": "2026-03-16T17:55:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te contamos la acti perrrrfecta para \"Sin Valentín\" (o con valentín 🥰):\n\nCreamos velas de café estilo iced latte + experiencia de café & cocktails.\nWelcome drinks, food, materiales incluidos + DJ set con Guille Preda 🕺\n\n💰 300.000 gs\n🗓 Sábado 14 de febrero – 18 hs.\n📍Juan Valdez Las Mercedes\n\nQuedan pocos lugares.\nResponde este mensaje para reservar tu lugar!\n\nSi esto no es relevante responde STOP y no volveremos a escribirte.",
+   "starred": false
+  },
+  {
+   "id": 1792786,
+   "key_id": "3EB086C53534673AAD8BE2",
+   "ts_ms": 1780598453000,
+   "ts_iso": "2026-06-04T18:40:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🧵✨ Este domingo nos encontramos para Composé con Hilos.\n\nVamos a crear cuadros decorativos con hilos de colores sobre lienzo, en una experiencia creativa y relajada.\n\n📍 Andrade Casa Café\n⏰ 11:00 hs\n💰 Gs. 180.000 (incluye materiales)\n\nY si te pinta, podés aprovechar el delicioso brunch de la casa. ☕🥐\n\n¿Te guardamos un lugar?",
+   "starred": false
+  }
+ ]
+}

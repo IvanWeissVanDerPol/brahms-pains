@@ -1,0 +1,46 @@
+{
+ "chat_id": 11303,
+ "slug": "_wa_chat_595984469443_11303",
+ "subject": null,
+ "jid_user": "595984469443",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984469443@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1544962,
+   "key_id": "72CA43288962CD9446127F32529C2823",
+   "ts_ms": 1754277907623,
+   "ts_iso": "2025-08-04T03:25:07.623000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola qué tal?",
+   "starred": false
+  },
+  {
+   "id": 1544963,
+   "key_id": "92D2ED7406448E55B2FDFDB8689806AE",
+   "ts_ms": 1754277916106,
+   "ts_iso": "2025-08-04T03:25:16.106000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.locanto.com.py/sanlorenzo/ID_7323487892/Putita-mujer-19-anitos-gratisss-WHATSAPP.html",
+   "starred": false
+  },
+  {
+   "id": 1544964,
+   "key_id": "670D9D5568C028EB6933D705DB40E6C6",
+   "ts_ms": 1754277919756,
+   "ts_iso": "2025-08-04T03:25:19.756000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esta bien el número?",
+   "starred": false
+  }
+ ]
+}

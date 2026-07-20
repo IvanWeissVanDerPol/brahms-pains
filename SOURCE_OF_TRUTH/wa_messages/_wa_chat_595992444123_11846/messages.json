@@ -1,0 +1,79 @@
+{
+ "chat_id": 11846,
+ "slug": "_wa_chat_595992444123_11846",
+ "subject": null,
+ "jid_user": "595992444123",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992444123@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1578627,
+   "key_id": "A5F3338C139A5E3B8A625E3616AE1071",
+   "ts_ms": 1759235819000,
+   "ts_iso": "2025-09-30T12:36:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día corazón",
+   "starred": false
+  },
+  {
+   "id": 1578628,
+   "key_id": "A5B72B88B822A75ECC24667C53E95655",
+   "ts_ms": 1759235826000,
+   "ts_iso": "2025-09-30T12:37:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te esperamos por el local",
+   "starred": false
+  },
+  {
+   "id": 1579080,
+   "key_id": "AC8121F2DD7121B7A0D95EB31B30E5FC",
+   "ts_ms": 1759297390968,
+   "ts_iso": "2025-10-01T05:43:10.968000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hasta que hora suelen abrir?",
+   "starred": false
+  },
+  {
+   "id": 1579130,
+   "key_id": "3EB0571A19059B50547BFB",
+   "ts_ms": 1759323413000,
+   "ts_iso": "2025-10-01T12:56:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "💆‍♀️ ¿Qué incluye?\n✔ 30 minutos de masaje relajante y sensual (¡liberación de estrés garantizada!).\n✔ Final manual (tu masajista te ayudará a \"venirte\" con sus manos para una relajación total 💦).\n✔ Ambiente íntimo con música suave, cuarto privado y suite con ducha.\n✔ Estacionamiento privado (discreto y seguro).\n✔ 3 masajistas disponibles (tú eliges a tu favorita 😉).\n\n📍 Ubicación: Dalila - Ver mapa  https://maps.app.goo.gl/rHC6iMwk4FNu8acE6\n⏰ Horario: Lunes a Sábado | 11:00 a 20:00 hs.",
+   "starred": false
+  },
+  {
+   "id": 1581374,
+   "key_id": "AC718153B770BEFEC351B13589D461F1",
+   "ts_ms": 1759636365421,
+   "ts_iso": "2025-10-05T03:52:45.421000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1582756,
+   "key_id": "A5D229F35880983098FF3C3032C7AC81",
+   "ts_ms": 1759759719000,
+   "ts_iso": "2025-10-06T14:08:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola vida te esperamos hoy por el local",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "chat_id": 11230,
+ "slug": "_wa_chat_595982501582_11230",
+ "subject": null,
+ "jid_user": "595982501582",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982501582@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1535839,
+   "key_id": "62502342991CC3A9C6B8DAB53848D680",
+   "ts_ms": 1753466590000,
+   "ts_iso": "2025-07-25T18:03:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Buenas🥰 Te saluda *María Riveros* asesora en ventas de Bristol✨\n\n ✨ *APROVECHA LAS SUPER OFERTAS*✨\n\nLleva HOY y pagas a los 30dias🤩\nPodes agendarme al whatsapp y así estar al tanto de las promociones📲\n\n‎",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "56++mxcpobaHLaaDe6py7SCt4G4kAkCNYWrezyYb9GA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1535840,
+   "key_id": "17FE55525A7FE228F661A1180C320A2F",
+   "ts_ms": 1753466590000,
+   "ts_iso": "2025-07-25T18:03:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Gxkhtlnqzu6Pthnrs2w83phojPwB0znOYoPNBfIBJlM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1565933,
+   "key_id": "9B278D7E57E7121E051ED583DF5715D2",
+   "ts_ms": 1757193422000,
+   "ts_iso": "2025-09-06T21:17:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*¡Buenas!* 🤩💙\n*Le saluda MARÍA  asesora de ventas*👩🏼‍💻\n\nMe encantaría poder acompañar su compra!. Quedo atenta ante su consulta 😊",
+   "starred": false
+  },
+  {
+   "id": 1565935,
+   "key_id": "D8F8D3511F8DE27EDA4E03DC7320583F",
+   "ts_ms": 1757193427000,
+   "ts_iso": "2025-09-06T21:17:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "ygb9jImjcKijV9w/7GXNet3+iP5L4CU7LzoGZiOmMNM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1565936,
+   "key_id": "58E92C771453FB89A312E07BD415CBF7",
+   "ts_ms": 1757193427000,
+   "ts_iso": "2025-09-06T21:17:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "HirEvSKPnM7cAZcvXJTpXD60Lhr0K9JxUjWpvvk4/Ok=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1565937,
+   "key_id": "C1FAEF2C7B3A6026C2098F91F6113866",
+   "ts_ms": 1757193428000,
+   "ts_iso": "2025-09-06T21:17:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "zx9Sx2tZDSiLesnjZlMKvbYlWJdBVRZ3CIPRJdLdhQg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1565938,
+   "key_id": "486514E6564C62B5FC55055F66C519F5",
+   "ts_ms": 1757193428000,
+   "ts_iso": "2025-09-06T21:17:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "jBfv7xpR8N7lG5wS2vESEKgQeXHaIxCtj8rvp2NgkFM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1565939,
+   "key_id": "F0A740B9788E52740699E619EA714EDB",
+   "ts_ms": 1757193428000,
+   "ts_iso": "2025-09-06T21:17:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "OGtLacoxnotCJVQ4tBQ49Xe35y/HHMiNK7g+uu2cqLM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1565940,
+   "key_id": "82121A114F9A00DFFC4A5C1C2E75745A",
+   "ts_ms": 1757193428000,
+   "ts_iso": "2025-09-06T21:17:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "732pgJVIKAkGEkgD40TqLp4RY20boJzTPR7l37wNnCs=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

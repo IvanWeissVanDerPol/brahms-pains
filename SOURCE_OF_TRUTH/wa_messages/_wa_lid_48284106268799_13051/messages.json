@@ -1,0 +1,165 @@
+{
+ "chat_id": 13051,
+ "slug": "_wa_lid_48284106268799_13051",
+ "subject": null,
+ "jid_user": "48284106268799",
+ "jid_server": "lid",
+ "jid_raw": "48284106268799@lid",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1676654,
+   "key_id": "ACD259EFD43BEDADF52B18CDE5966FA6",
+   "ts_ms": 1770154459000,
+   "ts_iso": "2026-02-03T21:34:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal profe, unas horas antes de la clase estaba haciendo todo esto perp la parte del prompt maestro hace mucho tiempo que está y no termina, cambie el modelo 2 veces e igual sigue tardando",
+   "starred": false
+  },
+  {
+   "id": 1676655,
+   "key_id": "3EB03AE72ADFDEF41CB4A5",
+   "ts_ms": 1770154467000,
+   "ts_iso": "2026-02-03T21:34:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "asi esta ahora",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "elANNU8iqGN20u0U4rubGwXZ1+pYJxdfgtbKyIOyUX4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1676656,
+   "key_id": "3EB0E8613D0D201EBC2B7C",
+   "ts_ms": 1770154483000,
+   "ts_iso": "2026-02-03T21:34:43+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "apreta /model",
+   "starred": false
+  },
+  {
+   "id": 1676657,
+   "key_id": "3EB02E0205E8572084F312",
+   "ts_ms": 1770154486000,
+   "ts_iso": "2026-02-03T21:34:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y elegi otro modelo",
+   "starred": false
+  },
+  {
+   "id": 1676658,
+   "key_id": "3EB06149371D2DE9235FA6",
+   "ts_ms": 1770154500000,
+   "ts_iso": "2026-02-03T21:35:00+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gemini 3 esta en alta demanda y por eso no podes usar",
+   "starred": false
+  },
+  {
+   "id": 1676659,
+   "key_id": "3EB0491621F751013EEB0D",
+   "ts_ms": 1770154504000,
+   "ts_iso": "2026-02-03T21:35:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "cual recomendas?",
+   "starred": false
+  },
+  {
+   "id": 1676660,
+   "key_id": "3EB0094448B13229DB6B5B",
+   "ts_ms": 1770154527000,
+   "ts_iso": "2026-02-03T21:35:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "despues de cambiar de modelo pongo de vuelta el prompt verdad?",
+   "starred": false
+  },
+  {
+   "id": 1676967,
+   "key_id": "3EB055BF15F0A1B95343D6",
+   "ts_ms": 1770157582000,
+   "ts_iso": "2026-02-03T22:26:22+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "kimi k2.5 free",
+   "starred": false
+  },
+  {
+   "id": 1676968,
+   "key_id": "3EB0FCAA9ACC1D1D355697",
+   "ts_ms": 1770157585000,
+   "ts_iso": "2026-02-03T22:26:25+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "de open zen",
+   "starred": false
+  },
+  {
+   "id": 1676969,
+   "key_id": "3EB0676EFE5DF4CEF52470",
+   "ts_ms": 1770157587000,
+   "ts_iso": "2026-02-03T22:26:27+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "es gratis",
+   "starred": false
+  },
+  {
+   "id": 1676970,
+   "key_id": "3EB03ACAA5409515429BEC",
+   "ts_ms": 1770157596000,
+   "ts_iso": "2026-02-03T22:26:36+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "es el latest AI king",
+   "starred": false
+  },
+  {
+   "id": 1676971,
+   "key_id": "3EB0A83FDB998939C99B32",
+   "ts_ms": 1770157599000,
+   "ts_iso": "2026-02-03T22:26:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "pero cada mes cambia",
+   "starred": false
+  },
+  {
+   "id": 1676990,
+   "key_id": "3EB09D35B3A5AB08312775",
+   "ts_ms": 1770157835000,
+   "ts_iso": "2026-02-03T22:30:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ok, gracias",
+   "starred": false
+  }
+ ]
+}

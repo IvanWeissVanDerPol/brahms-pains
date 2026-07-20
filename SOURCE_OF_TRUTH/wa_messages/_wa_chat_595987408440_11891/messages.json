@@ -1,0 +1,68 @@
+{
+ "chat_id": 11891,
+ "slug": "_wa_chat_595987408440_11891",
+ "subject": null,
+ "jid_user": "595987408440",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595987408440@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581422,
+   "key_id": "AC2F2D6719CBE8E0042232F7EAE2B505",
+   "ts_ms": 1759637290339,
+   "ts_iso": "2025-10-05T04:08:10.339000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"👀🔥ACTIVA 18 AÑOS DISPONIB(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1581446,
+   "key_id": "F364C4AED1429059FAEFECD68453DCE4",
+   "ts_ms": 1759638075000,
+   "ts_iso": "2025-10-05T04:21:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*☘️✨Encuentos Casuales, Sexuales y a Domicilio✨☘️* a 300 mil la Hora\n*🪼Videollamadas Caceras🪼* 70 mil es 5 minutos hasta 35 y una hora por 100 mil \n*🪼Chat morboso o conocernos 🪼* es 100 la hora\n*🪼SOLO FOTOS🪼 50 MIL*\n *🪼SOLO VIDEOS🪼* 90 MIL\n*🪼Fotos  más Videos🪼* 100 mil guaranies , todo cacero🥵\n*🪼Telegram VIP🪼* 130 el pago único, contenidos diarios🔥",
+   "starred": false
+  },
+  {
+   "id": 1581447,
+   "key_id": "AC603D537A9FA24B05F5544DBFDEC6AB",
+   "ts_ms": 1759638301166,
+   "ts_iso": "2025-10-05T04:25:01.166000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para los encuentros tenes lugar?",
+   "starred": false
+  },
+  {
+   "id": 1581448,
+   "key_id": "AC52CD43973CDB17608F45B1792DD1B8",
+   "ts_ms": 1759638304352,
+   "ts_iso": "2025-10-05T04:25:04.352000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Donde sería?",
+   "starred": false
+  },
+  {
+   "id": 1581449,
+   "key_id": "ACD05CE189D24ABA7FB850188786158F",
+   "ts_ms": 1759638311758,
+   "ts_iso": "2025-10-05T04:25:11.758000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O nos vemos en un motel?",
+   "starred": false
+  }
+ ]
+}

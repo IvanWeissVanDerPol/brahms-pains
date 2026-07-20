@@ -1,0 +1,418 @@
+{
+ "chat_id": 11532,
+ "slug": "_wa_chat_5212215805319_11532",
+ "subject": null,
+ "jid_user": "5212215805319",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "5212215805319@s.whatsapp.net",
+ "message_count": 27,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1558105,
+   "key_id": "A49E8DF56549CDC686751154B23D23EE",
+   "ts_ms": 1756049453236,
+   "ts_iso": "2025-08-24T15:30:53.236000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola hicimos match en Tinder",
+   "starred": false
+  },
+  {
+   "id": 1558106,
+   "key_id": "00067BE3F50494FCEF72D95143D5E191",
+   "ts_ms": 1756049456766,
+   "ts_iso": "2025-08-24T15:30:56.766000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Amo tu foto jsjsjsj",
+   "starred": false
+  },
+  {
+   "id": 1558111,
+   "key_id": "3A41A22AFB2ECADED0F2",
+   "ts_ms": 1756049611000,
+   "ts_iso": "2025-08-24T15:33:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola bebé cómo estás? Tienes fotito?",
+   "starred": false
+  },
+  {
+   "id": 1558123,
+   "key_id": "1E33B8E9AFE1E2931219319184FE02CB",
+   "ts_ms": 1756049908827,
+   "ts_iso": "2025-08-24T15:38:28.827000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0012.jpg",
+    "size": 227484,
+    "duration_s": 0,
+    "sha256_b64": "9JPYqMsDFyuDVG8T/ol+BDkA4yAHzaIGQro1XRiJI3E=",
+    "media_name": "3ab1d4a8-4d54-4f31-91e7-0a40af0d85d7.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558124,
+   "key_id": "05FFDBDB7052C5E4B9D4997EF14384C9",
+   "ts_ms": 1756049908838,
+   "ts_iso": "2025-08-24T15:38:28.838000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0013.jpg",
+    "size": 197854,
+    "duration_s": 0,
+    "sha256_b64": "6omjLXwwDInBVg6fKPo2P0mnGblD9obn6EPJPpeHyU0=",
+    "media_name": "ecfc7c33-737a-4f00-967c-97f8f69871d0.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558125,
+   "key_id": "51AB021CA6BED9E8A6EEFC2AD30FD131",
+   "ts_ms": 1756049908852,
+   "ts_iso": "2025-08-24T15:38:28.852000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0014.jpg",
+    "size": 208473,
+    "duration_s": 0,
+    "sha256_b64": "zCac+XAQ3UZM1c5t+w+c4y0L/oV9OV3EP5XLid4Vrg8=",
+    "media_name": "be0e9442-26ee-455d-931c-40c36aac545a.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558126,
+   "key_id": "2043E79A9C6910695CE0B927CB1D2A53",
+   "ts_ms": 1756049921000,
+   "ts_iso": "2025-08-24T15:38:41+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O te paso full nude / foto pito",
+   "starred": false
+  },
+  {
+   "id": 1558127,
+   "key_id": "80986AAA2F4594A578DC23FBFAB0156C",
+   "ts_ms": 1756049921680,
+   "ts_iso": "2025-08-24T15:38:41.680000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jsjs",
+   "starred": false
+  },
+  {
+   "id": 1558142,
+   "key_id": "3ADA4C9F36FB65EFE1DA",
+   "ts_ms": 1756050486000,
+   "ts_iso": "2025-08-24T15:48:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Siii",
+   "starred": false
+  },
+  {
+   "id": 1558143,
+   "key_id": "3A112AE497CACD8CAEDB",
+   "ts_ms": 1756050508000,
+   "ts_iso": "2025-08-24T15:48:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuál bb",
+   "starred": false
+  },
+  {
+   "id": 1558150,
+   "key_id": "B3ED032594D5039A900152FA6266C841",
+   "ts_ms": 1756052466057,
+   "ts_iso": "2025-08-24T16:21:06.057000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La de WhatsApp con la tanga \n\nEsta muy mood",
+   "starred": false
+  },
+  {
+   "id": 1558151,
+   "key_id": "3FFE4D08C4A75AAED4A98056E95D86F2",
+   "ts_ms": 1756052618420,
+   "ts_iso": "2025-08-24T16:23:38.420000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://photos.app.goo.gl/WBXYMs1hYWLkA6zD6",
+   "starred": false
+  },
+  {
+   "id": 1558153,
+   "key_id": "FDCD7167C2975FA1A1088DB8AD5C3D68",
+   "ts_ms": 1756052918006,
+   "ts_iso": "2025-08-24T16:28:38.006000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lgmt tengo que sacarme más foto pito",
+   "starred": false
+  },
+  {
+   "id": 1558154,
+   "key_id": "DCE2B0E4186C6484165511EACA4493C0",
+   "ts_ms": 1756052922217,
+   "ts_iso": "2025-08-24T16:28:42.217000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En grindr tengo unos cuantos",
+   "starred": false
+  },
+  {
+   "id": 1558156,
+   "key_id": "232EEBE749436DA3E79B707C7AFD9FE7",
+   "ts_ms": 1756052927741,
+   "ts_iso": "2025-08-24T16:28:47.741000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero no sé descargar",
+   "starred": false
+  },
+  {
+   "id": 1558163,
+   "key_id": "3A6379028DA55E47BC9D",
+   "ts_ms": 1756053584000,
+   "ts_iso": "2025-08-24T16:39:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis bebé",
+   "starred": false
+  },
+  {
+   "id": 1558170,
+   "key_id": "34C55ACEEB5289A11DDA923AEA77D856",
+   "ts_ms": 1756054301910,
+   "ts_iso": "2025-08-24T16:51:41.910000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0018.jpg",
+    "size": 84898,
+    "duration_s": 0,
+    "sha256_b64": "zVoAxowhZAnXaQwD9RD2lugSZTPBYwtggrpuFA8fWDw=",
+    "media_name": "13b9882b-5e32-4c50-9d74-44f8b3a7d9ce.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558171,
+   "key_id": "11C73E465484E065424E637615AB0480",
+   "ts_ms": 1756054301931,
+   "ts_iso": "2025-08-24T16:51:41.931000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0023.jpg",
+    "size": 169243,
+    "duration_s": 0,
+    "sha256_b64": "ygsM2OdIXpyKDfGuiyv19izGLLCAmJYMDqD1eo4e0GA=",
+    "media_name": "64e7d92c-b11a-422c-892b-b6578aa5bd13.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558172,
+   "key_id": "0D0EBEF9D0ABA5156BC9D21239F84133",
+   "ts_ms": 1756054301944,
+   "ts_iso": "2025-08-24T16:51:41.944000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0019.jpg",
+    "size": 46362,
+    "duration_s": 0,
+    "sha256_b64": "hE0EZt/1qmLCX7hLinrdCMcF7QK+dKjAK6q6hFzd5kw=",
+    "media_name": "f7deab61-ede7-4af3-9e98-bd6192db5811.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558173,
+   "key_id": "E3709B7F207092078C22F552E9B791E2",
+   "ts_ms": 1756054301959,
+   "ts_iso": "2025-08-24T16:51:41.959000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0017.jpg",
+    "size": 63929,
+    "duration_s": 0,
+    "sha256_b64": "yb3Ybe2SZlADAk2yJ4TjJSMu1dcUqGhG5TJ27RkBdWY=",
+    "media_name": "c01f1d19-2bd6-4b31-9ed0-63ecb33031e2.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558174,
+   "key_id": "A08D5E9895FDDD695AC790C38661F554",
+   "ts_ms": 1756054301971,
+   "ts_iso": "2025-08-24T16:51:41.971000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0022.jpg",
+    "size": 57081,
+    "duration_s": 0,
+    "sha256_b64": "LWbsx89J1DVEQEECRzcDZ11Vx4L1eGMy6iSyJhzNBhQ=",
+    "media_name": "461716a6-d4e1-48f8-9795-db84af659bcb.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558175,
+   "key_id": "CE39F541022E817B72B7B7433A2AA662",
+   "ts_ms": 1756054301982,
+   "ts_iso": "2025-08-24T16:51:41.982000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0021.jpg",
+    "size": 46604,
+    "duration_s": 0,
+    "sha256_b64": "Zp1eL+TK66ObQFxgP69/6NF0N3QYCM59vuXkVX61zUs=",
+    "media_name": "c1dd3339-3bff-4752-a192-e6651889e29a.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558176,
+   "key_id": "23706CB2447B9A4AE1B4DB89445B809C",
+   "ts_ms": 1756054301999,
+   "ts_iso": "2025-08-24T16:51:41.999000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0020.jpg",
+    "size": 53513,
+    "duration_s": 0,
+    "sha256_b64": "e81Hzsjs5M4teFTUJH2GnGzuDa7AVwICIdwt+Q3kcrM=",
+    "media_name": "47428625-4640-4613-b325-4fe78d258093.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558177,
+   "key_id": "E2C967B10583FA48A3EA0913E1ED09F0",
+   "ts_ms": 1756054302012,
+   "ts_iso": "2025-08-24T16:51:42.012000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0025.jpg",
+    "size": 100243,
+    "duration_s": 0,
+    "sha256_b64": "P/SveigkBpPJY4LfWizzP8CvEHZDO9ITv90ovNnsf5c=",
+    "media_name": "50b99991-d227-42f6-9c0a-91b53b169c40.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558178,
+   "key_id": "EC26760B932C2F4910DD2EEE488AD692",
+   "ts_ms": 1756054302052,
+   "ts_iso": "2025-08-24T16:51:42.052000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0024.jpg",
+    "size": 70614,
+    "duration_s": 0,
+    "sha256_b64": "/7Rv1yGZUp2FK9r9yBOYgZVJ1VLGboe6EZ0WLGchJ5A=",
+    "media_name": "69a71bce-9855-426e-8473-b4c4955d0b78.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1558179,
+   "key_id": "7FAD065DC1CACDB10383D3157D5DC38C",
+   "ts_ms": 1756054310433,
+   "ts_iso": "2025-08-24T16:51:50.433000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yolo screenshots ya andan jsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1558312,
+   "key_id": "034F0020BF30B1C154D47AF14F4D697D",
+   "ts_ms": 1756067131046,
+   "ts_iso": "2025-08-24T20:25:31.046000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal BB?\n\nTe estira hacer algo rico juntos?",
+   "starred": false
+  }
+ ]
+}

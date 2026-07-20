@@ -1,0 +1,262 @@
+{
+ "chat_id": 13253,
+ "slug": "_wa_lid_270789232308448_13253",
+ "subject": null,
+ "jid_user": "270789232308448",
+ "jid_server": "lid",
+ "jid_raw": "270789232308448@lid",
+ "message_count": 21,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1677257,
+   "key_id": "3EB0D69946199D80D44F58",
+   "ts_ms": 1770161551000,
+   "ts_iso": "2026-02-03T23:32:31+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola te ayudo?",
+   "starred": false
+  },
+  {
+   "id": 1677258,
+   "key_id": "3EB026D4F0172536475F84",
+   "ts_ms": 1770161558000,
+   "ts_iso": "2026-02-03T23:32:38+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me pasas los errores que te salen ?",
+   "starred": false
+  },
+  {
+   "id": 1677259,
+   "key_id": "3EB0C16E8D3739A37152B1",
+   "ts_ms": 1770161559000,
+   "ts_iso": "2026-02-03T23:32:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ":)",
+   "starred": false
+  },
+  {
+   "id": 1677260,
+   "key_id": "3EB070E11D0C75FAB2E340",
+   "ts_ms": 1770161563000,
+   "ts_iso": "2026-02-03T23:32:43+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te guio en como solucionar",
+   "starred": false
+  },
+  {
+   "id": 1677266,
+   "key_id": "AC80663F7E9E47EFB98C3DD8435CD0A6",
+   "ts_ms": 1770161638000,
+   "ts_iso": "2026-02-03T23:33:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa, no tengo ahora, pero sale que va a generar el documento y enviará en el chat y al generar sale el link del documento y no corrigió nada",
+   "starred": false
+  },
+  {
+   "id": 1677270,
+   "key_id": "3EB0B1A319DF47DC914042",
+   "ts_ms": 1770161705000,
+   "ts_iso": "2026-02-03T23:35:05+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "mandame nomas screenshots \no si tenes en github como un repo \nte hago un fork y analizo y preparo para que te haga",
+   "starred": false
+  },
+  {
+   "id": 1677272,
+   "key_id": "ACBBB1D2940D8A165B1DB8323C7F3E3C",
+   "ts_ms": 1770161721000,
+   "ts_iso": "2026-02-03T23:35:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Super bien",
+   "starred": false
+  },
+  {
+   "id": 1677338,
+   "key_id": "3EB09D3A768C3BD86E09D6",
+   "ts_ms": 1770165589000,
+   "ts_iso": "2026-02-04T00:39:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "esta es la tesis",
+   "starred": false
+  },
+  {
+   "id": 1677339,
+   "key_id": "3EB0FDF63B17EC6F944412",
+   "ts_ms": 1770165618000,
+   "ts_iso": "2026-02-04T00:40:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "esta es la plantilla que hay que copiar y tener de guía para cargar el documento",
+   "starred": false
+  },
+  {
+   "id": 1677340,
+   "key_id": "3EB070A6C83896270151EC",
+   "ts_ms": 1770165648000,
+   "ts_iso": "2026-02-04T00:40:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "estos son los reglamentos que hay que seguir, tamaño de hoja, etc",
+   "starred": false
+  },
+  {
+   "id": 1677341,
+   "key_id": "3EB00F19A0EBCBC714CE06",
+   "ts_ms": 1770165730000,
+   "ts_iso": "2026-02-04T00:42:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "lo que quiero es que el documento que dice sugerencias siga el reglamento del manual de tesis y que revise mi información si es que está bien o que modifique si algo no es acorde",
+   "starred": false
+  },
+  {
+   "id": 1677343,
+   "key_id": "3EB0AE1DAA9B09728991CD",
+   "ts_ms": 1770165756000,
+   "ts_iso": "2026-02-04T00:42:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "el anexo tampoco no cargue, me falta encuesta, graficos, etc",
+   "starred": false
+  },
+  {
+   "id": 1677345,
+   "key_id": "3EB05C4A4B1C3CB195622A",
+   "ts_ms": 1770165804000,
+   "ts_iso": "2026-02-04T00:43:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "la profe me puso en los comentarios algunas modificaciones y me dijo que debe tratarse más de gestión y mencionar citas y verificar normas APA",
+   "starred": false
+  },
+  {
+   "id": 1677350,
+   "key_id": "3EB029C24FF2850E048A86",
+   "ts_ms": 1770166052000,
+   "ts_iso": "2026-02-04T00:47:32+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "hola le corro con esto y te muestro manana que sale :)",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "k/XnsOh+1ij+1lA6Vu7ITsA49hhxLrRpzzTxCIJTX1k=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1677351,
+   "key_id": "3EB02F98EBBFDD7F347494",
+   "ts_ms": 1770166058000,
+   "ts_iso": "2026-02-04T00:47:38+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y si sale bien te dejo en un repo para usar ?",
+   "starred": false
+  },
+  {
+   "id": 1677354,
+   "key_id": "3EB0076536D53509BA2CBC",
+   "ts_ms": 1770166079000,
+   "ts_iso": "2026-02-04T00:47:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "suuuper bien, a ver que sale",
+   "starred": false
+  },
+  {
+   "id": 1677355,
+   "key_id": "3EB0ECE3C1D2AC960331CB",
+   "ts_ms": 1770166116000,
+   "ts_iso": "2026-02-04T00:48:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "estres ya tengo...https://notebooklm.google.com/notebook/c8f1cdfc-c84f-4a87-a2ae-d64bec07b57e en este xejemplo sale solo explicaciones, nada que ver",
+   "starred": false
+  },
+  {
+   "id": 1677357,
+   "key_id": "3EB0D8C1A75CC7BC04258B",
+   "ts_ms": 1770166147000,
+   "ts_iso": "2026-02-04T00:49:07+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ahi pedi acceso",
+   "starred": false
+  },
+  {
+   "id": 1677359,
+   "key_id": "3EB0D0A697D1B7B4D23A89",
+   "ts_ms": 1770166195000,
+   "ts_iso": "2026-02-04T00:49:55+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "notebook lm es para explicaciones nomas y preparar podcasts y materiales de estudio\nonda si tomas una clase\n\nno para hacer documentos",
+   "starred": false
+  },
+  {
+   "id": 1677363,
+   "key_id": "3EB058C96CA069BE8DC3F6",
+   "ts_ms": 1770166264000,
+   "ts_iso": "2026-02-04T00:51:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "s1CsFd0sWSM0PJIG/4t89dOUbQkaCOtRacsVK/k6Q8g=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1677364,
+   "key_id": "3EB04D76010A45212DDC1B",
+   "ts_ms": 1770166278000,
+   "ts_iso": "2026-02-04T00:51:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ahhh entiendo",
+   "starred": false
+  }
+ ]
+}

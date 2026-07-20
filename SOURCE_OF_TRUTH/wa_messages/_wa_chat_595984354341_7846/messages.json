@@ -1,0 +1,24 @@
+{
+ "chat_id": 7846,
+ "slug": "_wa_chat_595984354341_7846",
+ "subject": null,
+ "jid_user": "595984354341",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984354341@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1343321,
+   "key_id": "3EB0089D42C34B8FB2BA03",
+   "ts_ms": 1724167418000,
+   "ts_iso": "2024-08-20T15:23:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buen día sr/a...🤗\nLe saluda Milagros, asesora de  créditos...\n¿Necesitas un préstamo?\n💸 💸\n ¡¡ En credi ágil te aprobamos tu crédito en el día!!⏱️\nDesde 500.000 Hasta 30.000.000\nSi estarías interesado podría pasarme:\n1.-Nro.  de CÉDULA  \n2.- ¿A qué se dedica laboralmente?”\n3.- ¿En qué ciudad Reside? “En que Ciudad Vive”\nCon estos datos básicos podremos darte una respuesta más rápida✅\nQue tenga un lindo día!✨🫶🏻\nSi no deseas recibir este mensaje envié NO",
+   "starred": false
+  }
+ ]
+}

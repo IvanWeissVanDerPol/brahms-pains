@@ -1,0 +1,154 @@
+{
+ "chat_id": 3598,
+ "slug": "_wa_chat_595983858997_3598",
+ "subject": null,
+ "jid_user": "595983858997",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983858997@s.whatsapp.net",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1466213,
+   "key_id": "76121AAA36E30CB2D455610496FCA80E",
+   "ts_ms": 1744414329108,
+   "ts_iso": "2025-04-11T23:32:09.108000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202515/PTT-20250411-WA0038.opus",
+    "size": 0,
+    "duration_s": 31,
+    "sha256_b64": "AxKimPDX/FZaAqjid4XEqVWRhDD/OOihBv/0jy6yMsY=",
+    "media_name": "9792850e39fe498cac3f45a282965879.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1466219,
+   "key_id": "69A516EC9C388D0AF2995E49C1C95E16",
+   "ts_ms": 1744416440000,
+   "ts_iso": "2025-04-12T00:07:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa",
+   "starred": false
+  },
+  {
+   "id": 1466220,
+   "key_id": "1A44B93BB0002FEE6EB464544279276D",
+   "ts_ms": 1744416444000,
+   "ts_iso": "2025-04-12T00:07:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias jeje",
+   "starred": false
+  },
+  {
+   "id": 1466221,
+   "key_id": "9A577D53C5548C27ABE3DBAC0B7A2C3F",
+   "ts_ms": 1744416449000,
+   "ts_iso": "2025-04-12T00:07:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo tengo uno así",
+   "starred": false
+  },
+  {
+   "id": 1466222,
+   "key_id": "8FB90BC83C2FF29966EA94CD1FA26140",
+   "ts_ms": 1744416452000,
+   "ts_iso": "2025-04-12T00:07:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Meru se llana",
+   "starred": false
+  },
+  {
+   "id": 1466223,
+   "key_id": "399A2A377A90E881535A5449ED00C5F6",
+   "ts_ms": 1744416457000,
+   "ts_iso": "2025-04-12T00:07:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me recomendaron",
+   "starred": false
+  },
+  {
+   "id": 1521358,
+   "key_id": "3F99DA6FE11569462D8C",
+   "ts_ms": 1751917067000,
+   "ts_iso": "2025-07-07T19:37:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola que tal",
+   "starred": false
+  },
+  {
+   "id": 1521359,
+   "key_id": "3FB9603B76E29977F6E8",
+   "ts_ms": 1751917079000,
+   "ts_iso": "2025-07-07T19:37:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "vos me habías recomendado Dukascopy para cobrar del exterior",
+   "starred": false
+  },
+  {
+   "id": 1521360,
+   "key_id": "3F7B0043A17DB97F8EBB",
+   "ts_ms": 1751917087000,
+   "ts_iso": "2025-07-07T19:38:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "en el grupo de info",
+   "starred": false
+  },
+  {
+   "id": 1521361,
+   "key_id": "3FAB7069FACDAD1D42F2",
+   "ts_ms": 1751917098000,
+   "ts_iso": "2025-07-07T19:38:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "para eso tengo que tener pasaporte sí o sí?",
+   "starred": false
+  },
+  {
+   "id": 1521364,
+   "key_id": "9B976A89F7CBE8229C522DD4F40508FD",
+   "ts_ms": 1751917274457,
+   "ts_iso": "2025-07-07T19:41:14.457000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Creo que si",
+   "starred": false
+  },
+  {
+   "id": 1521365,
+   "key_id": "B05282BF280AB79E0282A84B51EB6AB0",
+   "ts_ms": 1751917279121,
+   "ts_iso": "2025-07-07T19:41:19.121000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Descarga y proba nomaa",
+   "starred": false
+  }
+ ]
+}

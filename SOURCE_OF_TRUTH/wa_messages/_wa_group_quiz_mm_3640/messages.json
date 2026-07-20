@@ -1,0 +1,213 @@
+{
+ "chat_id": 3640,
+ "slug": "_wa_group_quiz_mm_3640",
+ "subject": "quiz mm",
+ "jid_user": "120363148298890861",
+ "jid_server": "g.us",
+ "jid_raw": "120363148298890861@g.us",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1117735,
+   "key_id": "C928A61E7EDF2223D1",
+   "ts_ms": 1691514225000,
+   "ts_iso": "2023-08-08T17:03:45+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "pUGTXYqGCEcsb/k7W/eJY4CeD+gAOFCF/FsBOe/uRMU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117739,
+   "key_id": "7FDEB3FF1A404409C2",
+   "ts_ms": 1691516418000,
+   "ts_iso": "2023-08-08T17:40:18+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "bcauzFWnwKmwVXlwHLTsiJ9ReEl34QKueNJsKs9QwEU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117742,
+   "key_id": "B16F0938B27E40F15F",
+   "ts_ms": 1691516752000,
+   "ts_iso": "2023-08-08T17:45:52+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "5Ipwli9HW5lvNn0b6jUn0NoMz7CafK4VEnVxhGMqX/I=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117745,
+   "key_id": "45ADE7AD7099A95F2A",
+   "ts_ms": 1691517069000,
+   "ts_iso": "2023-08-08T17:51:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "B+f7PW45fRSNFI/2Z12qdJaTQ/qJZieQBitOPoug8tg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117746,
+   "key_id": "64D47913AC2224435F",
+   "ts_ms": 1691517549000,
+   "ts_iso": "2023-08-08T17:59:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "qUPTuP0k5VfTQmP+Nwzoq2X4zA/dt/PIhg5aUJ7KH1w=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117747,
+   "key_id": "7B82EBFFF794077A25",
+   "ts_ms": 1691517649000,
+   "ts_iso": "2023-08-08T18:00:49+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "WWAPqcFUyx4jgNpOxrTluXqjInBPf4aThUCJhUJV6gw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117748,
+   "key_id": "0A8C3D0D2485A09A44",
+   "ts_ms": 1691517650000,
+   "ts_iso": "2023-08-08T18:00:50+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "WWAPqcFUyx4jgNpOxrTluXqjInBPf4aThUCJhUJV6gw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117762,
+   "key_id": "36586622663572B259",
+   "ts_ms": 1691518381000,
+   "ts_iso": "2023-08-08T18:13:01+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "HwJYh2UWO9hETtlKFQwKUoDqga6axCFNWNImKUpJdVk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117769,
+   "key_id": "0391753509F9123917",
+   "ts_ms": 1691518669000,
+   "ts_iso": "2023-08-08T18:17:49+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "ok",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "ieWG++f073EWGe8SOE4/b3krKURuJXTwEhfg7zzKsBI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1117772,
+   "key_id": "8A3DE03BE0A8024780",
+   "ts_ms": 1691518799000,
+   "ts_iso": "2023-08-08T18:19:59+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "D0e41fuDWVLIzEIXG9skWjRX/BoB7KcustB51n31PjU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

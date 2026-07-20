@@ -1,0 +1,203 @@
+{
+ "chat_id": 6586,
+ "slug": "_wa_group_cybergameslatam_-_ieee_untels_2024_6586",
+ "subject": "CyberGamesLATAM -  IEEE UNTELS 2024",
+ "jid_user": "120363268389693387",
+ "jid_server": "g.us",
+ "jid_raw": "120363268389693387@g.us",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1284593,
+   "key_id": "3EB0A7D5D53C9389140D86",
+   "ts_ms": 1715058724000,
+   "ts_iso": "2024-05-07T05:12:04+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "Buenas noches, a los alumnos inscritos se les envió correo de convocatoria a la segunda sesion de acompañamiento, y a los nuevos inscritos (a paritr de este fds) se les envio tambien los lineamientos tratados en nuestra sesión introductoria de la semana pasada.",
+   "starred": false
+  },
+  {
+   "id": 1284594,
+   "key_id": "3EB0FA0AA5EE15C8537EC8",
+   "ts_ms": 1715058748000,
+   "ts_iso": "2024-05-07T05:12:28+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "Quienes aun no se han inscrito al curso no olviden realizarlo para que podamos compartirle la invtacion y recursos informativos del curso: https://bit.ly/Cyber-Games_Untels24",
+   "starred": false
+  },
+  {
+   "id": 1293129,
+   "key_id": "3EB021966F2C8CB4F8BFAA",
+   "ts_ms": 1716763616000,
+   "ts_iso": "2024-05-26T22:46:56+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "Buenas tardes, a todos los registrados durante esta ultima semana , se les envió correo con la programacion de las sesiones y link de grabaciones de las sesiones realizadas a la fecha. Así como la invitacion a la 4ta sesion que se llevará el día de hoy Domingo.",
+   "starred": false
+  },
+  {
+   "id": 1293131,
+   "key_id": "3EB08DBFC94962F8BDA8B5",
+   "ts_ms": 1716763638000,
+   "ts_iso": "2024-05-26T22:47:18+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "Quienes aun no se han inscrito al curso no olviden realizarlo para que podamos compartirle la invtacion y recursos informativos del curso: https://bit.ly/Cyber-Games_Untels24",
+   "starred": false
+  },
+  {
+   "id": 1302523,
+   "key_id": "0126CD341612DCA1B94626FCB5313797",
+   "ts_ms": 1718461543000,
+   "ts_iso": "2024-06-15T14:25:43+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "Buenos días 🙋🏻‍♀️\nSe les recuerda a los miembros del grupo que se registraron al curso Fundamentos de Ciberseguridad, mañana *Domingo 16 de Junio* es el último dia para rendir el examen final de curso.\n\nQuienes ya lo rindieron y obtuvieron su insignia y certificado del curso pueden omitir este mensaje 😊",
+   "starred": false
+  },
+  {
+   "id": 1302524,
+   "key_id": "B34ADE3285047D2C36BACAC3DCF887A9",
+   "ts_ms": 1718461872000,
+   "ts_iso": "2024-06-15T14:31:12+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "De igual manera, a los interesados en llevar el curso y aún no se registraron, les comparto el enlace:\nhttps://bit.ly/Cyber-Games_Untels24\n\nDeberán aprovechar este fds en realizar el examen de fin de curso. Se les compartirá las grabaciones de las sesiones de acompañamiento realizadas.",
+   "starred": false
+  },
+  {
+   "id": 1322820,
+   "key_id": "3EB0D3E376564DA2C7E5C0",
+   "ts_ms": 1721177949000,
+   "ts_iso": "2024-07-17T00:59:09+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "Buenas noches",
+   "starred": false
+  },
+  {
+   "id": 1322821,
+   "key_id": "3EB0ACF13F05F2040E4177",
+   "ts_ms": 1721177975000,
+   "ts_iso": "2024-07-17T00:59:35+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 1,
+   "text": "Hoy finalizó la segunda etapa del CTF. Muchas felicidades a todos los participantes.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240716-WA0037.jpg",
+    "size": 86281,
+    "duration_s": 0,
+    "sha256_b64": "X9ZA65Gj207KQVMm+XnMGJmAzuqdXQQAaKdDIyNPsh4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1322822,
+   "key_id": "3EB08F585B6207A3BD6626",
+   "ts_ms": 1721178024000,
+   "ts_iso": "2024-07-17T01:00:24+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "https://www.facebook.com/CiscoNetworkingAcademyLatinoamerica/videos/1571949343351760",
+   "starred": false
+  },
+  {
+   "id": 1322823,
+   "key_id": "3EB0A49499BB2D5B99DA3D",
+   "ts_ms": 1721178060000,
+   "ts_iso": "2024-07-17T01:01:00+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 1,
+   "text": "Felicidades a Miguel Saturno y Sebastián Ancco. Están en el top 45 en el CTF, han ganado su voucher para el examen de Certificación CCST Cybersecurity.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240716-WA0038.jpg",
+    "size": 122505,
+    "duration_s": 0,
+    "sha256_b64": "HKRj8C+mRz2mSPRBAvJFmJO/TvDejU4Aozdh8fUwmQI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1322826,
+   "key_id": "3EB0E7D57C6F6C386C144E",
+   "ts_ms": 1721178897000,
+   "ts_iso": "2024-07-17T01:14:57+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 1,
+   "text": "https://www.facebook.com/CiscoNetworkingAcademyLatinoamerica/videos/1571949343351760",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240716-WA0040.jpg",
+    "size": 108189,
+    "duration_s": 0,
+    "sha256_b64": "8AqGoeGkHCzrNFYB6Nf+etiMSoJiVTWj49HBSjigoc0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1343713,
+   "key_id": "090A2542E78DCDAB1E9AD983687E37C3",
+   "ts_ms": 1724194402000,
+   "ts_iso": "2024-08-20T22:53:22+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "Hola chic@s 🙋🏻‍♀️\nRecuerden que si tienen certificados en la plataforma de NetAcad deben descargarlos antes de la convergencia de plataformas.",
+   "starred": false
+  },
+  {
+   "id": 1343714,
+   "key_id": "410826640425F85635AAB379B6B6DD4C",
+   "ts_ms": 1724194417000,
+   "ts_iso": "2024-08-20T22:53:37+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 0,
+   "text": "Luego de la unión probablemente se pierdan",
+   "starred": false
+  },
+  {
+   "id": 1343715,
+   "key_id": "DF06C908D77CAC7B0590D296A5B3E109",
+   "ts_ms": 1724194447000,
+   "ts_iso": "2024-08-20T22:54:07+00:00",
+   "from_me": false,
+   "sender_jid": "51986613188@s.whatsapp.net",
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": null,
+    "size": 0,
+    "duration_s": 80,
+    "sha256_b64": "TRPqSFORh5dmIo60HpOSbDpJfIBRUQlZaLa2zH6LWa8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

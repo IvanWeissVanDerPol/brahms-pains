@@ -1,0 +1,24 @@
+{
+ "chat_id": 10306,
+ "slug": "_wa_chat_595982608837_10306",
+ "subject": null,
+ "jid_user": "595982608837",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982608837@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1453387,
+   "key_id": "3EB00681619349E8F350AB",
+   "ts_ms": 1742847451000,
+   "ts_iso": "2025-03-24T20:17:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes, que tal? 🤩\nTE SALUDA DIANA BENITEZ😃🤝\n🤩Prestamos De 1.000.000 a 30.000.000 Gs.\n☑️ Asalariados con IPS\n☑️ Funcionarios públicos\n☑️ Jubilados\n☑️ POLICIA Y MILITAR\n ✅ Tramita todo desde la comodidad de tu casa o trabajo😉 informconf limpio",
+   "starred": false
+  }
+ ]
+}

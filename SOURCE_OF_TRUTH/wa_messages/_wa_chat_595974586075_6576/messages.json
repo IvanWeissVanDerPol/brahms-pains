@@ -1,0 +1,209 @@
+{
+ "chat_id": 6576,
+ "slug": "_wa_chat_595974586075_6576",
+ "subject": null,
+ "jid_user": "595974586075",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595974586075@s.whatsapp.net",
+ "message_count": 17,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1281564,
+   "key_id": "DDDA49CF7DFC806613141D141EAD59A3",
+   "ts_ms": 1714597941643,
+   "ts_iso": "2024-05-01T21:12:21.643000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola soy Iván weiss",
+   "starred": false
+  },
+  {
+   "id": 1281565,
+   "key_id": "738BE024B6652E5E35F80BB0C7C17AF0",
+   "ts_ms": 1714597945976,
+   "ts_iso": "2024-05-01T21:12:25.976000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuales son los que faltan?",
+   "starred": false
+  },
+  {
+   "id": 1281566,
+   "key_id": "71450EDBC2A5DCD1D60D140E9164F9A9",
+   "ts_ms": 1714597952585,
+   "ts_iso": "2024-05-01T21:12:32.585000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Veo un fla el menú",
+   "starred": false
+  },
+  {
+   "id": 1281567,
+   "key_id": "F3A01FF08E67C292C31D524BE6382ADA",
+   "ts_ms": 1714597990496,
+   "ts_iso": "2024-05-01T21:13:10.496000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para el que falta de chocolate con uvas o nueces \nPone 4d especial \n\nY para nuttela \nFerrero",
+   "starred": false
+  },
+  {
+   "id": 1281569,
+   "key_id": "5082F84C055735B8E0046D850ACBEB98",
+   "ts_ms": 1714598032000,
+   "ts_iso": "2024-05-01T21:13:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ferrero no me queda",
+   "starred": false
+  },
+  {
+   "id": 1281570,
+   "key_id": "0DC923E44EF6F89A501425D725DFCC6F",
+   "ts_ms": 1714598044662,
+   "ts_iso": "2024-05-01T21:14:04.662000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasas el menú \n\nY lo que pedimos que falta",
+   "starred": false
+  },
+  {
+   "id": 1281571,
+   "key_id": "D837C7401FAEF93BBAF7DB9B88FD742A",
+   "ts_ms": 1714598073000,
+   "ts_iso": "2024-05-01T21:14:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240501-WA0005.jpg",
+    "size": 85847,
+    "duration_s": 0,
+    "sha256_b64": "bozimAC390csVBBhaPmd9eaiy6dBMVBGx0t7RmD1eYM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1281576,
+   "key_id": "9C6EEBA25D830B6EF3EE15895349C5AF",
+   "ts_ms": 1714598190110,
+   "ts_iso": "2024-05-01T21:16:30.110000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nocciola crunch en vez de nuttela",
+   "starred": false
+  },
+  {
+   "id": 1281580,
+   "key_id": "1BEFDB294033DF5EF702A875E004446C",
+   "ts_ms": 1714598308291,
+   "ts_iso": "2024-05-01T21:18:28.291000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cheesecake -> mandorlato \n\nRed velvet -> frutti di bosque",
+   "starred": false
+  },
+  {
+   "id": 1281583,
+   "key_id": "31BB356B6DE50F5206A4AA8337E1604B",
+   "ts_ms": 1714598396000,
+   "ts_iso": "2024-05-01T21:19:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No tengo",
+   "starred": false
+  },
+  {
+   "id": 1281584,
+   "key_id": "177CAB61153E57EB412055A5C141AEAD",
+   "ts_ms": 1714598432000,
+   "ts_iso": "2024-05-01T21:20:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Fruti del bosque no",
+   "starred": false
+  },
+  {
+   "id": 1281585,
+   "key_id": "A0E29545455BAADA122BEC3CE4A61F3E",
+   "ts_ms": 1714598464831,
+   "ts_iso": "2024-05-01T21:21:04.831000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Chocolate gran Piemonte?",
+   "starred": false
+  },
+  {
+   "id": 1281586,
+   "key_id": "012BF77B49195042F2325BF14CC4DCB1",
+   "ts_ms": 1714598467220,
+   "ts_iso": "2024-05-01T21:21:07.220000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Coco?",
+   "starred": false
+  },
+  {
+   "id": 1281588,
+   "key_id": "AB07191309D149DF5E944A6395BA2ECF",
+   "ts_ms": 1714598499000,
+   "ts_iso": "2024-05-01T21:21:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Amarena, frutilla, granizado , Menta, frambuesa, chocobrownie, francesa, crema americana pie de limon",
+   "starred": false
+  },
+  {
+   "id": 1281589,
+   "key_id": "1DE43F4E0B9DEFEE4A6EB4150AA17F18",
+   "ts_ms": 1714598503000,
+   "ts_iso": "2024-05-01T21:21:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es lo q tengo",
+   "starred": false
+  },
+  {
+   "id": 1281594,
+   "key_id": "116D477B28C221791E7D0547B5DD3D9D",
+   "ts_ms": 1714598570208,
+   "ts_iso": "2024-05-01T21:22:50.208000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Frambuesa y más pie de limón entonces",
+   "starred": false
+  },
+  {
+   "id": 1281598,
+   "key_id": "4602004A133370E5F9292C7C955DD949",
+   "ts_ms": 1714598775000,
+   "ts_iso": "2024-05-01T21:26:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Super",
+   "starred": false
+  }
+ ]
+}

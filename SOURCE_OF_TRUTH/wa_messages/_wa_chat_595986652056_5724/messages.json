@@ -1,0 +1,35 @@
+{
+ "chat_id": 5724,
+ "slug": "_wa_chat_595986652056_5724",
+ "subject": null,
+ "jid_user": "595986652056",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986652056@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1247179,
+   "key_id": "3EB04C3456A27C9747D351",
+   "ts_ms": 1708954143000,
+   "ts_iso": "2024-02-26T13:29:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": ".",
+   "starred": false
+  },
+  {
+   "id": 1247180,
+   "key_id": "3EB09B844AB27B2FF3DB8E",
+   "ts_ms": 1708954144000,
+   "ts_iso": "2024-02-26T13:29:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "BUENAAS!! 🥰 te saluda Camila Nuñez, asesora comercial de Tigo Py💙\n\nPodes acceder HOY mismo a esta super promo✨ SOLO POR HOY. CUPOS LIMITADOS⬇️\n\n➡️ 69.000 Gs mensual| primer pago recién en ABRIL🤩\n✳️Plan de telefonía \n✅8GB de INTERNET\n✅Llamadas ilimitadas a todas las operadoras y linea baja  \n✅WHATSAPP ILIMITADO \n✅100 mensajes a todas las operadoras\n\n❌BENEFICIO EXCLUSIVO PARA TU LÍNEA SÓLO POR HOY❌\n\nCualquier consulta a las órdenes 🤗 \n\n•\nDesde ya muchas gracias 🙌🏼🥰",
+   "starred": false
+  }
+ ]
+}

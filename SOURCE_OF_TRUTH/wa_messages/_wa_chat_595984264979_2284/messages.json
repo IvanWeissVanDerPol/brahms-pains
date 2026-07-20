@@ -1,0 +1,46 @@
+{
+ "chat_id": 2284,
+ "slug": "_wa_chat_595984264979_2284",
+ "subject": null,
+ "jid_user": "595984264979",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984264979@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1248687,
+   "key_id": "206A80FCE463799FA2084A5DABCDC63A",
+   "ts_ms": 1709160770116,
+   "ts_iso": "2024-02-28T22:52:50.116000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola a mi también me falta grupo",
+   "starred": false
+  },
+  {
+   "id": 1248719,
+   "key_id": "3AD2C6C11840AA86B421",
+   "ts_ms": 1709163510000,
+   "ts_iso": "2024-02-28T23:38:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola weiss, ya estamos full 🥲",
+   "starred": false
+  },
+  {
+   "id": 1248720,
+   "key_id": "49294D08040D3ED0B19EE8968EFCBA1C",
+   "ts_ms": 1709163529038,
+   "ts_iso": "2024-02-28T23:38:49.038000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Rip jsjsjjssj",
+   "starred": false
+  }
+ ]
+}

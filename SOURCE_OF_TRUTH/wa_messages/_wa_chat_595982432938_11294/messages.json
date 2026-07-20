@@ -1,0 +1,24 @@
+{
+ "chat_id": 11294,
+ "slug": "_wa_chat_595982432938_11294",
+ "subject": null,
+ "jid_user": "595982432938",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982432938@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1543362,
+   "key_id": "3AF51AC832C36689306B",
+   "ts_ms": 1754149725000,
+   "ts_iso": "2025-08-02T15:48:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  }
+ ]
+}

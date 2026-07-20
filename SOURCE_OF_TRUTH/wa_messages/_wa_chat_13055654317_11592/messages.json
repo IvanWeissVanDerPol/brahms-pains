@@ -1,0 +1,132 @@
+{
+ "chat_id": 11592,
+ "slug": "_wa_chat_13055654317_11592",
+ "subject": null,
+ "jid_user": "13055654317",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "13055654317@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1561826,
+   "key_id": "1036DA420375CD0B289066A2016C87F0",
+   "ts_ms": 1756613193474,
+   "ts_iso": "2025-08-31T04:06:33.474000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250830-WA0071.jpg",
+    "size": 60549,
+    "duration_s": 0,
+    "sha256_b64": "V1NGQeXsRk43e7HtZkZj/p31HAW0HC1PjwPZsPlZHnY=",
+    "media_name": "f0d03f3d-7153-481c-a5e2-61810aca968a.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1561828,
+   "key_id": "0A9A56814F6D8576C937D263DDAE37FB",
+   "ts_ms": 1756613204626,
+   "ts_iso": "2025-08-31T04:06:44.626000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola me interesa asistencia de viajero",
+   "starred": false
+  },
+  {
+   "id": 1561833,
+   "key_id": "A33D01DF7C30463690",
+   "ts_ms": 1756613223000,
+   "ts_iso": "2025-08-31T04:07:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Please click here:\nhttps://www.assistcard-usa.com/\nto continue your purchase. Thanks!",
+   "starred": false
+  },
+  {
+   "id": 1561835,
+   "key_id": "790D6B500B297B70095247B50F77D678",
+   "ts_ms": 1756613237262,
+   "ts_iso": "2025-08-31T04:07:17.262000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1571208,
+   "key_id": "AC2DE734A16D7750664003E129658774",
+   "ts_ms": 1757999631680,
+   "ts_iso": "2025-09-16T05:13:51.680000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1571217,
+   "key_id": "501D0F6282C29AFF2C",
+   "ts_ms": 1757999672000,
+   "ts_iso": "2025-09-16T05:14:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por favor, ingresa el número de identificación de la persona que necesita asistencia (ejemplo: número de DNI, RUT, Cédula de identidad, CPF, etc.).",
+   "starred": false
+  },
+  {
+   "id": 1571218,
+   "key_id": "AC77398893DF4B2E084902EDA528FA13",
+   "ts_ms": 1757999712552,
+   "ts_iso": "2025-09-16T05:15:12.552000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cédula de identidad 5897596",
+   "starred": false
+  },
+  {
+   "id": 1571219,
+   "key_id": "AB81893DA897444E14",
+   "ts_ms": 1757999715000,
+   "ts_iso": "2025-09-16T05:15:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ingrese su número de caso",
+   "starred": false
+  },
+  {
+   "id": 1571220,
+   "key_id": "ACB9B9E15B8552F7C6AEAA4BAE59CEBD",
+   "ts_ms": 1757999730108,
+   "ts_iso": "2025-09-16T05:15:30.108000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "00E9E00",
+   "starred": false
+  },
+  {
+   "id": 1571229,
+   "key_id": "CC79677E150AF17EAE",
+   "ts_ms": 1757999775000,
+   "ts_iso": "2025-09-16T05:16:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ingresa a la llamada haciendo clic en el siguiente enlace: https://my.assistcard.com/ACCallWifi?code=c7fa710b28",
+   "starred": false
+  }
+ ]
+}

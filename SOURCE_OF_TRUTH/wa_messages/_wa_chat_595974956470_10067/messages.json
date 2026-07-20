@@ -1,0 +1,44 @@
+{
+ "chat_id": 10067,
+ "slug": "_wa_chat_595974956470_10067",
+ "subject": null,
+ "jid_user": "595974956470",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595974956470@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1540961,
+   "key_id": "EBBD314B10FAEFA846944311D0DEAA69",
+   "ts_ms": 1753961883029,
+   "ts_iso": "2025-07-31T11:38:03.029000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Mia❤‍🔥 Fdo Zona Norte 24/(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1541039,
+   "key_id": "9ACB7CEC2FBE7F7F61363CE734899F50",
+   "ts_ms": 1753964083000,
+   "ts_iso": "2025-07-31T12:14:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202531/PTT-20250731-WA0031.opus",
+    "size": 7820,
+    "duration_s": 3,
+    "sha256_b64": "T/mInqG02LWD+Pc00D5wQMdN+VuPG5HwNo4Vi/t/LX0=",
+    "media_name": "PTT-20250731-WA0031.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

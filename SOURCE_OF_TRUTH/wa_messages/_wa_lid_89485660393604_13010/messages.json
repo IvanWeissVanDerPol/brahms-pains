@@ -1,0 +1,95 @@
+{
+ "chat_id": 13010,
+ "slug": "_wa_lid_89485660393604_13010",
+ "subject": null,
+ "jid_user": "89485660393604",
+ "jid_server": "lid",
+ "jid_raw": "89485660393604@lid",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1640518,
+   "key_id": "ACBA262F5827F593596D1443B83B85ED",
+   "ts_ms": 1767014523000,
+   "ts_iso": "2025-12-29T13:22:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1640519,
+   "key_id": "AC39D4712AA6A6E4FFFA74235DA2D180",
+   "ts_ms": 1767014526000,
+   "ts_iso": "2025-12-29T13:22:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De Agua Bes",
+   "starred": false
+  },
+  {
+   "id": 1640523,
+   "key_id": "ACC47EDEC9D1577D504C19332E34CF24",
+   "ts_ms": 1767014798000,
+   "ts_iso": "2025-12-29T13:26:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251229-WA0003.jpg",
+    "size": 210228,
+    "duration_s": 0,
+    "sha256_b64": "v9E2UfpEi0m/naK2l6CMjlu496ZVkC9nCb4d4V6poYA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1640525,
+   "key_id": "AC93569DF5E910294C3C88939FD4A00E",
+   "ts_ms": 1767014963092,
+   "ts_iso": "2025-12-29T13:29:23.092000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251229-WA0002.jpg",
+    "size": 79571,
+    "duration_s": 0,
+    "sha256_b64": "zEbthN3aXTFiD591UMB21Rm6992OLp8fkSbX28Xj8U8=",
+    "media_name": "8bd9e947-c201-4f94-8c34-70ab67abeba7.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1640551,
+   "key_id": "AC9DE51D4AFC9DAEA776FD48A51E8057",
+   "ts_ms": 1767016285276,
+   "ts_iso": "2025-12-29T13:51:25.276000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251229-WA0007.jpg",
+    "size": 90799,
+    "duration_s": 0,
+    "sha256_b64": "rxhH/JRuOWaotgZVsd8HdPX93F6K/mikQVxcsfnFf4I=",
+    "media_name": "a25db1f9-e7c7-4f60-80da-68680cbb41da.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

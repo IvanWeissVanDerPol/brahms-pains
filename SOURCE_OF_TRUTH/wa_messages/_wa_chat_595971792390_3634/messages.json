@@ -1,0 +1,24 @@
+{
+ "chat_id": 3634,
+ "slug": "_wa_chat_595971792390_3634",
+ "subject": null,
+ "jid_user": "595971792390",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971792390@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1116228,
+   "key_id": "6928DE8BDFD5FEC78C72DE22D4BF3A93",
+   "ts_ms": 1691283684893,
+   "ts_iso": "2023-08-06T01:01:24.893000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola profe lima\nLlegue con un pack de Heineken",
+   "starred": false
+  }
+ ]
+}

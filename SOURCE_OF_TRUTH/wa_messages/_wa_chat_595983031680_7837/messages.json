@@ -1,0 +1,145 @@
+{
+ "chat_id": 7837,
+ "slug": "_wa_chat_595983031680_7837",
+ "subject": null,
+ "jid_user": "595983031680",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983031680@s.whatsapp.net",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1339580,
+   "key_id": "893901A0AB7C953F5D8762857E4E45BE",
+   "ts_ms": 1723559003000,
+   "ts_iso": "2024-08-13T14:23:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola buenos días",
+   "starred": false
+  },
+  {
+   "id": 1339582,
+   "key_id": "7F9B88B1791AA8E5FB02AA8BADED3A12",
+   "ts_ms": 1723559113000,
+   "ts_iso": "2024-08-13T14:25:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te quería consultar algo",
+   "starred": false
+  },
+  {
+   "id": 1339583,
+   "key_id": "A0C4EDF1D7820E188397CB74316F33A9",
+   "ts_ms": 1723559129000,
+   "ts_iso": "2024-08-13T14:25:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo programación de un diseño",
+   "starred": false
+  },
+  {
+   "id": 1339584,
+   "key_id": "8B561810EA9AE5319F0D866C7949F040",
+   "ts_ms": 1723559138000,
+   "ts_iso": "2024-08-13T14:25:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Costo de impresión quiero saber",
+   "starred": false
+  },
+  {
+   "id": 1339585,
+   "key_id": "C11F82D98B660B7F099FD8ED08A20C8E",
+   "ts_ms": 1723559138000,
+   "ts_iso": "2024-08-13T14:25:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De esto sería",
+   "starred": false
+  },
+  {
+   "id": 1339614,
+   "key_id": "75F3C34CF7BF3278BE01533B1C0EBC3C",
+   "ts_ms": 1723560484261,
+   "ts_iso": "2024-08-13T14:48:04.261000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "?",
+   "starred": false
+  },
+  {
+   "id": 1339616,
+   "key_id": "05B1897B021301EC8E02A2B172A010EB",
+   "ts_ms": 1723560489913,
+   "ts_iso": "2024-08-13T14:48:09.913000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Querés imprimir en 3d?",
+   "starred": false
+  },
+  {
+   "id": 1339618,
+   "key_id": "D34FFD867C0A851147DF903F9370EFEC",
+   "ts_ms": 1723560518003,
+   "ts_iso": "2024-08-13T14:48:38.003000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sorry pero ya no me dedico a eso\n\nAntes vendía filamentos para impresora \n\nPero ya cerré el negocio",
+   "starred": false
+  },
+  {
+   "id": 1339623,
+   "key_id": "460657412803B2FFCA520F9C9F91C2D0",
+   "ts_ms": 1723560675000,
+   "ts_iso": "2024-08-13T14:51:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si",
+   "starred": false
+  },
+  {
+   "id": 1339624,
+   "key_id": "A3E23D1313BC451A0F224B0847EE20B7",
+   "ts_ms": 1723560677000,
+   "ts_iso": "2024-08-13T14:51:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Porfis",
+   "starred": false
+  },
+  {
+   "id": 1339625,
+   "key_id": "67515DD3B2277098E5D5530749921AD9",
+   "ts_ms": 1723560683000,
+   "ts_iso": "2024-08-13T14:51:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y algun contacto tenes ?",
+   "starred": false
+  },
+  {
+   "id": 1339638,
+   "key_id": "8EB05C3FA282092524E3BF5724134F30",
+   "ts_ms": 1723560794000,
+   "ts_iso": "2024-08-13T14:53:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mil gracias",
+   "starred": false
+  }
+ ]
+}

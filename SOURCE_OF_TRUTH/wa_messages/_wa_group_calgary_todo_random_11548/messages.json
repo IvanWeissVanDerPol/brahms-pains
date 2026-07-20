@@ -1,0 +1,44 @@
+{
+ "chat_id": 11548,
+ "slug": "_wa_group_calgary_todo_random_11548",
+ "subject": "Calgary Todo random",
+ "jid_user": "120363420303513271",
+ "jid_server": "g.us",
+ "jid_raw": "120363420303513271@g.us",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1559669,
+   "key_id": "CB3A51B9D58904FF8D33934CBA94E259",
+   "ts_ms": 1756268656119,
+   "ts_iso": "2025-08-27T04:24:16.119000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cosas random que podemos hacer un finde de chile en Canadá cuando estemos chileando hacer unos cuantos piers para para generar desarrollo",
+   "starred": false
+  },
+  {
+   "id": 1559670,
+   "key_id": "802E655F50FC720384DDF6C4685E503E",
+   "ts_ms": 1756268692270,
+   "ts_iso": "2025-08-27T04:24:52.270000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202535/PTT-20250826-WA0128.opus",
+    "size": 0,
+    "duration_s": 34,
+    "sha256_b64": "kH+ERqZ23b/IpPMTyPIOG1Q+EJp29U885MNW30CbiDY=",
+    "media_name": "a8f1077d28ed4d93adade6cb24a35eb8.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

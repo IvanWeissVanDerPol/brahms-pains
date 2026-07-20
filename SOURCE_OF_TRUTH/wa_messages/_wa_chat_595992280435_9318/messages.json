@@ -1,0 +1,110 @@
+{
+ "chat_id": 9318,
+ "slug": "_wa_chat_595992280435_9318",
+ "subject": null,
+ "jid_user": "595992280435",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992280435@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1396685,
+   "key_id": "3EB000589E1BAF930E5D18",
+   "ts_ms": 1732900225000,
+   "ts_iso": "2024-11-29T17:10:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": " SR, DENILSON LOPEZ, le saluda Maria Acosta, Asesora Comercial de Crédito,\n le estaba llamando para hacerle llegar nuestra propuesta de crédito que deseamos otorgarle una linea *Aprobado*\n,*Si gustaria estar interesado en volver acceder* Le comento también que contamos con el servicio de *Delivery en  Asuncion y Ciudades del Interior*\n, en caso que no pueda acercarse hasta la Sucursal\n\n*MANANA SABADO ESTAMOS ABRIENDO DE 0830 A 13:00 POR AGENDAMIENTO, GUSTARIA PASAR* \n",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "78Dr9ryjumPhUtj7kc85XklQX3gzUp68W2ciEWC6jxk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1396728,
+   "key_id": "3F573150A412096551EF",
+   "ts_ms": 1732900857000,
+   "ts_iso": "2024-11-29T17:20:57+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Oye, malditos hijos de puta de CREDIMARKET o como mierda se llamen! Cuntas veces tengo que deciros que metis vuestro puto \"crdito preaprobado\" por el culo y dejis de joderme? No tenis otra mierda que hacer? O vuestro miserable trabajo consiste en acosar a la gente con esas ofertas de mierda? A la mierda vuestro \"delivery\" y a la mierda vuestras putas promociones! No quiero saber una puta mierda de vosotros, est claro? Ni de \"Monica Recalde\" ni de ninguno de vuestros sucios agentes de estafa!",
+   "starred": false
+  },
+  {
+   "id": 1396731,
+   "key_id": "3F6BE7327AF405CF6D10",
+   "ts_ms": 1732900924000,
+   "ts_iso": "2024-11-29T17:22:04+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "eo un puto mensaje vuestro me dan ganas de reventar el telfono contra la pared. Os gusta molestar, eh? Pues a ver si os lo hacis mirar, porque al paso que vais os van a cagar a hostias cualquier da.",
+   "starred": false
+  },
+  {
+   "id": 1396732,
+   "key_id": "F51CA59A7B9745BA2BC977053BE6B72F",
+   "ts_ms": 1732900926000,
+   "ts_iso": "2024-11-29T17:22:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes! \nNo hacía falta una agresividad así.",
+   "starred": false
+  },
+  {
+   "id": 1396734,
+   "key_id": "94431CDE95C0DC805FC9D86605D14B4D",
+   "ts_ms": 1732900951000,
+   "ts_iso": "2024-11-29T17:22:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No sé preocupe le sacaremos definitivamente de la base de datos.",
+   "starred": false
+  },
+  {
+   "id": 1396735,
+   "key_id": "F25A58EB71737DA20268BF7D7C3607E4",
+   "ts_ms": 1732900960000,
+   "ts_iso": "2024-11-29T17:22:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por su atención !",
+   "starred": false
+  },
+  {
+   "id": 1396738,
+   "key_id": "3F002F854334F81AABBA",
+   "ts_ms": 1732900979000,
+   "ts_iso": "2024-11-29T17:22:59+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Oye, malditos hijos de puta de CREDIMARKET o como mierda se llamen! Cuntas veces tengo que deciros que metis vuestro puto \"crdito preaprobado\" por el culo y dejis de joderme? No tenis otra mierda que hacer? O vuestro miserable trabajo consiste en acosar a la gente con esas ofertas de mierda? A la mierda vuestro \"delivery\" y a la mierda vuestras putas promociones! No quiero saber una puta mierda de vosotros, est claro? Ni de \"Monica Recalde\" ni de ninguno de vuestros sucios agentes de estafa!",
+   "starred": false
+  },
+  {
+   "id": 1396740,
+   "key_id": "3F564210D12DA8F65077",
+   "ts_ms": 1732901002000,
+   "ts_iso": "2024-11-29T17:23:22+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "mos que ofrezcis por donde no da el sol. Ya basta, coo. A la mierda con vosotros!",
+   "starred": false
+  }
+ ]
+}

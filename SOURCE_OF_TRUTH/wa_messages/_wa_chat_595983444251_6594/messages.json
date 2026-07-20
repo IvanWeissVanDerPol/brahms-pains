@@ -1,0 +1,68 @@
+{
+ "chat_id": 6594,
+ "slug": "_wa_chat_595983444251_6594",
+ "subject": null,
+ "jid_user": "595983444251",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983444251@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1284318,
+   "key_id": "E20FD74A48D4A8941E851C51A821C462",
+   "ts_ms": 1715014783000,
+   "ts_iso": "2024-05-06T16:59:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal Iván? Como estás? Manuel cruz soy compañero de trabajo de Alexander, me comentó que vos podrías ayudarme estoy queriendo mandar a imprimir 3d unas figurillas para dnd no se si me podrías ayudar con eso 😅",
+   "starred": false
+  },
+  {
+   "id": 1284361,
+   "key_id": "9CED1C04874C597B7D",
+   "ts_ms": 1715024982000,
+   "ts_iso": "2024-05-06T19:49:42+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola\nuff\ny lgmt ahora esta rota la maquina \nuno de los servos tengo que cambiar \npero como hago de hobbi nomas la impre no le di aun el tiempo\n\nen ig de seguro hay gente que se dedica luego a hacer impression 3d \nal menos en py ya existe la comunidad \n\npara mandar a imprimir figuras para dnd\npodes buscar los archivos online \ny mandarle a la persona que encuentres que te pueda ofrecer los servicios de impression \n\ncon ultimate cura podes ver cuanto filamento va a usar y le podes preguntar cuanto esta el mentro de filamento o nose como venda el servicio jaja \n\nhttps://ultimaker.com/software/ultimaker-cura/\n\nhttps://www.thingiverse.com/",
+   "starred": false
+  },
+  {
+   "id": 1284362,
+   "key_id": "2E1212245A60D6F59E4B5ADB9D412D73",
+   "ts_ms": 1715025115000,
+   "ts_iso": "2024-05-06T19:51:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mil gracias!!! Si tenés algún impresor 3d en resina que me recomiendes sería genial!",
+   "starred": false
+  },
+  {
+   "id": 1284363,
+   "key_id": "6A115655248C871C14",
+   "ts_ms": 1715025249000,
+   "ts_iso": "2024-05-06T19:54:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "de resina no tengo :( \n\nnuestro viejo tiene \npero no creo que quiera usar la resina (cuesta conseguir)\ncapaz le interesa si le invitan a jugar? (que sander le invite?)",
+   "starred": false
+  },
+  {
+   "id": 1284364,
+   "key_id": "4FCCD350520C913454",
+   "ts_ms": 1715025287000,
+   "ts_iso": "2024-05-06T19:54:47+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "preguntale a amigos que tengas en FADA\n\ncreo que tenian ya labs con impresoras 3d y capaz tienen los de resina Tambien?",
+   "starred": false
+  }
+ ]
+}

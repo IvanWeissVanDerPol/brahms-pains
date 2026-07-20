@@ -1,0 +1,167 @@
+{
+ "chat_id": 10101,
+ "slug": "_wa_chat_18888317121_10101",
+ "subject": null,
+ "jid_user": "18888317121",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "18888317121@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1441754,
+   "key_id": "3FC8671188230A401A23",
+   "ts_ms": 1740762132000,
+   "ts_iso": "2025-02-28T17:02:12+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hi yeah",
+   "starred": false
+  },
+  {
+   "id": 1441755,
+   "key_id": "3F15F72087D9587686CA",
+   "ts_ms": 1740762142000,
+   "ts_iso": "2025-02-28T17:02:22+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "im ivan weoss  van der pol",
+   "starred": false
+  },
+  {
+   "id": 1441756,
+   "key_id": "BF989E6E63DF11F3FA",
+   "ts_ms": 1740762169000,
+   "ts_iso": "2025-02-28T17:02:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello Ivan, regarding your request for Sperm Freezing, Fertility Treatment in Argentina, unfortunately we do not offer the treatment in that location but I would like to offer Colombia. Would that work for you?",
+   "starred": false
+  },
+  {
+   "id": 1441758,
+   "key_id": "363B92C3E09007CE7A",
+   "ts_ms": 1740762209000,
+   "ts_iso": "2025-02-28T17:03:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.placidway.com/search-medical-centers/Sperm-Freezing+Fertility-Treatment/Colombia/1",
+   "starred": false
+  },
+  {
+   "id": 1441759,
+   "key_id": "3F6CE052983F66ACF6EE",
+   "ts_ms": 1740762238000,
+   "ts_iso": "2025-02-28T17:03:58+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "yeah i live in Paraguay\n\nand i would want to plan a trip around going to freeze sperm \n\nso on my return i get a vasectomy after the vacation",
+   "starred": false
+  },
+  {
+   "id": 1441760,
+   "key_id": "3F990218245AD13D201B",
+   "ts_ms": 1740762257000,
+   "ts_iso": "2025-02-28T17:04:17+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "what are the prices for Colombia?\nand how are the year plans?",
+   "starred": false
+  },
+  {
+   "id": 1441779,
+   "key_id": "D3ACC8B2A225D717E9",
+   "ts_ms": 1740766435000,
+   "ts_iso": "2025-02-28T18:13:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "In Colombia, this treatment costs around $800 including the first year of storage. The annual storage is around $300.",
+   "starred": false
+  },
+  {
+   "id": 1441780,
+   "key_id": "B326BC4BB546608C46",
+   "ts_ms": 1740766475000,
+   "ts_iso": "2025-02-28T18:14:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.placidway.com/profile/323310/Eugin-Colombia the clinic is located in Bogota, Colombia.",
+   "starred": false
+  },
+  {
+   "id": 1441869,
+   "key_id": "2C8C882DDBC23D3C69B51FCE8ADAB988",
+   "ts_ms": 1740776706570,
+   "ts_iso": "2025-02-28T21:05:06.570000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sounds perfect",
+   "starred": false
+  },
+  {
+   "id": 1441871,
+   "key_id": "45E69EE7D818EC96DBDEF3F8B59B8603",
+   "ts_ms": 1740776716767,
+   "ts_iso": "2025-02-28T21:05:16.767000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Should I just message them directly?",
+   "starred": false
+  },
+  {
+   "id": 1441891,
+   "key_id": "05FF72DB541111F4EF",
+   "ts_ms": 1740777202000,
+   "ts_iso": "2025-02-28T21:13:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "You can chat with them using the following link: https://www.placidway.com/c/patient/UGxhY2lkV2F5LXBhdGllbnRfMTU1MzI4LW1haW5zY3JlZW4= or call them to their phone number +1 720 902 7436 Ext: 26084# or we can schedule a consultation for next week.",
+   "starred": false
+  },
+  {
+   "id": 1441892,
+   "key_id": "A4DC7281AA7418FBB6",
+   "ts_ms": 1740777239000,
+   "ts_iso": "2025-02-28T21:13:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "When are you planning to travel?",
+   "starred": false
+  },
+  {
+   "id": 1442108,
+   "key_id": "0F17F69F176590AA746E2F49734D91AB",
+   "ts_ms": 1740848269188,
+   "ts_iso": "2025-03-01T16:57:49.188000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Probably after June",
+   "starred": false
+  },
+  {
+   "id": 1442109,
+   "key_id": "F66935048F4A9CAD279E79FC28F9C8D0",
+   "ts_ms": 1740848271861,
+   "ts_iso": "2025-03-01T16:57:51.861000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Or next year",
+   "starred": false
+  }
+ ]
+}

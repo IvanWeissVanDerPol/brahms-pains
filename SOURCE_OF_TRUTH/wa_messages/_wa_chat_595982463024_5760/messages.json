@@ -1,0 +1,57 @@
+{
+ "chat_id": 5760,
+ "slug": "_wa_chat_595982463024_5760",
+ "subject": null,
+ "jid_user": "595982463024",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982463024@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1251424,
+   "key_id": "E28AC1571BBB5B6EF4C1DE2D1CDF8E25",
+   "ts_ms": 1709650180146,
+   "ts_iso": "2024-03-05T14:49:40.146000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola hablamos recién por Facebook por la bici",
+   "starred": false
+  },
+  {
+   "id": 1251425,
+   "key_id": "F46BEA9A7EBC8849B6",
+   "ts_ms": 1709650219000,
+   "ts_iso": "2024-03-05T14:50:19+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "donde seria?\nque ajustes le faltan?\nonad aceitar un poco y calibrar las ruedas?",
+   "starred": false
+  },
+  {
+   "id": 1251437,
+   "key_id": "3A9A8382442F54B5EA5B",
+   "ts_ms": 1709651575000,
+   "ts_iso": "2024-03-05T15:12:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola ya se vendió",
+   "starred": false
+  },
+  {
+   "id": 1251519,
+   "key_id": "A4AACE903D26BA1D32B4F5C2A72B4C36",
+   "ts_ms": 1709657337620,
+   "ts_iso": "2024-03-05T16:48:57.620000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ah bueno \nSi vendes otra bici avisa \n\nEstoy buscando",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "chat_id": 3744,
+ "slug": "_wa_chat_595981210320_3744",
+ "subject": null,
+ "jid_user": "595981210320",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981210320@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1184771,
+   "key_id": "13E724987F88A3FACA",
+   "ts_ms": 1698155129000,
+   "ts_iso": "2023-10-24T13:45:29+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "xd",
+   "starred": false
+  },
+  {
+   "id": 1184772,
+   "key_id": "7449843E2E0179F63793BCEF0A90DD12",
+   "ts_ms": 1698155136494,
+   "ts_iso": "2023-10-24T13:45:36.494000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231024-WA0082.jpg",
+    "size": 118567,
+    "duration_s": 0,
+    "sha256_b64": "oi8LE/1JemD635vYUtHbd3JV1nWDyjMHSh87Y43F7Cw=",
+    "media_name": "e878e18d-9ddf-487f-9413-a9dab8e2fb07.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1184773,
+   "key_id": "3EB09864094BDC72707ECC",
+   "ts_ms": 1698155487000,
+   "ts_iso": "2023-10-24T13:51:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días",
+   "starred": false
+  },
+  {
+   "id": 1184774,
+   "key_id": "3EB080B75C10F570430460",
+   "ts_ms": 1698155489000,
+   "ts_iso": "2023-10-24T13:51:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "_Comprobante recibido con éxito, en proceso de verificación, en un siguiente e-mail le notificaremos sobre su aprobación._",
+   "starred": false
+  },
+  {
+   "id": 1184775,
+   "key_id": "3EB0C5B4AA0618A64F8283",
+   "ts_ms": 1698155512000,
+   "ts_iso": "2023-10-24T13:51:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me podría facilitar su numero de pedido por favor",
+   "starred": false
+  },
+  {
+   "id": 1184793,
+   "key_id": "3EB033516F5A79DAEB2BA0",
+   "ts_ms": 1698157161000,
+   "ts_iso": "2023-10-24T14:19:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "por favor podrías verificar caso haya reversado su transferencia, verifico que el número de cuenta se ingreso mal.",
+   "starred": false
+  },
+  {
+   "id": 1184796,
+   "key_id": "3EB02F12DED6E4EE502BB8",
+   "ts_ms": 1698157165000,
+   "ts_iso": "2023-10-24T14:19:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "uehNJC6F9D4BAJSgVqE5//HtRLmWQKfcPz840nJXkw8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1184834,
+   "key_id": "614F1A4E1FE428677B75E259C0A3828B",
+   "ts_ms": 1698158291998,
+   "ts_iso": "2023-10-24T14:38:11.998000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231024-WA0084.jpg",
+    "size": 117974,
+    "duration_s": 0,
+    "sha256_b64": "iZ1FHplHR7XrKPNrksW3pd/erZXfqrWVw368SeJpVzs=",
+    "media_name": "6e2468b3-59e6-4299-858f-8935eed3df76.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1184835,
+   "key_id": "3EB0AE2E56575F4ED9A632",
+   "ts_ms": 1698158608000,
+   "ts_iso": "2023-10-24T14:43:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "_Comprobante recibido con éxito, en proceso de verificación, en un siguiente e-mail le notificaremos sobre su aprobación._",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "chat_id": 5066,
+ "slug": "_wa_chat_34672986128_5066",
+ "subject": null,
+ "jid_user": "34672986128",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "34672986128@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1375590,
+   "key_id": "4941D7CC3157566E1029A93B459EAD75",
+   "ts_ms": 1729536430286,
+   "ts_iso": "2024-10-21T18:47:10.286000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Happy b day :)",
+   "starred": false
+  },
+  {
+   "id": 1375739,
+   "key_id": "3AAEBB100426589EC89A",
+   "ts_ms": 1729586693000,
+   "ts_iso": "2024-10-22T08:44:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias Ivan 🤍",
+   "starred": false
+  },
+  {
+   "id": 1595197,
+   "key_id": "AC704EF50E108E309B31EE94A6784C41",
+   "ts_ms": 1761077067880,
+   "ts_iso": "2025-10-21T20:04:27.880000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Happy birthday",
+   "starred": false
+  },
+  {
+   "id": 1595199,
+   "key_id": "AC2CBB9B0BA65646CFD51A5AF26B31C0",
+   "ts_ms": 1761077101729,
+   "ts_iso": "2025-10-21T20:05:01.729000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Alemán sexy para disfrutar con los ojos de regalo (? Jajajja",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251021-WA0049.jpg",
+    "size": 316660,
+    "duration_s": 0,
+    "sha256_b64": "cUM45LC+dD6O8DlVD+JIsXQSsNLD9uVmaapeG8Ma2eY=",
+    "media_name": "bc08c659-9111-4f20-aa50-0caaeb8322a1.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

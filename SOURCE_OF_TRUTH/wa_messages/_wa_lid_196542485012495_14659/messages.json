@@ -1,0 +1,287 @@
+{
+ "chat_id": 14659,
+ "slug": "_wa_lid_196542485012495_14659",
+ "subject": null,
+ "jid_user": "196542485012495",
+ "jid_server": "lid",
+ "jid_raw": "196542485012495@lid",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1735589,
+   "key_id": "AC08A5A2699EBF84F3F43F2DBE18CC35",
+   "ts_ms": 1774572384264,
+   "ts_iso": "2026-03-27T00:46:24.264000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nMe pasó tu número Olga",
+   "starred": false
+  },
+  {
+   "id": 1735591,
+   "key_id": "ACBBBE20394B4D10A50DCEEA6261F0B1",
+   "ts_ms": 1774572412520,
+   "ts_iso": "2026-03-27T00:46:52.520000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy Iván Weiss \n\nUn ingeniero informático que trabaja mucho con IA",
+   "starred": false
+  },
+  {
+   "id": 1735593,
+   "key_id": "AC857709C4B6F7AD52781F831DD256E5",
+   "ts_ms": 1774572463485,
+   "ts_iso": "2026-03-27T00:47:43.485000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "estoy haciendo una pag web para adoptar pets  que luego voy a integrar con paginas para veterinarias etc\n\nhttps://sunstein.cloud/petShelter/donate\n\nesta es la pag \n\ntodo el contenido es aun bullshit\nestoy desarrolando y agregando y dejando cool con mis IA",
+   "starred": false
+  },
+  {
+   "id": 1735595,
+   "key_id": "ACB19BF09A30DCD3BF02E423699EFDB0",
+   "ts_ms": 1774572546313,
+   "ts_iso": "2026-03-27T00:49:06.313000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por si te sirve / que cosas te serían nice agregar?\n\nTengo un plan corto actual de todo lo que le voy a hacer tener\n\nPero como no me dedico a cuidar de mascotas no sabría muy bien que es lo que sería útil para vos \n\nSi te sirve y te gusta feel free de mandarme tips y le agrego todo",
+   "starred": false
+  },
+  {
+   "id": 1735596,
+   "key_id": "AC38128EA3C2B2B7412E5886C580C62D",
+   "ts_ms": 1774572610877,
+   "ts_iso": "2026-03-27T00:50:10.877000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mi idea es preparar una página centralizada para que varios refugios puedan publicar y que sea organizado con veterinarios en ciertas zonas y todo las otras cosas que se pueden hacer si trabajan varios grupos juntos",
+   "starred": false
+  },
+  {
+   "id": 1735807,
+   "key_id": "3EB049E950B563AB0872D6",
+   "ts_ms": 1774621738000,
+   "ts_iso": "2026-03-27T14:28:58+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Website (Public)\n\nHomepage: https://sunstein.cloud/petShelter\nAnimals listing: https://sunstein.cloud/petShelter/animals\nDonate page: https://sunstein.cloud/petShelter/donate\nVolunteer: https://sunstein.cloud/petShelter/volunteer\nFoster: https://sunstein.cloud/petShelter/foster\nContact: https://sunstein.cloud/petShelter/contact\nAbout: https://sunstein.cloud/petShelter/about\n\nAdmin Panel\n\nLogin: https://sunstein.cloud/petShelter/admin/login\nDashboard: https://sunstein.cloud/petShelter/admin/dashboard\nAnimal management: https://sunstein.cloud/petShelter/admin/animals\nAdoption requests: https://sunstein.cloud/petShelter/admin/adoptions\nAdoption analytics: https://sunstein.cloud/petShelter/admin/adoptions/analytics\n\nAdmin Credentials\n\nEmail: admin@refugioanimal.org\nPassword: Refugio2026!Admin",
+   "starred": false
+  },
+  {
+   "id": 1735814,
+   "key_id": "A55859026E7011F70F6A83F6BFC1A8B2",
+   "ts_ms": 1774622007000,
+   "ts_iso": "2026-03-27T14:33:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa Ivan 🫶🏻 soy michi un gusto ahora estare mirando 🙏🏻",
+   "starred": false
+  },
+  {
+   "id": 1735815,
+   "key_id": "3EB0B1C1F54FA4C4C6CCFB",
+   "ts_ms": 1774622080000,
+   "ts_iso": "2026-03-27T14:34:40+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola \nsorry por spam \n\nte queria pasar nomas tambien el link para los administradores donde por ejemplo podrian los refugios ber mejor sus datos y editar cosas\n\nla pagina principal es para los que van a querer adoptar luego \nun gusto michi",
+   "starred": false
+  },
+  {
+   "id": 1735832,
+   "key_id": "A5239F8BAC3074186E0F0483C6014E0B",
+   "ts_ms": 1774623058000,
+   "ts_iso": "2026-03-27T14:50:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me encantaaa 💖 hace falta ser ong o también puede ser para rescatistas independientes?",
+   "starred": false
+  },
+  {
+   "id": 1735833,
+   "key_id": "A58E9A31EC79428E0BE61D5354B61436",
+   "ts_ms": 1774623077000,
+   "ts_iso": "2026-03-27T14:51:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es genial esto.. a mi me encantaría para armar catálogos de adopción como rescatista independiente",
+   "starred": false
+  },
+  {
+   "id": 1735837,
+   "key_id": "3EB014176276A93AE7DE08",
+   "ts_ms": 1774623193000,
+   "ts_iso": "2026-03-27T14:53:13+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "osea estoy haciendo todo de 0 ahora\npuedo adaptar a como te sea mejor\n\nidealmente cuando termine \ndeberia de ser una pagina donde puedan poner todos los rescatistas,vetes,ong, etc \ntodas las mascotas que buscan hogar\n\ny que los usuarios puedan filtrar facil en base a lo que buscan y en la informacion disponible\n\nonda gato de x color\n\no perro que es mayor que no tiene mas la familia recursos para tenerle \npero ya esta entrenado \no fully delmer",
+   "starred": false
+  },
+  {
+   "id": 1735840,
+   "key_id": "A56B6EBB5FC9294490C828ACB4B88839",
+   "ts_ms": 1774623341000,
+   "ts_iso": "2026-03-27T14:55:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202613/PTT-20260327-WA0006.opus",
+    "size": 217210,
+    "duration_s": 93,
+    "sha256_b64": "dP32A44GScXdBSHozZzu0uWDy6lYE8AfsXVhzARQNOA=",
+    "media_name": "PTT-20260327-WA0006.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1735842,
+   "key_id": "A51A85F773C21BCF197A69F6B7B6CB0F",
+   "ts_ms": 1774623467000,
+   "ts_iso": "2026-03-27T14:57:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202613/PTT-20260327-WA0007.opus",
+    "size": 146593,
+    "duration_s": 62,
+    "sha256_b64": "p16p1mLa+kTmWxvFTEnmZets5hp56eFa9cdMG+dAklQ=",
+    "media_name": "PTT-20260327-WA0007.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1735846,
+   "key_id": "A5BABE8D4116DF8E59323A94718F8CEA",
+   "ts_ms": 1774623771000,
+   "ts_iso": "2026-03-27T15:02:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202613/PTT-20260327-WA0009.opus",
+    "size": 209066,
+    "duration_s": 89,
+    "sha256_b64": "grWe7cr1xRvl+0gaPK1FDZraSXzB9FZqGFy/Ag+c9WY=",
+    "media_name": "PTT-20260327-WA0009.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1735848,
+   "key_id": "AC6D3215BD341A8943540AACB26EC475",
+   "ts_ms": 1774623795923,
+   "ts_iso": "2026-03-27T15:03:15.923000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ver de hacer catálogo por rescatista \n\nY organizar las donaciones para cada mascota \nAnotar cuanto se le donó a cada mascota/ rescatista / etc y métricas \n\n\nCuenta de las personas que van a adoptar \nQue pongan toda la información que tomas en cuenta para los requisitos que consideras",
+   "starred": false
+  },
+  {
+   "id": 1735850,
+   "key_id": "ACDB26C88D04942EE95053611C0B3E7B",
+   "ts_ms": 1774623862017,
+   "ts_iso": "2026-03-27T15:04:22.017000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yoooo\n\n\nHace unas 2 semanas me hice vasectomía \n\nJajaja \n\nDef mejor castrar todos jajaja",
+   "starred": false
+  },
+  {
+   "id": 1735851,
+   "key_id": "ACDA11CA4BCB9A4763F33B80E3E45DCC",
+   "ts_ms": 1774623900622,
+   "ts_iso": "2026-03-27T15:05:00.622000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202613/PTT-20260327-WA0010.opus",
+    "size": 0,
+    "duration_s": 32,
+    "sha256_b64": "HnlS9cLiqC1STqzXXZ9Ho+mGfKEm3iU1/dyiwpQLNlE=",
+    "media_name": "f0a1342fb3f34245a64a7a79c53f6dc4.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1735856,
+   "key_id": "A55E2CD4AB947FCB51AC989F97BE1D8F",
+   "ts_ms": 1774624352000,
+   "ts_iso": "2026-03-27T15:12:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202613/PTT-20260327-WA0012.opus",
+    "size": 104799,
+    "duration_s": 46,
+    "sha256_b64": "8X2q7nOR4pA5QIrVzVSsaMke+euIAvwBMkSrK8Z/pkM=",
+    "media_name": "PTT-20260327-WA0012.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1735857,
+   "key_id": "A52F87E6222322FEC801FEC9D3DBFD67",
+   "ts_ms": 1774624378000,
+   "ts_iso": "2026-03-27T15:12:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202613/PTT-20260327-WA0013.opus",
+    "size": 43895,
+    "duration_s": 19,
+    "sha256_b64": "MRLYumhPgYmla6PyQJiUyjC4vt1TY/kOs/Nv1bOHBFA=",
+    "media_name": "PTT-20260327-WA0013.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1735861,
+   "key_id": "AC16A44B778B11E4CA2426C02D3598D5",
+   "ts_ms": 1774624920192,
+   "ts_iso": "2026-03-27T15:22:00.192000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sii ree sería super útil",
+   "starred": false
+  }
+ ]
+}

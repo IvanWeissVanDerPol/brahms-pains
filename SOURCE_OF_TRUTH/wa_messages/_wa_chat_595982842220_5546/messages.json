@@ -1,0 +1,55 @@
+{
+ "chat_id": 5546,
+ "slug": "_wa_chat_595982842220_5546",
+ "subject": null,
+ "jid_user": "595982842220",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982842220@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1232767,
+   "key_id": "F858B9223861C2319E00E1F27E0C933C",
+   "ts_ms": 1707055691000,
+   "ts_iso": "2024-02-04T14:08:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": ".",
+   "starred": false
+  },
+  {
+   "id": 1232768,
+   "key_id": "A06FB389608C084A5E0B315A4A7C6476",
+   "ts_ms": 1707055702350,
+   "ts_iso": "2024-02-04T14:08:22.350000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jsnd",
+   "starred": false
+  },
+  {
+   "id": 1232769,
+   "key_id": "9DBEF7512650E269E9D6BB7650C684E0",
+   "ts_ms": 1707055710563,
+   "ts_iso": "2024-02-04T14:08:30.563000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240204-WA0013.jpg",
+    "size": 52490,
+    "duration_s": 0,
+    "sha256_b64": "/Ght3yCBulO/c28e3YxdN23ZE7n9P6DOZX2tRu3Wj34=",
+    "media_name": "778245ac-5c7a-4295-b706-e6c9b0890b83.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "chat_id": 9176,
+ "slug": "_wa_chat_595986493535_9176",
+ "subject": null,
+ "jid_user": "595986493535",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986493535@s.whatsapp.net",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1375410,
+   "key_id": "3EB0954CECC8989C0ADA54",
+   "ts_ms": 1729519335000,
+   "ts_iso": "2024-10-21T14:02:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buenas, consulta, es posible imprimir algo con textura asi como goma, no se si me explico como de carcasa de celular por fiera",
+   "starred": false
+  },
+  {
+   "id": 1375411,
+   "key_id": "3EB0D1B389EE0C632342D2",
+   "ts_ms": 1729519343000,
+   "ts_iso": "2024-10-21T14:02:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y de poderse, cuanto vale?",
+   "starred": false
+  },
+  {
+   "id": 1375437,
+   "key_id": "3FCEFE141EE26F95CDD7",
+   "ts_ms": 1729520829000,
+   "ts_iso": "2024-10-21T14:27:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "?",
+   "starred": false
+  },
+  {
+   "id": 1375439,
+   "key_id": "3FB216CEA7E07A904B29",
+   "ts_ms": 1729520837000,
+   "ts_iso": "2024-10-21T14:27:17+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no entiendo",
+   "starred": false
+  },
+  {
+   "id": 1375440,
+   "key_id": "3F7D678421D0C1CCD3F0",
+   "ts_ms": 1729520843000,
+   "ts_iso": "2024-10-21T14:27:23+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "queres algo para imprimir en 3d?",
+   "starred": false
+  },
+  {
+   "id": 1375441,
+   "key_id": "3EB070D4B665C59054B3B2",
+   "ts_ms": 1729520851000,
+   "ts_iso": "2024-10-21T14:27:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buenas, si sñr",
+   "starred": false
+  },
+  {
+   "id": 1375442,
+   "key_id": "3EB0FA749151DF6C5A9139",
+   "ts_ms": 1729520857000,
+   "ts_iso": "2024-10-21T14:27:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "le consulto por el material",
+   "starred": false
+  },
+  {
+   "id": 1375443,
+   "key_id": "3FBEAAEA9F386B539533",
+   "ts_ms": 1729520865000,
+   "ts_iso": "2024-10-21T14:27:45+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "si usas material Flex \ncapaz medio sirve",
+   "starred": false
+  },
+  {
+   "id": 1375444,
+   "key_id": "3EB0173843DF0A815980DB",
+   "ts_ms": 1729520883000,
+   "ts_iso": "2024-10-21T14:28:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ese cuanto esta el cm2?",
+   "starred": false
+  },
+  {
+   "id": 1375445,
+   "key_id": "3F1A6A62CA1BE0442F01",
+   "ts_ms": 1729520889000,
+   "ts_iso": "2024-10-21T14:28:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "pero en google o si le preguntas a Chat gpt te va a poder decir mejor",
+   "starred": false
+  },
+  {
+   "id": 1375446,
+   "key_id": "3EB0998E5D4933CCA440A6",
+   "ts_ms": 1729520899000,
+   "ts_iso": "2024-10-21T14:28:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ahh entiendo, gracias",
+   "starred": false
+  },
+  {
+   "id": 1375447,
+   "key_id": "3F780D2FAF18F30B913C",
+   "ts_ms": 1729520904000,
+   "ts_iso": "2024-10-21T14:28:24+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "yo no vendo filamentos",
+   "starred": false
+  },
+  {
+   "id": 1375448,
+   "key_id": "3F9CABBCE88479D1E316",
+   "ts_ms": 1729520915000,
+   "ts_iso": "2024-10-21T14:28:35+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "antes onda 2018 vendia",
+   "starred": false
+  },
+  {
+   "id": 1375449,
+   "key_id": "3EB0BC89283C749D8E7D68",
+   "ts_ms": 1729521039000,
+   "ts_iso": "2024-10-21T14:30:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ahh entiendo hermano, en material flex cuanto me costaria una plaquita hueca de 10x12x4cm con 0.3 cm de espesor?",
+   "starred": false
+  },
+  {
+   "id": 1375458,
+   "key_id": "3F4EC64E8688772A0319",
+   "ts_ms": 1729521305000,
+   "ts_iso": "2024-10-21T14:35:05+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "depende de la persona que te haga el trabajo \ncuanto cobre por elevctricidad \ncuanto cobra por material\ncuanto cobra por tiempo\netc",
+   "starred": false
+  },
+  {
+   "id": 1375586,
+   "key_id": "3EB05C739CDCE35A18BFD7",
+   "ts_ms": 1729534865000,
+   "ts_iso": "2024-10-21T18:21:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "entiendo mi hermano, muchas gracias, tenga buen resto de tarde",
+   "starred": false
+  }
+ ]
+}

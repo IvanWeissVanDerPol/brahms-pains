@@ -1,0 +1,35 @@
+{
+ "chat_id": 11849,
+ "slug": "_wa_chat_595983284564_11849",
+ "subject": null,
+ "jid_user": "595983284564",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983284564@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581445,
+   "key_id": "ACE803CDB1E02263E9CAD5298621760C",
+   "ts_ms": 1759637878909,
+   "ts_iso": "2025-10-05T04:17:58.909000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Luana  Joven compañia en(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1582899,
+   "key_id": "AC76083C38C0E788BED1ED0EB77E9399",
+   "ts_ms": 1759768162000,
+   "ts_iso": "2025-10-06T16:29:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola bb",
+   "starred": false
+  }
+ ]
+}

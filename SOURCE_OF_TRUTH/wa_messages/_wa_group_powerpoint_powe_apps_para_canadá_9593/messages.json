@@ -1,0 +1,119 @@
+{
+ "chat_id": 9593,
+ "slug": "_wa_group_powerpoint_powe_apps_para_canadá_9593",
+ "subject": "Powerpoint Powe apps para Canadá ",
+ "jid_user": "120363359518735389",
+ "jid_server": "g.us",
+ "jid_raw": "120363359518735389@g.us",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1402125,
+   "key_id": "2AF803392A8A74250225843122B4B6CA",
+   "ts_ms": 1733852571471,
+   "ts_iso": "2024-12-10T17:42:51.471000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtu.be/OwOWDXteakM",
+   "starred": false
+  },
+  {
+   "id": 1402126,
+   "key_id": "77B3407AA09EC54BD9331F1ACC3CA20E",
+   "ts_ms": 1733852594706,
+   "ts_iso": "2024-12-10T17:43:14.706000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Qué es",
+   "starred": false
+  },
+  {
+   "id": 1402127,
+   "key_id": "A28FB8FE00A1E6E37530C2666C819FD2",
+   "ts_ms": 1733852604745,
+   "ts_iso": "2024-12-10T17:43:24.745000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtu.be/2RzCbd5XgJg\n\nEjemplo.de como es usando",
+   "starred": false
+  },
+  {
+   "id": 1402128,
+   "key_id": "32F144F16313C52F6CAB85083FE4F0FF",
+   "ts_ms": 1733852763691,
+   "ts_iso": "2024-12-10T17:46:03.691000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202450/PTT-20241210-WA0033.opus",
+    "size": 0,
+    "duration_s": 154,
+    "sha256_b64": "hGCYab8A9zRtDjAFdG25h0igojypQDRG59ExjNEbzlo=",
+    "media_name": "0ac71a65c10d4a6b85a17f625b091888.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1402129,
+   "key_id": "C3B2C42DBE6AB2051CF7E2420C64EAEC",
+   "ts_ms": 1733852803000,
+   "ts_iso": "2024-12-10T17:46:43+00:00",
+   "from_me": false,
+   "sender_jid": "595985725366@s.whatsapp.net",
+   "type": 0,
+   "text": "I'll learn",
+   "starred": false
+  },
+  {
+   "id": 1402130,
+   "key_id": "3BE5AF24A01C97EF21AB5AD89B6733A5",
+   "ts_ms": 1733852807805,
+   "ts_iso": "2024-12-10T17:46:47.805000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202450/PTT-20241210-WA0034.opus",
+    "size": 0,
+    "duration_s": 42,
+    "sha256_b64": "cNBzgTp7tZ3628xO7M/HVOYTXGNHaf+srhbYmR889iU=",
+    "media_name": "0adee866418e4fdfbbd04404d0bba609.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1402131,
+   "key_id": "B2CE4B1452F2AD1041F0E0F4BFAEF0F7",
+   "ts_ms": 1733852829525,
+   "ts_iso": "2024-12-10T17:47:09.525000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y el gefe es cute uwuw",
+   "starred": false
+  },
+  {
+   "id": 1409505,
+   "key_id": "3AFF71C2EA7F3D2949C3",
+   "ts_ms": 1735049009000,
+   "ts_iso": "2024-12-24T14:03:29+00:00",
+   "from_me": false,
+   "sender_jid": "595991549029@s.whatsapp.net",
+   "type": 0,
+   "text": "I’ll learn",
+   "starred": false
+  }
+ ]
+}

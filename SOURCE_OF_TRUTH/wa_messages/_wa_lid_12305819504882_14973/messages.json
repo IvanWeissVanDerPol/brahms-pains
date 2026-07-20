@@ -1,0 +1,35 @@
+{
+ "chat_id": 14973,
+ "slug": "_wa_lid_12305819504882_14973",
+ "subject": null,
+ "jid_user": "12305819504882",
+ "jid_server": "lid",
+ "jid_raw": "12305819504882@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1754788,
+   "key_id": "3EB03B807CD8AEC2595C8A",
+   "ts_ms": 1776678298000,
+   "ts_iso": "2026-04-20T09:44:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, soy Sabela, tu account manager en Alibaba Cloud, y me encargo de gestionar tu cuenta \nweissvanderpol.ivan@gmail.com\nHemos observado que has estado utilizando nuestro modelo de IA, por lo que nos ponemos en contacto contigo. ¿Cómo ha sido tu experiencia? ¿Hay algo en lo que podamos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1758929,
+   "key_id": "3EB0953972BDBB9EBE1FA7",
+   "ts_ms": 1777255364000,
+   "ts_iso": "2026-04-27T02:02:44+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola en que me pueden ayudar?\nestoy oopen a usar cvarios modelos para mi startup\ny pruebo varios",
+   "starred": false
+  }
+ ]
+}

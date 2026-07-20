@@ -1,0 +1,46 @@
+{
+ "chat_id": 17023,
+ "slug": "_wa_lid_33101363314843_17023",
+ "subject": null,
+ "jid_user": "33101363314843",
+ "jid_server": "lid",
+ "jid_raw": "33101363314843@lid",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1825067,
+   "key_id": "3EB0D9DD8B01E194CDED0F",
+   "ts_ms": 1783445537000,
+   "ts_iso": "2026-07-07T17:32:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Grupo Odontología 3 - Milagros:*\nHola Iván😊\nTe escribe Milagros de Odontología 3.\nQueríamos agradecerte por habernos elegido y saber cómo te fue en tu primera consulta con la Dra. Gabriella.\nNos interesa mucho conocer tu experiencia, así podemos seguir mejorando cada detalle. 💜\nSi querés contarnos cómo te sentiste o si te quedó alguna duda o sugerencia, estamos para escucharte.",
+   "starred": false
+  },
+  {
+   "id": 1825068,
+   "key_id": "ACB3906B823D8E9E9E698DF4F1F6C5B5",
+   "ts_ms": 1783445566936,
+   "ts_iso": "2026-07-07T17:32:46.936000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Best doc es Gaby",
+   "starred": false
+  },
+  {
+   "id": 1825071,
+   "key_id": "3EB0D2EBF7DA10BA84EA7F",
+   "ts_ms": 1783446434000,
+   "ts_iso": "2026-07-07T17:47:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Grupo Odontología 3 - Milagros:*\n¡Qué bueno escuchar eso! 😊 Muchas gracias por tomarte el tiempo de darnos una respuesta.\nCuando gustes, por este medio podemos ayudarte a agendar tu próximo control o turno. Quedamos a las órdenes!",
+   "starred": false
+  }
+ ]
+}

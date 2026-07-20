@@ -1,0 +1,33 @@
+{
+ "chat_id": 5840,
+ "slug": "_wa_chat_595985476679_5840",
+ "subject": null,
+ "jid_user": "595985476679",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985476679@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1261596,
+   "key_id": "17F966E5D63CBEDED27A45970C7C4352",
+   "ts_ms": 1711132687000,
+   "ts_iso": "2024-03-22T18:38:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "_🏆 *TODO LO QUENECESITAS ESTA EN BRISTOL Y AL MEJOR PRECIO DEL PAIS*🏆_ \n\n🚚 Entrega a todo el país\n📲 Solicita conmigo\n💵 Sin entrega inicial\n💥 Pagas recién a los 30 días\n\n🔆 ~Buen resto de jornada~ 🔆",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240328-WA0038.jpg",
+    "size": 472777,
+    "duration_s": 0,
+    "sha256_b64": "OHn7rGbQHa33J+wWnhaTc/qyyJJha6tBBnFqItrehtQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

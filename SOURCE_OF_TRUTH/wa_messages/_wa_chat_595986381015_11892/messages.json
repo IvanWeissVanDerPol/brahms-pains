@@ -1,0 +1,57 @@
+{
+ "chat_id": 11892,
+ "slug": "_wa_chat_595986381015_11892",
+ "subject": null,
+ "jid_user": "595986381015",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986381015@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581409,
+   "key_id": "ACFC8B64FF87D861D728B4BDDAAD80D5",
+   "ts_ms": 1759636953445,
+   "ts_iso": "2025-10-05T04:02:33.445000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"🌺SERVICIOS 🌺COMPLETOS 🌺,(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1581411,
+   "key_id": "AC14B1AF63032B3CDF935BD45DB39653",
+   "ts_ms": 1759636973000,
+   "ts_iso": "2025-10-05T04:02:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola que servicio buscas 💕",
+   "starred": false
+  },
+  {
+   "id": 1581414,
+   "key_id": "AC4608A401EBAFF69806B781804CE135",
+   "ts_ms": 1759637050880,
+   "ts_iso": "2025-10-05T04:04:10.880000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sexo vaginal",
+   "starred": false
+  },
+  {
+   "id": 1581415,
+   "key_id": "AC691508C7C61CAED997FA8D47D7FC6E",
+   "ts_ms": 1759637054789,
+   "ts_iso": "2025-10-05T04:04:14.789000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con forro",
+   "starred": false
+  }
+ ]
+}

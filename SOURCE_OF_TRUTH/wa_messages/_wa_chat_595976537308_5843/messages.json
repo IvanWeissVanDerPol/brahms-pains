@@ -1,0 +1,24 @@
+{
+ "chat_id": 5843,
+ "slug": "_wa_chat_595976537308_5843",
+ "subject": null,
+ "jid_user": "595976537308",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976537308@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1262029,
+   "key_id": "9DCF0ACE5529328B95FE1D8489C5DE9C",
+   "ts_ms": 1711226971028,
+   "ts_iso": "2024-03-23T20:49:31.028000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola profe \nSoy Iván Weiss\nEstoy contigo en back end\n\nTe quería consultar cuándo saldría el TP o dónde puedo revisar si ya está \n\nMe gustaría empezar a trabajar ya en el TP si es posible",
+   "starred": false
+  }
+ ]
+}

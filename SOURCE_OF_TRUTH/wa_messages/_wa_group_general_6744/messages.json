@@ -1,0 +1,35 @@
+{
+ "chat_id": 6744,
+ "slug": "_wa_group_general_6744",
+ "subject": "General",
+ "jid_user": "120363306431422577",
+ "jid_server": "g.us",
+ "jid_raw": "120363306431422577@g.us",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1756839,
+   "key_id": "3EB0B034E235B95080B5E1",
+   "ts_ms": 1776974707000,
+   "ts_iso": "2026-04-23T20:05:07+00:00",
+   "from_me": false,
+   "sender_jid": "280749295034506@lid",
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1756847,
+   "key_id": "3EB0FEDD4A581B7BD54251",
+   "ts_ms": 1776976229000,
+   "ts_iso": "2026-04-23T20:30:29+00:00",
+   "from_me": false,
+   "sender_jid": "266734682525936@lid",
+   "type": 0,
+   "text": "Muchas Gracias :D",
+   "starred": false
+  }
+ ]
+}

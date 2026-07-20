@@ -1,0 +1,322 @@
+{
+ "chat_id": 4398,
+ "slug": "_wa_chat_595981611611_4398",
+ "subject": null,
+ "jid_user": "595981611611",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981611611@s.whatsapp.net",
+ "message_count": 24,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1221500,
+   "key_id": "5A828680A9528D5B00F01EE6A060699A",
+   "ts_ms": 1705183101181,
+   "ts_iso": "2024-01-13T21:58:21.181000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1221501,
+   "key_id": "A41A3F6C8EA2A266B4",
+   "ts_ms": 1705183105000,
+   "ts_iso": "2024-01-13T21:58:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bienvenido. Soy Liza el Asistente Virtual (Bot) de Tigo.",
+   "starred": false
+  },
+  {
+   "id": 1221503,
+   "key_id": "0EEC345112EAED8EB3",
+   "ts_ms": 1705183114000,
+   "ts_iso": "2024-01-13T21:58:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias por tu respuesta, si tuvieras alguna otra consulta estaré aquí para ayudarte.",
+   "starred": false
+  },
+  {
+   "id": 1221508,
+   "key_id": "782F28702FA7D8A19B",
+   "ts_ms": 1705183147000,
+   "ts_iso": "2024-01-13T21:59:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "📌Recordá que para Activar o Desactivar Roaming, debes ingresar al *611#, opción 3 y luego opción 1\n\nTe puedo ayudar con algunas preguntas frecuentes como:​\n \n🔁 Conocé como actualizar las ofertas/ubicación  https://b.tigo.com/py-aou\n🌎 Conocé todo sobre Roaming Tigo https://b.tigo.com/conoroaming_py\n🇺🇸 Roaming en Estados Unidos https://b.tigo.com/estadosroaming_py\n🗺️ Consultá tu plan, tarifas y cobertura https://b.tigo.com/coberoaming_py\n🆘 Inconvenientes en roaming https://b.tigo.com/wr-py",
+   "starred": false
+  },
+  {
+   "id": 1221512,
+   "key_id": "4658F1C69E8679C8AC",
+   "ts_ms": 1705183163000,
+   "ts_iso": "2024-01-13T21:59:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me apena leer eso. 😔 \r\n\r\nVoy a darte algunas soluciones para que podamos validar juntos.",
+   "starred": false
+  },
+  {
+   "id": 1221515,
+   "key_id": "167154186934DFDE55",
+   "ts_ms": 1705183170000,
+   "ts_iso": "2024-01-13T21:59:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bien. Revisa que *los datos móviles en tu equipo estén activos.*\r\n\r\n👆 Si están desactivados, actívalos.",
+   "starred": false
+  },
+  {
+   "id": 1221516,
+   "key_id": "1623B8C814C1FEFE18",
+   "ts_ms": 1705183174000,
+   "ts_iso": "2024-01-13T21:59:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240113-WA0012.jpg",
+    "size": 134520,
+    "duration_s": 0,
+    "sha256_b64": "/jCwun2fcGFMopiO2uHzCe4SWFk39UCjjX4PJh56CPI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1221519,
+   "key_id": "E9576D0338CF2C964C",
+   "ts_ms": 1705183179000,
+   "ts_iso": "2024-01-13T21:59:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Revisá en tu equipo que el punto de acceso (APN) Tigo Internet esté activo.",
+   "starred": false
+  },
+  {
+   "id": 1221520,
+   "key_id": "93A60FA3DEB43E3904",
+   "ts_ms": 1705183183000,
+   "ts_iso": "2024-01-13T21:59:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240113-WA0013.jpg",
+    "size": 173217,
+    "duration_s": 0,
+    "sha256_b64": "/ZHRwG2Zdh9xstYh+q8U1pqckagmnADLVCcNb45oXuM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1221523,
+   "key_id": "C868E00996036557A0",
+   "ts_ms": 1705183195000,
+   "ts_iso": "2024-01-13T21:59:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si tu equipo es de doble Sim y usas 2 SIM cards, verificá que hayas elegido *la SIM Tigo para el uso en datos móviles*.",
+   "starred": false
+  },
+  {
+   "id": 1221524,
+   "key_id": "AB41FF6CFB4A1CAE84",
+   "ts_ms": 1705183199000,
+   "ts_iso": "2024-01-13T21:59:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "R1SDEs876fqmk9wEOf5f/n3mZm9l2hY01BDjfOqRfEU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1221527,
+   "key_id": "5127DB10A661E99F92",
+   "ts_ms": 1705183206000,
+   "ts_iso": "2024-01-13T22:00:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por último, verificá la opción de _‘Configuración de aviso y límite de datos’_.",
+   "starred": false
+  },
+  {
+   "id": 1221528,
+   "key_id": "0FBD6834E17397408E",
+   "ts_ms": 1705183210000,
+   "ts_iso": "2024-01-13T22:00:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240113-WA0014.jpg",
+    "size": 198380,
+    "duration_s": 0,
+    "sha256_b64": "knJXSu9vE6TEDx6CG3IGAapOb+oLE/ymLPZyKR+F0XI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1221531,
+   "key_id": "204E616E5402320CD3",
+   "ts_ms": 1705183220000,
+   "ts_iso": "2024-01-13T22:00:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lamento no haber podido solucionar el inconveniente. 😔\r\n\r\nTe pondré en contacto con alguien de nuestro equipo técnico para que encuentre el origen del problema.",
+   "starred": false
+  },
+  {
+   "id": 1221548,
+   "key_id": "56C3070C858D3F0991",
+   "ts_ms": 1705187190000,
+   "ts_iso": "2024-01-13T23:06:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Un placer poder ayudarte.\r\n¡Hasta pronto! 👋",
+   "starred": false
+  },
+  {
+   "id": 1221549,
+   "key_id": "72EB0CE84CE7219827",
+   "ts_ms": 1705187190000,
+   "ts_iso": "2024-01-13T23:06:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Un placer poder ayudarte.\r\n¡Hasta pronto! 👋",
+   "starred": false
+  },
+  {
+   "id": 1254709,
+   "key_id": "F8B2D6EABDA6DC92632633616BCDC117",
+   "ts_ms": 1710183806376,
+   "ts_iso": "2024-03-11T19:03:26.376000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1254711,
+   "key_id": "0FB3680E1D1108AC924D2F21101BE98D",
+   "ts_ms": 1710183816758,
+   "ts_iso": "2024-03-11T19:03:36.758000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240311-WA0014.jpg",
+    "size": 50381,
+    "duration_s": 0,
+    "sha256_b64": "NRH9ejzD7wDccGdZWSKv87/SHSUB22tI9+Arr2WvkHw=",
+    "media_name": "e712b19b-4178-4978-95c0-5ef2ea4c02fb.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1254712,
+   "key_id": "DD293891A5B4223958",
+   "ts_ms": 1710183824000,
+   "ts_iso": "2024-03-11T19:03:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lo siento no puedo procesar imágenes, solo puedo leer textos. Escríbeme una frase corta con tu solicitud para ayudarte 🙌",
+   "starred": false
+  },
+  {
+   "id": 1254713,
+   "key_id": "FC5209C9D65BD38320B7B2941F3B474B",
+   "ts_ms": 1710183826231,
+   "ts_iso": "2024-03-11T19:03:46.231000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Como hago para ver mi info de factura en el app?",
+   "starred": false
+  },
+  {
+   "id": 1254739,
+   "key_id": "37FD8B1A6C739B244E",
+   "ts_ms": 1710184312000,
+   "ts_iso": "2024-03-11T19:11:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Esta es la información de tu 📱 595981324569*",
+   "starred": false
+  },
+  {
+   "id": 1254740,
+   "key_id": "9B3F5934F6EDB5C0B8",
+   "ts_ms": 1710184312000,
+   "ts_iso": "2024-03-11T19:11:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "⚠️ Tu línea 595981324569 tiene un monto pendiente de pago de *Gs* *208,000* \r\n\r\nTu plan se acredita el 07 de cada mes\r\n\r\nMirá los pasos para pagar tus facturas y otras formas de pago👉 https://b.tigo.com/hmyv-py",
+   "starred": false
+  },
+  {
+   "id": 1254741,
+   "key_id": "E0E6E6A82F911D08EC",
+   "ts_ms": 1710184313000,
+   "ts_iso": "2024-03-11T19:11:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "También puedes enviar la palabra *Menú* para volver al menú principal o *Inicio* para volver al inicio y cambiar el número ó servicio a consultar.",
+   "starred": false
+  },
+  {
+   "id": 1254824,
+   "key_id": "4A771BB3DF83A09BA0",
+   "ts_ms": 1710188322000,
+   "ts_iso": "2024-03-11T20:18:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me gustó nuestra charla. 😀\r\n\r\nTe invito a calificar *tu experiencia conmigo, el bot Liza.* 👩‍🦰\r\nTu respuesta a esta encuesta me ayudará a mejorar mis procesos 👉 https://b.tigo.com/nsxpwe40wc",
+   "starred": false
+  }
+ ]
+}

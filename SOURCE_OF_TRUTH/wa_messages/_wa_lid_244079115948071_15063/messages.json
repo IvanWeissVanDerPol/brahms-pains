@@ -1,0 +1,35 @@
+{
+ "chat_id": 15063,
+ "slug": "_wa_lid_244079115948071_15063",
+ "subject": null,
+ "jid_user": "244079115948071",
+ "jid_server": "lid",
+ "jid_raw": "244079115948071@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1763439,
+   "key_id": "AC8A1B4E167762A077E0E61E784BE3A1",
+   "ts_ms": 1777679604000,
+   "ts_iso": "2026-05-01T23:53:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola soy su rider",
+   "starred": false
+  },
+  {
+   "id": 1763440,
+   "key_id": "AC601DDB8F26893D0DC63658C5A04318",
+   "ts_ms": 1777679609000,
+   "ts_iso": "2026-05-01T23:53:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De pedidos ya llegue ala ubicación",
+   "starred": false
+  }
+ ]
+}

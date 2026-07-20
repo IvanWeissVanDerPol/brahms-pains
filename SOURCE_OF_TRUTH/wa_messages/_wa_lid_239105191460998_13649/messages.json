@@ -1,0 +1,77 @@
+{
+ "chat_id": 13649,
+ "slug": "_wa_lid_239105191460998_13649",
+ "subject": null,
+ "jid_user": "239105191460998",
+ "jid_server": "lid",
+ "jid_raw": "239105191460998@lid",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1710690,
+   "key_id": "3A58799940DF3B94C8CA",
+   "ts_ms": 1772737992000,
+   "ts_iso": "2026-03-05T19:13:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas señor , su vasectomia queda para el viernes 13 de marzo a las 10 hrs en la clínica de san lorenzo",
+   "starred": false
+  },
+  {
+   "id": 1710691,
+   "key_id": "ACB014EA053D0506F7092C78A4D335BA",
+   "ts_ms": 1772738006189,
+   "ts_iso": "2026-03-05T19:13:26.189000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias<3",
+   "starred": false
+  },
+  {
+   "id": 1730873,
+   "key_id": "AC70897F4C9756A22369802E3D4298D6",
+   "ts_ms": 1774165372495,
+   "ts_iso": "2026-03-22T07:42:52.495000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola doc \nPara asegurar nomás \n\nEsta chill si tiene unos bultos cerca de donde fue el agujero?",
+   "starred": false
+  },
+  {
+   "id": 1730874,
+   "key_id": "AC22EDB9992A1EA1C66FD7B3D4A0176B",
+   "ts_ms": 1774165418370,
+   "ts_iso": "2026-03-22T07:43:38.370000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 3,
+   "text": "Del otro lado hay también uno similar",
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Sent/VID-20260322-WA0006.mp4",
+    "size": 2929344,
+    "duration_s": 13,
+    "sha256_b64": "mjJRg6E21x1T8XBkTr9b3bs/0uUMdEZ3yplxww3B8nQ=",
+    "media_name": "6f7f365f-3ace-4138-a6d8-c697900b1b32.mp4",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1730875,
+   "key_id": "ACEA7828C1AB268C9F135880EE6FEB9C",
+   "ts_ms": 1774165427072,
+   "ts_iso": "2026-03-22T07:43:47.072000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sorry for the balls vid (? Jajajja",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "chat_id": 14015,
+ "slug": "_wa_lid_79062059982857_14015",
+ "subject": null,
+ "jid_user": "79062059982857",
+ "jid_server": "lid",
+ "jid_raw": "79062059982857@lid",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1727751,
+   "key_id": "AC09C5DFAF6000F31837AFC1D1E14B38",
+   "ts_ms": 1774003612000,
+   "ts_iso": "2026-03-20T10:46:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello",
+   "starred": false
+  },
+  {
+   "id": 1727752,
+   "key_id": "ACABC7E58E5D31E8FB8CA3B2D4355CFE",
+   "ts_ms": 1774003622354,
+   "ts_iso": "2026-03-20T10:47:02.354000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello",
+   "starred": false
+  },
+  {
+   "id": 1727753,
+   "key_id": "ACD48F3B1880B9E1C8CC32D83A035F48",
+   "ts_ms": 1774003638000,
+   "ts_iso": "2026-03-20T10:47:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "How're you doing?\nI'm doing ai and agentic stuff",
+   "starred": false
+  },
+  {
+   "id": 1727755,
+   "key_id": "3EB05EB48DD75577061AB8",
+   "ts_ms": 1774003813000,
+   "ts_iso": "2026-03-20T10:50:13+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "nice to meet you \nim Ivan Weiss \n\nim doing fine \ngetting more and more into AI \ni have some projects that i worked on before using claud code opencode and antigravity \nbut im shifting more to agentic flow\n\nim trying to setup in hostinger vps  openclaw with some free keys \nim paying for openai pro kimi allegreto but havving some issues connecting them \nalso setuped qwen in local ollama to include in the vps \n\nbut im allways having issues with openclaw not working as nicly and as continuosly as in the guides i see online",
+   "starred": false
+  },
+  {
+   "id": 1727773,
+   "key_id": "ACAD1CCBE3E22D0C0D3184E5247338AB",
+   "ts_ms": 1774005023000,
+   "ts_iso": "2026-03-20T11:10:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Oh ok i get you",
+   "starred": false
+  },
+  {
+   "id": 1727774,
+   "key_id": "AC463B13D25F489F91171201EEE88288",
+   "ts_ms": 1774005033000,
+   "ts_iso": "2026-03-20T11:10:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nice to meet you to Ivan",
+   "starred": false
+  },
+  {
+   "id": 1727776,
+   "key_id": "ACA70D82DDA1624FDABD9E2CF85E5D91",
+   "ts_ms": 1774005043000,
+   "ts_iso": "2026-03-20T11:10:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I'm Cecilia Benitez",
+   "starred": false
+  },
+  {
+   "id": 1727789,
+   "key_id": "3EB08354C2B64C2408C357",
+   "ts_ms": 1774005186000,
+   "ts_iso": "2026-03-20T11:13:06+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "lovely meeting you cecilia \n\nhave you had any success seting up openclaw ?",
+   "starred": false
+  },
+  {
+   "id": 1728047,
+   "key_id": "ACF3CCDD7252AF8F5DB0D5DBA2763137",
+   "ts_ms": 1774015740000,
+   "ts_iso": "2026-03-20T14:09:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yes",
+   "starred": false
+  },
+  {
+   "id": 1728048,
+   "key_id": "ACDFB1C79FF10DDB41A5975F5AA74CAB",
+   "ts_ms": 1774015763000,
+   "ts_iso": "2026-03-20T14:09:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hey my apologies\nI was working on a client \nAnd couldn't reply you right away",
+   "starred": false
+  },
+  {
+   "id": 1728053,
+   "key_id": "3EB0C8373EA611E83E0E29",
+   "ts_ms": 1774016139000,
+   "ts_iso": "2026-03-20T14:15:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no worries n,n \nhope the client meeting went well",
+   "starred": false
+  },
+  {
+   "id": 1728178,
+   "key_id": "AC660A17D401DC5109C8F7CFAF32D1BE",
+   "ts_ms": 1774024498000,
+   "ts_iso": "2026-03-20T16:34:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I will have time around 4:30pm or so\nDo you have time for a short and quick meeting?",
+   "starred": false
+  },
+  {
+   "id": 1728432,
+   "key_id": "ACE61BBEB65DA8EE9EA0F280016B901C",
+   "ts_ms": 1774038741690,
+   "ts_iso": "2026-03-20T20:32:21.690000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi sorry got stuck In calls also \n\nBut I would love a quick meeting whenever you have time",
+   "starred": false
+  }
+ ]
+}

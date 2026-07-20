@@ -1,0 +1,134 @@
+{
+ "chat_id": 1869,
+ "slug": "_wa_chat_595992205268_1869",
+ "subject": null,
+ "jid_user": "595992205268",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992205268@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 960284,
+   "key_id": "EE97711A63CF7630CACEA1CFA9690BF9",
+   "ts_ms": 1662376582271,
+   "ts_iso": "2022-09-05T11:16:22.271000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días \nQue tal?\nMe llamo Iván Weiss\nQuisiera consultar cómo es para poder cultivar",
+   "starred": false
+  },
+  {
+   "id": 960285,
+   "key_id": "5B372DDB1F1F4D46FFF5341235EEAD82",
+   "ts_ms": 1662376587000,
+   "ts_iso": "2022-09-05T11:16:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por contactarnos\nMamá Cultiva Paraguay es una Organización que está vinculada a Mamá Cultiva Chile  y Fundación Daya, promovemos el uso del aceite de Cannabis Medicinal.\nNO SOMOS PROVEEDORES, orientamos y ayudamos a los miembros de la organización, con charlas y talleres.\nSi desea ser miembro o voluntario, solicite el formulario correspondiente.\n Estamos para ayudar, solo que debemos tener precauciones por el bienestar de todos.🌱",
+   "starred": false
+  },
+  {
+   "id": 960286,
+   "key_id": "4DB69C3C28B98BEE60C892E3B0EB2958",
+   "ts_ms": 1662376587000,
+   "ts_iso": "2022-09-05T11:16:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con SECRETARIA de Mamá Cultiva Py. Nuestros horarios de atención son de Lunes a viernes de 08:00 a 12:00 hs y de 15:00 a 18:00hs.",
+   "starred": false
+  },
+  {
+   "id": 960287,
+   "key_id": "A8ECD699FEDD326012EAEF34FADB90C0",
+   "ts_ms": 1662376982000,
+   "ts_iso": "2022-09-05T11:23:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día",
+   "starred": false
+  },
+  {
+   "id": 960288,
+   "key_id": "E5AD06636CC18A5C7054812723319D72",
+   "ts_ms": 1662377123000,
+   "ts_iso": "2022-09-05T11:25:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La ley no permite aún el autocultivo, si eres un paciente que necesita la medicina y decides cultivar sería lbajo tu responsabilidad y con conocimiento de la ley.",
+   "starred": false
+  },
+  {
+   "id": 960289,
+   "key_id": "D6C69060DB4F2C51A3A783D9CB32C519",
+   "ts_ms": 1662377132000,
+   "ts_iso": "2022-09-05T11:25:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nosotros lo asesoramos",
+   "starred": false
+  },
+  {
+   "id": 960290,
+   "key_id": "09541E997828BF57617031289012E518",
+   "ts_ms": 1662377881774,
+   "ts_iso": "2022-09-05T11:38:01.774000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que leyes debería conocer ?",
+   "starred": false
+  },
+  {
+   "id": 960299,
+   "key_id": "1D717D4FCF5EB5C514C1B775CB6F0CAF",
+   "ts_ms": 1662381541000,
+   "ts_iso": "2022-09-05T12:39:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La 1340/88 es la ley de drogas, la 6007/17 la ley de cannabis medicinal, estamos luchando para cambiarlas",
+   "starred": false
+  },
+  {
+   "id": 960300,
+   "key_id": "6481D96C5966A99FC220C4D7DC7C323E",
+   "ts_ms": 1662381596000,
+   "ts_iso": "2022-09-05T12:39:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuál es la enfermedad que padece?",
+   "starred": false
+  },
+  {
+   "id": 960320,
+   "key_id": "D51232F0D8D4EF6CC7F4C4629A8B2C24",
+   "ts_ms": 1662383744762,
+   "ts_iso": "2022-09-05T13:15:44.762000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No tengo ninguna enfermedad\nPero se de sus usos y suelo preparar para mis padres que tienen dolores \n\nY quiero darles una planta y mostrarles como hacer las cosas con videos de YouTube\n\n\nPero como tenemos miedo de que la Senad o algo así nos hagan drama no les planté nada aún",
+   "starred": false
+  },
+  {
+   "id": 960326,
+   "key_id": "21FB09147BA0D0949DC42E510ACF6FE7",
+   "ts_ms": 1662386037092,
+   "ts_iso": "2022-09-05T13:53:57.092000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy a googlear gracias",
+   "starred": false
+  }
+ ]
+}

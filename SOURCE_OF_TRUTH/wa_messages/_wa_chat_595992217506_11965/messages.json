@@ -1,0 +1,198 @@
+{
+ "chat_id": 11965,
+ "slug": "_wa_chat_595992217506_11965",
+ "subject": null,
+ "jid_user": "595992217506",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992217506@s.whatsapp.net",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1787234,
+   "key_id": "AC1DCBA76101A52ECC4AE0538946B764",
+   "ts_ms": 1779890589902,
+   "ts_iso": "2026-05-27T14:03:09.902000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1787235,
+   "key_id": "AC43B4C97024D9D399F0EAFC155CC63C",
+   "ts_ms": 1779890594080,
+   "ts_iso": "2026-05-27T14:03:14.080000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy solo",
+   "starred": false
+  },
+  {
+   "id": 1787236,
+   "key_id": "ACB760D0F3DA76A922EB4F8399285449",
+   "ts_ms": 1779890598178,
+   "ts_iso": "2026-05-27T14:03:18.178000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De 25",
+   "starred": false
+  },
+  {
+   "id": 1787237,
+   "key_id": "AC342462BD965561FFEEE91CCACF5E5F",
+   "ts_ms": 1779890612373,
+   "ts_iso": "2026-05-27T14:03:32.373000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy a así en un rato pero soy de sanlo",
+   "starred": false
+  },
+  {
+   "id": 1787303,
+   "key_id": "A50417D2E60F3AE7151424DE525AFD85",
+   "ts_ms": 1779912935000,
+   "ts_iso": "2026-05-27T20:15:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola quetal le puedo agendar",
+   "starred": false
+  },
+  {
+   "id": 1787304,
+   "key_id": "A59134D3395D2DC2D5FCDAAB0124DFD3",
+   "ts_ms": 1779912948000,
+   "ts_iso": "2026-05-27T20:15:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aserrato conseguimos por esa razón no le respondi más",
+   "starred": false
+  },
+  {
+   "id": 1787305,
+   "key_id": "ACE328E267D54E863B816032AD1D3062",
+   "ts_ms": 1779912957607,
+   "ts_iso": "2026-05-27T20:15:57.607000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sucede tranki jsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1787306,
+   "key_id": "A5E073EE66E8C0C700320987F0FD525F",
+   "ts_ms": 1779912960000,
+   "ts_iso": "2026-05-27T20:16:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Usted el del perfil pregunta ella",
+   "starred": false
+  },
+  {
+   "id": 1787307,
+   "key_id": "AC8BE452173096E588C6B3F478BE5620",
+   "ts_ms": 1779912965165,
+   "ts_iso": "2026-05-27T20:16:05.165000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si",
+   "starred": false
+  },
+  {
+   "id": 1787308,
+   "key_id": "AC19F55B72EEBC0BD523ACF9F50A2427",
+   "ts_ms": 1779913026102,
+   "ts_iso": "2026-05-27T20:17:06.102000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260527-WA0039.jpg",
+    "size": 120847,
+    "duration_s": 0,
+    "sha256_b64": "Aqz3S+aNok5TePOu+5Z/yWn7UNHsZk6bcbSO9I2STNo=",
+    "media_name": "22861e4e-ce90-459a-887b-0e0d0406fb5c.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1787309,
+   "key_id": "AC92CD9E91FBB2BD87E254517729C9FA",
+   "ts_ms": 1779913031512,
+   "ts_iso": "2026-05-27T20:17:11.512000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo",
+   "starred": false
+  },
+  {
+   "id": 1787310,
+   "key_id": "ACAB130AD7F0E2828182E64AA523A010",
+   "ts_ms": 1779913033262,
+   "ts_iso": "2026-05-27T20:17:13.262000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ksjsjjs",
+   "starred": false
+  },
+  {
+   "id": 1787311,
+   "key_id": "A506CE712972B1135B9A43827E73ABD7",
+   "ts_ms": 1779913034000,
+   "ts_iso": "2026-05-27T20:17:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le puedo pasar su número pv si quiere convencer mejor con ara este número solo para el grupo usamos no a todo s le pasamos nuestro número pv",
+   "starred": false
+  },
+  {
+   "id": 1787312,
+   "key_id": "ACB9A32C265B1F43A19779C823CAB065",
+   "ts_ms": 1779913056740,
+   "ts_iso": "2026-05-27T20:17:36.740000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok \nPásame nomás y me presento",
+   "starred": false
+  },
+  {
+   "id": 1787313,
+   "key_id": "ACDE80E6037F2E024D84EE3D8C21FDEE",
+   "ts_ms": 1779913058254,
+   "ts_iso": "2026-05-27T20:17:38.254000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "n.n",
+   "starred": false
+  },
+  {
+   "id": 1787317,
+   "key_id": "A57084A7F90F2216C51E85560F2EC909",
+   "ts_ms": 1779913137000,
+   "ts_iso": "2026-05-27T20:18:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ara 0974128393",
+   "starred": false
+  }
+ ]
+}

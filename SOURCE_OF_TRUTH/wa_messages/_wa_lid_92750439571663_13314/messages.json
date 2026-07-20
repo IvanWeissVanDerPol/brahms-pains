@@ -1,0 +1,134 @@
+{
+ "chat_id": 13314,
+ "slug": "_wa_lid_92750439571663_13314",
+ "subject": null,
+ "jid_user": "92750439571663",
+ "jid_server": "lid",
+ "jid_raw": "92750439571663@lid",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1674096,
+   "key_id": "A56AB344130F90BE1758A7BD3CDF0706",
+   "ts_ms": 1770061302000,
+   "ts_iso": "2026-02-02T19:41:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1674098,
+   "key_id": "A5BE2E335E1BBFE8246D5E92507CC8FC",
+   "ts_ms": 1770061314000,
+   "ts_iso": "2026-02-02T19:41:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A qué hora es el taller de IA",
+   "starred": false
+  },
+  {
+   "id": 1674099,
+   "key_id": "3EB063C666FA8D0F903CE8",
+   "ts_ms": 1770061324000,
+   "ts_iso": "2026-02-02T19:42:04+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola\nes de 18-20",
+   "starred": false
+  },
+  {
+   "id": 1674102,
+   "key_id": "3EB0C3561BD6C1CF1A06A8",
+   "ts_ms": 1770061388000,
+   "ts_iso": "2026-02-02T19:43:08+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ahi mande en el grupo \ngracias por recordar de mandar la info again :)",
+   "starred": false
+  },
+  {
+   "id": 1674104,
+   "key_id": "A5243BB8912F3B24782567660C735A6B",
+   "ts_ms": 1770061516000,
+   "ts_iso": "2026-02-02T19:45:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale dale",
+   "starred": false
+  },
+  {
+   "id": 1674196,
+   "key_id": "A525C981121AA24EF5CD078DEDFF8158",
+   "ts_ms": 1770066206000,
+   "ts_iso": "2026-02-02T21:03:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Se graban las clases?",
+   "starred": false
+  },
+  {
+   "id": 1674197,
+   "key_id": "3EB09000060B0D16CA6CEF",
+   "ts_ms": 1770066214000,
+   "ts_iso": "2026-02-02T21:03:34+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "deberian de ser grabadas",
+   "starred": false
+  },
+  {
+   "id": 1674198,
+   "key_id": "A5F111B57077B828A62711D1025B0668",
+   "ts_ms": 1770066218000,
+   "ts_iso": "2026-02-02T21:03:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Porque ahora mismo no puedo entrar",
+   "starred": false
+  },
+  {
+   "id": 1674199,
+   "key_id": "3EB0C35E8511E399C2CE28",
+   "ts_ms": 1770066220000,
+   "ts_iso": "2026-02-02T21:03:40+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "igual lit podes leer nomas el repo",
+   "starred": false
+  },
+  {
+   "id": 1674200,
+   "key_id": "A5C33D383D77294537B4EFAFEFD9FBC5",
+   "ts_ms": 1770066222000,
+   "ts_iso": "2026-02-02T21:03:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mañana ya si o si",
+   "starred": false
+  },
+  {
+   "id": 1674201,
+   "key_id": "A51E72DA4E1850685918BA87BC832221",
+   "ts_ms": 1770066233000,
+   "ts_iso": "2026-02-02T21:03:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale",
+   "starred": false
+  }
+ ]
+}

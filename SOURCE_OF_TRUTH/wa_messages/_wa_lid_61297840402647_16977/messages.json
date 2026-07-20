@@ -1,0 +1,35 @@
+{
+ "chat_id": 16977,
+ "slug": "_wa_lid_61297840402647_16977",
+ "subject": null,
+ "jid_user": "61297840402647",
+ "jid_server": "lid",
+ "jid_raw": "61297840402647@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1819823,
+   "key_id": "A57C5FF02985DE5405378CFFEC8CA641",
+   "ts_ms": 1782930824000,
+   "ts_iso": "2026-07-01T18:33:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Odontología 3",
+   "starred": false
+  },
+  {
+   "id": 1819824,
+   "key_id": "AC20E35A14EFE48F0309E951071716CD",
+   "ts_ms": 1782930838129,
+   "ts_iso": "2026-07-01T18:33:58.129000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  }
+ ]
+}

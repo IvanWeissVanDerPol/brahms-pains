@@ -1,0 +1,263 @@
+{
+ "chat_id": 17148,
+ "slug": "_wa_lid_187763085328400_17148",
+ "subject": null,
+ "jid_user": "187763085328400",
+ "jid_server": "lid",
+ "jid_raw": "187763085328400@lid",
+ "message_count": 17,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1835561,
+   "key_id": "3A752F92FF0D43298CB1",
+   "ts_ms": 1784249010000,
+   "ts_iso": "2026-07-17T00:43:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, te escribo por el pedido de Isaac por la app de Monchis",
+   "starred": false
+  },
+  {
+   "id": 1835562,
+   "key_id": "3A8BCD41F78768C31C9D",
+   "ts_ms": 1784249025000,
+   "ts_iso": "2026-07-17T00:43:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20260716-WA0109.jpg",
+    "size": 139476,
+    "duration_s": 0,
+    "sha256_b64": "40F7ivXk1jVGSxioef3Wi4yU3sWgyvFYnjpj4UMfST0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1835563,
+   "key_id": "3A598C41E46CC542E95C",
+   "ts_ms": 1784249026000,
+   "ts_iso": "2026-07-17T00:43:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260716-WA0111.jpg",
+    "size": 806278,
+    "duration_s": 0,
+    "sha256_b64": "BPdaoWvT3WMHUQPNTMLUGTizRGhIc86wVdn27h0G8vA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1835566,
+   "key_id": "3AAFA82CE03A6CE2D898",
+   "ts_ms": 1784249034000,
+   "ts_iso": "2026-07-17T00:43:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20260716-WA0112.jpg",
+    "size": 168880,
+    "duration_s": 0,
+    "sha256_b64": "/T42Q1aNwy+mXsFDijZgY0ubfHYj0BAIRSVeoXYhROQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1835567,
+   "key_id": "3A3EC59D970F2B0E6EF4",
+   "ts_ms": 1784249035000,
+   "ts_iso": "2026-07-17T00:43:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260716-WA0114.jpg",
+    "size": 1131224,
+    "duration_s": 0,
+    "sha256_b64": "KkzDqsVthz78ugd7c3OejAjM3wdiVqbTaSFrZaXfc/M=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1835568,
+   "key_id": "3AF3F804DC95489D4859",
+   "ts_ms": 1784249044000,
+   "ts_iso": "2026-07-17T00:44:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estos tengo disponibles",
+   "starred": false
+  },
+  {
+   "id": 1835569,
+   "key_id": "AC1BA62787B378DAB542915151D74D8E",
+   "ts_ms": 1784249081542,
+   "ts_iso": "2026-07-17T00:44:41.542000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cherry",
+   "starred": false
+  },
+  {
+   "id": 1835570,
+   "key_id": "ACE408073948E3552B07777FA6865394",
+   "ts_ms": 1784249084577,
+   "ts_iso": "2026-07-17T00:44:44.577000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jau?",
+   "starred": false
+  },
+  {
+   "id": 1835571,
+   "key_id": "AC654DF029374C283B36A958F4F2934C",
+   "ts_ms": 1784249085863,
+   "ts_iso": "2026-07-17T00:44:45.863000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jsjsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1835572,
+   "key_id": "AC381E69E0897CD01C98645E9E701C10",
+   "ts_ms": 1784249087049,
+   "ts_iso": "2026-07-17T00:44:47.049000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1835573,
+   "key_id": "3AA942597F9BEA638B27",
+   "ts_ms": 1784249147000,
+   "ts_iso": "2026-07-17T00:45:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Estos dos Cherry tenemos",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260716-WA0115.jpg",
+    "size": 87627,
+    "duration_s": 0,
+    "sha256_b64": "4G30sVKqD0zRreGOILJdpJJs9AH/ZJY03HJIfnmqihU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1835574,
+   "key_id": "3AB7D7EE36CD7975E94C",
+   "ts_ms": 1784249148000,
+   "ts_iso": "2026-07-17T00:45:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Estos dos Cherry tenemos",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260716-WA0115.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "4G30sVKqD0zRreGOILJdpJJs9AH/ZJY03HJIfnmqihU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1835575,
+   "key_id": "3A642977C62FA810D856",
+   "ts_ms": 1784249149000,
+   "ts_iso": "2026-07-17T00:45:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Estos dos Cherry tenemos",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260716-WA0117.jpg",
+    "size": 662760,
+    "duration_s": 0,
+    "sha256_b64": "nkSHfWt3rZA72Z51fDz+Br7dkdlgxTcA3G43jQYH0BA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1835576,
+   "key_id": "ACB66047AD1F95952E7A5A56618EB616",
+   "ts_ms": 1784249159457,
+   "ts_iso": "2026-07-17T00:45:59.457000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El de Bubble gum",
+   "starred": false
+  },
+  {
+   "id": 1835577,
+   "key_id": "ACAE84C11AC597676D7DD482FB1BDB87",
+   "ts_ms": 1784249160717,
+   "ts_iso": "2026-07-17T00:46:00.717000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Porfa",
+   "starred": false
+  },
+  {
+   "id": 1835578,
+   "key_id": "AC1BF2689EB980582739DD4DD9FDEBF9",
+   "ts_ms": 1784249163391,
+   "ts_iso": "2026-07-17T00:46:03.391000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "<3",
+   "starred": false
+  },
+  {
+   "id": 1835579,
+   "key_id": "3A87F86A9FC2731280FD",
+   "ts_ms": 1784249196000,
+   "ts_iso": "2026-07-17T00:46:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te enviamos, gracias",
+   "starred": false
+  }
+ ]
+}

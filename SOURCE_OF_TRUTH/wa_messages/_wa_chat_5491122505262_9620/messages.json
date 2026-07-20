@@ -1,0 +1,211 @@
+{
+ "chat_id": 9620,
+ "slug": "_wa_chat_5491122505262_9620",
+ "subject": null,
+ "jid_user": "5491122505262",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "5491122505262@s.whatsapp.net",
+ "message_count": 18,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1405861,
+   "key_id": "3EB08E9902DB106D11BC1D",
+   "ts_ms": 1734539747000,
+   "ts_iso": "2024-12-18T16:35:47+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! Me contacto desde El Alquimista - Grower Things.Necesitaría más informacion acerca de Contactános.",
+   "starred": false
+  },
+  {
+   "id": 1405862,
+   "key_id": "5FEBE4DB1834741475F0D0C242786C9F",
+   "ts_ms": 1734539751000,
+   "ts_iso": "2024-12-18T16:35:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola como estas? Decime en que te puedo ayudar?\n\nEl Alquimista Colegiales",
+   "starred": false
+  },
+  {
+   "id": 1405863,
+   "key_id": "3EB07BE15B3E34545AF25C",
+   "ts_ms": 1734539790000,
+   "ts_iso": "2024-12-18T16:36:30+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hasta donde pueden hacer envios?\n\nvivo en paraguay y quiero comprar unas cuantas cosas",
+   "starred": false
+  },
+  {
+   "id": 1405864,
+   "key_id": "3EB0DE807FD163F57E0B30",
+   "ts_ms": 1734539830000,
+   "ts_iso": "2024-12-18T16:37:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola como estas?",
+   "starred": false
+  },
+  {
+   "id": 1405865,
+   "key_id": "3EB0347A20AF41AD517779",
+   "ts_ms": 1734539838000,
+   "ts_iso": "2024-12-18T16:37:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Envios a todo argentina",
+   "starred": false
+  },
+  {
+   "id": 1405866,
+   "key_id": "3EB01F76AF5F5CA7304D72",
+   "ts_ms": 1734539881000,
+   "ts_iso": "2024-12-18T16:38:01+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "se puede mandar a clorinda entonces y busco de ahi?",
+   "starred": false
+  },
+  {
+   "id": 1405867,
+   "key_id": "3EB011DA084CBFD2000D71",
+   "ts_ms": 1734539900000,
+   "ts_iso": "2024-12-18T16:38:20+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "cuanto costaria eso? :)",
+   "starred": false
+  },
+  {
+   "id": 1405868,
+   "key_id": "3EB00036BF55B1B672670D",
+   "ts_ms": 1734539911000,
+   "ts_iso": "2024-12-18T16:38:31+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "quiero 2 Vaporizador storz & bickel Volcano Classic",
+   "starred": false
+  },
+  {
+   "id": 1405869,
+   "key_id": "3EB007C2A290B001BCD30D",
+   "ts_ms": 1734539927000,
+   "ts_iso": "2024-12-18T16:38:47+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y estoy viendo que mas tienen \n:)",
+   "starred": false
+  },
+  {
+   "id": 1405870,
+   "key_id": "3EB071CE0F12B8BD22A930",
+   "ts_ms": 1734540021000,
+   "ts_iso": "2024-12-18T16:40:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y un Vaporizador storz & bickel mighty plus",
+   "starred": false
+  },
+  {
+   "id": 1405871,
+   "key_id": "3EB0A76F93E1A30E42A96D",
+   "ts_ms": 1734540031000,
+   "ts_iso": "2024-12-18T16:40:31+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://elalquimistagrow.com/producto/vaporizador-storz-bickel-mighty-plus/\n\nhttps://elalquimistagrow.com/producto/vaporizador-storz-bickel-volcano-classic/",
+   "starred": false
+  },
+  {
+   "id": 1405872,
+   "key_id": "3EB00EFC828D09DD0470E4",
+   "ts_ms": 1734540033000,
+   "ts_iso": "2024-12-18T16:40:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si, lo que podes hacer es comprar desde la web con el lugar de envio y te calcula el costo segun direccion y tamaño del envio",
+   "starred": false
+  },
+  {
+   "id": 1405873,
+   "key_id": "3EB08D1F5B21481B40E4BC",
+   "ts_ms": 1734540047000,
+   "ts_iso": "2024-12-18T16:40:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lo que es vapos, los traigo a pedido",
+   "starred": false
+  },
+  {
+   "id": 1405874,
+   "key_id": "3EB06D3484C3FCBF34D3CC",
+   "ts_ms": 1734540058000,
+   "ts_iso": "2024-12-18T16:40:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te paso el Whastapp de la web",
+   "starred": false
+  },
+  {
+   "id": 1405875,
+   "key_id": "3EB057F8D8546D46FEDCDB",
+   "ts_ms": 1734540064000,
+   "ts_iso": "2024-12-18T16:41:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "asi coordinas con el chico de la pagina",
+   "starred": false
+  },
+  {
+   "id": 1405876,
+   "key_id": "3EB0C455652805F10FB127",
+   "ts_ms": 1734540091000,
+   "ts_iso": "2024-12-18T16:41:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "+54 9 11 7366-0945",
+   "starred": false
+  },
+  {
+   "id": 1405878,
+   "key_id": "3FF0E082840F9F93AE86",
+   "ts_ms": 1734541911000,
+   "ts_iso": "2024-12-18T17:11:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "perfect le escribo",
+   "starred": false
+  },
+  {
+   "id": 1405879,
+   "key_id": "3F688B1CB260DEBFF05E",
+   "ts_ms": 1734541913000,
+   "ts_iso": "2024-12-18T17:11:53+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gracias",
+   "starred": false
+  }
+ ]
+}

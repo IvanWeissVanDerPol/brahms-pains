@@ -1,0 +1,44 @@
+{
+ "chat_id": 10884,
+ "slug": "_wa_chat_595987115574_10884",
+ "subject": null,
+ "jid_user": "595987115574",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595987115574@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1790356,
+   "key_id": "AC2FF30B99F9025A5293F2C153A20FE1",
+   "ts_ms": 1780429189266,
+   "ts_iso": "2026-06-02T19:39:49.266000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola soy solo de Fernando norte",
+   "starred": false
+  },
+  {
+   "id": 1790357,
+   "key_id": "AC571B4715BA481388323C4C18B81C64",
+   "ts_ms": 1780429192829,
+   "ts_iso": "2026-06-02T19:39:52.829000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260602-WA0012.jpg",
+    "size": 123785,
+    "duration_s": 0,
+    "sha256_b64": "gytmrCbMnI4TNYDmJ/pHrfC9bD6OPqcLcG9oSZ3fCCk=",
+    "media_name": "a696ecbf-ac6b-4564-a436-d2d6a53c6e2a.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

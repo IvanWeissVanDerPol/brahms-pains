@@ -1,0 +1,207 @@
+{
+ "chat_id": 5065,
+ "slug": "_wa_chat_595981606000_5065",
+ "subject": null,
+ "jid_user": "595981606000",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981606000@s.whatsapp.net",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1188843,
+   "key_id": "4178D3F6B925D03209AAE5667A05D2E6",
+   "ts_ms": 1698936146226,
+   "ts_iso": "2023-11-02T14:42:26.226000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1188844,
+   "key_id": "F9A4D13CA0D8B9356091C75EE7F693B5",
+   "ts_ms": 1698936147000,
+   "ts_iso": "2023-11-02T14:42:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*¡HOLAA!* 🥰\n Somos  *Bacon Burgers Zona VILLAMORRA🍔🍟* \n🕚 *Estamos de 11h a 23:45h*\n(Costo del delivery:15.000)\n\n*Para procesar tu pedido mucho más rápido, te pedimos que lo realices a través del siguiente  link!⚡👇* \nhttps://fiweex.com/delivery/baconespa%C3%B1a\n\nEs súper fácil! Y tenés todos nuestros nuevos productos disponibles 🤩🥰🍔.\n\n*SI YA LO HICISTE, AGUARDA EN LÍNEA, TE RESPONDEMOS LO MÁS RÁPIDO POSIBLE! 🥺💖*",
+   "starred": false
+  },
+  {
+   "id": 1188846,
+   "key_id": "7A866474A15BB90023B711CF3D2FA1C5",
+   "ts_ms": 1698936181947,
+   "ts_iso": "2023-11-02T14:43:01.947000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Euro guaya está 19500 verdad?",
+   "starred": false
+  },
+  {
+   "id": 1188847,
+   "key_id": "F7B316473E73B57459D66EE455BBE2EC",
+   "ts_ms": 1698936189000,
+   "ts_iso": "2023-11-02T14:43:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas 💖",
+   "starred": false
+  },
+  {
+   "id": 1188848,
+   "key_id": "47E5DBF62E2A15AF79D3259AFBBCD945",
+   "ts_ms": 1698936198000,
+   "ts_iso": "2023-11-02T14:43:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Podes ver nuestras promociones y realizar tu pedido a través de este link",
+   "starred": false
+  },
+  {
+   "id": 1188864,
+   "key_id": "F448FF9E786FA336CF5A8833B5D6AA8B",
+   "ts_ms": 1698936974825,
+   "ts_iso": "2023-11-02T14:56:14.825000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Pedí 1 vez pero me quedo 2 confirmaciónes :(",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231102-WA0011.jpg",
+    "size": 86102,
+    "duration_s": 0,
+    "sha256_b64": "6oT40fq6chrLN+pfUbqgErcF2aTpPYd17CDYbvMnD5U=",
+    "media_name": "d855d004-9c7f-499b-a546-de26dffca2f4.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1188865,
+   "key_id": "C80EC123936E92636F7B087FCFBDAC9B",
+   "ts_ms": 1698936998000,
+   "ts_iso": "2023-11-02T14:56:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te cancelamos uno?",
+   "starred": false
+  },
+  {
+   "id": 1188870,
+   "key_id": "CEADBB3B289A27B2A93709BA835D9969",
+   "ts_ms": 1698937023165,
+   "ts_iso": "2023-11-02T14:57:03.165000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Plz\n\nSolo 2 hamburguesas euroguaya quiero \nY en los 2 pedidos hay 2",
+   "starred": false
+  },
+  {
+   "id": 1188879,
+   "key_id": "2AB84249F7E19875B594E13D38C0E090",
+   "ts_ms": 1698938592241,
+   "ts_iso": "2023-11-02T15:23:12.241000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "A que hora llega?",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231102-WA0012.jpg",
+    "size": 65796,
+    "duration_s": 0,
+    "sha256_b64": "NbGE89EUW5Fj4+0fRaQtPliPoJCuWWB2LLSloVuOo14=",
+    "media_name": "a18cfac5-8110-48a0-9eed-031a22085b1e.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1188880,
+   "key_id": "2BA1FA39339B22BB89AFFF16BA2A18A9",
+   "ts_ms": 1698938611000,
+   "ts_iso": "2023-11-02T15:23:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "30 a 45 minutos aproximadamente",
+   "starred": false
+  },
+  {
+   "id": 1188881,
+   "key_id": "3373CEAE5AC1B6291F0AF9525CA02642",
+   "ts_ms": 1698938620590,
+   "ts_iso": "2023-11-02T15:23:40.590000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  },
+  {
+   "id": 1240231,
+   "key_id": "026324839E1013E150381AECA6FAFAFA",
+   "ts_ms": 1707957484322,
+   "ts_iso": "2024-02-15T00:38:04.322000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1240232,
+   "key_id": "D15D1370D409DF773299567F1307C39A",
+   "ts_ms": 1707957484000,
+   "ts_iso": "2024-02-15T00:38:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*¡HOLAA!* 🥰\n Somos  *Bacon Burgers Zona VILLAMORRA🍔🍟* \n🕚 *Estamos de 11h a 23:45h*\n(Costo del delivery:15.000)\n\n*Para procesar tu pedido mucho más rápido, te pedimos que lo realices a través del siguiente  link!⚡👇* \nhttps://fiweex.com/delivery/baconespa%C3%B1a\n\nEs súper fácil! Y tenés todos nuestros nuevos productos disponibles 🤩🥰🍔.\n\n*SI YA LO HICISTE, AGUARDA EN LÍNEA, TE RESPONDEMOS LO MÁS RÁPIDO POSIBLE! 🥺💖*",
+   "starred": false
+  },
+  {
+   "id": 1240233,
+   "key_id": "5E0A8BAC02795868C946D23A8DBD6787",
+   "ts_ms": 1707957533084,
+   "ts_iso": "2024-02-15T00:38:53.084000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nQuiero hacer un pedido de bacon Pinedo",
+   "starred": false
+  },
+  {
+   "id": 1240245,
+   "key_id": "AA91EFD6DA34546519B2D0F9A706F2D2",
+   "ts_ms": 1707957915000,
+   "ts_iso": "2024-02-15T00:45:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas 💖",
+   "starred": false
+  },
+  {
+   "id": 1240247,
+   "key_id": "E663BBF7BF6EDC40942D015230F1AD7C",
+   "ts_ms": 1707957929000,
+   "ts_iso": "2024-02-15T00:45:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Los pedidos para delivery son únicamente a través de la App de Monchis o Pedidos Ya 🙌",
+   "starred": false
+  }
+ ]
+}

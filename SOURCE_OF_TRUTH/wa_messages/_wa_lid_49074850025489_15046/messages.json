@@ -1,0 +1,95 @@
+{
+ "chat_id": 15046,
+ "slug": "_wa_lid_49074850025489_15046",
+ "subject": null,
+ "jid_user": "49074850025489",
+ "jid_server": "lid",
+ "jid_raw": "49074850025489@lid",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1761103,
+   "key_id": "ACB9A032E383F3C7233E97D8A6BBE34D",
+   "ts_ms": 1777502983000,
+   "ts_iso": "2026-04-29T22:49:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! soy tu driver de Monchis app ...",
+   "starred": false
+  },
+  {
+   "id": 1761104,
+   "key_id": "AC4C70234F580787FE2EBA48CD552CF5",
+   "ts_ms": 1777503002000,
+   "ts_iso": "2026-04-29T22:50:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sty afuera",
+   "starred": false
+  },
+  {
+   "id": 1764639,
+   "key_id": "AC3444052B874C008623E39E1A4A599C",
+   "ts_ms": 1777741305000,
+   "ts_iso": "2026-05-02T17:01:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202618/PTT-20260502-WA0013.opus",
+    "size": 3952,
+    "duration_s": 1,
+    "sha256_b64": "Zq5/RuQDN+zP80O71RNcprV07UdQStBQbLXF6wa7FdA=",
+    "media_name": "PTT-20260502-WA0013.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1764640,
+   "key_id": "ACDC7911C28DD8FF09F2C6A3086BDAF9",
+   "ts_ms": 1777741322000,
+   "ts_iso": "2026-05-02T17:02:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202618/PTT-20260502-WA0014.opus",
+    "size": 10853,
+    "duration_s": 5,
+    "sha256_b64": "re6e6CyDZSA9pouFCs+vijkS5Uf5+OMDgcMSRuMwR58=",
+    "media_name": "PTT-20260502-WA0014.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1764641,
+   "key_id": "AC177F701988E8123986E031CECBBA56",
+   "ts_ms": 1777741323000,
+   "ts_iso": "2026-05-02T17:02:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202618/PTT-20260502-WA0015.opus",
+    "size": 3999,
+    "duration_s": 1,
+    "sha256_b64": "JpUDaFFwN/H9fsE5fj3hn5URxoJpEmTpQL8uD2dOPO8=",
+    "media_name": "PTT-20260502-WA0015.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

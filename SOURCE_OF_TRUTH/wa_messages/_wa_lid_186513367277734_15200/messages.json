@@ -1,0 +1,101 @@
+{
+ "chat_id": 15200,
+ "slug": "_wa_lid_186513367277734_15200",
+ "subject": null,
+ "jid_user": "186513367277734",
+ "jid_server": "lid",
+ "jid_raw": "186513367277734@lid",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1779430,
+   "key_id": "3EB0885F2C688EDB9623E1",
+   "ts_ms": 1779117108000,
+   "ts_iso": "2026-05-18T15:11:48+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola tienen cuerda de guitarra? \nquiero un set \npueden mandarme por delivery?\nestoy cerca de la entrada de la UNA",
+   "starred": false
+  },
+  {
+   "id": 1779431,
+   "key_id": "A5F73559DD62982A6014E787543C99BA",
+   "ts_ms": 1779117111000,
+   "ts_iso": "2026-05-18T15:11:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ritmo Y Armonia 🎶🎻\nPARAGUAY\n\nTienda especializada en violines finos 🎻\n\nNuestro horario de atencion es\nLunes a Viernes 09:30  a 18 hs\nSabados 08 a 14 hs\nDomingos y feriados CERRADO\n\nSeguinos en Instagram\nhttps://www.instagram.com/ritmo.y.armonia/",
+   "starred": false
+  },
+  {
+   "id": 1779435,
+   "key_id": "3EB0EBE94F3EFFA606C1FA",
+   "ts_ms": 1779117336000,
+   "ts_iso": "2026-05-18T15:15:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buen dia",
+   "starred": false
+  },
+  {
+   "id": 1779436,
+   "key_id": "ACC675E80DD26282B6D508227D9607B4",
+   "ts_ms": 1779117351105,
+   "ts_iso": "2026-05-18T15:15:51.105000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia",
+   "starred": false
+  },
+  {
+   "id": 1779437,
+   "key_id": "3EB0683F88C550575A9C22",
+   "ts_ms": 1779117356000,
+   "ts_iso": "2026-05-18T15:15:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "RITMO es una tienda especializada en instrumentos de la familia del violin",
+   "starred": false
+  },
+  {
+   "id": 1779438,
+   "key_id": "3EB07CF69884D9DFF9DA9F",
+   "ts_ms": 1779117363000,
+   "ts_iso": "2026-05-18T15:16:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no vendmos ningun tipo de guitarra",
+   "starred": false
+  },
+  {
+   "id": 1779439,
+   "key_id": "AC12D176EE0D3C0ED833BB5EA9AEE3FF",
+   "ts_ms": 1779117370161,
+   "ts_iso": "2026-05-18T15:16:10.161000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  },
+  {
+   "id": 1779440,
+   "key_id": "3EB00E5F994E52D1A6B11E",
+   "ts_ms": 1779117371000,
+   "ts_iso": "2026-05-18T15:16:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "tampoco accesorios o repuestos para ese instrumetno",
+   "starred": false
+  }
+ ]
+}

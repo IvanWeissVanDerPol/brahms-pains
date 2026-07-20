@@ -1,0 +1,46 @@
+{
+ "chat_id": 11805,
+ "slug": "_wa_chat_595986751335_11805",
+ "subject": null,
+ "jid_user": "595986751335",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986751335@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1575807,
+   "key_id": "3F8039E90A267CEE7D00",
+   "ts_ms": 1758750277000,
+   "ts_iso": "2025-09-24T21:44:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa, Ivan ✨👋🏻 ¿Cómo estás? Espero que muy bien",
+   "starred": false
+  },
+  {
+   "id": 1575808,
+   "key_id": "3FA2DB872FBF32B85AE0",
+   "ts_ms": 1758750286000,
+   "ts_iso": "2025-09-24T21:44:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy *Camila Bullón*, estudiante de LGH, y te escribo para contarte que me presenté como candidata a la *Representación Estudiantil* en el Consejo Directivo. \nDecidí presentarme porque creo que es una oportunidad de dar más peso a las solicitudes de los estudiantes y que podamos lograr mejoras reales para todos. Las elecciones serán el 10 de octubre en el Polideportivo, de 13 a 21 hs, sería un honor poder contar con tu apoyo ese día 🫶🏻\n\nY también, si podés, te invito a acompañar a mi equipo, porque compartimos la misma visión: que cada estudiante se sienta representado y que nuestras ideas lleguen más lejos",
+   "starred": false
+  },
+  {
+   "id": 1575809,
+   "key_id": "3F328E2C3ABC39943D2E",
+   "ts_ms": 1758750292000,
+   "ts_iso": "2025-09-24T21:44:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias por tu tiempo! Si tenés dudas, preguntas o sugerencias, estoy abierta a conversar más 💙",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "chat_id": 13194,
+ "slug": "_wa_lid_15268625571882_13194",
+ "subject": null,
+ "jid_user": "15268625571882",
+ "jid_server": "lid",
+ "jid_raw": "15268625571882@lid",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1663113,
+   "key_id": "3EB09DBED8554DCA91E8E8",
+   "ts_ms": 1769113622000,
+   "ts_iso": "2026-01-22T20:27:02+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola que tal ?",
+   "starred": false
+  },
+  {
+   "id": 1663114,
+   "key_id": "3EB0530786F827752B6651",
+   "ts_ms": 1769113623000,
+   "ts_iso": "2026-01-22T20:27:03+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🛒 Lista de Compras Mejorada (Cantidades Pro)\n1. Carnicería (El corazón del relleno)\n[ ] 500 g de Carne Molida de Cerdo: (Antes pedías 100g, era muy poco). Con medio kilo tenés de sobra para los dumplings y podés sumarle un poco a los harumakis para que sean más nutritivos.\n\n2. Verduras (Para dar volumen y sabor)\n[ ] 1 Repollo Blanco mediano: Usarás la mitad picada bien fina. El repollo reduce mucho al cocinarse, así que mejor que sobre.\n\n[ ] 2 Mazos de Cebollita de Verdeo: Usá tanto la parte blanca como la verde para potenciar el sabor.\n\n[ ] 5 Zanahorias grandes: Para que los Harumakis tengan color y cuerpo.\n\n[ ] 200 g de Brotes de Soja (1 bandeja grande): Los brotes se achican mucho con el calor.\n\n[ ] 2 Raíz de Jengibre (mediana): No escatimes, el jengibre es lo que da el sabor \"oriental\" real.\n\n[ ] 3 Cabeza de Ajo: Usarás unos 3-4 dientes para los rellenos.\n\n3. Harinas y Almidones (Para la masa)\n[ ] 1 kg de Harina de Arroz: (Te sobrará para la próxima, pero es el tamaño estándar).\n\n[ ] 1 kg de Almidón de Mandioca: Es barato y lo vas a usar mucho para dar elasticidad.\n\n[ ] 1 paquete de Maizena (250g o 500g).\n\n[ ] 2 paquetes de Papel de Arroz (Hojas de Arroz): Comprá dos por si se te rompe alguna al hidratarlas.\n\n4. Condimentos y Líquidos\n[ ] 1 Frasco de Aceite de Sésamo: Es el \"perfume\" de la comida asiática. No lo saltes.\n\n[ ] 1 Botella de Salsa de Soja (o Tamari si es Sin TACC): Comprá la de 500ml, la vas a usar para el relleno Y para la salsa de mojar (dipping sauce).\n\n[ ] 1 Litro de Aceite de Girasol: Vas a necesitar suficiente para freír los Harumakis por inmersión.\n\n[ ] Oyster Sauce (Salsa de Ostra): Si podés conseguirla (en Casa Rica hay), es el ingrediente \"trampa\" que usan los chefs para que el relleno sepa a restaurante caro.",
+   "starred": false
+  },
+  {
+   "id": 1663115,
+   "key_id": "A59748BEDCD5A39483652C640AFA00FB",
+   "ts_ms": 1769113624000,
+   "ts_iso": "2026-01-22T20:27:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Mercado Guarani. ¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1663116,
+   "key_id": "3EB0B76499D4018F34857D",
+   "ts_ms": 1769113634000,
+   "ts_iso": "2026-01-22T20:27:14+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "quiero pedir esto  como puedo pedir con delivery?",
+   "starred": false
+  },
+  {
+   "id": 1663120,
+   "key_id": "A5FB0A299DCE81495AA29427E49D985E",
+   "ts_ms": 1769114515000,
+   "ts_iso": "2026-01-22T20:41:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola buenas tardes, Todo bien y usted?",
+   "starred": false
+  },
+  {
+   "id": 1663121,
+   "key_id": "A5F2DA89B8767AD8EDA9C2E9E64FF255",
+   "ts_ms": 1769114527000,
+   "ts_iso": "2026-01-22T20:42:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La verdad que no entendí",
+   "starred": false
+  },
+  {
+   "id": 1663122,
+   "key_id": "A557703C019691DC1F1544458BBEAE4C",
+   "ts_ms": 1769114564000,
+   "ts_iso": "2026-01-22T20:42:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Disculpe una pregunta \n¿De que ciudad es?",
+   "starred": false
+  },
+  {
+   "id": 1663123,
+   "key_id": "AC8C8264AE94391CB81603E92D51163E",
+   "ts_ms": 1769114607157,
+   "ts_iso": "2026-01-22T20:43:27.157000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "San Lorenzo",
+   "starred": false
+  },
+  {
+   "id": 1663124,
+   "key_id": "AC397596C442E7E338E39F8351FE7E5F",
+   "ts_ms": 1769114611191,
+   "ts_iso": "2026-01-22T20:43:31.191000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hacia la una",
+   "starred": false
+  },
+  {
+   "id": 1663125,
+   "key_id": "AC6EBE5FF74F94B29D787B7F7F82BC32",
+   "ts_ms": 1769114621632,
+   "ts_iso": "2026-01-22T20:43:41.632000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es una lista completa para la receta que preparo estos dias",
+   "starred": false
+  },
+  {
+   "id": 1663127,
+   "key_id": "A5D1D62C75ED8C170FBBF16D2E01FA26",
+   "ts_ms": 1769114701000,
+   "ts_iso": "2026-01-22T20:45:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahhh, de Asunción?\nNosotros somos de Pedro Juan Caballero",
+   "starred": false
+  },
+  {
+   "id": 1663169,
+   "key_id": "AC59A3E823B86CE02A93D008DC23E629",
+   "ts_ms": 1769121885972,
+   "ts_iso": "2026-01-22T22:44:45.972000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260122-WA0133.jpg",
+    "size": 151596,
+    "duration_s": 0,
+    "sha256_b64": "Zz47emWzlYF+MEc/5dxSR1qtL0P1VmFYfR6BumUxxyw=",
+    "media_name": "a1d5610c-917d-4604-8240-1a630a76c25a.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

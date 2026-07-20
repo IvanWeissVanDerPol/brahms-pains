@@ -1,0 +1,68 @@
+{
+ "chat_id": 1489,
+ "slug": "_wa_chat_595971111939_1489",
+ "subject": null,
+ "jid_user": "595971111939",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971111939@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1095008,
+   "key_id": "81D9F0FAEF07A2C1CD48775F4485F30C",
+   "ts_ms": 1687876961764,
+   "ts_iso": "2023-06-27T14:42:41.764000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas \nConocen por si acaso algún lugar para llevar a castrar a mi perra por sanlorenzo?",
+   "starred": false
+  },
+  {
+   "id": 1095009,
+   "key_id": "2F4C9CFFF24B1377414EBEC0DC9D553D",
+   "ts_ms": 1687876962000,
+   "ts_iso": "2023-06-27T14:42:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por contactarte con \n*Dame Una Pata Paraguay* 🐾\n\nNos comunicamos únicamente por WhatsApp, en los siguientes horarios: \n\n*Lunes a Viernes*\n*8:00 a 17:00 hs.*\n\n*Sábados*\n*8:00 a 12:00 hs*.\n\nRespondemos todos los mensajes por orden de llegada 🐶🐱\n\n*¿Cómo podemos ayudarte?*\n\n#adoptáNOcompres ♥️",
+   "starred": false
+  },
+  {
+   "id": 1095010,
+   "key_id": "F10381FCC307AFF9FBAFC88E41FEB06E",
+   "ts_ms": 1687876982000,
+   "ts_iso": "2023-06-27T14:43:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Buenos días!",
+   "starred": false
+  },
+  {
+   "id": 1095011,
+   "key_id": "FE2187E495DB9AA4149D369581D12A6B",
+   "ts_ms": 1687877006000,
+   "ts_iso": "2023-06-27T14:43:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Noo pero podemos ayudarte con el traslado para la castración en Asunción",
+   "starred": false
+  },
+  {
+   "id": 1095012,
+   "key_id": "DCD9A39512D25BF0F4BF4C6ABFDA048F",
+   "ts_ms": 1687877027577,
+   "ts_iso": "2023-06-27T14:43:47.577000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tristin voy a seguir buscando gracias",
+   "starred": false
+  }
+ ]
+}

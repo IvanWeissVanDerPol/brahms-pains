@@ -1,0 +1,79 @@
+{
+ "chat_id": 11509,
+ "slug": "_wa_chat_595992468570_11509",
+ "subject": null,
+ "jid_user": "595992468570",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992468570@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1577407,
+   "key_id": "AC2340E5923AAE2235781CE089BEBCDC",
+   "ts_ms": 1759036833000,
+   "ts_iso": "2025-09-28T05:20:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Haupeiii",
+   "starred": false
+  },
+  {
+   "id": 1590753,
+   "key_id": "ACFC804F6D111E072307B4840CEC40F4",
+   "ts_ms": 1760571877000,
+   "ts_iso": "2025-10-15T23:44:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Después",
+   "starred": false
+  },
+  {
+   "id": 1590763,
+   "key_id": "ACC00E2E5721FD0C173F03EB73CDCEC8",
+   "ts_ms": 1760573632218,
+   "ts_iso": "2025-10-16T00:13:52.218000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A full jajsj terminando aún cosas de trabajo",
+   "starred": false
+  },
+  {
+   "id": 1590764,
+   "key_id": "AC1E2DE32C8132B765B746CFBECD3C4B",
+   "ts_ms": 1760573671898,
+   "ts_iso": "2025-10-16T00:14:31.898000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Purete trabajar remoto \nPero siempre estás trabajando jajaja",
+   "starred": false
+  },
+  {
+   "id": 1590765,
+   "key_id": "AC894C869ADD60A1221037423C371533",
+   "ts_ms": 1760573855000,
+   "ts_iso": "2025-10-16T00:17:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vení más tarde",
+   "starred": false
+  },
+  {
+   "id": 1618311,
+   "key_id": "AC7E5C02AF38C0B89461176C7487002C",
+   "ts_ms": 1764016447000,
+   "ts_iso": "2025-11-24T20:34:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hoy podes venir",
+   "starred": false
+  }
+ ]
+}

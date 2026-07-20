@@ -1,0 +1,68 @@
+{
+ "chat_id": 15090,
+ "slug": "_wa_lid_195133299544069_15090",
+ "subject": null,
+ "jid_user": "195133299544069",
+ "jid_server": "lid",
+ "jid_raw": "195133299544069@lid",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1768580,
+   "key_id": "3EB035BFDB048F73E9F11E",
+   "ts_ms": 1777927378000,
+   "ts_iso": "2026-05-04T20:42:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan, mi nombre es Eliana me contacto de Assertia Solutions. Te moelsto porque te envié un posible slot para entrevista con recursos humanos para mañana quisiera saber si lo recibiste y si contás con disponibilidad para confirmarla, gracias!",
+   "starred": false
+  },
+  {
+   "id": 1768596,
+   "key_id": "AC925A327BEE20C326B924B0CACD524A",
+   "ts_ms": 1777927582780,
+   "ts_iso": "2026-05-04T20:46:22.780000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola sorry no revise el mail estuve a full hoy con work jsjsjs \nTe veo",
+   "starred": false
+  },
+  {
+   "id": 1768609,
+   "key_id": "ACCC4FCB29546535659AA0CC8269FD9E",
+   "ts_ms": 1777927652683,
+   "ts_iso": "2026-05-04T20:47:32.683000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mañana 2pm py Time verdad \n\nPerfect anoto y veo de mover mis actis y work",
+   "starred": false
+  },
+  {
+   "id": 1768610,
+   "key_id": "ACBB2AF921B427F352DF68B015D14216",
+   "ts_ms": 1777927666790,
+   "ts_iso": "2026-05-04T20:47:46.790000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasan el link etc y agrego a mi calendario también:)",
+   "starred": false
+  },
+  {
+   "id": 1768972,
+   "key_id": "AC335BE6F37A0E6BF91F4CD026AD3384",
+   "ts_ms": 1777936749000,
+   "ts_iso": "2026-05-04T23:19:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya te envie por mail el invite cualquier cosa avisame gracias!",
+   "starred": false
+  }
+ ]
+}

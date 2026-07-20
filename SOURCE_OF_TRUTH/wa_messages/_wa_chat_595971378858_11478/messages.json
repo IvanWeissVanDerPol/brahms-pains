@@ -1,0 +1,35 @@
+{
+ "chat_id": 11478,
+ "slug": "_wa_chat_595971378858_11478",
+ "subject": null,
+ "jid_user": "595971378858",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971378858@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581443,
+   "key_id": "ACC3DA6FEDD6FF38712988FFAA057BC1",
+   "ts_ms": 1759637841675,
+   "ts_iso": "2025-10-05T04:17:21.675000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Promo 30 minutos por 100(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1581945,
+   "key_id": "ACC080C4A0251EEBA3BDA0ED050C99D0",
+   "ts_ms": 1759704528000,
+   "ts_iso": "2025-10-05T22:48:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola corazón❤️!! \n100 20 min💗 \n150 media hora💗\n300 1 hora💗\nSalida 500.000gs solo en hotel y motel una hora❤‍🔥\nTodo con reserva previa\nIncluye Vaginal y oral con protección 🥰\nSERVICIO CONVENCIONAL.",
+   "starred": false
+  }
+ ]
+}

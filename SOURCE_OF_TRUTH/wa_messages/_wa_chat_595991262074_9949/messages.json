@@ -1,0 +1,33 @@
+{
+ "chat_id": 9949,
+ "slug": "_wa_chat_595991262074_9949",
+ "subject": null,
+ "jid_user": "595991262074",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991262074@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1435710,
+   "key_id": "70B0619C5281F3CD32B3C9DF0DBA416D",
+   "ts_ms": 1739818932000,
+   "ts_iso": "2025-02-17T19:02:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "✏️ Estudiar, crear y divertirte... todo en tus manos.\n\n✨ La Tablet Lenovo te espera con descuento al 𝒄𝒐𝒏𝒕𝒂𝒅𝒐 𝒐 𝒆𝒏 𝟏𝟖 𝒄𝒖𝒐𝒕𝒂𝒔 𝒅𝒆 𝑮𝒔. 𝟐𝟕𝟗.𝟎𝟎𝟎.\n\n🕒 Llevátela hoy y empezá a pagar en 30 días.\n\n📱 Contactanos al 595 991 262074 y hacé que este año sea diferente.\n\n#VueltaAClases #BristolSiempreConviene",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250217-WA0034.jpg",
+    "size": 95544,
+    "duration_s": 0,
+    "sha256_b64": "REk5l1bIvl46FfYMnB2vasWGUZaHUoJFF5u2Yb7F3nE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

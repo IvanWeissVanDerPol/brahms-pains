@@ -1,0 +1,97 @@
+{
+ "chat_id": 13217,
+ "slug": "_wa_lid_194360691953795_13217",
+ "subject": null,
+ "jid_user": "194360691953795",
+ "jid_server": "lid",
+ "jid_raw": "194360691953795@lid",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1666802,
+   "key_id": "ACFC43FFD4DEBE077279A567FAB46D3A",
+   "ts_ms": 1769423618184,
+   "ts_iso": "2026-01-26T10:33:38.184000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello! Can I get more info on this?",
+   "starred": false
+  },
+  {
+   "id": 1666803,
+   "key_id": "A59532BD2E7477F2AFAB0DF0ECEB9068",
+   "ts_ms": 1769423620000,
+   "ts_iso": "2026-01-26T10:33:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Hidro Agro 2RH🥬🍅. \nMucho gusto, mi nombre es Laura, le presento algunos de nuestros combos, seleccione el de su interes\n\n● 1️⃣ Combo familiar\n● 2️⃣ Combo fruta  \n● 3️⃣ Combo mbarete   \n● 4️⃣ Combo  sándwich  \n● 🚚 Contamos con delivery de 10.000 gs.\n\n❗Los martes y jueves la empresa asume el costo del delivery en zona de ASUNCION, superando los 100.000",
+   "starred": false
+  },
+  {
+   "id": 1666809,
+   "key_id": "A5BF3759F3F3C646B43FB746BD8A6CB4",
+   "ts_ms": 1769425033000,
+   "ts_iso": "2026-01-26T10:57:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día, Ariel Albrecht te saluda",
+   "starred": false
+  },
+  {
+   "id": 1751874,
+   "key_id": "A545E98118169FFC86BED074914EC380",
+   "ts_ms": 1776272867000,
+   "ts_iso": "2026-04-15T17:07:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260415-WA0008.jpg",
+    "size": 1018471,
+    "duration_s": 0,
+    "sha256_b64": "CldOmm+s1D6I72gP+p1lSfZOI49SldeC6e/3RNntlmE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1776409,
+   "key_id": "A5FFA42F03DEA1B2F0A9877582029B7A",
+   "ts_ms": 1778686247000,
+   "ts_iso": "2026-05-13T15:30:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día como te va? Ariel te saluda, tengo esta opción COMBO MAMA para el viernes con delivery Gratis por si te gustaría agendar me quedan 4 espacios todavía 🥳",
+   "starred": false
+  },
+  {
+   "id": 1776410,
+   "key_id": "A514DCAC4F663DA0037E5B4255163ED6",
+   "ts_ms": 1778686251000,
+   "ts_iso": "2026-05-13T15:30:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260513-WA0005.jpg",
+    "size": 449473,
+    "duration_s": 0,
+    "sha256_b64": "3Fvcx0HX6Nen0Z+QjWa81x5ILFsG42Fvaiz7atM9lZA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

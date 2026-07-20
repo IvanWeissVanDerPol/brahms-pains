@@ -1,0 +1,90 @@
+{
+ "chat_id": 5586,
+ "slug": "_wa_chat_2347045635469_5586",
+ "subject": null,
+ "jid_user": "2347045635469",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "2347045635469@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1235431,
+   "key_id": "3AF59BD29D9A1AD79A5A",
+   "ts_ms": 1707396182000,
+   "ts_iso": "2024-02-08T12:43:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1235433,
+   "key_id": "DCEB50D9D0DB743AB2E99C159321B861",
+   "ts_ms": 1707396392795,
+   "ts_iso": "2024-02-08T12:46:32.795000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1235437,
+   "key_id": "3AB363B7AB429B496363",
+   "ts_ms": 1707396565000,
+   "ts_iso": "2024-02-08T12:49:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Encantado de conocerlo! Llámeme Sarah, Organización Oficial Sin Fines de Lucro de América, LLC, y bienvenido a nuestros nuevos trabajos en línea a tiempo parcial. Salario diario 3M-6M PYG",
+   "starred": false
+  },
+  {
+   "id": 1235450,
+   "key_id": "8F847BF1547284D9E334047C56B3FA1E",
+   "ts_ms": 1707397244841,
+   "ts_iso": "2024-02-08T13:00:44.841000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasas detalles?",
+   "starred": false
+  },
+  {
+   "id": 1235452,
+   "key_id": "3ACAD00EA25DC00E678D",
+   "ts_ms": 1707397264000,
+   "ts_iso": "2024-02-08T13:01:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Antes de continuar ¿podrías decirme tu edad y ocupación? , solo quiero saber si eres apto para el puesto.",
+   "starred": false
+  },
+  {
+   "id": 1235542,
+   "key_id": "1613C4C6C662A618C2D6AB265BDD494E",
+   "ts_ms": 1707399259892,
+   "ts_iso": "2024-02-08T13:34:19.892000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Realmente me es muy scketchy que me escriban por WhatsApp así de trabajo\n\nPara pasar mis datos me gustaría primero información de la empresa\nY del cargo",
+   "starred": false
+  },
+  {
+   "id": 1235544,
+   "key_id": "4AC02E6B857118BF652EA7FE3CBD69D0",
+   "ts_ms": 1707399278415,
+   "ts_iso": "2024-02-08T13:34:38.415000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Onda de donde sacaste mi num",
+   "starred": false
+  }
+ ]
+}

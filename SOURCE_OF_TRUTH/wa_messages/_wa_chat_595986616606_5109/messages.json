@@ -1,0 +1,24 @@
+{
+ "chat_id": 5109,
+ "slug": "_wa_chat_595986616606_5109",
+ "subject": null,
+ "jid_user": "595986616606",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986616606@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1195254,
+   "key_id": "3EB0E507C6283717D9AF7E",
+   "ts_ms": 1700158757000,
+   "ts_iso": "2023-11-16T18:19:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa, que tal? te gustaria tener beneficios full con tu telefonia?",
+   "starred": false
+  }
+ ]
+}

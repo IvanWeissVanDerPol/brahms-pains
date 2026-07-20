@@ -1,0 +1,187 @@
+{
+ "chat_id": 11186,
+ "slug": "_wa_chat_595971200431_11186",
+ "subject": null,
+ "jid_user": "595971200431",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971200431@s.whatsapp.net",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1532248,
+   "key_id": "6EB464AEF7C89F77110F872ABE5B6CBE",
+   "ts_ms": 1753049119108,
+   "ts_iso": "2025-07-20T22:05:19.108000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "HoHola tía, ¿cómo estás? Soy Iván Weiss Van Der Pol.\n\nQuiero ofrecerte mi ayuda para mostrarte cómo la inteligencia artificial puede aplicarse en las tareas diarias de oficina y explorar juntos en qué aspectos podría facilitar tu trabajo.\n\nEstoy comenzando un proyecto para ofrecer servicios de IA en Paraguay, y me encantaría practicar contigo, sin costo ni compromiso. La idea es simplemente charlar, compartir lo que sé y entender mejor qué tipo de herramientas podrían ser útiles en tu entorno laboral. Para mí también es una forma de aprender más sobre el mercado local.\n\nSi te interesa, con gusto coordinamos una charla cuando tengas un tiempito 😊",
+   "starred": false
+  },
+  {
+   "id": 1532249,
+   "key_id": "3A181DFF040EC495BB50",
+   "ts_ms": 1753049306000,
+   "ts_iso": "2025-07-20T22:08:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan!!! Si, esta semana déjame ver con quienes reunirnos y agendamos",
+   "starred": false
+  },
+  {
+   "id": 1532250,
+   "key_id": "3AD58F1A5AEFB2E4D730",
+   "ts_ms": 1753049310000,
+   "ts_iso": "2025-07-20T22:08:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te parece?",
+   "starred": false
+  },
+  {
+   "id": 1532252,
+   "key_id": "70523CEC03D0138E1ADC908B86EDC7DD",
+   "ts_ms": 1753049576046,
+   "ts_iso": "2025-07-20T22:12:56.046000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si estaria genial \n\n Si tienen unas ideas de cual es son las areas donde quieren agregar puedo ir investigando \n\nAsi preparo algo para el meeting :)",
+   "starred": false
+  },
+  {
+   "id": 1532253,
+   "key_id": "3A072014B7BD96C61E83",
+   "ts_ms": 1753049678000,
+   "ts_iso": "2025-07-20T22:14:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale! Mañana te paso algunas necesidades para que puedas investigar",
+   "starred": false
+  },
+  {
+   "id": 1533145,
+   "key_id": "3EB00A85FC79085C4DF4BC",
+   "ts_ms": 1753195215000,
+   "ts_iso": "2025-07-22T14:40:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan, te parece si podemos reunirnos la semana que viene, yo estoy saliendo de licencia esta",
+   "starred": false
+  },
+  {
+   "id": 1533147,
+   "key_id": "3EB033A67C74A5A40E19BA",
+   "ts_ms": 1753195251000,
+   "ts_iso": "2025-07-22T14:40:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te paso algunas cosas que estan pidiendo pero muchas hay que desarrollar internamente",
+   "starred": false
+  },
+  {
+   "id": 1533150,
+   "key_id": "3EB06FB208E7E1033E5B05",
+   "ts_ms": 1753195318000,
+   "ts_iso": "2025-07-22T14:41:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "y lo mas facil es que yo necesito un lector de comentarios que me pueda agrupar y dar emocionalidad a traves del escrito",
+   "starred": false
+  },
+  {
+   "id": 1533152,
+   "key_id": "3EB0B7C417A3BD9CEF4114",
+   "ts_ms": 1753195363000,
+   "ts_iso": "2025-07-22T14:42:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y hacer analisis sobre los comentarios para poder encontrar patrones",
+   "starred": false
+  },
+  {
+   "id": 1533162,
+   "key_id": "7D110B11E48589512D46BA36EEF7ADAF",
+   "ts_ms": 1753195720964,
+   "ts_iso": "2025-07-22T14:48:40.964000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No prob :)",
+   "starred": false
+  },
+  {
+   "id": 1533164,
+   "key_id": "07C74AE6DC22890DFCE2EA06B58FBBCE",
+   "ts_ms": 1753195783914,
+   "ts_iso": "2025-07-22T14:49:43.914000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me fijo un fla en estas 2 cosas y investigo como suelen funcionar",
+   "starred": false
+  },
+  {
+   "id": 1546167,
+   "key_id": "3A666B22DF09BA88BA5F",
+   "ts_ms": 1754403012000,
+   "ts_iso": "2025-08-05T14:10:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan cómo estás?",
+   "starred": false
+  },
+  {
+   "id": 1546168,
+   "key_id": "3A54911F78E75A46AA96",
+   "ts_ms": 1754403042000,
+   "ts_iso": "2025-08-05T14:10:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Decime, tenes tiempo para venir y reunirte o cuando podrías?",
+   "starred": false
+  },
+  {
+   "id": 1546173,
+   "key_id": "F68794C0B5A67FE1044CF75E2A92A984",
+   "ts_ms": 1754403135023,
+   "ts_iso": "2025-08-05T14:12:15.023000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202532/PTT-20250805-WA0048.opus",
+    "size": 0,
+    "duration_s": 54,
+    "sha256_b64": "gqNfKFKUdh1Og2HDMgo9QXrAgBpPO2WvmICtfd16BB0=",
+    "media_name": "255c516b5e7447ae93343e1984df4464.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1546175,
+   "key_id": "3AD6BE604DFDAA01A687",
+   "ts_ms": 1754403217000,
+   "ts_iso": "2025-08-05T14:13:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale! Prepárame y vemos",
+   "starred": false
+  }
+ ]
+}

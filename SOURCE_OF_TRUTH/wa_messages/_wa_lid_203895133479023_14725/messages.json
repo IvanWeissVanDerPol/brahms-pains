@@ -1,0 +1,33 @@
+{
+ "chat_id": 14725,
+ "slug": "_wa_lid_203895133479023_14725",
+ "subject": null,
+ "jid_user": "203895133479023",
+ "jid_server": "lid",
+ "jid_raw": "203895133479023@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1737583,
+   "key_id": "AC288BA4A09B4798D1A5B30E28CB9499",
+   "ts_ms": 1774806205948,
+   "ts_iso": "2026-03-29T17:43:25.948000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260329-WA0028.jpg",
+    "size": 46001,
+    "duration_s": 0,
+    "sha256_b64": "3lBOWGDWnu/qG1mz1OIvdwajBKSv7l+hNqkhHPavTbo=",
+    "media_name": "318e0ddc-7d7f-4095-8c2c-644cd1bc07fd.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

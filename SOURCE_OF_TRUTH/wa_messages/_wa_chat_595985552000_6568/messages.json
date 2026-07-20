@@ -1,0 +1,108 @@
+{
+ "chat_id": 6568,
+ "slug": "_wa_chat_595985552000_6568",
+ "subject": null,
+ "jid_user": "595985552000",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985552000@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1277731,
+   "key_id": "CA68B9E36F5AD8B23DF68BFBD4111322",
+   "ts_ms": 1713886701442,
+   "ts_iso": "2024-04-23T15:38:21.442000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Gustavo \n\nSoy Iván Weiss \nDe la práctica de QA \n\n\nEstoy teniendo problemitas con mi PC :(",
+   "starred": false
+  },
+  {
+   "id": 1277732,
+   "key_id": "C1046E7D6BA4843E9E9C799012461516",
+   "ts_ms": 1713886712175,
+   "ts_iso": "2024-04-23T15:38:32.175000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240423-WA0019.jpg",
+    "size": 266516,
+    "duration_s": 0,
+    "sha256_b64": "3fz16wPCL1mScneTQd5JZTGsr8L2OW1QNDh+JE81R8Y=",
+    "media_name": "105c6360-d769-4dc8-8a0e-c03950e26dea.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1277742,
+   "key_id": "3EB0B89394CD8CC5B7408E",
+   "ts_ms": 1713888599000,
+   "ts_iso": "2024-04-23T16:09:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan querido! te paso el contacto de Soledad de IT.",
+   "starred": false
+  },
+  {
+   "id": 1277745,
+   "key_id": "C0673B585FF50B431AE83D53A93544AD",
+   "ts_ms": 1713888789909,
+   "ts_iso": "2024-04-23T16:13:09.909000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1277750,
+   "key_id": "3A1D42E3F70121EDB2FD",
+   "ts_ms": 1713888869000,
+   "ts_iso": "2024-04-23T16:14:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202417/PTT-20240423-WA0020.opus",
+    "size": 134387,
+    "duration_s": 55,
+    "sha256_b64": "4vzGXAvXgvQtXC1Eothkz3Zo6CuH5SeEoWXi+v4n920=",
+    "media_name": "PTT-20240423-WA0020.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1277751,
+   "key_id": "43279A8E0B42444F9BC577E0CCBDC45F",
+   "ts_ms": 1713888931817,
+   "ts_iso": "2024-04-23T16:15:31.817000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfecto",
+   "starred": false
+  },
+  {
+   "id": 1277752,
+   "key_id": "7C79C3BC4F8358DE8E86494529DDF64A",
+   "ts_ms": 1713888939853,
+   "ts_iso": "2024-04-23T16:15:39.853000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le escribo ahora a Sole",
+   "starred": false
+  }
+ ]
+}

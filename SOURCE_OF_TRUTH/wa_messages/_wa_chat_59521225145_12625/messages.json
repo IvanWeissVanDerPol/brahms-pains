@@ -1,0 +1,251 @@
+{
+ "chat_id": 12625,
+ "slug": "_wa_chat_59521225145_12625",
+ "subject": null,
+ "jid_user": "59521225145",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "59521225145@s.whatsapp.net",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1605411,
+   "key_id": "ACE8046BA9737E746E7099F7E8955C87",
+   "ts_ms": 1762278334123,
+   "ts_iso": "2025-11-04T17:45:34.123000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola qué tal?",
+   "starred": false
+  },
+  {
+   "id": 1605413,
+   "key_id": "5EB47A7138961317FE",
+   "ts_ms": 1762278337000,
+   "ts_iso": "2025-11-04T17:45:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bienvenido al Instituto Iribas. Por favor, seleccione la opción que mejor se ajuste a su necesidad.",
+   "starred": false
+  },
+  {
+   "id": 1605414,
+   "key_id": "03DCF36C4F9664E6A2",
+   "ts_ms": 1762278337000,
+   "ts_iso": "2025-11-04T17:45:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "1️⃣ Solicitar turno\n2️⃣ Consultar estado de informe\n3️⃣ Información general\n4️⃣ Solicitar ubicación\n5️⃣ Solicitar cotización de estudios\n6️⃣ Hablar con un representante\n7️⃣ Trámites presenciales en recepción",
+   "starred": false
+  },
+  {
+   "id": 1605415,
+   "key_id": "ACC679E2F8CE53CA82454CDE83000559",
+   "ts_ms": 1762278345808,
+   "ts_iso": "2025-11-04T17:45:45.808000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "6",
+   "starred": false
+  },
+  {
+   "id": 1605416,
+   "key_id": "9E5C662F8126400FA8",
+   "ts_ms": 1762278347000,
+   "ts_iso": "2025-11-04T17:45:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con nosotros. Un agente te atenderá a la brevedad.\nPara brindarte una mejor atención, por favor indicanos en qué podemos ayudarte.",
+   "starred": false
+  },
+  {
+   "id": 1605417,
+   "key_id": "ACB44A048E3586B483769B0C2E8B2438",
+   "ts_ms": 1762278351802,
+   "ts_iso": "2025-11-04T17:45:51.802000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola puedo hacer esto con ustedes ?",
+   "starred": false
+  },
+  {
+   "id": 1605419,
+   "key_id": "AC810330CD46875ECD13A343AC9C7789",
+   "ts_ms": 1762278381141,
+   "ts_iso": "2025-11-04T17:46:21.141000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251017-WA0026.jpg",
+    "size": 73986,
+    "duration_s": 0,
+    "sha256_b64": "tNQlp5XBSy4RYWt75TjqSF2TFqVY4DLSXJGZHAZBMWA=",
+    "media_name": "2fd3ed1a-96f1-459b-b326-a377ab9ce2f5.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1605420,
+   "key_id": "AC430718916AD0BEF6C4364AEFBF8E47",
+   "ts_ms": 1762278381148,
+   "ts_iso": "2025-11-04T17:46:21.148000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251017-WA0027.jpg",
+    "size": 99484,
+    "duration_s": 0,
+    "sha256_b64": "gIpobEnWZFgL+hNG7000wxYiHOigMUDAJHH/uuHdC0c=",
+    "media_name": "7969d934-2d65-4ec4-aef1-701e8897a6cc.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1605424,
+   "key_id": "37246BD323A60BCCA9",
+   "ts_ms": 1762278705000,
+   "ts_iso": "2025-11-04T17:51:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas Tardes le saluda Robert",
+   "starred": false
+  },
+  {
+   "id": 1605426,
+   "key_id": "AC2D9D391A2A133377B4528CCEB968B4",
+   "ts_ms": 1762278722830,
+   "ts_iso": "2025-11-04T17:52:02.830000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas :)",
+   "starred": false
+  },
+  {
+   "id": 1605427,
+   "key_id": "AC2F776923BCEC06A1AA3588A016A02B",
+   "ts_ms": 1762278729530,
+   "ts_iso": "2025-11-04T17:52:09.530000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal?",
+   "starred": false
+  },
+  {
+   "id": 1605437,
+   "key_id": "9320E99401415F271C",
+   "ts_ms": 1762278914000,
+   "ts_iso": "2025-11-04T17:55:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Realizamos el estudio",
+   "starred": false
+  },
+  {
+   "id": 1605440,
+   "key_id": "ACF72BC21BE66B174BE59E9001B2E799",
+   "ts_ms": 1762279021512,
+   "ts_iso": "2025-11-04T17:57:01.512000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuanto sería ?",
+   "starred": false
+  },
+  {
+   "id": 1605441,
+   "key_id": "AC3AF0F52FE447CC82DA566B8F4DE77F",
+   "ts_ms": 1762279026680,
+   "ts_iso": "2025-11-04T17:57:06.680000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuando puedo pasar?",
+   "starred": false
+  },
+  {
+   "id": 1605443,
+   "key_id": "AC2B82A0044C090C9FF0F4B781EBE285",
+   "ts_ms": 1762279040694,
+   "ts_iso": "2025-11-04T17:57:20.694000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo posiblemente una fístula parece",
+   "starred": false
+  },
+  {
+   "id": 1605464,
+   "key_id": "527B896C70457D4BD9",
+   "ts_ms": 1762280326000,
+   "ts_iso": "2025-11-04T18:18:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le paso al medico su orden y con el vamos a coordinar el turno",
+   "starred": false
+  },
+  {
+   "id": 1605466,
+   "key_id": "4DCAB533841DD9103A",
+   "ts_ms": 1762280344000,
+   "ts_iso": "2025-11-04T18:19:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuantos años tiene y cianto pesa.?",
+   "starred": false
+  },
+  {
+   "id": 1605469,
+   "key_id": "ACDBEEC069B10627AA5CBDC3A184A2D3",
+   "ts_ms": 1762280371881,
+   "ts_iso": "2025-11-04T18:19:31.881000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "25 años \n\nOnda 80 Kg",
+   "starred": false
+  },
+  {
+   "id": 1605470,
+   "key_id": "AC35133FA5E89B7112F6ED10B87BF843",
+   "ts_ms": 1762280379489,
+   "ts_iso": "2025-11-04T18:19:39.489000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La última vez que me pese",
+   "starred": false
+  },
+  {
+   "id": 1605481,
+   "key_id": "15E0F70700CE1B3E2C",
+   "ts_ms": 1762281214000,
+   "ts_iso": "2025-11-04T18:33:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "super le paso al medico",
+   "starred": false
+  }
+ ]
+}

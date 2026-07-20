@@ -1,0 +1,90 @@
+{
+ "chat_id": 15244,
+ "slug": "_wa_lid_258617261465627_15244",
+ "subject": null,
+ "jid_user": "258617261465627",
+ "jid_server": "lid",
+ "jid_raw": "258617261465627@lid",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1782717,
+   "key_id": "AC6CFC5B2E9EA92A072B25A20D8E5F52",
+   "ts_ms": 1779486399953,
+   "ts_iso": "2026-05-22T21:46:39.953000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De donde sos?",
+   "starred": false
+  },
+  {
+   "id": 1782719,
+   "key_id": "AC7D021EB5E754D1C5010412A4239D43",
+   "ts_ms": 1779486424000,
+   "ts_iso": "2026-05-22T21:47:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Asuncion",
+   "starred": false
+  },
+  {
+   "id": 1782720,
+   "key_id": "ACA7E84D1390492FAB4DFC88095D7668",
+   "ts_ms": 1779486434017,
+   "ts_iso": "2026-05-22T21:47:14.017000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo de Fernando norte",
+   "starred": false
+  },
+  {
+   "id": 1782721,
+   "key_id": "ACFC81F8DB25B926E89EB30B5DF0CBA7",
+   "ts_ms": 1779486451000,
+   "ts_iso": "2026-05-22T21:47:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Q te gusta",
+   "starred": false
+  },
+  {
+   "id": 1782722,
+   "key_id": "AC3ECBC64D5A2AE7338E9D458CD42A86",
+   "ts_ms": 1779486461827,
+   "ts_iso": "2026-05-22T21:47:41.827000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Coger twinks",
+   "starred": false
+  },
+  {
+   "id": 1782723,
+   "key_id": "AC650C9DDC5CAF900BCF065921AF64AF",
+   "ts_ms": 1779486464416,
+   "ts_iso": "2026-05-22T21:47:44.416000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y femboys",
+   "starred": false
+  },
+  {
+   "id": 1782727,
+   "key_id": "AC609AA38F5D0B0B18DC13929D724419",
+   "ts_ms": 1779486602000,
+   "ts_iso": "2026-05-22T21:50:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo no se de eso explicame",
+   "starred": false
+  }
+ ]
+}

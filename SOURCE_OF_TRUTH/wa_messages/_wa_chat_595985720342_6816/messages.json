@@ -1,0 +1,86 @@
+{
+ "chat_id": 6816,
+ "slug": "_wa_chat_595985720342_6816",
+ "subject": null,
+ "jid_user": "595985720342",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985720342@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1308943,
+   "key_id": "159C9EE48D997A37D886491FACD06853",
+   "ts_ms": 1719161572495,
+   "ts_iso": "2024-06-23T16:52:52.495000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1308944,
+   "key_id": "8577E8A13F73D7896C0F3C404CFDDF53",
+   "ts_ms": 1719161579082,
+   "ts_iso": "2024-06-23T16:52:59.082000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240623-WA0047.jpg",
+    "size": 157212,
+    "duration_s": 0,
+    "sha256_b64": "ngCU3B0aqpXnyQ/175zEp6LeIKfragcNvbXpB5dqeMU=",
+    "media_name": "dd053ec1-99fa-4b25-85fb-710425eece93.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1308945,
+   "key_id": "BF0CC1101370879C713D6EF3575D8F3C",
+   "ts_ms": 1719161682000,
+   "ts_iso": "2024-06-23T16:54:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🏛 *BANCO UENO*\nNRO CUENTA: 619563622\nTitular: Maria Gloria Galeano\nC.I.: 2370551",
+   "starred": false
+  },
+  {
+   "id": 1308946,
+   "key_id": "6E3468E8B03D70D602C16AA6ADAAE35E",
+   "ts_ms": 1719161792518,
+   "ts_iso": "2024-06-23T16:56:32.518000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🏛 *BANCO UENO*\nNRO CUENTA: 619563622\nTitular: Maria Gloria Galeano\nC.I.: 2370551",
+   "starred": false
+  },
+  {
+   "id": 1308947,
+   "key_id": "41058C2E59B5A67157501E2F0D194CBB",
+   "ts_ms": 1719161795172,
+   "ts_iso": "2024-06-23T16:56:35.172000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240623-WA0048.jpg",
+    "size": 108754,
+    "duration_s": 0,
+    "sha256_b64": "67YcEHsR4nZIk5k9Uw2+dxcsmhkkRsqyNz+BDFBgk+0=",
+    "media_name": "71cf9764-b73c-48ff-a7fe-97a1cf33776a.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

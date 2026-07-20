@@ -1,0 +1,46 @@
+{
+ "chat_id": 14874,
+ "slug": "_wa_lid_144135260471348_14874",
+ "subject": null,
+ "jid_user": "144135260471348",
+ "jid_server": "lid",
+ "jid_raw": "144135260471348@lid",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1746467,
+   "key_id": "ACFA54463E16E57E9F26AD3C73BC6B5E",
+   "ts_ms": 1775612024000,
+   "ts_iso": "2026-04-08T01:33:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1746468,
+   "key_id": "AC4BBE28BAE8DEE4AF276582C8611538",
+   "ts_ms": 1775612032000,
+   "ts_iso": "2026-04-08T01:33:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo soy el del pedido",
+   "starred": false
+  },
+  {
+   "id": 1746469,
+   "key_id": "ACA93A3613B29F4FC450F6430A451E02",
+   "ts_ms": 1775612042000,
+   "ts_iso": "2026-04-08T01:34:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuál es el codigo de entrega?",
+   "starred": false
+  }
+ ]
+}

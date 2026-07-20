@@ -1,0 +1,139 @@
+{
+ "chat_id": 17143,
+ "slug": "_wa_group_pasa_manos_verde_17143",
+ "subject": "Pasa manos verde",
+ "jid_user": "120363428533184433",
+ "jid_server": "g.us",
+ "jid_raw": "120363428533184433@g.us",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1834976,
+   "key_id": "ACE9C6F8B5E2798FDD879A9B79816605",
+   "ts_ms": 1784230262934,
+   "ts_iso": "2026-07-16T19:31:02.934000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260716-WA0045.jpg",
+    "size": 125133,
+    "duration_s": 0,
+    "sha256_b64": "Gr8J0XVQ2Qp4jq1bIkG9m0/rrm3/620dI44ZpjEsIjw=",
+    "media_name": "8db1023b-4ebc-4207-a131-11dc2c370d3f.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1834977,
+   "key_id": "ACCC9D18BBAAFC78FA2C00FF7747D2E2",
+   "ts_ms": 1784230262956,
+   "ts_iso": "2026-07-16T19:31:02.956000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260716-WA0046.jpg",
+    "size": 160938,
+    "duration_s": 0,
+    "sha256_b64": "w4nzitt40X+6S4UWTUJBRp2TJIdi7OS+oY5M4fj1U70=",
+    "media_name": "dac44e25-6ced-414e-a4c7-c1394a464890.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1834978,
+   "key_id": "AC6C27B7A26E716F7ECF26D236473760",
+   "ts_ms": 1784230289783,
+   "ts_iso": "2026-07-16T19:31:29.783000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "@87020533752049 @217278167707806 \nYou both want 1 kg right ?\n\n\nAny more dutch that need a hand ?\n@87020533752049",
+   "starred": false
+  },
+  {
+   "id": 1834993,
+   "key_id": "ACC384DEEEA6DD7275626E6D021146DA",
+   "ts_ms": 1784230474000,
+   "ts_iso": "2026-07-16T19:34:34+00:00",
+   "from_me": false,
+   "sender_jid": "217278167707806@lid",
+   "type": 0,
+   "text": "Yes, haha",
+   "starred": false
+  },
+  {
+   "id": 1835364,
+   "key_id": "ACB9F5A064444C1969CAFE843A294583",
+   "ts_ms": 1784236636800,
+   "ts_iso": "2026-07-16T21:17:16.800000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "@217278167707806 Sonia Will transfer me 1800 for your kg \n\nYou can transfer to her in her NL account",
+   "starred": false
+  },
+  {
+   "id": 1835374,
+   "key_id": "AC4967AF162945D2FFF9AB0EF982C1AC",
+   "ts_ms": 1784237343000,
+   "ts_iso": "2026-07-16T21:29:03+00:00",
+   "from_me": false,
+   "sender_jid": "217278167707806@lid",
+   "type": 0,
+   "text": "Whatever she prefers. I can also send it to you in guaranies",
+   "starred": false
+  },
+  {
+   "id": 1835375,
+   "key_id": "AC1B0057841654754119C96DE8827809",
+   "ts_ms": 1784237367503,
+   "ts_iso": "2026-07-16T21:29:27.503000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "If you can send to my bank alias perfect \n\nweissvanderpol.ivan@gmail.com",
+   "starred": false
+  },
+  {
+   "id": 1837561,
+   "key_id": "AC80E3255D21132C9D2FBD5B194E3EAB",
+   "ts_ms": 1784422309491,
+   "ts_iso": "2026-07-19T00:51:49.491000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Maybe Monday",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260718-WA0127.jpg",
+    "size": 111296,
+    "duration_s": 0,
+    "sha256_b64": "c1DBJ4GrJLMNDHE908vjYQjv9mYC4yRIpv0zHe4zy0s=",
+    "media_name": "fc35700e-cdd8-41ad-877d-01b8b1d317ac.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1837562,
+   "key_id": "AC9452863713206A873D5F5DD3DF8CDF",
+   "ts_ms": 1784422322850,
+   "ts_iso": "2026-07-19T00:52:02.850000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Clásic dealer jejeje",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "chat_id": 4676,
+ "slug": "_wa_chat_595983249641_4676",
+ "subject": null,
+ "jid_user": "595983249641",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983249641@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1511579,
+   "key_id": "97A99856FA7570569A57C6B661413CC0",
+   "ts_ms": 1750686307781,
+   "ts_iso": "2025-06-23T13:45:07.781000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nTe paso mi cv \n\nhttps://ivanweissvanderpol.github.io/",
+   "starred": false
+  },
+  {
+   "id": 1511592,
+   "key_id": "F27F9F2198B58D5C5E0173880BD2C9A7",
+   "ts_ms": 1750686581000,
+   "ts_iso": "2025-06-23T13:49:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1511593,
+   "key_id": "45431B150EE07D45BF32B92AF67FAD25",
+   "ts_ms": 1750686587000,
+   "ts_iso": "2025-06-23T13:49:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Como te llamas ?",
+   "starred": false
+  },
+  {
+   "id": 1511595,
+   "key_id": "18E64682EE106B97884AA87086D41731",
+   "ts_ms": 1750686599346,
+   "ts_iso": "2025-06-23T13:49:59.346000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Steven \n\nSoy Ivan Weiss van der pol",
+   "starred": false
+  },
+  {
+   "id": 1511597,
+   "key_id": "8ABDBBE10C6FD955AF259D82CACE2DAD",
+   "ts_ms": 1750686661153,
+   "ts_iso": "2025-06-23T13:51:01.153000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo experiencia como QA \nY como developer\nActualmente estoy experimentando El Mundo de IA \nY aprnediendo a hacer agentes :)",
+   "starred": false
+  },
+  {
+   "id": 1511607,
+   "key_id": "ED32542EC46AE57DF62BC33699DFAB09",
+   "ts_ms": 1750686891000,
+   "ts_iso": "2025-06-23T13:54:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Recibido Ivan!",
+   "starred": false
+  }
+ ]
+}

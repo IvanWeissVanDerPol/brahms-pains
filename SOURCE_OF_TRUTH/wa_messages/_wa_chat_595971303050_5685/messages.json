@@ -1,0 +1,165 @@
+{
+ "chat_id": 5685,
+ "slug": "_wa_chat_595971303050_5685",
+ "subject": null,
+ "jid_user": "595971303050",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971303050@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1258710,
+   "key_id": "5630D75AD6D5BADB60",
+   "ts_ms": 1710783011000,
+   "ts_iso": "2024-03-18T17:30:11+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "buenas profe \n\nla tarea 1 seria este?",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "tqLt3qaY4GzZgA0wGTL5XIuctoCMspCMcmhQLhgpJNI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1258711,
+   "key_id": "3EB01F40C06C65945E4DF7",
+   "ts_ms": 1710783223000,
+   "ts_iso": "2024-03-18T17:33:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si, asi es. Esta seria la tarea 1",
+   "starred": false
+  },
+  {
+   "id": 1258714,
+   "key_id": "148CB2CCD8D36A87B1",
+   "ts_ms": 1710783322000,
+   "ts_iso": "2024-03-18T17:35:22+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "habia trabajado en la tarea el Viernes con cami",
+   "starred": false
+  },
+  {
+   "id": 1258715,
+   "key_id": "638CC5E01DD3F31C5C",
+   "ts_ms": 1710783339000,
+   "ts_iso": "2024-03-18T17:35:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "creo que no te Habra mandado tampoco",
+   "starred": false
+  },
+  {
+   "id": 1258716,
+   "key_id": "9DD05630D505E03A41",
+   "ts_ms": 1710783355000,
+   "ts_iso": "2024-03-18T17:35:55+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "pensabamos que seria para presentar en la clase",
+   "starred": false
+  },
+  {
+   "id": 1258717,
+   "key_id": "3EB0D46193E5326A92BC52",
+   "ts_ms": 1710783463000,
+   "ts_iso": "2024-03-18T17:37:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si, todavía hay tiempo. Solamente que los que enviaron quiero que vean que recibi sus trabajos. Todavía pueden enviar hoy, incluso después de la clase.",
+   "starred": false
+  },
+  {
+   "id": 1258718,
+   "key_id": "3EB0889D96479B928CB06F",
+   "ts_ms": 1710783509000,
+   "ts_iso": "2024-03-18T17:38:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lo único que te pido es incluir tu nombre en el archivo, ya que verifiqué y no tenía. Gracias",
+   "starred": false
+  },
+  {
+   "id": 1258719,
+   "key_id": "1833531399A8840D2F",
+   "ts_ms": 1710783540000,
+   "ts_iso": "2024-03-18T17:39:00+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gracias",
+   "starred": false
+  },
+  {
+   "id": 1283420,
+   "key_id": "3B3FBACE7722DC2B0AE774E87CDE1345",
+   "ts_ms": 1714774496863,
+   "ts_iso": "2024-05-03T22:14:56.863000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola profe \nEn e03 rendimos verdad?",
+   "starred": false
+  },
+  {
+   "id": 1283453,
+   "key_id": "A927AEF73E003262EF3F8849339BF738",
+   "ts_ms": 1714784669483,
+   "ts_iso": "2024-05-04T01:04:29.483000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://suno.com/song/72adfd86-2193-4b6c-9999-82d6273d6522\n\nUna música para el examen de hoy",
+   "starred": false
+  },
+  {
+   "id": 1283456,
+   "key_id": "3EB07C2C15AA8A0F8DC55A",
+   "ts_ms": 1714784713000,
+   "ts_iso": "2024-05-04T01:05:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo miedo de darle click....",
+   "starred": false
+  },
+  {
+   "id": 1283457,
+   "key_id": "3EB0525010E60A5566A57B",
+   "ts_ms": 1714784746000,
+   "ts_iso": "2024-05-04T01:05:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esta muy buena!",
+   "starred": false
+  },
+  {
+   "id": 1283458,
+   "key_id": "A66B6CBDEF5C8052E25E4703B71F99BB",
+   "ts_ms": 1714784786159,
+   "ts_iso": "2024-05-04T01:06:26.159000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Re cool es El ai \n\nTe deja hacer musicas con una descripción del tema y un estilo",
+   "starred": false
+  }
+ ]
+}

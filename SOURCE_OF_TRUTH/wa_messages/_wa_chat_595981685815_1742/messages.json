@@ -1,0 +1,112 @@
+{
+ "chat_id": 1742,
+ "slug": "_wa_chat_595981685815_1742",
+ "subject": null,
+ "jid_user": "595981685815",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981685815@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 922579,
+   "key_id": "16476098E51828639F20E4AD2A29BF9B",
+   "ts_ms": 1658182695000,
+   "ts_iso": "2022-07-18T22:18:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holi Ivan\nVos estas en la oficina?\nSi es que estas será porfis no podes desconectar el mouse porque veo como si alguien moviera",
+   "starred": false
+  },
+  {
+   "id": 922582,
+   "key_id": "3F0830679C6FC18E032ECEBC827B42FA",
+   "ts_ms": 1658182743743,
+   "ts_iso": "2022-07-18T22:19:03.743000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 922583,
+   "key_id": "0B6DAF39010A57EABFBD79338FB92CA0",
+   "ts_ms": 1658182746199,
+   "ts_iso": "2022-07-18T22:19:06.199000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que pc es?",
+   "starred": false
+  },
+  {
+   "id": 922584,
+   "key_id": "A1CBA66090249E7DB58F38F03573B76C",
+   "ts_ms": 1658182777000,
+   "ts_iso": "2022-07-18T22:19:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La ip es .7 creo que esta al lado de la pc de Belén",
+   "starred": false
+  },
+  {
+   "id": 922585,
+   "key_id": "67473D2B871A3F4DA56E8C9E8EF73DCE",
+   "ts_ms": 1658182782000,
+   "ts_iso": "2022-07-18T22:19:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cerca del ventanal",
+   "starred": false
+  },
+  {
+   "id": 922586,
+   "key_id": "9FCFC9821A829F00DB1A04842C2F1D8B",
+   "ts_ms": 1658182856716,
+   "ts_iso": "2022-07-18T22:20:56.716000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya?",
+   "starred": false
+  },
+  {
+   "id": 922597,
+   "key_id": "F9B7B68FB5DA612DE2213ADA7106BE7E",
+   "ts_ms": 1658183000000,
+   "ts_iso": "2022-07-18T22:23:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sip",
+   "starred": false
+  },
+  {
+   "id": 922598,
+   "key_id": "44AEA8DA9135BB44BCA7334E6BFB58EF",
+   "ts_ms": 1658183001000,
+   "ts_iso": "2022-07-18T22:23:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 922599,
+   "key_id": "8FC00D7E3032DDFCB071C20F920971B6",
+   "ts_ms": 1658183004000,
+   "ts_iso": "2022-07-18T22:23:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🥹",
+   "starred": false
+  }
+ ]
+}

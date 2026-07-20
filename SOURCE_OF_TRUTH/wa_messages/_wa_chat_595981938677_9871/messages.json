@@ -1,0 +1,24 @@
+{
+ "chat_id": 9871,
+ "slug": "_wa_chat_595981938677_9871",
+ "subject": null,
+ "jid_user": "595981938677",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981938677@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1604484,
+   "key_id": "ACD5B83A663A22813DBC904462CEE2A3",
+   "ts_ms": 1762141566040,
+   "ts_iso": "2025-11-03T03:46:06.040000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal?",
+   "starred": false
+  }
+ ]
+}

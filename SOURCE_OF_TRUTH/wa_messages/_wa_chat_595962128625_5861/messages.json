@@ -1,0 +1,391 @@
+{
+ "chat_id": 5861,
+ "slug": "_wa_chat_595962128625_5861",
+ "subject": null,
+ "jid_user": "595962128625",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595962128625@s.whatsapp.net",
+ "message_count": 27,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1263688,
+   "key_id": "48469CE82712202ECE57CD40A4640E91",
+   "ts_ms": 1711495158118,
+   "ts_iso": "2024-03-26T23:19:18.118000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas\n\nMe pasaron este número para preguntar para comprar bicicletas\n\nTenés aro 29 o 30?\n\nA cuánto están ?",
+   "starred": false
+  },
+  {
+   "id": 1263689,
+   "key_id": "2F46DAEBCD21DB5EF2C2",
+   "ts_ms": 1711495163000,
+   "ts_iso": "2024-03-26T23:19:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con GUSBIKE. Por favor, haznos saber cómo podemos ayudarte.\nNuestro horario de atención es de LUNES A VIERNES DE 9 a 12 y de 13 a 18.\nLos días SÁBADOS de 8 a 12 🫡",
+   "starred": false
+  },
+  {
+   "id": 1274449,
+   "key_id": "ED03BF5875EADC2FB12C6D3DF2782882",
+   "ts_ms": 1713323397278,
+   "ts_iso": "2024-04-17T03:09:57.278000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tienen bicis de aro 29 o 30?\n\nSi me pueden pasar cuales y a cuánto :) \n\nQuiero una bici para ir al trabajo",
+   "starred": false
+  },
+  {
+   "id": 1274450,
+   "key_id": "2FCD0098F3ABBCD56894",
+   "ts_ms": 1713323401000,
+   "ts_iso": "2024-04-17T03:10:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con GUSBIKE. Por favor, haznos saber cómo podemos ayudarte.\nNuestro horario de atención es de LUNES A VIERNES DE 9 a 12 y de 13 a 18.\nLos días SÁBADOS de 8 a 12 🫡",
+   "starred": false
+  },
+  {
+   "id": 1274566,
+   "key_id": "3AF4B3D5E2F0E81CB38E",
+   "ts_ms": 1713361319000,
+   "ts_iso": "2024-04-17T13:41:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, cuánto sería tu presupuesto para poder pasarte ?",
+   "starred": false
+  },
+  {
+   "id": 1274580,
+   "key_id": "C5A9B59548ED151F198BB006B9769064",
+   "ts_ms": 1713363686722,
+   "ts_iso": "2024-04-17T14:21:26.722000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "1 millón?",
+   "starred": false
+  },
+  {
+   "id": 1274581,
+   "key_id": "725864659DAAC450A3F35ED8E2951EF1",
+   "ts_ms": 1713363691219,
+   "ts_iso": "2024-04-17T14:21:31.219000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Masomenos",
+   "starred": false
+  },
+  {
+   "id": 1274582,
+   "key_id": "3AE66E319DFEF5727C03",
+   "ts_ms": 1713363731000,
+   "ts_iso": "2024-04-17T14:22:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nada con ese precio lastimosamente",
+   "starred": false
+  },
+  {
+   "id": 1274590,
+   "key_id": "D6CDC8C0E24338E6D4",
+   "ts_ms": 1713365057000,
+   "ts_iso": "2024-04-17T14:44:17+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "apartir de cuanto tenes?",
+   "starred": false
+  },
+  {
+   "id": 1274603,
+   "key_id": "3A87B8D1AF9B84B59A90",
+   "ts_ms": 1713367482000,
+   "ts_iso": "2024-04-17T15:24:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "2.500.000",
+   "starred": false
+  },
+  {
+   "id": 1274617,
+   "key_id": "3908379C664391B05CF7BACAB8045F0B",
+   "ts_ms": 1713370621992,
+   "ts_iso": "2024-04-17T16:17:01.992000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Como son?\nMe podes mostrar los que tenés de 2.5 a 4 millones?",
+   "starred": false
+  },
+  {
+   "id": 1274631,
+   "key_id": "3EB0D5377B71591D89A698",
+   "ts_ms": 1713373907000,
+   "ts_iso": "2024-04-17T17:11:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "que tamaño buscas?",
+   "starred": false
+  },
+  {
+   "id": 1274632,
+   "key_id": "3EB0F06B5118E85AF2F8BA",
+   "ts_ms": 1713373912000,
+   "ts_iso": "2024-04-17T17:11:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "s m o l?",
+   "starred": false
+  },
+  {
+   "id": 1274634,
+   "key_id": "00ABD5622B75637882",
+   "ts_ms": 1713374301000,
+   "ts_iso": "2024-04-17T17:18:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "l",
+   "starred": false
+  },
+  {
+   "id": 1274642,
+   "key_id": "3AE2BDAE2E47AC1A64C5",
+   "ts_ms": 1713375273000,
+   "ts_iso": "2024-04-17T17:34:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok te veo",
+   "starred": false
+  },
+  {
+   "id": 1274645,
+   "key_id": "AF43E74351362DEB8392E062ABEE5EDA",
+   "ts_ms": 1713375877651,
+   "ts_iso": "2024-04-17T17:44:37.651000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1274685,
+   "key_id": "3A52E61443C7E9A12B70",
+   "ts_ms": 1713379556000,
+   "ts_iso": "2024-04-17T18:45:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te consegui uno muy barato",
+   "starred": false
+  },
+  {
+   "id": 1274686,
+   "key_id": "3A2AAB7BF5D34A462D1B",
+   "ts_ms": 1713379567000,
+   "ts_iso": "2024-04-17T18:46:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0028.jpg",
+    "size": 230144,
+    "duration_s": 0,
+    "sha256_b64": "EpFXwZma7nXOhpPfEYmcBej0eUM2wGPZGujiNQeb0CU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274687,
+   "key_id": "3A3A6A7C7357AC168044",
+   "ts_ms": 1713379568000,
+   "ts_iso": "2024-04-17T18:46:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0033.jpg",
+    "size": 363697,
+    "duration_s": 0,
+    "sha256_b64": "412AO2pQs9V2Mj3eXXRxo93GckX7d3WbTuyJViFbQUc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274688,
+   "key_id": "3A7582F9702C8D719169",
+   "ts_ms": 1713379569000,
+   "ts_iso": "2024-04-17T18:46:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0030.jpg",
+    "size": 340108,
+    "duration_s": 0,
+    "sha256_b64": "4CD05icoa4oBPHlSdBL7qDAc6TL8IOvj2cGV0cEiPWU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274689,
+   "key_id": "3ABE9A687433B6317C34",
+   "ts_ms": 1713379569000,
+   "ts_iso": "2024-04-17T18:46:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0035.jpg",
+    "size": 405146,
+    "duration_s": 0,
+    "sha256_b64": "BSx0j5XriqGrzMUlkHUOJQzkzv0rBsIEypcM/nrFrIo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274690,
+   "key_id": "3A3160C6AC6BFE066FC2",
+   "ts_ms": 1713379570000,
+   "ts_iso": "2024-04-17T18:46:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0029.jpg",
+    "size": 363539,
+    "duration_s": 0,
+    "sha256_b64": "mAEHxcr76ZooAmjKV9VvZK2gEutCn3usC0Tw+3W7+8k=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274691,
+   "key_id": "3AEC595B46F4683E2CF7",
+   "ts_ms": 1713379571000,
+   "ts_iso": "2024-04-17T18:46:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0034.jpg",
+    "size": 429234,
+    "duration_s": 0,
+    "sha256_b64": "gLv8Qui+jSxEa5MxTZVoHiYcBWAjlspkWqKtTEdXi98=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274692,
+   "key_id": "3AB63449061766073CF0",
+   "ts_ms": 1713379571000,
+   "ts_iso": "2024-04-17T18:46:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0027.jpg",
+    "size": 392222,
+    "duration_s": 0,
+    "sha256_b64": "AfD6OYXH3SFnmX+FnTeQd3kekVKF+lE8it8M3u7buFE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274693,
+   "key_id": "3A1AD60BF113BC64C094",
+   "ts_ms": 1713379571000,
+   "ts_iso": "2024-04-17T18:46:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0031.jpg",
+    "size": 390954,
+    "duration_s": 0,
+    "sha256_b64": "026W/iGbkiCR+tq/M2+LWGv48g+cjEeeSXy38CGlPa8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274694,
+   "key_id": "3A52548FDE38CDBDCFAA",
+   "ts_ms": 1713379573000,
+   "ts_iso": "2024-04-17T18:46:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240417-WA0032.jpg",
+    "size": 418457,
+    "duration_s": 0,
+    "sha256_b64": "rTb6u9VdRHXQw7I7FYF/1iX1uBSVZeBfBKgMXJepRIY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1274696,
+   "key_id": "3A55ADC19D6E35807BB0",
+   "ts_ms": 1713379591000,
+   "ts_iso": "2024-04-17T18:46:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aro 29 L 1.600.000 nomás",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "chat_id": 5127,
+ "slug": "_wa_chat_595982777960_5127",
+ "subject": null,
+ "jid_user": "595982777960",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982777960@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1198902,
+   "key_id": "3EB098C6F8B4D9E04956E0",
+   "ts_ms": 1700744930000,
+   "ts_iso": "2023-11-23T13:08:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le saludamos de TIGO 🤩\nAUMENTAMOS NUESTROS GB PARA VOS‼😎 \n✅10GB 99 mil\n✅15GB 119 mil\n✅18GB 139 mil \n✅25GB 169 mil\n✅30GB 199 mil\n✅40GB 249 mil\nTODOS CON:\nLlamadas ilimitadas a todas las operadoras ✅\nWhatsapp Libre ✅\nDE CORTESÍA:                 \nAmazon Prime 📽 HBO Max 🍿 COMBO: Disney➕ y Star➕ 🎞 Deezer🎧 y más. \n\n✅También contamos con promociones de *TV e INTERNET *😎‼\n🏡TV FAMILIAR+ WIFI 120MBPS a 209.000\n🏡TV FAMILIAR 139.000 MIL\n🏡WIFI 120 MB 129.000 MIL\n🏡EXTENSOR 29.900\nCualquier consulta a las ordenes 😎",
+   "starred": false
+  },
+  {
+   "id": 1198903,
+   "key_id": "3EB0245025165C1FE62B5F",
+   "ts_ms": 1700744936000,
+   "ts_iso": "2023-11-23T13:08:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le saludamos de TIGO 🤩\nAUMENTAMOS NUESTROS GB PARA VOS‼😎 \n✅10GB 99 mil\n✅15GB 119 mil\n✅18GB 139 mil \n✅25GB 169 mil\n✅30GB 199 mil\n✅40GB 249 mil\nTODOS CON:\nLlamadas ilimitadas a todas las operadoras ✅\nWhatsapp Libre ✅\nDE CORTESÍA:                 \nAmazon Prime 📽 HBO Max 🍿 COMBO: Disney➕ y Star➕ 🎞 Deezer🎧 y más. \n\n✅También contamos con promociones de *TV e INTERNET *😎‼\n🏡TV FAMILIAR+ WIFI 120MBPS a 209.000\n🏡TV FAMILIAR 139.000 MIL\n🏡WIFI 120 MB 129.000 MIL\n🏡EXTENSOR 29.900\nCualquier consulta a las ordenes 😎",
+   "starred": false
+  }
+ ]
+}

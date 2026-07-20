@@ -1,0 +1,24 @@
+{
+ "chat_id": 6878,
+ "slug": "_wa_chat_595984985392_6878",
+ "subject": null,
+ "jid_user": "595984985392",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984985392@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1417950,
+   "key_id": "CA5EE10D8986330EB7CB1B0085DB4AE7",
+   "ts_ms": 1736630941904,
+   "ts_iso": "2025-01-11T21:29:01.904000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola tienen hornos?",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "chat_id": 9197,
+ "slug": "_wa_chat_595971370907_9197",
+ "subject": null,
+ "jid_user": "595971370907",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971370907@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1380998,
+   "key_id": "3EB0AC3510463CF49731",
+   "ts_ms": 1730229314000,
+   "ts_iso": "2024-10-29T19:15:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*ESPELUZNANTE PROMOCIÓN* 👻\n🎃 *2x1* ❗ por HALLOWEEN 🎃\n\n¡Lleva tus habilidades al siguiente nivel con nuestro curso de *Desarrollo Web Full Stack MERN*! 🚀🌟\n\nAprende las herramientas más demandadas del mercado como _MongoDB_, _ExpressJs_, _React_ y _NodeJs_.\n\n📆 *Duración:* 12 semanas (+275 horas)\n🖥️ *Modalidad:* Virtual\n📚 *Inicio:* Noviembre 2024\n📆 *Días y horas de clases:*\n* Clases sincrónicas: Lunes, Miércoles y Viernes de 19:00 a 21:00 horas.\n* Mentorías: Martes y Jueves de 19:00 a 21:00 horas. Sábados de 09:00 a 11:00 horas.\n\n💰 *Costo promo 2x1 (hasta el 08/11/2024):* 3.096.000 Gs. ❗\n\n_Certificación habilitada por el Ministerio de Educación y Ciencias._ ✅\n\n*¿Cómo se llama tu compañero/a con quién te vas a unir a este desafío de desarrollar un proyecto?*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241029-WA0013.jpg",
+    "size": 195012,
+    "duration_s": 0,
+    "sha256_b64": "Zj1ZdZJMKzqYle6Jz0apy9T1u1Q08vNLxbVoU/r5Xhc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

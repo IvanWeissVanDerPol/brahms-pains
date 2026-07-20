@@ -1,0 +1,68 @@
+{
+ "chat_id": 12967,
+ "slug": "_wa_lid_154310071607477_12967",
+ "subject": null,
+ "jid_user": "154310071607477",
+ "jid_server": "lid",
+ "jid_raw": "154310071607477@lid",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1635187,
+   "key_id": "ACA1B917D43B686C318E3739EC7BDA9C",
+   "ts_ms": 1766407582000,
+   "ts_iso": "2025-12-22T12:46:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día, le saludamos de la Agencia de CORREO CAMPUS UNA, recibiste un paquete TEMU.\nPodes pasar a retirar de lunes a viernes \n07 a 13hs.\nSábados, domingos y feriados\n07 a 19hs.\nPresentar cédula de identidad.\nGracias",
+   "starred": false
+  },
+  {
+   "id": 1635301,
+   "key_id": "AC86F96F8F53D49B4FB5319FDD809AA5",
+   "ts_ms": 1766424427665,
+   "ts_iso": "2025-12-22T17:27:07.665000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días",
+   "starred": false
+  },
+  {
+   "id": 1635302,
+   "key_id": "AC3A461EF63F7D1E5637FF9FAA7AC1B4",
+   "ts_ms": 1766424431204,
+   "ts_iso": "2025-12-22T17:27:11.204000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Donde es?",
+   "starred": false
+  },
+  {
+   "id": 1635303,
+   "key_id": "ACD7A99B90BE7774AD8A7101370B420E",
+   "ts_ms": 1766424438294,
+   "ts_iso": "2025-12-22T17:27:18.294000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para ir",
+   "starred": false
+  },
+  {
+   "id": 1635523,
+   "key_id": "ACDA9A6ACB60D015B5F5C893253E4383",
+   "ts_ms": 1766483292000,
+   "ts_iso": "2025-12-23T09:48:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  }
+ ]
+}

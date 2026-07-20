@@ -1,0 +1,46 @@
+{
+ "chat_id": 15092,
+ "slug": "_wa_lid_147192908087344_15092",
+ "subject": null,
+ "jid_user": "147192908087344",
+ "jid_server": "lid",
+ "jid_raw": "147192908087344@lid",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1769208,
+   "key_id": "ACB34EA82E659F1F644BE402FD293823",
+   "ts_ms": 1777948383000,
+   "ts_iso": "2026-05-05T02:33:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1769209,
+   "key_id": "AC759F3393DA6C70986AE356676BF74A",
+   "ts_ms": 1777948388000,
+   "ts_iso": "2026-05-05T02:33:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy el delivery",
+   "starred": false
+  },
+  {
+   "id": 1769210,
+   "key_id": "ACC8590495521BD6D3C5ECCA47CB5BEB",
+   "ts_ms": 1777948410000,
+   "ts_iso": "2026-05-05T02:33:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy en la dirección donde marco",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "chat_id": 15022,
+ "slug": "_wa_group_abogado_15022",
+ "subject": "Abogado",
+ "jid_user": "120363427344804328",
+ "jid_server": "g.us",
+ "jid_raw": "120363427344804328@g.us",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1758612,
+   "key_id": "ACC24F7C4F0D90504E2198357AC2CB4E",
+   "ts_ms": 1777221019780,
+   "ts_iso": "2026-04-26T16:30:19.780000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "@154288881946676 explain in detail what you can do for a lawyer business how they can use ai \n\nHow ai can research and help with all lawyer related things etc",
+   "starred": false
+  },
+  {
+   "id": 1758613,
+   "key_id": "3EB017A3ED7F56DCC1407C",
+   "ts_ms": 1777221021000,
+   "ts_iso": "2026-04-26T16:30:21+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⚕ *Hermes Agent*\n────────────\n⚠ Compression model (groq-llama) context is 128,000 tokens, but the main model's compression threshold was 500,000 tokens. Auto-lowered this session's threshold to 128,000 tokens so compression can run.\n  To make this permanent, edit config.yaml — either:\n  1. Use a larger compression model:\n       auxiliary:\n         compression:\n           model: <model-with-500,000+-context>\n  2. Lower the compression threshold:\n       compression:\n         threshold: 0.12",
+   "starred": false
+  },
+  {
+   "id": 1758617,
+   "key_id": "3EB0B754EB5C4F483DBCB7",
+   "ts_ms": 1777221030000,
+   "ts_iso": "2026-04-26T16:30:30+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⚕ *Hermes Agent*\n────────────\n🔀 delegate_task: \"Research how AI is being used in legal/lawyer practices in 2025-2026. Find specific AI tools, use cases, and workflow...\"\n🌐 browser_navigate: \"https://www.lexisnexis.com/community/insights/legal/b/thought-leadership/posts/lexisnexis-ai-legal-research\"\n🌐 browser_navigate: \"https://www.lawnext.com/2025/01/the-top-legal-ai-tools-of-2025.html\"\n🌐 browser_navigate: \"https://www.lawnext.com/top-legal-ai-tools\"\n🌐 browser_navigate: \"https://casetext.com\"\n🌐 browser_navigate: \"https://www.lawnext.com/news/10-best-legal-ai-tools-for-2025\"\n🌐 browser_navigate: \"https://www.airdroid.com/business-phone/ai-for-lawyers/\"\n🌐 browser_navigate: \"https://zapier.com/blog/ai-for-lawyers/\"\n🌐 browser_navigate: \"https://www.clio.com/blog/ai-for-lawyers/\"\n📜 browser_scroll...\n📸 browser_snapshot...\n🌐 browser_navigate: \"https://www.rocketmatter.com/ai-for-lawyers/\"\n🌐 browser_navigate: \"https://www.rocketmatter.com/blog/category/ai-law/\"\n🌐 browser_navigate: \"https://www.smith.ai/blog/ai-for-lawyers\"",
+   "starred": false
+  },
+  {
+   "id": 1758621,
+   "key_id": "3EB0048B467E0C02B0B654",
+   "ts_ms": 1777221103000,
+   "ts_iso": "2026-04-26T16:31:43+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⚕ *Hermes Agent*\n────────────\n⚠️ Gateway shutting down — Your current task will be interrupted.",
+   "starred": false
+  },
+  {
+   "id": 1758661,
+   "key_id": "ACBED8CA8A75A58C0952BF4D6F946BF3",
+   "ts_ms": 1777221542850,
+   "ts_iso": "2026-04-26T16:39:02.850000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Continue",
+   "starred": false
+  },
+  {
+   "id": 1758662,
+   "key_id": "3EB0CBF504329AEBB1FAFC",
+   "ts_ms": 1777221544000,
+   "ts_iso": "2026-04-26T16:39:04+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⚕ *Hermes Agent*\n────────────\n⚠ Compression model (groq-llama) context is 128,000 tokens, but the main model's compression threshold was 500,000 tokens. Auto-lowered this session's threshold to 128,000 tokens so compression can run.\n  To make this permanent, edit config.yaml — either:\n  1. Use a larger compression model:\n       auxiliary:\n         compression:\n           model: <model-with-500,000+-context>\n  2. Lower the compression threshold:\n       compression:\n         threshold: 0.12",
+   "starred": false
+  },
+  {
+   "id": 1758663,
+   "key_id": "3EB00657A8922626F5E980",
+   "ts_ms": 1777221547000,
+   "ts_iso": "2026-04-26T16:39:07+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⚕ *Hermes Agent*\n────────────\nLet me dig deeper into specific numbers, LATAM-specific considerations, and implementation roadmaps.",
+   "starred": false
+  },
+  {
+   "id": 1758664,
+   "key_id": "3EB0C50F66BF84D5C34446",
+   "ts_ms": 1777221548000,
+   "ts_iso": "2026-04-26T16:39:08+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⚕ *Hermes Agent*\n────────────\n🌐 browser_navigate: \"https://www.clio.com/resources/legal-trends/\"\n🌐 browser_navigate: \"https://kirasystems.com/\"\n🌐 browser_navigate: \"https://www.harvey.ai/\"",
+   "starred": false
+  },
+  {
+   "id": 1758668,
+   "key_id": "3EB0E15F215748AD24C55D",
+   "ts_ms": 1777221594000,
+   "ts_iso": "2026-04-26T16:39:54+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⚕ *Hermes Agent*\n────────────\nI have solid info. Let me compile a comprehensive continuation.\n\nHere is the continuation with more depth on specific areas, costs, and LATAM strategy:\n\nSPECIFIC TOOLS BY BUDGET TIER\n\nTier 1 - Free / Minimal ($0-50/mo)\nChatGPT Plus ($20/mo) - drafting, brainstorming, summarizing cases, explaining legal concepts. Claude Pro ($20/mo) - better at analyzing long documents, 100K token context window fits a 300-page contract. Google Gemini - decent for research summaries. Law Insider - AI clause comparison for free.\n\nTier 2 - Small Firm ($200-800/mo)\nCasetext CoCounsel ($400/mo) - the best value for a solo or small firm. Does: legal research with citation, document analysis, contract comparison, deposition prep, timeline generation. It is trained specifically on legal data, so hallucinations are way lower than general ChatGPT. Clio Manage ($80/user/mo) with AI add-ons - practice management + AI time tracking + document automation.\n\nTier 3 - Mid Firm ($1K-5K/mo)\nLexis+ AI ($1K-3K/mo per seat) - full legal research suite with conversational AI search, Shepard's citation validation built in. Westlaw Precision with CoCounsel ($1.5-4K/mo) - similar to Lexis. Ironclad ($2K+/mo) - contract lifecycle management with AI review, redlining, and approval workflows. Best for firms doing high-volume contract work.\n\nTier 4 - Enterprise ($10K-100K+/mo)\nHarvey AI (custom pricing, reportedly $10K-50K/mo per firm) - used by 40% of the Am Law 100. Does end-to-end legal workflows: research, memo drafting, due diligence, contract analysis, deal management. Trained on the firm's own data and precedent library. Kira / Litera ($10K+/yr) - gold standard for M&A due diligence contract review.\n\nCONCRETE ROI NUMBERS\n\nLegal research: 8 hrs/week -> 2 hrs/week = 75% time savings. At $200/hr billable rate, that is $1,200/week saved per lawyer = $62K/year.\n\nDocument review: Reviewing 10K documents for discovery. Manual: 2 lawyers x 40 hrs = 80 hrs = $16K. AI-assisted: 1 lawyer x 10 hrs review + $500 tool cost = $2.5K. Saves $13.5K per case.\n\nContract drafting: First draft of a complex agreement. Manual: 6-8 hrs. AI-assisted: 1 hr to prompt + 1 hr to edit = 2 hrs. Saves 4-6 hrs per contract. If your firm does 50 contracts/month, that is 200-300 hrs/month saved.\n\nClient intake: Law firms using AI chatbots convert 40% more leads into consultations. Average case value in LATAM civil litigation: roughly $2-5K. One extra case per month covers the entire AI tool stack.\n\nBILLING & COLLECTIONS SPECIFICS\n\nAI solves the \"fear of billing\" problem. Many lawyers under-bill because they forget what they did. AI time tools (Clio, TimeSolv, Rocket Matter) auto-capture time from your calendar, emails, document edits. One study showed lawyers using AI time tracking bill 20% more hours without working more - they just capture what they already do.\n\nAI also generates narrative billing descriptions that clients actually understand, reducing disputes. \"Reviewed documents\" becomes \"Reviewed 47 pages of discovery responses regarding property valuation in Smith v. Jones, identified 3 inconsistencies requiring follow-up\" - all auto-written.\n\nLATIN AMERICA SPECIFIC OPPORTUNITIES\n\nParaguay and LATAM have some unique advantages for AI adoption:\n\nLower cost pressure: In markets where legal fees are $50-150/hr vs $300-800/hr in the US, efficiency gains matter more proportionally. A 50% time reduction can double your effective hourly rate.\n\nLanguage advantage: Spanish-language AI models have caught up dramatically. ChatGPT, Claude, and Gemini all handle Spanish legal language well. Harvey is adding Spanish support. For Paraguayan law specifically (which draws on Argentine and continental legal traditions), you need tools that understand civil law frameworks - most AI legal tools were built for common law but are adapting.\n (1/2)",
+   "starred": false
+  },
+  {
+   "id": 1758669,
+   "key_id": "3EB03961987496029E49EE",
+   "ts_ms": 1777221595000,
+   "ts_iso": "2026-04-26T16:39:55+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⚕ *Hermes Agent*\n────────────\nGaps to watch: Most top legal AI tools (Casetext, Westlaw, Harvey) were built for US/UK common law. They have less coverage of LATAM jurisprudence. The workaround: use general AI tools (Claude, ChatGPT) with your own legal databases, or work with local legal tech providers like LexLatin, Tirant lo Blanch, or local startups that are building civil-law-specific tools.\n\nCompliance angle: Paraguay's recent data protection law and anti-money laundering regulations create compliance burden. AI can monitor regulatory changes and automate compliance checklists.\n\nPRACTICAL IMPLEMENTATION ROADMAP\n\nMonth 1-2: Start with ChatGPT Plus or Claude Pro. Use only for: drafting, summarization, brainstorming. Do NOT put client data in. Get the team used to prompting. Cost: $20/mo.\n\nMonth 2-3: Add Casetext CoCounsel ($400/mo) for research and document analysis. Train 1-2 power users first. Measure time savings before rolling out firm-wide.\n\nMonth 3-4: Implement AI time tracking (Clio or TimeSolv). This alone often funds the rest. Lawyers see their billable utilization jump 15-25%.\n\nMonth 4-6: Add contract analysis (Evisort or Ironclad if volume is high) and AI client intake chatbot. Now you have the full stack.\n\nMonth 6-12: Explore advanced use cases: AI for due diligence, predictive case analytics (build from your own firm's case history data), custom AI agents trained on your firm's precedent library.\n\nPITFALLS TO AVOID\n\n1. Do NOT paste confidential client data into free ChatGPT. Use enterprise tools with SOC 2, GDPR, and data processing agreements.\n\n2. AI hallucinates case citations. Always Shepardize/verify. Casetext and Lexis+ have lower hallucination rates because they retrieve from known databases, not generate from scratch.\n\n3. Do not buy an expensive enterprise tool before testing. Most offer free trials. Start cheap, prove ROI, then scale.\n\n4. Do not expect associates to adopt AI on their own. The biggest failure mode is buying tools nobody uses. Assign a \"legal AI champion\" in the firm, set usage targets, and track adoption metrics.\n\n5. In LATAM, payment in USD for SaaS tools can hurt. Look for LATAM-based resellers or negotiate annual billing for discounts.\n\nSKILLS YOUR FIRM NEEDS TO BUILD\n\nPrompt engineering for legal writing - how to write prompts that produce court-ready drafting. Document AI review protocols - standards for what AI can do autonomously vs. what requires lawyer review. Data hygiene - organizing your precedent library and case files so AI can learn from them. Client consent processes - how to explain AI use to clients ethically.\n\nWHERE THIS IS GOING (12-24 MONTHS)\n\nAI agents that handle entire workflows, not just tasks. Harvey already has \"Harvey Agents\" that execute legal work end-to-end - upload a contract and it drafts the review memo, flags issues, and suggests negotiation positions. Custom AI agents trained on your firm's own playbooks and past work product. Voice AI for client calls that transcribes, summarizes, and auto-generates conflict checks and intake forms. Court filing prediction - AI that tells you the optimal day and judge to file a motion based on historical patterns in your jurisdiction.\n\nThe gap between firms using AI and those not will widen dramatically over the next 2 years. The firms adopting now are building data moats - their AI gets better because it learns from more cases. Late adopters start from zero. (2/2)",
+   "starred": false
+  }
+ ]
+}

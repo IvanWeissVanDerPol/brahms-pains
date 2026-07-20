@@ -1,0 +1,291 @@
+{
+ "chat_id": 6583,
+ "slug": "_wa_group_copias_6583",
+ "subject": "Copias",
+ "jid_user": "120363292938759830",
+ "jid_server": "g.us",
+ "jid_raw": "120363292938759830@g.us",
+ "message_count": 22,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1283154,
+   "key_id": "B6FE5C9F0D536C28CF8B53E00B50A4D8",
+   "ts_ms": 1714757527000,
+   "ts_iso": "2024-05-03T17:32:07+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "👀👀👀",
+   "starred": false
+  },
+  {
+   "id": 1283160,
+   "key_id": "C1410694E0974CB6ADF01D37F01E1F5F",
+   "ts_ms": 1714757603000,
+   "ts_iso": "2024-05-03T17:33:23+00:00",
+   "from_me": false,
+   "sender_jid": "595984160109@s.whatsapp.net",
+   "type": 0,
+   "text": "57mil cada uno",
+   "starred": false
+  },
+  {
+   "id": 1283162,
+   "key_id": "3A553876BCAA99ABD5BE",
+   "ts_ms": 1714757639000,
+   "ts_iso": "2024-05-03T17:33:59+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 0,
+   "text": "Pasa nomás ya el alias y eso",
+   "starred": false
+  },
+  {
+   "id": 1283177,
+   "key_id": "F179C6C39553A69F3409795B61E4BEB7",
+   "ts_ms": 1714758105000,
+   "ts_iso": "2024-05-03T17:41:45+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "Sii",
+   "starred": false
+  },
+  {
+   "id": 1283238,
+   "key_id": "C3ADA0907DCF3FB369B4B2E1B91343B6",
+   "ts_ms": 1714759055000,
+   "ts_iso": "2024-05-03T17:57:35+00:00",
+   "from_me": false,
+   "sender_jid": "595984160109@s.whatsapp.net",
+   "type": 0,
+   "text": "5308115",
+   "starred": false
+  },
+  {
+   "id": 1283239,
+   "key_id": "C5046DD49552022D402D69045365601F",
+   "ts_ms": 1714759132000,
+   "ts_iso": "2024-05-03T17:58:52+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "Te paso a tu eko",
+   "starred": false
+  },
+  {
+   "id": 1283259,
+   "key_id": "3A3FD497F0D3CFCD239A",
+   "ts_ms": 1714759323000,
+   "ts_iso": "2024-05-03T18:02:03+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "LQ7p3v11JuY0ItWlvEh3H36PsqNaddPvviodjg/NEcE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1283581,
+   "key_id": "101DBA790005448D6DCD5ACC0E8B97B1",
+   "ts_ms": 1714832014000,
+   "ts_iso": "2024-05-04T14:13:34+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "4pcYN+KQvjTPJAKfoUj90R8wzkG7qC0qlnf/zRZhJUA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1283582,
+   "key_id": "E87840519BB5D9596DFAC465BF9D4FA8",
+   "ts_ms": 1714832067000,
+   "ts_iso": "2024-05-04T14:14:27+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "1ftZwZRUC//n4tbYpDapfjmJqjH4QJT8V8G6tZpWGtY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1283583,
+   "key_id": "BED81A0513CC6F83F0467C3F7AC80E72",
+   "ts_ms": 1714832157000,
+   "ts_iso": "2024-05-04T14:15:57+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 0,
+   "text": "Comida estudio miércoles\nPizzas / 10 + helados(80) / 9\n23.000 + 8.888 \nTotal 31.800",
+   "starred": false
+  },
+  {
+   "id": 1283584,
+   "key_id": "849F028B390AFF832797FC3F5D303D2E",
+   "ts_ms": 1714832197000,
+   "ts_iso": "2024-05-04T14:16:37+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 0,
+   "text": "El helado pagó Iván pero después nomás le transfiero (?",
+   "starred": false
+  },
+  {
+   "id": 1283587,
+   "key_id": "3A084CA53AFBC86ED7BC",
+   "ts_ms": 1714832321000,
+   "ts_iso": "2024-05-04T14:18:41+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 0,
+   "text": "Mandoo",
+   "starred": false
+  },
+  {
+   "id": 1283599,
+   "key_id": "3AA2FD82B1EAA13A01E4",
+   "ts_ms": 1714832433000,
+   "ts_iso": "2024-05-04T14:20:33+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 0,
+   "text": "Te mandé al pv el comprobante",
+   "starred": false
+  },
+  {
+   "id": 1301805,
+   "key_id": "3EB04E9F42C746C53C2DD4",
+   "ts_ms": 1718373481000,
+   "ts_iso": "2024-06-14T13:58:01+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 0,
+   "text": "holi",
+   "starred": false
+  },
+  {
+   "id": 1301924,
+   "key_id": "68883612149E3E1F9C",
+   "ts_ms": 1718379772000,
+   "ts_iso": "2024-06-14T15:42:52+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "holi",
+   "starred": false
+  },
+  {
+   "id": 1302016,
+   "key_id": "B5BCDF805B0E658F5942000328D1DC25",
+   "ts_ms": 1718382458000,
+   "ts_iso": "2024-06-14T16:27:38+00:00",
+   "from_me": false,
+   "sender_jid": "595984160109@s.whatsapp.net",
+   "type": 0,
+   "text": "44.000 cada uno",
+   "starred": false
+  },
+  {
+   "id": 1302019,
+   "key_id": "3A36E3557574DD3AB667",
+   "ts_ms": 1718382523000,
+   "ts_iso": "2024-06-14T16:28:43+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 0,
+   "text": "A qué cuenta?",
+   "starred": false
+  },
+  {
+   "id": 1302020,
+   "key_id": "8837D506C2B8F2CD7D1A3FAB8E8107E3",
+   "ts_ms": 1718382558000,
+   "ts_iso": "2024-06-14T16:29:18+00:00",
+   "from_me": false,
+   "sender_jid": "595984160109@s.whatsapp.net",
+   "type": 0,
+   "text": "A la mía",
+   "starred": false
+  },
+  {
+   "id": 1302021,
+   "key_id": "F2CA680FF03C184887ABBDEF2421C589",
+   "ts_ms": 1718382562000,
+   "ts_iso": "2024-06-14T16:29:22+00:00",
+   "from_me": false,
+   "sender_jid": "595984160109@s.whatsapp.net",
+   "type": 0,
+   "text": "5308115",
+   "starred": false
+  },
+  {
+   "id": 1302022,
+   "key_id": "3A9900905A668572625C",
+   "ts_ms": 1718382583000,
+   "ts_iso": "2024-06-14T16:29:43+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 0,
+   "text": "Dale",
+   "starred": false
+  },
+  {
+   "id": 1302023,
+   "key_id": "3ADEE1124BDCFB62A39C",
+   "ts_ms": 1718382584000,
+   "ts_iso": "2024-06-14T16:29:44+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 0,
+   "text": "Jjja",
+   "starred": false
+  },
+  {
+   "id": 1302024,
+   "key_id": "5E17F5E7683A1BA9589F",
+   "ts_ms": 1718382679000,
+   "ts_iso": "2024-06-14T16:31:19+00:00",
+   "from_me": false,
+   "sender_jid": "595982510082@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 4432,
+    "duration_s": 0,
+    "sha256_b64": "XlU0Dh6xWckH4kyUnUN9O7W+zRefZO/SXPP5A7jk/D8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

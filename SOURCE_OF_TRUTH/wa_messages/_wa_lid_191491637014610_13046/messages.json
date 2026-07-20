@@ -1,0 +1,46 @@
+{
+ "chat_id": 13046,
+ "slug": "_wa_lid_191491637014610_13046",
+ "subject": null,
+ "jid_user": "191491637014610",
+ "jid_server": "lid",
+ "jid_raw": "191491637014610@lid",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1644687,
+   "key_id": "ACA4DE67F159685D4F1EB04CA321E39D",
+   "ts_ms": 1767538756000,
+   "ts_iso": "2026-01-04T14:59:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! soy tu driver de Monchis app ...",
+   "starred": false
+  },
+  {
+   "id": 1644688,
+   "key_id": "ACF07941C9CE1AB2B2EBE373C0FF0091",
+   "ts_ms": 1767538758000,
+   "ts_iso": "2026-01-04T14:59:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya llegué",
+   "starred": false
+  },
+  {
+   "id": 1644689,
+   "key_id": "AC1E23D2937A8619956F87705C273E23",
+   "ts_ms": 1767538767260,
+   "ts_iso": "2026-01-04T14:59:27.260000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

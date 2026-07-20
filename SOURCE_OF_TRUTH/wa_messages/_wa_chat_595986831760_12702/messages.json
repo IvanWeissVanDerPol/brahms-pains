@@ -1,0 +1,112 @@
+{
+ "chat_id": 12702,
+ "slug": "_wa_chat_595986831760_12702",
+ "subject": null,
+ "jid_user": "595986831760",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986831760@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1781314,
+   "key_id": "AC1445830F8D3FC7754A2899EBC03D20",
+   "ts_ms": 1779401248490,
+   "ts_iso": "2026-05-21T22:07:28.490000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola por donde están ?",
+   "starred": false
+  },
+  {
+   "id": 1781316,
+   "key_id": "AC32A4F399619BD221411C20CED42A0F",
+   "ts_ms": 1779401285000,
+   "ts_iso": "2026-05-21T22:08:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola por Asunción",
+   "starred": false
+  },
+  {
+   "id": 1781317,
+   "key_id": "AC69884D90EE780D06C0708306BA62C0",
+   "ts_ms": 1779401291000,
+   "ts_iso": "2026-05-21T22:08:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y vos de dónde sos",
+   "starred": false
+  },
+  {
+   "id": 1781318,
+   "key_id": "AC412675ADB17B54ECD26ACBE4AB41FF",
+   "ts_ms": 1779401321856,
+   "ts_iso": "2026-05-21T22:08:41.856000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy de San Lorenzo",
+   "starred": false
+  },
+  {
+   "id": 1781319,
+   "key_id": "ACF9C3048CBB25F5F8C571B555AC67E8",
+   "ts_ms": 1779401324782,
+   "ts_iso": "2026-05-21T22:08:44.782000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hacia la una",
+   "starred": false
+  },
+  {
+   "id": 1781322,
+   "key_id": "ACC0023A642655681872EDDBB2059770",
+   "ts_ms": 1779401356000,
+   "ts_iso": "2026-05-21T22:09:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahhhhh ya entiendo",
+   "starred": false
+  },
+  {
+   "id": 1781329,
+   "key_id": "AC4190B64C9A588FF0F21ED1B7C69176",
+   "ts_ms": 1779402224000,
+   "ts_iso": "2026-05-21T22:23:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y no soles venír por Mariano Roque Alonso?",
+   "starred": false
+  },
+  {
+   "id": 1781336,
+   "key_id": "AC0C14627317D9D806CFC5FDECCDDEF9",
+   "ts_ms": 1779402449485,
+   "ts_iso": "2026-05-21T22:27:29.485000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puedo ir en Bolt y eso :)",
+   "starred": false
+  },
+  {
+   "id": 1781337,
+   "key_id": "ACECCCFC0906D06FD8B478A02A8EC579",
+   "ts_ms": 1779402467124,
+   "ts_iso": "2026-05-21T22:27:47.124000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://photos.app.goo.gl/3BaVYjwKQqyh1Poq6\n\nAcá tienen unas fotos de mi",
+   "starred": false
+  }
+ ]
+}

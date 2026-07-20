@@ -1,0 +1,112 @@
+{
+ "chat_id": 11997,
+ "slug": "_wa_chat_595974525749_11997",
+ "subject": null,
+ "jid_user": "595974525749",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595974525749@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1591991,
+   "key_id": "AC17BEA0EF572E75F588587D8A1383EB",
+   "ts_ms": 1760708727480,
+   "ts_iso": "2025-10-17T13:45:27.480000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello! Can I get more info on this?",
+   "starred": false
+  },
+  {
+   "id": 1591992,
+   "key_id": "A511EE12990CDCC78F3C1523C56BB80D",
+   "ts_ms": 1760708740000,
+   "ts_iso": "2025-10-17T13:45:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Happy bites. ¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1591993,
+   "key_id": "A5FB6D7C7672E287A3327E7260AD4030",
+   "ts_ms": 1760708800000,
+   "ts_iso": "2025-10-17T13:46:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa",
+   "starred": false
+  },
+  {
+   "id": 1591994,
+   "key_id": "AC935EDEAFAC813D39FFD38343F9FFBC",
+   "ts_ms": 1760708821124,
+   "ts_iso": "2025-10-17T13:47:01.124000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A cuánto estan los brownies?",
+   "starred": false
+  },
+  {
+   "id": 1591995,
+   "key_id": "AC82F036AD0236A0DA5B9284672688A7",
+   "ts_ms": 1760708839911,
+   "ts_iso": "2025-10-17T13:47:19.911000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para aclarar con cannabis son verdad?",
+   "starred": false
+  },
+  {
+   "id": 1591997,
+   "key_id": "A532076D03EB1F159FA2D24107FD1401",
+   "ts_ms": 1760708846000,
+   "ts_iso": "2025-10-17T13:47:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Siik",
+   "starred": false
+  },
+  {
+   "id": 1591998,
+   "key_id": "AC8D37239D24AAF0450606735C385493",
+   "ts_ms": 1760709017456,
+   "ts_iso": "2025-10-17T13:50:17.456000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A cuánto están ?",
+   "starred": false
+  },
+  {
+   "id": 1591999,
+   "key_id": "ACC640BF35A96CC7ED3EF4050DF647AA",
+   "ts_ms": 1760709022265,
+   "ts_iso": "2025-10-17T13:50:22.265000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y cuánto tienen?",
+   "starred": false
+  },
+  {
+   "id": 1592016,
+   "key_id": "A5DAAFFE320A0896E3665786E5F47B34",
+   "ts_ms": 1760709969000,
+   "ts_iso": "2025-10-17T14:06:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A 20 y 25 mil extra fuerte",
+   "starred": false
+  }
+ ]
+}

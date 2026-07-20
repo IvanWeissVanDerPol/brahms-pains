@@ -1,0 +1,178 @@
+{
+ "chat_id": 7651,
+ "slug": "_wa_chat_595971758036_7651",
+ "subject": null,
+ "jid_user": "595971758036",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971758036@s.whatsapp.net",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1335692,
+   "key_id": "3A84DE2647F9C2D389E7",
+   "ts_ms": 1722972997000,
+   "ts_iso": "2024-08-06T19:36:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo quiero!! Jaja",
+   "starred": false
+  },
+  {
+   "id": 1335696,
+   "key_id": "3A0368E365C00203ED9E",
+   "ts_ms": 1722973005000,
+   "ts_iso": "2024-08-06T19:36:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Justamente estuve aplicando para QA",
+   "starred": false
+  },
+  {
+   "id": 1335697,
+   "key_id": "3A31D45102A9146ADA8B",
+   "ts_ms": 1722973017000,
+   "ts_iso": "2024-08-06T19:36:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En su momento pero me hacia falta este curso creo",
+   "starred": false
+  },
+  {
+   "id": 1335698,
+   "key_id": "5B625B6E29CDF96C6806A24D1BBAAA46",
+   "ts_ms": 1722973043359,
+   "ts_iso": "2024-08-06T19:37:23.359000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Prepara tu resume y paso :)",
+   "starred": false
+  },
+  {
+   "id": 1335699,
+   "key_id": "3B52B894E8B8FA479165E7714C53B540",
+   "ts_ms": 1722973056644,
+   "ts_iso": "2024-08-06T19:37:36.644000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://jsonresume.org/",
+   "starred": false
+  },
+  {
+   "id": 1335701,
+   "key_id": "11638DC07C76F0F6F5662F0FBBEA0973",
+   "ts_ms": 1722973070975,
+   "ts_iso": "2024-08-06T19:37:50.975000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "X si no tenes template y querés uno estilo americano",
+   "starred": false
+  },
+  {
+   "id": 1335702,
+   "key_id": "BB253A1DD4A1322A9CEE0CAD805EE87D",
+   "ts_ms": 1722973074610,
+   "ts_iso": "2024-08-06T19:37:54.610000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mando",
+   "starred": false
+  },
+  {
+   "id": 1335703,
+   "key_id": "3A523D15C311E83C9752",
+   "ts_ms": 1722973076000,
+   "ts_iso": "2024-08-06T19:37:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahh",
+   "starred": false
+  },
+  {
+   "id": 1335704,
+   "key_id": "3AC8C81C419AEEA973DC",
+   "ts_ms": 1722973085000,
+   "ts_iso": "2024-08-06T19:38:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me sirve la info",
+   "starred": false
+  },
+  {
+   "id": 1335705,
+   "key_id": "3A0A5C3A4C7F72EB599D",
+   "ts_ms": 1722973111000,
+   "ts_iso": "2024-08-06T19:38:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo que volver a subir tambien yo?",
+   "starred": false
+  },
+  {
+   "id": 1335706,
+   "key_id": "24AC668B3838DE9BA4E8F323C4EEC543",
+   "ts_ms": 1722973126420,
+   "ts_iso": "2024-08-06T19:38:46.420000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Creo que no\n\nSubo a la plataforma de refferal",
+   "starred": false
+  },
+  {
+   "id": 1335707,
+   "key_id": "3AE068CBD292880D84D5",
+   "ts_ms": 1722973138000,
+   "ts_iso": "2024-08-06T19:38:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1335708,
+   "key_id": "3A5F3B6F101F1E6D2A08",
+   "ts_ms": 1722973168000,
+   "ts_iso": "2024-08-06T19:39:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Porque cuando la vez que aplique",
+   "starred": false
+  },
+  {
+   "id": 1335709,
+   "key_id": "3A534848F38B66A5DFE5",
+   "ts_ms": 1722973183000,
+   "ts_iso": "2024-08-06T19:39:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Un conocido me hizo subir por mi cuenta",
+   "starred": false
+  },
+  {
+   "id": 1335710,
+   "key_id": "3A63313AF30E45FC0E34",
+   "ts_ms": 1722973190000,
+   "ts_iso": "2024-08-06T19:39:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y aparte hizo lo del refferal",
+   "starred": false
+  }
+ ]
+}

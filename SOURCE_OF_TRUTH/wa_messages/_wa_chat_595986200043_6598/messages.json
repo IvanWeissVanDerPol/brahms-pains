@@ -1,0 +1,46 @@
+{
+ "chat_id": 6598,
+ "slug": "_wa_chat_595986200043_6598",
+ "subject": null,
+ "jid_user": "595986200043",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986200043@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1285511,
+   "key_id": "598AAB8EC0BD195665",
+   "ts_ms": 1715213664000,
+   "ts_iso": "2024-05-09T00:14:24+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola me interesa\n\nMultiprocesador Midea 1,5 litros 800W Negro",
+   "starred": false
+  },
+  {
+   "id": 1285533,
+   "key_id": "67EB2FC27B8CE7423B",
+   "ts_ms": 1715217256000,
+   "ts_iso": "2024-05-09T01:14:16+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Multiprocesador Philips HR7302/90 serie 5000 6 acc. 750W",
+   "starred": false
+  },
+  {
+   "id": 1286174,
+   "key_id": "93051191F38A03CB68",
+   "ts_ms": 1715348539000,
+   "ts_iso": "2024-05-10T13:42:19+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buenas",
+   "starred": false
+  }
+ ]
+}

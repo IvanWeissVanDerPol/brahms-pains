@@ -1,0 +1,79 @@
+{
+ "chat_id": 2274,
+ "slug": "_wa_chat_595986743708_2274",
+ "subject": null,
+ "jid_user": "595986743708",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986743708@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1618816,
+   "key_id": "AC75435D898414C1ABDD49FD0304514D",
+   "ts_ms": 1764096444469,
+   "ts_iso": "2025-11-25T18:47:24.469000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nUna pregunta random \n\nBrosco por si acaso no le interesa contactar con empresas para ayudarle con el setup de ai assisted development?\n\nEstoy en una startup donde hacemos soluciones IA y ayudamos a empresas a usar la tecnología \nYa que nosotros investigamos todo y les pasamos el key info +  initial setup de todos los config rules skills hooks etc",
+   "starred": false
+  },
+  {
+   "id": 1618818,
+   "key_id": "AC92E5C9D2ADF4F8261CC8DBAD335862",
+   "ts_ms": 1764096535482,
+   "ts_iso": "2025-11-25T18:48:55.482000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.ai-whisperers.org/",
+   "starred": false
+  },
+  {
+   "id": 1619070,
+   "key_id": "AC3107011C5D33F111BBA85F917169D9",
+   "ts_ms": 1764105350000,
+   "ts_iso": "2025-11-25T21:15:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holii",
+   "starred": false
+  },
+  {
+   "id": 1619072,
+   "key_id": "AC65C175208AE41834F6374FC105793F",
+   "ts_ms": 1764105368000,
+   "ts_iso": "2025-11-25T21:16:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ni ideaa, yo no trabajo ahí",
+   "starred": false
+  },
+  {
+   "id": 1619073,
+   "key_id": "ACCA83BAE2AB29AC6E207E90EB61C272",
+   "ts_ms": 1764105380000,
+   "ts_iso": "2025-11-25T21:16:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "😬",
+   "starred": false
+  },
+  {
+   "id": 1619076,
+   "key_id": "AC7D0B82EBA2F1C4E36E61102BD358C6",
+   "ts_ms": 1764105410893,
+   "ts_iso": "2025-11-25T21:16:50.893000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Chill jdjdjsj",
+   "starred": false
+  }
+ ]
+}

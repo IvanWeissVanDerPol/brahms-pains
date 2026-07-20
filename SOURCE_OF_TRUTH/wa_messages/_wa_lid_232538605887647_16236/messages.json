@@ -1,0 +1,35 @@
+{
+ "chat_id": 16236,
+ "slug": "_wa_lid_232538605887647_16236",
+ "subject": null,
+ "jid_user": "232538605887647",
+ "jid_server": "lid",
+ "jid_raw": "232538605887647@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1794663,
+   "key_id": "ACAD5B3B53B3609AD89C476F341ED32C",
+   "ts_ms": 1780717827808,
+   "ts_iso": "2026-06-06T03:50:27.808000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1794664,
+   "key_id": "6AB5A0B54C601322CF45",
+   "ts_ms": 1780717832000,
+   "ts_iso": "2026-06-06T03:50:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por tu mensaje. En este momento no estamos disponibles, nuestro horario de atención es de jueves a domingos de 18:30hs a 22:30hs. Te responderemos tan pronto regresemos. 🍔❤️🔥",
+   "starred": false
+  }
+ ]
+}

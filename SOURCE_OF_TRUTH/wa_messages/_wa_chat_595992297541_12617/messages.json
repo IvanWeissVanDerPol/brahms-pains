@@ -1,0 +1,108 @@
+{
+ "chat_id": 12617,
+ "slug": "_wa_chat_595992297541_12617",
+ "subject": null,
+ "jid_user": "595992297541",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992297541@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1602573,
+   "key_id": "AC99D7FBFCEAE8CB286A6335E2B498A0",
+   "ts_ms": 1761919925297,
+   "ts_iso": "2025-10-31T14:12:05.297000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Recepcion imágenes",
+   "starred": false
+  },
+  {
+   "id": 1602575,
+   "key_id": "AC5E456D8E53F38EB3A87B56F3E3F410",
+   "ts_ms": 1761919939778,
+   "ts_iso": "2025-10-31T14:12:19.778000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251017-WA0026.jpg",
+    "size": 73986,
+    "duration_s": 0,
+    "sha256_b64": "tNQlp5XBSy4RYWt75TjqSF2TFqVY4DLSXJGZHAZBMWA=",
+    "media_name": "2fd3ed1a-96f1-459b-b326-a377ab9ce2f5.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1602576,
+   "key_id": "AC1BD4F66C79652C8C632053CF0872BB",
+   "ts_ms": 1761919939798,
+   "ts_iso": "2025-10-31T14:12:19.798000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251017-WA0027.jpg",
+    "size": 99484,
+    "duration_s": 0,
+    "sha256_b64": "gIpobEnWZFgL+hNG7000wxYiHOigMUDAJHH/uuHdC0c=",
+    "media_name": "7969d934-2d65-4ec4-aef1-701e8897a6cc.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1602577,
+   "key_id": "3EB0D8AD3134D0B496074E",
+   "ts_ms": 1761920081000,
+   "ts_iso": "2025-10-31T14:14:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas señor, consultaremos",
+   "starred": false
+  },
+  {
+   "id": 1602640,
+   "key_id": "3EB0E6D38B8A9F5B441694",
+   "ts_ms": 1761925103000,
+   "ts_iso": "2025-10-31T15:38:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no realizamos este estudio aqui",
+   "starred": false
+  },
+  {
+   "id": 1602641,
+   "key_id": "AC299BE487891EB2EE660CCBB54B8520",
+   "ts_ms": 1761925117915,
+   "ts_iso": "2025-10-31T15:38:37.915000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sabrían donde puedo hacer ?",
+   "starred": false
+  },
+  {
+   "id": 1602648,
+   "key_id": "3EB0919A31200CFCB58010",
+   "ts_ms": 1761925925000,
+   "ts_iso": "2025-10-31T15:52:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puede averiguar en Iribas \n021 225-145",
+   "starred": false
+  }
+ ]
+}

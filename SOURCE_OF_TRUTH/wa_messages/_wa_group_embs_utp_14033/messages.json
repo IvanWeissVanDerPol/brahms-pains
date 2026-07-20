@@ -1,0 +1,835 @@
+{
+ "chat_id": 14033,
+ "slug": "_wa_group_embs_utp_14033",
+ "subject": "EMBS UTP 🧪💜💙",
+ "jid_user": "120363420021816192",
+ "jid_server": "g.us",
+ "jid_raw": "120363420021816192@g.us",
+ "message_count": 42,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1733212,
+   "key_id": "AC8091AEF198A5A330D467D7E9753E88",
+   "ts_ms": 1774386931000,
+   "ts_iso": "2026-03-24T21:15:31+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 1,
+   "text": "📢 ¡Te invitamos a nuestro segundo webinar del año!\n\nConoce el último lanzamiento de Fluke Biomedical: el analizador de seguridad eléctrica ESA 715, diseñado para optimizar pruebas, mejorar la precisión y automatizar procesos en equipos médicos.\n\n📌 Regístrate escaneando el código QR ó a través del link  https://forms.gle/gxx111ATBmcQmKFGA\n\n¡No te lo pierdas! ✅",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260325-WA0012.jpg",
+    "size": 289455,
+    "duration_s": 0,
+    "sha256_b64": "IAmZRoc0WNIP/mVqGrA7gVSZA64iBfuMbcu80x5vWP0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1739333,
+   "key_id": "ACD4620814601F23BD5DAF1E9A8F7C99",
+   "ts_ms": 1774970193000,
+   "ts_iso": "2026-03-31T15:16:33+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "🧬 *CLASE GRATUITA: Microscopio Computacional de Proteínas*\n\n¿Te interesa entender cómo se modelan proteínas cuando no hay datos experimentales?\n\nEn esta clase de *LYN BIOLEARNING* aprenderás cómo usar herramientas computacionales para construir y validar modelos de proteínas con aplicaciones reales en biotecnología y diseño de fármacos.\n\n🔗 *Inscríbete aquí:* https://luma.com/0dmbalsh\n\n📅 Domingo 5 de abril\n⏰ 7:00 – 9:30 PM (Perú)\n💻 Online – Google Meet\n\nAprenderás:\n• Métodos clave (homología, threading, IA, ab initio)\n• Validación estructural (Ramachandran, scores)\n• Cómo identificar regiones confiables\n• Aplicaciones en biotech y drug design\n\n*Cupos limitados — separa tu lugar.*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260331-WA0022.jpg",
+    "size": 401299,
+    "duration_s": 0,
+    "sha256_b64": "s4N9dZ4AkF32t8IItgeRkOyjOozgsH+f3lOvb7vF3WE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1743840,
+   "key_id": "ACC21843E39488C99C36697EB54F8753",
+   "ts_ms": 1775411133000,
+   "ts_iso": "2026-04-05T17:45:33+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 1,
+   "text": "🐾 PawMotion 2026 abre oficialmente sus inscripciones 🎉\nUn evento donde la innovación, la tecnología y el movimiento se unen para crear algo increíble 💡⚙️\n\n📅 Fechas: del 13 al 26 de abril\n🎓 Talleres, ponencias y hackathon\n🤝 Conecta, aprende y crea junto a una comunidad apasionada\n\n💻 Asegura tu lugar aquí 👇\n🔗 https://forms.gle/utHRygwqD43jaSMU6\n\n⚡ No te quedes fuera de esta experiencia única",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "5vNz7NME3WEb4ecptZVmVmwdaDz/YR82HdToH/CTA54=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1743841,
+   "key_id": "AC83CACC03109B5EC4E7D561615BEF50",
+   "ts_ms": 1775411134000,
+   "ts_iso": "2026-04-05T17:45:34+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "6h0qvjrNU6qWaY4UNKTeP30M5wowLvJPCTJdmbgWFww=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1743842,
+   "key_id": "AC133A9C179A4DA832468715C45A337B",
+   "ts_ms": 1775411135000,
+   "ts_iso": "2026-04-05T17:45:35+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Bb/M9c/fyl0BBdvp6AY/fl1jk7KFV2jNioGfqDwMRvE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1743843,
+   "key_id": "AC538E0F9A313ED420CF428759A2F820",
+   "ts_ms": 1775411136000,
+   "ts_iso": "2026-04-05T17:45:36+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "986rVhZSaDiKPxi7GrXm9dQHD3mJRiyUbS8aHC4xvM0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1751666,
+   "key_id": "AC381EA3E31291B397714A6ED8564FA7",
+   "ts_ms": 1776218691000,
+   "ts_iso": "2026-04-15T02:04:51+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 0,
+   "text": "https://www.instagram.com/p/DXIl9c4jUQ2/?igsh=dTR6dzloc3F6dmo2",
+   "starred": false
+  },
+  {
+   "id": 1753377,
+   "key_id": "ACE1ED55148AC764BC433BCC53A9BC2B",
+   "ts_ms": 1776444657000,
+   "ts_iso": "2026-04-17T16:50:57+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "👋🏻 El *Capítulo de Ingeniería Electrónica*, mediante su *Comité Especializado de Biomédica* y en colaboración con  la empresa *Dräger*, los invita a participar del *Full day: \"Ingeniería Biomédica - Tecnología para la vida\"* .\n\n👉🏻 *Inscríbete:* https://campus.ciplima.org.pe/programa-de-capacitacion/1122\n\n🗓️ *Martes* 21 de abril\n⏰ *Hora:* 09:00 - 20:00 hrs (Hora Perú)\n💻 *Modalidad:* presencial\n📍 *Lugar:* Sala SUM 2 (Torre 1 - 4to piso), ubicada en calle Barcelona 295, San Isidro.\n\n📃 *Costo de certificado (opcional):*\n* Ing. Habilitado: S/. 50\n* Ing. no hábil y Público interesado: S/. 60\n\n🚨 *Vacantes limitadas* 🚨\n\n☑ *Informes:*\nTeléfono: 202 5030 \nWhatsApp: 963 843 870\nCorreo: inscripcioneselectronica@ciplima.org.pe",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260417-WA0008.jpg",
+    "size": 305531,
+    "duration_s": 0,
+    "sha256_b64": "Bopyp9I/2ZudTpSNw6REwwpG4VXYtqC/a+DPAhYkptU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1755120,
+   "key_id": "AC53CEE07C901259AC7D8C0F60CEDABD",
+   "ts_ms": 1776718903000,
+   "ts_iso": "2026-04-20T21:01:43+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 1,
+   "text": "👋🏻 El *Capítulo de Ingeniería Electrónica*, mediante su *Comité Especializado de Biomédica* y en colaboración con  la empresa *Dräger*, los invita a participar del *Full day: \"Ingeniería Biomédica - Tecnología para la vida\"* .\n\n👉🏻 *Inscríbete:* https://campus.ciplima.org.pe/programa-de-capacitacion/1122\n\n🗓️ *Martes* 21 de abril\n⏰ *Hora:* 09:00 - 20:00 hrs (Hora Perú)\n💻 *Modalidad:* presencial\n📍 *Lugar:* Sala SUM 2 (Torre 1 - 4to piso), ubicada en calle Barcelona 295, San Isidro.\n\n📃 *Costo de certificado (opcional):*\n* Ing. Habilitado: S/. 50\n* Ing. no hábil y Público interesado: S/. 60\n\n🚨 *Vacantes limitadas* 🚨\n\n☑ *Informes:*\nTeléfono: 202 5030 \nWhatsApp: 963 843 870\nCorreo: inscripcioneselectronica@ciplima.org.pe",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Bopyp9I/2ZudTpSNw6REwwpG4VXYtqC/a+DPAhYkptU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1757187,
+   "key_id": "AC7622D38ABE30C6165D1C0CB92A7BA1",
+   "ts_ms": 1777067080000,
+   "ts_iso": "2026-04-24T21:44:40+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 1,
+   "text": "🐾 *PAWMOTION 2026 — ¡ÚNETE A LA GRAN FINAL!* 🐾\n\n¿Quieres ver en vivo cómo estudiantes presentan sus diseños de prótesis para perros reales? 🐕‍🦴\n\nHoy, *viernes 24 de abril* se realiza la presentación final de la Hackathon PawMotion 2026 y estás invitado/a a ser parte del público. 🎉\n\n📍 *Lugar:* Auditorio UTP – Sede Central Av petit thouars 116\n🎤 *Exposiciones:* desde las *7:00 pm*\n\nEntrada libre ✅. Traer DNI físico si eres externo\n\nVen a ver cómo la ingeniería biomédica puede cambiar la vida de un animal. 💓\n\n¡Te esperamos!",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260424-WA0022.jpg",
+    "size": 499783,
+    "duration_s": 0,
+    "sha256_b64": "4DO6rdunX7xfUXMMyV2gFCETgQh8FiPovrw2cWJ8ZnY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1775349,
+   "key_id": "AC74F1891D68CCC89335047032FBED18",
+   "ts_ms": 1778519725000,
+   "ts_iso": "2026-05-11T17:15:25+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 1,
+   "text": "*💻 Webinar: Introducción a la Metrología Biomédica*\n\n¿Te interesa el área hospitalaria, mantenimiento biomédico o equipos médicos? 👀\nIEEE EMBS UTP junto a SET&GAD realizará una ponencia virtual sobre metrología biomédica, donde aprenderás conceptos clave como calibración, trazabilidad, verificación y control de calidad en equipos médicos.\n\nAdemás, se mostrarán aplicaciones reales dentro del entorno clínico y hospitalario 🏥⚡\n\n📅 Jueves 14 de mayo\n📍 Modalidad virtual vía Zoom\n🎙 Ponente: Ing. Sleyder Aguilar\n📩 Los inscritos recibirán el link y acceso al grupo de WhatsApp.\nhttps://forms.gle/yJgMHDEzbwZLRB2g8",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "6kO3KfxcwfWkDZCRKBYTiDPciWe/lkRc+i0exf8GLIg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1775889,
+   "key_id": "3EB034B7372523692D91C7",
+   "ts_ms": 1778604911000,
+   "ts_iso": "2026-05-12T16:55:11+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "*🦾 CLASE GRATUITA: De la Célula al Código: Modelamiento Biológico con Python*\n\nDesde *LYN BIOLEARNING* te invitamos a esta sesión donde aprenderás cómo se utilizan herramientas computacionales para modelar *procesos biológicos y dinámicas celulares usando Python* 🧬💻\n\nRevisaremos fundamentos clave del *modelamiento biológico*, desde la introducción a *Python* y modelos simples de *dinámicas celulares,* hasta el planteamiento de *sistemas de ecuaciones diferenciales* y el modelamiento de *expresión genética* en genes constitutivos e inducibles.\n\n🗓 *Fecha:* 17 de mayo\n⏰ *Hora:* 7:00 PM (Perú–Colombia)\n💻 *Modalidad:* Google Meet\n\n👉 *Únete a nuestra comunidad:*\nhttps://chat.whatsapp.com/Km9fBVnHAq18ZFnoRhHh7i\n\n🚀 Empieza a integrar programación y biología para fortalecer tu perfil en biología de sistemas y modelamiento computacional.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "qT78KAm5oE+M+Nflzrrr+OvFJiaxot2HZqml+tNhQRI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1778920,
+   "key_id": "ACE4C44985E10FCE4BED6D5EA0BD1E5D",
+   "ts_ms": 1779060411000,
+   "ts_iso": "2026-05-17T23:26:51+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 1,
+   "text": "*¿Alguna vez te preguntaste cómo es realmente el proceso de postular a una beca internacional? ✈️🌎*\n\nNo el proceso ideal, sino el real: los requisitos, los tiempos, los errores y las decisiones que marcan la diferencia. 👀\n\n*IEEE UTP* presenta *Level Up*, un espacio donde conectarás con estudiantes destacados que ya vivieron la experiencia y te contarán cómo lo lograron.\n\n📌Conoce todos los detalles de nuestra *primera edición:* https://goo.su/RQwU7nL\n\n📅 Fechas: Domingo 17 y 24 de mayo.\n⏰ Hora: 7:00 p.m.\n💻 Plataforma: Microsoft Teams.\n\n¡Tu experiencia internacional puede comenzar con un solo paso! 💫\n\n🔗 *Inscríbete aquí:* https://luma.com/4izpx5qq",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260517-WA0059.jpg",
+    "size": 315549,
+    "duration_s": 0,
+    "sha256_b64": "fLcBuEJpXCWJfNZFAA3iM3N7wTf6vDGLx2609B0bvnE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1778936,
+   "key_id": "AC13D7E4FD07E5E052453D8FA760C238",
+   "ts_ms": 1779062271000,
+   "ts_iso": "2026-05-17T23:57:51+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 0,
+   "text": "📢 ¡Estamos a punto de comenzar!\n\nEn unos minutos arranca la primera sesión de **Level Up: Un paso más**. Si aún no estás en la sala, este es tu momento 👇🏻\n\n🔗 Únete aquí:\nhttps://teams.microsoft.com/meet/249438952020224?p=JpUJYc9PzubgWHdklq\n\nNos alegra que estés aquí. ¡Que empiece! 🎯",
+   "starred": false
+  },
+  {
+   "id": 1781148,
+   "key_id": "ACFBD6AF860061A75CD8D66C73E5B0FE",
+   "ts_ms": 1779387478000,
+   "ts_iso": "2026-05-21T18:17:58+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "Summer School Internacional: Inteligencia Artificial, Salud e Innovación\n\nTe invitamos a participar en una charla informativa sobre el programa internacional Emerging Technologies to Support Health Care and Independent Living, desarrollado por la Pontificia Universidad Javeriana de Bogotá.\n\nDurante la sesión se presentarán los objetivos del programa, sus contenidos, modalidad, actividades académicas y oportunidades de participación en una experiencia internacional vinculada a salud digital, innovación y tecnologías emergentes.\n\nParticipan:\nPh. D. Martha Zequera – Chair del Summer School 2026\nMag. Leslie Cieza – Moderadora\n\n📲 Dirigido a:\nEstudiantes de ingeniería electrónica, mecatrónica, biomédica y afines.\n\n🗓️ Fecha: Viernes 22.05.2026\n⏰ Hora: 7:00 PM - 8:00PM\n🌎 Zona horaria: Lima, Perú\n💻 Modalidad: virtual vía Google Meet\n\n🔗 Enlace de la charla:\nhttps://meet.google.com/iqe-vhjb-anu\n\n🌐 Más información del Summer School:\nhttps://educacionvirtual.javeriana.edu.co/emerging-technologies-to-support-health\n\nUna oportunidad para conocer de cerca una experiencia académica internacional enfocada en innovación, inteligencia artificial y salud.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260521-WA0016.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "UcBJUVxLm0q+1VJHMMxQa8CejDaeiJy5ZBoe+iTIgDM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1786104,
+   "key_id": "AC555425BA56F7ABCB51337C5F3B8453",
+   "ts_ms": 1779753955000,
+   "ts_iso": "2026-05-26T00:05:55+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 1,
+   "text": "Buenas noches, estamos por empezar con el primer día 💜\n\nFronteras de la Ingeniería Biomédica | Segunda Edición\nMonday, May 25 · 6:45 – 10:00pm\nTime zone: America/Guayaquil\nGoogle Meet joining info\nVideo call link: https://meet.google.com/gny-oraa-ueu\nOr dial: ‪(EC) +593 95 866 6050‬ PIN: ‪457 676 469 6604‬#\nMore phone numbers: https://tel.meet/gny-oraa-ueu?pin=4576764696604",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260524-WA0045.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "KvaDOSBY1FQZL/1xc31UNBGVQm2HflT4yc7gKX/vSLk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1786119,
+   "key_id": "3EB013A4628229B3037B2B",
+   "ts_ms": 1779756489000,
+   "ts_iso": "2026-05-26T00:48:09+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "✨ Hoy queremos destacar la participación de nuestros representantes de la Universidad Tecnológica del Perú en la Segunda Edición de Fronteras de la Ingeniería Biomédica 💜🔬\n\n👏 Sergio Taipe y Oswaldo Flores presentarán la ponencia:\n\n🧠 “Elaboración de electrodos poliméricos flexibles para la medición de biopotencial”\n\nUna investigación enfocada en el desarrollo de tecnologías biomédicas innovadoras para el monitoreo y análisis de señales biológicas ⚡📈\n\n🚀 Hoy Lunes, 25 de Mayo\n🕖 9:20 p.m. (GMT-5)\n\n🔗 Google Meet: https://meet.google.com/gny-oraa-ueu",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "yjG50vNQtf6b34NzpMuwx7hs7dknp8IG0IMzMRIcVvE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1789286,
+   "key_id": "3EB0F383F3B3D085ACA841",
+   "ts_ms": 1780332164000,
+   "ts_iso": "2026-06-01T16:42:44+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "¡Descubre una de las tecnologías que transformó la biotecnología moderna! 🔬🧬\nIEEE EMBS UTP te invita a participar en la ponencia virtual:\n\n✨ “La revolución invisible: La tecnología del ADN recombinante” ✨\n\nContaremos con la participación del Dr. Renzo Gutiérrez Loli, investigador especializado en inmunología, biología molecular, quien nos compartirá cómo las herramientas de genética y biotecnología han revolucionado la investigación científica y el desarrollo de nuevas soluciones para la salud.\n\n📅 Fecha: Jueves, 4 de junio\n🕐 Hora: 1:00 p.m. (GMT-5)\n💻 Modalidad: Virtual\n\n🎁 Además, entre los participantes se realizará el sorteo de una beca para el curso “Diseño y Optimización de Primers para la PCR”, gracias a Biotraining Academy.\n\n📌 Inscríbete aquí: https://luma.com/o4joully",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260601-WA0013.jpg",
+    "size": 231712,
+    "duration_s": 0,
+    "sha256_b64": "p7T/Ymfafxr6f3dk/yrM3lIqzGO083Ucsa0HNRH5b/s=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1791969,
+   "key_id": "AC85D5504B725109F845A480D36041A6",
+   "ts_ms": 1780518617000,
+   "ts_iso": "2026-06-03T20:30:17+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 3,
+   "text": "CITIS está más cerca de lo que imaginas.\n\n05.06.2026📍\n\nNuevas ideas.⭐\n\nGrandes sorpresas.🎁\n\nMuy pronto descubrirás todo lo que tenemos preparado para ti. La espera está por terminar. 🔝",
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": null,
+    "size": 0,
+    "duration_s": 9,
+    "sha256_b64": "up3K8OI9SXMhrTlgXLz9C1f+6d4pCjmkP7dojBQ+46o=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1792750,
+   "key_id": "AC28AC2D79223E86E5D4359FA4DE3DB8",
+   "ts_ms": 1780596230000,
+   "ts_iso": "2026-06-04T18:03:50+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 1,
+   "text": "@all 🧬🔬 ¡La ponencia está por comenzar!\n\nLos invitamos a unirse a *“La revolución invisible: La tecnología del ADN recombinante”* junto al Dr. Renzo Gutiérrez Loli.\n\n🔗 Enlace de acceso:\nhttps://kpu-ca.zoom.us/j/65619432867?pwd=Pt6Js5qfXoZllaFlxMydfnW79a8CgR.1\n\n🎁 Recuerden que entre los asistentes se sorteará una beca para el curso *“Diseño y Optimización de Primers para la PCR”*.\n\n¡Los esperamos! 🚀",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "GElCxVgBSIUyXAMqjkNaZ19uB1QcpoNTw8OcNX1An3Y=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1793438,
+   "key_id": "3EB0AEF1F17F1420FF4336",
+   "ts_ms": 1780624081000,
+   "ts_iso": "2026-06-05T01:48:01+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "🎓 *50% DE DESCUENTO PARA ESTUDIANTES DE PREGRADO*\n\nAntes: ~S/579~ ---> 💸 *Ahora: S/290*\n\n👉 Inscríbete aquí: https://wa.link/ppbsrk\n\nDesarrolla competencias altamente demandadas en ingenieria biomedica y bioinformática con nuestros programas especializados:\n\n🔹 *Bioimpresión 3D Biomédica*\n🔹 *Biología de Sistemas Computacional con Python*\n\n🎯 Aprende con proyectos reales, obtén certificación oficial y conecta con una comunidad científica de toda Latinoamérica.\n\n📌 Promoción exclusiva para estudiantes de pregrado de organizaciones aliadas.\nValidación requerida con carnet universitario o constancia vigente.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260604-WA0051.jpg",
+    "size": 504916,
+    "duration_s": 0,
+    "sha256_b64": "D5/fjCNeEz8wApdW1iOXMd0xf/GD1oslud9ahtKOaQw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1799269,
+   "key_id": "ACE21BB7267F9738BB2E4A001634DB72",
+   "ts_ms": 1781054950000,
+   "ts_iso": "2026-06-10T01:29:10+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "Desde Rusia 🇷🇺 y NF Innovations, llega a LYN BIOLEARNING el Dr. Alexandr Raikov, experto internacional en Inteligencia Artificial, Inteligencia Colectiva y Supercomputación.\n\nEn esta clase online gratuita descubrirás cómo la IA fotónica, el HPC y las tecnologías de próxima generación están transformando la investigación científica, la innovación y el futuro de la inteligencia artificial.\n\n🌎 Evento internacional online\n📅 12 de junio\n🕖 7:00 p.m. hora *Perú / Colombia / Ecuador*\n🕖 5:00 p.m. hora *USA*\n\n🚀 *Reserva tu acceso gratis*: https://forms.gle/SKUVsRBjnrH9wd9f6",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "A7vDADJzxLLLXuavWItwUuUFXpRd+H8ljsFiVkM6hJw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1803806,
+   "key_id": "ACC22120C777C39B3CEDD4CED3F49AD3",
+   "ts_ms": 1781222075000,
+   "ts_iso": "2026-06-11T23:54:35+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 1,
+   "text": "🧬✨ ¡Inscripciones abiertas!\n\nCada vez estamos más cerca de vivir CITIS 2026, un espacio donde la innovación, la tecnología y la salud se unen para inspirar a la próxima generación de profesionales.\n\n📅 Ya puedes revisar el cronograma general del evento en el siguiente link:\nhttps://www.instagram.com/p/DZdr7qhDQDZ/?igsh=MXVtNDlya3lkMW5oOA==\n\n🎟️ Ya puedes asegurar tu participación: https://forms.gle/ViCARCSZ1S4StFNL8\n\nPrepárate para conocer expertos nacionales e internacionales, participar en talleres exclusivos, descubrir nuevas tecnologías y conectar con personas apasionadas por transformar el sector salud.\n\n🚀 ¡Te esperamos en CITIS 2026!",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260612-WA0092.jpg",
+    "size": 108601,
+    "duration_s": 0,
+    "sha256_b64": "TOUt7sjwtWD2GLVRSHTvkvqCgjtWGJkSMZ4g0nXU518=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1803807,
+   "key_id": "ACA3FA980935A92F7EE1BD997CE5ECA3",
+   "ts_ms": 1781222080000,
+   "ts_iso": "2026-06-11T23:54:40+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260612-WA0094.jpg",
+    "size": 211261,
+    "duration_s": 0,
+    "sha256_b64": "Gy6cl6fX59uE7SQtMpFoj/kkMR6Vl2QeUf4YYHGsLa0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1803808,
+   "key_id": "AC4E9A958244D0EA779B4A1364BAB038",
+   "ts_ms": 1781222081000,
+   "ts_iso": "2026-06-11T23:54:41+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260612-WA0095.jpg",
+    "size": 203006,
+    "duration_s": 0,
+    "sha256_b64": "le/udIPQflxn3ZQzWxoHLUOUa/mwXrTVHvn4cYt1BjE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1803809,
+   "key_id": "ACDC559F0F046A307C81DEECFAAB9754",
+   "ts_ms": 1781222082000,
+   "ts_iso": "2026-06-11T23:54:42+00:00",
+   "from_me": false,
+   "sender_jid": "169402318213310@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260612-WA0093.jpg",
+    "size": 146076,
+    "duration_s": 0,
+    "sha256_b64": "v0FepWJDQhJpv0cmKEwkc8zpH//fkfogdozfNJQFTJ4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1807151,
+   "key_id": "AC0A4EA0AC23EB08F1922E0E701BE111",
+   "ts_ms": 1781577431000,
+   "ts_iso": "2026-06-16T02:37:11+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "🚨 ¡Aprende a actuar cuando más importa!\n\nTe invitamos al taller *\"Primeros Auxilios, RCP y Manejo del DEA\"*, una experiencia práctica donde desarrollarás habilidades esenciales para responder ante situaciones de emergencia.\n\n📅 Jueves 18 de junio\n🕔 5:00 p.m. – 7:00 p.m.\n📍 UTP Torre Arequipa – Av. Arequipa 265\n\n✅ Reconocimiento de emergencias\n✅ Técnicas básicas de primeros auxilios\n✅ Reanimación cardiopulmonar (RCP)\n\nCada minuto cuenta en una emergencia. Prepárate para brindar una respuesta oportuna y contribuir a salvar vidas.\n\n📝 Inscripciones:\nhttps://forms.gle/CtdPoS7U6NSbovDd6\n\n💙 ¡Los esperamos!",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "4m11d424nvoeF3tUmY19fR5ywrGuGSXav+cXGx39xPQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1807152,
+   "key_id": "ACCBE8358EAB6179D568B89AAB5186E5",
+   "ts_ms": 1781577432000,
+   "ts_iso": "2026-06-16T02:37:12+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "fuHWdGyqIJWYECX2w5h8vDEnSKGAYR6cUfTLnb6G3vA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1807153,
+   "key_id": "AC746B71D0BA16B5151E9A6453AD8346",
+   "ts_ms": 1781577432000,
+   "ts_iso": "2026-06-16T02:37:12+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "MMLabYc5lFp0fPpmz0lAS5cR79OJ6LrmvWSmjV6p3rg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1814307,
+   "key_id": "ACFAE1B331CC6722A212A8286105212A",
+   "ts_ms": 1782233689000,
+   "ts_iso": "2026-06-23T16:54:49+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "¡Ya arrancamos en unos minutos! ⏰✨\n\n*Día 5 de CITIS 2026* 🚀🔥  \nEstamos por iniciar con la ponencia:\n\n🎙️ *Soluciones innovadoras de calidad del aire para hospitales y zonas de riesgo*\n\n💻 Conéctate aquí: https://meet.google.com/uno-pcog-yhc\n\n¡No te lo pierdas! Te esperamos 💙👩‍💻",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 6496,
+    "duration_s": 0,
+    "sha256_b64": "iXSLRJj7LLSSt6q+r1WR8cxr6lmtA/dpKGj1qnBJm/8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1818221,
+   "key_id": "AC1132E8208141024AC2AFB5151D9F55",
+   "ts_ms": 1782708553000,
+   "ts_iso": "2026-06-29T04:49:13+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "SOwBHf+xyezfGPDxc8G7wCrl2v1WKr0avkn3wR+Wfh8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1818222,
+   "key_id": "AC5B2CD54EFB0680B7CA5471803F365E",
+   "ts_ms": 1782708554000,
+   "ts_iso": "2026-06-29T04:49:14+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "IEbw3BjCoL1xIqqjFj/24DzpkgROJUjQsRqs4Rr8ofw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1818223,
+   "key_id": "ACA29FEF9EDE66A87B98CD9C9EB9155F",
+   "ts_ms": 1782708555000,
+   "ts_iso": "2026-06-29T04:49:15+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "qTOM/d9iH0Kvb3XRQg+GFwAZp2iwcjByDzgyz8/Kxbc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1818224,
+   "key_id": "AC78AA4D46B012CEC53EAC9AD0919D50",
+   "ts_ms": 1782708555000,
+   "ts_iso": "2026-06-29T04:49:15+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "*¿Lista para dejar tu huella en la ingeniería?*🚀 En conmemoración del Día de la Mujer en la Ingeniería, te invitamos a: *\"Ella Deja Huella\"*✨\n\n🔥 *¿Qué te espera?*\n🎙️ Ponencias y Mesa Redonda.\n☕ Coffee Break + Merch oficial.\n🏆 Pitch Competition.\n\n📅 ¿Cuándo? 03 de Julio | 🕒 03:00 P.M. a 6:30 P.M.\n📍 ¿Dónde? Aula A0801 - Torre Arequipa (Para internos y externos UTP).\n\n*Inscríbete gratis en el link de nuestra bio, en el qr o directo aquí*: 👉 https://luma.com/ef6kebgw\n*¡Te esperamos!* 💜\n\n*Link de la publicación de ig:* https://www.instagram.com/p/DaJZsmygO1V/?igsh=MW5vMjN0czd6bTJiNw==",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "NkUn+j9/o6BvhagJbT+z0q1EdXkDwjI2GX5kEvN1+6A=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1818225,
+   "key_id": "ACC1A947E6505E64CBADF7B3779AA4BD",
+   "ts_ms": 1782708556000,
+   "ts_iso": "2026-06-29T04:49:16+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "pMy6SekWchUvsLwQdFaY14x9WtaeXBflCFr5p/hEp40=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1818226,
+   "key_id": "ACC44D214ED6DD80F7193374D7E07F89",
+   "ts_ms": 1782708557000,
+   "ts_iso": "2026-06-29T04:49:17+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "2dqafEowJa/oVl2K2BhgsUpo9S00E9JMSlAIlcAbu0c=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1818227,
+   "key_id": "ACBAE6C50DBBA014D06A58E4AB48CBAF",
+   "ts_ms": 1782708557000,
+   "ts_iso": "2026-06-29T04:49:17+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Bwd2qzNRLPZubJu8P34jcKLqp5qw9vu4vTS8snwgsTc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1818228,
+   "key_id": "ACEB5ADF9AFB8AD6D4C951767AEE3E15",
+   "ts_ms": 1782708558000,
+   "ts_iso": "2026-06-29T04:49:18+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "4rtWzupyVBQSK8z8k33KTvMVKAePmohG0Xu6Ej8Qehc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1825834,
+   "key_id": "3EB08A8FA8B803C82697EB",
+   "ts_ms": 1783527960000,
+   "ts_iso": "2026-07-08T16:26:00+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "📢 ¡Oportunidad laboral!\n\nSi te apasiona brindar una excelente atención al cliente y quieres desarrollarte en un entorno dinámico, esta puede ser una gran oportunidad para ti.\n\n🔹 Puesto: Asistente de Experiencia al Cliente\n📍 Modalidad: Presencial – Pueblo Libre\n🕒 Jornada: Tiempo completo\n\nBuscan personas con:\n✅ Empatía y comunicación efectiva.\n✅ Organización y atención al detalle.\n✅ Capacidad para trabajar en equipo.\n✅ Adaptabilidad y disposición para aprender.\n✅ Enfoque en la resolución de problemas.\n\n📩 Postulación: Envía tu CV a talento1@testcontrol.com.pe con el asunto: ASISTENTE DE EXPERIENCIA AL CLIENTE – Nombre y Apellido.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "dNZ1izyHC3o/tKE8ZHur1zPgqsbGrVvRE1KOaDTfG6Y=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1827022,
+   "key_id": "ACF885405DDB0D56D613DC5A9DC6CF0C",
+   "ts_ms": 1783617107000,
+   "ts_iso": "2026-07-09T17:11:47+00:00",
+   "from_me": false,
+   "sender_jid": "151707321389309@lid",
+   "type": 1,
+   "text": "📢 ¡Atención! Quedan pocos días para aprovechar los descuentos disponibles para el Curso de Metrología Especializado organizado por SET&GAD.\n\n📅 Fecha del curso: Del 12 al 14 de agosto de 2026\n📍 Lugar: Lima – Perú\n\nPromociones vigentes:\n✅ 15% de descuento para grupos de 5 participantes o más (válido hasta el 24 de julio).\n✅ 10% de descuento para clientes de SET&GAD (vigente hasta el 7 de agosto).\n\nSi desean fortalecer sus conocimientos en metrología biomédica con una capacitación especializada y práctica, ¡esta es una excelente oportunidad!\n\nPara mayor información, pueden revisar el flyer o comunicarse con SET&GAD mediante los contactos indicados.",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "IQNkX5bM3nxXH502NOSLRaEJKyTKu75W9hXBpdh1KcI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1828625,
+   "key_id": "AC404D131AE996904F1CB53BE0A9B9B1",
+   "ts_ms": 1783720932000,
+   "ts_iso": "2026-07-10T22:02:12+00:00",
+   "from_me": false,
+   "sender_jid": "70321667367167@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "8KGdW+3IkiY2cdLrzwYarQG9gBBp+AEnGAvV5xeeyd0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1828711,
+   "key_id": "3EB025D649BFA4C87A9F96",
+   "ts_ms": 1783731383000,
+   "ts_iso": "2026-07-11T00:56:23+00:00",
+   "from_me": false,
+   "sender_jid": "828962263141@lid",
+   "type": 1,
+   "text": "📢 *¡Call for Posters ISC LA 2026!*\n\nInvitamos a estudiantes, investigadores y profesionales a presentar sus investigaciones, proyectos innovadores e iniciativas académicas en formato póster.\n\n📅 Deadline: 31 de julio de 2026\n🔗 Envía tu propuesta aquí: https://isc-call-for-poster-2026.github.io/ISC-call-for-posters/\n\nPresenta tu trabajo y forma parte de la VII Conferencia Internacional de Estudiantes IEEE EMBS en América Latina.\n\n#ISCLA2026 #IEEEEMBS #BiomedicalEngineering #CallForPosters",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "edxmGbd+qSo5a3pATUyE1Y9yKRX6LDjol+5PjVVNIhQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

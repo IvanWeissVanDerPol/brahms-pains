@@ -1,0 +1,121 @@
+{
+ "chat_id": 9891,
+ "slug": "_wa_chat_595986139619_9891",
+ "subject": null,
+ "jid_user": "595986139619",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986139619@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1428533,
+   "key_id": "3EB08D4E9217A390E3003F",
+   "ts_ms": 1738669452000,
+   "ts_iso": "2025-02-04T11:44:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia Alejandro!",
+   "starred": false
+  },
+  {
+   "id": 1428534,
+   "key_id": "3EB0D09F7B6DF94EF8E13C",
+   "ts_ms": 1738669463000,
+   "ts_iso": "2025-02-04T11:44:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te saluda Letti Amarilla de Fortaleza Inmuebles",
+   "starred": false
+  },
+  {
+   "id": 1428535,
+   "key_id": "3EB0968C372C7DA8482836",
+   "ts_ms": 1738669476000,
+   "ts_iso": "2025-02-04T11:44:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te queda bien reunirnos hoy por la mañana?",
+   "starred": false
+  },
+  {
+   "id": 1428536,
+   "key_id": "65889045DEBB89686089E1EC6BBB80C3",
+   "ts_ms": 1738669860330,
+   "ts_iso": "2025-02-04T11:51:00.330000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si",
+   "starred": false
+  },
+  {
+   "id": 1428661,
+   "key_id": "3EB06FBD1395ADF1765A95",
+   "ts_ms": 1738672918000,
+   "ts_iso": "2025-02-04T12:41:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://meet.google.com/eah-jkdm-pub",
+   "starred": false
+  },
+  {
+   "id": 1428670,
+   "key_id": "3EB0A7810C0EDE9504FF34",
+   "ts_ms": 1738672970000,
+   "ts_iso": "2025-02-04T12:42:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "avisame cuando vas ingresar",
+   "starred": false
+  },
+  {
+   "id": 1428675,
+   "key_id": "3EB07AAD127ABCE60D2445",
+   "ts_ms": 1738672980000,
+   "ts_iso": "2025-02-04T12:43:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "porfa",
+   "starred": false
+  },
+  {
+   "id": 1428699,
+   "key_id": "3FB2A1E6E29338AB1E48",
+   "ts_ms": 1738674759000,
+   "ts_iso": "2025-02-04T13:12:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola me conceto",
+   "starred": false
+  },
+  {
+   "id": 1428713,
+   "key_id": "3F40642CAD5CEE18251C",
+   "ts_ms": 1738676329000,
+   "ts_iso": "2025-02-04T13:38:49+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "lGxTZagmEVvPcgTvgRCSG75OdJQN+vaxqgIHvYK3yEc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

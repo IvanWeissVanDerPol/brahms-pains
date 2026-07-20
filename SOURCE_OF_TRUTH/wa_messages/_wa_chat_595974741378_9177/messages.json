@@ -1,0 +1,123 @@
+{
+ "chat_id": 9177,
+ "slug": "_wa_chat_595974741378_9177",
+ "subject": null,
+ "jid_user": "595974741378",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595974741378@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1375666,
+   "key_id": "9AEE238E3FDD05E62A4719E4E02F7EEB",
+   "ts_ms": 1729541508000,
+   "ts_iso": "2024-10-21T20:11:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes sr Ivan",
+   "starred": false
+  },
+  {
+   "id": 1375667,
+   "key_id": "A2E534FD3D683B18F08B02687838278F",
+   "ts_ms": 1729541548265,
+   "ts_iso": "2024-10-21T20:12:28.265000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1375668,
+   "key_id": "E74B747A9AC1358A363622C3D788D58C",
+   "ts_ms": 1729541566000,
+   "ts_iso": "2024-10-21T20:12:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te saluda Sara Moura tu oficial de cuentas \n* debido a su excelente perfil, el *Banco Itau* 🏦 cuenta con una línea de crédito aprobada para usted. \n\nPuede acceder a la oferta a :\n\n*Hasta Gs. 48.200.000*\n\n  **P/montos superiores también puede acceder a través de las sucursales* \n* \n  Posee también una tarjeta de 18.300.000\nPara que puedas acceder a las promociones con las tarjetas \n\n*La promoción estará vigente por tiempo limitado*\n\nQuedo atento a sus comentarios o si desea saber de otros planes.\n\n     *Sara Moura* \nOficial de cuentas de Itau agencia salemma.\n*Banco Itau*",
+   "starred": false
+  },
+  {
+   "id": 1375671,
+   "key_id": "CD97834971E302FBF6E4BD9EF3DE240D",
+   "ts_ms": 1729541616644,
+   "ts_iso": "2024-10-21T20:13:36.644000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puedo abrir cuenta en dólares?\n\nEse lo que me interesa",
+   "starred": false
+  },
+  {
+   "id": 1375672,
+   "key_id": "858F364D43B2AB834D04E6DC45CEEB73",
+   "ts_ms": 1729541617796,
+   "ts_iso": "2024-10-21T20:13:37.796000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1375673,
+   "key_id": "ECCED3E0E75185E8CB426C18008F7138",
+   "ts_ms": 1729541650000,
+   "ts_iso": "2024-10-21T20:14:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Podes",
+   "starred": false
+  },
+  {
+   "id": 1375674,
+   "key_id": "2A51412C9D36195A9942941EDD194766",
+   "ts_ms": 1729541650000,
+   "ts_iso": "2024-10-21T20:14:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Autogestion",
+   "starred": false
+  },
+  {
+   "id": 1375675,
+   "key_id": "9FEBADDCEABBF79EDACEFEF8BC0BBF9D",
+   "ts_ms": 1729541651000,
+   "ts_iso": "2024-10-21T20:14:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Abrir cuenta dolares itau",
+   "starred": false
+  },
+  {
+   "id": 1375677,
+   "key_id": "453E115FF47BD0A691F65BE8EB72CF20",
+   "ts_ms": 1729541655000,
+   "ts_iso": "2024-10-21T20:14:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tenes que tener tu comprobante",
+   "starred": false
+  },
+  {
+   "id": 1375678,
+   "key_id": "19CCB43E68CAF766193C26644FBE97DC",
+   "ts_ms": 1729541659000,
+   "ts_iso": "2024-10-21T20:14:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De ingreso más cédula",
+   "starred": false
+  }
+ ]
+}

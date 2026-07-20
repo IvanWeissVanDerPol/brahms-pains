@@ -1,0 +1,57 @@
+{
+ "chat_id": 15474,
+ "slug": "_wa_lid_208765475393660_15474",
+ "subject": null,
+ "jid_user": "208765475393660",
+ "jid_server": "lid",
+ "jid_raw": "208765475393660@lid",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1784757,
+   "key_id": "AC1E1000ACFD4634F2BE59B93C2E7CD6",
+   "ts_ms": 1779601639358,
+   "ts_iso": "2026-05-24T05:47:19.358000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holiiis",
+   "starred": false
+  },
+  {
+   "id": 1784758,
+   "key_id": "ACFE528FA346A768DCD2167C78BABDC3",
+   "ts_ms": 1779601660005,
+   "ts_iso": "2026-05-24T05:47:40.005000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://anthropartyargentina.com/",
+   "starred": false
+  },
+  {
+   "id": 1784759,
+   "key_id": "ACD48CE676014BD963607E83A174D052",
+   "ts_ms": 1779601665467,
+   "ts_iso": "2026-05-24T05:47:45.467000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis un gusto soy Iván Weiss",
+   "starred": false
+  },
+  {
+   "id": 1784760,
+   "key_id": "ACE5AE120BA699FE8D587D95254040FA",
+   "ts_ms": 1779603426880,
+   "ts_iso": "2026-05-24T06:17:06.880000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://github.com/Ai-Whisperers/nexa-paraguay/blob/main/docs%2F09-market-intelligence%2Flocation%2Fcentral-asuncion-complete-analysis.md\n\nReportes de asu",
+   "starred": false
+  }
+ ]
+}

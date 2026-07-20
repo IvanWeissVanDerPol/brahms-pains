@@ -1,0 +1,53 @@
+{
+ "chat_id": 9167,
+ "slug": "_wa_chat_595992248450_9167",
+ "subject": null,
+ "jid_user": "595992248450",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992248450@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1373918,
+   "key_id": "3EB0A1FBE30A5D7808B569",
+   "ts_ms": 1729162096000,
+   "ts_iso": "2024-10-17T10:48:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*Buenos Días* SR, DENILSON LOPEZ, Cómo estas ? Le saluda María Acosta Asesora Comercial de crédito,de la entidad *CREDIMARKET*\nLe estaba llamando para comentarle que deseamos ofrecerle nuestro servicio de credito ,*PRE-APROBADO* que podra acceder seria en renovar su credito a uno nuevo mas saldo\n*Que le parecería* Puedo llamarle ,así le explico mejor!\n*Le comento también que contamos con el servicio de Delivery en  Asunción y Ciudades del Interior*\n, en caso que no pueda acercarse hasta la Sucursal *Cualquier consulta , estaré a la orden*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20241017-WA0008.jpg",
+    "size": 295632,
+    "duration_s": 0,
+    "sha256_b64": "78Dr9ryjumPhUtj7kc85XklQX3gzUp68W2ciEWC6jxk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1374392,
+   "key_id": "3EB065405B9B2FD434A0B2",
+   "ts_ms": 1729250854000,
+   "ts_iso": "2024-10-18T11:27:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "*Buenos Días* SR, DENILSON LOPEZ, Cómo estas ? Le saluda María Acosta Asesora Comercial de crédito,de la entidad *CREDIMARKET*\nLe estaba llamando para comentarle que deseamos ofrecerle nuestro servicio de credito ,*PRE-APROBADO* que podra acceder seria en renovar su credito a uno nuevo mas saldo\n*Que le parecería* Puedo llamarle ,así le explico mejor!\n*Le comento también que contamos con el servicio de Delivery en  Asunción y Ciudades del Interior*\n, en caso que no pueda acercarse hasta la Sucursal *Cualquier consulta , estaré a la orden*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20241017-WA0008.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "78Dr9ryjumPhUtj7kc85XklQX3gzUp68W2ciEWC6jxk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

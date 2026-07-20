@@ -1,0 +1,24 @@
+{
+ "chat_id": 6591,
+ "slug": "_wa_chat_595983131858_6591",
+ "subject": null,
+ "jid_user": "595983131858",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983131858@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1284152,
+   "key_id": "3EB0014271BC5608ECE977",
+   "ts_ms": 1715005915000,
+   "ts_iso": "2024-05-06T14:31:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🤩HOLA...\n 🤑*NECESITAS EFECTIVO*\n  *SOLO CON TU CEDULA*\n        📌 *CREDI2*\n PRESTAMO HASTA 5 MILLONES\n    *CON DEBITO AUTOMATICO*\n*•NO MIRAMOS INFORMCONF*\n✅Jubilados de Hacienda!!!! \n✅Docente activo del MEC\n✅Salud MSPBS \n✅Policía Activo\nResponde con un *SI* y nos ponemos en contacto contigo.",
+   "starred": false
+  }
+ ]
+}

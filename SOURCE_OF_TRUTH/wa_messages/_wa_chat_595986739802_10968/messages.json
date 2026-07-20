@@ -1,0 +1,44 @@
+{
+ "chat_id": 10968,
+ "slug": "_wa_chat_595986739802_10968",
+ "subject": null,
+ "jid_user": "595986739802",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986739802@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1518521,
+   "key_id": "2DE296756CDFF6B41B618FE3CDC7ED39",
+   "ts_ms": 1751649229000,
+   "ts_iso": "2025-07-04T17:13:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250704-WA0010.jpg",
+    "size": 71054,
+    "duration_s": 0,
+    "sha256_b64": "ya2DYFWnPWqm7KY5X60d7ZlGJDV9FKeC7ARok4FxDKI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1518522,
+   "key_id": "CC2DCD130BC330D0D1FA00319EB3502B",
+   "ts_ms": 1751649230000,
+   "ts_iso": "2025-07-04T17:13:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes agenda tu cita 🥰",
+   "starred": false
+  }
+ ]
+}

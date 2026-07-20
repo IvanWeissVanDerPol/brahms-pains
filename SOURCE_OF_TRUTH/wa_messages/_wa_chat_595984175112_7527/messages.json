@@ -1,0 +1,77 @@
+{
+ "chat_id": 7527,
+ "slug": "_wa_chat_595984175112_7527",
+ "subject": null,
+ "jid_user": "595984175112",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984175112@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1326832,
+   "key_id": "3EB0AAE6E7C2C2A946913C",
+   "ts_ms": 1721664387000,
+   "ts_iso": "2024-07-22T16:06:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es un placer invitarte al webinar gratuito “Entrenando a mi Chatbot Interior para confrontar mis propios sesgos”, \n Este miércoles 24 de julio. En este evento, nuestra experta, Patricia Osorio Aristizábal , compartirá conocimientos valiosos sobre cómo mejorar nuestras habilidades de chatbot y optimizar la comunicación. La inscripción es sin costo solo debes registrarte.\n¡Inscríbete ahora! 🚀\n🔗 Link: https://italianza.com.py/cursos/inscripcion/\nMás info: 0984 175 112",
+   "starred": false
+  },
+  {
+   "id": 1326833,
+   "key_id": "3EB0B2283EF6D17ACBD53B",
+   "ts_ms": 1721664399000,
+   "ts_iso": "2024-07-22T16:06:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240722-WA0002.jpg",
+    "size": 195210,
+    "duration_s": 0,
+    "sha256_b64": "rq4F2ceapX/z0MkN14M8lKnujoi4uVoF1BNN9xxFnCQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1703221,
+   "key_id": "3EB0F3DAE7D0C1C9708B91",
+   "ts_ms": 1771961340000,
+   "ts_iso": "2026-02-24T19:29:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*🚀 ¡Da el salto y convertite en QA Nivel 2!*\n \n📢 Convocatoria abierta – Febrero 2026\nSumate al Programa Semillero QA Nivel 2, una formación 100% práctica, ideal para comenzar en testing desde cero.\n \n*✅ Vas a aprender:*\n* Testing en el Desarrollo Moderno (3 horas) \n* Pruebas Basadas en el Riesgo (4 horas)\n* Pruebas Exploratorias (5 horas) \n* API Testing (4 horas) \n* Test Automation (5 horas) \n* Gestión de Defectos y Comunicación Profesional (3 horas)\n \n*🎯 Beneficios:*\n✔ Clases en vivo + grabaciones\n✔ Modalidad 100% online\n✔ Aprendizaje práctico desde el día 1\n✔ Comunidad de aprendizaje\n\n*Requisitos:*\n- Conocimientos previos en:\n- Fundamentos de testing manual\n- Experiencia básica en QA o curso de nivel inicial\n\n- Conocimientos técnicos recomendados:\n- Uso básico de herramientas de testing (ej. Postman)\n- Nociones de APIs y formato JSON\n- Automatización: nivel introductorio (no excluyente)\n\n*Requisitos técnicos:*\n- Computadora con acceso a internet\n- Cuenta en GitHub\n- Disponibilidad para realizar prácticas y entregables\n\n📅 Inicio: 07 de marzo.\n🕖 Clases: Sabados | 12:00 a 16:00\n👩‍🏫 Mentor: Guino Henostroza\n \n*📝 Inscribite acá:*\n👉https://docs.google.com/forms/d/e/1FAIpQLSeZ8OAEbx8tfPznBsH9Z-2RwQ8tOJ-MvKzLJrmkAT0cvp3PCQ/viewform\n*💡 ¡Subí de nivel y diferenciá tu perfil QA!*",
+   "starred": false
+  },
+  {
+   "id": 1710748,
+   "key_id": "3EB030EB49BF930D22BA43",
+   "ts_ms": 1772740900000,
+   "ts_iso": "2026-03-05T20:01:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*⏰ Último día con 36% de Descuento*\n\n*¿Horas scrolleando...?*\nEse tiempo podría llevarte de *QA Jr a Ingeniero de Pruebas.*\n\nHoy es el *último día para aprovechar el 36% OFF** en *Semillero QA Nivel 2* 🚀\n\nEn *24 horas intensivas* vas a aprender:\n✔ Pruebas exploratorias\n✔ API Testing\n✔ Automatización\n✔ Gestión de defectos\n✔ Crear tu portafolio en GitHub\n\n📝 Inscribite aquí:\nhttps://docs.google.com/forms/d/e/1FAIpQLSeZ8OAEbx8tfPznBsH9Z-2RwQ8tOJ-MvKzLJrmkAT0cvp3PCQ/viewform",
+   "starred": false
+  },
+  {
+   "id": 1715156,
+   "key_id": "3EB07FF6A536DB9C033FC5",
+   "ts_ms": 1773163733000,
+   "ts_iso": "2026-03-10T17:28:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*⏰ Último día con 30% de Descuento e Inscripción*\n*🚀 ¡Nuevo curso Oracle APEX 24.2 + IA!*\n¿Querés aprender a crear aplicaciones profesionales y usar IA sin ser experto en programación?\nSumate al curso *Oracle APEX 24.2 + IA* – De cero a profesional, 100% online y en vivo.\n\n📅 Inicio: 10 de marzo\n🕒 Martes y jueves | 19:00 a 21:30\n⏳ 50 horas de capacitación\n🎓 Cupos limitados\n\nAprendé a desarrollar apps modernas y creá tu propio chatbot con IA .\n\n*👉 ¿Te interesa? Respondeme “QUIERO INFO” y te paso todos los detalles.*",
+   "starred": false
+  }
+ ]
+}

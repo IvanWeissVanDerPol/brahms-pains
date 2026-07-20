@@ -1,0 +1,154 @@
+{
+ "chat_id": 15127,
+ "slug": "_wa_lid_63226951774393_15127",
+ "subject": null,
+ "jid_user": "63226951774393",
+ "jid_server": "lid",
+ "jid_raw": "63226951774393@lid",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1772620,
+   "key_id": "AC1EC488731F9A1101FBB74C42328233",
+   "ts_ms": 1778298176266,
+   "ts_iso": "2026-05-09T03:42:56.266000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi",
+   "starred": false
+  },
+  {
+   "id": 1772948,
+   "key_id": "2AFBCA75857B0D91ACA2",
+   "ts_ms": 1778335874000,
+   "ts_iso": "2026-05-09T14:11:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holi",
+   "starred": false
+  },
+  {
+   "id": 1772950,
+   "key_id": "ACC8C876088D85CA587770DC7BFEA2A5",
+   "ts_ms": 1778335963694,
+   "ts_iso": "2026-05-09T14:12:43.694000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello",
+   "starred": false
+  },
+  {
+   "id": 1772951,
+   "key_id": "2A3E2D4F8F708DA0B593",
+   "ts_ms": 1778335988000,
+   "ts_iso": "2026-05-09T14:13:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal? Me Escribiste",
+   "starred": false
+  },
+  {
+   "id": 1772953,
+   "key_id": "AC1CC3DE67434E27AADE4988076EA887",
+   "ts_ms": 1778336017901,
+   "ts_iso": "2026-05-09T14:13:37.901000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Pensé que era para que te ayude a probar",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260509-WA0010.jpg",
+    "size": 74994,
+    "duration_s": 0,
+    "sha256_b64": "GHtZncsFjPCN2Eb3NnFin6KN24Uw+1gw9lpiMHhJ/Xw=",
+    "media_name": "9445978b-2f25-4692-8fd9-b7d59b6dd18d.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1772954,
+   "key_id": "2AAAC5A6D4464CC677DE",
+   "ts_ms": 1778336037000,
+   "ts_iso": "2026-05-09T14:13:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahh",
+   "starred": false
+  },
+  {
+   "id": 1772955,
+   "key_id": "2A36BC6350968D9E794E",
+   "ts_ms": 1778336042000,
+   "ts_iso": "2026-05-09T14:14:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Seguro te iba a decir algo",
+   "starred": false
+  },
+  {
+   "id": 1772956,
+   "key_id": "2AC3C700F70F65FE3369",
+   "ts_ms": 1778336048000,
+   "ts_iso": "2026-05-09T14:14:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero ya me olvide",
+   "starred": false
+  },
+  {
+   "id": 1772957,
+   "key_id": "2A2828B8AC9CDEAE5825",
+   "ts_ms": 1778336049000,
+   "ts_iso": "2026-05-09T14:14:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jaja",
+   "starred": false
+  },
+  {
+   "id": 1772958,
+   "key_id": "ACB88DBC93A7AA0BA57072C7A6C42A9B",
+   "ts_ms": 1778336059506,
+   "ts_iso": "2026-05-09T14:14:19.506000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me puedo conectar a el WhatsApp que va a usar la pag de fun4me",
+   "starred": false
+  },
+  {
+   "id": 1772959,
+   "key_id": "AC59DF7D23E00AB9CB72EE17421C6A0F",
+   "ts_ms": 1778336067064,
+   "ts_iso": "2026-05-09T14:14:27.064000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y al que le mande los mensajes",
+   "starred": false
+  },
+  {
+   "id": 1772960,
+   "key_id": "ACB4424E6A9B3E717EA391E78557182A",
+   "ts_ms": 1778336097722,
+   "ts_iso": "2026-05-09T14:14:57.722000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://maskarada.paragu-ai.com/reglas",
+   "starred": false
+  }
+ ]
+}

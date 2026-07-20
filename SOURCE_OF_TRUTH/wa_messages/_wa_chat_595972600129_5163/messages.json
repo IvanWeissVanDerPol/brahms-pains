@@ -1,0 +1,101 @@
+{
+ "chat_id": 5163,
+ "slug": "_wa_chat_595972600129_5163",
+ "subject": null,
+ "jid_user": "595972600129",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972600129@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1206328,
+   "key_id": "8292438D6E44D33E47016F10E4292E0D",
+   "ts_ms": 1701988991238,
+   "ts_iso": "2023-12-07T22:43:11.238000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas \nCuanto sería el delivery hasta. Aquí?",
+   "starred": false
+  },
+  {
+   "id": 1206329,
+   "key_id": "B1F11EA3AD16DFE2C474C88DF6ABB271",
+   "ts_ms": 1701988992000,
+   "ts_iso": "2023-12-07T22:43:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola ! Gracias por comunicarte a  *quattro d* \n\nPara una mejor atención coméntanos en qué te podríamos ayudar ? Te daremos retorno en la brevedad posible☺️\n\nMientras te comentamos que para pedidos de Delivery o Carry Out se encuentra habilitada la línea 0217294444\n*¡Gracias por elegirnos y no te olvides de compartir lo bueno!*💚",
+   "starred": false
+  },
+  {
+   "id": 1206331,
+   "key_id": "3EB0EBFEE6E920735535C8",
+   "ts_ms": 1701989303000,
+   "ts_iso": "2023-12-07T22:48:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes 15.000gs es el costo de envio",
+   "starred": false
+  },
+  {
+   "id": 1206333,
+   "key_id": "62CEA1793078FC40AD6312969753F950",
+   "ts_ms": 1701989396999,
+   "ts_iso": "2023-12-07T22:49:56.999000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cual es el precio del helado?\nQuiero comprar 2x1 de 1kg \n\nQue sabores tenés ?\nQuiero Nutella cheesecake \nY algo con almendras \n\nRecomendarías algunos sabores ?",
+   "starred": false
+  },
+  {
+   "id": 1206351,
+   "key_id": "3EB04F6B029DD0DEB14C57",
+   "ts_ms": 1701990724000,
+   "ts_iso": "2023-12-07T23:12:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "para la promo del 2x1 con itau es solo en los locales",
+   "starred": false
+  },
+  {
+   "id": 1206352,
+   "key_id": "3EB00884ADCDBDB069B129",
+   "ts_ms": 1701990729000,
+   "ts_iso": "2023-12-07T23:12:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no aplica para delivery",
+   "starred": false
+  },
+  {
+   "id": 1206353,
+   "key_id": "35BF3FD85AD979B24D1FEA47975EA7DB",
+   "ts_ms": 1701990736811,
+   "ts_iso": "2023-12-07T23:12:16.811000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ah ok gracias",
+   "starred": false
+  },
+  {
+   "id": 1206354,
+   "key_id": "3EB0FA4C8BB1370AC97E89",
+   "ts_ms": 1701990751000,
+   "ts_iso": "2023-12-07T23:12:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "en el local de Pinedo Shopping estamos",
+   "starred": false
+  }
+ ]
+}

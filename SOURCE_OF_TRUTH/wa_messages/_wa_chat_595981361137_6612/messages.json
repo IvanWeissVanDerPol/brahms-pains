@@ -1,0 +1,35 @@
+{
+ "chat_id": 6612,
+ "slug": "_wa_chat_595981361137_6612",
+ "subject": null,
+ "jid_user": "595981361137",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981361137@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1289272,
+   "key_id": "A5412ADF501F3BC62C13CD2E3633F092",
+   "ts_ms": 1715982241405,
+   "ts_iso": "2024-05-17T21:44:01.405000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1289273,
+   "key_id": "D027E3F2857871D9780E37C35925014B",
+   "ts_ms": 1715982247698,
+   "ts_iso": "2024-05-17T21:44:07.698000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tienen una lista de precios?",
+   "starred": false
+  }
+ ]
+}

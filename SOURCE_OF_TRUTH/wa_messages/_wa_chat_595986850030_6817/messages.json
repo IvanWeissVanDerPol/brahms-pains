@@ -1,0 +1,194 @@
+{
+ "chat_id": 6817,
+ "slug": "_wa_chat_595986850030_6817",
+ "subject": null,
+ "jid_user": "595986850030",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986850030@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1309162,
+   "key_id": "81018F6A622D4C8828",
+   "ts_ms": 1719174946000,
+   "ts_iso": "2024-06-23T20:35:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola IVAN WEISS VAN DER POL!\n\nGracias por elegir Shopping China Importados.\n\n \n\nNos comunicamos con usted referente a Pedido Nro. #59562 de ₲ 587.232\n\n \n\n \n\nComo procedimiento de seguridad a modo de salvaguardar a nuestros clientes, necesitamos verificar la titularidad con usted.\n\n \n\nPodría facilitarnos el detalle que le figura en su Homebanking únicamente de la operación realizada con nosotros, y también la foto del encabezado de su último extracto, en donde figure y conste esta compra, los 4 últimos números de su tarjeta y nombre del titular para así poder validar la compra (tener en cuenta que el plazo para retornar es de hasta 24h. caso contrario se procede a la anulación del pago.)\n\n \n\nEste detalle lo puede visualizar directamente en la aplicación de su banco emisor y ver en sus movimientos, únicamente necesitamos de la operación realizada con nosotros; Shopping China Importados (shopping china Vpos).\n\n \n\nRealizamos esta solicitud debido a muchos casos de operaciones indebidas y a fin de evitarlas.\n\n \n\n \n\nNuestro principal objetivo es salvaguardar la seguridad de nuestros clientes.\n\n \n\nPuede proporcionarnos un número de contacto de WhatsApp para que nuestro departamento pueda comunicarse con usted o por favor contáctenos a través de whatsapp:\n\n \n\n+595986850030 (https://wa.me/message/ONCGT3N6WXWYP1)\n\n \n\n \n\nAguardamos su retorno y agradecemos la preferencia.",
+   "starred": false
+  },
+  {
+   "id": 1309163,
+   "key_id": "AAEF836CA6AB68A0CD",
+   "ts_ms": 1719174951000,
+   "ts_iso": "2024-06-23T20:35:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola no entiendo que necesitan",
+   "starred": false
+  },
+  {
+   "id": 1309494,
+   "key_id": "3EB0FEE65B3202C8129BF5",
+   "ts_ms": 1719232395000,
+   "ts_iso": "2024-06-24T12:33:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*¡Hola!*\n_Bienvenido al Servicio de Atención al Cliente de Shopping China Importados._\n*¡Es un placer atenderte!*",
+   "starred": false
+  },
+  {
+   "id": 1309495,
+   "key_id": "3EB02E01F5703AF4C0D0B3",
+   "ts_ms": 1719232447000,
+   "ts_iso": "2024-06-24T12:34:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nos comunicamos contigo referente *Pedido Nro. #59562 de ₲ 587.232*\n \n\nComo procedimiento de *SEGURIDAD* a modo de proteger y salvaguardar a nuestros clientes, necesitamos verificar y comprobar la *titularidad* con usted, para constatar que esta compra fue realizada efectivamente por el *Titular de la Cuenta.*\n\nNecesitaríamos que nos provea una imagen de la *tarjeta física* en donde aparezcan solamente los *últimos 4 (cuatro) dígitos* y el *nombre del titular* al mismo tiempo, *los demás datos puede tapar.*\n\nAsí nuestro *Departamento Financiero Responsable* podrá validar la compra.\n\n\n*Aguardamos su retorno y agradecemos la comprensión.*",
+   "starred": false
+  },
+  {
+   "id": 1309496,
+   "key_id": "3EB09BE9E840F9EF9BEDFE",
+   "ts_ms": 1719232507000,
+   "ts_iso": "2024-06-24T12:35:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aguardamos.",
+   "starred": false
+  },
+  {
+   "id": 1309727,
+   "key_id": "3EB0CC888F9A4D1ED853AE",
+   "ts_ms": 1719254292000,
+   "ts_iso": "2024-06-24T18:38:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Seguimos aguardando.",
+   "starred": false
+  },
+  {
+   "id": 1309728,
+   "key_id": "685EDC1A5AAC0B16B750D67E2028F5E7",
+   "ts_ms": 1719254478168,
+   "ts_iso": "2024-06-24T18:41:18.168000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240624-WA0059.jpg",
+    "size": 115975,
+    "duration_s": 0,
+    "sha256_b64": "EzXHcBxDWrsjpBg0wFFMYr5Q6XtoxLC8K7iB2OnSgBQ=",
+    "media_name": "b74212b7-e72d-490a-bf9f-678688abc769.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1309729,
+   "key_id": "5A021D80ED0F730625",
+   "ts_ms": 1719254481000,
+   "ts_iso": "2024-06-24T18:41:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "asi?",
+   "starred": false
+  },
+  {
+   "id": 1309745,
+   "key_id": "3EB0E27B1FD090E6FD3A84",
+   "ts_ms": 1719255121000,
+   "ts_iso": "2024-06-24T18:52:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfecto, facilitaremos estos datos proveídos por usted al departamento responsable financiero.\n\n*Agradecemos su comprensión y cooperación.*",
+   "starred": false
+  },
+  {
+   "id": 1309748,
+   "key_id": "3EB07D1D86566EC9B2E865",
+   "ts_ms": 1719255766000,
+   "ts_iso": "2024-06-24T19:02:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nos informan que finalizó su pago con otra tarjeta, verifique correctamente por gentileza.",
+   "starred": false
+  },
+  {
+   "id": 1309749,
+   "key_id": "1180A0FD0E44886140F258928B0EAA19",
+   "ts_ms": 1719255802609,
+   "ts_iso": "2024-06-24T19:03:22.609000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240624-WA0061.jpg",
+    "size": 148245,
+    "duration_s": 0,
+    "sha256_b64": "KN/d5BkluUnw1ABi82nJTMDfpfMkXQVsCNTSRloEpWs=",
+    "media_name": "664e7206-9f9c-42da-8d82-5cce812e9c5d.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1309750,
+   "key_id": "D35B1F6B9BEA00B2C91C00BC2665C1EF",
+   "ts_ms": 1719255807500,
+   "ts_iso": "2024-06-24T19:03:27.500000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Este entonces?",
+   "starred": false
+  },
+  {
+   "id": 1309751,
+   "key_id": "D11646BC43997883635D790C18D5B2D9",
+   "ts_ms": 1719255812230,
+   "ts_iso": "2024-06-24T19:03:32.230000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202426/PTT-20240624-WA0062.opus",
+    "size": 0,
+    "duration_s": 3,
+    "sha256_b64": "u5tnLX0LLPuqAbAmvB7Egs5B0NMgItEgZ1wpoeCDYDw=",
+    "media_name": "5c90cbd9dfac41b1bc536c6935da3105.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1309752,
+   "key_id": "3EB01517E69A2B50AFA441",
+   "ts_ms": 1719255884000,
+   "ts_iso": "2024-06-24T19:04:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Verificaremos.",
+   "starred": false
+  }
+ ]
+}

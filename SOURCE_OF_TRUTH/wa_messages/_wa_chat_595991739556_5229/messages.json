@@ -1,0 +1,143 @@
+{
+ "chat_id": 5229,
+ "slug": "_wa_chat_595991739556_5229",
+ "subject": null,
+ "jid_user": "595991739556",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991739556@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1212119,
+   "key_id": "90C13B7148E37772704CD6A2A46D9DB8",
+   "ts_ms": 1702988788354,
+   "ts_iso": "2023-12-19T12:26:28.354000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, quiero más información sobre un producto!",
+   "starred": false
+  },
+  {
+   "id": 1212120,
+   "key_id": "346DBEAA202E855FBF7EDEC10CD17ACA",
+   "ts_ms": 1702988789000,
+   "ts_iso": "2023-12-19T12:26:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Visual Wish. En breve nos ponemos en contacto contigo. 🙌🏻✨ \n\n*Horarios de atención.*\n*_•Lunes a sábado: 09:00hs a 21:00hs._*\n*_•Domingos de 11:00hs a 21:00hs._*\n\n*Esta es una respuesta automática.*",
+   "starred": false
+  },
+  {
+   "id": 1212121,
+   "key_id": "8CBAC9471F11B1724B52E0AF6793741C",
+   "ts_ms": 1702988790000,
+   "ts_iso": "2023-12-19T12:26:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Visual Wish. Mensajes anteriores al suyo están siendo respondidos. Agradecemos, aguarde un momento, en breve nos comunicamos con usted. \n\n*Esta es una respuesta automática.*",
+   "starred": false
+  },
+  {
+   "id": 1212122,
+   "key_id": "09AE03228428EC9FE9834174563864FE",
+   "ts_ms": 1702988806101,
+   "ts_iso": "2023-12-19T12:26:46.101000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis a cuánto tienen trajes de maid?",
+   "starred": false
+  },
+  {
+   "id": 1212125,
+   "key_id": "1F0399EC70D9E20F42EBD516901E521D",
+   "ts_ms": 1702989535000,
+   "ts_iso": "2023-12-19T12:38:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día te saluda Alan 😊✨",
+   "starred": false
+  },
+  {
+   "id": 1212126,
+   "key_id": "4F634FF49FD9E3BF92",
+   "ts_ms": 1702989591000,
+   "ts_iso": "2023-12-19T12:39:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "holis alan n,n",
+   "starred": false
+  },
+  {
+   "id": 1212127,
+   "key_id": "9004C73CC123F94DA027AFB44D014141",
+   "ts_ms": 1702989607000,
+   "ts_iso": "2023-12-19T12:40:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "420mil gs",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "dW40sz65m329IF3uCZtaXs2pe6gfViKpqoBUAKz3orE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1212128,
+   "key_id": "EEBD1A3DC5F23BE9F1866F23E0FEBC48",
+   "ts_ms": 1702989612000,
+   "ts_iso": "2023-12-19T12:40:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es el único modelo que me queda",
+   "starred": false
+  },
+  {
+   "id": 1212129,
+   "key_id": "9DDDB44DB8CD2A7243",
+   "ts_ms": 1702989631000,
+   "ts_iso": "2023-12-19T12:40:31+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "rip \nno hay onda negros y blanco?",
+   "starred": false
+  },
+  {
+   "id": 1212130,
+   "key_id": "4B98449A595C02CD70",
+   "ts_ms": 1702989652000,
+   "ts_iso": "2023-12-19T12:40:52+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "sera en otro momento el modo maid jsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1212131,
+   "key_id": "15C60F0D444E71F438D8D1A36D76C43D",
+   "ts_ms": 1702989846000,
+   "ts_iso": "2023-12-19T12:44:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es el único que me queda",
+   "starred": false
+  }
+ ]
+}

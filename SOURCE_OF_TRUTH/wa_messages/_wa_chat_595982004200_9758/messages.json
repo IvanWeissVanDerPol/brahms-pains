@@ -1,0 +1,33 @@
+{
+ "chat_id": 9758,
+ "slug": "_wa_chat_595982004200_9758",
+ "subject": null,
+ "jid_user": "595982004200",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982004200@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1418851,
+   "key_id": "D566D81EFF9A74ACBC73057F514F47A9",
+   "ts_ms": 1736794319000,
+   "ts_iso": "2025-01-13T18:51:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "🌟 *¡Comenzá la semana con un Lindo Día con nosotros!* 🌟\nAhora podés visitarnos en nuestro nuevo horario:\n\n🕙 Lunes a Jueves: 10:00 AM - 06:00 PM\n🕙Viernes: 10:00 AM - 08:00 PM\n🕚 Sábados: 10:00 AM - 04:00 PM\n\n🏪 Nos encontramos al costado del campus de la UNA.\nDescubrí lo mejor en vapes, accesorios, moda y más. 🎁\n\n\n*_¡Que tengas un Lindo Día!_*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250113-WA0039.jpg",
+    "size": 123772,
+    "duration_s": 0,
+    "sha256_b64": "gMzhyP+wlOesP10ukqbjC41EzfPmtPmqfejILSHnfbo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

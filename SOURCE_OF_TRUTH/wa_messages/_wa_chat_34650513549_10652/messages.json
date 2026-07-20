@@ -1,0 +1,77 @@
+{
+ "chat_id": 10652,
+ "slug": "_wa_chat_34650513549_10652",
+ "subject": null,
+ "jid_user": "34650513549",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "34650513549@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1512154,
+   "key_id": "3A970E45F95C4A8EB648",
+   "ts_ms": 1750745087000,
+   "ts_iso": "2025-06-24T06:04:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buenas\r\ndebido a que no ha estado anteriormente le compartiré primeramente todas las vacantes para que pueda revisar las mismas\r\n\r\naprovecho para comentarle que tenemos este canal en el que ponemos las vacantes\r\nhttps://chat.whatsapp.com/JCF8DjHhA3O4rOlhX9RGKg\r\nademás, si comparte el canal con sus amistades se lo agradezco",
+   "starred": false
+  },
+  {
+   "id": 1512162,
+   "key_id": "3A4534E3B2FB7689FE89",
+   "ts_ms": 1750745144000,
+   "ts_iso": "2025-06-24T06:05:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "si le interesa alguna de las vacantes que hemos publicado me dice\r\ny le agradezco que comparta el canal de vacantes con sus amigos o Chats técnicos",
+   "starred": false
+  },
+  {
+   "id": 1512214,
+   "key_id": "7683045237C7BB4D7289F8E3C9F4A6C8",
+   "ts_ms": 1750764246734,
+   "ts_iso": "2025-06-24T11:24:06.734000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola fran \nMe interesa esta oportinudad \n\nPero soy hombre :( \n\nSi en algun momento hay demanda unisex no dudes en contactarme \n\nTe paso mi pagina web / resumen \n\nhttps://ivanweissvanderpol.github.io/",
+   "starred": false
+  },
+  {
+   "id": 1512215,
+   "key_id": "BFF9BF7C06473A52627167614AE8B120",
+   "ts_ms": 1750764261470,
+   "ts_iso": "2025-06-24T11:24:21.470000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Paso tu link a unos grupos",
+   "starred": false
+  },
+  {
+   "id": 1512239,
+   "key_id": "3AA66A64A62C95165EB9",
+   "ts_ms": 1750767491000,
+   "ts_iso": "2025-06-24T12:18:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202526/PTT-20250624-WA0006.opus",
+    "size": 23885,
+    "duration_s": 9,
+    "sha256_b64": "ip1C7XZHmLE4bHCcAMlVWFu3+D88n7Xa8aGVJ5/aSSI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

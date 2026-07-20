@@ -1,0 +1,101 @@
+{
+ "chat_id": 5696,
+ "slug": "_wa_chat_595982136081_5696",
+ "subject": null,
+ "jid_user": "595982136081",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982136081@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1243679,
+   "key_id": "9B0BC19DC9BBE999BD3F5A1CB730348C",
+   "ts_ms": 1708477633447,
+   "ts_iso": "2024-02-21T01:07:13.447000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola profe \nSoy Iván Weiss \n\nQue certificados recomendas para ver / certificar \n\nQue sean relevantes a base de datos 2 ?\n\nMe gustaría a la par con las clases ver de certificar y tirar en LinkedIn",
+   "starred": false
+  },
+  {
+   "id": 1243727,
+   "key_id": "3A1CA395785D73A33C2B",
+   "ts_ms": 1708478394000,
+   "ts_iso": "2024-02-21T01:19:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas Ivan!\n\nSi tenes la oportunidad sería bueno hacer algún curso de Administración de Bases de Datos PostreSQL, Optimización de Consultas en PostreSQL o Consultas Avanzadas en PostreSQL",
+   "starred": false
+  },
+  {
+   "id": 1243730,
+   "key_id": "3AB16FA46F85EAE12E44",
+   "ts_ms": 1708478426000,
+   "ts_iso": "2024-02-21T01:20:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "PostreSQL hoy día tiene mucha demanda en el Mercado Nacional",
+   "starred": false
+  },
+  {
+   "id": 1243731,
+   "key_id": "3AC91C802766BD582D7E",
+   "ts_ms": 1708478468000,
+   "ts_iso": "2024-02-21T01:21:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Adicionalmente, podrías ver algún curso de SQLServer y sus componentes para BI",
+   "starred": false
+  },
+  {
+   "id": 1243735,
+   "key_id": "A2011DBE51BBC2DE02A51854F9AA9C9C",
+   "ts_ms": 1708479193095,
+   "ts_iso": "2024-02-21T01:33:13.095000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias profe \nVoy a enfocarme en postreSQL",
+   "starred": false
+  },
+  {
+   "id": 1243736,
+   "key_id": "ADDCB6CA72798582B56A4E1E0B192409",
+   "ts_ms": 1708479209410,
+   "ts_iso": "2024-02-21T01:33:29.410000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jauuuu \nSe ree certifica entonces",
+   "starred": false
+  },
+  {
+   "id": 1243737,
+   "key_id": "3AEAD6EE6709F01C7C90",
+   "ts_ms": 1708479814000,
+   "ts_iso": "2024-02-21T01:43:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Genial! Cualquier consulta lo podes hacer sin problema en clases. Saludos!!",
+   "starred": false
+  },
+  {
+   "id": 1492638,
+   "key_id": "DC77B5CC392FA7DFB7F44758C325399D",
+   "ts_ms": 1748148339717,
+   "ts_iso": "2025-05-25T04:45:39.717000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtu.be/caXrIUtl2s0\n\nHola profe acá te va un vídeo cool",
+   "starred": false
+  }
+ ]
+}

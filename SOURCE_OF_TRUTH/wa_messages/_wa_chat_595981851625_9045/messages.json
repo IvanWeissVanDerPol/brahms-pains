@@ -1,0 +1,24 @@
+{
+ "chat_id": 9045,
+ "slug": "_wa_chat_595981851625_9045",
+ "subject": null,
+ "jid_user": "595981851625",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981851625@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1361727,
+   "key_id": "3EB04976A0C178D3D1A4E4",
+   "ts_ms": 1726863518000,
+   "ts_iso": "2024-09-20T20:18:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Disculpe*, acudimos con usted como *REFERENCIA PERSONAL* ,  estamos tratando de contactar con *GOMEZ GALEANO, JUAN CARLOS\t3604592, de parte de la empresa BRISTOL S.A*., por favor si podría hacerle llegar el mensaje de que se comunique a los telefonos citados mas bajo o que se  acerque a una de las *Sucursales* en la brevedad posible, desde ya muchas gracias y aguardamos retorno.\n\n*Dpto. Judicial*\n*021 214090 Int 136* *https://wa.me/595981851625*",
+   "starred": false
+  }
+ ]
+}

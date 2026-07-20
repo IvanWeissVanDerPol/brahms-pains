@@ -1,0 +1,24 @@
+{
+ "chat_id": 2920,
+ "slug": "_wa_chat_13163723865_2920",
+ "subject": null,
+ "jid_user": "13163723865",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "13163723865@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1278866,
+   "key_id": "590BFD9E0D4F5184260532863BAB63D5",
+   "ts_ms": 1714078844452,
+   "ts_iso": "2024-04-25T21:00:44.452000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Happy birthday",
+   "starred": false
+  }
+ ]
+}

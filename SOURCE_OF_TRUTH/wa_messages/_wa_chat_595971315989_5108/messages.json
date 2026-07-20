@@ -1,0 +1,24 @@
+{
+ "chat_id": 5108,
+ "slug": "_wa_chat_595971315989_5108",
+ "subject": null,
+ "jid_user": "595971315989",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971315989@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1195197,
+   "key_id": "3EB095DE0210EFFB259437",
+   "ts_ms": 1700152365000,
+   "ts_iso": "2023-11-16T16:32:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*OFERTA COMBO PORTABILIDAD&WIFI*\n                     *NOVIEMBRE* \n*Holaa, como estas? Le saluda Ulises de la compañía Personal*🤩\n\nTe quiero invitar a que tengas el servicio de Portabilidad Personal📲\nCon la portabilidad encontras, calidad, velocidad, mayor cobertura a nivel país!! SIN CAMBIAR TU NUMERO\nTE BRINDAMOS \n⬇️⬇️⬇️⬇️⬇️\nLlamadas ilimitadas📲\nMensajes ilimitados 📨\nwhatsapp gratis🌎\nRoaming ✈\n*7GB de internet acumulables 55.000gs* \n*12GB de internet acumulables 75.000gs*\n*15GB de internet acumulables 120.000gs*\n*25GB de internet acumulables 160.000gs*\n*30GB de internet acumulables 200.000gs*\nSaldo principal de regalo🎁\nPagas recién a los 30 días 😊SIN CONTRATO\n*Si tenes Wifi con Personal o adquirís. Duplicamos tus GB y velocidad con el mismo precio* *no habilitado para líneas de Personal*",
+   "starred": false
+  }
+ ]
+}

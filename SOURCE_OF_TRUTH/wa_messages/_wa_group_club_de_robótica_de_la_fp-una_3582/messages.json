@@ -1,0 +1,221 @@
+{
+ "chat_id": 3582,
+ "slug": "_wa_group_club_de_robótica_de_la_fp-una_3582",
+ "subject": "Club de Robótica de la FP-UNA",
+ "jid_user": "120363162502837608",
+ "jid_server": "g.us",
+ "jid_raw": "120363162502837608@g.us",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1140650,
+   "key_id": "F34BB1D54D034B64C31C478F9CA918B0",
+   "ts_ms": 1693316001000,
+   "ts_iso": "2023-08-29T13:33:21+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 0,
+   "text": "Buenos días a todos!!! 🤖",
+   "starred": false
+  },
+  {
+   "id": 1140652,
+   "key_id": "CEC0D8EC12DC5C88F6923F9CA6C46BA4",
+   "ts_ms": 1693316105000,
+   "ts_iso": "2023-08-29T13:35:05+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 0,
+   "text": "Les tenemos una super actividad desde el CDR si quieren participar y ganar horas de extensión universitaria !!! 🦾",
+   "starred": false
+  },
+  {
+   "id": 1140654,
+   "key_id": "BF7502E8D19877D73B560D86FC0FEF87",
+   "ts_ms": 1693316124000,
+   "ts_iso": "2023-08-29T13:35:24+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "i9pHK2kD9t0JduUjwwhbOjYz8VeKHMpmkFTr6ROTnzY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1140656,
+   "key_id": "E17BCC94504A417C128BE653FCAE1E74",
+   "ts_ms": 1693316241000,
+   "ts_iso": "2023-08-29T13:37:21+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 0,
+   "text": "El 6, 7, 8 y 9 de setiembre se realizará la 1ra Feria Científica Tecnológica Escolar en el Centro Educativo \"La Esperanza\"",
+   "starred": false
+  },
+  {
+   "id": 1140659,
+   "key_id": "C1467370D5B931D215FF55B20E9554C1",
+   "ts_ms": 1693316352000,
+   "ts_iso": "2023-08-29T13:39:12+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "NRT1vawp0ZWqurfE3ZoyrwVzFtwObicJcp0URh06VYk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1140661,
+   "key_id": "74BC18E881D73E6FF140326ADBF40369",
+   "ts_ms": 1693316352000,
+   "ts_iso": "2023-08-29T13:39:12+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "5oVkxojoZVBkl4h5uiYe3ifCOdIW51b0zEd8jar+oEQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1140663,
+   "key_id": "2AAF510561A7528649DB45BE761984D5",
+   "ts_ms": 1693316352000,
+   "ts_iso": "2023-08-29T13:39:12+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "10mk2HNhJtGPg2aaBMg3iuWnr5HEZZIefDzA6VeFK9M=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1140668,
+   "key_id": "E64F6B513D544C11A441F6B8866865AE",
+   "ts_ms": 1693316549000,
+   "ts_iso": "2023-08-29T13:42:29+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 0,
+   "text": "Para la inscripción de interesados habilitamos un formulario",
+   "starred": false
+  },
+  {
+   "id": 1140669,
+   "key_id": "8D00F5B61B40C44F9986170309128359",
+   "ts_ms": 1693316571000,
+   "ts_iso": "2023-08-29T13:42:51+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 0,
+   "text": "Esta en el QR del primer Flyer",
+   "starred": false
+  },
+  {
+   "id": 1140670,
+   "key_id": "E7E13FD5E1E69DC1EB068BC2FB6AFBBC",
+   "ts_ms": 1693316613000,
+   "ts_iso": "2023-08-29T13:43:33+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 0,
+   "text": "Con el fin de crear un grupo de Whatsapp para coordinar la fecha de reunión informativa.",
+   "starred": false
+  },
+  {
+   "id": 1140671,
+   "key_id": "20AD774EFA32AA53E9BF846E42492B69",
+   "ts_ms": 1693316636000,
+   "ts_iso": "2023-08-29T13:43:56+00:00",
+   "from_me": false,
+   "sender_jid": "595971505289@s.whatsapp.net",
+   "type": 0,
+   "text": "https://forms.gle/sHgxsoLJEFTD3D2G8",
+   "starred": false
+  },
+  {
+   "id": 1590698,
+   "key_id": "AC2D0F6274EDC2837344354A9C5C6398",
+   "ts_ms": 1760569238000,
+   "ts_iso": "2025-10-15T23:00:38+00:00",
+   "from_me": false,
+   "sender_jid": "168148053536862@lid",
+   "type": 1,
+   "text": "@clubaeroespacialfp , @gispafpuna , @giemfpuna , @gitefp , @cdrpy, con el apoyo de: @agenciaespacialdelparaguay \npresentan: \n\n“Ñakurutú I🚀” y “ÑakuSat🛰️” , el cohete y el satélite que competiran en el LASC(Latin American Space Challenge) 2025. 🤩\n\nEl Ñakurutú es el búho más grande del Paraguay🇵🇾 y el segundo de America. Es un ave rapaz principalmente nocturna que caza en la oscuridad y tiene un papel importante en el equilibrio ecológico. \nEl vuelo del ñakurutú es lento у silencioso, lo que le permite sorprender a sus presas. Tiene alas largas y anchas que le permiten volar con facilidad y precisión.\nDurante el vuelo, el nakurutú puede alcanzar velocidades de hasta 30 kilómetros por hora.\n\n#Lasc2025 #Ñakurutú1 #ÑakuSat \nhttps://www.instagram.com/p/DP2Gam9gVeX/?igsh=emUwZjNid29kd2Y1",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251015-WA0079.jpg",
+    "size": 355671,
+    "duration_s": 0,
+    "sha256_b64": "cVBWnxKPx3wdgcS0VoBzOcQFqFfq2m7BSWF5n1uQKhk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1593965,
+   "key_id": "ACDE47422C70FD6BE7EE25760BEEC18A",
+   "ts_ms": 1760963261000,
+   "ts_iso": "2025-10-20T12:27:41+00:00",
+   "from_me": false,
+   "sender_jid": "168148053536862@lid",
+   "type": 1,
+   "text": "🔥 ¡TANDA FLASH del Polo del Club de Robótica! 🤖\n\nDesde *hoy* hasta el *viernes*, aprovechá para conseguir tu polo oficial 🩶\nCómodo, elegante y con toda la identidad del club.\n\n💸 Gs. 90.000 – disponibles en todas las tallas.\n\nLink: https://forms.gle/ykcjnsVRWaeYGAxw5\n\n⚡ ¡No te quedes sin el tuyo!\n\n📍 @CDRPY",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251020-WA0020.jpg",
+    "size": 95416,
+    "duration_s": 0,
+    "sha256_b64": "sFcElUs7jv3HgVEJQA0M8K6svbISesS5Q1vp9KPsM8Q=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1615017,
+   "key_id": "AC8EB724B09CB4F5935C95486130F18C",
+   "ts_ms": 1763504257000,
+   "ts_iso": "2025-11-18T22:17:37+00:00",
+   "from_me": false,
+   "sender_jid": "168148053536862@lid",
+   "type": 0,
+   "text": "https://www.instagram.com/reel/DRMqyhSjWMH/?igsh=cmh0ZGFuYnB5Nmtu",
+   "starred": false
+  }
+ ]
+}

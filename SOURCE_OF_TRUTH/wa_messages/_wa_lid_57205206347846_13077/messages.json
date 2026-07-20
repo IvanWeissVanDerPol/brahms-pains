@@ -1,0 +1,112 @@
+{
+ "chat_id": 13077,
+ "slug": "_wa_lid_57205206347846_13077",
+ "subject": null,
+ "jid_user": "57205206347846",
+ "jid_server": "lid",
+ "jid_raw": "57205206347846@lid",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1649056,
+   "key_id": "ACA4C27B0227231A4D196747EBE0E955",
+   "ts_ms": 1767975046861,
+   "ts_iso": "2026-01-09T16:10:46.861000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1649057,
+   "key_id": "A5673CDE64993D843AD33B620A871269",
+   "ts_ms": 1767975050000,
+   "ts_iso": "2026-01-09T16:10:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por escribirnos 😻\n\nNo es necesario reservar para visitarnos.\n\n⏰ Abrimos TODOS LOS DIAS. De lunes a sábados de 08:00 a 21:00 y domingos de 15:00 a 20:00\n\n📍https://maps.app.goo.gl/PqPzZQrxq4ujgh2r5?g_st=ac\n\n🎁  Tenemos paquetes para reservas de cumpleaños. Déjanos la fecha, la hora y la cantidad de personas. \n\n📱 Respondemos en la brevedad.",
+   "starred": false
+  },
+  {
+   "id": 1649344,
+   "key_id": "3EB07708C9083FF4A8F9F0",
+   "ts_ms": 1767989515000,
+   "ts_iso": "2026-01-09T20:11:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola que tal ?",
+   "starred": false
+  },
+  {
+   "id": 1649346,
+   "key_id": "3EB09A06DFDC3BC4A217F7",
+   "ts_ms": 1767989529000,
+   "ts_iso": "2026-01-09T20:12:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "mil disculpas por la demora , nuestra compu murio",
+   "starred": false
+  },
+  {
+   "id": 1649347,
+   "key_id": "3EB080E9D4E20DF405A9CE",
+   "ts_ms": 1767989534000,
+   "ts_iso": "2026-01-09T20:12:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "en que podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1649349,
+   "key_id": "ACAF748D9DBB2AED1EB21AFED166240F",
+   "ts_ms": 1767989779109,
+   "ts_iso": "2026-01-09T20:16:19.109000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola qué tal sorry estuve a full\n\nQuería escribirles para sugerir ideas con IA \n\nComo musicas para coffee cat con suno\nEstuve en la mañana en el local y prepare unos cuantos \n\n\n/ Preguntas random \n\nEstoy haciendo una red de veterinarios digital\n\nVa tener todos los servicios de vete y de pet parrent \n\nY estoy pensando en tener un board de adopción \nLost and found \nTemporary home \nDog walking \n\nY quería preguntarles \nQue cosas les parecería a ustedes amazing si tuviese el sistema \n\nDesde el punto de vista de locales como el de ustedes",
+   "starred": false
+  },
+  {
+   "id": 1649351,
+   "key_id": "3EB0079295031A9F051B4C",
+   "ts_ms": 1767989870000,
+   "ts_iso": "2026-01-09T20:17:50+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://suno.com/s/Lt1oyq4dZzIJ8txs",
+   "starred": false
+  },
+  {
+   "id": 1649352,
+   "key_id": "3EB06A9E6E60D7798F102B",
+   "ts_ms": 1767989946000,
+   "ts_iso": "2026-01-09T20:19:06+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://suno.com/s/DCpwQ3jBORat16dT",
+   "starred": false
+  },
+  {
+   "id": 1649354,
+   "key_id": "3EB0DFA595CAA957F85EFB",
+   "ts_ms": 1767989976000,
+   "ts_iso": "2026-01-09T20:19:36+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "pueden hacer gratis canciones en suno btw no es para venderles \nonda tip de donde esta la herramienta n,n",
+   "starred": false
+  }
+ ]
+}

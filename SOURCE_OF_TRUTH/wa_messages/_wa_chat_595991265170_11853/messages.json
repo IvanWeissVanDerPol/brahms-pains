@@ -1,0 +1,68 @@
+{
+ "chat_id": 11853,
+ "slug": "_wa_chat_595991265170_11853",
+ "subject": null,
+ "jid_user": "595991265170",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991265170@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581108,
+   "key_id": "AC768B69DEE7183D8F5234470ADC8446",
+   "ts_ms": 1759604996127,
+   "ts_iso": "2025-10-04T19:09:56.127000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Valeria en que horario está disponible?",
+   "starred": false
+  },
+  {
+   "id": 1581116,
+   "key_id": "A55EC102BB4285D48C78D95F301244AF",
+   "ts_ms": 1759605044000,
+   "ts_iso": "2025-10-04T19:10:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa",
+   "starred": false
+  },
+  {
+   "id": 1581117,
+   "key_id": "A596C0DECDAE6437B588A2B347E64B9C",
+   "ts_ms": 1759605049000,
+   "ts_iso": "2025-10-04T19:10:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal???",
+   "starred": false
+  },
+  {
+   "id": 1581118,
+   "key_id": "A5D17FF4BE8CAE62520CF792376A2E7A",
+   "ts_ms": 1759605056000,
+   "ts_iso": "2025-10-04T19:10:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hoy hasta las 20hs",
+   "starred": false
+  },
+  {
+   "id": 1581121,
+   "key_id": "A538184FD0D2D98E837C116FAD1A096A",
+   "ts_ms": 1759605153000,
+   "ts_iso": "2025-10-04T19:12:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A que hora te gustaría pasar?",
+   "starred": false
+  }
+ ]
+}

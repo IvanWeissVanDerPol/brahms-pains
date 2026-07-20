@@ -1,0 +1,233 @@
+{
+ "chat_id": 15549,
+ "slug": "_wa_lid_199570671841348_15549",
+ "subject": null,
+ "jid_user": "199570671841348",
+ "jid_server": "lid",
+ "jid_raw": "199570671841348@lid",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1789127,
+   "key_id": "AC757D7D409CEA1E879DEAB74144A84B",
+   "ts_ms": 1780274578158,
+   "ts_iso": "2026-06-01T00:42:58.158000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis un gusto Amanda soy Ivan n.n",
+   "starred": false
+  },
+  {
+   "id": 1789128,
+   "key_id": "AC16CB1A5EBD5BAE81AC4795E258C07F",
+   "ts_ms": 1780274617501,
+   "ts_iso": "2026-06-01T00:43:37.501000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cual es tu horario para la semana?\n\nYo trabajo de casa con mi roomie y puedo reagendar mis reuniones sin drama así que me re adapto a cuando estés libre :)",
+   "starred": false
+  },
+  {
+   "id": 1789129,
+   "key_id": "3A832A30D535620D7F4B",
+   "ts_ms": 1780275209000,
+   "ts_iso": "2026-06-01T00:53:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa",
+   "starred": false
+  },
+  {
+   "id": 1789130,
+   "key_id": "3A191B0D1FAED4ECEBAD",
+   "ts_ms": 1780275223000,
+   "ts_iso": "2026-06-01T00:53:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Generalmente trabajo 9h18h",
+   "starred": false
+  },
+  {
+   "id": 1789131,
+   "key_id": "AC63784A3EFBC7457E9FE4A9CC665A7D",
+   "ts_ms": 1780275283540,
+   "ts_iso": "2026-06-01T00:54:43.540000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por asu?\n\nO más hacia San Lorenzo?",
+   "starred": false
+  },
+  {
+   "id": 1789132,
+   "key_id": "AC03893A8BA6D44D27E5AFBE09443B16",
+   "ts_ms": 1780275303187,
+   "ts_iso": "2026-06-01T00:55:03.187000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sale un coffee date de tarde onda las 7 el martes?",
+   "starred": false
+  },
+  {
+   "id": 1789133,
+   "key_id": "AC2CB76F5F5688BD4E6AB27E5A81161B",
+   "ts_ms": 1780275304295,
+   "ts_iso": "2026-06-01T00:55:04.295000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1789134,
+   "key_id": "3A2B3F42E450EF82DAA3",
+   "ts_ms": 1780275307000,
+   "ts_iso": "2026-06-01T00:55:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Asu, bien en el centro",
+   "starred": false
+  },
+  {
+   "id": 1789135,
+   "key_id": "3AE050FC6DE833F08E71",
+   "ts_ms": 1780275338000,
+   "ts_iso": "2026-06-01T00:55:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "7h imposible",
+   "starred": false
+  },
+  {
+   "id": 1789136,
+   "key_id": "3A8720BF4A6EBFE86F7C",
+   "ts_ms": 1780275354000,
+   "ts_iso": "2026-06-01T00:55:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ese horario recien llego hacia mi dpto en Barrio Herrera",
+   "starred": false
+  },
+  {
+   "id": 1789137,
+   "key_id": "ACE8A27CA8166D87F40AA927B1AEEE7D",
+   "ts_ms": 1780275398831,
+   "ts_iso": "2026-06-01T00:56:38.831000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "It's ok \nDecime a qué hora te queda bien y nos vemos \n\nYo recomiendo esta cafetería \nhttps://maps.app.goo.gl/X1L5XFPtGDrmR1U66\n\nPero no prob con any other",
+   "starred": false
+  },
+  {
+   "id": 1789139,
+   "key_id": "3AEC7F180C2463B31813",
+   "ts_ms": 1780275485000,
+   "ts_iso": "2026-06-01T00:58:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me parece cool",
+   "starred": false
+  },
+  {
+   "id": 1790209,
+   "key_id": "3A29AF97D709AF1FE92A",
+   "ts_ms": 1780423877000,
+   "ts_iso": "2026-06-02T18:11:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello there",
+   "starred": false
+  },
+  {
+   "id": 1790210,
+   "key_id": "3A05E9B2B1F72FD4109E",
+   "ts_ms": 1780423888000,
+   "ts_iso": "2026-06-02T18:11:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Imposible para mi hoy",
+   "starred": false
+  },
+  {
+   "id": 1790211,
+   "key_id": "3A41AC38AE2C138D46E9",
+   "ts_ms": 1780423893000,
+   "ts_iso": "2026-06-02T18:11:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy trabajar hasta tarde",
+   "starred": false
+  },
+  {
+   "id": 1790212,
+   "key_id": "3AAB3280C774AB998A7F",
+   "ts_ms": 1780423907000,
+   "ts_iso": "2026-06-02T18:11:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No te parece si dejamos para e sabado?",
+   "starred": false
+  },
+  {
+   "id": 1790215,
+   "key_id": "3EB0626FC1B4C05999500B",
+   "ts_ms": 1780424440000,
+   "ts_iso": "2026-06-02T18:20:40+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "tengo actis los findes hasta finales de junio  xD  todos los padres de mis amigos garcharin hace 9 meses en sus respectivos anos asahshash",
+   "starred": false
+  },
+  {
+   "id": 1790219,
+   "key_id": "3EB048D770918EB41FB212",
+   "ts_ms": 1780425293000,
+   "ts_iso": "2026-06-02T18:34:53+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "maybe en la semana o la semana que viene?",
+   "starred": false
+  },
+  {
+   "id": 1790503,
+   "key_id": "3ABCB8D95283A92D20ED",
+   "ts_ms": 1780437783000,
+   "ts_iso": "2026-06-02T22:03:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si si",
+   "starred": false
+  },
+  {
+   "id": 1790504,
+   "key_id": "3A2B125C6939DFE54559",
+   "ts_ms": 1780437786000,
+   "ts_iso": "2026-06-02T22:03:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sin problema",
+   "starred": false
+  }
+ ]
+}

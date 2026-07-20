@@ -1,0 +1,33 @@
+{
+ "chat_id": 9286,
+ "slug": "_wa_chat_595973688038_9286",
+ "subject": null,
+ "jid_user": "595973688038",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595973688038@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1391961,
+   "key_id": "98D17779526BAB3E993747D5F1D9D7AD",
+   "ts_ms": 1732109148000,
+   "ts_iso": "2024-11-20T13:25:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "EN BRISTOL TE QUEREMOS PREMIAR* 🤩😱🥳\n *CON CUALQUIER COMPRA QUE REALICES, TE LLEVAS UNA CUOTA DE* 😱🎊\n \nAdemás participas del sorteo  de una moto buler super sport + 20.000.000gs en efectivo que se sorteará a fines de noviembre🤩🤩 \n**APROVECHA Y GANA*",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241120-WA0003.jpg",
+    "size": 340189,
+    "duration_s": 0,
+    "sha256_b64": "V6U14GuWg0HbqFpJEmFAQTUADyLrc+At8ALRWHPTRIs=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

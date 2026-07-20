@@ -1,0 +1,269 @@
+{
+ "chat_id": 6538,
+ "slug": "_wa_chat_595994445246_6538",
+ "subject": null,
+ "jid_user": "595994445246",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994445246@s.whatsapp.net",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1443786,
+   "key_id": "7BE1E61A556F45E4185BC767B8D17668",
+   "ts_ms": 1741255160000,
+   "ts_iso": "2025-03-06T09:59:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal Iván? Yo había participado en el taller de invierno de Introducción al aseguramiento de calidad y automatización",
+   "starred": false
+  },
+  {
+   "id": 1443787,
+   "key_id": "DFB487F7705A5A09E28D9CB2A8DF054A",
+   "ts_ms": 1741255171000,
+   "ts_iso": "2025-03-06T09:59:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Recuerdo que en ese momento estabas en Mentormate",
+   "starred": false
+  },
+  {
+   "id": 1443788,
+   "key_id": "35E0B0320BCD83F0E687802390E72DF7",
+   "ts_ms": 1741255181000,
+   "ts_iso": "2025-03-06T09:59:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo una entrevista la próxima semana y te soy sincero que me cuesta el inglés",
+   "starred": false
+  },
+  {
+   "id": 1443789,
+   "key_id": "F6CAA1A10F2A0A4F386D570324FC89C4",
+   "ts_ms": 1741255190000,
+   "ts_iso": "2025-03-06T09:59:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Son tan estrictos con el idioma ?",
+   "starred": false
+  },
+  {
+   "id": 1443790,
+   "key_id": "1CB7FD2FDE38DD730CC6471CB1639359",
+   "ts_ms": 1741255202000,
+   "ts_iso": "2025-03-06T10:00:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy a preparar mi presentación personal en ingles pero como es dentro de la empresa ?",
+   "starred": false
+  },
+  {
+   "id": 1443791,
+   "key_id": "E5CAF4464276AF3CF63A55DDF310BF57",
+   "ts_ms": 1741255218000,
+   "ts_iso": "2025-03-06T10:00:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Osea si no tengo inglés fluido tipo Yankee no sobrevivo?",
+   "starred": false
+  },
+  {
+   "id": 1443792,
+   "key_id": "FEF7BAB96CC5AC8D5E98B843C4A9C13F",
+   "ts_ms": 1741255226000,
+   "ts_iso": "2025-03-06T10:00:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si es que sos tan amable de comentarme más o menos como es",
+   "starred": false
+  },
+  {
+   "id": 1443954,
+   "key_id": "C4F027D1B84778EB2D7EA79ED7E63009",
+   "ts_ms": 1741275941077,
+   "ts_iso": "2025-03-06T15:45:41.077000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202510/PTT-20250306-WA0011.opus",
+    "size": 0,
+    "duration_s": 222,
+    "sha256_b64": "xYmwdJlHpaBldc3eKJqI7gXu19+iZZHBAnlC+Yc2tq4=",
+    "media_name": "753a1cd928e44a35b0389288accb2bd5.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1443975,
+   "key_id": "35E353BF6CA6E41D42812010E3F14229",
+   "ts_ms": 1741277458000,
+   "ts_iso": "2025-03-06T16:10:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajajaja",
+   "starred": false
+  },
+  {
+   "id": 1443976,
+   "key_id": "4BB6E11A9566ED838D9AE9BEF0D367CC",
+   "ts_ms": 1741277463000,
+   "ts_iso": "2025-03-06T16:11:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pobre indios",
+   "starred": false
+  },
+  {
+   "id": 1443977,
+   "key_id": "1E112B3B0BF5B0E455733B2AAD00AA8E",
+   "ts_ms": 1741277466000,
+   "ts_iso": "2025-03-06T16:11:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1443978,
+   "key_id": "71D98532C57410F156965D091F956694",
+   "ts_ms": 1741277468000,
+   "ts_iso": "2025-03-06T16:11:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Entendí todo",
+   "starred": false
+  },
+  {
+   "id": 1444024,
+   "key_id": "0F5879432CFF244B5EC51CDED93B30BD",
+   "ts_ms": 1741279157089,
+   "ts_iso": "2025-03-06T16:39:17.089000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202510/PTT-20250306-WA0024.opus",
+    "size": 0,
+    "duration_s": 154,
+    "sha256_b64": "JKV9dsj3OzWNQjanbl0aT+XypetgRxGnzehZKegy5pE=",
+    "media_name": "a058c0e940ec4a3b9ada369a1cccecd3.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1444025,
+   "key_id": "30797FB924D66A27665038915EA7D6B7",
+   "ts_ms": 1741279164172,
+   "ts_iso": "2025-03-06T16:39:24.172000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Inglés de mi meeting de trabajo",
+   "starred": false
+  },
+  {
+   "id": 1444026,
+   "key_id": "82FF8ECE9D602DEEB37DE1DEC1194A95",
+   "ts_ms": 1741279180364,
+   "ts_iso": "2025-03-06T16:39:40.364000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para que tengas contex de cómo hablan",
+   "starred": false
+  },
+  {
+   "id": 1444027,
+   "key_id": "81588436A39E41D48FFDD241DDC5B7FB",
+   "ts_ms": 1741279185862,
+   "ts_iso": "2025-03-06T16:39:45.862000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Side note estos son de canada",
+   "starred": false
+  },
+  {
+   "id": 1444079,
+   "key_id": "891FB744F96E7F26BD0C2B5F2F7D7992",
+   "ts_ms": 1741290295000,
+   "ts_iso": "2025-03-06T19:44:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias!!!",
+   "starred": false
+  },
+  {
+   "id": 1444080,
+   "key_id": "DF54E6C0B2CF0C83816C66298EFD8826",
+   "ts_ms": 1741290307000,
+   "ts_iso": "2025-03-06T19:45:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hablan lento por suerte",
+   "starred": false
+  },
+  {
+   "id": 1444547,
+   "key_id": "7AE2CDF43E0381B8EFDBC38E18CF46D5",
+   "ts_ms": 1741365438000,
+   "ts_iso": "2025-03-07T16:37:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202510/PTT-20250307-WA0010.opus",
+    "size": 78630,
+    "duration_s": 38,
+    "sha256_b64": "H9DtL0+vBVUSSc02ttChVRHwkD7lIafQLKiz3EePzyg=",
+    "media_name": "PTT-20250307-WA0010.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1444556,
+   "key_id": "A5AEDC54B0CB61D05252A5430230E747",
+   "ts_ms": 1741366090477,
+   "ts_iso": "2025-03-07T16:48:10.477000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202510/PTT-20250307-WA0011.opus",
+    "size": 0,
+    "duration_s": 132,
+    "sha256_b64": "Z/nMpzYvqsY+8OZ00lhLF1A1KkU7e4ISaw/PeKanAsc=",
+    "media_name": "07c55e9f18db4ae8a0a86a93db5b8a96.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

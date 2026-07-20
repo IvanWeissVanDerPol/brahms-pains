@@ -1,0 +1,167 @@
+{
+ "chat_id": 5110,
+ "slug": "_wa_chat_595985745553_5110",
+ "subject": null,
+ "jid_user": "595985745553",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985745553@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1711229,
+   "key_id": "3EB0277AE4608BF2C64110",
+   "ts_ms": 1772757896000,
+   "ts_iso": "2026-03-06T00:44:56+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "holis \nvos tambien estas jugando con IAs?\nuwuwu\n\ncurrently estoy con ollama + openclaw  paid models \n\nsabes si ya hay mas una comunidad en py ?",
+   "starred": false
+  },
+  {
+   "id": 1711230,
+   "key_id": "3EB0B1D8A4470E5CEDD948",
+   "ts_ms": 1772757909000,
+   "ts_iso": "2026-03-06T00:45:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "un gusto uwuw \nivan weiss soy btw n,n",
+   "starred": false
+  },
+  {
+   "id": 1711231,
+   "key_id": "AC30BE3A94365A3BFBC3C3EACEC84E11",
+   "ts_ms": 1772757962000,
+   "ts_iso": "2026-03-06T00:46:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal Iván, estoy trabajando con AI por ahora",
+   "starred": false
+  },
+  {
+   "id": 1711233,
+   "key_id": "ACAA6D01F8F54B2AB762F9625DFA9699",
+   "ts_ms": 1772757969000,
+   "ts_iso": "2026-03-06T00:46:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y hay muchas herramientas",
+   "starred": false
+  },
+  {
+   "id": 1711235,
+   "key_id": "AC5E93246C6072290E1B277B071A78C4",
+   "ts_ms": 1772757973000,
+   "ts_iso": "2026-03-06T00:46:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Demasiadas legalmente",
+   "starred": false
+  },
+  {
+   "id": 1711236,
+   "key_id": "ACD101ACEB576C0D390A8C18952F6602",
+   "ts_ms": 1772758021000,
+   "ts_iso": "2026-03-06T00:47:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://chat.whatsapp.com/Gxgzq0FP4ID7bw9hI3kVur",
+   "starred": false
+  },
+  {
+   "id": 1711237,
+   "key_id": "3EB0D73FAD40B0AA07D317",
+   "ts_ms": 1772758022000,
+   "ts_iso": "2026-03-06T00:47:02+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "yeah \ndemasiado genial es \njamas me diverti tanto trabajando",
+   "starred": false
+  },
+  {
+   "id": 1711443,
+   "key_id": "3EB0356EFC516064F2B737",
+   "ts_ms": 1772758031000,
+   "ts_iso": "2026-03-06T00:47:11+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "❤️",
+   "starred": false
+  },
+  {
+   "id": 1711449,
+   "key_id": "3EB0044CFF10AC37C59679",
+   "ts_ms": 1772758036000,
+   "ts_iso": "2026-03-06T00:47:16+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "se una AI-whisperers",
+   "starred": false
+  },
+  {
+   "id": 1711450,
+   "key_id": "ACCA5088C91884526C95ABE5F5D6AD74",
+   "ts_ms": 1772758037000,
+   "ts_iso": "2026-03-06T00:47:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aqui suelen preguntar sobre muchas cosas",
+   "starred": false
+  },
+  {
+   "id": 1711452,
+   "key_id": "AC8F62E3A451592A596A8F84799AAFDD",
+   "ts_ms": 1772758052000,
+   "ts_iso": "2026-03-06T00:47:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y hay veces que hablan sobre las herramientas o piden ayuda en sus proyectos",
+   "starred": false
+  },
+  {
+   "id": 1711453,
+   "key_id": "ACA98310DDED5194B103C809E001DE60",
+   "ts_ms": 1772758057000,
+   "ts_iso": "2026-03-06T00:47:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mucha gente interesante",
+   "starred": false
+  },
+  {
+   "id": 1711454,
+   "key_id": "3EB0CA3331C3E26FA9E4BA",
+   "ts_ms": 1772758069000,
+   "ts_iso": "2026-03-06T00:47:49+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me encanta \nmuchas gracias n,n",
+   "starred": false
+  },
+  {
+   "id": 1711455,
+   "key_id": "AC0461331960CBCC834749B93DD57D19",
+   "ts_ms": 1772758091000,
+   "ts_iso": "2026-03-06T00:48:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sin problemas",
+   "starred": false
+  }
+ ]
+}

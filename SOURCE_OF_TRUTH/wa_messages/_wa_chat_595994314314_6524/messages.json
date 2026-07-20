@@ -1,0 +1,46 @@
+{
+ "chat_id": 6524,
+ "slug": "_wa_chat_595994314314_6524",
+ "subject": null,
+ "jid_user": "595994314314",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994314314@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1270316,
+   "key_id": "0BE91A2169E462BF55B37AC03BF30056",
+   "ts_ms": 1712440046000,
+   "ts_iso": "2024-04-06T21:47:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible.",
+   "starred": false
+  },
+  {
+   "id": 1270324,
+   "key_id": "600243090AB1F755737D46AF4C52C4B0",
+   "ts_ms": 1712443241000,
+   "ts_iso": "2024-04-06T22:40:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes",
+   "starred": false
+  },
+  {
+   "id": 1270325,
+   "key_id": "BC1CAF7AE182C253E38F958A7CCF767C",
+   "ts_ms": 1712443245000,
+   "ts_iso": "2024-04-06T22:40:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le ayudo en algo?",
+   "starred": false
+  }
+ ]
+}

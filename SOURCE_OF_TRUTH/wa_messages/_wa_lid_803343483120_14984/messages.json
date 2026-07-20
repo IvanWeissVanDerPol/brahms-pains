@@ -1,0 +1,211 @@
+{
+ "chat_id": 14984,
+ "slug": "_wa_lid_803343483120_14984",
+ "subject": null,
+ "jid_user": "803343483120",
+ "jid_server": "lid",
+ "jid_raw": "803343483120@lid",
+ "message_count": 18,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1755518,
+   "key_id": "3EB0DC638C24D669115A57",
+   "ts_ms": 1776773413000,
+   "ts_iso": "2026-04-21T12:10:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola Ivan, te damos la bienvenida a Pagopar! \n\nMariana Ibarra te saluda, te voy a guiar para poder *habilitar tu comercio y comenzar a cobrar online.*\n\nPara avanzar, *completá el siguiente form.* _Te tomará menos de 2 minutos_ ☺️\n\n*Iniciar habilitación:*\nhttps://forms.gle/igEtFjvdSLCwkiLp9",
+   "starred": false
+  },
+  {
+   "id": 1755807,
+   "key_id": "3EB0E36274F9E1C51B59BA",
+   "ts_ms": 1776799317000,
+   "ts_iso": "2026-04-21T19:21:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Ivan, gracias por completar el form!, mencionaste que no tenes R.U.C. activo, ¿tenes planeado gestionar el documento?. Te consulto porque para que un emprendimiento o comercio pueda ser habilitado es necesario que tenga constancia de R.U.C. vigente",
+   "starred": false
+  },
+  {
+   "id": 1755808,
+   "key_id": "3EB0E450F9679678F682A0",
+   "ts_ms": 1776799327000,
+   "ts_iso": "2026-04-21T19:22:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "También mencionaste que estás gestionando tu cuenta bancaria ueno",
+   "starred": false
+  },
+  {
+   "id": 1755809,
+   "key_id": "ACE94B8E48820EF532EC38ABF91E00D7",
+   "ts_ms": 1776799344084,
+   "ts_iso": "2026-04-21T19:22:24.084000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola estoy con un bot o un humano?",
+   "starred": false
+  },
+  {
+   "id": 1755810,
+   "key_id": "3EB0351C97879355D0E632",
+   "ts_ms": 1776799347000,
+   "ts_iso": "2026-04-21T19:22:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¿Tendrías una fecha estimativa en la que estarás teniendo activo el R.U.C. y la cuenta bancaria ueno?",
+   "starred": false
+  },
+  {
+   "id": 1755811,
+   "key_id": "3EB08CA87CFDFE7C62CF10",
+   "ts_ms": 1776799366000,
+   "ts_iso": "2026-04-21T19:22:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Un humano, Mariana Ibarra te saluda 😅☺️",
+   "starred": false
+  },
+  {
+   "id": 1755813,
+   "key_id": "AC4F452BEB4692D52F476C15DFDBFB73",
+   "ts_ms": 1776799383535,
+   "ts_iso": "2026-04-21T19:23:03.535000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy montando un negocio de hacer páginas web para negocios en Paraguay \n\nY necesito poder cobrar por mis servicios \n\nY necesito que ellos puedan cobrar a sus clientes por mi página",
+   "starred": false
+  },
+  {
+   "id": 1755814,
+   "key_id": "AC7A6DF31CDDD140807D2388B7369FC4",
+   "ts_ms": 1776799425544,
+   "ts_iso": "2026-04-21T19:23:45.544000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy a hacer tiendas para negocio como peluquería \nNegocios de croché \n\nE commerce \n\nPáginas de influencer etc",
+   "starred": false
+  },
+  {
+   "id": 1755815,
+   "key_id": "AC5D1AB240BEC1F1C67FB711983A543D",
+   "ts_ms": 1776799488730,
+   "ts_iso": "2026-04-21T19:24:48.730000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El RUC está en proceso  se está encargando mi co dueña del proceso y los trámites legales pero tengo mi RUC personal también",
+   "starred": false
+  },
+  {
+   "id": 1755816,
+   "key_id": "AC9B37A68DC85DA3172BEB9535682DD2",
+   "ts_ms": 1776799498104,
+   "ts_iso": "2026-04-21T19:24:58.104000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo una cuenta básica",
+   "starred": false
+  },
+  {
+   "id": 1755817,
+   "key_id": "ACAF8D9EFB51806F1B5158404D4B47A7",
+   "ts_ms": 1776799512303,
+   "ts_iso": "2026-04-21T19:25:12.303000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Un gusto \nPara asegurar nomás jajaja",
+   "starred": false
+  },
+  {
+   "id": 1755818,
+   "key_id": "ACEBB44793B79D84AC7CB18157405B60",
+   "ts_ms": 1776799533303,
+   "ts_iso": "2026-04-21T19:25:33.303000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya que mi negocio es IA \n\nMe preguntaba si estaba en pago para metido ya o aún no",
+   "starred": false
+  },
+  {
+   "id": 1755819,
+   "key_id": "3EB059870584D009FA3F46",
+   "ts_ms": 1776799722000,
+   "ts_iso": "2026-04-21T19:28:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Comprendo, para que te puedan brindar más información al respecto, lo ideal es que agendes un Meet con Andrés Araujo que se encuentra en el área comercial, podes agendar un espacio a través del siguiente enlace: https://surl.li/nvwxwg",
+   "starred": false
+  },
+  {
+   "id": 1755820,
+   "key_id": "3EB082DE9F725E5D7528DB",
+   "ts_ms": 1776799748000,
+   "ts_iso": "2026-04-21T19:29:08+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "link a mi negocio https://paragu-ai.com/\n\nlink a negocio de cliente  https://paragu-ai.com/s/es/nexa-paraguay",
+   "starred": false
+  },
+  {
+   "id": 1755821,
+   "key_id": "3EB02CD6B1700FA65F9B2A",
+   "ts_ms": 1776799754000,
+   "ts_iso": "2026-04-21T19:29:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Entiendo, ¿el proyecto que deseas habiltiar es unipersonal o estará constituido como persona jurídica?",
+   "starred": false
+  },
+  {
+   "id": 1755822,
+   "key_id": "3EB0C88BDF4E8FD26A7628",
+   "ts_ms": 1776799797000,
+   "ts_iso": "2026-04-21T19:29:57+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "estamos haciendo una startup no estoy seguro de los terminos pero mi compa esta mas en lo de negocios y temas legales",
+   "starred": false
+  },
+  {
+   "id": 1755823,
+   "key_id": "3EB0A698657C5F41F152EC",
+   "ts_ms": 1776799812000,
+   "ts_iso": "2026-04-21T19:30:12+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "algunas cosas que te gustaria que tengamos listos? preparamos todo para el meeting o que",
+   "starred": false
+  },
+  {
+   "id": 1755824,
+   "key_id": "3EB0DC414C48F3AAEF23E2",
+   "ts_ms": 1776799958000,
+   "ts_iso": "2026-04-21T19:32:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lo importante para la habilitación es que; tengan habilitada una cuenta ueno empresarial (en caso que el proyecto esté constituido como persona jurídica), o cuenta bancaria personal ueno (en caso que el proyecto sea unipersonal). También deben contar con el R.U.C. en el cual figure la actividad comercial específica del emprendimiento y con un sitio web o redes sociales donde se pueda constatar la actividad comercial del proyecto",
+   "starred": false
+  }
+ ]
+}

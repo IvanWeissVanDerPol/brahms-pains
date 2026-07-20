@@ -1,0 +1,90 @@
+{
+ "chat_id": 10340,
+ "slug": "_wa_chat_595986652329_10340",
+ "subject": null,
+ "jid_user": "595986652329",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986652329@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1460807,
+   "key_id": "6AD58FFD591324F1572DD2AB41797FD8",
+   "ts_ms": 1743796749000,
+   "ts_iso": "2025-04-04T19:59:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa\nSoy la cuñada de Laura\nPuedo pasar ahora por tu casa a retirar la maleta?",
+   "starred": false
+  },
+  {
+   "id": 1460811,
+   "key_id": "DF225E9560C83A69CC833C1825D9DE5B",
+   "ts_ms": 1743796874038,
+   "ts_iso": "2025-04-04T20:01:14.038000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  },
+  {
+   "id": 1460812,
+   "key_id": "ED7FB6C6919667E97310A37BCB279D87",
+   "ts_ms": 1743796877694,
+   "ts_iso": "2025-04-04T20:01:17.694000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero no sé qué maleta",
+   "starred": false
+  },
+  {
+   "id": 1460817,
+   "key_id": "99896C634DF2D7C23C97693FD715841E",
+   "ts_ms": 1743797051000,
+   "ts_iso": "2025-04-04T20:04:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si, en lo de Iván está la maleta",
+   "starred": false
+  },
+  {
+   "id": 1460818,
+   "key_id": "061461668D1FF663FAF12CAE90F7ED00",
+   "ts_ms": 1743797058000,
+   "ts_iso": "2025-04-04T20:04:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🤣",
+   "starred": false
+  },
+  {
+   "id": 1462565,
+   "key_id": "D33AE7D876BACC9B3C2E777B599733D1",
+   "ts_ms": 1744054022000,
+   "ts_iso": "2025-04-07T19:27:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa quiero pasar a dejar cosas para la mamá de Laura, vas a estar a eso de las 17:10 aprox?",
+   "starred": false
+  },
+  {
+   "id": 1462570,
+   "key_id": "000E0524180649134CE37516E01D77AD",
+   "ts_ms": 1744054882127,
+   "ts_iso": "2025-04-07T19:41:22.127000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si no prob:)",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "chat_id": 1988,
+ "slug": "_wa_chat_13166196653_1988",
+ "subject": null,
+ "jid_user": "13166196653",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "13166196653@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1047729,
+   "key_id": "830AB0CE65FAAED6F09651673DE8396D",
+   "ts_ms": 1679541197262,
+   "ts_iso": "2023-03-23T03:13:17.262000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "/data/user/0/com.whatsapp/files/.Shared/8e94b964-0a92-406e-9fab-39d0b44439a4.jpg",
+    "size": 221021,
+    "duration_s": 0,
+    "sha256_b64": "RJCFVfZGX+zb10QqZJk8jVOCRvwx40/jtI9OG+5A0yo=",
+    "media_name": "8e94b964-0a92-406e-9fab-39d0b44439a4.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

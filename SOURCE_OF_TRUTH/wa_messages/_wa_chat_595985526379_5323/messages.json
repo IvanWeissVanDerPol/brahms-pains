@@ -1,0 +1,68 @@
+{
+ "chat_id": 5323,
+ "slug": "_wa_chat_595985526379_5323",
+ "subject": null,
+ "jid_user": "595985526379",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985526379@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1576645,
+   "key_id": "AC69F0264D94712A1F3D170525E99CB6",
+   "ts_ms": 1758905958004,
+   "ts_iso": "2025-09-26T16:59:18.004000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Happy birthday uwuwuwu",
+   "starred": false
+  },
+  {
+   "id": 1576792,
+   "key_id": "3AD6C620DB45AF5F6D89",
+   "ts_ms": 1758909449000,
+   "ts_iso": "2025-09-26T17:57:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias ivan",
+   "starred": false
+  },
+  {
+   "id": 1823544,
+   "key_id": "AC3C37CFBCE90106F80A7F1C78E33BE3",
+   "ts_ms": 1783291652009,
+   "ts_iso": "2026-07-05T22:47:32.009000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://paragu-ai.com/",
+   "starred": false
+  },
+  {
+   "id": 1823545,
+   "key_id": "AC4A3431DDBE7ED39370177F603C6BE0",
+   "ts_ms": 1783291670523,
+   "ts_iso": "2026-07-05T22:47:50.523000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://lqv-walkthrough.pages.dev/mapa-10km.html",
+   "starred": false
+  },
+  {
+   "id": 1823546,
+   "key_id": "AC9127525A764DE7933C137773223F17",
+   "ts_ms": 1783291675851,
+   "ts_iso": "2026-07-05T22:47:55.851000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://github.com/Ai-Whisperers/la-quebrada-viva/tree/master/docs/research/RESULTS",
+   "starred": false
+  }
+ ]
+}

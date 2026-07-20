@@ -1,0 +1,121 @@
+{
+ "chat_id": 10307,
+ "slug": "_wa_chat_595981781796_10307",
+ "subject": null,
+ "jid_user": "595981781796",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981781796@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1453711,
+   "key_id": "A122931060A2280FB805A98FC41B0CB3",
+   "ts_ms": 1742901227000,
+   "ts_iso": "2025-03-25T11:13:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250325-WA0000.jpg",
+    "size": 48186,
+    "duration_s": 0,
+    "sha256_b64": "Lt281QJwL/yz21t3vvn3Y0iP3RQVYTIjHdHimt0lBes=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1453712,
+   "key_id": "BF9ADA452DE6444B30878E7732177E60",
+   "ts_ms": 1742901235000,
+   "ts_iso": "2025-03-25T11:13:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Qtal sr! De NISSEI",
+   "starred": false
+  },
+  {
+   "id": 1453713,
+   "key_id": "A0A27D75B39ECB857F261D9D2B4EFAA4",
+   "ts_ms": 1742901240173,
+   "ts_iso": "2025-03-25T11:14:00.173000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1453714,
+   "key_id": "2FB4175BA325A4477F9BEAE73BEFFC44",
+   "ts_ms": 1742901285201,
+   "ts_iso": "2025-03-25T11:14:45.201000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://goo.gl/maps/frFwfgvLrNcmuXpV6?g_st=aw",
+   "starred": false
+  },
+  {
+   "id": 1453716,
+   "key_id": "E9A0847A8C0C44E9C757680833AD1041",
+   "ts_ms": 1742901306394,
+   "ts_iso": "2025-03-25T11:15:06.394000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A qué hora llegarían?\n\nEstoy en el gym ahora \n\nPero puedo ir para la hora que me confirmen :)",
+   "starred": false
+  },
+  {
+   "id": 1453745,
+   "key_id": "5A4C81FE17AD3E9A2B9769D821A3F2D9",
+   "ts_ms": 1742903373520,
+   "ts_iso": "2025-03-25T11:49:33.520000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en casa",
+   "starred": false
+  },
+  {
+   "id": 1453778,
+   "key_id": "F8AD74288ACA6BF16C459CAEA0D5C2F6",
+   "ts_ms": 1742908210000,
+   "ts_iso": "2025-03-25T13:10:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos en camino sr",
+   "starred": false
+  },
+  {
+   "id": 1453781,
+   "key_id": "F6F0D8460082E6F4EB766FE52695CE49",
+   "ts_ms": 1742908397000,
+   "ts_iso": "2025-03-25T13:13:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora  llegamos sr",
+   "starred": false
+  },
+  {
+   "id": 1453782,
+   "key_id": "FBD7D64B96E1206B22290929FCAC9AFC",
+   "ts_ms": 1742908450834,
+   "ts_iso": "2025-03-25T13:14:10.834000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Salgo",
+   "starred": false
+  }
+ ]
+}

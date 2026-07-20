@@ -1,0 +1,24 @@
+{
+ "chat_id": 10472,
+ "slug": "_wa_chat_595974904765_10472",
+ "subject": null,
+ "jid_user": "595974904765",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595974904765@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1483059,
+   "key_id": "3EB09C515897D65800A727",
+   "ts_ms": 1746726767000,
+   "ts_iso": "2025-05-08T17:52:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sr/a. LUIS CONSTANTINO VARGAS SALINAS \n📌 *Quantum SA le recuerda que posee Factura Vencida con PERSONAL* con fecha 2024-12-06 por su servicio INTERNET HOGAR + FLOW con nro de cuenta 17448352\n*Lamisma ya se encuentra en Informconf*\nPuede abonar aqui: https:bit.ly/PagosFacturas\n* Bocas de cobranza \n* Sucursales \n* Banca Web como pago de servicios\n☑️  *_Descarga la App Mi Mundo de Personal_*\n☑️  *Registrate y podras acceder a tus facturas digitales*\n*Si ud ya abono o no es Titular por favor Omita este mensaje*",
+   "starred": false
+  }
+ ]
+}

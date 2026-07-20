@@ -1,0 +1,143 @@
+{
+ "chat_id": 11693,
+ "slug": "_wa_chat_595992036040_11693",
+ "subject": null,
+ "jid_user": "595992036040",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992036040@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1621492,
+   "key_id": "AC5BE3538881D8E66E80BD32A1D04010",
+   "ts_ms": 1764490056061,
+   "ts_iso": "2025-11-30T08:07:36.061000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola yo estoy por ingavi",
+   "starred": false
+  },
+  {
+   "id": 1621494,
+   "key_id": "AC585959FBD12365DE674474DD72F5AE",
+   "ts_ms": 1764490138343,
+   "ts_iso": "2025-11-30T08:08:58.343000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250824-WA0023.jpg",
+    "size": 169243,
+    "duration_s": 0,
+    "sha256_b64": "ygsM2OdIXpyKDfGuiyv19izGLLCAmJYMDqD1eo4e0GA=",
+    "media_name": "d3e590e3-4f7b-472d-9a1a-8e2679560f4f.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1621495,
+   "key_id": "ACDEFF020DACD6414EF3C42151A05871",
+   "ts_ms": 1764490190000,
+   "ts_iso": "2025-11-30T08:09:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sos solo pio??",
+   "starred": false
+  },
+  {
+   "id": 1621496,
+   "key_id": "AC3CE3047D11B476DA108769D93653FB",
+   "ts_ms": 1764490197530,
+   "ts_iso": "2025-11-30T08:09:57.530000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si",
+   "starred": false
+  },
+  {
+   "id": 1621497,
+   "key_id": "AC134CC2FFAB5CC6F5BD353CA177C8F8",
+   "ts_ms": 1764490205634,
+   "ts_iso": "2025-11-30T08:10:05.634000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy Iván \nTengo 25",
+   "starred": false
+  },
+  {
+   "id": 1621498,
+   "key_id": "ACD7355053163A4C0150D88EB4A69D08",
+   "ts_ms": 1764490387920,
+   "ts_iso": "2025-11-30T08:13:07.920000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Les pasó más fotos?",
+   "starred": false
+  },
+  {
+   "id": 1643027,
+   "key_id": "ACCF87FF3DB7E6E3FC81210AE48D5C8A",
+   "ts_ms": 1767328828895,
+   "ts_iso": "2026-01-02T04:40:28.895000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola yo soy solo de San Lorenzo",
+   "starred": false
+  },
+  {
+   "id": 1643039,
+   "key_id": "ACCC37DDEFF244553AE686B37B6E6329",
+   "ts_ms": 1767337378000,
+   "ts_iso": "2026-01-02T07:02:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Q aces",
+   "starred": false
+  },
+  {
+   "id": 1643049,
+   "key_id": "ACF7B17464B35F961EF477341430EAB9",
+   "ts_ms": 1767344295000,
+   "ts_iso": "2026-01-02T08:58:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tenes lugar",
+   "starred": false
+  },
+  {
+   "id": 1759058,
+   "key_id": "ACBA5963BD58D66099AABFB585E727AE",
+   "ts_ms": 1777269124341,
+   "ts_iso": "2026-04-27T05:52:04.341000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola yo por sanlo",
+   "starred": false
+  },
+  {
+   "id": 1759060,
+   "key_id": "AC70FF768B61154845148CE99EB77CBD",
+   "ts_ms": 1777270125000,
+   "ts_iso": "2026-04-27T06:08:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Q part",
+   "starred": false
+  }
+ ]
+}

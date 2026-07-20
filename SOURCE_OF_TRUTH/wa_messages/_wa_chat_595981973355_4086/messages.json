@@ -1,0 +1,90 @@
+{
+ "chat_id": 4086,
+ "slug": "_wa_chat_595981973355_4086",
+ "subject": null,
+ "jid_user": "595981973355",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981973355@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1570138,
+   "key_id": "AC2B847B8D6F78DB28D6472C628145A8",
+   "ts_ms": 1757884025000,
+   "ts_iso": "2025-09-14T21:07:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa, Iván\nQue taal, compa? :)\n\nSoy Hugoo, alias Calcumath🧮",
+   "starred": false
+  },
+  {
+   "id": 1570140,
+   "key_id": "AC06C36AD05723192E599A053C7A170F",
+   "ts_ms": 1757884031000,
+   "ts_iso": "2025-09-14T21:07:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te quiero comentar que me presenté como candidato a Representación Estudiantil al puesto de *Consejo Directivo💙*\n\nPorque tengo muchísimass ganas de continuar trabajando por la comunidad de la FP UNA🏛️\n•deseando elaborar proyectos que nos beneficien🙌🏻, realizar un *calendario académico* en el cual no se solapen fechas de exámenes y mediar para que el hueco entre materias no sea tan extenso y sea más práctico💪🏻\n\nAdemás, comentar que el año entrante se decide el fúturo de Poli, ya que se elige un nuevo Decano, y los *Repres del Consejo Directivo* votan, y deseo llevar tu voto al Consejo, para un *cambio☝🏻✨*",
+   "starred": false
+  },
+  {
+   "id": 1570141,
+   "key_id": "AC1897084C3ED5680D8563E99DEED732",
+   "ts_ms": 1757884032000,
+   "ts_iso": "2025-09-14T21:07:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sé que todo esto es posible con tu ayuda, compa🫂\nLas elecciones son el 10 de Octubre desde las 13hs a 21hs en el Polideportivo :)❗\n\n*Puedo contarr con tu apoyo para mi y para el equipo?🫶🏻💙*\nSería un honor el poder representarte el día de mañana",
+   "starred": false
+  },
+  {
+   "id": 1570143,
+   "key_id": "AC6976564135E608A82B301192811572",
+   "ts_ms": 1757884101275,
+   "ts_iso": "2025-09-14T21:08:21.275000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sorry estoy en Canadá",
+   "starred": false
+  },
+  {
+   "id": 1570148,
+   "key_id": "ACBAF607087037FC9E4C9EB47ACC0FF2",
+   "ts_ms": 1757884932000,
+   "ts_iso": "2025-09-14T21:22:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajaja\n\nQuee geniall Iván🥳🫶🏻",
+   "starred": false
+  },
+  {
+   "id": 1570149,
+   "key_id": "ACD7BC7822476CB741729782C3C7A396",
+   "ts_ms": 1757884952000,
+   "ts_iso": "2025-09-14T21:22:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Espero puedas pasar excelente esta experiencia🤩🙌🏻\n\nÉxitoss compaaa",
+   "starred": false
+  },
+  {
+   "id": 1570151,
+   "key_id": "AC814D2BD27E79F26A3BA7E1D49F270F",
+   "ts_ms": 1757884967475,
+   "ts_iso": "2025-09-14T21:22:47.475000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gg \nAplica afuera y escapa de py. :)",
+   "starred": false
+  }
+ ]
+}

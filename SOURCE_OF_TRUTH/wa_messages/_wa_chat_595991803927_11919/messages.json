@@ -1,0 +1,64 @@
+{
+ "chat_id": 11919,
+ "slug": "_wa_chat_595991803927_11919",
+ "subject": null,
+ "jid_user": "595991803927",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991803927@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1580198,
+   "key_id": "AC2147E0038D277CFBFEF5C28B09F956",
+   "ts_ms": 1759470427475,
+   "ts_iso": "2025-10-03T05:47:07.475000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! Acabo de ver el video y me gustaría tener más información sobre las chicas del staff de SPA EROSES y también los precios.",
+   "starred": false
+  },
+  {
+   "id": 1580287,
+   "key_id": "A5E928CF66412DF4F1AFB2AC6D627380",
+   "ts_ms": 1759495900000,
+   "ts_iso": "2025-10-03T12:51:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/VID-20251004-WA0007.mp4",
+    "size": 2621920,
+    "duration_s": 12,
+    "sha256_b64": "wpx09Ohr3/lZizaxIhDWNPkCEoYK61tJOUfvzFEaQDo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1580288,
+   "key_id": "A50AA4FB45F4F82CFB61C01D57970017",
+   "ts_ms": 1759495900000,
+   "ts_iso": "2025-10-03T12:51:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251004-WA0006.jpg",
+    "size": 150166,
+    "duration_s": 0,
+    "sha256_b64": "uQJdJLMQ8gRq2EnF6wPqg5ak4yaLRNdCF42yKnUt4b0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

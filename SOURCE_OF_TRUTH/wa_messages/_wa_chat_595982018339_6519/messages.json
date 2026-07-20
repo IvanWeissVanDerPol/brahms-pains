@@ -1,0 +1,44 @@
+{
+ "chat_id": 6519,
+ "slug": "_wa_chat_595982018339_6519",
+ "subject": null,
+ "jid_user": "595982018339",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982018339@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1269031,
+   "key_id": "B92B50E37F7A3AF965D13EDB9736DD34",
+   "ts_ms": 1712283653000,
+   "ts_iso": "2024-04-05T02:20:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202414/PTT-20240404-WA0036.opus",
+    "size": 8065,
+    "duration_s": 3,
+    "sha256_b64": "g5DTOjQyQL1F+Ms/mWyAAY9Ga1YRhtwGkDJnJE2H1bI=",
+    "media_name": "PTT-20240404-WA0036.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1269032,
+   "key_id": "CE89DD33F974DFF157246ABCC87DCA9C",
+   "ts_ms": 1712283674339,
+   "ts_iso": "2024-04-05T02:21:14.339000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

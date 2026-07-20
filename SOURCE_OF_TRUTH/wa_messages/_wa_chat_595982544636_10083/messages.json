@@ -1,0 +1,57 @@
+{
+ "chat_id": 10083,
+ "slug": "_wa_chat_595982544636_10083",
+ "subject": null,
+ "jid_user": "595982544636",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982544636@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1438123,
+   "key_id": "E1245EA36AD4AA8033FEFA38F8B6BADE",
+   "ts_ms": 1740177773000,
+   "ts_iso": "2025-02-21T22:42:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1438124,
+   "key_id": "4B70ACC084FCB0345CC9807F194B802B",
+   "ts_ms": 1740177776000,
+   "ts_iso": "2025-02-21T22:42:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy en la ubicación",
+   "starred": false
+  },
+  {
+   "id": 1438125,
+   "key_id": "570ACBC1D11FAFC308A6C2459EEF0338",
+   "ts_ms": 1740177777000,
+   "ts_iso": "2025-02-21T22:42:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con su pedido",
+   "starred": false
+  },
+  {
+   "id": 1438126,
+   "key_id": "AD8C2AD773920497AC59E849C7E3D609",
+   "ts_ms": 1740177794335,
+   "ts_iso": "2025-02-21T22:43:14.335000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

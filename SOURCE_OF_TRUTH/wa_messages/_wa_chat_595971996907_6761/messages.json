@@ -1,0 +1,35 @@
+{
+ "chat_id": 6761,
+ "slug": "_wa_chat_595971996907_6761",
+ "subject": null,
+ "jid_user": "595971996907",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971996907@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1303051,
+   "key_id": "60F55E0DFB4EAD57903B6A7BE839B004",
+   "ts_ms": 1718519610380,
+   "ts_iso": "2024-06-16T06:33:30.380000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1303052,
+   "key_id": "2F2663684811EF5B65B40DBBFA38EBB7",
+   "ts_ms": 1718519617705,
+   "ts_iso": "2024-06-16T06:33:37.705000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pueden pasar su menú (?",
+   "starred": false
+  }
+ ]
+}

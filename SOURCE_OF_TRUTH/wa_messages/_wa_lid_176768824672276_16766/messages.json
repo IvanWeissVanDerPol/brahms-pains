@@ -1,0 +1,178 @@
+{
+ "chat_id": 16766,
+ "slug": "_wa_lid_176768824672276_16766",
+ "subject": null,
+ "jid_user": "176768824672276",
+ "jid_server": "lid",
+ "jid_raw": "176768824672276@lid",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1806230,
+   "key_id": "AC324EE1A8A2176E9350428DF14F1B2B",
+   "ts_ms": 1781430892137,
+   "ts_iso": "2026-06-14T09:54:52.137000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1806231,
+   "key_id": "ACAB05184D1AA86872D04734D7150473",
+   "ts_ms": 1781430895473,
+   "ts_iso": "2026-06-14T09:54:55.473000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De Grindr",
+   "starred": false
+  },
+  {
+   "id": 1806232,
+   "key_id": "2A5A34108775A7C93B8E",
+   "ts_ms": 1781430913000,
+   "ts_iso": "2026-06-14T09:55:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Oki",
+   "starred": false
+  },
+  {
+   "id": 1806233,
+   "key_id": "AC48BC6CC07418D2AF209E927CAEEC60",
+   "ts_ms": 1781430939341,
+   "ts_iso": "2026-06-14T09:55:39.341000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te pido el Bolt?",
+   "starred": false
+  },
+  {
+   "id": 1806234,
+   "key_id": "AC9D406B313C706A41C22C20B4DC0827",
+   "ts_ms": 1781430941114,
+   "ts_iso": "2026-06-14T09:55:41.114000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwi",
+   "starred": false
+  },
+  {
+   "id": 1806235,
+   "key_id": "2A9CCB65230E79CC247A",
+   "ts_ms": 1781430949000,
+   "ts_iso": "2026-06-14T09:55:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pasa tu ubi",
+   "starred": false
+  },
+  {
+   "id": 1806237,
+   "key_id": "2AB8EA264A064824ACE9",
+   "ts_ms": 1781430985000,
+   "ts_iso": "2026-06-14T09:56:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos re lejos 😭😭😭",
+   "starred": false
+  },
+  {
+   "id": 1806238,
+   "key_id": "AC34D042115DCAF464E144464C54E21E",
+   "ts_ms": 1781430991034,
+   "ts_iso": "2026-06-14T09:56:31.034000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Chill",
+   "starred": false
+  },
+  {
+   "id": 1806239,
+   "key_id": "2AD1F4E64212CE4BE04E",
+   "ts_ms": 1781431007000,
+   "ts_iso": "2026-06-14T09:56:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero si te la quería sentir",
+   "starred": false
+  },
+  {
+   "id": 1806240,
+   "key_id": "2A123DD0618327B20B92",
+   "ts_ms": 1781431009000,
+   "ts_iso": "2026-06-14T09:56:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "😭😭😭",
+   "starred": false
+  },
+  {
+   "id": 1806241,
+   "key_id": "ACA4BA79BED1ADAC771C4D34EE3D11CD",
+   "ts_ms": 1781431017835,
+   "ts_iso": "2026-06-14T09:56:57.835000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avisa cuanto es ?\nO si pasas en la semana?",
+   "starred": false
+  },
+  {
+   "id": 1806308,
+   "key_id": "2A43736B8BEA12966B24",
+   "ts_ms": 1781453440000,
+   "ts_iso": "2026-06-14T16:10:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ay hola",
+   "starred": false
+  },
+  {
+   "id": 1806309,
+   "key_id": "2A32BE4DF995E6693FB3",
+   "ts_ms": 1781453463000,
+   "ts_iso": "2026-06-14T16:11:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Anoche me quede dormido con el cell prendido",
+   "starred": false
+  },
+  {
+   "id": 1814199,
+   "key_id": "2A380C3654A510907373",
+   "ts_ms": 1782177165000,
+   "ts_iso": "2026-06-23T01:12:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa",
+   "starred": false
+  },
+  {
+   "id": 1814230,
+   "key_id": "2A7265E90D5914E78D38",
+   "ts_ms": 1782182655000,
+   "ts_iso": "2026-06-23T02:44:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Porque ya no me haces caso 🥺",
+   "starred": false
+  }
+ ]
+}

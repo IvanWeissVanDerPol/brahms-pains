@@ -1,0 +1,35 @@
+{
+ "chat_id": 14007,
+ "slug": "_wa_lid_154838570647782_14007",
+ "subject": null,
+ "jid_user": "154838570647782",
+ "jid_server": "lid",
+ "jid_raw": "154838570647782@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1713917,
+   "key_id": "ACDA0A5630E39F913B4DFA3E31E0AF30",
+   "ts_ms": 1773004235501,
+   "ts_iso": "2026-03-08T21:10:35.501000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1713918,
+   "key_id": "ACCC5432BB53C7E285B9EF687B707B47",
+   "ts_ms": 1773004241428,
+   "ts_iso": "2026-03-08T21:10:41.428000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me llamaron",
+   "starred": false
+  }
+ ]
+}

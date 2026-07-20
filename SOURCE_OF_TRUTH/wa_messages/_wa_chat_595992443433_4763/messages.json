@@ -1,0 +1,167 @@
+{
+ "chat_id": 4763,
+ "slug": "_wa_chat_595992443433_4763",
+ "subject": null,
+ "jid_user": "595992443433",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992443433@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1173290,
+   "key_id": "D49BB56C300668064ED80C56B7509980",
+   "ts_ms": 1696964485494,
+   "ts_iso": "2023-10-10T19:01:25.494000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Carolina \n\nSoy Iván Weiss \n\nEstoy necesitando la impresora 3d \n\nSerá que puedo pasar a buscar estos días?",
+   "starred": false
+  },
+  {
+   "id": 1173343,
+   "key_id": "92B27A4FFAA57FF3E9678792829126DD",
+   "ts_ms": 1696966659000,
+   "ts_iso": "2023-10-10T19:37:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Iván!  Claro, por favor el finde, entre semana no estamos casi🙏🏼",
+   "starred": false
+  },
+  {
+   "id": 1173344,
+   "key_id": "3B3D2C08C143897245BE009992631BB3",
+   "ts_ms": 1696966671000,
+   "ts_iso": "2023-10-10T19:37:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O te llevo yo el domingo",
+   "starred": false
+  },
+  {
+   "id": 1173357,
+   "key_id": "414E09892D47105A42",
+   "ts_ms": 1696966782000,
+   "ts_iso": "2023-10-10T19:39:42+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "uff estaria genial si me podes traer el domingo\ntengo un demasiados eventos \n\nte paso mi gps",
+   "starred": false
+  },
+  {
+   "id": 1173366,
+   "key_id": "68D3DDD0E41679D341719280A97F77B4",
+   "ts_ms": 1696966965000,
+   "ts_iso": "2023-10-10T19:42:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es la casa de tu mamá?",
+   "starred": false
+  },
+  {
+   "id": 1173367,
+   "key_id": "58A2775C2922DEA9F67D49D29D88A475",
+   "ts_ms": 1696966992000,
+   "ts_iso": "2023-10-10T19:43:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy perdida hasta con gps",
+   "starred": false
+  },
+  {
+   "id": 1173368,
+   "key_id": "37EA2031DB94D4C68C",
+   "ts_ms": 1696966995000,
+   "ts_iso": "2023-10-10T19:43:15+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "la casa donde vivo \nes cerca de lo de Sonia\n\no si le dejas puedo buscar de ahi Tambien no problem",
+   "starred": false
+  },
+  {
+   "id": 1173369,
+   "key_id": "F28EB8A98A950F2AA53DB99BA7028ED7",
+   "ts_ms": 1696967013000,
+   "ts_iso": "2023-10-10T19:43:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por favor te dejo ahí 🙏🏼",
+   "starred": false
+  },
+  {
+   "id": 1173371,
+   "key_id": "3534DB6911BF276C58",
+   "ts_ms": 1696967013000,
+   "ts_iso": "2023-10-10T19:43:33+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "onda Sonia esta atras de pinedo\ny yo estoy atras de la UNA",
+   "starred": false
+  },
+  {
+   "id": 1173372,
+   "key_id": "3D6B7685F8E12B64AF",
+   "ts_ms": 1696967020000,
+   "ts_iso": "2023-10-10T19:43:40+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okis \ngracias",
+   "starred": false
+  },
+  {
+   "id": 1177532,
+   "key_id": "14FDAC99CEB9289A3C",
+   "ts_ms": 1697474357000,
+   "ts_iso": "2023-10-16T16:39:17+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola\nque tal?\nsera que me podes pasar el gps para ir a buscar?\ny el horario en que podria pasar?\nasi organize mi semana para ir a retirar :)",
+   "starred": false
+  },
+  {
+   "id": 1177692,
+   "key_id": "0D01306F685D829C2F165E70B5626D31",
+   "ts_ms": 1697493512000,
+   "ts_iso": "2023-10-16T21:58:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Iván! Mil disculpas ayer estaba super indispuesta, llego a casa y te paso",
+   "starred": false
+  },
+  {
+   "id": 1177698,
+   "key_id": "9ADA8FBD06EF51C116",
+   "ts_ms": 1697493798000,
+   "ts_iso": "2023-10-16T22:03:18+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okis gracias",
+   "starred": false
+  },
+  {
+   "id": 1178427,
+   "key_id": "C655CF2A8FF0966F93D865A6B8FD700F",
+   "ts_ms": 1697560098000,
+   "ts_iso": "2023-10-17T16:28:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A vos",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "chat_id": 2941,
+ "slug": "_wa_chat_595984917697_2941",
+ "subject": null,
+ "jid_user": "595984917697",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984917697@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1032799,
+   "key_id": "3EB0B8A9E5C3ADE07F15",
+   "ts_ms": 1677622254000,
+   "ts_iso": "2023-02-28T22:10:54+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola alicia\n\nsoy ivan weiss\nme paso tu numero sonia\npara consultarte por auda con un proyecto que estoy haciendo\n\nla idea es hacer un robot que se mueve por gps \ny usar el robot para distribuir las semillas \n\nlas ventajas son\nEs más eficiente \nY en zonas remotas donde las condiciones son más extremas puede trabajar sin queja por 24/7 \n\nLa mezcla de semillas que distribuye va a ser más mixta    que promueve biodiversidad\n\nLa pelletizacion incrementa las chances de sobrevivir de la planta\n\nPuede distribuir semillas de plantas que mejoran el suelo para después poner árboles\n\ncomo hacer el robot y todo eso puedo hacer no prob\npero la parte de como vender el servicio necesita un poco de trabajo\n\n\nsabrias por si acaso a quien le podria vender el servicio o a cuanto puedo ofrecer?",
+   "starred": false
+  },
+  {
+   "id": 1032849,
+   "key_id": "741D69DCA580192926CCF5993DD34F31",
+   "ts_ms": 1677623996000,
+   "ts_iso": "2023-02-28T22:39:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola que tal!",
+   "starred": false
+  },
+  {
+   "id": 1032850,
+   "key_id": "0738082AB4967776939A4EA5B6EBD7EE",
+   "ts_ms": 1677624066000,
+   "ts_iso": "2023-02-28T22:41:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te voy a poner en contacto con una ing forestal que no se si trabaja aun en USA en una universidad",
+   "starred": false
+  },
+  {
+   "id": 1032851,
+   "key_id": "5642473788A37925B231999A874A3548",
+   "ts_ms": 1677624098000,
+   "ts_iso": "2023-02-28T22:41:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dp tengo un contacto de una ONG de Nederlands que es Agriterra",
+   "starred": false
+  },
+  {
+   "id": 1032852,
+   "key_id": "D0698A1D7D88CE545D6EE1773663599F",
+   "ts_ms": 1677624128000,
+   "ts_iso": "2023-02-28T22:42:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Richard es uno de los manager de proyectos pata filipinas indonésia y no se q paisea",
+   "starred": false
+  },
+  {
+   "id": 1032853,
+   "key_id": "5550E8B4368B6A8BE8673AE9EE0BD4CA",
+   "ts_ms": 1677624133000,
+   "ts_iso": "2023-02-28T22:42:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Países mas",
+   "starred": false
+  },
+  {
+   "id": 1032854,
+   "key_id": "8AACE741A2BCC8B6027F3587DD14E280",
+   "ts_ms": 1677624161000,
+   "ts_iso": "2023-02-28T22:42:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dame un tiempito les mañana les escribo les hablo ďe vos",
+   "starred": false
+  },
+  {
+   "id": 1032855,
+   "key_id": "EDF074C34B6D8BFA49D946C1AD65D8E8",
+   "ts_ms": 1677624233139,
+   "ts_iso": "2023-02-28T22:43:53.139000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias\nEs para aplicar a una competencia de proyectos en Kansas",
+   "starred": false
+  },
+  {
+   "id": 1032860,
+   "key_id": "E3298C04B2C12093BF6652F23027332B",
+   "ts_ms": 1677624425000,
+   "ts_iso": "2023-02-28T22:47:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo tambien una conocida q esta en una cooperativa de USA q esta como coordenadora para latino-america la organizacion se Llama Equal Exchange",
+   "starred": false
+  },
+  {
+   "id": 1036735,
+   "key_id": "4D21045983257DD6CCA7C8B5A96ACB5A",
+   "ts_ms": 1678278599000,
+   "ts_iso": "2023-03-08T12:29:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202310/PTT-20230308-WA0002.opus",
+    "size": 62478,
+    "duration_s": 26,
+    "sha256_b64": "DVfA4a/t2pXhZSYRNfPnnI4Oa3alEuHwVsmedNEQsS4=",
+    "media_name": "PTT-20230308-WA0002.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1036738,
+   "key_id": "77C3D2999ECA6DED8C2082E0F065F178",
+   "ts_ms": 1678278658000,
+   "ts_iso": "2023-03-08T12:30:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Es Richard van de Maaden",
+   "starred": false
+  },
+  {
+   "id": 1036739,
+   "key_id": "E4E93D8CF9FDEEB7308D9DEEFA444D38",
+   "ts_ms": 1678278673000,
+   "ts_iso": "2023-03-08T12:31:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Está en una orgazacion internacional",
+   "starred": false
+  },
+  {
+   "id": 1036740,
+   "key_id": "20F93954847C9F256CC483C6FAEB4F05",
+   "ts_ms": 1678278719000,
+   "ts_iso": "2023-03-08T12:31:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Decile Alicia Kannekens asi me conoce",
+   "starred": false
+  },
+  {
+   "id": 1037774,
+   "key_id": "A64371FB9F80DA7B92F8F37F5FECAFA3",
+   "ts_ms": 1678458574456,
+   "ts_iso": "2023-03-10T14:29:34.456000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis\n\nSorry por la demora también\nEstoy a mill con actividades en usa :(\n\n\nGracias por los contactos\nLes mensajeo",
+   "starred": false
+  }
+ ]
+}

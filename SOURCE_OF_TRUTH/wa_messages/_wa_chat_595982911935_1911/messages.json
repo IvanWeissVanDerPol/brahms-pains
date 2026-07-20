@@ -1,0 +1,79 @@
+{
+ "chat_id": 1911,
+ "slug": "_wa_chat_595982911935_1911",
+ "subject": null,
+ "jid_user": "595982911935",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982911935@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1283390,
+   "key_id": "DDC798B00448A9639AC636324C73A239",
+   "ts_ms": 1714769160931,
+   "ts_iso": "2024-05-03T20:46:00.931000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://suno.com/song/25e11c7d-3d60-48db-95f2-af555e90e310",
+   "starred": false
+  },
+  {
+   "id": 1283399,
+   "key_id": "9391005BFC4A7FD503CC49ACDA88EDFC",
+   "ts_ms": 1714770766000,
+   "ts_iso": "2024-05-03T21:12:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias!",
+   "starred": false
+  },
+  {
+   "id": 1340737,
+   "key_id": "F6DE83750D495546568DAD02D4DBC0FF",
+   "ts_ms": 1723726024000,
+   "ts_iso": "2024-08-15T12:47:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan!",
+   "starred": false
+  },
+  {
+   "id": 1340738,
+   "key_id": "C9186847A4C8F2AB9CE8B6B435A0BF30",
+   "ts_ms": 1723726032000,
+   "ts_iso": "2024-08-15T12:47:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo la mochila de Ale",
+   "starred": false
+  },
+  {
+   "id": 1608097,
+   "key_id": "ACE5F21688CFEDC9C9D6E3FCF2F3B7BB",
+   "ts_ms": 1762621675800,
+   "ts_iso": "2025-11-08T17:07:55.800000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Amo que aesthetic la foto",
+   "starred": false
+  },
+  {
+   "id": 1608211,
+   "key_id": "ACFC7805E10A58AAF83373E2E62F4D2E",
+   "ts_ms": 1762632424000,
+   "ts_iso": "2025-11-08T20:07:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias Ivan",
+   "starred": false
+  }
+ ]
+}

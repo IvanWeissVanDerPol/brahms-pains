@@ -1,0 +1,68 @@
+{
+ "chat_id": 14658,
+ "slug": "_wa_lid_139088824914000_14658",
+ "subject": null,
+ "jid_user": "139088824914000",
+ "jid_server": "lid",
+ "jid_raw": "139088824914000@lid",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1735561,
+   "key_id": "AC5F22AE1DB3F0398CDD06F2A0123D37",
+   "ts_ms": 1774569647984,
+   "ts_iso": "2026-03-27T00:00:47.984000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello! Can I get more info on this?",
+   "starred": false
+  },
+  {
+   "id": 1735562,
+   "key_id": "A564E19C851C653FA96B6DC0BE7E7C80",
+   "ts_ms": 1774569650000,
+   "ts_iso": "2026-03-27T00:00:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "👋Gracias por escribirnos!\n\n1️⃣*Mirá nuestro menú completo* 👇\n\nhttps://wa.me/c/595994565351\n\n2️⃣*Agregá los platos que quieras al carrito* 🛒\nConfirmaremos tu pedido\n\n3️⃣El repartidor llevará tu pedido a tu dirección ✨️\n\n🚗*Delivery en Asunción*\nCosto: Gs 10.000–20.000 según zona\n📍*Envíanos tu ubicación* para calcular envío\n🍴Solo delivery, no contamos con local\nℹ️ *Pago solo por transferencia*, luego preparamos y enviamos",
+   "starred": false
+  },
+  {
+   "id": 1735563,
+   "key_id": "AC3EFDAE9D8A1392F532BF84669231EB",
+   "ts_ms": 1774569685916,
+   "ts_iso": "2026-03-27T00:01:25.916000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tan grandes son ?",
+   "starred": false
+  },
+  {
+   "id": 1735564,
+   "key_id": "AC860951979B83FEDDE8816696A915F2",
+   "ts_ms": 1774569688688,
+   "ts_iso": "2026-03-27T00:01:28.688000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Las papas?",
+   "starred": false
+  },
+  {
+   "id": 1735565,
+   "key_id": "A5E53EC2D510DA44B9A1D33C94858EF7",
+   "ts_ms": 1774569763000,
+   "ts_iso": "2026-03-27T00:02:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Una papa pesa más de 500 gramos 😊",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "chat_id": 13521,
+ "slug": "_wa_group_work-coordinator_13521",
+ "subject": "Work-coordinator",
+ "jid_user": "120363406900051867",
+ "jid_server": "g.us",
+ "jid_raw": "120363406900051867@g.us",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1686651,
+   "key_id": "AC90CC3682F87C3C1EE9C4B1AE78E29A",
+   "ts_ms": 1770762914000,
+   "ts_iso": "2026-02-10T22:35:14+00:00",
+   "from_me": false,
+   "sender_jid": "143576646291519@lid",
+   "type": 0,
+   "text": "@nyx analize work coordinator repository from ai-whisperers organization",
+   "starred": false
+  }
+ ]
+}

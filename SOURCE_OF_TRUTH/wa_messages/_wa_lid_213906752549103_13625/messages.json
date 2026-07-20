@@ -1,0 +1,156 @@
+{
+ "chat_id": 13625,
+ "slug": "_wa_lid_213906752549103_13625",
+ "subject": null,
+ "jid_user": "213906752549103",
+ "jid_server": "lid",
+ "jid_raw": "213906752549103@lid",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1707580,
+   "key_id": "AC81C5EF8C548C58D6434A988CE7E240",
+   "ts_ms": 1772336667827,
+   "ts_iso": "2026-03-01T03:44:27.827000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1707581,
+   "key_id": "AC9C06313C21EFD867ED66E933EC9C53",
+   "ts_ms": 1772336727461,
+   "ts_iso": "2026-03-01T03:45:27.461000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero una pizza katupory",
+   "starred": false
+  },
+  {
+   "id": 1707584,
+   "key_id": "AC64D2BB8D92DD816644EA656D8C0D24",
+   "ts_ms": 1772336816686,
+   "ts_iso": "2026-03-01T03:46:56.686000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si están aún abiertos",
+   "starred": false
+  },
+  {
+   "id": 1707588,
+   "key_id": "AC36F6241E3C4F057312B51D16A1E7ED",
+   "ts_ms": 1772336843015,
+   "ts_iso": "2026-03-01T03:47:23.015000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Les compro:) \n\nUna pizza katupiry con un lomito mixto con panceta:)",
+   "starred": false
+  },
+  {
+   "id": 1707589,
+   "key_id": "AC256154418CE2D7851FDFBCA7B9C23C",
+   "ts_ms": 1772336855575,
+   "ts_iso": "2026-03-01T03:47:35.575000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puedo pagar por transferencia \nAlias\nO POS :)",
+   "starred": false
+  },
+  {
+   "id": 1707591,
+   "key_id": "A5C7D71C5BC85646F0F7A1FA852D887B",
+   "ts_ms": 1772336924000,
+   "ts_iso": "2026-03-01T03:48:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Viene a vuscar",
+   "starred": false
+  },
+  {
+   "id": 1707592,
+   "key_id": "AC5135C3893A4B6926B2141A1C23D58B",
+   "ts_ms": 1772336933751,
+   "ts_iso": "2026-03-01T03:48:53.751000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No puedo estoy re tomado",
+   "starred": false
+  },
+  {
+   "id": 1707593,
+   "key_id": "AC89DC4FC0870C5BFC55BD8592FC6025",
+   "ts_ms": 1772336940307,
+   "ts_iso": "2026-03-01T03:49:00.307000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy viendo lugares con delivery:(",
+   "starred": false
+  },
+  {
+   "id": 1707594,
+   "key_id": "AC9E9098987E939C12D49B87A12CFFF3",
+   "ts_ms": 1772336947109,
+   "ts_iso": "2026-03-01T03:49:07.109000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sino si pueden mandar por Uber",
+   "starred": false
+  },
+  {
+   "id": 1707595,
+   "key_id": "ACBB754BDF0C71913BD36BDB721CFB7C",
+   "ts_ms": 1772336952489,
+   "ts_iso": "2026-03-01T03:49:12.489000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mando ahí y que me traiga",
+   "starred": false
+  },
+  {
+   "id": 1707596,
+   "key_id": "AC853E5FE42938317126634BBF535C4B",
+   "ts_ms": 1772336953431,
+   "ts_iso": "2026-03-01T03:49:13.431000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajaja",
+   "starred": false
+  },
+  {
+   "id": 1707597,
+   "key_id": "A5B488B96F24651181AB27B9E5E753C2",
+   "ts_ms": 1772337027000,
+   "ts_iso": "2026-03-01T03:50:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya vamos a cerrar",
+   "starred": false
+  },
+  {
+   "id": 1707598,
+   "key_id": "AC87906F8E9FE23CBD4E68C673586FE5",
+   "ts_ms": 1772337032340,
+   "ts_iso": "2026-03-01T03:50:32.340000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "chat_id": 6663,
+ "slug": "_wa_chat_595994658646_6663",
+ "subject": null,
+ "jid_user": "595994658646",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994658646@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1293656,
+   "key_id": "3EB0D3BFC8692CCB343CB2",
+   "ts_ms": 1716901724000,
+   "ts_iso": "2024-05-28T13:08:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días. Estamos tratando de contactar con *GOMEZ GALEANO, JUAN CARLOS* de parte de BRISTOL S.A  Favor hacerle llegar el mensaje que se contacte al 0215194800 o al 0994658646 acercarse a una de las sucursales. Muchas Gracias. Aguardamos el contacto. 02018587",
+   "starred": false
+  }
+ ]
+}

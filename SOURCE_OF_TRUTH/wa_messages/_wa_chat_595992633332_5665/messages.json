@@ -1,0 +1,24 @@
+{
+ "chat_id": 5665,
+ "slug": "_wa_chat_595992633332_5665",
+ "subject": null,
+ "jid_user": "595992633332",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992633332@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1239996,
+   "key_id": "3EB0CC52B674B9AE4F2693",
+   "ts_ms": 1707923944000,
+   "ts_iso": "2024-02-14T15:19:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas...! Le saluda Daysi Olivares de Tigo 🔵\nEstábamos revisando su perfil en tigo y nos pudimos percatar su excelente perfil de cliente que tiene con nosotros y vimos que está gastando muchísimo haciendo recargas al mes y para que usted no siga gastando tanto le ofrezco un plan en donde usted va a contar con \n📞 LLAMADAS ILIMITADAS \n💬 MENSAJES GRATIS\n🟢 Whatsapp GRATIS\n📶 INTERNET DE 10gb ACUMULABLE Y MUCHO MAS\n✈️ ROAMING BASICO\nSI YA CONTAS CON EL SERVICIO DE TV E INTERNET TE OFRECEMOS EL PLAN DE 69MIL 8G DE INTERNET Y TODO LO QUE TE MENCIONE MAS ARRIBA \n\n   CONTAMOS CON LA PROMO DE *PORTABILIDAD* DE INTERNET Y TAMBIEN LOS MISMOS SERVICIOS!!*\n\nTambién contamos con servicio de TV e Internet!! 📺📶\nTV 149MIL 110 CANALES INCLUYENDO CANALES TIGO SPORT\nINTERNET 139MIL 150 MEGAS DE VELOCIDAD\nSIN COSTO DE INSTALACION !!!\n\nCOMBO 219MIL TV + INTERNET HOGAR !\nESPERO SU MENSAJE!!!!",
+   "starred": false
+  }
+ ]
+}

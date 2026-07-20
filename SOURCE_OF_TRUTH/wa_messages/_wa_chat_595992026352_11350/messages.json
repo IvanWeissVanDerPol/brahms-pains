@@ -1,0 +1,148 @@
+{
+ "chat_id": 11350,
+ "slug": "_wa_chat_595992026352_11350",
+ "subject": null,
+ "jid_user": "595992026352",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992026352@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1549775,
+   "key_id": "6AD6D181C5902ADA961B7BBAC77EE019",
+   "ts_ms": 1754779118817,
+   "ts_iso": "2025-08-09T22:38:38.817000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello! Can I get more info on this?",
+   "starred": false
+  },
+  {
+   "id": 1549776,
+   "key_id": "683962DCEE80BCF887D8D7ED0C883CD3",
+   "ts_ms": 1754779172000,
+   "ts_iso": "2025-08-09T22:39:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "La promo es 2 burritos + 2 salchipapas \n\nEl burrito se puede elejir de pollo\n\nCarne, mixto\n\nLos burritos tienen\n\nTiene verduras como pico de gallo(cebolla tomate, cilantro, col morado 🟣 carne, aderezos especiales salsa de ajo, salsa verde con perejil, entre otros, tortilla mexicana (es similar al pan árabe pero es blando y a la vez crocante \n75.000",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250809-WA0020.jpg",
+    "size": 274725,
+    "duration_s": 0,
+    "sha256_b64": "MApuT0QjzXvdEiXl1ov0ULNfGnn894u43/JYa472dP8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1549777,
+   "key_id": "A7A5CFC0A7343D27F7DFFC61715CBCE0",
+   "ts_ms": 1754779188000,
+   "ts_iso": "2025-08-09T22:39:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola que tal ? Te paso los detalles del combo 😍👌 somos de Villa Elisa  NO CONTAMOS CON LOCAL ⚠️❗FISICO ❗SOLO HACEMOS ENVIOS ❗⚠️💁 \nsi querés que te enviemos el combo enviame tu ubicación📍📌 desde WhatsApp porfavor y te decimos el total con envío incluído 🥹👌😊 si quiere confirmar o cotizar el envío enviar ubicación📌📍",
+   "starred": false
+  },
+  {
+   "id": 1549778,
+   "key_id": "7B69F1D72ED481EE8CBEA27A43CB9DDE",
+   "ts_ms": 1754779192000,
+   "ts_iso": "2025-08-09T22:39:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "2 sandwich krispy de pollo\nTiene queso cheddar, aderezos, verdura como tomate y repollo morado\nAros de cebolla una porción para compartir \n2 coca cola de 250ml\n75.000",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250809-WA0021.jpg",
+    "size": 173779,
+    "duration_s": 0,
+    "sha256_b64": "bVINCe1W9IPfnsDxUcWO9IadaVjGg5M+mr8TvUu2J7w=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1550686,
+   "key_id": "EC03D6F7422E0D16EDE1B68C50B12A24",
+   "ts_ms": 1754957757050,
+   "ts_iso": "2025-08-12T00:15:57.050000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nQuiero pedir 2 de este combo",
+   "starred": false
+  },
+  {
+   "id": 1550688,
+   "key_id": "456CF1CA10D3046484A7BC460C2E8458",
+   "ts_ms": 1754957793435,
+   "ts_iso": "2025-08-12T00:16:33.435000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuanto sería con delivery?",
+   "starred": false
+  },
+  {
+   "id": 1550689,
+   "key_id": "C99592170CF13751ABCD14C53B10C831",
+   "ts_ms": 1754957799160,
+   "ts_iso": "2025-08-12T00:16:39.160000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puedo pagar con QR?",
+   "starred": false
+  },
+  {
+   "id": 1554023,
+   "key_id": "35F3C9F88F6C1ACDA291D0E0BB3B31D5",
+   "ts_ms": 1755466920000,
+   "ts_iso": "2025-08-17T21:42:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "ANTES:75.000\nAHORA: ❤️‍🔥50.000\n\n2 SÁNDWICH KRISPY + AROS DE CEBOLLA + ADEREZOS COMO SALSA VERDE, SALSA DE AJO, SALSA PICANTE\n\n🧀 Cada sándwich ya incluye queso cheddar, repollo morado, tomate y aderezos.\n🥓 Extra cheddar + bacon +15.000",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250817-WA0058.jpg",
+    "size": 95293,
+    "duration_s": 0,
+    "sha256_b64": "L+G+xu9lSTrkdcOEKngxkA9yrrQaiWTdJVGvFZ3YCkk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1556233,
+   "key_id": "3630B559D3970BA4BC42076524D9BFE0",
+   "ts_ms": 1755726880000,
+   "ts_iso": "2025-08-20T21:54:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "✨🔥 NUEVA PROMO INFERNAL 🔥✨\n\n😋 ¿Antojo de pollo crujiente con salsa infernal (con o sin picante)?\nTenemos la promo perfecta para vos 👇\n\n🍗 10 piezas de pollo + porción de arroz frito (ideal para 2 personas)\n💸 Antes 100.000 ➡️ AHORA 70.000\n\n🍗 6 piezas de pollo + porción de arroz frito\n💸 Antes 70.000 ➡️ AHORA 50.000\n\n👉 Pedí el tuyo hoy y disfrutá de este manjar que combina lo crujiente, lo jugoso y ese toque irresistible de nuestra salsa única.\n\n📲 ¡Escribinos ya para hacer tu pedido y no te quedes sin tu promo! 0992 026 352",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250821-WA0027.jpg",
+    "size": 174474,
+    "duration_s": 0,
+    "sha256_b64": "3hcsNCZmYq0EaOjlge9C3d0pTxai1b2QsjYpFfS7RQI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

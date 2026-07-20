@@ -1,0 +1,206 @@
+{
+ "chat_id": 10589,
+ "slug": "_wa_chat_34666604366_10589",
+ "subject": null,
+ "jid_user": "34666604366",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "34666604366@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1502489,
+   "key_id": "3A53896B12C95C7E0EE6",
+   "ts_ms": 1749589754000,
+   "ts_iso": "2025-06-10T21:09:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1502490,
+   "key_id": "3A7C405F20AE17564E04",
+   "ts_ms": 1749589762000,
+   "ts_iso": "2025-06-10T21:09:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Alonso de Motivus",
+   "starred": false
+  },
+  {
+   "id": 1502492,
+   "key_id": "AC8F00F743D5E7FBA5A81907269C94EA",
+   "ts_ms": 1749589778186,
+   "ts_iso": "2025-06-10T21:09:38.186000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola the paso las fotos / video",
+   "starred": false
+  },
+  {
+   "id": 1502494,
+   "key_id": "77425197348808C63CC32DA98A62811A",
+   "ts_ms": 1749589785033,
+   "ts_iso": "2025-06-10T21:09:45.033000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250610-WA0084.jpg",
+    "size": 66622,
+    "duration_s": 0,
+    "sha256_b64": "qZ/q4o5jIeRkXcJfOwKnuXIkDdGtaS8rk5qxSEx3SAA=",
+    "media_name": "487e3b8d-cde2-4518-bd18-12efa5977e03.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1502495,
+   "key_id": "D5F07CDFCEC57C8401047AF00C48F2F0",
+   "ts_ms": 1749589785049,
+   "ts_iso": "2025-06-10T21:09:45.049000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250610-WA0085.jpg",
+    "size": 61375,
+    "duration_s": 0,
+    "sha256_b64": "bZ0xh1AJbycgCslcv9QImxbxJS0WJYnWK0cnTuc0r2I=",
+    "media_name": "36ffd557-49f4-461c-9634-3706cf9a44ef.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1502496,
+   "key_id": "64D8DD9C3AE1BB0093BDE411B340866F",
+   "ts_ms": 1749589785073,
+   "ts_iso": "2025-06-10T21:09:45.073000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250610-WA0086.jpg",
+    "size": 91851,
+    "duration_s": 0,
+    "sha256_b64": "/3gOAJT0GFK5BBJh4MbX0afPJCRlkzTaGwuuOAtPZ0Y=",
+    "media_name": "b5e71a70-0ebd-4c04-8dcc-2e76633f0db9.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1502497,
+   "key_id": "734FC9FD0F68D63DE32470A558903FFD",
+   "ts_ms": 1749589785105,
+   "ts_iso": "2025-06-10T21:09:45.105000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250610-WA0087.jpg",
+    "size": 68490,
+    "duration_s": 0,
+    "sha256_b64": "68MbUgm4w3gMvJJPa4nugAeupwCeZK/+HmiAAOLun1k=",
+    "media_name": "20a32994-adb8-4751-982c-7e3058ae8be9.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1502498,
+   "key_id": "EFADAD8F5F75447829E07513F62E4091",
+   "ts_ms": 1749589786164,
+   "ts_iso": "2025-06-10T21:09:46.164000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Sent/VID-20250610-WA0091.mp4",
+    "size": 21981160,
+    "duration_s": 96,
+    "sha256_b64": "H7gN3ZwYwLMRHUGmcruecoXkG1IK0vx4jftiICntxco=",
+    "media_name": "e2815935-ae2b-4d79-b618-cafac17c34c6.mp4",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1502499,
+   "key_id": "5E8434FEA4DC6DE0B25DC265B2FB304F",
+   "ts_ms": 1749589785133,
+   "ts_iso": "2025-06-10T21:09:45.133000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250610-WA0088.jpg",
+    "size": 110702,
+    "duration_s": 0,
+    "sha256_b64": "h2i9YXzUBa0EDSqb/43sh1VWr8KqT6WFNWaRjQQJgeI=",
+    "media_name": "7cddf108-298e-453f-a17d-d679ee34d408.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1502500,
+   "key_id": "FC402289CE4E36231F1CF7D8C2CCFB90",
+   "ts_ms": 1749589785167,
+   "ts_iso": "2025-06-10T21:09:45.167000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250610-WA0089.jpg",
+    "size": 128980,
+    "duration_s": 0,
+    "sha256_b64": "fqnTaqMFaAJ45v66xJHpA3ocHXlKJyiUNuienYv34Co=",
+    "media_name": "155b54b7-5a4c-42c7-9e9f-34d5ad861170.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1502501,
+   "key_id": "E52F6A939AAE7D1FDFCF60F7704CB39D",
+   "ts_ms": 1749589785186,
+   "ts_iso": "2025-06-10T21:09:45.186000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250610-WA0090.jpg",
+    "size": 76516,
+    "duration_s": 0,
+    "sha256_b64": "V9XqaDF7Dz8NnWKV30Aa4+YEYDx7syxbKR69DbAQkyY=",
+    "media_name": "daefe7d1-6aec-478a-8086-2832d009715d.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

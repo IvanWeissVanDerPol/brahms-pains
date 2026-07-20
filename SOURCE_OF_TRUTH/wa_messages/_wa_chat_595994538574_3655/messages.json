@@ -1,0 +1,79 @@
+{
+ "chat_id": 3655,
+ "slug": "_wa_chat_595994538574_3655",
+ "subject": null,
+ "jid_user": "595994538574",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994538574@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1188586,
+   "key_id": "66C235A9BC0A7973A0274001F133F9D2",
+   "ts_ms": 1698842697611,
+   "ts_iso": "2023-11-01T12:44:57.611000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Se pone podcast",
+   "starred": false
+  },
+  {
+   "id": 1348735,
+   "key_id": "9E48BA276D3F712D400F47AB50EEEA7B",
+   "ts_ms": 1724891149128,
+   "ts_iso": "2024-08-29T00:25:49.128000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtu.be/Y4ZOXtDoBUs?si=iLq7f9G7aBSVOThZ",
+   "starred": false
+  },
+  {
+   "id": 1348755,
+   "key_id": "61321C7AF9204A67B8F902017494D9F7",
+   "ts_ms": 1724895263000,
+   "ts_iso": "2024-08-29T01:34:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajaja sigo sospechando que hay algo que programar, veremos",
+   "starred": false
+  },
+  {
+   "id": 1348756,
+   "key_id": "336EDCF29CB1F3DA6183B5F64CF7CD38",
+   "ts_ms": 1724895776892,
+   "ts_iso": "2024-08-29T01:42:56.892000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ese es opcional",
+   "starred": false
+  },
+  {
+   "id": 1348757,
+   "key_id": "71EC7E053569D09802101F3B969CC863",
+   "ts_ms": 1724895782205,
+   "ts_iso": "2024-08-29T01:43:02.205000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero paga aún mas",
+   "starred": false
+  },
+  {
+   "id": 1348758,
+   "key_id": "82D6B75A559AD13B9DF73583542D55B1",
+   "ts_ms": 1724895856215,
+   "ts_iso": "2024-08-29T01:44:16.215000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtu.be/6cVnxNwiKv8?si=P6U9-Ue11ccEoLQh",
+   "starred": false
+  }
+ ]
+}

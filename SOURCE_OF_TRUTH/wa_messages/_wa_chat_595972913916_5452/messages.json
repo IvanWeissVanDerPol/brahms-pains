@@ -1,0 +1,121 @@
+{
+ "chat_id": 5452,
+ "slug": "_wa_chat_595972913916_5452",
+ "subject": null,
+ "jid_user": "595972913916",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972913916@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1227216,
+   "key_id": "BFA309C9C1BA87C759272863A2D20B6E",
+   "ts_ms": 1706116381000,
+   "ts_iso": "2024-01-24T17:13:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola me pasaron tu número",
+   "starred": false
+  },
+  {
+   "id": 1227217,
+   "key_id": "00D202F50A0F9990DD32563946208F93",
+   "ts_ms": 1706116396000,
+   "ts_iso": "2024-01-24T17:13:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vendes filamento para impresora 3d ??",
+   "starred": false
+  },
+  {
+   "id": 1227218,
+   "key_id": "898FCDA0CA70B95FC6F379E926F45563",
+   "ts_ms": 1706116494458,
+   "ts_iso": "2024-01-24T17:14:54.458000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nSi \n\nQue tipo de filamento necesita?\n\nY que colores ?\n\nSolo tengo de grosor 1.75\n\nY los colores tengo re variado \nLastimosamente no tengo una lista a mano :(",
+   "starred": false
+  },
+  {
+   "id": 1227219,
+   "key_id": "F6E6B5DE3FAC74866798B03BDAECFD6E",
+   "ts_ms": 1706116566000,
+   "ts_iso": "2024-01-24T17:16:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuánto cuesta??",
+   "starred": false
+  },
+  {
+   "id": 1227220,
+   "key_id": "55DA8D17EE7C11BCFB64226C0F4387EC",
+   "ts_ms": 1706116572000,
+   "ts_iso": "2024-01-24T17:16:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y que marca tienes ??",
+   "starred": false
+  },
+  {
+   "id": 1227221,
+   "key_id": "96151AC4F94E3C9A22230F23532248CA",
+   "ts_ms": 1706116577000,
+   "ts_iso": "2024-01-24T17:16:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pla",
+   "starred": false
+  },
+  {
+   "id": 1227222,
+   "key_id": "1E0575380BE0579E36E9ADDE27B02124",
+   "ts_ms": 1706116770438,
+   "ts_iso": "2024-01-24T17:19:30.438000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pla está 220\n\nLa marca es hello3D",
+   "starred": false
+  },
+  {
+   "id": 1227224,
+   "key_id": "0FA05D1A9615865717F4C20DB18221EB",
+   "ts_ms": 1706116923793,
+   "ts_iso": "2024-01-24T17:22:03.793000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240124-WA0009.jpg",
+    "size": 26446,
+    "duration_s": 0,
+    "sha256_b64": "aptMIPKkhfkKhSmg41uc3xbo4WFhaBbvrUQCozcj48g=",
+    "media_name": "7a660ad4-39cc-4549-8db5-54a5b45485a8.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1227225,
+   "key_id": "EED2A40BBB6967259442D7B05C3B1361",
+   "ts_ms": 1706116930645,
+   "ts_iso": "2024-01-24T17:22:10.645000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estos son los colores que tenemos",
+   "starred": false
+  }
+ ]
+}

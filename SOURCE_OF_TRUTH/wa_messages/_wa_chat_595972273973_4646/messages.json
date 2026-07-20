@@ -1,0 +1,79 @@
+{
+ "chat_id": 4646,
+ "slug": "_wa_chat_595972273973_4646",
+ "subject": null,
+ "jid_user": "595972273973",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972273973@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1285093,
+   "key_id": "A37FE4D8955F3C19A02225724FB6B536",
+   "ts_ms": 1715173784000,
+   "ts_iso": "2024-05-08T13:09:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola que tal todo? Quiero saber si puedo hacer algunas consulta sobre tu esperiencia en appium",
+   "starred": false
+  },
+  {
+   "id": 1285094,
+   "key_id": "DF5D1CFD6BE52F53DA11F578262A5942",
+   "ts_ms": 1715173787000,
+   "ts_iso": "2024-05-08T13:09:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "?",
+   "starred": false
+  },
+  {
+   "id": 1285097,
+   "key_id": "587FD3647A19F55285",
+   "ts_ms": 1715174049000,
+   "ts_iso": "2024-05-08T13:14:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola\nmetele nomas\npero probablemente te ayude mas chat gpt\n\ntengo mas experiencia con selenium que con appium \nsolo un curso habia hecho",
+   "starred": false
+  },
+  {
+   "id": 1285104,
+   "key_id": "1843CD440000BE34538227683487CFBE",
+   "ts_ms": 1715174176000,
+   "ts_iso": "2024-05-08T13:16:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo quiero saber si llegaste a ejecutar desde el jenkins o algo similar ?",
+   "starred": false
+  },
+  {
+   "id": 1285106,
+   "key_id": "1F73CE3B3D47BB40F9",
+   "ts_ms": 1715174358000,
+   "ts_iso": "2024-05-08T13:19:18+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "nop :(",
+   "starred": false
+  },
+  {
+   "id": 1285108,
+   "key_id": "D7E57A10201BE4094F286F986AF1E29B",
+   "ts_ms": 1715174493000,
+   "ts_iso": "2024-05-08T13:21:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bueno gracias, voy a seguir investigando",
+   "starred": false
+  }
+ ]
+}

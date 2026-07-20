@@ -1,0 +1,141 @@
+{
+ "chat_id": 4321,
+ "slug": "_wa_chat_595986622866_4321",
+ "subject": null,
+ "jid_user": "595986622866",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986622866@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1163333,
+   "key_id": "68DED8227724D219E6",
+   "ts_ms": 1695310344000,
+   "ts_iso": "2023-09-21T15:32:24+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1163334,
+   "key_id": "0ECE24A0EDB5D566825CD2410490EA2C",
+   "ts_ms": 1695310345000,
+   "ts_iso": "2023-09-21T15:32:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*¡HOLAA!* 🥰\n Somos  *Bacon Burgers CIUDAD NUEVA🍔🍟* \n🕚 *Estamos de 11h a 23:45h*\n(Costo del delivery:15.000)\n\n*Debido a la alta cantidad de mensajes, para procesar tu pedido, debes realizarlo a través del siguiente  link!👇* \n\nhttps://fiweex.com/delivery/baconciudadnueva\n\nEs súper fácil y rápido! Y tenés todos nuestros nuevos productos disponibles 🤩🥰🍔.\n\n*SI YA LO HICISTE, AGUARDA EN LÍNEA, TE RESPONDEMOS LO MÁS RÁPIDO POSIBLE! 🥺💖*",
+   "starred": false
+  },
+  {
+   "id": 1163335,
+   "key_id": "24430C532373713F1456725047432BB2",
+   "ts_ms": 1695310357000,
+   "ts_iso": "2023-09-21T15:32:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Holaaa!! Buenos días😁🍔💞*",
+   "starred": false
+  },
+  {
+   "id": 1163336,
+   "key_id": "40263B2C031350C44E",
+   "ts_ms": 1695310372000,
+   "ts_iso": "2023-09-21T15:32:52+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola quiero hacer un pedido de pinedo shopping \npero el link de ig no anda",
+   "starred": false
+  },
+  {
+   "id": 1163337,
+   "key_id": "40D3CF3AA610DA114F",
+   "ts_ms": 1695310385000,
+   "ts_iso": "2023-09-21T15:33:05+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "SUHapnOn5s9COIv0VixU3ZbzeSNrTzsbL+2KWeIFVBA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1163338,
+   "key_id": "FD99D586749BB4DBEF",
+   "ts_ms": 1695310392000,
+   "ts_iso": "2023-09-21T15:33:12+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "MLzhtX6s52f+lQjVx1zkfd5mqa6RF7iOWrao07nkyfw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1163339,
+   "key_id": "B7BA4BFFBA19758886",
+   "ts_ms": 1695310393000,
+   "ts_iso": "2023-09-21T15:33:13+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me manda aca",
+   "starred": false
+  },
+  {
+   "id": 1163340,
+   "key_id": "286E50736938B35B1C",
+   "ts_ms": 1695310401000,
+   "ts_iso": "2023-09-21T15:33:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "como hago?",
+   "starred": false
+  },
+  {
+   "id": 1163343,
+   "key_id": "95B6001EE33149AD6CA7DE0A27A19266",
+   "ts_ms": 1695310569000,
+   "ts_iso": "2023-09-21T15:36:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sería el nuevo número para la sucursal del shopping pinedo 🥰",
+   "starred": false
+  },
+  {
+   "id": 1163345,
+   "key_id": "72195F4CE4AEE0C572",
+   "ts_ms": 1695310641000,
+   "ts_iso": "2023-09-21T15:37:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ah ok les consulto \n\nel tema es que el pan de bacon de pinedo es mill veces mejor que el de 1811 \ncompre hace unos dias para probar \n\nel de pinedo es mas crujiente y sabe mejor",
+   "starred": false
+  }
+ ]
+}

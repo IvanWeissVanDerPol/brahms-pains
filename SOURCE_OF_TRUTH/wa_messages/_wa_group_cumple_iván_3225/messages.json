@@ -1,0 +1,216 @@
+{
+ "chat_id": 3225,
+ "slug": "_wa_group_cumple_iván_3225",
+ "subject": "Cumple Iván ",
+ "jid_user": "120363160353401937",
+ "jid_server": "g.us",
+ "jid_raw": "120363160353401937@g.us",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1085621,
+   "key_id": "A8E4FFC897C4CE4848795E6DBF3608E5",
+   "ts_ms": 1686462202623,
+   "ts_iso": "2023-06-11T05:43:22.623000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola festejo mi cumple en casa el 17 de jun \nA eso de las 8 \n\nEl plan es hacer algo en la parrilla/ horno en el quincho\nY tomar \n\nCompramos alcohol / más comida del Pinedo si falta \n\nFollow this link to join my WhatsApp group: https://chat.whatsapp.com/DOr9yOMWa0pLbSbxNHQPcN",
+   "starred": false
+  },
+  {
+   "id": 1088038,
+   "key_id": "3AEB3EC4B924B4A21C6D",
+   "ts_ms": 1686945141000,
+   "ts_iso": "2023-06-16T19:52:21+00:00",
+   "from_me": false,
+   "sender_jid": "595985123575@s.whatsapp.net",
+   "type": 0,
+   "text": "Holi",
+   "starred": false
+  },
+  {
+   "id": 1088044,
+   "key_id": "3AD54B8A4CD74ED38777",
+   "ts_ms": 1686945175000,
+   "ts_iso": "2023-06-16T19:52:55+00:00",
+   "from_me": false,
+   "sender_jid": "595985123575@s.whatsapp.net",
+   "type": 0,
+   "text": "A qué hora comenzaremos?",
+   "starred": false
+  },
+  {
+   "id": 1088051,
+   "key_id": "A6C9694A46A59517768B08F62C032B2D",
+   "ts_ms": 1686945423871,
+   "ts_iso": "2023-06-16T19:57:03.871000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A las 8",
+   "starred": false
+  },
+  {
+   "id": 1088052,
+   "key_id": "010550F3DD9D340D624D73768259AF00",
+   "ts_ms": 1686945494120,
+   "ts_iso": "2023-06-16T19:58:14.120000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Osea 20:00\nPero pueden venir a las 13 ya si quieren \nYo voy a estar ahí chill con mi fam  Uwu",
+   "starred": false
+  },
+  {
+   "id": 1088708,
+   "key_id": "7CCE191A95751EDA100BCDDAA7C2127F",
+   "ts_ms": 1687037601232,
+   "ts_iso": "2023-06-17T21:33:21.232000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis a las 9.hay asado",
+   "starred": false
+  },
+  {
+   "id": 1088709,
+   "key_id": "EF2B7BD72E26D948B5104C92C5417276",
+   "ts_ms": 1687037602231,
+   "ts_iso": "2023-06-17T21:33:22.231000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwu",
+   "starred": false
+  },
+  {
+   "id": 1088799,
+   "key_id": "877D0E1F20AA3971003867939435C2DD",
+   "ts_ms": 1687042729000,
+   "ts_iso": "2023-06-17T22:58:49+00:00",
+   "from_me": false,
+   "sender_jid": "595972130867@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230617-WA0029.jpg",
+    "size": 133552,
+    "duration_s": 0,
+    "sha256_b64": "VtujgwirGGycxElqfcZnyv2W/8z+QdW2FWDeVF48KE8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1088846,
+   "key_id": "405E853F90091F3ECFBA19A7B34985B1",
+   "ts_ms": 1687047037966,
+   "ts_iso": "2023-06-18T00:10:37.966000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20230617-WA0032.jpg",
+    "size": 101980,
+    "duration_s": 0,
+    "sha256_b64": "VcSpQkCA7V7AQg73C8WCuID0sD+Z8m4TbG52GEMkB+E=",
+    "media_name": "8766189d-a3f3-40cc-8dad-46fc4a4fd9d5.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1088862,
+   "key_id": "3A7BAFD9BE0628048BBD",
+   "ts_ms": 1687047350000,
+   "ts_iso": "2023-06-18T00:15:50+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 0,
+   "text": "Ni se como cocinar carne ayuda",
+   "starred": false
+  },
+  {
+   "id": 1088864,
+   "key_id": "B6402DFAE699C8D942F504C61CCA6569",
+   "ts_ms": 1687047362957,
+   "ts_iso": "2023-06-18T00:16:02.957000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajajaja",
+   "starred": false
+  },
+  {
+   "id": 1088867,
+   "key_id": "CD681B252C2089DF1F6A7BF1CC82F5C2",
+   "ts_ms": 1687047377625,
+   "ts_iso": "2023-06-18T00:16:17.625000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I believe in you",
+   "starred": false
+  },
+  {
+   "id": 1088967,
+   "key_id": "6E716EEC41275B6E218024627866A07E",
+   "ts_ms": 1687051900000,
+   "ts_iso": "2023-06-18T01:31:40+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "En camino 🙏🏼",
+   "starred": false
+  },
+  {
+   "id": 1088985,
+   "key_id": "DC78EAF5C13ADB1D63DFBADD19947D06",
+   "ts_ms": 1687053900000,
+   "ts_iso": "2023-06-18T02:05:00+00:00",
+   "from_me": false,
+   "sender_jid": "595986805654@s.whatsapp.net",
+   "type": 0,
+   "text": "Llegue",
+   "starred": false
+  },
+  {
+   "id": 1089076,
+   "key_id": "3AC6E5AC9E2ED29754D2",
+   "ts_ms": 1687070616000,
+   "ts_iso": "2023-06-18T06:43:36+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230618-WA0002.jpg",
+    "size": 169793,
+    "duration_s": 0,
+    "sha256_b64": "1rPrFx+6gtVStxXwGkHmbXADeySfnB+ogGYcGinoDqM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1089079,
+   "key_id": "C2A01D9F430B54A4A8545C1E0D8167B5",
+   "ts_ms": 1687072935591,
+   "ts_iso": "2023-06-18T07:22:15.591000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias UWI estuvo re fun",
+   "starred": false
+  }
+ ]
+}

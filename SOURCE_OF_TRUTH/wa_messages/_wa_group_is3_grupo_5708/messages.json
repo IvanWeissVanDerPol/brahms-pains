@@ -1,0 +1,46 @@
+{
+ "chat_id": 5708,
+ "slug": "_wa_group_is3_grupo_5708",
+ "subject": "IS3 grupo",
+ "jid_user": "120363243306938162",
+ "jid_server": "g.us",
+ "jid_raw": "120363243306938162@g.us",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1245290,
+   "key_id": "57BA31CFE40B110E38E7C8C11A6E5C01",
+   "ts_ms": 1708657880558,
+   "ts_iso": "2024-02-23T03:11:20.558000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis hice nomás ya un grupo \nPor si hacemos juntos \n\nUwuwuuw",
+   "starred": false
+  },
+  {
+   "id": 1245291,
+   "key_id": "D0009D5662048EAC32FA53C454227901",
+   "ts_ms": 1708657890653,
+   "ts_iso": "2024-02-23T03:11:30.653000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya sos admin uwu",
+   "starred": false
+  },
+  {
+   "id": 1261123,
+   "key_id": "47CE318503EB1C23CC",
+   "ts_ms": 1711056802000,
+   "ts_iso": "2024-03-21T21:33:22+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "holis \nnos juntas a hacer la tarea estos dias / finde / discord?",
+   "starred": false
+  }
+ ]
+}

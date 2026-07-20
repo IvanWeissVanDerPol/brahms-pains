@@ -1,0 +1,79 @@
+{
+ "chat_id": 7525,
+ "slug": "_wa_chat_595983771093_7525",
+ "subject": null,
+ "jid_user": "595983771093",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983771093@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1325359,
+   "key_id": "DA6CB2F69B384408E26B7F21BD9A07F7",
+   "ts_ms": 1721409792569,
+   "ts_iso": "2024-07-19T17:23:12.569000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1325360,
+   "key_id": "A41DAF8073315133885558C3EAAA9FF4",
+   "ts_ms": 1721409795275,
+   "ts_iso": "2024-07-19T17:23:15.275000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy de Facebook",
+   "starred": false
+  },
+  {
+   "id": 1325361,
+   "key_id": "931E53462AB68238F5D83DD4543DF472",
+   "ts_ms": 1721409835000,
+   "ts_iso": "2024-07-19T17:23:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola si",
+   "starred": false
+  },
+  {
+   "id": 1325374,
+   "key_id": "70BF656AEAE3A5A3FB923140CA16EC25",
+   "ts_ms": 1721410016000,
+   "ts_iso": "2024-07-19T17:26:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Después",
+   "starred": false
+  },
+  {
+   "id": 1325377,
+   "key_id": "D84FD6D803F181D90122E331F8921D9A",
+   "ts_ms": 1721410092629,
+   "ts_iso": "2024-07-19T17:28:12.629000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uff me parece que son los más finos estos \n\nNo sabes donde se consiguen los que son gruesos o como usar sin que te lastime toda la mano?\n\n\nMe interesa pero creo que voy a tener el mismo problema que el que tenía en mi gimnasio anterior",
+   "starred": false
+  },
+  {
+   "id": 1325378,
+   "key_id": "628985D39BCBDF33A6BAD31E02A93DFF",
+   "ts_ms": 1721410115000,
+   "ts_iso": "2024-07-19T17:28:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  }
+ ]
+}

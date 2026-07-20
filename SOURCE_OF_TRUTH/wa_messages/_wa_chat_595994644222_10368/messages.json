@@ -1,0 +1,33 @@
+{
+ "chat_id": 10368,
+ "slug": "_wa_chat_595994644222_10368",
+ "subject": null,
+ "jid_user": "595994644222",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994644222@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1468956,
+   "key_id": "3A1F59C340D0F9DC7437",
+   "ts_ms": 1744826598000,
+   "ts_iso": "2025-04-16T18:03:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Hola Mateo! Te recordamos que hasta el *jueves 17 de abril* tenés desde el *20% de DESCUENTO* comprando con tu *SALEMMA CARD y CASH*!💳👌🏼😎\n\n\r\nMirá estos descuentos imperdibles que podés aprovechar en tu *SALEMMA* más cercano.\r\n\r\n📍Si tenés la tarjeta vencida podes renovar *SIN COSTO* en la sucursal de *SALEMMA más cercano*.\r\n\r\n📲Dudas sobre tu cuenta? Comunicate con un asesor a este número: 0981 257 629",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "8gQfqLCOzdoJJWrFHbOaeIjZXRGYadwilaPWT3K+u6o=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

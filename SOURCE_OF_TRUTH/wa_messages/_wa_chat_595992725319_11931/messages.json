@@ -1,0 +1,86 @@
+{
+ "chat_id": 11931,
+ "slug": "_wa_chat_595992725319_11931",
+ "subject": null,
+ "jid_user": "595992725319",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992725319@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581465,
+   "key_id": "AC6FB6DBC177CBBAC0779F0E8B88479B",
+   "ts_ms": 1759638925767,
+   "ts_iso": "2025-10-05T04:35:25.767000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Jessi💋 vi tus fotos en 69.com.py ¿Me pasarías info por favor? Gracias.",
+   "starred": false
+  },
+  {
+   "id": 1582794,
+   "key_id": "A5FBA1A0CD9DF3161A40CAEE45B94FA2",
+   "ts_ms": 1759761258000,
+   "ts_iso": "2025-10-06T14:34:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día cariño!",
+   "starred": false
+  },
+  {
+   "id": 1582796,
+   "key_id": "A56231065C2CF2118A4710533A7DF0CB",
+   "ts_ms": 1759761259000,
+   "ts_iso": "2025-10-06T14:34:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te gustaría agendar un turno con nosotras amor?",
+   "starred": false
+  },
+  {
+   "id": 1582798,
+   "key_id": "A59CC1DA2F24ECD975D3AFED28A98B5E",
+   "ts_ms": 1759761259000,
+   "ts_iso": "2025-10-06T14:34:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "tuYnLn+lJJxMl+gFToA9CJ7N+RH0dUD3UQh382TfCHo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1582799,
+   "key_id": "A5673A8F3D0885DACF870255ED9982E1",
+   "ts_ms": 1759761259000,
+   "ts_iso": "2025-10-06T14:34:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "jij7l7F2jqrRJd/dtPGIv5Znmlc5M7f593wQ8THxUac=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

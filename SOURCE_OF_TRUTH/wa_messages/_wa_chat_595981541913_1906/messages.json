@@ -1,0 +1,112 @@
+{
+ "chat_id": 1906,
+ "slug": "_wa_chat_595981541913_1906",
+ "subject": null,
+ "jid_user": "595981541913",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981541913@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 972075,
+   "key_id": "595193A6064C249A619ADCF9CF30EA4F",
+   "ts_ms": 1664568060069,
+   "ts_iso": "2022-09-30T20:01:00.069000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes",
+   "starred": false
+  },
+  {
+   "id": 972076,
+   "key_id": "BCB2C8D86E11BC8BD809CAFB2F1C25AD",
+   "ts_ms": 1664568065705,
+   "ts_iso": "2022-09-30T20:01:05.705000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Están abierto?",
+   "starred": false
+  },
+  {
+   "id": 972077,
+   "key_id": "588B78879597BC149FCA83424C1AA1ED",
+   "ts_ms": 1664568085643,
+   "ts_iso": "2022-09-30T20:01:25.643000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Necesito hacer una fotocopia de cédula autenticada por escribanía",
+   "starred": false
+  },
+  {
+   "id": 972102,
+   "key_id": "7625A1DC1D7AAAE547E098BD9B1BBCF1",
+   "ts_ms": 1664568693000,
+   "ts_iso": "2022-09-30T20:11:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes ya no está la escribana",
+   "starred": false
+  },
+  {
+   "id": 972109,
+   "key_id": "39B8C25C5700E6D9303F05727909B79C",
+   "ts_ms": 1664568953129,
+   "ts_iso": "2022-09-30T20:15:53.129000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sad",
+   "starred": false
+  },
+  {
+   "id": 972110,
+   "key_id": "4EEF727DEDC0EEF58F0C5A1F3877DAE1",
+   "ts_ms": 1664568959831,
+   "ts_iso": "2022-09-30T20:15:59.831000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sabrías donde puedo ir?",
+   "starred": false
+  },
+  {
+   "id": 972112,
+   "key_id": "925EDE7384AA1DFCB52D4ADF04940CD0",
+   "ts_ms": 1664568969272,
+   "ts_iso": "2022-09-30T20:16:09.272000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cerca de la zona?",
+   "starred": false
+  },
+  {
+   "id": 972126,
+   "key_id": "5A51FAE05F3132CA3691E0E3CDBF9C4A",
+   "ts_ms": 1664569117000,
+   "ts_iso": "2022-09-30T20:18:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sobre la avenida Eusebio Ayala al lado de importadora Santa Elena",
+   "starred": false
+  },
+  {
+   "id": 972129,
+   "key_id": "D6B4DCE17D37D6C08A6A90AAA3016127",
+   "ts_ms": 1664569139363,
+   "ts_iso": "2022-09-30T20:18:59.363000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me fijo gracias",
+   "starred": false
+  }
+ ]
+}

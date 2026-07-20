@@ -1,0 +1,68 @@
+{
+ "chat_id": 120,
+ "slug": "_wa_chat_595961525896_120",
+ "subject": null,
+ "jid_user": "595961525896",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595961525896@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1453304,
+   "key_id": "DAF2E8AD06AEFDB70E00968707176CED",
+   "ts_ms": 1742842193401,
+   "ts_iso": "2025-03-24T18:49:53.401000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nRandom question \nSabes que fecha es el examen (? De bd2? Jsjsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1453315,
+   "key_id": "87F9089533574916BF889EC84F84982A",
+   "ts_ms": 1742842760000,
+   "ts_iso": "2025-03-24T18:59:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1453316,
+   "key_id": "3ABCFCABAE7B780790DE5603874794A4",
+   "ts_ms": 1742842763000,
+   "ts_iso": "2025-03-24T18:59:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El jueves 03",
+   "starred": false
+  },
+  {
+   "id": 1453317,
+   "key_id": "AB7422D38F1EF408004D5F95B91C9751",
+   "ts_ms": 1742842767658,
+   "ts_iso": "2025-03-24T18:59:27.658000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1453318,
+   "key_id": "31BC73173D7DE497E39C4B371B87380F",
+   "ts_ms": 1742842773000,
+   "ts_iso": "2025-03-24T18:59:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "👍🏻",
+   "starred": false
+  }
+ ]
+}

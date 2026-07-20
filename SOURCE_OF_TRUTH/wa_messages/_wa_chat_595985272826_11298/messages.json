@@ -1,0 +1,198 @@
+{
+ "chat_id": 11298,
+ "slug": "_wa_chat_595985272826_11298",
+ "subject": null,
+ "jid_user": "595985272826",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985272826@s.whatsapp.net",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1543805,
+   "key_id": "42D2AEC6A87D7A8C8B3550F73FFDC4E6",
+   "ts_ms": 1754161970457,
+   "ts_iso": "2025-08-02T19:12:50.457000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola soy el de edificio Brasilia",
+   "starred": false
+  },
+  {
+   "id": 1543806,
+   "key_id": "D2A23C9BA9E90E6746EE4C16CE9F90BE",
+   "ts_ms": 1754162086000,
+   "ts_iso": "2025-08-02T19:14:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1543808,
+   "key_id": "8948CA1B30D13FCF93489D28D0D52320",
+   "ts_ms": 1754162096000,
+   "ts_iso": "2025-08-02T19:14:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasas tu ubicación correcta por favor",
+   "starred": false
+  },
+  {
+   "id": 1543821,
+   "key_id": "BAEB93863F1B7A30ADAA74018A51FF20",
+   "ts_ms": 1754162743554,
+   "ts_iso": "2025-08-02T19:25:43.554000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te paso",
+   "starred": false
+  },
+  {
+   "id": 1543822,
+   "key_id": "12B9D3A42DBF74BDF888BC6BAAACEBB4",
+   "ts_ms": 1754162795000,
+   "ts_iso": "2025-08-02T19:26:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahí ya me fui hace rato y el portero me dijo que no le conocía",
+   "starred": false
+  },
+  {
+   "id": 1543823,
+   "key_id": "A6637D0CFF7227E3F27728FA5B741732",
+   "ts_ms": 1754162803000,
+   "ts_iso": "2025-08-02T19:26:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250802-WA0035.jpg",
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "9k8iaBnCMfPuppoVyCmT1xAlIG43Gbrk3EDxivKeLDg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1543824,
+   "key_id": "CFF8BE6A6F864A56E1321BD0BF911874",
+   "ts_ms": 1754162808000,
+   "ts_iso": "2025-08-02T19:26:48+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si soy un invitado aca",
+   "starred": false
+  },
+  {
+   "id": 1543825,
+   "key_id": "A48B2C180BE404CB697029554148A5DD",
+   "ts_ms": 1754162815000,
+   "ts_iso": "2025-08-02T19:26:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahh.. ok",
+   "starred": false
+  },
+  {
+   "id": 1543826,
+   "key_id": "1EBA6F209A89E2065CD6240429AE2A24",
+   "ts_ms": 1754162818643,
+   "ts_iso": "2025-08-02T19:26:58.643000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sorry",
+   "starred": false
+  },
+  {
+   "id": 1543827,
+   "key_id": "D62E163022231BD2093DE6669242B2F2",
+   "ts_ms": 1754162819846,
+   "ts_iso": "2025-08-02T19:26:59.846000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ":(",
+   "starred": false
+  },
+  {
+   "id": 1543829,
+   "key_id": "46D6D3B62BCB579E4E62A7A32EF87353",
+   "ts_ms": 1754162848000,
+   "ts_iso": "2025-08-02T19:27:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No hay problema",
+   "starred": false
+  },
+  {
+   "id": 1543830,
+   "key_id": "C165746FB1EA76D57AADE8586711F530",
+   "ts_ms": 1754162853000,
+   "ts_iso": "2025-08-02T19:27:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llegó en 5 minutos",
+   "starred": false
+  },
+  {
+   "id": 1543831,
+   "key_id": "A92B415EBDCCDCC755E7267CD7F72ACA",
+   "ts_ms": 1754162857130,
+   "ts_iso": "2025-08-02T19:27:37.130000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfect",
+   "starred": false
+  },
+  {
+   "id": 1543832,
+   "key_id": "654F9690598413E8A3D91C889314810F",
+   "ts_ms": 1754162866369,
+   "ts_iso": "2025-08-02T19:27:46.369000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy atento a mi cell",
+   "starred": false
+  },
+  {
+   "id": 1543834,
+   "key_id": "E34BC6C7221888B2CF5D8974A6FAC179",
+   "ts_ms": 1754162971000,
+   "ts_iso": "2025-08-02T19:29:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora ya estoy en frente",
+   "starred": false
+  },
+  {
+   "id": 1543835,
+   "key_id": "51790F4F59D3A668844463308496078B",
+   "ts_ms": 1754162974733,
+   "ts_iso": "2025-08-02T19:29:34.733000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

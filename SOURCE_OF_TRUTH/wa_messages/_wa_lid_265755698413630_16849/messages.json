@@ -1,0 +1,345 @@
+{
+ "chat_id": 16849,
+ "slug": "_wa_lid_265755698413630_16849",
+ "subject": null,
+ "jid_user": "265755698413630",
+ "jid_server": "lid",
+ "jid_raw": "265755698413630@lid",
+ "message_count": 22,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1812125,
+   "key_id": "AC6C594FB89FD3A96486AA4A1AA712E2",
+   "ts_ms": 1781942890000,
+   "ts_iso": "2026-06-20T08:08:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mi loco",
+   "starred": false
+  },
+  {
+   "id": 1812126,
+   "key_id": "AC434AEF728572CE4CCD42DC72991F01",
+   "ts_ms": 1781942898000,
+   "ts_iso": "2026-06-20T08:08:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avisa pa ir a ayudar",
+   "starred": false
+  },
+  {
+   "id": 1812127,
+   "key_id": "ACC00943D6FCFC1B6155F976F1B57241",
+   "ts_ms": 1781942909000,
+   "ts_iso": "2026-06-20T08:08:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy David",
+   "starred": false
+  },
+  {
+   "id": 1812292,
+   "key_id": "AC41ED3BA4BDCF639431D2BE493C48D7",
+   "ts_ms": 1781976531399,
+   "ts_iso": "2026-06-20T17:28:51.399000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0025.opus",
+    "size": 0,
+    "duration_s": 17,
+    "sha256_b64": "plZWM4f+Tg0QybyQw5FKcR5q7ZYZqxI6hWZcfrCMj+s=",
+    "media_name": "55d993fbc6a14707b3ed29bd7830bc27.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812344,
+   "key_id": "AC6606AAA3F63BBDA416BD275B9F21D8",
+   "ts_ms": 1781981221000,
+   "ts_iso": "2026-06-20T18:47:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0032.opus",
+    "size": 21209,
+    "duration_s": 10,
+    "sha256_b64": "MiDeaiAzgVyxpRcj11vNO6jBWIBaqElZHaz85+nJuvc=",
+    "media_name": "PTT-20260620-WA0032.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812346,
+   "key_id": "AC710A7DA668549622C9EE5D52F15596",
+   "ts_ms": 1781981514000,
+   "ts_iso": "2026-06-20T18:51:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0033.opus",
+    "size": 6295,
+    "duration_s": 2,
+    "sha256_b64": "QUQEFroNOY/9ZBtRQxjIL5J01s1wkovTxPupKSohZuc=",
+    "media_name": "PTT-20260620-WA0033.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812347,
+   "key_id": "AC1E98088427046CC991379737174BEA",
+   "ts_ms": 1781981519000,
+   "ts_iso": "2026-06-20T18:51:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0034.opus",
+    "size": 11621,
+    "duration_s": 5,
+    "sha256_b64": "OINFEwU0q9JB+TFGo7XGv4gBL7br97fHG0l6aiF3Je8=",
+    "media_name": "PTT-20260620-WA0034.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812348,
+   "key_id": "ACE12A49510196D0EE36CD894C96372D",
+   "ts_ms": 1781981543454,
+   "ts_iso": "2026-06-20T18:52:23.454000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0035.opus",
+    "size": 0,
+    "duration_s": 11,
+    "sha256_b64": "4xaRhTsHIqp766cdZjSbwjH5hCY1OLY03mIrZSCikm0=",
+    "media_name": "a33c5de671fa4db687fbbcf49a73c6ed.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812349,
+   "key_id": "AC9355643B2024954F5C66E57AFE4C96",
+   "ts_ms": 1781981594000,
+   "ts_iso": "2026-06-20T18:53:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0036.opus",
+    "size": 37257,
+    "duration_s": 16,
+    "sha256_b64": "WQI6HBR2ZvPYzxBhgo/KZEprb4Rvn+EnMRtA/IZ8PrA=",
+    "media_name": "PTT-20260620-WA0036.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812352,
+   "key_id": "ACCB208ADF2CE4171A769795587BFC9A",
+   "ts_ms": 1781981646000,
+   "ts_iso": "2026-06-20T18:54:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0037.opus",
+    "size": 36319,
+    "duration_s": 16,
+    "sha256_b64": "jYinZlAntAHC5gMW7CACfWivK1OCup68vVOtIy43ijc=",
+    "media_name": "PTT-20260620-WA0037.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812358,
+   "key_id": "ACCCACD7C1C6C83FECCADAC02D7BB037",
+   "ts_ms": 1781981982797,
+   "ts_iso": "2026-06-20T18:59:42.797000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0041.opus",
+    "size": 0,
+    "duration_s": 12,
+    "sha256_b64": "niwjLebysglsERjHgcnwAv7Ii+Al4oGVDdlVROjGK6Q=",
+    "media_name": "33804aeb90914008b800bc6299cd5f7c.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812360,
+   "key_id": "AC43F46207916FECAB4BC4F87CAF2028",
+   "ts_ms": 1781982295000,
+   "ts_iso": "2026-06-20T19:04:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy en 30min",
+   "starred": false
+  },
+  {
+   "id": 1812361,
+   "key_id": "AC381D8BFCA29F86DC6B1BE5EE2593A2",
+   "ts_ms": 1781982301000,
+   "ts_iso": "2026-06-20T19:05:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avísame",
+   "starred": false
+  },
+  {
+   "id": 1812362,
+   "key_id": "AC30B83B9ED55C471685D3EEF844C6D9",
+   "ts_ms": 1781982306000,
+   "ts_iso": "2026-06-20T19:05:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Así les caigo",
+   "starred": false
+  },
+  {
+   "id": 1812363,
+   "key_id": "AC60A5A8101EFB462D97315802547CF7",
+   "ts_ms": 1781982317000,
+   "ts_iso": "2026-06-20T19:05:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O en una horax",
+   "starred": false
+  },
+  {
+   "id": 1812364,
+   "key_id": "ACAD0F1B2390C19D4BE634A827B8B5B0",
+   "ts_ms": 1781982329000,
+   "ts_iso": "2026-06-20T19:05:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tipo no se nomas si llegar o entrar o como es la cosa",
+   "starred": false
+  },
+  {
+   "id": 1812369,
+   "key_id": "ACFD20F73E99E255E91B4CFF7A245B5C",
+   "ts_ms": 1781983061000,
+   "ts_iso": "2026-06-20T19:17:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok ahora salgo",
+   "starred": false
+  },
+  {
+   "id": 1812370,
+   "key_id": "ACF393DFA7AE3C2F70D84AECCE293CED",
+   "ts_ms": 1781983076000,
+   "ts_iso": "2026-06-20T19:17:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cualquier cosa hago señal de humo nms",
+   "starred": false
+  },
+  {
+   "id": 1812371,
+   "key_id": "AC203D27890ACA738F735B7C91411FE5",
+   "ts_ms": 1781983078000,
+   "ts_iso": "2026-06-20T19:17:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "JWJDJ",
+   "starred": false
+  },
+  {
+   "id": 1812395,
+   "key_id": "AC31D47914E9DCFD84D3D8F11DE775A8",
+   "ts_ms": 1781983506407,
+   "ts_iso": "2026-06-20T19:25:06.407000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0048.opus",
+    "size": 0,
+    "duration_s": 3,
+    "sha256_b64": "oq1YwfGfJbJXTZNi2VCdwQWjYkqgzIrPxhDjlp3wJSg=",
+    "media_name": "02caf2ca9c0f4b6cbd4324b97a90b5f2.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1812401,
+   "key_id": "AC30A0BFA477A4B7E3E5FB9DE346CAAC",
+   "ts_ms": 1781983885000,
+   "ts_iso": "2026-06-20T19:31:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Oki",
+   "starred": false
+  },
+  {
+   "id": 1812404,
+   "key_id": "AC912444D41D25F6BCF5D6758C5F23B1",
+   "ts_ms": 1781983944000,
+   "ts_iso": "2026-06-20T19:32:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202625/PTT-20260620-WA0051.opus",
+    "size": 12535,
+    "duration_s": 6,
+    "sha256_b64": "CFytgJQ6rwEWm9VySigNOBLoWoGgjc/s0qRfHxpAVyM=",
+    "media_name": "PTT-20260620-WA0051.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

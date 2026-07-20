@@ -1,0 +1,46 @@
+{
+ "chat_id": 12679,
+ "slug": "_wa_chat_595994467903_12679",
+ "subject": null,
+ "jid_user": "595994467903",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994467903@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1614349,
+   "key_id": "ACB21324BC0D11920F55816B672FB3AA",
+   "ts_ms": 1763424544000,
+   "ts_iso": "2025-11-18T00:09:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Delivery soy",
+   "starred": false
+  },
+  {
+   "id": 1614350,
+   "key_id": "ACDD7E9A49B1FBD8DA5CCA951A0E2E4D",
+   "ts_ms": 1763424546000,
+   "ts_iso": "2025-11-18T00:09:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya llegué",
+   "starred": false
+  },
+  {
+   "id": 1614351,
+   "key_id": "AC66CE9B6ADD93FDCA46CF441EBC6079",
+   "ts_ms": 1763424549806,
+   "ts_iso": "2025-11-18T00:09:09.806000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

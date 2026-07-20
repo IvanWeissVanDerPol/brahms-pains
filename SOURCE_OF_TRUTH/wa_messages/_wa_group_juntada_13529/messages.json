@@ -1,0 +1,130 @@
+{
+ "chat_id": 13529,
+ "slug": "_wa_group_juntada_13529",
+ "subject": "Juntada",
+ "jid_user": "120363424016011198",
+ "jid_server": "g.us",
+ "jid_raw": "120363424016011198@g.us",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1688157,
+   "key_id": "ACA907225888031F5C581D0F132D00ED",
+   "ts_ms": 1770835455000,
+   "ts_iso": "2026-02-11T18:44:15+00:00",
+   "from_me": false,
+   "sender_jid": "276089221947455@lid",
+   "type": 0,
+   "text": "Ndee Nicoo",
+   "starred": false
+  },
+  {
+   "id": 1688168,
+   "key_id": "ACABD494974A28028213E7FF0FE6CE1E",
+   "ts_ms": 1770835870000,
+   "ts_iso": "2026-02-11T18:51:10+00:00",
+   "from_me": false,
+   "sender_jid": "67392432517249@lid",
+   "type": 0,
+   "text": "Que tal man",
+   "starred": false
+  },
+  {
+   "id": 1688178,
+   "key_id": "ACCCAAB764778C18D68E37F12D6D317F",
+   "ts_ms": 1770836518000,
+   "ts_iso": "2026-02-11T19:01:58+00:00",
+   "from_me": false,
+   "sender_jid": "276089221947455@lid",
+   "type": 0,
+   "text": "Nicoo",
+   "starred": false
+  },
+  {
+   "id": 1688179,
+   "key_id": "AC8ABB1A946E322F61945D1DAE2AC55C",
+   "ts_ms": 1770836523000,
+   "ts_iso": "2026-02-11T19:02:03+00:00",
+   "from_me": false,
+   "sender_jid": "276089221947455@lid",
+   "type": 0,
+   "text": "Cuando podemos ir a tu casa",
+   "starred": false
+  },
+  {
+   "id": 1688182,
+   "key_id": "AC518A41C46A4D120D71C7E485DBDD14",
+   "ts_ms": 1770836556000,
+   "ts_iso": "2026-02-11T19:02:36+00:00",
+   "from_me": false,
+   "sender_jid": "276089221947455@lid",
+   "type": 0,
+   "text": "O cuando hacemos algo con weiss",
+   "starred": false
+  },
+  {
+   "id": 1688189,
+   "key_id": "AC907DB82A075C2E185B9E0702F4A395",
+   "ts_ms": 1770836659000,
+   "ts_iso": "2026-02-11T19:04:19+00:00",
+   "from_me": false,
+   "sender_jid": "67392432517249@lid",
+   "type": 0,
+   "text": "Y este finde lo que no voy a poder pero el próximo podemos hacer algo",
+   "starred": false
+  },
+  {
+   "id": 1688190,
+   "key_id": "AC9AC86808BFB38A008B683AE4ECFF68",
+   "ts_ms": 1770836691000,
+   "ts_iso": "2026-02-11T19:04:51+00:00",
+   "from_me": false,
+   "sender_jid": "67392432517249@lid",
+   "type": 0,
+   "text": "O un día entre semana de noche igual si pueden",
+   "starred": false
+  },
+  {
+   "id": 1688356,
+   "key_id": "ACD7708006EFEB2FD96FB46F3175A138",
+   "ts_ms": 1770849920337,
+   "ts_iso": "2026-02-11T22:45:20.337000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "@276089221947455 termino con piercing el date jsjsjs",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260211-WA0091.jpg",
+    "size": 79228,
+    "duration_s": 0,
+    "sha256_b64": "tLYwW0aSmOgB2LL+fnDXnFtw0BpKlLN80DFNtOm/9zQ=",
+    "media_name": "a9e41110-9e05-4e5e-94c0-834cab8aaba9.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1688358,
+   "key_id": "ACE3A38F42C82C68BAE716B6E1480C2F",
+   "ts_ms": 1770849947620,
+   "ts_iso": "2026-02-11T22:45:47.620000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202607/PTT-20260211-WA0092.opus",
+    "size": 0,
+    "duration_s": 24,
+    "sha256_b64": "VxCE70bezycmv1ykOmD9ADBlXam2Gz+PB5WQThoBP7k=",
+    "media_name": "660c3200f6f9469da922c45d731c9e68.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

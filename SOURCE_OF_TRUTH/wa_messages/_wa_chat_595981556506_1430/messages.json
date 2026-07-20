@@ -1,0 +1,110 @@
+{
+ "chat_id": 1430,
+ "slug": "_wa_chat_595981556506_1430",
+ "subject": null,
+ "jid_user": "595981556506",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981556506@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1653137,
+   "key_id": "AC7C52267A7EF41F1BCD60EDAB3F6332",
+   "ts_ms": 1768339326561,
+   "ts_iso": "2026-01-13T21:22:06.561000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hoka",
+   "starred": false
+  },
+  {
+   "id": 1653141,
+   "key_id": "3EB04149A97B5F1B4BE72B",
+   "ts_ms": 1768339356000,
+   "ts_iso": "2026-01-13T21:22:36+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "hola me hice este piercing\n\ntienen por si acaso de titaneo?\ncon diseños o flores?",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "JJ8LBFC4b/DzM3p7F4L5+VNuYxnoDYR1UakmufvPpMQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1653195,
+   "key_id": "3AF7140558755304D296",
+   "ts_ms": 1768340529000,
+   "ts_iso": "2026-01-13T21:42:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas !",
+   "starred": false
+  },
+  {
+   "id": 1653197,
+   "key_id": "3A4636A43BB763BC6607",
+   "ts_ms": 1768340535000,
+   "ts_iso": "2026-01-13T21:42:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En titanio no 🥺",
+   "starred": false
+  },
+  {
+   "id": 1653198,
+   "key_id": "3AFE9C517C78162222C4",
+   "ts_ms": 1768340542000,
+   "ts_iso": "2026-01-13T21:42:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Solo al lisa tenemos",
+   "starred": false
+  },
+  {
+   "id": 1653199,
+   "key_id": "ACF01FB97E384B2DB22DB90F6256CDA6",
+   "ts_ms": 1768340551913,
+   "ts_iso": "2026-01-13T21:42:31.913000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bajón\n\nSabrías donde puedo encontrar?",
+   "starred": false
+  },
+  {
+   "id": 1653207,
+   "key_id": "3A4F20A22297EFED91AD",
+   "ts_ms": 1768340886000,
+   "ts_iso": "2026-01-13T21:48:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No sabríamos decirte con exactitud 🥹",
+   "starred": false
+  },
+  {
+   "id": 1653215,
+   "key_id": "3EB0DA8442DC94BB8B9D66",
+   "ts_ms": 1768340965000,
+   "ts_iso": "2026-01-13T21:49:25+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okis",
+   "starred": false
+  }
+ ]
+}

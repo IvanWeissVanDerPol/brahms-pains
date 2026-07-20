@@ -1,0 +1,108 @@
+{
+ "chat_id": 8970,
+ "slug": "_wa_chat_595981825140_8970",
+ "subject": null,
+ "jid_user": "595981825140",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981825140@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1354961,
+   "key_id": "365AD829FB87BFE62344EB4DC38381B3",
+   "ts_ms": 1725658674840,
+   "ts_iso": "2024-09-06T21:37:54.840000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1354963,
+   "key_id": "7F850490159C78DA649183AE98EDE59D",
+   "ts_ms": 1725658707285,
+   "ts_iso": "2024-09-06T21:38:27.285000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy Iván Weiss van der pol",
+   "starred": false
+  },
+  {
+   "id": 1354964,
+   "key_id": "25647137D5359D24F93434AC47B6DA8A",
+   "ts_ms": 1725658730682,
+   "ts_iso": "2024-09-06T21:38:50.682000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vivo en 1023 :)",
+   "starred": false
+  },
+  {
+   "id": 1354965,
+   "key_id": "3A1C0A2877B5AEBDBE8E",
+   "ts_ms": 1725658770000,
+   "ts_iso": "2024-09-06T21:39:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Genial Iván ahí ya le pasé",
+   "starred": false
+  },
+  {
+   "id": 1354966,
+   "key_id": "37895BE8785EC1DC40FA0E25CBA9A7E6",
+   "ts_ms": 1725658889856,
+   "ts_iso": "2024-09-06T21:41:29.856000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240906-WA0024.jpg",
+    "size": 160364,
+    "duration_s": 0,
+    "sha256_b64": "HvnzpTTp5BObdpKusZqgF8b0tpjxnCJeBPUg9F8C6sA=",
+    "media_name": "c98542e4-0727-4f22-b74c-ff783871dcca.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1354967,
+   "key_id": "D4C32058A0C3E50688AE9B677CFF1365",
+   "ts_ms": 1725658889884,
+   "ts_iso": "2024-09-06T21:41:29.884000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240811-WA0018.jpg",
+    "size": 240935,
+    "duration_s": 0,
+    "sha256_b64": "EAXb4iu1UK/+3z0tDLHIxyZBZEEuPVd5AiqS4pq4Juc=",
+    "media_name": "073bd830-eb29-43b1-a953-036fbfaa94d1.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1354968,
+   "key_id": "71D88611FCED830B82FAAC73C580A24F",
+   "ts_ms": 1725658904674,
+   "ts_iso": "2024-09-06T21:41:44.674000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias mando al grupo",
+   "starred": false
+  }
+ ]
+}

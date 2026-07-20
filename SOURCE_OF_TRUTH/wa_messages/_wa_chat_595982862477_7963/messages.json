@@ -1,0 +1,35 @@
+{
+ "chat_id": 7963,
+ "slug": "_wa_chat_595982862477_7963",
+ "subject": null,
+ "jid_user": "595982862477",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982862477@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1347962,
+   "key_id": "5127854208903412A3612D02B28D10A7",
+   "ts_ms": 1724764385000,
+   "ts_iso": "2024-08-27T13:13:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! soy tu driver de Monchis app ...",
+   "starred": false
+  },
+  {
+   "id": 1347963,
+   "key_id": "1514A17390EB3502036207AE35EFE062",
+   "ts_ms": 1724764389000,
+   "ts_iso": "2024-08-27T13:13:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy afuera con su pedido",
+   "starred": false
+  }
+ ]
+}

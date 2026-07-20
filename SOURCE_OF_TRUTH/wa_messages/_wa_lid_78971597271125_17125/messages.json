@@ -1,0 +1,24 @@
+{
+ "chat_id": 17125,
+ "slug": "_wa_lid_78971597271125_17125",
+ "subject": null,
+ "jid_user": "78971597271125",
+ "jid_server": "lid",
+ "jid_raw": "78971597271125@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1833155,
+   "key_id": "C05F3D03ABA1EE6DC4",
+   "ts_ms": 1784061862000,
+   "ts_iso": "2026-07-14T20:44:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "29847 es tu código de confirmación de Facebook",
+   "starred": false
+  }
+ ]
+}

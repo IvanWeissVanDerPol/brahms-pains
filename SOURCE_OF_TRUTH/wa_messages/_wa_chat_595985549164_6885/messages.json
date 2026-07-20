@@ -1,0 +1,35 @@
+{
+ "chat_id": 6885,
+ "slug": "_wa_chat_595985549164_6885",
+ "subject": null,
+ "jid_user": "595985549164",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985549164@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1317314,
+   "key_id": "67DF731A963FED223C95D16057CB7ED7",
+   "ts_ms": 1720299715233,
+   "ts_iso": "2024-07-06T21:01:55.233000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello! Can I get more info on this?",
+   "starred": false
+  },
+  {
+   "id": 1317845,
+   "key_id": "3A7B8213ED986B0E523B",
+   "ts_ms": 1720438668000,
+   "ts_iso": "2024-07-08T11:37:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días🍄 sería para consumo propio o mayorista?",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "chat_id": 9104,
+ "slug": "_wa_chat_595972762653_9104",
+ "subject": null,
+ "jid_user": "595972762653",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972762653@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1366892,
+   "key_id": "9F25E203C2F966BC00D408577FEB2942",
+   "ts_ms": 1727917709000,
+   "ts_iso": "2024-10-03T01:08:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas 🙌\nTe saludo de Pizzeria y Lomiteria Parce's\nTenemos un nuevo local ubicado sobre Porvenir casi Rojas silva barrio fatima San Lorenzo \nContados con servicio de Delivery \nDesde ya muchas gracias y estamos a las órdenes!\n\nBuen resto de jornada😊🙌\nPoder guardarme así ver las promociones y combos que tenemos...\nUna vez te lleve delivery en una aplicación por eso tengo tu número",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "chat_id": 3900,
+ "slug": "_wa_group_ingeniería_en_informática_3900",
+ "subject": "Ingeniería En Informática",
+ "jid_user": "120363148148457418",
+ "jid_server": "g.us",
+ "jid_raw": "120363148148457418@g.us",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1127445,
+   "key_id": "D2FF99D0A06D2A6EBF16F4AE6D1FFF42",
+   "ts_ms": 1692802692000,
+   "ts_iso": "2023-08-23T14:58:12+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 0,
+   "text": "Buenos dias!\nEsta comunidad fue creada con fines informativos, no es necesario meterse a los grupos de promo ajenos\nCualquier info que deseen compartir pueden comunicarse con algún admin para que se envie en este apartado.\nSin nada mas que agregar les deseo un excelente resto de jornada.\nSalu3",
+   "starred": false
+  },
+  {
+   "id": 1127451,
+   "key_id": "8733E74C73535A5562E88851B0E1B7E7",
+   "ts_ms": 1692803139000,
+   "ts_iso": "2023-08-23T15:05:39+00:00",
+   "from_me": false,
+   "sender_jid": "595971378035@s.whatsapp.net",
+   "type": 1,
+   "text": "Están cordialmente invitados a participar del meetup sobre Inteligencia Artificial realizado en conjunto por Willdom y el IEEE Computer Society\n\n📅 Miércoles 23/08\n⌚ 19:30hs\n📌 Aula Magna - Facultad Politécnica UNA\n\nSumérgete en la fusión de arte e IA, adéntrate en la creación de imágenes con diffusers y amplía tu éxito laboral con valiosos consejos. Tres charlas, infinitas inspiraciones.\n\nEntrada libre!\n\nAnotate acá: https://bit.ly/44dVHFx \nPor Zoom: https://bit.ly/3OFSl8B",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Eq9+ChLV7vhl23KteEmUc4tyJOasQh/WuUh1H6O6cYc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

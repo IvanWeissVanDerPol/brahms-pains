@@ -1,0 +1,24 @@
+{
+ "chat_id": 9545,
+ "slug": "_wa_chat_595981201732_9545",
+ "subject": null,
+ "jid_user": "595981201732",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981201732@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1398855,
+   "key_id": "0D099A9AB5553BEB56E6F2CDE90D4910",
+   "ts_ms": 1733227254000,
+   "ts_iso": "2024-12-03T12:00:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día \nProductos disponibles ahora\n\nHarina de almendras 105 mil calidad Premium\nHarina de coco 48 mil\nHarina Avena 36 mil \nHarina Garbanzo 35 mil\n\nNuez Mariposa 98 mil\nAlmendra  105 mil\nArándanos  98 mil \nMacadamia 120 mil\nPistachos 159  Mil \nCiruela pasa 59 mil\n\n\nSemilla d girasol 45 mil\nSemilla de Sésamo 38 mil\n\nMix Fit de KiKi con\nNuez Mariposa , Cajú ó Macadamia \nAlmendras  y Arándanos  108 mil \n\n Precios X kilo",
+   "starred": false
+  }
+ ]
+}

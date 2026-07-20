@@ -1,0 +1,165 @@
+{
+ "chat_id": 14596,
+ "slug": "_wa_lid_267318881976338_14596",
+ "subject": null,
+ "jid_user": "267318881976338",
+ "jid_server": "lid",
+ "jid_raw": "267318881976338@lid",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1731236,
+   "key_id": "ACD6039E1458D10230FD99F9FFA7319D",
+   "ts_ms": 1774211816985,
+   "ts_iso": "2026-03-22T20:36:56.985000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi",
+   "starred": false
+  },
+  {
+   "id": 1731238,
+   "key_id": "ACF26B537B997A5E74142FE63FD7D70A",
+   "ts_ms": 1774211928988,
+   "ts_iso": "2026-03-22T20:38:48.988000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.instagram.com/coffeecatpy?igsh=MWU3a3JqenRzZDlmdA==",
+   "starred": false
+  },
+  {
+   "id": 1731239,
+   "key_id": "AC3161545180668E978D212EFFD5F9C2",
+   "ts_ms": 1774212099454,
+   "ts_iso": "2026-03-22T20:41:39.454000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://g.co/gemini/share/3aa4283e04fd\n\n\nExample of initial documents and example visuals for adoption pet shelter",
+   "starred": false
+  },
+  {
+   "id": 1733123,
+   "key_id": "AC25CA453534BDE5268B77E64C291E78",
+   "ts_ms": 1774378635928,
+   "ts_iso": "2026-03-24T18:57:15.928000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Sent/VID-20260324-WA0013.mp4",
+    "size": 5259233,
+    "duration_s": 23,
+    "sha256_b64": "oIKjZA5UxWb7lR9/EF8+7krMpQHCTvsQ1aITjMoVoes=",
+    "media_name": "f2a692aa-8b34-4d25-8d16-b6ac7e4b8aa8.mp4",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734821,
+   "key_id": "AC8D458FD469D1C24E1F7953B11F4B99",
+   "ts_ms": 1774531243000,
+   "ts_iso": "2026-03-26T13:20:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aahh i didnt go there, when i come back i want to go there it looks soooo good,!!🥰",
+   "starred": false
+  },
+  {
+   "id": 1734822,
+   "key_id": "AC788429C54826F22889DA8D176C28CF",
+   "ts_ms": 1774531271000,
+   "ts_iso": "2026-03-26T13:21:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Thank you for sending me😊 makes me happy",
+   "starred": false
+  },
+  {
+   "id": 1735323,
+   "key_id": "3EB0638D6AEC9D80EDC367",
+   "ts_ms": 1774558528000,
+   "ts_iso": "2026-03-26T20:55:28+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hello\n\njust for fun and for testing my agentic workflow i made it make the shealter website \nhttps://sunstein.cloud/petShelter\n\nif you do find it interesting to make in PY \ni dont mind making my AI work on it more and add any things you consider it needs to improve on for free \n( i also like pets and see this as a fun project to test my AI on) \n\nmost images and emojis are used as tempalte filler content for now  since there are no real images \nand the text is also BS jajsajsj\n\n\nfeel free to prepare a list of features or thigns you consider you would want to change or add n,n",
+   "starred": false
+  },
+  {
+   "id": 1739449,
+   "key_id": "ACBB336E8090AEBCC9ECE96273F7E5E8",
+   "ts_ms": 1774971871883,
+   "ts_iso": "2026-03-31T15:44:31.883000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.instagram.com/polkisquad?igsh=emlpdGdxZ3dleHdx\n\nFound this page in IG \n\nYou might like it \nIt's a pet shelter in py :)",
+   "starred": false
+  },
+  {
+   "id": 1750109,
+   "key_id": "AC1691207733864F560BC0CC31DF87E0",
+   "ts_ms": 1776070092000,
+   "ts_iso": "2026-04-13T08:48:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aah shit i didnt react sorry.. i thought i did! When we come back to Paraguay i want to go there",
+   "starred": false
+  },
+  {
+   "id": 1750110,
+   "key_id": "ACEA30967BA4BF0F5DF95A990E2D68B1",
+   "ts_ms": 1776070099000,
+   "ts_iso": "2026-04-13T08:48:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I think its so relaxed",
+   "starred": false
+  },
+  {
+   "id": 1750200,
+   "key_id": "ACDDAF520E485E09863F649402156838",
+   "ts_ms": 1776086954242,
+   "ts_iso": "2026-04-13T13:29:14.242000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jsjsjs the coffee cat place is really nice",
+   "starred": false
+  },
+  {
+   "id": 1750201,
+   "key_id": "ACE5412655538599E145D70650F49C2F",
+   "ts_ms": 1776086985431,
+   "ts_iso": "2026-04-13T13:29:45.431000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Def the main coffee date place I go to \n\nWhile waiting in cuddle the kitties",
+   "starred": false
+  },
+  {
+   "id": 1751015,
+   "key_id": "ACFF1C2E53304F827AE69A01184ADA9F",
+   "ts_ms": 1776158072000,
+   "ts_iso": "2026-04-14T09:14:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "When im back im definatly going there!!",
+   "starred": false
+  }
+ ]
+}

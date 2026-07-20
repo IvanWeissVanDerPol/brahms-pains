@@ -1,0 +1,291 @@
+{
+ "chat_id": 6611,
+ "slug": "_wa_chat_595986804914_6611",
+ "subject": null,
+ "jid_user": "595986804914",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986804914@s.whatsapp.net",
+ "message_count": 22,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1289241,
+   "key_id": "01492850916D2C689CF238EDD7514988",
+   "ts_ms": 1715980725903,
+   "ts_iso": "2024-05-17T21:18:45.903000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! Quiero más información de los combos disponibles🍎🍏🍇🥝🍉🍅🥒",
+   "starred": false
+  },
+  {
+   "id": 1289242,
+   "key_id": "3AE8D40688E285B1139F",
+   "ts_ms": 1715980758000,
+   "ts_iso": "2024-05-17T21:19:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola qué tal ? Te paso las opciones de combos vigentes 🍐🍎🍊🍏",
+   "starred": false
+  },
+  {
+   "id": 1289243,
+   "key_id": "3AFF295A315AC3B9E7E1",
+   "ts_ms": 1715980766000,
+   "ts_iso": "2024-05-17T21:19:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240517-WA0026.jpg",
+    "size": 134299,
+    "duration_s": 0,
+    "sha256_b64": "OFKueqFBHwDF3zBicm36lo71HkDQiDN/zyeVTDrYLcQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1289244,
+   "key_id": "3AC1EA9C0CE6BEA8FA9F",
+   "ts_ms": 1715980767000,
+   "ts_iso": "2024-05-17T21:19:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240517-WA0027.jpg",
+    "size": 153158,
+    "duration_s": 0,
+    "sha256_b64": "ploP3VYvLa1h3YmvXu0DAOT2h1A2IdjoevA/btLsDpQ=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1289245,
+   "key_id": "3ACA27E36AB4C070223E",
+   "ts_ms": 1715980767000,
+   "ts_iso": "2024-05-17T21:19:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240517-WA0028.jpg",
+    "size": 130492,
+    "duration_s": 0,
+    "sha256_b64": "BmDL3rph0eKdBF4/G6p6isR1gUo5AUAxNo5/41FS+TA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1289246,
+   "key_id": "3AC73825CA4513228463",
+   "ts_ms": 1715980767000,
+   "ts_iso": "2024-05-17T21:19:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240517-WA0029.jpg",
+    "size": 170017,
+    "duration_s": 0,
+    "sha256_b64": "NBZFtG7wjrGd2J4fefAhYvCsan4FhIlTS5OyWtVDl8U=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1289247,
+   "key_id": "3AD4B4C7ED9AD8F7C47B",
+   "ts_ms": 1715980783000,
+   "ts_iso": "2024-05-17T21:19:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "20.000 es el costo del servicio de delivery",
+   "starred": false
+  },
+  {
+   "id": 1289248,
+   "key_id": "3A98DD9A21142C3E4E08",
+   "ts_ms": 1715980786000,
+   "ts_iso": "2024-05-17T21:19:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De qué zona sos ?",
+   "starred": false
+  },
+  {
+   "id": 1289250,
+   "key_id": "39E3304724862CA655C230879656ACE2",
+   "ts_ms": 1715980803052,
+   "ts_iso": "2024-05-17T21:20:03.052000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Zona ingavi",
+   "starred": false
+  },
+  {
+   "id": 1289251,
+   "key_id": "4911B9A2DE93CF79B8F321BFCC5D3C99",
+   "ts_ms": 1715980807683,
+   "ts_iso": "2024-05-17T21:20:07.683000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Atrás de la una",
+   "starred": false
+  },
+  {
+   "id": 1289252,
+   "key_id": "3A0A84F3BFCD83017B10",
+   "ts_ms": 1715980827000,
+   "ts_iso": "2024-05-17T21:20:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mañana tenemos entregas",
+   "starred": false
+  },
+  {
+   "id": 1289253,
+   "key_id": "3A3980D3F46DDFE4EB21",
+   "ts_ms": 1715980830000,
+   "ts_iso": "2024-05-17T21:20:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te puedo agendar sin problema",
+   "starred": false
+  },
+  {
+   "id": 1289254,
+   "key_id": "AC4F7DDE93D64CFC140E8F7E9EAF66A3",
+   "ts_ms": 1715980850443,
+   "ts_iso": "2024-05-17T21:20:50.443000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te aviso que pido",
+   "starred": false
+  },
+  {
+   "id": 1289255,
+   "key_id": "AFAE2D22FA281B45E4F5C8A1B2B78B8D",
+   "ts_ms": 1715981169668,
+   "ts_iso": "2024-05-17T21:26:09.668000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pueden pasar su lista de frutas y verduras?",
+   "starred": false
+  },
+  {
+   "id": 1289256,
+   "key_id": "8ADDFE0792641AEA454C691A9BCA6512",
+   "ts_ms": 1715981180560,
+   "ts_iso": "2024-05-17T21:26:20.560000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero comprar unas cuantas y una variedad",
+   "starred": false
+  },
+  {
+   "id": 1289257,
+   "key_id": "FFC218B14242C4900EB36C1653A78881",
+   "ts_ms": 1715981203325,
+   "ts_iso": "2024-05-17T21:26:43.325000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Onda nosé si tienen yaka también me gustaría saber a cuánto",
+   "starred": false
+  },
+  {
+   "id": 1289258,
+   "key_id": "3A57BDF68A5D190D0805",
+   "ts_ms": 1715981246000,
+   "ts_iso": "2024-05-17T21:27:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No tengo disponible una lista de las frutas y verduras \nMás trabajamos por combos , pero podemos pasarme tu lista sin problema",
+   "starred": false
+  },
+  {
+   "id": 1289264,
+   "key_id": "43095F85FCDAD24F2C8137C375B3077C",
+   "ts_ms": 1715981853487,
+   "ts_iso": "2024-05-17T21:37:33.487000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "#### Frutas:\n- **Banana**: 2 docenas\n- **Piña**: 2 unidades\n- **Mburucuya**: 1 kg\n- **Naranja**: 3 kg\n- **Uva**: 1 kg\n- **Aguacate**: 2 unidades\n- **Frutilla/Frutilla Congelada**: 1 kg\n\n#### Verduras:\n- **Cebolla**: 2 kg\n- **Papa**: 2 kg\n- **Zanahoria**: 0.5kg\n- **Ajo**: 6 cabezas\n- **Locote**: 1 kg\n- **Repollo**: 1 unidad\n- **Pepino**: 1 kg\n- **Perejil**: 1 manojo\n- **Zucchini**: 0.5 kg\n- **Brócoli**: 2 unidades\n- **Coliflor**: 2 unidades\n- **Mandioca Pelada**: 1 kg\n- **Puerro**: 1 manojo\n\n#### Otros:\n- **Arroz para Sushi**: 2 kg\n- **Pollo Entero**: 2 unidades",
+   "starred": false
+  },
+  {
+   "id": 1289266,
+   "key_id": "38A0F1FD1076E7A537B17006DBBB758F",
+   "ts_ms": 1715981876426,
+   "ts_iso": "2024-05-17T21:37:56.426000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tambien estaba viendo para comprar cortes de carne de cerdo \n\nX si conoces a alguien",
+   "starred": false
+  },
+  {
+   "id": 1289318,
+   "key_id": "3A937DDC624EDFBF51C4",
+   "ts_ms": 1715985428000,
+   "ts_iso": "2024-05-17T22:37:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Banana \nNaranja \nUva \nCebolla \nPapa \nZanahoria \nAjo \nLocote \nPepino \nPerejil \nZucchini \nMandioca pelada",
+   "starred": false
+  },
+  {
+   "id": 1289319,
+   "key_id": "3A4C9F9C0EDD9E2328E1",
+   "ts_ms": 1715985434000,
+   "ts_iso": "2024-05-17T22:37:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esos son los\nQue tenemos en stock",
+   "starred": false
+  },
+  {
+   "id": 1289334,
+   "key_id": "A9FFEBFA72FCBDB0BD6B9F96A8C67900",
+   "ts_ms": 1715989205126,
+   "ts_iso": "2024-05-17T23:40:05.126000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y a cuánto está?",
+   "starred": false
+  }
+ ]
+}

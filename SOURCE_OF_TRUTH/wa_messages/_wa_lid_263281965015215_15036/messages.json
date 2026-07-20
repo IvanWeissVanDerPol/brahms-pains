@@ -1,0 +1,137 @@
+{
+ "chat_id": 15036,
+ "slug": "_wa_lid_263281965015215_15036",
+ "subject": null,
+ "jid_user": "263281965015215",
+ "jid_server": "lid",
+ "jid_raw": "263281965015215@lid",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1760147,
+   "key_id": "3EB01F294408E00701DEF5",
+   "ts_ms": 1777405228000,
+   "ts_iso": "2026-04-28T19:40:28+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola que tal",
+   "starred": false
+  },
+  {
+   "id": 1760148,
+   "key_id": "A5C41C4A64AB90BC6B11E649FF06F847",
+   "ts_ms": 1777405231000,
+   "ts_iso": "2026-04-28T19:40:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola 👋 \nGracias por comunicarte con nosotros!\n\n\nPara ver tarifas, calendarios de fechas disponibles y fotos de nuestras  cabañas, podés ingresar en este link👉 https://wa.me/c/595987102804\n\nPodés escribirnos tu consulta \n\nContamos con tres cabañas.\nCabaña Kuarahy'ãme: Para hasta 7 personas.\nCabaña Ysyry: Para 2 personas.\nCabaña Munay: Para 2 personas.",
+   "starred": false
+  },
+  {
+   "id": 1760149,
+   "key_id": "3EB0F9ABDAF91ADE06878F",
+   "ts_ms": 1777405242000,
+   "ts_iso": "2026-04-28T19:40:42+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "cuanto cuesta un finde para 2 personas?",
+   "starred": false
+  },
+  {
+   "id": 1760176,
+   "key_id": "A558B49FF1F7E518AE28AAE91BB58146",
+   "ts_ms": 1777407988000,
+   "ts_iso": "2026-04-28T20:26:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260428-WA0024.jpg",
+    "size": 282985,
+    "duration_s": 0,
+    "sha256_b64": "G3ynsXokoUYz3BWiGSSM9Ohk5JR+Lo+k+O9/wOnBAfg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1760177,
+   "key_id": "A506A21169AF690C221C221D4CAA33FA",
+   "ts_ms": 1777407988000,
+   "ts_iso": "2026-04-28T20:26:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260428-WA0023.jpg",
+    "size": 267441,
+    "duration_s": 0,
+    "sha256_b64": "PPC179lY8hrT7kWz6dt2OULNgxDtUr6XtPzCXc75OSA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1760178,
+   "key_id": "A5772F0E33F8689DA1E3EAD5377B24FD",
+   "ts_ms": 1777407990000,
+   "ts_iso": "2026-04-28T20:26:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "..",
+   "starred": false
+  },
+  {
+   "id": 1760180,
+   "key_id": "A5CD2C27C6ADEC9A753DB980672D5BBB",
+   "ts_ms": 1777408002000,
+   "ts_iso": "2026-04-28T20:26:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260428-WA0025.jpg",
+    "size": 209131,
+    "duration_s": 0,
+    "sha256_b64": "wgrnfvHCojmh3Q/YZyM5f/jarH/inC8dViU4YNVcUdg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1760181,
+   "key_id": "A509672187563027FA48916721C54DC6",
+   "ts_ms": 1777408003000,
+   "ts_iso": "2026-04-28T20:26:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260428-WA0026.jpg",
+    "size": 246894,
+    "duration_s": 0,
+    "sha256_b64": "zbxkGaZ0xzfxUWxrvzYb1IvNEtGritwr4rVp4th5nTE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

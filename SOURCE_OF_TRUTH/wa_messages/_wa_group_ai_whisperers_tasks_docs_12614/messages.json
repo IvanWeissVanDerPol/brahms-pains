@@ -1,0 +1,35 @@
+{
+ "chat_id": 12614,
+ "slug": "_wa_group_ai_whisperers_tasks_docs_12614",
+ "subject": "ai whisperers tasks&docs",
+ "jid_user": "120363420814262073",
+ "jid_server": "g.us",
+ "jid_raw": "120363420814262073@g.us",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1601172,
+   "key_id": "3EB09388C6889BD1E6A154",
+   "ts_ms": 1761761405000,
+   "ts_iso": "2025-10-29T18:10:05+00:00",
+   "from_me": false,
+   "sender_jid": "100287553528062@lid",
+   "type": 0,
+   "text": "you can turn off notifs here hehe",
+   "starred": false
+  },
+  {
+   "id": 1709362,
+   "key_id": "3EB0BB8F1A071458A8AFD0",
+   "ts_ms": 1772621772000,
+   "ts_iso": "2026-03-04T10:56:12+00:00",
+   "from_me": false,
+   "sender_jid": "100287553528062@lid",
+   "type": 0,
+   "text": "Checklist status for “Solstein Repository Full Audit with OpenClaw” (based on run evidence + PR https://github.com/Ai-Whisperers/solstein/pull/68):\n[x] Launch full multi-agent codebase audit\n[x] Roast every subsystem in depth\n[x] For each issue: explain what’s wrong\n[x] For each issue: explain how it should be fixed\n[x] Enforce constraint: no implementation\n[x] Output strictly analysis, documentation, structured critique\n[x] Enforce summary constraint (analysis-only, executive summary + appendix + JSON + severity tiers)\n[x] Map full repository architecture (modules, boundaries, dependencies)\n[x] Identify architectural anti-patterns and tight coupling\n[x] Deep subsystem audit (maturity, abstraction quality, interface clarity)\n[x] Detect dead code, zombie branches, speculative scaffolding\n[x] Static analysis sweep (lint/type/edge-case findings documented as analysis)\n[x] Complexity hotspots (cyclomatic risk areas)\n[x] Concurrency / async hazard detection\n[x] Basic security posture review (auth/tokens/privilege)\n[x] Configuration surface review (hardcoded secrets/env brittleness)\n\n* Still Pending\n\n[ ] Confirm OpenClaw → ACP → OpenCode → MCP → VPS chain stability with no silent failures (not fully met; ACP path had silent failure, fallback succeeded)\n[ ] Validate reproducibility of audit results (not yet fully validated in repeated runs - Docker automation must be enforced on Hostinger UI manually first, Im planning to use playwright so the agents configure this in the best possible way)",
+   "starred": false
+  }
+ ]
+}

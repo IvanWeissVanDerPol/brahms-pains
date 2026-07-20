@@ -1,0 +1,35 @@
+{
+ "chat_id": 11883,
+ "slug": "_wa_chat_595987112511_11883",
+ "subject": null,
+ "jid_user": "595987112511",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595987112511@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581388,
+   "key_id": "AC2C83537BDE187559FBFD7D3ED9C079",
+   "ts_ms": 1759636644780,
+   "ts_iso": "2025-10-05T03:57:24.780000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"BB DE PAPI,🍆😇❤️‍🔥 ME GUST(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1581416,
+   "key_id": "0F6724DAB03048A538A52A81E9B114DA",
+   "ts_ms": 1759637058000,
+   "ts_iso": "2025-10-05T04:04:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🍬🧁 *No tengo sitio solo salidas y a domicilio*🧁🍬\n\n*Servicios COMPLETO (vaginal oral y anal ) *285 mil* guaraníes 🍭😜\n\n *Servicios De Videollamadas  🔮🐞 100 mil* guaraníes \n\n🍭 *COMBO INOLVIDABLE* *Videos calientes y Fotos Caceras* más *Telegram*  140 mil ✨💗\n\n*INSTAGRAM (mi IG personal donde podemos ser amiguis)* *70 mil* 🍭",
+   "starred": false
+  }
+ ]
+}

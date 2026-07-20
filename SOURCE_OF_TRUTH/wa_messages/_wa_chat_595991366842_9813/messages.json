@@ -1,0 +1,167 @@
+{
+ "chat_id": 9813,
+ "slug": "_wa_chat_595991366842_9813",
+ "subject": null,
+ "jid_user": "595991366842",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991366842@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1426015,
+   "key_id": "226718F8124650A0AF574EC2565C9FFB",
+   "ts_ms": 1738166341000,
+   "ts_iso": "2025-01-29T15:59:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes",
+   "starred": false
+  },
+  {
+   "id": 1426016,
+   "key_id": "A6C9FBED0AEF1D8751F8D9F4EB3CC906",
+   "ts_ms": 1738166343000,
+   "ts_iso": "2025-01-29T15:59:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De la firma visuar le escribo",
+   "starred": false
+  },
+  {
+   "id": 1426017,
+   "key_id": "5167EF8F9012B70F58E5D782A9C873BC",
+   "ts_ms": 1738166348000,
+   "ts_iso": "2025-01-29T15:59:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Referente al horno",
+   "starred": false
+  },
+  {
+   "id": 1426018,
+   "key_id": "27EB61BD9B0368751B47414FDA5FB763",
+   "ts_ms": 1738166351000,
+   "ts_iso": "2025-01-29T15:59:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quería saber si me puede pasar su ubicación",
+   "starred": false
+  },
+  {
+   "id": 1426019,
+   "key_id": "393E17FC5893AB61C27E4ECC83FD61B9",
+   "ts_ms": 1738166356000,
+   "ts_iso": "2025-01-29T15:59:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para la entrega",
+   "starred": false
+  },
+  {
+   "id": 1426021,
+   "key_id": "B652B43A98B64F2C46198199F96EC699",
+   "ts_ms": 1738166679278,
+   "ts_iso": "2025-01-29T16:04:39.278000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vte paso",
+   "starred": false
+  },
+  {
+   "id": 1426040,
+   "key_id": "3FE2A91D70742D914800",
+   "ts_ms": 1738168175000,
+   "ts_iso": "2025-01-29T16:29:35+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "a que hora aprox llegaria?",
+   "starred": false
+  },
+  {
+   "id": 1426041,
+   "key_id": "3F387D368CBDD1420208",
+   "ts_ms": 1738168186000,
+   "ts_iso": "2025-01-29T16:29:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "capaz salgo de tarde",
+   "starred": false
+  },
+  {
+   "id": 1426042,
+   "key_id": "3F073341EA98AD23FB66",
+   "ts_ms": 1738168191000,
+   "ts_iso": "2025-01-29T16:29:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "para saber si quedarme",
+   "starred": false
+  },
+  {
+   "id": 1426043,
+   "key_id": "B5E99DC86744AAEEC687D58C6605A32F",
+   "ts_ms": 1738168666000,
+   "ts_iso": "2025-01-29T16:37:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Las 15 por ahi le entregamos",
+   "starred": false
+  },
+  {
+   "id": 1426044,
+   "key_id": "3F8F2747D8149809C032",
+   "ts_ms": 1738169024000,
+   "ts_iso": "2025-01-29T16:43:44+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okis\\",
+   "starred": false
+  },
+  {
+   "id": 1426116,
+   "key_id": "188C9712E5119107034B2DE98F3DA1DC",
+   "ts_ms": 1738174571941,
+   "ts_iso": "2025-01-29T18:16:11.941000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llega?",
+   "starred": false
+  },
+  {
+   "id": 1426120,
+   "key_id": "33DE6667BCE86AF2188FA8BE5644B001",
+   "ts_ms": 1738174931000,
+   "ts_iso": "2025-01-29T18:22:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estamos por llegar",
+   "starred": false
+  },
+  {
+   "id": 1426121,
+   "key_id": "C087134132C68A2143DA63F10265C9FD",
+   "ts_ms": 1738176421000,
+   "ts_iso": "2025-01-29T18:47:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llegamos",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "chat_id": 333,
+ "slug": "_wa_chat_595982251841_333",
+ "subject": null,
+ "jid_user": "595982251841",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982251841@s.whatsapp.net",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1746394,
+   "key_id": "AC9D3E5C18ED286677A599DA28CBF1AC",
+   "ts_ms": 1775603894364,
+   "ts_iso": "2026-04-07T23:18:14.364000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1746395,
+   "key_id": "AC6D2835FD8D3E28540D76BE3A32E853",
+   "ts_ms": 1775603900426,
+   "ts_iso": "2026-04-07T23:18:20.426000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sushi libre es todos los días ?",
+   "starred": false
+  },
+  {
+   "id": 1746397,
+   "key_id": "3EB0B29182F2F1EC46CF8C",
+   "ts_ms": 1775604118000,
+   "ts_iso": "2026-04-07T23:21:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches como esta ud",
+   "starred": false
+  },
+  {
+   "id": 1746398,
+   "key_id": "3EB07C0F51560D097B863C",
+   "ts_ms": 1775604122000,
+   "ts_iso": "2026-04-07T23:22:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si todos los dias",
+   "starred": false
+  },
+  {
+   "id": 1746399,
+   "key_id": "AC33ECC2979363CE809D2255A2D2EAC8",
+   "ts_ms": 1775604129923,
+   "ts_iso": "2026-04-07T23:22:09.923000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bien",
+   "starred": false
+  },
+  {
+   "id": 1746400,
+   "key_id": "3EB0A11DA7E03E477731E6",
+   "ts_ms": 1775604129000,
+   "ts_iso": "2026-04-07T23:22:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Miercoles a Gs. 95.000.- (Premium)\nViernes a Gs. 120.000.- (Sashimi Libre)\nEl resto de la semana a Gs. 120.000.- (Premium) y Sashimi Libre a Gs. 160.000.-\nDomingos Almuezo Libre a Gs. 120.000.- de 11a 15 hs. ☺️😁",
+   "starred": false
+  },
+  {
+   "id": 1746401,
+   "key_id": "AC657C712FC9267DA2C2E6DA891E6768",
+   "ts_ms": 1775604135689,
+   "ts_iso": "2026-04-07T23:22:15.689000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tienen lugar para 4?",
+   "starred": false
+  },
+  {
+   "id": 1746402,
+   "key_id": "3EB03C3E1C72B9FDCD4926",
+   "ts_ms": 1775604179000,
+   "ts_iso": "2026-04-07T23:22:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si disponemos aun de lugar, es por orden de llegada en este horario, el dia de hoy estamos hasta las 23hs ☺️",
+   "starred": false
+  },
+  {
+   "id": 1746403,
+   "key_id": "AC96DECC64E87537F1B538F299124DE9",
+   "ts_ms": 1775604190073,
+   "ts_iso": "2026-04-07T23:23:10.073000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  },
+  {
+   "id": 1746404,
+   "key_id": "AC294FA1A342E39B7B17D3F81675623E",
+   "ts_ms": 1775604193368,
+   "ts_iso": "2026-04-07T23:23:13.368000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vamos ahora",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "chat_id": 11178,
+ "slug": "_wa_chat_595991184263_11178",
+ "subject": null,
+ "jid_user": "595991184263",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991184263@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1531441,
+   "key_id": "3EBF8D5C4E19CF000F2FBACB22A7D35C",
+   "ts_ms": 1752935635000,
+   "ts_iso": "2025-07-19T14:33:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Amigo",
+   "starred": false
+  },
+  {
+   "id": 1531442,
+   "key_id": "BB6753E01B77E856EB763C7DE2D54F9C",
+   "ts_ms": 1752935646000,
+   "ts_iso": "2025-07-19T14:34:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Podes venir",
+   "starred": false
+  },
+  {
+   "id": 1531444,
+   "key_id": "AAF9B242FB3CFF1815E74E332931519C",
+   "ts_ms": 1752935664000,
+   "ts_iso": "2025-07-19T14:34:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "35mil es el costo de la entrega",
+   "starred": false
+  }
+ ]
+}

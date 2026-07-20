@@ -1,0 +1,68 @@
+{
+ "chat_id": 6905,
+ "slug": "_wa_chat_595961103376_6905",
+ "subject": null,
+ "jid_user": "595961103376",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595961103376@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1319377,
+   "key_id": "86EF18937EC93C66EF20EE9FD9778F19",
+   "ts_ms": 1720661054035,
+   "ts_iso": "2024-07-11T01:24:14.035000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1319378,
+   "key_id": "F95F659BC06B231E077C8F24667B4B8B",
+   "ts_ms": 1720661056625,
+   "ts_iso": "2024-07-11T01:24:16.625000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy Iván Weiss",
+   "starred": false
+  },
+  {
+   "id": 1319380,
+   "key_id": "A1BE44C7336E7D73D8244AC4C854341D",
+   "ts_ms": 1720661073546,
+   "ts_iso": "2024-07-11T01:24:33.546000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vine a buscar cositas para Llevarle a Lau en el hospital",
+   "starred": false
+  },
+  {
+   "id": 1319384,
+   "key_id": "FF1B7DB4591840910CCB431FC9E6F51F",
+   "ts_ms": 1720661316153,
+   "ts_iso": "2024-07-11T01:28:36.153000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llegamos",
+   "starred": false
+  },
+  {
+   "id": 1319448,
+   "key_id": "0DBA185484094D120CA9864276BF332F",
+   "ts_ms": 1720688771000,
+   "ts_iso": "2024-07-11T09:06:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias ...",
+   "starred": false
+  }
+ ]
+}

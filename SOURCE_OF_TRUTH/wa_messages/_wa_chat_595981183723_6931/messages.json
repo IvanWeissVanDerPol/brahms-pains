@@ -1,0 +1,35 @@
+{
+ "chat_id": 6931,
+ "slug": "_wa_chat_595981183723_6931",
+ "subject": null,
+ "jid_user": "595981183723",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981183723@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1321841,
+   "key_id": "B7DB519C0EEA964E28E3924DB3684F85",
+   "ts_ms": 1721058633004,
+   "ts_iso": "2024-07-15T15:50:33.004000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas \nEs este el número de el negocio de refrigeración?",
+   "starred": false
+  },
+  {
+   "id": 1321842,
+   "key_id": "3F0364FDDE68CA3ABCA416CB86998425",
+   "ts_ms": 1721058653745,
+   "ts_iso": "2024-07-15T15:50:53.745000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero que un técnico venga a ver mi aire \nNo calienta:(",
+   "starred": false
+  }
+ ]
+}

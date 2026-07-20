@@ -1,0 +1,53 @@
+{
+ "chat_id": 17170,
+ "slug": "_wa_lid_156113605529625_17170",
+ "subject": null,
+ "jid_user": "156113605529625",
+ "jid_server": "lid",
+ "jid_raw": "156113605529625@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1837598,
+   "key_id": "AC884564541AB73A8A4F6E691832C240",
+   "ts_ms": 1784433171710,
+   "ts_iso": "2026-07-19T03:52:51.710000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Están aún bien los precios?",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260719-WA0007.jpg",
+    "size": 116261,
+    "duration_s": 0,
+    "sha256_b64": "VD+ahiRaHaV2Cqij+TMUkwimVGCEu85j9LSoRB4/IjY=",
+    "media_name": "79bfdde7-7c0e-4cb1-b3b1-e8a20ab685b2.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1837620,
+   "key_id": "AC3E0D4832C83C35473EF7479706C251",
+   "ts_ms": 1784433570000,
+   "ts_iso": "2026-07-19T03:59:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20260719-WA0009.jpg",
+    "size": 366902,
+    "duration_s": 0,
+    "sha256_b64": "hoBtwWpofDu8UKdTnu2XiKjaHSZEjzATaRTgtN9MwOU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "chat_id": 12798,
+ "slug": "_wa_chat_595992267929_12798",
+ "subject": null,
+ "jid_user": "595992267929",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992267929@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1626803,
+   "key_id": "A54871839F1E207AE74105EFD1224E1A",
+   "ts_ms": 1765278334000,
+   "ts_iso": "2025-12-09T11:05:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*BRISTOL  DEL  AREA PRE JUDICIAL*  \n\n‼️Nuevamente, *no hemos verificado el pago de sus cuotas vencidas,  esta a tiempo de evitar recargos y notas de requerimiento* se  le   viene  informando  en reiteradas  ocasiones\nActualmente se encuentra en la base negativa de INFORCONF.\nse le  solicita  que *pague al menos 2 cuotas  hasta HOY  09/DICIEMBRE* y bajar la mora correspondiente",
+   "starred": false
+  },
+  {
+   "id": 1626804,
+   "key_id": "A597BCA3B1F4BCAD11AF5CF8033FCA02",
+   "ts_ms": 1765278343000,
+   "ts_iso": "2025-12-09T11:05:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tiene 100 dias de mora a la fecha",
+   "starred": false
+  },
+  {
+   "id": 1626805,
+   "key_id": "A5DCBBE55588224583903BBDE157A440",
+   "ts_ms": 1765278348000,
+   "ts_iso": "2025-12-09T11:05:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Precisamos la fecha de pago",
+   "starred": false
+  },
+  {
+   "id": 1626903,
+   "key_id": "ACF1F63E9517050742D5D287353600FF",
+   "ts_ms": 1765293914143,
+   "ts_iso": "2025-12-09T15:25:14.143000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que creen que compre?",
+   "starred": false
+  }
+ ]
+}

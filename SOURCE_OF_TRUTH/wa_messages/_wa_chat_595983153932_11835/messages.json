@@ -1,0 +1,77 @@
+{
+ "chat_id": 11835,
+ "slug": "_wa_chat_595983153932_11835",
+ "subject": null,
+ "jid_user": "595983153932",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983153932@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1577344,
+   "key_id": "AC3AC6F2A9C7F02E18B70EEA886994DA",
+   "ts_ms": 1759014943000,
+   "ts_iso": "2025-09-27T23:15:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Qtal amigo",
+   "starred": false
+  },
+  {
+   "id": 1577345,
+   "key_id": "AC02877D07F30E5BED479C59CB48B8F5",
+   "ts_ms": 1759014958883,
+   "ts_iso": "2025-09-27T23:15:58.883000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1577346,
+   "key_id": "AC0C11548ABB12C3E2BD9D3FEDB77B03",
+   "ts_ms": 1759014959000,
+   "ts_iso": "2025-09-27T23:15:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy tu delivery de sushi estoy aca",
+   "starred": false
+  },
+  {
+   "id": 1577347,
+   "key_id": "ACDC341BB2CE7F8955090F0EA7F5BE53",
+   "ts_ms": 1759015017049,
+   "ts_iso": "2025-09-27T23:16:57.049000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy afuera",
+   "starred": false
+  },
+  {
+   "id": 1577348,
+   "key_id": "AC7452288C24D9712E38EC43BE00C8DB",
+   "ts_ms": 1759015034063,
+   "ts_iso": "2025-09-27T23:17:14.063000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250927-WA0017.jpg",
+    "size": 171078,
+    "duration_s": 0,
+    "sha256_b64": "IYXU7Dnzo2r1jHhK6uorQtvssDUlK06PxOPA8O2o9RI=",
+    "media_name": "4f1618c9-957e-4ad0-b3b7-c1a0ee045f10.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

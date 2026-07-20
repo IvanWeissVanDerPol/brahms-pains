@@ -1,0 +1,90 @@
+{
+ "chat_id": 4840,
+ "slug": "_wa_chat_595982579790_4840",
+ "subject": null,
+ "jid_user": "595982579790",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982579790@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1177495,
+   "key_id": "C5BC02CCBC48A0FB249E5823A069B58E",
+   "ts_ms": 1697471859000,
+   "ts_iso": "2023-10-16T15:57:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas...! Le saluda Daysi Olivares de Tigo 🔵\nEstábamos revisando su perfil en tigo y nos pudimos percatar su excelente perfil de cliente que tiene con nosotros y vimos que está gastando muchísimo haciendo recargas aproximadamente de 90.000 mil al mes y para que usted no siga gastando tanto le ofrezco un plan en donde usted va a contar con \n📞 LLAMADAS ILIMITADAS \n💬 MENSAJES GRATIS\n🟢 Whatsapp GRATIS\n📶 INTERNET DE 10gb ACUMULABLE\n✈️ ROAMING BASICO\n\nNo solo eso como usted es cliente nuestro no va a tener que abonar nada,\nsi usted desea directamente le cargamos en el sistema y ya va a tener activo el plan y ya va a descansar de hacer tantas recargas y gastando tanto al mes 🙌\nTambién contamos con servicio de TV e internet!! 📺📶\nESPERO SU MENSAJE!!!!",
+   "starred": false
+  },
+  {
+   "id": 1177709,
+   "key_id": "F330E606D1A7EBA5C5AB92CF02720590",
+   "ts_ms": 1697494014274,
+   "ts_iso": "2023-10-16T22:06:54.274000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que responsabilidades tendría al servicio,?\nCuanto es?\nTenés más info que pueda ir leyendo?",
+   "starred": false
+  },
+  {
+   "id": 1177731,
+   "key_id": "E44BCFF8D7D989FF2F4F34FDE1C1FE7A",
+   "ts_ms": 1697495848000,
+   "ts_iso": "2023-10-16T22:37:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, como estas!?",
+   "starred": false
+  },
+  {
+   "id": 1177737,
+   "key_id": "F269A8FFF67977BA2E55C05DBDCCE390",
+   "ts_ms": 1697495908000,
+   "ts_iso": "2023-10-16T22:38:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La factura mensual es de 99mil guaraníes,  incluye : \nWhatsApp y llamadas ilimitadas \n10 gb de Internet para navegar\nSon acumulables hasta 3 meses",
+   "starred": false
+  },
+  {
+   "id": 1177760,
+   "key_id": "952F111E0072DB08AC1A6C7359F2CA51",
+   "ts_ms": 1697497551000,
+   "ts_iso": "2023-10-16T23:05:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El plan es sin contrato",
+   "starred": false
+  },
+  {
+   "id": 1177764,
+   "key_id": "AD856BE9DD17D9FAFDAC6D8E484B866D",
+   "ts_ms": 1697497761000,
+   "ts_iso": "2023-10-16T23:09:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Una vez que tengas algún servicio con nosotros y tengas un registro de pago te abre posibilidades como:\nRetirar un equipo/smartphone desde gama baja a alta gama con tu plan actual o de acuerdo al equipo. Los planes son registro de pago también para que en un futuro si quieras adquirir algún servicio abonas el 50%",
+   "starred": false
+  },
+  {
+   "id": 1192958,
+   "key_id": "3EB02619D28AC88D780AA9",
+   "ts_ms": 1699708190000,
+   "ts_iso": "2023-11-11T13:09:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas...! Le saluda Daysi Olivares de Tigo 🔵\nEstábamos revisando su perfil en tigo y nos pudimos percatar su excelente perfil de cliente que tiene con nosotros y vimos que está gastando muchísimo haciendo recargas aproximadamente de 90.000 mil al mes y para que usted no siga gastando tanto le ofrezco un plan en donde usted va a contar con \n📞 LLAMADAS ILIMITADAS \n💬 MENSAJES GRATIS\n🟢 Whatsapp GRATIS\n📶 INTERNET DE 10gb ACUMULABLE\n✈️ ROAMING BASICO\n\nNo solo eso como usted es cliente nuestro no va a tener que abonar nada,\nsi usted desea directamente le cargamos en el sistema y ya va a tener activo el plan y ya va a descansar de hacer tantas recargas y gastando tanto al mes 🙌\nTambién contamos con servicio de TV e internet!! 📺📶\nESPERO SU MENSAJE!!!!",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "chat_id": 6548,
+ "slug": "_wa_chat_8801929022468_6548",
+ "subject": null,
+ "jid_user": "8801929022468",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "8801929022468@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1275500,
+   "key_id": "AC10ED67E679908267A9AFDE172D3218",
+   "ts_ms": 1713454870000,
+   "ts_iso": "2024-04-18T15:41:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1275515,
+   "key_id": "3C21C634FEE90322E77017196C9CED96",
+   "ts_ms": 1713455426003,
+   "ts_iso": "2024-04-18T15:50:26.003000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  }
+ ]
+}

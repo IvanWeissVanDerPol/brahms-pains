@@ -1,0 +1,97 @@
+{
+ "chat_id": 11932,
+ "slug": "_wa_chat_595984109010_11932",
+ "subject": null,
+ "jid_user": "595984109010",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984109010@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581473,
+   "key_id": "AC40065FFB9B73E5D0176A8DCB4201EE",
+   "ts_ms": 1759639082991,
+   "ts_iso": "2025-10-05T04:38:02.991000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Tratos de novios súper di(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1582827,
+   "key_id": "ACE0EB2482AAD963F2E9C08B1C86A073",
+   "ts_ms": 1759763548000,
+   "ts_iso": "2025-10-06T15:12:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola mi amor 😘 ¿cómo estás?\nQuiero que disfrutes conmigo sin prisas, con mucho placer y discreción 💋\n\t•\t🔥 30 minutos: 150.000 (oral +vaginal c/proteccion)\n\t•\t🔥 1 hora: 200.000 (sin apuros,  oral + vaginal c/ptoteccion)\n\t•\t🔥 1 hora completo: 300.000 (oral +vaginal +anal c/proteccion sin prisas )\n\nY si quieres recuerdos privados 🔞:\n\t•\tContenido especial: 50.000 (video + varias fotos muy sensuales solo para ti)",
+   "starred": false
+  },
+  {
+   "id": 1582829,
+   "key_id": "AC17ABC78C40E8DFD652E3562FD135B2",
+   "ts_ms": 1759763558000,
+   "ts_iso": "2025-10-06T15:12:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "EDoXOn93QnVqUMhzBW+UNiQWOI3NczXnCfOQYQNMSaI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1615634,
+   "key_id": "ACD5A9937C3603B383F9E8B57F027E60",
+   "ts_ms": 1763622017478,
+   "ts_iso": "2025-11-20T07:00:17.478000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Mia! Acabo de ver tu video y me interesa saber más de tus servicios y precios.",
+   "starred": false
+  },
+  {
+   "id": 1615990,
+   "key_id": "AC84C65530EF2CC7F23020A65A4927B3",
+   "ts_ms": 1763670276000,
+   "ts_iso": "2025-11-20T20:24:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola cielo,te paso detalles ……\nSoy una hermosa culona voluptuosa \n•30 minutos 150.000 \n•Una hora 200.000\n•Una hora completo 300.000(con anal)\n•50.000 Contenidos \n•30.000 chat hot\nSoy discreta y completamente descomplicada todos sin apuros \n       *todo con protección*\n                      ❤️‍🔥",
+   "starred": false
+  },
+  {
+   "id": 1615992,
+   "key_id": "ACE98C5CE9A635AD11AEFABB03D475E3",
+   "ts_ms": 1763670277000,
+   "ts_iso": "2025-11-20T20:24:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "rRe456gcaIDW6GWuAQuuwA+oVGhENkN18zzqNPcO14Q=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

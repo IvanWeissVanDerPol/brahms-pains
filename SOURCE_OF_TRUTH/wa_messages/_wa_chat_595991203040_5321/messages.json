@@ -1,0 +1,24 @@
+{
+ "chat_id": 5321,
+ "slug": "_wa_chat_595991203040_5321",
+ "subject": null,
+ "jid_user": "595991203040",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991203040@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1361821,
+   "key_id": "F8DB191657722126E8E80BAC7F89C2F3",
+   "ts_ms": 1726873210220,
+   "ts_iso": "2024-09-20T23:00:10.220000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://github.com/IvanWeissVanDerPol/Introduction-to-QA-and-QA-Automation-Beginner-to-Expert/tree/main",
+   "starred": false
+  }
+ ]
+}

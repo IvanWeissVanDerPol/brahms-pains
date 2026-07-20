@@ -1,0 +1,462 @@
+{
+ "chat_id": 13222,
+ "slug": "_wa_lid_248085934555139_13222",
+ "subject": null,
+ "jid_user": "248085934555139",
+ "jid_server": "lid",
+ "jid_raw": "248085934555139@lid",
+ "message_count": 31,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1668638,
+   "key_id": "6A49387251B92A96A17F",
+   "ts_ms": 1769549068000,
+   "ts_iso": "2026-01-27T21:24:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! Gracias por contactarse con la *_TIENDA ONLINE_* *La Luna es Mía*🤗\n\n*PAGINA WEB*\nhttps://lalunaesmiapy.com/\n\n*Respondemos los mensajes de 9 a 19hs en orden de llegada*\n\n*_Este es un mensaje automático_*",
+   "starred": false
+  },
+  {
+   "id": 1668639,
+   "key_id": "AC4FA8C8314B9F05603A6B675E6404E1",
+   "ts_ms": 1769549080617,
+   "ts_iso": "2026-01-27T21:24:40.617000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260127-WA0054.jpg",
+    "size": 81118,
+    "duration_s": 0,
+    "sha256_b64": "CoieU0j3FVjtmEb15C6sisi7GXVb+JX5QlKC4V0T5UQ=",
+    "media_name": "d5619e8b-347b-43d0-a905-a94ba59e3984.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1668640,
+   "key_id": "AC871A9E60CDA53D6BF7C12CB739DF36",
+   "ts_ms": 1769549085965,
+   "ts_iso": "2026-01-27T21:24:45.965000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasan QR",
+   "starred": false
+  },
+  {
+   "id": 1668641,
+   "key_id": "ACE8AFC3CE3264AE2E7CBFD32547650E",
+   "ts_ms": 1769549095884,
+   "ts_iso": "2026-01-27T21:24:55.884000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O alias?",
+   "starred": false
+  },
+  {
+   "id": 1668645,
+   "key_id": "2A9F092103F9CBAECA7B",
+   "ts_ms": 1769549167000,
+   "ts_iso": "2026-01-27T21:26:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! Qué tal?🙌🏼\n\nMuchas gracias",
+   "starred": false
+  },
+  {
+   "id": 1668647,
+   "key_id": "2A41BBDAFD530AE89740",
+   "ts_ms": 1769549171000,
+   "ts_iso": "2026-01-27T21:26:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "‎Estos son los datos para realizar el pago🤗\n\n*Ueno Bank*\nNúmero: 619130737\nTitular: LUNA MARÍA BENÍTEZ FEMENIA\nCI: 8619756\n\n*ALÍAS: c.i. 8619756*",
+   "starred": false
+  },
+  {
+   "id": 1668649,
+   "key_id": "2AEB2B1E8835500F55CF",
+   "ts_ms": 1769549191000,
+   "ts_iso": "2026-01-27T21:26:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mañana en qué horario se encontraría allí? \n\nPara avisar al delivery que le acerquen",
+   "starred": false
+  },
+  {
+   "id": 1668653,
+   "key_id": "AC48DBDABC09C36D429F68820E424F8F",
+   "ts_ms": 1769549212588,
+   "ts_iso": "2026-01-27T21:26:52.588000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Todo el dia",
+   "starred": false
+  },
+  {
+   "id": 1668654,
+   "key_id": "AC1461050E8536042A03E69516B5A138",
+   "ts_ms": 1769549216086,
+   "ts_iso": "2026-01-27T21:26:56.086000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Trabajo de home",
+   "starred": false
+  },
+  {
+   "id": 1668656,
+   "key_id": "AC73408922A5BA2A40278DEFF4E2A949",
+   "ts_ms": 1769549298517,
+   "ts_iso": "2026-01-27T21:28:18.517000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260127-WA0055.jpg",
+    "size": 67130,
+    "duration_s": 0,
+    "sha256_b64": "gkeiG81iXl52jN2R2U6JJDI1itJYxBj0k/f/6KCS5DQ=",
+    "media_name": "cc8767ef-8fdf-4753-9844-221f53316a08.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1668659,
+   "key_id": "2A799792BBD8DEDDA36F",
+   "ts_ms": 1769549316000,
+   "ts_iso": "2026-01-27T21:28:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias",
+   "starred": false
+  },
+  {
+   "id": 1668661,
+   "key_id": "2A7E6121A07A763D3659",
+   "ts_ms": 1769549323000,
+   "ts_iso": "2026-01-27T21:28:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenísimo, aviso al delivery",
+   "starred": false
+  },
+  {
+   "id": 1678411,
+   "key_id": "AC57FA157C3E67F91F23442648FE137F",
+   "ts_ms": 1770248609561,
+   "ts_iso": "2026-02-04T23:43:29.561000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tienen moldes de huevo ?",
+   "starred": false
+  },
+  {
+   "id": 1678412,
+   "key_id": "2A43504433917229D250",
+   "ts_ms": 1770248611000,
+   "ts_iso": "2026-02-04T23:43:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! Gracias por contactarse con la *_TIENDA ONLINE_* *La Luna es Mía*🤗\n\n*PAGINA WEB*\nhttps://lalunaesmiapy.com/\n\n*Respondemos los mensajes de lunes a sábado de 9 a 19hs en orden de llegada*\n\n*_Este es un mensaje automático_*",
+   "starred": false
+  },
+  {
+   "id": 1679516,
+   "key_id": "2AE57CF8E5739A2C9AD7",
+   "ts_ms": 1770292845000,
+   "ts_iso": "2026-02-05T12:00:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Hola! Que tal?\nAsí tenemos molde de huevo de pascua 🤗",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260205-WA0024.jpg",
+    "size": 76427,
+    "duration_s": 0,
+    "sha256_b64": "84PPwon1qiCLcPB+Mzrvs3vnt1j+qiLci4L7Ecop04o=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1679523,
+   "key_id": "ACB87C5B43E34C583907486F4702DA38",
+   "ts_ms": 1770293829656,
+   "ts_iso": "2026-02-05T12:17:09.656000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias lastimosamente no me sirve :(",
+   "starred": false
+  },
+  {
+   "id": 1694131,
+   "key_id": "AC6F0EDF926622848B4318247ED0C146",
+   "ts_ms": 1771278986378,
+   "ts_iso": "2026-02-16T21:56:26.378000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tienen onda ese pero más onda huevo de grande ?",
+   "starred": false
+  },
+  {
+   "id": 1694135,
+   "key_id": "AC6C3A57750FA0B3D01E5164C97A1FC7",
+   "ts_ms": 1771278995105,
+   "ts_iso": "2026-02-16T21:56:35.105000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Oda asi pero sin cosas religiosas",
+   "starred": false
+  },
+  {
+   "id": 1694140,
+   "key_id": "2A5796778B1A179DA115",
+   "ts_ms": 1771279098000,
+   "ts_iso": "2026-02-16T21:58:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! Qué tal?🙌🏼",
+   "starred": false
+  },
+  {
+   "id": 1694141,
+   "key_id": "2A09B6FE957CAE7D68DF",
+   "ts_ms": 1771279110000,
+   "ts_iso": "2026-02-16T21:58:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Molde con forma de huevo tenemos así",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260216-WA0039.jpg",
+    "size": 83100,
+    "duration_s": 0,
+    "sha256_b64": "tNz8gLsNL6EUbfX1mJFmtj1M5GXtZalVYMBnK/huOBI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694144,
+   "key_id": "AC2C9250BC0195544B27AAA5AFE5FCF8",
+   "ts_ms": 1771279141551,
+   "ts_iso": "2026-02-16T21:59:01.551000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Amo \nSon moldes que hacen mitades y juntas o como?",
+   "starred": false
+  },
+  {
+   "id": 1694147,
+   "key_id": "2A087189F83AEB7B8227",
+   "ts_ms": 1771279144000,
+   "ts_iso": "2026-02-16T21:59:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Si busca molde tipo para jabón más redondo tenemos así",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260216-WA0041.jpg",
+    "size": 94089,
+    "duration_s": 0,
+    "sha256_b64": "RBmmoRYUDE6qTjnkZoIlo0utWz5306DI9v4Q7oDNYa4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694148,
+   "key_id": "2ACD150B54BD386EF752",
+   "ts_ms": 1771279144000,
+   "ts_iso": "2026-02-16T21:59:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260216-WA0040.jpg",
+    "size": 60456,
+    "duration_s": 0,
+    "sha256_b64": "WjIREhlKkojCgtzUJkUSCDBISvGrp173iAX6umBOcO4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694149,
+   "key_id": "2A0344741B41E0F3B5B0",
+   "ts_ms": 1771279144000,
+   "ts_iso": "2026-02-16T21:59:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260216-WA0042.jpg",
+    "size": 68615,
+    "duration_s": 0,
+    "sha256_b64": "mCM64Pjs8ba2/zE/eTbWfTsSheddQTDa+AWGcFaMWEc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694150,
+   "key_id": "2AD88F0A07FA16A140B9",
+   "ts_ms": 1771279144000,
+   "ts_iso": "2026-02-16T21:59:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260216-WA0043.jpg",
+    "size": 79731,
+    "duration_s": 0,
+    "sha256_b64": "CUdYhvNgiC4y1yLczl4cvnU5o9iBfHKXkjI9+BWTP/w=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694151,
+   "key_id": "2A1A7E045372718B3E75",
+   "ts_ms": 1771279145000,
+   "ts_iso": "2026-02-16T21:59:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260216-WA0044.jpg",
+    "size": 101326,
+    "duration_s": 0,
+    "sha256_b64": "w35XreUb7g3ub3/qjnOxlmPs7S3Dq6GZRCOYSLkK44s=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694155,
+   "key_id": "ACDA02C5E693B2730F78D0BA1D4B17AA",
+   "ts_ms": 1771279192919,
+   "ts_iso": "2026-02-16T21:59:52.919000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260216-WA0046.jpg",
+    "size": 56702,
+    "duration_s": 0,
+    "sha256_b64": "4M0kZ/cr86jGsAYrfWh/1cTakhpdN8FFU1ZBdugA7g0=",
+    "media_name": "ea0f2ac4-0e2d-4040-8744-641dd948fc4b.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694156,
+   "key_id": "AC7A39E80418A3A3F6F1BDAA0E941955",
+   "ts_ms": 1771279192935,
+   "ts_iso": "2026-02-16T21:59:52.935000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260216-WA0045.jpg",
+    "size": 25501,
+    "duration_s": 0,
+    "sha256_b64": "uOGCVx+AxgAkQnxxG0RzBerADOoaRgG5qJbJDCZ1JaM=",
+    "media_name": "8ad4535f-ef1a-43bb-b614-534a75eeb282.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694157,
+   "key_id": "AC1651CB7A41FA7C9BA3AF7E603C8563",
+   "ts_ms": 1771279198415,
+   "ts_iso": "2026-02-16T21:59:58.415000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Onda asi estoy buscando",
+   "starred": false
+  },
+  {
+   "id": 1694158,
+   "key_id": "2A5ABDC1E1395A3DD370",
+   "ts_ms": 1771279203000,
+   "ts_iso": "2026-02-16T22:00:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "El del huevo de pascua es así, un molde entero",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260216-WA0047.jpg",
+    "size": 123540,
+    "duration_s": 0,
+    "sha256_b64": "KGHSdGXYIBZw41BgtR5+DobkCQek4aThB3GGCZgdgkc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1694162,
+   "key_id": "2A313284A85248A54BFA",
+   "ts_ms": 1771279220000,
+   "ts_iso": "2026-02-16T22:00:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No, esa clase no tenemos💔",
+   "starred": false
+  }
+ ]
+}

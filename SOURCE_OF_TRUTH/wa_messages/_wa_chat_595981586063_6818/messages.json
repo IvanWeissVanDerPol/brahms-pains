@@ -1,0 +1,119 @@
+{
+ "chat_id": 6818,
+ "slug": "_wa_chat_595981586063_6818",
+ "subject": null,
+ "jid_user": "595981586063",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981586063@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1309305,
+   "key_id": "337306F9AA4C04B4F575C307A1E5B5EC",
+   "ts_ms": 1719184299000,
+   "ts_iso": "2024-06-23T23:11:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! soy tu driver de Monchis app ...",
+   "starred": false
+  },
+  {
+   "id": 1309306,
+   "key_id": "8E7322C861FC1CF567",
+   "ts_ms": 1719184306000,
+   "ts_iso": "2024-06-23T23:11:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1309307,
+   "key_id": "BE1E9B1ACCA839E83CCA9A411F2D12B6",
+   "ts_ms": 1719184309000,
+   "ts_iso": "2024-06-23T23:11:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola te trague tu pedido",
+   "starred": false
+  },
+  {
+   "id": 1309308,
+   "key_id": "6689EDBABCA684B69E",
+   "ts_ms": 1719184323000,
+   "ts_iso": "2024-06-23T23:12:03+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ok salgo afuera?",
+   "starred": false
+  },
+  {
+   "id": 1309309,
+   "key_id": "C31C27B7244FD55344",
+   "ts_ms": 1719184346000,
+   "ts_iso": "2024-06-23T23:12:26+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ose en la app me marca que estas aun lejos \npero puedo ir nomas si ya llegas",
+   "starred": false
+  },
+  {
+   "id": 1309310,
+   "key_id": "73F07126C353C73373",
+   "ts_ms": 1719184349000,
+   "ts_iso": "2024-06-23T23:12:29+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ":)",
+   "starred": false
+  },
+  {
+   "id": 1309311,
+   "key_id": "E517D207F8B68D0B8D8E1E71E10C9F25",
+   "ts_ms": 1719184370000,
+   "ts_iso": "2024-06-23T23:12:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202426/PTT-20240623-WA0065.opus",
+    "size": 21066,
+    "duration_s": 9,
+    "sha256_b64": "GVu+LJXOICBPY4nwcf1wBSRwqQ8RDzU3/GQ6UNc8ZXc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1309312,
+   "key_id": "828BD235EFD93891F6EA46DE5FDA2BE7",
+   "ts_ms": 1719184406000,
+   "ts_iso": "2024-06-23T23:13:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202426/PTT-20240623-WA0066.opus",
+    "size": 6987,
+    "duration_s": 3,
+    "sha256_b64": "9FwpwJ6FbKvuAjM9gCyhqjkkhzAWDt1ZyZw9g/LFLqU=",
+    "media_name": "PTT-20240623-WA0066.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

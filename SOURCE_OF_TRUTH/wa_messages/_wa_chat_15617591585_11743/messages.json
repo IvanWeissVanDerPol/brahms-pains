@@ -1,0 +1,101 @@
+{
+ "chat_id": 11743,
+ "slug": "_wa_chat_15617591585_11743",
+ "subject": null,
+ "jid_user": "15617591585",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "15617591585@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1565862,
+   "key_id": "3A2F7801286A3253B792",
+   "ts_ms": 1757184065000,
+   "ts_iso": "2025-09-06T18:41:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello. Jeweler from Grindr\nWhat can I call you?",
+   "starred": false
+  },
+  {
+   "id": 1565864,
+   "key_id": "AC7B65F7F0F992F7904444CF66112E73",
+   "ts_ms": 1757184395464,
+   "ts_iso": "2025-09-06T18:46:35.464000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi I'm Ivan",
+   "starred": false
+  },
+  {
+   "id": 1565872,
+   "key_id": "3AAF945F3E9D591C5183",
+   "ts_ms": 1757185073000,
+   "ts_iso": "2025-09-06T18:57:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nice to meet you Ivan. Where do you live?",
+   "starred": false
+  },
+  {
+   "id": 1565890,
+   "key_id": "ACDF4AD3CA8C5942C6D8D2F2139D9868",
+   "ts_ms": 1757187291073,
+   "ts_iso": "2025-09-06T19:34:51.073000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I live in paragay",
+   "starred": false
+  },
+  {
+   "id": 1565891,
+   "key_id": "AC1636CFB83AB95492C81DC0D2F03C81",
+   "ts_ms": 1757187299270,
+   "ts_iso": "2025-09-06T19:34:59.270000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "But I'm staying in Calgary",
+   "starred": false
+  },
+  {
+   "id": 1565903,
+   "key_id": "3A4EF3896C5FCA72A6A3",
+   "ts_ms": 1757188881000,
+   "ts_iso": "2025-09-06T20:01:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1565904,
+   "key_id": "3A77D3F3163CB67E14E3",
+   "ts_ms": 1757188884000,
+   "ts_iso": "2025-09-06T20:01:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "You'll need to fill out our application form, which will be emailed to you. Once completed, you'll receive an initial payment of $300. Additionally, our products will be delivered to your address. This is half of the payment upfront before you post the items.\nThe products sent to you are meant for sharing in your story. Hope that makes sense?",
+   "starred": false
+  },
+  {
+   "id": 1566169,
+   "key_id": "3A032706C15A10573AE9",
+   "ts_ms": 1757259629000,
+   "ts_iso": "2025-09-07T15:40:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Good morning Ivan",
+   "starred": false
+  }
+ ]
+}

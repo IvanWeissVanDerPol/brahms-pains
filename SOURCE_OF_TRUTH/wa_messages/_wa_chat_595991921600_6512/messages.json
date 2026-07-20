@@ -1,0 +1,57 @@
+{
+ "chat_id": 6512,
+ "slug": "_wa_chat_595991921600_6512",
+ "subject": null,
+ "jid_user": "595991921600",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991921600@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1272551,
+   "key_id": "3AFC72F6D7AC588AED437AD70D591CDE",
+   "ts_ms": 1712929135580,
+   "ts_iso": "2024-04-12T13:38:55.580000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tienen el número equivocado",
+   "starred": false
+  },
+  {
+   "id": 1272552,
+   "key_id": "D244237D4FC8BE1EBB38FF84E5B6A57E",
+   "ts_ms": 1712929146240,
+   "ts_iso": "2024-04-12T13:39:06.240000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No soy franco ni nuñez",
+   "starred": false
+  },
+  {
+   "id": 1272553,
+   "key_id": "63AB8E5FADBD8FB363",
+   "ts_ms": 1712929181000,
+   "ts_iso": "2024-04-12T13:39:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola!\n\nBienvenido al Mundo Digital de *Bristol* 😊",
+   "starred": false
+  },
+  {
+   "id": 1272554,
+   "key_id": "F194EDCE387930A339",
+   "ts_ms": 1712929216000,
+   "ts_iso": "2024-04-12T13:40:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas días,  Gracias por el retorno",
+   "starred": false
+  }
+ ]
+}

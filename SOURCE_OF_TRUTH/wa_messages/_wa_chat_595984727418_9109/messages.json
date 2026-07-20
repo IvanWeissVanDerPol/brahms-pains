@@ -1,0 +1,24 @@
+{
+ "chat_id": 9109,
+ "slug": "_wa_chat_595984727418_9109",
+ "subject": null,
+ "jid_user": "595984727418",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984727418@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1367632,
+   "key_id": "2520FDC5196E80982D2FCFDE8F1A21C2",
+   "ts_ms": 1728060388000,
+   "ts_iso": "2024-10-04T16:46:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! soy tu driver de Monchis app ...",
+   "starred": false
+  }
+ ]
+}

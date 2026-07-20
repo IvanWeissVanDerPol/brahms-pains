@@ -1,0 +1,35 @@
+{
+ "chat_id": 6936,
+ "slug": "_wa_chat_595993309493_6936",
+ "subject": null,
+ "jid_user": "595993309493",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595993309493@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1323180,
+   "key_id": "B9DBA9AA08DA6F774B994B4F75B3035A",
+   "ts_ms": 1721242229447,
+   "ts_iso": "2024-07-17T18:50:29.447000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I'll call you right back.",
+   "starred": false
+  },
+  {
+   "id": 1323181,
+   "key_id": "B9407CC0FF81CCEA8DE710BBC0212134",
+   "ts_ms": 1721242237837,
+   "ts_iso": "2024-07-17T18:50:37.837000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  }
+ ]
+}

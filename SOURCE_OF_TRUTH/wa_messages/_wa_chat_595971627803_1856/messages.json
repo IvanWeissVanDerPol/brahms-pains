@@ -1,0 +1,178 @@
+{
+ "chat_id": 1856,
+ "slug": "_wa_chat_595971627803_1856",
+ "subject": null,
+ "jid_user": "595971627803",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971627803@s.whatsapp.net",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1175323,
+   "key_id": "D764B8CC09DAC571CE",
+   "ts_ms": 1697155544000,
+   "ts_iso": "2023-10-13T00:05:44+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola\ntengo una consulta random\n\ntenes por si acaso aun el enunciado de las tareas de front end?\nodna los trabajos practicos?\n\nquiero hacer ya \nel profe no habilito aun \npero me gustaria adelantar asi cuando tenga mas trabajo no tengo que hacer esto a la vez :)",
+   "starred": false
+  },
+  {
+   "id": 1175346,
+   "key_id": "058BD7F07BDF1A11C781D08339147022",
+   "ts_ms": 1697156295000,
+   "ts_iso": "2023-10-13T00:18:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaaa",
+   "starred": false
+  },
+  {
+   "id": 1175347,
+   "key_id": "A3B6D2B2F58CBBB3C08F679488194C1E",
+   "ts_ms": 1697156303000,
+   "ts_iso": "2023-10-13T00:18:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te aviso que el profe suele cambiar",
+   "starred": false
+  },
+  {
+   "id": 1175348,
+   "key_id": "595D18D3D97A8E7935C5B59498C8E330",
+   "ts_ms": 1697156321000,
+   "ts_iso": "2023-10-13T00:18:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pasó con backend",
+   "starred": false
+  },
+  {
+   "id": 1175349,
+   "key_id": "38E392F938FEDD480A",
+   "ts_ms": 1697156333000,
+   "ts_iso": "2023-10-13T00:18:53+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ";_;\n\nlloro",
+   "starred": false
+  },
+  {
+   "id": 1175350,
+   "key_id": "ADA20D62FE6309A82E",
+   "ts_ms": 1697156334000,
+   "ts_iso": "2023-10-13T00:18:54+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "XD",
+   "starred": false
+  },
+  {
+   "id": 1175351,
+   "key_id": "426BB5873437451A98B5C3C6EE9716BD",
+   "ts_ms": 1697156342000,
+   "ts_iso": "2023-10-13T00:19:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero te paso igual si encuentro",
+   "starred": false
+  },
+  {
+   "id": 1175352,
+   "key_id": "72C499A69AA83AD60B7FB395E2DA2556",
+   "ts_ms": 1697156361000,
+   "ts_iso": "2023-10-13T00:19:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El profe cambia pq se le suele pasar la fecha y hace más fácil xd",
+   "starred": false
+  },
+  {
+   "id": 1175353,
+   "key_id": "AD900E1B4F30FFA4CC",
+   "ts_ms": 1697156374000,
+   "ts_iso": "2023-10-13T00:19:34+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "porfis \ncapaz puedo modificar a lo que pida ahora",
+   "starred": false
+  },
+  {
+   "id": 1175355,
+   "key_id": "2DE0B3CBE452F9D4C0",
+   "ts_ms": 1697156399000,
+   "ts_iso": "2023-10-13T00:19:59+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "XD\nque desorganizado jajaja",
+   "starred": false
+  },
+  {
+   "id": 1175356,
+   "key_id": "6D24F401809BAE610F",
+   "ts_ms": 1697156406000,
+   "ts_iso": "2023-10-13T00:20:06+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gracias ❤333333",
+   "starred": false
+  },
+  {
+   "id": 1175357,
+   "key_id": "3EB0192B05A0F33F3CB434",
+   "ts_ms": 1697156413000,
+   "ts_iso": "2023-10-13T00:20:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "nosotros hicimos en flutter",
+   "starred": false
+  },
+  {
+   "id": 1175358,
+   "key_id": "3EB0093FD91D6B3063AC76",
+   "ts_ms": 1697156430000,
+   "ts_iso": "2023-10-13T00:20:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ahi va el rar",
+   "starred": false
+  },
+  {
+   "id": 1175359,
+   "key_id": "79FF8CEDF55A0D5EF7",
+   "ts_ms": 1697156441000,
+   "ts_iso": "2023-10-13T00:20:41+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "nice \nya tengo escusa para aprender flutter 😎",
+   "starred": false
+  },
+  {
+   "id": 1175362,
+   "key_id": "8A462BAFCB847614B356B1474917C1C1",
+   "ts_ms": 1697156571000,
+   "ts_iso": "2023-10-13T00:22:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajjsjaj conel .git y todo te pasé",
+   "starred": false
+  }
+ ]
+}

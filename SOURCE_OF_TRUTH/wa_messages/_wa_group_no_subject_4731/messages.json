@@ -1,0 +1,33 @@
+{
+ "chat_id": 4731,
+ "slug": "_wa_group_no_subject_4731",
+ "subject": "",
+ "jid_user": "120363184086467234",
+ "jid_server": "g.us",
+ "jid_raw": "120363184086467234@g.us",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1171028,
+   "key_id": "5ADD09F2579B07A3A037958A915A0323",
+   "ts_ms": 1696608110000,
+   "ts_iso": "2023-10-06T16:01:50+00:00",
+   "from_me": false,
+   "sender_jid": "595981472444@s.whatsapp.net",
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": null,
+    "size": 0,
+    "duration_s": 199,
+    "sha256_b64": "r4C9eerYP5u//gvZ1LE9t7TDglyS14cPf3uc5dpYwGM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

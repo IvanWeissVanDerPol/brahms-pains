@@ -1,0 +1,46 @@
+{
+ "chat_id": 6602,
+ "slug": "_wa_chat_595981561946_6602",
+ "subject": null,
+ "jid_user": "595981561946",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981561946@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1286740,
+   "key_id": "D0AE91FD17665728EC25DB5FEC65C63A",
+   "ts_ms": 1715442410900,
+   "ts_iso": "2024-05-11T15:46:50.900000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola te paso mi gps cuando vuelva a xasa",
+   "starred": false
+  },
+  {
+   "id": 1286741,
+   "key_id": "1B8295F45C3047050243ADDACA94370A",
+   "ts_ms": 1715442457000,
+   "ts_iso": "2024-05-11T15:47:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1286742,
+   "key_id": "F5E567EA980EF10AD0AB7C404EAC7656",
+   "ts_ms": 1715442458000,
+   "ts_iso": "2024-05-11T15:47:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  }
+ ]
+}

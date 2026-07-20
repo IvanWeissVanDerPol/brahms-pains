@@ -1,0 +1,57 @@
+{
+ "chat_id": 15104,
+ "slug": "_wa_lid_130219130274040_15104",
+ "subject": null,
+ "jid_user": "130219130274040",
+ "jid_server": "lid",
+ "jid_raw": "130219130274040@lid",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1770195,
+   "key_id": "ACBFDE8473CB0977E679616BA7875F06",
+   "ts_ms": 1778083225636,
+   "ts_iso": "2026-05-06T16:00:25.636000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1770196,
+   "key_id": "AC405C18B84D1C11C1A014D8547D204F",
+   "ts_ms": 1778083229805,
+   "ts_iso": "2026-05-06T16:00:29.805000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy de Grindr",
+   "starred": false
+  },
+  {
+   "id": 1770247,
+   "key_id": "A5CCE7A322E8EA15C280CEB6A522D287",
+   "ts_ms": 1778088943000,
+   "ts_iso": "2026-05-06T17:35:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal",
+   "starred": false
+  },
+  {
+   "id": 1770248,
+   "key_id": "A5A5E5D27AF032ADA26FD98C6E670165",
+   "ts_ms": 1778088961000,
+   "ts_iso": "2026-05-06T17:36:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me llamo  Victor Gabriel",
+   "starred": false
+  }
+ ]
+}

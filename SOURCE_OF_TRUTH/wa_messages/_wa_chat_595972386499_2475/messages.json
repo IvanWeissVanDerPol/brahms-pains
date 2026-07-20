@@ -1,0 +1,55 @@
+{
+ "chat_id": 2475,
+ "slug": "_wa_chat_595972386499_2475",
+ "subject": null,
+ "jid_user": "595972386499",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972386499@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1480386,
+   "key_id": "509747FAFD6D0DD8A8B3F82A31C1AB0D",
+   "ts_ms": 1746493126000,
+   "ts_iso": "2025-05-06T00:58:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches que tal?",
+   "starred": false
+  },
+  {
+   "id": 1480387,
+   "key_id": "D0C09A6D3A77E8F067457DA8DA9F9ADD",
+   "ts_ms": 1746493127000,
+   "ts_iso": "2025-05-06T00:58:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perdón que te moleste, soy Jesús Portillo, estudiante de Informática, y quería contarte que me estoy postulando para formar parte del Centro de Estudiantes. Mi intención es dar más visibilidad a nuestra carrera y también proponer mejoras en el área deportiva. Las elecciones son el 9 de mayo en el polideportivo. Desde ya, muchas gracias por tu tiempo 🙌",
+   "starred": false
+  },
+  {
+   "id": 1480388,
+   "key_id": "A3A5ADF39C22A71DA120CE2446D6A056",
+   "ts_ms": 1746493131000,
+   "ts_iso": "2025-05-06T00:58:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250506-WA0000.jpg",
+    "size": 118102,
+    "duration_s": 0,
+    "sha256_b64": "5uTlYlU/pHT4YBvPhUm9CHRl6VLrlxJyqfeCkra9RBo=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

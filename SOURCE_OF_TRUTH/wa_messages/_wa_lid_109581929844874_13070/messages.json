@@ -1,0 +1,150 @@
+{
+ "chat_id": 13070,
+ "slug": "_wa_lid_109581929844874_13070",
+ "subject": null,
+ "jid_user": "109581929844874",
+ "jid_server": "lid",
+ "jid_raw": "109581929844874@lid",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1648064,
+   "key_id": "3EB05FF2A93C1A6E29C504",
+   "ts_ms": 1767893455000,
+   "ts_iso": "2026-01-08T17:30:55+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! 👋 Quería consultar qué opciones tienen disponibles hoy para llevar y compartir.\n\nBusco armar un surtido que tenga un poco de todo:\n\nPanes (alguna hogaza de masa madre)\n\nBollería/Treats (croissants, rolls, brownies)\n\nAlgo tipo torta/brioche si hay.\n\n⚠️ Un detalle importante: Por favor que nada tenga Dulce de Leche.\n\nNos gusta mucho el pistacho, chocolate, canela o frutas (guayaba/membrillo).\n\n¿Tienen algún combo o caja armada que me puedan recomendar con esos gustos? Gracias!",
+   "starred": false
+  },
+  {
+   "id": 1648065,
+   "key_id": "A5C029B22BB8B757CDA22B51092D5625",
+   "ts_ms": 1767893458000,
+   "ts_iso": "2026-01-08T17:30:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! 🐑 Gracias por tu mensaje.\n\n📍 Nuestras sucursales en *Carmelitas, Recoleta y Las Mercedes* están abiertas de 07:00 a 20:00 hs (domingos cerrado 🚫)\n\n📱 *Atendemos consultas de* lunes a viernes de 09:00 a 17:00 hs y sábados de 08:00 a 12:00 hs.\n\n📦 No contamos con delivery, pero podés encontrarnos en la app de PedidosYa.\n\n✉️ Respondemos por orden de llegada. Gracias por tu paciencia! 🖤",
+   "starred": false
+  },
+  {
+   "id": 1648071,
+   "key_id": "3EB08552E5C7053073FD50",
+   "ts_ms": 1767893527000,
+   "ts_iso": "2026-01-08T17:32:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa! Que tal? ☺️ No contamos con ningún combo",
+   "starred": false
+  },
+  {
+   "id": 1648072,
+   "key_id": "3EB0C4CD71B23E2540E0F2",
+   "ts_ms": 1767893540000,
+   "ts_iso": "2026-01-08T17:32:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "serian nuestros productos individuales",
+   "starred": false
+  },
+  {
+   "id": 1648073,
+   "key_id": "3EB03E469456D04F78C922",
+   "ts_ms": 1767893551000,
+   "ts_iso": "2026-01-08T17:32:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te paso las opciones",
+   "starred": false
+  },
+  {
+   "id": 1648074,
+   "key_id": "3EB0FF826473BF840566EA",
+   "ts_ms": 1767893561000,
+   "ts_iso": "2026-01-08T17:32:41+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "porfis",
+   "starred": false
+  },
+  {
+   "id": 1648076,
+   "key_id": "3EB0C14868D12B23655D78",
+   "ts_ms": 1767893566000,
+   "ts_iso": "2026-01-08T17:32:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "❤️",
+   "starred": false
+  },
+  {
+   "id": 1648077,
+   "key_id": "3EB08975D61CF0E06E6D34",
+   "ts_ms": 1767893577000,
+   "ts_iso": "2026-01-08T17:32:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Qns9XorXELnFq7bcLhtkBben2+XeZPJV1DqSHmoGB4E=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1648078,
+   "key_id": "3EB042DD231E25D6F85B8E",
+   "ts_ms": 1767893578000,
+   "ts_iso": "2026-01-08T17:32:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Aft4d/P+9rsNl3LBGnjr4nORehNmGJOBuxJEd8F4d5c=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1648079,
+   "key_id": "3EB0C6944CA345B4C7E709",
+   "ts_ms": 1767893578000,
+   "ts_iso": "2026-01-08T17:32:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "9x/paAA4007UwEMCmVP02FPn4VS5nNIpdfj1ebuv1Hw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

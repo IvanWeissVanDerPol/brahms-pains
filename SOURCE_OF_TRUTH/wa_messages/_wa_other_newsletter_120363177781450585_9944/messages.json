@@ -1,0 +1,24 @@
+{
+ "chat_id": 9944,
+ "slug": "_wa_other_newsletter_120363177781450585_9944",
+ "subject": "Secretos SPA",
+ "jid_user": "120363177781450585",
+ "jid_server": "newsletter",
+ "jid_raw": "120363177781450585@newsletter",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1435058,
+   "key_id": "9370632E601C7C078E1A8D8CD852AB71",
+   "ts_ms": 1738201266000,
+   "ts_iso": "2025-01-30T01:41:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.instagram.com/p/Cj5aSbNM5t3/?igsh=YzljYTk1ODg3Zg==",
+   "starred": false
+  }
+ ]
+}

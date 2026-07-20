@@ -1,0 +1,238 @@
+{
+ "chat_id": 4428,
+ "slug": "_wa_chat_595985879261_4428",
+ "subject": null,
+ "jid_user": "595985879261",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985879261@s.whatsapp.net",
+ "message_count": 18,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1165330,
+   "key_id": "3EB08249C6CB666C6E0A9E",
+   "ts_ms": 1695649170000,
+   "ts_iso": "2023-09-25T13:39:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos dias",
+   "starred": false
+  },
+  {
+   "id": 1165331,
+   "key_id": "3EB04EDEEC708B8BF4936F",
+   "ts_ms": 1695649183000,
+   "ts_iso": "2023-09-25T13:39:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me comunico con usted por su consulta sobre Cafeteras",
+   "starred": false
+  },
+  {
+   "id": 1165332,
+   "key_id": "3EB014BA14228559F7140E",
+   "ts_ms": 1695649196000,
+   "ts_iso": "2023-09-25T13:39:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "CAFETERA , CAFÉ EXPRESO \n\nVA CON SU MOLINO, INCORPORADO\n\n15 TAZAS \n2,5 LITROS AGUA",
+   "starred": false
+  },
+  {
+   "id": 1165333,
+   "key_id": "3EB08473A07BFBC2B09045",
+   "ts_ms": 1695649206000,
+   "ts_iso": "2023-09-25T13:40:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Precio lista: 3.980.000",
+   "starred": false
+  },
+  {
+   "id": 1165334,
+   "key_id": "3EB0FFEE30E7BF9FCCD7D4",
+   "ts_ms": 1695649243000,
+   "ts_iso": "2023-09-25T13:40:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con descuento por pago efectivo: 3.600.000",
+   "starred": false
+  },
+  {
+   "id": 1165335,
+   "key_id": "3EB09B7AF291F5A5A10DA0",
+   "ts_ms": 1695649254000,
+   "ts_iso": "2023-09-25T13:40:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20230925-WA0003.jpg",
+    "size": 10756,
+    "duration_s": 0,
+    "sha256_b64": "TwVefVe6beUOslmTxNfO4RqiekDwKNGqzWI3ZGb/Oac=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1165336,
+   "key_id": "3EB0F38C135979FEE4C6E6",
+   "ts_ms": 1695649287000,
+   "ts_iso": "2023-09-25T13:41:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Private/VID-20230925-WA0004.mp4",
+    "size": 884294,
+    "duration_s": 3,
+    "sha256_b64": "wO9VpdKupAVoJ69RhP92a2yXOHjoGKsF3d2fe+3Hk54=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1165337,
+   "key_id": "3EB0B497F230404E8AD855",
+   "ts_ms": 1695649290000,
+   "ts_iso": "2023-09-25T13:41:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": null,
+    "size": 0,
+    "duration_s": 33,
+    "sha256_b64": "YmS5HvPnxXYZLsRroyde7vlawrKAcQda++hJhTUYylw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1165392,
+   "key_id": "3EB0F64E5DE4E748468946",
+   "ts_ms": 1695653055000,
+   "ts_iso": "2023-09-25T14:44:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "CUOTAS CORRIDAS:               18 x 352.500",
+   "starred": false
+  },
+  {
+   "id": 1165393,
+   "key_id": "3EB0F7904C773560BD6CAC",
+   "ts_ms": 1695653060000,
+   "ts_iso": "2023-09-25T14:44:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "REQUISITOS \n- Fotocopia de cédula \n- Comprobante de ingresos \n\nPuede enviar por fotos al WhatsApp 0984 694 890 para procesar su pedido\n\nFINANCIACION A TRAVÉS DE  CONVENIO CON FINANCIERA PARAGUAYO JAPONESA",
+   "starred": false
+  },
+  {
+   "id": 1165394,
+   "key_id": "3EB02F14B0C1FBA989E175",
+   "ts_ms": 1695653108000,
+   "ts_iso": "2023-09-25T14:45:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos en Asuncion",
+   "starred": false
+  },
+  {
+   "id": 1165396,
+   "key_id": "3EB0314A70041B59A13C7F",
+   "ts_ms": 1695653136000,
+   "ts_iso": "2023-09-25T14:45:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dirección: Teodoro S. Mongelos 3258, entre la Avda. kubichek y J.F Kennedy",
+   "starred": false
+  },
+  {
+   "id": 1165397,
+   "key_id": "3EB026F6DDBF5B1A9C4CE4",
+   "ts_ms": 1695653179000,
+   "ts_iso": "2023-09-25T14:46:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hacemos envíos a todo el pais",
+   "starred": false
+  },
+  {
+   "id": 1165398,
+   "key_id": "A003F4C7474D439C83CD848EDAAF889C",
+   "ts_ms": 1695653191583,
+   "ts_iso": "2023-09-25T14:46:31.583000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias ya compré otro",
+   "starred": false
+  },
+  {
+   "id": 1165399,
+   "key_id": "908737FD563E2765A1A157399BC28D34",
+   "ts_ms": 1695653198000,
+   "ts_iso": "2023-09-25T14:46:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1165400,
+   "key_id": "2029E76B8B7236B0A60E5FE4DBE0A5AC",
+   "ts_ms": 1695653201749,
+   "ts_iso": "2023-09-25T14:46:41.749000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Fuerza con el negocio",
+   "starred": false
+  },
+  {
+   "id": 1165401,
+   "key_id": "FF09B4D537B4E74F558EF8A85651E3FD",
+   "ts_ms": 1695653206513,
+   "ts_iso": "2023-09-25T14:46:46.513000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "n.n",
+   "starred": false
+  },
+  {
+   "id": 1165412,
+   "key_id": "3EB0DDB0864286369D3775",
+   "ts_ms": 1695653400000,
+   "ts_iso": "2023-09-25T14:50:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias 👍",
+   "starred": false
+  }
+ ]
+}

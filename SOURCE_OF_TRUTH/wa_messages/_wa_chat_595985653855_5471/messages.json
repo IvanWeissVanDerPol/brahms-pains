@@ -1,0 +1,90 @@
+{
+ "chat_id": 5471,
+ "slug": "_wa_chat_595985653855_5471",
+ "subject": null,
+ "jid_user": "595985653855",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985653855@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1229896,
+   "key_id": "61769A67174624CD434C0A37588534B3",
+   "ts_ms": 1706547763860,
+   "ts_iso": "2024-01-29T17:02:43.860000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola qué tal\nVi su anuncio en grindr \n\nComo es la onda?\n\nHay más cosas que pueda ver de paso aparte de prep?",
+   "starred": false
+  },
+  {
+   "id": 1229897,
+   "key_id": "2FDFF5448E37C31F593C",
+   "ts_ms": 1706547765000,
+   "ts_iso": "2024-01-29T17:02:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola ¡Saludos desde SOMOSGAY! [Este es un mensaje automático]En la Clínica Kunu’u contamos estos servicios gratuitos ✅ *Sin agendar* - Test Rápidos gratuitos: VIH, Sífilis, Hepatitis B y Hepatitis C - Consejería y vinculación✅  *Con agendamiento previo a este número*  Salud Mental: Psicología - Consulta con Clínico Médico- Acceso a Profilaxis Pre Exposición= PrEP- Orientación para acceso a Profilaxis Post Exposición = PPE  🕒 *Horario de atención de la Clínica*: Lunes a Sábados de 14:00 a 19:30 horas estamos en 📍 Ind. Nacional 1032 c/ Manduvirá:https://goo.gl/maps/42VrmtAAW2DMTfDC8 \nNos cuidamos en comunidad 🌈",
+   "starred": false
+  },
+  {
+   "id": 1229909,
+   "key_id": "3EB0BB81E0807E1B275232",
+   "ts_ms": 1706547981000,
+   "ts_iso": "2024-01-29T17:06:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "buenas tardes estos serían los servicios que tenemos.",
+   "starred": false
+  },
+  {
+   "id": 1229928,
+   "key_id": "CC32FA1BDE0444234315093409DF7DC9",
+   "ts_ms": 1706548741227,
+   "ts_iso": "2024-01-29T17:19:01.227000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esos 4 test serían gratis verdad ?\n\nSi me voy cuanto sería para hacer tests para todos los ets?\nO los más importantes\n\nQuiero testear me todo por si acaso uwu",
+   "starred": false
+  },
+  {
+   "id": 1229965,
+   "key_id": "3EB0D9DDA564020A3CABD6",
+   "ts_ms": 1706549932000,
+   "ts_iso": "2024-01-29T17:38:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "si, todos gatuitos y el resultado está en 15min aprox",
+   "starred": false
+  },
+  {
+   "id": 1229967,
+   "key_id": "B45168B42E7B7874B42E0FE43DE6C2E6",
+   "ts_ms": 1706549968954,
+   "ts_iso": "2024-01-29T17:39:28.954000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero tienen para testear más cosa aparte de VIH sífilis y hepatitis?",
+   "starred": false
+  },
+  {
+   "id": 1229968,
+   "key_id": "0ED67F45732528B5044C9AB563D74B97",
+   "ts_ms": 1706549997185,
+   "ts_iso": "2024-01-29T17:39:57.185000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Igual re Jau \n\nMás para organizarme y en todo caso pasar después por  otro lugar para hacer los demás tests",
+   "starred": false
+  }
+ ]
+}

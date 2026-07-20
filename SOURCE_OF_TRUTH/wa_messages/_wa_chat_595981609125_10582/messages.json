@@ -1,0 +1,231 @@
+{
+ "chat_id": 10582,
+ "slug": "_wa_chat_595981609125_10582",
+ "subject": null,
+ "jid_user": "595981609125",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981609125@s.whatsapp.net",
+ "message_count": 19,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1498409,
+   "key_id": "3F679C44E706613E1B1F",
+   "ts_ms": 1749147498000,
+   "ts_iso": "2025-06-05T18:18:18+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1498410,
+   "key_id": "FC6636153C476D7ECA300692F1077C84",
+   "ts_ms": 1749147502000,
+   "ts_iso": "2025-06-05T18:18:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Grafimark Imprenta. Le Saluda Francisco ¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1498411,
+   "key_id": "3FEB7AA878ED593EE496",
+   "ts_ms": 1749147515000,
+   "ts_iso": "2025-06-05T18:18:35+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "quiero imprimir tarjetas de negocio",
+   "starred": false
+  },
+  {
+   "id": 1498412,
+   "key_id": "3FF78E14783916E04662",
+   "ts_ms": 1749147523000,
+   "ts_iso": "2025-06-05T18:18:43+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.canva.com/design/DAGoi9tfriY/oQAJKEbpT3z_W7qnTM8vBA/view?utm_content=DAGoi9tfriY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he46fdcd4d9",
+   "starred": false
+  },
+  {
+   "id": 1498413,
+   "key_id": "3FF2453DF22B53E1E325",
+   "ts_ms": 1749147544000,
+   "ts_iso": "2025-06-05T18:19:04+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "cual es el precio?\n\nque tipos de papel tienen?\n/ terminaciones para que se vea mas profesional",
+   "starred": false
+  },
+  {
+   "id": 1498417,
+   "key_id": "E552DF6E462CEA41AA1A5A14F4A9A281",
+   "ts_ms": 1749147963000,
+   "ts_iso": "2025-06-05T18:26:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes como estas?",
+   "starred": false
+  },
+  {
+   "id": 1498418,
+   "key_id": "270031CF555CA57AE1609B81E84BBCD5",
+   "ts_ms": 1749147970000,
+   "ts_iso": "2025-06-05T18:26:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que cantidad estas necesitando?",
+   "starred": false
+  },
+  {
+   "id": 1498419,
+   "key_id": "B963F598B3E6BFCAB1BE5CE8A4409D72",
+   "ts_ms": 1749147994812,
+   "ts_iso": "2025-06-05T18:26:34.812000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "100-200",
+   "starred": false
+  },
+  {
+   "id": 1498420,
+   "key_id": "4BC2E7B38343A63A071506BE824F7FDD",
+   "ts_ms": 1749147998492,
+   "ts_iso": "2025-06-05T18:26:38.492000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Maybe?",
+   "starred": false
+  },
+  {
+   "id": 1498421,
+   "key_id": "A1219F6711353FDA5ECDF0550DC29A21",
+   "ts_ms": 1749148008714,
+   "ts_iso": "2025-06-05T18:26:48.714000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No se cuanto suele ser",
+   "starred": false
+  },
+  {
+   "id": 1498422,
+   "key_id": "45548B9B28B586C6E3B57BA1EC8F86DD",
+   "ts_ms": 1749148041000,
+   "ts_iso": "2025-06-05T18:27:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202523/PTT-20250605-WA0012.opus",
+    "size": 18220,
+    "duration_s": 8,
+    "sha256_b64": "Sq/VPvBf9ig0fhnGeXfQRi+0UCfGf48Iq4MaqFAHS9s=",
+    "media_name": "PTT-20250605-WA0012.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1498423,
+   "key_id": "6B981E2D85A91C19DB061888C04C8F29",
+   "ts_ms": 1749148060836,
+   "ts_iso": "2025-06-05T18:27:40.836000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jau 100 entonces",
+   "starred": false
+  },
+  {
+   "id": 1498424,
+   "key_id": "6B93B2C980AA7442AB7CEA0C79D8D385",
+   "ts_ms": 1749148080458,
+   "ts_iso": "2025-06-05T18:28:00.458000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con delivery acá cuanto es?",
+   "starred": false
+  },
+  {
+   "id": 1498445,
+   "key_id": "523B4093DE139BADFE8A0AC299F6D801",
+   "ts_ms": 1749149400000,
+   "ts_iso": "2025-06-05T18:50:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El delivery hasta ahí sería de 20.000gs",
+   "starred": false
+  },
+  {
+   "id": 1498447,
+   "key_id": "98179B0FFD96C574363D0CF8E46DDADF",
+   "ts_ms": 1749149439798,
+   "ts_iso": "2025-06-05T18:50:39.798000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfecto",
+   "starred": false
+  },
+  {
+   "id": 1498450,
+   "key_id": "F580F88555017B49D161103343D4546E",
+   "ts_ms": 1749149450306,
+   "ts_iso": "2025-06-05T18:50:50.306000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pueden mandar un fotón de qr para pagar",
+   "starred": false
+  },
+  {
+   "id": 1498472,
+   "key_id": "3FDDBB17DCAC3DB219A4",
+   "ts_ms": 1749151591000,
+   "ts_iso": "2025-06-05T19:26:31+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola?",
+   "starred": false
+  },
+  {
+   "id": 1498475,
+   "key_id": "3EB03BD375A2883CAC985E",
+   "ts_ms": 1749152113000,
+   "ts_iso": "2025-06-05T19:35:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te paso el alias por que no tengo a mano el QR",
+   "starred": false
+  },
+  {
+   "id": 1498476,
+   "key_id": "3EB0650E8452E6A9D42F81",
+   "ts_ms": 1749152118000,
+   "ts_iso": "2025-06-05T19:35:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ci : 2433391",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "chat_id": 9621,
+ "slug": "_wa_chat_5491173660945_9621",
+ "subject": null,
+ "jid_user": "5491173660945",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "5491173660945@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1405882,
+   "key_id": "3FBFD92A9D2D9FD28E01",
+   "ts_ms": 1734542078000,
+   "ts_iso": "2024-12-18T17:14:38+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\n\nEl Alquimista Colegiales\n\nme paso tu contacto \n\nsoy de Paraguay y quiero comprar\n\n2 Vaporizador storz & bickel Volcano Classic\ny un Vaporizador storz & bickel mighty plus\n\nhttps://elalquimistagrow.com/producto/vaporizador-storz-bickel-mighty-plus/\n\nhttps://elalquimistagrow.com/producto/vaporizador-storz-bickel-volcano-classic/**\n\nse podria mandar hasta san lorenzo Paraguay?\no en todo caso hasta Clorinda y voy ahi a buscar?\n\ncuanto costaria en total? :)",
+   "starred": false
+  },
+  {
+   "id": 1405883,
+   "key_id": "81139D8A5CE63D1BCAE5EF8967FAC1C4",
+   "ts_ms": 1734542099000,
+   "ts_iso": "2024-12-18T17:14:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Bienvenido a El Alquimista Online*\nEste número pertenece al depósito donde despachamos todos los pedidos online.\n\n*Querés hablar con el local?*\n\n*📍San Isidro:*\nwa.me/541123975424\n\n*📍Colegiales:*\nwa.me/541122505262\n\n*📍Martínez:*\nwa.me/5491131796898\n\n*📦Envios y Compras online:*\nHacé tu consulta con nosotros en este chat",
+   "starred": false
+  },
+  {
+   "id": 1405885,
+   "key_id": "3EB0B05EE4E2809E9C41",
+   "ts_ms": 1734542450000,
+   "ts_iso": "2024-12-18T17:20:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola buen diaa, tenemos envios a todo el pais (ARG), estos vaporizadores los laburamos por encargue",
+   "starred": false
+  },
+  {
+   "id": 1405886,
+   "key_id": "3EB0613F32F5D741D503AA",
+   "ts_ms": 1734542454000,
+   "ts_iso": "2024-12-18T17:20:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te paso los precios",
+   "starred": false
+  },
+  {
+   "id": 1405887,
+   "key_id": "3EB03B74B07A0B44A45C8D",
+   "ts_ms": 1734542500000,
+   "ts_iso": "2024-12-18T17:21:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Crafty+ = 400USD\nMigthy  = 475USD\nMigthy +  = 549USD\nPlenty  = 350 USD\nVolcano = 770 USD\nVolcano Grande = 865 USD",
+   "starred": false
+  },
+  {
+   "id": 1405888,
+   "key_id": "3FF20058E8509CBC909C",
+   "ts_ms": 1734542680000,
+   "ts_iso": "2024-12-18T17:24:40+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me podes mandar foto del volcano y el volcano grande?",
+   "starred": false
+  },
+  {
+   "id": 1405889,
+   "key_id": "3EB07DCFD60D6643BE37FE",
+   "ts_ms": 1734542995000,
+   "ts_iso": "2024-12-18T17:29:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no tengo aca fisicamente, lo tendria que pedir al proovedor pero te paso fotos de la diferencia",
+   "starred": false
+  }
+ ]
+}

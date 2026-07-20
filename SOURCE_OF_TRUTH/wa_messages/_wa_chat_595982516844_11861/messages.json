@@ -1,0 +1,24 @@
+{
+ "chat_id": 11861,
+ "slug": "_wa_chat_595982516844_11861",
+ "subject": null,
+ "jid_user": "595982516844",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982516844@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1584898,
+   "key_id": "AC68CAAE4DA01D7F52D977947B5827C9",
+   "ts_ms": 1759935491000,
+   "ts_iso": "2025-10-08T14:58:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola mi amor,  te  gustaría pasar?🥰\n(FAVOR AVISAR ANTES DE PASAR, EN CASO DE NO TENER RESPUESTA \"LLAMAR\")\nMis precios son:\n100 (20 minutos)\n150 (media hora)\n200 (40 minutos)\n250 (1 hora)\nOral al natural con costo adicional de 50 mil gs.\nServicio de trato onda novios con besos y caricias!!🥰\n(ANAL NO REALIZO)\nPAGOS EN EFECTIVO Y TRANSFERENCIAS!",
+   "starred": false
+  }
+ ]
+}

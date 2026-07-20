@@ -1,0 +1,68 @@
+{
+ "chat_id": 5713,
+ "slug": "_wa_chat_595973908532_5713",
+ "subject": null,
+ "jid_user": "595973908532",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595973908532@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1496726,
+   "key_id": "A2002B8FFACE12AE446ED2B8AC45F766",
+   "ts_ms": 1748871311132,
+   "ts_iso": "2025-06-02T13:35:11.132000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1496727,
+   "key_id": "EFC474156E8A7485DCC74612D674986D",
+   "ts_ms": 1748871318622,
+   "ts_iso": "2025-06-02T13:35:18.622000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora vi tu post en el grupo",
+   "starred": false
+  },
+  {
+   "id": 1496728,
+   "key_id": "301B222D2D58901DBF0052CC8D1F16A3",
+   "ts_ms": 1748871328348,
+   "ts_iso": "2025-06-02T13:35:28.348000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me interesa la oportunidad de QA en ingles",
+   "starred": false
+  },
+  {
+   "id": 1496729,
+   "key_id": "01F02899395BDAF060B90B44A5AEB8A1",
+   "ts_ms": 1748871331963,
+   "ts_iso": "2025-06-02T13:35:31.963000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Este es mi perfil",
+   "starred": false
+  },
+  {
+   "id": 1496730,
+   "key_id": "FCD85DB40FB45C2040EFCC8F9E02A550",
+   "ts_ms": 1748871355427,
+   "ts_iso": "2025-06-02T13:35:55.427000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://ivanweissvanderpol.github.io/",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "chat_id": 10103,
+ "slug": "_wa_chat_13135550002_10103",
+ "subject": null,
+ "jid_user": "13135550002",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "13135550002@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1442951,
+   "key_id": "889F10977A51D1A5737DC02F3D354E4B",
+   "ts_ms": 1741026119952,
+   "ts_iso": "2025-03-03T18:21:59.952000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi what are my new messages from today",
+   "starred": false
+  },
+  {
+   "id": 1442952,
+   "key_id": "4AB52001DAEED706CFCECC9DF5AD4FE0",
+   "ts_ms": 1741026121000,
+   "ts_iso": "2025-03-03T18:22:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "To check your new messages from today, I'll need to know which messaging app or platform you're using. Are you using Apple's Messages app, Google Messages, or something else?\n\nIf you're using Apple's Messages app, you can check for new messages by opening the app and looking for unread messages, which are usually marked with a blue dot ¹.\n\nIf you're using Google Messages, you can check for new messages by opening the app and looking for conversations with new messages, which are usually marked with a blue dot as well ².\n\nLet me know which app you're using, and I can provide more specific instructions!",
+   "starred": false
+  },
+  {
+   "id": 1442953,
+   "key_id": "45C73F36FED7F9AF4C20D8F3AB5DF03C",
+   "ts_ms": 1741026124000,
+   "ts_iso": "2025-03-03T18:22:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://blog.google/products/android/7-new-messages-features/",
+   "starred": false
+  },
+  {
+   "id": 1442954,
+   "key_id": "2C3C8D767110BF6183CE96E55889D4F7",
+   "ts_ms": 1741026124000,
+   "ts_iso": "2025-03-03T18:22:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://9to5mac.com/2024/12/13/heres-everything-new-in-the-messages-app-with-ios-182/",
+   "starred": false
+  },
+  {
+   "id": 1531511,
+   "key_id": "CFA3C152D07D174DB4AD8D02339BE833",
+   "ts_ms": 1752941612860,
+   "ts_iso": "2025-07-19T16:13:32.860000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "farmacia 24 horas la paz",
+   "starred": false
+  },
+  {
+   "id": 1531513,
+   "key_id": "C4032B9F72B60063799C4A09C198E733",
+   "ts_ms": 1752941622000,
+   "ts_iso": "2025-07-19T16:13:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://farmaelias.com/farmacias-24-7/",
+   "starred": false
+  },
+  {
+   "id": 1559210,
+   "key_id": "ACEEA8D82999E642DAE188549FB89C84",
+   "ts_ms": 1756226296890,
+   "ts_iso": "2025-08-26T16:38:16.890000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I want to plan a wedding",
+   "starred": false
+  }
+ ]
+}

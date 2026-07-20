@@ -1,0 +1,75 @@
+{
+ "chat_id": 16974,
+ "slug": "_wa_lid_243709446770796_16974",
+ "subject": null,
+ "jid_user": "243709446770796",
+ "jid_server": "lid",
+ "jid_raw": "243709446770796@lid",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1819368,
+   "key_id": "AC8C20A734193AE11E9D803BAF75BB62",
+   "ts_ms": 1782875870721,
+   "ts_iso": "2026-07-01T03:17:50.721000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello! Can I get more info on this?",
+   "starred": false
+  },
+  {
+   "id": 1819395,
+   "key_id": "2A6A1F683148EC8FBFE3",
+   "ts_ms": 1782911636000,
+   "ts_iso": "2026-07-01T13:13:56+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días!💓",
+   "starred": false
+  },
+  {
+   "id": 1819396,
+   "key_id": "2AA0CA8CC4124469C63A",
+   "ts_ms": 1782911641000,
+   "ts_iso": "2026-07-01T13:14:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 3,
+   "text": "NAKED WOLF BOOTS 🖤\n\nGs 1.390.000\n\nDisponible en talles del 35 al 46 europeo.\n\n• Incluye empaque de la marca.\n• Calidad premium.\n• Tiempo de llegada: 15 a 30 días aproximadamente.\n• Contamos con guía de medidas detallada en centímetros.\n• Facilidad de pago en 2 cuotas.\n• Envíos a todo Paraguay",
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/VID-20260701-WA0003.mp4",
+    "size": 3677141,
+    "duration_s": 17,
+    "sha256_b64": "Wxh9CeASgC+r4ACpDZO80/cLTEROL70573LRvrX6dwg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1819397,
+   "key_id": "2AD3C716B85E60E02ED3",
+   "ts_ms": 1782911641000,
+   "ts_iso": "2026-07-01T13:14:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 3,
+   "text": "NAKED WOLF BOOTS 🖤\n\nGs 1.390.000\n\nDisponible en talles del 35 al 46 europeo.\n\n• Incluye empaque de la marca.\n• Calidad premium.\n• Tiempo de llegada: 15 a 30 días aproximadamente.\n• Contamos con guía de medidas detallada en centímetros.\n• Facilidad de pago en 2 cuotas.\n• Envíos a todo Paraguay",
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/VID-20260701-WA0002.mp4",
+    "size": 4122077,
+    "duration_s": 17,
+    "sha256_b64": "K913WuOHvLR7tyu4fOFp5vNHDQ6p/7LF9GDRe9w3pUM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

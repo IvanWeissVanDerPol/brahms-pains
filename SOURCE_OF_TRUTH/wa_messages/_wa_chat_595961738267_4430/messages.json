@@ -1,0 +1,46 @@
+{
+ "chat_id": 4430,
+ "slug": "_wa_chat_595961738267_4430",
+ "subject": null,
+ "jid_user": "595961738267",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595961738267@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1165477,
+   "key_id": "5C29A478F7B0034EFFB5622C7F1F4363",
+   "ts_ms": 1695656961000,
+   "ts_iso": "2023-09-25T15:49:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Iván! Te interesa la olla a presión digital?",
+   "starred": false
+  },
+  {
+   "id": 1165489,
+   "key_id": "9BC27103C09C4A7410FC997A17C963FF",
+   "ts_ms": 1695658179061,
+   "ts_iso": "2023-09-25T16:09:39.061000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nSorry ya compré uno",
+   "starred": false
+  },
+  {
+   "id": 1165497,
+   "key_id": "AE6D8A60EDB0B24B56A8F198B8BF2C47",
+   "ts_ms": 1695658605000,
+   "ts_iso": "2023-09-25T16:16:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "👍🏻",
+   "starred": false
+  }
+ ]
+}

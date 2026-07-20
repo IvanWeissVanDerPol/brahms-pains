@@ -1,0 +1,57 @@
+{
+ "chat_id": 8177,
+ "slug": "_wa_chat_31682752326_8177",
+ "subject": null,
+ "jid_user": "31682752326",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "31682752326@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1350231,
+   "key_id": "48D145036A1B77E914",
+   "ts_ms": 1725069253000,
+   "ts_iso": "2024-08-31T01:54:13+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello Matias,\n\nI'm Ivan Weiss—hope you’re doing well and that you enjoyed your trip to South America! :)\n\nJohn mentioned that you’re also interested in artificial intelligence, which is awesome.\n\nI’m slowly getting into it myself, currently working on setting up a local AI using Ollama. I was wondering if you have any recommendations for materials or resources that could help me understand the topic better.\n\nWould love to hear your thoughts! :)",
+   "starred": false
+  },
+  {
+   "id": 1350269,
+   "key_id": "248BDB3B9FF25819F31896F960860650",
+   "ts_ms": 1725101530000,
+   "ts_iso": "2024-08-31T10:52:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "What's Ollama?",
+   "starred": false
+  },
+  {
+   "id": 1351507,
+   "key_id": "34D93C432C120743C97B64AD8792E9FF",
+   "ts_ms": 1725139108309,
+   "ts_iso": "2024-08-31T21:18:28.309000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "It's a platform to run local language models \n\nSimilar to gpt \n\nBut on local /cloud devices \n\nIt allows you to try different models easily and since everything is running privately you have more control over data privacy",
+   "starred": false
+  },
+  {
+   "id": 1351508,
+   "key_id": "6FB31D7D1FF79D43CBBA78268E840788",
+   "ts_ms": 1725139248824,
+   "ts_iso": "2024-08-31T21:20:48.824000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtu.be/ZoxJcPkjirs?si=qHmaGRYUJGjZaQpn\n\nIf you are interested and like an easy setup \n\nThis guide is really nice \n\nusing docker",
+   "starred": false
+  }
+ ]
+}

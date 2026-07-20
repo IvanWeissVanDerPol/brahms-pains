@@ -1,0 +1,101 @@
+{
+ "chat_id": 11499,
+ "slug": "_wa_chat_595981516108_11499",
+ "subject": null,
+ "jid_user": "595981516108",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981516108@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581349,
+   "key_id": "AC0F0E42739C61137C19015CC8AF98BA",
+   "ts_ms": 1759634021020,
+   "ts_iso": "2025-10-05T03:13:41.020000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola yo estoy para la no",
+   "starred": false
+  },
+  {
+   "id": 1581350,
+   "key_id": "AC47102A70EAFCAFDF01467477B9301E",
+   "ts_ms": 1759634022936,
+   "ts_iso": "2025-10-05T03:13:42.936000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Noche",
+   "starred": false
+  },
+  {
+   "id": 1581353,
+   "key_id": "ACA3313242A3527E12F228B0EA1AE911",
+   "ts_ms": 1759634565000,
+   "ts_iso": "2025-10-05T03:22:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1581354,
+   "key_id": "AC1F88E0558395941E753D7A53F786E3",
+   "ts_ms": 1759634827701,
+   "ts_iso": "2025-10-05T03:27:07.701000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola :)",
+   "starred": false
+  },
+  {
+   "id": 1581355,
+   "key_id": "ACEE5D59C7987F95EB30C6E0048B7676",
+   "ts_ms": 1759634841405,
+   "ts_iso": "2025-10-05T03:27:21.405000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te paso mi info?",
+   "starred": false
+  },
+  {
+   "id": 1581356,
+   "key_id": "ACD03BAAF4E382D68DB3030ED7399CED",
+   "ts_ms": 1759634902514,
+   "ts_iso": "2025-10-05T03:28:22.514000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://photos.app.goo.gl/WBXYMs1hYWLkA6zD6",
+   "starred": false
+  },
+  {
+   "id": 1581366,
+   "key_id": "AC99F0DDF3A85810E22969BF8A74438F",
+   "ts_ms": 1759635832825,
+   "ts_iso": "2025-10-05T03:43:52.825000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo 25 soy de San Lorenzo \nSoy solo con unas cuantas experiencias:)",
+   "starred": false
+  },
+  {
+   "id": 1581367,
+   "key_id": "ACFF8589AD6828D0DC412F7ED48AF8CD",
+   "ts_ms": 1759635837516,
+   "ts_iso": "2025-10-05T03:43:57.516000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me llamo Iván Weiss",
+   "starred": false
+  }
+ ]
+}

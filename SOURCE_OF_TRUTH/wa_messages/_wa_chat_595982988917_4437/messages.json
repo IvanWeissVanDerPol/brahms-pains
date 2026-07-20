@@ -1,0 +1,68 @@
+{
+ "chat_id": 4437,
+ "slug": "_wa_chat_595982988917_4437",
+ "subject": null,
+ "jid_user": "595982988917",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982988917@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1165981,
+   "key_id": "CACDE4B240E661C042",
+   "ts_ms": 1695777116000,
+   "ts_iso": "2023-09-27T01:11:56+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola se encontro?\n\nestoy en mi computadora",
+   "starred": false
+  },
+  {
+   "id": 1165998,
+   "key_id": "A5E33F2892AE3F7228431F0D63435983",
+   "ts_ms": 1695778618000,
+   "ts_iso": "2023-09-27T01:36:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que bueno, le llamé al profe y   a la delega",
+   "starred": false
+  },
+  {
+   "id": 1165999,
+   "key_id": "682884EC6EB254D78F903112C9D02A9E",
+   "ts_ms": 1695778622000,
+   "ts_iso": "2023-09-27T01:37:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Feliz contigo",
+   "starred": false
+  },
+  {
+   "id": 1166003,
+   "key_id": "295A5308C58437F2F8",
+   "ts_ms": 1695779366000,
+   "ts_iso": "2023-09-27T01:49:26+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gracias\nle escrio al profe para coordinar como buscar",
+   "starred": false
+  },
+  {
+   "id": 1166008,
+   "key_id": "385F898A43B2D85927F2DECB90BD0CA5",
+   "ts_ms": 1695779662000,
+   "ts_iso": "2023-09-27T01:54:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale",
+   "starred": false
+  }
+ ]
+}

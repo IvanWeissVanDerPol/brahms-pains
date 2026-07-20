@@ -1,0 +1,227 @@
+{
+ "chat_id": 5668,
+ "slug": "_wa_chat_595976591000_5668",
+ "subject": null,
+ "jid_user": "595976591000",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976591000@s.whatsapp.net",
+ "message_count": 17,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1240235,
+   "key_id": "F863D42C481C4E89AC3417F6140102C8",
+   "ts_ms": 1707957728416,
+   "ts_iso": "2024-02-15T00:42:08.416000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1240236,
+   "key_id": "52873C3ED9E36F3110AA37A135093400",
+   "ts_ms": 1707957729000,
+   "ts_iso": "2024-02-15T00:42:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Hola🤍✨* \n*Somos BACON BURGERS Y PANCETA LOMITOS🍔🍟🥓*\n*Bienvenidos a nuestro canal de Atención al Cliente*\n\n• En nuestras sucursales:\n📍Lambare (Century Plaza) \n📍Paseo 1811\n📍San Lorenzo Shopping\n📍Luque (Plaza Madero)\n📍Mariano (Mariano Shopping)\n*El servicio de delivery es exclusivo desde las aplicaciones  *Monchis y PedidosYA🛵🤩*\n• Si preferis *PASAR A BUSCAR* , podes hacer tu pedido y de que sucursal te gustaría retirar 🙏🏻💕\n\n_Si tiene alguna consulta o reclamo, hacenos saber para brindarte una pronta solución_",
+   "starred": false
+  },
+  {
+   "id": 1240237,
+   "key_id": "780B27EAA011051123018C145D611BD3",
+   "ts_ms": 1707957747000,
+   "ts_iso": "2024-02-15T00:42:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! Buenas noches ☺️",
+   "starred": false
+  },
+  {
+   "id": 1240238,
+   "key_id": "2F8DCAB53437132343089C938631380E",
+   "ts_ms": 1707957791556,
+   "ts_iso": "2024-02-15T00:43:11.556000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero 3 de estas hamburguesas",
+   "starred": false
+  },
+  {
+   "id": 1240239,
+   "key_id": "55B1F28139329AF4234D2FBA7DC025E4",
+   "ts_ms": 1707957795429,
+   "ts_iso": "2024-02-15T00:43:15.429000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240214-WA0027.jpg",
+    "size": 51586,
+    "duration_s": 0,
+    "sha256_b64": "AV8aZmpwWJaH+jaQ9QfuZKx+uYD6hb5oYOESFFn+deA=",
+    "media_name": "b74ba96a-7307-4698-b8fc-d57bb53633fe.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1240240,
+   "key_id": "77404FAD55FBE718E303E6059BF8C0F2",
+   "ts_ms": 1707957804736,
+   "ts_iso": "2024-02-15T00:43:24.736000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Podría retirar en Pinedo?",
+   "starred": false
+  },
+  {
+   "id": 1240241,
+   "key_id": "83BA4A795279AE7A733F0DC287629D1D",
+   "ts_ms": 1707957833089,
+   "ts_iso": "2024-02-15T00:43:53.089000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O que promos podría pedir y retirar en Pinedo?",
+   "starred": false
+  },
+  {
+   "id": 1240242,
+   "key_id": "671B892662065626F027BE553817A772",
+   "ts_ms": 1707957846000,
+   "ts_iso": "2024-02-15T00:44:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La promo de Panceta sería exclusivamente para consumo en el local no aplica a los pedidos todos por whatsapp 🥺",
+   "starred": false
+  },
+  {
+   "id": 1240243,
+   "key_id": "12A51F86E9708D61EE05B2B9AC20EE07",
+   "ts_ms": 1707957869986,
+   "ts_iso": "2024-02-15T00:44:29.986000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y puedo pasar y comer ahí también",
+   "starred": false
+  },
+  {
+   "id": 1240244,
+   "key_id": "4E1C50432E9691719ADCC53A1E364821",
+   "ts_ms": 1707957871793,
+   "ts_iso": "2024-02-15T00:44:31.793000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No prob",
+   "starred": false
+  },
+  {
+   "id": 1240248,
+   "key_id": "64864C0F1191F3F0931B2B5CAF2123C0",
+   "ts_ms": 1707957942000,
+   "ts_iso": "2024-02-15T00:45:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240214-WA0028.jpg",
+    "size": 100619,
+    "duration_s": 0,
+    "sha256_b64": "I8cB98OeDg577StIDUuSgT6M5KOfSCt6edBEPV/3n+I=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1240249,
+   "key_id": "CC243267359CF5A8895D614CBDC142AD",
+   "ts_ms": 1707957953000,
+   "ts_iso": "2024-02-15T00:45:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La promo no aplica a pinedo 🥺",
+   "starred": false
+  },
+  {
+   "id": 1240250,
+   "key_id": "C7FF99C4A1C02D682C32FAB732EBA3FB",
+   "ts_ms": 1707957958076,
+   "ts_iso": "2024-02-15T00:45:58.076000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Rip",
+   "starred": false
+  },
+  {
+   "id": 1240251,
+   "key_id": "9E7F2E638B032640A27B3C9DC1A5F02C",
+   "ts_ms": 1707957965495,
+   "ts_iso": "2024-02-15T00:46:05.495000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y hay otras promos ?",
+   "starred": false
+  },
+  {
+   "id": 1240252,
+   "key_id": "06FB168E6D993CE5EB50ED09D6EEA654",
+   "ts_ms": 1707958044000,
+   "ts_iso": "2024-02-15T00:47:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Combo ahorro",
+   "starred": false
+  },
+  {
+   "id": 1240253,
+   "key_id": "CB43765A917FD1BE70218813F97D1FD6",
+   "ts_ms": 1707958112000,
+   "ts_iso": "2024-02-15T00:48:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240214-WA0030.jpg",
+    "size": 130086,
+    "duration_s": 0,
+    "sha256_b64": "zEPajFFhJfUPcNi+MSlP+sFqhUzMlm+84i54FIUXdKM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1240254,
+   "key_id": "04108BC5F8A9E3D3D863AFBA0A04A771",
+   "ts_ms": 1707958227627,
+   "ts_iso": "2024-02-15T00:50:27.627000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas Gracias\nVoy a ver qué hago\nn.n",
+   "starred": false
+  }
+ ]
+}

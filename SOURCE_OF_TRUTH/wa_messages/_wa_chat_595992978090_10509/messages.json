@@ -1,0 +1,46 @@
+{
+ "chat_id": 10509,
+ "slug": "_wa_chat_595992978090_10509",
+ "subject": null,
+ "jid_user": "595992978090",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992978090@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1709045,
+   "key_id": "ACDC7203A23CF22C1599DF7F9A8F9657",
+   "ts_ms": 1772571638000,
+   "ts_iso": "2026-03-03T21:00:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas Buenas que tal soy de pedidos ya estoy en camino",
+   "starred": false
+  },
+  {
+   "id": 1709046,
+   "key_id": "ACE0A4AD42FEF6BEC4516F1584FA72D0",
+   "ts_ms": 1772571723621,
+   "ts_iso": "2026-03-03T21:02:03.621000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okid",
+   "starred": false
+  },
+  {
+   "id": 1709047,
+   "key_id": "AC36AB55084F4C6C96B7D3DE909AFF2A",
+   "ts_ms": 1772572158000,
+   "ts_iso": "2026-03-03T21:09:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy en la ubicación",
+   "starred": false
+  }
+ ]
+}

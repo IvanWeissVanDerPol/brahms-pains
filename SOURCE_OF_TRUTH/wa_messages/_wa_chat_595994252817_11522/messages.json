@@ -1,0 +1,216 @@
+{
+ "chat_id": 11522,
+ "slug": "_wa_chat_595994252817_11522",
+ "subject": null,
+ "jid_user": "595994252817",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994252817@s.whatsapp.net",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1556443,
+   "key_id": "51340FCBD38BCDEEDD452C57FBE389D3",
+   "ts_ms": 1755780280365,
+   "ts_iso": "2025-08-21T12:44:40.365000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/IMG-20250819-WA0054.jpg",
+    "size": 80196,
+    "duration_s": 0,
+    "sha256_b64": "uX1g3XlUM59SaBPi8Lfs+ZozPYsp+CKllomeeONbaoI=",
+    "media_name": "4b0e79a7-7061-4393-97a8-b0e106c8331e.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1556444,
+   "key_id": "385D58F9E026A6BB0226D4C4CB6F9616",
+   "ts_ms": 1755780303414,
+   "ts_iso": "2025-08-21T12:45:03.414000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202534/PTT-20250821-WA0030.opus",
+    "size": 0,
+    "duration_s": 20,
+    "sha256_b64": "YwrHqqejQuz7ra75MdY2nejKDgH5YZNJZxLS050bS2s=",
+    "media_name": "8aba26130ad24c4992cf2586f4648502.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1556446,
+   "key_id": "E08585A6BAADB0A8D6FC36A4B7D8EAC6",
+   "ts_ms": 1755780352000,
+   "ts_iso": "2025-08-21T12:45:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202534/PTT-20250821-WA0031.opus",
+    "size": 23562,
+    "duration_s": 9,
+    "sha256_b64": "XtRh2qRQMOcfKILT2fIrbYKzk6zu/FmxJXkOxfL60H0=",
+    "media_name": "PTT-20250821-WA0031.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1556447,
+   "key_id": "45EEBA8395D2204A953424E08A3DAD66",
+   "ts_ms": 1755780382566,
+   "ts_iso": "2025-08-21T12:46:22.566000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cual es su número?",
+   "starred": false
+  },
+  {
+   "id": 1556459,
+   "key_id": "9204C62C7F9EEC1D53456EA7F52F028F",
+   "ts_ms": 1755780467895,
+   "ts_iso": "2025-08-21T12:47:47.895000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1556461,
+   "key_id": "A05ACF6EDC4687C89CC0DFB68C8362D6",
+   "ts_ms": 1755780652147,
+   "ts_iso": "2025-08-21T12:50:52.147000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahí les mandé al WhatsApp",
+   "starred": false
+  },
+  {
+   "id": 1556462,
+   "key_id": "2B045F12C9A2907D53D214E073F27266",
+   "ts_ms": 1755780657527,
+   "ts_iso": "2025-08-21T12:50:57.527000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero no me atienden las llamadas",
+   "starred": false
+  },
+  {
+   "id": 1556463,
+   "key_id": "8701AEB6D5F895B13962ED36434D1808",
+   "ts_ms": 1755780666043,
+   "ts_iso": "2025-08-21T12:51:06.043000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Habría un número para llamar?",
+   "starred": false
+  },
+  {
+   "id": 1556464,
+   "key_id": "3EB0C326F78AA28FB1B7A1",
+   "ts_ms": 1755780820000,
+   "ts_iso": "2025-08-21T12:53:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "SOLO MENSAJE RESPONDEN",
+   "starred": false
+  },
+  {
+   "id": 1556465,
+   "key_id": "B649C1C17B75E69188BA998E137396C9",
+   "ts_ms": 1755780832616,
+   "ts_iso": "2025-08-21T12:53:52.616000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Rip",
+   "starred": false
+  },
+  {
+   "id": 1556466,
+   "key_id": "C452B8F25EE15D7F960524F2657AFC76",
+   "ts_ms": 1755780839366,
+   "ts_iso": "2025-08-21T12:53:59.366000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A ver cuándo me leen",
+   "starred": false
+  },
+  {
+   "id": 1556467,
+   "key_id": "5A7DFF75329E640761FC16630433BBAF",
+   "ts_ms": 1755780840349,
+   "ts_iso": "2025-08-21T12:54:00.349000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1556717,
+   "key_id": "44CF8F79432A8F572C6FA736521758BC",
+   "ts_ms": 1755797433000,
+   "ts_iso": "2025-08-21T17:30:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas! Recibimos su encomienda en la Transportadora San Ignacio TSI Agencia Fdo de la Mora. YA QUE EN SU BOLETA ESTÁ REGISTRADA PARÁ RETIRO DE AGENCIA\nPuede pasar a retirar.\nEstamos de lunes a viernes:08:30 a 18:00hs\nSábado: 08:30 a 12hs\n\nGracias!!!\nRECIBIMOS SOLO EFECTIVO!!!\nUbicación:\n https://maps.app.goo.gl/jmzTkAmG76Wi9HEV7?g_st=aw\nAl costado de Paseo Estrella\nTRAER IMPORTE JUSTO ..\nSOlO EFECTIVO ACEPTAMOS",
+   "starred": false
+  },
+  {
+   "id": 1556718,
+   "key_id": "EB78F76D1334188AC7309CE5D34149F7",
+   "ts_ms": 1755797439000,
+   "ts_iso": "2025-08-21T17:30:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "30mil",
+   "starred": false
+  },
+  {
+   "id": 1556719,
+   "key_id": "DC21F68228E8016E21A28CFC42F2FC6D",
+   "ts_ms": 1755797475949,
+   "ts_iso": "2025-08-21T17:31:15.949000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pueden hacer delivery?",
+   "starred": false
+  },
+  {
+   "id": 1556799,
+   "key_id": "E12B86D7C03E993824C56C1A15342A46",
+   "ts_ms": 1755799380000,
+   "ts_iso": "2025-08-21T18:03:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No contamos con delivery",
+   "starred": false
+  }
+ ]
+}

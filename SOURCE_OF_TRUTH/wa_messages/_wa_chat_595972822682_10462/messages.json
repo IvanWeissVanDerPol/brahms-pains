@@ -1,0 +1,24 @@
+{
+ "chat_id": 10462,
+ "slug": "_wa_chat_595972822682_10462",
+ "subject": null,
+ "jid_user": "595972822682",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972822682@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1480263,
+   "key_id": "3EB018DCA30D90906F863C",
+   "ts_ms": 1746469802000,
+   "ts_iso": "2025-05-05T18:30:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas, mensaje para LUIS CONSTANTINO VARGAS SALINAS\n📌 *Quantun SA te recuerda tu factura pendiente de pago con PERSONAL*\n📌 *Abonando el dia de hoy y podes acceder al 50% de descuento para seguir disfrutando de tu servicio INTERNET Con cuenta Nro 17448352*\nPuede abonar aquí  https://bit.ly/PagosFacturas\n* Boca de Cobranza\n* Sucursales\n* Desde su app de banco como pago de servicios\n_*Solicita tu descuento respondiendo este mensaje*_\n📌 *De haber abonado o no es titular, favor Omita este mensaje*\nDesde ya Muchas gracias.\n50% DONAD\n",
+   "starred": false
+  }
+ ]
+}

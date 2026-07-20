@@ -1,0 +1,262 @@
+{
+ "chat_id": 14633,
+ "slug": "_wa_lid_6808060059709_14633",
+ "subject": null,
+ "jid_user": "6808060059709",
+ "jid_server": "lid",
+ "jid_raw": "6808060059709@lid",
+ "message_count": 21,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1734137,
+   "key_id": "AC5315EA05A20EB30CB8E677C7603FD9",
+   "ts_ms": 1774463872400,
+   "ts_iso": "2026-03-25T18:37:52.400000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! Quiero más información.",
+   "starred": false
+  },
+  {
+   "id": 1734138,
+   "key_id": "AC3ED96DF14A226F7CE24671300E432E",
+   "ts_ms": 1774463879201,
+   "ts_iso": "2026-03-25T18:37:59.201000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Necesito una remera lila",
+   "starred": false
+  },
+  {
+   "id": 1734139,
+   "key_id": "AC894C1AC6D425363A378C1FBE1CA5D0",
+   "ts_ms": 1774463881739,
+   "ts_iso": "2026-03-25T18:38:01.739000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260325-WA0070.jpg",
+    "size": 25381,
+    "duration_s": 0,
+    "sha256_b64": "gdO/zHMicBuozhBjxQWO1MHgH+iT8rb4Y0e4pqAF/xU=",
+    "media_name": "47e5a4c0-2036-4973-ab76-300e2e79ee9d.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734140,
+   "key_id": "ACA3C65B974B9EB011E7DDC8FE585166",
+   "ts_ms": 1774463884758,
+   "ts_iso": "2026-03-25T18:38:04.758000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Onda asi",
+   "starred": false
+  },
+  {
+   "id": 1734141,
+   "key_id": "2A10D95DA019E6DB630A",
+   "ts_ms": 1774463935000,
+   "ts_iso": "2026-03-25T18:38:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas!!😊",
+   "starred": false
+  },
+  {
+   "id": 1734142,
+   "key_id": "2A4FD2910C8BED8EAD89",
+   "ts_ms": 1774463955000,
+   "ts_iso": "2026-03-25T18:39:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sii, que talle precisas?",
+   "starred": false
+  },
+  {
+   "id": 1734143,
+   "key_id": "AC727E14E062E40209C123EDE0B49ACB",
+   "ts_ms": 1774463986716,
+   "ts_iso": "2026-03-25T18:39:46.716000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "X o m",
+   "starred": false
+  },
+  {
+   "id": 1734225,
+   "key_id": "2AC4E4533623A184D038",
+   "ts_ms": 1774466234000,
+   "ts_iso": "2026-03-25T19:17:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo en talla G, con la impresión le saldría 80.000",
+   "starred": false
+  },
+  {
+   "id": 1734252,
+   "key_id": "ACFCC4982FFA7ABA2DE5FDC6D02A5BC4",
+   "ts_ms": 1774467175096,
+   "ts_iso": "2026-03-25T19:32:55.096000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sin ningún diseño \nVioleta lila oscuro nomás necesito que sea",
+   "starred": false
+  },
+  {
+   "id": 1734253,
+   "key_id": "AC6AB9649CC3840326FD7AEF673D452E",
+   "ts_ms": 1774467182829,
+   "ts_iso": "2026-03-25T19:33:02.829000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tenés fotos para ver los tonos ?",
+   "starred": false
+  },
+  {
+   "id": 1734278,
+   "key_id": "2AA70A482DE4566F43A0",
+   "ts_ms": 1774467447000,
+   "ts_iso": "2026-03-25T19:37:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260325-WA0105.jpg",
+    "size": 154158,
+    "duration_s": 0,
+    "sha256_b64": "SRF9sIgyYFjweyDHwa7tYi+WZByBEepZsbEByc1kz3M=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1734282,
+   "key_id": "ACDE7EAE8FB0808D8C5966C8897F71FE",
+   "ts_ms": 1774467477151,
+   "ts_iso": "2026-03-25T19:37:57.151000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero uno g y uno m",
+   "starred": false
+  },
+  {
+   "id": 1734284,
+   "key_id": "AC946F145DA900F2C845EA5A2434BEC7",
+   "ts_ms": 1774467483490,
+   "ts_iso": "2026-03-25T19:38:03.490000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuanto seria con delivery a",
+   "starred": false
+  },
+  {
+   "id": 1734291,
+   "key_id": "ACC5DEBBCDC804DFD3D9DBBE7C1131E9",
+   "ts_ms": 1774467513325,
+   "ts_iso": "2026-03-25T19:38:33.325000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si lea mando los diseños cuanto seria por ejemplo una remera blanca con diseño?",
+   "starred": false
+  },
+  {
+   "id": 1734293,
+   "key_id": "AC5BCFBA2A5D6AEA648419A19D538559",
+   "ts_ms": 1774467516250,
+   "ts_iso": "2026-03-25T19:38:36.250000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O negra ?",
+   "starred": false
+  },
+  {
+   "id": 1734294,
+   "key_id": "2ACF5E4D93261721EFFD",
+   "ts_ms": 1774467592000,
+   "ts_iso": "2026-03-25T19:39:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Volvimos a verificar en stock contamos con xl y xxl",
+   "starred": false
+  },
+  {
+   "id": 1734295,
+   "key_id": "ACBFA61B6849736095C3D28D57136D4F",
+   "ts_ms": 1774467607743,
+   "ts_iso": "2026-03-25T19:40:07.743000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Osea delgado soy y quiero que me apriete",
+   "starred": false
+  },
+  {
+   "id": 1734296,
+   "key_id": "ACF5DE67B8438CB64D94491E8C720EB6",
+   "ts_ms": 1774467617972,
+   "ts_iso": "2026-03-25T19:40:17.972000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No tienen más pequeños?",
+   "starred": false
+  },
+  {
+   "id": 1734297,
+   "key_id": "2A0DD5285308B849DE6E",
+   "ts_ms": 1774467637000,
+   "ts_iso": "2026-03-25T19:40:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En ese tono ya no!",
+   "starred": false
+  },
+  {
+   "id": 1734300,
+   "key_id": "ACA9066806D42775AF819BDC2B7F7BDB",
+   "ts_ms": 1774467814812,
+   "ts_iso": "2026-03-25T19:43:34.812000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bajón",
+   "starred": false
+  },
+  {
+   "id": 1734303,
+   "key_id": "2A7E5169F95006AB6ACB",
+   "ts_ms": 1774467840000,
+   "ts_iso": "2026-03-25T19:44:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "😕😕😕",
+   "starred": false
+  }
+ ]
+}

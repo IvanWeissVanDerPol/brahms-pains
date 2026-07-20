@@ -1,0 +1,240 @@
+{
+ "chat_id": 16106,
+ "slug": "_wa_lid_83386857160841_16106",
+ "subject": null,
+ "jid_user": "83386857160841",
+ "jid_server": "lid",
+ "jid_raw": "83386857160841@lid",
+ "message_count": 19,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1792264,
+   "key_id": "AC35D348281538C2FB9CBB135F7AF9CC",
+   "ts_ms": 1780538157287,
+   "ts_iso": "2026-06-04T01:55:57.287000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nSoy single bi de Fernando norte",
+   "starred": false
+  },
+  {
+   "id": 1792265,
+   "key_id": "AC952F4F030E1AE584CF2CE3FABE913D",
+   "ts_ms": 1780538173755,
+   "ts_iso": "2026-06-04T01:56:13.755000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Les pasó mis fotos?",
+   "starred": false
+  },
+  {
+   "id": 1792266,
+   "key_id": "ACED73A039ED432BB4AB796DE6A34A07",
+   "ts_ms": 1780538328000,
+   "ts_iso": "2026-06-04T01:58:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1792267,
+   "key_id": "ACB046425873160CEF0785CEED18F953",
+   "ts_ms": 1780538338000,
+   "ts_iso": "2026-06-04T01:58:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos lejos",
+   "starred": false
+  },
+  {
+   "id": 1792268,
+   "key_id": "AC382E3138E5E82DCF8A670AFF272FC5",
+   "ts_ms": 1780538342000,
+   "ts_iso": "2026-06-04T01:59:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Nosotros",
+   "starred": false
+  },
+  {
+   "id": 1792269,
+   "key_id": "ACAF2FE8C8CF6B7C3B45912442A8AA63",
+   "ts_ms": 1780538345000,
+   "ts_iso": "2026-06-04T01:59:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pilar",
+   "starred": false
+  },
+  {
+   "id": 1792284,
+   "key_id": "AC6BF8E995F2D36E02A6CAEFCCE76FDC",
+   "ts_ms": 1780538786557,
+   "ts_iso": "2026-06-04T02:06:26.557000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bajon",
+   "starred": false
+  },
+  {
+   "id": 1792285,
+   "key_id": "AC8F4CA2C29816ED97B8A12636106C5B",
+   "ts_ms": 1780538802050,
+   "ts_iso": "2026-06-04T02:06:42.050000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pasan aveces por asu?",
+   "starred": false
+  },
+  {
+   "id": 1792286,
+   "key_id": "AC42221CF6678F542974D21DFBCB00D3",
+   "ts_ms": 1780538808739,
+   "ts_iso": "2026-06-04T02:06:48.739000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20260602-WA0012.jpg",
+    "size": 123785,
+    "duration_s": 0,
+    "sha256_b64": "gytmrCbMnI4TNYDmJ/pHrfC9bD6OPqcLcG9oSZ3fCCk=",
+    "media_name": "c42990f5-006a-4bf8-9e4b-4aef324b68e7.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1792292,
+   "key_id": "AC97F07BD4D6531BBEC309D9990FFB67",
+   "ts_ms": 1780538832000,
+   "ts_iso": "2026-06-04T02:07:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Difixil",
+   "starred": false
+  },
+  {
+   "id": 1792295,
+   "key_id": "ACE8D24E50DD9E9887A9C27D98B55419",
+   "ts_ms": 1780538836000,
+   "ts_iso": "2026-06-04T02:07:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mas por aqui",
+   "starred": false
+  },
+  {
+   "id": 1792296,
+   "key_id": "AC3D68D28EFDB0A938B3EFA9283DE781",
+   "ts_ms": 1780538846000,
+   "ts_iso": "2026-06-04T02:07:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esta semana podemos",
+   "starred": false
+  },
+  {
+   "id": 1792297,
+   "key_id": "ACBE015B9CED44CA1806A3DBAE0796F9",
+   "ts_ms": 1780538852000,
+   "ts_iso": "2026-06-04T02:07:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Las otras no sabemos",
+   "starred": false
+  },
+  {
+   "id": 1792299,
+   "key_id": "AC99D6B4C805418BA51E1D1B7C1CF78B",
+   "ts_ms": 1780538887799,
+   "ts_iso": "2026-06-04T02:08:07.799000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwu entiendo",
+   "starred": false
+  },
+  {
+   "id": 1792300,
+   "key_id": "ACC18F657CE1F8DD15E345E765CA5A53",
+   "ts_ms": 1780538892575,
+   "ts_iso": "2026-06-04T02:08:12.575000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bajón que este lejos",
+   "starred": false
+  },
+  {
+   "id": 1792301,
+   "key_id": "AC7880299DF9FAD8FA3518006D453466",
+   "ts_ms": 1780538905504,
+   "ts_iso": "2026-06-04T02:08:25.504000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero avisen si pasan por asu\nMe encantaría conocerles :)",
+   "starred": false
+  },
+  {
+   "id": 1792302,
+   "key_id": "AC691DAEF9933F4DF274A8D19F5D3EDE",
+   "ts_ms": 1780538909000,
+   "ts_iso": "2026-06-04T02:08:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20260603-WA0072.jpg",
+    "size": 34798,
+    "duration_s": 0,
+    "sha256_b64": "aRt9fXFpcHY335IMnW7uZh2QaPuweRW9N0D8UAPhYPA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1792303,
+   "key_id": "ACC332B59C0C20F5490C76DCC2FCF4BF",
+   "ts_ms": 1780538923000,
+   "ts_iso": "2026-06-04T02:08:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mas probabilidades si vienes",
+   "starred": false
+  },
+  {
+   "id": 1792304,
+   "key_id": "ACC66177951346339C2D02AA49A189BB",
+   "ts_ms": 1780538959795,
+   "ts_iso": "2026-06-04T02:09:19.795000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te aviso al.ir",
+   "starred": false
+  }
+ ]
+}

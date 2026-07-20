@@ -1,0 +1,108 @@
+{
+ "chat_id": 1308,
+ "slug": "_wa_chat_595981472444_1308",
+ "subject": null,
+ "jid_user": "595981472444",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981472444@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 966034,
+   "key_id": "C55666247E6368381A42A9126C272D72",
+   "ts_ms": 1663596804000,
+   "ts_iso": "2022-09-19T14:13:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://twitter.com/FieraIngenieria/status/1571508340575698944?s=08",
+   "starred": false
+  },
+  {
+   "id": 966130,
+   "key_id": "0345C4E60A8E6F3419B4A13AA12A737C",
+   "ts_ms": 1663603691018,
+   "ts_iso": "2022-09-19T16:08:11.018000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Chaaa que purete",
+   "starred": false
+  },
+  {
+   "id": 966162,
+   "key_id": "343C63DEA4C0CF9692DABF0249F66E8B",
+   "ts_ms": 1663604614000,
+   "ts_iso": "2022-09-19T16:23:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20220919-WA0015.jpg",
+    "size": 111113,
+    "duration_s": 0,
+    "sha256_b64": "H2EuUXtC0vsKySOouoIyA6ucUM8NgYYUbDBJFE5iTQ0=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 966164,
+   "key_id": "DBFCC2F7A183C5BF36F95084CB642AD1",
+   "ts_ms": 1663604640000,
+   "ts_iso": "2022-09-19T16:24:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Podes hacer con botellas pet de distintos colores",
+   "starred": false
+  },
+  {
+   "id": 1241464,
+   "key_id": "8502628ECB0F99B68F0CFE62CBC408AA",
+   "ts_ms": 1708171649240,
+   "ts_iso": "2024-02-17T12:07:29.240000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202407/PTT-20240217-WA0001.opus",
+    "size": 0,
+    "duration_s": 13,
+    "sha256_b64": "4KAW7E+ALiMp92U+dpyuwKiUohc+y2yFMdmmxOCQ/GA=",
+    "media_name": "2b3814acf6f84fac968ef3ea7622282a.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1289717,
+   "key_id": "D27F4BB3C676812B7315D08C20A93658",
+   "ts_ms": 1716081129000,
+   "ts_iso": "2024-05-19T01:12:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://youtu.be/gIicC2qpLQM?feature=shared",
+   "starred": false
+  },
+  {
+   "id": 1289718,
+   "key_id": "D68FC32E950765CCD3774C0448F88193",
+   "ts_ms": 1716081157000,
+   "ts_iso": "2024-05-19T01:12:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "$$$",
+   "starred": false
+  }
+ ]
+}

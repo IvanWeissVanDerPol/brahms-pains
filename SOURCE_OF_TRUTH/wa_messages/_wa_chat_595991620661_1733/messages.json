@@ -1,0 +1,156 @@
+{
+ "chat_id": 1733,
+ "slug": "_wa_chat_595991620661_1733",
+ "subject": null,
+ "jid_user": "595991620661",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991620661@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 935466,
+   "key_id": "EE1B5994804BA26C84F7669F41AB2D68",
+   "ts_ms": 1659130266000,
+   "ts_iso": "2022-07-29T21:31:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dejé un sándwich de milanesa en la heladera",
+   "starred": false
+  },
+  {
+   "id": 935467,
+   "key_id": "7767991CE07D14BF534F96CC45B76C6E",
+   "ts_ms": 1659130272000,
+   "ts_iso": "2022-07-29T21:31:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Métele si queres",
+   "starred": false
+  },
+  {
+   "id": 935468,
+   "key_id": "B0B576460565869D1435967EE1D3D926",
+   "ts_ms": 1659130279000,
+   "ts_iso": "2022-07-29T21:31:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O sino se va a fundir ahí por ma eternidad",
+   "starred": false
+  },
+  {
+   "id": 935469,
+   "key_id": "520E620C30E8C4F5B16CAB067CD40D20",
+   "ts_ms": 1659130297412,
+   "ts_iso": "2022-07-29T21:31:37.412000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajaja",
+   "starred": false
+  },
+  {
+   "id": 935470,
+   "key_id": "FA603BE26E591058908908DF0E02943B",
+   "ts_ms": 1659130298518,
+   "ts_iso": "2022-07-29T21:31:38.518000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Oka",
+   "starred": false
+  },
+  {
+   "id": 1087199,
+   "key_id": "3EB0525CC5CBAB1AEDF8D0",
+   "ts_ms": 1686831374000,
+   "ts_iso": "2023-06-15T12:16:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola Ivan, quétal? me estan preguntando por tu proyecto de python",
+   "starred": false
+  },
+  {
+   "id": 1087200,
+   "key_id": "3EB0EFACAACF407A744EFD",
+   "ts_ms": 1686831384000,
+   "ts_iso": "2023-06-15T12:16:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "llegaste a alzar en algun lado? el proyecto de python con ebase?",
+   "starred": false
+  },
+  {
+   "id": 1087275,
+   "key_id": "9E61A3663AC8E05EE915462B07F0ADCA",
+   "ts_ms": 1686838443677,
+   "ts_iso": "2023-06-15T14:14:03.677000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uff veo para buscar un fla",
+   "starred": false
+  },
+  {
+   "id": 1087524,
+   "key_id": "3EB00E0732362456855165",
+   "ts_ms": 1686871481000,
+   "ts_iso": "2023-06-15T23:24:41+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no encontre en mi pc ni en mi git\n\nsi recuerdo bien\neso estaba haciendo remotamente desde la pc que usaban mis hermanas\nla que estaba al otro lado de la server room de gerold",
+   "starred": false
+  },
+  {
+   "id": 1087525,
+   "key_id": "3EB083F6AB5359322E1FBA",
+   "ts_ms": 1686871491000,
+   "ts_iso": "2023-06-15T23:24:51+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "voy a buscar cuando vaya a casa de mis padres",
+   "starred": false
+  },
+  {
+   "id": 1087526,
+   "key_id": "6243E0AF1ED5F9EAFE347E37565C0D09",
+   "ts_ms": 1686871510000,
+   "ts_iso": "2023-06-15T23:25:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale, Marlon van Berkum es el que necesita",
+   "starred": false
+  },
+  {
+   "id": 1087527,
+   "key_id": "2FF366FED357EF7956AED90551E528FD",
+   "ts_ms": 1686871520000,
+   "ts_iso": "2023-06-15T23:25:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Avisame cuando tengas, gracias Ivan",
+   "starred": false
+  },
+  {
+   "id": 1087528,
+   "key_id": "3EB076E9DE2054330B8A7D",
+   "ts_ms": 1686871526000,
+   "ts_iso": "2023-06-15T23:25:26+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okis",
+   "starred": false
+  }
+ ]
+}

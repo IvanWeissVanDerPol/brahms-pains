@@ -1,0 +1,90 @@
+{
+ "chat_id": 5759,
+ "slug": "_wa_chat_595976161000_5759",
+ "subject": null,
+ "jid_user": "595976161000",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976161000@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1251398,
+   "key_id": "4AD109DC3631C6DFFD4C622BC8570F09",
+   "ts_ms": 1709646420959,
+   "ts_iso": "2024-03-05T13:47:00.959000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas\nQue cremas / remedio recomiendan para irritación?\n\n\nSe me pega la piel de los huevos por la pierna amenudo😅\n\nY suele picar / estar un poco rojito \n\nSegún internet puede que sea honguito (?",
+   "starred": false
+  },
+  {
+   "id": 1251399,
+   "key_id": "1B1977282C6445F8B0",
+   "ts_ms": 1709646422000,
+   "ts_iso": "2024-03-05T13:47:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarse con *Punto Farma*. Mi nombre es FarmiBot, ¿cómo puedo ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1251400,
+   "key_id": "C7849399FB73A365B9",
+   "ts_ms": 1709646422000,
+   "ts_iso": "2024-03-05T13:47:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Seleccione la opción deseada:\n*1*- Ventas e información precios\n*2*- Seguimiento de Pedidos\n*3*- Ayuda para Compras en línea\n*4*- Atención al cliente",
+   "starred": false
+  },
+  {
+   "id": 1251401,
+   "key_id": "5CD8B8D1120D3B6BA87A2DF201B802D9",
+   "ts_ms": 1709646436145,
+   "ts_iso": "2024-03-05T13:47:16.145000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "1",
+   "starred": false
+  },
+  {
+   "id": 1251402,
+   "key_id": "0907E25A6B33B8D178",
+   "ts_ms": 1709646436000,
+   "ts_iso": "2024-03-05T13:47:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En minutos, uno de nuestros operadores lo atenderá.",
+   "starred": false
+  },
+  {
+   "id": 1251404,
+   "key_id": "5F6E849F890E11F1D9",
+   "ts_ms": 1709647221000,
+   "ts_iso": "2024-03-05T14:00:21+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Buenos días!  tendria que consultar con un medico",
+   "starred": false
+  },
+  {
+   "id": 1251421,
+   "key_id": "F01AFE9C0DC0592A07",
+   "ts_ms": 1709649517000,
+   "ts_iso": "2024-03-05T14:38:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con *Punto Farma*, te esperamos siempre.",
+   "starred": false
+  }
+ ]
+}

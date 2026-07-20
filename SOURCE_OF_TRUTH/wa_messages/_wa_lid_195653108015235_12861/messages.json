@@ -1,0 +1,24 @@
+{
+ "chat_id": 12861,
+ "slug": "_wa_lid_195653108015235_12861",
+ "subject": null,
+ "jid_user": "195653108015235",
+ "jid_server": "lid",
+ "jid_raw": "195653108015235@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1630491,
+   "key_id": "ACBD472389EC782AABFD8D755D9D7455",
+   "ts_ms": 1765765115091,
+   "ts_iso": "2025-12-15T02:18:35.091000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bajón jajaja\n\nPero un gusto conocerles",
+   "starred": false
+  }
+ ]
+}

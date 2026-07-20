@@ -1,0 +1,33 @@
+{
+ "chat_id": 10484,
+ "slug": "_wa_chat_595982296168_10484",
+ "subject": null,
+ "jid_user": "595982296168",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982296168@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1488489,
+   "key_id": "AED7B9DA0B2059BE782DC54CF6FBC38E",
+   "ts_ms": 1747495813300,
+   "ts_iso": "2025-05-17T15:30:13.300000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250517-WA0006.jpg",
+    "size": 69494,
+    "duration_s": 0,
+    "sha256_b64": "2i/09Vom127J8/VHpf9ldB+mCJ8lyNp0P0hSno3MvY0=",
+    "media_name": "ec5a44f7-3c70-4559-ace2-bfc79874140b.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

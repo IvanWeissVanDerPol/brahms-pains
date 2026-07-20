@@ -1,0 +1,156 @@
+{
+ "chat_id": 9270,
+ "slug": "_wa_chat_595986159488_9270",
+ "subject": null,
+ "jid_user": "595986159488",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986159488@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1389234,
+   "key_id": "3EB03F60A05DD4B1FF7666",
+   "ts_ms": 1731583884000,
+   "ts_iso": "2024-11-14T11:31:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1389235,
+   "key_id": "3EB0DC5CF46085D523A2D7",
+   "ts_ms": 1731583884000,
+   "ts_iso": "2024-11-14T11:31:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "paso a recordarle que tiene 1 paquete pendiente en la sucursal de san lorenzo",
+   "starred": false
+  },
+  {
+   "id": 1389236,
+   "key_id": "3EB06EA6053AB37260AC86",
+   "ts_ms": 1731583884000,
+   "ts_iso": "2024-11-14T11:31:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias",
+   "starred": false
+  },
+  {
+   "id": 1389245,
+   "key_id": "01C073F6DC182E8583F4C6E63EF75684",
+   "ts_ms": 1731585070924,
+   "ts_iso": "2024-11-14T11:51:10.924000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uff gracias",
+   "starred": false
+  },
+  {
+   "id": 1389246,
+   "key_id": "A48B50A582603F81293F7B640670ED0E",
+   "ts_ms": 1731585078832,
+   "ts_iso": "2024-11-14T11:51:18.832000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo que ver en la pag ?",
+   "starred": false
+  },
+  {
+   "id": 1389247,
+   "key_id": "297D922CE204A7C56FE0F9BD03022E06",
+   "ts_ms": 1731585089004,
+   "ts_iso": "2024-11-14T11:51:29.004000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me gustaría recibir en casa y pagar con QR",
+   "starred": false
+  },
+  {
+   "id": 1389248,
+   "key_id": "B82EE6C11E37C915F597963130531FBA",
+   "ts_ms": 1731585092843,
+   "ts_iso": "2024-11-14T11:51:32.843000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si se puede",
+   "starred": false
+  },
+  {
+   "id": 1389250,
+   "key_id": "3EB0770107C84AECAFCB7A",
+   "ts_ms": 1731585133000,
+   "ts_iso": "2024-11-14T11:52:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te podes agendar con mi compañero",
+   "starred": false
+  },
+  {
+   "id": 1389251,
+   "key_id": "2BF25A2A3EF796117837988410981C91",
+   "ts_ms": 1731585146008,
+   "ts_iso": "2024-11-14T11:52:26.008000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le escribo",
+   "starred": false
+  },
+  {
+   "id": 1389254,
+   "key_id": "3EB015D87D3810AFB1FF06",
+   "ts_ms": 1731585155000,
+   "ts_iso": "2024-11-14T11:52:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gracias",
+   "starred": false
+  },
+  {
+   "id": 1535796,
+   "key_id": "3EB031B797CB812998FE80",
+   "ts_ms": 1753462414000,
+   "ts_iso": "2025-07-25T16:53:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas que tal",
+   "starred": false
+  },
+  {
+   "id": 1535797,
+   "key_id": "3EB00BFE120A361E9455DF",
+   "ts_ms": 1753462415000,
+   "ts_iso": "2025-07-25T16:53:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "paso a recordarle que tiene paquete pendiente en fast san lorenzo",
+   "starred": false
+  },
+  {
+   "id": 1535798,
+   "key_id": "3EB08825733FD3448E7711",
+   "ts_ms": 1753462415000,
+   "ts_iso": "2025-07-25T16:53:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias",
+   "starred": false
+  }
+ ]
+}

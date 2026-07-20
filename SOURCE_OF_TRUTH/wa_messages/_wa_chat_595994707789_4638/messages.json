@@ -1,0 +1,35 @@
+{
+ "chat_id": 4638,
+ "slug": "_wa_chat_595994707789_4638",
+ "subject": null,
+ "jid_user": "595994707789",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994707789@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1167810,
+   "key_id": "3EB00E99E94A668BC3EC84",
+   "ts_ms": 1696176598000,
+   "ts_iso": "2023-10-01T16:09:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas Tardes  \nLe escribo de la empresa Bristol S.A. Fabiola Leiva le saluda del Área de Pos Ventas. \nPara poder coordinar la instalación de su Aire Acondicionado quisiera que me responda los siguientes puntos para confirmar sus datos!!😊  # {58605}\n\n-Ya recibió el producto?\n-Calle:\n-Barrio:\n-Ciudad:\n\nAsí tambien a la vez le comentamos que una vez respondido los siguientes puntos tenemos como tiempo de respuesta de unas 48 a 72 Hs para el servicio de Instalación.\n\nAgradecemos la comprensión.",
+   "starred": false
+  },
+  {
+   "id": 1167811,
+   "key_id": "3EA6D99E81019DF4C9796C74403FCF18",
+   "ts_ms": 1696176669029,
+   "ts_iso": "2023-10-01T16:11:09.029000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Número equivocado",
+   "starred": false
+  }
+ ]
+}

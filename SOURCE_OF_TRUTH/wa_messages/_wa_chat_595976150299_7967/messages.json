@@ -1,0 +1,79 @@
+{
+ "chat_id": 7967,
+ "slug": "_wa_chat_595976150299_7967",
+ "subject": null,
+ "jid_user": "595976150299",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976150299@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1348741,
+   "key_id": "E9BA86262E1216FB7758A21508C57742",
+   "ts_ms": 1724891469085,
+   "ts_iso": "2024-08-29T00:31:09.085000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas",
+   "starred": false
+  },
+  {
+   "id": 1348742,
+   "key_id": "2E84149B31D7D40DD06C280E2F035E1A",
+   "ts_ms": 1724891475115,
+   "ts_iso": "2024-08-29T00:31:15.115000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuanto es por persona?",
+   "starred": false
+  },
+  {
+   "id": 1348743,
+   "key_id": "86A4B8E8F902269D37A3F15BA5CAB6E4",
+   "ts_ms": 1724891475000,
+   "ts_iso": "2024-08-29T00:31:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Gracias por comunicarte con *Paulista Grill* Local Fernando de la Mora. ¿Como podemos ayudarte?😊",
+   "starred": false
+  },
+  {
+   "id": 1348744,
+   "key_id": "A53D157E2297ABFC51EAC0AFAF303049",
+   "ts_ms": 1724891821000,
+   "ts_iso": "2024-08-29T00:37:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches!!!",
+   "starred": false
+  },
+  {
+   "id": 1348745,
+   "key_id": "04F4859725E7F25884A66BA19B5DCB20",
+   "ts_ms": 1724891828000,
+   "ts_iso": "2024-08-29T00:37:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Le envio nuestros precios del local 😊",
+   "starred": false
+  },
+  {
+   "id": 1348746,
+   "key_id": "2F9C647F9B072A37DE97665BA2387DEF",
+   "ts_ms": 1724891833000,
+   "ts_iso": "2024-08-29T00:37:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*CHURRASQUERIA- PAULISTA GRILL FERNANDO DE LA MORA 🍽️                                                                                              *LOS PRECIOS VARIAN DE ACUERDO AL DIA*                                                                                                ✓ Lunes A Jueves Almuerzo por persona Gs. I.V.A Incluido: *130.000* \n✓ Lunes A Viernes Cena por persona Gs. I.V.A Incluido: *140.000* \n✓ Viernes Almuerzo por persona Gs. I.V.A Incluido: *135.000*\n✓ Sábado Almuerzo por persona Gs. I.V.A Incluido: *140.000*\n✓Sábado  Cena por persona Gs. I.V.A Incluido: *150.000*\n✓ Domingo Almuerzo y feriados por persona Gs. I.V.A Incluido: *150.000*\n✓ Domingo Cena por persona Gs. I.V.A Incluido: Promo 01:**89.000**\n(No incluye helados, no incluye la promoción de cumpleaños )\nPromo 02: **99.000**( Incluye promoción de cumpleaños,no incluye  helados)\n\n*Menores de 0 a  6 años no abonan , a partir de 7 a 10 años abonan el 50%.*  *y de 11 años   abonan la totalidad* \n\n\n*✓Nuestro sistema incluye:* Buffet con una gran variedad de Ensaladas, Sushi, Platos Calientes, Parrilla con nuestras carnes y cortes tradicionales, Pastas.\nTambién incluye Buffet de Postres y Helados\nTodo “All Inclusive” podes servirte cuantas veces lo desees. \n*Las bebidas se pagan aparte*.\n\n*✓Reservas  San Martin*: (0974) 674 925 -  (021) 611 501\n \n*✓Info y Reservas Suc Fernando* : (0976) 150 299 \n\n*✓Info y Reservas Suc. Luque:* (0974) 674 929 \n\nDomingo a Jueves de: 11:30 a 15:30 y 19:00 a 00:00\nViernes y Sábados de: 11:30 a 15:30 y 19:00 a 00:00",
+   "starred": false
+  }
+ ]
+}

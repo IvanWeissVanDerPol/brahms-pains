@@ -1,0 +1,35 @@
+{
+ "chat_id": 12023,
+ "slug": "_wa_chat_595982190087_12023",
+ "subject": null,
+ "jid_user": "595982190087",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982190087@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1595469,
+   "key_id": "ACA5E79377F36F40ADF270E689E3BF3E",
+   "ts_ms": 1761098109064,
+   "ts_iso": "2025-10-22T01:55:09.064000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola\nMe pasó tu número Sofi\n\nCuanto cobrarías por 4 aires?\nPara hacer el mantenimiento?",
+   "starred": false
+  },
+  {
+   "id": 1595471,
+   "key_id": "AC31557352C6C16DC8FD5169B9599E92",
+   "ts_ms": 1761098190000,
+   "ts_iso": "2025-10-22T01:56:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Q sona",
+   "starred": false
+  }
+ ]
+}

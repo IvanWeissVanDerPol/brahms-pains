@@ -1,0 +1,258 @@
+{
+ "chat_id": 10199,
+ "slug": "_wa_chat_595993390824_10199",
+ "subject": null,
+ "jid_user": "595993390824",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595993390824@s.whatsapp.net",
+ "message_count": 19,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581479,
+   "key_id": "ACA4D6A692DB77E1F9EEB1520223AC55",
+   "ts_ms": 1759639577841,
+   "ts_iso": "2025-10-05T04:46:17.841000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"LUANA NUEVITA SÚPER COMPL(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1581482,
+   "key_id": "ACBEE3AA42BFF0D719CB9F4F1E907E92",
+   "ts_ms": 1759639642000,
+   "ts_iso": "2025-10-05T04:47:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola corazón",
+   "starred": false
+  },
+  {
+   "id": 1581484,
+   "key_id": "ACFBE231004B14013AF7C77E9CF0E7E9",
+   "ts_ms": 1759639653000,
+   "ts_iso": "2025-10-05T04:47:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251005-WA0014.jpg",
+    "size": 107185,
+    "duration_s": 0,
+    "sha256_b64": "8S1BddVsKnv2espblDYAhK4lePOkYMSoFE6d1JEfnbA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1581485,
+   "key_id": "AC9C3C25D6008C6A3D2CDD2B03B2634B",
+   "ts_ms": 1759639653000,
+   "ts_iso": "2025-10-05T04:47:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251005-WA0012.jpg",
+    "size": 166064,
+    "duration_s": 0,
+    "sha256_b64": "4azBkpfQ6Unie8mAxRWXxzvEQXRKyAmmeUEGbAnLRuM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1581486,
+   "key_id": "AC8473B540F4372031E55B1A3739F8E1",
+   "ts_ms": 1759639654000,
+   "ts_iso": "2025-10-05T04:47:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20251005-WA0013.jpg",
+    "size": 84809,
+    "duration_s": 0,
+    "sha256_b64": "Ncj0BNvSxnsnH0XC0NuliUjBLO3z4eKyuW4hIpj2If8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1581490,
+   "key_id": "AC79A6459AFD8DCC0E69B35FC4E4A2B4",
+   "ts_ms": 1759639806179,
+   "ts_iso": "2025-10-05T04:50:06.179000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero un masaje tántrico",
+   "starred": false
+  },
+  {
+   "id": 1581492,
+   "key_id": "AC489DD960C9D6291EFD8B4399E6A240",
+   "ts_ms": 1759639815805,
+   "ts_iso": "2025-10-05T04:50:15.805000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Están abiertos ahora para pasar?",
+   "starred": false
+  },
+  {
+   "id": 1581493,
+   "key_id": "AC80FAE8652A4B333F3F1C710D2EA5E3",
+   "ts_ms": 1759639825000,
+   "ts_iso": "2025-10-05T04:50:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si amor",
+   "starred": false
+  },
+  {
+   "id": 1581494,
+   "key_id": "AC65962483F44BED4AB8D52B5B495DDA",
+   "ts_ms": 1759639830000,
+   "ts_iso": "2025-10-05T04:50:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vení nomas",
+   "starred": false
+  },
+  {
+   "id": 1581495,
+   "key_id": "AC6AF9BFE5FC2AACDBE8AE44EE7BF9E6",
+   "ts_ms": 1759640124088,
+   "ts_iso": "2025-10-05T04:55:24.088000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En camino",
+   "starred": false
+  },
+  {
+   "id": 1581496,
+   "key_id": "AC571E263A6462CBC0AE9A7C3AE3DA97",
+   "ts_ms": 1759640141000,
+   "ts_iso": "2025-10-05T04:55:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale corazón",
+   "starred": false
+  },
+  {
+   "id": 1581513,
+   "key_id": "AC0BD0A8F7B5FD9E1F6321D89B6FC090",
+   "ts_ms": 1759640734972,
+   "ts_iso": "2025-10-05T05:05:34.972000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llegue",
+   "starred": false
+  },
+  {
+   "id": 1581514,
+   "key_id": "ACF06073DA12228AC3F40DFFAE9786CA",
+   "ts_ms": 1759640737897,
+   "ts_iso": "2025-10-05T05:05:37.897000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Creo",
+   "starred": false
+  },
+  {
+   "id": 1581515,
+   "key_id": "ACBAD9D5B5697DA4CF91896083CB8D90",
+   "ts_ms": 1759640749000,
+   "ts_iso": "2025-10-05T05:05:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te abrl",
+   "starred": false
+  },
+  {
+   "id": 1581529,
+   "key_id": "AC4470AD872D89AB84700305E9266004",
+   "ts_ms": 1759641269639,
+   "ts_iso": "2025-10-05T05:14:29.639000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251005-WA0015.jpg",
+    "size": 61970,
+    "duration_s": 0,
+    "sha256_b64": "SAhqVR8j+MP64W8YdFnvnI23vPForfnVN9Dfw4g2qS8=",
+    "media_name": "480008cf-6cb2-4532-ad66-8ab2dce7344a.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1581542,
+   "key_id": "AC0D53741BE0D88545D351C9BCC60878",
+   "ts_ms": 1759643786391,
+   "ts_iso": "2025-10-05T05:56:26.391000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si la gefa es quien llego",
+   "starred": false
+  },
+  {
+   "id": 1581543,
+   "key_id": "ACF02C3FFF467FDF2483409855098058",
+   "ts_ms": 1759643793621,
+   "ts_iso": "2025-10-05T05:56:33.621000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy para ver los artículos hot que tienen",
+   "starred": false
+  },
+  {
+   "id": 1581544,
+   "key_id": "AC0434CF8CC263594841B07A0B4556FA",
+   "ts_ms": 1759643805079,
+   "ts_iso": "2025-10-05T05:56:45.079000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me gustan las bragas con perlas que veo en la tienda",
+   "starred": false
+  },
+  {
+   "id": 1581545,
+   "key_id": "AC421C1329EEA23FC5BB7D9FF1F8E527",
+   "ts_ms": 1759643915645,
+   "ts_iso": "2025-10-05T05:58:35.645000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Lgtm me pueden mandar link a la tienda y que cosas tienen?",
+   "starred": false
+  }
+ ]
+}

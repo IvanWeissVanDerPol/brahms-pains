@@ -1,0 +1,79 @@
+{
+ "chat_id": 10665,
+ "slug": "_wa_chat_595984694993_10665",
+ "subject": null,
+ "jid_user": "595984694993",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984694993@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1512451,
+   "key_id": "3EB0B81C354F200F250CA0",
+   "ts_ms": 1750783779000,
+   "ts_iso": "2025-06-24T16:49:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen dia Ivan!",
+   "starred": false
+  },
+  {
+   "id": 1512496,
+   "key_id": "3EB0FCF7B439E94CF9076F",
+   "ts_ms": 1750785133000,
+   "ts_iso": "2025-06-24T17:12:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan! Fiorella te saluda nuevamente de Insignia",
+   "starred": false
+  },
+  {
+   "id": 1512497,
+   "key_id": "3EB0B503471692C55F4E7F",
+   "ts_ms": 1750785155000,
+   "ts_iso": "2025-06-24T17:12:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te paso los dos planes de pago de ambas unidades en pozo con sus respectivas plantas",
+   "starred": false
+  },
+  {
+   "id": 1512501,
+   "key_id": "0F05EA79DF940F1522FE9E2ECC4FC8D7",
+   "ts_ms": 1750785373403,
+   "ts_iso": "2025-06-24T17:16:13.403000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1512502,
+   "key_id": "3EB0055D035382E2F09565",
+   "ts_ms": 1750785379000,
+   "ts_iso": "2025-06-24T17:16:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cualquier consulta que tengas, haceme saber!",
+   "starred": false
+  },
+  {
+   "id": 1545204,
+   "key_id": "3EB0D6A45916620535C49B",
+   "ts_ms": 1754324432000,
+   "ts_iso": "2025-08-04T16:20:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan! Fiorella te saluda de Insignia, cualquier consulta a las ordenes!",
+   "starred": false
+  }
+ ]
+}

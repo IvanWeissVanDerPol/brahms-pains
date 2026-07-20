@@ -1,0 +1,88 @@
+{
+ "chat_id": 9159,
+ "slug": "_wa_chat_595971636509_9159",
+ "subject": null,
+ "jid_user": "595971636509",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971636509@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1371390,
+   "key_id": "30E9592212ABEFDF412BCA3606FCDC9C",
+   "ts_ms": 1728864929000,
+   "ts_iso": "2024-10-14T00:15:29+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola!!\nDe Multijuegos VB le escribo, para que zona sería el alquiler de la jenga gigante",
+   "starred": false
+  },
+  {
+   "id": 1371391,
+   "key_id": "FB86A54D483F8FA4160FE77B779CC3F1",
+   "ts_ms": 1728864936000,
+   "ts_iso": "2024-10-14T00:15:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 3,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Private/VID-20241013-WA0025.mp4",
+    "size": 922542,
+    "duration_s": 4,
+    "sha256_b64": "q4KDl39iFS9zS2lz+KwEZMwOa8hvP19/eHbJ8CdpF1E=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1371393,
+   "key_id": "A6BB8E806D5A0563EEBDB6508EC06A2E",
+   "ts_ms": 1728864992388,
+   "ts_iso": "2024-10-14T00:16:32.388000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahh no tienen para vender?\n\nQuiero comprar para tener para fiestas en casa",
+   "starred": false
+  },
+  {
+   "id": 1371394,
+   "key_id": "C689D9B5C84804168C1A0ED52CA6FE3F",
+   "ts_ms": 1728865015002,
+   "ts_iso": "2024-10-14T00:16:55.002000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perdón pensé que era un anuncio para venta de Jenga",
+   "starred": false
+  },
+  {
+   "id": 1371396,
+   "key_id": "6782D97D2D4EA185FC3FC73CDD382AED",
+   "ts_ms": 1728865098000,
+   "ts_iso": "2024-10-14T00:18:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ah entiendo! Sólo en alquiler tenemos por ahora🙌🏻",
+   "starred": false
+  },
+  {
+   "id": 1371397,
+   "key_id": "981948DB5F28AC0F7B00EF48B3F61D70",
+   "ts_ms": 1728865207685,
+   "ts_iso": "2024-10-14T00:20:07.685000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  }
+ ]
+}

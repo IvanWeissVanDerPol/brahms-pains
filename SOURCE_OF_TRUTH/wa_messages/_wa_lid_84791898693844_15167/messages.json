@@ -1,0 +1,35 @@
+{
+ "chat_id": 15167,
+ "slug": "_wa_lid_84791898693844_15167",
+ "subject": null,
+ "jid_user": "84791898693844",
+ "jid_server": "lid",
+ "jid_raw": "84791898693844@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1776684,
+   "key_id": "ACD4F9F70DB8C9A357C171512FCE4D13",
+   "ts_ms": 1778700650382,
+   "ts_iso": "2026-05-13T19:30:50.382000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1776685,
+   "key_id": "AC0197E13BFF872ADF0AEA5764E71FB7",
+   "ts_ms": 1778700658780,
+   "ts_iso": "2026-05-13T19:30:58.780000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El tipo de suno",
+   "starred": false
+  }
+ ]
+}

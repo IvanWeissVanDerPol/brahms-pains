@@ -1,0 +1,192 @@
+{
+ "chat_id": 9618,
+ "slug": "_wa_chat_595991804593_9618",
+ "subject": null,
+ "jid_user": "595991804593",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991804593@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1405759,
+   "key_id": "B5DAB1FC3ADD00B34E67C43E63AD9512",
+   "ts_ms": 1734535415366,
+   "ts_iso": "2024-12-18T15:23:35.366000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1405760,
+   "key_id": "2FDF44F621EB2BD9EAF3",
+   "ts_ms": 1734535419000,
+   "ts_iso": "2024-12-18T15:23:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bienvenido/a te saludamos de Underhaus. 😊\n⛔️ INFORMACIÓN IMPORTANTE ⛔️ ⬇️ (LEER)\nHORARIO DE ATENCIÓN: \n⏱️ Lunes a sábado de 09a 21 hs.⏱️ \n⏱️ Domingos y feriados 12 a 20 hs. ⏱️ \nUBICACIÓN: (tocar el link)📍https://bit.ly/ubicacionunderhaus \n🛵 Delivery Zona Central (hasta las 19hs)\n🚚 ENVÍOS A TODO EL PAÍS 🇵🇾.🔝\n🖥️ PÁGINA WEB: underhaus.com \n¡Dejanos tu consulta y en la brevedad nos pondremos en contacto contigo!",
+   "starred": false
+  },
+  {
+   "id": 1405761,
+   "key_id": "CBDE700565CEAC40784D8D31FB9901B1",
+   "ts_ms": 1734535427056,
+   "ts_iso": "2024-12-18T15:23:47.056000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tienen vaporizador de hierbas?",
+   "starred": false
+  },
+  {
+   "id": 1405762,
+   "key_id": "AF0E41F6E66CA975114DC180FE1C2B9C",
+   "ts_ms": 1734535556436,
+   "ts_iso": "2024-12-18T15:25:56.436000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20241218-WA0017.jpg",
+    "size": 5130,
+    "duration_s": 0,
+    "sha256_b64": "4P8z1Wk4cI5Gq5yGgAYmEHkfEH+ucpKFcTAEDYiib00=",
+    "media_name": "b254de13-488e-4bb0-885c-b8c0b4f7a745.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1405763,
+   "key_id": "E7D5E890B72351C08F64F80701E47D86",
+   "ts_ms": 1734535556466,
+   "ts_iso": "2024-12-18T15:25:56.466000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20241218-WA0018.jpg",
+    "size": 7031,
+    "duration_s": 0,
+    "sha256_b64": "Iw7vZQYH5jcRhwU7BnH2MFooE46QzDVfioU5hNHZN+U=",
+    "media_name": "139ca67b-d937-40ec-b3b3-fc7a1f0fa58a.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1405764,
+   "key_id": "3ABBFFEDE77A0AAD09F7",
+   "ts_ms": 1734535558000,
+   "ts_iso": "2024-12-18T15:25:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas qué tal",
+   "starred": false
+  },
+  {
+   "id": 1405765,
+   "key_id": "CEDA678A4B5EF5F91E7E4DEDDCA87E63",
+   "ts_ms": 1734535567702,
+   "ts_iso": "2024-12-18T15:26:07.702000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uno así busco si tienen",
+   "starred": false
+  },
+  {
+   "id": 1405766,
+   "key_id": "3A29D8EA62F956BCDD2A",
+   "ts_ms": 1734535583000,
+   "ts_iso": "2024-12-18T15:26:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Así no tenemos",
+   "starred": false
+  },
+  {
+   "id": 1405767,
+   "key_id": "57145DF5588A1ABD58231802F1F409E1",
+   "ts_ms": 1734535594081,
+   "ts_iso": "2024-12-18T15:26:34.081000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ":(",
+   "starred": false
+  },
+  {
+   "id": 1405768,
+   "key_id": "4C9A5C818B9D7F9612F562C326A659AD",
+   "ts_ms": 1734535598050,
+   "ts_iso": "2024-12-18T15:26:38.050000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Como tienen?",
+   "starred": false
+  },
+  {
+   "id": 1405769,
+   "key_id": "3A77B726449EB60F26E2",
+   "ts_ms": 1734535638000,
+   "ts_iso": "2024-12-18T15:27:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Así",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241218-WA0019.jpg",
+    "size": 119927,
+    "duration_s": 0,
+    "sha256_b64": "K/n8metohitKxFMz0au7BLow4GidwxgQ7BK2CmfNCag=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1405771,
+   "key_id": "515878EC384309CA55F70C8D8D3B4E97",
+   "ts_ms": 1734535659638,
+   "ts_iso": "2024-12-18T15:27:39.638000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tienen otros modelos ?\n\nEse ya tengo y no me anda tan bien :(",
+   "starred": false
+  },
+  {
+   "id": 1405772,
+   "key_id": "3A901C62646606C69A81",
+   "ts_ms": 1734535693000,
+   "ts_iso": "2024-12-18T15:28:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Tengo estos",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241218-WA0020.jpg",
+    "size": 186331,
+    "duration_s": 0,
+    "sha256_b64": "HvkQoQ764hXgMft2r9x99EIPhSlRe0lAtY+ZzZHciN8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

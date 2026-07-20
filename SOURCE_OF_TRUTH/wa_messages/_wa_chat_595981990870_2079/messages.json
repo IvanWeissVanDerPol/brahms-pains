@@ -1,0 +1,293 @@
+{
+ "chat_id": 2079,
+ "slug": "_wa_chat_595981990870_2079",
+ "subject": null,
+ "jid_user": "595981990870",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981990870@s.whatsapp.net",
+ "message_count": 23,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1353706,
+   "key_id": "FE9425ACB735A4B7073D3830EBF7BFEF",
+   "ts_ms": 1725480237977,
+   "ts_iso": "2024-09-04T20:03:57.977000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1353707,
+   "key_id": "52DB0982BF6CE3249DB11585F1BACAFE",
+   "ts_ms": 1725480246430,
+   "ts_iso": "2024-09-04T20:04:06.430000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Que tipos de trabajo serían?",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Private/IMG-20240904-WA0008.jpg",
+    "size": 109202,
+    "duration_s": 0,
+    "sha256_b64": "1Zp7gHDYCapvJLUFn4PGh3gL5NAnEZk8kXoNq9LFx0E=",
+    "media_name": "26599354-db82-4ce5-aac4-145a63a518c4.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1353708,
+   "key_id": "02AF51712A8E321C1C6A10B41E7FAA7C",
+   "ts_ms": 1725480268876,
+   "ts_iso": "2024-09-04T20:04:28.876000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy informático y me interesa si es un job fair para trabajar remoto en IT",
+   "starred": false
+  },
+  {
+   "id": 1353823,
+   "key_id": "3A5A193B87C6A748A566",
+   "ts_ms": 1725484642000,
+   "ts_iso": "2024-09-04T21:17:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola! Serían vacancias de las empresas americanas que trabajan en el país. Solamente ahí se podrán ver cuáles son las necesidades y oportunidades que tienen.",
+   "starred": false
+  },
+  {
+   "id": 1353825,
+   "key_id": "72D4E91C15100A8BDB862D2A65705186",
+   "ts_ms": 1725484689931,
+   "ts_iso": "2024-09-04T21:18:09.931000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1353826,
+   "key_id": "A3886FCD6D059B66D871D83464591365",
+   "ts_ms": 1725484783050,
+   "ts_iso": "2024-09-04T21:19:43.050000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Serían empresa de becas nomás?",
+   "starred": false
+  },
+  {
+   "id": 1353827,
+   "key_id": "AA45DA2AD37FD071B5CCEEE329D3A260",
+   "ts_ms": 1725484788432,
+   "ts_iso": "2024-09-04T21:19:48.432000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20240904-WA0011.jpg",
+    "size": 49581,
+    "duration_s": 0,
+    "sha256_b64": "augKA+ygrhuYIX0Ka4UgOgDrCQrH1+vjfF5mEaLmEM0=",
+    "media_name": "8b53b0a4-3a0a-4815-9642-9427b475f7c7.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1353828,
+   "key_id": "26CC08F6CB350C12D6D2307CD0489FAD",
+   "ts_ms": 1725484822387,
+   "ts_iso": "2024-09-04T21:20:22.387000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "O onda empresas americanas \n\nComo\namazon Google meta Microsoft IBM\nEtc",
+   "starred": false
+  },
+  {
+   "id": 1353830,
+   "key_id": "3AE29BA8D12F7A390EF9",
+   "ts_ms": 1725484955000,
+   "ts_iso": "2024-09-04T21:22:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202436/PTT-20240904-WA0012.opus",
+    "size": 117537,
+    "duration_s": 49,
+    "sha256_b64": "o5ETcgWLcgLhWbJFyFGB1QgtiU+yKB/FN+jQ9MHRKiY=",
+    "media_name": "PTT-20240904-WA0012.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1353845,
+   "key_id": "AD0593E07479E7639D0E00690D500BFE",
+   "ts_ms": 1725486550620,
+   "ts_iso": "2024-09-04T21:49:10.620000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yeah \n\nPasa que soy del interior \n\nY me interesa cambiar de trabajo \n\nActualmente soy desarrollador para Bulgaria \n\nPero me gustaría trabajar para usa\n\nPero me sería imposible ir por la distancia y Compromísos \n\nPor eso quiero saber antes de ir si va a ser viable \n\n\nYa que si buscan más perfiles onda \nQue sepa inglés nomás \n\n@mis compañeros de beca que estudian lengua /comercio/ marketing \n\nNo sería tan útil que venga un Man de ingeniería informática \n\nPor eso quería confirmar que empresas estarían / sus intereses",
+   "starred": false
+  },
+  {
+   "id": 1437372,
+   "key_id": "3F7B8099034EEEDE0123",
+   "ts_ms": 1740072865000,
+   "ts_iso": "2025-02-20T17:34:25+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas tardes, espero que estén todos bien.\n\nHemos recibido el interés de varios estudiantes de los cursos virtuales de inglés, especialmente de niveles iniciales, que desean participar en clubes de conversación para ganar confianza en el idioma.\n\nComo saben, uno de los proyectos iniciales de Give Back fueron precisamente estos clubes de conversación, y nos gustaría saber si estarían interesados en retomarlos para apoyar a los estudiantes que desean practicar.\n\nLa idea es organizarlos en grupos pequeños de 3 a 4 estudiantes por nivel, con sesiones virtuales de 1 hora y media los sábados por la tarde, por ejemplo, de 14:00 a 15:30, por un periodo inicial de dos meses (8 sábados). \n\nSi algún voluntario desea sumarse como buddy para guiar estos clubes, por favor háganoslo saber. Estaremos proporcionando materiales de apoyo y certificado al voluntario lider de los clubes. ¡Será una gran oportunidad para seguir apoyando el aprendizaje de los estudiantes!\n\n¡Muchas gracias! 😊\n\nhola cuales son los horarios que tienen en mente?\n\na mi me parece que podria participar",
+   "starred": false
+  },
+  {
+   "id": 1437374,
+   "key_id": "3F27E61935F8DF9EDB34",
+   "ts_ms": 1740072898000,
+   "ts_iso": "2025-02-20T17:34:58+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "de paso les muestro los usos de AI para estudiar ingles",
+   "starred": false
+  },
+  {
+   "id": 1437375,
+   "key_id": "3F034220A04DD508D991",
+   "ts_ms": 1740072936000,
+   "ts_iso": "2025-02-20T17:35:36+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "actualmente chat gpt puede hablarte ya y darte tips y corregirte cuando tu acento es muy fuerte \n\npara practicar de forma individual :)",
+   "starred": false
+  },
+  {
+   "id": 1437376,
+   "key_id": "3F0F6038F53A0504890D",
+   "ts_ms": 1740072940000,
+   "ts_iso": "2025-02-20T17:35:40+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "tambien",
+   "starred": false
+  },
+  {
+   "id": 1437379,
+   "key_id": "3EB0F0D4D06EBA8F9F44A3",
+   "ts_ms": 1740073936000,
+   "ts_iso": "2025-02-20T17:52:16+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola que tal? si, me parece que esos usos se pueden dar mas en un nivel intermedio a avanzado para pulir el idioma, porque los niveles iniciales necesitan perden el miedo primero, la mayoria de hecho usa herramientas para pulir la gramatica pero cuando tienen que hablar tienen serios problemas para entender y responder",
+   "starred": false
+  },
+  {
+   "id": 1437380,
+   "key_id": "3EB08FB90C75E5180AC109",
+   "ts_ms": 1740073979000,
+   "ts_iso": "2025-02-20T17:52:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "por eso que queremos que a parte de los cursos formales que toman, puedan tener un compañero de practica que les guie y les ayude a conversar",
+   "starred": false
+  },
+  {
+   "id": 1437381,
+   "key_id": "3FE90BCFB92CA6F32407",
+   "ts_ms": 1740074162000,
+   "ts_iso": "2025-02-20T17:56:02+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "osea imagina que sos un nene shy \nque le da luego verguenza hablar ingles xq hablas medio mal pero solo aprendiste de youtube\n\nle prompteas a gpt que te guie como un profesor y te traduzca canciones que te gustan \nluego le pones en modo voz y le hablas y practicas \nle decis que siempre cuando pronuncias mal te corrija de forma clara y explicativa con ejemplos\n\ny practicas por tu cuenta en casa con una IA que te  puede dar atencion personalizada sin la verguenza de hablar mal en publico \ny los beneficios de practica cuando vuelven a clases grupales \n\nle pueden hablar de cual quier tema hasta onda therapy time o modo hablar de videojuegos o series \nque es lo que mas le gusta hacer a los Jovenes que conozco jsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1437382,
+   "key_id": "3EB04DEB1132D443E7183C",
+   "ts_ms": 1740074271000,
+   "ts_iso": "2025-02-20T17:57:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "si totalmente, mas que nada estoy pensando en los casos que ya detectamos y que estan solicitando ser parte de los clubes",
+   "starred": false
+  },
+  {
+   "id": 1437383,
+   "key_id": "3F13ADCC38398BD167E1",
+   "ts_ms": 1740074280000,
+   "ts_iso": "2025-02-20T17:58:00+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.youtube.com/watch?v=nP-B4yNzdm4&t=30s&ab_channel=P%C3%A9rezFuentes\n\nmin 3 se pone a hablar con la AI \nantes habla de problemas de la educacion normal",
+   "starred": false
+  },
+  {
+   "id": 1437384,
+   "key_id": "3EB01EFD6C7CCA13B42EDB",
+   "ts_ms": 1740074374000,
+   "ts_iso": "2025-02-20T17:59:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "te gustaria entonces tener una sesion sobre este tema? te interesa voluntariarte para estos clubes?",
+   "starred": false
+  },
+  {
+   "id": 1437385,
+   "key_id": "3FB95BEE2E78675A1CDD",
+   "ts_ms": 1740074699000,
+   "ts_iso": "2025-02-20T18:04:59+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me gustaria participar\npero no creo que pueda todos los sabados\n\ndurante la semana trabajo para Canada y durante los findes trabajo para holanda \n\nambos usando AI \n\nme gustaria participar onda para cubrir a alguien si hace falta \ny poder comentar a los compañeros de el uso de GPT para estudiar ingles \n/ comentarles de empresas en latam que buscan empleados con ingles como Mentormate y Willdom\nque su requsito para puestos junior QA son ingles, saber usar aplicaciones de celular y paginas web, saber documentar que estas haciendo y como se rompe el programa que hacen\n\npaga 7 a 10 palos\n\nsi tenes un certificado les vales mas :)",
+   "starred": false
+  },
+  {
+   "id": 1437386,
+   "key_id": "3EB08B133D48E8162FE0EC",
+   "ts_ms": 1740074851000,
+   "ts_iso": "2025-02-20T18:07:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "perfecto, super tengo en cuenta eso asi podemos ver algo que no requiera todos los sabados pero si tipo una charla virtual especifica sobre el uso de la IA en el aprendizaje de idiomas",
+   "starred": false
+  },
+  {
+   "id": 1447098,
+   "key_id": "3F1E3958672413017960",
+   "ts_ms": 1741841213000,
+   "ts_iso": "2025-03-13T04:46:53+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://www.youtube.com/watch?v=fgvRn86B5X0&ab_channel=CloudEnglish",
+   "starred": false
+  }
+ ]
+}

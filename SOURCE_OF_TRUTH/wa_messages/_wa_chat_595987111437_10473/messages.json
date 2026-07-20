@@ -1,0 +1,137 @@
+{
+ "chat_id": 10473,
+ "slug": "_wa_chat_595987111437_10473",
+ "subject": null,
+ "jid_user": "595987111437",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595987111437@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1548607,
+   "key_id": "3B2B569F0CC01708AED6E9499402E73F",
+   "ts_ms": 1754608833000,
+   "ts_iso": "2025-08-07T23:20:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202532/PTT-20250807-WA0043.opus",
+    "size": 53957,
+    "duration_s": 22,
+    "sha256_b64": "UR+n3O+RR5WrevAQPAhdVQAU2mg9GhY9hcYtPpvdC2A=",
+    "media_name": "PTT-20250807-WA0043.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1548608,
+   "key_id": "06ACEA4AF02557A5B1B5B8BC12A6C4D6",
+   "ts_ms": 1754608861059,
+   "ts_iso": "2025-08-07T23:21:01.059000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te veo",
+   "starred": false
+  },
+  {
+   "id": 1548609,
+   "key_id": "201715CEA877DCE8CAFE804E2EAD8C3F",
+   "ts_ms": 1754608867453,
+   "ts_iso": "2025-08-07T23:21:07.453000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Qr",
+   "starred": false
+  },
+  {
+   "id": 1548610,
+   "key_id": "9AE4CC7311F08F9DDF2A80C8D618D3AA",
+   "ts_ms": 1754608870295,
+   "ts_iso": "2025-08-07T23:21:10.295000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No prob",
+   "starred": false
+  },
+  {
+   "id": 1548611,
+   "key_id": "F708BD0D644B765DA68078128C51F165",
+   "ts_ms": 1754608890000,
+   "ts_iso": "2025-08-07T23:21:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202532/PTT-20250807-WA0044.opus",
+    "size": 8721,
+    "duration_s": 3,
+    "sha256_b64": "Hxr0ABxZS4/rQ6pvM3ZDrVj+EjsPFvxmQ6BE2Pf7bEE=",
+    "media_name": "PTT-20250807-WA0044.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1548612,
+   "key_id": "ADA5F928C1804F65B55E0134393FEA90",
+   "ts_ms": 1754608906360,
+   "ts_iso": "2025-08-07T23:21:46.360000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "200 tebgo",
+   "starred": false
+  },
+  {
+   "id": 1548613,
+   "key_id": "45F991461D8B31F33AC7CA8290660065",
+   "ts_ms": 1754608914000,
+   "ts_iso": "2025-08-07T23:21:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202532/PTT-20250807-WA0045.opus",
+    "size": 10819,
+    "duration_s": 4,
+    "sha256_b64": "ujRYfKzDqdrbv2SgkAGmzE/VPZR25A0ti+Bt/dylPSo=",
+    "media_name": "PTT-20250807-WA0045.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1548615,
+   "key_id": "C5890B5E9333E1E52F792A86AE41DCE7",
+   "ts_ms": 1754609496000,
+   "ts_iso": "2025-08-07T23:31:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202532/PTT-20250807-WA0046.opus",
+    "size": 15295,
+    "duration_s": 6,
+    "sha256_b64": "jIJMmUGpb8W2jmTLOwk4jGjV3oFC6uFO0/H8pjhYZ+U=",
+    "media_name": "PTT-20250807-WA0046.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

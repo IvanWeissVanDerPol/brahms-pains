@@ -1,0 +1,68 @@
+{
+ "chat_id": 9658,
+ "slug": "_wa_chat_595985555225_9658",
+ "subject": null,
+ "jid_user": "595985555225",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985555225@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1410853,
+   "key_id": "762614AD3D4C785DBDDA94FA7A0332E0",
+   "ts_ms": 1735315115740,
+   "ts_iso": "2024-12-27T15:58:35.740000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola está cafetería está 1000 000?",
+   "starred": false
+  },
+  {
+   "id": 1410854,
+   "key_id": "89CF9E7949FA849C77",
+   "ts_ms": 1735315119000,
+   "ts_iso": "2024-12-27T15:58:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarse con Tienda Cecotec.\nEn breve un comercial atenderá su consulta.\nLe invitamos a ver nuestros productos en www.TiendaCecotec.com.py/catalogo/",
+   "starred": false
+  },
+  {
+   "id": 1410855,
+   "key_id": "5A395C1375F99B7BFA2D9F3D0804F232",
+   "ts_ms": 1735315124449,
+   "ts_iso": "2024-12-27T15:58:44.449000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasan más detalles",
+   "starred": false
+  },
+  {
+   "id": 1410874,
+   "key_id": "6166A6357412BDFEDA",
+   "ts_ms": 1735315415000,
+   "ts_iso": "2024-12-27T16:03:35+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "si por supuesto",
+   "starred": false
+  },
+  {
+   "id": 1410875,
+   "key_id": "ACE13CACAE87B4DBDF",
+   "ts_ms": 1735315423000,
+   "ts_iso": "2024-12-27T16:03:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "es una cafetera para cafe molido",
+   "starred": false
+  }
+ ]
+}

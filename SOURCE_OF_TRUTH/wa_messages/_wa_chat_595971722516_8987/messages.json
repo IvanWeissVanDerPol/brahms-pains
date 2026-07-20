@@ -1,0 +1,24 @@
+{
+ "chat_id": 8987,
+ "slug": "_wa_chat_595971722516_8987",
+ "subject": null,
+ "jid_user": "595971722516",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971722516@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1433803,
+   "key_id": "52718C800F0512D14252003943847B3C",
+   "ts_ms": 1739544848000,
+   "ts_iso": "2025-02-14T14:54:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaaa padriii, soy Mara madrina de los bichos este semestre \n\nEstamos juntando donaciones para la fiesta de la IINtegración que es mañana, cualquier tipo de colaboración nos sirve muchísimo 🫶🏻 \nAvísame si podrás colaborar y gracias de antemano ✨",
+   "starred": false
+  }
+ ]
+}

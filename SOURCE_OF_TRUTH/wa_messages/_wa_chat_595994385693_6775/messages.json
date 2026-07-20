@@ -1,0 +1,178 @@
+{
+ "chat_id": 6775,
+ "slug": "_wa_chat_595994385693_6775",
+ "subject": null,
+ "jid_user": "595994385693",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994385693@s.whatsapp.net",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1304864,
+   "key_id": "3EB0043F597745853FA684",
+   "ts_ms": 1718764358000,
+   "ts_iso": "2024-06-19T02:32:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estimad Ivan, Le pedimos mil disculpas por el inconveniente de hoy, le comentamos que aun seguimos con demoras por la alta demanda de pedidos.\n\nPor lo tanto le consulto si es que aguardara aún su orden o desea posponerlo para otro día y nosotros le *obsequiamos* el pedido en esa ocasión. ❤️🍣🙏🏻\n\nMuchas gracias por su paciencia y comprensión.✨",
+   "starred": false
+  },
+  {
+   "id": 1304865,
+   "key_id": "B53F0AEF9FA0CFF647",
+   "ts_ms": 1718764401000,
+   "ts_iso": "2024-06-19T02:33:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "puedo esperar :)",
+   "starred": false
+  },
+  {
+   "id": 1304866,
+   "key_id": "8FC30E7E369027DF11",
+   "ts_ms": 1718764459000,
+   "ts_iso": "2024-06-19T02:34:19+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "mi idea es sorprender a mi novia con sushis \ny ella sale luego mas tarde del trabajo onda las 12",
+   "starred": false
+  },
+  {
+   "id": 1304867,
+   "key_id": "0B06EC8E2DDE431F11",
+   "ts_ms": 1718764648000,
+   "ts_iso": "2024-06-19T02:37:28+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "tienen una hora estimada de cuando llegaria?",
+   "starred": false
+  },
+  {
+   "id": 1304868,
+   "key_id": "3EB03C8489E9B11BB8FB2C",
+   "ts_ms": 1718764752000,
+   "ts_iso": "2024-06-19T02:39:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfecto, gracias muy amable.  Y en 40 minutos aproximadamente.",
+   "starred": false
+  },
+  {
+   "id": 1304875,
+   "key_id": "16584118A58B8B6203",
+   "ts_ms": 1718767236000,
+   "ts_iso": "2024-06-19T03:20:36+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "salio ya?",
+   "starred": false
+  },
+  {
+   "id": 1304876,
+   "key_id": "2FF8D78D95A21314A1BE",
+   "ts_ms": 1718767239000,
+   "ts_iso": "2024-06-19T03:20:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "⛩Gracias por escribirnos! Atendemos de martes a domingo de 18:30 a 23:00🏮🍣Si desea realizar un pedido anticipado puede dejarlo escrito y lo procesamos ni bien estemos disponibles 🫡🎏🍱",
+   "starred": false
+  },
+  {
+   "id": 1304880,
+   "key_id": "3EB0DF0EA98F731CC82E65",
+   "ts_ms": 1718767858000,
+   "ts_iso": "2024-06-19T03:30:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora si su pedido esta en camino.",
+   "starred": false
+  },
+  {
+   "id": 1304881,
+   "key_id": "3EB04AB390BBE6E6E35FAE",
+   "ts_ms": 1718767870000,
+   "ts_iso": "2024-06-19T03:31:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Disculpas la demora en el retorno.",
+   "starred": false
+  },
+  {
+   "id": 1304882,
+   "key_id": "8090E092FF420FE39927CC31228844FD",
+   "ts_ms": 1718767896687,
+   "ts_iso": "2024-06-19T03:31:36.687000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  },
+  {
+   "id": 1304883,
+   "key_id": "C474F070D58D82C116A9A74E37A761AC",
+   "ts_ms": 1718767901884,
+   "ts_iso": "2024-06-19T03:31:41.884000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A que hora llega ?",
+   "starred": false
+  },
+  {
+   "id": 1304884,
+   "key_id": "F10C501AEE901BF3180ACF69E739259E",
+   "ts_ms": 1718767909454,
+   "ts_iso": "2024-06-19T03:31:49.454000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para entrar a ducharme sino",
+   "starred": false
+  },
+  {
+   "id": 1304885,
+   "key_id": "3EB0E61D1F821A33D40A19",
+   "ts_ms": 1718768023000,
+   "ts_iso": "2024-06-19T03:33:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puede ducharse nomas",
+   "starred": false
+  },
+  {
+   "id": 1304886,
+   "key_id": "3EB0F7CD4C153B44FA742B",
+   "ts_ms": 1718768028000,
+   "ts_iso": "2024-06-19T03:33:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Porque es a 12 km de aca",
+   "starred": false
+  },
+  {
+   "id": 1304895,
+   "key_id": "A03D4C2AA2CA51E68CDFB0557E157766",
+   "ts_ms": 1718770212131,
+   "ts_iso": "2024-06-19T04:10:12.131000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  }
+ ]
+}

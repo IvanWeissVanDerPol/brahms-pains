@@ -1,0 +1,88 @@
+{
+ "chat_id": 9689,
+ "slug": "_wa_chat_595981000111_9689",
+ "subject": null,
+ "jid_user": "595981000111",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981000111@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1415701,
+   "key_id": "3F8FB8390111BCAC93B3",
+   "ts_ms": 1736206709000,
+   "ts_iso": "2025-01-06T23:38:29+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "¡Hola, Magali! 😊\n\n¡Feliz año nuevo para vos también! Gracias por pasarme tu contacto. Quedo atento a cualquier oportunidad que pueda surgir y con gusto podemos conversar si hay algo interesante.\n\nMientras tanto, te dejo mi página web: ivanweissvanderpol.github.io, donde podés ver más sobre mi experiencia y proyectos.\n\n¡Un abrazo!\nIvan Weiss Van Der Pol",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "uQMB0PItLQrxmtvtbvSPE0NHgcl3+fx8rfygpzaXTV8=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1415909,
+   "key_id": "3A019F5A18912844818C",
+   "ts_ms": 1736253488000,
+   "ts_iso": "2025-01-07T12:38:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días Ivan cómo estás?",
+   "starred": false
+  },
+  {
+   "id": 1415910,
+   "key_id": "3ABDA7D61559B9B80F1C",
+   "ts_ms": 1736253498000,
+   "ts_iso": "2025-01-07T12:38:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Super, ya guardo tu número también",
+   "starred": false
+  },
+  {
+   "id": 1415911,
+   "key_id": "3A0F4EA0FCF077512021",
+   "ts_ms": 1736253504000,
+   "ts_iso": "2025-01-07T12:38:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A las órdenes! ☺️",
+   "starred": false
+  },
+  {
+   "id": 1415949,
+   "key_id": "5AACB1D87501A471546B81EFAFDF6F41",
+   "ts_ms": 1736255258361,
+   "ts_iso": "2025-01-07T13:07:38.361000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días super bien :)",
+   "starred": false
+  },
+  {
+   "id": 1415950,
+   "key_id": "824AB72A0B52D1FB4538F01358BF1B46",
+   "ts_ms": 1736255261550,
+   "ts_iso": "2025-01-07T13:07:41.550000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfect",
+   "starred": false
+  }
+ ]
+}

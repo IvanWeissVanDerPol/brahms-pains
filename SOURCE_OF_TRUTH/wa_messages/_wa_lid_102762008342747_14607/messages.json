@@ -1,0 +1,35 @@
+{
+ "chat_id": 14607,
+ "slug": "_wa_lid_102762008342747_14607",
+ "subject": null,
+ "jid_user": "102762008342747",
+ "jid_server": "lid",
+ "jid_raw": "102762008342747@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1732050,
+   "key_id": "ACED1A96456E1123258EAF3D64ACD333",
+   "ts_ms": 1774295542877,
+   "ts_iso": "2026-03-23T19:52:22.877000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1732051,
+   "key_id": "AC69F0E7B2E8B74F8D75D85F65732321",
+   "ts_ms": 1774295545601,
+   "ts_iso": "2026-03-23T19:52:25.601000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy de Grindr",
+   "starred": false
+  }
+ ]
+}

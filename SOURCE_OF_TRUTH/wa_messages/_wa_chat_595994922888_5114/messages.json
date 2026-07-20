@@ -1,0 +1,201 @@
+{
+ "chat_id": 5114,
+ "slug": "_wa_chat_595994922888_5114",
+ "subject": null,
+ "jid_user": "595994922888",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994922888@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1196548,
+   "key_id": "238C6AC9773108CB58E7084730D1BD65",
+   "ts_ms": 1700369440368,
+   "ts_iso": "2023-11-19T04:50:40.368000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola hacen delivery a San Lorenzo zona una ? \nHacia ingavi?",
+   "starred": false
+  },
+  {
+   "id": 1196549,
+   "key_id": "94F3EB8B9DE04650D3D8DF9BF677C3D1",
+   "ts_ms": 1700369443000,
+   "ts_iso": "2023-11-19T04:50:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Avila Nikkei. ¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1196550,
+   "key_id": "D5AA820782B8E8AAAADA7033988802AA",
+   "ts_ms": 1700369462000,
+   "ts_iso": "2023-11-19T04:51:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1196551,
+   "key_id": "0588AC6DE1C4770E945A7D3140D1784F",
+   "ts_ms": 1700369485000,
+   "ts_iso": "2023-11-19T04:51:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "si hacemos.pero ya estamos cerrados 😰",
+   "starred": false
+  },
+  {
+   "id": 1196552,
+   "key_id": "3398BE5684C7E19B0B92CE7DD59BF5A6",
+   "ts_ms": 1700369493000,
+   "ts_iso": "2023-11-19T04:51:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mañana",
+   "starred": false
+  },
+  {
+   "id": 1196553,
+   "key_id": "61AFAE17B6625BE63FA0119BA637E383",
+   "ts_ms": 1700369506766,
+   "ts_iso": "2023-11-19T04:51:46.766000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1303054,
+   "key_id": "605BF759B492CB5CBE488F5DBE361AB2",
+   "ts_ms": 1718519719467,
+   "ts_iso": "2024-06-16T06:35:19.467000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas me pueden pasar su menú?",
+   "starred": false
+  },
+  {
+   "id": 1303055,
+   "key_id": "8239696C137DBBF2AEE5122C0E5DDE3B",
+   "ts_ms": 1718519727000,
+   "ts_iso": "2024-06-16T06:35:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Avila Nikkei. ¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1303076,
+   "key_id": "3B382563947D1BF4FC7FE6017CB60B8B",
+   "ts_ms": 1718538706000,
+   "ts_iso": "2024-06-16T11:51:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240616-WA0026.jpg",
+    "size": 496160,
+    "duration_s": 0,
+    "sha256_b64": "zqVrCVofbqNsDt0QbCX1J/XxLm0LdGTk9cP053wk8rU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1303077,
+   "key_id": "A9C9DC46AC704C2339EFB6B4F942E9AB",
+   "ts_ms": 1718538706000,
+   "ts_iso": "2024-06-16T11:51:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240616-WA0028.jpg",
+    "size": 568210,
+    "duration_s": 0,
+    "sha256_b64": "WB2fTnc3cUrzcbZHlY+HNgGaGLKojyfp97GeX8m8V9A=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1303078,
+   "key_id": "16CC7865956C0AC1F57AA911E1C8865C",
+   "ts_ms": 1718538707000,
+   "ts_iso": "2024-06-16T11:51:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240616-WA0027.jpg",
+    "size": 471800,
+    "duration_s": 0,
+    "sha256_b64": "R7f9ldP1xxf82KB8VDOrjHXXOxr38bkpTZQU6v5zcWE=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1303079,
+   "key_id": "A2FD3A44DE1BDE2544A4FA9D2A27ED38",
+   "ts_ms": 1718538707000,
+   "ts_iso": "2024-06-16T11:51:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240616-WA0029.jpg",
+    "size": 497226,
+    "duration_s": 0,
+    "sha256_b64": "/s2L8/Xbdmow6Dp5mSkS3DCNjLTto6KH+sr4icV9FTY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1303106,
+   "key_id": "ABA9DAFF7E91603D78466E7798BE1066",
+   "ts_ms": 1718551333000,
+   "ts_iso": "2024-06-16T15:22:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 3,
+   "text": "Sólo por hoy.. combo de Sushi Mix.. de 10 piezas x 35 mil gs... Un mix de sabores en tu paladar! Haz tu pedido ahora hasta las 13: 30 ..... Te esperamos! Felíz día del Padre!!!",
+   "starred": false,
+   "media": {
+    "mime": "video/mp4",
+    "path": "Media/WhatsApp Video/Private/VID-20240616-WA0030.mp4",
+    "size": 735989,
+    "duration_s": 6,
+    "sha256_b64": "X2yox7bl2sCkhVbSBU6htFmyehm4An5qQ0YS9gVricI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "chat_id": 2952,
+ "slug": "_wa_chat_31625105226_2952",
+ "subject": null,
+ "jid_user": "31625105226",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "31625105226@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1037911,
+   "key_id": "0AAC99A63F5059EBACA7379C9BB1D94A",
+   "ts_ms": 1678467559685,
+   "ts_iso": "2023-03-10T16:59:19.685000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hii Richard\n\nAlicia Kannekens passed me your contact \n\nI'm im Ivan Weiss Van Der Pol\n\nCurrently I am working on a project that I want to implement in paraguay\n\nThe idea is to make a robot that can move using gps information to traverse a patch of land \nAs it moves It will drop mixed seeds of native trees \n\nThe idea is to sell the service of my business planting trees \n\nWould you maybe know who I should market the service to?\n\nCurrently I'm thinking about marketing it to politicians and environmentally sustainable companies\n\nAnd how much I should charge for the service?",
+   "starred": false
+  },
+  {
+   "id": 1038029,
+   "key_id": "3A3443E76FE042F8D52A",
+   "ts_ms": 1678474236000,
+   "ts_iso": "2023-03-10T18:50:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hello Ivan, nice to meet you. I'm not sure how I can help you with your plan. But a good first question would be if you already have a business plan?",
+   "starred": false
+  },
+  {
+   "id": 1038076,
+   "key_id": "892CAF7018E0064C634D2B5CEDDAEE54",
+   "ts_ms": 1678481426060,
+   "ts_iso": "2023-03-10T20:50:26.060000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I have worked mainly on the robot part of the project (I'm a computer science student)\nAnd I was thinking of working on the business side when I get back to paraguay\n\nThe reason I started working on it already is because I want to participate in a  competition for entrepreneurs that is happening in my current university (Wichita state university, Kansas)\n\nI read up a bit about business plan and made a basic one for the business \n\nExecutive summary\nGogreen is a company that will provide the services of reforestation using gps guided rovers and pelletized seeds. Our mission is to fight climate change by trapping carbon In plants \n\nServices \nWe provide our clients the means to plant trees in an efficient way \nBenefits of using robots\n* Can work on any conditions (40°C+ temperature for prolonged time)\n* Reduced costs and higher productivity (no need for food and amenities for the rovers and space previously used by humans can transport resources)\n*Assurance of the area that was seeded \n\nUtilizing pelletized seeds \nWe can improve the chanses of the seed growing in to a mature tree\nWe pelletize mixing the seeds with a mix of calcium potassium and nitrogen along with natural insect repellent \n\nOnce the seed is in the ground and it gets rain the pellet traps the humidity creating the needed environment for the seed to sprout \n\nStrategy and implementation \nWith a working full scale version I'll make Instagram videos and promote it digitally \n\nAlso I want to present it in science/technology fairs and events where potential investors and clients are likely to be \n\n\nThe costs for the Rovers is around 700 USD \nFor the pellet ingredients I'll have to check the suppliers in paraguay\n\n\nThe operation would be \n1 a client provides the data of the location to be reforested along with what kind of trees are wanted \n2 we calculate price based on time (going there, working, coming back), area to be reforested, costs of expected seeds + ingredients\n3 we pelletize the seeds and prepare it for transport\n4 we load a car/bus with the disassembled rovers and the seeds, along with resources needed for the operator \n5 the operator arrives at the location verifies the gps coordinates and that the given perimeter is correct\nAnd deploys the rover\nOnce the rover is running out of seeds or battery it returns to the operator for a recharge  and continues working\nIf there are problems (rover stuck) the operator will be in charge of fixing them \n6 once the rover is done it returns to the operator\n\nCurrently the number of roles are \n1 engineer (operator/builder of rovers)\n1 marketing\n1 operator of seed peletizer \n\nI'm not sure if more are needed\n\nExtra ideas \n- camera on rover to make a time lapse video for promotion\n- rover imediatly sprays water on pellets to give initial humidity conditions\n- setup camera that autonomously takes 1 pic a day in a post overlooking job sites for  promotion\n\n\nWould this be helpful?",
+   "starred": false
+  },
+  {
+   "id": 1038596,
+   "key_id": "3A737335158C04CC16A4",
+   "ts_ms": 1678544238000,
+   "ts_iso": "2023-03-11T14:17:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I'm an expert on cooperatives, not an engineer or technical expert, but the competition may be a good opportunity for promoting your idea!",
+   "starred": false
+  },
+  {
+   "id": 1038597,
+   "key_id": "3A39FB2B74564E26814D",
+   "ts_ms": 1678544294000,
+   "ts_iso": "2023-03-11T14:18:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "I work for Rabobank, your idea makes me think about https://acorn.rabobank.com/en/",
+   "starred": false
+  },
+  {
+   "id": 1038598,
+   "key_id": "3A1469E7B0DA80492D37",
+   "ts_ms": 1678544332000,
+   "ts_iso": "2023-03-11T14:18:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "This is a daughter company of Rabobank, maybe good to check their website?",
+   "starred": false
+  },
+  {
+   "id": 1041774,
+   "key_id": "7BFCD7DEEF5D1444785C7FA4C5022587",
+   "ts_ms": 1678884794116,
+   "ts_iso": "2023-03-15T12:53:14.116000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hii sorry for taking so long to respond\nI'm full of activities :(\n\nThanks for the link \n\nI'll check it out",
+   "starred": false
+  }
+ ]
+}

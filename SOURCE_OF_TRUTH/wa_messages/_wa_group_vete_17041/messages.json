@@ -1,0 +1,178 @@
+{
+ "chat_id": 17041,
+ "slug": "_wa_group_vete_17041",
+ "subject": "vete",
+ "jid_user": "120363428841443226",
+ "jid_server": "g.us",
+ "jid_raw": "120363428841443226@g.us",
+ "message_count": 15,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1826075,
+   "key_id": "3EB0B3ED610BE9E320B328",
+   "ts_ms": 1783536255000,
+   "ts_iso": "2026-07-08T18:44:15+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "@154288881946676 analyza y explica todo lo que puedes hacer todas tus habilidades todo lo que ya hicimos en los proyectos so far   puedes ensenar a @90009696760063  conceptops de AI como crear apps contigo como gestinar ya dministar con AI  modelos de negocios con AI",
+   "starred": false
+  },
+  {
+   "id": 1826079,
+   "key_id": "3EB0A043803B4537029B4E",
+   "ts_ms": 1783536416000,
+   "ts_iso": "2026-07-08T18:46:56+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "🔍 Searching past sessions (×3)\n💻 terminal\n```\nls -la /root/ai-whisperers/ 2>/dev/nu...\n```\n🔍 Searching past sessions",
+   "starred": false
+  },
+  {
+   "id": 1826080,
+   "key_id": "3EB06086ABC990F6C73E32",
+   "ts_ms": 1783536477000,
+   "ts_iso": "2026-07-08T18:47:57+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "\n\nHermano, va. Esto es un resumen completo de lo que soy, lo que hemos construido juntos, y los conceptos que podés pasarle a @90009696760063. Te lo armo en 3 bloques: 🤖 *qué puedo hacer*, 🏗️ *qué construimos*, 🎓 *qué enseñarle*.\n\n---\n\n# 🤖 BLOQUE 1 — Todo lo que puedo hacer (capacidades)\n\nSoy **Erebus**, el AI workforce lead de **Ai-Whisperers**. Corro sobre Hermes Agent (Nous Research). No soy un chat — soy un sistema multi-agente con 7 perfiles especializados:\n\n| Perfil | Función |\n|---|---|\n| **Erebus (yo)** | Lead, coordinación general, código, infra |\n| **Explorer-Bot** | Investigación de mercado, competitive intel |\n| **Closer-Bot** | Ventas, propuestas, WhatsApp ghostwriting |\n| **Architect-Bot** | Datos, automatización, legal, brand |\n| **Copy-Bot** | SEO, contenido, micro-copy |\n| **Ops-Bot** | Finanzas, operaciones |\n| **Delivery-Bot** | Tracking de entrega de proyectos |\n\n**Modos especiales:** `/erebus dev` (código puro), `/erebus ops` (Docker/Swarm), `/erebus research` (intel), `/erebus client` (presentación a cliente).\n\n**Capacidades técnicas concretas:**\n\n- 🛠️ **Desarrollo full-stack**: Next.js 16, React 19, TypeScript, Tailwind 4, Node, Python\n- 🐳 **Infraestructura**: Docker Swarm, Traefik routing, Cloudflare Tunnels, VPS management\n- 🌐 **Web**: sitios estáticos, multi-idioma (es/en/nl/de), SEO, Core Web Vitals\n- 📊 **Datos**: Supabase, PostgreSQL, Stripe, MongoDB\n- 🔍 **Investigación**: web search, scraping ético, market intel Paraguay/LATAM\n- 📞 **Comunicaciones**: WhatsApp Business AI, Telegram, Discord, email\n- 🤖 **Multi-agente**: spawnear sub-agentes en paralelo (delegate_task)\n- ⏰ **Automatización**: 16 cron jobs activos, monitoring, healthchecks\n- 💰 **Pagos**: Stripe invoicing, MPP (Machine Payments Protocol)\n- 🎨 **Creative**: image gen (Flux), video gen (Pixverse), TTS, ASCII diagrams\n- 🔐 **Seguridad**: prompt-injection defense, secret rotation, audit\n- 🧠 **Memoria**: persistente entre sesiones (lo que sé de vos se guarda)\n- 🗣️ **Voz**: integración Google Meet, voice AI infrastructure\n\n**Lo que NO soy:** un chatbot que solo responde. Soy un sistema que *ejecuta*. Te escribo, ejecuto, verifico, y te paso el resultado. Si me decís \"hacelo\", lo hago.\n\n---\n\n# 🏗️ BLOQUE 2 — Todo lo que construimos juntos (proyectos)\n\n## 🌐 Fleet de sitios web (40+ clientes live)\n\nPlataforma multi-tenant en Docker Swarm con Traefik como reverse proxy. Cada sitio es un servicio independiente, dominio propio, SSL automático.\n\n**Clientes live destacados:**\n- 🦷 **Ometz Dental** (Gaby) — `ometzdental.com` — dentista, 2 idiomas, contenido estratégico completo\n- 💼 **Nexa Pregnancy** (Paraguay) — `nexapregnancy.com.py` — fertilidad, 4 idiomas\n- 🧳 **El Viajero** — turismo Paraguay → Europa\n- 🌸 **Magnolia Flower** — floristería\n- 💈 **Arnos Barber** — barbería\n- 🛒 **Superspuma** — e-commerce con Bundle Builder\n- 🚜 **Granja Cabral** — agropecuaria\n- 🍼 **HidroBaby Spa** — piletas\n- ⚖️ **Escribanía Paraguay** — servicios legales\n- 🏛️ **Estudio Medieval** — tatuajes\n- 🍔 **De Abasto a Casa** — delivery\n- 🎉 **Fun4Me** — eventos\n\n**Arquitectura del monorepo** (`paragu-ai-platform`):\n- Cada cliente = 1 app independiente en `apps/<slug>/`\n- Contenido en JSON bilingüe (`content/{en,es}/`)\n- Repos separados para *estrategia* (markdown) y *runtime* (código)\n- Deploy con `./deploy.sh` → imagen Docker → servicio Swarm → Traefik routing\n- 53/72 sitios live con SSL válido\n\n## 🦷 Caso Ometz Dental (ejemplo del proceso completo)\n\nEsto muestra cómo trabajo de punta a punta:\n\n1. **Investigación**: scraping de mercado dental Asunción, análisis competencia, pricing\n2. **Estrategia**: 3 opciones de modelo (lujo/premium/accesible), modelo financiero, ROI\n3. **Repo",
+   "starred": false
+  },
+  {
+   "id": 1826081,
+   "key_id": "3EB0D3DD60DC0A1E0E5DC9",
+   "ts_ms": 1783536515000,
+   "ts_iso": "2026-07-08T18:48:35+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "estratégico** (`dentist`): 13 carpetas — `00_STRATEGIC/`, `01_RESEARCH/`, `02_MEETINGS/`, `03_LAUNCH/`, `05_OPERATIONS/`, `07_DESIGN/`, etc.\n4. *Reuniones*: Kiki/Gaby, negociación con Dr. Roque, transcripciones de audio\n5. *Contenido*: 22 páginas × 2 idiomas, copy en palabras de Gaby\n6. *Deploy*: Next.js 16 + React 19 + Tailwind 4, Docker Swarm\n7. *DNS*: Traefik + Let's Encrypt automático\n8. *Validación cliente*: form de 23 preguntas en 5 secciones\n\n*Total: ~200 items completados, sitio live, esperando solo 1 dato (WhatsApp Business) para ir 100% producción.*\n\n*🏗️ Infraestructura del VPS*\n\n- *OS*: Ubuntu 22.04, 6.8 kernel\n- *Contenedores*: Docker Swarm, 40+ servicios\n- *Networking*: Traefik (entrypoints 80/443), red overlay `agent-net`\n- *DNS*: Cloudflare (zonas por dominio) + wildcard `*.paragu-ai.com`\n- *Túneles*: Cloudflare Tunnel para acceso seguro\n- *Backups*: nightly git bundle, cifrado, upload a remote\n- *Monitoring*: cron jobs cada X min, ntfy alerts a Telegram\n\n*📊 Otros proyectos estratégicos*\n\n- *Sunstone* — documento maestro de estrategia de negocio (4 planes Paraguay, modelo de ingresos, agente roles, roadmap)\n- *Lead scoring Paraguay* — algoritmo de proximity a Facultad Politécnica + clientes paying\n- *GitHub org consolidation* — analizamos 90+ repos, propusimos colapsar en 4 buckets\n- *Admin panel* (`paragu-ai.com/admin`) — 9 páginas: leads, clients, revenue, domains, deployments, repos\n- *WhatsApp Business AI agent* — multi-cliente, evolution API + GPT-4 + MCP\n- *La Quebrada Viva* — pipeline 3DGS (photogrammetry → Cesium viewer) para pre-sales\n- *Moltbook/AI research* — análisis de 43 canales de YouTube sobre AI agents\n\n---\n\n*🎓 BLOQUE 3 — Conceptos para enseñarle a @90009696760063*\n\n*1️⃣ ¿Qué es un AI agent?*\n\n*Diferencia clave:*\n- *ChatGPT tradicional*: le preguntás, responde texto. Stateless.\n- *AI Agent (como yo)*: le das un objetivo, *ejecuta acciones* en el mundo real. Tengo memoria persistente, ejecuto código, controlo infra, navego web, escribo archivos, llamo APIs, hago deploys.\n\n*Mi stack mental:*\n- 🧠 *LLM* (cerebro) — DeepSeek / Claude / GPT / Gemini\n- 🛠️ *Tools* (manos) — terminal, browser, filesystem, MCP servers\n- 💾 *Memory* (memoria) — persistente entre sesiones\n- 🎯 *Goal* (objetivo) — \"hacelo todo\", \"aplicá\", \"deployá\"\n- 🔄 *Loop* — pienso → ejecuto → verifico → repito\n\n*2️⃣ Cómo crear apps conmigo (o con cualquier agente)*\n\n*Paso 1 — Definí el objetivo en 1 frase*\n> ❌ \"Quiero una app para mi negocio\"\n> ✅ \"Necesito una landing page bilingüe para mi clínica dental en Asunción con formulario de contacto y botón de WhatsApp\"\n\n*Paso 2 — Dejá que el agente haga el research*\n- El agente investiga el mercado, la competencia, el público\n- Te devuelve opciones y vos elegís\n\n*Paso 3 — Aprobá la estrategia, NO los detalles*\n> \"Hacelo vos\" → el agente decide stack, colores, copy\n> \"Quiero X\" → override solo lo importante\n\n*Paso 4 — Deploy y verificación*\n- El agente deploya solo\n- Te pasa el link live\n- Vos probás y decís \"cambiá esto\" → él ajusta\n\n*Stack típico que armo yo:*\n- Next.js 16 (frontend + backend)\n- Tailwind 4 (estilos)\n- JSON bilingüe (contenido)\n- Docker + Swarm (deploy)\n- Traefik (routing)\n- Cloudflare (DNS + SSL)\n\n*Tiempo total: 1-2 horas para landing; 1-3 días para app completa.*\n\n*3️⃣ Cómo gestionar y administrar con AI*\n\n*Los 3 niveles de delegación:*\n\n| Nivel | Qué delegás | Ejemplo |\n|---|---|---|\n| *Tareas* | Comando puntual | \"Mandame el reporte de hoy\" |\n| *Workflows* | Secuencia repetible | \"Cada lunes, audit todos mis sitios y mandame los que están caídos\" |\n| *Sistemas* | Objetivo completo | \"Mantené mi flota de 40 sitios live 24/7, alertame solo si hay problema\" |\n\n*Cómo lo implemento yo:*\n- *Cron jobs* (16 activos): watchdog, backups, health checks, research\n- *MCP servers* (protocol universal): un agente conecta a Stripe, GitHub, Supabase, etc. desde la misma interfaz",
+   "starred": false
+  },
+  {
+   "id": 1826082,
+   "key_id": "3EB0350A671D8F021C9CBD",
+   "ts_ms": 1783536516000,
+   "ts_iso": "2026-07-08T18:48:36+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "- *Hooks* (3 capas): pre/post acciones, auto-format, block dangerous commands\n- *Multi-agente*: 1 agente líder + 5 sub-agentes en paralelo, cada uno con su contexto\n\n*Lo que podés automatizar HOY en tu negocio:*\n- 📧 *Atención al cliente* — WhatsApp AI agent responde FAQs, agenda citas, escala a humano\n- 💰 *Facturación* — Stripe invoicing automático, dunning de morosos\n- 📊 *Reportes* — ventas/sitio/trafico → email diario\n- 🔍 *Lead scoring* — algoritmo rankea prospectos por probabilidad de compra\n- 🛒 *E-commerce* — catálogo, carrito, checkout, tracking\n- 📝 *Contenido* — SEO, blog posts, social media\n\n*4️⃣ Modelos de negocio con AI (los 5 que más funcionan)*\n\n*🅰️ *AI-as-a-Service (AIaaS)**\n- Vos sos el \"AI operator\" → vendés servicios a clientes\n- Ejemplo real: *Ai-Whisperers* (mi empresa) — 40+ clientes pagando suscripciones mensuales\n- Pricing típico Paraguay: ₲2.5M-15M/mes por cliente PYME\n\n*🅱️ *Productized AI Services**\n- Producto fijo, scope fijo, precio fijo\n- Ejemplos: \"Auditoría SEO con AI\" ₲500K, \"Setup de WhatsApp Bot\" ₲1.5M\n- Margen alto porque repetís el mismo workflow\n\n*🅲️ *AI-Enhanced Agency**\n- Sos una agencia tradicional pero con AI como leverage\n- 1 persona puede hacer el trabajo de 5\n- Cobrás lo mismo, entregás más rápido, ganás más\n\n*🅳️ *AI Tools / Micro-SaaS**\n- Construís un tool con AI (un dashboard, un bot, un scraper)\n- Pricing mensual: $10-100 USD/user\n- Escalable, recurrente, valuado en MRR\n\n*🅴️ *AI Education / Consulting**\n- Enseñas a otros a usar AI (como estás haciendo con @90009696760063)\n- Cobrás por: workshops, mentoría 1:1, curso grabado\n- Margen 100%, scalabe\n\n*El stack que recomiendo arrancar HOY:*\n1. Aprendé a usar 1 agente bien (yo, Claude Code, Cursor)\n2. Hacelo en tu propio negocio primero (1 semana)\n3. Después vendé el servicio a 1 cliente (1 mes)\n4. Productizalo (1 trimestre)\n5. Escalá con multi-agente (6 meses)\n\n---\n\n*📦 Resumen ejecutivo para compartir*\n\nSi tenés que mandarle a @90009696760063 un solo mensaje con todo esto:\n\n> *Hermano, te paso un resumen de lo que es un AI agent y qué podés hacer con uno. Te lo armo en 4 puntos:*\n> \n> *🤖 1) Un AI agent NO es un chat. Es un sistema que ejecuta. Le decís \"armame una app\" y la codea, deploya, y te pasa el link live.*\n> \n> *🛠️ 2) Para crear apps: definí objetivo → agente hace research → aprobás estrategia → deploya solo → vos probás y decís qué cambiar. Tiempo: horas.*\n> \n> *📊 3) Para gestionar: delegá 3 niveles — tareas puntuales, workflows repetibles, sistemas completos. Ejemplos: WhatsApp bot, Stripe automático, reportes, lead scoring.*\n> \n> *💰 4) Modelos de negocio: AIaaS (vender servicios), Productized (paquetes fijos), AI-Enhanced Agency (más rápido, mismo precio), Micro-SaaS (tools recurrentes), Education (enseñar).*\n> \n> *Si querés arrancar, te recomiendo: 1) probá conmigo una app propia, 2) después vendé el servicio. Tiempo para facturar: 1-3 meses.*\n\n---\n\n*Preguntame cuál de las 4 secciones querés expandir, o si querés que arme un curso/guía paso a paso para pasarle.* 🦾",
+   "starred": false
+  },
+  {
+   "id": 1826083,
+   "key_id": "3EB0D8A1F538E89EA2143D",
+   "ts_ms": 1783536516000,
+   "ts_iso": "2026-07-08T18:48:36+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "MiniMax-M3 · 6% · ~",
+   "starred": false
+  },
+  {
+   "id": 1826149,
+   "key_id": "3EB01C5A838C2D63CF89AA",
+   "ts_ms": 1783540606000,
+   "ts_iso": "2026-07-08T19:56:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "@154288881946676 [3:42 PM, 7/8/2026] weissvanderpol: Even better te puedo enseñar a enseñarte a vos mismo\n[3:42 PM, 7/8/2026] weissvanderpol: Que quer s hacer?\n[3:42 PM, 7/8/2026] weissvanderpol: Onda tu pag web etc?\n[3:42 PM, 7/8/2026] weissvanderpol: O full business de tu vete?\n[4:49 PM, 7/8/2026] José Villalba Lugo💡: Para saber como usar en ganaderia y eso\n[4:49 PM, 7/8/2026] José Villalba Lugo💡: Para la página web te mando a vos jajaja\n[4:52 PM, 7/8/2026] José Villalba Lugo💡: Gracias 🫂",
+   "starred": false
+  },
+  {
+   "id": 1826151,
+   "key_id": "3EB0C7C107F54D13D06EB9",
+   "ts_ms": 1783540645000,
+   "ts_iso": "2026-07-08T19:57:25+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "Va, te paso opciones concretas para los dos casos. Elegí y arrancamos hoy mismo.",
+   "starred": false
+  },
+  {
+   "id": 1826153,
+   "key_id": "3EB0684F0904AEBD488CE5",
+   "ts_ms": 1783540647000,
+   "ts_iso": "2026-07-08T19:57:27+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "📋 Updating tasks planning 5 task(s)",
+   "starred": false
+  },
+  {
+   "id": 1826154,
+   "key_id": "3EB03C16C33F49F1AD03DB",
+   "ts_ms": 1783540649000,
+   "ts_iso": "2026-07-08T19:57:29+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "\n\n## 🎯 4 caminos posibles con José\n\n---\n\n### 🅰️ **AI para ganadería** (lo que él dice querer aprender)\n\n**Qué le enseñás:**\n- 📊 **Planilla inteligente** — registro de ganado (peso, vaccinations, celo, partos) en Google Sheets con AI que te avisa \"la vaca X está por parir en 5 días\"\n- 📸 **Diagnóstico visual básico** — foto de lesión/herida → AI te dice qué puede ser + cuándo llamar al vet\n- 💰 **Costos por animal** — AI calcula margen real considerando pastura, sanidad, mano de obra\n- 🌦️ **Alertas climáticas + pastura** — \"lluvia en 3 días, mover hacienda a potrero bajo\"\n- 📈 **Reporte mensual automático** — vos dictás por WhatsApp, AI arma el reporte\n\n**Tiempo:** 2-3 sesiones de 1 hora. Sale 100% gratis con Gemini + Sheets.\n\n**Qué necesita José:** un celular con WhatsApp, una compu con navegador. Nada más.\n\n---\n\n### 🅱️ **Página web para su veterinaria** (lo que él te manda a vos)\n\n**Lo que armamos:**\n- Landing bilingüe (es/en si atiende extranjeros) o solo es\n- Servicios: consulta, cirugía, vacunación, emergencia 24/7\n- Botón WhatsApp directo + mapa + horarios\n- Galería antes/después\n- Form de cita online\n\n**Stack** (igual que Ometz Dental):\n- Next.js + Tailwind\n- Deploy en Docker Swarm\n- Dominio propio tipo `jose-veterinaria.com.py`\n- SSL automático\n\n**Tiempo:** 3-5 días. Costo: dominio ₲80K/año + infra (ya tenés el VPS).\n\n**Precio sugerido al cliente:** ₲2.5M-4M (incluye 6 meses mantenimiento).\n\n---\n\n### 🅲️ **Full business veterinario con AI** (lo más jugoso)\n\nJosé pasa de \"vet que atiende\" a \"vet que opera con AI\":\n\n**Stack completo:**\n1. 🌐 **Web profesional** (lo de arriba)\n2. 📱 **WhatsApp Business AI agent** — agenda citas, recuerda vaccinations, manda recetas\n3. 📋 **Historia clínica digital** — Supabase, accesible desde el celu\n4. 📊 **Dashboard de gestión** — facturación, stock de medicamentos, clientes morosos\n5. 📣 **Marketing automatizado** — \"Tu perro necesita refuerzo de rabia en marzo\" → WA automático\n6. 🤖 **Diagnóstico asistido** — foto + síntomas → AI sugiere (él valida)\n\n**Pricing al cliente:** ₲6-12M/mes con AI agent + web + mantenimiento.\n\n**Escalable:** José puede revender a colegas vets. 10 clientes × ₲6M = ₲60M/mes = USD 8K MRR.\n\n---\n\n### 🅳️ **Enseñarte a enseñarte a vos mismo** (la meta-capa)\n\nEsto es lo que vos (Iván) ofrecés como servicio a clientes como José:\n\n**El framework:**\n1. **Setup del agente** — configuro",
+   "starred": false
+  },
+  {
+   "id": 1826157,
+   "key_id": "3EB021D0E87CE3BC53F3F0",
+   "ts_ms": 1783540658000,
+   "ts_iso": "2026-07-08T19:57:38+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "al cliente con su propio AI agent\n2. *Skill injection* — le cargo las skills de su dominio (vet, ganadero, dentista, etc.)\n3. *Memory training* — el agente aprende el negocio del cliente en 2 semanas\n4. *Delegation playbook* — el cliente aprende a delegar tareas\n5. *Feedback loop* — el agente mejora solo con el uso\n\n*Lo que José aprende en 4 sesiones de 1h:*\n- Sesión 1: qué es un agent + primer chat\n- Sesión 2: delegar tareas reales (registro de ganado)\n- Sesión 3: customizar el agent (agregarle sus propias reglas)\n- Sesión 4: agent hace algo solo y le avisa solo\n\n*Precio del curso:* ₲4-8M por cliente. Scalable, grabás una vez y vendés N veces.\n\n---\n\n*🤔 ¿Qué hacemos?*",
+   "starred": false
+  },
+  {
+   "id": 1826158,
+   "key_id": "3EB000D96F2F28BF56163B",
+   "ts_ms": 1783540658000,
+   "ts_iso": "2026-07-08T19:57:38+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "❓ ¿Por dónde arrancamos con José (@90009696760063)?",
+   "starred": false
+  },
+  {
+   "id": 1826159,
+   "key_id": "3EB061CD1C657711E1A942",
+   "ts_ms": 1783541214000,
+   "ts_iso": "2026-07-08T20:06:54+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "⏳ Working — 10 min — iteration 2/180, clarify",
+   "starred": false
+  },
+  {
+   "id": 1826161,
+   "key_id": "3EB0A7052F246ED42F2AE5",
+   "ts_ms": 1783541262000,
+   "ts_iso": "2026-07-08T20:07:42+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "\n\nVa, veo que no respond ▉",
+   "starred": false
+  },
+  {
+   "id": 1826163,
+   "key_id": "3EB0E0D12E286A578B113F",
+   "ts_ms": 1783541271000,
+   "ts_iso": "2026-07-08T20:07:51+00:00",
+   "from_me": false,
+   "sender_jid": "154288881946676@lid",
+   "type": 0,
+   "text": "Va, veo que no respondiste. Te paso mi recomendación basada en lo que José escribió:\n\n*📊 Análisis de lo que dijo José*\n\nSus 3 mensajes reales:\n1. \"Para saber como usar en ganadería y eso\" ← *quiere aprender AI aplicado*\n2. \"Para la página web te mando a vos jajaja\" ← *sabe que vos manejás la infra*\n3. \"Gracias 🫂\" ← *confía en tu criterio*\n\n*Interpretación:* José NO quiere ser programador ni armar infraestructura. Quiere USAR AI como herramienta en su día a día, y si necesita una web, te la encarga a vos.\n\n---\n\n*🎯 Recomendación: arrancar por *Opción A (AI para ganadería)* y dejar la web para después*\n\n*Por qué:*\n- Es lo que él explícitamente pidió\n- Demuestra valor inmediato (en 1 sesión ya está usándolo)\n- Genera confianza para después venderle la web + paquete completo\n- Testimonio real: \"José usa AI en su campo y factura más\"\n\n*Plan de acción inmediato:*\n\n*📅 Sesión 1 — \"AI en tu bolsillo\" (1 hora)*\n\n1. *Setup WhatsApp AI* (15 min)\n   - José manda foto de vaca con síntoma → yo le respondo diagnóstico probable + acción\n   - José manda audio \"tengo 3 vacas preñadas, van a parir en septiembre\" → yo le armo planilla\n\n2. *Planilla inteligente Google Sheets* (20 min)\n   - Template pre-armado para registro ganadero\n   - Columnas: arete, peso, fecha nacimiento, vaccinations, próxima dosis, observaciones\n   - Fórmula AI: avisa por WhatsApp 7 días antes de cada vacuna\n\n3. *Reporte mensual por WhatsApp* (15 min)\n   - José me manda audio el día 1 del mes → yo le devuelvo:\n     - Cuántos animales\n     - Cuántos parieron\n     - Cuánto gastó en sanidad\n     - Margen estimado\n   - Lo guardo en Sheets automático\n\n4. *Q&A abierta* (10 min)\n   - \"Qué más querés que te automatice?\"\n\n*📅 Sesión 2 — \"Customizá tu agent\" (1 hora, 1 semana después)*\n\n1. José define 3 tareas repetitivas de su semana\n2. Yo le armo el workflow automatizado\n3. Lo probamos juntos en vivo\n4. José lo usa solo por 1 semana\n\n*📅 Sesión 3 — \"Revisión + upsell\" (1 hora, 2 semanas después)*\n\n1. Vemos qué funcionó y qué no\n2. José propone mejoras\n3. *Acá es donde le ofrecés la web* (ya vió el valor de AI, está confiado)\n4. Cotización: web ₲2.5-4M + WhatsApp agent ₲1.5M/mes\n\n---\n\n*🛠️ Lo que necesito de vos para arrancar*\n\n*Confirmame y arranco en los próximos 10 minutos:*\n\n1. ¿Le mando el primer mensaje a José yo directamente (con tu número) o querés mandarle vos primero?\n2. ¿Cuándo es buen momento para él? (día/hora)\n3. ¿Tiene WhatsApp Business ya o solo personal?\n\n*Mientras tanto*, voy a ir preparando:\n- 📋 Template Google Sheets para registro ganadero\n- 🤖 Prompt base para diagnóstico veterinario básico (con disclaimers legales)\n- 📊 Workflow \"audio → reporte\" automático\n- 💰 Propuesta económica para la web (cuando llegue el momento)\n\n¿Le mando o lo agendás vos? 🐄\n\nMiniMax-M3 · 7% · ~",
+   "starred": false
+  }
+ ]
+}

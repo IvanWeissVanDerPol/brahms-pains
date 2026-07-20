@@ -1,0 +1,207 @@
+{
+ "chat_id": 11076,
+ "slug": "_wa_chat_595981272697_11076",
+ "subject": null,
+ "jid_user": "595981272697",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981272697@s.whatsapp.net",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1524177,
+   "key_id": "07E4A05FBF8F169B3ED0A991E49CAB10",
+   "ts_ms": 1752160185000,
+   "ts_iso": "2025-07-10T15:09:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas luis Vargas te escribo de la empresa Woden encargado de recorger equipos de *Personal* y le quiero consultar a que hora puedo pasar a retirar tu equipo que esta de baja, muchas gracias por la repuesta.",
+   "starred": false
+  },
+  {
+   "id": 1524180,
+   "key_id": "AAF88FB5B94541D0B947B4E1BA41F2FE",
+   "ts_ms": 1752161347793,
+   "ts_iso": "2025-07-10T15:29:07.793000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uno Huawei es?",
+   "starred": false
+  },
+  {
+   "id": 1524181,
+   "key_id": "9E80D054CB782D504E6CB4007C33DEE2",
+   "ts_ms": 1752161362000,
+   "ts_iso": "2025-07-10T15:29:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si sr",
+   "starred": false
+  },
+  {
+   "id": 1524182,
+   "key_id": "796B09D86F4985BAA7651486061ED71F",
+   "ts_ms": 1752161382075,
+   "ts_iso": "2025-07-10T15:29:42.075000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cual Modelo es?",
+   "starred": false
+  },
+  {
+   "id": 1524183,
+   "key_id": "B3033166811DD150FB032D879717A5DB",
+   "ts_ms": 1752161386371,
+   "ts_iso": "2025-07-10T15:29:46.371000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo Tengo claro",
+   "starred": false
+  },
+  {
+   "id": 1524184,
+   "key_id": "15C83B75D7685E07516D0D5BF69214C7",
+   "ts_ms": 1752161403006,
+   "ts_iso": "2025-07-10T15:30:03.006000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250710-WA0014.jpg",
+    "size": 123398,
+    "duration_s": 0,
+    "sha256_b64": "EKOOx92krqgwCbTB8NVSqQsIkV1XC0nkFHRCytvKiNo=",
+    "media_name": "9766ac17-3eef-4498-891f-e2649f44b307.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1524185,
+   "key_id": "756F58B4238BA67E4DAF59DE3F2F4C2B",
+   "ts_ms": 1752161404000,
+   "ts_iso": "2025-07-10T15:30:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me pasas tu ubicación y vemos",
+   "starred": false
+  },
+  {
+   "id": 1524186,
+   "key_id": "5DD7BCA71B88A614E4D2AA4DD2A02DDC",
+   "ts_ms": 1752161415560,
+   "ts_iso": "2025-07-10T15:30:15.560000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ese es El que Tengo",
+   "starred": false
+  },
+  {
+   "id": 1524188,
+   "key_id": "7B6C4AE973E3182D62271159CC00C8BE",
+   "ts_ms": 1752161443000,
+   "ts_iso": "2025-07-10T15:30:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uno de personal me figura a su nombre",
+   "starred": false
+  },
+  {
+   "id": 1524189,
+   "key_id": "CD6E1F301BB38C8107534EB8E57C7114",
+   "ts_ms": 1752161452000,
+   "ts_iso": "2025-07-10T15:30:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No tiene presta nombre?",
+   "starred": false
+  },
+  {
+   "id": 1524191,
+   "key_id": "F3C6AEEEA9139FEB2FCEC543D8AFF587",
+   "ts_ms": 1752161465176,
+   "ts_iso": "2025-07-10T15:31:05.176000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y ese es?",
+   "starred": false
+  },
+  {
+   "id": 1524192,
+   "key_id": "F67E4DB2E06FB59D6C9895CF00CF1EB4",
+   "ts_ms": 1752161477000,
+   "ts_iso": "2025-07-10T15:31:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me envías la parte de atrás",
+   "starred": false
+  },
+  {
+   "id": 1524193,
+   "key_id": "41068170D29D7753801E14E701A8E898",
+   "ts_ms": 1752161483359,
+   "ts_iso": "2025-07-10T15:31:23.359000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sino llevaron ya Creo \n\nHace rato ya Cambie",
+   "starred": false
+  },
+  {
+   "id": 1524194,
+   "key_id": "DE459AF33CEF2311B485CB490C9C8321",
+   "ts_ms": 1752161486386,
+   "ts_iso": "2025-07-10T15:31:26.386000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Onda 2 años",
+   "starred": false
+  },
+  {
+   "id": 1524195,
+   "key_id": "12F3F323BB09B4A48894E3C97C095C1A",
+   "ts_ms": 1752161495165,
+   "ts_iso": "2025-07-10T15:31:35.165000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250710-WA0016.jpg",
+    "size": 145246,
+    "duration_s": 0,
+    "sha256_b64": "rg4eTC7/fJaWCFv5TerwF+F+eQ9oLIl5KDysP+1eRQ8=",
+    "media_name": "cd06c92b-d0ed-4ecb-9ed6-89ea0e60d8dd.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1524197,
+   "key_id": "E11242364D24A28F26BA9C694299CC59",
+   "ts_ms": 1752161528000,
+   "ts_iso": "2025-07-10T15:32:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Entiendo",
+   "starred": false
+  }
+ ]
+}

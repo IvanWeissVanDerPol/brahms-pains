@@ -1,0 +1,75 @@
+{
+ "chat_id": 9586,
+ "slug": "_wa_chat_595985200647_9586",
+ "subject": null,
+ "jid_user": "595985200647",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985200647@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1400329,
+   "key_id": "968F896A9717769168D76EC4F09BB471",
+   "ts_ms": 1733494808000,
+   "ts_iso": "2024-12-06T14:20:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "¡Aprovecha esta oferta excepcional en aires acondicionados! 🥳💣🤩\nPor tiempo limitado, podes adquirir un aire acondicionado desde tan solo 18x199.000 Gs, ¡y además te ofrecemos la instalación totalmente gratuita! No pierdas esta oportunidad de mantener tu hogar fresco y cómodo durante todo el año sin tener que preocuparte por costos adicionales de instalación. ¡Contáctanos ahora y asegura tu comodidad al mejor precio!",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241206-WA0004.jpg",
+    "size": 549451,
+    "duration_s": 0,
+    "sha256_b64": "tf6mMueCpg6pRMvK5n/qxP4zCIhX8HtVMsSlCxgO++w=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1400330,
+   "key_id": "6EEA3F8B59C866D43C1B8B1CC29D1A62",
+   "ts_ms": 1733494809000,
+   "ts_iso": "2024-12-06T14:20:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20241206-WA0005.jpg",
+    "size": 139587,
+    "duration_s": 0,
+    "sha256_b64": "XDQXJumi9bBSVpwh3rESV9qY6UL7fyaVhHND+gvmPO4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1400339,
+   "key_id": "4C4143E4A9240B034748AD048662FEFA",
+   "ts_ms": 1733496924663,
+   "ts_iso": "2024-12-06T14:55:24.663000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Paso no quiero más anuncios plz",
+   "starred": false
+  },
+  {
+   "id": 1400340,
+   "key_id": "C2C00D033DA5D36EAD6E70D8DB756F63",
+   "ts_ms": 1733497033000,
+   "ts_iso": "2024-12-06T14:57:13+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale perfecto, disculpe",
+   "starred": false
+  }
+ ]
+}

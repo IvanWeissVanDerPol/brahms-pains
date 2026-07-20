@@ -1,0 +1,220 @@
+{
+ "chat_id": 2272,
+ "slug": "_wa_chat_595982340951_2272",
+ "subject": null,
+ "jid_user": "595982340951",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982340951@s.whatsapp.net",
+ "message_count": 18,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1190014,
+   "key_id": "8409606BEAE2A1B132",
+   "ts_ms": 1699132928000,
+   "ts_iso": "2023-11-04T21:22:08+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola \nveo que estas modificando el doc\n\npara asegurar \nhasta ahora esta la narracion ya\n\ny estas alindando el ppt de la presentacion ahora verdad?",
+   "starred": false
+  },
+  {
+   "id": 1190015,
+   "key_id": "A9777CF7BC56F88767",
+   "ts_ms": 1699132935000,
+   "ts_iso": "2023-11-04T21:22:15+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "voy a preparer el video mientras",
+   "starred": false
+  },
+  {
+   "id": 1190016,
+   "key_id": "D117B81EC2F9CBF8ED",
+   "ts_ms": 1699133034000,
+   "ts_iso": "2023-11-04T21:23:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holii",
+   "starred": false
+  },
+  {
+   "id": 1190018,
+   "key_id": "693374009ED7644240",
+   "ts_ms": 1699133043000,
+   "ts_iso": "2023-11-04T21:24:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya casi la narración",
+   "starred": false
+  },
+  {
+   "id": 1190019,
+   "key_id": "48BEA69EAEB982CF38",
+   "ts_ms": 1699133084000,
+   "ts_iso": "2023-11-04T21:24:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Al ppt le agregué lo de capex y opex, me di cuenta que faltaba porque me fui a mirar los indicadores otv",
+   "starred": false
+  },
+  {
+   "id": 1190020,
+   "key_id": "532BBE247EF28CA44D",
+   "ts_ms": 1699133089000,
+   "ts_iso": "2023-11-04T21:24:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El ppt ya no toco más",
+   "starred": false
+  },
+  {
+   "id": 1190021,
+   "key_id": "F79800DA0302F20542",
+   "ts_ms": 1699133094000,
+   "ts_iso": "2023-11-04T21:24:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Termino en bre la narración",
+   "starred": false
+  },
+  {
+   "id": 1190022,
+   "key_id": "2A12E559CED52198C2",
+   "ts_ms": 1699133108000,
+   "ts_iso": "2023-11-04T21:25:08+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okis avisa que va estando y voy Armando el video",
+   "starred": false
+  },
+  {
+   "id": 1190023,
+   "key_id": "D1B905B5E6C6A90837",
+   "ts_ms": 1699133122000,
+   "ts_iso": "2023-11-04T21:25:22+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "podes poner onda Done en las narraciones que estan ya?",
+   "starred": false
+  },
+  {
+   "id": 1190024,
+   "key_id": "C0E4B496AEF1124F96",
+   "ts_ms": 1699133128000,
+   "ts_iso": "2023-11-04T21:25:28+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "asi prepare los audios de esos ya",
+   "starred": false
+  },
+  {
+   "id": 1190025,
+   "key_id": "F85E37E549424ADAB2",
+   "ts_ms": 1699133130000,
+   "ts_iso": "2023-11-04T21:25:30+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "uwu",
+   "starred": false
+  },
+  {
+   "id": 1190026,
+   "key_id": "BCF44E853CA127DE48",
+   "ts_ms": 1699133139000,
+   "ts_iso": "2023-11-04T21:25:39+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Claro que yes",
+   "starred": false
+  },
+  {
+   "id": 1190030,
+   "key_id": "A005A6F8B88138D6F0",
+   "ts_ms": 1699133210000,
+   "ts_iso": "2023-11-04T21:26:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si le querés cambiar algo a lo que quieras metele nms",
+   "starred": false
+  },
+  {
+   "id": 1190031,
+   "key_id": "BDBC2A141EB432791F",
+   "ts_ms": 1699133214000,
+   "ts_iso": "2023-11-04T21:26:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Con confianza jaja",
+   "starred": false
+  },
+  {
+   "id": 1190033,
+   "key_id": "037466914AE46F30B6",
+   "ts_ms": 1699133230000,
+   "ts_iso": "2023-11-04T21:27:10+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gg",
+   "starred": false
+  },
+  {
+   "id": 1190057,
+   "key_id": "FFF73DDD57DF322016",
+   "ts_ms": 1699134386000,
+   "ts_iso": "2023-11-04T21:46:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Creo que ya está",
+   "starred": false
+  },
+  {
+   "id": 1190058,
+   "key_id": "3EB89A614028AA1096",
+   "ts_ms": 1699134408000,
+   "ts_iso": "2023-11-04T21:46:48+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "estot hacienda los audios",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "NT7CrjevP8vhcVLkXmI/7AbPsst9Hs4wVFSXy3931vk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1190061,
+   "key_id": "168FC0838774D469BAAE21EDCB89E070",
+   "ts_ms": 1699134549000,
+   "ts_iso": "2023-11-04T21:49:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale",
+   "starred": false
+  }
+ ]
+}

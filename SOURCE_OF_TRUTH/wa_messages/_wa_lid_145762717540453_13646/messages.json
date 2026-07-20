@@ -1,0 +1,35 @@
+{
+ "chat_id": 13646,
+ "slug": "_wa_lid_145762717540453_13646",
+ "subject": null,
+ "jid_user": "145762717540453",
+ "jid_server": "lid",
+ "jid_raw": "145762717540453@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1710408,
+   "key_id": "3EB083B2C6C21B82742F6C",
+   "ts_ms": 1772724682000,
+   "ts_iso": "2026-03-05T15:31:22+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1710422,
+   "key_id": "3EB0FED4E6A94D6A2EC5CB",
+   "ts_ms": 1772724900000,
+   "ts_iso": "2026-03-05T15:35:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "adjunto nuestros centros en convenios",
+   "starred": false
+  }
+ ]
+}

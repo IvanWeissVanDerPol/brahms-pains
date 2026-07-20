@@ -1,0 +1,211 @@
+{
+ "chat_id": 2127,
+ "slug": "_wa_chat_595971652994_2127",
+ "subject": null,
+ "jid_user": "595971652994",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595971652994@s.whatsapp.net",
+ "message_count": 18,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1682262,
+   "key_id": "AC1312974D0004277017EB289B59BA6D",
+   "ts_ms": 1770405704732,
+   "ts_iso": "2026-02-06T19:21:44.732000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola profe colbes\n\n\nSoy Iván weiss de iin",
+   "starred": false
+  },
+  {
+   "id": 1682263,
+   "key_id": "AC61F2E025AF10CA1DE38E1D5D13939C",
+   "ts_ms": 1770405715821,
+   "ts_iso": "2026-02-06T19:21:55.821000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy trabajando en un proyecto que me gustaría presentarte",
+   "starred": false
+  },
+  {
+   "id": 1682264,
+   "key_id": "ACABF7AEE769A025924113F92384536E",
+   "ts_ms": 1770405732543,
+   "ts_iso": "2026-02-06T19:22:12.543000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te molesta si te agrego en un grupo con mi team ?\nY te explicamos ?",
+   "starred": false
+  },
+  {
+   "id": 1682269,
+   "key_id": "ACB0D9575AC01A1E00073EC8E2B41689",
+   "ts_ms": 1770405812000,
+   "ts_iso": "2026-02-06T19:23:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Iván, como estás? Ahora mismo estamos cerrando un curso que hicimos esta semana en la FPUNA, así que mi atención está principalmente en eso.",
+   "starred": false
+  },
+  {
+   "id": 1682270,
+   "key_id": "AC935AB8495E3201C36E26E629D9C00E",
+   "ts_ms": 1770405829000,
+   "ts_iso": "2026-02-06T19:23:49+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me podrías explicar primero a grandes rasgos de qué se trata?",
+   "starred": false
+  },
+  {
+   "id": 1682273,
+   "key_id": "AC30A19372E88ED7AD0C1B4EFCC5A85C",
+   "ts_ms": 1770405889792,
+   "ts_iso": "2026-02-06T19:24:49.792000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos trabajando con un framework de geometría p-ádica para bioinformática computacional. Incluye\n\nPredicción de estabilidad proteica (DDG) usando valuación p-ádica\n\nDiseño de péptidos antimicrobianos\n\nHerramientas para HIV y arbovirus",
+   "starred": false
+  },
+  {
+   "id": 1682274,
+   "key_id": "AC1783C342505DC0FBD35147660E2008",
+   "ts_ms": 1770405899555,
+   "ts_iso": "2026-02-06T19:24:59.555000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No prob no hay ningún apuro",
+   "starred": false
+  },
+  {
+   "id": 1682275,
+   "key_id": "AC51D54B9F4EA3B4232C0A1FF27660E4",
+   "ts_ms": 1770405905084,
+   "ts_iso": "2026-02-06T19:25:05.084000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estamos también a full con la startup",
+   "starred": false
+  },
+  {
+   "id": 1682276,
+   "key_id": "AC0CE7D96C4842C0FC49DF0C55B5BF64",
+   "ts_ms": 1770405918988,
+   "ts_iso": "2026-02-06T19:25:18.988000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero para ir viendo con profesionales si vamos por el buen camino",
+   "starred": false
+  },
+  {
+   "id": 1682277,
+   "key_id": "AC82A92ECB1D42738E09BDFD52386710",
+   "ts_ms": 1770405940586,
+   "ts_iso": "2026-02-06T19:25:40.586000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mi idea es agregarte a un grupo con mi compañero y nuestro asistente IA",
+   "starred": false
+  },
+  {
+   "id": 1682278,
+   "key_id": "AC4910118E8F94504F6D35CCBE6D0EF9",
+   "ts_ms": 1770405943000,
+   "ts_iso": "2026-02-06T19:25:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Qué interesante!",
+   "starred": false
+  },
+  {
+   "id": 1682279,
+   "key_id": "AC620F720E19F4A7D9EE2DEDB6C5CE63",
+   "ts_ms": 1770405967118,
+   "ts_iso": "2026-02-06T19:26:07.118000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Así anytime que tengas dudas te responde con el contexto completo del repo Erebus \n\nY nosotros si tenemos algo que aportar también",
+   "starred": false
+  },
+  {
+   "id": 1682280,
+   "key_id": "ACEAABF23FFFB68877BE57C10CBB255C",
+   "ts_ms": 1770405982000,
+   "ts_iso": "2026-02-06T19:26:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mirá, con mucho gusto podemos conversar mejor la semana que viene",
+   "starred": false
+  },
+  {
+   "id": 1682281,
+   "key_id": "AC2F966ABDED2297D9A47405072ED63A",
+   "ts_ms": 1770405990000,
+   "ts_iso": "2026-02-06T19:26:30+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me agotó completamente la organización del curso",
+   "starred": false
+  },
+  {
+   "id": 1682282,
+   "key_id": "AC8CD36EEE723903FA20C6019CC1054D",
+   "ts_ms": 1770405994000,
+   "ts_iso": "2026-02-06T19:26:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Siendo sincero",
+   "starred": false
+  },
+  {
+   "id": 1682283,
+   "key_id": "ACDB6F51BEAC90CF92380CB39E32AA15",
+   "ts_ms": 1770406002000,
+   "ts_iso": "2026-02-06T19:26:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero me interesa lo que me estás comentando",
+   "starred": false
+  },
+  {
+   "id": 1682284,
+   "key_id": "ACB62F1D15D91083EFF9C6481BC6A6CA",
+   "ts_ms": 1770406012893,
+   "ts_iso": "2026-02-06T19:26:52.893000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis \n\nTe escribo en la semana que viene otra vez entonces:)",
+   "starred": false
+  },
+  {
+   "id": 1682285,
+   "key_id": "AC6FA7B35CF914FC7E817F2216FFA0CA",
+   "ts_ms": 1770406020509,
+   "ts_iso": "2026-02-06T19:27:00.509000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias profe n.n",
+   "starred": false
+  }
+ ]
+}

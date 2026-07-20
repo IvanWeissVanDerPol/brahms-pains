@@ -1,0 +1,108 @@
+{
+ "chat_id": 11524,
+ "slug": "_wa_chat_595976933610_11524",
+ "subject": null,
+ "jid_user": "595976933610",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595976933610@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1556451,
+   "key_id": "04B4A440CB86090485410EAFEBDF7B71",
+   "ts_ms": 1755780419867,
+   "ts_iso": "2025-08-21T12:46:59.867000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1556452,
+   "key_id": "6DA5EA1192A0A9094F405A0DF20F6004",
+   "ts_ms": 1755780429361,
+   "ts_iso": "2025-08-21T12:47:09.361000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/IMG-20250819-WA0054.jpg",
+    "size": 80196,
+    "duration_s": 0,
+    "sha256_b64": "uX1g3XlUM59SaBPi8Lfs+ZozPYsp+CKllomeeONbaoI=",
+    "media_name": "4b0e79a7-7061-4393-97a8-b0e106c8331e.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1556453,
+   "key_id": "7E1469F7EE601AF274DF32E880A03A1F",
+   "ts_ms": 1755780429367,
+   "ts_iso": "2025-08-21T12:47:09.367000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202534/PTT-20250821-WA0030.opus",
+    "size": 0,
+    "duration_s": 20,
+    "sha256_b64": "YwrHqqejQuz7ra75MdY2nejKDgH5YZNJZxLS050bS2s=",
+    "media_name": "8aba26130ad24c4992cf2586f4648502.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1556468,
+   "key_id": "32F7B0DCE138129AADE68BE1F55695FA",
+   "ts_ms": 1755780850101,
+   "ts_iso": "2025-08-21T12:54:10.101000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ".hola me está llegando este pedido",
+   "starred": false
+  },
+  {
+   "id": 1556469,
+   "key_id": "5B160BC34E87393B9E0FF1F552E4F125",
+   "ts_ms": 1755780860770,
+   "ts_iso": "2025-08-21T12:54:20.770000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Urgente necesito \n\nSi tienen una estimación de cuando llega",
+   "starred": false
+  },
+  {
+   "id": 1556472,
+   "key_id": "3FF9F463B8EAA94F37A9",
+   "ts_ms": 1755781240000,
+   "ts_iso": "2025-08-21T13:00:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos dias",
+   "starred": false
+  },
+  {
+   "id": 1556473,
+   "key_id": "3FB3737EC0A9472AD613",
+   "ts_ms": 1755781265000,
+   "ts_iso": "2025-08-21T13:01:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "le verifico",
+   "starred": false
+  }
+ ]
+}

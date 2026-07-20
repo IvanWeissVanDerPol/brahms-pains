@@ -1,0 +1,253 @@
+{
+ "chat_id": 6640,
+ "slug": "_wa_group_ciberseguridad_grupo_3_6640",
+ "subject": "Ciberseguridad grupo 3",
+ "jid_user": "120363301287804741",
+ "jid_server": "g.us",
+ "jid_raw": "120363301287804741@g.us",
+ "message_count": 21,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1293867,
+   "key_id": "96E119BC5EF059B145046B1EB0862F79",
+   "ts_ms": 1716931458000,
+   "ts_iso": "2024-05-28T21:24:18+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1293868,
+   "key_id": "5E446212AE0983428651F6F176595206",
+   "ts_ms": 1716931477000,
+   "ts_iso": "2024-05-28T21:24:37+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Alguien mas sabe como hacer el Tp",
+   "starred": false
+  },
+  {
+   "id": 1293869,
+   "key_id": "485145F29F77DD90DCE3A53FAEDA5722",
+   "ts_ms": 1716931497000,
+   "ts_iso": "2024-05-28T21:24:57+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "A mi me explicaron por ahí",
+   "starred": false
+  },
+  {
+   "id": 1293870,
+   "key_id": "B688B5F916ED6CE959122D6C4C890D90",
+   "ts_ms": 1716931514000,
+   "ts_iso": "2024-05-28T21:25:14+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Y creo que se hace en una tarde",
+   "starred": false
+  },
+  {
+   "id": 1293895,
+   "key_id": "20B4BBDE4D11F16EC4C6B2946B1649AF",
+   "ts_ms": 1716932942070,
+   "ts_iso": "2024-05-28T21:49:02.070000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo no tengo mucho contexto aún :(",
+   "starred": false
+  },
+  {
+   "id": 1293941,
+   "key_id": "8225598E3BAFEB8FB0AA072C5C3CB198",
+   "ts_ms": 1716938033000,
+   "ts_iso": "2024-05-28T23:13:53+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Fuah",
+   "starred": false
+  },
+  {
+   "id": 1293942,
+   "key_id": "871DC919EEBC19944D40229729918D0A",
+   "ts_ms": 1716938044000,
+   "ts_iso": "2024-05-28T23:14:04+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Fuerza bro",
+   "starred": false
+  },
+  {
+   "id": 1293961,
+   "key_id": "BACF7B81C8DC2A43A9B63D2D91D323E2",
+   "ts_ms": 1716942597447,
+   "ts_iso": "2024-05-29T00:29:57.447000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jsjsjsjs",
+   "starred": false
+  },
+  {
+   "id": 1293967,
+   "key_id": "BA1E5FEE80705E5C320E219AD10FD4D1",
+   "ts_ms": 1716943593000,
+   "ts_iso": "2024-05-29T00:46:33+00:00",
+   "from_me": false,
+   "sender_jid": "595982139653@s.whatsapp.net",
+   "type": 0,
+   "text": "Nooo que te pasooo",
+   "starred": false
+  },
+  {
+   "id": 1295427,
+   "key_id": "6B9222BD7B6023F03FEEF0527E80232D",
+   "ts_ms": 1717198109559,
+   "ts_iso": "2024-05-31T23:28:29.559000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis les surge ver mañana el tema de el TP por discord ?\n\nOnda las 130?",
+   "starred": false
+  },
+  {
+   "id": 1295431,
+   "key_id": "5E9DA1BECD7F3F8B1A4C390AF4808F5F",
+   "ts_ms": 1717198439000,
+   "ts_iso": "2024-05-31T23:33:59+00:00",
+   "from_me": false,
+   "sender_jid": "595982139653@s.whatsapp.net",
+   "type": 0,
+   "text": "Alohaaa",
+   "starred": false
+  },
+  {
+   "id": 1295432,
+   "key_id": "E4A42C7B2503C57CA50B36AB0D6AB709",
+   "ts_ms": 1717198480000,
+   "ts_iso": "2024-05-31T23:34:40+00:00",
+   "from_me": false,
+   "sender_jid": "595982139653@s.whatsapp.net",
+   "type": 0,
+   "text": "Voy a tratar de estar, si no puedo, pasen el tema y completo",
+   "starred": false
+  },
+  {
+   "id": 1295434,
+   "key_id": "8C79950B6EBE45B28580227BC944C85A",
+   "ts_ms": 1717198748000,
+   "ts_iso": "2024-05-31T23:39:08+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Emm",
+   "starred": false
+  },
+  {
+   "id": 1295435,
+   "key_id": "5A76B4C517B9DC7A7E5D757227C22650",
+   "ts_ms": 1717198752000,
+   "ts_iso": "2024-05-31T23:39:12+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Yo ya hice",
+   "starred": false
+  },
+  {
+   "id": 1295437,
+   "key_id": "808A77E30381E77596881E59185E3CB4",
+   "ts_ms": 1717198774000,
+   "ts_iso": "2024-05-31T23:39:34+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Si nos conectamos les puedo explicar que hice",
+   "starred": false
+  },
+  {
+   "id": 1295456,
+   "key_id": "9788A3065A7EA09FBE",
+   "ts_ms": 1717200758000,
+   "ts_iso": "2024-06-01T00:12:38+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "alv te amo",
+   "starred": false
+  },
+  {
+   "id": 1297733,
+   "key_id": "7CD4BEE191616ACD033F7C00221D5B8A",
+   "ts_ms": 1717631613000,
+   "ts_iso": "2024-06-05T23:53:33+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Me di cuenta que nunca les mostré",
+   "starred": false
+  },
+  {
+   "id": 1297774,
+   "key_id": "9895646CFDBEF948B418038A6DF19D66",
+   "ts_ms": 1717677563857,
+   "ts_iso": "2024-06-06T12:39:23.857000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Love you",
+   "starred": false
+  },
+  {
+   "id": 1298067,
+   "key_id": "35961FC21A144CC75C521270CACACAAC",
+   "ts_ms": 1717769034000,
+   "ts_iso": "2024-06-07T14:03:54+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 0,
+   "text": "Corregido ✅",
+   "starred": false
+  },
+  {
+   "id": 1300404,
+   "key_id": "3EB0203B0A8E37E4AC4246",
+   "ts_ms": 1718164829000,
+   "ts_iso": "2024-06-12T04:00:29+00:00",
+   "from_me": false,
+   "sender_jid": "595972124230@s.whatsapp.net",
+   "type": 1,
+   "text": "enviado 🕐",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240612-WA0001.jpg",
+    "size": 47853,
+    "duration_s": 0,
+    "sha256_b64": "zEAtXBesE3EXoiXXlQ6LPOAL3hW5HBAu2Z3bKJltWTY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1300408,
+   "key_id": "F5450D9A22CE8A68F1162C7575410405",
+   "ts_ms": 1718167312626,
+   "ts_iso": "2024-06-12T04:41:52.626000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  }
+ ]
+}

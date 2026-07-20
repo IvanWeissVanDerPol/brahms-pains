@@ -1,0 +1,24 @@
+{
+ "chat_id": 11867,
+ "slug": "_wa_chat_595994996709_11867",
+ "subject": null,
+ "jid_user": "595994996709",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595994996709@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1577862,
+   "key_id": "ACDA42F5AE4C234AA10DF894D974C7B0",
+   "ts_ms": 1759093015000,
+   "ts_iso": "2025-09-28T20:56:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas!! \nMe presento soy *Mathias Gómez* pero me dicen *Chino* estudiante Ing. Aeronáutica\n\nQuiero robarte un poco de tu tiempo para comentarte que este año me estoy presentando como candidato a Asamblea Universitaria. https://www.instagram.com/p/DPAD9PiDo-9/?igsh=MXRkMjRndHg4emE5Yw== \n\nLas elecciones serán este 10 de octubre en el Polideportivo, de 13 a 21 hs. Me encantaría poder contar con tu apoyo en ese día. Al final también quiero pedirte si podes acompañar a mi equipo, porque juntos trabajamos con la meta de representar a todos. https://www.instagram.com/alianzaaestudiantil_?igsh=aGRydHF3OWVuOGtl",
+   "starred": false
+  }
+ ]
+}

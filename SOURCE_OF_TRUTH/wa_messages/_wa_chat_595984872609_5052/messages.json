@@ -1,0 +1,90 @@
+{
+ "chat_id": 5052,
+ "slug": "_wa_chat_595984872609_5052",
+ "subject": null,
+ "jid_user": "595984872609",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984872609@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1420439,
+   "key_id": "3A66E9F4B87B6EF59540",
+   "ts_ms": 1737050138000,
+   "ts_iso": "2025-01-16T17:55:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holiii, vos estás con Lau? No le llegan mis mensajes",
+   "starred": false
+  },
+  {
+   "id": 1420473,
+   "key_id": "19885F62ADE74C7CB749837BDB3CD2B5",
+   "ts_ms": 1737051026134,
+   "ts_iso": "2025-01-16T18:10:26.134000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola no estoy en mi casa yo",
+   "starred": false
+  },
+  {
+   "id": 1420474,
+   "key_id": "07E093ECF39613FA80592DA2AF8B6156",
+   "ts_ms": 1737051030311,
+   "ts_iso": "2025-01-16T18:10:30.311000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ella en su depto",
+   "starred": false
+  },
+  {
+   "id": 1420489,
+   "key_id": "3AFA8CAFE5287D0B8399",
+   "ts_ms": 1737053641000,
+   "ts_iso": "2025-01-16T18:54:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale",
+   "starred": false
+  },
+  {
+   "id": 1420490,
+   "key_id": "3A0CEAE0E5175D586B8A",
+   "ts_ms": 1737053645000,
+   "ts_iso": "2025-01-16T18:54:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No hay problema",
+   "starred": false
+  },
+  {
+   "id": 1420491,
+   "key_id": "3A6243550F2301352E41",
+   "ts_ms": 1737053648000,
+   "ts_iso": "2025-01-16T18:54:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya le llegó",
+   "starred": false
+  },
+  {
+   "id": 1420492,
+   "key_id": "3A772A747D9FCE5B2625",
+   "ts_ms": 1737053651000,
+   "ts_iso": "2025-01-16T18:54:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  }
+ ]
+}

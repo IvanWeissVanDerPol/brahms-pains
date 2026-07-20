@@ -1,0 +1,249 @@
+{
+ "chat_id": 10387,
+ "slug": "_wa_chat_595983840946_10387",
+ "subject": null,
+ "jid_user": "595983840946",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983840946@s.whatsapp.net",
+ "message_count": 19,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1472284,
+   "key_id": "0462D2D78088DEB0E210EE837D4C7E77",
+   "ts_ms": 1745361595861,
+   "ts_iso": "2025-04-22T22:39:55.861000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250422-WA0018.jpg",
+    "size": 56911,
+    "duration_s": 0,
+    "sha256_b64": "zuGlygc7BkhIS22yL41FgltmN9kYvvjtNjEuDv8KNrM=",
+    "media_name": "13f114e2-d064-478e-b16a-40f0e8d72500.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1472285,
+   "key_id": "F886E36BE46056FE3F268B5EAB31012F",
+   "ts_ms": 1745361601000,
+   "ts_iso": "2025-04-22T22:40:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muy buenas noches, Gracias por comunicarte con Lomiliz de Fernando de la Mora. 😄👋🏼 \n\n*MÉTODO DE PAGO CON EFECTIVO Y TRANSFERENCIA* 📲\n\n¿Cuál sería su pedido?🍔🍕🌯🍟",
+   "starred": false
+  },
+  {
+   "id": 1474082,
+   "key_id": "0C17567306CBEBF5A2278149758F1624",
+   "ts_ms": 1745543768034,
+   "ts_iso": "2025-04-25T01:16:08.034000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola hay promos ?",
+   "starred": false
+  },
+  {
+   "id": 1474083,
+   "key_id": "2F9480456F40D066C8B896059ED8EAFF",
+   "ts_ms": 1745543785000,
+   "ts_iso": "2025-04-25T01:16:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250424-WA0041.jpg",
+    "size": 250350,
+    "duration_s": 0,
+    "sha256_b64": "vq11rhdVMhD3mHw1TcE/S3wEtHw98YOuqofBrdnQUI4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1474084,
+   "key_id": "6CCF9516507611F8095D868E8F1B715C",
+   "ts_ms": 1745543811000,
+   "ts_iso": "2025-04-25T01:16:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aquí esta la carta para que veas",
+   "starred": false
+  },
+  {
+   "id": 1474085,
+   "key_id": "886924AE772D4A5BC1A25B8CF9F5F23C",
+   "ts_ms": 1745543875615,
+   "ts_iso": "2025-04-25T01:17:55.615000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero pedir 4 hamburguesas de carne vacuna",
+   "starred": false
+  },
+  {
+   "id": 1474087,
+   "key_id": "D21925E36A9EFAFAF058BE2BAED22833",
+   "ts_ms": 1745543903308,
+   "ts_iso": "2025-04-25T01:18:23.308000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Creo que mi compañero pidió recién lomitos",
+   "starred": false
+  },
+  {
+   "id": 1474088,
+   "key_id": "10C52CA49F5F3C00C52BDC250714C235",
+   "ts_ms": 1745543932337,
+   "ts_iso": "2025-04-25T01:18:52.337000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuanto es con el delivery?",
+   "starred": false
+  },
+  {
+   "id": 1474089,
+   "key_id": "5693838B58B859EC6481AB32EAF2E9E6",
+   "ts_ms": 1745543948000,
+   "ts_iso": "2025-04-25T01:19:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "70 mil le alcanza en total con delivery",
+   "starred": false
+  },
+  {
+   "id": 1474090,
+   "key_id": "332E253B60444F2880FC7EFD8CCC642E",
+   "ts_ms": 1745543951975,
+   "ts_iso": "2025-04-25T01:19:11.975000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ol",
+   "starred": false
+  },
+  {
+   "id": 1474091,
+   "key_id": "7D279DC932C208302BF40EB932559BEF",
+   "ts_ms": 1745543952916,
+   "ts_iso": "2025-04-25T01:19:12.916000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ol",
+   "starred": false
+  },
+  {
+   "id": 1474092,
+   "key_id": "3EC2ECB262E57371A9019867CA89339D",
+   "ts_ms": 1745543954025,
+   "ts_iso": "2025-04-25T01:19:14.025000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok",
+   "starred": false
+  },
+  {
+   "id": 1474093,
+   "key_id": "CD82903375B4E260C3C822DE592A2D99",
+   "ts_ms": 1745543963000,
+   "ts_iso": "2025-04-25T01:19:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale te enviamos",
+   "starred": false
+  },
+  {
+   "id": 1474094,
+   "key_id": "BBD7B6760CFBB3B6BC6F9CB4B4A6813B",
+   "ts_ms": 1745544007877,
+   "ts_iso": "2025-04-25T01:20:07.877000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250424-WA0042.jpg",
+    "size": 70523,
+    "duration_s": 0,
+    "sha256_b64": "/BGgCJeax0h9G3+ZICjyYV+pSOh1c97+MGd/uAd29m4=",
+    "media_name": "56586061-9de9-4dc6-a19a-d0b4f483d405.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1474102,
+   "key_id": "4357C6BAF9DD7C111D16975026362733",
+   "ts_ms": 1745544188989,
+   "ts_iso": "2025-04-25T01:23:08.989000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puede ser sin lechuga",
+   "starred": false
+  },
+  {
+   "id": 1474104,
+   "key_id": "F5E6FEE9C5E336B223217831B1A663C6",
+   "ts_ms": 1745544192242,
+   "ts_iso": "2025-04-25T01:23:12.242000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Las hamburguesas",
+   "starred": false
+  },
+  {
+   "id": 1474105,
+   "key_id": "926CE0F6EC315F0F01AC6E1635B16B5D",
+   "ts_ms": 1745544214629,
+   "ts_iso": "2025-04-25T01:23:34.629000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Siempre llegan muy calientes y se sienten raro :(",
+   "starred": false
+  },
+  {
+   "id": 1474106,
+   "key_id": "12B1CD6A2574DA906A4D73509257698A",
+   "ts_ms": 1745544227000,
+   "ts_iso": "2025-04-25T01:23:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale sin problema",
+   "starred": false
+  },
+  {
+   "id": 1474107,
+   "key_id": "80FC7C4695D33CBA4A91E0E04AFEED1D",
+   "ts_ms": 1745544228000,
+   "ts_iso": "2025-04-25T01:23:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  }
+ ]
+}

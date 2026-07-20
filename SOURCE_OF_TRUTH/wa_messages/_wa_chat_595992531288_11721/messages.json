@@ -1,0 +1,189 @@
+{
+ "chat_id": 11721,
+ "slug": "_wa_chat_595992531288_11721",
+ "subject": null,
+ "jid_user": "595992531288",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992531288@s.whatsapp.net",
+ "message_count": 16,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1783235,
+   "key_id": "2A53E3DB35FA7A1E62AE",
+   "ts_ms": 1779493340000,
+   "ts_iso": "2026-05-22T23:42:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Qué tal amigo",
+   "starred": false
+  },
+  {
+   "id": 1783236,
+   "key_id": "ACD095BBCE96C22A07CDFC1B6B87D963",
+   "ts_ms": 1779493360074,
+   "ts_iso": "2026-05-22T23:42:40.074000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola bien",
+   "starred": false
+  },
+  {
+   "id": 1783237,
+   "key_id": "ACF1A0115FDD061779E62A85FCD7C6CD",
+   "ts_ms": 1779493367959,
+   "ts_iso": "2026-05-22T23:42:47.959000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vos qué tal? :)",
+   "starred": false
+  },
+  {
+   "id": 1783238,
+   "key_id": "2A8F10258D5AA52DE7AA",
+   "ts_ms": 1779493381000,
+   "ts_iso": "2026-05-22T23:43:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bien tengo una consulta",
+   "starred": false
+  },
+  {
+   "id": 1783239,
+   "key_id": "2AAE0C3D779717CB66CB",
+   "ts_ms": 1779493388000,
+   "ts_iso": "2026-05-22T23:43:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Solo estás con mujeres ?",
+   "starred": false
+  },
+  {
+   "id": 1783240,
+   "key_id": "ACB17ECD200966624269E67A266CB0AC",
+   "ts_ms": 1779493397147,
+   "ts_iso": "2026-05-22T23:43:17.147000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy bi",
+   "starred": false
+  },
+  {
+   "id": 1783241,
+   "key_id": "ACCD8862A3D0AC578E1F93CF1CD4346B",
+   "ts_ms": 1779493407582,
+   "ts_iso": "2026-05-22T23:43:27.582000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero más onda en tríos",
+   "starred": false
+  },
+  {
+   "id": 1783242,
+   "key_id": "2AC327779563F8CE8F7E",
+   "ts_ms": 1779493432000,
+   "ts_iso": "2026-05-22T23:43:52+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sos bi activo ? O pasivo?",
+   "starred": false
+  },
+  {
+   "id": 1783243,
+   "key_id": "AC685E9CAF89E8D3C3FE06B11212A4AE",
+   "ts_ms": 1779493437374,
+   "ts_iso": "2026-05-22T23:43:57.374000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ambos",
+   "starred": false
+  },
+  {
+   "id": 1783245,
+   "key_id": "AC353BB20E716EADD4886BD1F71AD4DB",
+   "ts_ms": 1779493449161,
+   "ts_iso": "2026-05-22T23:44:09.161000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Más act pero si da el mood estoy",
+   "starred": false
+  },
+  {
+   "id": 1783248,
+   "key_id": "2AAAE96D7C470DE92A75",
+   "ts_ms": 1779493505000,
+   "ts_iso": "2026-05-22T23:45:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mira yo soy bi pasivo",
+   "starred": false
+  },
+  {
+   "id": 1783249,
+   "key_id": "2A942520FABFAF7189FD",
+   "ts_ms": 1779493515000,
+   "ts_iso": "2026-05-22T23:45:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por si te interesa",
+   "starred": false
+  },
+  {
+   "id": 1783253,
+   "key_id": "AC794499F58338FED34B65B40301FB45",
+   "ts_ms": 1779493542157,
+   "ts_iso": "2026-05-22T23:45:42.157000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sos solo o estás con alguien?",
+   "starred": false
+  },
+  {
+   "id": 1783256,
+   "key_id": "ACD13559989270568FE233BD8B173AD5",
+   "ts_ms": 1779493563082,
+   "ts_iso": "2026-05-22T23:46:03.082000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Donde es tu zona?\n\n\nYo soy de ingavi",
+   "starred": false
+  },
+  {
+   "id": 1783257,
+   "key_id": "2A297C1DBDB4BB4F8E59",
+   "ts_ms": 1779493580000,
+   "ts_iso": "2026-05-22T23:46:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy solo en este momento",
+   "starred": false
+  },
+  {
+   "id": 1783258,
+   "key_id": "2AD6C6A53CA06308264D",
+   "ts_ms": 1779493591000,
+   "ts_iso": "2026-05-22T23:46:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo zona Multiplaza",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "chat_id": 11788,
+ "slug": "_wa_chat_15144029271_11788",
+ "subject": null,
+ "jid_user": "15144029271",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "15144029271@s.whatsapp.net",
+ "message_count": 17,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1570648,
+   "key_id": "3ACF22FDE717B6EC7F1D",
+   "ts_ms": 1757946102000,
+   "ts_iso": "2025-09-15T14:21:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi",
+   "starred": false
+  },
+  {
+   "id": 1570650,
+   "key_id": "3AE56A2111E052A11EFF",
+   "ts_ms": 1757946121000,
+   "ts_iso": "2025-09-15T14:22:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Like this",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250915-WA0015.jpg",
+    "size": 66784,
+    "duration_s": 0,
+    "sha256_b64": "TvXqyzrIXxhILe0ukaGcZEUMj0Qdp491TIfdcSzMZLI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570665,
+   "key_id": "ACE265C0E5DC66F0CC07D4D09A255F4A",
+   "ts_ms": 1757947013140,
+   "ts_iso": "2025-09-15T14:36:53.140000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250915-WA0016.jpg",
+    "size": 139772,
+    "duration_s": 0,
+    "sha256_b64": "268FLHMS3uYq7RFoXjZjZOWgnLAcwHr9w6qLviQgrhs=",
+    "media_name": "67055c1a-6070-454f-990f-3dc552eceb07.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570666,
+   "key_id": "AC622A96CC19D2476C5E685CABCB0738",
+   "ts_ms": 1757947013366,
+   "ts_iso": "2025-09-15T14:36:53.366000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250915-WA0019.jpg",
+    "size": 221640,
+    "duration_s": 0,
+    "sha256_b64": "9YSGzhmswcEt0/LGFDkm/awYsYgs2dsApSdhc4It19o=",
+    "media_name": "41d0feef-946d-4bc8-964f-a047c9fc84d4.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570667,
+   "key_id": "AC651959983E9F1534BDE02EAD7A051F",
+   "ts_ms": 1757947013544,
+   "ts_iso": "2025-09-15T14:36:53.544000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250915-WA0018.jpg",
+    "size": 134615,
+    "duration_s": 0,
+    "sha256_b64": "PBhfMCdRJozlCo721S/8Kd0jkEBmXomyYPXUPIoGfqw=",
+    "media_name": "a447936a-410d-4bec-ad99-e416402ccada.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570668,
+   "key_id": "AC673A3FE4AB928554B4DC37ACB23046",
+   "ts_ms": 1757947013614,
+   "ts_iso": "2025-09-15T14:36:53.614000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250915-WA0017.jpg",
+    "size": 100335,
+    "duration_s": 0,
+    "sha256_b64": "HHbe9aukhD0ENfPDaYAR+rUCqJ2jMO7LO0H07FsT8b4=",
+    "media_name": "d52e1e71-5dcd-4405-a4a5-6fb580481441.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570669,
+   "key_id": "AC1E102C62EC66AA8C1EA37D04F91D0C",
+   "ts_ms": 1757947013788,
+   "ts_iso": "2025-09-15T14:36:53.788000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250915-WA0020.jpg",
+    "size": 94197,
+    "duration_s": 0,
+    "sha256_b64": "94nrfg9V+GfDz8IKIU1IJl9xKlhF7AwCxL3dvCpGYh0=",
+    "media_name": "628579ac-445b-4b72-a8e7-48d38746f500.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570670,
+   "key_id": "AC9194FAFFE750DA6AAC54E1AF013D93",
+   "ts_ms": 1757947014014,
+   "ts_iso": "2025-09-15T14:36:54.014000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250915-WA0021.jpg",
+    "size": 87953,
+    "duration_s": 0,
+    "sha256_b64": "BR5AclXTc2+0R2jvJgwP+BNJ/988EY3stmmWnLonoNY=",
+    "media_name": "3bb9baea-0d37-4f75-b82e-9078a4e1c445.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570671,
+   "key_id": "AC51E4CC37CE8065EE89314E405785E5",
+   "ts_ms": 1757947014177,
+   "ts_iso": "2025-09-15T14:36:54.177000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250915-WA0022.jpg",
+    "size": 100959,
+    "duration_s": 0,
+    "sha256_b64": "VZ+jpGtG7qhHFyr5KGTaS47cRUaT5tTUPRJBWr72Lg0=",
+    "media_name": "f6950a21-7e8d-4856-bf23-4e98824ca79c.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570672,
+   "key_id": "AC4D8567684F339165AD8A8042B875F3",
+   "ts_ms": 1757947014270,
+   "ts_iso": "2025-09-15T14:36:54.270000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250915-WA0023.jpg",
+    "size": 98256,
+    "duration_s": 0,
+    "sha256_b64": "akYB2JPLg+vD+QvvYmCB5/LIHIjKnb+Ko0MzAJIDh44=",
+    "media_name": "10d56d65-ffce-4d27-9108-145be9436d72.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1570675,
+   "key_id": "3A181A1FD8FD36102C3A",
+   "ts_ms": 1757947111000,
+   "ts_iso": "2025-09-15T14:38:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Shoppers\n1436 Kensington Rd NW, Calgary, AB T2N 3P9\nTel: 403-521-0329\nFax: 403-521-0348",
+   "starred": false
+  },
+  {
+   "id": 1571233,
+   "key_id": "AC46A1211D2A4E6FCACC9448A42D6F12",
+   "ts_ms": 1758003222777,
+   "ts_iso": "2025-09-16T06:13:42.777000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250916-WA0000.jpg",
+    "size": 94994,
+    "duration_s": 0,
+    "sha256_b64": "/D+vvHHjc/ZSzAuImFngDjVTb/svhbaqPVXP1QdasBQ=",
+    "media_name": "b16b0f27-c2f3-4ade-9b1b-e80b9914a192.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1571234,
+   "key_id": "ACDA795D50C5146A466163AF7590E402",
+   "ts_ms": 1758003222793,
+   "ts_iso": "2025-09-16T06:13:42.793000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250916-WA0003.jpg",
+    "size": 90407,
+    "duration_s": 0,
+    "sha256_b64": "5ATo0B0HuiBbTzSV73o2dat1UhW9sPD10jeqryK9KkU=",
+    "media_name": "c8a6a405-f4bc-4b77-9279-db948640e410.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1571235,
+   "key_id": "AC4FE87F83ED9549EE6A89BF8AE708C7",
+   "ts_ms": 1758003222804,
+   "ts_iso": "2025-09-16T06:13:42.804000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250916-WA0001.jpg",
+    "size": 81119,
+    "duration_s": 0,
+    "sha256_b64": "EBUpswsGox7pD7IG2IyRllpZiT+8XNFQuHZpxsqk8d8=",
+    "media_name": "4d51ead4-3aec-4086-b646-eb035bf60cd2.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1571236,
+   "key_id": "AC5946C56CE3D252146A683D11909D42",
+   "ts_ms": 1758003222817,
+   "ts_iso": "2025-09-16T06:13:42.817000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250916-WA0002.jpg",
+    "size": 84607,
+    "duration_s": 0,
+    "sha256_b64": "O3NBKlTc3Nm47zW7zX2hDgxcoP8qrRnC4BzaALYjIKY=",
+    "media_name": "85649d13-16c6-4547-809a-17fc592a78e3.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1571237,
+   "key_id": "AC6BFB90CF2A3BF99F7360251A54CA91",
+   "ts_ms": 1758003222827,
+   "ts_iso": "2025-09-16T06:13:42.827000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250916-WA0004.jpg",
+    "size": 76556,
+    "duration_s": 0,
+    "sha256_b64": "1g7K9aD63NgECG8nZgBJqYTq2NEuIC36mzv8/jO6fCo=",
+    "media_name": "606e11be-d96c-4e83-919e-f7284914e64b.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1571238,
+   "key_id": "ACA752CA16FE2ED7CDB74085FD112909",
+   "ts_ms": 1758003238340,
+   "ts_iso": "2025-09-16T06:13:58.340000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola el lado derecho creo que está empezando",
+   "starred": false
+  }
+ ]
+}

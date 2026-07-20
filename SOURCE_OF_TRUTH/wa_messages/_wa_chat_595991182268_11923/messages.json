@@ -1,0 +1,101 @@
+{
+ "chat_id": 11923,
+ "slug": "_wa_chat_595991182268_11923",
+ "subject": null,
+ "jid_user": "595991182268",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991182268@s.whatsapp.net",
+ "message_count": 8,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1580856,
+   "key_id": "AC2E9C8F2DAAC912CB70F390ECD5894A",
+   "ts_ms": 1759576063773,
+   "ts_iso": "2025-10-04T11:07:43.773000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, qué tal? Te escribo por tu anuncio en Zonaroja.com.py",
+   "starred": false
+  },
+  {
+   "id": 1580857,
+   "key_id": "AC67003AA6D8FC65E36FC81E634BBA4B",
+   "ts_ms": 1759576088000,
+   "ts_iso": "2025-10-04T11:08:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1580858,
+   "key_id": "AC9938BA2828608C63FC18C55DDD8193",
+   "ts_ms": 1759576100948,
+   "ts_iso": "2025-10-04T11:08:20.948000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola cuales son los precios?",
+   "starred": false
+  },
+  {
+   "id": 1580859,
+   "key_id": "AC77C47B8B7A8C8FD77014238ADBB4EB",
+   "ts_ms": 1759576106739,
+   "ts_iso": "2025-10-04T11:08:26.739000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y donde ?",
+   "starred": false
+  },
+  {
+   "id": 1580860,
+   "key_id": "ACD5981E5ED09E2E78BA6DC8059886BC",
+   "ts_ms": 1759576120000,
+   "ts_iso": "2025-10-04T11:08:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tenes desde 100mil 150y200",
+   "starred": false
+  },
+  {
+   "id": 1580861,
+   "key_id": "AC8D54909284B4694A82AC0CBE5D9FC5",
+   "ts_ms": 1759576127000,
+   "ts_iso": "2025-10-04T11:08:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mañana de10a22hra",
+   "starred": false
+  },
+  {
+   "id": 1580862,
+   "key_id": "ACE66CC5EB4176E5A2304C51CA00006C",
+   "ts_ms": 1759576131000,
+   "ts_iso": "2025-10-04T11:08:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hoy no",
+   "starred": false
+  },
+  {
+   "id": 1580863,
+   "key_id": "ACDFAC74FD46878C59144010597B1442",
+   "ts_ms": 1759576141900,
+   "ts_iso": "2025-10-04T11:09:01.900000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Okis",
+   "starred": false
+  }
+ ]
+}

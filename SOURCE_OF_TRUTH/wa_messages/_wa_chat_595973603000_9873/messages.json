@@ -1,0 +1,176 @@
+{
+ "chat_id": 9873,
+ "slug": "_wa_chat_595973603000_9873",
+ "subject": null,
+ "jid_user": "595973603000",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595973603000@s.whatsapp.net",
+ "message_count": 14,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1426533,
+   "key_id": "3F430A49CA444CD36345",
+   "ts_ms": 1738255967000,
+   "ts_iso": "2025-01-30T16:52:47+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1426534,
+   "key_id": "3F55FFA9FD91D2AEF155",
+   "ts_ms": 1738255979000,
+   "ts_iso": "2025-01-30T16:52:59+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Sent/IMG-20250210-WA0014.jpg",
+    "size": 204104,
+    "duration_s": 0,
+    "sha256_b64": "ZuqLTohWjEPIWqHZ0qAx6yJbtC/1bqSHmdnp9fM1lCA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1426535,
+   "key_id": "3F3497538D2F463BC2C9",
+   "ts_ms": 1738255993000,
+   "ts_iso": "2025-01-30T16:53:13+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Quiero traer muchos \nFrutos secos y deshidratados\nPara poner en mis granolas \n\nHacen precio mayorista?\n\nOnda para traer medio Kg a 1 Kg de muchas cosas ?\n\n\nque requisitos hay que cumplir?",
+   "starred": false
+  },
+  {
+   "id": 1426542,
+   "key_id": "A3076DDC4101F2161043AAFB627D8F3F",
+   "ts_ms": 1738258263000,
+   "ts_iso": "2025-01-30T17:31:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola que tal 🙌🏻",
+   "starred": false
+  },
+  {
+   "id": 1426543,
+   "key_id": "344878A5838E4758058AB43CDB348AC4",
+   "ts_ms": 1738258270000,
+   "ts_iso": "2025-01-30T17:31:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Te paso los requisitos que solita la tienda",
+   "starred": false
+  },
+  {
+   "id": 1426544,
+   "key_id": "C83D54DCF2BDA9F7188A666C62FCDA03",
+   "ts_ms": 1738258307000,
+   "ts_iso": "2025-01-30T17:31:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bienvenido a Granel! 💚\n\nPara las compras mayoristas, necesitamos saber:\n\n👉🏻 Demostrar que se dedica a la ventas de productos ya sea con tienda física o online (nombre de la página o local) y la Ciudad;\n👉🏻 Compra mínima 500.000gs;\n👉🏻 Productos a granel mínimo 500gr;\n👉🏻 Productos envasados mínimo 3 unidades.\n\nMe puedes pasar  la informacion, para dar un seguimiento.",
+   "starred": false
+  },
+  {
+   "id": 1426546,
+   "key_id": "3F2DD1368A0E87C2D272",
+   "ts_ms": 1738259030000,
+   "ts_iso": "2025-01-30T17:43:50+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me dedico a informatica\n\nno quiero comprar para re vender\n\nquiero comprar en cantidad xq es caro en asu\n\ny venden solo en porciones pequenas\n\nquiero hacer un dia un monton de granola y mezcla \n\npara durante el año mezclar con avena para snacks y desayunos en casa",
+   "starred": false
+  },
+  {
+   "id": 1426547,
+   "key_id": "3F199EDCEF34213FCE81",
+   "ts_ms": 1738259061000,
+   "ts_iso": "2025-01-30T17:44:21+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "quiero comprar onda por 600 x ahi \n\ndef 500g como min\n\ny onda 12 productos distintos",
+   "starred": false
+  },
+  {
+   "id": 1426548,
+   "key_id": "3FAF3AC96F8F05F083EB",
+   "ts_ms": 1738259079000,
+   "ts_iso": "2025-01-30T17:44:39+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "somos 5 en casa y se acaba rapico lo del super :(",
+   "starred": false
+  },
+  {
+   "id": 1426592,
+   "key_id": "FC98EC04FEF2D4852C03418F22D22EF0",
+   "ts_ms": 1738266267000,
+   "ts_iso": "2025-01-30T19:44:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Entiendo",
+   "starred": false
+  },
+  {
+   "id": 1426605,
+   "key_id": "3F865505C04C73C59420",
+   "ts_ms": 1738267178000,
+   "ts_iso": "2025-01-30T19:59:38+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "puedo comprar entonces? :)",
+   "starred": false
+  },
+  {
+   "id": 1426606,
+   "key_id": "3FF7057F071FFC7D1000",
+   "ts_ms": 1738267211000,
+   "ts_iso": "2025-01-30T20:00:11+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "actualmente solo comemos mani con las avenas\n\nya que se vende en el super\n\npero lgmt estira comer mas variado jsjjs",
+   "starred": false
+  },
+  {
+   "id": 1426883,
+   "key_id": "03E8A6FED6064DA785D67620654C424E",
+   "ts_ms": 1738324705000,
+   "ts_iso": "2025-01-31T11:58:25+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días que tal 🙌🏻\nLastimosamente no ya que no contas con una tienda para revender nuestros productos 🥹y el primer requisito sería eso",
+   "starred": false
+  },
+  {
+   "id": 1426968,
+   "key_id": "EB3FE0069E505D09E80B08D6626BD7A6",
+   "ts_ms": 1738329128730,
+   "ts_iso": "2025-01-31T13:12:08.730000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puede ser tienda de cualquier producto?\n\nMi mamá tiene un negocio de mueblería en asu\n\nSi con eso podemos pedir en cantidad",
+   "starred": false
+  }
+ ]
+}

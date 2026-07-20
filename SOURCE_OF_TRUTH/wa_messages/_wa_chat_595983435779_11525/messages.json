@@ -1,0 +1,174 @@
+{
+ "chat_id": 11525,
+ "slug": "_wa_chat_595983435779_11525",
+ "subject": null,
+ "jid_user": "595983435779",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983435779@s.whatsapp.net",
+ "message_count": 13,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1556455,
+   "key_id": "616AA50DAAD43B9B091620D04E7FA670",
+   "ts_ms": 1755780436866,
+   "ts_iso": "2025-08-21T12:47:16.866000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1556456,
+   "key_id": "7F752775C5215D2EF62060DA21AA12C1",
+   "ts_ms": 1755780438000,
+   "ts_iso": "2025-08-21T12:47:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola!\n\nSi necesitas que pasemos a retirar tus encomiendas, te invitamos a agendar completando el siguiente formulario:\n\nhttps://forms.gle/v551gvC47k2dkWTQA\n\nRecuerde que el horario disponible es de *07:00 a 12:00 hs.*\n\n¡Gracias por elegirnos!",
+   "starred": false
+  },
+  {
+   "id": 1556457,
+   "key_id": "535F0D4FAEEA213B68E1F5AB5F003ACC",
+   "ts_ms": 1755780458810,
+   "ts_iso": "2025-08-21T12:47:38.810000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/IMG-20250819-WA0054.jpg",
+    "size": 80196,
+    "duration_s": 0,
+    "sha256_b64": "uX1g3XlUM59SaBPi8Lfs+ZozPYsp+CKllomeeONbaoI=",
+    "media_name": "4b0e79a7-7061-4393-97a8-b0e106c8331e.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1556458,
+   "key_id": "A7FF8D5C744DE7C0C618B50125614353",
+   "ts_ms": 1755780458819,
+   "ts_iso": "2025-08-21T12:47:38.819000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202534/PTT-20250821-WA0030.opus",
+    "size": 0,
+    "duration_s": 20,
+    "sha256_b64": "YwrHqqejQuz7ra75MdY2nejKDgH5YZNJZxLS050bS2s=",
+    "media_name": "8aba26130ad24c4992cf2586f4648502.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1556480,
+   "key_id": "86CE78D477A49C083AC1568011842B6E",
+   "ts_ms": 1755782890000,
+   "ts_iso": "2025-08-21T13:28:10+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buen día sr si ayer no le entregaron hoy. Salen",
+   "starred": false
+  },
+  {
+   "id": 1556499,
+   "key_id": "B3F589A4071A6CB2AE40113757ABA575",
+   "ts_ms": 1755784023047,
+   "ts_iso": "2025-08-21T13:47:03.047000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A qué hora aprox pasarían?",
+   "starred": false
+  },
+  {
+   "id": 1556501,
+   "key_id": "A36AD65A794401D5D0277880E652E511",
+   "ts_ms": 1755784042139,
+   "ts_iso": "2025-08-21T13:47:22.139000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Puedo pedir prioridad y pagar más?",
+   "starred": false
+  },
+  {
+   "id": 1556503,
+   "key_id": "05E2DC0A1FC37E6679B1D92D40F29C73",
+   "ts_ms": 1755784057103,
+   "ts_iso": "2025-08-21T13:47:37.103000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Necesito instalar unas cosas antes de viajar \n\nPor eso necesito cuanto antes :(",
+   "starred": false
+  },
+  {
+   "id": 1556539,
+   "key_id": "06A3D2E4493AA50CB8CD26E3875803DC",
+   "ts_ms": 1755785062000,
+   "ts_iso": "2025-08-21T14:04:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No hay horarios van por zona",
+   "starred": false
+  },
+  {
+   "id": 1556541,
+   "key_id": "8F9419ED8369807E58133B7274824DC6",
+   "ts_ms": 1755785626766,
+   "ts_iso": "2025-08-21T14:13:46.766000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok :(",
+   "starred": false
+  },
+  {
+   "id": 1556588,
+   "key_id": "10B8283E45FEC7A8A605E6A47F3C94DA",
+   "ts_ms": 1755790634232,
+   "ts_iso": "2025-08-21T15:37:14.232000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero hoy pasan?",
+   "starred": false
+  },
+  {
+   "id": 1556589,
+   "key_id": "1CF3207FDD9D189F1F60E476CB51E504",
+   "ts_ms": 1755790638796,
+   "ts_iso": "2025-08-21T15:37:18.796000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Osea ya está en asu?",
+   "starred": false
+  },
+  {
+   "id": 1556590,
+   "key_id": "778B07A71A094B9B1320EF26914DFEB6",
+   "ts_ms": 1755790662117,
+   "ts_iso": "2025-08-21T15:37:42.117000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sino para coordinar con el.chofer y voy a donde van para retirar \n\nPor que mañana viajo a las 8am",
+   "starred": false
+  }
+ ]
+}

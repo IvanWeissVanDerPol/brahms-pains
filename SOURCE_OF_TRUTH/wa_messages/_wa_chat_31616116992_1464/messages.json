@@ -1,0 +1,46 @@
+{
+ "chat_id": 1464,
+ "slug": "_wa_chat_31616116992_1464",
+ "subject": null,
+ "jid_user": "31616116992",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "31616116992@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 656357,
+   "key_id": "9FD6B906C73C72193D62E13C68F110C1",
+   "ts_ms": 1640250701189,
+   "ts_iso": "2021-12-23T09:11:41.189000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi karst\nThis is my WhatsApp from Paraguay",
+   "starred": false
+  },
+  {
+   "id": 656358,
+   "key_id": "43B6F74589B7C71A71B891D9C03902AC",
+   "ts_ms": 1640250830209,
+   "ts_iso": "2021-12-23T09:13:50.209000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sorry \n Because yesterday I was spending most of the time on waiting I decided to see a bit the city\n\nAnd lost my first bus\nAnd now I took another one that left me in leidsche Rijn station\n\nAnd I'll take the 48 to the office",
+   "starred": false
+  },
+  {
+   "id": 656364,
+   "key_id": "3A890072E427F86294AF",
+   "ts_ms": 1640251392000,
+   "ts_iso": "2021-12-23T09:23:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hi Ivan, no problem. I was just checking whether you’d be ok. We are going to order broodjes kroket for lunch. Typically Dutch:)\nI assume you’d like that",
+   "starred": false
+  }
+ ]
+}

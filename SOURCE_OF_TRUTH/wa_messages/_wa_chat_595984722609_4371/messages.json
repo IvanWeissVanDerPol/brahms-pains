@@ -1,0 +1,112 @@
+{
+ "chat_id": 4371,
+ "slug": "_wa_chat_595984722609_4371",
+ "subject": null,
+ "jid_user": "595984722609",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984722609@s.whatsapp.net",
+ "message_count": 9,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1441646,
+   "key_id": "2B3FF498648F326E6B4475FAD4CD8853",
+   "ts_ms": 1740754302184,
+   "ts_iso": "2025-02-28T14:51:42.184000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola te paso mi cv",
+   "starred": false
+  },
+  {
+   "id": 1441647,
+   "key_id": "45547F06D6CD426367B668124BA7ACE5",
+   "ts_ms": 1740754304664,
+   "ts_iso": "2025-02-28T14:51:44.664000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://ivanweissvanderpol.github.io/",
+   "starred": false
+  },
+  {
+   "id": 1441652,
+   "key_id": "3EB073D62E5CBAEA534287",
+   "ts_ms": 1740755285000,
+   "ts_iso": "2025-02-28T15:08:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bueenas! Gracias Ivan por tu CV! le voy a estar pasando a mi jefe 🙌🏼\nSería para Bancard (tercerizado), híbrido.. 3 días de oficina y 2 de home.. horario de lunes a viernes de 8 a 17hs..",
+   "starred": false
+  },
+  {
+   "id": 1441653,
+   "key_id": "3EB010658D8096CF6C1488",
+   "ts_ms": 1740755323000,
+   "ts_iso": "2025-02-28T15:08:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Según tu CV, estás en Mentormate puede ser??",
+   "starred": false
+  },
+  {
+   "id": 1441654,
+   "key_id": "CB72D38752D393A6D617D2FA28C1508C",
+   "ts_ms": 1740755355942,
+   "ts_iso": "2025-02-28T15:09:15.942000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estaba anteriormente \n\nAhora estoy en stoic finch en Canadá",
+   "starred": false
+  },
+  {
+   "id": 1441655,
+   "key_id": "301DF6819479FAD3C0CEF7A0D4E09863",
+   "ts_ms": 1740755388913,
+   "ts_iso": "2025-02-28T15:09:48.913000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aque veo que está mál mi time en la pag",
+   "starred": false
+  },
+  {
+   "id": 1441656,
+   "key_id": "D4627BE47E26B1750B78C44088301164",
+   "ts_ms": 1740755390510,
+   "ts_iso": "2025-02-28T15:09:50.510000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sorry",
+   "starred": false
+  },
+  {
+   "id": 1441657,
+   "key_id": "3EB0AC3B4850C3F9E6E7A9",
+   "ts_ms": 1740755432000,
+   "ts_iso": "2025-02-28T15:10:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "ahh entiendo entiendo.. igual te pasé ahí la data para que sepas 🙌🏼",
+   "starred": false
+  },
+  {
+   "id": 1441658,
+   "key_id": "57DE653F6E7511A0F429B92848F059BF",
+   "ts_ms": 1740755469868,
+   "ts_iso": "2025-02-28T15:11:09.868000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Perfect",
+   "starred": false
+  }
+ ]
+}

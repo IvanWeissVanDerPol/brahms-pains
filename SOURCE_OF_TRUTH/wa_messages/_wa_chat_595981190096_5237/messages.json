@@ -1,0 +1,145 @@
+{
+ "chat_id": 5237,
+ "slug": "_wa_chat_595981190096_5237",
+ "subject": null,
+ "jid_user": "595981190096",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981190096@s.whatsapp.net",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1214266,
+   "key_id": "572580D017099D29BACA79B2A4884A4E",
+   "ts_ms": 1703215886000,
+   "ts_iso": "2023-12-22T03:31:26+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola buenas noches",
+   "starred": false
+  },
+  {
+   "id": 1214267,
+   "key_id": "5FEAD286B9EF4A3F976683FA516FFBA7",
+   "ts_ms": 1703215898000,
+   "ts_iso": "2023-12-22T03:31:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De la pizzeria soy si me podrías enviar tu ubicación por favor",
+   "starred": false
+  },
+  {
+   "id": 1214269,
+   "key_id": "89B30C5DF9FB9B72FDBD3554D8B166AE",
+   "ts_ms": 1703216167000,
+   "ts_iso": "2023-12-22T03:36:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1214273,
+   "key_id": "3783CBEFAAAAD196013BB549620C9DC7",
+   "ts_ms": 1703216502022,
+   "ts_iso": "2023-12-22T03:41:42.022000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para que hora sería?",
+   "starred": false
+  },
+  {
+   "id": 1214274,
+   "key_id": "DBA031D55C42201AD29C7583E7A4643A",
+   "ts_ms": 1703216521000,
+   "ts_iso": "2023-12-22T03:42:01+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en camino",
+   "starred": false
+  },
+  {
+   "id": 1214275,
+   "key_id": "3385C3FED82E12A1C554FE0CE24F56BC",
+   "ts_ms": 1703216522000,
+   "ts_iso": "2023-12-22T03:42:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Señor",
+   "starred": false
+  },
+  {
+   "id": 1214276,
+   "key_id": "628DF1452ACA379D5310871803B850C8",
+   "ts_ms": 1703216545236,
+   "ts_iso": "2023-12-22T03:42:25.236000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "🖤",
+   "starred": false
+  },
+  {
+   "id": 1214279,
+   "key_id": "BE5E2CA041E439E01094FF285C5C7716",
+   "ts_ms": 1703217880000,
+   "ts_iso": "2023-12-22T04:04:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy en frente",
+   "starred": false
+  },
+  {
+   "id": 1214280,
+   "key_id": "102DDB409FD358DBF8706CC58FC200B8",
+   "ts_ms": 1703217883000,
+   "ts_iso": "2023-12-22T04:04:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "De la ubicación",
+   "starred": false
+  },
+  {
+   "id": 1214281,
+   "key_id": "345A33C05E36CF8E97829A1B8B3E7B0D",
+   "ts_ms": 1703217884000,
+   "ts_iso": "2023-12-22T04:04:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Señor",
+   "starred": false
+  },
+  {
+   "id": 1214282,
+   "key_id": "EC42ECE77F91758158BD9B4D939048E3",
+   "ts_ms": 1703217966991,
+   "ts_iso": "2023-12-22T04:06:06.991000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  },
+  {
+   "id": 1214283,
+   "key_id": "450D061BFA9CDFFBD8537A55F082C4B0",
+   "ts_ms": 1703217978000,
+   "ts_iso": "2023-12-22T04:06:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  }
+ ]
+}

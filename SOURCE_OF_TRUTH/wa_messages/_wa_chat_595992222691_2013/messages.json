@@ -1,0 +1,46 @@
+{
+ "chat_id": 2013,
+ "slug": "_wa_chat_595992222691_2013",
+ "subject": null,
+ "jid_user": "595992222691",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992222691@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1531269,
+   "key_id": "9677A1E7B5AF036B590AB6E84E99996C",
+   "ts_ms": 1752885785882,
+   "ts_iso": "2025-07-19T00:43:05.882000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "✅ QA TEST PLAN – Aplicación de Alerta de Ubicación\n\n🎯 Objective\n\nVerify functional correctness, usability, performance, and reliability of the location-based alert mobile application. This plan ensures that features behave as expected across different usage scenarios, devices, and conditions.\n\n\n---\n\n📂 Test Categories\n\n🔹 1. Functional Testing\n\nTest Case ID\tTest Case Description\tSteps to Reproduce\tExpected Result\tPriority\n\nTC-F001\tSet current location\tTap Set Actual Location with GPS enabled\tCoordinates are displayed in the textbox below the button\tHigh\nTC-F002\tSet location without GPS\tTurn off GPS, then tap the button\tApp displays a toast/message prompting to enable GPS\tHigh\nTC-F003\tSet location with no permissions granted\tDeny location permission and tap button\tApp displays permission request or error message\tHigh\nTC-F004\tLock icon unlocks map and slider\tTap on the lock image\tMap and slider become visible/active\tHigh\nTC-F005\tSlider updates distance label\tSlide to different values\tLabel updates with correct meter value (e.g., 500m, 750m)\tMedium\nTC-F006\tSet destination on map\tTap on a location on the map (after unlocked)\tDestination is set, and marked with a pin\tHigh\nTC-F007\tAlert on proximity\tWalk/drive towards destination within selected range\tAudible/vibration alert is triggered\tHigh\nTC-F008\tCancel destination\tPress back or “Clear Destination”\tDestination and alert are cleared\tMedium\n\n\n\n---\n\n🔹 2. UI/UX Testing\n\nTest Case ID\tDescription\tExpected Result\tPriority\n\nTC-UI001\tAll buttons visible on small screens\tAll elements render without overlapping\tHigh\nTC-UI002\tButton labels and icons are self-explanatory\tUser understands each control without needing the manual\tMedium\nTC-UI003\tLock icon has tooltip or label\tTooltip appears on long-press or below the icon\tMedium\nTC-UI004\tText and icons scale with system font size\tProper scaling on accessibility settings\tMedium\nTC-UI005\tProper contrast between elements\tText and controls meet WCAG contrast standards\tMedium\n\n\n\n---\n\n🔹 3. Edge Case & Negative Testing\n\nTest Case ID\tDescription\tSteps\tExpected Result\tPriority\n\nTC-E001\tGPS signal lost after setting destination\tStart movement and disable GPS\tApp notifies user and pauses tracking\tHigh\nTC-E002\tSlider set to 0m\tMove slider to 0\tApp shows warning or disallows alert with 0m\tMedium\nTC-E003\tLocation API error\tSimulate mock location failure\tApp handles gracefully and shows error\tHigh\nTC-E004\tSimultaneous unlock + slider movement\tTap lock and quickly drag slider\tNo crash or inconsistency\tMedium\n\n\n\n---\n\n🔹 4. Performance Testing\n\nTest Case ID\tDescription\tExpected Result\tPriority\n\nTC-P001\tApp performance with poor GPS signal\tApp handles slow GPS update gracefully\tHigh\nTC-P002\tMemory usage after long session\tApp does not leak memory or crash\tMedium\nTC-P003\tPower consumption\tApp does not excessively drain battery\tMedium\n\n\n\n---\n\n🔹 5. Compatibility Testing\n\nTest Case ID\tDescription\tDevices/Conditions\tExpected Result\tPriority\n\nTC-C001\tAndroid 8–14\tMultiple Android versions\tApp works correctly\tHigh\nTC-C002\tScreen size: phone vs tablet\tVarious screen sizes and DPI\tResponsive layout\tHigh\nTC-C003\tDark mode support\tSystem dark mode enabled\tUI adapts properly\tMedium\n\n\n\n---\n\n🧪 Automation Suggestions\n\nUse Appium with Python or Espresso (Android) for:\n\nButton tap simulation\n\nGPS mocking\n\nUI flow validation\n\nSlider interaction test\n\nBackground and foreground transitions\n\n\n\n---\n\n🔍 Refined UI/UX Critique\n\n🔹 Visual Issues\n\nElement\tIssue\tSuggestion\n\nButton Set Actual Location\tUnclear purpose without context\tAdd label above: “Presiona para establecer tu ubicación actual”\nImage Icon (Lock)\tNot intuitive, no label\tAdd a tooltip or inline text: “Desbloquear destino y distancia”\nText fields\tNo labels or placeholders\tUse meaningful placeholders like “Coordenadas actuales”\nSlider\tPoor contrast, no real-time feedback\tAdd value label (e.g., 500m) dynamically updating\nFont consistency\tUnclear sizes, spacing\tUse material design typography for hierarchy and readability\n\n\n\n---\n\n🔹 Functional Usability\n\nArea\tConcern\tRecommendation\n\nFeedback on action\tNo confirmation for location set or unlock\tShow Toast/Snackbar confirming actions\nError handling\tNot specified in UI\tVisual indication of errors (e.g., red highlight, toast)\nApp State\tNo indication of whether map/distance is set\tUse color/indicator to show app state (e.g., \"Tracking Active\")\n\n\n\n---\n\n🔹 Accessibility & Inclusiveness\n\nAdd content descriptions for all icons for screen readers.\n\nEnsure UI components are navigable via keyboard or switch input (for accessibility settings).\n\nEnable high-contrast mode compatibility.\n\n\n\n---\n\n🎯 Final Recommendations\n\n✅ Group components: Group coordinate-related inputs together with proper spacing.\n\n✅ Onboarding/Help: Include a help screen or onboarding popup for first-time users.\n\n✅ Design polish: Use consistent material design elements for professionalism.\n\n✅ Localization: Make the app multilingual-ready from the start.",
+   "starred": false
+  },
+  {
+   "id": 1531270,
+   "key_id": "E6A0423C63AB6B8A79A948A82BC15E25",
+   "ts_ms": 1752885791161,
+   "ts_iso": "2025-07-19T00:43:11.161000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "X si te sirve :)",
+   "starred": false
+  },
+  {
+   "id": 1531272,
+   "key_id": "3EB0306F1D598DA14B5A7F",
+   "ts_ms": 1752885932000,
+   "ts_iso": "2025-07-19T00:45:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias! sii me re sirve",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "chat_id": 10315,
+ "slug": "_wa_chat_595992930805_10315",
+ "subject": null,
+ "jid_user": "595992930805",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992930805@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1454316,
+   "key_id": "3EB0DD3C8A0BD9E649AC50",
+   "ts_ms": 1742988060000,
+   "ts_iso": "2025-03-26T11:21:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "FRANCO NUÑEZ , HUGO RAMON\t  📌 le saludamos desde *Bristol*📌\nAguardamos *el pago de su cuenta* \n📝Puede abonar en cualquiera de *nuestras sucursales de 8:00 a 18:00 hs, boca de cobranzas o por transferencia bancaria*. https://www.bristol.com.py/tiendas\n📞Para consultas responda este mensaje o puede llamar al (021)5194800\n\n \n MO251097",
+   "starred": false
+  },
+  {
+   "id": 1454317,
+   "key_id": "700CF0271D54290CB4E30C98D5BA82D6",
+   "ts_ms": 1742988248325,
+   "ts_iso": "2025-03-26T11:24:08.325000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202513/PTT-20250326-WA0000.opus",
+    "size": 0,
+    "duration_s": 32,
+    "sha256_b64": "gpFG8PYKZZLvk7OTHp2TJbSFLEiCy5jVtuK9cXsYjxc=",
+    "media_name": "7e029a5703454619815c23ea9682b6af.opus",
+    "media_caption": null
+   }
+  }
+ ]
+}

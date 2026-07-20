@@ -1,0 +1,68 @@
+{
+ "chat_id": 11902,
+ "slug": "_wa_chat_595984312615_11902",
+ "subject": null,
+ "jid_user": "595984312615",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984312615@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1621575,
+   "key_id": "AC8380F2C8E1D2E7F4485B7174F18F41",
+   "ts_ms": 1764519500858,
+   "ts_iso": "2025-11-30T16:18:20.858000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, vi tus fotos en Hot",
+   "starred": false
+  },
+  {
+   "id": 1621577,
+   "key_id": "A561B439F99A06660B4DCD29A16BAC64",
+   "ts_ms": 1764520805000,
+   "ts_iso": "2025-11-30T16:40:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1621579,
+   "key_id": "ACB59941EE0DEC590CC201205FA48AB7",
+   "ts_ms": 1764520856457,
+   "ts_iso": "2025-11-30T16:40:56.457000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola qué tal?",
+   "starred": false
+  },
+  {
+   "id": 1621580,
+   "key_id": "A563AC7D902414D32D6A5A29AE953EA0",
+   "ts_ms": 1764521085000,
+   "ts_iso": "2025-11-30T16:44:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bien nomas",
+   "starred": false
+  },
+  {
+   "id": 1621581,
+   "key_id": "A537A075A7B0B05E8D084A8971A80B43",
+   "ts_ms": 1764521088000,
+   "ts_iso": "2025-11-30T16:44:48+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En que puedo ayudarte?",
+   "starred": false
+  }
+ ]
+}

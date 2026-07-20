@@ -1,0 +1,57 @@
+{
+ "chat_id": 11926,
+ "slug": "_wa_chat_595986330912_11926",
+ "subject": null,
+ "jid_user": "595986330912",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986330912@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581407,
+   "key_id": "ACE9D17E880BFA9E2607033FA5A2612E",
+   "ts_ms": 1759636927250,
+   "ts_iso": "2025-10-05T04:02:07.250000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"🏵️BIEN COMPLETITO TODO CO(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1582149,
+   "key_id": "AC866796445E2BF79F616DA1DF245C6F",
+   "ts_ms": 1759708596000,
+   "ts_iso": "2025-10-05T23:56:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "💖💖 Increíbles promos 💖💖\nVideos 87 mil 4 videos \n135 7 videos \n\nVideollamada 130\n\nPack de fotos 100\n\nVIP CANAL 135\n\nSalidas a Domicilio hotel y motel 450",
+   "starred": false
+  },
+  {
+   "id": 1582150,
+   "key_id": "AC57CEF775ACA351D9B3A1198E9E0694",
+   "ts_ms": 1759708597000,
+   "ts_iso": "2025-10-05T23:56:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola amor",
+   "starred": false
+  },
+  {
+   "id": 1582151,
+   "key_id": "AC42AE06ADFC83365548ABC33ADD835B",
+   "ts_ms": 1759708604000,
+   "ts_iso": "2025-10-05T23:56:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Que tal",
+   "starred": false
+  }
+ ]
+}

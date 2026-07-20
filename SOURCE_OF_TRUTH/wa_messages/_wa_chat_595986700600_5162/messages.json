@@ -1,0 +1,79 @@
+{
+ "chat_id": 5162,
+ "slug": "_wa_chat_595986700600_5162",
+ "subject": null,
+ "jid_user": "595986700600",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986700600@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1205393,
+   "key_id": "81395ABA3F53E1A8AC6B772C79910C6A",
+   "ts_ms": 1701884701420,
+   "ts_iso": "2023-12-06T17:45:01.420000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, me gustaría conocer el monto y vencimiento de mi factura de telefonía",
+   "starred": false
+  },
+  {
+   "id": 1205399,
+   "key_id": "D570FD73B6CCC5D2C9",
+   "ts_ms": 1701885072000,
+   "ts_iso": "2023-12-06T17:51:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "👋¿Continúas en línea? Esperaré un par de minutos por si hay algo más en lo que te pueda ayudar.",
+   "starred": false
+  },
+  {
+   "id": 1205402,
+   "key_id": "413A7FD3472DB9D357",
+   "ts_ms": 1701885100000,
+   "ts_iso": "2023-12-06T17:51:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "⚠️ Tu línea 595981324569 tiene un monto pendiente de pago de *Gs* *77,710* \r\n\r\nTu plan se acredita el 07 de cada mes\r\n\r\nTe recomendamos mantenerte al día con el pago de tu factura para evitar el cobro de Gs. 10mil del gasto administrativo por mora\r\n\r\nMirá los pasos para pagar tus facturas y otras formas de pago👉 https://b.tigo.com/hmyv-py",
+   "starred": false
+  },
+  {
+   "id": 1205403,
+   "key_id": "1A06AB29179ECCD7DE",
+   "ts_ms": 1701885100000,
+   "ts_iso": "2023-12-06T17:51:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*Esta es la información de tu 📱 595981324569*",
+   "starred": false
+  },
+  {
+   "id": 1205404,
+   "key_id": "8A29D3459A12C2452D",
+   "ts_ms": 1701885101000,
+   "ts_iso": "2023-12-06T17:51:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "También puedes enviar la palabra *Menú* para volver al menú principal o *Inicio* para volver al inicio y cambiar el número ó servicio a consultar.",
+   "starred": false
+  },
+  {
+   "id": 1205418,
+   "key_id": "76F6B5B005498BF0BC",
+   "ts_ms": 1701889222000,
+   "ts_iso": "2023-12-06T19:00:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me gustó nuestra charla. 😀\r\n\r\nTe invito a calificar *tu experiencia conmigo, el bot Liza.* 👩‍🦰\r\nTu respuesta a esta encuesta me ayudará a mejorar mis procesos 👉 https://b.tigo.com/dob60yps1a",
+   "starred": false
+  }
+ ]
+}

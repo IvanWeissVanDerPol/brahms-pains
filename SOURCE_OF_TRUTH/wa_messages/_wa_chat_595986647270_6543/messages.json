@@ -1,0 +1,222 @@
+{
+ "chat_id": 6543,
+ "slug": "_wa_chat_595986647270_6543",
+ "subject": null,
+ "jid_user": "595986647270",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986647270@s.whatsapp.net",
+ "message_count": 19,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1273664,
+   "key_id": "673CE92F256C30B90A499ADB76B45360",
+   "ts_ms": 1713145061000,
+   "ts_iso": "2024-04-15T01:37:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches, soy su delivery le estoy escribiendo de \"Poke&Sushi\" quería pedirle la ubicación y características de su domicilio por favor para poder llegar con su pedido en la brevedad.. 🛵🍱\n\nDesde ya, muchas gracias..",
+   "starred": false
+  },
+  {
+   "id": 1273666,
+   "key_id": "7EA2DD948972030785E4E24F1F6F6F65",
+   "ts_ms": 1713145111013,
+   "ts_iso": "2024-04-15T01:38:31.013000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tiene 2 autos blancos enfrente",
+   "starred": false
+  },
+  {
+   "id": 1273667,
+   "key_id": "00626E25DE339137E7738F75E720FBFD",
+   "ts_ms": 1713145117870,
+   "ts_iso": "2024-04-15T01:38:37.870000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y un árbol de mango adentro",
+   "starred": false
+  },
+  {
+   "id": 1273668,
+   "key_id": "9A367183FDFF1CEEB4105F43BA66E17C",
+   "ts_ms": 1713145183000,
+   "ts_iso": "2024-04-15T01:39:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ubicación actual me podes enviar porfa",
+   "starred": false
+  },
+  {
+   "id": 1273670,
+   "key_id": "C14AB48265D54D9AF8A020EC74D65398",
+   "ts_ms": 1713145200051,
+   "ts_iso": "2024-04-15T01:40:00.051000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya",
+   "starred": false
+  },
+  {
+   "id": 1273671,
+   "key_id": "99C48A0E96255348C29D8A3E04D3174D",
+   "ts_ms": 1713145242000,
+   "ts_iso": "2024-04-15T01:40:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy saliendo en breve",
+   "starred": false
+  },
+  {
+   "id": 1273672,
+   "key_id": "FCB0CE17F3373BBCEF232C2C46693DDC",
+   "ts_ms": 1713145248804,
+   "ts_iso": "2024-04-15T01:40:48.804000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1273674,
+   "key_id": "20A9E5728F2998256DF885E4C68DF3A9",
+   "ts_ms": 1713146291303,
+   "ts_iso": "2024-04-15T01:58:11.303000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A que hora aprox?",
+   "starred": false
+  },
+  {
+   "id": 1273675,
+   "key_id": "062E3F7EF19EFCED4EDB360E434B5182",
+   "ts_ms": 1713146298511,
+   "ts_iso": "2024-04-15T01:58:18.511000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Para saber cuándo salir n.n",
+   "starred": false
+  },
+  {
+   "id": 1273676,
+   "key_id": "81A254EDD8EDE2B035E53065768C86EC",
+   "ts_ms": 1713146561000,
+   "ts_iso": "2024-04-15T02:02:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy en la ubi",
+   "starred": false
+  },
+  {
+   "id": 1301490,
+   "key_id": "4F8229A2304CCB0B862CDEA395153844",
+   "ts_ms": 1718315951000,
+   "ts_iso": "2024-06-13T21:59:11+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches, soy su delivery le estoy escribiendo de \"Poke&Sushi\" quería pedirle la ubicación y características de su domicilio por favor para poder llegar con su pedido en la brevedad.. 🛵🍱\n\nDesde ya, muchas gracias..",
+   "starred": false
+  },
+  {
+   "id": 1301492,
+   "key_id": "9DEDF902CC1D1F7341D52641CE549BB1",
+   "ts_ms": 1718315978000,
+   "ts_iso": "2024-06-13T21:59:38+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En camino",
+   "starred": false
+  },
+  {
+   "id": 1301493,
+   "key_id": "08BAAB400DF7B76EC65D894EBC4DE993",
+   "ts_ms": 1718316004110,
+   "ts_iso": "2024-06-13T22:00:04.110000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ok avisa y salgo :)",
+   "starred": false
+  },
+  {
+   "id": 1301509,
+   "key_id": "CF7076AAE3F73EE1D875D75334524FC1",
+   "ts_ms": 1718317001000,
+   "ts_iso": "2024-06-13T22:16:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy enfrente",
+   "starred": false
+  },
+  {
+   "id": 1301510,
+   "key_id": "B811DADD9253AAF8D869FB63A256D528",
+   "ts_ms": 1718317025378,
+   "ts_iso": "2024-06-13T22:17:05.378000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  },
+  {
+   "id": 1313885,
+   "key_id": "F41732E0D8E6E38F3DC05C384ACF84E8",
+   "ts_ms": 1719799717000,
+   "ts_iso": "2024-07-01T02:08:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches, soy su delivery le estoy escribiendo de \"Poke&Sushi\" quería pedirle la ubicación y características de su domicilio por favor para poder llegar con su pedido en la brevedad.. 🛵🍱\n\nDesde ya, muchas gracias..",
+   "starred": false
+  },
+  {
+   "id": 1313886,
+   "key_id": "28DEDAAFCA49E812D2E7936DB997D388",
+   "ts_ms": 1719799736269,
+   "ts_iso": "2024-07-01T02:08:56.269000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": ".",
+   "starred": false
+  },
+  {
+   "id": 1313889,
+   "key_id": "FA8772C4C2C5DE01FFA5A42CF620BB5F",
+   "ts_ms": 1719799962000,
+   "ts_iso": "2024-07-01T02:12:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "En camino",
+   "starred": false
+  },
+  {
+   "id": 1313890,
+   "key_id": "B670EA4B88D8C9C50627937F0F7CB4BA",
+   "ts_ms": 1719800635000,
+   "ts_iso": "2024-07-01T02:23:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Llegue amigo",
+   "starred": false
+  }
+ ]
+}

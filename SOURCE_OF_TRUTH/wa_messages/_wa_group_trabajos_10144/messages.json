@@ -1,0 +1,55 @@
+{
+ "chat_id": 10144,
+ "slug": "_wa_group_trabajos_10144",
+ "subject": "Trabajos",
+ "jid_user": "120363399653322955",
+ "jid_server": "g.us",
+ "jid_raw": "120363399653322955@g.us",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1527860,
+   "key_id": "3AC4DC9795F2140048E9",
+   "ts_ms": 1752556791000,
+   "ts_iso": "2025-07-15T05:19:51+00:00",
+   "from_me": false,
+   "sender_jid": "164377105850593@lid",
+   "type": 0,
+   "text": "Busco algo de pm o delivery manager remoto estoy en mexico y cuento con varias certificaciones de preferencia freelance",
+   "starred": false
+  },
+  {
+   "id": 1797067,
+   "key_id": "3EB0ABED986CB27D6AB7D6",
+   "ts_ms": 1780922554000,
+   "ts_iso": "2026-06-08T12:42:34+00:00",
+   "from_me": false,
+   "sender_jid": "86320353403069@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "SqmhiINTyvBHjqDkjii9NymP6mEKsqToJrxsaarVCO4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1797099,
+   "key_id": "3A785A4C9C7B1BFD155D",
+   "ts_ms": 1780924550000,
+   "ts_iso": "2026-06-08T13:15:50+00:00",
+   "from_me": false,
+   "sender_jid": "86320353403069@lid",
+   "type": 0,
+   "text": "Error de envío",
+   "starred": false
+  }
+ ]
+}

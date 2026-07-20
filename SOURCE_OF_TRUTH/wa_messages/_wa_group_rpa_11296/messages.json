@@ -1,0 +1,44 @@
+{
+ "chat_id": 11296,
+ "slug": "_wa_group_rpa_11296",
+ "subject": "$ rpa",
+ "jid_user": "120363400983929512",
+ "jid_server": "g.us",
+ "jid_raw": "120363400983929512@g.us",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1543613,
+   "key_id": "3EB02850B2E82813A9A552",
+   "ts_ms": 1754154411000,
+   "ts_iso": "2025-08-02T17:06:51+00:00",
+   "from_me": false,
+   "sender_jid": "100287553528062@lid",
+   "type": 1,
+   "text": "@277210241978486 Ivan ya tiene acceso al repo, pasa tu github si qres",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20250802-WA0030.jpg",
+    "size": 104557,
+    "duration_s": 0,
+    "sha256_b64": "UA3rCy4MiXzmY+vFsWQsJVlU5OjRzNQ0fJadDuTtgHw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1543614,
+   "key_id": "3EB0A2A4CC152586FF8C62",
+   "ts_ms": 1754154477000,
+   "ts_iso": "2025-08-02T17:07:57+00:00",
+   "from_me": false,
+   "sender_jid": "100287553528062@lid",
+   "type": 0,
+   "text": "https://github.com/gesttaltt/rpa",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "chat_id": 11998,
+ "slug": "_wa_chat_595981784662_11998",
+ "subject": null,
+ "jid_user": "595981784662",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595981784662@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1592134,
+   "key_id": "AC981C9B0E40791C4F1E60BCD80233D8",
+   "ts_ms": 1760716568058,
+   "ts_iso": "2025-10-17T15:56:08.058000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola es este el número de un laboratorio?",
+   "starred": false
+  },
+  {
+   "id": 1592136,
+   "key_id": "AC440297C594A0BF50BE2549104507BA",
+   "ts_ms": 1760716572812,
+   "ts_iso": "2025-10-17T15:56:12.812000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251017-WA0026.jpg",
+    "size": 73986,
+    "duration_s": 0,
+    "sha256_b64": "tNQlp5XBSy4RYWt75TjqSF2TFqVY4DLSXJGZHAZBMWA=",
+    "media_name": "2fd3ed1a-96f1-459b-b326-a377ab9ce2f5.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1592137,
+   "key_id": "AC78416D3EE4248FB3FB0B6CD72115ED",
+   "ts_ms": 1760716572822,
+   "ts_iso": "2025-10-17T15:56:12.822000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251017-WA0027.jpg",
+    "size": 99484,
+    "duration_s": 0,
+    "sha256_b64": "gIpobEnWZFgL+hNG7000wxYiHOigMUDAJHH/uuHdC0c=",
+    "media_name": "7969d934-2d65-4ec4-aef1-701e8897a6cc.jpg",
+    "media_caption": null
+   }
+  }
+ ]
+}

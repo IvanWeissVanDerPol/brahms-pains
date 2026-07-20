@@ -1,0 +1,24 @@
+{
+ "chat_id": 9580,
+ "slug": "_wa_chat_595984168130_9580",
+ "subject": null,
+ "jid_user": "595984168130",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984168130@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581424,
+   "key_id": "AC7C7EDB7B42F0050C49D552EC686C1A",
+   "ts_ms": 1759637354214,
+   "ts_iso": "2025-10-05T04:09:14.214000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Lety Spa\", y me gustaría quedar contigo.",
+   "starred": false
+  }
+ ]
+}

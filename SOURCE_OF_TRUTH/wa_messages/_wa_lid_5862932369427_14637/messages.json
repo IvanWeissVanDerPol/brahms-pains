@@ -1,0 +1,90 @@
+{
+ "chat_id": 14637,
+ "slug": "_wa_lid_5862932369427_14637",
+ "subject": null,
+ "jid_user": "5862932369427",
+ "jid_server": "lid",
+ "jid_raw": "5862932369427@lid",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1734537,
+   "key_id": "AC7D02BB9531E4D4CEE5F46C18C8FD83",
+   "ts_ms": 1774482477184,
+   "ts_iso": "2026-03-25T23:47:57.184000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola tienen pantalones de cuero de color marrón o café ?",
+   "starred": false
+  },
+  {
+   "id": 1734538,
+   "key_id": "A5F2F9F7E734EEE9904BEA1348CD70B8",
+   "ts_ms": 1774482478000,
+   "ts_iso": "2026-03-25T23:47:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias por comunicarte con Lucio Leiva *casa 49*. ¿Cómo podemos ayudarte?",
+   "starred": false
+  },
+  {
+   "id": 1734540,
+   "key_id": "AC5295576D77737BA0DB34BF3C670B2A",
+   "ts_ms": 1774482500117,
+   "ts_iso": "2026-03-25T23:48:20.117000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Busco pantalón de cuero",
+   "starred": false
+  },
+  {
+   "id": 1734541,
+   "key_id": "ACB860B8556D46735D70C7902BC7A990",
+   "ts_ms": 1774482505951,
+   "ts_iso": "2026-03-25T23:48:25.951000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Onda vaquero cowboy",
+   "starred": false
+  },
+  {
+   "id": 1734740,
+   "key_id": "A587BD1D3ECDA1F9AE436128093A6E96",
+   "ts_ms": 1774520682000,
+   "ts_iso": "2026-03-26T10:24:42+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenos días",
+   "starred": false
+  },
+  {
+   "id": 1734741,
+   "key_id": "A561B33D4A0D43F00BF09D7411C27CA6",
+   "ts_ms": 1774520691000,
+   "ts_iso": "2026-03-26T10:24:51+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "La verdad que no tenemos pantalones",
+   "starred": false
+  },
+  {
+   "id": 1734742,
+   "key_id": "A5E60EC22CBC774E217AA4C39B007301",
+   "ts_ms": 1774520694000,
+   "ts_iso": "2026-03-26T10:24:54+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Solo abrigo",
+   "starred": false
+  }
+ ]
+}

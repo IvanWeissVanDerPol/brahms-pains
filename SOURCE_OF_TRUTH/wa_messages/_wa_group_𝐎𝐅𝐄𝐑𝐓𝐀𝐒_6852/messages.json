@@ -1,0 +1,53 @@
+{
+ "chat_id": 6852,
+ "slug": "_wa_group_𝐎𝐅𝐄𝐑𝐓𝐀𝐒_6852",
+ "subject": "🔱 𝐎𝐅𝐄𝐑𝐓𝐀𝐒 🎁",
+ "jid_user": "120363309161809279",
+ "jid_server": "g.us",
+ "jid_raw": "120363309161809279@g.us",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1311804,
+   "key_id": "3EB0AE513930C8B1CFE901",
+   "ts_ms": 1719557493000,
+   "ts_iso": "2024-06-28T06:51:33+00:00",
+   "from_me": false,
+   "sender_jid": "34625137398@s.whatsapp.net",
+   "type": 1,
+   "text": "🎁: ESTÁN REGALANDO SUNLESS SKIES PARA PC\n➖➖➖➖➖➖➖➖➖➖➖ \n 📢: 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐜𝐢𝐨𝐧 𝐝𝐞 𝐥𝐚 𝐎𝐅𝐄𝐑𝐓𝐀\n\nEsta semana en la Epic Games Store están regalando SUNLESS SKIES para PC  un juego de rol y exploración desarrollado por Failbetter Games. Se ambienta en un mundo de ciencia ficción victoriana donde los jugadores deben navegar por el cosmos a bordo de una locomotora espacial.\n\nEn el juego, los jugadores asumen el papel de un capitán que debe enfrentarse a peligrosas criaturas, intrigas políticas y misterios cósmicos mientras navegan por diferentes regiones del universo. A medida que exploran, los jugadores pueden comerciar recursos, participar en misiones secundarias y tomar decisiones que afectarán el desarrollo de la historia y el destino de su tripulación.\n\n¡Para reclamar el juego da clic al siguiente botón y consérvalo para siempre!\n➖➖➖➖➖➖➖➖➖➖➖\n🌐: Enlace: https://pivigames.blog/estan-regalando-sunless-skies-para-pc/",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240628-WA0002.jpg",
+    "size": 182653,
+    "duration_s": 0,
+    "sha256_b64": "n/i3G6YbZO1ztiZEuce4YV6gXfZRF8drHCCLy/AQ+do=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1311805,
+   "key_id": "3EB01AEEADA4176C51A0D3",
+   "ts_ms": 1719558083000,
+   "ts_iso": "2024-06-28T07:01:23+00:00",
+   "from_me": false,
+   "sender_jid": "34625137398@s.whatsapp.net",
+   "type": 1,
+   "text": "🎉: REBAJAS DE VERANO EN STEAM 2024\n➖➖➖➖➖➖➖➖➖➖➖ \n 📢: ¡REBAJAS VERANO 2024! 🎁\n\nPrepárate para disfrutar de las mejores rebajas de verano en Steam! \nEl verano de 2024 llega cargado de descuentos y ofertas irresistibles en la plataforma de juegos más popular del momento. Desde clásicos atemporales hasta las novedades más esperadas, hay algo para todos los gustos y presupuestos. ¿Estás listo para llenar tu biblioteca de juegos con precios increíbles? No te pierdas detalle del siguiente vídeo y da clic a los enlaces que te proporcionamos para obtener las mejores Ofertas!\n➖➖➖➖➖➖➖➖➖➖➖\n🌐: Enlace: https://youtu.be/Sw2NPrK6M5Y",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "gW2W7y6+Nhj2larUM6HHW/c5OMmD+2CwPwb2mR1iGYI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

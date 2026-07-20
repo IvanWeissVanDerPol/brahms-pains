@@ -1,0 +1,242 @@
+{
+ "chat_id": 17120,
+ "slug": "_wa_group_gruponpara_invitarse_a_casa_y_hacercelas_facil_17120",
+ "subject": "Gruponpara invitarse a casa y hacercelas facil 🤙",
+ "jid_user": "120363408972144269",
+ "jid_server": "g.us",
+ "jid_raw": "120363408972144269@g.us",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1832705,
+   "key_id": "AC638E421F5D25CE83CEF1B679789E20",
+   "ts_ms": 1784047216000,
+   "ts_iso": "2026-07-14T16:40:16+00:00",
+   "from_me": false,
+   "sender_jid": "189486155702510@lid",
+   "type": 0,
+   "text": "Hola hoy hago peperkoek y postrecitos de prueba",
+   "starred": false
+  },
+  {
+   "id": 1832706,
+   "key_id": "AC93C2DCB11E5543457FCA9128F9F347",
+   "ts_ms": 1784047244000,
+   "ts_iso": "2026-07-14T16:40:44+00:00",
+   "from_me": false,
+   "sender_jid": "189486155702510@lid",
+   "type": 0,
+   "text": "Quien quiera esta bienvenido a caerme hoy",
+   "starred": false
+  },
+  {
+   "id": 1832707,
+   "key_id": "ACBD4BDE577C58546CEB086C6805B0F9",
+   "ts_ms": 1784047256000,
+   "ts_iso": "2026-07-14T16:40:56+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "Hola! Maxi hoy tiene taekwondo de 19 a 19:45 podemos ir después de eso o ya es muy tarde?",
+   "starred": false
+  },
+  {
+   "id": 1832708,
+   "key_id": "ACDC3655009492D657DB81666F6A7E5F",
+   "ts_ms": 1784047372000,
+   "ts_iso": "2026-07-14T16:42:52+00:00",
+   "from_me": false,
+   "sender_jid": "189486155702510@lid",
+   "type": 0,
+   "text": "Por mi esta bien",
+   "starred": false
+  },
+  {
+   "id": 1832718,
+   "key_id": "AC246C944C335509C5EEC95E30F9D8AA",
+   "ts_ms": 1784048473000,
+   "ts_iso": "2026-07-14T17:01:13+00:00",
+   "from_me": false,
+   "sender_jid": "87020533752049@lid",
+   "type": 0,
+   "text": "voooy",
+   "starred": false
+  },
+  {
+   "id": 1832901,
+   "key_id": "ACBC37C042DF4302645C3368CD694053",
+   "ts_ms": 1784051181000,
+   "ts_iso": "2026-07-14T17:46:21+00:00",
+   "from_me": false,
+   "sender_jid": "143576646291519@lid",
+   "type": 0,
+   "text": "Holis",
+   "starred": false
+  },
+  {
+   "id": 1832905,
+   "key_id": "AC051726600055173E133BC1076A57BC",
+   "ts_ms": 1784051197000,
+   "ts_iso": "2026-07-14T17:46:37+00:00",
+   "from_me": false,
+   "sender_jid": "143576646291519@lid",
+   "type": 0,
+   "text": "Estoy",
+   "starred": false
+  },
+  {
+   "id": 1832930,
+   "key_id": "ACEE5DBE1E06C242FCB86608468436CF",
+   "ts_ms": 1784053366000,
+   "ts_iso": "2026-07-14T18:22:46+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 17296,
+    "duration_s": 0,
+    "sha256_b64": "lx1wats0znYyRnjUs7qXJ+1OwF/jxa4q275Dx9lG4pg=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1832931,
+   "key_id": "AC5FA035A8D0E4BE9A5FDB59129E9D8C",
+   "ts_ms": 1784053369000,
+   "ts_iso": "2026-07-14T18:22:49+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "Pasaron cosas",
+   "starred": false
+  },
+  {
+   "id": 1832932,
+   "key_id": "ACF31C8B074A5FBDF1D37BB7331AC261",
+   "ts_ms": 1784053373000,
+   "ts_iso": "2026-07-14T18:22:53+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "😂😂😂",
+   "starred": false
+  },
+  {
+   "id": 1832933,
+   "key_id": "ACAF4CAB5975DB42895DB68010382EA6",
+   "ts_ms": 1784053382000,
+   "ts_iso": "2026-07-14T18:23:02+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "A ver si pillan jajaja",
+   "starred": false
+  },
+  {
+   "id": 1832934,
+   "key_id": "3EB0047197713A623F2C10",
+   "ts_ms": 1784053387000,
+   "ts_iso": "2026-07-14T18:23:07+00:00",
+   "from_me": false,
+   "sender_jid": "101662026936343@lid",
+   "type": 0,
+   "text": "como llego eso al tech",
+   "starred": false
+  },
+  {
+   "id": 1832935,
+   "key_id": "3EB0711CEF06AE53F382DF",
+   "ts_ms": 1784053391000,
+   "ts_iso": "2026-07-14T18:23:11+00:00",
+   "from_me": false,
+   "sender_jid": "101662026936343@lid",
+   "type": 0,
+   "text": "quie  tiro?",
+   "starred": false
+  },
+  {
+   "id": 1832936,
+   "key_id": "AC01F7F1E534511F66EB120AD26AF63E",
+   "ts_ms": 1784053416000,
+   "ts_iso": "2026-07-14T18:23:36+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "Y ya viste el fluorescente",
+   "starred": false
+  },
+  {
+   "id": 1832937,
+   "key_id": "AC603D58E9465A94E83BED9614B3A42B",
+   "ts_ms": 1784053425000,
+   "ts_iso": "2026-07-14T18:23:45+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "Porque el cuadro está recto",
+   "starred": false
+  },
+  {
+   "id": 1832938,
+   "key_id": "AC1DE791C1633A5F37F42CF37AF79FD7",
+   "ts_ms": 1784053429000,
+   "ts_iso": "2026-07-14T18:23:49+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "Jajaja",
+   "starred": false
+  },
+  {
+   "id": 1832939,
+   "key_id": "ACA0CB5E6871293B4831FCAC7A8DF6FE",
+   "ts_ms": 1784053438000,
+   "ts_iso": "2026-07-14T18:23:58+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "Y tu socio, el rubius 😂😂",
+   "starred": false
+  },
+  {
+   "id": 1832940,
+   "key_id": "3EB0C10A7AAE2A4ABA3DDE",
+   "ts_ms": 1784053447000,
+   "ts_iso": "2026-07-14T18:24:07+00:00",
+   "from_me": false,
+   "sender_jid": "101662026936343@lid",
+   "type": 0,
+   "text": "jajajajaja",
+   "starred": false
+  },
+  {
+   "id": 1832941,
+   "key_id": "ACC7A55D0E8FD5B39237688D85E83313",
+   "ts_ms": 1784053461000,
+   "ts_iso": "2026-07-14T18:24:21+00:00",
+   "from_me": false,
+   "sender_jid": "64231655403770@lid",
+   "type": 0,
+   "text": "@189486155702510 si buscas vas a ver su trencito puso bien alto para que la beba no alcance",
+   "starred": false
+  },
+  {
+   "id": 1832942,
+   "key_id": "AC704A63BA30653B06A95064716E08D3",
+   "ts_ms": 1784053529000,
+   "ts_iso": "2026-07-14T18:25:29+00:00",
+   "from_me": false,
+   "sender_jid": "189486155702510@lid",
+   "type": 0,
+   "text": "Jajajajaj",
+   "starred": false
+  }
+ ]
+}

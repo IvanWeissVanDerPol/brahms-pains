@@ -1,0 +1,236 @@
+{
+ "chat_id": 1306,
+ "slug": "_wa_chat_595972116024_1306",
+ "subject": null,
+ "jid_user": "595972116024",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972116024@s.whatsapp.net",
+ "message_count": 17,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1027408,
+   "key_id": "3EB0A175D730779C702B",
+   "ts_ms": 1676999431000,
+   "ts_iso": "2023-02-21T17:10:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola",
+   "starred": false
+  },
+  {
+   "id": 1027409,
+   "key_id": "3EB04975ACAB36EBEBFE",
+   "ts_ms": 1676999437000,
+   "ts_iso": "2023-02-21T17:10:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "me das acceso a tu cuenta de google",
+   "starred": false
+  },
+  {
+   "id": 1027410,
+   "key_id": "3EB03609D29D3CE02481",
+   "ts_ms": 1676999467000,
+   "ts_iso": "2023-02-21T17:11:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230221-WA0009.jpg",
+    "size": 19990,
+    "duration_s": 0,
+    "sha256_b64": "o2weebRNla63o2zD5X0sWiXtLx6sm+HJJb4eNr0B1BI=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1027411,
+   "key_id": "81208C89A34F7C9755DD8D35C0FD6899",
+   "ts_ms": 1676999475436,
+   "ts_iso": "2023-02-21T17:11:15.436000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gg",
+   "starred": false
+  },
+  {
+   "id": 1027412,
+   "key_id": "3EB0392CE805E24AC58B",
+   "ts_ms": 1676999478000,
+   "ts_iso": "2023-02-21T17:11:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "gracias",
+   "starred": false
+  },
+  {
+   "id": 1027415,
+   "key_id": "3EB08EE21AFD42B35223",
+   "ts_ms": 1676999526000,
+   "ts_iso": "2023-02-21T17:12:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230221-WA0010.jpg",
+    "size": 16673,
+    "duration_s": 0,
+    "sha256_b64": "0C1fSltpE525g2DqbPwQeK/0e/pah712INqk/XJ9MSA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1027416,
+   "key_id": "3EB08A2E0B7D54F71FD7",
+   "ts_ms": 1676999535000,
+   "ts_iso": "2023-02-21T17:12:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "chat gpt tambien pide xd",
+   "starred": false
+  },
+  {
+   "id": 1139878,
+   "key_id": "A04784AC59DD4009356759FBBEE6D2E6",
+   "ts_ms": 1693260724636,
+   "ts_iso": "2023-08-28T22:12:04.636000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Xd",
+   "starred": false
+  },
+  {
+   "id": 1139879,
+   "key_id": "A9A46635F4D9766D136ADC143EE7422E",
+   "ts_ms": 1693260738019,
+   "ts_iso": "2023-08-28T22:12:18.019000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "No me esperaba que literal se ponga a leer el caso",
+   "starred": false
+  },
+  {
+   "id": 1139880,
+   "key_id": "784DDFB6051EA9B2252E5AD1E1697934",
+   "ts_ms": 1693260739318,
+   "ts_iso": "2023-08-28T22:12:19.318000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Xd",
+   "starred": false
+  },
+  {
+   "id": 1139881,
+   "key_id": "820FD5B1D9E6F063E07BBAA8D6AA9C29",
+   "ts_ms": 1693260747000,
+   "ts_iso": "2023-08-28T22:12:27+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Xd",
+   "starred": false
+  },
+  {
+   "id": 1139882,
+   "key_id": "0C5EF546C46D83F35987441B70C365B5",
+   "ts_ms": 1693260760000,
+   "ts_iso": "2023-08-28T22:12:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me estoy por reír",
+   "starred": false
+  },
+  {
+   "id": 1139906,
+   "key_id": "2D2338FC2D9F2886BBF4C7A57AC215B9",
+   "ts_ms": 1693262071039,
+   "ts_iso": "2023-08-28T22:34:31.039000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Mi cara era re xdddd",
+   "starred": false
+  },
+  {
+   "id": 1139907,
+   "key_id": "99DAF46F87FD6AE05E89EC380A2531A1",
+   "ts_ms": 1693262139104,
+   "ts_iso": "2023-08-28T22:35:39.104000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20230828-WA0127.jpg",
+    "size": 9931,
+    "duration_s": 0,
+    "sha256_b64": "s0mEYRQNifhjFHxhii54zTBzKXU9wULpZidUyEokjQ0=",
+    "media_name": "1db82cf9-8727-45d6-944a-2a31a04d00d1.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1183157,
+   "key_id": "678E939C9990F95EA56854032D2F415A",
+   "ts_ms": 1697924033993,
+   "ts_iso": "2023-10-21T21:33:53.993000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vos ya vas ?",
+   "starred": false
+  },
+  {
+   "id": 1183158,
+   "key_id": "A0DD7542EC7E88D206B3D228500493AC",
+   "ts_ms": 1697924037395,
+   "ts_iso": "2023-10-21T21:33:57.395000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20231021-WA0026.jpg",
+    "size": 54670,
+    "duration_s": 0,
+    "sha256_b64": "UUKLsrVoWtVXAq2pzJN8XkJzZYx6lS4gwL7ENs2LalE=",
+    "media_name": "213cfed2-032c-487a-9f32-79c3d98484dc.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1183184,
+   "key_id": "744B1906AC84DD52B13DBFCDDCFA2DEF",
+   "ts_ms": 1697927497000,
+   "ts_iso": "2023-10-21T22:31:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ahora llegué",
+   "starred": false
+  }
+ ]
+}

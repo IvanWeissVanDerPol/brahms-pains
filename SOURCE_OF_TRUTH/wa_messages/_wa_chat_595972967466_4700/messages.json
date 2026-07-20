@@ -1,0 +1,57 @@
+{
+ "chat_id": 4700,
+ "slug": "_wa_chat_595972967466_4700",
+ "subject": null,
+ "jid_user": "595972967466",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595972967466@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1363173,
+   "key_id": "5606401C711819F410D079AA1B882BFC",
+   "ts_ms": 1727112957233,
+   "ts_iso": "2024-09-23T17:35:57.233000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola conozco personas que dominan inglés \nPero no están en el área de info \n\nPero están interesados en ir a QA",
+   "starred": false
+  },
+  {
+   "id": 1363174,
+   "key_id": "3AA0F4A1D77892116860",
+   "ts_ms": 1727113000000,
+   "ts_iso": "2024-09-23T17:36:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "tienen algún conocimiento de desarrollo o algo de QA?",
+   "starred": false
+  },
+  {
+   "id": 1363176,
+   "key_id": "97150A45FD592732D956660974235EF4",
+   "ts_ms": 1727113129253,
+   "ts_iso": "2024-09-23T17:38:49.253000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Serían compañeros de beca a Estados Unidos \n\nY compañeros que conocen inglés de internet \n\nPara contexto \nEstudiantes de \nMarketing \nArquitectura \nBiología \nY audiovisuales \n\nSon \n\nPero saben usar computadora/ cell \nHablar /escribir ingles\nY documentar bien cualquiera puede con templates y chat gpt \n:)",
+   "starred": false
+  },
+  {
+   "id": 1363178,
+   "key_id": "D112229D647EFED9DE9FD02F5EE789ED",
+   "ts_ms": 1727113176465,
+   "ts_iso": "2024-09-23T17:39:36.465000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Onda todos ya tienen experiencia hablando con personas internacionalmente \n\nSi no es en USA \nEs en Europa (Holanda )",
+   "starred": false
+  }
+ ]
+}

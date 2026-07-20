@@ -1,0 +1,79 @@
+{
+ "chat_id": 10300,
+ "slug": "_wa_chat_595985475708_10300",
+ "subject": null,
+ "jid_user": "595985475708",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985475708@s.whatsapp.net",
+ "message_count": 6,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1452614,
+   "key_id": "3AA093154FA4A26290AB",
+   "ts_ms": 1742692048000,
+   "ts_iso": "2025-03-23T01:07:28+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Iván",
+   "starred": false
+  },
+  {
+   "id": 1452615,
+   "key_id": "3AC7F79DD8F61AF98F19",
+   "ts_ms": 1742692051000,
+   "ts_iso": "2025-03-23T01:07:31+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cómo estás",
+   "starred": false
+  },
+  {
+   "id": 1452616,
+   "key_id": "3ADD9599EB2D3D592DF5",
+   "ts_ms": 1742692060000,
+   "ts_iso": "2025-03-23T01:07:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Discúlpame la hora",
+   "starred": false
+  },
+  {
+   "id": 1452617,
+   "key_id": "3A5AC5F327B0CB4BA9E6",
+   "ts_ms": 1742692064000,
+   "ts_iso": "2025-03-23T01:07:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Darío Picco soy",
+   "starred": false
+  },
+  {
+   "id": 1452618,
+   "key_id": "3A8C2A8DD2DA18D2C9B4",
+   "ts_ms": 1742692075000,
+   "ts_iso": "2025-03-23T01:07:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy queriendo contactar urgente con Laura",
+   "starred": false
+  },
+  {
+   "id": 1452619,
+   "key_id": "3A45E036100C17D0575C",
+   "ts_ms": 1742692087000,
+   "ts_iso": "2025-03-23T01:08:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por si acaso no está contigo",
+   "starred": false
+  }
+ ]
+}

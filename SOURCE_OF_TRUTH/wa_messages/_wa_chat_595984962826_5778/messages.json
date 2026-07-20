@@ -1,0 +1,99 @@
+{
+ "chat_id": 5778,
+ "slug": "_wa_chat_595984962826_5778",
+ "subject": null,
+ "jid_user": "595984962826",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595984962826@s.whatsapp.net",
+ "message_count": 7,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1254073,
+   "key_id": "9ADF68B200F2D49D1315BC2FEAF07B89",
+   "ts_ms": 1710022505000,
+   "ts_iso": "2024-03-09T22:15:05+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches, le estoy escribiendo de \"Poke&Sushi\" queria pedirle su ubicacion por favor para hacerle llegar su pedido. Entregaremos a la brevedad.\n\nDesde ya, muchas gracias.",
+   "starred": false
+  },
+  {
+   "id": 1254078,
+   "key_id": "8DB7EA333CC425180ED9877F2EFF2C3D",
+   "ts_ms": 1710022772036,
+   "ts_iso": "2024-03-09T22:19:32.036000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Aca",
+   "starred": false
+  },
+  {
+   "id": 1254079,
+   "key_id": "E79773F035398C90C31EAB6D3C820D25",
+   "ts_ms": 1710022778774,
+   "ts_iso": "2024-03-09T22:19:38.774000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1254081,
+   "key_id": "F9CDBD5661745B986329EE65FC729072",
+   "ts_ms": 1710023476379,
+   "ts_iso": "2024-03-09T22:31:16.379000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A que hora llegaría?",
+   "starred": false
+  },
+  {
+   "id": 1254083,
+   "key_id": "07B7EE2DD8F3ECF634C6017D4971E9AA",
+   "ts_ms": 1710023829000,
+   "ts_iso": "2024-03-09T22:37:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 2,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "audio/ogg; codecs=opus",
+    "path": "Media/WhatsApp Voice Notes/202410/PTT-20240309-WA0023.opus",
+    "size": 18707,
+    "duration_s": 8,
+    "sha256_b64": "6gOtQs8uS66HVZIIUW3Uwl2kBKjEtaBLVWou132ESMc=",
+    "media_name": "PTT-20240309-WA0023.opus",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1254085,
+   "key_id": "0BEF5D2DA701C6DB36AB3FE893C30755",
+   "ts_ms": 1710023841694,
+   "ts_iso": "2024-03-09T22:37:21.694000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias",
+   "starred": false
+  },
+  {
+   "id": 1254092,
+   "key_id": "FCDA6B1FD90E8E7809754368903D3B4D",
+   "ts_ms": 1710024558000,
+   "ts_iso": "2024-03-09T22:49:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ya estoy amigo",
+   "starred": false
+  }
+ ]
+}

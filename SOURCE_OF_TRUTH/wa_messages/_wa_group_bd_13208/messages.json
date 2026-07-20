@@ -1,0 +1,57 @@
+{
+ "chat_id": 13208,
+ "slug": "_wa_group_bd_13208",
+ "subject": "Bd",
+ "jid_user": "120363405486126191",
+ "jid_server": "g.us",
+ "jid_raw": "120363405486126191@g.us",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1664234,
+   "key_id": "AC9A8A15FD3D9466E5BF454E71902316",
+   "ts_ms": 1769203759000,
+   "ts_iso": "2026-01-23T21:29:19+00:00",
+   "from_me": false,
+   "sender_jid": "154769146544285@lid",
+   "type": 0,
+   "text": "No se a quien más iba invitar",
+   "starred": false
+  },
+  {
+   "id": 1671493,
+   "key_id": "AC19A2B32BAC8F7C542BFFC5A98773B0",
+   "ts_ms": 1769804358000,
+   "ts_iso": "2026-01-30T20:19:18+00:00",
+   "from_me": false,
+   "sender_jid": "154769146544285@lid",
+   "type": 0,
+   "text": "Pueden venir desde las 8 x ahí",
+   "starred": false
+  },
+  {
+   "id": 1671494,
+   "key_id": "ACD0DCD1AEB380FAF2D7323DE512AFE2",
+   "ts_ms": 1769804365000,
+   "ts_iso": "2026-01-30T20:19:25+00:00",
+   "from_me": false,
+   "sender_jid": "154769146544285@lid",
+   "type": 0,
+   "text": "Traigan traje de pile",
+   "starred": false
+  },
+  {
+   "id": 1671513,
+   "key_id": "AC4A3E26FB48280A254072CC9FD18E96",
+   "ts_ms": 1769805224000,
+   "ts_iso": "2026-01-30T20:33:44+00:00",
+   "from_me": false,
+   "sender_jid": "104578259406934@lid",
+   "type": 0,
+   "text": "Oka",
+   "starred": false
+  }
+ ]
+}

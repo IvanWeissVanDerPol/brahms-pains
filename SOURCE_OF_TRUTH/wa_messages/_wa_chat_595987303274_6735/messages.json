@@ -1,0 +1,33 @@
+{
+ "chat_id": 6735,
+ "slug": "_wa_chat_595987303274_6735",
+ "subject": null,
+ "jid_user": "595987303274",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595987303274@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1298448,
+   "key_id": "3A3E0A066144E42B24DC",
+   "ts_ms": 1717790783000,
+   "ts_iso": "2024-06-07T20:06:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Holaa le saluda *FAVIOLA ARMOA-ASESORA DE VENTAS BRISTOL*❤️ \nPodes adquirir cualquier producto de tu interes y generar cupones para nuestro gran SORTEO DE 20 millones en efectivo y una súper MOTO RALLY 🤩apurate podes ser vos el ganador/ar, agrégame a tus contactos  y cuando quieras alguito te ayudo a gestionar todo !❤️🫶",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20240607-WA0022.jpg",
+    "size": 82836,
+    "duration_s": 0,
+    "sha256_b64": "+4BAP8FO5q4Xm30qA1+TS0LT+k/ItkzXPbSWAhTe6rk=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "chat_id": 11927,
+ "slug": "_wa_chat_595993071008_11927",
+ "subject": null,
+ "jid_user": "595993071008",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595993071008@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581413,
+   "key_id": "AC58C5B832333538EFC129300849B663",
+   "ts_ms": 1759637021775,
+   "ts_iso": "2025-10-05T04:03:41.775000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"paula\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1581558,
+   "key_id": "A525A75DFE4EBBB12AF3CE7A305AD45F",
+   "ts_ms": 1759646940000,
+   "ts_iso": "2025-10-05T06:49:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "_Servicio convencional,_ 🌚🌚🌚 *Oral y vaginal con protección*  🥵🤤🔥🔥🔥\n\n💸 20 Minutos • 100 mil\n💸 30 Minutos • 150 mil\n💸40 minutos.  200 mil\n💸 1 Una Hora • 300mil\n\n*Salidas a Hotel y Motel*\n💸30 Minutos • 300 mil\n💸40 Minutos • 400 mil\n💸 1 Hora • 500 mil\n*Salida a domicilio*\n💸 30 Minutos • 400\n💸45 Minutos • 500\n💸 1 hora  600 \nZona mercado San Lorenzo a cuadras del Banco Familiar",
+   "starred": false
+  }
+ ]
+}

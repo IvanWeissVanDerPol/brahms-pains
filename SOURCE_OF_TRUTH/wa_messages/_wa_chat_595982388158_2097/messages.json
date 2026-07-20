@@ -1,0 +1,134 @@
+{
+ "chat_id": 2097,
+ "slug": "_wa_chat_595982388158_2097",
+ "subject": null,
+ "jid_user": "595982388158",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595982388158@s.whatsapp.net",
+ "message_count": 11,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1453501,
+   "key_id": "3AEB40BF607EB6DA08B3",
+   "ts_ms": 1742858238000,
+   "ts_iso": "2025-03-24T23:17:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas, como estas? Me interesa tu repo XD si es que es para bd2",
+   "starred": false
+  },
+  {
+   "id": 1453502,
+   "key_id": "3ABAE3B3257AF32494AD",
+   "ts_ms": 1742858240000,
+   "ts_iso": "2025-03-24T23:17:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jeje",
+   "starred": false
+  },
+  {
+   "id": 1453513,
+   "key_id": "3F1C6FA5CF2955CFD68C",
+   "ts_ms": 1742858289000,
+   "ts_iso": "2025-03-24T23:18:09+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://github.com/IvanWeissVanDerPol/BD2",
+   "starred": false
+  },
+  {
+   "id": 1453515,
+   "key_id": "3F71DA7B66BB20C73987",
+   "ts_ms": 1742858299000,
+   "ts_iso": "2025-03-24T23:18:19+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "no prob :)",
+   "starred": false
+  },
+  {
+   "id": 1453516,
+   "key_id": "3A7E147942FBC823C4F7",
+   "ts_ms": 1742858300000,
+   "ts_iso": "2025-03-24T23:18:20+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias señor",
+   "starred": false
+  },
+  {
+   "id": 1453518,
+   "key_id": "3F45B278E041D957518C",
+   "ts_ms": 1742858315000,
+   "ts_iso": "2025-03-24T23:18:35+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "si ves cosas que agregar o mejorar agrega nomas \n/ pone comentarios y veo de mejorar :)",
+   "starred": false
+  },
+  {
+   "id": 1453519,
+   "key_id": "3A7BF03E1B6F533083C6",
+   "ts_ms": 1742858320000,
+   "ts_iso": "2025-03-24T23:18:40+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dalee",
+   "starred": false
+  },
+  {
+   "id": 1453533,
+   "key_id": "3FD1BF21C833A4B25E11",
+   "ts_ms": 1742858878000,
+   "ts_iso": "2025-03-24T23:27:58+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://notebooklm.google.com/notebook/eb612ff9-d000-4300-8e8c-290e5483a841/audio",
+   "starred": false
+  },
+  {
+   "id": 1456309,
+   "key_id": "3F35769879A0033AC5D0",
+   "ts_ms": 1743209861000,
+   "ts_iso": "2025-03-29T00:57:41+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "hola\nx si acaso fuiste a la clase?\n\nsabrias que temas entran en el parcial?",
+   "starred": false
+  },
+  {
+   "id": 1456314,
+   "key_id": "3AD165EDB09B51B6C244",
+   "ts_ms": 1743210023000,
+   "ts_iso": "2025-03-29T01:00:23+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Los TAAs y transacciones",
+   "starred": false
+  },
+  {
+   "id": 1456316,
+   "key_id": "BD5AE26AE6087ECD80B95005CBCA32F6",
+   "ts_ms": 1743210080662,
+   "ts_iso": "2025-03-29T01:01:20.662000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Uwu gracias\nMás que nada para que partes del PDF que prepare entra jsjsjs",
+   "starred": false
+  }
+ ]
+}

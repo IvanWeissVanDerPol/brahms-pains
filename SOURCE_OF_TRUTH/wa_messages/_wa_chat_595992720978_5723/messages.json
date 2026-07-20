@@ -1,0 +1,57 @@
+{
+ "chat_id": 5723,
+ "slug": "_wa_chat_595992720978_5723",
+ "subject": null,
+ "jid_user": "595992720978",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595992720978@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1247069,
+   "key_id": "7589F12F02499499377ED9DC982552B3",
+   "ts_ms": 1708910520000,
+   "ts_iso": "2024-02-26T01:22:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas noches, ya estoy en la ubicación",
+   "starred": false
+  },
+  {
+   "id": 1247070,
+   "key_id": "0FDECA33DF1CC09C17449F97BDFF3A28",
+   "ts_ms": 1708910538745,
+   "ts_iso": "2024-02-26T01:22:18.745000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy",
+   "starred": false
+  },
+  {
+   "id": 1247071,
+   "key_id": "B65159F716336C0C6AAC4EA0180080E4",
+   "ts_ms": 1708910542000,
+   "ts_iso": "2024-02-26T01:22:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Dale",
+   "starred": false
+  },
+  {
+   "id": 1247072,
+   "key_id": "501D992B61AA5AB25A8ADFE1486747D1",
+   "ts_ms": 1708910738005,
+   "ts_iso": "2024-02-26T01:25:38.005000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias",
+   "starred": false
+  }
+ ]
+}

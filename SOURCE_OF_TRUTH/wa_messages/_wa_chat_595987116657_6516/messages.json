@@ -1,0 +1,46 @@
+{
+ "chat_id": 6516,
+ "slug": "_wa_chat_595987116657_6516",
+ "subject": null,
+ "jid_user": "595987116657",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595987116657@s.whatsapp.net",
+ "message_count": 3,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1268730,
+   "key_id": "E5C8B45051FC905CFD460779D94EE7C9",
+   "ts_ms": 1712254352000,
+   "ts_iso": "2024-04-04T18:12:32+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! soy tu driver de Monchis app ...",
+   "starred": false
+  },
+  {
+   "id": 1268731,
+   "key_id": "6562CF52325241A7A957C08432F662F7",
+   "ts_ms": 1712254357000,
+   "ts_iso": "2024-04-04T18:12:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy afuera",
+   "starred": false
+  },
+  {
+   "id": 1268732,
+   "key_id": "AC7D180E603DC3565325B68EC1522CA0",
+   "ts_ms": 1712254361958,
+   "ts_iso": "2024-04-04T18:12:41.958000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Viy",
+   "starred": false
+  }
+ ]
+}

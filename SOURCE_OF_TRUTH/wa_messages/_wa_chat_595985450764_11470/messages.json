@@ -1,0 +1,251 @@
+{
+ "chat_id": 11470,
+ "slug": "_wa_chat_595985450764_11470",
+ "subject": null,
+ "jid_user": "595985450764",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985450764@s.whatsapp.net",
+ "message_count": 20,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1568150,
+   "key_id": "AC5538AB94EAC67D4432D289E7E830E6",
+   "ts_ms": 1757596656000,
+   "ts_iso": "2025-09-11T13:17:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola espero que te  encuentres bien la Señora Sonia me llamo para limpiarte la casa y el sábado pasado me fui",
+   "starred": false
+  },
+  {
+   "id": 1568151,
+   "key_id": "ACF7547F223540C50BD1ECA50960D6DE",
+   "ts_ms": 1757596683000,
+   "ts_iso": "2025-09-11T13:18:03+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y que después haría arreglos contigo te comento algo??",
+   "starred": false
+  },
+  {
+   "id": 1568195,
+   "key_id": "AC89826D3B11E7D9F9F20DF48AD9F9CA",
+   "ts_ms": 1757600028490,
+   "ts_iso": "2025-09-11T14:13:48.490000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nUff muchísimas gracias \n\nMe pasas cuanto sería y veo de transferirte :)",
+   "starred": false
+  },
+  {
+   "id": 1568196,
+   "key_id": "ACAE3BAA78B21928C5A375E8E4D49D80",
+   "ts_ms": 1757600043235,
+   "ts_iso": "2025-09-11T14:14:03.235000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y tu alias?\nSe borraron mis chats",
+   "starred": false
+  },
+  {
+   "id": 1568199,
+   "key_id": "AC77645DAF485851AAF99AE38CF30112",
+   "ts_ms": 1757600497000,
+   "ts_iso": "2025-09-11T14:21:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Por mi número de teléfono me podes transferir más práctico",
+   "starred": false
+  },
+  {
+   "id": 1568200,
+   "key_id": "ACD9E80424BAE720C36F1B3C42C0154A",
+   "ts_ms": 1757600745000,
+   "ts_iso": "2025-09-11T14:25:45+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "200000",
+   "starred": false
+  },
+  {
+   "id": 1568317,
+   "key_id": "ACC2D6931E1D99A43B270654FB477351",
+   "ts_ms": 1757608653443,
+   "ts_iso": "2025-09-11T16:37:33.443000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20250911-WA0025.jpg",
+    "size": 71063,
+    "duration_s": 0,
+    "sha256_b64": "E+huoj7HBzS5GH8/JS23Rq+t42KNFZeje2TAQh+MygA=",
+    "media_name": "c2ae84a9-5314-483b-b485-20e2500a10c2.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1568334,
+   "key_id": "ACD936AF9E7091ABDD1B600A0D5A77E1",
+   "ts_ms": 1757609544000,
+   "ts_iso": "2025-09-11T16:52:24+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Muchas gracias",
+   "starred": false
+  },
+  {
+   "id": 1568358,
+   "key_id": "AC79B5C9BC914BB82CBF50BBF1998CA5",
+   "ts_ms": 1757611004230,
+   "ts_iso": "2025-09-11T17:16:44.230000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "A vos :)",
+   "starred": false
+  },
+  {
+   "id": 1603394,
+   "key_id": "ACF503E766D0B350B684F9C536F0F494",
+   "ts_ms": 1762014669215,
+   "ts_iso": "2025-11-01T16:31:09.215000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251101-WA0053.jpg",
+    "size": 129288,
+    "duration_s": 0,
+    "sha256_b64": "d5+D511tHBnvw/L1YbhPlphwlDNurKrokJVu2DVRL0E=",
+    "media_name": "088d216e-08ff-45a7-9b99-54267e11397a.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1612163,
+   "key_id": "AC2ACA9BD5679F1EFBDD6757B2FDA103",
+   "ts_ms": 1763146792026,
+   "ts_iso": "2025-11-14T18:59:52.026000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nQue tal?\n\nSera que podes pasar estos días por casa?",
+   "starred": false
+  },
+  {
+   "id": 1612167,
+   "key_id": "ACF53EC20C867B17793E57C4F90977FA",
+   "ts_ms": 1763147229000,
+   "ts_iso": "2025-11-14T19:07:09+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola todo bien mañana puedo si querés??",
+   "starred": false
+  },
+  {
+   "id": 1612168,
+   "key_id": "AC37052B317FBE7958516DF2F5E2B1F2",
+   "ts_ms": 1763147235000,
+   "ts_iso": "2025-11-14T19:07:15+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "0 el próximo",
+   "starred": false
+  },
+  {
+   "id": 1612188,
+   "key_id": "ACA4BE24005197572E332EE6E2AEFFBA",
+   "ts_ms": 1763148391721,
+   "ts_iso": "2025-11-14T19:26:31.721000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Plz",
+   "starred": false
+  },
+  {
+   "id": 1612189,
+   "key_id": "AC99E8F2AEC9A73C56763D6565B2083A",
+   "ts_ms": 1763148396731,
+   "ts_iso": "2025-11-14T19:26:36.731000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estaría genial",
+   "starred": false
+  },
+  {
+   "id": 1612190,
+   "key_id": "AC282875E00BEE902EC494F38B9C6615",
+   "ts_ms": 1763148426000,
+   "ts_iso": "2025-11-14T19:27:06+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bueno iré mañana",
+   "starred": false
+  },
+  {
+   "id": 1744382,
+   "key_id": "AC82188C542F1C5C738CFA8028BB4FE0",
+   "ts_ms": 1775485277563,
+   "ts_iso": "2026-04-06T14:21:17.563000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Nilda\nTenés tiempo está semana?",
+   "starred": false
+  },
+  {
+   "id": 1745132,
+   "key_id": "ACF011FBAD76465EA7938BC3F1C6AC91",
+   "ts_ms": 1775500257000,
+   "ts_iso": "2026-04-06T18:30:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Ivan el sábado únicamente tengo tiempo🙂",
+   "starred": false
+  },
+  {
+   "id": 1745173,
+   "key_id": "AC25C95E3B1FB3A92475A0782B930564",
+   "ts_ms": 1775501320187,
+   "ts_iso": "2026-04-06T18:48:40.187000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Será que podes pasar el sábado porfa :)",
+   "starred": false
+  },
+  {
+   "id": 1745340,
+   "key_id": "ACF263E03C2933F1964A43F1CF64D365",
+   "ts_ms": 1775506064000,
+   "ts_iso": "2026-04-06T20:07:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Sii claro sin problemas",
+   "starred": false
+  }
+ ]
+}

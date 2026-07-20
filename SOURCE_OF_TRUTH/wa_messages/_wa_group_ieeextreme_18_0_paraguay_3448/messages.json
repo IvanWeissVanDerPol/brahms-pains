@@ -1,0 +1,213 @@
+{
+ "chat_id": 3448,
+ "slug": "_wa_group_ieeextreme_18_0_paraguay_3448",
+ "subject": "🇵🇾 IEEEXtreme 18.0 Paraguay",
+ "jid_user": "120363161182949913",
+ "jid_server": "g.us",
+ "jid_raw": "120363161182949913@g.us",
+ "message_count": 10,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1114248,
+   "key_id": "3EB0C742EF62F1BD787253",
+   "ts_ms": 1691004122000,
+   "ts_iso": "2023-08-02T19:22:02+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": "📢 ¡Atención a todos los entusiastas de la programación y la tecnología! 📢\n\n🎉 Estamos emocionados de anunciar que ya están ABIERTAS las inscripciones para el IEEEXtreme, la competencia más desafiante y divertida de programación. 🚀\n\n🗓️ Marca tus calendarios: ¡La competencia tendrá lugar el 28 de Octubre! 🗓️\n\nNo pierdas esta oportunidad de demostrar tus habilidades y conocimientos en programación mientras te diviertes compitiendo con personas de todo el mundo. 🌍💻\n\n¡Inscríbete ahora mismo en el siguiente enlace: xtreme.vtools.ieee.org\n\n👉 Sigue nuestra cuenta oficial @ieeextremeofficial para obtener las últimas actualizaciones y tips para la competencia. ¡Prepárate para el reto definitivo! 💪🏆\n\n¡No esperes más y forma parte de esta increíble experiencia! 🤩👨‍💻👩‍💻 ¡Te esperamos!\n\nhttps://www.instagram.com/p/CvZyI1ZL0yl",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "fml5ymyimhcDB00qQlx+BzBkZi5SjCSzaIzdjf3jVZM=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1119328,
+   "key_id": "3AB366AE7DEC51D0C799",
+   "ts_ms": 1691720991000,
+   "ts_iso": "2023-08-11T02:29:51+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "ZsfEQUTmO6SOMqbjm6QSEFE9IZfG+n9V9M5nSJuGPSA=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1119329,
+   "key_id": "3A600AD36450C7826D2E",
+   "ts_ms": 1691720991000,
+   "ts_iso": "2023-08-11T02:29:51+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "suL3KuYyxIpUoOaCJOHUUhUOQKi5GQ0DlLM1xb0QDog=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1119330,
+   "key_id": "3AE340308B14637A1CF4",
+   "ts_ms": 1691720992000,
+   "ts_iso": "2023-08-11T02:29:52+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "dJXNQ5w55Kyxw53Ha9qZ5jUOTjAicb2keaKqXxL6u6c=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1119331,
+   "key_id": "3AD6DF9B7D71CA2F11AE",
+   "ts_ms": 1691720992000,
+   "ts_iso": "2023-08-11T02:29:52+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "1Ago0Lwz69fmxqzvW07P8lgo/4w/qVKNA7RP6jSuoQU=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1119332,
+   "key_id": "3A59A031C20BE712F296",
+   "ts_ms": 1691720992000,
+   "ts_iso": "2023-08-11T02:29:52+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "utpA+/GTLc/9DoFEjvJo1mIMGi5feA3lk8psnHf8LNw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1119333,
+   "key_id": "3A8EDCC82FF22811294F",
+   "ts_ms": 1691720993000,
+   "ts_iso": "2023-08-11T02:29:53+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "qwW9Ku6qoBcpWPvtOJTRdktFMQG6/1RF/CMCRrj5Vzs=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1119334,
+   "key_id": "3AF4DD98C427BB5028AC",
+   "ts_ms": 1691720993000,
+   "ts_iso": "2023-08-11T02:29:53+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "NHKC8gwAsrHqGvA8DGI8HYt2U9RU4y+0kBquxt4E5bw=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1145990,
+   "key_id": "3EB0E5CAEB74071BD8E427",
+   "ts_ms": 1693514888000,
+   "ts_iso": "2023-08-31T20:48:08+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": "📣 ¡Atención a todos los apasionados de la programación y la tecnología! 📣\n\n🎉 Nos emociona compartir la noticia de que las inscripciones para el IEEEXtreme 17.0, la competición más emocionante y desafiante en el mundo de la programación, ¡ya están ABIERTAS! 🚀\n\n🗓️ Marca tus calendarios desde ahora: ¡Reserva el Viernes 27 y Sábado 28 de Octubre! 🗓️\n\nNo puedes dejar pasar esta magnífica ocasión para poner a prueba tus habilidades y conocimientos en programación, al mismo tiempo que te sumerges en una experiencia de competición global llena de diversión. 🌍💻\n\nRegístrate sin demora a través del siguiente enlace:\n\nhttps://forms.gle/UTis3x4tzTApGdTq5\n\nChequea las bases en:\n\nhttps://tinyurl.com/BasesXTREME17PY\n\n👉 Mantente al tanto de las últimas noticias y consejos para la competición siguiendo nuestra cuenta oficial @ieeextreme.py en Instagram. ¡Prepárate para el reto supremo! 💪🏆\n\n¡No dejes pasar más tiempo y únete a esta asombrosa oportunidad! 🤩👨‍💻👩‍💻 ¡Te estamos esperando!",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "Jn+8yJLp/etMuu4bapR9yeMCBH1VpjTkX9qLnTs6H4c=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1171340,
+   "key_id": "3EB0FCA2CF700D3D88450D",
+   "ts_ms": 1696632001000,
+   "ts_iso": "2023-10-06T22:40:01+00:00",
+   "from_me": false,
+   "sender_jid": "595984933862@s.whatsapp.net",
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/Private/IMG-20231006-WA0065.jpg",
+    "size": 148594,
+    "duration_s": 0,
+    "sha256_b64": "S8usBhehLB9G/otobOeVC21QTAEKOp/igA41qJOYCP4=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

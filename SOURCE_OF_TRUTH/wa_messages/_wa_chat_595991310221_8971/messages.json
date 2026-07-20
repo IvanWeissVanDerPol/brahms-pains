@@ -1,0 +1,35 @@
+{
+ "chat_id": 8971,
+ "slug": "_wa_chat_595991310221_8971",
+ "subject": null,
+ "jid_user": "595991310221",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595991310221@s.whatsapp.net",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1355296,
+   "key_id": "5D22EE6DAEC8DB01C14976C89D0635AA",
+   "ts_ms": 1725727853000,
+   "ts_iso": "2024-09-07T16:50:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas, me enviaron tu número al preguntar por filamento 3D, quería saber si tienes disponible y los precios",
+   "starred": false
+  },
+  {
+   "id": 1355300,
+   "key_id": "8B0616056CAA6F8B26FD689FCFD6B998",
+   "ts_ms": 1725727989915,
+   "ts_iso": "2024-09-07T16:53:09.915000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola \nTengo pla y abs a 220 000",
+   "starred": false
+  }
+ ]
+}

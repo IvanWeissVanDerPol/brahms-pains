@@ -1,0 +1,163 @@
+{
+ "chat_id": 12993,
+ "slug": "_wa_lid_204333220114444_12993",
+ "subject": null,
+ "jid_user": "204333220114444",
+ "jid_server": "lid",
+ "jid_raw": "204333220114444@lid",
+ "message_count": 12,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1639001,
+   "key_id": "ACF7B31720BB386D08FE24A7605CDDB8",
+   "ts_ms": 1766784569105,
+   "ts_iso": "2025-12-26T21:29:29.105000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola Jesús \n\nSoy Iván Weiss \n\nMe pasó tu contacto Camí Maidana\n\n\nEstoy trabajando en un proyecto de bio informática \n\nY estoy buscando gente que me pueda ayudar a validar la parte de medicina y ver si tiene sentido lo que estoy preparando n.n\n\n/ Help con a quien contactar con lo que encontramos \n\nY como asegurarnos que no pueda robar y patentar big pharma lod hallazgos",
+   "starred": false
+  },
+  {
+   "id": 1639002,
+   "key_id": "AC7A3B609E478E5A2F2840B688498A8E",
+   "ts_ms": 1766784606775,
+   "ts_iso": "2025-12-26T21:30:06.775000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "El proyecto entero es para mucho más que HIV nomás\n\n\nPero como hay mucha data sobre eso le enfocamos en ese",
+   "starred": false
+  },
+  {
+   "id": 1639003,
+   "key_id": "AC40404C39DBB3F95178732810ED8DEC",
+   "ts_ms": 1766784608633,
+   "ts_iso": "2025-12-26T21:30:08.633000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://github.com/IvanWeissVanDerPol/HIV-Research",
+   "starred": false
+  },
+  {
+   "id": 1639219,
+   "key_id": "AC8EB918DB9279DB2D25F80ED2367A06",
+   "ts_ms": 1766788057000,
+   "ts_iso": "2025-12-26T22:27:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Buenas!",
+   "starred": false
+  },
+  {
+   "id": 1639220,
+   "key_id": "AC0F41C36A60387B4132D5BAAF41D3CC",
+   "ts_ms": 1766788077000,
+   "ts_iso": "2025-12-26T22:27:57+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Qué tal? Un placer, Iván",
+   "starred": false
+  },
+  {
+   "id": 1639221,
+   "key_id": "AC79D3035CA8A3E865236AC2E04CAC54",
+   "ts_ms": 1766788097000,
+   "ts_iso": "2025-12-26T22:28:17+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Si, voy a estar leyendo después, ahora mismo no estoy en casa",
+   "starred": false
+  },
+  {
+   "id": 1639222,
+   "key_id": "AC93BAB6E090BC64F7FB23BAF4F41394",
+   "ts_ms": 1766788117000,
+   "ts_iso": "2025-12-26T22:28:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Pero ni bien tenga tiempo leo",
+   "starred": false
+  },
+  {
+   "id": 1639223,
+   "key_id": "AC1A3B5A545D8B3AE9213094B3303F42",
+   "ts_ms": 1766788135000,
+   "ts_iso": "2025-12-26T22:28:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Me parece muy interesante",
+   "starred": false
+  },
+  {
+   "id": 1639281,
+   "key_id": "AC3F0F565D288E6058FD873AFBB7B666",
+   "ts_ms": 1766792433670,
+   "ts_iso": "2025-12-26T23:40:33.670000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Bien \n\nAprovhe el tiempo libre estos días para dedicarme a unos proyectos con un compañero \n\nY vimos en nuestras pruebas y resultados todo esto y estamos viendo cómo validar con gente en el área",
+   "starred": false
+  },
+  {
+   "id": 1639283,
+   "key_id": "ACFEA5743920A16B25249DAAB04F3311",
+   "ts_ms": 1766792459765,
+   "ts_iso": "2025-12-26T23:40:59.765000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "Le das click en code y podes ver todas las carpetas",
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251226-WA0027.jpg",
+    "size": 59706,
+    "duration_s": 0,
+    "sha256_b64": "R71McwNBDzPD+Nnsc6To+V0hkitkcg9IUJE4rxQau3c=",
+    "media_name": "6fb9bcf0-55d1-4fec-a0d4-586e5fa51895.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1639284,
+   "key_id": "AC2DCF7F6BFB83F76DBF68231C7A427B",
+   "ts_ms": 1766792459791,
+   "ts_iso": "2025-12-26T23:40:59.791000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": null,
+   "starred": false,
+   "media": {
+    "mime": null,
+    "path": "Media/WhatsApp Images/Sent/IMG-20251224-WA0055.jpg",
+    "size": 33662,
+    "duration_s": 0,
+    "sha256_b64": "gRIHys6xdyQudlomB4sq0mhjaHonUtSJXmdcaxC4Zug=",
+    "media_name": "5a51ce5b-194b-41fc-aef1-421edf473680.jpg",
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1639285,
+   "key_id": "AC4CA0329E9A64D21C76639D2B6EE8F6",
+   "ts_ms": 1766792477090,
+   "ts_iso": "2025-12-26T23:41:17.090000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Se ve más ordenado y completo en la computadora que en el cell",
+   "starred": false
+  }
+ ]
+}

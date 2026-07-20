@@ -1,0 +1,35 @@
+{
+ "chat_id": 13005,
+ "slug": "_wa_lid_153339375423583_13005",
+ "subject": null,
+ "jid_user": "153339375423583",
+ "jid_server": "lid",
+ "jid_raw": "153339375423583@lid",
+ "message_count": 2,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1640063,
+   "key_id": "AC29FE247450AC0EBEF03BE620173176",
+   "ts_ms": 1766904845709,
+   "ts_iso": "2025-12-28T06:54:05.709000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola",
+   "starred": false
+  },
+  {
+   "id": 1640064,
+   "key_id": "AC9E459B3898B5B676AA5A2E675FAFA5",
+   "ts_ms": 1766904851366,
+   "ts_iso": "2025-12-28T06:54:11.366000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Están abierto aún?",
+   "starred": false
+  }
+ ]
+}

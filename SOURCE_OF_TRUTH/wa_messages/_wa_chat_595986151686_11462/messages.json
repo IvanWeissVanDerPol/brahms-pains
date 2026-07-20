@@ -1,0 +1,68 @@
+{
+ "chat_id": 11462,
+ "slug": "_wa_chat_595986151686_11462",
+ "subject": null,
+ "jid_user": "595986151686",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986151686@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1581438,
+   "key_id": "AC2BE9ECFC3AF563533743BB9B9280C6",
+   "ts_ms": 1759637749125,
+   "ts_iso": "2025-10-05T04:15:49.125000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola, acabo de ver tu anuncio en Skokka, \"Tamara 19 añitos recién i(…)\", y me gustaría quedar contigo.",
+   "starred": false
+  },
+  {
+   "id": 1581567,
+   "key_id": "ACEFF028AD8D5E6E95164CAB046F5B7A",
+   "ts_ms": 1759662223000,
+   "ts_iso": "2025-10-05T11:03:43+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola amor estoy en fernando dla mora zona norte",
+   "starred": false
+  },
+  {
+   "id": 1581569,
+   "key_id": "AC363A02DBFDA1FC30BBF26BB0508F6C",
+   "ts_ms": 1759662224000,
+   "ts_iso": "2025-10-05T11:03:44+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cobro 20 minutos 100\n150 media hora\n200 la hora",
+   "starred": false
+  },
+  {
+   "id": 1581570,
+   "key_id": "AC55BC7CF8D946432DA213A819315F80",
+   "ts_ms": 1759662226000,
+   "ts_iso": "2025-10-05T11:03:46+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Cuento con departamento propio independiente",
+   "starred": false
+  },
+  {
+   "id": 1581571,
+   "key_id": "AC40F4F2B123348D8695C66CD9762E9F",
+   "ts_ms": 1759662227000,
+   "ts_iso": "2025-10-05T11:03:47+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Seria masaje oral y vaginal",
+   "starred": false
+  }
+ ]
+}

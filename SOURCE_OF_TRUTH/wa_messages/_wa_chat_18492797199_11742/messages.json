@@ -1,0 +1,68 @@
+{
+ "chat_id": 11742,
+ "slug": "_wa_chat_18492797199_11742",
+ "subject": null,
+ "jid_user": "18492797199",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "18492797199@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1565811,
+   "key_id": "CAABDEB982FFD0C1AC034A5182566EC4",
+   "ts_ms": 1757176279000,
+   "ts_iso": "2025-09-06T16:31:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Vea. no ando. buscando Broncas. Ni. Nada pero me. gusta que.respeten la agencia, Las  chicas y mi negocio. Le escribo para. Notificarle. Y me gusta. Entrar en la mesa. Del dialogo antes. De tomar desiciones. Represivas, Acaso.usted. Cree que.  puede. Andar por la vida tranceandole.el negocio.a los. Demas pues le. Informo que se equivico con el mio NO. El tiempo que. le hizo. perder a mi chica debera. Pagarlo Con una Multa. por las buenas. O de lo.contrario estariamos. metidos en un.gran Pedo. donde.usted. me retaria a. que no puedo dar con.usted. O con su familia.",
+   "starred": false
+  },
+  {
+   "id": 1565812,
+   "key_id": "B5CC64B626AAA57EC5A471FB7B349283",
+   "ts_ms": 1757176279000,
+   "ts_iso": "2025-09-06T16:31:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Usted habla con la plaza \nSi vuelve a bloquear sus familiares personalmente pagaran las consecuenciasnznznznz",
+   "starred": false
+  },
+  {
+   "id": 1565827,
+   "key_id": "ACFCBDD1328AEF477B41AA14B9898CA2",
+   "ts_ms": 1757179561203,
+   "ts_iso": "2025-09-06T17:26:01.203000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Jajaja Bro no se de que me hablas\nSi es de las cariñosas en cdmx",
+   "starred": false
+  },
+  {
+   "id": 1565828,
+   "key_id": "AC2A5671DAD22E8D0F13762A94197AD4",
+   "ts_ms": 1757179567574,
+   "ts_iso": "2025-09-06T17:26:07.574000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ellas me hacen perder el tiempo",
+   "starred": false
+  },
+  {
+   "id": 1565829,
+   "key_id": "ACAC8D3F0154B2559E1EF26DB711F103",
+   "ts_ms": 1757179582412,
+   "ts_iso": "2025-09-06T17:26:22.412000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Yo escribo a varias y la primera en responder es la ganadaora",
+   "starred": false
+  }
+ ]
+}

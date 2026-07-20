@@ -1,0 +1,24 @@
+{
+ "chat_id": 3641,
+ "slug": "_wa_chat_595983660080_3641",
+ "subject": null,
+ "jid_user": "595983660080",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595983660080@s.whatsapp.net",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1117853,
+   "key_id": "2B3230EBA1688B0B94BE301C4B1B58D4",
+   "ts_ms": 1691528578982,
+   "ts_iso": "2023-08-08T21:02:58.982000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "https://chat.whatsapp.com/IxmOa3cgWoaJKdae7v4jDw",
+   "starred": false
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "chat_id": 2931,
+ "slug": "_wa_chat_18147475492_2931",
+ "subject": null,
+ "jid_user": "18147475492",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "18147475492@s.whatsapp.net",
+ "message_count": 4,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1029672,
+   "key_id": "3EB0C52463AE0CC80EE0",
+   "ts_ms": 1677201766000,
+   "ts_iso": "2023-02-24T01:22:46+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "imagine a rover that crosses a deforested field \nas it moves\nit leaves pelletized seed along his path",
+   "starred": false
+  },
+  {
+   "id": 1029675,
+   "key_id": "1AB93DA22C4F2065BE",
+   "ts_ms": 1677201770000,
+   "ts_iso": "2023-02-24T01:22:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "*[Art Box A.I. Tutorial]*\n\nStart any prompt with the word 'imagine'. The more details your prompt contains the better. \n\n EX: 'imagine large mountain with flowing water'\n\nTo download the individual images from a grid use the 'download' command along with the image ID\n\n EX: 'download 000-000-001' \n\n\n*[INFORMATION]*\n\nYou currently are on the Trial plan, you get 3 free generations.\n\n*Commands*\nType '!help' to get a list of commands. \n\nUpgrade to a standard account to get 7 daily generations (28 images).\n\nPurchase here: https://buy.stripe.com/6oEeXI6GTaUwctW28a Only $5.99!\n\n*[IMPORTANT]*\n\nUse the phone number attached to your whatsapp account when paying.\n\nJoin the whatsapp group for help and feature updates:\n\nhttps://chat.whatsapp.com/ILqB2VoEZK69sgnjSybXEL",
+   "starred": false
+  },
+  {
+   "id": 1029676,
+   "key_id": "CEE91469B4847EF07A",
+   "ts_ms": 1677201770000,
+   "ts_iso": "2023-02-24T01:22:50+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Your imagined image will be generated and sent in 1 - 5 minutes\n\nIf no generation is returned, assume failure.",
+   "starred": false
+  },
+  {
+   "id": 1029677,
+   "key_id": "4F7F624D87EB81A19E",
+   "ts_ms": 1677201817000,
+   "ts_iso": "2023-02-24T01:23:37+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 1,
+   "text": "a rover that crosses a deforested field as it movesit leaves pelletized seed along his path\n\nID:0460-4795-7362",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": "Media/WhatsApp Images/IMG-20230223-WA0029.jpg",
+    "size": 233604,
+    "duration_s": 0,
+    "sha256_b64": "NYcJQVg1ATEZrF9AXPOOYlB/PHJQxywVGITxdw2VdHc=",
+    "media_name": null,
+    "media_caption": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "chat_id": 10161,
+ "slug": "_wa_chat_595986780732_10161",
+ "subject": null,
+ "jid_user": "595986780732",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595986780732@s.whatsapp.net",
+ "message_count": 5,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1446942,
+   "key_id": "BDFF646F4FEAE4D1D8BF018383258FE6",
+   "ts_ms": 1741816255000,
+   "ts_iso": "2025-03-12T21:50:55+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa. Soy el delivery de pausanti",
+   "starred": false
+  },
+  {
+   "id": 1446943,
+   "key_id": "8BFAFB1DCCEC6BD77E52D9C122BF5CF8",
+   "ts_ms": 1741816259000,
+   "ts_iso": "2025-03-12T21:50:59+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy en tu ubicación",
+   "starred": false
+  },
+  {
+   "id": 1454141,
+   "key_id": "815AE9A0C519ED3AB14087E5D3D8B45D",
+   "ts_ms": 1742949604000,
+   "ts_iso": "2025-03-26T00:40:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holaa..",
+   "starred": false
+  },
+  {
+   "id": 1454142,
+   "key_id": "30F6C903362DE4822003883769398C6F",
+   "ts_ms": 1742949608000,
+   "ts_iso": "2025-03-26T00:40:08+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Soy el delivery de pausanti",
+   "starred": false
+  },
+  {
+   "id": 1454143,
+   "key_id": "D371CBFCAA99F3AB41BAD401F0B62216",
+   "ts_ms": 1742949612000,
+   "ts_iso": "2025-03-26T00:40:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Estoy en tu ubicación",
+   "starred": false
+  }
+ ]
+}

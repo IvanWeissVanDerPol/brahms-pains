@@ -1,0 +1,24 @@
+{
+ "chat_id": 13562,
+ "slug": "_wa_lid_34754908921876_13562",
+ "subject": null,
+ "jid_user": "34754908921876",
+ "jid_server": "lid",
+ "jid_raw": "34754908921876@lid",
+ "message_count": 1,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1693230,
+   "key_id": "ACF68537884034CA9C528DE6E0D0581D",
+   "ts_ms": 1771194353000,
+   "ts_iso": "2026-02-15T22:25:53+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "¡Hola! soy tu driver de Monchis app ...llegue",
+   "starred": false
+  }
+ ]
+}
