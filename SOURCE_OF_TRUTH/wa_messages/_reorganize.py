@@ -70,7 +70,7 @@ def load_meta(dir_path: Path) -> dict:
         "jid_server": d.get("jid_server"),
     }
 
-def resolve_name(slug: str, meta: dict) -> str:
+def resolve_name(meta: dict) -> str:
     subject = meta.get("subject")
     jid_user = meta.get("jid_user") or ""
     server = meta.get("jid_server") or ""
@@ -89,25 +89,6 @@ def resolve_name(slug: str, meta: dict) -> str:
         return slugify(jid_user)
 
     return "unknown"
-
-def tier_for_slug(slug: str) -> str | None:
-    tiers = FINAL["tiers"]
-    if slug in tiers["tier1_deep"]:
-        return "tier1_deep"
-    if slug in tiers["tier2_core"]:
-        return "tier2_core"
-    if slug in tiers["tier3_extended"]:
-        return "tier3_extended"
-    if slug in tiers["tier4_group_context"]:
-        return "tier4"
-    return None
-
-def group_bucket(slug: str) -> str:
-    active = set()
-    lurker = set()
-    for c_slug in FINAL["tiers"]["tier4_group_context"]:
-        pass
-    return slug
 
 def plan() -> list[dict]:
     keep_set = set(FINAL["keep_slugs"])
