@@ -78,13 +78,23 @@
 
 ---
 
-### Current: Nico System (Ongoing)
+### Current: Nico System (Ongoing, Aug 2025–present)
 
 | Aspect | Details |
 |--------|---------|
 | **Structure** | Polyamorous. Nico has wife (Ceci), Dom (Daiya), sub (Mike) |
 | **Ivan's Role** | Nico and Mike both Dom him. Sometimes Daiya Doms him |
 | **Context** | BDSM/kink relationship |
+| **Duration** | 7+ months — longest relationship in dataset |
+| **Sub Identity** | "Nyx" — fursona name used when in sub space |
+
+**The Fixer — Inverted into Service Submission:**
+
+The classic Fixer pattern (compulsive over-functioning for emotional validation) is **absent in its draining form** and instead channeled into kink content. Ivan's service — massage, cooking, shibari setup, research, building tools — is simultaneously submission and love language.
+
+> *"Prepare un Suno song de agradecimiento por la session — me siento re happy y warm"*
+
+This is The Fixer **transformed**, not eliminated. The same drive that depleted with Laura becomes the *content* of his BDSM submission — and is explicitly acknowledged and appreciated.
 
 **What Works:**
 
@@ -96,12 +106,38 @@
 | "Raised me" - praised services, food | Specific recognition |
 | Internet people vibes | Authentic connection style |
 | Communication, care, warmth | Core needs met |
+| Rope marks as evidence | Proof of being touched and cared for |
+| Poly redundancy | No single mood determines the whole system |
+
+**Vulnerability Patterns:**
+
+- Asks for what he wants with "shy pero trying anyway" framing
+- "uwuwuw" softens vulnerability instead of apologetic self-deprecation
+- Rope/bondage sessions provide blindfold benefit (removes face self-consciousness)
+- Touch documented like evidence files — marks prove he was held
+
+> *"Def muy happy en las fotos me gusta uwuwuw"*
 
 **What He Wants More Of:**
 - Cuddles
 - To be able to kiss them (hasn't asked yet - shy)
+- Still mediated by permission structure, but asking is getting easier
 
-**Significance:** This relationship provides the counter-evidence to old wounds. Proof that receiving care is possible.
+**Clinical Significance:**
+
+This relationship provides the **counter-evidence to the "Pesado" wound**. In this network, being "a lot" (needy, kinky, furry, service-oriented) is not only tolerated — it's the *point*. His excess becomes the content of the relationship.
+
+**The poly structure provides stability through redundancy** — exactly what Ivan described wanting in his long-term vision. No single partner's mood determines the whole system's care.
+
+**Risk:** The relationship predates Ivan's therapeutic work — may represent a pre-existing island of safety rather than a skill built de novo. Monitor for generalization to new connections.
+
+**Voice Note Analysis (541 entries, Aug 2025–Jan 2026):**
+- The Fixer is **inverted** — service (massage, cooking, gifts) IS the submission, not a depleting pattern
+- Ivan uses "Nyx" (fursona name) when in sub space — this is a named identity shift, not just role-play
+- Poly structure removes attachment threat — Ivan is one of several subs, not the sole provider
+- No apologies for expressing needs — asks directly for what he wants ("te puedo dar beso?")
+- Physical marks (rope marks) function as evidence of touch received — counters Touch Starvation
+- "Nico y Nyx fueron los primeros desconocidos so to say que les comenté de mi hiv y fue muy warm" — HIV disclosure felt safe here first
 
 ---
 
@@ -127,6 +163,16 @@
 
 **Clinical Significance:**
 - **Healthiest communication sample** in entire repository
+
+**Voice Note Analysis (275 entries, Jan–Feb 2026):**
+- Ivan explicitly uses this relationship as **assertiveness training laboratory** — names it as growth goal
+- Asking for what he wants without apology: "Me gustaría invitarte a un coffee date" (no self-deprecation after)
+- HIV disclosure as casual informed consent: "Ya estoy 3 meses en Pep — deberías estar safe"
+- The Fixer: **ABSENT** — no service-offering, no emotional labor, no life management
+- Alex creates safety through warmth without requiring caretaking in return
+- "No pressure to perform" — Ivan can be shy and still feel safe
+- Blindfolds remove visual self-monitoring — same benefit as rope sessions with Nico
+- **Most direct evidence of therapeutic progress** in entire dataset
 - Demonstrates evolution from Laura relationship patterns
 - Proactive transparency about HIV status (major identity integration)
 - Direct needs expression without self-deprecation
@@ -165,6 +211,16 @@
 - Most explicit consent negotiation in dataset
 - High-risk activities (sounding, MDMA) require harm reduction focus
 - Shows capability for mutual sexual relationships
+
+---
+
+**Voice Note Analysis (758 entries, Jan 2026):**
+- Reciprocal kink confirmed — both parties initiate pegging, sounding, group sessions
+- **The Fixer modified** into health advocacy: Ivan connected Sarah to Somosgay, explains PrEP/PEP, proactive HIV education
+- MDMA-assisted vulnerability: Ivan becomes "soft," emotional, physically affectionate without Freeze response
+- Trauma processing visible — childhood medical procedures, school bullying disclosed under MDMA
+- No apologizing for expressing needs — explicit pleasure expression without shame
+- 758 messages in ~2 weeks = highest intensity relationship in dataset (monitor for hyperfixation)
 
 ---
 
