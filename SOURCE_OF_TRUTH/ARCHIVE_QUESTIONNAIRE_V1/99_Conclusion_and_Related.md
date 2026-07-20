@@ -10,8 +10,8 @@
 
 ## Related Documents
 
-- [Master Profile](./MASTER_PROFILE.md)
-- [Communication Patterns Analysis](./COMMUNICATION_PATTERNS_ANALYSIS.md)
-- [Identified Patterns](../RELATIONSHIPS/patterns/IDENTIFIED_PATTERNS.md)
-- [Laura Profile](../RELATIONSHIPS/dynamics/LAURA.md) - Fistula Incident details
-- [Cookie Profile](../RELATIONSHIPS/dynamics/COOKIE.md) - Asking for help evidence
+- [Master Profile](../MASTER_PROFILE.md)
+- [Communication Patterns Analysis](../COMMUNICATION_PATTERNS_ANALYSIS.md)
+- [Identified Patterns](../../RELATIONSHIPS/patterns/IDENTIFIED_PATTERNS.md)
+- [Laura Profile](../../RELATIONSHIPS/dynamics/LAURA.md) - Fistula Incident details
+- [Cookie Profile](../../RELATIONSHIPS/dynamics/COOKIE.md) - Asking for help evidence

@@ -400,10 +400,10 @@ Moving from unreciprocated service (Laura) to reciprocal kink (Sarah) shows grow
 ## Related Documents
 
 - [Alex Relationship Analysis](./ALEX.md)
-- [MASTER_PROFILE.md](../SOURCE_OF_TRUTH/MASTER_PROFILE.md)
+- [MASTER_PROFILE.md](../../SOURCE_OF_TRUTH/MASTER_PROFILE.md)
 - [Lourdes Relationship Profile](./LOURDES_YOUKO_KURAMA.md)
 - [Nico Relationship Profile](./NICOLAS_DUARTE.md)
-- [INTEGRATED_ANALYSIS_REPORT.md](../SOURCE_OF_TRUTH/INTEGRATED_ANALYSIS_REPORT.md)
+- [INTEGRATED_ANALYSIS_REPORT.md](../../SOURCE_OF_TRUTH/INTEGRATED_ANALYSIS_REPORT.md)
 
 ---
 

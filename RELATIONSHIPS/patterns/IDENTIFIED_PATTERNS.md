@@ -285,7 +285,7 @@ Ivan recognized the Laura-Mother parallel ("Probably recreated the same dynamic"
 
 ## Related Documents
 
-- [Relationship Timeline](./RELATIONSHIP_TIMELINE.md)
+- [Relationship Timeline](../history/RELATIONSHIP_TIMELINE.md)
 - [Individual Profiles](../dynamics/) - 11 detailed relationship profiles
 - [Communication Patterns Analysis](../../SOURCE_OF_TRUTH/COMMUNICATION_PATTERNS_ANALYSIS.md)
 - [Attachment Patterns](../../CORE_PSYCHOLOGY/attachment_patterns/)

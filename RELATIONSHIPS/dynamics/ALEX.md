@@ -268,10 +268,10 @@ Ivan explicitly states personal development goals:
 
 ## Related Documents
 
-- [MASTER_PROFILE.md](../SOURCE_OF_TRUTH/MASTER_PROFILE.md)
-- [THE_MASK.md](../CORE_PSYCHOLOGY/defense_mechanisms/THE_MASK.md)
-- [Dual-System Model](../SOURCE_OF_TRUTH/MASTER_PROFILE.md#the-dual-system-model)
-- [Nico Relationship Profile](../RELATIONSHIPS/dynamics/NICOLAS_DUARTE.md)
+- [MASTER_PROFILE.md](../../SOURCE_OF_TRUTH/MASTER_PROFILE.md)
+- [THE_MASK.md](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_MASK.md)
+- [Dual-System Model](../../SOURCE_OF_TRUTH/MASTER_PROFILE.md#the-dual-system-model)
+- [Nico Relationship Profile](./NICOLAS_DUARTE.md)
 
 ---
 
