@@ -1,0 +1,940 @@
+{
+ "chats": {
+  "_wa_chat_13162108040_3066": {
+   "missing_on_disk": 2
+  },
+  "_wa_chat_13163475777_3667": {
+   "copied": 8
+  },
+  "_wa_chat_15055778339_2872": {
+   "already_present": 36
+  },
+  "_wa_chat_31612495139_98": {
+   "copied": 2,
+   "missing_on_disk": 13
+  },
+  "_wa_chat_31634463709_11777": {
+   "copied": 52
+  },
+  "_wa_chat_31640912250_1850": {
+   "copied": 4
+  },
+  "_wa_chat_33617854901_2950": {
+   "missing_on_disk": 1
+  },
+  "_wa_chat_33665298582_2646": {
+   "copied": 14,
+   "missing_on_disk": 6
+  },
+  "_wa_chat_34650513549_10652": {
+   "copied": 1
+  },
+  "_wa_chat_491743785770_1989": {
+   "copied": 6
+  },
+  "_wa_chat_50257029309_9070": {
+   "copied": 1
+  },
+  "_wa_chat_5215547629093_4393": {
+   "copied": 1
+  },
+  "_wa_chat_595961366892_1314": {
+   "missing_on_disk": 17
+  },
+  "_wa_chat_595961943357_4695": {
+   "copied": 16
+  },
+  "_wa_chat_595962155684_1881": {
+   "missing_on_disk": 19
+  },
+  "_wa_chat_595962288968_1698": {
+   "copied": 1,
+   "missing_on_disk": 110
+  },
+  "_wa_chat_595962291837_9625": {
+   "already_present": 637
+  },
+  "_wa_chat_595971151324_5178": {
+   "copied": 1
+  },
+  "_wa_chat_595971190089_5319": {
+   "copied": 8
+  },
+  "_wa_chat_595971200431_11186": {
+   "copied": 1
+  },
+  "_wa_chat_595971227824_5316": {
+   "copied": 2
+  },
+  "_wa_chat_595971378035_1724": {
+   "copied": 17
+  },
+  "_wa_chat_595971505289_110": {
+   "copied": 1,
+   "missing_on_disk": 73
+  },
+  "_wa_chat_595971612900_2048": {
+   "copied": 3
+  },
+  "_wa_chat_595971726746_6977": {
+   "copied": 13
+  },
+  "_wa_chat_595971755786_1741": {
+   "copied": 15,
+   "missing_on_disk": 1
+  },
+  "_wa_chat_595971758658_9805": {
+   "copied": 3
+  },
+  "_wa_chat_595971922708_3654": {
+   "already_present": 1673
+  },
+  "_wa_chat_595971942911_1748": {
+   "copied": 2
+  },
+  "_wa_chat_595972104371_9036": {
+   "copied": 6
+  },
+  "_wa_chat_595972130867_49": {
+   "already_present": 171,
+   "missing_on_disk": 791
+  },
+  "_wa_chat_595972209763_2943": {
+   "already_present": 34
+  },
+  "_wa_chat_595972835716_1244": {
+   "copied": 1,
+   "missing_on_disk": 29
+  },
+  "_wa_chat_595972994744_4768": {
+   "copied": 2
+  },
+  "_wa_chat_595973572212_1994": {
+   "already_present": 35,
+   "missing_on_disk": 10
+  },
+  "_wa_chat_595973757353_1731": {
+   "copied": 2,
+   "missing_on_disk": 20
+  },
+  "_wa_chat_595974465910_5322": {
+   "copied": 9
+  },
+  "_wa_chat_595974621488_7274": {
+   "copied": 1
+  },
+  "_wa_chat_595974956470_10067": {
+   "copied": 1
+  },
+  "_wa_chat_595976331904_1866": {
+   "missing_on_disk": 3
+  },
+  "_wa_chat_595976351903_1740": {
+   "copied": 1
+  },
+  "_wa_chat_595976409265_2838": {
+   "copied": 52
+  },
+  "_wa_chat_595976538689_3231": {
+   "already_present": 2919
+  },
+  "_wa_chat_595976569739_2083": {
+   "already_present": 47
+  },
+  "_wa_chat_595976682109_9259": {
+   "copied": 2
+  },
+  "_wa_chat_595976909490_10320": {
+   "copied": 1
+  },
+  "_wa_chat_595976933610_11524": {
+   "copied": 1
+  },
+  "_wa_chat_595981063900_11176": {
+   "copied": 2
+  },
+  "_wa_chat_595981180666_11095": {
+   "copied": 23
+  },
+  "_wa_chat_595981199223_1728": {
+   "missing_on_disk": 80
+  },
+  "_wa_chat_595981225272_62": {
+   "copied": 548,
+   "missing_on_disk": 2581
+  },
+  "_wa_chat_595981258488_3525": {
+   "already_present": 98
+  },
+  "_wa_chat_595981262272_1550": {
+   "missing_on_disk": 2
+  },
+  "_wa_chat_595981279546_12805": {
+   "copied": 1
+  },
+  "_wa_chat_595981285412_9804": {
+   "copied": 3
+  },
+  "_wa_chat_595981319885_6607": {
+   "copied": 1
+  },
+  "_wa_chat_595981321606_10229": {
+   "copied": 4
+  },
+  "_wa_chat_595981324569_1092": {
+   "already_present": 1
+  },
+  "_wa_chat_595981375463_9165": {
+   "copied": 2
+  },
+  "_wa_chat_595981428090_3734": {
+   "copied": 1
+  },
+  "_wa_chat_595981459382_4380": {
+   "already_present": 9
+  },
+  "_wa_chat_595981459447_11190": {
+   "copied": 1
+  },
+  "_wa_chat_595981472444_1308": {
+   "copied": 1
+  },
+  "_wa_chat_595981514195_9627": {
+   "copied": 21
+  },
+  "_wa_chat_595981545498_273": {
+   "copied": 1
+  },
+  "_wa_chat_595981586063_6818": {
+   "copied": 2
+  },
+  "_wa_chat_595981609125_10582": {
+   "copied": 1
+  },
+  "_wa_chat_595981616294_1696": {
+   "missing_on_disk": 17
+  },
+  "_wa_chat_595981656962_3522": {
+   "copied": 3
+  },
+  "_wa_chat_595981725157_11979": {
+   "copied": 40
+  },
+  "_wa_chat_595981791823_1683": {
+   "already_present": 1482,
+   "missing_on_disk": 778
+  },
+  "_wa_chat_595981801463_9599": {
+   "copied": 2
+  },
+  "_wa_chat_595981801824_11545": {
+   "copied": 2
+  },
+  "_wa_chat_595981838763_1894": {
+   "missing_on_disk": 6
+  },
+  "_wa_chat_595981868718_92": {
+   "already_present": 12,
+   "missing_on_disk": 210
+  },
+  "_wa_chat_595981924528_1795": {
+   "missing_on_disk": 5
+  },
+  "_wa_chat_595981925772_1253": {
+   "already_present": 109,
+   "missing_on_disk": 72
+  },
+  "_wa_chat_595981945426_9591": {
+   "copied": 1
+  },
+  "_wa_chat_595981945931_5470": {
+   "copied": 1
+  },
+  "_wa_chat_595981990870_2079": {
+   "copied": 1
+  },
+  "_wa_chat_595982018339_6519": {
+   "copied": 1
+  },
+  "_wa_chat_595982139653_1855": {
+   "missing_on_disk": 4
+  },
+  "_wa_chat_595982223241_11521": {
+   "copied": 41
+  },
+  "_wa_chat_595982410566_9085": {
+   "copied": 12
+  },
+  "_wa_chat_595982418373_4145": {
+   "copied": 6
+  },
+  "_wa_chat_595982510082_1723": {
+   "already_present": 80,
+   "missing_on_disk": 1
+  },
+  "_wa_chat_595982515138_64": {
+   "already_present": 926,
+   "missing_on_disk": 790
+  },
+  "_wa_chat_595982553100_9254": {
+   "copied": 45
+  },
+  "_wa_chat_595982646114_5235": {
+   "copied": 9
+  },
+  "_wa_chat_595982783951_6901": {
+   "copied": 7
+  },
+  "_wa_chat_595982833757_11928": {
+   "copied": 1
+  },
+  "_wa_chat_595982843645_3101": {
+   "copied": 34,
+   "missing_on_disk": 4
+  },
+  "_wa_chat_595982850085_1747": {
+   "missing_on_disk": 94
+  },
+  "_wa_chat_595982923913_4696": {
+   "copied": 17
+  },
+  "_wa_chat_595982944453_2454": {
+   "missing_on_disk": 21
+  },
+  "_wa_chat_595983111686_3524": {
+   "already_present": 19
+  },
+  "_wa_chat_595983236333_6776": {
+   "copied": 1
+  },
+  "_wa_chat_595983281667_3593": {
+   "copied": 17
+  },
+  "_wa_chat_595983328698_5343": {
+   "copied": 2
+  },
+  "_wa_chat_595983380156_3701": {
+   "copied": 13
+  },
+  "_wa_chat_595983435779_11525": {
+   "copied": 1
+  },
+  "_wa_chat_595983523251_1276": {
+   "missing_on_disk": 13
+  },
+  "_wa_chat_595983698281_9914": {
+   "copied": 23
+  },
+  "_wa_chat_595983727370_1926": {
+   "missing_on_disk": 6
+  },
+  "_wa_chat_595983738040_1270": {
+   "missing_on_disk": 14
+  },
+  "_wa_chat_595983822921_11297": {
+   "already_present": 133
+  },
+  "_wa_chat_595983858997_3598": {
+   "copied": 1
+  },
+  "_wa_chat_595984160109_1257": {
+   "already_present": 8,
+   "missing_on_disk": 77
+  },
+  "_wa_chat_595984202187_10088": {
+   "copied": 10
+  },
+  "_wa_chat_595984234002_10308": {
+   "copied": 1
+  },
+  "_wa_chat_595984409200_4630": {
+   "copied": 4
+  },
+  "_wa_chat_595984626802_1720": {
+   "copied": 1,
+   "missing_on_disk": 1
+  },
+  "_wa_chat_595984689143_4130": {
+   "copied": 1
+  },
+  "_wa_chat_595984731244_10265": {
+   "copied": 5
+  },
+  "_wa_chat_595984751669_667": {
+   "copied": 7
+  },
+  "_wa_chat_595984884585_1632": {
+   "missing_on_disk": 3
+  },
+  "_wa_chat_595984900920_9052": {
+   "copied": 1
+  },
+  "_wa_chat_595984909166_9157": {
+   "copied": 2
+  },
+  "_wa_chat_595984917697_2941": {
+   "missing_on_disk": 1
+  },
+  "_wa_chat_595984933862_1330": {
+   "already_present": 93,
+   "missing_on_disk": 12
+  },
+  "_wa_chat_595984962826_5778": {
+   "copied": 1
+  },
+  "_wa_chat_595985124464_11430": {
+   "copied": 22
+  },
+  "_wa_chat_595985219034_6759": {
+   "copied": 1
+  },
+  "_wa_chat_595985249907_9628": {
+   "already_present": 152
+  },
+  "_wa_chat_595985340001_2439": {
+   "already_present": 236,
+   "missing_on_disk": 42
+  },
+  "_wa_chat_595985343897_7621": {
+   "copied": 1
+  },
+  "_wa_chat_595985434234_9071": {
+   "copied": 1
+  },
+  "_wa_chat_595985435809_11371": {
+   "copied": 59
+  },
+  "_wa_chat_595985532655_5077": {
+   "copied": 1
+  },
+  "_wa_chat_595985552000_6568": {
+   "copied": 1
+  },
+  "_wa_chat_595985724135_111": {
+   "already_present": 285,
+   "missing_on_disk": 246
+  },
+  "_wa_chat_595985725366_99": {
+   "already_present": 202,
+   "missing_on_disk": 220
+  },
+  "_wa_chat_595985725871_86": {
+   "already_present": 189,
+   "missing_on_disk": 126
+  },
+  "_wa_chat_595985733375_1831": {
+   "missing_on_disk": 1
+  },
+  "_wa_chat_595985778871_3717": {
+   "copied": 7
+  },
+  "_wa_chat_595985786571_3711": {
+   "copied": 1
+  },
+  "_wa_chat_595985837875_4762": {
+   "copied": 3
+  },
+  "_wa_chat_595985855075_1366": {
+   "missing_on_disk": 1
+  },
+  "_wa_chat_595985909813_11354": {
+   "copied": 1
+  },
+  "_wa_chat_595985951732_1722": {
+   "missing_on_disk": 42
+  },
+  "_wa_chat_595986129386_1781": {
+   "copied": 17,
+   "missing_on_disk": 1
+  },
+  "_wa_chat_595986138387_1265": {
+   "already_present": 31,
+   "missing_on_disk": 6
+  },
+  "_wa_chat_595986173200_11974": {
+   "copied": 9
+  },
+  "_wa_chat_595986186281_1292": {
+   "copied": 10,
+   "missing_on_disk": 10
+  },
+  "_wa_chat_595986189433_1752": {
+   "missing_on_disk": 6
+  },
+  "_wa_chat_595986361808_4032": {
+   "copied": 47
+  },
+  "_wa_chat_595986418879_1688": {
+   "already_present": 60,
+   "missing_on_disk": 1
+  },
+  "_wa_chat_595986445564_7538": {
+   "copied": 5
+  },
+  "_wa_chat_595986464184_1811": {
+   "missing_on_disk": 60
+  },
+  "_wa_chat_595986637132_5130": {
+   "copied": 1
+  },
+  "_wa_chat_595986710408_1699": {
+   "missing_on_disk": 5
+  },
+  "_wa_chat_595986805654_1271": {
+   "already_present": 203,
+   "missing_on_disk": 492
+  },
+  "_wa_chat_595986830049_1694": {
+   "missing_on_disk": 66
+  },
+  "_wa_chat_595986850030_6817": {
+   "copied": 1
+  },
+  "_wa_chat_595986868241_10607": {
+   "already_present": 63
+  },
+  "_wa_chat_595987111437_10473": {
+   "copied": 4
+  },
+  "_wa_chat_595987122940_9888": {
+   "copied": 1
+  },
+  "_wa_chat_595991357332_1958": {
+   "missing_on_disk": 28
+  },
+  "_wa_chat_595991470829_106": {
+   "already_present": 17,
+   "missing_on_disk": 101
+  },
+  "_wa_chat_595991506193_3099": {
+   "copied": 13,
+   "missing_on_disk": 4
+  },
+  "_wa_chat_595991549029_1956": {
+   "already_present": 230,
+   "missing_on_disk": 10
+  },
+  "_wa_chat_595991705424_1202": {
+   "copied": 11,
+   "missing_on_disk": 18
+  },
+  "_wa_chat_595991730357_1791": {
+   "copied": 1
+  },
+  "_wa_chat_595991797009_1949": {
+   "copied": 20,
+   "missing_on_disk": 4
+  },
+  "_wa_chat_595991952375_10863": {
+   "copied": 2
+  },
+  "_wa_chat_595991965767_5169": {
+   "copied": 5
+  },
+  "_wa_chat_595992290656_1725": {
+   "missing_on_disk": 3
+  },
+  "_wa_chat_595992379449_9561": {
+   "copied": 3
+  },
+  "_wa_chat_595992432097_3075": {
+   "copied": 1
+  },
+  "_wa_chat_595992853154_2985": {
+   "copied": 1
+  },
+  "_wa_chat_595992930805_10315": {
+   "copied": 1
+  },
+  "_wa_chat_595993474633_11029": {
+   "copied": 11
+  },
+  "_wa_chat_595993535355_4233": {
+   "copied": 1
+  },
+  "_wa_chat_595993553949_12779": {
+   "already_present": 121
+  },
+  "_wa_chat_595993598454_2323": {
+   "copied": 1
+  },
+  "_wa_chat_595994252817_11522": {
+   "copied": 2
+  },
+  "_wa_chat_595994341668_1955": {
+   "already_present": 29,
+   "missing_on_disk": 31
+  },
+  "_wa_chat_595994442444_9596": {
+   "copied": 20
+  },
+  "_wa_chat_595994445246_6538": {
+   "copied": 4
+  },
+  "_wa_chat_595994609417_3721": {
+   "copied": 2
+  },
+  "_wa_chat_595994639567_4227": {
+   "copied": 43
+  },
+  "_wa_chat_59899144505_2396": {
+   "copied": 10
+  },
+  "_wa_group_agenda_61": {
+   "copied": 14,
+   "missing_on_disk": 21
+  },
+  "_wa_group_agi_is_cumming_9683": {
+   "copied": 2
+  },
+  "_wa_group_ai_whisperers_11544": {
+   "copied": 37
+  },
+  "_wa_group_amigos_de_las_locuras_swinger_11642": {
+   "copied": 153
+  },
+  "_wa_group_bd2_iin_2024_5774": {
+   "copied": 6
+  },
+  "_wa_group_becas_erasmus_fpuna_1439": {
+   "missing_on_disk": 6
+  },
+  "_wa_group_calgary_todo_random_11548": {
+   "copied": 1
+  },
+  "_wa_group_cdr_fp_una_1914": {
+   "missing_on_disk": 1
+  },
+  "_wa_group_club_de_info_gral_5082": {
+   "copied": 5
+  },
+  "_wa_group_comité_de_cursos_charlas_-_cs_3047": {
+   "copied": 1
+  },
+  "_wa_group_consejo_de_emergencia_16927": {
+   "copied": 18
+  },
+  "_wa_group_cosas_de_casa_1817": {
+   "missing_on_disk": 1
+  },
+  "_wa_group_cuarteto_el_15_06_5863": {
+   "copied": 1
+  },
+  "_wa_group_cum_a_secas_17026": {
+   "copied": 6
+  },
+  "_wa_group_dan_14862": {
+   "already_present": 1,
+   "copied": 4
+  },
+  "_wa_group_dentista_gabi_15956": {
+   "copied": 2
+  },
+  "_wa_group_el_viajero_15051": {
+   "already_present": 4,
+   "copied": 5
+  },
+  "_wa_group_epic_musical_juntadas_15561": {
+   "copied": 4
+  },
+  "_wa_group_este_grupo_se_autodestruirá_en_20min_6754": {
+   "copied": 1
+  },
+  "_wa_group_familie_van_der_pol_497": {
+   "copied": 9,
+   "missing_on_disk": 11
+  },
+  "_wa_group_flia_weiss_van_der_pol_443": {
+   "copied": 320,
+   "missing_on_disk": 613
+  },
+  "_wa_group_funhouse_9626": {
+   "copied": 30
+  },
+  "_wa_group_gallinas_oviedo_14853": {
+   "copied": 3
+  },
+  "_wa_group_give_back_program_-_cpk_3506": {
+   "copied": 9
+  },
+  "_wa_group_groep_is3_1802": {
+   "missing_on_disk": 3
+  },
+  "_wa_group_grupo_de_pizza_gratis_485": {
+   "missing_on_disk": 5
+  },
+  "_wa_group_grupo_destrucción_aregua_cityyyyyyyyy_3077": {
+   "copied": 21,
+   "missing_on_disk": 9
+  },
+  "_wa_group_ieeextreme_17_0_-_student_branch_una_3230": {
+   "missing_on_disk": 5
+  },
+  "_wa_group_iin_fpuna_019_26": {
+   "copied": 4,
+   "missing_on_disk": 101
+  },
+  "_wa_group_iin_fpuna_2019_-_2025_1450": {
+   "copied": 1,
+   "missing_on_disk": 3
+  },
+  "_wa_group_info_startups_13651": {
+   "copied": 3
+  },
+  "_wa_group_ingeniería_en_informática_3907": {
+   "copied": 1
+  },
+  "_wa_group_is3_2024_5765": {
+   "copied": 5
+  },
+  "_wa_group_jojo_gym_1227": {
+   "missing_on_disk": 21
+  },
+  "_wa_group_juntada_13529": {
+   "copied": 1
+  },
+  "_wa_group_kansas_trip_1931": {
+   "missing_on_disk": 15
+  },
+  "_wa_group_la_casa_10475": {
+   "copied": 8
+  },
+  "_wa_group_lan_party_11_02_1794": {
+   "missing_on_disk": 1
+  },
+  "_wa_group_mamados_club_3081": {
+   "missing_on_disk": 1
+  },
+  "_wa_group_mansion_weiss_5844": {
+   "copied": 24
+  },
+  "_wa_group_maskarada_-_club_de_azote_9803": {
+   "copied": 19
+  },
+  "_wa_group_meetings_13374": {
+   "copied": 1
+  },
+  "_wa_group_ml_2023-1_3619": {
+   "copied": 1
+  },
+  "_wa_group_méxico_city_11536": {
+   "copied": 1
+  },
+  "_wa_group_nasa_space_apps_ieee_computer_society_4711": {
+   "copied": 2
+  },
+  "_wa_group_nexa-paraguay_14983": {
+   "copied": 3
+  },
+  "_wa_group_organización_ci24_7605": {
+   "copied": 4
+  },
+  "_wa_group_organización_py_testing_2026_16349": {
+   "copied": 1
+  },
+  "_wa_group_pasen_las_fotos_1452": {
+   "copied": 5,
+   "missing_on_disk": 73
+  },
+  "_wa_group_powerpoint_powe_apps_para_canadá_9593": {
+   "copied": 2
+  },
+  "_wa_group_primos_weiss_5233": {
+   "copied": 46
+  },
+  "_wa_group_py_testing_community_4296": {
+   "copied": 2
+  },
+  "_wa_group_qe_meriendita_5317": {
+   "copied": 1
+  },
+  "_wa_group_ritual_de_cuerdas_13127": {
+   "copied": 7
+  },
+  "_wa_group_samber_atyra_5702": {
+   "copied": 1
+  },
+  "_wa_group_saquenme_de_latinoamerica_665": {
+   "missing_on_disk": 42
+  },
+  "_wa_group_sarah_s_neon_furry_b-day_party_13138": {
+   "copied": 8
+  },
+  "_wa_group_sheldon_s_dreams_14888": {
+   "copied": 3
+  },
+  "_wa_group_shitpoliposting_39": {
+   "missing_on_disk": 1
+  },
+  "_wa_group_stoic_finch_-_latam_9090": {
+   "copied": 175
+  },
+  "_wa_group_taller_de_introducción_qa_instructores_6921": {
+   "copied": 2
+  },
+  "_wa_group_team_isabelle_mm_5771": {
+   "copied": 1
+  },
+  "_wa_group_ueno_bank_la_gang_3082": {
+   "copied": 20,
+   "missing_on_disk": 3
+  },
+  "_wa_group_unnamed_12862": {
+   "copied": 7
+  },
+  "_wa_group_weiss_house_2488": {
+   "missing_on_disk": 2
+  },
+  "_wa_group_weiss_siblings_530": {
+   "copied": 256,
+   "missing_on_disk": 126
+  },
+  "_wa_group_wpg_team_1214": {
+   "missing_on_disk": 1
+  },
+  "_wa_group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥_6823": {
+   "copied": 5
+  },
+  "_wa_lid_101722055782411_12984": {
+   "copied": 7
+  },
+  "_wa_lid_104741417795691_13103": {
+   "copied": 3
+  },
+  "_wa_lid_108796538007729_15023": {
+   "copied": 5
+  },
+  "_wa_lid_113090817425545_13053": {
+   "copied": 879
+  },
+  "_wa_lid_118262125854912_15538": {
+   "copied": 943
+  },
+  "_wa_lid_119259044835572_13532": {
+   "copied": 1
+  },
+  "_wa_lid_123184141619444_17036": {
+   "copied": 12
+  },
+  "_wa_lid_137533459566845_13164": {
+   "copied": 72
+  },
+  "_wa_lid_142344342999195_17104": {
+   "copied": 3
+  },
+  "_wa_lid_154288881946676_13498": {
+   "copied": 9
+  },
+  "_wa_lid_158089659547891_14700": {
+   "copied": 251
+  },
+  "_wa_lid_159223061151983_16955": {
+   "copied": 59
+  },
+  "_wa_lid_163857968414803_13535": {
+   "copied": 1
+  },
+  "_wa_lid_170287115042926_13746": {
+   "copied": 5
+  },
+  "_wa_lid_170823767859295_16385": {
+   "copied": 2
+  },
+  "_wa_lid_171416456540224_13129": {
+   "copied": 7
+  },
+  "_wa_lid_174058297675951_15024": {
+   "copied": 11
+  },
+  "_wa_lid_189486155702510_15527": {
+   "copied": 11
+  },
+  "_wa_lid_193097552105524_13098": {
+   "copied": 2
+  },
+  "_wa_lid_196542485012495_14659": {
+   "copied": 6
+  },
+  "_wa_lid_206588111532196_14798": {
+   "copied": 364
+  },
+  "_wa_lid_214709794013386_13829": {
+   "copied": 18
+  },
+  "_wa_lid_217278167707806_14595": {
+   "copied": 7
+  },
+  "_wa_lid_224184944877725_13102": {
+   "copied": 7
+  },
+  "_wa_lid_227972770435229_13533": {
+   "copied": 9
+  },
+  "_wa_lid_233264069500985_13120": {
+   "copied": 1
+  },
+  "_wa_lid_242455349821600_14752": {
+   "copied": 6
+  },
+  "_wa_lid_245255651782842_15190": {
+   "copied": 26
+  },
+  "_wa_lid_264647361974519_13190": {
+   "copied": 2
+  },
+  "_wa_lid_265755698413630_16849": {
+   "copied": 10
+  },
+  "_wa_lid_276639095242788_17033": {
+   "copied": 9
+  },
+  "_wa_lid_42490228936873_15160": {
+   "copied": 82
+  },
+  "_wa_lid_49074850025489_15046": {
+   "copied": 3
+  },
+  "_wa_lid_55955521822873_16768": {
+   "copied": 2
+  },
+  "_wa_lid_57797458792574_15073": {
+   "copied": 17
+  },
+  "_wa_lid_61478682030117_15028": {
+   "copied": 2
+  },
+  "_wa_lid_63741810978885_15109": {
+   "copied": 3
+  },
+  "_wa_lid_6790360092864_12996": {
+   "copied": 1
+  },
+  "_wa_lid_76824231051438_12954": {
+   "copied": 1
+  },
+  "_wa_lid_8212749230246_16778": {
+   "copied": 4
+  },
+  "_wa_lid_94206383145183_14119": {
+   "copied": 2
+  },
+  "_wa_lid_96606732967999_13130": {
+   "copied": 107
+  },
+  "_wa_other_newsletter_120363144038483540_5327": {
+   "copied": 1
+  },
+  "_wa_other_newsletter_120363168153280680_5096": {
+   "missing_on_disk": 1
+  }
+ },
+ "generated_from": "/home/ai-whisperers/psychology-integration/psycology/SOURCE_OF_TRUTH/wa_messages",
+ "src_w4b_root": "/data/media/phone-extract/w4b",
+ "src_wa_root": "/data/media/phone-extract/wa",
+ "totals": {
+  "already_present": 10350,
+  "copied": 16102,
+  "missing_on_disk": 12553,
+  "w4b_copied": 40
+ }
+}
