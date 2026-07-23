@@ -12,6 +12,32 @@
 > - ⚪ **LOW** — Very tentative  
 > - ⚠️ **VCARD_GENERIC** — vCard name is generic ('Cliente 3d X', 'Vecina', 'Anónimo X'); identity not yet resolved  
 
+## 👨‍👩‍👧‍👦 Family contact list (per Ivan, 2026-07-23)
+
+### Parents
+- **Mom: Sonia Edith Weiss López** (chat: `tier1_deep/mom_sonia_weiss___wa_chat_595982515138_64`)
+- **Dad: John van der Pol** (chat: `tier2_core/dad_john_van_der_pol___wa_chat_595986138387_1265`)
+- Sonia married to John. Sonia's WhatsApp not in vCard — phonebook still missing her.
+
+### Grandparents (dad's side)
+- **Grandma: Riet van der Pol** (chat: `tier3_extended/grandma_riet_van_der_pol___wa_chat_31612495139_98`) — lives in Netherlands
+- **Grandpa: Jan van der Pol** (chat: `_dropped/grandpa_jan_van_der_pol___wa_chat_595994459555_9214`) — deceased (a few years back)
+
+### Siblings
+- **Luana Weiss** (24) — full sister (chat: `tier2_core/sister_luana_weiss___wa_chat_595985725366_99`)
+- **Saskia Weiss** — sister (chat: NOT YET LOCATED, may be in untiered_personal)
+- **Kyrian "Kiki"** — sister (chat: `tier1_deep/sister_kyrian_kiki___wa_chat_595985724135_111`)
+
+### Uncles
+- **Antonio "Toni" López Weiss** (Sonia's brother) — lives Santa Fe, USA (chat: `tier2_core/uncle_antonio_toni_lopez_weiss___wa_chat_15055778339_2872`)
+- **Gerold Manders** (John's adoptive brother/friend) — lives near Ivan's parents
+- Julio, Roberto, Rene, Ester — mentioned as uncles, no vCard entries yet
+
+### Cousins
+- **Micaela "Mica" Weiss Coëhn** (Sonia's side) (chat: `tier3_extended/cousin_micaela_mica_weiss_coehn___wa_chat_595982850085_1747`)
+- **Gabriel** (Sonia's side) (chat: `untiered_personal/cousin_gabriel___wa_chat_595985786571_3711`)
+- **Santi** — cousin (chat: NOT YET LOCATED)
+
 ## 🟢 Phonebook-verified (iPhone vCard) (53)
 
 | # | Name | JID | Tier | Msgs | Description |

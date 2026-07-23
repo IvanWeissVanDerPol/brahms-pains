@@ -1,5 +1,23 @@
 # WhatsApp Contact Circle Analysis (v2 — wider net)
 
+
+## 👨‍👩‍👧‍👦 Family (corrected 2026-07-23)
+
+| Role | Name | JID | Source |
+|------|------|-----|--------|
+| Mom | Sonia Edith Weiss López | 595982515138 | Ivan |
+| Dad | John van der Pol | 595986138387 | Ivan |
+| Grandma (dad's side) | Riet van der Pol | 31612495139 | Ivan |
+| Grandpa (deceased) | Jan van der Pol | 595994459555 | Ivan |
+| Sister | Luana Weiss | 595985725366 | vCard |
+| Sister | Kyrian "Kiki" | 595985724135 | vCard |
+| Uncle (Sonia's side) | Antonio "Toni" López Weiss | 15055778339 | Ivan |
+| Uncle (John's side) | Gerold Manders | — | Ivan (no vCard) |
+| Cousin (Sonia's side) | Micaela "Mica" Weiss Coëhn | 595982850085 | vCard |
+| Cousin (Sonia's side) | Gabriel | 595985786571 | vCard |
+
+**Identity corrections**: Toni Weiss was previously mislabeled as Dad; John van der Pol is the actual Dad. Riet van der Pol was previously mislabeled as Mom; she is Grandma (dad's side). Sonia's maiden name is Weiss López. See `docs/identity-corrections/ANSWERS.md`.
+
 > **Generated:** July 22, 2026  
 > **Method:** Group co-membership analysis on WA corpus  
 > **Branch:** `chore/contact-circle-analysis`  

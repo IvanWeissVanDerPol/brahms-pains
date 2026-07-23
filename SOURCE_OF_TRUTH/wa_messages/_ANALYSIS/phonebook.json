@@ -27,7 +27,14 @@
    "biz_name": null,
    "biz_description": null,
    "email": null,
-   "tag": "family_weiss"
+   "tag": "family_weiss",
+   "category": "family",
+   "tags": [
+    "cousin",
+    "sonias-side",
+    "weiss-coehn"
+   ],
+   "notes": "Micaela Weiss Coëhn. Ivan's cousin on Sonia's side. Same person as 'Prima Mikaela Weiss' vCard entry (the vCard has them under two different names with the same phone number — that's a vCard duplicate, not two people)."
   },
   {
    "name": "Aiesec",
@@ -579,7 +586,12 @@
    "biz_name": null,
    "biz_description": null,
    "email": null,
-   "tag": "family_weiss"
+   "tag": "family_weiss",
+   "category": "duplicate",
+   "tags": [
+    "duplicate-of-mica"
+   ],
+   "notes": "DUPLICATE vCard entry of Mica Weiss. Same phone +595 982 850085. Ivan confirmed they are the same person. To be merged."
   },
   {
    "name": "Yamila Amiga Fpuna",
@@ -1481,7 +1493,12 @@
    "biz_name": null,
    "biz_description": null,
    "email": null,
-   "tag": "family_weiss"
+   "tag": "family_weiss",
+   "category": "self",
+   "tags": [
+    "own-number"
+   ],
+   "notes": "Ivan's own US phone number (+1)."
   },
   {
    "name": "Cliente 3d Anónimo 22",
@@ -1547,7 +1564,13 @@
    "biz_name": null,
    "biz_description": null,
    "email": null,
-   "tag": "family_van_der_pol"
+   "tag": "family_van_der_pol",
+   "category": "family",
+   "tags": [
+    "grandpa-deceased",
+    "dads-side"
+   ],
+   "notes": "John van der Pol's father, Riet's late husband. Deceased (a few years back, per Ivan). Was in `_dropped` chat tier; promoted to family circle 2026-07-23."
   },
   {
    "name": "Monte Líbano",
@@ -1743,7 +1766,14 @@
    "biz_name": null,
    "biz_description": null,
    "email": "Paragweiss@yahoo.com",
-   "tag": "family_weiss"
+   "tag": "family_weiss",
+   "category": "family",
+   "tags": [
+    "uncle",
+    "sonias-side",
+    "usa"
+   ],
+   "notes": "Antonio López Weiss. Sonia's brother, Ivan's uncle. Lives Santa Fe USA. Was mislabeled as 'Dad' in prior corpus (corrected 2026-07-23)."
   },
   {
    "name": "Jonathan Verdun Compañ ero Ipt",
@@ -2051,7 +2081,12 @@
    "biz_name": null,
    "biz_description": null,
    "email": null,
-   "tag": "family_weiss"
+   "tag": "family_weiss",
+   "category": "family",
+   "tags": [
+    "sister"
+   ],
+   "notes": "Ivan's full sister, age 24."
   },
   {
    "name": "Gerardo Ramos",
@@ -2985,7 +3020,14 @@
    "biz_name": null,
    "biz_description": null,
    "email": null,
-   "tag": "family_van_der_pol"
+   "tag": "family_van_der_pol",
+   "category": "family",
+   "tags": [
+    "grandma",
+    "dads-side",
+    "netherlands"
+   ],
+   "notes": "John van der Pol's mother. Ivan's grandma on dad's side. Lives Netherlands. Was mislabeled as 'Mom' in prior corpus (corrected 2026-07-23)."
   },
   {
    "name": "Emilio",
@@ -3437,5 +3479,6 @@
    "email": null,
    "tag": "work_3d_clients"
   }
- ]
+ ],
+ "family_corrections_applied": "2026-07-23 per Ivan's questionnaire (docs/identity-corrections/ANSWERS.md)"
 }

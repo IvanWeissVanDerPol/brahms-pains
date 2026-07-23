@@ -1,6 +1,6 @@
 # Sonia — Mother
 
-> **Identity correction (2026-07-20):** Prior mining tagged this contact as "Sonia, unclear role / family associate." Full-chat analysis unambiguously reclassifies her as **Ivan's mother** — biological or functional; the evidence is family-of-origin, not friendship. She is partnered with **Gerold** (Ivan's father), co-parents **Luana Weiss** (Ivan's sister), was present at Ivan's birth ("hace 23 años… un sábado llegaste a mi vida"), and Ivan addresses her as both **"Sonia"** and **"mamá"** interchangeably. She refers to him as **"mi hijo"** throughout. This profile therefore documents the **primary maternal dynamic** — psychologically load-bearing and referenced (without being named) in `LAURA.md` as "the same dynamic recreated with Laura."
+> **Identity correction (2026-07-23):** Prior mining tagged this contact as "Sonia, unclear role / family associate." Full-chat analysis (2026-07-20) reclassified her as **Ivan's mother**; verbal confirmation by Ivan (2026-07-23) confirms this. **Full name: Sonia Edith Weiss López.** She is partnered with **John van der Pol** (Ivan's dad, software dev for Netherlands) — NOT Gerold (who is John's adoptive brother / uncle). Co-parents **Luana Weiss** (Ivan's sister, age 24), **Saskia** (sister), and **Kyrian "Kiki"** (sister). Was present at Ivan's birth ("hace 23 años… un sábado llegaste a mi vida"), and Ivan addresses her as both **"Sonia"** and **"mamá"** interchangeably. She refers to him as **"mi hijo"** throughout. This profile documents the **primary maternal dynamic** — psychologically load-bearing and referenced (without being named) in `LAURA.md` as "the same dynamic recreated with Laura."
 
 ## Overview
 
@@ -140,3 +140,27 @@ The audio ratio is the single clearest quantitative signature of the dynamic. So
 
 ---
 *Analyzed 2026-07-20 from 11,305-message WhatsApp export, 2020-09-28 → 2026-07-19. Quotations are single-line excerpts, redacted where sensitive; full-message content is retained only in the source-of-truth JSON, not in this profile.*
+
+
+---
+
+## Family tree (per Ivan, 2026-07-23)
+
+```
+Sonia Edith Weiss López (Mom) ─── married to ─── John van der Pol (Dad)
+   │                                       │
+   ├── Luana Weiss (24)                    │  Jan van der Pol (Grandpa, deceased)
+   ├── Saskia Weiss                        │  Riet van der Pol (Grandma, +31 NL)
+   ├── Kyrian "Kiki" Weiss                 │
+   │                                       ├── Rene (uncle)
+   ├── Micaela "Mica" Weiss Coëhn          ├── Ester (uncle)
+   ├── Gabriel (Primo)                     └── Gerold Manders (uncle, adoptive bro)
+   ├── Santi (cousin)
+   │
+   ├── Antonio "Toni" López Weiss (uncle, Santa Fe USA)
+   ├── Carlú (uncle)
+   ├── Julio (uncle)
+   └── Roberto (uncle)
+```
+
+**Sonia's maiden name**: Weiss López. Per Ivan, Toni Weiss (the previous "Dad" assignment) is actually her brother and Ivan's uncle.
