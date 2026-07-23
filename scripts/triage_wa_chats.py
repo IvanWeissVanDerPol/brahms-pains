@@ -137,11 +137,21 @@ def compute_group_co_membership(
     return out
 
 
-def assign_circle(groups_shared: set[str]) -> str:
-    """Score groups against CIRCLE_INDICATORS and pick the best fit."""
+def assign_circle(groups_shared: set[str], chat_metadata: dict[str, dict] | None = None) -> str:
+    """Score groups against CIRCLE_INDICATORS and pick the best fit.
+
+    `groups_shared` is a set of group slugs (e.g. '_wa_group_iin_fpuna_019_1450').
+    `chat_metadata` is the global {slug: {subject, ...}} map; we use it to
+    translate slugs to subjects before matching against CIRCLE_INDICATORS.
+    """
+    if chat_metadata is None:
+        # Fall back to treating groups_shared as already-subject form
+        subj_set = set(groups_shared)
+    else:
+        subj_set = {chat_metadata.get(g, {}).get("subject") or g for g in groups_shared}
     scores: dict[str, int] = {}
     for circle, indicators in CIRCLE_INDICATORS.items():
-        scores[circle] = len(groups_shared & indicators)
+        scores[circle] = len(subj_set & indicators)
     if not scores:
         return "other_contacts"
     best_circle = max(scores, key=lambda c: scores[c])
@@ -347,6 +357,7 @@ def main() -> int:
     _, one_on_one_dirs = split_group_and_1on1(chat_dirs)
 
     contact_jids: set[str] = set()
+    chat_metadata: dict[str, dict] = {}  # slug -> {subject, is_group, ...}
     for chat_path in one_on_one_dirs:
         try:
             with open(chat_path, "r", encoding="utf-8") as f:
@@ -356,6 +367,20 @@ def main() -> int:
         jid = chat.get("jid_user")
         if jid:
             contact_jids.add(jid)
+    # Also build metadata for all groups (for circle assignment)
+    for chat_path in chat_dirs:
+        try:
+            with open(chat_path, "r", encoding="utf-8") as f:
+                chat = json.load(f)
+        except Exception:
+            continue
+        slug = chat.get("slug")
+        if slug:
+            chat_metadata[slug] = {
+                "subject": chat.get("subject"),
+                "is_group": bool(chat.get("subject")) or chat.get("jid_server") == "g.us",
+                "jid_user": chat.get("jid_user"),
+            }
     contact_groups = compute_group_co_membership(group_participants, contact_jids)
 
     metrics: list[dict[str, Any]] = []
@@ -374,7 +399,7 @@ def main() -> int:
         if m and "error" not in m:
             # v2: also annotate circle
             if m.get("groups_shared_with_ivan", 0) >= GROUP_SHARED_FRIEND_THRESHOLD:
-                m["circle"] = assign_circle(groups_shared_with)
+                m["circle"] = assign_circle(groups_shared_with, chat_metadata)
             metrics.append(m)
 
     metrics.sort(key=lambda x: -x["score"])

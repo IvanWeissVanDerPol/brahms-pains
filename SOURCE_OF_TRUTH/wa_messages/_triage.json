@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated_at": "2026-07-23T03:45:02.606803+00:00",
+ "generated_at": "2026-07-23T03:54:14.840673+00:00",
  "chats_analyzed": 769,
  "groups_analyzed": 171,
  "categories": {
@@ -729,133 +729,133 @@
    "jid_user": "595984708142",
    "groups_shared": 13,
    "total_msgs": 6,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595992222691_2013",
    "jid_user": "595992222691",
    "groups_shared": 2,
    "total_msgs": 3,
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "p_dropped_4___wa_chat_595972124230_2295",
    "jid_user": "595972124230",
    "groups_shared": 6,
    "total_msgs": 3,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "myre_atyra___wa_chat_595991469087_4649",
    "jid_user": "595991469087",
    "groups_shared": 6,
    "total_msgs": 5,
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "_wa_chat_595986743708_2274",
    "jid_user": "595986743708",
    "groups_shared": 3,
    "total_msgs": 6,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595961525896_120",
    "jid_user": "595961525896",
    "groups_shared": 4,
    "total_msgs": 5,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595984264979_2284",
    "jid_user": "595984264979",
    "groups_shared": 4,
    "total_msgs": 3,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595972808418_1858",
    "jid_user": "595972808418",
    "groups_shared": 4,
    "total_msgs": 7,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595972386499_2475",
    "jid_user": "595972386499",
    "groups_shared": 4,
    "total_msgs": 3,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595983858997_3598",
    "jid_user": "595983858997",
    "groups_shared": 3,
    "total_msgs": 12,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595993598454_2323",
    "jid_user": "595993598454",
    "groups_shared": 2,
    "total_msgs": 8,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595971545477_2237",
    "jid_user": "595971545477",
    "groups_shared": 3,
    "total_msgs": 6,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_13135550002_10103",
    "jid_user": "13135550002",
    "groups_shared": 2,
    "total_msgs": 7,
-   "circle": "other_contacts"
+   "circle": "inner_circle_casa_weiss"
   },
   {
    "slug": "_wa_chat_595992282576_4231",
    "jid_user": "595992282576",
    "groups_shared": 2,
    "total_msgs": 39,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595994609417_3721",
    "jid_user": "595994609417",
    "groups_shared": 2,
    "total_msgs": 7,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595973908532_5713",
    "jid_user": "595973908532",
    "groups_shared": 2,
    "total_msgs": 5,
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "_wa_chat_595971792390_3634",
    "jid_user": "595971792390",
    "groups_shared": 2,
    "total_msgs": 1,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595994723736_4838",
    "jid_user": "595994723736",
    "groups_shared": 2,
    "total_msgs": 4,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595981685815_1742",
    "jid_user": "595981685815",
    "groups_shared": 2,
    "total_msgs": 9,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595982138376_3731",
@@ -869,7 +869,7 @@
    "jid_user": "595971722516",
    "groups_shared": 2,
    "total_msgs": 1,
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   }
  ],
  "chats": [
@@ -991,7 +991,7 @@
     "_wa_group_la_casa_10475",
     "_wa_group_la_cumbre_trip_9913"
    ],
-   "circle": "other_contacts"
+   "circle": "inner_circle_casa_weiss"
   },
   {
    "slug": "jonathan_verdun___wa_chat_595971922708_3654",
@@ -1193,7 +1193,7 @@
     "_wa_group_la_cumbre_trip_9913",
     "_wa_group_primos_weiss_5233"
    ],
-   "circle": "other_contacts"
+   "circle": "family_weiss_vdp"
   },
   {
    "slug": "10__alejandro_cabral___wa_chat_595972130867_49",
@@ -1243,7 +1243,7 @@
     "_wa_group_jojo_gym_1227",
     "_wa_group_la_casa_10475"
    ],
-   "circle": "other_contacts"
+   "circle": "inner_circle_casa_weiss"
   },
   {
    "slug": "11__p3549___wa_chat_595976333549_9257",
@@ -1401,7 +1401,7 @@
     "_wa_group_lan_party_11_02_1794",
     "_wa_group_mamados_club_3081"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "14__friend_brasilia___wa_chat_595983822921_11297",
@@ -1478,7 +1478,7 @@
     "_wa_group_pasen_las_fotos_1452",
     "_wa_group_saquenme_de_latinoamerica_665"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "helpp_friend___wa_chat_595981868718_92",
@@ -1525,7 +1525,7 @@
     "_wa_group_saquenme_de_latinoamerica_665",
     "_wa_group_wsu_fpuna_meet_5568"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "16__friend_alvaro___wa_chat_595962291837_9625",
@@ -1589,7 +1589,7 @@
     "_wa_group_powerpoint_powe_apps_para_canadá_9593",
     "_wa_group_primos_weiss_5233"
    ],
-   "circle": "other_contacts"
+   "circle": "family_weiss_vdp"
   },
   {
    "slug": "ann_kink___wa_chat_595991549029_1956",
@@ -1657,7 +1657,7 @@
     "_wa_group_primos_weiss_5233",
     "_wa_group_saquenme_de_latinoamerica_665"
    ],
-   "circle": "other_contacts"
+   "circle": "family_weiss_vdp"
   },
   {
    "slug": "21__friend_casual___wa_chat_595994341668_1955",
@@ -1735,7 +1735,7 @@
     "_wa_group_shitpoliposting_39",
     "_wa_group_wpg_team_1214"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "becas_kansas_friend___wa_chat_595984933862_1330",
@@ -1785,7 +1785,7 @@
     "_wa_group_stoic_finch_-_latam_9090",
     "_wa_group_workshop_desarrolla_tu_portafolio_web_con_astro_5547"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "22__friend_tiktok_share___wa_chat_595985249907_9628",
@@ -1861,7 +1861,7 @@
     "_wa_group_is3_sin_profes_3617",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "23__friend_uwu___wa_chat_595985340001_2439",
@@ -1923,7 +1923,7 @@
     "_wa_group_qe_yguazu_falls_trip_5542",
     "_wa_group_samber_atyra_5702"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "25__sexshop_companion___wa_chat_595976569739_2083",
@@ -2027,7 +2027,7 @@
     "_wa_group_shitpoliposting_39",
     "_wa_group_wsu_fpuna_meet_5568"
    ],
-   "circle": "other_contacts"
+   "circle": "inner_circle_casa_weiss"
   },
   {
    "slug": "30__kansas_springbreak___wa_chat_595972209763_2943",
@@ -2146,7 +2146,7 @@
     "_wa_group_stoic_finch_-_latam_9090",
     "_wa_group_wsu_becal-cpk_spring_2023_1938"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "33__kiki_adjacent___wa_chat_595993553949_12779",
@@ -2207,7 +2207,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "35__friend_photos___wa_chat_595986868241_10607",
@@ -2272,7 +2272,7 @@
     "_wa_group_qe_meriendita_5317",
     "_wa_group_samber_atyra_5702"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "044__p5289___wa_chat_595971505289_110",
@@ -2313,7 +2313,7 @@
     "_wa_group_shitpoliposting_39",
     "_wa_group_wsu_fpuna_meet_5568"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "38__friend_arrival___wa_chat_595986464184_1811",
@@ -2375,7 +2375,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_qe_meriendita_5317"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "045__p5424___wa_chat_595991705424_1202",
@@ -2412,7 +2412,7 @@
     "_wa_group_iin_fpuna_2019_-_2025_1450",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "043__p3357___wa_chat_595961943357_4695",
@@ -2447,7 +2447,7 @@
     "_wa_group_qe_yguazu_falls_trip_5542",
     "_wa_group_team_isabelle_mm_5771"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "061__p8035___wa_chat_595971378035_1724",
@@ -2494,7 +2494,7 @@
     "_wa_group_ml_2023-1_3619",
     "_wa_group_shitpoliposting_39"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "40__victor_urgent___wa_chat_595981473912_1762",
@@ -2555,7 +2555,7 @@
     "_wa_group_nasa_space_apps_ieee_computer_society_4711",
     "_wa_group_wsu_becal-cpk_spring_2023_1938"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "042__p8582___wa_chat_33665298582_2646",
@@ -2733,7 +2733,7 @@
     "_wa_group_lan_party_11_02_1794",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "068__p5716___wa_chat_595972835716_1244",
@@ -2773,7 +2773,7 @@
     "_wa_group_ml_2023-1_3619",
     "_wa_group_pasen_las_fotos_1452"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "079__p6281___wa_chat_595986186281_1292",
@@ -2816,7 +2816,7 @@
     "_wa_group_ml_2023-1_3619",
     "_wa_group_pasen_las_fotos_1452"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "051__p5809___wa_chat_595985435809_11371",
@@ -2932,7 +2932,7 @@
     "_wa_group_ieeextreme_-_interesados_una_3449",
     "_wa_group_taller_de_introducción_qa_instructores_6921"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "054__p0049___wa_chat_595986830049_1694",
@@ -3021,7 +3021,7 @@
     "_wa_group_casa_weiss_internal_10100",
     "_wa_group_stoic_finch_-_latam_9090"
    ],
-   "circle": "other_contacts"
+   "circle": "inner_circle_casa_weiss"
   },
   {
    "slug": "057__p3241___wa_chat_595982223241_11521",
@@ -3145,7 +3145,7 @@
     "_wa_group_lan_party_11_02_1794",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "069__p7009___wa_chat_595991797009_1949",
@@ -3301,7 +3301,7 @@
     "_wa_group_qe_yguazu_falls_trip_5542",
     "_wa_group_team_isabelle_mm_5771"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "067__p7353___wa_chat_595973757353_1731",
@@ -3396,7 +3396,7 @@
     "_wa_group_iin_gaming_club_019_113",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "070__p9265___wa_chat_595976409265_2838",
@@ -3546,7 +3546,7 @@
     "_wa_group_is3_sin_profes_3617",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "074__p5786___wa_chat_595971755786_1741",
@@ -3700,7 +3700,7 @@
     "_wa_group_is3_sin_profes_3617",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "082__p5139___wa_chat_31612495139_98",
@@ -3851,7 +3851,7 @@
     "_wa_group_qe_meriendita_5317",
     "_wa_group_samber_atyra_5702"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "080__p4090___wa_chat_50230574090_10146",
@@ -3971,7 +3971,7 @@
     "_wa_group_taller_de_introducción_qa_instructores_6921",
     "_wa_group_talleres_de_invierno_iin_-_lcik_7612"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "085__p5157___wa_chat_595981725157_11979",
@@ -4063,7 +4063,7 @@
     "_wa_group_iin_fpuna_019_26",
     "_wa_group_ingeniería_en_informática_3907"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "p_dropped_1___wa_chat_595984241789_1849",
@@ -4103,7 +4103,7 @@
     "_wa_group_ml_2023-1_3619",
     "_wa_group_shitpoliposting_39"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "p_dropped_2___wa_chat_595984690946_3704",
@@ -4143,7 +4143,7 @@
     "_wa_group_iin_fpuna_2019_-_2025_1450",
     "_wa_group_shitpoliposting_39"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "099__p9143___wa_chat_595984689143_4130",
@@ -4175,7 +4175,7 @@
     "_wa_group_iin_fpuna_2019_-_2025_1450",
     "_wa_group_ingeniería_en_informática_3907"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "090__p7132___wa_chat_595986637132_5130",
@@ -4264,7 +4264,7 @@
     "_wa_group_py_testing_community_4296",
     "_wa_group_wpg_team_1214"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "228__p0357___wa_chat_595991730357_1791",
@@ -4301,7 +4301,7 @@
     "_wa_group_lan_party_11_02_1794",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "113__p2999___wa_chat_595971102999_2992",
@@ -4335,7 +4335,7 @@
     "_wa_group_ieee_cs_una_sbc_2025_1917",
     "_wa_group_minixtreme_program_py_3104"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "096__p0870___wa_chat_595981990870_2079",
@@ -4401,7 +4401,7 @@
     "_wa_group_iin_gaming_club_019_113",
     "_wa_group_lan_party_11_02_1794"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "129__p4500___wa_chat_595971784500_2024",
@@ -4436,7 +4436,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "141__p5910___wa_chat_595974465910_5322",
@@ -4471,7 +4471,7 @@
     "_wa_group_samber_atyra_5702",
     "_wa_group_team_isabelle_mm_5771"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "092__p8698___wa_chat_595983328698_5343",
@@ -4713,7 +4713,7 @@
     "_wa_group_iin_gaming_club_019_113",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "127__p6746___wa_chat_595971726746_6977",
@@ -4773,7 +4773,7 @@
     "_wa_group_ieee_cs_una_sbc_2025_1917",
     "_wa_group_minixtreme_program_py_3104"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "198__p9166___wa_chat_595984909166_9157",
@@ -5001,7 +5001,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "186__p6894___wa_chat_595984116894_6741",
@@ -5117,7 +5117,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "209__p6571___wa_chat_595985786571_3711",
@@ -5178,7 +5178,7 @@
     "_wa_group_qe_meriendita_5317",
     "_wa_group_qe_yguazu_falls_trip_5542"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "132__p4371___wa_chat_595972104371_9036",
@@ -5301,7 +5301,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "myre_atyra___wa_chat_595991469087_4649",
@@ -5337,7 +5337,7 @@
     "_wa_group_samber_atyra_5702",
     "_wa_group_team_isabelle_mm_5771"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "unknown_atyra___wa_chat_595991700814_4652",
@@ -5373,7 +5373,7 @@
     "_wa_group_samber_atyra_5702",
     "_wa_group_team_isabelle_mm_5771"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "104__p2250___wa_chat_31640912250_1850",
@@ -5544,7 +5544,7 @@
     "_wa_group_introducción_al_aseguramiento_de_la_calidad_y_automatización_7611",
     "_wa_group_taller_de_introducción_qa_instructores_6921"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "226__p5034___wa_chat_595991715034_11083",
@@ -5778,7 +5778,7 @@
     "_wa_group_iin_gaming_club_019_113",
     "_wa_group_lan_party_11_02_1794"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "211__p7875___wa_chat_595985837875_4762",
@@ -5891,7 +5891,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_jojo_gym_1227"
    ],
-   "circle": "other_contacts"
+   "circle": "inner_circle_casa_weiss"
   },
   {
    "slug": "195__p8288___wa_chat_595984898288_9149",
@@ -5952,7 +5952,7 @@
     "_wa_group_fpuna_ciberseguridad_2024_5705",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "214__p9915___wa_chat_595986169915_1860",
@@ -6120,7 +6120,7 @@
     "_wa_group_iin_fpuna_2019_-_2025_1450",
     "_wa_group_ingeniería_en_informática_3907"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595961525896_120",
@@ -6154,7 +6154,7 @@
     "_wa_group_iin_fpuna_019_26",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595984264979_2284",
@@ -6188,7 +6188,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595972808418_1858",
@@ -6222,7 +6222,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "246__p5355___wa_chat_595993535355_4233",
@@ -6283,7 +6283,7 @@
     "_wa_group_iin_fpuna_2019_-_2025_1450",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "134__p4490___wa_chat_595972144490_1739",
@@ -6430,7 +6430,7 @@
     "_wa_group_iin_fpuna_2019_-_2025_1450",
     "_wa_group_ingeniería_en_informática_3907"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "169__p8763___wa_chat_595981838763_1894",
@@ -6517,7 +6517,7 @@
     "_wa_group_iin_fpuna_2019_-_2025_1450",
     "_wa_group_ml_2023-1_3619"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "165__p4759___wa_chat_595981724759_9299",
@@ -6577,7 +6577,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "217__p9433___wa_chat_595986189433_1752",
@@ -6636,7 +6636,7 @@
     "_wa_group_bd2_2025_10299",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595983858997_3598",
@@ -6669,7 +6669,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "114__p3008___wa_chat_595971133008_1297",
@@ -6758,7 +6758,7 @@
     "_wa_group_club_de_info_gral_5082",
     "_wa_group_iin_fpuna_2015-2021_24"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "210__p7496___wa_chat_595985797496_3730",
@@ -6880,7 +6880,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_iin_fpuna_2019_-_2025_1450"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "107__p1811___wa_chat_5215510091811_11534",
@@ -7161,7 +7161,7 @@
     "_wa_group_funhouse_9626",
     "_wa_group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥_6823"
    ],
-   "circle": "other_contacts"
+   "circle": "inner_circle_casa_weiss"
   },
   {
    "slug": "_wa_chat_595992282576_4231",
@@ -7193,7 +7193,7 @@
     "_wa_group_cdr_fp_una_1914",
     "_wa_group_ieeextreme_-_interesados_una_3449"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "208__p8871___wa_chat_595985778871_3717",
@@ -7309,7 +7309,7 @@
     "_wa_group_fpuna_ciberseguridad_2024_5705",
     "_wa_group_is3_2024_5765"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "170__p4528___wa_chat_595981924528_1795",
@@ -7368,7 +7368,7 @@
     "_wa_group_introducción_al_aseguramiento_de_la_calidad_y_automatización_7611",
     "_wa_group_py_testing_community_4296"
    ],
-   "circle": "other_contacts"
+   "circle": "pytesting_community"
   },
   {
    "slug": "238__p0656___wa_chat_595992290656_1725",
@@ -7484,7 +7484,7 @@
     "_wa_group_bd2_2025_10299",
     "_wa_group_bd2_iin_2024_5774"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595994723736_4838",
@@ -7516,7 +7516,7 @@
     "_wa_group_ieeextreme_-_interesados_una_3449",
     "_wa_group_nsac_asunción_2023_-_participantes_4732"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "245__p4633___wa_chat_595993474633_11029",
@@ -7575,7 +7575,7 @@
     "_wa_group_iin_fpuna_2015-2021_24",
     "_wa_group_wpg_team_1214"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "_wa_chat_595982138376_3731",
@@ -7639,7 +7639,7 @@
     "_wa_group_iin_fpuna_2019_-_2025_1450",
     "_wa_group_ingeniería_en_informática_3907"
    ],
-   "circle": "other_contacts"
+   "circle": "fpuna_cs_classmates"
   },
   {
    "slug": "lid_967999___wa_lid_96606732967999_13130",
@@ -11263,7 +11263,7 @@
     "_wa_group_primos_weiss_5233",
     "_wa_group_repair_cafe_page_16793"
    ],
-   "circle": "other_contacts"
+   "circle": "family_weiss_vdp"
   },
   {
    "slug": "_wa_chat_595971227824_5316",

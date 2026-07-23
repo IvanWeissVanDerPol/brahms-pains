@@ -30,27 +30,27 @@ Groups analyzed (with extracted participants): **171**
 
 | JID | Groups | Msgs | Score | Circle | Suggested tier |
 |---|---:|---:|---:|---|---|
-| `595984708142` | 13 | 6 | 10440.0 | `other_contacts` | tier2_core |
-| `595972124230` | 6 | 3 | 4831.7 | `other_contacts` | tier3_extended |
-| `595991469087` | 6 | 5 | 4809.8 | `other_contacts` | tier3_extended |
-| `595961525896` | 4 | 5 | 3270.2 | `other_contacts` | tier3_extended |
-| `595984264979` | 4 | 3 | 3252.5 | `other_contacts` | tier3_extended |
-| `595972808418` | 4 | 7 | 3240.9 | `other_contacts` | tier3_extended |
-| `595972386499` | 4 | 3 | 3200.0 | `other_contacts` | tier3_extended |
-| `595986743708` | 3 | 6 | 3296.2 | `other_contacts` | tier3_extended |
-| `595983858997` | 3 | 12 | 2698.3 | `other_contacts` | tier3_extended |
-| `595971545477` | 3 | 6 | 2402.7 | `other_contacts` | tier3_extended |
-| `595992222691` | 2 | 3 | 7883.3 | `other_contacts` | tier3_extended |
-| `595993598454` | 2 | 8 | 2511.9 | `other_contacts` | tier3_extended |
-| `13135550002` | 2 | 7 | 2031.7 | `other_contacts` | tier3_extended |
-| `595992282576` | 2 | 39 | 1999.5 | `other_contacts` | tier3_extended |
-| `595994609417` | 2 | 7 | 1800.0 | `other_contacts` | tier3_extended |
-| `595973908532` | 2 | 5 | 1792.0 | `other_contacts` | tier3_extended |
-| `595971792390` | 2 | 1 | 1669.0 | `other_contacts` | tier3_extended |
-| `595994723736` | 2 | 4 | 1668.8 | `other_contacts` | tier3_extended |
-| `595981685815` | 2 | 9 | 1612.5 | `other_contacts` | tier3_extended |
+| `595984708142` | 13 | 6 | 10440.0 | `fpuna_cs_classmates` | tier2_core |
+| `595972124230` | 6 | 3 | 4831.7 | `fpuna_cs_classmates` | tier3_extended |
+| `595991469087` | 6 | 5 | 4809.8 | `pytesting_community` | tier3_extended |
+| `595961525896` | 4 | 5 | 3270.2 | `fpuna_cs_classmates` | tier3_extended |
+| `595984264979` | 4 | 3 | 3252.5 | `fpuna_cs_classmates` | tier3_extended |
+| `595972808418` | 4 | 7 | 3240.9 | `fpuna_cs_classmates` | tier3_extended |
+| `595972386499` | 4 | 3 | 3200.0 | `fpuna_cs_classmates` | tier3_extended |
+| `595986743708` | 3 | 6 | 3296.2 | `fpuna_cs_classmates` | tier3_extended |
+| `595983858997` | 3 | 12 | 2698.3 | `fpuna_cs_classmates` | tier3_extended |
+| `595971545477` | 3 | 6 | 2402.7 | `fpuna_cs_classmates` | tier3_extended |
+| `595992222691` | 2 | 3 | 7883.3 | `pytesting_community` | tier3_extended |
+| `595993598454` | 2 | 8 | 2511.9 | `fpuna_cs_classmates` | tier3_extended |
+| `13135550002` | 2 | 7 | 2031.7 | `inner_circle_casa_weiss` | tier3_extended |
+| `595992282576` | 2 | 39 | 1999.5 | `fpuna_cs_classmates` | tier3_extended |
+| `595994609417` | 2 | 7 | 1800.0 | `fpuna_cs_classmates` | tier3_extended |
+| `595973908532` | 2 | 5 | 1792.0 | `pytesting_community` | tier3_extended |
+| `595971792390` | 2 | 1 | 1669.0 | `fpuna_cs_classmates` | tier3_extended |
+| `595994723736` | 2 | 4 | 1668.8 | `fpuna_cs_classmates` | tier3_extended |
+| `595981685815` | 2 | 9 | 1612.5 | `fpuna_cs_classmates` | tier3_extended |
 | `595982138376` | 2 | 1 | 1601.5 | `other_contacts` | tier3_extended |
-| `595971722516` | 2 | 1 | 1600.0 | `other_contacts` | tier3_extended |
+| `595971722516` | 2 | 1 | 1600.0 | `fpuna_cs_classmates` | tier3_extended |
 
 ## Top 50 chats by psychology signal
 
