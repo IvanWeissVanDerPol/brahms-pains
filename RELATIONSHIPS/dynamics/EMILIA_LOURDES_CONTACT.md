@@ -1,0 +1,55 @@
+# emilia_lourdes_contact
+
+> **Status:** PROVISIONAL NAME — pending Ivan's confirmation.
+> **Tier:** EXTENDED (`tier3_extended`)
+> **JID:** `595982843645`
+> **Generated:** 2026-07-23 by `scripts/generate_profile_stubs.py`
+
+## Communication stats
+
+| Metric | Value |
+|--------|-------|
+| Total messages | 1,293 |
+| Audio messages | 38 |
+| Image messages | 56 |
+| First message | 2023-05-30 |
+| Last message | 2026-07-20 |
+| Source chat dir | `SOURCE_OF_TRUTH/wa_messages/tier3_extended/emilia_lourdes_contact___wa_chat_595982843645_3101` |
+
+## Content samples
+
+**From emilia_lourdes_contact (first 3 text msgs):**
+> Hola soy amiga de Artman
+> Me dijo que queres pegar
+> 800mil medio
+
+**From Ivan (first 3 text msgs):**
+> Hola 
+Siii
+
+Me pasó tu número ayer
+Pero como era tarde no quería molestar jsjsj
+> A cuánto está ?
+Suelo comprar en cantidad
+Así no voy por la calle con merc
+> Me parece genial 
+
+Como te paso?
+
+
+## Relationship arc
+
+*TODO* — Review chat to extract narrative arc, themes, and patterns.
+
+## Themes
+
+*TODO* — Use theme keyword scan (see scripts/extract_themes.py).
+
+## Cross-references
+
+- Source chat: `SOURCE_OF_TRUTH/wa_messages/tier3_extended/emilia_lourdes_contact___wa_chat_595982843645_3101`
+- Profiles dir: `RELATIONSHIPS/dynamics/`
+
+---
+
+*Stub generated 2026-07-23. Replace this content with real analysis once chat is reviewed.*

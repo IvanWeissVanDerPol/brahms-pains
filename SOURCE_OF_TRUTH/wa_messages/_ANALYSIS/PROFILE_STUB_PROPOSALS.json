@@ -1,0 +1,666 @@
+{
+  "generated_at": "2026-07-23 17:46:18.147694",
+  "total_proposed": 30,
+  "stubs": [
+    {
+      "name": "fpuna_alvaro_alt",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595986805654",
+      "msgs": 7392,
+      "audio": 718,
+      "images": 431,
+      "first": "2021-10-29",
+      "last": "2026-07-13",
+      "them_sample": [
+        "XD",
+        "sii si puedoo",
+        "entro en Discord?"
+      ],
+      "ivan_sample": [
+        "holis me podes pasar tus respuestas de la actividad de fisica ?",
+        "https://www.educa.una.py/politecnica/mod/quiz/review.php?attempt=131637&cmid=281931",
+        "para el recopilado"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/fpuna_alvaro_alt___wa_chat_595986805654_1271"
+    },
+    {
+      "name": "ann_kink",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595991549029",
+      "msgs": 5155,
+      "audio": 240,
+      "images": 313,
+      "first": "2023-01-21",
+      "last": "2026-07-14",
+      "them_sample": [
+        "Este frupo es con ann",
+        "Bajajajajaj",
+        "Che ivan"
+      ],
+      "ivan_sample": [
+        "https://goo.gl/maps/6d4x5QCpkhuM1xfv7",
+        "ahi",
+        "Uwu"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/ann_kink___wa_chat_595991549029_1956"
+    },
+    {
+      "name": "skype_friend",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595981925772",
+      "msgs": 4230,
+      "audio": 185,
+      "images": 251,
+      "first": "2021-10-27",
+      "last": "2026-06-24",
+      "them_sample": [
+        "seguis conectado en la llamada de skype",
+        "si, puede ser",
+        "meto ahi ?"
+      ],
+      "ivan_sample": [
+        "No",
+        "Creo",
+        "O si?"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/skype_friend___wa_chat_595981925772_1253"
+    },
+    {
+      "name": "guitar_friend",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595985725871",
+      "msgs": 4121,
+      "audio": 316,
+      "images": 512,
+      "first": "2020-10-02",
+      "last": "2025-09-02",
+      "them_sample": [
+        "Martes",
+        "Wut",
+        "Ok"
+      ],
+      "ivan_sample": [
+        "Sas \nCuando tenemos guitarra?",
+        "Ok",
+        "Toma stiker furros"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/guitar_friend___wa_chat_595985725871_86"
+    },
+    {
+      "name": "helpp_friend",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595981868718",
+      "msgs": 3985,
+      "audio": 230,
+      "images": 183,
+      "first": "2020-10-02",
+      "last": "2026-04-13",
+      "them_sample": [
+        "Ivannn, helpp",
+        "Hicieron el cinco de física??",
+        "Uuufffff"
+      ],
+      "ivan_sample": [
+        "Holis",
+        "Si hicieron",
+        "Esta aca"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/helpp_friend___wa_chat_595981868718_92"
+    },
+    {
+      "name": "becas_kansas_friend",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595984933862",
+      "msgs": 2877,
+      "audio": 105,
+      "images": 161,
+      "first": "2022-09-24",
+      "last": "2026-06-17",
+      "them_sample": [
+        "Y si queres ir a una universidad facha únicamente con becal",
+        "Para las que son garage hay más pero tenes que buscar",
+        "Aunque tb hay Kansas de becal y no parece tan dificil que te acepten ahí"
+      ],
+      "ivan_sample": [
+        "Hay alguna beca o algo así?",
+        "Jauble el link?\nSe tantea uwu (?",
+        "jau \nvoy a aplicar tambien"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/becas_kansas_friend___wa_chat_595984933862_1330"
+    },
+    {
+      "name": "alvaro_drip",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595984160109",
+      "msgs": 2697,
+      "audio": 90,
+      "images": 296,
+      "first": "2021-10-29",
+      "last": "2026-06-08",
+      "them_sample": [
+        "Igual me parece que suelen ser diferentes lo que suele salir",
+        "Wtf jajajajaja",
+        "JAJAJAJA"
+      ],
+      "ivan_sample": [
+        "holis",
+        "me podes pasar plz tu examen de f3?",
+        "https://www.educa.una.py/politecnica/mod/quiz/review.php?attempt=131637&cmid=281931"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/alvaro_drip___wa_chat_595984160109_1257"
+    },
+    {
+      "name": "21__friend_casual",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595994341668",
+      "msgs": 1667,
+      "audio": 60,
+      "images": 40,
+      "first": "2023-01-13",
+      "last": "2026-05-10",
+      "them_sample": [
+        "Me olvide mi billetera",
+        "Jajaj",
+        "Voy de vuelta"
+      ],
+      "ivan_sample": [
+        "Okis",
+        "Uwu",
+        "Hola"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/21__friend_casual___wa_chat_595994341668_1955"
+    },
+    {
+      "name": "fpuna_uncertain",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595991357332",
+      "msgs": 1468,
+      "audio": 28,
+      "images": 39,
+      "first": "2023-01-13",
+      "last": "2023-08-08",
+      "them_sample": [
+        "Suuuurg",
+        "117",
+        "Ejuy"
+      ],
+      "ivan_sample": [
+        "Hola xdxd justo me respondió el Man en el grupo",
+        "Xdxd",
+        "Tengo pod cargado"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/fpuna_uncertain___wa_chat_595991357332_1958"
+    },
+    {
+      "name": "compiladores_friend",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595982510082",
+      "msgs": 1432,
+      "audio": 81,
+      "images": 62,
+      "first": "2022-07-19",
+      "last": "2026-06-17",
+      "them_sample": [
+        "Holii",
+        "Pasa nm y compartimos",
+        "Aunque creo que mandaste en todos ya"
+      ],
+      "ivan_sample": [
+        "Como aplicó?",
+        "holis que tal ?\nvos estas en mas grupos de info?\nme pasasron un flyer de trabajo para repartir",
+        "jsjsjs"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/compiladores_friend___wa_chat_595982510082_1723"
+    },
+    {
+      "name": "qa_impostor_friend",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595981258488",
+      "msgs": 1327,
+      "audio": 98,
+      "images": 48,
+      "first": "2025-03-24",
+      "last": "2026-04-16",
+      "them_sample": [
+        "viejooo",
+        "si hay taas saca de ahi",
+        "no nos regales"
+      ],
+      "ivan_sample": [
+        "XD",
+        "https://github.com/IvanWeissVanDerPol/BD2",
+        "pasa donde esten los alumnos"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/qa_impostor_friend___wa_chat_595981258488_3525"
+    },
+    {
+      "name": "emilia_lourdes_contact",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595982843645",
+      "msgs": 1293,
+      "audio": 38,
+      "images": 56,
+      "first": "2023-05-30",
+      "last": "2026-07-20",
+      "them_sample": [
+        "Hola soy amiga de Artman",
+        "Me dijo que queres pegar",
+        "800mil medio"
+      ],
+      "ivan_sample": [
+        "Hola \nSiii\n\nMe pasó tu número ayer\nPero como era tarde no quería molestar jsjsj",
+        "A cuánto está ?\nSuelo comprar en cantidad\nAsí no voy por la calle con merc",
+        "Me parece genial \n\nComo te paso?"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/emilia_lourdes_contact___wa_chat_595982843645_3101"
+    },
+    {
+      "name": "Génesis",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595986830049",
+      "msgs": 1100,
+      "audio": 66,
+      "images": 38,
+      "first": "2022-06-20",
+      "last": "2023-11-20",
+      "them_sample": [
+        "Tranqui, yo también estoy re ocupada",
+        "El de mi foto de perfil no es mi novio es uno de mis mejores amigos",
+        "Aclaro"
+      ],
+      "ivan_sample": [
+        "Holis soy Iván jajaja\nQue tal?\n\nSorry por mensajear ahora recién jajaja\nEstoy con Mill cosas que hacer jajaja",
+        "Que tal el Finde?",
+        "Hola"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/054__génesis___wa_chat_595986830049_1694"
+    },
+    {
+      "name": "Lic Sanni Lalla",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595986418879",
+      "msgs": 896,
+      "audio": 61,
+      "images": 123,
+      "first": "2023-04-01",
+      "last": "2026-07-07",
+      "them_sample": [
+        "Hola! 👋 Gracias por escribirme. Te responderé tan pronto como lea tu mensaje. Mientras tanto puedes leer más sobre mi y el servicio que ofre",
+        "Hola. Cómo estás?\n\nSí claro puedes llamarme.\nQué tal te parece sí hablamos mañana? Voy a estar disponible mañana a las 10-13hs",
+        "Hola. Qué tal? Te gustaría hablar conmigo sobre como sería las sesiones de terapia o te gustaría tener ya tu primera sesión?"
+      ],
+      "ivan_sample": [
+        "Holis que tal?\n\nTe puedo llamar estos días?",
+        "Holas \nAndo bien \n\nEstoy en Estados Unidos por una beca un fla jajaja\n\n\nSucede que me gusta una chica acá \nY me di cuenta de que cuando me g",
+        "Holis"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/27__lic_sanni_lalla___wa_chat_595986418879_1688"
+    },
+    {
+      "name": "Jack",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595991705424",
+      "msgs": 703,
+      "audio": 29,
+      "images": 20,
+      "first": "2021-10-11",
+      "last": "2023-10-26",
+      "them_sample": [
+        "Holaa",
+        "JAJAJAJAJA",
+        "Kp.ese cannabis no lgm"
+      ],
+      "ivan_sample": [
+        "Hola",
+        "Bien random\nPero soy luego random\n\nBásicamente me interesa trabajar para el exterior también \nY esa wea\nPero es muy xd hacerse amigo de algu",
+        "Jajajajaja"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/jack__p5424___wa_chat_595991705424_1202"
+    },
+    {
+      "name": "raff",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595971378035",
+      "msgs": 642,
+      "audio": 17,
+      "images": 29,
+      "first": "2022-07-16",
+      "last": "2024-07-31",
+      "them_sample": [
+        "quien pio es tu grupo prro zd",
+        "xd",
+        "te wa buscar un grupo"
+      ],
+      "ivan_sample": [
+        "Emilio Ara y Pedro",
+        "Xd",
+        "Emilio y Ara van a kansas"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/061__raff___wa_chat_595971378035_1724"
+    },
+    {
+      "name": "068__p5716",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595972835716",
+      "msgs": 629,
+      "audio": 30,
+      "images": 25,
+      "first": "2021-11-24",
+      "last": "2023-10-26",
+      "them_sample": [
+        "Cómo que no",
+        "Mi siguiente evolución es",
+        "Algun dia"
+      ],
+      "ivan_sample": [
+        "Sus",
+        "Uff",
+        "Jajajaja"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/068__p5716___wa_chat_595972835716_1244"
+    },
+    {
+      "name": "Bianca MM",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595961943357",
+      "msgs": 612,
+      "audio": 16,
+      "images": 16,
+      "first": "2023-12-12",
+      "last": "2026-07-13",
+      "them_sample": [
+        "Holiii que tal? Me guardas mi lugar pleaseee",
+        "Si es que llegas antes",
+        "Amiii"
+      ],
+      "ivan_sample": [
+        "Holis hay un evento hoy?\nNo me marca mi calendario:(",
+        "Ahhh \nPero también mi examen:(\nVoy a estar por sanlo para poder ir a rendir :(",
+        "No hay que ir sí o sí verdad?"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/043__bianca_mm___wa_chat_595961943357_4695"
+    },
+    {
+      "name": "Javier Vecino",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595994639567",
+      "msgs": 466,
+      "audio": 44,
+      "images": 36,
+      "first": "2023-09-15",
+      "last": "2026-06-07",
+      "them_sample": [
+        "Hola Iván",
+        "Tu auto está en llanta",
+        "Rueda delantera del lado del chofer"
+      ],
+      "ivan_sample": [
+        "Uff gracias voy a fijarme",
+        "Hola hoy no estoy en casa \nEstán mis roomates\nLes escribo y te aviso cuando estén despiertos",
+        "Te veo"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/060__javier_vecino___wa_chat_595994639567_4227"
+    },
+    {
+      "name": "Eros Dios Del Sexo",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595961366892",
+      "msgs": 447,
+      "audio": 17,
+      "images": 20,
+      "first": "2021-11-09",
+      "last": "2023-06-18",
+      "them_sample": [
+        "Fake it til you make it",
+        "Ahora llegué a casa",
+        "Me baño y te paso"
+      ],
+      "ivan_sample": [
+        "Sii",
+        "holas man\nvos tenes algo preparado para lp3?",
+        "ahora estoy haciendo codigos XD"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/091__eros_dios_del_sexo___wa_chat_595961366892_1314"
+    },
+    {
+      "name": "Álvaro Claro",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595994442444",
+      "msgs": 361,
+      "audio": 20,
+      "images": 33,
+      "first": "2024-12-12",
+      "last": "2026-04-19",
+      "them_sample": [
+        "0981116403",
+        "36500",
+        "Ignora no más"
+      ],
+      "ivan_sample": [
+        "https://www.facebook.com/marketplace/item/1845156012685699/?ref=browse_tab&referral_code=marketplace_general&referral_story_type=general&tra",
+        "0985865261",
+        "El vendedor de cerdo"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/059__álvaro_claro___wa_chat_595994442444_9596"
+    },
+    {
+      "name": "René Pols Poli",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595983738040",
+      "msgs": 343,
+      "audio": 14,
+      "images": 35,
+      "first": "2021-10-28",
+      "last": "2025-12-07",
+      "them_sample": [
+        "xD",
+        "Y si",
+        "Y la mía también a veces seguro"
+      ],
+      "ivan_sample": [
+        "https://drive.google.com/file/d/1Z8asOU1kaCT4p-_zift1l_YICb5LRChK/view?usp=sharing",
+        "https://drive.google.com/drive/folders/1tIrTsj32rFAea95JihATi5Rl2N2lIiTY?usp=sharing",
+        "D"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/066__rené_pols_poli___wa_chat_595983738040_1270"
+    },
+    {
+      "name": "Lazzerini Pizzs",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595983328698",
+      "msgs": 331,
+      "audio": 2,
+      "images": 17,
+      "first": "2024-01-18",
+      "last": "2026-07-10",
+      "them_sample": [
+        "Buonasera!🇮🇹 Gracias por comunicarte con Lazzerini Sucursal Fernando De La Mora ¿Cómo podemos ayudarte?😊",
+        "Sisi",
+        "Genial"
+      ],
+      "ivan_sample": [
+        "Hola",
+        "Te llamé recién",
+        "Cuanto sería?"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/092__lazzerini_pizzs___wa_chat_595983328698_5343"
+    },
+    {
+      "name": "alejandro_alt_2",
+      "tier": "tier2_core",
+      "tier_depth": "CORE",
+      "jid": "595981459382",
+      "msgs": 327,
+      "audio": 9,
+      "images": 17,
+      "first": "2024-02-24",
+      "last": "2026-02-24",
+      "them_sample": [
+        "Lástima que salimos de noche ya estaba muy oscuro para visitar",
+        "Uhhh que bueno !",
+        "Por aquí fue la cena de mi mamá que vino a quedarse con mis hijas y mis perritos a cuidarles mientras nosotros nos fuimos a Atyrá"
+      ],
+      "ivan_sample": [
+        "Acá es donde estoy para contexto n.n",
+        "Llegue",
+        "Sisisisi"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/alejandro_alt_2___wa_chat_595981459382_4380"
+    },
+    {
+      "name": "Sebastián Aguilera",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595971755786",
+      "msgs": 247,
+      "audio": 16,
+      "images": 16,
+      "first": "2022-07-18",
+      "last": "2026-04-13",
+      "them_sample": [
+        "Ivan vos estás por la Poli",
+        "Necesito que alguien me salve",
+        "Bajoonnnnn"
+      ],
+      "ivan_sample": [
+        "No estoy",
+        "Tenés que pagar irl\nO por banco\nPero ahí tarda 24h",
+        "Rip"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/074__sebastián_aguilera___wa_chat_595971755786_1741"
+    },
+    {
+      "name": "Paloma",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "59899144505",
+      "msgs": 237,
+      "audio": 10,
+      "images": 22,
+      "first": "2024-06-15",
+      "last": "2025-12-26",
+      "them_sample": [
+        "ivannn",
+        "palo soyyy",
+        "Programar"
+      ],
+      "ivan_sample": [
+        "Holis paloma",
+        "Que tal",
+        "n.n"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/073__paloma___wa_chat_59899144505_2396"
+    },
+    {
+      "name": "alejandra",
+      "tier": "untiered_personal",
+      "tier_depth": "PERSONAL",
+      "jid": "595994902000",
+      "msgs": 161,
+      "audio": 0,
+      "images": 4,
+      "first": "2025-03-25",
+      "last": "2025-07-12",
+      "them_sample": [
+        "Hola Iván Weiss van der pol VAN DER POL!",
+        "Te paso con un compa del #TeamNissei para ayudarte🤗",
+        "Buen dia! Te saluda Monse Garcia del team Nissei ☺️"
+      ],
+      "ivan_sample": [
+        "Hola Nissei",
+        "A qué hora llegaría?",
+        "Estoy en el gym ahora"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/alejandra____wa_chat_595994902000_10305"
+    },
+    {
+      "name": "Natasha",
+      "tier": "untiered_personal",
+      "tier_depth": "PERSONAL",
+      "jid": "595984884585",
+      "msgs": 140,
+      "audio": 3,
+      "images": 39,
+      "first": "2022-04-10",
+      "last": "2026-02-01",
+      "them_sample": [
+        "Hola Ivan, soy Natasha. muchas gracias por excribir 🙌 si al fin de abril o primeros díaz del mayo si usted quer venir como nuestro modelo. M",
+        "Inglés no por favor😅",
+        "Y queré venir para dibujar también? O solo queré mirar?"
+      ],
+      "ivan_sample": [
+        "Hola Natasha\nMe pasó tu número Carmen adorno\nComentando de talleres que necesitan modelos /modelos nude \n\nMe podría pasar detalles \nMe inter",
+        "Creo que voy a poder\nNo tengo exámenes en ese periodo\n\nQue horario sería ?\nY onda cómo tendría que estar ?\nTipo me dan una pose y me quedo q",
+        "podria ir una vez para saber como es?\nasi veo ideas de poses para hacer por que realmente no soy familiar ni con como deberia de posar?\n\nsi "
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/194__natasha___wa_chat_595984884585_1632"
+    },
+    {
+      "name": "Gerardo Ramos",
+      "tier": "tier3_extended",
+      "tier_depth": "EXTENDED",
+      "jid": "595982783951",
+      "msgs": 136,
+      "audio": 8,
+      "images": 9,
+      "first": "2024-07-09",
+      "last": "2026-02-05",
+      "them_sample": [
+        "Diomio. Le estoy hinchando a Tala \nUrgente resolver la VPN",
+        "Estuvimos pensando ahí con Consu",
+        "No tenes alguna otra compu desde la cual podes unirte a las reus? Cómo es via Webex, no debería ser problemático entrar como guest a las reu"
+      ],
+      "ivan_sample": [
+        "Hola soy Iván Weiss",
+        "No\nPara acceder tengo que usar webex\n\nPero webex solo puedo acceder desde la PC remota\n\nTengo webex en mi PC laptop \nPero le pide SSO que no",
+        "Si \nYa termine uno ahora estoy haciendo el siguiente ya :)"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/071__gerardo_ramos___wa_chat_595982783951_6901"
+    },
+    {
+      "name": "neko_friend",
+      "tier": "untiered_personal",
+      "tier_depth": "PERSONAL",
+      "jid": "595983698281",
+      "msgs": 103,
+      "audio": 23,
+      "images": 5,
+      "first": "2025-11-08",
+      "last": "2026-07-03",
+      "them_sample": [
+        "Jsjsjsj",
+        "Gracias Neko",
+        "Luv u"
+      ],
+      "ivan_sample": [
+        "https://youtu.be/WPBXvDS-UEo",
+        "https://youtu.be/Gc-mDEiWr2I",
+        "https://youtu.be/wTgYeETwgKQ"
+      ],
+      "chat_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/neko_friend___wa_chat_595983698281_9914"
+    }
+  ]
+}
