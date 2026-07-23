@@ -1,18 +1,18 @@
 {
- "total": 63,
- "generated_at": "2026-07-23T01:17:38.651754",
- "source_vcard": "Mica Weiss and 256 other contacts.vcf",
+ "total": 64,
+ "generated_at": "2026-07-23T20:16:10.323103",
+ "source_vcard": "Mica Weiss and 256 other contacts.vcf (full re-run 2026-07-23)",
  "resolutions": [
   {
    "jid_user": "595981225272",
    "tier": "tier1_deep",
-   "dirname": "ami_school___wa_chat_595981225272_62",
+   "dirname": "magali_carreras____wa_chat_595981225272_62",
    "chat_slug": "_wa_chat_595981225272_62",
    "total_msgs": 28457,
    "name": "Magali Carreras",
    "confidence": "VERIFIED_PHONEBOOK",
    "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.562739"
+   "resolved_at": "2026-07-23T20:16:10.323103"
   },
   {
    "jid_user": "595986418879",
@@ -28,13 +28,13 @@
   {
    "jid_user": "595984690946",
    "tier": "tier2_core",
-   "dirname": "p_dropped_2___wa_chat_595984690946_3704",
+   "dirname": "matias_winter____wa_chat_595984690946_3704",
    "chat_slug": "_wa_chat_595984690946_3704",
    "total_msgs": 18,
    "name": "Matias Winter",
    "confidence": "VERIFIED_PHONEBOOK",
    "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.578889"
+   "resolved_at": "2026-07-23T20:16:10.323103"
   },
   {
    "jid_user": "15055778339",
@@ -61,13 +61,13 @@
   {
    "jid_user": "595981925772",
    "tier": "tier2_core",
-   "dirname": "skype_friend___wa_chat_595981925772_1253",
+   "dirname": "emilio_poli____wa_chat_595981925772_1253",
    "chat_slug": "_wa_chat_595981925772_1253",
    "total_msgs": 4230,
    "name": "Emilio Poli",
    "confidence": "VERIFIED_PHONEBOOK",
    "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.614392"
+   "resolved_at": "2026-07-23T20:16:10.323103"
   },
   {
    "jid_user": "595986138387",
@@ -149,13 +149,13 @@
   {
    "jid_user": "595991357332",
    "tier": "tier3_extended",
-   "dirname": "fpuna_uncertain___wa_chat_595991357332_1958",
+   "dirname": "mathias_barrios____wa_chat_595991357332_1958",
    "chat_slug": "_wa_chat_595991357332_1958",
    "total_msgs": 1468,
    "name": "Mathias Barrios",
    "confidence": "VERIFIED_PHONEBOOK",
    "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.635095"
+   "resolved_at": "2026-07-23T20:16:10.323103"
   },
   {
    "jid_user": "595994442444",
@@ -215,13 +215,13 @@
   {
    "jid_user": "595982850085",
    "tier": "tier3_extended",
-   "dirname": "072__p0085___wa_chat_595982850085_1747",
+   "dirname": "prima_mikaela_weiss____wa_chat_595982850085_1747",
    "chat_slug": "_wa_chat_595982850085_1747",
    "total_msgs": 272,
-   "name": "Mica Weiss",
+   "name": "Prima Mikaela Weiss",
    "confidence": "VERIFIED_PHONEBOOK",
    "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.640993"
+   "resolved_at": "2026-07-23T20:16:10.323103"
   },
   {
    "jid_user": "595971755786",
@@ -655,13 +655,13 @@
   {
    "jid_user": "595971303050",
    "tier": "untiered_personal",
-   "dirname": "119__p3050___wa_chat_595971303050_5685",
+   "dirname": "profe_diseno_de_compiladores____wa_chat_595971303050_5685",
    "chat_slug": "_wa_chat_595971303050_5685",
    "total_msgs": 13,
-   "name": "Profe Diseño De Compil adores",
+   "name": "Profe Diseño De Compiladores",
    "confidence": "VERIFIED_PHONEBOOK",
    "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.651182"
+   "resolved_at": "2026-07-23T20:16:10.323103"
   },
   {
    "jid_user": "595991730357",
@@ -695,6 +695,17 @@
    "confidence": "VERIFIED_PHONEBOOK",
    "source": "vCard phonebook (iPhone native)",
    "resolved_at": "2026-07-23T01:17:38.651747"
+  },
+  {
+   "jid_user": "595991549029",
+   "tier": "tier2_core",
+   "dirname": "lucia_diaz____wa_chat_595991549029_1956",
+   "chat_slug": "__wa_chat_595991549029_1956",
+   "total_msgs": 0,
+   "name": "Lucía Díaz",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "source": "vCard phonebook (re-renamed 2026-07-23)",
+   "resolved_at": "2026-07-23T20:16:10.323103"
   }
  ]
 }

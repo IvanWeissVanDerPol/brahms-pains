@@ -1,0 +1,5308 @@
+{
+  "generated_at": "2026-07-23 20:15:40.563040",
+  "description": "Chats whose JID is NOT in Ivan's vCard phonebook. These are 'not saved contact' — analyzed separately.",
+  "total": 882,
+  "by_tier": {
+    "_dropped": 623,
+    "other_lid": 10,
+    "tier1_deep": 6,
+    "tier2_core": 24,
+    "tier3_extended": 47,
+    "tier4_groups": 40,
+    "untiered_personal": 132
+  },
+  "chats": [
+    {
+      "jid": "595971167729",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971167729_9255",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983008816",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983008816_9253",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976333549",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/11__p3549___wa_chat_595976333549_9257",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971353082",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/12__p3082___wa_chat_595971353082_9263",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "5491161048979",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_5491161048979_11920",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363097757313770",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_compiladores_sin_profe_2962",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "94206383145183",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_94206383145183_14119",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "130219130274040",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_130219130274040_15104",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363424016011198",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_juntada_13529",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363195940003646",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_a29b_grupo_de_trabajo_8925",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981383649",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981383649_10158",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981611611",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981611611_4398",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982777960",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982777960_5127",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986652056",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986652056_5724",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "263281965015215",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_263281965015215_15036",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363227610045553",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_baby_shower_02_03_5690",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982842220",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982842220_5546",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992633332",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992633332_5665",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972273973",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972273973_4646",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363429001466032",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_repair_cafe_page_16793",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "108796538007729",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_108796538007729_15023",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982134965",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982134965_6865",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991851222",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991851222_12005",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "5491127039665",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_5491127039665_11786",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363212969668752",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_qe_yguazu_falls_trip_5542",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976235253",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976235253_11444",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986373136",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986373136_11877",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981183723",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981183723_6931",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "101722055782411",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_101722055782411_12984",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971792390",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971792390_3634",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "252068023513155",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_252068023513155_13278",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363428841443226",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_vete_17041",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "270789232308448",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_270789232308448_13253",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "5493515406764",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_5493515406764_10392",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "59521225145",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_59521225145_12625",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981791849",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981791849_12618",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363429544554835",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_geodata_17098",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971636509",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971636509_9159",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986381015",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986381015_11892",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595973688038",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595973688038_9286",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363424355591132",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_meetings_13374",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363294304202963",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐇𝐢𝐬𝐩𝐚𝐧𝐨𝐡𝐚𝐛𝐥𝐚𝐧𝐭𝐞_6824",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985860918",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985860918_5333",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "217278167707806",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_217278167707806_14595",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974904765",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974904765_10472",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595973512556",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595973512556_9774",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983131858",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983131858_6591",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981967672",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981967672_10883",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "69123354693709",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_69123354693709_14649",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992679747",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992679747_3646",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "118670617522185",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_118670617522185_13132",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "171416456540224",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_171416456540224_13129",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "279907431121033",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_279907431121033_13511",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985475708",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985475708_10300",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992720978",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992720978_5723",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984787482",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984787482_6575",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "92750439571663",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_92750439571663_13314",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "224184944877725",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_224184944877725_13102",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "40570311434494",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_40570311434494_14357",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "154838570647782",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_154838570647782_14007",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "61297840402647",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_61297840402647_16977",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363423668166869",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_goldenvisa_15088",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "267318881976338",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_267318881976338_14596",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983444251",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983444251_6594",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363148413844813",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ia_grupo_de_trabajo_3697",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "33101363314843",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_33101363314843_17023",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "213906752549103",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_213906752549103_13625",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972862043",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972862043_9601",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983198459",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983198459_4728",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "193097552105524",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_193097552105524_13098",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "32178616434715",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_32178616434715_14953",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "18147475492",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_18147475492_2931",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363425742075687",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_saskias_coffe_ahop_14850",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "203895133479023",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_203895133479023_14725",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987408440",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987408440_11891",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981324569-1601330335",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_agenda_61",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363387268805089",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_bd2_2025_10299",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985906399",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985906399_6577",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363408406567441",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_30vgs_15070",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363420303513271",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_calgary_todo_random_11548",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363230284717197",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cursos_de_verano_iin-lcik_5548",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992978090",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992978090_10509",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363311852313858",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_𝐀𝐍𝐔𝐍𝐂𝐈𝐎𝐒_6853",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976909490",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976909490_10320",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981993093",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981993093_11541",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363422403014768",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cumple_de_maga_11342",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363292417013295",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_organización_ci24_7605",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972546898",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972546898_9597",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363287717591862",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_latam_-_trabajos_remotos_6742",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981319885",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981319885_6607",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363407313482277",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_talleres_verano_2026_13235",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991203040",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991203040_5321",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981231604",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981231604_1942",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "55955521822873",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_55955521822873_16768",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976682109",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976682109_9259",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987115574",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987115574_10884",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972808418",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972808418_1858",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363301287804741",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ciberseguridad_grupo_3_6640",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976900782",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976900782_3227",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986780732",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986780732_10161",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982340951",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982340951_2272",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982756474",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982756474_6932",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363315599477222",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_el_27_varela_invita_en_su_casa_6889",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363225700389754",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_backend_sin_profe_5695",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "37371181568043",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_37371181568043_16945",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992222691",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992222691_2013",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981670036",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981670036_9899",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982190087",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982190087_12023",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971758036",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971758036_7651",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363407245563997",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_taller_ia_13234",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972822680",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972822680_10369",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987112511",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987112511_11883",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986652329",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986652329_10340",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985808318",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985808318_9594",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992322514",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992322514_11918",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981395596",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981395596_5181",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976933610",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976933610_11524",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985745553",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985745553_5110",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985552000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985552000_6568",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363148298890861",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_quiz_mm_3640",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "57205206347846",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_57205206347846_13077",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "49074850025489",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_49074850025489_15046",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991265170",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991265170_11853",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "171790185791507",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_171790185791507_13193",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992297541",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992297541_12617",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "78971597271125",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_78971597271125_17125",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363158129167812",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_minixtreme_program_py_3104",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992531288",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992531288_11721",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363260729722813",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_other_newsletter_120363260729722813_6630",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971722516",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971722516_8987",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363405486126191",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_bd_13208",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363243690583722",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_fpuna_ciberseguridad_2024_5705",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "208765475393660",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_208765475393660_15474",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994723736",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994723736_4838",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971370907",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971370907_9197",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363407678450330",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_nico_15080",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "227972770435229",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_227972770435229_13533",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363421517070478",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_iinformaciones_de_la_carrera_11210",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "5491173660945",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_5491173660945_9621",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363193043095870",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_other_newsletter_120363193043095870_8963",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "59899000784",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_59899000784_9209",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983012659",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983012659_9195",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992736353",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992736353_9196",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363162502837608",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_club_de_robótica_de_la_fp-una_3582",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595962128625",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595962128625_5861",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985728620",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985728620_10507",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "187763085328400",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_187763085328400_17148",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363315476563278",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ci_24_voluntarios_6918",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985219034",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985219034_6759",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "803343483120",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_803343483120_14984",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363425960266736",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_sheldon_s_dreams_14888",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363427344804328",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_abogado_15022",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972902266",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972902266_6738",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982442540",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982442540_10466",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "159961812320427",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_159961812320427_13128",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991310221",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991310221_8971",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984727418",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984727418_9109",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "265755698413630",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_265755698413630_16849",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595962133580",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595962133580_6764",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363408972144269",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_gruponpara_invitarse_a_casa_y_hacercelas_facil_17120",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "996555325969",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_996555325969_6596",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363160370764004",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_apuesta_3527",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "142545787072590",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_142545787072590_15084",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363273564820225",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_istqb_brave_and_courageous_6573",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "156113605529625",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_156113605529625_17170",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971545477",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971545477_2237",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984118500",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984118500_5093",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987111437",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987111437_10473",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363426066931134",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_rockabar_16846",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363044696497218",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_wsu_becal-cpk_spring_2023_1938",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974688343",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974688343_9705",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595961738267",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595961738267_4430",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983771093",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983771093_7525",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "40875237347543",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_40875237347543_14632",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981472444",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981472444_1308",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "8212749230246",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_8212749230246_16778",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986382798",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986382798_10099",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363399653322955",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_trabajos_10144",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994538574",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994538574_3655",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "144135260471348",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_144135260471348_14874",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "89220043534564",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_89220043534564_13119",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994609417",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994609417_3721",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "26346117976092",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_26346117976092_15480",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "199570671841348",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_199570671841348_15549",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "34650513549",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_34650513549_10652",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "5493413296666",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_5493413296666_10351",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "266751929544901",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_266751929544901_14146",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982833757",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982833757_11928",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983153932",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983153932_11835",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972108420",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972108420_5021",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363411347914828",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_pierced_charm_17053",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983193233",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983193233_9777",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981825140",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981825140_8970",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363319193300367",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_excursion_bdsm_ytu_9030",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595961103376",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595961103376_6905",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984607510",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984607510_9872",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976890359",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976890359_8941",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982728533",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982728533_1387",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984312615",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984312615_11902",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984722609",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984722609_4371",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "97212994470016",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_97212994470016_14961",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982579790",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982579790_4840",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992248450",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992248450_9167",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986616606",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986616606_5109",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984290509",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984290509_11289",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982012889",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982012889_11855",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "48284106268799",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_48284106268799_13051",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984151099",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984151099_4363",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982149267",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982149267_11287",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984354341",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984354341_7846",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "217364603875378",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_217364603875378_15158",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974209044",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974209044_3571",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363405740235414",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_the_wizard_academy_13575",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363424527484092",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_nyx_consultancy_13493",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363268389693387",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cybergameslatam_-_ieee_untels_2024_6586",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971315989",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971315989_5108",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985566569",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985566569_11275",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984175112",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984175112_7527",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363405360232587",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_nexa-paraguay_14983",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595961482854",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595961482854_7826",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986743708",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986743708_2274",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "153339375423583",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_153339375423583_13005",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992472217",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992472217_11922",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363428550115739",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_oz_15076",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986493535",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986493535_9176",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "94898074173672",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_94898074173672_15502",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "75849323819111",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_75849323819111_13388",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595993390824",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595993390824_10199",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991921600",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991921600_6512",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "76824231051438",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_76824231051438_12954",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363245251782742",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_samber_atyra_5702",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984872609",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984872609_5052",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363411733595635",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_putivuelta_la_sersfina_17063",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992217506",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992217506_11965",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "34754908921876",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_34754908921876_13562",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363424281000140",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_solstein_14859",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981973355",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981973355_4086",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971574241",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971574241_11556",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984244310",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984244310_6560",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363319166032726",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_talleres_de_invierno_iin_-_lcik_7612",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991587485",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991587485_7827",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984160109-1575323530",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_iin_gaming_club_019_113",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974443443",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974443443_10857",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "264647361974519",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_264647361974519_13190",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992725319",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992725319_11931",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363025659226206",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ideas_de_proyectos_info_1788",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982501582",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982501582_11230",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363404441934011",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_instructores_coordinadores_apoyo_talleres_de_verano_2026_13038",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "13166196653",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_13166196653_1988",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "84791898693844",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_84791898693844_15167",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "104741417795691",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_104741417795691_13103",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984682720",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984682720_4404",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982432938",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982432938_11294",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595993598454",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595993598454_2323",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363043041392312",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cosas_de_casa_1817",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363148148457418",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ingeniería_en_informática_3900",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986129457",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986129457_5721",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971394192",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971394192_11924",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984264979",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984264979_2284",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "275015379464272",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_275015379464272_13566",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981851625",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981851625_9045",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971378858",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971378858_11478",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363177781450585",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_other_newsletter_120363177781450585_9944",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363315917410655",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ci_24_voluntarios_6919",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "32569055793373",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_32569055793373_14411",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982191340",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982191340_6605",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974741378",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974741378_9177",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "15144029271",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_15144029271_11788",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983858997",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983858997_3598",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972155481",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972155481_6717",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982236093",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982236093_1848",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363410303081096",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_mi_cumple_sábado_4_16933",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974956470",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974956470_10067",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971116608",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971116608_7794",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991717428",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991717428_10303",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363186054553605",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_nsac_asunción_2023_-_participantes_4732",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363146762569006",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_emergentes_2023_3622",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "195653108015235",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_195653108015235_12861",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992228058",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992228058_9918",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981556506",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981556506_1430",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363298513301939",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_taller_de_introducción_qa_instructores_6921",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983284564",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983284564_11849",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "58390113992826",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_58390113992826_13561",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985549164",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985549164_6885",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363418861854035",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_la_casa_10475",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986739802",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986739802_10968",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "203762392137970",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_203762392137970_13624",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "222062828380404",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_222062828380404_14897",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363427403036380",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_forest_park_16369",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363161488165704",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ieeextreme_-_interesados_una_3449",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984190420",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984190420_9657",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "228256204722393",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_228256204722393_13263",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984985392",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984985392_6878",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985879261",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985879261_4428",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "47094433870013",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_47094433870013_13326",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991196568",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991196568_9179",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363306431422577",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_general_6744",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363420445338350",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_méxico_city_11536",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991184263",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991184263_11178",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992503013",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992503013_5236",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994658646",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994658646_6663",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986622866",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986622866_4321",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983660080",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983660080_3641",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "273555795226716",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_273555795226716_15131",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981781796",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981781796_10307",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981272697",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981272697_11076",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981907662",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981907662_7840",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992444123",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992444123_11846",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976591000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976591000_5668",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "109581929844874",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_109581929844874_13070",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982018339",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982018339_6519",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972913916",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972913916_5452",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "204333220114444",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_204333220114444_12993",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "145762717540453",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_145762717540453_13646",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983595027",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983595027_4048",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974504656-1602079701",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_bombas_de_semillas_1916",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986831760",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986831760_12702",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363425769592377",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_sarah_14869",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986647270",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986647270_6543",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363168153280680",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_other_newsletter_120363168153280680_5096",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981577805",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981577805_12613",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "27660126265454",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_27660126265454_15468",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992440311",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992440311_1760",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "31452213305549",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_31452213305549_13192",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363405294111697",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ternary_presentation_13501",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972762653",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972762653_9104",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981561946",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981561946_6602",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595993309493",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595993309493_6936",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "111231230845043",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_111231230845043_14029",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981945426",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981945426_9591",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "213374025658551",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_213374025658551_13567",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982544636",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982544636_10083",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "2347045635469",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_2347045635469_5586",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "62882162936422",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_62882162936422_6562",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "102762008342747",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_102762008342747_14607",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982463024",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982463024_5760",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985547457",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985547457_5812",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363423792577707",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_the_story_begins_13579",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363212846080750",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_workshop_desarrolla_tu_portafolio_web_con_astro_5547",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363425502798501",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_wexare_community_14163",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982388158",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982388158_2097",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363399232641063",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_la_cumbre_trip_9913",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363177775579008",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_casa_stuff_5063",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "264098176585956",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_264098176585956_13647",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "105909749575890",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_105909749575890_13081",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363292938759830",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_copias_6583",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992776493",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992776493_12764",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985720342",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985720342_6816",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363428317291908",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_serafina_17091",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "191491637014610",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_191491637014610_13046",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981784662",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981784662_11998",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986246274",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986246274_6847",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982911935",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982911935_1911",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363141685389996",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_mentees_minieeextreme_3111",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363309161809279",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_𝐎𝐅𝐄𝐑𝐓𝐀𝐒_6852",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991182268",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991182268_11923",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "89485660393604",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_89485660393604_13010",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984073945",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984073945_11933",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "95150772617227",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_95150772617227_14140",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363408183083635",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ai_forsonia_13580",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363420467104067",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_facturas_canda_11638",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974413000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974413000_9678",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363400990247658",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_bolsa_de_trabajo_iin_10513",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986151686",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986151686_11462",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363408591139576",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_gallinas_oviedo_14853",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994642574",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994642574_11930",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "137624291393721",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_137624291393721_16788",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983236333",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983236333_6776",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363426035832186",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_tsuki_15143",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987172973",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987172973_11921",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981541913",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981541913_1906",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985200647",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985200647_9586",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984694993",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984694993_10665",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363132233696620",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_mamados_club_3081",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363161394266746",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cursos_de_invierno_2023_3521",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595973908532",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595973908532_5713",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983408340",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983408340_5151",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994946299",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994946299_5597",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976961499",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976961499_1319",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "359876591429",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_359876591429_5576",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976161000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976161000_5759",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363408019790676",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_unnamed_12862",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363407775625099",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_casa_weiss_internal_10100",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "195816652325082",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_195816652325082_14028",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "6043606212799",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_6043606212799_15501",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994707789",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994707789_4638",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "8801929022468",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_8801929022468_6548",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "239105191460998",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_239105191460998_13649",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363428724072353",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_test_de_hermes_15055",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991739556",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991739556_5229",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981000111",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981000111_9689",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "223446109839496",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_223446109839496_15220",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981945931",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981945931_5470",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994996709",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994996709_11867",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "159223061151983",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_159223061151983_16955",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "57797458792574",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_57797458792574_15073",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "93565963268321",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_93565963268321_13080",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363408503673817",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_wexare_paraguay_14162",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "63741810978885",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_63741810978885_15109",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "12305819504882",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_12305819504882_14973",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971996907",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971996907_6761",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991874689",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991874689_6877",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "61478682030117",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_61478682030117_15028",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363408431301029",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_quantoz_16764",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363142512217044",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_is3_2024_5765",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972822682",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972822682_10462",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363161182949913",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ieeextreme_18_0_paraguay_3448",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363427313486418",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_mi_pumple_30_05_no_le_hagan_caso_a_ale_15481",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363428533184433",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_pasa_manos_verde_17143",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985775779",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985775779_3756",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "56466706821352",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_56466706821352_14588",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595993071008",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595993071008_11927",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994252817",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994252817_11522",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972600129",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972600129_5163",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "248085934555139",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_248085934555139_13222",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "264020246429711",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_264020246429711_16234",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985653855",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985653855_5471",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981361137",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981361137_6612",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363406003575799",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_agentic_workflows_14872",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982862477",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982862477_7963",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "6790360092864",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_6790360092864_12996",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363243306938162",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_is3_grupo_5708",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "174058297675951",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_174058297675951_15024",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986700600",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986700600_5162",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363214296834356",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_wsu_fpuna_meet_5568",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994467903",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994467903_12679",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985555225",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985555225_9658",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971151324",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971151324_5178",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982251841",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982251841_333",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363150021519060",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ingeniería_en_informática_3907",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "31616116992",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_31616116992_1464",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985596063",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985596063_11884",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363428524364671",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_somos_gay_17065",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "189486155702510",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_189486155702510_15527",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "196542485012495",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_196542485012495_14659",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983031680",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983031680_7837",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "232538605887647",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_232538605887647_16236",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595993310455",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595993310455_12689",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363191710485685",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_emergentes_grupo_7_4723",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363038653546775",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_becas_erasmus_fpuna_1439",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363193027656725",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_other_newsletter_120363193027656725_9812",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981246776",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981246776_6604",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981190096",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981190096_5237",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983738040-1629514394",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_d_d_1825",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595993454000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595993454000_9042",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992468570",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992468570_11509",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "126641942577239",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_126641942577239_13171",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "170823767859295",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_170823767859295_16385",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971885483",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971885483_3560",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "49735771639861",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_49735771639861_14787",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "233264069500985",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_233264069500985_13120",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363406935518026",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_nudo_15067",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "163857968414803",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_163857968414803_13535",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "99901308416109",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_99901308416109_14653",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363150265582047",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_other_newsletter_120363150265582047_4303",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363227130623621",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_bd2_iin_2024_5774",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991804593",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991804593_9618",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363292825481024",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ejercicios_compi_6582",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "180002230378511",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_180002230378511_13153",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "276639095242788",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_276639095242788_17033",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981586063",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981586063_6818",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363168793410952",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ml_grupo_4031",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "1159674785945",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_1159674785945_14636",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983732766",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983732766_5336",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "119259044835572",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_119259044835572_13532",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972967466",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972967466_4700",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363128913278507",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_comité_de_cursos_charlas_-_cs_3047",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986138123",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986138123_10322",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "243709446770796",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_243709446770796_16974",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982516844",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982516844_11861",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992685876",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992685876_4429",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984234002",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984234002_10308",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "31682752326",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_31682752326_8177",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "97869453389924",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_97869453389924_17122",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "18492797199",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_18492797199_11742",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985434234",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985434234_9071",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991710569",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991710569_6646",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994644222",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994644222_10368",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972908916",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972908916_11825",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363409030039485",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_luca_montanaro_17107",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981346069",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981346069_5234",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "50257029309",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_50257029309_9070",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992601047",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992601047_9610",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981396088",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981396088_8975",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987116657",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987116657_6516",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987372358",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987372358_11903",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "34666604366",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_34666604366_10589",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "2083797373166",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_2083797373166_16858",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363411266722908",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_villa_mayor_17039",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "119769609064508",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_119769609064508_15177",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "139088824914000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_139088824914000_14658",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982945349",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982945349_9547",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363408563555257",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_superspuma_15062",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994314314",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994314314_6524",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "180135860912324",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_180135860912324_13114",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992267929",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992267929_12798",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "15268625571882",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_15268625571882_13194",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "242455349821600",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_242455349821600_14752",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "0",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_0_1522",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981108188",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981108188_11929",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985476679",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985476679_5840",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992280435",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992280435_9318",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982524314",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982524314_5830",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972386499",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972386499_2475",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "127702967255270",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_127702967255270_13502",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363318084419990",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_introducción_al_aseguramiento_de_la_calidad_y_automatización_7611",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992930805",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992930805_10315",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982728694",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982728694_11925",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982004200",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982004200_9758",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991366842",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991366842_9813",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992026352",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992026352_11350",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981516108",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981516108_11499",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "186513367277734",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_186513367277734_15200",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363291071242941",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_este_grupo_se_autodestruirá_en_20min_6754",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983249641",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983249641_4676",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986200043",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986200043_6598",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "176768824672276",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_176768824672276_16766",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991991954",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991991954_12678",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976583360",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976583360_9704",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992282576",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992282576_4231",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "79062059982857",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_79062059982857_14015",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "258617261465627",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_258617261465627_15244",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595994385693",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595994385693_6775",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595993530737",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595993530737_5012",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "83386857160841",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_83386857160841_16106",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987303274",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987303274_6735",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363144038483540",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_other_newsletter_120363144038483540_5327",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974904769",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974904769_10251",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "239925580546072",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_239925580546072_13378",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "162681097076843",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_162681097076843_14793",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "244079115948071",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_244079115948071_15063",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363428071441031",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_organización_py_testing_2026_16349",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991262074",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991262074_9949",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "56942458964",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_56942458964_10586",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363425922867155",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_comedy_el_gato_15473",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981203934",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981203934_10115",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984168130",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984168130_9580",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "142344342999195",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_142344342999195_17104",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "6808060059709",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_6808060059709_14633",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981701701",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981701701_4076",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971673249",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971673249_8999",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "918617838526",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_918617838526_6715",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "272326897750017",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_272326897750017_13079",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "92968996368548",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_92968996368548_17028",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991900700",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991900700_4235",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "34672986128",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_34672986128_5066",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984962826",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984962826_5778",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "169002668171442",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_169002668171442_13622",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "195133299544069",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_195133299544069_15090",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "165768624893999",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_165768624893999_14648",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983864324",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983864324_11823",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363423187387012",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_talleres_de_verano_2026-_organizacion_13033",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982608837",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982608837_10306",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992289627",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992289627_11222",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981147364",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981147364_4234",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363160056397845",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_los_más_paraguayos_-_solo_amigos_permitidos_3523",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595972259553",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972259553_6930",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982988917",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982988917_4437",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363420021816192",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_embs_utp_14033",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981201732",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981201732_9545",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "116647134245016",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_116647134245016_16944",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363407289978370",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_qué_hacer_durante_mi_carrera_para_dirigirme_a_donde_me_inter_14031",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363426413936423",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_dan_14862",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595975364756",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595975364756_6600",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984615230",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984615230_6934",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976537308",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976537308_5843",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985526379",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985526379_5323",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363427279975284",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_reina_copas_15465",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "228423674896462",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_228423674896462_12860",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974525749",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974525749_11997",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "15617591585",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_15617591585_11743",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982787456",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982787456_5254",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986330912",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986330912_11926",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "83477168951296",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_83477168951296_14631",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363257266029983",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cuarteto_el_15_06_5863",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363420814262073",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ai_whisperers_tasks_docs_12614",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595984109010",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595984109010_11932",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "5862932369427",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_5862932369427_14637",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982138376",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982138376_3731",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986746614",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986746614_4039",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986751335",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986751335_11805",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "114315537420487",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_114315537420487_13626",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "218051244990519",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_218051244990519_17171",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985206684",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985206684_10390",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985272826",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985272826_11298",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986316559",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986316559_11868",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991447905",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991447905_10849",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "194360691953795",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_194360691953795_13217",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "13055654317",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_13055654317_11592",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "12988031443029",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_12988031443029_15223",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363411095992171",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_rach_14856",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595985921173",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985921173_10159",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363359518735389",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_powerpoint_powe_apps_para_canadá_9593",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "63226951774393",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_63226951774393_15127",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "123184141619444",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_123184141619444_17036",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983562304",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983562304_10983",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982665125",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982665125_4726",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595986139619",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986139619_9891",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981938677",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981938677_9871",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "18888317121",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_18888317121_10101",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595987122940",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987122940_9888",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "181131756462202",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_181131756462202_15528",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595976150299",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976150299_7967",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595983468273",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983468273_3465",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363400983929512",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_rpa_11296",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595971111939",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971111939_1489",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363162610843716",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_front_sin_profe_3627",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363407470727977",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_jottaink_15137",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981279546",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981279546_12805",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595992298225",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992298225_9317",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "154310071607477",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_154310071607477_12967",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363041769630992",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_is3_sin_profes_3617",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595982296168",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982296168_10484",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "147192908087344",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_147192908087344_15092",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363425046817174",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_dayah_litworks_14989",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363241997035860",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_compiladores_2024_5686",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363406900051867",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_work-coordinator_13521",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595981685815",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981685815_1742",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595991803927",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991803927_11919",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "595974441551",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974441551_9898",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363184086467234",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_no_subject_4731",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "120363424227025380",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ia_organización_13032",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "13135550002",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_13135550002_10103",
+      "tier": "_dropped"
+    },
+    {
+      "jid": "158089659547891",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_547891___wa_lid_158089659547891_14700",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "206588111532196",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_532196___wa_lid_206588111532196_14798",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "245255651782842",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_782842___wa_lid_245255651782842_15190",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "170287115042926",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_042926___wa_lid_170287115042926_13746",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "113090817425545",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_425545___wa_lid_113090817425545_13053",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "96606732967999",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_967999___wa_lid_96606732967999_13130",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "154288881946676",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_946676___wa_lid_154288881946676_13498",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "42490228936873",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_936873___wa_lid_42490228936873_15160",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "137533459566845",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_566845___wa_lid_137533459566845_13164",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "214709794013386",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/other_lid/lid_013386___wa_lid_214709794013386_13829",
+      "tier": "other_lid"
+    },
+    {
+      "jid": "595985724135",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/sister_kyrian_kiki___wa_chat_595985724135_111",
+      "tier": "tier1_deep"
+    },
+    {
+      "jid": "595981324569",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/06__p4569___wa_chat_595981324569_1092",
+      "tier": "tier1_deep"
+    },
+    {
+      "jid": "595981791823",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/05__lourdes_youko_kurama___wa_chat_595981791823_1683",
+      "tier": "tier1_deep"
+    },
+    {
+      "jid": "595971922708",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/jonathan_verdun___wa_chat_595971922708_3654",
+      "tier": "tier1_deep"
+    },
+    {
+      "jid": "595982515138",
+      "provisional_name": "gabriel_g_curuguaty",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/mom_sonia_weiss___wa_chat_595982515138_64",
+      "tier": "tier1_deep"
+    },
+    {
+      "jid": "595976538689",
+      "provisional_name": "laura_x",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/laura_x___wa_chat_595976538689_3231",
+      "tier": "tier1_deep"
+    },
+    {
+      "jid": "595981258488",
+      "provisional_name": "qa_impostor_friend",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/qa_impostor_friend___wa_chat_595981258488_3525",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595991470829",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/22__cesar_poli___wa_chat_595991470829_106",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595985725871",
+      "provisional_name": "guitar_friend",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/guitar_friend___wa_chat_595985725871_86",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595985340001",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/23__friend_uwu___wa_chat_595985340001_2439",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595984241789",
+      "provisional_name": "p_dropped_1",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/p_dropped_1___wa_chat_595984241789_1849",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595984933862",
+      "provisional_name": "becas_kansas_friend",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/becas_kansas_friend___wa_chat_595984933862_1330",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595972209763",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/30__kansas_springbreak___wa_chat_595972209763_2943",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595981868718",
+      "provisional_name": "helpp_friend",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/helpp_friend___wa_chat_595981868718_92",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595982510082",
+      "provisional_name": "compiladores_friend",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/compiladores_friend___wa_chat_595982510082_1723",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595986464184",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/38__friend_arrival___wa_chat_595986464184_1811",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595973572212",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/34__friend_simple___wa_chat_595973572212_1994",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595985249907",
+      "provisional_name": "Lourdes",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/lourdes__friend_tiktok_share___wa_chat_595985249907_9628",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595986868241",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/35__friend_photos___wa_chat_595986868241_10607",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595983822921",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/14__friend_brasilia___wa_chat_595983822921_11297",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595993553949",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/33__kiki_adjacent___wa_chat_595993553949_12779",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595976569739",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/25__sexshop_companion___wa_chat_595976569739_2083",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595983111686",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/28__lilian_riveros___wa_chat_595983111686_3524",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595994341668",
+      "provisional_name": "21__friend_casual",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/21__friend_casual___wa_chat_595994341668_1955",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595984160109",
+      "provisional_name": "alvaro_drip",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/alvaro_drip___wa_chat_595984160109_1257",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595984708142",
+      "provisional_name": "p_dropped_3",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/p_dropped_3___wa_chat_595984708142_2041",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595986805654",
+      "provisional_name": "fpuna_alvaro_alt",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/fpuna_alvaro_alt___wa_chat_595986805654_1271",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595981459382",
+      "provisional_name": "alejandro_alt_2",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/alejandro_alt_2___wa_chat_595981459382_4380",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595981473912",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/40__victor_urgent___wa_chat_595981473912_1762",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595962291837",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier2_core/16__friend_alvaro___wa_chat_595962291837_9625",
+      "tier": "tier2_core"
+    },
+    {
+      "jid": "595985951732",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/063__p1732___wa_chat_595985951732_1722",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595983240258",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/075__p0258___wa_chat_595983240258_3008",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595985855075",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/uncle_gerold_manders___wa_chat_595985855075_1366",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595982944453",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/058__p4453___wa_chat_595982944453_2454",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595984401410",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/086__p1410___wa_chat_595984401410_4438",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "491743785770",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/065__p5770___wa_chat_491743785770_1989",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595991705424",
+      "provisional_name": "Jack",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/jack__p5424___wa_chat_595991705424_1202",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595986129386",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/041__p9386___wa_chat_595986129386_1781",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595991506193",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/084__p6193___wa_chat_595991506193_3099",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "33665298582",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/042__p8582___wa_chat_33665298582_2646",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595984729300",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/094__p9300___wa_chat_595984729300_9919",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595985383004",
+      "provisional_name": "elias",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/elias____wa_chat_595985383004_10373",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595982410566",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/098__p0566___wa_chat_595982410566_9085",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595976409265",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/070__p9265___wa_chat_595976409265_2838",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595982553100",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/056__p3100___wa_chat_595982553100_9254",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595972835716",
+      "provisional_name": "068__p5716",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/068__p5716___wa_chat_595972835716_1244",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "50230574090",
+      "provisional_name": "juan",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/juan____wa_chat_50230574090_10146",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595973757353",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/067__p7353___wa_chat_595973757353_1731",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595962288968",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/052__p8968___wa_chat_595962288968_1698",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595982843645",
+      "provisional_name": "emilia_lourdes_contact",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/emilia_lourdes_contact___wa_chat_595982843645_3101",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595986710408",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/076__p0408___wa_chat_595986710408_1699",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595982223241",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/057__p3241___wa_chat_595982223241_11521",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595986637132",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/090__p7132___wa_chat_595986637132_5130",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595982925974",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/089__p5974___wa_chat_595982925974_9881",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595982139653",
+      "provisional_name": "100__p9653",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/100__p9653___wa_chat_595982139653_1855",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595981459447",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/078__p9447___wa_chat_595981459447_11190",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595984689143",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/099__p9143___wa_chat_595984689143_4130",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595991700814",
+      "provisional_name": "unknown_atyra",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/unknown_atyra___wa_chat_595991700814_4652",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595981514195",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/049__p4195___wa_chat_595981514195_9627",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "118262125854912",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/097__lid_854912___wa_lid_118262125854912_15538",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595981199223",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/050__p9223___wa_chat_595981199223_1728",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595971505289",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/044__p5289___wa_chat_595971505289_110",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595971758658",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/088__p8658___wa_chat_595971758658_9805",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595991797009",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/069__p7009___wa_chat_595991797009_1949",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "31634463709",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/053__p3709___wa_chat_31634463709_11777",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595986361808",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/055__p1808___wa_chat_595986361808_4032",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595991469087",
+      "provisional_name": "myre_atyra",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/myre_atyra___wa_chat_595991469087_4649",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595981262272",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/093__p2272___wa_chat_595981262272_1550",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595981725157",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/085__p5157___wa_chat_595981725157_11979",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595981990870",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/096__p0870___wa_chat_595981990870_2079",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595986186281",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/079__p6281___wa_chat_595986186281_1292",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595983281667",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/062__p1667___wa_chat_595983281667_3593",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595985435809",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/051__p5809___wa_chat_595985435809_11371",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595982923913",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/087__p3913___wa_chat_595982923913_4696",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595972124230",
+      "provisional_name": "p_dropped_4",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/p_dropped_4___wa_chat_595972124230_2295",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595983523251",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/077__p3251___wa_chat_595983523251_1276",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "595983727370",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/081__p7370___wa_chat_595983727370_1926",
+      "tier": "tier3_extended"
+    },
+    {
+      "jid": "120363379714913758",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_funhouse_9626",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363041788495898",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_ieee_cs_una_sbc_2025_1917",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595981324569-1610640208",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_saquenme_de_latinoamerica_665",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363167691969583",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_nasa_space_apps_ieee_computer_society_4711",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595984807821-1549818101",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_club_de_info_gral_5082",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363147837731350",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_gcc_2023_3592",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595971274229-1466111694",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_iin_-_fpuna_-_gral_3904",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363025296671701",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_lan_party_11_02_1794",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "31612495139-1475060030",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_familie_van_der_pol_497",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363343701567428",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_stoic_finch_-_latam_9090",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595983342745-1544023957",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_iin_fpuna_019_26",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363435610874254",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_cum_a_secas_17026",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595982510082-1631714714",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_iin_fpuna_2019_-_2025_1450",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363292655570594",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥_6823",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363383964217274",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_agi_is_cumming_9683",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595971692433-1578015622",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_amigos_de_las_locuras_swinger_11642",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595972175865-1471540721",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_cdr_fp_una_1914",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363422587468210",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_sarah_s_neon_furry_b-day_party_13138",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363238233660596",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_team_isabelle_mm_5771",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363428054772021",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_el_viajero_15051",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363041824718426",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_groep_is3_1802",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595976351903-1486146535",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_wpg_team_1214",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363162948940910",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_ci2023_-_voluntarios_general_3519",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363147208748925",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_ml_2023-1_3619",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363404918156195",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_ai_whisperers_11544",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595981324569-1634898220",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_jojo_gym_1227",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595981324569-1605301799",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_grupo_de_pizza_gratis_485",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363208329203237",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_primos_weiss_5233",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363158098717771",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_ieeextreme_17_0_-_student_branch_una_3230",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363022540721353",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_give_back_program_-_cpk_3506",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363215075504640",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_qe_meriendita_5317",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595981427366-1519340151",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_iin_fpuna_2015-2021_24",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363175387159404",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_py_testing_community_4296",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363022326399562",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_pasen_las_fotos_1452",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "595984160109-1553289986",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_shitpoliposting_39",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363167697082425",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_good_omens_py_14938",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363407614192971",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_dentista_gabi_15956",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363393411691743",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_maskarada_-_club_de_azote_9803",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363161501004824",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_info_startups_13651",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "120363400443364837",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/tier4_groups/_wa_group_vacantes_optech_v_10637",
+      "tier": "tier4_groups"
+    },
+    {
+      "jid": "18063410917",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/103__p0917___wa_chat_18063410917_2976",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971190089",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/116__p0089___wa_chat_595971190089_5319",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595992289295",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/237__p9295___wa_chat_595992289295_5635",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595992290656",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/238__p0656___wa_chat_595992290656_1725",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595962155684",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/112__p5684___wa_chat_595962155684_1881",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971102999",
+      "provisional_name": "angel",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/angel____wa_chat_595971102999_2992",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971942911",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/131__p2911___wa_chat_595971942911_1748",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971444600",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/121__p4600___wa_chat_595971444600_9680",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984328174",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/189__p8174___wa_chat_595984328174_1729",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981180666",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/152__p0666___wa_chat_595981180666_11095",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595994778026",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/249__p8026___wa_chat_595994778026_11180",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986173200",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/215__p3200___wa_chat_595986173200_11974",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981417867",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/158__p7867___wa_chat_595981417867_9058",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971200431",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/118__p0431___wa_chat_595971200431_11186",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984900920",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/197__p0920___wa_chat_595984900920_9052",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595985837875",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/211__p7875___wa_chat_595985837875_4762",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981606000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/161__p6000___wa_chat_595981606000_5065",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981801463",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/166__p1463___wa_chat_595981801463_9599",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981801824",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/167__p1824___wa_chat_595981801824_11545",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981616294",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/163__p6294___wa_chat_595981616294_1696",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595976331904",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/145__p1904___wa_chat_595976331904_1866",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595985124464",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/200__p4464___wa_chat_595985124464_11430",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "59895614473",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/253__p4473___wa_chat_59895614473_11939",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991620661",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/225__p0661___wa_chat_595991620661_1733",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986159488",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/213__p9488___wa_chat_595986159488_9270",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984751669",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/193__p1669___wa_chat_595984751669_667",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986189433",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/217__p9433___wa_chat_595986189433_1752",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "5491122505262",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/109__p5262___wa_chat_5491122505262_9620",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595974612313",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/142__p2313___wa_chat_595974612313_9192",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971727980",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/128__p7980___wa_chat_595971727980_3616",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595974465910",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/141__p5910___wa_chat_595974465910_5322",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981924528",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/170__p4528___wa_chat_595981924528_1795",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986554623",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/220__p4623___wa_chat_595986554623_9543",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971322013",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/120__p2013___wa_chat_595971322013_10114",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595972391492",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/136__p1492___wa_chat_595972391492_3663",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984909166",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/198__p9166___wa_chat_595984909166_9157",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971612900",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/123__p2900___wa_chat_595971612900_2048",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595983206474",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/178__p6474___wa_chat_595983206474_9890",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595992036040",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/235__p6040___wa_chat_595992036040_11693",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595974621488",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/143__p1488___wa_chat_595974621488_7274",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595976123758",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/144__p3758___wa_chat_595976123758_9811",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595985450764",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/203__p0764___wa_chat_595985450764_11470",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984202187",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/187__p2187___wa_chat_595984202187_10088",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "13162108040",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/101__p8040___wa_chat_13162108040_3066",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971524131",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/122__p4131___wa_chat_595971524131_2150",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595985532655",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/206__p2655___wa_chat_595985532655_5077",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981285412",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/155__p5412___wa_chat_595981285412_9804",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971194933",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/117__p4933___wa_chat_595971194933_1719",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981321606",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/156__p1606___wa_chat_595981321606_10229",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595982646114",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/172__p6114___wa_chat_595982646114_5235",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595976777023",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/148__p7023___wa_chat_595976777023_2027",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "13163475777",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/102__p5777___wa_chat_13163475777_3667",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981127507",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/151__p7507___wa_chat_595981127507_1768",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971784500",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/129__p4500___wa_chat_595971784500_2024",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971652994",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/125__p2994___wa_chat_595971652994_2127",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595982733536",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/173__p3536___wa_chat_595982733536_6569",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984116894",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/186__p6894___wa_chat_595984116894_6741",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595994902000",
+      "provisional_name": "alejandra",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/alejandra____wa_chat_595994902000_10305",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991965767",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/234__p5767___wa_chat_595991965767_5169",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595983800224",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/184__p0224___wa_chat_595983800224_9916",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971133008",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/114__p3008___wa_chat_595971133008_1297",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595972994744",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/138__p4744___wa_chat_595972994744_4768",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981816355",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/168__p6355___wa_chat_595981816355_9271",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595983220080",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/179__p0080___wa_chat_595983220080_2162",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595985733375",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/207__p3375___wa_chat_595985733375_1831",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971692433",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/126__p2433___wa_chat_595971692433_11432",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595974419007",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/140__p9007___wa_chat_595974419007_11192",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595985343897",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/202__p3897___wa_chat_595985343897_7621",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595992721418",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/242__p1418___wa_chat_595992721418_11762",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595994922888",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/252__p2888___wa_chat_595994922888_5114",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991737902",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/229__p7902___wa_chat_595991737902_10143",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991810194",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/230__p0194___wa_chat_595991810194_7797",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984898527",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/196__p8527___wa_chat_595984898527_10680",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981063900",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/150__p3900___wa_chat_595981063900_11176",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595972590455",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/137__p0455___wa_chat_595972590455_11179",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595983345985",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/180__p5985___wa_chat_595983345985_5625",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981545498",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/160__p5498___wa_chat_595981545498_273",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984731244",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/192__p1244___wa_chat_595984731244_10265",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595972104371",
+      "provisional_name": "cesar",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/cesar____wa_chat_595972104371_9036",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991715034",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/226__p5034___wa_chat_595991715034_11083",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595992853154",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/244__p3154___wa_chat_595992853154_2985",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986186810",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/216__p6810___wa_chat_595986186810_232",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595992443433",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/241__p3433___wa_chat_595992443433_4763",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986445564",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/218__p5564___wa_chat_595986445564_7538",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986804914",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/221__p4914___wa_chat_595986804914_6611",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986169915",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/214__p9915___wa_chat_595986169915_1860",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991381669",
+      "provisional_name": "alejandra",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/alejandra____wa_chat_595991381669_6911",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981186252",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/153__p6252___wa_chat_595981186252_1295",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981609125",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/162__p9125___wa_chat_595981609125_10582",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991717977",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/227__p7977___wa_chat_595991717977_12799",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991852405",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/231__p2405___wa_chat_595991852405_9217",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595982810360",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/175__p0360___wa_chat_595982810360_6527",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595993535355",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/246__p5355___wa_chat_595993535355_4233",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595992379449",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/239__p9449___wa_chat_595992379449_9561",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984247377",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/188__p7377___wa_chat_595984247377_10541",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986551824",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/219__p1824___wa_chat_595986551824_11679",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984106852",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/185__p6852___wa_chat_595984106852_10933",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986850030",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/223__p0030___wa_chat_595986850030_6817",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981204734",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/154__p4734___wa_chat_595981204734_10154",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "5212215805319",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/106__p5319___wa_chat_5212215805319_11532",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986815081",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/222__p5081___wa_chat_595986815081_1736",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595994445246",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/247__p5246___wa_chat_595994445246_6538",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "5215547629093",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/108__p9093___wa_chat_5215547629093_4393",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595972179084",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/135__p9084___wa_chat_595972179084_4679",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "5215510091811",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/107__p1811___wa_chat_5215510091811_11534",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984898288",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/195__p8288___wa_chat_595984898288_9149",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984409200",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/190__p9200___wa_chat_595984409200_4630",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595982954451",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/176__p4451___wa_chat_595982954451_11084",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981530531",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/159__p0531___wa_chat_595981530531_11980",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595985508337",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/204__p8337___wa_chat_595985508337_5804",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595961100198",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/111__p0198___wa_chat_595961100198_1354",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595994562211",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/248__p2211___wa_chat_595994562211_7832",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984917697",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/199__p7697___wa_chat_595984917697_2941",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981724759",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/165__p4759___wa_chat_595981724759_9299",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971726746",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/127__p6746___wa_chat_595971726746_6977",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991904000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/232__p4000___wa_chat_595991904000_1809",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595982418373",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/171__p8373___wa_chat_595982418373_4145",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595973603000",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/139__p3000___wa_chat_595973603000_9873",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595983698281",
+      "provisional_name": "neko_friend",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/neko_friend___wa_chat_595983698281_9914",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981700045",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/164__p0045___wa_chat_595981700045_3657",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595992749480",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/243__p9480___wa_chat_595992749480_10506",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "33783552870",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/105__p2870___wa_chat_33783552870_2215",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595981375463",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/157__p5463___wa_chat_595981375463_9165",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595983380156",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/181__p0156___wa_chat_595983380156_3701",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595971179825",
+      "provisional_name": "johana_candidate",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/johana_candidate___wa_chat_595971179825_3698",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595972116024",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/133__p6024___wa_chat_595972116024_1306",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595984626802",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/191__p6802___wa_chat_595984626802_1720",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595985208778",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/201__p8778___wa_chat_595985208778_1946",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595991952375",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/233__p2375___wa_chat_595991952375_10863",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595994883857",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/250__p3857___wa_chat_595994883857_11673",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595986110595",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/212__consultorio_duerksen___wa_chat_595986110595_1767",
+      "tier": "untiered_personal"
+    },
+    {
+      "jid": "595983435779",
+      "provisional_name": "",
+      "current_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/182__p5779___wa_chat_595983435779_11525",
+      "tier": "untiered_personal"
+    }
+  ]
+}
