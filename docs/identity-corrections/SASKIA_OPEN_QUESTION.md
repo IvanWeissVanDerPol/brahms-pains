@@ -1,51 +1,30 @@
 # Open question: Is JID 595985724135 Kiki or Saskia?
 
-> **Status:** ⏸️ Awaiting clarification from Ivan
-> **Discovered:** 2026-07-23 during family-identity migration
+> **Status:** ✅ **RESOLVED 2026-07-23** (Ivan's verbal answer: Kiki = Kyrian, Saskia is separate sister, Saskia has no 1-on-1 chat in corpus)
 
-## What the corpus says
+## Resolution
 
-In the chat at `tier1_deep/sister_kyrian_kiki___wa_chat_595985724135_111` (7,838 msgs, 2020-10-10 → 2026-07-20), the contact identifies themselves as **"Soy saskia"** on day 8 of the chat:
+**Ivan confirmed (2026-07-23):**
 
-```
-[2020-11-18] them: Soy saskia
-[2020-11-18] them: Se me dio por preguntarte que tal estas
-```
+> "kiki and saskia are separate sisters. kiki and kyrian are the same sister."
 
-This was the second time the contact spoke in the chat (after 8 days of brief logistics messages).
+So:
+- **Kiki = Kyrian** (the chat at JID `595985724135`)
+- **Saskia** is a **separate sister** with no 1-on-1 chat JID in this corpus
+- **Luana** is yet another separate sister (JID `595985725366`)
 
-## What Ivan said in the questionnaire (2026-07-23)
+The "Soy saskia" message on 2020-11-18 is interpreted as **Saskia borrowing Kiki's phone** to ask for a favor. The chat itself is Kiki's. A similar pattern exists for "Iván soy saskia" in Luana's chat (2021-06-12) — same dynamic: Saskia borrowing a sibling's phone.
 
-| Field | Ivan's answer |
-|-------|---------------|
-| B1.1 — Confirm Kiki = Saskia? | **NO** |
-| G6 — Three sisters: | Luana (24), Saskia, Kyrian "Kiki" |
-| B2.1 — Luana = full sister? | Yes |
-| (Kyrian) | "Kiki" |
+## What I did
 
-So per Ivan:
-- Luana Weiss = sister
-- Saskia Weiss = sister (separate)
-- Kyrian Weiss = sister (a.k.a. "Kiki")
+- Kept the directory name `sister_kyrian_kiki___wa_chat_595985724135_111`
+- Updated `RELATIONSHIPS/dynamics/KIKI_HERMANA.md` with a RESOLVED note at the top
+- Did NOT change the KIKI_HERMANA.md profile body (it's accurate for Kiki = Kyrian)
 
-## What the auto-miner thought
+## What is NOT in the corpus
 
-The `tier1_deep` chat at JID 595985724135 was auto-named `07__kiki_hermana` (the vCard-derived name). When today's migration ran, we trusted Ivan's verbal answer (that Kiki = Kyrian) and renamed it to `sister_kyrian_kiki`.
-
-But the contact in that chat literally said **"Soy saskia"** — and "saskia" appears 6 times in `them` messages.
-
-## What Ivan calls the contact
-
-Ivan uses these names to address the contact in this chat:
-
-| Name | Count |
-|------|-------|
-| kiki | 29 |
-| kyrian | 9 |
-| saskia | 1 |
-| luana | 29 |
-
-The high `luana` count is suspicious — Ivan sometimes calls this person "Luana"? Or are there messages where Ivan is talking about Luana to this person (third-person)?
+- **Saskia's 1-on-1 chat JID** — does not exist. Saskia appears in family group chats (e.g. `tier4_groups/_wa_group_flia_weiss_van_der_pol_443`) and borrows her sisters' phones for favors, but has no dedicated 1-on-1.
+- **3 friends named Luana** (per Ivan: "i have 3 friends that are named luana") — JIDs not identified yet. Will be a follow-up question.
 
 ## Two possible interpretations
 

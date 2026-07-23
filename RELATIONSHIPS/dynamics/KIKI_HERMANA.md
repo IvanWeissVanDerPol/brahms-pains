@@ -1,6 +1,6 @@
 # Kiki (hermana)
 
-> **⚠️ IDENTITY QUESTION (2026-07-23):** This profile documents JID 595985724135. The contact identifies themselves as "Soy saskia" early in the chat (2020-11-18), but Ivan confirmed in his questionnaire that "Kiki ≠ Saskia" — they're separate sisters. Two possible explanations: (1) the chat is with Kiki (Kyrian) and the "Soy saskia" is a one-time borrowing of a sibling's phone, OR (2) Ivan's answer was wrong and Kiki is actually Saskia. See `docs/identity-corrections/SASKIA_OPEN_QUESTION.md` for the full analysis. **DO NOT trust the auto-miner's "Luana Weiss" inference in this profile's header — Ivan confirmed Luana is a separate sister (24, JID 595985725366).**
+> **RESOLVED 2026-07-23:** Per Ivan: Kiki and Saskia are **separate sisters**. Kiki's real name is **Kyrian Weiss**, JID `595985724135`. The "Soy saskia" message on 2020-11-18 is Saskia borrowing Kiki's phone to ask for a favor — the chat itself is Kiki's. Saskia has no 1-on-1 chat JID in this corpus. See `docs/identity-corrections/SASKIA_OPEN_QUESTION.md` for the resolution.
 
 ## Overview
 

@@ -1,6 +1,8 @@
 # Luana Weiss (sister, age 24)
 
 > **Confirmed by Ivan (2026-07-23):** Luana Weiss = Ivan's full sister, age 24. JID 595985725366, 2,788 msgs, 2020-10-12 → 2026-07. Per Ivan: "luana saskia and kiryan (kiki) are all my sisters". Chat renamed from `tier2_core/18__luana_weiss___wa_chat_595985725366_99` to `sister_luana_weiss___wa_chat_595985725366_99` (2026-07-23).
+>
+> **Note (2026-07-23):** Ivan mentioned "i have 3 friends that are named luana" — these are 3 different people, **not** this Luana. JIDs not yet identified in the corpus. Will need separate identification.
 
 ## Overview
 

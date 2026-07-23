@@ -69,6 +69,9 @@ Per Ivan: **Uncles = Tony, Gerold, Julio, Roberto, Rene, Ester**
 
 - Kiki = **Kyrian** (not Saskia)
 - Mica is Kiki's cousin too
+- **JID 595985724135 = Kiki/Kyrian** (confirmed by Ivan 2026-07-23 — the "Soy saskia" message on 2020-11-18 was Saskia borrowing Kiki's phone)
+- Saskia is a **separate sister** with no 1-on-1 chat JID in this corpus
+- Ivan also mentioned "i have 3 friends that are named luana" — these are 3 different people, NOT his sister. JIDs to be identified.
 
 ### G10. Ivan's own vCard entry
 
