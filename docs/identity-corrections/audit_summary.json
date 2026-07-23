@@ -1,0 +1,714 @@
+{
+  "generated_at": "2026-07-23 14:20:30.153476",
+  "family_contacts": [
+    {
+      "jid": "595985724135",
+      "name": "kiki_hermana",
+      "conf": "VERIFIED",
+      "desc": "Kiki (Saskia) — sister. Blood relative. 4 groups shared. 7,838 msgs."
+    },
+    {
+      "jid": "15055778339",
+      "name": "Toni Weiss",
+      "conf": "VERIFIED_PHONEBOOK",
+      "desc": "Phonebook contact name: Toni Weiss. Email: Paragweiss@yahoo.com."
+    },
+    {
+      "jid": "595985725366",
+      "name": "Luana Weiss",
+      "conf": "VERIFIED_PHONEBOOK",
+      "desc": "Phonebook contact name: Luana Weiss."
+    },
+    {
+      "jid": "31612495139",
+      "name": "Riet van der Pol",
+      "conf": "VERIFIED_PHONEBOOK",
+      "desc": "Phonebook contact name: Riet van der Pol."
+    },
+    {
+      "jid": "595982850085",
+      "name": "Mica Weiss",
+      "conf": "VERIFIED_PHONEBOOK",
+      "desc": "Phonebook contact name: Mica Weiss."
+    },
+    {
+      "jid": "595994459555",
+      "name": "Jan van der Pol",
+      "conf": "VERIFIED_PHONEBOOK",
+      "desc": "Phonebook contact name: Jan van der Pol."
+    },
+    {
+      "jid": "595985786571",
+      "name": "Primo Gabriel",
+      "conf": "VERIFIED_PHONEBOOK",
+      "desc": "Phonebook contact name: Primo Gabriel."
+    }
+  ],
+  "family_chats": [
+    {
+      "chat": "tier1_deep/07__kiki_hermana___wa_chat_595985724135_111",
+      "jid": "595985724135",
+      "msgs": 7838,
+      "counts": {
+        "papa": 34,
+        "saskia": 6,
+        "mama": 77,
+        "kiki": 26,
+        "mica": 3,
+        "luana": 12,
+        "sonia": 45,
+        "prima": 1,
+        "papá": 4,
+        "gerold": 4,
+        "mamá": 20,
+        "abuelo": 1,
+        "tío": 6,
+        "tia": 1,
+        "abuela": 1,
+        "kyrian": 8,
+        "tía": 1,
+        "primo": 1
+      }
+    },
+    {
+      "chat": "tier1_deep/05__lourdes_youko_kurama___wa_chat_595981791823_1683",
+      "jid": "595981791823",
+      "msgs": 16905,
+      "counts": {
+        "mama": 2,
+        "papá": 7,
+        "madre": 5,
+        "kiki": 23,
+        "saskia": 2,
+        "abuela": 3,
+        "primo": 2,
+        "mamá": 5,
+        "sonia": 2,
+        "tía": 1,
+        "padre": 4,
+        "papa": 2,
+        "abuelo": 2,
+        "luana": 1
+      }
+    },
+    {
+      "chat": "tier1_deep/ami_school___wa_chat_595981225272_62",
+      "jid": "595981225272",
+      "msgs": 28457,
+      "counts": {
+        "mamá": 51,
+        "papa": 30,
+        "primo": 11,
+        "mama": 17,
+        "sonia": 28,
+        "abuela": 4,
+        "papá": 41,
+        "abuelo": 9,
+        "luana": 6,
+        "padre": 4,
+        "kiki": 16,
+        "saskia": 1,
+        "tía": 3,
+        "tia": 4,
+        "prima": 2,
+        "tío": 10,
+        "gerold": 1,
+        "mica": 9,
+        "madre": 1
+      }
+    },
+    {
+      "chat": "tier1_deep/jonathan_verdun___wa_chat_595971922708_3654",
+      "jid": "595971922708",
+      "msgs": 34526,
+      "counts": {
+        "mama": 16,
+        "papá": 9,
+        "papa": 35,
+        "kyrian": 46,
+        "abuelo": 6,
+        "madre": 6,
+        "sonia": 60,
+        "kiki": 221,
+        "mamá": 7,
+        "gerold": 19,
+        "tío": 2,
+        "tia": 4,
+        "luana": 5,
+        "padre": 5,
+        "abuela": 2,
+        "prima": 1
+      }
+    },
+    {
+      "chat": "tier1_deep/gabriel_g_curuguaty___wa_chat_595982515138_64",
+      "jid": "595982515138",
+      "msgs": 11305,
+      "counts": {
+        "sonia": 127,
+        "papa": 26,
+        "gerold": 15,
+        "mama": 14,
+        "kiki": 70,
+        "mamá": 17,
+        "tia": 1,
+        "luana": 26,
+        "saskia": 14,
+        "madre": 7,
+        "papá": 27,
+        "prima": 3,
+        "primo": 2,
+        "tío": 6,
+        "mica": 1,
+        "padre": 9,
+        "abuelo": 5,
+        "tía": 3,
+        "toni": 1,
+        "abuela": 1
+      }
+    },
+    {
+      "chat": "tier1_deep/10__alejandro_cabral___wa_chat_595972130867_49",
+      "jid": "595972130867",
+      "msgs": 23000,
+      "counts": {
+        "papa": 14,
+        "padre": 2,
+        "papá": 40,
+        "mamá": 6,
+        "luana": 4,
+        "sonia": 36,
+        "mama": 4,
+        "kyrian": 6,
+        "kiki": 12,
+        "saskia": 2,
+        "madre": 1,
+        "tía": 1,
+        "tío": 18,
+        "primo": 2,
+        "abuela": 1,
+        "prima": 1
+      }
+    },
+    {
+      "chat": "tier1_deep/laura_x___wa_chat_595976538689_3231",
+      "jid": "595976538689",
+      "msgs": 23105,
+      "counts": {
+        "madre": 10,
+        "mamá": 40,
+        "papá": 6,
+        "saskia": 3,
+        "luana": 4,
+        "kiki": 34,
+        "primo": 3,
+        "padre": 2,
+        "abuela": 3,
+        "sonia": 26,
+        "mama": 40,
+        "papa": 18,
+        "tío": 6,
+        "abuelo": 1,
+        "tía": 5,
+        "prima": 1
+      }
+    },
+    {
+      "chat": "tier2_core/guitar_friend___wa_chat_595985725871_86",
+      "jid": "595985725871",
+      "msgs": 4121,
+      "counts": {
+        "papa": 4,
+        "tía": 1,
+        "padre": 1,
+        "mama": 13,
+        "sonia": 13,
+        "kiki": 17,
+        "prima": 1,
+        "saskia": 5,
+        "mamá": 7,
+        "luana": 1,
+        "gerold": 1,
+        "mica": 2,
+        "papá": 6,
+        "kyrian": 1
+      }
+    },
+    {
+      "chat": "tier2_core/23__friend_uwu___wa_chat_595985340001_2439",
+      "jid": "595985340001",
+      "msgs": 4098,
+      "counts": {
+        "sonia": 26,
+        "kiki": 13,
+        "papá": 1,
+        "mamá": 3,
+        "prima": 2,
+        "madre": 3,
+        "luana": 3
+      }
+    },
+    {
+      "chat": "tier2_core/31__toni_weiss___wa_chat_15055778339_2872",
+      "jid": "15055778339",
+      "msgs": 598,
+      "counts": {
+        "tío": 8,
+        "sonia": 7,
+        "kyrian": 2,
+        "padre": 2,
+        "kiki": 1
+      }
+    },
+    {
+      "chat": "tier2_core/ann_kink___wa_chat_595991549029_1956",
+      "jid": "595991549029",
+      "msgs": 5155,
+      "counts": {
+        "mamá": 1,
+        "tia": 1,
+        "mama": 13,
+        "prima": 2,
+        "kiki": 6,
+        "primo": 1,
+        "papa": 3,
+        "madre": 1,
+        "sonia": 2
+      }
+    },
+    {
+      "chat": "tier2_core/22__friend_tiktok_share___wa_chat_595985249907_9628",
+      "jid": "595985249907",
+      "msgs": 2399,
+      "counts": {
+        "kiki": 6,
+        "papá": 9,
+        "papa": 2,
+        "tío": 4,
+        "prima": 2,
+        "mamá": 5,
+        "luana": 1,
+        "sonia": 2,
+        "abuela": 2
+      }
+    },
+    {
+      "chat": "tier2_core/14__friend_brasilia___wa_chat_595983822921_11297",
+      "jid": "595983822921",
+      "msgs": 3898,
+      "counts": {
+        "prima": 1,
+        "madre": 1,
+        "papa": 3,
+        "mama": 2,
+        "kiki": 13,
+        "sonia": 1
+      }
+    },
+    {
+      "chat": "tier2_core/33__kiki_adjacent___wa_chat_595993553949_12779",
+      "jid": "595993553949",
+      "msgs": 2525,
+      "counts": {
+        "kiki": 14,
+        "tía": 1,
+        "mamá": 4,
+        "primo": 2,
+        "papá": 1,
+        "luana": 4
+      }
+    },
+    {
+      "chat": "tier2_core/32__john___wa_chat_595986138387_1265",
+      "jid": "595986138387",
+      "msgs": 1864,
+      "counts": {
+        "kyrian": 16,
+        "kiki": 13,
+        "luana": 8,
+        "mikaela": 1,
+        "saskia": 7,
+        "sonia": 25,
+        "gerold": 7
+      }
+    },
+    {
+      "chat": "tier2_core/18__luana_weiss___wa_chat_595985725366_99",
+      "jid": "595985725366",
+      "msgs": 2788,
+      "counts": {
+        "luana": 12,
+        "saskia": 3,
+        "kyrian": 1,
+        "mamá": 8,
+        "sonia": 9,
+        "papa": 4,
+        "gerold": 2,
+        "kiki": 15,
+        "tía": 1,
+        "tío": 4,
+        "mama": 8
+      }
+    },
+    {
+      "chat": "tier2_core/fpuna_alvaro_alt___wa_chat_595986805654_1271",
+      "jid": "595986805654",
+      "msgs": 7392,
+      "counts": {
+        "kiki": 3,
+        "abuela": 10,
+        "papa": 7,
+        "sonia": 4,
+        "papá": 2,
+        "primo": 2,
+        "mica": 4,
+        "mama": 13,
+        "mamá": 5,
+        "abuelo": 4,
+        "prima": 1,
+        "padre": 1,
+        "saskia": 1,
+        "tío": 2
+      }
+    },
+    {
+      "chat": "tier2_core/16__friend_alvaro___wa_chat_595962291837_9625",
+      "jid": "595962291837",
+      "msgs": 4269,
+      "counts": {
+        "mamá": 21,
+        "papá": 14,
+        "kiki": 30,
+        "sonia": 2,
+        "papa": 2,
+        "abuela": 2,
+        "mama": 1,
+        "abuelo": 1
+      }
+    },
+    {
+      "chat": "tier3_extended/097__lid_854912___wa_lid_118262125854912_15538",
+      "jid": "118262125854912",
+      "msgs": 5060,
+      "counts": {
+        "sonia": 35,
+        "luana": 3,
+        "kiki": 11,
+        "madre": 21,
+        "tía": 7,
+        "mamá": 5,
+        "mama": 1,
+        "primo": 1,
+        "tia": 1
+      }
+    },
+    {
+      "chat": "tier3_extended/051__p5809___wa_chat_595985435809_11371",
+      "jid": "595985435809",
+      "msgs": 919,
+      "counts": {
+        "kiki": 12,
+        "sonia": 2,
+        "luana": 1,
+        "mama": 1,
+        "mamá": 1,
+        "abuelo": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_repair_cafe_page_16793",
+      "jid": "120363429001466032",
+      "msgs": 90,
+      "counts": {
+        "saskia": 28
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_saskias_coffe_ahop_14850",
+      "jid": "120363425742075687",
+      "msgs": 294,
+      "counts": {
+        "saskia": 11
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_familie_van_der_pol_497",
+      "jid": "31612495139-1475060030",
+      "msgs": 2248,
+      "counts": {
+        "saskia": 19,
+        "kyrian": 10,
+        "sonia": 17,
+        "papa": 16,
+        "mama": 5,
+        "luana": 18,
+        "prima": 2,
+        "kiki": 3
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_iin_fpuna_019_26",
+      "jid": "595983342745-1544023957",
+      "msgs": 32635,
+      "counts": {
+        "padre": 7,
+        "abuela": 2,
+        "papa": 7,
+        "papá": 10,
+        "madre": 7,
+        "tío": 14,
+        "mamá": 5,
+        "primo": 4,
+        "prima": 3,
+        "mama": 2,
+        "tía": 1,
+        "tia": 1,
+        "abuelo": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_amigos_de_las_locuras_swinger_11642",
+      "jid": "595971692433-1578015622",
+      "msgs": 16834,
+      "counts": {
+        "madre": 5,
+        "papa": 11,
+        "padre": 2,
+        "mamá": 12,
+        "tío": 6,
+        "prima": 1,
+        "tia": 3,
+        "papá": 6,
+        "mama": 13,
+        "abuela": 1,
+        "mica": 2,
+        "abuelo": 1,
+        "tía": 2
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_nyx_consultancy_13493",
+      "jid": "120363424527484092",
+      "msgs": 148,
+      "counts": {
+        "mamá": 6,
+        "abuela": 6,
+        "madre": 1,
+        "tía": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_nexa-paraguay_14983",
+      "jid": "120363405360232587",
+      "msgs": 991,
+      "counts": {
+        "sonia": 92,
+        "luana": 35,
+        "kyrian": 7,
+        "tia": 1,
+        "kiki": 14,
+        "mamá": 5
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_sarah_s_neon_furry_b-day_party_13138",
+      "jid": "120363422587468210",
+      "msgs": 2838,
+      "counts": {
+        "mamá": 7,
+        "abuela": 6,
+        "abuelo": 3,
+        "padre": 1,
+        "madre": 3,
+        "tío": 2,
+        "primo": 1,
+        "papá": 2,
+        "mama": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_forest_park_16369",
+      "jid": "120363427403036380",
+      "msgs": 429,
+      "counts": {
+        "kiki": 8,
+        "sonia": 9,
+        "luana": 1,
+        "kyrian": 8
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_wpg_team_1214",
+      "jid": "595976351903-1486146535",
+      "msgs": 2044,
+      "counts": {
+        "abuela": 4,
+        "mamá": 7,
+        "mama": 1,
+        "sonia": 5,
+        "gerold": 9,
+        "madre": 2,
+        "papa": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_somos_gay_17065",
+      "jid": "120363428524364671",
+      "msgs": 391,
+      "counts": {
+        "kiki": 12,
+        "luana": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_ai_whisperers_11544",
+      "jid": "120363404918156195",
+      "msgs": 2425,
+      "counts": {
+        "luana": 8,
+        "kyrian": 11,
+        "papa": 1,
+        "sonia": 9,
+        "kiki": 23,
+        "mamá": 2,
+        "gerold": 4,
+        "saskia": 2,
+        "papá": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_primos_weiss_5233",
+      "jid": "120363208329203237",
+      "msgs": 2175,
+      "counts": {
+        "luana": 5,
+        "tío": 12,
+        "mamá": 11,
+        "kiki": 8,
+        "papá": 8,
+        "mama": 6,
+        "tía": 3,
+        "sonia": 6,
+        "abuela": 3,
+        "saskia": 6,
+        "papa": 4,
+        "primo": 2,
+        "riet": 1,
+        "tia": 6,
+        "prima": 1,
+        "kyrian": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_pasen_las_fotos_1452",
+      "jid": "120363022326399562",
+      "msgs": 29646,
+      "counts": {
+        "papa": 12,
+        "mama": 13,
+        "luana": 1,
+        "kiki": 5,
+        "papá": 33,
+        "mamá": 20,
+        "abuela": 3,
+        "madre": 17,
+        "saskia": 6,
+        "primo": 9,
+        "padre": 2,
+        "gerold": 1,
+        "prima": 2,
+        "tío": 8,
+        "tía": 4,
+        "sonia": 3,
+        "tia": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_shitpoliposting_39",
+      "jid": "595984160109-1553289986",
+      "msgs": 7518,
+      "counts": {
+        "papá": 15,
+        "tío": 14,
+        "prima": 2,
+        "mamá": 8,
+        "papa": 1,
+        "abuela": 6,
+        "madre": 2,
+        "abuelo": 4,
+        "primo": 1,
+        "mama": 1
+      }
+    },
+    {
+      "chat": "_dropped/_wa_group_dentista_gabi_15956",
+      "jid": "120363407614192971",
+      "msgs": 1113,
+      "counts": {
+        "kiki": 26,
+        "sonia": 5
+      }
+    },
+    {
+      "chat": "other_lid/lid_532196___wa_lid_206588111532196_14798",
+      "jid": "206588111532196",
+      "msgs": 3825,
+      "counts": {
+        "mamá": 33,
+        "abuelo": 1,
+        "papá": 8,
+        "abuela": 3,
+        "kiki": 4,
+        "tía": 6,
+        "tío": 2,
+        "tia": 1
+      }
+    },
+    {
+      "chat": "other_lid/lid_425545___wa_lid_113090817425545_13053",
+      "jid": "113090817425545",
+      "msgs": 15598,
+      "counts": {
+        "mamá": 75,
+        "madre": 5,
+        "kiki": 23,
+        "abuelo": 3,
+        "abuela": 18,
+        "tía": 14,
+        "tío": 26,
+        "prima": 9,
+        "saskia": 6,
+        "kyrian": 2,
+        "papa": 2,
+        "papá": 2,
+        "sonia": 2,
+        "padre": 1,
+        "mama": 1
+      }
+    },
+    {
+      "chat": "other_lid/lid_967999___wa_lid_96606732967999_13130",
+      "jid": "96606732967999",
+      "msgs": 2151,
+      "counts": {
+        "papá": 3,
+        "kiki": 14,
+        "mamá": 3,
+        "tia": 1,
+        "prima": 1,
+        "sonia": 3,
+        "papa": 1
+      }
+    },
+    {
+      "chat": "other_lid/lid_946676___wa_lid_154288881946676_13498",
+      "jid": "154288881946676",
+      "msgs": 3539,
+      "counts": {
+        "kiki": 25,
+        "toni": 1,
+        "kyrian": 1
+      }
+    }
+  ]
+}
