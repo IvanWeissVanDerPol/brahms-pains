@@ -1,0 +1,138 @@
+{
+  "generated_at": "2026-07-23 17:38:05.743100",
+  "total_proposals": 8,
+  "proposals": [
+    {
+      "tier": "tier1_deep",
+      "old_dir": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/sister_kyrian_kiki___wa_chat_595985724135_111",
+      "new_dir": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/saskia____wa_chat_595985724135_111",
+      "jid": "595985724135",
+      "msgs": 7838,
+      "suggested_name": "saskia",
+      "score": 5.0,
+      "self_intro": {
+        "saskia": 5
+      },
+      "mentions": {},
+      "all_candidates": {
+        "saskia": 5.0
+      }
+    },
+    {
+      "tier": "tier3_extended",
+      "old_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/084__p6193___wa_chat_595991506193_3099",
+      "new_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/kyrian____wa_chat_595991506193_3099",
+      "jid": "595991506193",
+      "msgs": 243,
+      "suggested_name": "kyrian",
+      "score": 5.0,
+      "self_intro": {
+        "kyrian": 5
+      },
+      "mentions": {
+        "sonia": 1
+      },
+      "all_candidates": {
+        "kyrian": 5.0,
+        "sonia": 1.0
+      }
+    },
+    {
+      "tier": "tier3_extended",
+      "old_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/064__p3004___wa_chat_595985383004_10373",
+      "new_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/elias____wa_chat_595985383004_10373",
+      "jid": "595985383004",
+      "msgs": 40,
+      "suggested_name": "elias",
+      "score": 5.0,
+      "self_intro": {
+        "elias": 5
+      },
+      "mentions": {},
+      "all_candidates": {
+        "elias": 5.0
+      }
+    },
+    {
+      "tier": "tier3_extended",
+      "old_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/080__p4090___wa_chat_50230574090_10146",
+      "new_dir": "SOURCE_OF_TRUTH/wa_messages/tier3_extended/juan____wa_chat_50230574090_10146",
+      "jid": "50230574090",
+      "msgs": 91,
+      "suggested_name": "juan",
+      "score": 5.0,
+      "self_intro": {
+        "juan": 5
+      },
+      "mentions": {},
+      "all_candidates": {
+        "juan": 5.0
+      }
+    },
+    {
+      "tier": "untiered_personal",
+      "old_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/132__p4371___wa_chat_595972104371_9036",
+      "new_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/cesar____wa_chat_595972104371_9036",
+      "jid": "595972104371",
+      "msgs": 84,
+      "suggested_name": "cesar",
+      "score": 5.0,
+      "self_intro": {
+        "cesar": 5
+      },
+      "mentions": {},
+      "all_candidates": {
+        "cesar": 5.0
+      }
+    },
+    {
+      "tier": "untiered_personal",
+      "old_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/251__p2000___wa_chat_595994902000_10305",
+      "new_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/alejandra____wa_chat_595994902000_10305",
+      "jid": "595994902000",
+      "msgs": 161,
+      "suggested_name": "alejandra",
+      "score": 5.0,
+      "self_intro": {
+        "alejandra": 5
+      },
+      "mentions": {},
+      "all_candidates": {
+        "alejandra": 5.0
+      }
+    },
+    {
+      "tier": "untiered_personal",
+      "old_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/113__p2999___wa_chat_595971102999_2992",
+      "new_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/angel____wa_chat_595971102999_2992",
+      "jid": "595971102999",
+      "msgs": 59,
+      "suggested_name": "angel",
+      "score": 5.0,
+      "self_intro": {
+        "angel": 5
+      },
+      "mentions": {},
+      "all_candidates": {
+        "angel": 5.0
+      }
+    },
+    {
+      "tier": "untiered_personal",
+      "old_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/224__p1669___wa_chat_595991381669_6911",
+      "new_dir": "SOURCE_OF_TRUTH/wa_messages/untiered_personal/alejandra____wa_chat_595991381669_6911",
+      "jid": "595991381669",
+      "msgs": 90,
+      "suggested_name": "alejandra",
+      "score": 5.0,
+      "self_intro": {
+        "alejandra": 5
+      },
+      "mentions": {},
+      "all_candidates": {
+        "alejandra": 5.0
+      }
+    }
+  ],
+  "skipped": 148
+}
