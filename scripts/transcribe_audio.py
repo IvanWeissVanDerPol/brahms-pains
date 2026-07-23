@@ -300,11 +300,16 @@ def write_outputs(opus: Path, info: dict) -> tuple[Path, Path]:
 
 
 def discover(limit: Optional[int] = None) -> list[Path]:
-    """All PTT-*.opus that don't have a matching .txt or .FAILED yet."""
+    """All PTT-*.opus that don't have a matching .txt or .FAILED yet.
+
+    Sorted by file size (ascending) so small voice notes are processed
+    first, providing faster progress feedback. Long recordings (voice
+    memos, multi-minute) are processed last.
+    """
     if not MEDIA_DIR.exists():
         print(f"❌ Audio dir not found: {MEDIA_DIR}", file=sys.stderr)
         return []
-    opus_files = sorted(MEDIA_DIR.rglob("*.opus"))
+    opus_files = list(MEDIA_DIR.rglob("*.opus"))
     todo = []
     for o in opus_files:
         out_dir = human_dir_for(o.parent.name)
@@ -319,6 +324,9 @@ def discover(limit: Optional[int] = None) -> list[Path]:
             except Exception:
                 pass
         todo.append(o)
+    # Sort by file size (small first) so short voice notes complete quickly,
+    # giving the viewer a populated dataset within minutes rather than hours.
+    todo.sort(key=lambda p: p.stat().st_size)
     if limit:
         todo = todo[:limit]
     return todo
