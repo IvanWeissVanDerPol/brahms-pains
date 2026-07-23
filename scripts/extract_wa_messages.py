@@ -25,7 +25,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 DB = "/data/media/phone-extract/wa/Databases/msgstore-latest-2026-07-20T14.db"
-OUT_ROOT = Path("/home/ai-whisperers/psychology-integration/psycology/SOURCE_OF_TRUTH/wa_messages")
+OUT_ROOT = Path(__file__).resolve().parent.parent / "SOURCE_OF_TRUTH" / "wa_messages"
 MIN_MESSAGES_PER_CHAT = 1  # keep everything; empty chats already skipped
 
 

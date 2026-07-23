@@ -1,0 +1,87 @@
+{
+  "chat_id": 2041,
+  "slug": "_wa_chat_595984708142_2041",
+  "subject": null,
+  "jid_user": "595984708142",
+  "jid_server": "s.whatsapp.net",
+  "jid_raw": "595984708142@s.whatsapp.net",
+  "message_count": 6,
+  "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+  "source_db": "msgstore-latest-2026-07-20T14.db",
+  "messages": [
+    {
+      "id": 1331696,
+      "key_id": "69034C2A41604D53FEED921233811805",
+      "ts_ms": 1722365539887,
+      "ts_iso": "2024-07-30T18:52:19.887000+00:00",
+      "from_me": true,
+      "sender_jid": null,
+      "type": 0,
+      "text": "ME pasas la info para aplicar porfis :)",
+      "starred": false
+    },
+    {
+      "id": 1331730,
+      "key_id": "CC7FFB78D4BF1BBCC025B0CE78565356",
+      "ts_ms": 1722367614000,
+      "ts_iso": "2024-07-30T19:26:54+00:00",
+      "from_me": false,
+      "sender_jid": null,
+      "type": 0,
+      "text": "+595 985 523033",
+      "starred": false
+    },
+    {
+      "id": 1331731,
+      "key_id": "F7D509C6D3E41DC51C9954D8A8003FB4",
+      "ts_ms": 1722367614000,
+      "ts_iso": "2024-07-30T19:26:54+00:00",
+      "from_me": false,
+      "sender_jid": null,
+      "type": 0,
+      "text": "Alexander Bogado se llama",
+      "starred": false
+    },
+    {
+      "id": 1331732,
+      "key_id": "2C9C95C82980C91AB12EAD1BA2FEE82D",
+      "ts_ms": 1722367614000,
+      "ts_iso": "2024-07-30T19:26:54+00:00",
+      "from_me": false,
+      "sender_jid": null,
+      "type": 0,
+      "text": "Él te va a estar dando más info de la vacante",
+      "starred": false
+    },
+    {
+      "id": 1331733,
+      "key_id": "8ACB5F42417987DD215A751E8B5BD0ED",
+      "ts_ms": 1722367633000,
+      "ts_iso": "2024-07-30T19:27:13+00:00",
+      "from_me": false,
+      "sender_jid": null,
+      "type": 0,
+      "text": "Buenas, me pasaron este contacto",
+      "starred": false
+    },
+    {
+      "id": 1331745,
+      "key_id": "E99FA1001C27962B489CD561E4F98CEB",
+      "ts_ms": 1722368377749,
+      "ts_iso": "2024-07-30T19:39:37.749000+00:00",
+      "from_me": true,
+      "sender_jid": null,
+      "type": 0,
+      "text": "Gracias:)",
+      "starred": false
+    }
+  ],
+  "__provisional_name": {
+    "name": "p_dropped_3",
+    "confidence": "LOW",
+    "jid_user": "595984708142",
+    "banner": "⚠️ PROVISIONAL NAME — pending Ivan's confirmation. Confidence: LOW. Reversible via git revert.",
+    "set_at": "2026-07-22",
+    "set_by": "chore/contact-circle-analysis branch"
+  }
+}

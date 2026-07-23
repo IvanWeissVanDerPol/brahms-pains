@@ -77,6 +77,15 @@ psycology/
 | Deep diving | [Core Wounds](CORE_PSYCHOLOGY/wounds/) |
 | Quick overview | [Quick Reference for Clinicians](QUICK_REFERENCE/FOR_CLINICIANS.md) |
 
+### WhatsApp corpus (July 2026)
+
+The WhatsApp backup was decrypted and extracted into `SOURCE_OF_TRUTH/wa_messages/`. Two complementary views:
+
+- **Tiers** (`tier1_deep/`, `tier2_core/`, `tier3_extended/`, etc.) — priority by message volume.
+- **Circles** (`circles/`) — Ivan's friend circles via group co-membership analysis. Inner Circle / Family / FPUNA / PyTesting.
+
+See [`SOURCE_OF_TRUTH/wa_messages/INDEX.md`](SOURCE_OF_TRUTH/wa_messages/INDEX.md), [`_ANALYSIS/CONTACT_CIRCLES.md`](SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/CONTACT_CIRCLES.md), and [`_ANALYSIS/CONTACTS_NAMED.md`](SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/CONTACTS_NAMED.md).
+
 ---
 
 ## Key Concepts

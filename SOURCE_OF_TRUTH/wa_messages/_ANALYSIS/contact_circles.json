@@ -1,0 +1,2400 @@
+{
+  "version": 2,
+  "generated": "2026-07-22",
+  "method": "group_co_membership_jaccard_v2_silent_groups",
+  "thresholds": {
+    "jaccard_min": 0.3,
+    "shared_groups_min": 2,
+    "min_groups_for_inclusion": 2
+  },
+  "group_activity": {
+    "active": 81,
+    "silent_12mo_plus": 46,
+    "empty_ivan_never_spoke": 44,
+    "total_groups_analyzed": 171
+  },
+  "summary": {
+    "total_chats": 948,
+    "contacts_with_group_membership": 146,
+    "clusters": 7,
+    "singletons": 15,
+    "circle_distribution": {
+      "fpuna_cs_classmates": 60,
+      "pytesting_community": 14,
+      "family_weiss_vdp": 3,
+      "inner_circle_casa_weiss": 3,
+      "other_contacts": 1
+    }
+  },
+  "contacts": [
+    {
+      "jid": "595972130867@s.whatsapp.net",
+      "n_groups": 26,
+      "msgs": 23000,
+      "chat_slug": "_wa_chat_595972130867_49",
+      "tier": "tier1_deep",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "AGI is cumming",
+        "Apuesta",
+        "Casa stuff ",
+        "Casa weiss (internal)",
+        "Compiladores 2024",
+        "Copias",
+        "Cuarteto el 15/06 \u2728",
+        "D&D",
+        "Excursion bdsm ytu?",
+        "Funhouse\ud83c\udf89",
+        "Give Back Program - Cpk",
+        "Grupo de pizza gratis\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "IIN Gaming Club 019",
+        "Ideas de proyectos info",
+        "Jojo gym",
+        "LA CASA \ud83c\udfe1",
+        "Lan party 11/02",
+        "Mamados club",
+        "Pasen las fotos",
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d",
+        "Stoic Finch - Latam \ud83d\udcc8",
+        "Workshop: Desarrolla tu portafolio web con Astro \u2600\ufe0f\ud83d\udcbb",
+        "cosas de casa"
+      ]
+    },
+    {
+      "jid": "595986805654@s.whatsapp.net",
+      "n_groups": 23,
+      "msgs": 7392,
+      "chat_slug": "_wa_chat_595986805654_1271",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "AGI is cumming",
+        "Apuesta",
+        "Becas erasmus+ FPUNA \ud83c\uddf1\ud83c\uddfa\ud83c\uddf5\ud83c\uddfe",
+        "CI_24 [Voluntarios]",
+        "Compiladores 2024",
+        "Copias",
+        "Cuarteto el 15/06 \u2728",
+        "D&D",
+        "Ejercicios compi ",
+        "GCC 2023",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "IIN Gaming Club 019",
+        "IS3 2024",
+        "Ingenier\u00eda En Inform\u00e1tica",
+        "Lan party 11/02",
+        "Mamados club",
+        "ORGANIZACI\u00d3N CI24",
+        "Py Testing Community",
+        "Saquenme de latinoamerica",
+        "este grupo se autodestruir\u00e1 en 20min"
+      ]
+    },
+    {
+      "jid": "595981925772@s.whatsapp.net",
+      "n_groups": 21,
+      "msgs": 4230,
+      "chat_slug": "_wa_chat_595981925772_1253",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Becas erasmus+ FPUNA \ud83c\uddf1\ud83c\uddfa\ud83c\uddf5\ud83c\uddfe",
+        "Casa stuff ",
+        "Club de Info GRAL ",
+        "Compiladores 2024",
+        "Ejercicios compi ",
+        "Emergentes 2023",
+        "Emergentes grupo 7",
+        "Excursion bdsm ytu?",
+        "FPUNA Ciberseguridad 2024",
+        "GCC 2023",
+        "Grupo de pizza gratis\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "Ideas de proyectos info",
+        "Introducci\u00f3n al Aseguramiento de la Calidad y Automatizaci\u00f3n",
+        "Los m\u00e1s paraguayos - solo amigos permitidos",
+        "ML 2023-1 ",
+        "Ml grupo",
+        "Pasen las fotos",
+        "Saquenme de latinoamerica",
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595984933862@s.whatsapp.net",
+      "n_groups": 20,
+      "msgs": 2877,
+      "chat_slug": "_wa_chat_595984933862_1330",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "CdR FP UNA  #\ud83c\udf55\ud83e\udd16\ud83d\udcaa\ud83c\udffb",
+        "Club de Info GRAL ",
+        "Comit\u00e9 de Cursos & Charlas - CS  \ud83d\udde3\ufe0f\ud83d\udda5\ufe0f",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "IEEEXtreme - Interesados UNA",
+        "IEEEXtreme 17.0 - Student Branch UNA",
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 2015-2021",
+        "ML 2023-1 ",
+        "NASA Space Apps IEEE Computer Society",
+        "NSAC Asunci\u00f3n 2023 - Participantes",
+        "ORGANIZACI\u00d3N CI24",
+        "Saquenme de latinoamerica",
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d",
+        "Stoic Finch - Latam \ud83d\udcc8",
+        "Workshop: Desarrolla tu portafolio web con Astro \u2600\ufe0f\ud83d\udcbb",
+        "\u2744\ufe0f Cursos de Invierno 2023",
+        "\u2744\ufe0fCI2023 - Voluntarios General",
+        "\ud83c\uddf5\ud83c\uddfe IEEEXtreme 18.0 Paraguay",
+        "\ud83c\uddf5\ud83c\uddfe MiniXtreme Program Py"
+      ]
+    },
+    {
+      "jid": "595991470829@s.whatsapp.net",
+      "n_groups": 18,
+      "msgs": 3157,
+      "chat_slug": "_wa_chat_595991470829_106",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Club de Info GRAL ",
+        "Compiladores sin profe",
+        "Emergentes 2023",
+        "GCC 2023",
+        "Groep IS3",
+        "Grupo de pizza gratis\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "IEEEXtreme - Interesados UNA",
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 2015-2021",
+        "Jojo gym",
+        "ML 2023-1 ",
+        "Ml grupo",
+        "Pasen las fotos",
+        "Py Testing Community",
+        "Saquenme de latinoamerica",
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d",
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595981868718@s.whatsapp.net",
+      "n_groups": 17,
+      "msgs": 3985,
+      "chat_slug": "_wa_chat_595981868718_92",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Becas erasmus+ FPUNA \ud83c\uddf1\ud83c\uddfa\ud83c\uddf5\ud83c\uddfe",
+        "Club de Info GRAL ",
+        "Ejercicios compi ",
+        "Emergentes 2023",
+        "FPUNA Ciberseguridad 2024",
+        "Front sin profe",
+        "GCC 2023",
+        "Grupo de pizza gratis\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "Ideas de proyectos info",
+        "Los m\u00e1s paraguayos - solo amigos permitidos",
+        "ML 2023-1 ",
+        "Pasen las fotos",
+        "Saquenme de latinoamerica",
+        "WSU Fpuna Meet"
+      ]
+    },
+    {
+      "jid": "595984160109@s.whatsapp.net",
+      "n_groups": 17,
+      "msgs": 2697,
+      "chat_slug": "_wa_chat_595984160109_1257",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "AGI is cumming",
+        "Apuesta",
+        "Club de Info GRAL ",
+        "Compiladores 2024",
+        "Copias",
+        "Cuarteto el 15/06 \u2728",
+        "D&D",
+        "Give Back Program - Cpk",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN Gaming Club 019",
+        "Ideas de proyectos info",
+        "Lan party 11/02",
+        "Saquenme de latinoamerica",
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d",
+        "WSU Fpuna Meet"
+      ]
+    },
+    {
+      "jid": "595971378035@s.whatsapp.net",
+      "n_groups": 17,
+      "msgs": 642,
+      "chat_slug": "_wa_chat_595971378035_1724",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Club de Info GRAL ",
+        "Comit\u00e9 de Cursos & Charlas - CS  \ud83d\udde3\ufe0f\ud83d\udda5\ufe0f",
+        "Compiladores sin profe",
+        "Front sin profe",
+        "GCC 2023",
+        "IA grupo de trabajo",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "IS3 SIN PROFES",
+        "Ingenier\u00eda En Inform\u00e1tica",
+        "Ingenier\u00eda En Inform\u00e1tica",
+        "ML 2023-1 ",
+        "Mamados club",
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d"
+      ]
+    },
+    {
+      "jid": "595982510082@s.whatsapp.net",
+      "n_groups": 16,
+      "msgs": 1432,
+      "chat_slug": "_wa_chat_595982510082_1723",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Club de Info GRAL ",
+        "Compiladores 2024",
+        "Copias",
+        "Cuarteto el 15/06 \u2728",
+        "Ejercicios compi ",
+        "Front sin profe",
+        "GCC 2023",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "IS3 2024",
+        "IS3 SIN PROFES",
+        "Ingenier\u00eda En Inform\u00e1tica",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595986186281@s.whatsapp.net",
+      "n_groups": 13,
+      "msgs": 467,
+      "chat_slug": "_wa_chat_595986186281_1292",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 IIN 2024",
+        "Emergentes 2023",
+        "Front sin profe",
+        "GCC 2023",
+        "Grupo de pizza gratis\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "IIN Gaming Club 019",
+        "IS3 SIN PROFES",
+        "Lan party 11/02",
+        "ML 2023-1 ",
+        "Pasen las fotos"
+      ]
+    },
+    {
+      "jid": "595984708142@s.whatsapp.net",
+      "n_groups": 13,
+      "msgs": 6,
+      "chat_slug": "_wa_chat_595984708142_2041",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 IIN 2024",
+        "Backend sin profe",
+        "Club de Info GRAL ",
+        "FPUNA Ciberseguridad 2024",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "IEEEXtreme - Interesados UNA",
+        "IEEEXtreme 17.0 - Student Branch UNA",
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "IS3 SIN PROFES",
+        "Ingenier\u00eda En Inform\u00e1tica",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595984328174@s.whatsapp.net",
+      "n_groups": 12,
+      "msgs": 54,
+      "chat_slug": "_wa_chat_595984328174_1729",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Backend sin profe",
+        "Compiladores 2024",
+        "Ejercicios compi ",
+        "Emergentes 2023",
+        "GCC 2023",
+        "Grupo de pizza gratis\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "IS3 SIN PROFES",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595971505289@s.whatsapp.net",
+      "n_groups": 11,
+      "msgs": 1420,
+      "chat_slug": "_wa_chat_595971505289_110",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "CdR FP UNA  #\ud83c\udf55\ud83e\udd16\ud83d\udcaa\ud83c\udffb",
+        "Club de Info GRAL ",
+        "Club de Rob\u00f3tica de la FP-UNA",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "Lan party 11/02",
+        "NASA Space Apps IEEE Computer Society",
+        "Saquenme de latinoamerica",
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d",
+        "WSU Fpuna Meet",
+        "\u2744\ufe0f Cursos de Invierno 2023",
+        "\u2744\ufe0fCI2023 - Voluntarios General"
+      ]
+    },
+    {
+      "jid": "595983738040@s.whatsapp.net",
+      "n_groups": 10,
+      "msgs": 343,
+      "chat_slug": "_wa_chat_595983738040_1270",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Apuesta",
+        "Compiladores 2024",
+        "D&D",
+        "Ejercicios compi ",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN Gaming Club 019",
+        "Lan party 11/02",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595972835716@s.whatsapp.net",
+      "n_groups": 10,
+      "msgs": 629,
+      "chat_slug": "_wa_chat_595972835716_1244",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Compiladores 2024",
+        "Emergentes 2023",
+        "FPUNA Ciberseguridad 2024",
+        "Front sin profe",
+        "Groep IS3",
+        "Grupo de pizza gratis\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "ML 2023-1 ",
+        "Pasen las fotos"
+      ]
+    },
+    {
+      "jid": "595961366892@s.whatsapp.net",
+      "n_groups": 10,
+      "msgs": 447,
+      "chat_slug": "_wa_chat_595961366892_1314",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Compiladores 2024",
+        "FPUNA Ciberseguridad 2024",
+        "Front sin profe",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "IIN Gaming Club 019",
+        "Lan party 11/02",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595984241789@s.whatsapp.net",
+      "n_groups": 10,
+      "msgs": 38,
+      "chat_slug": "_wa_chat_595984241789_1849",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Compiladores 2024",
+        "FPUNA Ciberseguridad 2024",
+        "Front sin profe",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "ML 2023-1 ",
+        "Mamados club",
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d"
+      ]
+    },
+    {
+      "jid": "595984690946@s.whatsapp.net",
+      "n_groups": 10,
+      "msgs": 18,
+      "chat_slug": "_wa_chat_595984690946_3704",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 IIN 2024",
+        "Club de Info GRAL ",
+        "Compiladores 2024",
+        "Emergentes 2023",
+        "Front sin profe",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d"
+      ]
+    },
+    {
+      "jid": "595982139653@s.whatsapp.net",
+      "n_groups": 8,
+      "msgs": 97,
+      "chat_slug": "_wa_chat_595982139653_1855",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Ciberseguridad grupo 3",
+        "Compiladores 2024",
+        "Emergentes 2023",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN Gaming Club 019",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595971179825@s.whatsapp.net",
+      "n_groups": 8,
+      "msgs": 39,
+      "chat_slug": "_wa_chat_595971179825_3698",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 2025",
+        "Comit\u00e9 de Cursos & Charlas - CS  \ud83d\udde3\ufe0f\ud83d\udda5\ufe0f",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "IEEEXtreme - Interesados UNA",
+        "IEEEXtreme 17.0 - Student Branch UNA",
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 019",
+        "Ingenier\u00eda En Inform\u00e1tica"
+      ]
+    },
+    {
+      "jid": "595991705424@s.whatsapp.net",
+      "n_groups": 7,
+      "msgs": 703,
+      "chat_slug": "_wa_chat_595991705424_1202",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Club de Info GRAL ",
+        "Front sin profe",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595971627803@s.whatsapp.net",
+      "n_groups": 7,
+      "msgs": 15,
+      "chat_slug": "_wa_chat_595971627803_1856",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Emergentes 2023",
+        "FPUNA Ciberseguridad 2024",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN Gaming Club 019",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595991730357@s.whatsapp.net",
+      "n_groups": 7,
+      "msgs": 41,
+      "chat_slug": "_wa_chat_595991730357_1791",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Front sin profe",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN Gaming Club 019",
+        "Lan party 11/02",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595976538689@s.whatsapp.net",
+      "n_groups": 6,
+      "msgs": 23105,
+      "chat_slug": "_wa_chat_595976538689_3231",
+      "tier": "tier1_deep",
+      "circle": "inner_circle_casa_weiss",
+      "groups": [
+        "Cuarteto el 15/06 \u2728",
+        "Funhouse\ud83c\udf89",
+        "IEEEXtreme - Interesados UNA",
+        "IEEEXtreme 17.0 - Student Branch UNA",
+        "LA CASA \ud83c\udfe1",
+        "La cumbre trip"
+      ]
+    },
+    {
+      "jid": "595982923913@s.whatsapp.net",
+      "n_groups": 6,
+      "msgs": 217,
+      "chat_slug": "_wa_chat_595982923913_4696",
+      "tier": "tier3_extended",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "ISTQB Brave and courageous",
+        "Py Testing Community",
+        "QE Meriendita!",
+        "QE yguazu falls trip",
+        "Team Isabelle MM"
+      ]
+    },
+    {
+      "jid": "595972124230@s.whatsapp.net",
+      "n_groups": 6,
+      "msgs": 3,
+      "chat_slug": "_wa_chat_595972124230_2295",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 IIN 2024",
+        "Ciberseguridad grupo 3",
+        "FPUNA Ciberseguridad 2024",
+        "IEEEXtreme - Interesados UNA",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595991469087@s.whatsapp.net",
+      "n_groups": 6,
+      "msgs": 5,
+      "chat_slug": "_wa_chat_595991469087_4649",
+      "tier": "_dropped",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "Py Testing Community",
+        "QE Meriendita!",
+        "QE yguazu falls trip",
+        "Samber +atyra",
+        "Team Isabelle MM"
+      ]
+    },
+    {
+      "jid": "595991700814@s.whatsapp.net",
+      "n_groups": 6,
+      "msgs": 11,
+      "chat_slug": "_wa_chat_595991700814_4652",
+      "tier": "_dropped",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "Py Testing Community",
+        "QE Meriendita!",
+        "QE yguazu falls trip",
+        "Samber +atyra",
+        "Team Isabelle MM"
+      ]
+    },
+    {
+      "jid": "595971194933@s.whatsapp.net",
+      "n_groups": 6,
+      "msgs": 15,
+      "chat_slug": "_wa_chat_595971194933_1719",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Compiladores 2024",
+        "Cuarteto el 15/06 \u2728",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595985733375@s.whatsapp.net",
+      "n_groups": 6,
+      "msgs": 85,
+      "chat_slug": "_wa_chat_595985733375_1831",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "D&D",
+        "Emergentes 2023",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN Gaming Club 019",
+        "Lan party 11/02"
+      ]
+    },
+    {
+      "jid": "595991381669@s.whatsapp.net",
+      "n_groups": 6,
+      "msgs": 90,
+      "chat_slug": "_wa_chat_595991381669_6911",
+      "tier": "untiered_personal",
+      "circle": "pytesting_community",
+      "groups": [
+        "CI_24 [Voluntarios]",
+        "CI_24 [Voluntarios]",
+        "Introducci\u00f3n al Aseguramiento de la Calidad y Automatizaci\u00f3n",
+        "ORGANIZACI\u00d3N CI24",
+        "Taller de Introducci\u00f3n QA [Instructores]",
+        "Talleres de Invierno IIN - LCIK \ud83e\udde3\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595991549029@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 5155,
+      "chat_slug": "_wa_chat_595991549029_1956",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Excursion bdsm ytu?",
+        "Los m\u00e1s paraguayos - solo amigos permitidos",
+        "Powerpoint Powe apps para Canad\u00e1 ",
+        "WSU BECAL-CPK Spring 2023",
+        "este grupo se autodestruir\u00e1 en 20min"
+      ]
+    },
+    {
+      "jid": "595983111686@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 604,
+      "chat_slug": "_wa_chat_595983111686_3524",
+      "tier": "tier2_core",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "Py Testing Community",
+        "QE Meriendita!",
+        "QE yguazu falls trip",
+        "Samber +atyra"
+      ]
+    },
+    {
+      "jid": "595973572212@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 2236,
+      "chat_slug": "_wa_chat_595973572212_1994",
+      "tier": "tier2_core",
+      "circle": "pytesting_community",
+      "groups": [
+        "Casa stuff ",
+        "Excursion bdsm ytu?",
+        "Py Testing Community",
+        "Stoic Finch - Latam \ud83d\udcc8",
+        "WSU BECAL-CPK Spring 2023"
+      ]
+    },
+    {
+      "jid": "595981459382@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 327,
+      "chat_slug": "_wa_chat_595981459382_4380",
+      "tier": "tier2_core",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "ISTQB Brave and courageous",
+        "Py Testing Community",
+        "QE Meriendita!",
+        "Samber +atyra"
+      ]
+    },
+    {
+      "jid": "595986129386@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 753,
+      "chat_slug": "_wa_chat_595986129386_1781",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Compiladores sin profe",
+        "Emergentes 2023",
+        "Groep IS3",
+        "IIN FPUNA 2015-2021",
+        "QE Meriendita!"
+      ]
+    },
+    {
+      "jid": "595961943357@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 612,
+      "chat_slug": "_wa_chat_595961943357_4695",
+      "tier": "tier3_extended",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "Py Testing Community",
+        "QE Meriendita!",
+        "QE yguazu falls trip",
+        "Team Isabelle MM"
+      ]
+    },
+    {
+      "jid": "595971784500@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 165,
+      "chat_slug": "_wa_chat_595971784500_2024",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 IIN 2024",
+        "Backend sin profe",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595972994744@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 30,
+      "chat_slug": "_wa_chat_595972994744_4768",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Club de Info GRAL ",
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595974465910@s.whatsapp.net",
+      "n_groups": 5,
+      "msgs": 92,
+      "chat_slug": "_wa_chat_595974465910_5322",
+      "tier": "untiered_personal",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "ISTQB Brave and courageous",
+        "QE Meriendita!",
+        "Samber +atyra",
+        "Team Isabelle MM"
+      ]
+    },
+    {
+      "jid": "595985724135@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 7838,
+      "chat_slug": "_wa_chat_595985724135_111",
+      "tier": "tier1_deep",
+      "circle": "family_weiss_vdp",
+      "groups": [
+        "Familie van der pol",
+        "LA CASA \ud83c\udfe1",
+        "La cumbre trip",
+        "Primos Weiss \u269d"
+      ]
+    },
+    {
+      "jid": "595985725366@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 2788,
+      "chat_slug": "_wa_chat_595985725366_99",
+      "tier": "tier2_core",
+      "circle": "family_weiss_vdp",
+      "groups": [
+        "Familie van der pol",
+        "La cumbre trip",
+        "Powerpoint Powe apps para Canad\u00e1 ",
+        "Primos Weiss \u269d"
+      ]
+    },
+    {
+      "jid": "595981258488@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 1327,
+      "chat_slug": "_wa_chat_595981258488_3525",
+      "tier": "tier2_core",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 2025",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "\u2744\ufe0fCI2023 - Voluntarios General"
+      ]
+    },
+    {
+      "jid": "595991357332@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 1468,
+      "chat_slug": "_wa_chat_595991357332_1958",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "Los m\u00e1s paraguayos - solo amigos permitidos",
+        "NASA Space Apps IEEE Computer Society",
+        "WSU BECAL-CPK Spring 2023"
+      ]
+    },
+    {
+      "jid": "595981656962@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 179,
+      "chat_slug": "_wa_chat_595981656962_3522",
+      "tier": "tier3_extended",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "Py Testing Community",
+        "QE Meriendita!",
+        "Samber +atyra"
+      ]
+    },
+    {
+      "jid": "595961525896@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 5,
+      "chat_slug": "_wa_chat_595961525896_120",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 IIN 2024",
+        "Club de Info GRAL ",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595972386499@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 3,
+      "chat_slug": "_wa_chat_595972386499_2475",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595972808418@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 7,
+      "chat_slug": "_wa_chat_595972808418_1858",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595982340951@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 18,
+      "chat_slug": "_wa_chat_595982340951_2272",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 IIN 2024",
+        "Emergentes grupo 7",
+        "FPUNA Ciberseguridad 2024",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595984264979@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 3,
+      "chat_slug": "_wa_chat_595984264979_2284",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Backend sin profe",
+        "Club de Info GRAL ",
+        "IIN FPUNA 2015-2021",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595971102999@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 59,
+      "chat_slug": "_wa_chat_595971102999_2992",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Comit\u00e9 de Cursos & Charlas - CS  \ud83d\udde3\ufe0f\ud83d\udda5\ufe0f",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "\u2744\ufe0fCI2023 - Voluntarios General",
+        "\ud83c\uddf5\ud83c\uddfe MiniXtreme Program Py"
+      ]
+    },
+    {
+      "jid": "595971190089@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 52,
+      "chat_slug": "_wa_chat_595971190089_5319",
+      "tier": "untiered_personal",
+      "circle": "pytesting_community",
+      "groups": [
+        "Baby Shower 02/03\ud83d\udc25",
+        "ISTQB Brave and courageous",
+        "QE Meriendita!",
+        "QE yguazu falls trip"
+      ]
+    },
+    {
+      "jid": "595972116024@s.whatsapp.net",
+      "n_groups": 4,
+      "msgs": 17,
+      "chat_slug": "_wa_chat_595972116024_1306",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "GCC 2023",
+        "IIN FPUNA 019",
+        "IIN Gaming Club 019",
+        "Lan party 11/02"
+      ]
+    },
+    {
+      "jid": "595985725871@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 4121,
+      "chat_slug": "_wa_chat_595985725871_86",
+      "tier": "tier2_core",
+      "circle": "family_weiss_vdp",
+      "groups": [
+        "Familie van der pol",
+        "Primos Weiss \u269d",
+        "Saquenme de latinoamerica"
+      ]
+    },
+    {
+      "jid": "595991797009@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 589,
+      "chat_slug": "_wa_chat_595991797009_1949",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Give Back Program - Cpk",
+        "Los m\u00e1s paraguayos - solo amigos permitidos",
+        "WSU BECAL-CPK Spring 2023"
+      ]
+    },
+    {
+      "jid": "595971545477@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 6,
+      "chat_slug": "_wa_chat_595971545477_2237",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 2025",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595982388158@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 11,
+      "chat_slug": "_wa_chat_595982388158_2097",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595983858997@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 12,
+      "chat_slug": "_wa_chat_595983858997_3598",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Club de Info GRAL ",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595986743708@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 6,
+      "chat_slug": "_wa_chat_595986743708_2274",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "Ingenier\u00eda En Inform\u00e1tica"
+      ]
+    },
+    {
+      "jid": "595971727980@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 27,
+      "chat_slug": "_wa_chat_595971727980_3616",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN - FPUNA - GRAL",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "Ingenier\u00eda En Inform\u00e1tica"
+      ]
+    },
+    {
+      "jid": "595976777023@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 33,
+      "chat_slug": "_wa_chat_595976777023_2027",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN FPUNA 019",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "ML 2023-1 "
+      ]
+    },
+    {
+      "jid": "595986445564@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 111,
+      "chat_slug": "_wa_chat_595986445564_7538",
+      "tier": "untiered_personal",
+      "circle": "pytesting_community",
+      "groups": [
+        "CI_24 [Voluntarios]",
+        "Introducci\u00f3n al Aseguramiento de la Calidad y Automatizaci\u00f3n",
+        "Taller de Introducci\u00f3n QA [Instructores]"
+      ]
+    },
+    {
+      "jid": "595992853154@s.whatsapp.net",
+      "n_groups": 3,
+      "msgs": 49,
+      "chat_slug": "_wa_chat_595992853154_2985",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Comit\u00e9 de Cursos & Charlas - CS  \ud83d\udde3\ufe0f\ud83d\udda5\ufe0f",
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728",
+        "\ud83c\uddf5\ud83c\uddfe MiniXtreme Program Py"
+      ]
+    },
+    {
+      "jid": "595986361808@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 537,
+      "chat_slug": "_wa_chat_595986361808_4032",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IEEEXtreme - Interesados UNA",
+        "Taller de Introducci\u00f3n QA [Instructores]"
+      ]
+    },
+    {
+      "jid": "595994442444@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 361,
+      "chat_slug": "_wa_chat_595994442444_9596",
+      "tier": "tier3_extended",
+      "circle": "inner_circle_casa_weiss",
+      "groups": [
+        "Casa weiss (internal)",
+        "Stoic Finch - Latam \ud83d\udcc8"
+      ]
+    },
+    {
+      "jid": "595984689143@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 126,
+      "chat_slug": "_wa_chat_595984689143_4130",
+      "tier": "tier3_extended",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "Ingenier\u00eda En Inform\u00e1tica"
+      ]
+    },
+    {
+      "jid": "13135550002@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 7,
+      "chat_slug": "_wa_chat_13135550002_10103",
+      "tier": "_dropped",
+      "circle": "inner_circle_casa_weiss",
+      "groups": [
+        "Funhouse\ud83c\udf89",
+        "\ud83d\udd31 \ud835\udc0f\ud835\udc22\ud835\udc2f\ud835\udc22\ud835\udc06\ud835\udc1a\ud835\udc26\ud835\udc1e\ud835\udc2c \ud835\udc06\ud835\udc1e\ud835\udc27\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc25 \ud83d\udcac"
+      ]
+    },
+    {
+      "jid": "595971722516@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 1,
+      "chat_slug": "_wa_chat_595971722516_8987",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb",
+        "Ingenier\u00eda En Inform\u00e1tica"
+      ]
+    },
+    {
+      "jid": "595971792390@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 1,
+      "chat_slug": "_wa_chat_595971792390_3634",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 2025",
+        "BD2 IIN 2024"
+      ]
+    },
+    {
+      "jid": "595973908532@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 5,
+      "chat_slug": "_wa_chat_595973908532_5713",
+      "tier": "_dropped",
+      "circle": "pytesting_community",
+      "groups": [
+        "Introducci\u00f3n al Aseguramiento de la Calidad y Automatizaci\u00f3n",
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595981685815@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 9,
+      "chat_slug": "_wa_chat_595981685815_1742",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN FPUNA 2015-2021",
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595982138376@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 1,
+      "chat_slug": "_wa_chat_595982138376_3731",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Give Back Program - Cpk",
+        "WSU BECAL-CPK Spring 2023"
+      ]
+    },
+    {
+      "jid": "595992222691@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 3,
+      "chat_slug": "_wa_chat_595992222691_2013",
+      "tier": "_dropped",
+      "circle": "pytesting_community",
+      "groups": [
+        "Py Testing Community",
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595992282576@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 39,
+      "chat_slug": "_wa_chat_595992282576_4231",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "CdR FP UNA  #\ud83c\udf55\ud83e\udd16\ud83d\udcaa\ud83c\udffb",
+        "IEEEXtreme - Interesados UNA"
+      ]
+    },
+    {
+      "jid": "595993598454@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 8,
+      "chat_slug": "_wa_chat_595993598454_2323",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Club de Info GRAL ",
+        "IIN FPUNA 2015-2021"
+      ]
+    },
+    {
+      "jid": "595994609417@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 7,
+      "chat_slug": "_wa_chat_595994609417_3721",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "FPUNA Ciberseguridad 2024",
+        "IS3 2024"
+      ]
+    },
+    {
+      "jid": "595994723736@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 4,
+      "chat_slug": "_wa_chat_595994723736_4838",
+      "tier": "_dropped",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IEEEXtreme - Interesados UNA",
+        "NSAC Asunci\u00f3n 2023 - Participantes"
+      ]
+    },
+    {
+      "jid": "5215547629093@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 91,
+      "chat_slug": "_wa_chat_5215547629093_4393",
+      "tier": "untiered_personal",
+      "circle": "other_contacts",
+      "groups": [
+        "NASA Space Apps IEEE Computer Society",
+        "NSAC Asunci\u00f3n 2023 - Participantes"
+      ]
+    },
+    {
+      "jid": "595971612900@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 135,
+      "chat_slug": "_wa_chat_595971612900_2048",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "IIN FPUNA 2015-2021",
+        "Jojo gym"
+      ]
+    },
+    {
+      "jid": "595982418373@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 33,
+      "chat_slug": "_wa_chat_595982418373_4145",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "BD2 2025",
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595985797496@s.whatsapp.net",
+      "n_groups": 2,
+      "msgs": 26,
+      "chat_slug": "_wa_chat_595985797496_3730",
+      "tier": "untiered_personal",
+      "circle": "fpuna_cs_classmates",
+      "groups": [
+        "Give Back Program - Cpk",
+        "WSU BECAL-CPK Spring 2023"
+      ]
+    },
+    {
+      "jid": "595981225272@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 28457,
+      "chat_slug": "_wa_chat_595981225272_62",
+      "tier": "tier1_deep",
+      "circle": "",
+      "groups": [
+        "Saquenme de latinoamerica"
+      ]
+    },
+    {
+      "jid": "595971922708@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 34526,
+      "chat_slug": "_wa_chat_595971922708_3654",
+      "tier": "tier1_deep",
+      "circle": "",
+      "groups": [
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728"
+      ]
+    },
+    {
+      "jid": "595982515138@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 11305,
+      "chat_slug": "_wa_chat_595982515138_64",
+      "tier": "tier1_deep",
+      "circle": "",
+      "groups": [
+        "Familie van der pol"
+      ]
+    },
+    {
+      "jid": "595962291837@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 4269,
+      "chat_slug": "_wa_chat_595962291837_9625",
+      "tier": "tier2_core",
+      "circle": "",
+      "groups": [
+        "Funhouse\ud83c\udf89"
+      ]
+    },
+    {
+      "jid": "595994341668@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 1667,
+      "chat_slug": "_wa_chat_595994341668_1955",
+      "tier": "tier2_core",
+      "circle": "",
+      "groups": [
+        "WSU BECAL-CPK Spring 2023"
+      ]
+    },
+    {
+      "jid": "595985249907@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 2399,
+      "chat_slug": "_wa_chat_595985249907_9628",
+      "tier": "tier2_core",
+      "circle": "",
+      "groups": [
+        "Funhouse\ud83c\udf89"
+      ]
+    },
+    {
+      "jid": "595976569739@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 1128,
+      "chat_slug": "_wa_chat_595976569739_2083",
+      "tier": "tier2_core",
+      "circle": "",
+      "groups": [
+        "Maskarada - club de azote"
+      ]
+    },
+    {
+      "jid": "595986138387@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 1864,
+      "chat_slug": "_wa_chat_595986138387_1265",
+      "tier": "tier2_core",
+      "circle": "",
+      "groups": [
+        "Familie van der pol"
+      ]
+    },
+    {
+      "jid": "595986868241@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 726,
+      "chat_slug": "_wa_chat_595986868241_10607",
+      "tier": "tier2_core",
+      "circle": "",
+      "groups": [
+        "Maskarada - club de azote"
+      ]
+    },
+    {
+      "jid": "595981514195@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 206,
+      "chat_slug": "_wa_chat_595981514195_9627",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Funhouse\ud83c\udf89"
+      ]
+    },
+    {
+      "jid": "31634463709@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 776,
+      "chat_slug": "_wa_chat_31634463709_11777",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Primos Weiss \u269d"
+      ]
+    },
+    {
+      "jid": "595982553100@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 722,
+      "chat_slug": "_wa_chat_595982553100_9254",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Funhouse\ud83c\udf89"
+      ]
+    },
+    {
+      "jid": "595982223241@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 738,
+      "chat_slug": "_wa_chat_595982223241_11521",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Primos Weiss \u269d"
+      ]
+    },
+    {
+      "jid": "595983281667@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 194,
+      "chat_slug": "_wa_chat_595983281667_3593",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "GCC 2023"
+      ]
+    },
+    {
+      "jid": "595985951732@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 650,
+      "chat_slug": "_wa_chat_595985951732_1722",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595973757353@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 819,
+      "chat_slug": "_wa_chat_595973757353_1731",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "El 27 Varela invita en su casa"
+      ]
+    },
+    {
+      "jid": "595983523251@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 366,
+      "chat_slug": "_wa_chat_595983523251_1276",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "CdR FP UNA  #\ud83c\udf55\ud83e\udd16\ud83d\udcaa\ud83c\udffb"
+      ]
+    },
+    {
+      "jid": "31612495139@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 277,
+      "chat_slug": "_wa_chat_31612495139_98",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Familie van der pol"
+      ]
+    },
+    {
+      "jid": "595985855075@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 139,
+      "chat_slug": "_wa_chat_595985855075_1366",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595991506193@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 243,
+      "chat_slug": "_wa_chat_595991506193_3099",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Casa stuff "
+      ]
+    },
+    {
+      "jid": "595971758658@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 74,
+      "chat_slug": "_wa_chat_595971758658_9805",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Maskarada - club de azote"
+      ]
+    },
+    {
+      "jid": "595986637132@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 112,
+      "chat_slug": "_wa_chat_595986637132_5130",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Familie van der pol"
+      ]
+    },
+    {
+      "jid": "595981990870@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 23,
+      "chat_slug": "_wa_chat_595981990870_2079",
+      "tier": "tier3_extended",
+      "circle": "",
+      "groups": [
+        "Give Back Program - Cpk"
+      ]
+    },
+    {
+      "jid": "13166196653@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 1,
+      "chat_slug": "_wa_chat_13166196653_1988",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "WSU BECAL-CPK Spring 2023"
+      ]
+    },
+    {
+      "jid": "34650513549@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 5,
+      "chat_slug": "_wa_chat_34650513549_10652",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Vacantes Optech V"
+      ]
+    },
+    {
+      "jid": "34672986128@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 4,
+      "chat_slug": "_wa_chat_34672986128_5066",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Primos Weiss \u269d"
+      ]
+    },
+    {
+      "jid": "359876591429@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 5,
+      "chat_slug": "_wa_chat_359876591429_5576",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "QE yguazu falls trip"
+      ]
+    },
+    {
+      "jid": "5493413296666@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 3,
+      "chat_slug": "_wa_chat_5493413296666_10351",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Maskarada - club de azote"
+      ]
+    },
+    {
+      "jid": "595961888226@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 16,
+      "chat_slug": "_wa_chat_595961888226_2121",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Backend sin profe"
+      ]
+    },
+    {
+      "jid": "595971227824@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 7,
+      "chat_slug": "_wa_chat_595971227824_5316",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "IIN FPUNA 2019 - 2025 \ud83d\udc68\u200d\ud83d\udcbb\ud83d\udc69\u200d\ud83d\udcbb"
+      ]
+    },
+    {
+      "jid": "595971758036@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 15,
+      "chat_slug": "_wa_chat_595971758036_7651",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Introducci\u00f3n al Aseguramiento de la Calidad y Automatizaci\u00f3n"
+      ]
+    },
+    {
+      "jid": "595972273973@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 6,
+      "chat_slug": "_wa_chat_595972273973_4646",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595981472444@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 7,
+      "chat_slug": "_wa_chat_595981472444_1308",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "_wa_group_no_subject_4731"
+      ]
+    },
+    {
+      "jid": "595981973355@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 7,
+      "chat_slug": "_wa_chat_595981973355_4086",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "CI_24 [Voluntarios]"
+      ]
+    },
+    {
+      "jid": "595982524314@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 4,
+      "chat_slug": "_wa_chat_595982524314_5830",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595983249641@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 6,
+      "chat_slug": "_wa_chat_595983249641_4676",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595983660080@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 1,
+      "chat_slug": "_wa_chat_595983660080_3641",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Emergentes 2023"
+      ]
+    },
+    {
+      "jid": "595984151099@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 13,
+      "chat_slug": "_wa_chat_595984151099_4363",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728"
+      ]
+    },
+    {
+      "jid": "595984175112@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 5,
+      "chat_slug": "_wa_chat_595984175112_7527",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595984722609@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 9,
+      "chat_slug": "_wa_chat_595984722609_4371",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595984872609@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 7,
+      "chat_slug": "_wa_chat_595984872609_5052",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "IEEE CS UNA SBC 2025 \ud83d\udda5\ud83c\udf10\u2728"
+      ]
+    },
+    {
+      "jid": "595985526379@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 5,
+      "chat_slug": "_wa_chat_595985526379_5323",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "Primos Weiss \u269d"
+      ]
+    },
+    {
+      "jid": "595985745553@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 14,
+      "chat_slug": "_wa_chat_595985745553_5110",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "CdR FP UNA  #\ud83c\udf55\ud83e\udd16\ud83d\udcaa\ud83c\udffb"
+      ]
+    },
+    {
+      "jid": "595991203040@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 1,
+      "chat_slug": "_wa_chat_595991203040_5321",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "QE Meriendita!"
+      ]
+    },
+    {
+      "jid": "595991745652@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 1,
+      "chat_slug": "_wa_chat_595991745652_3645",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d"
+      ]
+    },
+    {
+      "jid": "595992440311@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 8,
+      "chat_slug": "_wa_chat_595992440311_1760",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595992679747@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 5,
+      "chat_slug": "_wa_chat_595992679747_3646",
+      "tier": "_dropped",
+      "circle": "",
+      "groups": [
+        "\u2744\ufe0fCI2023 - Voluntarios General"
+      ]
+    },
+    {
+      "jid": "13163475777@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 65,
+      "chat_slug": "_wa_chat_13163475777_3667",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Los m\u00e1s paraguayos - solo amigos permitidos"
+      ]
+    },
+    {
+      "jid": "31640912250@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 20,
+      "chat_slug": "_wa_chat_31640912250_1850",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Familie van der pol"
+      ]
+    },
+    {
+      "jid": "595962155684@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 196,
+      "chat_slug": "_wa_chat_595962155684_1881",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d"
+      ]
+    },
+    {
+      "jid": "595971303050@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 13,
+      "chat_slug": "_wa_chat_595971303050_5685",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Compiladores 2024"
+      ]
+    },
+    {
+      "jid": "595971524131@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 42,
+      "chat_slug": "_wa_chat_595971524131_2150",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d"
+      ]
+    },
+    {
+      "jid": "595972104371@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 84,
+      "chat_slug": "_wa_chat_595972104371_9036",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Casa weiss (internal)"
+      ]
+    },
+    {
+      "jid": "595972144490@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 55,
+      "chat_slug": "_wa_chat_595972144490_1739",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595972179084@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 21,
+      "chat_slug": "_wa_chat_595972179084_4679",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595976351903@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 84,
+      "chat_slug": "_wa_chat_595976351903_1740",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595981127507@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 38,
+      "chat_slug": "_wa_chat_595981127507_1768",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Familie van der pol"
+      ]
+    },
+    {
+      "jid": "595981285412@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 27,
+      "chat_slug": "_wa_chat_595981285412_9804",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Maskarada - club de azote"
+      ]
+    },
+    {
+      "jid": "595981417867@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 25,
+      "chat_slug": "_wa_chat_595981417867_9058",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595983345985@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 51,
+      "chat_slug": "_wa_chat_595983345985_5625",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Py Testing Community"
+      ]
+    },
+    {
+      "jid": "595983698281@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 103,
+      "chat_slug": "_wa_chat_595983698281_9914",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Maskarada - club de azote"
+      ]
+    },
+    {
+      "jid": "595985532655@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 37,
+      "chat_slug": "_wa_chat_595985532655_5077",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Backend sin profe"
+      ]
+    },
+    {
+      "jid": "595986186810@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 11,
+      "chat_slug": "_wa_chat_595986186810_232",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "CdR FP UNA  #\ud83c\udf55\ud83e\udd16\ud83d\udcaa\ud83c\udffb"
+      ]
+    },
+    {
+      "jid": "595991620661@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 13,
+      "chat_slug": "_wa_chat_595991620661_1733",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "WPG Team"
+      ]
+    },
+    {
+      "jid": "595994445246@s.whatsapp.net",
+      "n_groups": 1,
+      "msgs": 20,
+      "chat_slug": "_wa_chat_595994445246_6538",
+      "tier": "untiered_personal",
+      "circle": "",
+      "groups": [
+        "Introducci\u00f3n al Aseguramiento de la Calidad y Automatizaci\u00f3n"
+      ]
+    }
+  ],
+  "clusters": [
+    {
+      "id": 1,
+      "size": 43,
+      "members": [
+        "595961366892@s.whatsapp.net",
+        "595961525896@s.whatsapp.net",
+        "595971179825@s.whatsapp.net",
+        "595971194933@s.whatsapp.net",
+        "595971378035@s.whatsapp.net",
+        "595971545477@s.whatsapp.net",
+        "595971627803@s.whatsapp.net",
+        "595971722516@s.whatsapp.net",
+        "595971727980@s.whatsapp.net",
+        "595971784500@s.whatsapp.net",
+        "595972116024@s.whatsapp.net",
+        "595972124230@s.whatsapp.net",
+        "595972130867@s.whatsapp.net",
+        "595972386499@s.whatsapp.net",
+        "595972808418@s.whatsapp.net",
+        "595972835716@s.whatsapp.net",
+        "595972994744@s.whatsapp.net",
+        "595976777023@s.whatsapp.net",
+        "595981258488@s.whatsapp.net",
+        "595981868718@s.whatsapp.net",
+        "595981925772@s.whatsapp.net",
+        "595982139653@s.whatsapp.net",
+        "595982340951@s.whatsapp.net",
+        "595982388158@s.whatsapp.net",
+        "595982418373@s.whatsapp.net",
+        "595982510082@s.whatsapp.net",
+        "595983738040@s.whatsapp.net",
+        "595983858997@s.whatsapp.net",
+        "595984160109@s.whatsapp.net",
+        "595984241789@s.whatsapp.net",
+        "595984264979@s.whatsapp.net",
+        "595984328174@s.whatsapp.net",
+        "595984689143@s.whatsapp.net",
+        "595984690946@s.whatsapp.net",
+        "595984708142@s.whatsapp.net",
+        "595985733375@s.whatsapp.net",
+        "595986186281@s.whatsapp.net",
+        "595986743708@s.whatsapp.net",
+        "595986805654@s.whatsapp.net",
+        "595991470829@s.whatsapp.net",
+        "595991705424@s.whatsapp.net",
+        "595991730357@s.whatsapp.net",
+        "595993598454@s.whatsapp.net"
+      ]
+    },
+    {
+      "id": 2,
+      "size": 9,
+      "members": [
+        "595961943357@s.whatsapp.net",
+        "595971190089@s.whatsapp.net",
+        "595974465910@s.whatsapp.net",
+        "595981459382@s.whatsapp.net",
+        "595981656962@s.whatsapp.net",
+        "595982923913@s.whatsapp.net",
+        "595983111686@s.whatsapp.net",
+        "595991469087@s.whatsapp.net",
+        "595991700814@s.whatsapp.net"
+      ]
+    },
+    {
+      "id": 3,
+      "size": 5,
+      "members": [
+        "595982138376@s.whatsapp.net",
+        "595985797496@s.whatsapp.net",
+        "595991357332@s.whatsapp.net",
+        "595991549029@s.whatsapp.net",
+        "595991797009@s.whatsapp.net"
+      ]
+    },
+    {
+      "id": 4,
+      "size": 3,
+      "members": [
+        "595985724135@s.whatsapp.net",
+        "595985725366@s.whatsapp.net",
+        "595985725871@s.whatsapp.net"
+      ]
+    },
+    {
+      "id": 5,
+      "size": 2,
+      "members": [
+        "595971505289@s.whatsapp.net",
+        "595984933862@s.whatsapp.net"
+      ]
+    },
+    {
+      "id": 6,
+      "size": 2,
+      "members": [
+        "595971102999@s.whatsapp.net",
+        "595992853154@s.whatsapp.net"
+      ]
+    },
+    {
+      "id": 7,
+      "size": 2,
+      "members": [
+        "595986445564@s.whatsapp.net",
+        "595991381669@s.whatsapp.net"
+      ]
+    }
+  ],
+  "silent_groups_dormant": [
+    {
+      "slug": "_wa_group_ideas_de_proyectos_info_1788",
+      "subject": "Ideas de proyectos info",
+      "total_msgs": 48,
+      "ivan_msgs": 20,
+      "days_silent": 1464.0
+    },
+    {
+      "slug": "_wa_group_becas_erasmus_fpuna_1439",
+      "subject": "Becas erasmus+ FPUNA \ud83c\uddf1\ud83c\uddfa\ud83c\uddf5\ud83c\uddfe",
+      "total_msgs": 98,
+      "ivan_msgs": 22,
+      "days_silent": 1440.0
+    },
+    {
+      "slug": "_wa_group_cosas_de_casa_1817",
+      "subject": "cosas de casa",
+      "total_msgs": 121,
+      "ivan_msgs": 72,
+      "days_silent": 1439.0
+    },
+    {
+      "slug": "_wa_group_iin_gaming_club_019_113",
+      "subject": "IIN Gaming Club 019",
+      "total_msgs": 143,
+      "ivan_msgs": 23,
+      "days_silent": 1261.0
+    },
+    {
+      "slug": "_wa_group_lan_party_11_02_1794",
+      "subject": "Lan party 11/02",
+      "total_msgs": 700,
+      "ivan_msgs": 35,
+      "days_silent": 1244.0
+    },
+    {
+      "slug": "_wa_group_groep_is3_1802",
+      "subject": "Groep IS3",
+      "total_msgs": 1044,
+      "ivan_msgs": 187,
+      "days_silent": 1117.0
+    },
+    {
+      "slug": "_wa_group_mamados_club_3081",
+      "subject": "Mamados club",
+      "total_msgs": 24,
+      "ivan_msgs": 5,
+      "days_silent": 1107.0
+    },
+    {
+      "slug": "_wa_group_jojo_gym_1227",
+      "subject": "Jojo gym",
+      "total_msgs": 1596,
+      "ivan_msgs": 439,
+      "days_silent": 1097.0
+    },
+    {
+      "slug": "_wa_group_wsu_becal-cpk_spring_2023_1938",
+      "subject": "WSU BECAL-CPK Spring 2023",
+      "total_msgs": 634,
+      "ivan_msgs": 10,
+      "days_silent": 1093.0
+    },
+    {
+      "slug": "_wa_group_shitpoliposting_39",
+      "subject": "ShitPoliPosting\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\udcaa\ud83c\udffb\ud83d\ude0d",
+      "total_msgs": 7518,
+      "ivan_msgs": 5,
+      "days_silent": 1084.0
+    },
+    {
+      "slug": "_wa_group_d_d_1825",
+      "subject": "D&D",
+      "total_msgs": 178,
+      "ivan_msgs": 60,
+      "days_silent": 1080.0
+    },
+    {
+      "slug": "_wa_group_saquenme_de_latinoamerica_665",
+      "subject": "Saquenme de latinoamerica",
+      "total_msgs": 2274,
+      "ivan_msgs": 630,
+      "days_silent": 1058.0
+    },
+    {
+      "slug": "_wa_group_ieeextreme_17_0_-_student_branch_una_3230",
+      "subject": "IEEEXtreme 17.0 - Student Branch UNA",
+      "total_msgs": 1107,
+      "ivan_msgs": 6,
+      "days_silent": 1015.0
+    },
+    {
+      "slug": "_wa_group_ia_grupo_de_trabajo_3697",
+      "subject": "IA grupo de trabajo",
+      "total_msgs": 456,
+      "ivan_msgs": 3,
+      "days_silent": 989.0
+    },
+    {
+      "slug": "_wa_group_emergentes_grupo_7_4723",
+      "subject": "Emergentes grupo 7",
+      "total_msgs": 95,
+      "ivan_msgs": 45,
+      "days_silent": 988.0
+    },
+    {
+      "slug": "_wa_group_front_sin_profe_3627",
+      "subject": "Front sin profe",
+      "total_msgs": 298,
+      "ivan_msgs": 11,
+      "days_silent": 949.0
+    },
+    {
+      "slug": "_wa_group_ml_grupo_4031",
+      "subject": "Ml grupo",
+      "total_msgs": 358,
+      "ivan_msgs": 169,
+      "days_silent": 942.0
+    },
+    {
+      "slug": "_wa_group_ml_2023-1_3619",
+      "subject": "ML 2023-1 ",
+      "total_msgs": 1298,
+      "ivan_msgs": 11,
+      "days_silent": 942.0
+    },
+    {
+      "slug": "_wa_group_emergentes_2023_3622",
+      "subject": "Emergentes 2023",
+      "total_msgs": 381,
+      "ivan_msgs": 7,
+      "days_silent": 937.0
+    },
+    {
+      "slug": "_wa_group_comit\u00e9_de_cursos_charlas_-_cs_3047",
+      "subject": "Comit\u00e9 de Cursos & Charlas - CS  \ud83d\udde3\ufe0f\ud83d\udda5\ufe0f",
+      "total_msgs": 505,
+      "ivan_msgs": 1,
+      "days_silent": 918.0
+    },
+    {
+      "slug": "_wa_group_qe_yguazu_falls_trip_5542",
+      "subject": "QE yguazu falls trip",
+      "total_msgs": 520,
+      "ivan_msgs": 4,
+      "days_silent": 890.0
+    },
+    {
+      "slug": "_wa_group_samber_atyra_5702",
+      "subject": "Samber +atyra",
+      "total_msgs": 198,
+      "ivan_msgs": 9,
+      "days_silent": 876.0
+    },
+    {
+      "slug": "_wa_group_grupo_de_pizza_gratis_485",
+      "subject": "Grupo de pizza gratis\ud83c\udf55\ud83c\udf55\ud83c\udf55\ud83c\udf55",
+      "total_msgs": 1254,
+      "ivan_msgs": 23,
+      "days_silent": 852.0
+    },
+    {
+      "slug": "_wa_group_team_isabelle_mm_5771",
+      "subject": "Team Isabelle MM",
+      "total_msgs": 1033,
+      "ivan_msgs": 3,
+      "days_silent": 824.0
+    },
+    {
+      "slug": "_wa_group_istqb_brave_and_courageous_6573",
+      "subject": "ISTQB Brave and courageous",
+      "total_msgs": 129,
+      "ivan_msgs": 7,
+      "days_silent": 809.0
+    },
+    {
+      "slug": "_wa_group_nasa_space_apps_ieee_computer_society_4711",
+      "subject": "NASA Space Apps IEEE Computer Society",
+      "total_msgs": 696,
+      "ivan_msgs": 49,
+      "days_silent": 799.0
+    },
+    {
+      "slug": "_wa_group_casa_stuff_5063",
+      "subject": "Casa stuff ",
+      "total_msgs": 128,
+      "ivan_msgs": 57,
+      "days_silent": 789.0
+    },
+    {
+      "slug": "_wa_group_ciberseguridad_grupo_3_6640",
+      "subject": "Ciberseguridad grupo 3",
+      "total_msgs": 21,
+      "ivan_msgs": 6,
+      "days_silent": 770.0
+    },
+    {
+      "slug": "_wa_group_copias_6583",
+      "subject": "Copias",
+      "total_msgs": 22,
+      "ivan_msgs": 1,
+      "days_silent": 767.0
+    },
+    {
+      "slug": "_wa_group_este_grupo_se_autodestruir\u00e1_en_20min_6754",
+      "subject": "este grupo se autodestruir\u00e1 en 20min",
+      "total_msgs": 157,
+      "ivan_msgs": 28,
+      "days_silent": 759.0
+    }
+  ]
+}

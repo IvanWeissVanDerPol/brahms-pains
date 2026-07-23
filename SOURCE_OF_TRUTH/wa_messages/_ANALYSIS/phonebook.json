@@ -1,0 +1,3441 @@
+{
+ "generated_at": "2026-07-23T01:16:57.207828",
+ "source": "Mica Weiss and 256 other contacts.vcf (iPhone native exports)",
+ "total_contacts": 250,
+ "tag_distribution": {
+  "family_weiss": 8,
+  "personal": 119,
+  "kink_casual": 5,
+  "service": 19,
+  "work_3d_clients": 40,
+  "health_medical": 7,
+  "fpuna": 20,
+  "food_local": 3,
+  "business": 27,
+  "family_van_der_pol": 2
+ },
+ "contacts": [
+  {
+   "name": "Mica Weiss",
+   "phones_raw": [
+    "595982850085"
+   ],
+   "phones_normalized": [
+    "595982850085"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_weiss"
+  },
+  {
+   "name": "Aiesec",
+   "phones_raw": [
+    "595972922999"
+   ],
+   "phones_normalized": [
+    "595972922999"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Elizabeth Mesa",
+   "phones_raw": [
+    "595992875666"
+   ],
+   "phones_normalized": [
+    "595992875666"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Random That Called Me",
+   "phones_raw": [
+    "18883445608"
+   ],
+   "phones_normalized": [
+    "18883445608"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Braindev",
+   "phones_raw": [
+    "595986105482"
+   ],
+   "phones_normalized": [
+    "595986105482"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Fernando",
+   "phones_raw": [
+    "5953164694291"
+   ],
+   "phones_normalized": [
+    "953164694291"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Party Reddit",
+   "phones_raw": [
+    "4692268245"
+   ],
+   "phones_normalized": [
+    "4692268245"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Dan Locanto",
+   "phones_raw": [
+    "5953163657516"
+   ],
+   "phones_normalized": [
+    "953163657516"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "kink_casual"
+  },
+  {
+   "name": "Vete Una",
+   "phones_raw": [
+    "59521591361"
+   ],
+   "phones_normalized": [
+    "59521591361"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Pellets de Madera",
+   "phones_raw": [
+    "59521600171"
+   ],
+   "phones_normalized": [
+    "59521600171"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Compra de Minutos",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Under house",
+   "phones_raw": [
+    "595991212957"
+   ],
+   "phones_normalized": [
+    "595991212957"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Oscar Acosta",
+   "phones_raw": [
+    "595986477311"
+   ],
+   "phones_normalized": [
+    "595986477311"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Voice Mail",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Taxi Radio",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Board Games",
+   "phones_raw": [
+    "5950883343699"
+   ],
+   "phones_normalized": [
+    "950883343699"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Tigo Shopping",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Señor Ideaa",
+   "phones_raw": [
+    "59509871887693"
+   ],
+   "phones_normalized": [
+    "509871887693"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Consulta de Saldo",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "AUTOGESTIONES TIGO",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Kadea",
+   "phones_raw": [
+    "595981654462"
+   ],
+   "phones_normalized": [
+    "595981654462"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "3d Tech",
+   "phones_raw": [
+    "595985847190"
+   ],
+   "phones_normalized": [
+    "595985847190"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Farma Ingavi",
+   "phones_raw": [
+    "59521590455"
+   ],
+   "phones_normalized": [
+    "59521590455"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "health_medical"
+  },
+  {
+   "name": "Ida Orquiola",
+   "phones_raw": [
+    "595981246779"
+   ],
+   "phones_normalized": [
+    "595981246779"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Facebook Frutilla Cong",
+   "phones_raw": [
+    "59509947933230"
+   ],
+   "phones_normalized": [
+    "509947933230"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Help Desk",
+   "phones_raw": [
+    "16126078282"
+   ],
+   "phones_normalized": [
+    "16126078282"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Bici Mariscal López",
+   "phones_raw": [
+    "59521613018"
+   ],
+   "phones_normalized": [
+    "59521613018"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Pan 2",
+   "phones_raw": [
+    "59521550603"
+   ],
+   "phones_normalized": [
+    "59521550603"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Vecina Perro",
+   "phones_raw": [
+    "595993655760"
+   ],
+   "phones_normalized": [
+    "595993655760"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_weiss"
+  },
+  {
+   "name": "Vecina Giya",
+   "phones_raw": [
+    "595993655760"
+   ],
+   "phones_normalized": [
+    "595993655760"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_weiss"
+  },
+  {
+   "name": "Tinder Angeles",
+   "phones_raw": [
+    "595986640442"
+   ],
+   "phones_normalized": [
+    "595986640442"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "kink_casual"
+  },
+  {
+   "name": "Vivero Jardin",
+   "phones_raw": [
+    "59509810645652"
+   ],
+   "phones_normalized": [
+    "509810645652"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Emergencias Medicas",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Policia",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Atencion al Cliente",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Florería San Lorenzo",
+   "phones_raw": [
+    "59521583693"
+   ],
+   "phones_normalized": [
+    "59521583693"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Dentista Nl",
+   "phones_raw": [
+    "595413291012"
+   ],
+   "phones_normalized": [
+    "595413291012"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "health_medical"
+  },
+  {
+   "name": "Claro 1",
+   "phones_raw": [
+    "595991779378"
+   ],
+   "phones_normalized": [
+    "595991779378"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Touring",
+   "phones_raw": [
+    "595981524369"
+   ],
+   "phones_normalized": [
+    "595981524369"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Municipalidad Ita",
+   "phones_raw": [
+    "595224632575"
+   ],
+   "phones_normalized": [
+    "595224632575"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Mama Cultiva",
+   "phones_raw": [
+    "595992205268"
+   ],
+   "phones_normalized": [
+    "595992205268"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_weiss"
+  },
+  {
+   "name": "Ginecólogia Clinica",
+   "phones_raw": [
+    "595986290480"
+   ],
+   "phones_normalized": [
+    "595986290480"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "health_medical"
+  },
+  {
+   "name": "Prima Mikaela Weiss",
+   "phones_raw": [
+    "595982850085"
+   ],
+   "phones_normalized": [
+    "595982850085"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_weiss"
+  },
+  {
+   "name": "Yamila Amiga Fpuna",
+   "phones_raw": [
+    "595985446663"
+   ],
+   "phones_normalized": [
+    "595985446663"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Oscar Poli",
+   "phones_raw": [
+    "595986477311"
+   ],
+   "phones_normalized": [
+    "595986477311"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Pc",
+   "phones_raw": [
+    "595985724556"
+   ],
+   "phones_normalized": [
+    "595985724556"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Poli Print",
+   "phones_raw": [
+    "595991377702"
+   ],
+   "phones_normalized": [
+    "595991377702"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Promo Galletas Bono",
+   "phones_raw": [
+    "595994364000"
+   ],
+   "phones_normalized": [
+    "595994364000"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "tUe Bachelor",
+   "phones_raw": [
+    "31402474747"
+   ],
+   "phones_normalized": [
+    "31402474747"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Luis G More",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Simón",
+   "phones_raw": [
+    "595981826000"
+   ],
+   "phones_normalized": [
+    "595981826000"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Hello3d Office",
+   "phones_raw": [
+    "59575523247623"
+   ],
+   "phones_normalized": [
+    "575523247623"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Hello 3d Allen Chen",
+   "phones_raw": [
+    "13826562566"
+   ],
+   "phones_normalized": [
+    "13826562566"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Denae Sawyer",
+   "phones_raw": [
+    "13167963912"
+   ],
+   "phones_normalized": [
+    "13167963912"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Richard",
+   "phones_raw": [
+    "31625105226"
+   ],
+   "phones_normalized": [
+    "31625105226"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Bacon Burgers",
+   "phones_raw": [
+    "595976584000"
+   ],
+   "phones_normalized": [
+    "595976584000"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "food_local"
+  },
+  {
+   "name": "Impresiones",
+   "phones_raw": [
+    "595992205400"
+   ],
+   "phones_normalized": [
+    "595992205400"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Jessica Cristaldo",
+   "phones_raw": [
+    "595985725372"
+   ],
+   "phones_normalized": [
+    "595985725372"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Oktana",
+   "phones_raw": [
+    "595986113204"
+   ],
+   "phones_normalized": [
+    "595986113204"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Brian Cardozo Gr",
+   "phones_raw": [
+    "595972740511"
+   ],
+   "phones_normalized": [
+    "595972740511"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Riche",
+   "phones_raw": [
+    "595972456853"
+   ],
+   "phones_normalized": [
+    "595972456853"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Feg",
+   "phones_raw": [
+    "595983266382"
+   ],
+   "phones_normalized": [
+    "595983266382"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Enzo Hongos",
+   "phones_raw": [
+    "595961985046"
+   ],
+   "phones_normalized": [
+    "595961985046"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Génesis",
+   "phones_raw": [
+    "595986830049"
+   ],
+   "phones_normalized": [
+    "595986830049"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Nara Mongelós",
+   "phones_raw": [
+    "595992432097"
+   ],
+   "phones_normalized": [
+    "595992432097"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Natasha",
+   "phones_raw": [
+    "595984884585"
+   ],
+   "phones_normalized": [
+    "595984884585"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Técnico De Cell",
+   "phones_raw": [
+    "595991625342"
+   ],
+   "phones_normalized": [
+    "595991625342"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Secretaría General FP",
+   "phones_raw": [
+    "595215887272"
+   ],
+   "phones_normalized": [
+    "595215887272"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Piolín Tigre Awelo",
+   "phones_raw": [
+    "595976222380"
+   ],
+   "phones_normalized": [
+    "595976222380"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "kink_casual"
+  },
+  {
+   "name": "Lucas Kansas",
+   "phones_raw": [
+    "3163723546",
+    "1743785770"
+   ],
+   "phones_normalized": [
+    "1743785770",
+    "3163723546"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Guille Dingeldein",
+   "phones_raw": [
+    "595971111860"
+   ],
+   "phones_normalized": [
+    "595971111860"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Guillermo",
+   "phones_raw": [
+    "595971111860"
+   ],
+   "phones_normalized": [
+    "595971111860"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Saya Inaba",
+   "phones_raw": [
+    "13163767875"
+   ],
+   "phones_normalized": [
+    "13163767875"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Usa Gr Ts",
+   "phones_raw": [
+    "5953167496222"
+   ],
+   "phones_normalized": [
+    "953167496222"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Kansas Business Competition",
+   "phones_raw": [
+    "5953169787731"
+   ],
+   "phones_normalized": [
+    "953169787731"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "health_medical"
+  },
+  {
+   "name": "Ayelén Magali",
+   "phones_raw": [
+    "595961525252"
+   ],
+   "phones_normalized": [
+    "595961525252"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "VoiceMail int.",
+   "phones_raw": [
+    "31612001233"
+   ],
+   "phones_normalized": [
+    "31612001233"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Francisco",
+   "phones_raw": [
+    "595985694946"
+   ],
+   "phones_normalized": [
+    "595985694946"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Luissushi",
+   "phones_raw": [
+    "595976819686"
+   ],
+   "phones_normalized": [
+    "595976819686"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "food_local"
+  },
+  {
+   "name": "Yuli",
+   "phones_raw": [
+    "595981290217"
+   ],
+   "phones_normalized": [
+    "595981290217"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Punto Farma",
+   "phones_raw": [
+    "595994272811"
+   ],
+   "phones_normalized": [
+    "595994272811"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "health_medical"
+  },
+  {
+   "name": "Lomito Liz",
+   "phones_raw": [
+    "595983840946"
+   ],
+   "phones_normalized": [
+    "595983840946"
+   ],
+   "waid": "595983840946",
+   "biz_name": "Lomito Liz",
+   "biz_description": "ocal habilitado desde las 19 a 01",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Lomiteria Liz fdo",
+   "phones_raw": [
+    "595983840946"
+   ],
+   "phones_normalized": [
+    "595983840946"
+   ],
+   "waid": "595983840946",
+   "biz_name": "Lomiteria Liz fdo",
+   "biz_description": "ocal habilitado desde las 19 a 01",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Botica",
+   "phones_raw": [
+    "59521582356"
+   ],
+   "phones_normalized": [
+    "59521582356"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Evi",
+   "phones_raw": [
+    "595975413739"
+   ],
+   "phones_normalized": [
+    "595975413739"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Dealer 2",
+   "phones_raw": [
+    "595983129197"
+   ],
+   "phones_normalized": [
+    "595983129197"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Joooyeon Heo",
+   "phones_raw": [
+    "13163723865"
+   ],
+   "phones_normalized": [
+    "13163723865"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Locanto X",
+   "phones_raw": [
+    "595984469443"
+   ],
+   "phones_normalized": [
+    "595984469443"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "kink_casual"
+  },
+  {
+   "name": "Swissbankers",
+   "phones_raw": [
+    "41317101215"
+   ],
+   "phones_normalized": [
+    "41317101215"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Anonimo 16",
+   "phones_raw": [
+    "595975820629"
+   ],
+   "phones_normalized": [
+    "595975820629"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Ueno Comprobante",
+   "phones_raw": [
+    "595985909813"
+   ],
+   "phones_normalized": [
+    "595985909813"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Pablo Caballero Poli",
+   "phones_raw": [
+    "595994823905"
+   ],
+   "phones_normalized": [
+    "595994823905"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Llamada",
+   "phones_raw": [
+    "595991921740"
+   ],
+   "phones_normalized": [
+    "595991921740"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Bomberos",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Policia",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Buzon de Voz",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Carga Tarjeta",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Saldo",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Call Center",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Taxi Radio",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "AUTOGESTIONES TIGO",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Tigo Shopping",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Voice Mail",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Consulta de Saldo",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Compra de Minutos",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "service"
+  },
+  {
+   "name": "Anita",
+   "phones_raw": [
+    "595981479111"
+   ],
+   "phones_normalized": [
+    "595981479111"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Veterinaria Vida Animal",
+   "phones_raw": [
+    "595982988626"
+   ],
+   "phones_normalized": [
+    "595982988626"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "health_medical"
+  },
+  {
+   "name": "Vape Ingavi",
+   "phones_raw": [
+    "595983085254"
+   ],
+   "phones_normalized": [
+    "595983085254"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Angel Debe 250",
+   "phones_raw": [
+    "595982955062"
+   ],
+   "phones_normalized": [
+    "595982955062"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Dealer FS Debe 1320",
+   "phones_raw": [
+    "595982955062"
+   ],
+   "phones_normalized": [
+    "595982955062"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Ivan Weiss Usa",
+   "phones_raw": [
+    "13165508942"
+   ],
+   "phones_normalized": [
+    "13165508942"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_weiss"
+  },
+  {
+   "name": "Cliente 3d Anónimo 22",
+   "phones_raw": [
+    "595982188647"
+   ],
+   "phones_normalized": [
+    "595982188647"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Pollos Don Juan",
+   "phones_raw": [
+    "595217291717"
+   ],
+   "phones_normalized": [
+    "595217291717"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "food_local"
+  },
+  {
+   "name": "Camila Alexandra Maidana Enciso",
+   "phones_raw": [],
+   "phones_normalized": [],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": "camimai1.cm@fpuna.edu.py",
+   "tag": "personal"
+  },
+  {
+   "name": "Arete",
+   "phones_raw": [
+    "595976570275"
+   ],
+   "phones_normalized": [
+    "595976570275"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Jan van der Pol",
+   "phones_raw": [
+    "595994459555"
+   ],
+   "phones_normalized": [
+    "595994459555"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_van_der_pol"
+  },
+  {
+   "name": "Monte Líbano",
+   "phones_raw": [
+    "0975489001"
+   ],
+   "phones_normalized": [
+    "0975489001"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Empresa Random",
+   "phones_raw": [
+    "595981669952"
+   ],
+   "phones_normalized": [
+    "595981669952"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Gaspar",
+   "phones_raw": [
+    "595991872357"
+   ],
+   "phones_normalized": [
+    "595991872357"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Siamés Polítecnica",
+   "phones_raw": [
+    "595982726765"
+   ],
+   "phones_normalized": [
+    "595982726765"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Andrea..",
+   "phones_raw": [
+    "595982726765"
+   ],
+   "phones_normalized": [
+    "595982726765"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cpk Becas",
+   "phones_raw": [
+    "595994539667"
+   ],
+   "phones_normalized": [
+    "595994539667"
+   ],
+   "waid": "595994539667",
+   "biz_name": "Cpk Becas",
+   "biz_description": null,
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Oscar Rafaél",
+   "phones_raw": [
+    "595981478877"
+   ],
+   "phones_normalized": [
+    "595981478877"
+   ],
+   "waid": "595981478877",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Alejandro Cabral Poli",
+   "phones_raw": [
+    "595972130867"
+   ],
+   "phones_normalized": [
+    "595972130867"
+   ],
+   "waid": "595972130867",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Carlos Bernal",
+   "phones_raw": [
+    "595981428090"
+   ],
+   "phones_normalized": [
+    "595981428090"
+   ],
+   "waid": "595981428090",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Hugo Nuñez Zymanscki � ���🇾",
+   "phones_raw": [
+    "595981656962"
+   ],
+   "phones_normalized": [
+    "595981656962"
+   ],
+   "waid": "595981656962",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Franklin Reid",
+   "phones_raw": [
+    "17576797381"
+   ],
+   "phones_normalized": [
+    "17576797381"
+   ],
+   "waid": "17576797381",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Javier Vecino",
+   "phones_raw": [
+    "595994639567"
+   ],
+   "phones_normalized": [
+    "595994639567"
+   ],
+   "waid": "595994639567",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Alejandro Moto",
+   "phones_raw": [
+    "595981196694"
+   ],
+   "phones_normalized": [
+    "595981196694"
+   ],
+   "waid": "595981196694",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Toni Weiss",
+   "phones_raw": [
+    "15055778339"
+   ],
+   "phones_normalized": [
+    "15055778339"
+   ],
+   "waid": "15055778339",
+   "biz_name": null,
+   "biz_description": null,
+   "email": "Paragweiss@yahoo.com",
+   "tag": "family_weiss"
+  },
+  {
+   "name": "Jonathan Verdun Compañ ero Ipt",
+   "phones_raw": [
+    "595983634409"
+   ],
+   "phones_normalized": [
+    "595983634409"
+   ],
+   "waid": "595983634409",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Todo Tapicería",
+   "phones_raw": [
+    "595981273876"
+   ],
+   "phones_normalized": [
+    "595981273876"
+   ],
+   "waid": "595981273876",
+   "biz_name": "Todo Tapicería",
+   "biz_description": "osé Recalde- Gerente",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Plub",
+   "phones_raw": [
+    "595985523033"
+   ],
+   "phones_normalized": [
+    "595985523033"
+   ],
+   "waid": "595985523033",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Paty Portillo Fuchs",
+   "phones_raw": [
+    "595985868317"
+   ],
+   "phones_normalized": [
+    "595985868317"
+   ],
+   "waid": "595985868317",
+   "biz_name": "Paty Portillo Fuchs",
+   "biz_description": "nglés para Profesionales y Adultos en General",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Bianca MM",
+   "phones_raw": [
+    "595961943357"
+   ],
+   "phones_normalized": [
+    "595961943357"
+   ],
+   "waid": "595961943357",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Lucía Díaz",
+   "phones_raw": [
+    "595991549029"
+   ],
+   "phones_normalized": [
+    "595991549029"
+   ],
+   "waid": "595991549029",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Cde",
+   "phones_raw": [
+    "595983749204"
+   ],
+   "phones_normalized": [
+    "595983749204"
+   ],
+   "waid": "595983749204",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Axel Rios",
+   "phones_raw": [
+    "595984617000"
+   ],
+   "phones_normalized": [
+    "595984617000"
+   ],
+   "waid": "595984617000",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Silvio Agular",
+   "phones_raw": [
+    "595994889930"
+   ],
+   "phones_normalized": [
+    "595994889930"
+   ],
+   "waid": "595994889930",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Doriham Russo",
+   "phones_raw": [
+    "595972607795"
+   ],
+   "phones_normalized": [
+    "595972607795"
+   ],
+   "waid": "595972607795",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Jacque",
+   "phones_raw": [
+    "595972144490"
+   ],
+   "phones_normalized": [
+    "595972144490"
+   ],
+   "waid": "595972144490",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Eros Dios Del Sexo",
+   "phones_raw": [
+    "595961366892"
+   ],
+   "phones_normalized": [
+    "595961366892"
+   ],
+   "waid": "595961366892",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "kink_casual"
+  },
+  {
+   "name": "René Pols Poli",
+   "phones_raw": [
+    "595983738040"
+   ],
+   "phones_normalized": [
+    "595983738040"
+   ],
+   "waid": "595983738040",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Gomeria Ingavi Criss",
+   "phones_raw": [
+    "595985778871"
+   ],
+   "phones_normalized": [
+    "595985778871"
+   ],
+   "waid": "595985778871",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Loogistico",
+   "phones_raw": [
+    "595971790857"
+   ],
+   "phones_normalized": [
+    "595971790857"
+   ],
+   "waid": "595971790857",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Mymba Roga",
+   "phones_raw": [
+    "595981838763"
+   ],
+   "phones_normalized": [
+    "595981838763"
+   ],
+   "waid": "595981838763",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Adri Campos",
+   "phones_raw": [
+    "595981436262"
+   ],
+   "phones_normalized": [
+    "595981436262"
+   ],
+   "waid": "595981436262",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Jaime Cáceres Poli",
+   "phones_raw": [
+    "595991996677"
+   ],
+   "phones_normalized": [
+    "595991996677"
+   ],
+   "waid": "595991996677",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Pet Planet",
+   "phones_raw": [
+    "595983144291"
+   ],
+   "phones_normalized": [
+    "595983144291"
+   ],
+   "waid": "595983144291",
+   "biz_name": "Pet Planet",
+   "biz_description": "uministros para mascotas",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Profe Cyntia",
+   "phones_raw": [
+    "595961627033"
+   ],
+   "phones_normalized": [
+    "595961627033"
+   ],
+   "waid": "595961627033",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Mathias Barrios",
+   "phones_raw": [
+    "595991357332"
+   ],
+   "phones_normalized": [
+    "595991357332"
+   ],
+   "waid": "595991357332",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Luana Weiss",
+   "phones_raw": [
+    "595985725366"
+   ],
+   "phones_normalized": [
+    "595985725366"
+   ],
+   "waid": "595985725366",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_weiss"
+  },
+  {
+   "name": "Gerardo Ramos",
+   "phones_raw": [
+    "595982783951"
+   ],
+   "phones_normalized": [
+    "595982783951"
+   ],
+   "waid": "595982783951",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Analia Rojas",
+   "phones_raw": [
+    "595981777682"
+   ],
+   "phones_normalized": [
+    "595981777682"
+   ],
+   "waid": "595981777682",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Sander",
+   "phones_raw": [
+    "595985450693",
+    "595976527477"
+   ],
+   "phones_normalized": [
+    "595976527477",
+    "595985450693"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d  Manu",
+   "phones_raw": [
+    "595992690290"
+   ],
+   "phones_normalized": [
+    "595992690290"
+   ],
+   "waid": "595992690290",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Ang López",
+   "phones_raw": [
+    "595981762429"
+   ],
+   "phones_normalized": [
+    "595981762429"
+   ],
+   "waid": "595981762429",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Señor Tala",
+   "phones_raw": [
+    "595981821911"
+   ],
+   "phones_normalized": [
+    "595981821911"
+   ],
+   "waid": "595981821911",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Lic Tarabachi",
+   "phones_raw": [
+    "595981979389"
+   ],
+   "phones_normalized": [
+    "595981979389"
+   ],
+   "waid": "595981979389",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Marcelo Kegler",
+   "phones_raw": [
+    "595983706877"
+   ],
+   "phones_normalized": [
+    "595983706877"
+   ],
+   "waid": "595983706877",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Peli Lentes Poli",
+   "phones_raw": [
+    "595992532215"
+   ],
+   "phones_normalized": [
+    "595992532215"
+   ],
+   "waid": "595992532215",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Gabriel Arambulo",
+   "phones_raw": [
+    "595991712351"
+   ],
+   "phones_normalized": [
+    "595991712351"
+   ],
+   "waid": "595991712351",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Marcos Grance",
+   "phones_raw": [
+    "595972788510"
+   ],
+   "phones_normalized": [
+    "595972788510"
+   ],
+   "waid": "595972788510",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Anónimo 20",
+   "phones_raw": [
+    "595971145127"
+   ],
+   "phones_normalized": [
+    "595971145127"
+   ],
+   "waid": "595971145127",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Asu Market",
+   "phones_raw": [
+    "595981427791"
+   ],
+   "phones_normalized": [
+    "595981427791"
+   ],
+   "waid": "595981427791",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Dann🪻",
+   "phones_raw": [
+    "595983797317"
+   ],
+   "phones_normalized": [
+    "595983797317"
+   ],
+   "waid": "595983797317",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Gabriel",
+   "phones_raw": [
+    "595982888513"
+   ],
+   "phones_normalized": [
+    "595982888513"
+   ],
+   "waid": "595982888513",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Victor",
+   "phones_raw": [
+    "18164008658",
+    "33617854901"
+   ],
+   "phones_normalized": [
+    "18164008658",
+    "33617854901"
+   ],
+   "waid": "33617854901",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Ayelén Magali",
+   "phones_raw": [
+    "595986978530"
+   ],
+   "phones_normalized": [
+    "595986978530"
+   ],
+   "waid": "595986978530",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Comería Ingavi",
+   "phones_raw": [
+    "595984433218"
+   ],
+   "phones_normalized": [
+    "595984433218"
+   ],
+   "waid": "595984433218",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Pablo Palacio",
+   "phones_raw": [
+    "595982821942"
+   ],
+   "phones_normalized": [
+    "595982821942"
+   ],
+   "waid": "595982821942",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Paloma",
+   "phones_raw": [
+    "595991320698",
+    "59899144505"
+   ],
+   "phones_normalized": [
+    "595991320698",
+    "59899144505"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Primo Gabriel",
+   "phones_raw": [
+    "595098578671",
+    "595985786571"
+   ],
+   "phones_normalized": [
+    "595098578671",
+    "595985786571"
+   ],
+   "waid": null,
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Florería Reina",
+   "phones_raw": [
+    "595971520101"
+   ],
+   "phones_normalized": [
+    "595971520101"
+   ],
+   "waid": "595971520101",
+   "biz_name": "Florería Reina",
+   "biz_description": "rreglos y ramos florales 🌹💐 Para enamorar siempre ❤️",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Sebastián Aguilera",
+   "phones_raw": [
+    "595971755786"
+   ],
+   "phones_normalized": [
+    "595971755786"
+   ],
+   "waid": "595971755786",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Profe Gerardo",
+   "phones_raw": [
+    "595982802806"
+   ],
+   "phones_normalized": [
+    "595982802806"
+   ],
+   "waid": "595982802806",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Cliente 3d Francisco Alexis",
+   "phones_raw": [
+    "595985751674"
+   ],
+   "phones_normalized": [
+    "595985751674"
+   ],
+   "waid": "595985751674",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Betto",
+   "phones_raw": [
+    "595986939555"
+   ],
+   "phones_normalized": [
+    "595986939555"
+   ],
+   "waid": "595986939555",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Diego Emanuel Duarte",
+   "phones_raw": [
+    "595991730357"
+   ],
+   "phones_normalized": [
+    "595991730357"
+   ],
+   "waid": "595991730357",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Ña Mari",
+   "phones_raw": [
+    "13168805466"
+   ],
+   "phones_normalized": [
+    "13168805466"
+   ],
+   "waid": "13168805466",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Emilio Poli",
+   "phones_raw": [
+    "595981925772"
+   ],
+   "phones_normalized": [
+    "595981925772"
+   ],
+   "waid": "595981925772",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Ebsa",
+   "phones_raw": [
+    "595992223429"
+   ],
+   "phones_normalized": [
+    "595992223429"
+   ],
+   "waid": "595992223429",
+   "biz_name": "Ebsa",
+   "biz_description": "ara verificar cobertura indicar número de cédula del paciente y adjuntar orden médica original.",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Máster Electrónica",
+   "phones_raw": [
+    "595982260920"
+   ],
+   "phones_normalized": [
+    "595982260920"
+   ],
+   "waid": "595982260920",
+   "biz_name": "Máster Electrónica",
+   "biz_description": null,
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Hospital De Clínicas",
+   "phones_raw": [
+    "595962151959"
+   ],
+   "phones_normalized": [
+    "595962151959"
+   ],
+   "waid": "595962151959",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "health_medical"
+  },
+  {
+   "name": "Marcelo Aguayo",
+   "phones_raw": [
+    "595961888226"
+   ],
+   "phones_normalized": [
+    "595961888226"
+   ],
+   "waid": "595961888226",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Magali Carreras",
+   "phones_raw": [
+    "595981225272"
+   ],
+   "phones_normalized": [
+    "595981225272"
+   ],
+   "waid": "595981225272",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Jessi Alarcon Poli",
+   "phones_raw": [
+    "595971627803"
+   ],
+   "phones_normalized": [
+    "595971627803"
+   ],
+   "waid": "595971627803",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Viví Poli IAE",
+   "phones_raw": [
+    "595994538574"
+   ],
+   "phones_normalized": [
+    "595994538574"
+   ],
+   "waid": "595994538574",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Ester",
+   "phones_raw": [
+    "31640912250"
+   ],
+   "phones_normalized": [
+    "31640912250"
+   ],
+   "waid": "31640912250",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Saffi Poli",
+   "phones_raw": [
+    "595971922320"
+   ],
+   "phones_normalized": [
+    "595971922320"
+   ],
+   "waid": "595971922320",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Señor Idesa",
+   "phones_raw": [
+    "595971887693"
+   ],
+   "phones_normalized": [
+    "595971887693"
+   ],
+   "waid": "595971887693",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Centro Cultural Paraguayo Americano",
+   "phones_raw": [
+    "595971224831"
+   ],
+   "phones_normalized": [
+    "595971224831"
+   ],
+   "waid": "595971224831",
+   "biz_name": "Centro Cultural Paraguayo Americano",
+   "biz_description": "entro Cultural Paraguayo Americano",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Matias Winter",
+   "phones_raw": [
+    "595984690946"
+   ],
+   "phones_normalized": [
+    "595984690946"
+   ],
+   "waid": "595984690946",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Guille",
+   "phones_raw": [
+    "595985904269"
+   ],
+   "phones_normalized": [
+    "595985904269"
+   ],
+   "waid": "595985904269",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "John",
+   "phones_raw": [
+    "595986138387"
+   ],
+   "phones_normalized": [
+    "595986138387"
+   ],
+   "waid": "595986138387",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Danilo Gonz� �lez",
+   "phones_raw": [
+    "595981253908"
+   ],
+   "phones_normalized": [
+    "595981253908"
+   ],
+   "waid": "595981253908",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Vaperoom",
+   "phones_raw": [
+    "595983111998"
+   ],
+   "phones_normalized": [
+    "595983111998"
+   ],
+   "waid": "595983111998",
+   "biz_name": "Vaperoom",
+   "biz_description": null,
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Álvaro Claro",
+   "phones_raw": [
+    "595994442444"
+   ],
+   "phones_normalized": [
+    "595994442444"
+   ],
+   "waid": "595994442444",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Osvaldo Amigo Fpuna",
+   "phones_raw": [
+    "595991745652"
+   ],
+   "phones_normalized": [
+    "595991745652"
+   ],
+   "waid": "595991745652",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Helado Quatro D",
+   "phones_raw": [
+    "595974586075"
+   ],
+   "phones_normalized": [
+    "595974586075"
+   ],
+   "waid": "595974586075",
+   "biz_name": "Helado Quatro D",
+   "biz_description": null,
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Bh Tattoo",
+   "phones_raw": [
+    "595981519221"
+   ],
+   "phones_normalized": [
+    "595981519221"
+   ],
+   "waid": "595981519221",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cano Poli",
+   "phones_raw": [
+    "595982432003"
+   ],
+   "phones_normalized": [
+    "595982432003"
+   ],
+   "waid": "595982432003",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Cliente 3d Anonimo 14",
+   "phones_raw": [
+    "595994399280"
+   ],
+   "phones_normalized": [
+    "595994399280"
+   ],
+   "waid": "595994399280",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Profe Diseño De Compil adores",
+   "phones_raw": [
+    "595971303050"
+   ],
+   "phones_normalized": [
+    "595971303050"
+   ],
+   "waid": "595971303050",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Soledad Duarte",
+   "phones_raw": [
+    "595982429294"
+   ],
+   "phones_normalized": [
+    "595982429294"
+   ],
+   "waid": "595982429294",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "raff",
+   "phones_raw": [
+    "595971378035"
+   ],
+   "phones_normalized": [
+    "595971378035"
+   ],
+   "waid": "595971378035",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Luis Carlos",
+   "phones_raw": [
+    "595983168444"
+   ],
+   "phones_normalized": [
+    "595983168444"
+   ],
+   "waid": "595983168444",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Tue",
+   "phones_raw": [
+    "31641683406"
+   ],
+   "phones_normalized": [
+    "31641683406"
+   ],
+   "waid": "31641683406",
+   "biz_name": "Tue",
+   "biz_description": "e educate students and advance knowledge in science & technology for the benefit of humanity. We integrate education and research to enable our students and scientists to become thought leaders and to design and achieve the unimaginable.",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Cliente 3d Ivan Chavez",
+   "phones_raw": [
+    "595983708273"
+   ],
+   "phones_normalized": [
+    "595983708273"
+   ],
+   "waid": "595983708273",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Lic Sanni Lalla",
+   "phones_raw": [
+    "595986418879"
+   ],
+   "phones_normalized": [
+    "595986418879"
+   ],
+   "waid": "595986418879",
+   "biz_name": "Lic Sanni Lalla",
+   "biz_description": "sicoterapia en línea",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Lazzerini Pizzs",
+   "phones_raw": [
+    "595983328698",
+    "0983328698"
+   ],
+   "phones_normalized": [
+    "0983328698",
+    "595983328698"
+   ],
+   "waid": "595983328698",
+   "biz_name": "Lazzerini Pizzs",
+   "biz_description": "uténticas recetas italianas preparadas por la familia Lazzerini.",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Belén Fratta",
+   "phones_raw": [
+    "595976351903"
+   ],
+   "phones_normalized": [
+    "595976351903"
+   ],
+   "waid": "595976351903",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Casa Paraguay 3. Dahiana",
+   "phones_raw": [
+    "595983888220"
+   ],
+   "phones_normalized": [
+    "595983888220"
+   ],
+   "waid": "595983888220",
+   "biz_name": "Casa Paraguay 3. Dahiana",
+   "biz_description": "utoservicio",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Facebook Cerdo",
+   "phones_raw": [
+    "595971894777"
+   ],
+   "phones_normalized": [
+    "595971894777"
+   ],
+   "waid": "595971894777",
+   "biz_name": "Facebook Cerdo",
+   "biz_description": "as Mejores Milanesas que vas a probar!!!",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Cliente 3d Mario Gil",
+   "phones_raw": [
+    "595971888355"
+   ],
+   "phones_normalized": [
+    "595971888355"
+   ],
+   "waid": "595971888355",
+   "biz_name": "Cliente 3d Mario Gil",
+   "biz_description": "abrica de muebles a Medida",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Cliente 3d Anónimo 17",
+   "phones_raw": [
+    "595985887925"
+   ],
+   "phones_normalized": [
+    "595985887925"
+   ],
+   "waid": "595985887925",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Colina Zanahabria",
+   "phones_raw": [
+    "595986581641"
+   ],
+   "phones_normalized": [
+    "595986581641"
+   ],
+   "waid": "595986581641",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Riet van der Pol",
+   "phones_raw": [
+    "31612495139"
+   ],
+   "phones_normalized": [
+    "31612495139"
+   ],
+   "waid": "31612495139",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "family_van_der_pol"
+  },
+  {
+   "name": "Emilio",
+   "phones_raw": [
+    "595981925772"
+   ],
+   "phones_normalized": [
+    "595981925772"
+   ],
+   "waid": "595981925772",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Sebastian Moreno Wise Nuevo",
+   "phones_raw": [
+    "595971227824"
+   ],
+   "phones_normalized": [
+    "595971227824"
+   ],
+   "waid": "595971227824",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Edu Riveros",
+   "phones_raw": [
+    "595986772322"
+   ],
+   "phones_normalized": [
+    "595986772322"
+   ],
+   "waid": "595986772322",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Pipas",
+   "phones_raw": [
+    "595985549498"
+   ],
+   "phones_normalized": [
+    "595985549498"
+   ],
+   "waid": "595985549498",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Hospital Bautista",
+   "phones_raw": [
+    "595216889000"
+   ],
+   "phones_normalized": [
+    "595216889000"
+   ],
+   "waid": "595216889000",
+   "biz_name": "Hospital Bautista",
+   "biz_description": "a Salud Integral",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Ana Esposa De Sander",
+   "phones_raw": [
+    "595982774456"
+   ],
+   "phones_normalized": [
+    "595982774456"
+   ],
+   "waid": "595982774456",
+   "biz_name": "Ana Esposa De Sander",
+   "biz_description": null,
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Foto Copias Cerca De Casa",
+   "phones_raw": [
+    "595981788700"
+   ],
+   "phones_normalized": [
+    "595981788700"
+   ],
+   "waid": "595981788700",
+   "biz_name": "Foto Copias Cerca De Casa",
+   "biz_description": "andyju comercial",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Cliente 3d Maximiliano",
+   "phones_raw": [
+    "5493456267269"
+   ],
+   "phones_normalized": [
+    "5493456267269"
+   ],
+   "waid": "5493456267269",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Escobar Lic Carlos",
+   "phones_raw": [
+    "595981498754",
+    "59521585611"
+   ],
+   "phones_normalized": [
+    "59521585611",
+    "595981498754"
+   ],
+   "waid": "595981498754",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Electrónica Pett",
+   "phones_raw": [
+    "595984372242"
+   ],
+   "phones_normalized": [
+    "595984372242"
+   ],
+   "waid": "595984372242",
+   "biz_name": "Electrónica Pett",
+   "biz_description": "Horario de atención vía WhatsApp de Lunes a Viernes, 8:00h a 17:00h, Sábados, 8:00h a 12:00h.",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Tyler Flinn",
+   "phones_raw": [
+    "18434210669"
+   ],
+   "phones_normalized": [
+    "18434210669"
+   ],
+   "waid": "18434210669",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Rafa Grance",
+   "phones_raw": [
+    "595981737728"
+   ],
+   "phones_normalized": [
+    "595981737728"
+   ],
+   "waid": "595981737728",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Vera Garage",
+   "phones_raw": [
+    "595991827007"
+   ],
+   "phones_normalized": [
+    "595991827007"
+   ],
+   "waid": "595991827007",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Shopping China",
+   "phones_raw": [
+    "595981210320"
+   ],
+   "phones_normalized": [
+    "595981210320"
+   ],
+   "waid": "595981210320",
+   "biz_name": "Shopping China",
+   "biz_description": null,
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Belén Jara",
+   "phones_raw": [
+    "595985797496"
+   ],
+   "phones_normalized": [
+    "595985797496"
+   ],
+   "waid": "595985797496",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Anonimo 3",
+   "phones_raw": [
+    "595961101430"
+   ],
+   "phones_normalized": [
+    "595961101430"
+   ],
+   "waid": "595961101430",
+   "biz_name": "Cliente 3d Anonimo 3",
+   "biz_description": "oldes de empanadas",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Cliente 3d Hiro",
+   "phones_raw": [
+    "595971913114"
+   ],
+   "phones_normalized": [
+    "595971913114"
+   ],
+   "waid": "595971913114",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Profe Ariel",
+   "phones_raw": [
+    "595981132646"
+   ],
+   "phones_normalized": [
+    "595981132646"
+   ],
+   "waid": "595981132646",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Damas Da Noitesd Sps",
+   "phones_raw": [
+    "595986336488"
+   ],
+   "phones_normalized": [
+    "595986336488"
+   ],
+   "waid": "595986336488",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Emo Poli",
+   "phones_raw": [
+    "595961525896"
+   ],
+   "phones_normalized": [
+    "595961525896"
+   ],
+   "waid": "595961525896",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Cliente 3d Sergio Roman",
+   "phones_raw": [
+    "595985619190"
+   ],
+   "phones_normalized": [
+    "595985619190"
+   ],
+   "waid": "595985619190",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Profe Lima Base De Datos 2",
+   "phones_raw": [
+    "595982136081"
+   ],
+   "phones_normalized": [
+    "595982136081"
+   ],
+   "waid": "595982136081",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "fpuna"
+  },
+  {
+   "name": "Cliente 3d Belen G",
+   "phones_raw": [
+    "595975579450"
+   ],
+   "phones_normalized": [
+    "595975579450"
+   ],
+   "waid": "595975579450",
+   "biz_name": "Cliente 3d Belen G",
+   "biz_description": null,
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Cliente 3d ING Digno",
+   "phones_raw": [
+    "595986799285"
+   ],
+   "phones_normalized": [
+    "595986799285"
+   ],
+   "waid": "595986799285",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Mariano",
+   "phones_raw": [
+    "595982323501"
+   ],
+   "phones_normalized": [
+    "595982323501"
+   ],
+   "waid": "595982323501",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Francisco Riquelme",
+   "phones_raw": [
+    "595982182297"
+   ],
+   "phones_normalized": [
+    "595982182297"
+   ],
+   "waid": "595982182297",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "personal"
+  },
+  {
+   "name": "Cliente 3d Óscar Arand a",
+   "phones_raw": [
+    "595981977313"
+   ],
+   "phones_normalized": [
+    "595981977313"
+   ],
+   "waid": "595981977313",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Sushi Maki",
+   "phones_raw": [
+    "595983450555"
+   ],
+   "phones_normalized": [
+    "595983450555"
+   ],
+   "waid": "595983450555",
+   "biz_name": "Sushi Maki",
+   "biz_description": "O MEJOR EN COMIDA ORIENTAL LO ENCONTRARAS AQUI EN OYABUN!!! ☺️",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Cliente 3d Corporation Py",
+   "phones_raw": [
+    "595991475870"
+   ],
+   "phones_normalized": [
+    "595991475870"
+   ],
+   "waid": "595991475870",
+   "biz_name": "Cliente 3d Corporation Py",
+   "biz_description": "ealizamos :",
+   "email": null,
+   "tag": "business"
+  },
+  {
+   "name": "Cliente 3d Anonimo 21",
+   "phones_raw": [
+    "595991612513"
+   ],
+   "phones_normalized": [
+    "595991612513"
+   ],
+   "waid": "595991612513",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Anonimo 2",
+   "phones_raw": [
+    "595981593330"
+   ],
+   "phones_normalized": [
+    "595981593330"
+   ],
+   "waid": "595981593330",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  },
+  {
+   "name": "Cliente 3d Anónimo 23",
+   "phones_raw": [
+    "595981282872"
+   ],
+   "phones_normalized": [
+    "595981282872"
+   ],
+   "waid": "595981282872",
+   "biz_name": null,
+   "biz_description": null,
+   "email": null,
+   "tag": "work_3d_clients"
+  }
+ ]
+}
