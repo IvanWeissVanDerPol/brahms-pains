@@ -1,10 +1,9 @@
 # Family Identity Corrections — Questionnaire for Ivan
 
-> **Status:** Awaiting answers from Ivan.
-> **Last updated:** 2026-07-23
+> **Status:** ✅ ANSWERED 2026-07-23 by Ivan (see [ANSWERS.md](ANSWERS.md)).
+> **Last updated:** 2026-07-23 (answers received)
 > **Purpose:** Replace 7+ wrong family assignments in `SOURCE_OF_TRUTH/wa_messages/` and `RELATIONSHIPS/dynamics/`
 > **Scope:** 25 chats to rename, 4+ vCard corrections, family profile rewrites, contact circle restructuring.
-> **Safe to answer out of order.** Skip any question you don't know.
 
 ---
 
