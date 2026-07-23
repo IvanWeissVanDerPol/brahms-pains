@@ -1,0 +1,323 @@
+{
+ "chat_id": 3730,
+ "slug": "_wa_chat_595985797496_3730",
+ "subject": null,
+ "jid_user": "595985797496",
+ "jid_server": "s.whatsapp.net",
+ "jid_raw": "595985797496@s.whatsapp.net",
+ "message_count": 26,
+ "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+ "source_db": "msgstore-latest-2026-07-20T14.db",
+ "messages": [
+  {
+   "id": 1178258,
+   "key_id": "D797859CD44529D812",
+   "ts_ms": 1697550247000,
+   "ts_iso": "2023-10-17T13:44:07+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 1,
+   "text": "este no deberia ser contenido de azucar es Elevado?",
+   "starred": false,
+   "media": {
+    "mime": "image/jpeg",
+    "path": null,
+    "size": 0,
+    "duration_s": 0,
+    "sha256_b64": "nAB0AkrbvBhjHspb+jflfiynXUfN3a6yj2pT4c5cexY=",
+    "media_name": null,
+    "media_caption": null
+   }
+  },
+  {
+   "id": 1178259,
+   "key_id": "DF49A59638FC59A939180DDEE4557A5C",
+   "ts_ms": 1697550300000,
+   "ts_iso": "2023-10-17T13:45:00+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holis",
+   "starred": false
+  },
+  {
+   "id": 1178260,
+   "key_id": "B0BB1BAF492AD267A42833C44AB51A6D",
+   "ts_ms": 1697550304000,
+   "ts_iso": "2023-10-17T13:45:04+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ni idea la verdad",
+   "starred": false
+  },
+  {
+   "id": 1178261,
+   "key_id": "7602B344158DAF911AB8B55E15A3D1A7",
+   "ts_ms": 1697550312000,
+   "ts_iso": "2023-10-17T13:45:12+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Voy a preguntarle a mis amis",
+   "starred": false
+  },
+  {
+   "id": 1178262,
+   "key_id": "F3C0861BDCF63FE770FC5ABECC4ACDF5",
+   "ts_ms": 1697550362000,
+   "ts_iso": "2023-10-17T13:46:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Se refiere al precio Aivan",
+   "starred": false
+  },
+  {
+   "id": 1178265,
+   "key_id": "285254DE92DA2D3334",
+   "ts_ms": 1697550393000,
+   "ts_iso": "2023-10-17T13:46:33+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "osea compras product torta y aparte ves el presio del azucar para la torta?",
+   "starred": false
+  },
+  {
+   "id": 1178268,
+   "key_id": "8273B4E77C9A8D65F0",
+   "ts_ms": 1697550428000,
+   "ts_iso": "2023-10-17T13:47:08+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "osea me parece que se refiere a el octagon negro que advierte de alto contenido de azucares",
+   "starred": false
+  },
+  {
+   "id": 1178290,
+   "key_id": "46B8AB2CBA711DF3F059F3D6D0942B29",
+   "ts_ms": 1697550782000,
+   "ts_iso": "2023-10-17T13:53:02+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "holis Bel!, no, habla sobre el precio cuando lo compras, que si es elevado, algunas personas ya no lo compran",
+   "starred": false
+  },
+  {
+   "id": 1178291,
+   "key_id": "3B8BCEE3C1C4C81B7F15B2643A9AF738",
+   "ts_ms": 1697550787000,
+   "ts_iso": "2023-10-17T13:53:07+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Esto me dijo",
+   "starred": false
+  },
+  {
+   "id": 1178299,
+   "key_id": "916A9B9C63D94E8EBD",
+   "ts_ms": 1697550853000,
+   "ts_iso": "2023-10-17T13:54:13+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "jajajaj \ncreo que no entendio o escribio nomas de una forma no Clara \nigual ya le respondi asumiendo que era lo que pense que era",
+   "starred": false
+  },
+  {
+   "id": 1178304,
+   "key_id": "A988C2695E3480D3DFFC60FF90367322",
+   "ts_ms": 1697550874000,
+   "ts_iso": "2023-10-17T13:54:34+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "usualmente tenes una marca específica de azúcar o edulcorante que compras, pero cuando sube el precio lo dejas de comprar o cambias la marca a uno de menor precio",
+   "starred": false
+  },
+  {
+   "id": 1178308,
+   "key_id": "77B0E5B23491F8DB53CDCD9BF97C9BCF",
+   "ts_ms": 1697550898000,
+   "ts_iso": "2023-10-17T13:54:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Gracias Ivan",
+   "starred": false
+  },
+  {
+   "id": 1178310,
+   "key_id": "63E9D1404D838A2CBE3BE5735B6FC2E0",
+   "ts_ms": 1697550914000,
+   "ts_iso": "2023-10-17T13:55:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Entendí tb tu punto",
+   "starred": false
+  },
+  {
+   "id": 1178311,
+   "key_id": "B6496701F634B80C3EEE288D326EB89B",
+   "ts_ms": 1697550914000,
+   "ts_iso": "2023-10-17T13:55:14+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Y congrats por la nominación",
+   "starred": false
+  },
+  {
+   "id": 1178317,
+   "key_id": "F2DF00651E25DDA373",
+   "ts_ms": 1697550958000,
+   "ts_iso": "2023-10-17T13:55:58+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "yep se refiere a si alguien deja de comprar product X de azucar por que subio de presio el producto (bolsa de azucar de 500 g )",
+   "starred": false
+  },
+  {
+   "id": 1178319,
+   "key_id": "C206615FDCDB910D08",
+   "ts_ms": 1697550971000,
+   "ts_iso": "2023-10-17T13:56:11+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "GG next time en USA va a ser en NASA",
+   "starred": false
+  },
+  {
+   "id": 1178320,
+   "key_id": "E2DD45C95BD47E3193",
+   "ts_ms": 1697550972000,
+   "ts_iso": "2023-10-17T13:56:12+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "okno",
+   "starred": false
+  },
+  {
+   "id": 1178326,
+   "key_id": "EC43055B1C0938B27E62AD17134C8850",
+   "ts_ms": 1697551098000,
+   "ts_iso": "2023-10-17T13:58:18+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Obvio que yess",
+   "starred": false
+  },
+  {
+   "id": 1178327,
+   "key_id": "182BE32990E5EBB25120AC6AB56B2B76",
+   "ts_ms": 1697551102000,
+   "ts_iso": "2023-10-17T13:58:22+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Confío en tu capacidad",
+   "starred": false
+  },
+  {
+   "id": 1279246,
+   "key_id": "FEC17F63F1BA68EA2C9AEB07D1163063",
+   "ts_ms": 1714171738000,
+   "ts_iso": "2024-04-26T22:48:58+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Holiss",
+   "starred": false
+  },
+  {
+   "id": 1279247,
+   "key_id": "356E6C011DFC729596597DE581D17D1A",
+   "ts_ms": 1714171759000,
+   "ts_iso": "2024-04-26T22:49:19+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Ivan por si acaso, estás en la ceremonia de Lu?",
+   "starred": false
+  },
+  {
+   "id": 1279248,
+   "key_id": "C3FD32705F6CC51DB9FAF764C3A01BAA",
+   "ts_ms": 1714171793016,
+   "ts_iso": "2024-04-26T22:49:53.016000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hola no estoy",
+   "starred": false
+  },
+  {
+   "id": 1279249,
+   "key_id": "6C5C44D20A36F5CD547768396ADC8EE7",
+   "ts_ms": 1714171808044,
+   "ts_iso": "2024-04-26T22:50:08.044000+00:00",
+   "from_me": true,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Tengo examen de trabajo y rindo mañana",
+   "starred": false
+  },
+  {
+   "id": 1279250,
+   "key_id": "33226C7D65C4B3A7F50C4CCFF7434BC3",
+   "ts_ms": 1714171833000,
+   "ts_iso": "2024-04-26T22:50:33+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Hijaa",
+   "starred": false
+  },
+  {
+   "id": 1279251,
+   "key_id": "3AC7E08E83CF6D5E96D033C3C2A1B678",
+   "ts_ms": 1714171836000,
+   "ts_iso": "2024-04-26T22:50:36+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Fuercitas",
+   "starred": false
+  },
+  {
+   "id": 1279252,
+   "key_id": "ADF9623F6A2552D1F440CD79380F160D",
+   "ts_ms": 1714171841000,
+   "ts_iso": "2024-04-26T22:50:41+00:00",
+   "from_me": false,
+   "sender_jid": null,
+   "type": 0,
+   "text": "Éxitos Ivan🙌🏼",
+   "starred": false
+  }
+ ],
+ "__provisional_name": {
+  "name": "Belén Jara",
+  "confidence": "VERIFIED_PHONEBOOK",
+  "jid_user": "595985797496",
+  "vcard_source": {
+   "source": "iPhone native contact (vCard export)",
+   "resolved_at": "2026-07-23T01:17:58.546920",
+   "biz": null,
+   "email": null,
+   "tag": "phonebook_import"
+  },
+  "banner": "✅ vCard-confirmed (Ivan's own phonebook). Auto-renamed; rename is irreversible in this branch.",
+  "set_at": "2026-07-23T01:17:58.546927",
+  "set_by": "chore/contact-circle-analysis branch (vCard import phase)"
+ }
+}

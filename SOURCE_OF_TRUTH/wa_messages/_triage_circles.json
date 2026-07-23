@@ -1,6 +1,6 @@
 {
  "version": 2,
- "generated_at": "2026-07-23T03:54:14.859589+00:00",
+ "generated_at": "2026-07-23T04:22:43.886145+00:00",
  "thresholds": {
   "group_shared_friend": 2,
   "jaccard_cluster": 0.3
@@ -79,7 +79,7 @@
     "score": 57911.1
    },
    {
-    "slug": "059__p2444___wa_chat_595994442444_9596",
+    "slug": "059__álvaro_claro___wa_chat_595994442444_9596",
     "jid_user": "595994442444",
     "groups_shared": 2,
     "total_msgs": 361,
@@ -109,7 +109,7 @@
     "score": 395026.2
    },
    {
-    "slug": "18__friend_ann_group___wa_chat_595985725366_99",
+    "slug": "18__luana_weiss___wa_chat_595985725366_99",
     "jid_user": "595985725366",
     "groups_shared": 4,
     "total_msgs": 2788,
@@ -202,7 +202,7 @@
     "score": 29925.6
    },
    {
-    "slug": "061__p8035___wa_chat_595971378035_1724",
+    "slug": "061__raff___wa_chat_595971378035_1724",
     "jid_user": "595971378035",
     "groups_shared": 17,
     "total_msgs": 642,
@@ -216,7 +216,7 @@
     "score": 27308.9
    },
    {
-    "slug": "066__p8040___wa_chat_595983738040_1270",
+    "slug": "066__rené_pols_poli___wa_chat_595983738040_1270",
     "jid_user": "595983738040",
     "groups_shared": 10,
     "total_msgs": 343,
@@ -244,7 +244,7 @@
     "score": 18803.8
    },
    {
-    "slug": "091__p6892___wa_chat_595961366892_1314",
+    "slug": "091__eros_dios_del_sexo___wa_chat_595961366892_1314",
     "jid_user": "595961366892",
     "groups_shared": 10,
     "total_msgs": 447,
@@ -300,7 +300,7 @@
     "score": 8140.1
    },
    {
-    "slug": "228__p0357___wa_chat_595991730357_1791",
+    "slug": "228__diego_emanuel_duarte___wa_chat_595991730357_1791",
     "jid_user": "595991730357",
     "groups_shared": 7,
     "total_msgs": 41,
@@ -328,7 +328,7 @@
     "score": 7315.1
    },
    {
-    "slug": "124__p7803___wa_chat_595971627803_1856",
+    "slug": "124__jessi_alarcon_poli___wa_chat_595971627803_1856",
     "jid_user": "595971627803",
     "groups_shared": 7,
     "total_msgs": 15,
@@ -540,7 +540,7 @@
     "score": 4011.1
    },
    {
-    "slug": "210__p7496___wa_chat_595985797496_3730",
+    "slug": "210__belén_jara___wa_chat_595985797496_3730",
     "jid_user": "595985797496",
     "groups_shared": 2,
     "total_msgs": 26,
@@ -626,7 +626,7 @@
     "score": 35409.4
    },
    {
-    "slug": "043__p3357___wa_chat_595961943357_4695",
+    "slug": "043__bianca_mm___wa_chat_595961943357_4695",
     "jid_user": "595961943357",
     "groups_shared": 5,
     "total_msgs": 612,
