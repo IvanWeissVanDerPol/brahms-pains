@@ -536,12 +536,14 @@ def main():
 
     payload = {"chats": [], "transcripts_available": 0, "transcripts_missing": 0}
 
-    # Define target chats
+    # Define target chats (using NEW post-family-correction dir names)
     targets = [
         ("tier1_deep", "magali_carreras___wa_chat_595981225272_62", "Magali Carreras"),
-        ("tier1_deep", "07__kiki_hermana___wa_chat_595985724135_111", "kiki_hermana"),
-        ("tier2_core", "18__luana_weiss___wa_chat_595985725366_99", "Luana Weiss"),
-        ("tier2_core", "jonathan_verdun___wa_chat_595971922708_3654", "jonathan_verdun"),
+        ("tier1_deep", "mom_sonia_weiss___wa_chat_595982515138_64", "Sonia Weiss (Mom)"),
+        ("tier1_deep", "sister_kyrian_kiki___wa_chat_595985724135_111", "Kyrian 'Kiki' (sister)"),
+        ("tier2_core", "dad_john_van_der_pol___wa_chat_595986138387_1265", "John van der Pol (Dad)"),
+        ("tier2_core", "sister_luana_weiss___wa_chat_595985725366_99", "Luana Weiss (sister)"),
+        ("tier3_extended", "grandma_riet_van_der_pol___wa_chat_31612495139_98", "Riet van der Pol (Grandma)"),
         # Tier3 — pick one with audio
         ("tier3_extended", None, None),  # search needed
     ]
