@@ -76,12 +76,12 @@ class Backend:
     transcribe_fn: Callable[[Path], dict]
 
 
-def detect_backend(model: str, force: Optional[str] = None) -> Backend:
+def detect_backend(model: str, force: Optional[str] = None, cpu_threads: int = 4) -> Backend:
     """Return the best available Whisper backend."""
     if force == "openai" or (force is None and os.environ.get("OPENAI_API_KEY")):
         return _openai_backend()
     if force == "faster" or (force is None and _try_import("faster_whisper")):
-        return _faster_backend(model)
+        return _faster_backend(model, cpu_threads=cpu_threads)
     if force == "openai-whisper" or (force is None and _try_import("whisper")):
         return _openai_whisper_backend(model)
     if force == "whisper-cpp" or (
@@ -133,10 +133,10 @@ def _openai_backend() -> Backend:
     return Backend(name="openai-cloud", transcribe_fn=_transcribe)
 
 
-def _faster_backend(model: str) -> Backend:
+def _faster_backend(model: str, cpu_threads: int = 4) -> Backend:
     from faster_whisper import WhisperModel  # type: ignore
 
-    mdl = WhisperModel(model, device="cpu", compute_type="int8")
+    mdl = WhisperModel(model, device="cpu", compute_type="int8", cpu_threads=cpu_threads)
 
     def _transcribe(opus: Path) -> dict:
         segments_iter, info = mdl.transcribe(str(opus), beam_size=5)
@@ -436,6 +436,7 @@ def main() -> int:
     p.add_argument("--model", type=str, default="medium", help="Whisper model (tiny/base/small/medium/large-v3)")
     p.add_argument("--backend", type=str, default=None, choices=["openai", "faster", "openai-whisper", "whisper-cpp"],
                    help="Force backend (default: auto-detect)")
+    p.add_argument("--cpu-threads", type=int, default=4, help="CPU threads for faster-whisper (default 4)")
     args = p.parse_args()
 
     # Smoke test mode
@@ -449,7 +450,7 @@ def main() -> int:
         if not opus:
             print(f"❌ PTT {args.ptt_id} not found")
             return 1
-        backend = detect_backend(args.model, args.backend)
+        backend = detect_backend(args.model, args.backend, args.cpu_threads)
         print(f"Transcribing single: {opus}")
         ok, msg = transcribe_one(opus, backend)
         print(f"  → {'✅' if ok else '❌'} {msg}")
@@ -475,7 +476,8 @@ def main() -> int:
         return 0
 
     # Real run
-    backend = detect_backend(args.model, args.backend)
+    backend = detect_backend(args.model, args.backend, args.cpu_threads)
+    print(f"Workers: {args.workers}, Backend: {backend.name}, Model: {args.model}, CPU threads: {args.cpu_threads}")
     print_banner(args, backend, todo)
     log(f"start workers={args.workers} backend={backend.name} count={len(todo)}")
 
