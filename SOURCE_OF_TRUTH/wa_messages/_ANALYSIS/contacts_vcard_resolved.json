@@ -1,711 +1,1951 @@
 {
- "total": 64,
- "generated_at": "2026-07-23T20:16:10.323103",
- "source_vcard": "Mica Weiss and 256 other contacts.vcf (full re-run 2026-07-23)",
+ "generated_at": "2026-07-23T22:30:00",
+ "source_vcard": "vcards_20260723_204030.vcf (full iPhone export)",
+ "total": 216,
  "resolutions": [
+  {
+   "jid_user": "595985724135",
+   "tier": "tier1_deep",
+   "dirname": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "name": "Kiki Weiss Hermana",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981324569",
+   "tier": "tier1_deep",
+   "dirname": "06__p4569___wa_chat_595981324569_1092",
+   "name": "Iván Weiss Número Pro",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
   {
    "jid_user": "595981225272",
    "tier": "tier1_deep",
-   "dirname": "magali_carreras____wa_chat_595981225272_62",
-   "chat_slug": "_wa_chat_595981225272_62",
-   "total_msgs": 28457,
-   "name": "Magali Carreras",
+   "dirname": "magali_carreras_amiga_fpuna____wa_chat_595981225272_62",
+   "name": "Magali Carreras Amiga Fpuna",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T20:16:10.323103"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
-   "jid_user": "595986418879",
-   "tier": "tier2_core",
-   "dirname": "27__job_auto_response___wa_chat_595986418879_1688",
-   "chat_slug": "_wa_chat_595986418879_1688",
-   "total_msgs": 896,
-   "name": "Lic Sanni Lalla",
+   "jid_user": "595981791823",
+   "tier": "tier1_deep",
+   "dirname": "05__lourdes_youko_kurama___wa_chat_595981791823_1683",
+   "name": "Lourdes Youko Kurama",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.577326"
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971922708",
+   "tier": "tier1_deep",
+   "dirname": "jonathan_verdun___wa_chat_595971922708_3654",
+   "name": "Jonatan Verdún",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595976538689",
+   "tier": "tier1_deep",
+   "dirname": "laura____wa_chat_595976538689_3231",
+   "name": "Laura 🐷",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595972130867",
+   "tier": "tier1_deep",
+   "dirname": "10__alejandro_cabral___wa_chat_595972130867_49",
+   "name": "Alejandro Cabral Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982515138",
+   "tier": "tier1_deep",
+   "dirname": "mom_sonia_weiss___wa_chat_595982515138_64",
+   "name": "Sonia Weiss",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986138387",
+   "tier": "tier2_core",
+   "dirname": "dad_john_van_der_pol___wa_chat_595986138387_1265",
+   "name": "John",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986805654",
+   "tier": "tier2_core",
+   "dirname": "fran____wa_chat_595986805654_1271",
+   "name": "Fran",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
    "jid_user": "595984690946",
    "tier": "tier2_core",
    "dirname": "matias_winter____wa_chat_595984690946_3704",
-   "chat_slug": "_wa_chat_595984690946_3704",
-   "total_msgs": 18,
    "name": "Matias Winter",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T20:16:10.323103"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
-   "jid_user": "15055778339",
+   "jid_user": "595991470829",
    "tier": "tier2_core",
-   "dirname": "31__household_financial___wa_chat_15055778339_2872",
-   "chat_slug": "_wa_chat_15055778339_2872",
-   "total_msgs": 598,
-   "name": "Toni Weiss",
+   "dirname": "22__cesar_poli___wa_chat_595991470829_106",
+   "name": "Cesar Poli",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.580632"
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985725871",
+   "tier": "tier2_core",
+   "dirname": "guitar_friend___wa_chat_595985725871_86",
+   "name": "Saskia Weiss",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985340001",
+   "tier": "tier2_core",
+   "dirname": "23__friend_uwu___wa_chat_595985340001_2439",
+   "name": "Sofi Nashe",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986418879",
+   "tier": "tier2_core",
+   "dirname": "27__lic_sanni_lalla___wa_chat_595986418879_1688",
+   "name": "Lic Sanni Lalla",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982510082",
+   "tier": "tier2_core",
+   "dirname": "cami_maidana____wa_chat_595982510082_1723",
+   "name": "Cami Maidana",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984160109",
+   "tier": "tier2_core",
+   "dirname": "junior_nazi____wa_chat_595984160109_1257",
+   "name": "Junior Nazi",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986464184",
+   "tier": "tier2_core",
+   "dirname": "38__friend_arrival___wa_chat_595986464184_1811",
+   "name": "fio",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595973572212",
+   "tier": "tier2_core",
+   "dirname": "34__friend_simple___wa_chat_595973572212_1994",
+   "name": "Alvaro Llano",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986868241",
+   "tier": "tier2_core",
+   "dirname": "35__friend_photos___wa_chat_595986868241_10607",
+   "name": "Dayah",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
    "jid_user": "595985725366",
    "tier": "tier2_core",
-   "dirname": "18__friend_ann_group___wa_chat_595985725366_99",
-   "chat_slug": "_wa_chat_595985725366_99",
-   "total_msgs": 2788,
+   "dirname": "sister_luana_weiss___wa_chat_595985725366_99",
    "name": "Luana Weiss",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.593222"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
-   "jid_user": "595981925772",
+   "jid_user": "595981868718",
    "tier": "tier2_core",
-   "dirname": "emilio_poli____wa_chat_595981925772_1253",
-   "chat_slug": "_wa_chat_595981925772_1253",
-   "total_msgs": 4230,
-   "name": "Emilio Poli",
+   "dirname": "ara_nunez_poli____wa_chat_595981868718_92",
+   "name": "Ara Nuñez Poli",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T20:16:10.323103"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
-   "jid_user": "595986138387",
+   "jid_user": "595984933862",
    "tier": "tier2_core",
-   "dirname": "32__friend_youtube___wa_chat_595986138387_1265",
-   "chat_slug": "_wa_chat_595986138387_1265",
-   "total_msgs": 1864,
-   "name": "John",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.622553"
-  },
-  {
-   "jid_user": "595983738040",
-   "tier": "tier3_extended",
-   "dirname": "066__p8040___wa_chat_595983738040_1270",
-   "chat_slug": "_wa_chat_595983738040_1270",
-   "total_msgs": 343,
-   "name": "René Pols Poli",
+   "dirname": "fidabel_poli____wa_chat_595984933862_1330",
+   "name": "Fidabel Poli",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.624252"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
-   "jid_user": "595961943357",
-   "tier": "tier3_extended",
-   "dirname": "043__p3357___wa_chat_595961943357_4695",
-   "chat_slug": "_wa_chat_595961943357_4695",
-   "total_msgs": 612,
-   "name": "Bianca MM",
+   "jid_user": "595984241789",
+   "tier": "tier2_core",
+   "dirname": "antono_insfran_compan____wa_chat_595984241789_1849",
+   "name": "Antoño Insfran Compañ",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.625839"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
-   "jid_user": "595994639567",
-   "tier": "tier3_extended",
-   "dirname": "060__p9567___wa_chat_595994639567_4227",
-   "chat_slug": "_wa_chat_595994639567_4227",
-   "total_msgs": 466,
-   "name": "Javier Vecino",
+   "jid_user": "595976569739",
+   "tier": "tier2_core",
+   "dirname": "25__sexshop_companion___wa_chat_595976569739_2083",
+   "name": "Rach",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.627098"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
-   "jid_user": "595986830049",
-   "tier": "tier3_extended",
-   "dirname": "054__p0049___wa_chat_595986830049_1694",
-   "chat_slug": "_wa_chat_595986830049_1694",
-   "total_msgs": 1100,
-   "name": "Génesis",
+   "jid_user": "595983111686",
+   "tier": "tier2_core",
+   "dirname": "28__lilian_riveros___wa_chat_595983111686_3524",
+   "name": "Lilian Riveros",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.629519"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
-   "jid_user": "595961366892",
-   "tier": "tier3_extended",
-   "dirname": "091__p6892___wa_chat_595961366892_1314",
-   "chat_slug": "_wa_chat_595961366892_1314",
-   "total_msgs": 447,
-   "name": "Eros Dios Del Sexo",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.630698"
-  },
-  {
-   "jid_user": "595985909813",
-   "tier": "tier3_extended",
-   "dirname": "047__p9813___wa_chat_595985909813_11354",
-   "chat_slug": "_wa_chat_595985909813_11354",
-   "total_msgs": 39,
-   "name": "Ueno Comprobante",
+   "jid_user": "595981459382",
+   "tier": "tier2_core",
+   "dirname": "daisy____wa_chat_595981459382_4380",
+   "name": "Daisy",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.630962"
-  },
-  {
-   "jid_user": "595991357332",
-   "tier": "tier3_extended",
-   "dirname": "mathias_barrios____wa_chat_595991357332_1958",
-   "chat_slug": "_wa_chat_595991357332_1958",
-   "total_msgs": 1468,
-   "name": "Mathias Barrios",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T20:16:10.323103"
-  },
-  {
-   "jid_user": "595994442444",
-   "tier": "tier3_extended",
-   "dirname": "059__p2444___wa_chat_595994442444_9596",
-   "chat_slug": "_wa_chat_595994442444_9596",
-   "total_msgs": 361,
-   "name": "Álvaro Claro",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.636063"
-  },
-  {
-   "jid_user": "31612495139",
-   "tier": "tier3_extended",
-   "dirname": "082__p5139___wa_chat_31612495139_98",
-   "chat_slug": "_wa_chat_31612495139_98",
-   "total_msgs": 277,
-   "name": "Riet van der Pol",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.637467"
-  },
-  {
-   "jid_user": "595982783951",
-   "tier": "tier3_extended",
-   "dirname": "071__p3951___wa_chat_595982783951_6901",
-   "chat_slug": "_wa_chat_595982783951_6901",
-   "total_msgs": 136,
-   "name": "Gerardo Ramos",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.638105"
-  },
-  {
-   "jid_user": "595983328698",
-   "tier": "tier3_extended",
-   "dirname": "092__p8698___wa_chat_595983328698_5343",
-   "chat_slug": "_wa_chat_595983328698_5343",
-   "total_msgs": 331,
-   "name": "Lazzerini Pizzs",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.639222"
-  },
-  {
-   "jid_user": "59899144505",
-   "tier": "tier3_extended",
-   "dirname": "073__p4505___wa_chat_59899144505_2396",
-   "chat_slug": "_wa_chat_59899144505_2396",
-   "total_msgs": 237,
-   "name": "Paloma",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.639976"
-  },
-  {
-   "jid_user": "595982850085",
-   "tier": "tier3_extended",
-   "dirname": "prima_mikaela_weiss____wa_chat_595982850085_1747",
-   "chat_slug": "_wa_chat_595982850085_1747",
-   "total_msgs": 272,
-   "name": "Prima Mikaela Weiss",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T20:16:10.323103"
-  },
-  {
-   "jid_user": "595971755786",
-   "tier": "tier3_extended",
-   "dirname": "074__p5786___wa_chat_595971755786_1741",
-   "chat_slug": "_wa_chat_595971755786_1741",
-   "total_msgs": 247,
-   "name": "Sebastián Aguilera",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.641928"
-  },
-  {
-   "jid_user": "595971378035",
-   "tier": "tier3_extended",
-   "dirname": "061__p8035___wa_chat_595971378035_1724",
-   "chat_slug": "_wa_chat_595971378035_1724",
-   "total_msgs": 642,
-   "name": "raff",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644149"
-  },
-  {
-   "jid_user": "595982136081",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595982136081_5696",
-   "chat_slug": "_wa_chat_595982136081_5696",
-   "total_msgs": 8,
-   "name": "Profe Lima Base De Datos 2",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644316"
-  },
-  {
-   "jid_user": "595992223429",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595992223429_5185",
-   "chat_slug": "_wa_chat_595992223429_5185",
-   "total_msgs": 3,
-   "name": "Ebsa",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644380"
-  },
-  {
-   "jid_user": "595974586075",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595974586075_6576",
-   "chat_slug": "_wa_chat_595974586075_6576",
-   "total_msgs": 17,
-   "name": "Helado Quatro D",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644456"
-  },
-  {
-   "jid_user": "595962151959",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595962151959_10084",
-   "chat_slug": "_wa_chat_595962151959_10084",
-   "total_msgs": 2,
-   "name": "Hospital De Clínicas",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644496"
-  },
-  {
-   "jid_user": "595994538574",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595994538574_3655",
-   "chat_slug": "_wa_chat_595994538574_3655",
-   "total_msgs": 6,
-   "name": "Viví Poli IAE",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644544"
-  },
-  {
-   "jid_user": "595983840946",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595983840946_10387",
-   "chat_slug": "_wa_chat_595983840946_10387",
-   "total_msgs": 19,
-   "name": "Lomito Liz",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644651"
-  },
-  {
-   "jid_user": "595984469443",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595984469443_11303",
-   "chat_slug": "_wa_chat_595984469443_11303",
-   "total_msgs": 3,
-   "name": "Locanto X",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644695"
-  },
-  {
-   "jid_user": "595994459555",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595994459555_9214",
-   "chat_slug": "_wa_chat_595994459555_9214",
-   "total_msgs": 60,
-   "name": "Jan van der Pol",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644910"
-  },
-  {
-   "jid_user": "595986113204",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595986113204_3242",
-   "chat_slug": "_wa_chat_595986113204_3242",
-   "total_msgs": 6,
-   "name": "Oktana",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.644983"
-  },
-  {
-   "jid_user": "595971227824",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595971227824_5316",
-   "chat_slug": "_wa_chat_595971227824_5316",
-   "total_msgs": 7,
-   "name": "Sebastian Moreno Wise Nuevo",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645063"
-  },
-  {
-   "jid_user": "31625105226",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_31625105226_2952",
-   "chat_slug": "_wa_chat_31625105226_2952",
-   "total_msgs": 7,
-   "name": "Richard",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645158"
-  },
-  {
-   "jid_user": "595981210320",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595981210320_3744",
-   "chat_slug": "_wa_chat_595981210320_3744",
-   "total_msgs": 9,
-   "name": "Shopping China",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645234"
-  },
-  {
-   "jid_user": "595961525896",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595961525896_120",
-   "chat_slug": "_wa_chat_595961525896_120",
-   "total_msgs": 5,
-   "name": "Emo Poli",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645295"
-  },
-  {
-   "jid_user": "595981428090",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595981428090_3734",
-   "chat_slug": "_wa_chat_595981428090_3734",
-   "total_msgs": 5,
-   "name": "Carlos Bernal",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645346"
-  },
-  {
-   "jid_user": "595982429294",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595982429294_3757",
-   "chat_slug": "_wa_chat_595982429294_3757",
-   "total_msgs": 8,
-   "name": "Soledad Duarte",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645398"
-  },
-  {
-   "jid_user": "13163723865",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_13163723865_2920",
-   "chat_slug": "_wa_chat_13163723865_2920",
-   "total_msgs": 1,
-   "name": "Joooyeon Heo",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645434"
-  },
-  {
-   "jid_user": "595991745652",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595991745652_3645",
-   "chat_slug": "_wa_chat_595991745652_3645",
-   "total_msgs": 1,
-   "name": "Osvaldo Amigo Fpuna",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645467"
-  },
-  {
-   "jid_user": "595961888226",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595961888226_2121",
-   "chat_slug": "_wa_chat_595961888226_2121",
-   "total_msgs": 16,
-   "name": "Marcelo Aguayo",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645529"
-  },
-  {
-   "jid_user": "595982988626",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595982988626_1779",
-   "chat_slug": "_wa_chat_595982988626_1779",
-   "total_msgs": 21,
-   "name": "Veterinaria Vida Animal",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.645635"
-  },
-  {
-   "jid_user": "595981478877",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_595981478877_174",
-   "chat_slug": "_wa_chat_595981478877_174",
-   "total_msgs": 706,
-   "name": "Oscar Rafaél",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.648338"
-  },
-  {
-   "jid_user": "33617854901",
-   "tier": "_dropped",
-   "dirname": "_wa_chat_33617854901_2950",
-   "chat_slug": "_wa_chat_33617854901_2950",
-   "total_msgs": 7,
-   "name": "Victor",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.648512"
-  },
-  {
-   "jid_user": "595992432097",
-   "tier": "untiered_personal",
-   "dirname": "240__p2097___wa_chat_595992432097_3075",
-   "chat_slug": "_wa_chat_595992432097_3075",
-   "total_msgs": 61,
-   "name": "Nara Mongelós",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.648829"
-  },
-  {
-   "jid_user": "595984884585",
-   "tier": "untiered_personal",
-   "dirname": "194__p4585___wa_chat_595984884585_1632",
-   "chat_slug": "_wa_chat_595984884585_1632",
-   "total_msgs": 140,
-   "name": "Natasha",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.649216"
-  },
-  {
-   "jid_user": "595985797496",
-   "tier": "untiered_personal",
-   "dirname": "210__p7496___wa_chat_595985797496_3730",
-   "chat_slug": "_wa_chat_595985797496_3730",
-   "total_msgs": 26,
-   "name": "Belén Jara",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.649315"
-  },
-  {
-   "jid_user": "595985778871",
-   "tier": "untiered_personal",
-   "dirname": "208__p8871___wa_chat_595985778871_3717",
-   "chat_slug": "_wa_chat_595985778871_3717",
-   "total_msgs": 42,
-   "name": "Gomeria Ingavi Criss",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.649417"
-  },
-  {
-   "jid_user": "595985786571",
-   "tier": "untiered_personal",
-   "dirname": "209__p6571___wa_chat_595985786571_3711",
-   "chat_slug": "_wa_chat_595985786571_3711",
-   "total_msgs": 117,
-   "name": "Primo Gabriel",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.649577"
-  },
-  {
-   "jid_user": "595985523033",
-   "tier": "untiered_personal",
-   "dirname": "205__p3033___wa_chat_595985523033_7793",
-   "chat_slug": "_wa_chat_595985523033_7793",
-   "total_msgs": 29,
-   "name": "Plub",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.649663"
-  },
-  {
-   "jid_user": "595992205268",
-   "tier": "untiered_personal",
-   "dirname": "236__p5268___wa_chat_595992205268_1869",
-   "chat_slug": "_wa_chat_595992205268_1869",
-   "total_msgs": 11,
-   "name": "Mama Cultiva",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.649715"
-  },
-  {
-   "jid_user": "595983144291",
-   "tier": "untiered_personal",
-   "dirname": "177__p4291___wa_chat_595983144291_3478",
-   "chat_slug": "_wa_chat_595983144291_3478",
-   "total_msgs": 43,
-   "name": "Pet Planet",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.649849"
-  },
-  {
-   "jid_user": "595976351903",
-   "tier": "untiered_personal",
-   "dirname": "146__p1903___wa_chat_595976351903_1740",
-   "chat_slug": "_wa_chat_595976351903_1740",
-   "total_msgs": 84,
-   "name": "Belén Fratta",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.650067"
-  },
-  {
-   "jid_user": "595982774456",
-   "tier": "untiered_personal",
-   "dirname": "174__p4456___wa_chat_595982774456_1751",
-   "chat_slug": "_wa_chat_595982774456_1751",
-   "total_msgs": 42,
-   "name": "Ana Esposa De Sander",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.650185"
-  },
-  {
-   "jid_user": "595981838763",
-   "tier": "untiered_personal",
-   "dirname": "169__p8763___wa_chat_595981838763_1894",
-   "chat_slug": "_wa_chat_595981838763_1894",
-   "total_msgs": 69,
-   "name": "Mymba Roga",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.650351"
-  },
-  {
-   "jid_user": "31640912250",
-   "tier": "untiered_personal",
-   "dirname": "104__p2250___wa_chat_31640912250_1850",
-   "chat_slug": "_wa_chat_31640912250_1850",
-   "total_msgs": 20,
-   "name": "Ester",
-   "confidence": "VCARD_GENERIC",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.650429"
-  },
-  {
-   "jid_user": "595216889000",
-   "tier": "untiered_personal",
-   "dirname": "110__p9000___wa_chat_595216889000_1416",
-   "chat_slug": "_wa_chat_595216889000_1416",
-   "total_msgs": 82,
-   "name": "Hospital Bautista",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.650745"
-  },
-  {
-   "jid_user": "595972144490",
-   "tier": "untiered_personal",
-   "dirname": "134__p4490___wa_chat_595972144490_1739",
-   "chat_slug": "_wa_chat_595972144490_1739",
-   "total_msgs": 55,
-   "name": "Jacque",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.650885"
-  },
-  {
-   "jid_user": "595971627803",
-   "tier": "untiered_personal",
-   "dirname": "124__p7803___wa_chat_595971627803_1856",
-   "chat_slug": "_wa_chat_595971627803_1856",
-   "total_msgs": 15,
-   "name": "Jessi Alarcon Poli",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.650947"
-  },
-  {
-   "jid_user": "595976819686",
-   "tier": "untiered_personal",
-   "dirname": "149__p9686___wa_chat_595976819686_10082",
-   "chat_slug": "_wa_chat_595976819686_10082",
-   "total_msgs": 23,
-   "name": "Luissushi",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.651084"
-  },
-  {
-   "jid_user": "595971303050",
-   "tier": "untiered_personal",
-   "dirname": "profe_diseno_de_compiladores____wa_chat_595971303050_5685",
-   "chat_slug": "_wa_chat_595971303050_5685",
-   "total_msgs": 13,
-   "name": "Profe Diseño De Compiladores",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T20:16:10.323103"
-  },
-  {
-   "jid_user": "595991730357",
-   "tier": "untiered_personal",
-   "dirname": "228__p0357___wa_chat_595991730357_1791",
-   "chat_slug": "_wa_chat_595991730357_1791",
-   "total_msgs": 41,
-   "name": "Diego Emanuel Duarte",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.651363"
-  },
-  {
-   "jid_user": "595971894777",
-   "tier": "untiered_personal",
-   "dirname": "130__p4777___wa_chat_595971894777_6608",
-   "chat_slug": "_wa_chat_595971894777_6608",
-   "total_msgs": 25,
-   "name": "Facebook Cerdo",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.651507"
-  },
-  {
-   "jid_user": "595976584000",
-   "tier": "untiered_personal",
-   "dirname": "147__p4000___wa_chat_595976584000_4322",
-   "chat_slug": "_wa_chat_595976584000_4322",
-   "total_msgs": 65,
-   "name": "Bacon Burgers",
-   "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (iPhone native)",
-   "resolved_at": "2026-07-23T01:17:38.651747"
+   "resolved_at": "2026-07-23T22:30:00"
   },
   {
    "jid_user": "595991549029",
    "tier": "tier2_core",
    "dirname": "lucia_diaz____wa_chat_595991549029_1956",
-   "chat_slug": "__wa_chat_595991549029_1956",
-   "total_msgs": 0,
    "name": "Lucía Díaz",
+   "source": "vCard phonebook (full export, post-rename)",
    "confidence": "VERIFIED_PHONEBOOK",
-   "source": "vCard phonebook (re-renamed 2026-07-23)",
-   "resolved_at": "2026-07-23T20:16:10.323103"
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981473912",
+   "tier": "tier2_core",
+   "dirname": "40__victor_urgent___wa_chat_595981473912_1762",
+   "name": "Victor Duerksen",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985249907",
+   "tier": "tier2_core",
+   "dirname": "adri____wa_chat_595985249907_9628",
+   "name": "Adri 🌸",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981925772",
+   "tier": "tier2_core",
+   "dirname": "emilio_poli____wa_chat_595981925772_1253",
+   "name": "Emilio Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "15055778339",
+   "tier": "tier2_core",
+   "dirname": "uncle_antonio_toni_lopez_weiss___wa_chat_15055778339_2872",
+   "name": "Toni Weiss",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994341668",
+   "tier": "tier2_core",
+   "dirname": "maia____wa_chat_595994341668_1955",
+   "name": "Maia",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595962291837",
+   "tier": "tier2_core",
+   "dirname": "16__friend_alvaro___wa_chat_595962291837_9625",
+   "name": "Defi Not There 4 U",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595961366892",
+   "tier": "tier3_extended",
+   "dirname": "091__eros_dios_del_sexo___wa_chat_595961366892_1314",
+   "name": "Eros Dios Del Sexo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986830049",
+   "tier": "tier3_extended",
+   "dirname": "054__génesis___wa_chat_595986830049_1694",
+   "name": "Génesis",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991469087",
+   "tier": "tier3_extended",
+   "dirname": "fer_cuevas____wa_chat_595991469087_4649",
+   "name": "Fer Cuevas",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985951732",
+   "tier": "tier3_extended",
+   "dirname": "063__p1732___wa_chat_595985951732_1722",
+   "name": "Luján Ríos Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982843645",
+   "tier": "tier3_extended",
+   "dirname": "magali_dealer____wa_chat_595982843645_3101",
+   "name": "Magali Dealer",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983240258",
+   "tier": "tier3_extended",
+   "dirname": "075__p0258___wa_chat_595983240258_3008",
+   "name": "Micaela Velázquez",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985855075",
+   "tier": "tier3_extended",
+   "dirname": "uncle_gerold_manders___wa_chat_595985855075_1366",
+   "name": "Gerold Manders",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982783951",
+   "tier": "tier3_extended",
+   "dirname": "071__gerardo_ramos___wa_chat_595982783951_6901",
+   "name": "Gerardo Ramos",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982944453",
+   "tier": "tier3_extended",
+   "dirname": "058__p4453___wa_chat_595982944453_2454",
+   "name": "Camila Pintora",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984401410",
+   "tier": "tier3_extended",
+   "dirname": "086__p1410___wa_chat_595984401410_4438",
+   "name": "Prof. Diego Pinto",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "491743785770",
+   "tier": "tier3_extended",
+   "dirname": "065__p5770___wa_chat_491743785770_1989",
+   "name": "Lucas Germán",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971378035",
+   "tier": "tier3_extended",
+   "dirname": "don_cangrejo_poli____wa_chat_595971378035_1724",
+   "name": "Don Cangrejo Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986129386",
+   "tier": "tier3_extended",
+   "dirname": "041__p9386___wa_chat_595986129386_1781",
+   "name": "Enrique Sanchez",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "33665298582",
+   "tier": "tier3_extended",
+   "dirname": "042__p8582___wa_chat_33665298582_2646",
+   "name": "Ideline Brisa <3",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982410566",
+   "tier": "tier3_extended",
+   "dirname": "098__p0566___wa_chat_595982410566_9085",
+   "name": "Anna Rodas van der Pol",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982553100",
+   "tier": "tier3_extended",
+   "dirname": "056__p3100___wa_chat_595982553100_9254",
+   "name": "Maga",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595961943357",
+   "tier": "tier3_extended",
+   "dirname": "043__bianca_mm___wa_chat_595961943357_4695",
+   "name": "Bianca MM",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595973757353",
+   "tier": "tier3_extended",
+   "dirname": "067__p7353___wa_chat_595973757353_1731",
+   "name": "Ivan Varela Compañero ",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595962288968",
+   "tier": "tier3_extended",
+   "dirname": "052__p8968___wa_chat_595962288968_1698",
+   "name": "Mark Lorey",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981656962",
+   "tier": "tier3_extended",
+   "dirname": "hugo_mentormate___wa_chat_595981656962_3522",
+   "name": "=48=75=67=6F=20=4E=75=C3=B1=65=7A=20=5A=79=6D=61=6E=73=63=6B=69=20=F0=",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986710408",
+   "tier": "tier3_extended",
+   "dirname": "076__p0408___wa_chat_595986710408_1699",
+   "name": "Mat",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994639567",
+   "tier": "tier3_extended",
+   "dirname": "060__javier_vecino___wa_chat_595994639567_4227",
+   "name": "Javier Vecino",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986637132",
+   "tier": "tier3_extended",
+   "dirname": "090__p7132___wa_chat_595986637132_5130",
+   "name": "Alexander van der Pol",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991705424",
+   "tier": "tier3_extended",
+   "dirname": "mario_gueyraud____wa_chat_595991705424_1202",
+   "name": "Mario Gueyraud",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982139653",
+   "tier": "tier3_extended",
+   "dirname": "guillermo_paiva____wa_chat_595982139653_1855",
+   "name": "Guillermo Paiva",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595972835716",
+   "tier": "tier3_extended",
+   "dirname": "piter_lesme_poli____wa_chat_595972835716_1244",
+   "name": "Piter Lesme Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983328698",
+   "tier": "tier3_extended",
+   "dirname": "092__lazzerini_pizzs___wa_chat_595983328698_5343",
+   "name": "Lazzerini Pizzs",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981514195",
+   "tier": "tier3_extended",
+   "dirname": "049__p4195___wa_chat_595981514195_9627",
+   "name": "Adrian",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "31612495139",
+   "tier": "tier3_extended",
+   "dirname": "grandma_riet_van_der_pol___wa_chat_31612495139_98",
+   "name": "Riet van der Pol",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994442444",
+   "tier": "tier3_extended",
+   "dirname": "059__álvaro_claro___wa_chat_595994442444_9596",
+   "name": "Álvaro Claro",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981199223",
+   "tier": "tier3_extended",
+   "dirname": "050__p9223___wa_chat_595981199223_1728",
+   "name": "Joaquina Ex",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971505289",
+   "tier": "tier3_extended",
+   "dirname": "044__p5289___wa_chat_595971505289_110",
+   "name": "Cliente 3d Edgar Fpuna",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991357332",
+   "tier": "tier3_extended",
+   "dirname": "mathias_barrios____wa_chat_595991357332_1958",
+   "name": "Mathias Barrios",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983738040",
+   "tier": "tier3_extended",
+   "dirname": "066__rené_pols_poli___wa_chat_595983738040_1270",
+   "name": "René Pols Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985909813",
+   "tier": "tier3_extended",
+   "dirname": "047__ueno_comprobante___wa_chat_595985909813_11354",
+   "name": "Ueno Comprobante",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971755786",
+   "tier": "tier3_extended",
+   "dirname": "074__sebastián_aguilera___wa_chat_595971755786_1741",
+   "name": "Sebastián Aguilera",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991797009",
+   "tier": "tier3_extended",
+   "dirname": "069__p7009___wa_chat_595991797009_1949",
+   "name": "Jessica Chena",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986361808",
+   "tier": "tier3_extended",
+   "dirname": "055__p1808___wa_chat_595986361808_4032",
+   "name": "benja",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981262272",
+   "tier": "tier3_extended",
+   "dirname": "093__p2272___wa_chat_595981262272_1550",
+   "name": "Prof Christian Von Lucken",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982850085",
+   "tier": "tier3_extended",
+   "dirname": "prima_mikaela_weiss____wa_chat_595982850085_1747",
+   "name": "Prima Mikaela Weiss",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986186281",
+   "tier": "tier3_extended",
+   "dirname": "079__p6281___wa_chat_595986186281_1292",
+   "name": "Marco Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "59899144505",
+   "tier": "tier3_extended",
+   "dirname": "073__paloma___wa_chat_59899144505_2396",
+   "name": "Paloma",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983281667",
+   "tier": "tier3_extended",
+   "dirname": "062__p1667___wa_chat_595983281667_3593",
+   "name": "Profe Gcc",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982923913",
+   "tier": "tier3_extended",
+   "dirname": "087__p3913___wa_chat_595982923913_4696",
+   "name": "Natalia Cruz",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983523251",
+   "tier": "tier3_extended",
+   "dirname": "077__p3251___wa_chat_595983523251_1276",
+   "name": "Nathaly Schinini",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983727370",
+   "tier": "tier3_extended",
+   "dirname": "081__p7370___wa_chat_595983727370_1926",
+   "name": "Rita",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982136081",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982136081_5696",
+   "name": "Profe Lima Base De Datos 2",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981183723",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981183723_6931",
+   "name": "Refrigeración",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "5493515406764",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_5493515406764_10392",
+   "name": "Meli Red",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992223429",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595992223429_5185",
+   "name": "Ebsa",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992679747",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595992679747_3646",
+   "name": "Poli Raúl",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984787482",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595984787482_6575",
+   "name": "Printobook",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595976909490",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595976909490_10320",
+   "name": "Delivery De Pollo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595972808418",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595972808418_1858",
+   "name": "Romina Alonzo Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595974586075",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595974586075_6576",
+   "name": "Helado Quatro D",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595962151959",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595962151959_10084",
+   "name": "Hospital De Clínicas",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983771093",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595983771093_7525",
+   "name": "Anillo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981472444",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981472444_1308",
+   "name": "Carli Weiss",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994538574",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595994538574_3655",
+   "name": "Viví Poli IAE",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994609417",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595994609417_3721",
+   "name": "Joana Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981825140",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981825140_8970",
+   "name": "Alfredo Vecino Destacamento Cazal",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982728533",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982728533_1387",
+   "name": "Lucas Bogarin W",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595974209044",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595974209044_3571",
+   "name": "sakurajapanfood",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984175112",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595984175112_7527",
+   "name": "Gabriela González IT A",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595961482854",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595961482854_7826",
+   "name": "Estudio Medieval",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994459555",
+   "tier": "_dropped",
+   "dirname": "grandpa_jan_van_der_pol___wa_chat_595994459555_9214",
+   "name": "Jan van der Pol",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595993598454",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595993598454_2323",
+   "name": "Laura Troche",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983840946",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595983840946_10387",
+   "name": "Lomiteria Liz fdo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982236093",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982236093_1848",
+   "name": "Fran IEK",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984469443",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595984469443_11303",
+   "name": "Locanto X",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984985392",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595984985392_6878",
+   "name": "Ngo Outlet 2",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992503013",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595992503013_5236",
+   "name": "Fausto",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983660080",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595983660080_3641",
+   "name": "Mariela Fernandez",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992444123",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595992444123_11846",
+   "name": "Dali",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992440311",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595992440311_1760",
+   "name": "luis godoy dure",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986113204",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595986113204_3242",
+   "name": "Oktana",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981945426",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981945426_9591",
+   "name": "Taller - Check Engine Car Service Car Service",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971227824",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595971227824_5316",
+   "name": "Sebastian Moreno Wise Nuevo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985720342",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595985720342_6816",
+   "name": "asado Ingavi",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982911935",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982911935_1911",
+   "name": "Laura Cabral",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981541913",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981541913_1906",
+   "name": "Escribania",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "31625105226",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_31625105226_2952",
+   "name": "Richard",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984694993",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595984694993_10665",
+   "name": "Fiorella Flecha",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981210320",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981210320_3744",
+   "name": "Shopping China",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595976961499",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595976961499_1319",
+   "name": "Soledad Amiga Fpuna",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981000111",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981000111_9689",
+   "name": "Magali Amarilla LinkedIn",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595961525896",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595961525896_120",
+   "name": "Emo Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981428090",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981428090_3734",
+   "name": "Carlos Bernal",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985775779",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595985775779_3756",
+   "name": "Limitaría Cerca De Cas",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982429294",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982429294_3757",
+   "name": "Soledad Duarte",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994252817",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595994252817_11522",
+   "name": "Tsi",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "13163723865",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_13163723865_2920",
+   "name": "Joooyeon Heo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985653855",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595985653855_5471",
+   "name": "Kunu U",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982251841",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982251841_333",
+   "name": "Sushi",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "31616116992",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_31616116992_1464",
+   "name": "Karst",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991745652",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595991745652_3645",
+   "name": "Osvaldo Amigo Fpuna",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981246776",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981246776_6604",
+   "name": "Impresiones Mcla",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "31682752326",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_31682752326_8177",
+   "name": "Matías Nld",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595961888226",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595961888226_2121",
+   "name": "Marcelo Aguayo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982988626",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982988626_1779",
+   "name": "Veterinaria Vida Animal",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981478877",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981478877_174",
+   "name": "Cliente 3d Óscar Rafa",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "33617854901",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_33617854901_2950",
+   "name": "Victor",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595972259553",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595972259553_6930",
+   "name": "Outlet NGO Eugenio",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982138376",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982138376_3731",
+   "name": "Gabriela Rivelli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985206684",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595985206684_10390",
+   "name": "Botica Magistral",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981938677",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981938677_9871",
+   "name": "Alexa Baez",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595976150299",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595976150299_7967",
+   "name": "Paulista Grill",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971111939",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595971111939_1489",
+   "name": "Adoptame Py",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992298225",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595992298225_9317",
+   "name": "Don Asado",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982296168",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595982296168_10484",
+   "name": "Fabián Agua Vitaly",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981685815",
+   "tier": "_dropped",
+   "dirname": "_wa_chat_595981685815_1742",
+   "name": "Selva Office",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "18063410917",
+   "tier": "untiered_personal",
+   "dirname": "103__p0917___wa_chat_18063410917_2976",
+   "name": "Devon Robinson",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971190089",
+   "tier": "untiered_personal",
+   "dirname": "116__p0089___wa_chat_595971190089_5319",
+   "name": "Jose S",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992289295",
+   "tier": "untiered_personal",
+   "dirname": "237__p9295___wa_chat_595992289295_5635",
+   "name": "Despensa Esquina",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992290656",
+   "tier": "untiered_personal",
+   "dirname": "238__p0656___wa_chat_595992290656_1725",
+   "name": "Héctor Gonzales IEN",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595962155684",
+   "tier": "untiered_personal",
+   "dirname": "112__p5684___wa_chat_595962155684_1881",
+   "name": "Alexander Cañete",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985523033",
+   "tier": "untiered_personal",
+   "dirname": "205__plub___wa_chat_595985523033_7793",
+   "name": "Plub",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971942911",
+   "tier": "untiered_personal",
+   "dirname": "131__p2911___wa_chat_595971942911_1748",
+   "name": "Rosario Ruiz✨",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985797496",
+   "tier": "untiered_personal",
+   "dirname": "210__belén_jara___wa_chat_595985797496_3730",
+   "name": "Belén Jara",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984328174",
+   "tier": "untiered_personal",
+   "dirname": "189__p8174___wa_chat_595984328174_1729",
+   "name": "Buco Bogado Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994778026",
+   "tier": "untiered_personal",
+   "dirname": "249__p8026___wa_chat_595994778026_11180",
+   "name": "Wiliam Gr",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985837875",
+   "tier": "untiered_personal",
+   "dirname": "211__p7875___wa_chat_595985837875_4762",
+   "name": "Jose Jsrdinero",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981606000",
+   "tier": "untiered_personal",
+   "dirname": "161__p6000___wa_chat_595981606000_5065",
+   "name": "Bacon Villa Morra",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981801824",
+   "tier": "untiered_personal",
+   "dirname": "167__p1824___wa_chat_595981801824_11545",
+   "name": "Dra Wilma",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981616294",
+   "tier": "untiered_personal",
+   "dirname": "163__p6294___wa_chat_595981616294_1696",
+   "name": "Vet Cerca De Casa Dra Mirna Espinola",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595976331904",
+   "tier": "untiered_personal",
+   "dirname": "145__p1904___wa_chat_595976331904_1866",
+   "name": "Tury 🦋",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991620661",
+   "tier": "untiered_personal",
+   "dirname": "225__p0661___wa_chat_595991620661_1733",
+   "name": "Marlon Miranda",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986189433",
+   "tier": "untiered_personal",
+   "dirname": "217__p9433___wa_chat_595986189433_1752",
+   "name": "Secretaria Virginia Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981838763",
+   "tier": "untiered_personal",
+   "dirname": "169__mymba_roga___wa_chat_595981838763_1894",
+   "name": "Mymba Roga",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985778871",
+   "tier": "untiered_personal",
+   "dirname": "208__gomeria_ingavi_criss___wa_chat_595985778871_3717",
+   "name": "Gomeria Ingavi Criss",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595974465910",
+   "tier": "untiered_personal",
+   "dirname": "141__p5910___wa_chat_595974465910_5322",
+   "name": "Alejandro Maciel mentormate",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971322013",
+   "tier": "untiered_personal",
+   "dirname": "120__p2013___wa_chat_595971322013_10114",
+   "name": "Pausanti Burger",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971612900",
+   "tier": "untiered_personal",
+   "dirname": "123__p2900___wa_chat_595971612900_2048",
+   "name": "Foneca",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985450764",
+   "tier": "untiered_personal",
+   "dirname": "203__p0764___wa_chat_595985450764_11470",
+   "name": "Patiño",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984202187",
+   "tier": "untiered_personal",
+   "dirname": "187__p2187___wa_chat_595984202187_10088",
+   "name": "Migue",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "13162108040",
+   "tier": "untiered_personal",
+   "dirname": "101__p8040___wa_chat_13162108040_3066",
+   "name": "Jaden",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985532655",
+   "tier": "untiered_personal",
+   "dirname": "206__p2655___wa_chat_595985532655_5077",
+   "name": "yanny 🍂✨",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971194933",
+   "tier": "untiered_personal",
+   "dirname": "117__p4933___wa_chat_595971194933_1719",
+   "name": "Diego Duarte",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "13163475777",
+   "tier": "untiered_personal",
+   "dirname": "102__p5777___wa_chat_13163475777_3667",
+   "name": "Raúl Wichita",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595972144490",
+   "tier": "untiered_personal",
+   "dirname": "134__jacque___wa_chat_595972144490_1739",
+   "name": "Jacque",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981127507",
+   "tier": "untiered_personal",
+   "dirname": "151__p7507___wa_chat_595981127507_1768",
+   "name": "Alexander van der Pol",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971784500",
+   "tier": "untiered_personal",
+   "dirname": "129__p4500___wa_chat_595971784500_2024",
+   "name": "Alejandra",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971894777",
+   "tier": "untiered_personal",
+   "dirname": "130__facebook_cerdo___wa_chat_595971894777_6608",
+   "name": "Facebook Cerdo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991730357",
+   "tier": "untiered_personal",
+   "dirname": "228__diego_emanuel_duarte___wa_chat_595991730357_1791",
+   "name": "Diego Emanuel Duarte",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984116894",
+   "tier": "untiered_personal",
+   "dirname": "186__p6894___wa_chat_595984116894_6741",
+   "name": "Gibir Banco De Semen",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595976819686",
+   "tier": "untiered_personal",
+   "dirname": "149__luissushi___wa_chat_595976819686_10082",
+   "name": "Luissushi",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991965767",
+   "tier": "untiered_personal",
+   "dirname": "234__p5767___wa_chat_595991965767_5169",
+   "name": "José Villalba Lugo💡",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971133008",
+   "tier": "untiered_personal",
+   "dirname": "114__p3008___wa_chat_595971133008_1297",
+   "name": "Shwarma",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985733375",
+   "tier": "untiered_personal",
+   "dirname": "207__p3375___wa_chat_595985733375_1831",
+   "name": "Guille Pamplona",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991381669",
+   "tier": "untiered_personal",
+   "dirname": "michi_caramelo_ale_gom____wa_chat_595991381669_6911",
+   "name": "Michi Caramelo(Ale Góm",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595982774456",
+   "tier": "untiered_personal",
+   "dirname": "174__ana_esposa_de_sander___wa_chat_595982774456_1751",
+   "name": "Ana Esposa De Sander",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985786571",
+   "tier": "untiered_personal",
+   "dirname": "cousin_gabriel___wa_chat_595985786571_3711",
+   "name": "Primo Gabriel",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991737902",
+   "tier": "untiered_personal",
+   "dirname": "229__p7902___wa_chat_595991737902_10143",
+   "name": "Lomito",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983144291",
+   "tier": "untiered_personal",
+   "dirname": "177__pet_planet___wa_chat_595983144291_3478",
+   "name": "Pet Planet",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595972590455",
+   "tier": "untiered_personal",
+   "dirname": "137__p0455___wa_chat_595972590455_11179",
+   "name": "FARMATOTAL - Suc. Avda. Ingavi Avda. Ingavi",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983345985",
+   "tier": "untiered_personal",
+   "dirname": "180__p5985___wa_chat_595983345985_5625",
+   "name": "Noe Ortiz🎇",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "31640912250",
+   "tier": "untiered_personal",
+   "dirname": "104__ester___wa_chat_31640912250_1850",
+   "name": "Ester",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981545498",
+   "tier": "untiered_personal",
+   "dirname": "160__p5498___wa_chat_595981545498_273",
+   "name": "Carlos Oviedo",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992432097",
+   "tier": "untiered_personal",
+   "dirname": "240__nara_mongelós___wa_chat_595992432097_3075",
+   "name": "Nara Mongelós",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595993474633",
+   "tier": "untiered_personal",
+   "dirname": "245__p4633___wa_chat_595993474633_11029",
+   "name": "Ogr",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981186252",
+   "tier": "untiered_personal",
+   "dirname": "153__p6252___wa_chat_595981186252_1295",
+   "name": "Vet Cerca De Weisshoyse",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971303050",
+   "tier": "untiered_personal",
+   "dirname": "profe_diseno_de_compil____wa_chat_595971303050_5685",
+   "name": "Profe Diseño De Compil",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984884585",
+   "tier": "untiered_personal",
+   "dirname": "194__natasha___wa_chat_595984884585_1632",
+   "name": "Natasha",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595993535355",
+   "tier": "untiered_personal",
+   "dirname": "246__p5355___wa_chat_595993535355_4233",
+   "name": "Grido Ingavi",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595971627803",
+   "tier": "untiered_personal",
+   "dirname": "124__jessi_alarcon_poli___wa_chat_595971627803_1856",
+   "name": "Jessi Alarcon Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986815081",
+   "tier": "untiered_personal",
+   "dirname": "222__p5081___wa_chat_595986815081_1736",
+   "name": "duckba 🪅",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595976584000",
+   "tier": "untiered_personal",
+   "dirname": "147__bacon_burgers___wa_chat_595976584000_4322",
+   "name": "Bacon Burgers",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984898288",
+   "tier": "untiered_personal",
+   "dirname": "195__p8288___wa_chat_595984898288_9149",
+   "name": "Luis Gilberto Salinas",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984409200",
+   "tier": "untiered_personal",
+   "dirname": "190__p9200___wa_chat_595984409200_4630",
+   "name": "Estudio Medieval",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595994562211",
+   "tier": "untiered_personal",
+   "dirname": "248__p2211___wa_chat_595994562211_7832",
+   "name": "Taberna La Trocha",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595992205268",
+   "tier": "untiered_personal",
+   "dirname": "236__mama_cultiva___wa_chat_595992205268_1869",
+   "name": "Mama Cultiva",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991904000",
+   "tier": "untiered_personal",
+   "dirname": "232__p4000___wa_chat_595991904000_1809",
+   "name": "Bold Adventures Paraguay",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "33783552870",
+   "tier": "untiered_personal",
+   "dirname": "105__p2870___wa_chat_33783552870_2215",
+   "name": "Antonio Franch",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595981375463",
+   "tier": "untiered_personal",
+   "dirname": "157__p5463___wa_chat_595981375463_9165",
+   "name": "Camilo Amarilla",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595983380156",
+   "tier": "untiered_personal",
+   "dirname": "181__p0156___wa_chat_595983380156_3701",
+   "name": "=4A=75=61=6E=72=61=20=46=65=72=72=65=69=72=61=20=F0=9F=87=B5=F0=9F=87=",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595976351903",
+   "tier": "untiered_personal",
+   "dirname": "belen_fratts_officina____wa_chat_595976351903_1740",
+   "name": "Belén Fratts Officina",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595216889000",
+   "tier": "untiered_personal",
+   "dirname": "110__hospital_bautista___wa_chat_595216889000_1416",
+   "name": "Hospital Bautista",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595972116024",
+   "tier": "untiered_personal",
+   "dirname": "133__p6024___wa_chat_595972116024_1306",
+   "name": "Carlos Urdapilleta",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595984626802",
+   "tier": "untiered_personal",
+   "dirname": "191__p6802___wa_chat_595984626802_1720",
+   "name": "Brenda Poli",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595985208778",
+   "tier": "untiered_personal",
+   "dirname": "201__p8778___wa_chat_595985208778_1946",
+   "name": "Tasha",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595991952375",
+   "tier": "untiered_personal",
+   "dirname": "233__p2375___wa_chat_595991952375_10863",
+   "name": "Ferrex",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
+  },
+  {
+   "jid_user": "595986110595",
+   "tier": "untiered_personal",
+   "dirname": "212__consultorio_duerksen___wa_chat_595986110595_1767",
+   "name": "Consultorio Duerksen",
+   "source": "vCard phonebook (full export, post-rename)",
+   "confidence": "VERIFIED_PHONEBOOK",
+   "resolved_at": "2026-07-23T22:30:00"
   }
  ]
 }
