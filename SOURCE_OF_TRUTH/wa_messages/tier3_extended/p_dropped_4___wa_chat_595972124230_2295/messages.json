@@ -1,46 +1,54 @@
 {
- "chat_id": 2295,
- "slug": "_wa_chat_595972124230_2295",
- "subject": null,
- "jid_user": "595972124230",
- "jid_server": "s.whatsapp.net",
- "jid_raw": "595972124230@s.whatsapp.net",
- "message_count": 3,
- "extracted_at_utc": "2026-07-20T00:00:00+00:00",
- "source_db": "msgstore-latest-2026-07-20T14.db",
- "messages": [
-  {
-   "id": 1295457,
-   "key_id": "9FBFF216112F43CD8E",
-   "ts_ms": 1717200870000,
-   "ts_iso": "2024-06-01T00:14:30+00:00",
-   "from_me": true,
-   "sender_jid": null,
-   "type": 0,
-   "text": "hola\nsorry que no fui util en el tp :(",
-   "starred": false
-  },
-  {
-   "id": 1295482,
-   "key_id": "18FDFC4A1217327E41F430D2055EF487",
-   "ts_ms": 1717201549000,
-   "ts_iso": "2024-06-01T00:25:49+00:00",
-   "from_me": false,
-   "sender_jid": null,
-   "type": 0,
-   "text": "Tranquilo",
-   "starred": false
-  },
-  {
-   "id": 1295483,
-   "key_id": "347F3EFBB50032A8D9FC90065C7293CD",
-   "ts_ms": 1717201570000,
-   "ts_iso": "2024-06-01T00:26:10+00:00",
-   "from_me": false,
-   "sender_jid": null,
-   "type": 0,
-   "text": "Para la próxima",
-   "starred": false
+  "chat_id": 2295,
+  "slug": "_wa_chat_595972124230_2295",
+  "subject": null,
+  "jid_user": "595972124230",
+  "jid_server": "s.whatsapp.net",
+  "jid_raw": "595972124230@s.whatsapp.net",
+  "message_count": 3,
+  "extracted_at_utc": "2026-07-20T00:00:00+00:00",
+  "source_db": "msgstore-latest-2026-07-20T14.db",
+  "messages": [
+    {
+      "id": 1295457,
+      "key_id": "9FBFF216112F43CD8E",
+      "ts_ms": 1717200870000,
+      "ts_iso": "2024-06-01T00:14:30+00:00",
+      "from_me": true,
+      "sender_jid": null,
+      "type": 0,
+      "text": "hola\nsorry que no fui util en el tp :(",
+      "starred": false
+    },
+    {
+      "id": 1295482,
+      "key_id": "18FDFC4A1217327E41F430D2055EF487",
+      "ts_ms": 1717201549000,
+      "ts_iso": "2024-06-01T00:25:49+00:00",
+      "from_me": false,
+      "sender_jid": null,
+      "type": 0,
+      "text": "Tranquilo",
+      "starred": false
+    },
+    {
+      "id": 1295483,
+      "key_id": "347F3EFBB50032A8D9FC90065C7293CD",
+      "ts_ms": 1717201570000,
+      "ts_iso": "2024-06-01T00:26:10+00:00",
+      "from_me": false,
+      "sender_jid": null,
+      "type": 0,
+      "text": "Para la próxima",
+      "starred": false
+    }
+  ],
+  "__provisional_name": {
+    "name": "p_dropped_4",
+    "confidence": "LOW",
+    "jid_user": "595972124230",
+    "banner": "⚠️ PROVISIONAL NAME — pending Ivan's confirmation. Confidence: LOW. Reversible via git revert.",
+    "set_at": "2026-07-22",
+    "set_by": "chore/contact-circle-analysis branch"
   }
- ]
 }
