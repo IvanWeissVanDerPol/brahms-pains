@@ -1,0 +1,699 @@
+{
+ "version": 2,
+ "generated_at": "2026-07-23T03:45:02.631898+00:00",
+ "thresholds": {
+  "group_shared_friend": 2,
+  "jaccard_cluster": 0.3
+ },
+ "circle_indicators": {
+  "inner_circle_casa_weiss": [
+   "AGI is cumming",
+   "Apuesta",
+   "Casa stuff",
+   "Casa weiss (internal)",
+   "Cuarteto el 15/06 ✨",
+   "D&D",
+   "Funhouse🎉",
+   "Jojo gym",
+   "LA CASA 🏡",
+   "cosas de casa"
+  ],
+  "family_weiss_vdp": [
+   "Familie van der pol",
+   "Mansion weiss",
+   "Primos Weiss ⚝",
+   "Weiss Siblings"
+  ],
+  "fpuna_cs_classmates": [
+   "BD2 IIN 2024",
+   "Club de Info GRAL",
+   "Compiladores 2024",
+   "Emergentes 2023",
+   "FPUNA Ciberseguridad 2024",
+   "GCC 2023",
+   "IEEE CS UNA SBC 2025 🖥🌐✨",
+   "IEEEXtreme - Interesados UNA",
+   "IIN - FPUNA - GRAL",
+   "IIN FPUNA 019",
+   "IIN FPUNA 2015-2021",
+   "IIN FPUNA 2019 - 2025 👨‍💻👩‍💻",
+   "IS3 2024",
+   "IS3 SIN PROFES",
+   "Ingeniería En Informática",
+   "ML 2023-1",
+   "ML grupo"
+  ],
+  "pytesting_community": [
+   "Baby Shower 02/03🐥",
+   "ISTQB Brave and courageous",
+   "Introducción al Aseguramiento de la Calidad y Automatización",
+   "Py Testing Community",
+   "QE Meriendita!",
+   "QE yguazu falls trip",
+   "Samber +atyra",
+   "Taller de Introducción QA [Instructores]",
+   "Team Isabelle MM"
+  ]
+ },
+ "contacts_by_circle": {
+  "other_contacts": [
+   {
+    "slug": "laura_x___wa_chat_595976538689_3231",
+    "jid_user": "595976538689",
+    "groups_shared": 6,
+    "total_msgs": 23105,
+    "score": 668531.8
+   },
+   {
+    "slug": "07__kiki_hermana___wa_chat_595985724135_111",
+    "jid_user": "595985724135",
+    "groups_shared": 4,
+    "total_msgs": 7838,
+    "score": 395026.2
+   },
+   {
+    "slug": "10__alejandro_cabral___wa_chat_595972130867_49",
+    "jid_user": "595972130867",
+    "groups_shared": 26,
+    "total_msgs": 23000,
+    "score": 369123.0
+   },
+   {
+    "slug": "fpuna_alvaro_alt___wa_chat_595986805654_1271",
+    "jid_user": "595986805654",
+    "groups_shared": 23,
+    "total_msgs": 7392,
+    "score": 220533.6
+   },
+   {
+    "slug": "skype_friend___wa_chat_595981925772_1253",
+    "jid_user": "595981925772",
+    "groups_shared": 21,
+    "total_msgs": 4230,
+    "score": 191599.6
+   },
+   {
+    "slug": "helpp_friend___wa_chat_595981868718_92",
+    "jid_user": "595981868718",
+    "groups_shared": 17,
+    "total_msgs": 3985,
+    "score": 127881.7
+   },
+   {
+    "slug": "18__friend_ann_group___wa_chat_595985725366_99",
+    "jid_user": "595985725366",
+    "groups_shared": 4,
+    "total_msgs": 2788,
+    "score": 109402.0
+   },
+   {
+    "slug": "ann_kink___wa_chat_595991549029_1956",
+    "jid_user": "595991549029",
+    "groups_shared": 5,
+    "total_msgs": 5155,
+    "score": 108986.1
+   },
+   {
+    "slug": "guitar_friend___wa_chat_595985725871_86",
+    "jid_user": "595985725871",
+    "groups_shared": 3,
+    "total_msgs": 4121,
+    "score": 94122.5
+   },
+   {
+    "slug": "22__cesar_poli___wa_chat_595991470829_106",
+    "jid_user": "595991470829",
+    "groups_shared": 18,
+    "total_msgs": 3157,
+    "score": 76688.9
+   },
+   {
+    "slug": "becas_kansas_friend___wa_chat_595984933862_1330",
+    "jid_user": "595984933862",
+    "groups_shared": 20,
+    "total_msgs": 2877,
+    "score": 75155.3
+   },
+   {
+    "slug": "compiladores_friend___wa_chat_595982510082_1723",
+    "jid_user": "595982510082",
+    "groups_shared": 16,
+    "total_msgs": 1432,
+    "score": 70213.9
+   },
+   {
+    "slug": "28__lilian_riveros___wa_chat_595983111686_3524",
+    "jid_user": "595983111686",
+    "groups_shared": 5,
+    "total_msgs": 604,
+    "score": 62064.4
+   },
+   {
+    "slug": "alvaro_drip___wa_chat_595984160109_1257",
+    "jid_user": "595984160109",
+    "groups_shared": 17,
+    "total_msgs": 2697,
+    "score": 57911.1
+   },
+   {
+    "slug": "34__friend_simple___wa_chat_595973572212_1994",
+    "jid_user": "595973572212",
+    "groups_shared": 5,
+    "total_msgs": 2236,
+    "score": 50682.9
+   },
+   {
+    "slug": "qa_impostor_friend___wa_chat_595981258488_3525",
+    "jid_user": "595981258488",
+    "groups_shared": 4,
+    "total_msgs": 1327,
+    "score": 47441.1
+   },
+   {
+    "slug": "alejandro_alt_2___wa_chat_595981459382_4380",
+    "jid_user": "595981459382",
+    "groups_shared": 5,
+    "total_msgs": 327,
+    "score": 35409.4
+   },
+   {
+    "slug": "044__p5289___wa_chat_595971505289_110",
+    "jid_user": "595971505289",
+    "groups_shared": 11,
+    "total_msgs": 1420,
+    "score": 33208.4
+   },
+   {
+    "slug": "041__p9386___wa_chat_595986129386_1781",
+    "jid_user": "595986129386",
+    "groups_shared": 5,
+    "total_msgs": 753,
+    "score": 30918.3
+   },
+   {
+    "slug": "045__p5424___wa_chat_595991705424_1202",
+    "jid_user": "595991705424",
+    "groups_shared": 7,
+    "total_msgs": 703,
+    "score": 29925.6
+   },
+   {
+    "slug": "043__p3357___wa_chat_595961943357_4695",
+    "jid_user": "595961943357",
+    "groups_shared": 5,
+    "total_msgs": 612,
+    "score": 28871.6
+   },
+   {
+    "slug": "061__p8035___wa_chat_595971378035_1724",
+    "jid_user": "595971378035",
+    "groups_shared": 17,
+    "total_msgs": 642,
+    "score": 28281.4
+   },
+   {
+    "slug": "fpuna_uncertain___wa_chat_595991357332_1958",
+    "jid_user": "595991357332",
+    "groups_shared": 4,
+    "total_msgs": 1468,
+    "score": 27308.9
+   },
+   {
+    "slug": "066__p8040___wa_chat_595983738040_1270",
+    "jid_user": "595983738040",
+    "groups_shared": 10,
+    "total_msgs": 343,
+    "score": 20895.9
+   },
+   {
+    "slug": "068__p5716___wa_chat_595972835716_1244",
+    "jid_user": "595972835716",
+    "groups_shared": 10,
+    "total_msgs": 629,
+    "score": 20752.5
+   },
+   {
+    "slug": "079__p6281___wa_chat_595986186281_1292",
+    "jid_user": "595986186281",
+    "groups_shared": 13,
+    "total_msgs": 467,
+    "score": 20651.5
+   },
+   {
+    "slug": "055__p1808___wa_chat_595986361808_4032",
+    "jid_user": "595986361808",
+    "groups_shared": 2,
+    "total_msgs": 537,
+    "score": 18803.8
+   },
+   {
+    "slug": "059__p2444___wa_chat_595994442444_9596",
+    "jid_user": "595994442444",
+    "groups_shared": 2,
+    "total_msgs": 361,
+    "score": 17688.7
+   },
+   {
+    "slug": "091__p6892___wa_chat_595961366892_1314",
+    "jid_user": "595961366892",
+    "groups_shared": 10,
+    "total_msgs": 447,
+    "score": 15138.3
+   },
+   {
+    "slug": "069__p7009___wa_chat_595991797009_1949",
+    "jid_user": "595991797009",
+    "groups_shared": 3,
+    "total_msgs": 589,
+    "score": 14879.1
+   },
+   {
+    "slug": "087__p3913___wa_chat_595982923913_4696",
+    "jid_user": "595982923913",
+    "groups_shared": 6,
+    "total_msgs": 217,
+    "score": 13756.7
+   },
+   {
+    "slug": "100__p9653___wa_chat_595982139653_1855",
+    "jid_user": "595982139653",
+    "groups_shared": 8,
+    "total_msgs": 97,
+    "score": 12892.1
+   },
+   {
+    "slug": "189__p8174___wa_chat_595984328174_1729",
+    "jid_user": "595984328174",
+    "groups_shared": 12,
+    "total_msgs": 54,
+    "score": 11812.1
+   },
+   {
+    "slug": "p_dropped_3___wa_chat_595984708142_2041",
+    "jid_user": "595984708142",
+    "groups_shared": 13,
+    "total_msgs": 6,
+    "score": 10440.0
+   },
+   {
+    "slug": "hugo_mentormate___wa_chat_595981656962_3522",
+    "jid_user": "595981656962",
+    "groups_shared": 4,
+    "total_msgs": 179,
+    "score": 10027.4
+   },
+   {
+    "slug": "224__p1669___wa_chat_595991381669_6911",
+    "jid_user": "595991381669",
+    "groups_shared": 6,
+    "total_msgs": 90,
+    "score": 9369.4
+   },
+   {
+    "slug": "johana_candidate___wa_chat_595971179825_3698",
+    "jid_user": "595971179825",
+    "groups_shared": 8,
+    "total_msgs": 39,
+    "score": 8364.2
+   },
+   {
+    "slug": "p_dropped_1___wa_chat_595984241789_1849",
+    "jid_user": "595984241789",
+    "groups_shared": 10,
+    "total_msgs": 38,
+    "score": 8278.7
+   },
+   {
+    "slug": "p_dropped_2___wa_chat_595984690946_3704",
+    "jid_user": "595984690946",
+    "groups_shared": 10,
+    "total_msgs": 18,
+    "score": 8175.5
+   },
+   {
+    "slug": "099__p9143___wa_chat_595984689143_4130",
+    "jid_user": "595984689143",
+    "groups_shared": 2,
+    "total_msgs": 126,
+    "score": 8140.1
+   },
+   {
+    "slug": "_wa_chat_595992222691_2013",
+    "jid_user": "595992222691",
+    "groups_shared": 2,
+    "total_msgs": 3,
+    "score": 7883.3
+   },
+   {
+    "slug": "228__p0357___wa_chat_595991730357_1791",
+    "jid_user": "595991730357",
+    "groups_shared": 7,
+    "total_msgs": 41,
+    "score": 7798.5
+   },
+   {
+    "slug": "113__p2999___wa_chat_595971102999_2992",
+    "jid_user": "595971102999",
+    "groups_shared": 4,
+    "total_msgs": 59,
+    "score": 7597.8
+   },
+   {
+    "slug": "207__p3375___wa_chat_595985733375_1831",
+    "jid_user": "595985733375",
+    "groups_shared": 6,
+    "total_msgs": 85,
+    "score": 7457.4
+   },
+   {
+    "slug": "129__p4500___wa_chat_595971784500_2024",
+    "jid_user": "595971784500",
+    "groups_shared": 5,
+    "total_msgs": 165,
+    "score": 7315.1
+   },
+   {
+    "slug": "141__p5910___wa_chat_595974465910_5322",
+    "jid_user": "595974465910",
+    "groups_shared": 5,
+    "total_msgs": 92,
+    "score": 7247.6
+   },
+   {
+    "slug": "097__lid_854912___wa_lid_118262125854912_15538",
+    "jid_user": "118262125854912",
+    "groups_shared": 2,
+    "total_msgs": 5060,
+    "score": 6779.6
+   },
+   {
+    "slug": "lid_425545___wa_lid_113090817425545_13053",
+    "jid_user": "113090817425545",
+    "groups_shared": 5,
+    "total_msgs": 15598,
+    "score": 6510.7
+   },
+   {
+    "slug": "124__p7803___wa_chat_595971627803_1856",
+    "jid_user": "595971627803",
+    "groups_shared": 7,
+    "total_msgs": 15,
+    "score": 6494.4
+   },
+   {
+    "slug": "244__p3154___wa_chat_595992853154_2985",
+    "jid_user": "595992853154",
+    "groups_shared": 3,
+    "total_msgs": 49,
+    "score": 6420.1
+   },
+   {
+    "slug": "117__p4933___wa_chat_595971194933_1719",
+    "jid_user": "595971194933",
+    "groups_shared": 6,
+    "total_msgs": 15,
+    "score": 5510.1
+   },
+   {
+    "slug": "138__p4744___wa_chat_595972994744_4768",
+    "jid_user": "595972994744",
+    "groups_shared": 5,
+    "total_msgs": 30,
+    "score": 5214.9
+   },
+   {
+    "slug": "116__p0089___wa_chat_595971190089_5319",
+    "jid_user": "595971190089",
+    "groups_shared": 4,
+    "total_msgs": 52,
+    "score": 5113.6
+   },
+   {
+    "slug": "p_dropped_4___wa_chat_595972124230_2295",
+    "jid_user": "595972124230",
+    "groups_shared": 6,
+    "total_msgs": 3,
+    "score": 4831.7
+   },
+   {
+    "slug": "myre_atyra___wa_chat_595991469087_4649",
+    "jid_user": "595991469087",
+    "groups_shared": 6,
+    "total_msgs": 5,
+    "score": 4809.8
+   },
+   {
+    "slug": "unknown_atyra___wa_chat_595991700814_4652",
+    "jid_user": "595991700814",
+    "groups_shared": 6,
+    "total_msgs": 11,
+    "score": 4807.8
+   },
+   {
+    "slug": "218__p5564___wa_chat_595986445564_7538",
+    "jid_user": "595986445564",
+    "groups_shared": 3,
+    "total_msgs": 111,
+    "score": 4180.2
+   },
+   {
+    "slug": "108__p9093___wa_chat_5215547629093_4393",
+    "jid_user": "5215547629093",
+    "groups_shared": 2,
+    "total_msgs": 91,
+    "score": 4011.1
+   },
+   {
+    "slug": "133__p6024___wa_chat_595972116024_1306",
+    "jid_user": "595972116024",
+    "groups_shared": 4,
+    "total_msgs": 17,
+    "score": 3769.8
+   },
+   {
+    "slug": "123__p2900___wa_chat_595971612900_2048",
+    "jid_user": "595971612900",
+    "groups_shared": 2,
+    "total_msgs": 135,
+    "score": 3581.1
+   },
+   {
+    "slug": "_wa_chat_595982340951_2272",
+    "jid_user": "595982340951",
+    "groups_shared": 4,
+    "total_msgs": 18,
+    "score": 3523.9
+   },
+   {
+    "slug": "_wa_chat_595986743708_2274",
+    "jid_user": "595986743708",
+    "groups_shared": 3,
+    "total_msgs": 6,
+    "score": 3296.2
+   },
+   {
+    "slug": "_wa_chat_595961525896_120",
+    "jid_user": "595961525896",
+    "groups_shared": 4,
+    "total_msgs": 5,
+    "score": 3270.2
+   },
+   {
+    "slug": "_wa_chat_595984264979_2284",
+    "jid_user": "595984264979",
+    "groups_shared": 4,
+    "total_msgs": 3,
+    "score": 3252.5
+   },
+   {
+    "slug": "_wa_chat_595972808418_1858",
+    "jid_user": "595972808418",
+    "groups_shared": 4,
+    "total_msgs": 7,
+    "score": 3240.9
+   },
+   {
+    "slug": "_wa_chat_595972386499_2475",
+    "jid_user": "595972386499",
+    "groups_shared": 4,
+    "total_msgs": 3,
+    "score": 3200.0
+   },
+   {
+    "slug": "128__p7980___wa_chat_595971727980_3616",
+    "jid_user": "595971727980",
+    "groups_shared": 3,
+    "total_msgs": 27,
+    "score": 3025.4
+   },
+   {
+    "slug": "148__p7023___wa_chat_595976777023_2027",
+    "jid_user": "595976777023",
+    "groups_shared": 3,
+    "total_msgs": 33,
+    "score": 2848.7
+   },
+   {
+    "slug": "_wa_chat_595982388158_2097",
+    "jid_user": "595982388158",
+    "groups_shared": 3,
+    "total_msgs": 11,
+    "score": 2791.9
+   },
+   {
+    "slug": "171__p8373___wa_chat_595982418373_4145",
+    "jid_user": "595982418373",
+    "groups_shared": 2,
+    "total_msgs": 33,
+    "score": 2741.0
+   },
+   {
+    "slug": "_wa_chat_595983858997_3598",
+    "jid_user": "595983858997",
+    "groups_shared": 3,
+    "total_msgs": 12,
+    "score": 2698.3
+   },
+   {
+    "slug": "_wa_chat_595993598454_2323",
+    "jid_user": "595993598454",
+    "groups_shared": 2,
+    "total_msgs": 8,
+    "score": 2511.9
+   },
+   {
+    "slug": "210__p7496___wa_chat_595985797496_3730",
+    "jid_user": "595985797496",
+    "groups_shared": 2,
+    "total_msgs": 26,
+    "score": 2462.1
+   },
+   {
+    "slug": "_wa_chat_595971545477_2237",
+    "jid_user": "595971545477",
+    "groups_shared": 3,
+    "total_msgs": 6,
+    "score": 2402.7
+   },
+   {
+    "slug": "_wa_chat_13135550002_10103",
+    "jid_user": "13135550002",
+    "groups_shared": 2,
+    "total_msgs": 7,
+    "score": 2031.7
+   },
+   {
+    "slug": "_wa_chat_595992282576_4231",
+    "jid_user": "595992282576",
+    "groups_shared": 2,
+    "total_msgs": 39,
+    "score": 1999.5
+   },
+   {
+    "slug": "_wa_chat_595994609417_3721",
+    "jid_user": "595994609417",
+    "groups_shared": 2,
+    "total_msgs": 7,
+    "score": 1800.0
+   },
+   {
+    "slug": "_wa_chat_595973908532_5713",
+    "jid_user": "595973908532",
+    "groups_shared": 2,
+    "total_msgs": 5,
+    "score": 1792.0
+   },
+   {
+    "slug": "_wa_chat_595971792390_3634",
+    "jid_user": "595971792390",
+    "groups_shared": 2,
+    "total_msgs": 1,
+    "score": 1669.0
+   },
+   {
+    "slug": "_wa_chat_595994723736_4838",
+    "jid_user": "595994723736",
+    "groups_shared": 2,
+    "total_msgs": 4,
+    "score": 1668.8
+   },
+   {
+    "slug": "_wa_chat_595981685815_1742",
+    "jid_user": "595981685815",
+    "groups_shared": 2,
+    "total_msgs": 9,
+    "score": 1612.5
+   },
+   {
+    "slug": "_wa_chat_595982138376_3731",
+    "jid_user": "595982138376",
+    "groups_shared": 2,
+    "total_msgs": 1,
+    "score": 1601.5
+   },
+   {
+    "slug": "_wa_chat_595971722516_8987",
+    "jid_user": "595971722516",
+    "groups_shared": 2,
+    "total_msgs": 1,
+    "score": 1600.0
+   },
+   {
+    "slug": "lid_946676___wa_lid_154288881946676_13498",
+    "jid_user": "154288881946676",
+    "groups_shared": 39,
+    "total_msgs": 3539,
+    "score": 1389.6
+   },
+   {
+    "slug": "lid_547891___wa_lid_158089659547891_14700",
+    "jid_user": "158089659547891",
+    "groups_shared": 2,
+    "total_msgs": 2588,
+    "score": 1253.6
+   },
+   {
+    "slug": "_wa_lid_171416456540224_13129",
+    "jid_user": "171416456540224",
+    "groups_shared": 3,
+    "total_msgs": 208,
+    "score": 316.6
+   },
+   {
+    "slug": "_wa_lid_57797458792574_15073",
+    "jid_user": "57797458792574",
+    "groups_shared": 3,
+    "total_msgs": 281,
+    "score": 163.0
+   },
+   {
+    "slug": "_wa_lid_189486155702510_15527",
+    "jid_user": "189486155702510",
+    "groups_shared": 5,
+    "total_msgs": 125,
+    "score": 124.7
+   },
+   {
+    "slug": "_wa_lid_123184141619444_17036",
+    "jid_user": "123184141619444",
+    "groups_shared": 2,
+    "total_msgs": 109,
+    "score": 101.3
+   },
+   {
+    "slug": "_wa_lid_76824231051438_12954",
+    "jid_user": "76824231051438",
+    "groups_shared": 5,
+    "total_msgs": 43,
+    "score": 98.7
+   },
+   {
+    "slug": "_wa_lid_48284106268799_13051",
+    "jid_user": "48284106268799",
+    "groups_shared": 2,
+    "total_msgs": 13,
+    "score": 35.5
+   }
+  ]
+ }
+}
