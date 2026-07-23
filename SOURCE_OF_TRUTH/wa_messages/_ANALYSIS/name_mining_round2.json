@@ -1,0 +1,1349 @@
+{
+  "generated_at": "2026-07-23T05:07:59.176684+00:00",
+  "method": "co-member + name-mention + self-intro regex (no LLM)",
+  "priority_jids": [
+    "595962291837",
+    "595985340001",
+    "595983822921",
+    "595993553949",
+    "595985249907",
+    "595973572212",
+    "595986805654",
+    "595981324569",
+    "595971505289",
+    "595986464184",
+    "595981199223",
+    "595982553100",
+    "595985435809",
+    "595973757353",
+    "595982223241",
+    "595991705424",
+    "595986868241",
+    "595985951732",
+    "595985412456",
+    "595991549029"
+  ],
+  "results": [
+    {
+      "jid": "595962291837",
+      "tier": "tier2_core",
+      "dirname": "16__friend_alvaro___wa_chat_595962291837_9625",
+      "msgs": 4269,
+      "audio": 637,
+      "co_members_top": [
+        [
+          "595976538689",
+          1
+        ],
+        [
+          "18399774130329",
+          1
+        ],
+        [
+          "595972130867",
+          1
+        ],
+        [
+          "277210241978486",
+          1
+        ],
+        [
+          "146235130421424",
+          1
+        ],
+        [
+          "13135550002",
+          1
+        ],
+        [
+          "4823348949190",
+          1
+        ],
+        [
+          "120363379714913758",
+          1
+        ],
+        [
+          "595982553100",
+          1
+        ],
+        [
+          "595981514195",
+          1
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          33
+        ],
+        [
+          "Claro",
+          4
+        ],
+        [
+          "Dios",
+          4
+        ],
+        [
+          "Victor",
+          3
+        ],
+        [
+          "Bautista",
+          2
+        ],
+        [
+          "Álvaro",
+          1
+        ],
+        [
+          "Del",
+          1
+        ],
+        [
+          "Mm",
+          1
+        ],
+        [
+          "John",
+          1
+        ],
+        [
+          "Duarte",
+          1
+        ],
+        [
+          "Weiss",
+          1
+        ],
+        [
+          "Pol",
+          1
+        ],
+        [
+          "Vida",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [
+        [
+          "de",
+          4
+        ]
+      ],
+      "text_msgs_scanned": 3387,
+      "proposed_name": "Claro",
+      "confidence": "LOW",
+      "evidence": [
+        "Name 'Claro' mentioned 4× — soft signal",
+        "Most-shared contact: laura_x (595976538689) in 1 groups with this chat",
+        "Third-party references: 'de' (×4)"
+      ]
+    },
+    {
+      "jid": "595985340001",
+      "tier": "tier2_core",
+      "dirname": "23__friend_uwu___wa_chat_595985340001_2439",
+      "msgs": 4098,
+      "audio": 278,
+      "co_members_top": [],
+      "name_mentions_top": [
+        [
+          "De",
+          32
+        ],
+        [
+          "Weiss",
+          3
+        ],
+        [
+          "Luana",
+          3
+        ],
+        [
+          "Datos",
+          2
+        ],
+        [
+          "John",
+          2
+        ],
+        [
+          "Emilio",
+          2
+        ],
+        [
+          "Pol",
+          2
+        ],
+        [
+          "Claro",
+          1
+        ],
+        [
+          "Pet",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [
+        [
+          "Luana",
+          2
+        ]
+      ],
+      "text_msgs_scanned": 3500,
+      "proposed_name": "Weiss",
+      "confidence": "LOW",
+      "evidence": [
+        "Name 'Weiss' mentioned 3× — soft signal",
+        "Third-party references: 'Luana' (×2)"
+      ]
+    },
+    {
+      "jid": "595983822921",
+      "tier": "tier2_core",
+      "dirname": "14__friend_brasilia___wa_chat_595983822921_11297",
+      "msgs": 3898,
+      "audio": 136,
+      "co_members_top": [],
+      "name_mentions_top": [
+        [
+          "Pol",
+          24
+        ],
+        [
+          "De",
+          18
+        ],
+        [
+          "Weiss",
+          6
+        ],
+        [
+          "Dios",
+          2
+        ],
+        [
+          "Base",
+          2
+        ],
+        [
+          "Duarte",
+          2
+        ],
+        [
+          "Richard",
+          2
+        ],
+        [
+          "China",
+          1
+        ],
+        [
+          "Emilio",
+          1
+        ],
+        [
+          "Amigo",
+          1
+        ],
+        [
+          "John",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 3364,
+      "proposed_name": "Pol",
+      "confidence": "MEDIUM",
+      "evidence": [
+        "Name 'Pol' mentioned 24× in text — matches known contact(s) [('31612495139', 'Riet van der Pol'), ('595994459555', 'Jan van der Pol')]"
+      ]
+    },
+    {
+      "jid": "595993553949",
+      "tier": "tier2_core",
+      "dirname": "33__kiki_adjacent___wa_chat_595993553949_12779",
+      "msgs": 2525,
+      "audio": 121,
+      "co_members_top": [],
+      "name_mentions_top": [
+        [
+          "De",
+          15
+        ],
+        [
+          "Luana",
+          4
+        ],
+        [
+          "Weiss",
+          3
+        ],
+        [
+          "Pol",
+          2
+        ],
+        [
+          "Victor",
+          2
+        ],
+        [
+          "Amigo",
+          1
+        ],
+        [
+          "Claro",
+          1
+        ],
+        [
+          "Dios",
+          1
+        ],
+        [
+          "Helado",
+          1
+        ],
+        [
+          "Bacon",
+          1
+        ],
+        [
+          "Facebook",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 2306,
+      "proposed_name": "Luana",
+      "confidence": "LOW",
+      "evidence": [
+        "Name 'Luana' mentioned 4× — soft signal"
+      ]
+    },
+    {
+      "jid": "595985249907",
+      "tier": "tier2_core",
+      "dirname": "22__friend_tiktok_share___wa_chat_595985249907_9628",
+      "msgs": 2399,
+      "audio": 152,
+      "co_members_top": [
+        [
+          "595976538689",
+          1
+        ],
+        [
+          "18399774130329",
+          1
+        ],
+        [
+          "595972130867",
+          1
+        ],
+        [
+          "277210241978486",
+          1
+        ],
+        [
+          "146235130421424",
+          1
+        ],
+        [
+          "13135550002",
+          1
+        ],
+        [
+          "4823348949190",
+          1
+        ],
+        [
+          "120363379714913758",
+          1
+        ],
+        [
+          "595982553100",
+          1
+        ],
+        [
+          "595981514195",
+          1
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          16
+        ],
+        [
+          "Dios",
+          2
+        ],
+        [
+          "Del",
+          2
+        ],
+        [
+          "John",
+          2
+        ],
+        [
+          "Claro",
+          1
+        ],
+        [
+          "Weiss",
+          1
+        ],
+        [
+          "Pol",
+          1
+        ],
+        [
+          "Diego",
+          1
+        ],
+        [
+          "Luana",
+          1
+        ]
+      ],
+      "self_intro_names": [
+        "Lourdes"
+      ],
+      "third_party_names": [],
+      "text_msgs_scanned": 1967,
+      "proposed_name": "Lourdes",
+      "confidence": "HIGH",
+      "evidence": [
+        "Self-intro pattern matched: 'Lourdes' (1 times) — high-confidence identity",
+        "Most-shared contact: laura_x (595976538689) in 1 groups with this chat"
+      ]
+    },
+    {
+      "jid": "595973572212",
+      "tier": "tier2_core",
+      "dirname": "34__friend_simple___wa_chat_595973572212_1994",
+      "msgs": 2236,
+      "audio": 46,
+      "co_members_top": [
+        [
+          "595972130867",
+          3
+        ],
+        [
+          "595991549029",
+          2
+        ],
+        [
+          "595981925772",
+          2
+        ],
+        [
+          "595984933862",
+          1
+        ],
+        [
+          "198251445772469",
+          1
+        ],
+        [
+          "277210241978486",
+          1
+        ],
+        [
+          "46767966015558",
+          1
+        ],
+        [
+          "120363343701567428",
+          1
+        ],
+        [
+          "206420607799510",
+          1
+        ],
+        [
+          "213773960913117",
+          1
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          12
+        ],
+        [
+          "Weiss",
+          5
+        ],
+        [
+          "Jessi",
+          4
+        ],
+        [
+          "Emilio",
+          4
+        ],
+        [
+          "Pol",
+          3
+        ],
+        [
+          "Facebook",
+          1
+        ],
+        [
+          "Poli",
+          1
+        ],
+        [
+          "Gerardo",
+          1
+        ],
+        [
+          "Nara",
+          1
+        ],
+        [
+          "Ana",
+          1
+        ],
+        [
+          "Álvaro",
+          1
+        ],
+        [
+          "Ueno",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 1945,
+      "proposed_name": "Weiss",
+      "confidence": "LOW",
+      "evidence": [
+        "Name 'Weiss' mentioned 5× — soft signal",
+        "Most-shared contact: alejandro_cabral (595972130867) in 3 groups with this chat"
+      ]
+    },
+    {
+      "jid": "595986805654",
+      "tier": "tier2_core",
+      "dirname": "fpuna_alvaro_alt___wa_chat_595986805654_1271",
+      "msgs": 7392,
+      "audio": 718,
+      "co_members_top": [
+        [
+          "595984160109",
+          12
+        ],
+        [
+          "595972130867",
+          12
+        ],
+        [
+          "595982510082",
+          11
+        ],
+        [
+          "595983738040",
+          9
+        ],
+        [
+          "595971378035",
+          7
+        ],
+        [
+          "595981925772",
+          7
+        ],
+        [
+          "595981868718",
+          7
+        ],
+        [
+          "595961366892",
+          7
+        ],
+        [
+          "595971163429",
+          7
+        ],
+        [
+          "595986186281",
+          6
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          24
+        ],
+        [
+          "Emilio",
+          12
+        ],
+        [
+          "Dios",
+          6
+        ],
+        [
+          "Winter",
+          6
+        ],
+        [
+          "Mm",
+          5
+        ],
+        [
+          "Claro",
+          5
+        ],
+        [
+          "Datos",
+          4
+        ],
+        [
+          "Jessi",
+          4
+        ],
+        [
+          "Weiss",
+          3
+        ],
+        [
+          "Poli",
+          2
+        ],
+        [
+          "Osvaldo",
+          2
+        ],
+        [
+          "Base",
+          2
+        ],
+        [
+          "Pol",
+          2
+        ],
+        [
+          "Álvaro",
+          2
+        ],
+        [
+          "Marcelo",
+          1
+        ],
+        [
+          "Barrios",
+          1
+        ],
+        [
+          "Helado",
+          1
+        ],
+        [
+          "Lima",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [
+        [
+          "de",
+          3
+        ],
+        [
+          "Jessi",
+          1
+        ]
+      ],
+      "text_msgs_scanned": 6223,
+      "proposed_name": "Emilio",
+      "confidence": "MEDIUM",
+      "evidence": [
+        "Name 'Emilio' mentioned 12× in text — matches known contact(s) [('595981925772', 'Emilio Poli')]",
+        "Most-shared contact: alvaro_drip (595984160109) in 12 groups with this chat",
+        "Third-party references: 'de' (×3), 'Jessi' (×1)"
+      ]
+    },
+    {
+      "jid": "595981324569",
+      "tier": "tier1_deep",
+      "dirname": "06__p4569___wa_chat_595981324569_1092",
+      "msgs": 663,
+      "audio": 1,
+      "co_members_top": [],
+      "name_mentions_top": [
+        [
+          "John",
+          77
+        ],
+        [
+          "Pol",
+          11
+        ],
+        [
+          "China",
+          9
+        ],
+        [
+          "Weiss",
+          7
+        ],
+        [
+          "Base",
+          3
+        ],
+        [
+          "Del",
+          2
+        ],
+        [
+          "Amigo",
+          1
+        ],
+        [
+          "Nuevo",
+          1
+        ],
+        [
+          "Duarte",
+          1
+        ],
+        [
+          "Gerardo",
+          1
+        ],
+        [
+          "Luana",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [
+        [
+          "John",
+          3
+        ]
+      ],
+      "text_msgs_scanned": 659,
+      "proposed_name": "John",
+      "confidence": "MEDIUM",
+      "evidence": [
+        "Name 'John' mentioned 77× in text — matches known contact(s) [('595986138387', 'John')]",
+        "Third-party references: 'John' (×3)"
+      ]
+    },
+    {
+      "jid": "595971505289",
+      "tier": "tier3_extended",
+      "dirname": "044__p5289___wa_chat_595971505289_110",
+      "msgs": 1420,
+      "audio": 74,
+      "co_members_top": [
+        [
+          "595984933862",
+          8
+        ],
+        [
+          "595984160109",
+          6
+        ],
+        [
+          "595991470829",
+          4
+        ],
+        [
+          "595984298494",
+          4
+        ],
+        [
+          "595981715403",
+          4
+        ],
+        [
+          "595986805654",
+          3
+        ],
+        [
+          "595971987402",
+          3
+        ],
+        [
+          "595986449751",
+          3
+        ],
+        [
+          "595971378035",
+          3
+        ],
+        [
+          "595972298750",
+          3
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          11
+        ],
+        [
+          "Dios",
+          2
+        ],
+        [
+          "Pols",
+          1
+        ],
+        [
+          "Del",
+          1
+        ],
+        [
+          "Weiss",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 1162,
+      "proposed_name": "Dios",
+      "confidence": "NONE",
+      "evidence": [
+        "Name 'Dios' mentioned only 2× — too thin",
+        "Most-shared contact: becas_kansas_friend (595984933862) in 8 groups with this chat"
+      ]
+    },
+    {
+      "jid": "595986464184",
+      "tier": "tier2_core",
+      "dirname": "38__friend_arrival___wa_chat_595986464184_1811",
+      "msgs": 1392,
+      "audio": 60,
+      "co_members_top": [],
+      "name_mentions_top": [
+        [
+          "De",
+          14
+        ],
+        [
+          "Dios",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 1255,
+      "proposed_name": "Dios",
+      "confidence": "NONE",
+      "evidence": [
+        "Name 'Dios' mentioned only 1× — too thin"
+      ]
+    },
+    {
+      "jid": "595981199223",
+      "tier": "tier3_extended",
+      "dirname": "050__p9223___wa_chat_595981199223_1728",
+      "msgs": 940,
+      "audio": 80,
+      "co_members_top": [],
+      "name_mentions_top": [
+        [
+          "De",
+          8
+        ],
+        [
+          "Mm",
+          1
+        ],
+        [
+          "Weiss",
+          1
+        ],
+        [
+          "Gabriel",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 830,
+      "proposed_name": "Weiss",
+      "confidence": "NONE",
+      "evidence": [
+        "Name 'Weiss' mentioned only 1× — too thin"
+      ]
+    },
+    {
+      "jid": "595982553100",
+      "tier": "tier3_extended",
+      "dirname": "056__p3100___wa_chat_595982553100_9254",
+      "msgs": 722,
+      "audio": 47,
+      "co_members_top": [
+        [
+          "595976538689",
+          1
+        ],
+        [
+          "18399774130329",
+          1
+        ],
+        [
+          "595972130867",
+          1
+        ],
+        [
+          "277210241978486",
+          1
+        ],
+        [
+          "146235130421424",
+          1
+        ],
+        [
+          "13135550002",
+          1
+        ],
+        [
+          "4823348949190",
+          1
+        ],
+        [
+          "120363379714913758",
+          1
+        ],
+        [
+          "595981514195",
+          1
+        ],
+        [
+          "6339522752661",
+          1
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "Weiss",
+          3
+        ],
+        [
+          "Pol",
+          3
+        ],
+        [
+          "Claro",
+          1
+        ],
+        [
+          "Emilio",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 650,
+      "proposed_name": "Weiss",
+      "confidence": "LOW",
+      "evidence": [
+        "Name 'Weiss' mentioned 3× — soft signal",
+        "Most-shared contact: laura_x (595976538689) in 1 groups with this chat"
+      ]
+    },
+    {
+      "jid": "595985435809",
+      "tier": "tier3_extended",
+      "dirname": "051__p5809___wa_chat_595985435809_11371",
+      "msgs": 919,
+      "audio": 60,
+      "co_members_top": [],
+      "name_mentions_top": [
+        [
+          "De",
+          6
+        ],
+        [
+          "Dios",
+          1
+        ],
+        [
+          "Luana",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 819,
+      "proposed_name": "Dios",
+      "confidence": "NONE",
+      "evidence": [
+        "Name 'Dios' mentioned only 1× — too thin"
+      ]
+    },
+    {
+      "jid": "595973757353",
+      "tier": "tier3_extended",
+      "dirname": "067__p7353___wa_chat_595973757353_1731",
+      "msgs": 819,
+      "audio": 22,
+      "co_members_top": [
+        [
+          "595981401316",
+          1
+        ],
+        [
+          "595981927691",
+          1
+        ],
+        [
+          "595971740026",
+          1
+        ],
+        [
+          "595976224444",
+          1
+        ],
+        [
+          "595971968494",
+          1
+        ],
+        [
+          "595971234721",
+          1
+        ],
+        [
+          "595976118120",
+          1
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          11
+        ],
+        [
+          "Dios",
+          1
+        ],
+        [
+          "Weiss",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 777,
+      "proposed_name": "Dios",
+      "confidence": "NONE",
+      "evidence": [
+        "Name 'Dios' mentioned only 1× — too thin",
+        "Most-shared contact (unnamed): 595981401316 in 1 groups with this chat"
+      ]
+    },
+    {
+      "jid": "595982223241",
+      "tier": "tier3_extended",
+      "dirname": "057__p3241___wa_chat_595982223241_11521",
+      "msgs": 738,
+      "audio": 41,
+      "co_members_top": [
+        [
+          "595985725366",
+          1
+        ],
+        [
+          "270033200644267",
+          1
+        ],
+        [
+          "4827929141497",
+          1
+        ],
+        [
+          "595985725871",
+          1
+        ],
+        [
+          "101662026936343",
+          1
+        ],
+        [
+          "29429719920704",
+          1
+        ],
+        [
+          "595985526379",
+          1
+        ],
+        [
+          "143576646291519",
+          1
+        ],
+        [
+          "31634463709",
+          1
+        ],
+        [
+          "216058967412962",
+          1
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          9
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 621,
+      "proposed_name": "UNKNOWN",
+      "confidence": "NONE",
+      "evidence": [
+        "Most-shared contact: Luana Weiss (595985725366) in 1 groups with this chat"
+      ]
+    },
+    {
+      "jid": "595991705424",
+      "tier": "tier3_extended",
+      "dirname": "045__p5424___wa_chat_595991705424_1202",
+      "msgs": 703,
+      "audio": 29,
+      "co_members_top": [
+        [
+          "595981868718",
+          7
+        ],
+        [
+          "595982510082",
+          7
+        ],
+        [
+          "595982182297",
+          7
+        ],
+        [
+          "595971378035",
+          7
+        ],
+        [
+          "595971163429",
+          7
+        ],
+        [
+          "595981996906",
+          6
+        ],
+        [
+          "595972193083",
+          6
+        ],
+        [
+          "595984690946",
+          6
+        ],
+        [
+          "595971668064",
+          6
+        ],
+        [
+          "595986186281",
+          6
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          6
+        ],
+        [
+          "Javier",
+          2
+        ],
+        [
+          "Emilio",
+          2
+        ]
+      ],
+      "self_intro_names": [
+        "Jack"
+      ],
+      "third_party_names": [],
+      "text_msgs_scanned": 653,
+      "proposed_name": "Jack",
+      "confidence": "HIGH",
+      "evidence": [
+        "Self-intro pattern matched: 'Jack' (1 times) — high-confidence identity",
+        "Most-shared contact: helpp_friend (595981868718) in 7 groups with this chat"
+      ]
+    },
+    {
+      "jid": "595986868241",
+      "tier": "tier2_core",
+      "dirname": "35__friend_photos___wa_chat_595986868241_10607",
+      "msgs": 726,
+      "audio": 63,
+      "co_members_top": [
+        [
+          "595971727215",
+          1
+        ],
+        [
+          "275836053749926",
+          1
+        ],
+        [
+          "230640398123196",
+          1
+        ],
+        [
+          "25726988341458",
+          1
+        ],
+        [
+          "595981285412",
+          1
+        ],
+        [
+          "270849278009451",
+          1
+        ],
+        [
+          "129480513339398",
+          1
+        ],
+        [
+          "595981582606",
+          1
+        ],
+        [
+          "226254649344074",
+          1
+        ],
+        [
+          "171416456540224",
+          1
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          7
+        ],
+        [
+          "Facebook",
+          3
+        ],
+        [
+          "Diseño",
+          3
+        ],
+        [
+          "Wise",
+          3
+        ],
+        [
+          "Carlos",
+          2
+        ],
+        [
+          "Datos",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 583,
+      "proposed_name": "Facebook",
+      "confidence": "LOW",
+      "evidence": [
+        "Name 'Facebook' mentioned 3× — soft signal",
+        "Most-shared contact (unnamed): 595971727215 in 1 groups with this chat"
+      ]
+    },
+    {
+      "jid": "595985951732",
+      "tier": "tier3_extended",
+      "dirname": "063__p1732___wa_chat_595985951732_1722",
+      "msgs": 650,
+      "audio": 42,
+      "co_members_top": [
+        [
+          "595982977328",
+          1
+        ],
+        [
+          "220233105158159",
+          1
+        ],
+        [
+          "171450984087692",
+          1
+        ],
+        [
+          "595971170659",
+          1
+        ],
+        [
+          "247355773296733",
+          1
+        ],
+        [
+          "93218121224225",
+          1
+        ],
+        [
+          "595984328174",
+          1
+        ],
+        [
+          "595961951348",
+          1
+        ],
+        [
+          "256139082104950",
+          1
+        ],
+        [
+          "595984971774",
+          1
+        ]
+      ],
+      "name_mentions_top": [
+        [
+          "De",
+          5
+        ],
+        [
+          "Weiss",
+          4
+        ],
+        [
+          "Osvaldo",
+          2
+        ],
+        [
+          "Soledad",
+          1
+        ]
+      ],
+      "self_intro_names": [],
+      "third_party_names": [],
+      "text_msgs_scanned": 589,
+      "proposed_name": "Weiss",
+      "confidence": "LOW",
+      "evidence": [
+        "Name 'Weiss' mentioned 4× — soft signal",
+        "Most-shared contact (unnamed): 595982977328 in 1 groups with this chat"
+      ]
+    }
+  ]
+}
