@@ -1,0 +1,591 @@
+{
+  "generated_at": "2026-07-23 17:40:29.950943",
+  "total_chats": 683,
+  "noise_count": 380,
+  "promote_count": 40,
+  "keep_count": 263,
+  "promote": [
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_club_de_info_gral_5082",
+      "msgs": 6588,
+      "jid": "595984807821-1549818101",
+      "score": 95,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_stoic_finch_-_latam_9090",
+      "msgs": 12036,
+      "jid": "120363343701567428",
+      "score": 95,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_iin_fpuna_019_26",
+      "msgs": 32635,
+      "jid": "595983342745-1544023957",
+      "score": 95,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_iin_fpuna_2019_-_2025_1450",
+      "msgs": 9197,
+      "jid": "595982510082-1631714714",
+      "score": 95,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_amigos_de_las_locuras_swinger_11642",
+      "msgs": 16834,
+      "jid": "595971692433-1578015622",
+      "score": 95,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_iin_fpuna_2015-2021_24",
+      "msgs": 11447,
+      "jid": "595981427366-1519340151",
+      "score": 95,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_pasen_las_fotos_1452",
+      "msgs": 29646,
+      "jid": "120363022326399562",
+      "score": 95,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_shitpoliposting_39",
+      "msgs": 7518,
+      "jid": "595984160109-1553289986",
+      "score": 95,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cdr_fp_una_1914",
+      "msgs": 3370,
+      "jid": "595972175865-1471540721",
+      "score": 78,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_maskarada_-_club_de_azote_9803",
+      "msgs": 2986,
+      "jid": "120363393411691743",
+      "score": 74,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_sarah_s_neon_furry_b-day_party_13138",
+      "msgs": 2838,
+      "jid": "120363422587468210",
+      "score": 73,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_agi_is_cumming_9683",
+      "msgs": 2783,
+      "jid": "120363383964217274",
+      "score": 72,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_vacantes_optech_v_10637",
+      "msgs": 2795,
+      "jid": "120363400443364837",
+      "score": 72,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ieee_cs_una_sbc_2025_1917",
+      "msgs": 2472,
+      "jid": "120363041788495898",
+      "score": 69,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ai_whisperers_11544",
+      "msgs": 2425,
+      "jid": "120363404918156195",
+      "score": 69,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_saquenme_de_latinoamerica_665",
+      "msgs": 2274,
+      "jid": "595981324569-1610640208",
+      "score": 67,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_familie_van_der_pol_497",
+      "msgs": 2248,
+      "jid": "31612495139-1475060030",
+      "score": 67,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_primos_weiss_5233",
+      "msgs": 2175,
+      "jid": "120363208329203237",
+      "score": 66,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_wpg_team_1214",
+      "msgs": 2044,
+      "jid": "595976351903-1486146535",
+      "score": 65,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_py_testing_community_4296",
+      "msgs": 2056,
+      "jid": "120363175387159404",
+      "score": 65,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_funhouse_9626",
+      "msgs": 1742,
+      "jid": "120363379714913758",
+      "score": 62,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_info_startups_13651",
+      "msgs": 1723,
+      "jid": "120363161501004824",
+      "score": 62,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_jojo_gym_1227",
+      "msgs": 1596,
+      "jid": "595981324569-1634898220",
+      "score": 60,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_qe_meriendita_5317",
+      "msgs": 1343,
+      "jid": "120363215075504640",
+      "score": 58,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ml_2023-1_3619",
+      "msgs": 1298,
+      "jid": "120363147208748925",
+      "score": 57,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_grupo_de_pizza_gratis_485",
+      "msgs": 1254,
+      "jid": "595981324569-1605301799",
+      "score": 57,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ieeextreme_17_0_-_student_branch_una_3230",
+      "msgs": 1107,
+      "jid": "120363158098717771",
+      "score": 56,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_el_viajero_15051",
+      "msgs": 1047,
+      "jid": "120363428054772021",
+      "score": 55,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_groep_is3_1802",
+      "msgs": 1044,
+      "jid": "120363041824718426",
+      "score": 55,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_give_back_program_-_cpk_3506",
+      "msgs": 987,
+      "jid": "120363022540721353",
+      "score": 54,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cum_a_secas_17026",
+      "msgs": 846,
+      "jid": "120363435610874254",
+      "score": 53,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥_6823",
+      "msgs": 835,
+      "jid": "120363292655570594",
+      "score": 53,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_iin_-_fpuna_-_gral_3904",
+      "msgs": 734,
+      "jid": "595971274229-1466111694",
+      "score": 52,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_lan_party_11_02_1794",
+      "msgs": 700,
+      "jid": "120363025296671701",
+      "score": 52,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_good_omens_py_14938",
+      "msgs": 795,
+      "jid": "120363167697082425",
+      "score": 52,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_nasa_space_apps_ieee_computer_society_4711",
+      "msgs": 696,
+      "jid": "120363167691969583",
+      "score": 51,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_gcc_2023_3592",
+      "msgs": 605,
+      "jid": "120363147837731350",
+      "score": 51,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_dentista_gabi_15956",
+      "msgs": 1113,
+      "jid": "120363407614192971",
+      "score": 51,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_team_isabelle_mm_5771",
+      "msgs": 1033,
+      "jid": "120363238233660596",
+      "score": 50,
+      "is_group": true
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_ci2023_-_voluntarios_general_3519",
+      "msgs": 585,
+      "jid": "120363162948940910",
+      "score": 50,
+      "is_group": true
+    }
+  ],
+  "noise_sample": [
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_5491161048979_11920",
+      "msgs": 6,
+      "jid": "5491161048979",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_130219130274040_15104",
+      "msgs": 4,
+      "jid": "130219130274040",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982136081_5696",
+      "msgs": 8,
+      "jid": "595982136081",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_juntada_13529",
+      "msgs": 9,
+      "jid": "120363424016011198",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981383649_10158",
+      "msgs": 3,
+      "jid": "595981383649",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982777960_5127",
+      "msgs": 2,
+      "jid": "595982777960",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986652056_5724",
+      "msgs": 2,
+      "jid": "595986652056",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_263281965015215_15036",
+      "msgs": 8,
+      "jid": "263281965015215",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982842220_5546",
+      "msgs": 3,
+      "jid": "595982842220",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992633332_5665",
+      "msgs": 1,
+      "jid": "595992633332",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972273973_4646",
+      "msgs": 6,
+      "jid": "595972273973",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595982134965_6865",
+      "msgs": 1,
+      "jid": "595982134965",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595991851222_12005",
+      "msgs": 7,
+      "jid": "595991851222",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976235253_11444",
+      "msgs": 1,
+      "jid": "595976235253",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986373136_11877",
+      "msgs": 1,
+      "jid": "595986373136",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981183723_6931",
+      "msgs": 2,
+      "jid": "595981183723",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971792390_3634",
+      "msgs": 1,
+      "jid": "595971792390",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_5493515406764_10392",
+      "msgs": 3,
+      "jid": "5493515406764",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981791849_12618",
+      "msgs": 1,
+      "jid": "595981791849",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595971636509_9159",
+      "msgs": 6,
+      "jid": "595971636509",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595986381015_11892",
+      "msgs": 4,
+      "jid": "595986381015",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595973688038_9286",
+      "msgs": 1,
+      "jid": "595973688038",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985860918_5333",
+      "msgs": 1,
+      "jid": "595985860918",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595974904765_10472",
+      "msgs": 1,
+      "jid": "595974904765",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992223429_5185",
+      "msgs": 3,
+      "jid": "595992223429",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595973512556_9774",
+      "msgs": 9,
+      "jid": "595973512556",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983131858_6591",
+      "msgs": 1,
+      "jid": "595983131858",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981967672_10883",
+      "msgs": 1,
+      "jid": "595981967672",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992679747_3646",
+      "msgs": 5,
+      "jid": "595992679747",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_118670617522185_13132",
+      "msgs": 1,
+      "jid": "118670617522185",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985475708_10300",
+      "msgs": 6,
+      "jid": "595985475708",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992720978_5723",
+      "msgs": 4,
+      "jid": "595992720978",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_40570311434494_14357",
+      "msgs": 6,
+      "jid": "40570311434494",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_154838570647782_14007",
+      "msgs": 2,
+      "jid": "154838570647782",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_61297840402647_16977",
+      "msgs": 2,
+      "jid": "61297840402647",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983444251_6594",
+      "msgs": 5,
+      "jid": "595983444251",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_33101363314843_17023",
+      "msgs": 3,
+      "jid": "33101363314843",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595972862043_9601",
+      "msgs": 7,
+      "jid": "595972862043",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595983198459_4728",
+      "msgs": 1,
+      "jid": "595983198459",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_32178616434715_14953",
+      "msgs": 5,
+      "jid": "32178616434715",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_18147475492_2931",
+      "msgs": 4,
+      "jid": "18147475492",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_lid_203895133479023_14725",
+      "msgs": 1,
+      "jid": "203895133479023",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595987408440_11891",
+      "msgs": 5,
+      "jid": "595987408440",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595985906399_6577",
+      "msgs": 2,
+      "jid": "595985906399",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_calgary_todo_random_11548",
+      "msgs": 2,
+      "jid": "120363420303513271",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_cursos_de_verano_iin-lcik_5548",
+      "msgs": 4,
+      "jid": "120363230284717197",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595992978090_10509",
+      "msgs": 3,
+      "jid": "595992978090",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595976909490_10320",
+      "msgs": 8,
+      "jid": "595976909490",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_chat_595981993093_11541",
+      "msgs": 2,
+      "jid": "595981993093",
+      "reason": "<10 msgs or no text"
+    },
+    {
+      "dir": "SOURCE_OF_TRUTH/wa_messages/_dropped/_wa_group_talleres_verano_2026_13235",
+      "msgs": 4,
+      "jid": "120363407313482277",
+      "reason": "<10 msgs or no text"
+    }
+  ]
+}
