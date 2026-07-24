@@ -17,6 +17,9 @@ Top topics: hacer (26), estoy (18), ahora (16), tengo (9), haciendo (9)
 Avg msg length: Ivan 19 chars, them 20 chars
 Avg reply time: Ivan 1.4h, them 18m
 Question ratio: Ivan 12.9%, them 1.4%
+Longest streak: **6** consecutive days · Longest gap: **242** days
+Audio usage: 4.8% voice notes (n/a)
+Sentiment: Ivan +0.82 (very positive) (pos 10 / neg 1), them 0.00 (slightly negative) (pos 2 / neg 2)
 
 **Ivan calls them:** 'bb' (1x)
 
@@ -39,6 +42,15 @@ Question ratio: Ivan 12.9%, them 1.4%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-11] Ivan** (0 emojis): Hola festejo mi cumple en casa el 17 de jun  A eso de las 8   El plan es hacer algo en la parrilla/ horno en el quincho Y tomar   Compramos alcohol / más comida del Pinedo si falta   Follow this link to join my WhatsApp group: https://chat.whatsapp.com/DOr9yOMWa0pLbSbxNHQPcN
+- **[2022-04-19] Ivan** (0 emojis): De seguro Pero si le mostras onda Cada mes te ahorras 28 millones En un año es 336 millones  En el caso que dije Capaz tienen menos personas  Y va a ser menos lo que se ahorran  Pero igual va a ser una cantidad considerable  Y dinero es el mayor motivador  Jajajaja
+- **[2022-04-19] Ivan** (0 emojis): No se si suena mala onda asi de la nada No te surge hacer ejercicios así  Jajaja Pero esta divertido ese de mewing  Cuando juego aveces hago y después me duele toda la lengua   Y pensé que como te surge lolcito y eso x ahí te surge también jajajaj
+- **[2022-01-17] Ivan** (0 emojis): https://www.reddit.com/r/KidsAreFuckingStupid/comments/d6dxon/grandparents_bought_the_kids_a_pitching_machine/?utm_medium=android_app&utm_source=share
+- **[2022-04-01] Ivan** (0 emojis): si seguis haciendo sera que me podes mostrar como hacer ? ara me dijo que haga los casos de uso separados pero no estoy seguro de como hacer
+
 
 ## Notable messages (auto-extracted)
 

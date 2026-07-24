@@ -17,6 +17,9 @@ Top topics: delivery (2), caacupe (2), momento (2), mañana (2), estas (1)
 Avg msg length: Ivan 21 chars, them 17 chars
 Avg reply time: Ivan 4m, them 1m
 Question ratio: Ivan 41.7%, them 5.9%
+Longest streak: **2** consecutive days · Longest gap: **224** days
+Audio usage: 6.9% of all messages are voice notes
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2025-06-27, Them): .
 

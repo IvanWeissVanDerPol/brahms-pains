@@ -17,6 +17,9 @@ Top topics: https (5), sobre (4), ahora (4), github (4), cosas (3)
 Avg msg length: Ivan 40 chars, them 43 chars
 Avg reply time: Ivan 13m, them 1.8h
 Question ratio: Ivan 8.6%, them 10.3%
+Longest streak: **2** consecutive days · Longest gap: **618** days
+Audio usage: 4.1% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **First message** (2022-09-02, Them): Holaaa viejoooo Hhhh esta interesanteee Actualmente nosotros estamos en construccion de nuestro MVP hahahaha
 
@@ -35,6 +38,15 @@ Question ratio: Ivan 8.6%, them 10.3%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-02] Them** (1 emojis): al momento tenemos esto de nuestro mvp, pero si nos falta muchas cosas que ahora estamos observando 🤣
+- **[2023-03-22] Them** (1 emojis): Cuándo es? 🌚 Ahora estamos ocupados porque mañana rendimos base de datos 2 :'v
+- **[2022-09-02] Ivan** (0 emojis): Si van a postear anuncios y eso después  Hice un bot de Python  Que puede postear en hendyla y clasipar   (Preparan flyers genéricos que hagan auto fill) Y ponen onda  Veni aprende materia x o algo así   Y después ponen 100 flyers en cada página de anuncios para tener muchos links a su página  (Si r
+- **[2022-09-02] Them** (0 emojis): aaalgo asi, solo que tendra cursos gratis y de pago estara mas enfocado a matematica, informatica y marketing xd  va a contener clases gamificadas y una clase de finalizacion de entrega de un proyecto, que si todo esta ok, se publica para que todos vean los resultados de los estudiantes al terminar 
+- **[2022-09-02] Ivan** (0 emojis): Jsjsjsjsjsjsjs  Yo lgmt no se ni qué hacen  Onda me recordé que hablaban Fran y junior de que andabas con cosas interesantes  Pero eso nomás    Y pensé hmm Capaz sea divertido ver si puedo participar y aprender algo en mi tiempo libre  Onda de Hobbie me gusta hacer proyectos puretes
+
 
 ## Notable messages (auto-extracted)
 

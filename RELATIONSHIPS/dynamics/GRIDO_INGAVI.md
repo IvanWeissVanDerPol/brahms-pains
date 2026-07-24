@@ -17,6 +17,9 @@ Top topics: sabores (9), pistacho (8), pedido (6), ubicación (6), producto (5)
 Avg msg length: Ivan 27 chars, them 47 chars
 Avg reply time: Ivan 1m, them 1m
 Question ratio: Ivan 23.5%, them 18.4%
+Longest streak: **1** consecutive days · Longest gap: **430** days
+Audio usage: 1.1% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them +1.00 (very positive) (pos 5 / neg 0)
 
 **First message** (2023-09-17, Ivan): Buenas a cuánto me hacen delivery hasta acá ?
 
@@ -35,6 +38,15 @@ Question ratio: Ivan 23.5%, them 18.4%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-17] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-04-15] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-10-06] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2025-12-10] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2023-09-17] Ivan** (0 emojis): Cuanto sería así 1 Kg con delivery?   Te puedo pagar por transferencia?/ o por qr?
+
 
 ## Notable messages (auto-extracted)
 

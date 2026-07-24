@@ -17,6 +17,9 @@ Top topics: saltos (1), lunes (1), jajajajaja (1), mooood (1)
 Avg msg length: Ivan 10 chars, them 6 chars
 Avg reply time: Ivan 36m, them 1.6h
 Question ratio: Ivan 25.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2024-01-02, Ivan): Ese es ale?
 

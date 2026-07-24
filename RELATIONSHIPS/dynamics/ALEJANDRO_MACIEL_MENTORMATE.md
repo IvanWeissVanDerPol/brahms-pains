@@ -17,6 +17,9 @@ Top topics: empresa (3), tambien (3), tiene (3), estoy (3), hellooo (2)
 Avg msg length: Ivan 28 chars, them 25 chars
 Avg reply time: Ivan 38m, them 6m
 Question ratio: Ivan 14.3%, them 14.0%
+Longest streak: **2** consecutive days · Longest gap: **428** days
+Audio usage: 9.8% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +0.33 (very positive) (pos 2 / neg 1)
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -37,6 +40,11 @@ Question ratio: Ivan 14.3%, them 14.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-09-13] Ivan** (0 emojis): https://www.linkedin.com/in/c%C3%A9sar-llano-2986821aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 ## Notable messages (auto-extracted)
 

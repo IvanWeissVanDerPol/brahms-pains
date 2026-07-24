@@ -17,6 +17,9 @@ Top topics: holis (2), quiero (2), acaso (1), tienda (1), hacer (1)
 Avg msg length: Ivan 28 chars, them 17 chars
 Avg reply time: Ivan 3s, them 18s
 Question ratio: Ivan 25.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **346** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -37,6 +40,11 @@ Question ratio: Ivan 25.0%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-12-02] Ivan** (0 emojis): Holis  Quiero pasar un fla por fun4me  Están open ?  No vi en maps el horario:(
+
 
 ## Notable messages (auto-extracted)
 

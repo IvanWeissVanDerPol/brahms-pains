@@ -17,6 +17,9 @@ Top topics: https (2), youtube (1), watch (1), iilluminaughtii (1), ivaaan (1)
 Avg msg length: Ivan 21 chars, them 12 chars
 Avg reply time: Ivan 2.2h, them 2.1h
 Question ratio: Ivan 6.2%, them 0.0%
+Longest streak: **2** consecutive days · Longest gap: **768** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them -1.00 (very negative) (pos 0 / neg 1)
 
 **Ivan calls them:** 'reina' (1x)
 
@@ -37,6 +40,11 @@ Question ratio: Ivan 6.2%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-21] Ivan** (0 emojis): https://www.youtube.com/watch?v=EYXO2tXbVWM&ab_channel=iilluminaughtii
+
 
 ## Notable messages (auto-extracted)
 

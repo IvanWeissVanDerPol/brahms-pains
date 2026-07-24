@@ -17,6 +17,9 @@ Top topics: ahora (4), invitación (2), chill (2), nomas (2), avisa (2)
 Avg msg length: Ivan 17 chars, them 24 chars
 Avg reply time: Ivan 23m, them 3.0h
 Question ratio: Ivan 11.8%, them 4.8%
+Longest streak: **3** consecutive days · Longest gap: **1** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +0.33 (very positive) (pos 2 / neg 1)
 
 **First message** (2023-11-08, Them): Man, será que me podes mandar otra vez la invitación para el git
 

@@ -17,6 +17,9 @@ Top topics: tenes (1), cogerte (1), corras (1), videos (1)
 Avg msg length: Ivan 7 chars, them 8 chars
 Avg reply time: Ivan 1m, them 2m
 Question ratio: Ivan 12.5%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **352** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2025-07-20, Them): Que hot
 

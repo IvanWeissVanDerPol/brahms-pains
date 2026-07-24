@@ -17,6 +17,9 @@ Top topics: persona (8), incluido (7), incluye (6), almuerzo (4), fernando (3)
 Avg msg length: Ivan 14 chars, them 423 chars
 Avg reply time: Ivan n/a, them 2m
 Question ratio: Ivan 50.0%, them 25.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2024-08-29, Ivan): Buenas
 
@@ -35,6 +38,12 @@ Question ratio: Ivan 50.0%, them 25.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-08-29] Them** (12 emojis): *CHURRASQUERIA- PAULISTA GRILL FERNANDO DE LA MORA 🍽️                                                                                              *LOS PRECIOS VARIAN DE ACUERDO AL DIA*                                                                                                ✓ Lunes A Jueves Al
+- **[2024-08-29] Them** (1 emojis): ¡Gracias por comunicarte con *Paulista Grill* Local Fernando de la Mora. ¿Como podemos ayudarte?😊
+
 
 ## Notable messages (auto-extracted)
 

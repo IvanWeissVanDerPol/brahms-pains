@@ -17,6 +17,9 @@ Top topics: estas (2), oficina (1), porfis (1), podes (1), desconectar (1)
 Avg msg length: Ivan 5 chars, them 34 chars
 Avg reply time: Ivan 1m, them 1m
 Question ratio: Ivan 66.7%, them 16.7%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -37,6 +40,11 @@ Question ratio: Ivan 66.7%, them 16.7%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-18] Them** (0 emojis): Holi Ivan Vos estas en la oficina? Si es que estas será porfis no podes desconectar el mouse porque veo como si alguien moviera
+
 
 ## Notable messages (auto-extracted)
 

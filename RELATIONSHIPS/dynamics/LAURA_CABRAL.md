@@ -17,6 +17,9 @@ Top topics: gracias (2), https (1), tengo (1), mochila (1), aesthetic (1)
 Avg msg length: Ivan 42 chars, them 13 chars
 Avg reply time: Ivan n/a, them 1.7h
 Question ratio: Ivan 0.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **450** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **They call Ivan:** 'ivan' (2x)
 

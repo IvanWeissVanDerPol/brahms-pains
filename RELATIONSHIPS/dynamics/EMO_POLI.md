@@ -17,6 +17,9 @@ Top topics: random (1), question (1), sabes (1), fecha (1), examen (1)
 Avg msg length: Ivan 39 chars, them 6 chars
 Avg reply time: Ivan 4s, them 4m
 Question ratio: Ivan 50.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2025-03-24, Ivan): Hola  Random question  Sabes que fecha es el examen (? De bd2? Jsjsjsjs
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 50.0%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-03-24] Ivan** (0 emojis): Hola  Random question  Sabes que fecha es el examen (? De bd2? Jsjsjsjs
+
 
 ## Notable messages (auto-extracted)
 

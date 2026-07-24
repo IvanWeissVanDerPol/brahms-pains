@@ -17,6 +17,9 @@ Top topics: proyecto (2), python (2), buscar (2), sándwich (1), milanesa (1)
 Avg msg length: Ivan 43 chars, them 44 chars
 Avg reply time: Ivan 39m, them 19s
 Question ratio: Ivan 0.0%, them 28.6%
+Longest streak: **1** consecutive days · Longest gap: **321** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **They call Ivan:** 'ivan' (2x)
 
@@ -37,6 +40,12 @@ Question ratio: Ivan 0.0%, them 28.6%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-15] Them** (0 emojis): hola Ivan, quétal? me estan preguntando por tu proyecto de python
+- **[2023-06-15] Them** (0 emojis): llegaste a alzar en algun lado? el proyecto de python con ebase?
+
 
 ## Notable messages (auto-extracted)
 

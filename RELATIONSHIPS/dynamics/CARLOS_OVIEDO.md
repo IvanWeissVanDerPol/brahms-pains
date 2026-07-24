@@ -17,6 +17,9 @@ Top topics: tengo (8), estoy (5), filamento (3), estás (3), señor (2)
 Avg msg length: Ivan 13 chars, them 20 chars
 Avg reply time: Ivan 22m, them 21m
 Question ratio: Ivan 17.2%, them 24.0%
+Longest streak: **2** consecutive days · Longest gap: **111** days
+Audio usage: 1.3% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them -1.00 (very negative) (pos 0 / neg 1)
 
 **First message** (2023-07-08, Ivan): Holis
 

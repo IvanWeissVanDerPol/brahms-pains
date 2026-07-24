@@ -17,6 +17,9 @@ Top topics: precio (4), refiere (3), compras (3), azucar (3), holis (2)
 Avg msg length: Ivan 63 chars, them 31 chars
 Avg reply time: Ivan 43s, them 1m
 Question ratio: Ivan 22.2%, them 5.9%
+Longest streak: **1** consecutive days · Longest gap: **192** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **They call Ivan:** 'ivan' (3x)
 
@@ -37,6 +40,12 @@ Question ratio: Ivan 22.2%, them 5.9%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-10-17] Them** (0 emojis): holis Bel!, no, habla sobre el precio cuando lo compras, que si es elevado, algunas personas ya no lo compran
+- **[2023-10-17] Ivan** (0 emojis): osea compras product torta y aparte ves el presio del azucar para la torta?
+
 
 ## Notable messages (auto-extracted)
 

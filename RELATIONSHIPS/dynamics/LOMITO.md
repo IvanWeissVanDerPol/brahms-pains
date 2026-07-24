@@ -17,6 +17,9 @@ Top topics: buenas (2), pasas (2), buscar (2), alias (2), local (2)
 Avg msg length: Ivan 16 chars, them 70 chars
 Avg reply time: Ivan 17s, them 11s
 Question ratio: Ivan 29.2%, them 10.0%
+Longest streak: **2** consecutive days · Longest gap: **1** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 1 / neg 1)
 
 **First message** (2025-03-05, Ivan): Hola
 
@@ -35,6 +38,13 @@ Question ratio: Ivan 29.2%, them 10.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-03-05] Them** (0 emojis): _Buenas buenas!_  Estamos listo para recibir tu pedido en nuestro nuevo local sobre (Augusto Roa Bastos casi Antillas)  *Lomipizza con papas fritas 40 y 60mil*  Árabe de pollo 2x20mil Árabe mixta 20mil Árabe carne 22mil Árabe de la casa 30mil Hamburguesa 2x20mil Hamburguesa doble 15mil Hamburguesa t
+- **[2025-03-06] Them** (0 emojis): _Buenas buenas!_  Estamos listo para recibir tu pedido en nuestro nuevo local sobre (Augusto Roa Bastos casi Antillas)  *Hamburgueson de 30mil con papas fritas Árabe de pollo 2x20mil Árabe mixta 20mil Árabe carne 22mil Árabe de la casa 30mil Hamburguesa 2x20mil Hamburguesa doble 15mil Hamburguesa tr
+- **[2025-03-05] Ivan** (0 emojis): Cebolla tienen ?  O otra cosa?  Papas fritas estamos haciendo ya al horno jasjjs
+
 
 ## Notable messages (auto-extracted)
 

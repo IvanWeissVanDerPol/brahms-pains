@@ -17,6 +17,9 @@ Top topics: buenos (2), super (2), estás (1), guardo (1), número (1)
 Avg msg length: Ivan 129 chars, them 26 chars
 Avg reply time: Ivan 29m, them 13.0h
 Question ratio: Ivan 0.0%, them 33.3%
+Longest streak: **2** consecutive days · Longest gap: **1** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -37,6 +40,11 @@ Question ratio: Ivan 0.0%, them 33.3%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-01-06] Ivan** (1 emojis): ¡Hola, Magali! 😊  ¡Feliz año nuevo para vos también! Gracias por pasarme tu contacto. Quedo atento a cualquier oportunidad que pueda surgir y con gusto podemos conversar si hay algo interesante.  Mientras tanto, te dejo mi página web: ivanweissvanderpol.github.io, donde podés ver más sobre mi experi
+
 
 ## Notable messages (auto-extracted)
 

@@ -17,6 +17,9 @@ Top topics: google (40), https (38), estoy (30), tengo (28), hacer (23)
 Avg msg length: Ivan 70 chars, them 22 chars
 Avg reply time: Ivan 18m, them 36m
 Question ratio: Ivan 17.2%, them 10.6%
+Longest streak: **6** consecutive days · Longest gap: **221** days
+Audio usage: 4.2% voice notes (n/a)
+Sentiment: Ivan +0.48 (very positive) (pos 20 / neg 7), them +1.00 (very positive) (pos 10 / neg 0)
 
 **Ivan calls them:** 'amor' (1x), 'loco' (1x), 'mama' (1x), 'kiki' (1x)
 
@@ -39,6 +42,15 @@ Question ratio: Ivan 17.2%, them 10.6%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-05-25] Ivan** (41 emojis): Claro — aquí tienes la versión con íconos y emojis, pensada para ser visual, sensual y ceremonial, ideal para imprimir como cartel o leer en voz alta durante el evento. Cada sección tiene símbolos para facilitar la lectura y mantener la atmósfera ritual.   ---  Guía Ritual de Participación – Fiesta 
+- **[2026-01-20] Ivan** (8 emojis): te parece bien esta receta? 🍝 CARBONARA MICHELIN (SIN GLUTEN) 🍝 Receta especial para Tach y Franco  ✨ TIPS PRO:  1️⃣ Agua: Usá poca agua para hervir la pasta (así el almidón queda concentrado). 2️⃣ El "Baño María": Batí los huevos en un bol de metal sobre el vapor de la olla para que la salsa sea un
+- **[2026-01-21] Ivan** (6 emojis): hello prepare esto si te parece chill llevo un poco uwuwu  https://www.youtube.com/watch?v=zW6iL6Dez-c&pp=ygUQcmljayBzaW1wc29uIG9pbNIHCQmHCgGHKiGM7w%3D%3D  RSO 101: La navaja suiza de los extractos 🌿  Básicamente, el RSO es un concentrado de espectro completo que ya está "activado". Como no necesita
+- **[2026-04-03] Ivan** (3 emojis): Based on the ROADMAP.md, here's the full breakdown:  FUN4ME STORE — E-commerce para sex shop boutique en Asunción, Paraguay  TARGET: Tienda online en español, WhatsApp-first, discreta, para adultos 18+  ---  PHASE 0: VALIDACION (Pre-desarrollo) Costo: $0 en desarrollo - Entrevistar 20 clientes reale
+- **[2026-01-24] Ivan** (1 emojis): Hello 👋 I’m taking a Bolt ride. Vehicle details: Toyota Allion, Black, AAAC423  Destination: Tte. 1ro. Francisco Niedebergen 1765, Tte. 1ro. Francisco Niedebergen 1765, Asunción 001206  Expected time of arrival: 03:30 PM  Track live trip status: https://ride.bolt.eu/?s=UzSkiy4VxfTf
+
 
 ## Notable messages (auto-extracted)
 

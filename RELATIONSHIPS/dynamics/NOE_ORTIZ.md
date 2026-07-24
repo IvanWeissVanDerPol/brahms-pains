@@ -17,6 +17,9 @@ Top topics: gracias (5), interesa (3), pasar (2), quiero (2), curso (2)
 Avg msg length: Ivan 39 chars, them 44 chars
 Avg reply time: Ivan 1.0h, them 43m
 Question ratio: Ivan 12.5%, them 25.9%
+Longest streak: **2** consecutive days · Longest gap: **111** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 3 / neg 0), them 0.00 (slightly negative) (pos 2 / neg 2)
 
 **They call Ivan:** 'ivan' (2x), 'iván' (1x)
 
@@ -37,6 +40,13 @@ Question ratio: Ivan 12.5%, them 25.9%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-06-21] Them** (2 emojis): la diferencia le podemos financiar en cuotas sin intereses 🙌🏻
+- **[2024-08-09] Them** (1 emojis): *¿Te unis?*  Iniciamos el Lunes con la Profe *Patricia Osorio* 3era. Edición *Curso Oficial CTFL ISTQB v4.0* Es 100% virtual, el curso es oficial, te prepara y entrena para la certificación internacional 🤩 Los días son Lunes y Miércoles de 18:30 a 21:30 hs. y Viernes de 19 a 21 hs. La carga horaria 
+- **[2024-06-21] Them** (1 emojis): Aceptamos todos los medios de pago, con el 10% como entrega inicial ya aseguran su lugar en la capacitación 🤗
+
 
 ## Notable messages (auto-extracted)
 

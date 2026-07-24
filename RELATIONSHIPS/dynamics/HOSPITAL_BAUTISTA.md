@@ -17,6 +17,9 @@ Top topics: cirugia (56), maria (48), infantil (34), pediatrica (29), martinez (
 Avg msg length: Ivan 5 chars, them 933 chars
 Avg reply time: Ivan 2.4h, them 9m
 Question ratio: Ivan 4.3%, them 2.9%
+Longest streak: **2** consecutive days · Longest gap: **330** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 13 / neg 0)
 
 **They call Ivan:** 'ivan' (4x)
 
@@ -37,6 +40,15 @@ Question ratio: Ivan 4.3%, them 2.9%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-04-14] Them** (7 emojis): Buenas tardes, Bendiciones ☺️🙌🏻✨¿En que le puedo servir? 👩🏻‍💻
+- **[2024-12-11] Them** (2 emojis): 🏨Muchas gracias  por comunicarse con el Centro Medico Bautista. 🗓️Su cita es para el día: *MARTES* 17-DEC-24 14:30Hs🩺VICTORIA RIVELLI GONZALEZ
+- **[2025-08-18] Them** (2 emojis): 🏨Muchas gracias  por comunicarse con el Centro Medico Bautista. 🗓️Su cita es para el día: *MIERCOLES* 20-AUG-25 18:00Hs🩺WILMA BORDON BOVEDA
+- **[2025-08-20] Them** (2 emojis): 🏨Muchas gracias  por comunicarse con el Centro Medico Bautista. 🗓️Su cita es para el día: *MIERCOLES* 20-AUG-25 18:15Hs🩺WILMA BORDON BOVEDA
+- **[2025-10-10] Them** (2 emojis): 🏨Muchas gracias  por comunicarse con el Centro Medico Bautista. 🗓️Su cita es para el día: *MIERCOLES* 15-OCT-25 19:00Hs🩺WILMA BORDON BOVEDA
+
 
 ## Notable messages (auto-extracted)
 

@@ -17,6 +17,9 @@ Top topics: puedo (3), buenas (2), perro (2), cinthia (2), comprar (2)
 Avg msg length: Ivan 19 chars, them 19 chars
 Avg reply time: Ivan 14m, them 5m
 Question ratio: Ivan 25.0%, them 17.4%
+Longest streak: **1** consecutive days · Longest gap: **343** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2023-07-03, Ivan): Buenas
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 25.0%, them 17.4%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-08-17] Ivan** (0 emojis): Buenas tienen comida de perro disponible? Quiero comprar otravez
+
 
 ## Notable messages (auto-extracted)
 

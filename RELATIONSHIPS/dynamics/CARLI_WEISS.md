@@ -17,6 +17,9 @@ Top topics: https (2), twitter (1), fieraingenieria (1), status (1), chaaa (1)
 Avg msg length: Ivan 8 chars, them 32 chars
 Avg reply time: Ivan 1.9h, them n/a
 Question ratio: Ivan 0.0%, them 40.0%
+Longest streak: **1** consecutive days · Longest gap: **516** days
+Audio usage: 14.3% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2022-09-19, Them): https://twitter.com/FieraIngenieria/status/1571508340575698944?s=08
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 0.0%, them 40.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-19] Them** (0 emojis): https://twitter.com/FieraIngenieria/status/1571508340575698944?s=08
+
 
 ## Notable messages (auto-extracted)
 

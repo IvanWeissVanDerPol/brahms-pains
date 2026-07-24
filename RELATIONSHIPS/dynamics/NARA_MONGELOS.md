@@ -17,6 +17,9 @@ Top topics: mentormate (11), horas (11), entrevista (8), sobre (7), sería (7)
 Avg msg length: Ivan 104 chars, them 183 chars
 Avg reply time: Ivan 59m, them 1m
 Question ratio: Ivan 32.1%, them 36.4%
+Longest streak: **3** consecutive days · Longest gap: **414** days
+Audio usage: 1.6% voice notes (n/a)
+Sentiment: Ivan +0.86 (very positive) (pos 13 / neg 1), them +1.00 (very positive) (pos 6 / neg 0)
 
 **They call Ivan:** 'ivan' (16x), 'iván' (1x)
 
@@ -37,6 +40,15 @@ Question ratio: Ivan 32.1%, them 36.4%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-07-06] Them** (1 emojis): Hola Ivan, cómo estás? Espero que muy bien! Te escribo para coordinar la entrevista con el cliente al cual queremos proponerte como candidato☺️ Me podrías indicar qué fechas y horarios te quedan bien de entre estas opciones? Por favor, no olvides que estos horarios están en zona horaria *CST*  Frida
+- **[2023-07-20] Them** (1 emojis): Cómo estás Ivan? Te escribo para comentarte que finalmente estamos contando con oportunidades de proyecto y resolvimos realizarte una oferta formal de trabajo 🎉 Si contas con 30 minutos hoy a las 11.45 am podrías sumarte a una llamada para conversar sobre los detalles de la oferta? Saludos!
+- **[2023-07-21] Them** (1 emojis): Buenas tardes Ivan! te enviamos la copia de tu contrato a tu correo ☺️ podrías por favor echarle un vistazo y comentarnos si tenes alguna duda?
+- **[2023-07-20] Them** (1 emojis): Excelente Ivan, bienvenido a MentorMate🎉 En ese caso esa información sería incluida en tu proceso de onboarding.
+- **[2023-05-12] Them** (0 emojis): Hello Ivan,  Following our conversation, I am writing to confirm your interview with MentorMate. Please see the details below:  May, 16, 2023| Tuesday, 00:00 10 am (local time) 60 minutes | General conversation with technical questions You will be interviewed by: Nikolay Nikolov (Quality Engineering
+
 
 ## Notable messages (auto-extracted)
 

@@ -17,6 +17,9 @@ Top topics: https (6), podés (5), weiss (4), jajaja (4), mentormate (4)
 Avg msg length: Ivan 59 chars, them 23 chars
 Avg reply time: Ivan 3m, them 5m
 Question ratio: Ivan 6.2%, them 9.4%
+Longest streak: **1** consecutive days · Longest gap: **468** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 5 / neg 0), them +1.00 (very positive) (pos 4 / neg 0)
 
 **First message** (2022-08-10, Them): Weiss
 
@@ -35,6 +38,12 @@ Question ratio: Ivan 6.2%, them 9.4%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-07-03] Ivan** (11 emojis): ### ✨ ¿Querés laburar remoto y bien pago? Te dejo un mini roadmap:  **🧠 Main Tip:** Vendete bien (marketing personal) **🎓 Segundo tip:** Certificaciones de QA  #### 📚 Cursos recomendados (todos online):  * [ISTQB Foundation](https://www.istqb.org/) – ~$200 * [FreeCodeCamp QA](https://www.freecodec
+- **[2022-08-10] Them** (0 emojis): Te puedo preguntar tu opinión acerca de una laptop que quiero comprar?
+
 
 ## Notable messages (auto-extracted)
 

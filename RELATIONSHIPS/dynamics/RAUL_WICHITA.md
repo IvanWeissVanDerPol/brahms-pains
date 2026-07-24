@@ -17,6 +17,9 @@ Top topics: estoy (5), tekorei (3), chill (2), mochilero (2), comprar (2)
 Avg msg length: Ivan 36 chars, them 25 chars
 Avg reply time: Ivan 2.4h, them 9m
 Question ratio: Ivan 8.3%, them 27.6%
+Longest streak: **2** consecutive days · Longest gap: **302** days
+Audio usage: 12.3% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **First message** (2023-08-14, Them): Holi qué tal ?
 
@@ -35,6 +38,14 @@ Question ratio: Ivan 8.3%, them 27.6%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-08-17] Ivan** (0 emojis): personalmente soy mas de piratear  jajaj  no da para comprar videojuegos en py  estan onda 300 mill la ultima vez que busque   de lugares en el pinedo hay varios  onda tiendas random que tienen videojuegos  pero si vas a comprar  capaz le va a ser mas nice a tu hermano si esperas para black Friday y
+- **[2023-08-17] Them** (0 emojis): Jaja sí es más barato así! Mi hermano le encanta todo lo de Zelda y Mario! Dale! Creo que así sería mejor entonces!
+- **[2023-08-17] Ivan** (0 emojis): Vení nomas cuando estés tekorei Si te sirve una hora te parece las 6? Igual cae nomás cuando quieras uwu
+- **[2023-08-17] Them** (0 emojis): Cuando quieres que vaya ? Podemos cenar algo también si queres
+
 
 ## Notable messages (auto-extracted)
 

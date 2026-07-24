@@ -17,6 +17,9 @@ Top topics: jajaja (47), estoy (45), ahora (34), tengo (28), surge (15)
 Avg msg length: Ivan 22 chars, them 16 chars
 Avg reply time: Ivan 37m, them 46m
 Question ratio: Ivan 12.1%, them 5.9%
+Longest streak: **6** consecutive days · Longest gap: **399** days
+Audio usage: 6.0% voice notes (n/a)
+Sentiment: Ivan +0.38 (very positive) (pos 9 / neg 4), them +0.56 (very positive) (pos 7 / neg 2)
 
 **Ivan calls them:** 'loco' (1x)
 
@@ -39,6 +42,15 @@ Question ratio: Ivan 12.1%, them 5.9%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-28] Ivan** (0 emojis): Uff  Si querés te aviso cuando llegue a castrar a mis mascotas Tengo pensado llevar a los callejeros de mi zona también   Onda mi plan es  1 plantar catnip 2 drogar a todos los gatos de mi zona  3 atarles en casa y dejarles high  4 llevarles en ayuno al vet
+- **[2022-09-18] Ivan** (0 emojis): Hola creo que como algo mal Estoy en el baño hace 1h sin poder levantarme XD  Te parece si te confirmo  cuando llegues a tu casa?  Ojalá me pase en un rato
+- **[2022-06-20] Ivan** (0 emojis): Holis soy Iván jajaja Que tal?  Sorry por mensajear ahora recién jajaja Estoy con Mill cosas que hacer jajaja
+- **[2022-08-01] Them** (0 emojis): Che, ayer pasó algo en casa jsjsjs, te parece si hacemos como la última vez? Xd
+- **[2022-08-17] Ivan** (0 emojis): Yo estoy en casa Mi roomie fue a un cumple Te surge venir y nos ponemos high?
+
 
 ## Notable messages (auto-extracted)
 

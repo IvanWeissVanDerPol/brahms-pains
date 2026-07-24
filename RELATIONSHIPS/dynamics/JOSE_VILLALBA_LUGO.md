@@ -17,6 +17,9 @@ Top topics: estoy (6), https (6), ahora (3), puedo (3), hacer (3)
 Avg msg length: Ivan 29 chars, them 21 chars
 Avg reply time: Ivan 36m, them 2.3h
 Question ratio: Ivan 15.4%, them 11.5%
+Longest streak: **3** consecutive days · Longest gap: **367** days
+Audio usage: 4.4% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +0.33 (very positive) (pos 2 / neg 1)
 
 **They call Ivan:** 'ivan' (5x)
 
@@ -37,6 +40,12 @@ Question ratio: Ivan 15.4%, them 11.5%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-04] Ivan** (0 emojis): https://docs.google.com/spreadsheets/d/1QjzzklWavEXT6B9kRRWhBke8sP1B1qwkXxJ_LsYXJgs/edit?usp=sharing
+- **[2025-07-11] Ivan** (0 emojis): Me podes pasar Fotos de estella?  Preparo un fla mientras flyers
+
 
 ## Notable messages (auto-extracted)
 

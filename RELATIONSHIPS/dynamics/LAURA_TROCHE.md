@@ -17,6 +17,9 @@ Top topics: github (2), ivanweissvanderpolgh (2), pedile (2), https (1), pásale
 Avg msg length: Ivan 55 chars, them 17 chars
 Avg reply time: Ivan n/a, them 7.9h
 Question ratio: Ivan 0.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 12.5% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2023-12-03, Ivan): https://github.com/IvanWeissVanDerPolGH/IvanWeissVanDerPolGH.github.io
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 0.0%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-12-03] Ivan** (0 emojis): Pásale tu resumen a chatgpt  Pedile que te haga preguntas  Pedile que te genere una sección de contenido unrenderd markdown para cada parte de la página web   Genera las imágenes con Leonardus app (Google )
+
 
 ## Notable messages (auto-extracted)
 

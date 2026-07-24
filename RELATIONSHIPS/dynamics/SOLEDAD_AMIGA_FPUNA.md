@@ -17,6 +17,9 @@ Top topics: holis (1), ivannn (1), estás (1), buenis (1), estoy (1)
 Avg msg length: Ivan 9 chars, them 12 chars
 Avg reply time: Ivan 7s, them 7s
 Question ratio: Ivan 9.1%, them 30.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2022-07-22, Them): Holis Ivannn
 

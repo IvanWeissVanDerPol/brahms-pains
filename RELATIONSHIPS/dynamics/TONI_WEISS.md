@@ -17,6 +17,9 @@ Top topics: alicia (87), https (51), hacer (46), cornelio (43), vitolo (31)
 Avg msg length: Ivan 110 chars, them 67 chars
 Avg reply time: Ivan 31m, them 2.0h
 Question ratio: Ivan 15.6%, them 16.9%
+Longest streak: **7** consecutive days · Longest gap: **291** days
+Audio usage: 6.0% voice notes (n/a)
+Sentiment: Ivan +0.50 (very positive) (pos 12 / neg 4), them +0.73 (very positive) (pos 13 / neg 2)
 
 **Ivan calls them:** 'kiki' (1x), 'rey' (1x)
 
@@ -39,6 +42,15 @@ Question ratio: Ivan 15.6%, them 16.9%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-03-29] Ivan** (3 emojis): Crear imagen  Crear imagen 🟩 SECUENCIA 1 – “El ocaso de Alicia” (1999) Tema: Presentación. El fin de un ciclo.  🎞️ Escena 1.1 – Pasarela del Hotel Guaraní Visual: Sala llena de flashes, modelos caminando, y música elegante. Alicia (75 años), sentada junto a Martín, observa con orgullo.  Cámara: Trav
+- **[2025-03-30] Them** (2 emojis): Le pedí esto a Chat GPT: Create an image for a synopsis of a film I have written. Create Image  🟩 SEQUENCE 1 – “Alicia Escapes” (1999)  Theme: Presentation. The beginning of her Odyssey.   🎞️ Scene 1.1 – Country Road. Nighttime Visual: Open field with a few trees. Alicia (25 years old) walks beside 
+- **[2024-09-11] Ivan** (0 emojis): Para uso general   Al app get open ai  Chat gpt  Y si estás compra nomás la subscripción para usar todos los features nuevos que van haciendo   Ahí podes preguntar anything y te va a explicar nivel profesor   (Para que de buenos resultados tenés que darle suficiente contexto)  Un tip es onda  Para p
+- **[2024-11-06] Ivan** (0 emojis): Your script, *Escape from the Land of Oblivion*, has a rich narrative that combines historical context with intense personal struggles. Here are some key recommendations to refine and enhance it further:  1. **Character Development**:     - Alicia’s strength and determination shine through, but at t
+- **[2025-03-30] Them** (0 emojis): A story of unconditional love and resilience  In 1999, Alicia Lopez de Silva, 75 years of age, is the most renowned fashion designer in Asunción, Paraguay.  In one of her fashion shows, Alicia collapses and is taken to a hospital. In a coma, she travels into the memories of her humble beginnings; li
+
 
 ## Notable messages (auto-extracted)
 

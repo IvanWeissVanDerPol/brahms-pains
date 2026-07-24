@@ -17,6 +17,9 @@ Top topics: buenas (2), rueda (2), pasar (2), gracias (2), cuento (1)
 Avg msg length: Ivan 16 chars, them 7 chars
 Avg reply time: Ivan 4m, them 7m
 Question ratio: Ivan 17.9%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **349** days
+Audio usage: 16.7% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 3 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2023-09-17, Ivan): Buenas  A cuento me arreglan una rueda pinchada ?  Estoy sobre destacamento cazal y campo via
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 17.9%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-17] Ivan** (0 emojis): Buenas  A cuento me arreglan una rueda pinchada ?  Estoy sobre destacamento cazal y campo via
+
 
 ## Notable messages (auto-extracted)
 

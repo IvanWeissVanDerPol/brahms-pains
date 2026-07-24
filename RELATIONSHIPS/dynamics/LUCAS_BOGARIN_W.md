@@ -17,6 +17,9 @@ Top topics: happy (1), birthday (1), notifico (1), google (1), calendar (1)
 Avg msg length: Ivan 32 chars, them 9 chars
 Avg reply time: Ivan 1m, them 28s
 Question ratio: Ivan 16.7%, them 20.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2023-11-20, Ivan): Happy birthday
 

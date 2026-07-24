@@ -17,6 +17,9 @@ Top topics: gracias (9), burger (8), combo (7), buenas (6), quiero (6)
 Avg msg length: Ivan 18 chars, them 17 chars
 Avg reply time: Ivan 55m, them 6m
 Question ratio: Ivan 16.7%, them 10.7%
+Longest streak: **2** consecutive days · Longest gap: **49** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them +1.00 (very positive) (pos 9 / neg 0)
 
 **First message** (2025-03-03, Ivan): Buenas
 

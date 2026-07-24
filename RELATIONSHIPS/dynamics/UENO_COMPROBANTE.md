@@ -17,6 +17,9 @@ Top topics: acuerdo (60), cliente (44), contratista (43), cualquier (30), parte 
 Avg msg length: Ivan 838 chars, them 72 chars
 Avg reply time: Ivan 3m, them 36m
 Question ratio: Ivan 30.4%, them 0.0%
+Longest streak: **2** consecutive days · Longest gap: **8** days
+Audio usage: 2.6% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 3 / neg 3), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -37,6 +40,15 @@ Question ratio: Ivan 30.4%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-08-11] Them** (1 emojis): Buenas Ivan, el documento tiene que estar traducido por favor 🙌
+- **[2025-08-11] Ivan** (0 emojis): # Stoic Finch Corporation ## CONTRATO DE CONTRATISTA INDEPENDIENTE ### Consultor de Ingeniería de Datos **13 de septiembre de 2024**  Este acuerdo, fechado a partir de la fecha primera escrita arriba, es celebrado por Ivan Weiss Van Der Pol ("CONTRATISTA"), y Stoic Finch Corporation ("CLIENTE"). Tra
+- **[2025-08-11] Ivan** (0 emojis): No entiendo cuál es el problema   Anteriormente mande 3k   Y ya había entregado todos los documentos que me pidieron para abrir la cuenta   Y también para recibir la vez pasada    Documentos traducidos y apostillados no existen  Trabajo directo para una empresa en Canadá   Me contacto el gefe por mi
+- **[2025-08-11] Ivan** (0 emojis): Si el me paga en la cuenta suizo  Para que acumule ahí antes de mandar a Paraguay   Por que mandar por debajo de 1500 usd no vale la pena  Por que la transferencia cobra 35   Si mando directo de Canadá a la cuenta del banco suizo que abrí con mi nacionalidad holandesa  Sería en cada salario que es c
+- **[2025-08-19] Ivan** (0 emojis): I mean   Por eso pregunté todo de eso al abrir luego la cuenta   Para tener bien ya todos mis documentos   Y estaba chill  Se abrió  Y chill pude mandar 3k   Y surprise ahora por 2k guau hay problemas   A mi me suena a bullshit   Y también a que se podría haber mencionado cuando hable por llamada co
+
 
 ## Notable messages (auto-extracted)
 

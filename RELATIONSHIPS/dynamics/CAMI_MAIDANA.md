@@ -17,6 +17,9 @@ Top topics: jajaja (50), hacer (47), https (47), sistema (45), slide (39)
 Avg msg length: Ivan 57 chars, them 36 chars
 Avg reply time: Ivan 37m, them 1.2h
 Question ratio: Ivan 12.9%, them 13.1%
+Longest streak: **8** consecutive days · Longest gap: **159** days
+Audio usage: 5.7% voice notes (n/a)
+Sentiment: Ivan +0.58 (very positive) (pos 26 / neg 7), them +0.38 (very positive) (pos 27 / neg 12)
 
 **Ivan calls them:** 'luana' (1x), 'kiki' (1x)
 
@@ -39,6 +42,15 @@ Question ratio: Ivan 12.9%, them 13.1%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-06-04] Them** (4 emojis): Graciiiiaassss Ivaaaannn 😭❣️❣️❣️ perdón ya dormía a esa hora ayer
+- **[2024-09-28] Ivan** (3 emojis): 📌 *¡Oportunidad laboral!* 🔸️En MentorMate buscamos un o una Junior Quality Engineer en Asunción, con inglés fluido y uno o dos años de experiencia. Más info aquí! 👇
+- **[2025-06-17] Them** (2 emojis): Buen díaaaaa!!! Feliiiiizzz cumpleeee Weisscitooo, que pases súper bien y que sigamos siendo amigos por mucho tiempo 🥰🥳
+- **[2024-06-17] Them** (2 emojis): Feliiiiiiiizzzz cumpleeeeee Weisscitoooo, que pases súper bieeen 🥰🥰
+- **[2024-06-30] Them** (2 emojis): Siq siii podemos estudiar por lo menos 2 días antes esta vez ☝🏻
+
 
 ## Notable messages (auto-extracted)
 

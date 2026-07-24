@@ -17,6 +17,9 @@ Top topics: https (92), estoy (56), hacer (52), tengo (45), ahora (40)
 Avg msg length: Ivan 25 chars, them 15 chars
 Avg reply time: Ivan 52m, them 46m
 Question ratio: Ivan 11.1%, them 4.5%
+Longest streak: **11** consecutive days · Longest gap: **68** days
+Audio usage: 7.7% voice notes (n/a)
+Sentiment: Ivan +0.62 (very positive) (pos 39 / neg 9), them +0.68 (very positive) (pos 31 / neg 6)
 
 **Ivan calls them:** 'kiki' (5x), 'saskia' (3x), 'luana' (2x), 'mama' (1x), 'reina' (1x)
 
@@ -39,6 +42,15 @@ Question ratio: Ivan 11.1%, them 4.5%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-10-31] Ivan** (6 emojis): Se pone música se Steven universe después en la sala  (?  Jsjsjsjjss  It's over isn't it ? Isn't it?  Isn't it over? 🕺🏻💃🏻🕺🏻
+- **[2024-09-29] Them** (1 emojis): Quiero añadirte a mi pantalla de inicio con Locket. Pulsa en el enlace para aceptar la invitación 💛 https://locket.camera/links/77zs9Yu9CrCW3XgF9
+- **[2020-12-02] Them** (0 emojis): Ruta compartida Desde Koggi Korean Food Cart hasta (-25.2912998,-57.6405562) por Estados Unidos y Av Dr José Gaspar Rodriguez de Francia  13 min (3.9 km) 13 min con el tráfico actual   1. Dirígete al sur por Padre Egidio Cardozo hacia Juan de Salazar y Espinoza. 2. Gira a la derecha con dirección a 
+- **[2021-04-21] Ivan** (0 emojis): "Missing Customers": [             "Empredimietos Hoteleros SAECA",             "La Gloria Hoteleria SA",             "Moraira SA",             "Azar Iteracioal SA",             "Coloial Apart SA",             "Karmar SAIC",             "Cosorcio Hotelero Sudamericaa SA",             "Hoteleria Para
+- **[2021-11-01] Ivan** (0 emojis): El componente  vertical es  (arriba o abajo) Es seno Por que al trazar tu flecha de fuerza  tomas como referencia generalmente el eje horizontal (Izquierda y derecha)  Entonces el opuesto a donde esta tu ángulo es la flecha vetical Y el adyacente es la flecha Horizontal     Descompones todas tus fle
+
 
 ## Notable messages (auto-extracted)
 

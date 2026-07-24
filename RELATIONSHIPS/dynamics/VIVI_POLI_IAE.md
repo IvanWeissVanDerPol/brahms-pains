@@ -17,6 +17,9 @@ Top topics: https (2), youtu (2), podcast (1), jajajaja (1), sospechando (1)
 Avg msg length: Ivan 29 chars, them 61 chars
 Avg reply time: Ivan 8m, them 1.1h
 Question ratio: Ivan 40.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **302** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2023-11-01, Ivan): Se pone podcast
 

@@ -17,6 +17,9 @@ Top topics: número (2), weiss (1), estoy (1), teniendo (1), problemas (1)
 Avg msg length: Ivan 26 chars, them 39 chars
 Avg reply time: Ivan 31s, them 3m
 Question ratio: Ivan 20.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan -1.00 (very negative) (pos 0 / neg 1), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2024-04-23, Ivan): Hola Sole Soy Iván Weiss   Estoy teniendo problemas con mi laptop:(  No tengo WiFi
 

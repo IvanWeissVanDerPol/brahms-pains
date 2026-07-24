@@ -17,6 +17,9 @@ Top topics: jajaja (35), surge (13), jajajaj (11), estoy (10), jajajaja (10)
 Avg msg length: Ivan 22 chars, them 16 chars
 Avg reply time: Ivan 32m, them 4m
 Question ratio: Ivan 6.8%, them 1.1%
+Longest streak: **7** consecutive days · Longest gap: **461** days
+Audio usage: 23.6% voice notes (n/a)
+Sentiment: Ivan -0.20 (slightly negative) (pos 2 / neg 3), them +0.50 (very positive) (pos 3 / neg 1)
 
 **They call Ivan:** 'loco' (2x)
 
@@ -37,6 +40,15 @@ Question ratio: Ivan 6.8%, them 1.1%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-29] Them** (2 emojis): Ya estancia osea quede antes en ir ahí contigo, pero el kp de monsi le dio semillas de lemon haze y white whidow🥴😖
+- **[2022-06-26] Them** (1 emojis): Jejeje entonse habrá que ver pq tiene backfire eso y duele más, me paso con  una herida de 9 puntos en la pierna hace poco🤣
+- **[2022-08-30] Them** (1 emojis): Aah yo pensaba que ibas a programar nms hoy xD pero surge, man los dealers a veces son rre mbore🤣
+- **[2022-06-26] Them** (1 emojis): Te juro es purete y los hongos se unen a las plantas  y se alían👌
+- **[2022-06-26] Ivan** (0 emojis): Yo el miércoles creo que voy a estar bastante libre  Me opero a la mañana  A eso se las 8  El martes voy a lo de un amigo y vamos a jugar vídeojuegos hasta las 5 am   Me opero y voy a dormir jajaja Y si te parece Te aviso cuando reviva y Jau (?
+
 
 ## Notable messages (auto-extracted)
 

@@ -17,6 +17,9 @@ Top topics: seria (2), tarea (2), clase (2), todavía (2), gracias (2)
 Avg msg length: Ivan 48 chars, them 64 chars
 Avg reply time: Ivan 56s, them 2m
 Question ratio: Ivan 25.0%, them 0.0%
+Longest streak: **2** consecutive days · Longest gap: **46** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **First message** (2024-03-18, Ivan): buenas profe   la tarea 1 seria este?
 

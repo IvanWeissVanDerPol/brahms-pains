@@ -17,6 +17,9 @@ Top topics: blanco (3), muchas (3), gracias (3), wilma (2), tenía (2)
 Avg msg length: Ivan 56 chars, them 55 chars
 Avg reply time: Ivan 48m, them 42m
 Question ratio: Ivan 9.1%, them 15.4%
+Longest streak: **2** consecutive days · Longest gap: **41** days
+Audio usage: 5.7% voice notes (n/a)
+Sentiment: Ivan +0.50 (very positive) (pos 3 / neg 1), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -37,6 +40,12 @@ Question ratio: Ivan 9.1%, them 15.4%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-10-10] Ivan** (2 emojis): 🏨Muchas gracias  por comunicarse con el Centro Medico Bautista. 🗓️Su cita es para el día: *MIERCOLES* 15-OCT-25 19:00Hs🩺WILMA BORDON BOVEDA
+- **[2025-08-26] Ivan** (0 emojis): Hola doctora Wilma   Soy Iván Weiss   El que tenía la cola arañada  En el viaje tome todos los meds   Y me puse rojo / me empezó a picar todo y me re descompuse  Y tome break de los meds   Ya que la vez anterior que me pasó así En urgencias me dijeron que deje de tomar y me pusieron suero    Para lo
+
 
 ## Notable messages (auto-extracted)
 

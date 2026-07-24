@@ -17,6 +17,9 @@ Top topics: consulta (1), técnica (1), furro (1)
 Avg msg length: Ivan 2 chars, them 16 chars
 Avg reply time: Ivan 9m, them 14s
 Question ratio: Ivan 0.0%, them 25.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2023-08-18, Them): Es mio, solo que no fui a tu casa
 

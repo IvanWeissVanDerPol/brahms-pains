@@ -17,6 +17,9 @@ Top topics: gracias (2), hamburguesas (2), delivery (2), buenas (1), noches (1)
 Avg msg length: Ivan 18 chars, them 39 chars
 Avg reply time: Ivan 33s, them 11s
 Question ratio: Ivan 16.7%, them 14.3%
+Longest streak: **1** consecutive days · Longest gap: **3** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +0.33 (very positive) (pos 2 / neg 1)
 
 **First message** (2025-04-22, Them): Muy buenas noches, Gracias por comunicarte con Lomiliz de Fernando de la Mora. 😄👋🏼   *MÉTODO DE PAGO CON EFECTIVO Y TRANSFERENCIA* 📲  ¿Cuál sería su pedido?🍔🍕🌯🍟
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 16.7%, them 14.3%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-22] Them** (8 emojis): Muy buenas noches, Gracias por comunicarte con Lomiliz de Fernando de la Mora. 😄👋🏼   *MÉTODO DE PAGO CON EFECTIVO Y TRANSFERENCIA* 📲  ¿Cuál sería su pedido?🍔🍕🌯🍟
+
 
 ## Notable messages (auto-extracted)
 

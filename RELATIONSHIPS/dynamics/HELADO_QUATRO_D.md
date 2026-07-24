@@ -17,6 +17,9 @@ Top topics: falta (2), chocolate (2), nuttela (2), ferrero (2), bosque (2)
 Avg msg length: Ivan 36 chars, them 24 chars
 Avg reply time: Ivan 57s, them 1m
 Question ratio: Ivan 30.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2024-05-01, Ivan): Hola soy Iván weiss
 

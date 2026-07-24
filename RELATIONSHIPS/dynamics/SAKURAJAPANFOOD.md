@@ -17,6 +17,9 @@ Top topics: gracias (3), buenas (2), tardes (2), tienen (1), acaso (1)
 Avg msg length: Ivan 54 chars, them 32 chars
 Avg reply time: Ivan 4m, them 3m
 Question ratio: Ivan 50.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **First message** (2023-07-25, Ivan): Buenas tardes   Tienen por si acaso parrilla 0ara hacer takoyaki?
 
@@ -35,6 +38,12 @@ Question ratio: Ivan 50.0%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-07-25] Them** (3 emojis): ¡Hola! Gracias por comunicarte con Sakura Mini Market!🌸 En breve nos comunicaremos con usted😊Muchas gracias!🙇
+- **[2023-07-25] Ivan** (0 emojis): Buenas tardes   Tienen por si acaso parrilla 0ara hacer takoyaki?
+
 
 ## Notable messages (auto-extracted)
 

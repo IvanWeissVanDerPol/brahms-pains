@@ -17,6 +17,9 @@ Top topics: fiorella (2), saluda (2), insignia (2), cualquier (2), consulta (2)
 Avg msg length: Ivan 7 chars, them 54 chars
 Avg reply time: Ivan 3m, them 6s
 Question ratio: Ivan 0.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **41** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **They call Ivan:** 'ivan' (3x)
 
@@ -37,6 +40,11 @@ Question ratio: Ivan 0.0%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-08-04] Them** (0 emojis): Hola Ivan! Fiorella te saluda de Insignia, cualquier consulta a las ordenes!
+
 
 ## Notable messages (auto-extracted)
 

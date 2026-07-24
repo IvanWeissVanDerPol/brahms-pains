@@ -17,6 +17,9 @@ Top topics: feria (3), pivot (2), empresas (2), movimientos (2), ingresos (2)
 Avg msg length: Ivan 181 chars, them 44 chars
 Avg reply time: Ivan 20s, them 1m
 Question ratio: Ivan 25.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2022-10-10, Ivan): Buenos tardes   Estamos en plena *FERIA DE EMPLEOS - INFORMÁTICOS 2022.*  Favor ingresar a www.pivot.com.py/informatica2022 para visitar la Vidriera Expositora de la Feria. Aquí se muestran las empres
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 25.0%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-10-10] Ivan** (0 emojis): Buenos tardes   Estamos en plena *FERIA DE EMPLEOS - INFORMÁTICOS 2022.*  Favor ingresar a www.pivot.com.py/informatica2022 para visitar la Vidriera Expositora de la Feria. Aquí se muestran las empresas y los puestos vacantes.  Hay un número interesante de empresas participantes y siguen creciendo l
+
 
 ## Notable messages (auto-extracted)
 

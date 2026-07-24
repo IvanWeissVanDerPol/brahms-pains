@@ -17,6 +17,9 @@ Top topics: postresql (5), profe (3), certificar (2), datos (2), clases (2)
 Avg msg length: Ivan 86 chars, them 100 chars
 Avg reply time: Ivan 12m, them 11m
 Question ratio: Ivan 25.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **459** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them -1.00 (very negative) (pos 0 / neg 1)
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -37,6 +40,13 @@ Question ratio: Ivan 25.0%, them 0.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-02-21] Ivan** (0 emojis): Hola profe  Soy Iván Weiss   Que certificados recomendas para ver / certificar   Que sean relevantes a base de datos 2 ?  Me gustaría a la par con las clases ver de certificar y tirar en LinkedIn
+- **[2024-02-21] Them** (0 emojis): Buenas Ivan!  Si tenes la oportunidad sería bueno hacer algún curso de Administración de Bases de Datos PostreSQL, Optimización de Consultas en PostreSQL o Consultas Avanzadas en PostreSQL
+- **[2024-02-21] Them** (0 emojis): Genial! Cualquier consulta lo podes hacer sin problema en clases. Saludos!!
+
 
 ## Notable messages (auto-extracted)
 

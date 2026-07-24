@@ -17,6 +17,9 @@ Top topics: weiss (1), genial (1), gracias (1), mando (1), grupo (1)
 Avg msg length: Ivan 11 chars, them 26 chars
 Avg reply time: Ivan n/a, them 40s
 Question ratio: Ivan 0.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **They call Ivan:** 'iván' (1x)
 

@@ -17,6 +17,9 @@ Top topics: https (17), nomás (12), jajaja (9), youtube (8), hello (8)
 Avg msg length: Ivan 26 chars, them 42 chars
 Avg reply time: Ivan 29m, them 29m
 Question ratio: Ivan 14.4%, them 13.0%
+Longest streak: **2** consecutive days · Longest gap: **277** days
+Audio usage: 4.1% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 5 / neg 0), them +0.33 (very positive) (pos 2 / neg 1)
 
 **Ivan calls them:** 'rey' (1x), 'loco' (1x)
 
@@ -37,6 +40,15 @@ Question ratio: Ivan 14.4%, them 13.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-05-13] Them** (1 emojis): Lleva nomás lo que vos querés tomar. Yo ya voy a tener para mi 🙂. Pero de estos PAULANER es por ejemplo bueno si querés para vos.
+- **[2022-07-02] Them** (1 emojis): Tampoco quiero interrumpir si estaban haciendo algo. 😅 Pero si no les molesta paso por ahí y chill
+- **[2022-10-08] Them** (1 emojis): Yo pio estaba tan muerto que no les podía dejar salir 🥲. Me tenían que echar nomás agua fría y ya
+- **[2022-10-08] Them** (1 emojis): Encima le podrían haber avisado a mi hermano nomás 😅  Pero bueno, la siguiente se toma más café
+- **[2021-11-17] Them** (1 emojis): Hora de desestresarse un poco antes del examen 😥 demasiado miedo ya me da este tema
+
 
 ## Notable messages (auto-extracted)
 

@@ -17,6 +17,9 @@ Top topics: recibido (2), éxito (2), proceso (2), verificación (2), siguiente 
 Avg msg length: Ivan 1 chars, them 70 chars
 Avg reply time: Ivan n/a, them 5m
 Question ratio: Ivan 0.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2023-10-24, Ivan): xd
 

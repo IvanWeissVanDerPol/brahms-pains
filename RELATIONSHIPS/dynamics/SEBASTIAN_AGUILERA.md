@@ -17,6 +17,9 @@ Top topics: universidad (22), https (19), udemy (12), course (12), couponcode (1
 Avg msg length: Ivan 44 chars, them 23 chars
 Avg reply time: Ivan 7m, them 35m
 Question ratio: Ivan 9.3%, them 2.5%
+Longest streak: **3** consecutive days · Longest gap: **317** days
+Audio usage: 6.5% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 3 / neg 0), them +1.00 (very positive) (pos 8 / neg 0)
 
 **They call Ivan:** 'ivan' (9x), 'iván' (1x), 'loco' (1x)
 
@@ -37,6 +40,14 @@ Question ratio: Ivan 9.3%, them 2.5%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-11-24] Ivan** (1 emojis): Hola a todos! Les comparto un recurso excelente para QA Automation. Es un curso completo sobre cómo integrar Inteligencia Artificial en nuestros flujos de trabajo (Playwright, Docker, CI/CD). Si buscan cómo modernizar su estrategia de testing, esto les va a servir mucho. 🚀   https://github.com/Ai-Wh
+- **[2022-08-08] Ivan** (0 emojis): Gratis de nuevo (1000 cada uno)  Universidad Java - De Cero a Experto - Más Completo +106 hrs https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=GM_AGO  Universidad de Programación - Python, Java y JavaScript https://www.udemy.com/course/universidad-de
+- **[2022-08-08] Ivan** (0 emojis): hace  1 array de largor abecedario  agarra tu cadena  pasa a minuscula todo lee letra x letra  saca su vaor achii   resta con el valor aschii de a  en esa ubicacion de el array abecedario hace valor de pos = valor de pos +1
+- **[2022-08-11] Ivan** (0 emojis): Por si acaso no podemos switchear las consolas again?  Va a salir cult of the lamb y quiero jugar ese xdxd
+
 
 ## Notable messages (auto-extracted)
 

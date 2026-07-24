@@ -17,6 +17,9 @@ Top topics: gracias (2), emergentes (2), acceso (1), faaaa (1), probá (1)
 Avg msg length: Ivan 31 chars, them 22 chars
 Avg reply time: Ivan 11m, them 1.1h
 Question ratio: Ivan 0.0%, them 16.7%
+Longest streak: **2** consecutive days · Longest gap: **9** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very positive) (pos 2 / neg 0)
 
 **First message** (2023-09-01, Them): dame acceso por faaaa
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 0.0%, them 16.7%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-10] Them** (0 emojis): https://docs.google.com/document/d/1eqq2JEFHZS59_bXYMbkR3P23vkmiNOkb8J0upoRV01Q/edit?usp=sharing
+
 
 ## Notable messages (auto-extracted)
 

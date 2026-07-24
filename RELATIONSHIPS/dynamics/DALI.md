@@ -17,6 +17,9 @@ Top topics: esperamos (2), local (2), privado (2), corazón (1), suelen (1)
 Avg msg length: Ivan 16 chars, them 142 chars
 Avg reply time: Ivan 17.1h, them 7.2h
 Question ratio: Ivan 50.0%, them 25.0%
+Longest streak: **2** consecutive days · Longest gap: **4** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2025-09-30, Them): Buen día corazón
 
@@ -35,6 +38,11 @@ Question ratio: Ivan 50.0%, them 25.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-10-01] Them** (10 emojis): 💆‍♀️ ¿Qué incluye? ✔ 30 minutos de masaje relajante y sensual (¡liberación de estrés garantizada!). ✔ Final manual (tu masajista te ayudará a "venirte" con sus manos para una relajación total 💦). ✔ Ambiente íntimo con música suave, cuarto privado y suite con ducha. ✔ Estacionamiento privado (discret
+
 
 ## Notable messages (auto-extracted)
 

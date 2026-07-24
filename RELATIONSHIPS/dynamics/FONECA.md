@@ -17,6 +17,9 @@ Top topics: estoy (8), https (6), github (5), examen (4), parcial (3)
 Avg msg length: Ivan 20 chars, them 17 chars
 Avg reply time: Ivan 15m, them 11m
 Question ratio: Ivan 8.1%, them 8.2%
+Longest streak: **2** consecutive days · Longest gap: **57** days
+Audio usage: 2.2% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 4 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -37,6 +40,13 @@ Question ratio: Ivan 8.1%, them 8.2%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-06-26] Ivan** (0 emojis): https://www.google.com/maps/place/Weiss+house/data=!4m2!3m1!1s0x0:0xf0c757dad8e51218?sa=X&ved=1t:2428&ictx=111
+- **[2025-06-12] Them** (0 emojis): Por si acaso no tenés los exámenes con las respuestas del primer y segundo parcial de bd?
+- **[2025-06-24] Ivan** (0 emojis): Hola Queres estudiar bd2? Irl estos dias? Antes del examen :)
+
 
 ## Notable messages (auto-extracted)
 

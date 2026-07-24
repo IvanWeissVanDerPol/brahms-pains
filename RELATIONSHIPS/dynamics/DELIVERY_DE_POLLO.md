@@ -17,6 +17,9 @@ Top topics: cuanto (1), pasan (1), gustaría (1), pedirles (1), pollos (1)
 Avg msg length: Ivan 24 chars, them 0 chars
 Avg reply time: Ivan 35s, them n/a
 Question ratio: Ivan 14.3%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **2** days
+Audio usage: 12.5% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2025-03-30, Ivan): Hola
 

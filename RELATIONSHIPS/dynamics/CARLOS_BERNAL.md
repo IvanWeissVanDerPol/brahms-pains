@@ -17,6 +17,9 @@ Top topics: tengo (2), habré (1), devolvidó (1)
 Avg msg length: Ivan 20 chars, them 0 chars
 Avg reply time: Ivan 3m, them n/a
 Question ratio: Ivan 0.0%, them 0.0%
+Longest streak: **1** consecutive days · Longest gap: **0** days
+Audio usage: 20.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2025-04-01, Ivan): Este tengo
 

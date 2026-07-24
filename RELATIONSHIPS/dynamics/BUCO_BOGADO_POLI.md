@@ -17,6 +17,9 @@ Top topics: weiss (4), hacer (3), jajajaja (2), prepare (2), tiene (2)
 Avg msg length: Ivan 32 chars, them 21 chars
 Avg reply time: Ivan 3.0h, them 4m
 Question ratio: Ivan 10.3%, them 8.0%
+Longest streak: **2** consecutive days · Longest gap: **115** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan +1.00 (very positive) (pos 3 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2022-10-12, Them): Weiss
 

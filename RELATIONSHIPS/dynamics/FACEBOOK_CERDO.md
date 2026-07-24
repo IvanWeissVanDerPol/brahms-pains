@@ -17,6 +17,9 @@ Top topics: milanesas (4), cuánto (2), lechón (2), tania (2), carne (2)
 Avg msg length: Ivan 29 chars, them 37 chars
 Avg reply time: Ivan 4m, them 2m
 Question ratio: Ivan 80.0%, them 6.7%
+Longest streak: **1** consecutive days · Longest gap: **279** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
 
 **First message** (2024-05-14, Ivan): Buenas a cuánto está el lechón?
 
@@ -35,6 +38,12 @@ Question ratio: Ivan 80.0%, them 6.7%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-05-14] Them** (3 emojis): Gracias por comunicarte con MILANESAS TANIA... 🤩 ¿Cómo podemos ayudarte? Dejanos tu pedido y te agendamos. Contamos con delivery con costo adicional, envíanos tu ubicación y te decimos el monto exacto 🚘 también podes hacer tu pago por transferencia y te enviamos por BOLT MOTO.  Disfruta de Milanesas
+- **[2024-05-17] Ivan** (0 emojis): A cuánto están las milanesas?  Hay de pollo? El de c es cerdo?
+
 
 ## Notable messages (auto-extracted)
 

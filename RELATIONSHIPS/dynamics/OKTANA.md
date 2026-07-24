@@ -17,6 +17,9 @@ Top topics: buenas (2), muchas (2), gracias (2), recibí (1), llamada (1)
 Avg msg length: Ivan 103 chars, them 69 chars
 Avg reply time: Ivan 6m, them 8.3h
 Question ratio: Ivan 0.0%, them 50.0%
+Longest streak: **2** consecutive days · Longest gap: **1** days
+Audio usage: 0.0% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 2 / neg 0)
 
 **They call Ivan:** 'ivan' (2x)
 
@@ -37,6 +40,12 @@ Question ratio: Ivan 0.0%, them 50.0%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-20] Them** (0 emojis): Hola Ivan, buenas tardes! ¿Comó estás?  Recibido correctamente. Muchas gracias por remitir tu CV actualizado
+- **[2023-06-20] Them** (0 emojis): Me gustaría consultarte sí ¿tendrias disponibilidad mañana a las 16:00 para una entrevista técnica?
+
 
 ## Notable messages (auto-extracted)
 

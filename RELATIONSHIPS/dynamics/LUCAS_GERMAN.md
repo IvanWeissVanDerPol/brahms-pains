@@ -17,6 +17,9 @@ Top topics: would (16), https (16), person (16), think (13), reasonable (12)
 Avg msg length: Ivan 36 chars, them 25 chars
 Avg reply time: Ivan 1.4h, them 1.9h
 Question ratio: Ivan 12.3%, them 17.5%
+Longest streak: **9** consecutive days · Longest gap: **820** days
+Audio usage: 1.5% voice notes (n/a)
+Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them +1.00 (very positive) (pos 4 / neg 0)
 
 **They call Ivan:** 'ivan' (5x)
 
@@ -37,6 +40,15 @@ Question ratio: Ivan 12.3%, them 17.5%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-01-18] Ivan** (2 emojis): Anyway I have to sleep 😴💤  Goodnight I hope your classes for tomorrow are as chill as the one from today jsjsjsjsjsjsjs
+- **[2023-05-14] Them** (1 emojis): Goodbye my crazy Paraguayan friend. I will always remember you ❤️
+- **[2023-01-18] Ivan** (0 emojis): Great Comm190 Is chill I like the vibes from the teacher  And robotics technology is cool  I thought it would be more about How to make a robot  But it's more about how to control a robot arm   I will see if I find a class more like robot building  And if not I'll do that one  Robot arms are cool al
+- **[2023-02-07] Ivan** (0 emojis): Reasonable suspicion and probable cause are legal terms used in the United States to determine the standard for conducting a search or making an arrest.  Reasonable suspicion refers to a level of suspicion that is lower than probable cause. It is based on specific and articulable facts, along with r
+- **[2023-02-07] Ivan** (0 emojis): Reasonable suspicion and probable cause are legal standards used in the criminal justice system to determine whether a law enforcement officer has sufficient justification to make an arrest, conduct a search, or detain someone.  Reasonable suspicion refers to a lower standard of proof compared to pr
+
 
 ## Notable messages (auto-extracted)
 

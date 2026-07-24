@@ -90,6 +90,22 @@ def analyze_chat(chat_dir: Path) -> dict:
     # Time of day buckets
     tod_buckets = Counter()  # morning, afternoon, evening, night
     
+    # Audio usage
+    audio_count = 0
+    total_msg_with_ts = 0
+    
+    # Sentiment markers
+    POS_WORDS = set("""amor amo encanta feliz bien gracias guapo guapa hermosa hermoso
+amor contento contenta alegria feliz amazing love gracias lovely enjoy wonderful
+excelente increible perfecto gracias gracias""".split())
+    NEG_WORDS = set("""mal triste odio enojado enojada molesto molesta cansado cansada
+horrible terrible mal fatal feo fea asco dolor problema problemas angry sad
+tired hate upset hate""".split())
+    pos_ivan = 0
+    pos_them = 0
+    neg_ivan = 0
+    neg_them = 0
+    
     # Top topic words (excluding stopwords)
     STOPWORDS = set("""a al algo algunas algunos ante antes como con contra cual cuando de del desde donde
 durante e el ella ellas ellos en entre era erais eran eres es esa esas ese eso esos esta
@@ -178,8 +194,23 @@ voy y ya yo""".split())
                 if word not in STOPWORDS:
                     topic_words[word] += 1
         
+        # Audio usage tracking
+        if ts_full:
+            total_msg_with_ts += 1
+        if m.get("type") == 2:  # audio
+            audio_count += 1
+        
         # Per-side stats
         is_ivan = m.get("from_me")
+        
+        # Sentiment tracking
+        for word in text_low.split():
+            if word in POS_WORDS:
+                if is_ivan: pos_ivan += 1
+                else: pos_them += 1
+            elif word in NEG_WORDS:
+                if is_ivan: neg_ivan += 1
+                else: neg_them += 1
         if is_ivan:
             ivan_total += 1
             ivan_word_chars += len(text)
@@ -241,6 +272,53 @@ voy y ya yo""".split())
     # Top time-of-day bucket
     top_tod = tod_buckets.most_common(1)[0] if tod_buckets else ("—", 0)
     
+    # Streak analysis: daily and gap
+    daily_counts = Counter()  # YYYY-MM-DD -> count
+    for m in sorted_msgs:
+        d = m.get("ts_iso", "")[:10]
+        if d: daily_counts[d] += 1
+    sorted_days = sorted(daily_counts.keys())
+    
+    # Longest daily streak
+    longest_streak = 0
+    cur_streak = 0
+    prev_day = None
+    for d in sorted_days:
+        if prev_day:
+            from datetime import date
+            try:
+                d1 = date.fromisoformat(prev_day)
+                d2 = date.fromisoformat(d)
+                if (d2 - d1).days == 1:
+                    cur_streak += 1
+                else:
+                    cur_streak = 1
+            except Exception:
+                cur_streak = 1
+        else:
+            cur_streak = 1
+        longest_streak = max(longest_streak, cur_streak)
+        prev_day = d
+    
+    # Longest gap
+    longest_gap = 0
+    for i in range(1, len(sorted_days)):
+        from datetime import date
+        try:
+            d1 = date.fromisoformat(sorted_days[i-1])
+            d2 = date.fromisoformat(sorted_days[i])
+            gap = (d2 - d1).days
+            longest_gap = max(longest_gap, gap)
+        except Exception:
+            pass
+    
+    # Audio ratio
+    audio_ratio = audio_count / total_msg_with_ts if total_msg_with_ts else 0
+    
+    # Sentiment balance
+    sentiment_score_ivan = (pos_ivan - neg_ivan) / max(1, pos_ivan + neg_ivan)
+    sentiment_score_them = (pos_them - neg_them) / max(1, pos_them + neg_them)
+    
     return {
         "ivan_total": ivan_total,
         "them_total": them_total,
@@ -264,6 +342,16 @@ voy y ya yo""".split())
         "q_ivan_ratio": q_ivan_ratio,
         "q_them_ratio": q_them_ratio,
         "top_tod": top_tod[0],
+        "tod_buckets": dict(tod_buckets),
+        "longest_streak": longest_streak,
+        "longest_gap": longest_gap,
+        "audio_ratio": audio_ratio,
+        "pos_ivan": pos_ivan,
+        "pos_them": pos_them,
+        "neg_ivan": neg_ivan,
+        "neg_them": neg_them,
+        "sentiment_score_ivan": sentiment_score_ivan,
+        "sentiment_score_them": sentiment_score_them,
     }
 
 
@@ -291,12 +379,14 @@ def main():
         # Read existing
         existing = profile_path.read_text()
         
-        # Skip only if has all sections: Overview, Notable, AND Top topics
+        # Skip only if has all sections
         if ("Auto-extracted stats" in existing 
             and "Top topics:" in existing
             and "## Notable messages (auto-extracted)\n\n- **" in existing
-            and "First message" in existing  # New: skip if already has first msg
-            and "Avg reply time" in existing):  # New: skip if already has reply time
+            and "First message" in existing
+            and "Avg reply time" in existing
+            and "Longest streak" in existing  # New: skip if already has streak
+            and "Audio usage" in existing):  # New: skip if already has audio
             continue
         
         # Analyze
@@ -366,6 +456,13 @@ def main():
         
         # Replace Overview - match either TODO form or existing filled form
         new_content = existing
+        # Format sentiment as bar
+        def sentiment_str(score):
+            if score > 0.3: return f"+{score:.2f} (very positive)"
+            if score > 0: return f"+{score:.2f} (positive)"
+            if score > -0.3: return f"{score:.2f} (slightly negative)"
+            return f"{score:.2f} (very negative)"
+        
         safe_overview = (
             f"## Overview\n\n"
             f"**Auto-extracted stats** ({analysis['ivan_total']:,} from Ivan, {analysis['them_total']:,} from them, {analysis['emojis_total']:,} emojis)\n\n"
@@ -376,6 +473,9 @@ def main():
             f"Avg msg length: Ivan {analysis['avg_ivan_len']:.0f} chars, them {analysis['avg_them_len']:.0f} chars\n"
             f"Avg reply time: Ivan {ivan_reply_str}, them {them_reply_str}\n"
             f"Question ratio: Ivan {analysis['q_ivan_ratio']:.1%}, them {analysis['q_them_ratio']:.1%}\n"
+            f"Longest streak: **{analysis['longest_streak']}** consecutive days · Longest gap: **{analysis['longest_gap']}** days\n"
+            f"Audio usage: {analysis['audio_ratio']:.1%} of all messages are voice notes\n"
+            f"Sentiment: Ivan {sentiment_str(analysis['sentiment_score_ivan'])} (pos {analysis['pos_ivan']} / neg {analysis['neg_ivan']}), them {sentiment_str(analysis['sentiment_score_them'])} (pos {analysis['pos_them']} / neg {analysis['neg_them']})\n"
             f"{nicks_str}"
             f"{first_msg_str}"
             f"{last_msg_str}"

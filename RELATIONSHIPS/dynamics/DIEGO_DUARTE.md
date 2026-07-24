@@ -17,6 +17,9 @@ Top topics: jajajajaja (1), nooooooo (1), pasas (1), video (1), graciaas (1)
 Avg msg length: Ivan 13 chars, them 31 chars
 Avg reply time: Ivan 5.3h, them 11m
 Question ratio: Ivan 0.0%, them 12.5%
+Longest streak: **2** consecutive days · Longest gap: **309** days
+Audio usage: 0.0% of all messages are voice notes
+Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2022-07-21, Them): JAJAJAJAJA NOOOOOOO
 

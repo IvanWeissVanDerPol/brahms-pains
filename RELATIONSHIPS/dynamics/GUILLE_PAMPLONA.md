@@ -17,6 +17,9 @@ Top topics: clase (4), capaz (4), eusebio (3), tenía (3), profe (3)
 Avg msg length: Ivan 23 chars, them 46 chars
 Avg reply time: Ivan 10m, them 1m
 Question ratio: Ivan 12.0%, them 5.7%
+Longest streak: **1** consecutive days · Longest gap: **395** days
+Audio usage: 1.2% voice notes (n/a)
+Sentiment: Ivan -1.00 (very negative) (pos 0 / neg 1), them 0.00 (slightly negative) (pos 0 / neg 0)
 
 **First message** (2022-08-13, Them): Uff, estaba almorzando ahora abro el WhatsApp
 
@@ -35,6 +38,13 @@ Question ratio: Ivan 12.0%, them 5.7%
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-12] Ivan** (0 emojis): holis  estoy lleyendo nomas los powerpoints random del profe pero son todos re contra mierda  tengo el drive de ale si queres Uwu  capaz te sirve mas que leer lo del profe (sus examenes eran online y eran mas densos)
+- **[2023-09-12] Them** (0 emojis): No sabes de nadie que estuvo en la última clase? En ciber que tuvimos con el era que decía más o menos la onda
+- **[2023-09-12] Them** (0 emojis): Y después. Che, vos no estuviste en la última clase o escuchaste algo respecto al examen de emergentes?
+
 
 ## Notable messages (auto-extracted)
 
