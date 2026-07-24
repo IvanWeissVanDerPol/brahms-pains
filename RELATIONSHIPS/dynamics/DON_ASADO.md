@@ -3,7 +3,7 @@
 > **Auto-generated profile stub** (2026-07-23T21:05:23)
 > **Source:** vCard phonebook (full export 2026-07-23)
 > **JID:** 595992298225
-> **Tier:** _dropped
+> **Tier:** _dropped · **Relationship score:** 10.8 (COLD)
 > **Stats:** 1 messages · 2024-11-29 → 2024-11-29
 
 ## Overview

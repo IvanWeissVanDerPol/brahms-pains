@@ -3,7 +3,7 @@
 > **Auto-generated profile stub** (2026-07-23T21:05:23)
 > **Source:** vCard phonebook (full export 2026-07-23)
 > **JID:** 595983281667
-> **Tier:** tier3_extended
+> **Tier:** tier3_extended · **Relationship score:** 57.7 (ACTIVE)
 > **Stats:** 194 messages · 2023-08-07 → 2026-05-01
 
 ## Overview

@@ -3,7 +3,7 @@
 > **Auto-generated profile stub** (2026-07-23T21:05:23)
 > **Source:** vCard phonebook (full export 2026-07-23)
 > **JID:** 595985208778
-> **Tier:** untiered_personal
+> **Tier:** untiered_personal · **Relationship score:** 38.0 (WARM)
 > **Stats:** 11 messages · 2022-12-21 → 2023-12-02
 
 ## Overview
