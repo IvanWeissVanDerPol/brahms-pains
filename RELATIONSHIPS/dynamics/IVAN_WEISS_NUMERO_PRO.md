@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (663 from Ivan, 0 from them)
+
+Peak months: `2024-08` (1 msgs), `2026-02` (599 msgs), `2026-03` (61 msgs)
+Language mix: other: 254, es: 59, en: 347, mixed: 3
+
+**Ivan calls them:** 'kiki' (4x), 'kyrian' (3x), 'amor' (2x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +27,16 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-02-05] Ivan** (14 emojis): [openclaw] Here's the overnight roundup:  **🐾 Vete Autonomous Workers — Massive Progress** 11 worker sessions ran since last night. Highlights:  - ✅ **API test auth fixed** — went from ~0% to 81% pass rate - ✅ **Integration test infra stabilized** — cookies() audit errors resolved - ✅ **6 Dependabot
+- **[2026-02-06] Ivan** (12 emojis): Sí, te escucho. Estaba revisando el sistema de cron.  Sobre tus pedidos:  **1. Polling adaptativo de Sarah:** El problema es que wacli no tiene acceso a indicadores de presencia/typing de WhatsApp (Baileys sí pero no está expuesto). Lo que SÍ puedo hacer: - Revisar si hay mensajes nuevos de ella en 
+- **[2026-02-05] Ivan** (10 emojis): OK here's my full analysis of John's messages:  ---  **📊 Analysis of John's Messages in AI Whisperers Group**  **25 messages total**, all from 2026-02-05 (02:04–04:30 UTC). Here's the breakdown:  ---  **👤 Who is John** - Ivan's father, 54 years old - 35+ years dev experience - Owns company WPG, work
+- **[2026-02-06] Ivan** (8 emojis): [Nyx] Done! ✅  **Sarah context provided to Erebus:**  1. **Created detailed context file:** `~/.openclaw/workspace/sarah-context.md`    - Dual-system model (Journalist armor vs Inner Child)    - 3 core wounds (Christmas abandonment, Not enough, Mother enmeshment)    - 4 defense mechanisms (Analyzer,
+- **[2026-02-13] Ivan** (8 emojis): The wacli command is not working as expected. This might be a configuration issue. I'll skip group polling for now. **Step 8: Memory Maintenance** - I tried earlier but the script had an issue with OpenClaw CLI not being in PATH. Let me check if I can run it differently: Actually, looking at the hea
+
 
 ## Notes
 

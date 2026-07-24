@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (245 from Ivan, 280 from them)
+
+Peak months: `2023-01` (31 msgs), `2023-05` (127 msgs), `2023-06` (252 msgs)
+Language mix: es: 207, other: 318
+
+**They call Ivan:** 'iván' (30x), 'ivan' (3x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-05-05] Them** (7 emojis): Hola! Gracias por contactarme!  🎨🖌️ Recuerda que *enseño pintura* los sábados de 9 a 12 hs  Podés ver mis obras ⬇️  🖼️ *Originales disponibles* en:  https://www.bgnarte.com/collections/camila-cadogan/CAMILA-CADOGAN  🎁 *Prints disponibles* aquí:   https://drive.google.com/file/d/1gL9_iH3bhFWWhTmMsV96
+
 
 ## Notes
 

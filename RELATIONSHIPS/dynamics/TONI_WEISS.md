@@ -8,7 +8,16 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (314 from Ivan, 284 from them)
+
+Peak months: `2025-03` (191 msgs), `2025-04` (239 msgs), `2026-05` (33 msgs)
+Language mix: es: 200, other: 385, mixed: 2, en: 11
+
+**Ivan calls them:** 'kiki' (1x)
+
+**They call Ivan:** 'ivan' (17x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +29,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-03-29] Ivan** (3 emojis): Crear imagen  Crear imagen 🟩 SECUENCIA 1 – “El ocaso de Alicia” (1999) Tema: Presentación. El fin de un ciclo.  🎞️ Escena 1.1 – Pasarela del Hotel Guaraní Visual: Sala llena de flashes, modelos caminando, y música elegante. Alicia (75 años), sentada junto a Martín, observa con orgullo.  Cámara: Trav
+
 
 ## Notes
 

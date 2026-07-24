@@ -8,7 +8,16 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (10,751 from Ivan, 12,249 from them)
+
+Peak months: `2022-04` (1509 msgs), `2022-06` (1278 msgs), `2022-07` (1891 msgs)
+Language mix: other: 18657, es: 4150, en: 173, mixed: 20
+
+**Ivan calls them:** 'kiki' (5x), 'bb' (3x), 'bebe' (2x)
+
+**They call Ivan:** 'ivan' (37x), 'iván' (4x), 'loco' (1x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +29,16 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-04-25] Them** (48 emojis): PS C:UsersAlejandro> hermes PS C:UsersAlejandro> hermes.exe  ██╗  ██╗███████╗██████╗ ███╗   ███╗███████╗███████╗       █████╗  ██████╗ ███████╗███╗   ██╗████████╗ ██║  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝      ██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝ ███████║█████╗  ██████╔╝██╔████
+- **[2026-04-25] Them** (48 emojis): PS C:UsersAlejandro> hermes PS C:UsersAlejandro> hermes.exe  ██╗  ██╗███████╗██████╗ ███╗   ███╗███████╗███████╗       █████╗  ██████╗ ███████╗███╗   ██╗████████╗ ██║  ██║██╔════╝██╔══██╗████╗ ████║██╔════╝██╔════╝      ██╔══██╗██╔════╝ ██╔════╝████╗  ██║╚══██╔══╝ ███████║█████╗  ██████╔╝██╔████
+- **[2026-03-01] Ivan** (32 emojis): # Solstein Project - Complete Setup Guide  > **Date**: 2026-03-01 > **Version**: 3.0 > **Last Updated**: 2026-03-01 00:50 UTC > **Author**: Ivan Weiss van der Pol  ---  ## Table of Contents  1. [Quick Start](#quick-start) 2. [OpenCode Setup](#opencode-setup) 3. [API Keys &amp; Providers](#api-keys--
+- **[2025-08-02] Them** (11 emojis): ESTE SÁBADO 🗣️ en @plantasia.studio_ (Médicos del Chaco c/ Incas) Vamos a estar compartiendo escenario con @lasaldelatierra y @drakengard333 ‼️ También vamos a estar vendiendo 🥪desmechados🥪 para que nos ayuden a sacar YAYAYA nuestra música. 🗣️  Anticipadas 20mil al: 0982285863📞🤙🏽 En puerta 30mil 💂‍♀
+- **[2023-03-01] Them** (9 emojis): discúlpame ahora recién me doy cuenta 🙏🏻🙏🏻🙏🏻🙏🏻 esa es la nueva contraseña para Netflix, pero la de My family cinema no cambió 🥺 jajajk
+
 
 ## Notes
 

@@ -1,0 +1,7 @@
+{
+  "generated_at": "2026-07-23T22:30:00",
+  "description": "Phone cross-reference blocked: vCard source had masked phone numbers (****) for privacy. Cannot match message text against partial numbers. Skip until unmasked vCard is available.",
+  "scanned_chats": 952,
+  "new_matches": [],
+  "blocked_reason": "vCard phone numbers masked with **** in source file"
+}

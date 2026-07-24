@@ -1,0 +1,47 @@
+{
+  "total_contacts": 216,
+  "total_messages": 235404,
+  "from_ivan": 111820,
+  "from_them": 123584,
+  "tiers": {
+    "tier1_deep": {
+      "count": 8,
+      "msgs": 145799
+    },
+    "tier2_core": {
+      "count": 26,
+      "msgs": 60113
+    },
+    "tier3_extended": {
+      "count": 46,
+      "msgs": 22655
+    },
+    "untiered_personal": {
+      "count": 71,
+      "msgs": 5646
+    },
+    "_dropped": {
+      "count": 65,
+      "msgs": 1191
+    }
+  },
+  "by_year": {
+    "2020": 86348,
+    "2021": 19280,
+    "2022": 32432,
+    "2023": 48137,
+    "2024": 39538,
+    "2025": 7834,
+    "2026": 1835
+  },
+  "msg_types": {
+    "0_text": 198483,
+    "1_image": 16835,
+    "2_audio": 18600,
+    "3_video": 1486,
+    "6_sticker": 0,
+    "7_doc": 0
+  },
+  "median_chat_span_days": 310,
+  "longest_chat": "Jonatan Verdún"
+}

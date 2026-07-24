@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Psycology — Family Tree</title>
+<style>
+  body { margin: 0; padding: 24px; background: #0a0a0a; color: #d4d4d4; font-family: system-ui, sans-serif; }
+  h1 { color: #58c4dc; font-size: 16px; text-transform: uppercase; letter-spacing: 0.05em; }
+  h2 { color: #d4d4d4; font-size: 13px; margin-top: 24px; border-bottom: 1px solid #2a2a2a; padding-bottom: 4px; }
+  .legend { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 16px; font-size: 12px; }
+  .legend-item { display: flex; align-items: center; gap: 6px; }
+  .legend-swatch { width: 12px; height: 12px; border-radius: 2px; }
+  .tree-container { background: #111; border: 1px solid #2a2a2a; border-radius: 4px; padding: 16px; overflow-x: auto; }
+  svg { display: block; }
+  .node rect { stroke-width: 2; }
+  .node.mom rect { fill: #2d1f1f; stroke: #d97e3a; }
+  .node.dad rect { fill: #1f2d2d; stroke: #79c0ff; }
+  .node.child rect { fill: #1a1a1a; stroke: #98c379; }
+  .node.grand rect { fill: #1a1a1a; stroke: #707070; stroke-dasharray: 4 2; }
+  .node.uncle rect { fill: #1a1a1a; stroke: #c678dd; stroke-dasharray: 4 2; }
+  .node.extended rect { fill: #1a1a1a; stroke: #707070; }
+  .node text { fill: #d4d4d4; font-size: 12px; }
+  .node text.role { fill: #79c0ff; font-size: 10px; font-style: italic; }
+  .node text.uncertain { fill: #d97e3a; font-size: 9px; font-style: italic; }
+  .node a { fill: #58c4dc; text-decoration: none; }
+  .connector { stroke: #404040; stroke-width: 1.5; fill: none; }
+  .gen-label { fill: #707070; font-size: 10px; font-style: italic; }
+</style>
+</head>
+<body>
+<h1>Psycology — Family Tree</h1>
+<p style="color:#707070;font-size:12px">Verified family relationships from <a href="https://github.com/IvanWeissVanDerPol/psycology/tree/master/docs/identity-corrections" style="color:#58c4dc">docs/identity-corrections/</a> + full vCard export (2026-07-23)</p>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-swatch" style="background:#2d1f1f;border:2px solid #d97e3a"></div>Mom</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:#1f2d2d;border:2px solid #79c0ff"></div>Dad</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:#1a1a1a;border:2px solid #98c379"></div>Sibling</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:#1a1a1a;border:2px dashed #707070"></div>Grandparent</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:#1a1a1a;border:2px dashed #c678dd"></div>Uncle/Aunt</div>
+  <div class="legend-item"><div class="legend-swatch" style="background:#1a1a1a;border:2px solid #707070"></div>Extended family</div>
+  <div class="legend-item" style="color:#d97e3a">● uncertain / open question</div>
+</div>
+
+<div class="tree-container">
+<svg width="2060" height="400" xmlns="http://www.w3.org/2000/svg">
+
+<text class="gen-label" x="20" y="70">Parents</text>
+<text class="gen-label" x="20" y="170">Children</text>
+<text class="gen-label" x="20" y="270">Extended</text>
+<path class="connector" d="M 140 100 L 140 120 L -640 120 L -640 140"/>
+<path class="connector" d="M 400 100 L 400 120 L -640 120 L -640 140"/>
+<path class="connector" d="M 140 100 L 140 120 L -120 120 L -120 140"/>
+<path class="connector" d="M 400 100 L 400 120 L -120 120 L -120 140"/>
+<path class="connector" d="M 140 100 L 140 120 L 400 120 L 400 140"/>
+<line class="connector" x1="400" y1="100" x2="400" y2="140"/>
+<path class="connector" d="M 140 100 L 140 120 L 920 120 L 920 140"/>
+<path class="connector" d="M 400 100 L 400 120 L 920 120 L 920 140"/>
+<path class="connector" d="M 140 100 L 140 20 L -900 20 L -900 -60"/>
+<path class="connector" d="M 400 100 L 400 20 L 1180 20 L 1180 -60"/>
+<line class="connector" x1="400" y1="0" x2="400" y2="40"/>
+<path class="connector" d="M 660 0 L 660 20 L 400 20 L 400 40"/>
+<g class="node mom">
+  <rect x="40" y="40" width="200" height="60" rx="4"/>
+  <text x="50" y="60" font-weight="500">Sonia Edith Weiss López</text>
+  <text x="50" y="76" class="role">Mom</text>
+  <text x="50" y="96" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/SONIA_WEISS.md">→ profile</a></text>
+</g>
+<g class="node dad">
+  <rect x="300" y="40" width="200" height="60" rx="4"/>
+  <text x="310" y="60" font-weight="500">John van der Pol</text>
+  <text x="310" y="76" class="role">Dad</text>
+  <text x="310" y="96" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/JOHN.md">→ profile</a></text>
+</g>
+<g class="node child">
+  <rect x="-740" y="140" width="200" height="60" rx="4"/>
+  <text x="-730" y="160" font-weight="500">Luana Weiss</text>
+  <text x="-730" y="176" class="role">Sister (24)</text>
+  <text x="-730" y="196" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/LUANA.md">→ profile</a></text>
+</g>
+<text class="uncertain" x="-220" y="190">⚠ No 1-on-1 chat in corpus</text>
+<g class="node child">
+  <rect x="-220" y="140" width="200" height="60" rx="4"/>
+  <text x="-210" y="160" font-weight="500">Saskia Weiss</text>
+  <text x="-210" y="176" class="role">Sister</text>
+  <text x="-210" y="184" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/SASKIA.md">→ profile</a></text>
+</g>
+<g class="node child">
+  <rect x="300" y="140" width="200" height="60" rx="4"/>
+  <text x="310" y="160" font-weight="500">Kyrian 'Kiki' Weiss</text>
+  <text x="310" y="176" class="role">Sister (a.k.a. Kiki)</text>
+  <text x="310" y="196" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/KIKI_WEISS_HERMANA.md">→ profile</a></text>
+</g>
+<g class="node child">
+  <rect x="820" y="140" width="200" height="60" rx="4"/>
+  <text x="830" y="160" font-weight="500">Micaela 'Mica' Weiss Coëhn</text>
+  <text x="830" y="176" class="role">Cousin</text>
+  <text x="830" y="196" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/PRIMA_MIKAELA_WEISS.md">→ profile</a></text>
+</g>
+<g class="node grand">
+  <rect x="300" y="-60" width="200" height="60" rx="4"/>
+  <text x="310" y="-40" font-weight="500">Riet van der Pol</text>
+  <text x="310" y="-24" class="role">Grandma</text>
+  <text x="310" y="-4" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/RIET_VAN_DER_POL.md">→ profile</a></text>
+</g>
+<g class="node grand">
+  <rect x="560" y="-60" width="200" height="60" rx="4"/>
+  <text x="570" y="-40" font-weight="500">Jan van der Pol</text>
+  <text x="570" y="-24" class="role">Grandpa (deceased)</text>
+  <text x="570" y="-4" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/JAN_VAN_DER_POL.md">→ profile</a></text>
+</g>
+<g class="node uncle">
+  <rect x="-1000" y="-60" width="200" height="60" rx="4"/>
+  <text x="-990" y="-40" font-weight="500">Antonio 'Toni' López Weiss</text>
+  <text x="-990" y="-24" class="role">Uncle (USA)</text>
+  <text x="-990" y="-4" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/TONI_WEISS.md">→ profile</a></text>
+</g>
+<g class="node uncle">
+  <rect x="1080" y="-60" width="200" height="60" rx="4"/>
+  <text x="1090" y="-40" font-weight="500">Gerold Manders</text>
+  <text x="1090" y="-24" class="role">Uncle (adoptive, dad's)</text>
+  <text x="1090" y="-4" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/GEROLD_MANDERS.md">→ profile</a></text>
+</g>
+<g class="node extended">
+  <rect x="560" y="140" width="200" height="60" rx="4"/>
+  <text x="570" y="160" font-weight="500">Anna Rodas van der Pol</text>
+  <text x="570" y="176" class="role">Family (van der Pol)</text>
+  <text x="570" y="196" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/ANNA_RODAS_VAN_DER_POL.md">→ profile</a></text>
+</g>
+<g class="node extended">
+  <rect x="820" y="140" width="200" height="60" rx="4"/>
+  <text x="830" y="160" font-weight="500">Alexander van der Pol</text>
+  <text x="830" y="176" class="role">Family (van der Pol)</text>
+  <text x="830" y="196" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/ALEXANDER_VAN_DER_POL.md">→ profile</a></text>
+</g>
+</svg></div>
+
+<h2>Open questions / unresolved</h2>
+<ul style="font-size:13px;line-height:1.6">
+  <li><strong>Saskia's brother (JID 595985725871)</strong>: vCard labels as "Saskia Weiss" but chat content shows the contact identifies as "Soy el hermano mayor de saskia". Either vCard is wrong or Ivan was wrong about "Saskia has no 1-on-1 chat". Awaiting Ivan.</li>
+  <li><strong>3 friends named Luana</strong>: Not in vCard, no self-intro in corpus. Awaiting Ivan's JIDs or contexts.</li>
+  <li><strong>Mom's siblings Carlú/Julio/Roberto</strong>: Referenced in family tree but not yet identified in chats.</li>
+</ul>
+
+<h2>Verified (2026-07-23 family corrections)</h2>
+<ul style="font-size:13px;line-height:1.6">
+  <li><strong>Kiki = Kyrian</strong> (3rd sister, NOT Saskia) — JID 595985724135</li>
+  <li><strong>Saskia = separate sister</strong> (no 1-on-1 chat, only group appearances)</li>
+  <li><strong>3 sisters</strong>: Luana (24), Saskia, Kyrian "Kiki" — confirmed separate</li>
+  <li><strong>Toni Weiss</strong> = uncle (mom's brother), NOT dad</li>
+  <li><strong>John van der Pol</strong> = dad (not Toni as previously labeled)</li>
+</ul>
+</body></html>

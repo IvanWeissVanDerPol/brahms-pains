@@ -8,7 +8,16 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (2,018 from Ivan, 2,103 from them)
+
+Peak months: `2021-10` (244 msgs), `2021-12` (231 msgs), `2022-01` (460 msgs)
+Language mix: other: 3458, es: 614, en: 46, mixed: 3
+
+**Ivan calls them:** 'kiki' (5x), 'saskia' (3x), 'luana' (2x)
+
+**They call Ivan:** 'ivan' (67x), 'iván' (2x), 'bb' (1x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +29,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-10-31] Ivan** (6 emojis): Se pone música se Steven universe después en la sala  (?  Jsjsjsjjss  It's over isn't it ? Isn't it?  Isn't it over? 🕺🏻💃🏻🕺🏻
+
 
 ## Notes
 

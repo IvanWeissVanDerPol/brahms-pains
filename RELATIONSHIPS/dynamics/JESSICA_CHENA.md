@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (338 from Ivan, 251 from them)
+
+Peak months: `2023-03` (107 msgs), `2023-04` (189 msgs), `2026-06` (51 msgs)
+Language mix: es: 112, other: 455, en: 22
+
+**They call Ivan:** 'ivan' (18x), 'iván' (3x), 'loco' (1x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-05-15] Them** (5 emojis): Hi Iván! Espero que hayas tenido un buen trip a Py Te quiero muchísimo 💖 Gracias por ser tan buen amigo, sos re genial ✨ éxitos en todos tus proyectos 💪🏻 cuando quieras hablar o algo yo siempre voy a estar disponible para mis gordis 💖
+
 
 ## Notes
 

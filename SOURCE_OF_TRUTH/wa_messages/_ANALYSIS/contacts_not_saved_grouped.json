@@ -1,0 +1,6861 @@
+{
+ "generated_at": "2026-07-23T22:30:00",
+ "total": 882,
+ "categories": {
+  "business": 36,
+  "low_volume": 243,
+  "group": 173,
+  "casual": 214,
+  "single_msg": 87,
+  "active_chat": 101,
+  "service_bot": 10,
+  "romantic": 2,
+  "empty": 16
+ },
+ "groups": {
+  "business": [
+   {
+    "jid": "595971167729",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971167729_9255",
+    "provisional_name": "",
+    "count": 364,
+    "n_biz": 52
+   },
+   {
+    "jid": "595983008816",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983008816_9253",
+    "provisional_name": "",
+    "count": 325,
+    "n_biz": 54
+   },
+   {
+    "jid": "595976333549",
+    "tier": "_dropped",
+    "dirname": "11__p3549___wa_chat_595976333549_9257",
+    "provisional_name": "",
+    "count": 238,
+    "n_biz": 50
+   },
+   {
+    "jid": "595971353082",
+    "tier": "_dropped",
+    "dirname": "12__p3082___wa_chat_595971353082_9263",
+    "provisional_name": "",
+    "count": 202,
+    "n_biz": 51
+   },
+   {
+    "jid": "595981611611",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981611611_4398",
+    "provisional_name": "",
+    "count": 24,
+    "n_biz": 14
+   },
+   {
+    "jid": "595983444251",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983444251_6594",
+    "provisional_name": "",
+    "count": 5,
+    "n_biz": 12
+   },
+   {
+    "jid": "120363193043095870",
+    "tier": "_dropped",
+    "dirname": "_wa_other_newsletter_120363193043095870_8963",
+    "provisional_name": "",
+    "count": 213,
+    "n_biz": 7
+   },
+   {
+    "jid": "595982579790",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982579790_4840",
+    "provisional_name": "",
+    "count": 7,
+    "n_biz": 14
+   },
+   {
+    "jid": "111231230845043",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_111231230845043_14029",
+    "provisional_name": "",
+    "count": 53,
+    "n_biz": 6
+   },
+   {
+    "jid": "264098176585956",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_264098176585956_13647",
+    "provisional_name": "",
+    "count": 26,
+    "n_biz": 19
+   },
+   {
+    "jid": "105909749575890",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_105909749575890_13081",
+    "provisional_name": "",
+    "count": 43,
+    "n_biz": 7
+   },
+   {
+    "jid": "137624291393721",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_137624291393721_16788",
+    "provisional_name": "",
+    "count": 8,
+    "n_biz": 11
+   },
+   {
+    "jid": "6790360092864",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_6790360092864_12996",
+    "provisional_name": "",
+    "count": 28,
+    "n_biz": 6
+   },
+   {
+    "jid": "595986700600",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986700600_5162",
+    "provisional_name": "",
+    "count": 6,
+    "n_biz": 7
+   },
+   {
+    "jid": "163857968414803",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_163857968414803_13535",
+    "provisional_name": "",
+    "count": 38,
+    "n_biz": 19
+   },
+   {
+    "jid": "595991991954",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991991954_12678",
+    "provisional_name": "",
+    "count": 27,
+    "n_biz": 9
+   },
+   {
+    "jid": "120363144038483540",
+    "tier": "_dropped",
+    "dirname": "_wa_other_newsletter_120363144038483540_5327",
+    "provisional_name": "",
+    "count": 159,
+    "n_biz": 10
+   },
+   {
+    "jid": "595981701701",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981701701_4076",
+    "provisional_name": "",
+    "count": 38,
+    "n_biz": 23
+   },
+   {
+    "jid": "83477168951296",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_83477168951296_14631",
+    "provisional_name": "",
+    "count": 51,
+    "n_biz": 9
+   },
+   {
+    "jid": "218051244990519",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_218051244990519_17171",
+    "provisional_name": "",
+    "count": 30,
+    "n_biz": 6
+   },
+   {
+    "jid": "595985206684",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985206684_10390",
+    "provisional_name": "",
+    "count": 19,
+    "n_biz": 18
+   },
+   {
+    "jid": "42490228936873",
+    "tier": "other_lid",
+    "dirname": "lid_936873___wa_lid_42490228936873_15160",
+    "provisional_name": "",
+    "count": 336,
+    "n_biz": 10
+   },
+   {
+    "jid": "595981324569",
+    "tier": "tier1_deep",
+    "dirname": "06__p4569___wa_chat_595981324569_1092",
+    "provisional_name": "",
+    "count": 663,
+    "n_biz": 10
+   },
+   {
+    "jid": "595993553949",
+    "tier": "tier2_core",
+    "dirname": "33__kiki_adjacent___wa_chat_595993553949_12779",
+    "provisional_name": "",
+    "count": 2525,
+    "n_biz": 6
+   },
+   {
+    "jid": "595981473912",
+    "tier": "tier2_core",
+    "dirname": "40__victor_urgent___wa_chat_595981473912_1762",
+    "provisional_name": "",
+    "count": 19,
+    "n_biz": 9
+   },
+   {
+    "jid": "595981459447",
+    "tier": "tier3_extended",
+    "dirname": "078__p9447___wa_chat_595981459447_11190",
+    "provisional_name": "",
+    "count": 166,
+    "n_biz": 7
+   },
+   {
+    "jid": "595974612313",
+    "tier": "untiered_personal",
+    "dirname": "142__p2313___wa_chat_595974612313_9192",
+    "provisional_name": "",
+    "count": 34,
+    "n_biz": 19
+   },
+   {
+    "jid": "595984116894",
+    "tier": "untiered_personal",
+    "dirname": "186__p6894___wa_chat_595984116894_6741",
+    "provisional_name": "",
+    "count": 114,
+    "n_biz": 10
+   },
+   {
+    "jid": "595971133008",
+    "tier": "untiered_personal",
+    "dirname": "114__p3008___wa_chat_595971133008_1297",
+    "provisional_name": "",
+    "count": 62,
+    "n_biz": 22
+   },
+   {
+    "jid": "595986186810",
+    "tier": "untiered_personal",
+    "dirname": "216__p6810___wa_chat_595986186810_232",
+    "provisional_name": "",
+    "count": 11,
+    "n_biz": 6
+   },
+   {
+    "jid": "595991717977",
+    "tier": "untiered_personal",
+    "dirname": "227__p7977___wa_chat_595991717977_12799",
+    "provisional_name": "",
+    "count": 48,
+    "n_biz": 8
+   },
+   {
+    "jid": "595986850030",
+    "tier": "untiered_personal",
+    "dirname": "223__p0030___wa_chat_595986850030_6817",
+    "provisional_name": "",
+    "count": 14,
+    "n_biz": 7
+   },
+   {
+    "jid": "595981204734",
+    "tier": "untiered_personal",
+    "dirname": "154__p4734___wa_chat_595981204734_10154",
+    "provisional_name": "",
+    "count": 38,
+    "n_biz": 7
+   },
+   {
+    "jid": "595981724759",
+    "tier": "untiered_personal",
+    "dirname": "165__p4759___wa_chat_595981724759_9299",
+    "provisional_name": "",
+    "count": 46,
+    "n_biz": 8
+   },
+   {
+    "jid": "595992749480",
+    "tier": "untiered_personal",
+    "dirname": "243__p9480___wa_chat_595992749480_10506",
+    "provisional_name": "",
+    "count": 32,
+    "n_biz": 6
+   },
+   {
+    "jid": "595981375463",
+    "tier": "untiered_personal",
+    "dirname": "157__p5463___wa_chat_595981375463_9165",
+    "provisional_name": "",
+    "count": 218,
+    "n_biz": 6
+   }
+  ],
+  "low_volume": [
+   {
+    "jid": "5491161048979",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_5491161048979_11920",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "130219130274040",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_130219130274040_15104",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595981383649",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981383649_10158",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595982777960",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982777960_5127",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595986652056",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986652056_5724",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "263281965015215",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_263281965015215_15036",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595982842220",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982842220_5546",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595972273973",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972273973_4646",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595991851222",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991851222_12005",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595981183723",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981183723_6931",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "5493515406764",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_5493515406764_10392",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595971636509",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971636509_9159",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595986381015",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986381015_11892",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595973512556",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595973512556_9774",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "595992679747",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992679747_3646",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595985475708",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985475708_10300",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595992720978",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992720978_5723",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "40570311434494",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_40570311434494_14357",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "154838570647782",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_154838570647782_14007",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "61297840402647",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_61297840402647_16977",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "33101363314843",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_33101363314843_17023",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595972862043",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972862043_9601",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "32178616434715",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_32178616434715_14953",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "18147475492",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_18147475492_2931",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595987408440",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987408440_11891",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595985906399",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985906399_6577",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992978090",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992978090_10509",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595976909490",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976909490_10320",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595981993093",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981993093_11541",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595976682109",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976682109_9259",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595987115574",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987115574_10884",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595972808418",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972808418_1858",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595976900782",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976900782_3227",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595986780732",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986780732_10161",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "37371181568043",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_37371181568043_16945",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595992222691",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992222691_2013",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595982190087",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982190087_12023",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595987112511",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987112511_11883",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595986652329",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986652329_10340",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595985808318",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985808318_9594",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595981395596",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981395596_5181",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595976933610",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976933610_11524",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595985552000",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985552000_6568",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "57205206347846",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_57205206347846_13077",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "49074850025489",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_49074850025489_15046",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595991265170",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991265170_11853",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "171790185791507",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_171790185791507_13193",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992297541",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992297541_12617",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "208765475393660",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_208765475393660_15474",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595994723736",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994723736_4838",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "5491173660945",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_5491173660945_9621",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "59899000784",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_59899000784_9209",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "595983012659",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983012659_9195",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992736353",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992736353_9196",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595985728620",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985728620_10507",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595972902266",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972902266_6738",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595982442540",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982442540_10466",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "159961812320427",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_159961812320427_13128",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595991310221",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991310221_8971",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595962133580",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595962133580_6764",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "156113605529625",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_156113605529625_17170",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595971545477",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971545477_2237",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595984118500",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984118500_5093",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595987111437",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987111437_10473",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595961738267",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595961738267_4430",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595983771093",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983771093_7525",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595981472444",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981472444_1308",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595986382798",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986382798_10099",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595994538574",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994538574_3655",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "144135260471348",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_144135260471348_14874",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "89220043534564",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_89220043534564_13119",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595994609417",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994609417_3721",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "26346117976092",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_26346117976092_15480",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "34650513549",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_34650513549_10652",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "5493413296666",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_5493413296666_10351",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "266751929544901",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_266751929544901_14146",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595982833757",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982833757_11928",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595983153932",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983153932_11835",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595981825140",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981825140_8970",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595961103376",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595961103376_6905",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595984607510",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984607510_9872",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595984312615",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984312615_11902",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595984722609",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984722609_4371",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "97212994470016",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_97212994470016_14961",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992248450",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992248450_9167",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595984290509",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984290509_11289",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595982012889",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982012889_11855",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595982149267",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982149267_11287",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595974209044",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974209044_3571",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595984175112",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984175112_7527",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595986743708",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986743708_2274",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "153339375423583",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_153339375423583_13005",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992472217",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992472217_11922",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595991921600",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991921600_6512",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595984872609",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984872609_5052",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595981973355",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981973355_4086",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595971574241",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971574241_11556",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595991587485",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991587485_7827",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992725319",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992725319_11931",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595982501582",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982501582_11230",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "84791898693844",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_84791898693844_15167",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595993598454",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595993598454_2323",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595986129457",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986129457_5721",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595984264979",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984264979_2284",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595971378858",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971378858_11478",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595972155481",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972155481_6717",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595974956470",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974956470_10067",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595991717428",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991717428_10303",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992228058",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992228058_9918",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595981556506",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981556506_1430",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595983284564",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983284564_11849",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595985549164",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985549164_6885",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595986739802",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986739802_10968",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "203762392137970",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_203762392137970_13624",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595991196568",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991196568_9179",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595991184263",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991184263_11178",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595992503013",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992503013_5236",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "273555795226716",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_273555795226716_15131",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595981781796",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981781796_10307",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "595992444123",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992444123_11846",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595982018339",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982018339_6519",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595972913916",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972913916_5452",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "145762717540453",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_145762717540453_13646",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595983595027",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983595027_4048",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595986831760",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986831760_12702",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "595981577805",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981577805_12613",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595992440311",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992440311_1760",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "31452213305549",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_31452213305549_13192",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595981561946",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981561946_6602",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595993309493",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595993309493_6936",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595981945426",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981945426_9591",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "213374025658551",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_213374025658551_13567",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595982544636",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982544636_10083",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "2347045635469",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_2347045635469_5586",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "62882162936422",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_62882162936422_6562",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "102762008342747",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_102762008342747_14607",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595982463024",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982463024_5760",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595992776493",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992776493_12764",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595985720342",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985720342_6816",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "191491637014610",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_191491637014610_13046",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595981784662",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981784662_11998",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595982911935",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982911935_1911",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595991182268",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991182268_11923",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "89485660393604",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_89485660393604_13010",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595986151686",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986151686_11462",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595994642574",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994642574_11930",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595983236333",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983236333_6776",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595987172973",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987172973_11921",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595981541913",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981541913_1906",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "595985200647",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985200647_9586",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595984694993",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984694993_10665",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595973908532",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595973908532_5713",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595994946299",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994946299_5597",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "359876591429",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_359876591429_5576",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595976161000",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976161000_5759",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595994707789",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994707789_4638",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "8801929022468",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_8801929022468_6548",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "239105191460998",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_239105191460998_13649",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595981000111",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981000111_9689",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595981945931",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981945931_5470",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "12305819504882",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_12305819504882_14973",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595971996907",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971996907_6761",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595991874689",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991874689_6877",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595985775779",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985775779_3756",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595993071008",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595993071008_11927",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595985653855",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985653855_5471",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595981361137",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981361137_6612",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595982862477",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982862477_7963",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595994467903",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994467903_12679",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595985555225",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985555225_9658",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "31616116992",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_31616116992_1464",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "232538605887647",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_232538605887647_16236",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595993454000",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595993454000_9042",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992468570",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992468570_11509",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "49735771639861",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_49735771639861_14787",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595981586063",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981586063_6818",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "1159674785945",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_1159674785945_14636",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "119259044835572",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_119259044835572_13532",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595972967466",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972967466_4700",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595986138123",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986138123_10322",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "243709446770796",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_243709446770796_16974",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595992685876",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992685876_4429",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "31682752326",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_31682752326_8177",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "18492797199",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_18492797199_11742",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595972908916",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972908916_11825",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "50257029309",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_50257029309_9070",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595987116657",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987116657_6516",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595987372358",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987372358_11903",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "119769609064508",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_119769609064508_15177",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "139088824914000",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_139088824914000_14658",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595982945349",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982945349_9547",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595994314314",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994314314_6524",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595992267929",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992267929_12798",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595992280435",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992280435_9318",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595982524314",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982524314_5830",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595972386499",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972386499_2475",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595992930805",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992930805_10315",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595982728694",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982728694_11925",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595992026352",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992026352_11350",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "595981516108",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981516108_11499",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "186513367277734",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_186513367277734_15200",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595983249641",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983249641_4676",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595986200043",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986200043_6598",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595976583360",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976583360_9704",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "258617261465627",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_258617261465627_15244",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "244079115948071",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_244079115948071_15063",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "56942458964",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_56942458964_10586",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595981203934",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981203934_10115",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "92968996368548",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_92968996368548_17028",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595991900700",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991900700_4235",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "34672986128",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_34672986128_5066",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595984962826",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984962826_5778",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "169002668171442",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_169002668171442_13622",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "195133299544069",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_195133299544069_15090",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595992289627",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992289627_11222",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595981147364",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981147364_4234",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595972259553",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972259553_6930",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595982988917",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982988917_4437",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "595975364756",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595975364756_6600",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595985526379",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985526379_5323",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "228423674896462",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_228423674896462_12860",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595974525749",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974525749_11997",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "15617591585",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_15617591585_11743",
+    "provisional_name": "",
+    "count": 8
+   },
+   {
+    "jid": "595986330912",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986330912_11926",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595984109010",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984109010_11932",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "5862932369427",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_5862932369427_14637",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595986751335",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986751335_11805",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "114315537420487",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_114315537420487_13626",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "12988031443029",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_12988031443029_15223",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595985921173",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985921173_10159",
+    "provisional_name": "",
+    "count": 4
+   },
+   {
+    "jid": "595983562304",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983562304_10983",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595986139619",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986139619_9891",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "595987122940",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987122940_9888",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "181131756462202",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_181131756462202_15528",
+    "provisional_name": "",
+    "count": 2
+   },
+   {
+    "jid": "595976150299",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976150299_7967",
+    "provisional_name": "",
+    "count": 6
+   },
+   {
+    "jid": "595971111939",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971111939_1489",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "154310071607477",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_154310071607477_12967",
+    "provisional_name": "",
+    "count": 5
+   },
+   {
+    "jid": "147192908087344",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_147192908087344_15092",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "595981685815",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981685815_1742",
+    "provisional_name": "",
+    "count": 9
+   },
+   {
+    "jid": "595991803927",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991803927_11919",
+    "provisional_name": "",
+    "count": 3
+   },
+   {
+    "jid": "13135550002",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_13135550002_10103",
+    "provisional_name": "",
+    "count": 7
+   },
+   {
+    "jid": "595984708142",
+    "tier": "tier2_core",
+    "dirname": "p_dropped_3___wa_chat_595984708142_2041",
+    "provisional_name": "p_dropped_3",
+    "count": 6
+   },
+   {
+    "jid": "595972124230",
+    "tier": "tier3_extended",
+    "dirname": "p_dropped_4___wa_chat_595972124230_2295",
+    "provisional_name": "p_dropped_4",
+    "count": 3
+   }
+  ],
+  "group": [
+   {
+    "jid": "120363097757313770",
+    "tier": "_dropped",
+    "dirname": "_wa_group_compiladores_sin_profe_2962",
+    "provisional_name": "",
+    "count": 311,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363424016011198",
+    "tier": "_dropped",
+    "dirname": "_wa_group_juntada_13529",
+    "provisional_name": "",
+    "count": 9,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363195940003646",
+    "tier": "_dropped",
+    "dirname": "_wa_group_a29b_grupo_de_trabajo_8925",
+    "provisional_name": "",
+    "count": 30,
+    "n_biz": 13,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363227610045553",
+    "tier": "_dropped",
+    "dirname": "_wa_group_baby_shower_02_03_5690",
+    "provisional_name": "",
+    "count": 177,
+    "n_biz": 6,
+    "n_fam": 1,
+    "has_audio": false
+   },
+   {
+    "jid": "120363429001466032",
+    "tier": "_dropped",
+    "dirname": "_wa_group_repair_cafe_page_16793",
+    "provisional_name": "",
+    "count": 90,
+    "n_biz": 23,
+    "n_fam": 7,
+    "has_audio": false
+   },
+   {
+    "jid": "120363212969668752",
+    "tier": "_dropped",
+    "dirname": "_wa_group_qe_yguazu_falls_trip_5542",
+    "provisional_name": "",
+    "count": 520,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363428841443226",
+    "tier": "_dropped",
+    "dirname": "_wa_group_vete_17041",
+    "provisional_name": "",
+    "count": 15,
+    "n_biz": 39,
+    "n_fam": 2,
+    "has_audio": false
+   },
+   {
+    "jid": "120363429544554835",
+    "tier": "_dropped",
+    "dirname": "_wa_group_geodata_17098",
+    "provisional_name": "",
+    "count": 564,
+    "n_biz": 31,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363424355591132",
+    "tier": "_dropped",
+    "dirname": "_wa_group_meetings_13374",
+    "provisional_name": "",
+    "count": 114,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363294304202963",
+    "tier": "_dropped",
+    "dirname": "_wa_group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐇𝐢𝐬𝐩𝐚𝐧𝐨𝐡𝐚𝐛𝐥𝐚𝐧𝐭𝐞_6824",
+    "provisional_name": "",
+    "count": 64,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363423668166869",
+    "tier": "_dropped",
+    "dirname": "_wa_group_goldenvisa_15088",
+    "provisional_name": "",
+    "count": 531,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363148413844813",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ia_grupo_de_trabajo_3697",
+    "provisional_name": "",
+    "count": 456,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363425742075687",
+    "tier": "_dropped",
+    "dirname": "_wa_group_saskias_coffe_ahop_14850",
+    "provisional_name": "",
+    "count": 294,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "595981324569-1601330335",
+    "tier": "_dropped",
+    "dirname": "_wa_group_agenda_61",
+    "provisional_name": "",
+    "count": 951,
+    "n_biz": 1,
+    "n_fam": 8,
+    "has_audio": true
+   },
+   {
+    "jid": "120363387268805089",
+    "tier": "_dropped",
+    "dirname": "_wa_group_bd2_2025_10299",
+    "provisional_name": "",
+    "count": 236,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363408406567441",
+    "tier": "_dropped",
+    "dirname": "_wa_group_30vgs_15070",
+    "provisional_name": "",
+    "count": 250,
+    "n_biz": 2,
+    "n_fam": 1,
+    "has_audio": false
+   },
+   {
+    "jid": "120363420303513271",
+    "tier": "_dropped",
+    "dirname": "_wa_group_calgary_todo_random_11548",
+    "provisional_name": "",
+    "count": 2,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363230284717197",
+    "tier": "_dropped",
+    "dirname": "_wa_group_cursos_de_verano_iin-lcik_5548",
+    "provisional_name": "",
+    "count": 4,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363311852313858",
+    "tier": "_dropped",
+    "dirname": "_wa_group_𝐀𝐍𝐔𝐍𝐂𝐈𝐎𝐒_6853",
+    "provisional_name": "",
+    "count": 12,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363422403014768",
+    "tier": "_dropped",
+    "dirname": "_wa_group_cumple_de_maga_11342",
+    "provisional_name": "",
+    "count": 44,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363292417013295",
+    "tier": "_dropped",
+    "dirname": "_wa_group_organización_ci24_7605",
+    "provisional_name": "",
+    "count": 355,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363287717591862",
+    "tier": "_dropped",
+    "dirname": "_wa_group_latam_-_trabajos_remotos_6742",
+    "provisional_name": "",
+    "count": 128,
+    "n_biz": 11,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363407313482277",
+    "tier": "_dropped",
+    "dirname": "_wa_group_talleres_verano_2026_13235",
+    "provisional_name": "",
+    "count": 4,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363301287804741",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ciberseguridad_grupo_3_6640",
+    "provisional_name": "",
+    "count": 21,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363315599477222",
+    "tier": "_dropped",
+    "dirname": "_wa_group_el_27_varela_invita_en_su_casa_6889",
+    "provisional_name": "",
+    "count": 24,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363225700389754",
+    "tier": "_dropped",
+    "dirname": "_wa_group_backend_sin_profe_5695",
+    "provisional_name": "",
+    "count": 229,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363407245563997",
+    "tier": "_dropped",
+    "dirname": "_wa_group_taller_ia_13234",
+    "provisional_name": "",
+    "count": 99,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363148298890861",
+    "tier": "_dropped",
+    "dirname": "_wa_group_quiz_mm_3640",
+    "provisional_name": "",
+    "count": 10,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363158129167812",
+    "tier": "_dropped",
+    "dirname": "_wa_group_minixtreme_program_py_3104",
+    "provisional_name": "",
+    "count": 146,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363405486126191",
+    "tier": "_dropped",
+    "dirname": "_wa_group_bd_13208",
+    "provisional_name": "",
+    "count": 4,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363243690583722",
+    "tier": "_dropped",
+    "dirname": "_wa_group_fpuna_ciberseguridad_2024_5705",
+    "provisional_name": "",
+    "count": 239,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363407678450330",
+    "tier": "_dropped",
+    "dirname": "_wa_group_nico_15080",
+    "provisional_name": "",
+    "count": 432,
+    "n_biz": 6,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363421517070478",
+    "tier": "_dropped",
+    "dirname": "_wa_group_iinformaciones_de_la_carrera_11210",
+    "provisional_name": "",
+    "count": 916,
+    "n_biz": 11,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363162502837608",
+    "tier": "_dropped",
+    "dirname": "_wa_group_club_de_robótica_de_la_fp-una_3582",
+    "provisional_name": "",
+    "count": 14,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363315476563278",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ci_24_voluntarios_6918",
+    "provisional_name": "",
+    "count": 261,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363425960266736",
+    "tier": "_dropped",
+    "dirname": "_wa_group_sheldon_s_dreams_14888",
+    "provisional_name": "",
+    "count": 107,
+    "n_biz": 0,
+    "n_fam": 1,
+    "has_audio": true
+   },
+   {
+    "jid": "120363427344804328",
+    "tier": "_dropped",
+    "dirname": "_wa_group_abogado_15022",
+    "provisional_name": "",
+    "count": 10,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363408972144269",
+    "tier": "_dropped",
+    "dirname": "_wa_group_gruponpara_invitarse_a_casa_y_hacercelas_facil_17120",
+    "provisional_name": "",
+    "count": 20,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363160370764004",
+    "tier": "_dropped",
+    "dirname": "_wa_group_apuesta_3527",
+    "provisional_name": "",
+    "count": 6,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363273564820225",
+    "tier": "_dropped",
+    "dirname": "_wa_group_istqb_brave_and_courageous_6573",
+    "provisional_name": "",
+    "count": 129,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363426066931134",
+    "tier": "_dropped",
+    "dirname": "_wa_group_rockabar_16846",
+    "provisional_name": "",
+    "count": 142,
+    "n_biz": 4,
+    "n_fam": 1,
+    "has_audio": false
+   },
+   {
+    "jid": "120363044696497218",
+    "tier": "_dropped",
+    "dirname": "_wa_group_wsu_becal-cpk_spring_2023_1938",
+    "provisional_name": "",
+    "count": 634,
+    "n_biz": 1,
+    "n_fam": 2,
+    "has_audio": false
+   },
+   {
+    "jid": "120363399653322955",
+    "tier": "_dropped",
+    "dirname": "_wa_group_trabajos_10144",
+    "provisional_name": "",
+    "count": 3,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363411347914828",
+    "tier": "_dropped",
+    "dirname": "_wa_group_pierced_charm_17053",
+    "provisional_name": "",
+    "count": 10,
+    "n_biz": 13,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363319193300367",
+    "tier": "_dropped",
+    "dirname": "_wa_group_excursion_bdsm_ytu_9030",
+    "provisional_name": "",
+    "count": 78,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363424527484092",
+    "tier": "_dropped",
+    "dirname": "_wa_group_nyx_consultancy_13493",
+    "provisional_name": "",
+    "count": 148,
+    "n_biz": 1,
+    "n_fam": 15,
+    "has_audio": false
+   },
+   {
+    "jid": "120363268389693387",
+    "tier": "_dropped",
+    "dirname": "_wa_group_cybergameslatam_-_ieee_untels_2024_6586",
+    "provisional_name": "",
+    "count": 14,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363405360232587",
+    "tier": "_dropped",
+    "dirname": "_wa_group_nexa-paraguay_14983",
+    "provisional_name": "",
+    "count": 991,
+    "n_biz": 21,
+    "n_fam": 1,
+    "has_audio": true
+   },
+   {
+    "jid": "120363428550115739",
+    "tier": "_dropped",
+    "dirname": "_wa_group_oz_15076",
+    "provisional_name": "",
+    "count": 103,
+    "n_biz": 17,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363245251782742",
+    "tier": "_dropped",
+    "dirname": "_wa_group_samber_atyra_5702",
+    "provisional_name": "",
+    "count": 198,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363411733595635",
+    "tier": "_dropped",
+    "dirname": "_wa_group_putivuelta_la_sersfina_17063",
+    "provisional_name": "",
+    "count": 34,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363424281000140",
+    "tier": "_dropped",
+    "dirname": "_wa_group_solstein_14859",
+    "provisional_name": "",
+    "count": 35,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363319166032726",
+    "tier": "_dropped",
+    "dirname": "_wa_group_talleres_de_invierno_iin_-_lcik_7612",
+    "provisional_name": "",
+    "count": 45,
+    "n_biz": 4,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "595984160109-1575323530",
+    "tier": "_dropped",
+    "dirname": "_wa_group_iin_gaming_club_019_113",
+    "provisional_name": "",
+    "count": 143,
+    "n_biz": 3,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363025659226206",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ideas_de_proyectos_info_1788",
+    "provisional_name": "",
+    "count": 48,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363404441934011",
+    "tier": "_dropped",
+    "dirname": "_wa_group_instructores_coordinadores_apoyo_talleres_de_verano_2026_13038",
+    "provisional_name": "",
+    "count": 26,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363043041392312",
+    "tier": "_dropped",
+    "dirname": "_wa_group_cosas_de_casa_1817",
+    "provisional_name": "",
+    "count": 121,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363148148457418",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ingeniería_en_informática_3900",
+    "provisional_name": "",
+    "count": 2,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363315917410655",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ci_24_voluntarios_6919",
+    "provisional_name": "",
+    "count": 35,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363410303081096",
+    "tier": "_dropped",
+    "dirname": "_wa_group_mi_cumple_sábado_4_16933",
+    "provisional_name": "",
+    "count": 81,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363186054553605",
+    "tier": "_dropped",
+    "dirname": "_wa_group_nsac_asunción_2023_-_participantes_4732",
+    "provisional_name": "",
+    "count": 132,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363146762569006",
+    "tier": "_dropped",
+    "dirname": "_wa_group_emergentes_2023_3622",
+    "provisional_name": "",
+    "count": 381,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363298513301939",
+    "tier": "_dropped",
+    "dirname": "_wa_group_taller_de_introducción_qa_instructores_6921",
+    "provisional_name": "",
+    "count": 128,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363418861854035",
+    "tier": "_dropped",
+    "dirname": "_wa_group_la_casa_10475",
+    "provisional_name": "",
+    "count": 187,
+    "n_biz": 0,
+    "n_fam": 1,
+    "has_audio": true
+   },
+   {
+    "jid": "120363427403036380",
+    "tier": "_dropped",
+    "dirname": "_wa_group_forest_park_16369",
+    "provisional_name": "",
+    "count": 429,
+    "n_biz": 20,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363161488165704",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ieeextreme_-_interesados_una_3449",
+    "provisional_name": "",
+    "count": 414,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363306431422577",
+    "tier": "_dropped",
+    "dirname": "_wa_group_general_6744",
+    "provisional_name": "",
+    "count": 2,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363420445338350",
+    "tier": "_dropped",
+    "dirname": "_wa_group_méxico_city_11536",
+    "provisional_name": "",
+    "count": 194,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595974504656-1602079701",
+    "tier": "_dropped",
+    "dirname": "_wa_group_bombas_de_semillas_1916",
+    "provisional_name": "",
+    "count": 26,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363425769592377",
+    "tier": "_dropped",
+    "dirname": "_wa_group_sarah_14869",
+    "provisional_name": "",
+    "count": 3,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363405294111697",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ternary_presentation_13501",
+    "provisional_name": "",
+    "count": 32,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363423792577707",
+    "tier": "_dropped",
+    "dirname": "_wa_group_the_story_begins_13579",
+    "provisional_name": "",
+    "count": 551,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363212846080750",
+    "tier": "_dropped",
+    "dirname": "_wa_group_workshop_desarrolla_tu_portafolio_web_con_astro_5547",
+    "provisional_name": "",
+    "count": 43,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363425502798501",
+    "tier": "_dropped",
+    "dirname": "_wa_group_wexare_community_14163",
+    "provisional_name": "",
+    "count": 3,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363399232641063",
+    "tier": "_dropped",
+    "dirname": "_wa_group_la_cumbre_trip_9913",
+    "provisional_name": "",
+    "count": 291,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363177775579008",
+    "tier": "_dropped",
+    "dirname": "_wa_group_casa_stuff_5063",
+    "provisional_name": "",
+    "count": 128,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363292938759830",
+    "tier": "_dropped",
+    "dirname": "_wa_group_copias_6583",
+    "provisional_name": "",
+    "count": 22,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363428317291908",
+    "tier": "_dropped",
+    "dirname": "_wa_group_serafina_17091",
+    "provisional_name": "",
+    "count": 381,
+    "n_biz": 9,
+    "n_fam": 4,
+    "has_audio": false
+   },
+   {
+    "jid": "120363141685389996",
+    "tier": "_dropped",
+    "dirname": "_wa_group_mentees_minieeextreme_3111",
+    "provisional_name": "",
+    "count": 167,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363309161809279",
+    "tier": "_dropped",
+    "dirname": "_wa_group_𝐎𝐅𝐄𝐑𝐓𝐀𝐒_6852",
+    "provisional_name": "",
+    "count": 2,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363408183083635",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ai_forsonia_13580",
+    "provisional_name": "",
+    "count": 60,
+    "n_biz": 8,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363420467104067",
+    "tier": "_dropped",
+    "dirname": "_wa_group_facturas_canda_11638",
+    "provisional_name": "",
+    "count": 2,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363400990247658",
+    "tier": "_dropped",
+    "dirname": "_wa_group_bolsa_de_trabajo_iin_10513",
+    "provisional_name": "",
+    "count": 495,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363408591139576",
+    "tier": "_dropped",
+    "dirname": "_wa_group_gallinas_oviedo_14853",
+    "provisional_name": "",
+    "count": 179,
+    "n_biz": 49,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363426035832186",
+    "tier": "_dropped",
+    "dirname": "_wa_group_tsuki_15143",
+    "provisional_name": "",
+    "count": 338,
+    "n_biz": 3,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363132233696620",
+    "tier": "_dropped",
+    "dirname": "_wa_group_mamados_club_3081",
+    "provisional_name": "",
+    "count": 24,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363161394266746",
+    "tier": "_dropped",
+    "dirname": "_wa_group_cursos_de_invierno_2023_3521",
+    "provisional_name": "",
+    "count": 7,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363408019790676",
+    "tier": "_dropped",
+    "dirname": "_wa_group_unnamed_12862",
+    "provisional_name": "",
+    "count": 195,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363407775625099",
+    "tier": "_dropped",
+    "dirname": "_wa_group_casa_weiss_internal_10100",
+    "provisional_name": "",
+    "count": 24,
+    "n_biz": 1,
+    "n_fam": 1,
+    "has_audio": false
+   },
+   {
+    "jid": "120363428724072353",
+    "tier": "_dropped",
+    "dirname": "_wa_group_test_de_hermes_15055",
+    "provisional_name": "",
+    "count": 68,
+    "n_biz": 26,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363408503673817",
+    "tier": "_dropped",
+    "dirname": "_wa_group_wexare_paraguay_14162",
+    "provisional_name": "",
+    "count": 3,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363408431301029",
+    "tier": "_dropped",
+    "dirname": "_wa_group_quantoz_16764",
+    "provisional_name": "",
+    "count": 82,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363142512217044",
+    "tier": "_dropped",
+    "dirname": "_wa_group_is3_2024_5765",
+    "provisional_name": "",
+    "count": 265,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363161182949913",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ieeextreme_18_0_paraguay_3448",
+    "provisional_name": "",
+    "count": 10,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363427313486418",
+    "tier": "_dropped",
+    "dirname": "_wa_group_mi_pumple_30_05_no_le_hagan_caso_a_ale_15481",
+    "provisional_name": "",
+    "count": 80,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363428533184433",
+    "tier": "_dropped",
+    "dirname": "_wa_group_pasa_manos_verde_17143",
+    "provisional_name": "",
+    "count": 9,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363406003575799",
+    "tier": "_dropped",
+    "dirname": "_wa_group_agentic_workflows_14872",
+    "provisional_name": "",
+    "count": 76,
+    "n_biz": 3,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363243306938162",
+    "tier": "_dropped",
+    "dirname": "_wa_group_is3_grupo_5708",
+    "provisional_name": "",
+    "count": 3,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363214296834356",
+    "tier": "_dropped",
+    "dirname": "_wa_group_wsu_fpuna_meet_5568",
+    "provisional_name": "",
+    "count": 41,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363150021519060",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ingeniería_en_informática_3907",
+    "provisional_name": "",
+    "count": 333,
+    "n_biz": 3,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363428524364671",
+    "tier": "_dropped",
+    "dirname": "_wa_group_somos_gay_17065",
+    "provisional_name": "",
+    "count": 391,
+    "n_biz": 4,
+    "n_fam": 14,
+    "has_audio": false
+   },
+   {
+    "jid": "120363191710485685",
+    "tier": "_dropped",
+    "dirname": "_wa_group_emergentes_grupo_7_4723",
+    "provisional_name": "",
+    "count": 95,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363038653546775",
+    "tier": "_dropped",
+    "dirname": "_wa_group_becas_erasmus_fpuna_1439",
+    "provisional_name": "",
+    "count": 98,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595983738040-1629514394",
+    "tier": "_dropped",
+    "dirname": "_wa_group_d_d_1825",
+    "provisional_name": "",
+    "count": 178,
+    "n_biz": 0,
+    "n_fam": 1,
+    "has_audio": false
+   },
+   {
+    "jid": "120363406935518026",
+    "tier": "_dropped",
+    "dirname": "_wa_group_nudo_15067",
+    "provisional_name": "",
+    "count": 269,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363227130623621",
+    "tier": "_dropped",
+    "dirname": "_wa_group_bd2_iin_2024_5774",
+    "provisional_name": "",
+    "count": 515,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363292825481024",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ejercicios_compi_6582",
+    "provisional_name": "",
+    "count": 198,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363168793410952",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ml_grupo_4031",
+    "provisional_name": "",
+    "count": 358,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363128913278507",
+    "tier": "_dropped",
+    "dirname": "_wa_group_comité_de_cursos_charlas_-_cs_3047",
+    "provisional_name": "",
+    "count": 505,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363409030039485",
+    "tier": "_dropped",
+    "dirname": "_wa_group_luca_montanaro_17107",
+    "provisional_name": "",
+    "count": 50,
+    "n_biz": 4,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363411266722908",
+    "tier": "_dropped",
+    "dirname": "_wa_group_villa_mayor_17039",
+    "provisional_name": "",
+    "count": 95,
+    "n_biz": 4,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363408563555257",
+    "tier": "_dropped",
+    "dirname": "_wa_group_superspuma_15062",
+    "provisional_name": "",
+    "count": 255,
+    "n_biz": 12,
+    "n_fam": 1,
+    "has_audio": false
+   },
+   {
+    "jid": "120363318084419990",
+    "tier": "_dropped",
+    "dirname": "_wa_group_introducción_al_aseguramiento_de_la_calidad_y_automatización_7611",
+    "provisional_name": "",
+    "count": 105,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363291071242941",
+    "tier": "_dropped",
+    "dirname": "_wa_group_este_grupo_se_autodestruirá_en_20min_6754",
+    "provisional_name": "",
+    "count": 157,
+    "n_biz": 0,
+    "n_fam": 1,
+    "has_audio": true
+   },
+   {
+    "jid": "120363428071441031",
+    "tier": "_dropped",
+    "dirname": "_wa_group_organización_py_testing_2026_16349",
+    "provisional_name": "",
+    "count": 212,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363425922867155",
+    "tier": "_dropped",
+    "dirname": "_wa_group_comedy_el_gato_15473",
+    "provisional_name": "",
+    "count": 8,
+    "n_biz": 2,
+    "n_fam": 1,
+    "has_audio": false
+   },
+   {
+    "jid": "120363423187387012",
+    "tier": "_dropped",
+    "dirname": "_wa_group_talleres_de_verano_2026-_organizacion_13033",
+    "provisional_name": "",
+    "count": 18,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363160056397845",
+    "tier": "_dropped",
+    "dirname": "_wa_group_los_más_paraguayos_-_solo_amigos_permitidos_3523",
+    "provisional_name": "",
+    "count": 236,
+    "n_biz": 0,
+    "n_fam": 2,
+    "has_audio": false
+   },
+   {
+    "jid": "120363420021816192",
+    "tier": "_dropped",
+    "dirname": "_wa_group_embs_utp_14033",
+    "provisional_name": "",
+    "count": 42,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363407289978370",
+    "tier": "_dropped",
+    "dirname": "_wa_group_qué_hacer_durante_mi_carrera_para_dirigirme_a_donde_me_inter_14031",
+    "provisional_name": "",
+    "count": 12,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363426413936423",
+    "tier": "_dropped",
+    "dirname": "_wa_group_dan_14862",
+    "provisional_name": "",
+    "count": 134,
+    "n_biz": 31,
+    "n_fam": 1,
+    "has_audio": true
+   },
+   {
+    "jid": "120363427279975284",
+    "tier": "_dropped",
+    "dirname": "_wa_group_reina_copas_15465",
+    "provisional_name": "",
+    "count": 179,
+    "n_biz": 21,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363257266029983",
+    "tier": "_dropped",
+    "dirname": "_wa_group_cuarteto_el_15_06_5863",
+    "provisional_name": "",
+    "count": 235,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363420814262073",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ai_whisperers_tasks_docs_12614",
+    "provisional_name": "",
+    "count": 2,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363411095992171",
+    "tier": "_dropped",
+    "dirname": "_wa_group_rach_14856",
+    "provisional_name": "",
+    "count": 908,
+    "n_biz": 16,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363359518735389",
+    "tier": "_dropped",
+    "dirname": "_wa_group_powerpoint_powe_apps_para_canadá_9593",
+    "provisional_name": "",
+    "count": 8,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363400983929512",
+    "tier": "_dropped",
+    "dirname": "_wa_group_rpa_11296",
+    "provisional_name": "",
+    "count": 2,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363162610843716",
+    "tier": "_dropped",
+    "dirname": "_wa_group_front_sin_profe_3627",
+    "provisional_name": "",
+    "count": 298,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363407470727977",
+    "tier": "_dropped",
+    "dirname": "_wa_group_jottaink_15137",
+    "provisional_name": "",
+    "count": 68,
+    "n_biz": 12,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363041769630992",
+    "tier": "_dropped",
+    "dirname": "_wa_group_is3_sin_profes_3617",
+    "provisional_name": "",
+    "count": 72,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363425046817174",
+    "tier": "_dropped",
+    "dirname": "_wa_group_dayah_litworks_14989",
+    "provisional_name": "",
+    "count": 426,
+    "n_biz": 9,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363241997035860",
+    "tier": "_dropped",
+    "dirname": "_wa_group_compiladores_2024_5686",
+    "provisional_name": "",
+    "count": 161,
+    "n_biz": 3,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363424227025380",
+    "tier": "_dropped",
+    "dirname": "_wa_group_ia_organización_13032",
+    "provisional_name": "",
+    "count": 141,
+    "n_biz": 5,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363379714913758",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_funhouse_9626",
+    "provisional_name": "",
+    "count": 1742,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363041788495898",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_ieee_cs_una_sbc_2025_1917",
+    "provisional_name": "",
+    "count": 2472,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "595981324569-1610640208",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_saquenme_de_latinoamerica_665",
+    "provisional_name": "",
+    "count": 2274,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363167691969583",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_nasa_space_apps_ieee_computer_society_4711",
+    "provisional_name": "",
+    "count": 696,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595984807821-1549818101",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_club_de_info_gral_5082",
+    "provisional_name": "",
+    "count": 6588,
+    "n_biz": 5,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363147837731350",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_gcc_2023_3592",
+    "provisional_name": "",
+    "count": 605,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "595971274229-1466111694",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_iin_-_fpuna_-_gral_3904",
+    "provisional_name": "",
+    "count": 734,
+    "n_biz": 4,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363025296671701",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_lan_party_11_02_1794",
+    "provisional_name": "",
+    "count": 700,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "31612495139-1475060030",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_familie_van_der_pol_497",
+    "provisional_name": "",
+    "count": 2248,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363343701567428",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_stoic_finch_-_latam_9090",
+    "provisional_name": "",
+    "count": 12036,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595983342745-1544023957",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_iin_fpuna_019_26",
+    "provisional_name": "",
+    "count": 32635,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363435610874254",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_cum_a_secas_17026",
+    "provisional_name": "",
+    "count": 846,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595982510082-1631714714",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_iin_fpuna_2019_-_2025_1450",
+    "provisional_name": "",
+    "count": 9197,
+    "n_biz": 0,
+    "n_fam": 1,
+    "has_audio": true
+   },
+   {
+    "jid": "120363292655570594",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥_6823",
+    "provisional_name": "",
+    "count": 835,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363383964217274",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_agi_is_cumming_9683",
+    "provisional_name": "",
+    "count": 2783,
+    "n_biz": 0,
+    "n_fam": 5,
+    "has_audio": true
+   },
+   {
+    "jid": "595971692433-1578015622",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_amigos_de_las_locuras_swinger_11642",
+    "provisional_name": "",
+    "count": 16834,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595972175865-1471540721",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_cdr_fp_una_1914",
+    "provisional_name": "",
+    "count": 3370,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363422587468210",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_sarah_s_neon_furry_b-day_party_13138",
+    "provisional_name": "",
+    "count": 2838,
+    "n_biz": 0,
+    "n_fam": 2,
+    "has_audio": true
+   },
+   {
+    "jid": "120363238233660596",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_team_isabelle_mm_5771",
+    "provisional_name": "",
+    "count": 1033,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363428054772021",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_el_viajero_15051",
+    "provisional_name": "",
+    "count": 1047,
+    "n_biz": 8,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363041824718426",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_groep_is3_1802",
+    "provisional_name": "",
+    "count": 1044,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595976351903-1486146535",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_wpg_team_1214",
+    "provisional_name": "",
+    "count": 2044,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363162948940910",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_ci2023_-_voluntarios_general_3519",
+    "provisional_name": "",
+    "count": 585,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363147208748925",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_ml_2023-1_3619",
+    "provisional_name": "",
+    "count": 1298,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363404918156195",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_ai_whisperers_11544",
+    "provisional_name": "",
+    "count": 2425,
+    "n_biz": 2,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595981324569-1634898220",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_jojo_gym_1227",
+    "provisional_name": "",
+    "count": 1596,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595981324569-1605301799",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_grupo_de_pizza_gratis_485",
+    "provisional_name": "",
+    "count": 1254,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363208329203237",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_primos_weiss_5233",
+    "provisional_name": "",
+    "count": 2175,
+    "n_biz": 0,
+    "n_fam": 1,
+    "has_audio": true
+   },
+   {
+    "jid": "120363158098717771",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_ieeextreme_17_0_-_student_branch_una_3230",
+    "provisional_name": "",
+    "count": 1107,
+    "n_biz": 3,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363022540721353",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_give_back_program_-_cpk_3506",
+    "provisional_name": "",
+    "count": 987,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363215075504640",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_qe_meriendita_5317",
+    "provisional_name": "",
+    "count": 1343,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "595981427366-1519340151",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_iin_fpuna_2015-2021_24",
+    "provisional_name": "",
+    "count": 11447,
+    "n_biz": 1,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363175387159404",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_py_testing_community_4296",
+    "provisional_name": "",
+    "count": 2056,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363022326399562",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_pasen_las_fotos_1452",
+    "provisional_name": "",
+    "count": 29646,
+    "n_biz": 0,
+    "n_fam": 3,
+    "has_audio": true
+   },
+   {
+    "jid": "595984160109-1553289986",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_shitpoliposting_39",
+    "provisional_name": "",
+    "count": 7518,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363167697082425",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_good_omens_py_14938",
+    "provisional_name": "",
+    "count": 795,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": false
+   },
+   {
+    "jid": "120363407614192971",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_dentista_gabi_15956",
+    "provisional_name": "",
+    "count": 1113,
+    "n_biz": 14,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363393411691743",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_maskarada_-_club_de_azote_9803",
+    "provisional_name": "",
+    "count": 2986,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363161501004824",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_info_startups_13651",
+    "provisional_name": "",
+    "count": 1723,
+    "n_biz": 0,
+    "n_fam": 0,
+    "has_audio": true
+   },
+   {
+    "jid": "120363400443364837",
+    "tier": "tier4_groups",
+    "dirname": "_wa_group_vacantes_optech_v_10637",
+    "provisional_name": "",
+    "count": 2795,
+    "n_biz": 6,
+    "n_fam": 0,
+    "has_audio": false
+   }
+  ],
+  "casual": [
+   {
+    "jid": "94206383145183",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_94206383145183_14119",
+    "provisional_name": "",
+    "count": 31
+   },
+   {
+    "jid": "108796538007729",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_108796538007729_15023",
+    "provisional_name": "",
+    "count": 37
+   },
+   {
+    "jid": "5491127039665",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_5491127039665_11786",
+    "provisional_name": "",
+    "count": 17
+   },
+   {
+    "jid": "252068023513155",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_252068023513155_13278",
+    "provisional_name": "",
+    "count": 18
+   },
+   {
+    "jid": "270789232308448",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_270789232308448_13253",
+    "provisional_name": "",
+    "count": 21
+   },
+   {
+    "jid": "59521225145",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_59521225145_12625",
+    "provisional_name": "",
+    "count": 20
+   },
+   {
+    "jid": "69123354693709",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_69123354693709_14649",
+    "provisional_name": "",
+    "count": 34
+   },
+   {
+    "jid": "279907431121033",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_279907431121033_13511",
+    "provisional_name": "",
+    "count": 18
+   },
+   {
+    "jid": "595984787482",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984787482_6575",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "92750439571663",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_92750439571663_13314",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "267318881976338",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_267318881976338_14596",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "213906752549103",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_213906752549103_13625",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "193097552105524",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_193097552105524_13098",
+    "provisional_name": "",
+    "count": 32
+   },
+   {
+    "jid": "595972546898",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972546898_9597",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "595981319885",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981319885_6607",
+    "provisional_name": "",
+    "count": 15
+   },
+   {
+    "jid": "595981231604",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981231604_1942",
+    "provisional_name": "",
+    "count": 22
+   },
+   {
+    "jid": "595982340951",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982340951_2272",
+    "provisional_name": "",
+    "count": 18
+   },
+   {
+    "jid": "595982756474",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982756474_6932",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "595981670036",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981670036_9899",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595971758036",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971758036_7651",
+    "provisional_name": "",
+    "count": 15
+   },
+   {
+    "jid": "595985745553",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985745553_5110",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "595992531288",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992531288_11721",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "595962128625",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595962128625_5861",
+    "provisional_name": "",
+    "count": 27
+   },
+   {
+    "jid": "187763085328400",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_187763085328400_17148",
+    "provisional_name": "",
+    "count": 17
+   },
+   {
+    "jid": "595985219034",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985219034_6759",
+    "provisional_name": "",
+    "count": 45
+   },
+   {
+    "jid": "803343483120",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_803343483120_14984",
+    "provisional_name": "",
+    "count": 18
+   },
+   {
+    "jid": "265755698413630",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_265755698413630_16849",
+    "provisional_name": "",
+    "count": 22
+   },
+   {
+    "jid": "996555325969",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_996555325969_6596",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "199570671841348",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_199570671841348_15549",
+    "provisional_name": "",
+    "count": 20
+   },
+   {
+    "jid": "595976890359",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976890359_8941",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595982728533",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982728533_1387",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "48284106268799",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_48284106268799_13051",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595984151099",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984151099_4363",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595961482854",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595961482854_7826",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "595986493535",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986493535_9176",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "94898074173672",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_94898074173672_15502",
+    "provisional_name": "",
+    "count": 100
+   },
+   {
+    "jid": "595993390824",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595993390824_10199",
+    "provisional_name": "",
+    "count": 19
+   },
+   {
+    "jid": "76824231051438",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_76824231051438_12954",
+    "provisional_name": "",
+    "count": 43
+   },
+   {
+    "jid": "595992217506",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992217506_11965",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "595984244310",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984244310_6560",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595974443443",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974443443_10857",
+    "provisional_name": "",
+    "count": 46
+   },
+   {
+    "jid": "104741417795691",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_104741417795691_13103",
+    "provisional_name": "",
+    "count": 45
+   },
+   {
+    "jid": "595984682720",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984682720_4404",
+    "provisional_name": "",
+    "count": 45
+   },
+   {
+    "jid": "275015379464272",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_275015379464272_13566",
+    "provisional_name": "",
+    "count": 54
+   },
+   {
+    "jid": "32569055793373",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_32569055793373_14411",
+    "provisional_name": "",
+    "count": 22
+   },
+   {
+    "jid": "595982191340",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982191340_6605",
+    "provisional_name": "",
+    "count": 21
+   },
+   {
+    "jid": "595974741378",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974741378_9177",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "15144029271",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_15144029271_11788",
+    "provisional_name": "",
+    "count": 17
+   },
+   {
+    "jid": "595983858997",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983858997_3598",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "58390113992826",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_58390113992826_13561",
+    "provisional_name": "",
+    "count": 89
+   },
+   {
+    "jid": "222062828380404",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_222062828380404_14897",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "228256204722393",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_228256204722393_13263",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "595985879261",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985879261_4428",
+    "provisional_name": "",
+    "count": 18
+   },
+   {
+    "jid": "47094433870013",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_47094433870013_13326",
+    "provisional_name": "",
+    "count": 158
+   },
+   {
+    "jid": "595986622866",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986622866_4321",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "595981272697",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981272697_11076",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "595981907662",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981907662_7840",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "595976591000",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976591000_5668",
+    "provisional_name": "",
+    "count": 17
+   },
+   {
+    "jid": "109581929844874",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_109581929844874_13070",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "204333220114444",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_204333220114444_12993",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "595986647270",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986647270_6543",
+    "provisional_name": "",
+    "count": 19
+   },
+   {
+    "jid": "27660126265454",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_27660126265454_15468",
+    "provisional_name": "",
+    "count": 22
+   },
+   {
+    "jid": "595982388158",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982388158_2097",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "595986246274",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986246274_6847",
+    "provisional_name": "",
+    "count": 23
+   },
+   {
+    "jid": "595976961499",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976961499_1319",
+    "provisional_name": "",
+    "count": 21
+   },
+   {
+    "jid": "6043606212799",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_6043606212799_15501",
+    "provisional_name": "",
+    "count": 31
+   },
+   {
+    "jid": "595991739556",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991739556_5229",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "223446109839496",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_223446109839496_15220",
+    "provisional_name": "",
+    "count": 66
+   },
+   {
+    "jid": "93565963268321",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_93565963268321_13080",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "63741810978885",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_63741810978885_15109",
+    "provisional_name": "",
+    "count": 44
+   },
+   {
+    "jid": "61478682030117",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_61478682030117_15028",
+    "provisional_name": "",
+    "count": 38
+   },
+   {
+    "jid": "56466706821352",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_56466706821352_14588",
+    "provisional_name": "",
+    "count": 35
+   },
+   {
+    "jid": "595994252817",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994252817_11522",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "248085934555139",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_248085934555139_13222",
+    "provisional_name": "",
+    "count": 31
+   },
+   {
+    "jid": "264020246429711",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_264020246429711_16234",
+    "provisional_name": "",
+    "count": 36
+   },
+   {
+    "jid": "595982251841",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982251841_333",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "196542485012495",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_196542485012495_14659",
+    "provisional_name": "",
+    "count": 20
+   },
+   {
+    "jid": "595983031680",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983031680_7837",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "120363193027656725",
+    "tier": "_dropped",
+    "dirname": "_wa_other_newsletter_120363193027656725_9812",
+    "provisional_name": "",
+    "count": 589
+   },
+   {
+    "jid": "595981190096",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981190096_5237",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "126641942577239",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_126641942577239_13171",
+    "provisional_name": "",
+    "count": 24
+   },
+   {
+    "jid": "595971885483",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971885483_3560",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "233264069500985",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_233264069500985_13120",
+    "provisional_name": "",
+    "count": 23
+   },
+   {
+    "jid": "595991804593",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991804593_9618",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "180002230378511",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_180002230378511_13153",
+    "provisional_name": "",
+    "count": 62
+   },
+   {
+    "jid": "97869453389924",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_97869453389924_17122",
+    "provisional_name": "",
+    "count": 22
+   },
+   {
+    "jid": "595985434234",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985434234_9071",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "595981346069",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981346069_5234",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "595981396088",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981396088_8975",
+    "provisional_name": "",
+    "count": 22
+   },
+   {
+    "jid": "34666604366",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_34666604366_10589",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "2083797373166",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_2083797373166_16858",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "180135860912324",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_180135860912324_13114",
+    "provisional_name": "",
+    "count": 99
+   },
+   {
+    "jid": "15268625571882",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_15268625571882_13194",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "242455349821600",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_242455349821600_14752",
+    "provisional_name": "",
+    "count": 49
+   },
+   {
+    "jid": "127702967255270",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_127702967255270_13502",
+    "provisional_name": "",
+    "count": 25
+   },
+   {
+    "jid": "595991366842",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991366842_9813",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "176768824672276",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_176768824672276_16766",
+    "provisional_name": "",
+    "count": 15
+   },
+   {
+    "jid": "595992282576",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992282576_4231",
+    "provisional_name": "",
+    "count": 39
+   },
+   {
+    "jid": "79062059982857",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_79062059982857_14015",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595994385693",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994385693_6775",
+    "provisional_name": "",
+    "count": 15
+   },
+   {
+    "jid": "83386857160841",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_83386857160841_16106",
+    "provisional_name": "",
+    "count": 19
+   },
+   {
+    "jid": "239925580546072",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_239925580546072_13378",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "162681097076843",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_162681097076843_14793",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "142344342999195",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_142344342999195_17104",
+    "provisional_name": "",
+    "count": 28
+   },
+   {
+    "jid": "6808060059709",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_6808060059709_14633",
+    "provisional_name": "",
+    "count": 21
+   },
+   {
+    "jid": "918617838526",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_918617838526_6715",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "272326897750017",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_272326897750017_13079",
+    "provisional_name": "",
+    "count": 17
+   },
+   {
+    "jid": "595983864324",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983864324_11823",
+    "provisional_name": "",
+    "count": 25
+   },
+   {
+    "jid": "116647134245016",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_116647134245016_16944",
+    "provisional_name": "",
+    "count": 23
+   },
+   {
+    "jid": "595985272826",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985272826_11298",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "595991447905",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991447905_10849",
+    "provisional_name": "",
+    "count": 20
+   },
+   {
+    "jid": "13055654317",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_13055654317_11592",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "63226951774393",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_63226951774393_15127",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "18888317121",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_18888317121_10101",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "595983468273",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983468273_3465",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "595981279546",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981279546_12805",
+    "provisional_name": "",
+    "count": 15
+   },
+   {
+    "jid": "595983240258",
+    "tier": "tier3_extended",
+    "dirname": "075__p0258___wa_chat_595983240258_3008",
+    "provisional_name": "",
+    "count": 353
+   },
+   {
+    "jid": "595984401410",
+    "tier": "tier3_extended",
+    "dirname": "086__p1410___wa_chat_595984401410_4438",
+    "provisional_name": "",
+    "count": 55
+   },
+   {
+    "jid": "595984729300",
+    "tier": "tier3_extended",
+    "dirname": "094__p9300___wa_chat_595984729300_9919",
+    "provisional_name": "",
+    "count": 146
+   },
+   {
+    "jid": "595985383004",
+    "tier": "tier3_extended",
+    "dirname": "elias____wa_chat_595985383004_10373",
+    "provisional_name": "elias",
+    "count": 40
+   },
+   {
+    "jid": "50230574090",
+    "tier": "tier3_extended",
+    "dirname": "juan____wa_chat_50230574090_10146",
+    "provisional_name": "juan",
+    "count": 91
+   },
+   {
+    "jid": "595982925974",
+    "tier": "tier3_extended",
+    "dirname": "089__p5974___wa_chat_595982925974_9881",
+    "provisional_name": "",
+    "count": 50
+   },
+   {
+    "jid": "595991700814",
+    "tier": "tier3_extended",
+    "dirname": "unknown_atyra___wa_chat_595991700814_4652",
+    "provisional_name": "unknown_atyra",
+    "count": 11
+   },
+   {
+    "jid": "595981990870",
+    "tier": "tier3_extended",
+    "dirname": "096__p0870___wa_chat_595981990870_2079",
+    "provisional_name": "",
+    "count": 23
+   },
+   {
+    "jid": "18063410917",
+    "tier": "untiered_personal",
+    "dirname": "103__p0917___wa_chat_18063410917_2976",
+    "provisional_name": "",
+    "count": 52
+   },
+   {
+    "jid": "595992289295",
+    "tier": "untiered_personal",
+    "dirname": "237__p9295___wa_chat_595992289295_5635",
+    "provisional_name": "",
+    "count": 39
+   },
+   {
+    "jid": "595971102999",
+    "tier": "untiered_personal",
+    "dirname": "angel____wa_chat_595971102999_2992",
+    "provisional_name": "angel",
+    "count": 59
+   },
+   {
+    "jid": "595971444600",
+    "tier": "untiered_personal",
+    "dirname": "121__p4600___wa_chat_595971444600_9680",
+    "provisional_name": "",
+    "count": 30
+   },
+   {
+    "jid": "595984328174",
+    "tier": "untiered_personal",
+    "dirname": "189__p8174___wa_chat_595984328174_1729",
+    "provisional_name": "",
+    "count": 54
+   },
+   {
+    "jid": "595994778026",
+    "tier": "untiered_personal",
+    "dirname": "249__p8026___wa_chat_595994778026_11180",
+    "provisional_name": "",
+    "count": 12
+   },
+   {
+    "jid": "595981417867",
+    "tier": "untiered_personal",
+    "dirname": "158__p7867___wa_chat_595981417867_9058",
+    "provisional_name": "",
+    "count": 25
+   },
+   {
+    "jid": "595971200431",
+    "tier": "untiered_personal",
+    "dirname": "118__p0431___wa_chat_595971200431_11186",
+    "provisional_name": "",
+    "count": 15
+   },
+   {
+    "jid": "595984900920",
+    "tier": "untiered_personal",
+    "dirname": "197__p0920___wa_chat_595984900920_9052",
+    "provisional_name": "",
+    "count": 19
+   },
+   {
+    "jid": "595985837875",
+    "tier": "untiered_personal",
+    "dirname": "211__p7875___wa_chat_595985837875_4762",
+    "provisional_name": "",
+    "count": 49
+   },
+   {
+    "jid": "595981606000",
+    "tier": "untiered_personal",
+    "dirname": "161__p6000___wa_chat_595981606000_5065",
+    "provisional_name": "",
+    "count": 16
+   },
+   {
+    "jid": "595981801463",
+    "tier": "untiered_personal",
+    "dirname": "166__p1463___wa_chat_595981801463_9599",
+    "provisional_name": "",
+    "count": 46
+   },
+   {
+    "jid": "595981801824",
+    "tier": "untiered_personal",
+    "dirname": "167__p1824___wa_chat_595981801824_11545",
+    "provisional_name": "",
+    "count": 35
+   },
+   {
+    "jid": "59895614473",
+    "tier": "untiered_personal",
+    "dirname": "253__p4473___wa_chat_59895614473_11939",
+    "provisional_name": "",
+    "count": 32
+   },
+   {
+    "jid": "595991620661",
+    "tier": "untiered_personal",
+    "dirname": "225__p0661___wa_chat_595991620661_1733",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595986159488",
+    "tier": "untiered_personal",
+    "dirname": "213__p9488___wa_chat_595986159488_9270",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595984751669",
+    "tier": "untiered_personal",
+    "dirname": "193__p1669___wa_chat_595984751669_667",
+    "provisional_name": "",
+    "count": 33
+   },
+   {
+    "jid": "5491122505262",
+    "tier": "untiered_personal",
+    "dirname": "109__p5262___wa_chat_5491122505262_9620",
+    "provisional_name": "",
+    "count": 18
+   },
+   {
+    "jid": "595971727980",
+    "tier": "untiered_personal",
+    "dirname": "128__p7980___wa_chat_595971727980_3616",
+    "provisional_name": "",
+    "count": 27
+   },
+   {
+    "jid": "595986554623",
+    "tier": "untiered_personal",
+    "dirname": "220__p4623___wa_chat_595986554623_9543",
+    "provisional_name": "",
+    "count": 42
+   },
+   {
+    "jid": "595971322013",
+    "tier": "untiered_personal",
+    "dirname": "120__p2013___wa_chat_595971322013_10114",
+    "provisional_name": "",
+    "count": 104
+   },
+   {
+    "jid": "595972391492",
+    "tier": "untiered_personal",
+    "dirname": "136__p1492___wa_chat_595972391492_3663",
+    "provisional_name": "",
+    "count": 23
+   },
+   {
+    "jid": "595983206474",
+    "tier": "untiered_personal",
+    "dirname": "178__p6474___wa_chat_595983206474_9890",
+    "provisional_name": "",
+    "count": 36
+   },
+   {
+    "jid": "595992036040",
+    "tier": "untiered_personal",
+    "dirname": "235__p6040___wa_chat_595992036040_11693",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "595974621488",
+    "tier": "untiered_personal",
+    "dirname": "143__p1488___wa_chat_595974621488_7274",
+    "provisional_name": "",
+    "count": 39
+   },
+   {
+    "jid": "595976123758",
+    "tier": "untiered_personal",
+    "dirname": "144__p3758___wa_chat_595976123758_9811",
+    "provisional_name": "",
+    "count": 28
+   },
+   {
+    "jid": "595985450764",
+    "tier": "untiered_personal",
+    "dirname": "203__p0764___wa_chat_595985450764_11470",
+    "provisional_name": "",
+    "count": 20
+   },
+   {
+    "jid": "13162108040",
+    "tier": "untiered_personal",
+    "dirname": "101__p8040___wa_chat_13162108040_3066",
+    "provisional_name": "",
+    "count": 22
+   },
+   {
+    "jid": "595971524131",
+    "tier": "untiered_personal",
+    "dirname": "122__p4131___wa_chat_595971524131_2150",
+    "provisional_name": "",
+    "count": 42
+   },
+   {
+    "jid": "595985532655",
+    "tier": "untiered_personal",
+    "dirname": "206__p2655___wa_chat_595985532655_5077",
+    "provisional_name": "",
+    "count": 37
+   },
+   {
+    "jid": "595981285412",
+    "tier": "untiered_personal",
+    "dirname": "155__p5412___wa_chat_595981285412_9804",
+    "provisional_name": "",
+    "count": 27
+   },
+   {
+    "jid": "595971194933",
+    "tier": "untiered_personal",
+    "dirname": "117__p4933___wa_chat_595971194933_1719",
+    "provisional_name": "",
+    "count": 15
+   },
+   {
+    "jid": "595981321606",
+    "tier": "untiered_personal",
+    "dirname": "156__p1606___wa_chat_595981321606_10229",
+    "provisional_name": "",
+    "count": 35
+   },
+   {
+    "jid": "595976777023",
+    "tier": "untiered_personal",
+    "dirname": "148__p7023___wa_chat_595976777023_2027",
+    "provisional_name": "",
+    "count": 33
+   },
+   {
+    "jid": "595981127507",
+    "tier": "untiered_personal",
+    "dirname": "151__p7507___wa_chat_595981127507_1768",
+    "provisional_name": "",
+    "count": 38
+   },
+   {
+    "jid": "595971784500",
+    "tier": "untiered_personal",
+    "dirname": "129__p4500___wa_chat_595971784500_2024",
+    "provisional_name": "",
+    "count": 165
+   },
+   {
+    "jid": "595971652994",
+    "tier": "untiered_personal",
+    "dirname": "125__p2994___wa_chat_595971652994_2127",
+    "provisional_name": "",
+    "count": 18
+   },
+   {
+    "jid": "595982733536",
+    "tier": "untiered_personal",
+    "dirname": "173__p3536___wa_chat_595982733536_6569",
+    "provisional_name": "",
+    "count": 23
+   },
+   {
+    "jid": "595994902000",
+    "tier": "untiered_personal",
+    "dirname": "alejandra____wa_chat_595994902000_10305",
+    "provisional_name": "alejandra",
+    "count": 161
+   },
+   {
+    "jid": "595983800224",
+    "tier": "untiered_personal",
+    "dirname": "184__p0224___wa_chat_595983800224_9916",
+    "provisional_name": "",
+    "count": 32
+   },
+   {
+    "jid": "595972994744",
+    "tier": "untiered_personal",
+    "dirname": "138__p4744___wa_chat_595972994744_4768",
+    "provisional_name": "",
+    "count": 30
+   },
+   {
+    "jid": "595983220080",
+    "tier": "untiered_personal",
+    "dirname": "179__p0080___wa_chat_595983220080_2162",
+    "provisional_name": "",
+    "count": 30
+   },
+   {
+    "jid": "595971692433",
+    "tier": "untiered_personal",
+    "dirname": "126__p2433___wa_chat_595971692433_11432",
+    "provisional_name": "",
+    "count": 95
+   },
+   {
+    "jid": "595974419007",
+    "tier": "untiered_personal",
+    "dirname": "140__p9007___wa_chat_595974419007_11192",
+    "provisional_name": "",
+    "count": 62
+   },
+   {
+    "jid": "595985343897",
+    "tier": "untiered_personal",
+    "dirname": "202__p3897___wa_chat_595985343897_7621",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "595992721418",
+    "tier": "untiered_personal",
+    "dirname": "242__p1418___wa_chat_595992721418_11762",
+    "provisional_name": "",
+    "count": 47
+   },
+   {
+    "jid": "595994922888",
+    "tier": "untiered_personal",
+    "dirname": "252__p2888___wa_chat_595994922888_5114",
+    "provisional_name": "",
+    "count": 13
+   },
+   {
+    "jid": "595991737902",
+    "tier": "untiered_personal",
+    "dirname": "229__p7902___wa_chat_595991737902_10143",
+    "provisional_name": "",
+    "count": 44
+   },
+   {
+    "jid": "595991810194",
+    "tier": "untiered_personal",
+    "dirname": "230__p0194___wa_chat_595991810194_7797",
+    "provisional_name": "",
+    "count": 33
+   },
+   {
+    "jid": "595984898527",
+    "tier": "untiered_personal",
+    "dirname": "196__p8527___wa_chat_595984898527_10680",
+    "provisional_name": "",
+    "count": 25
+   },
+   {
+    "jid": "595981063900",
+    "tier": "untiered_personal",
+    "dirname": "150__p3900___wa_chat_595981063900_11176",
+    "provisional_name": "",
+    "count": 50
+   },
+   {
+    "jid": "595972590455",
+    "tier": "untiered_personal",
+    "dirname": "137__p0455___wa_chat_595972590455_11179",
+    "provisional_name": "",
+    "count": 89
+   },
+   {
+    "jid": "595983345985",
+    "tier": "untiered_personal",
+    "dirname": "180__p5985___wa_chat_595983345985_5625",
+    "provisional_name": "",
+    "count": 51
+   },
+   {
+    "jid": "595991715034",
+    "tier": "untiered_personal",
+    "dirname": "226__p5034___wa_chat_595991715034_11083",
+    "provisional_name": "",
+    "count": 64
+   },
+   {
+    "jid": "595992853154",
+    "tier": "untiered_personal",
+    "dirname": "244__p3154___wa_chat_595992853154_2985",
+    "provisional_name": "",
+    "count": 49
+   },
+   {
+    "jid": "595992443433",
+    "tier": "untiered_personal",
+    "dirname": "241__p3433___wa_chat_595992443433_4763",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "595986804914",
+    "tier": "untiered_personal",
+    "dirname": "221__p4914___wa_chat_595986804914_6611",
+    "provisional_name": "",
+    "count": 22
+   },
+   {
+    "jid": "595986169915",
+    "tier": "untiered_personal",
+    "dirname": "214__p9915___wa_chat_595986169915_1860",
+    "provisional_name": "",
+    "count": 28
+   },
+   {
+    "jid": "595981186252",
+    "tier": "untiered_personal",
+    "dirname": "153__p6252___wa_chat_595981186252_1295",
+    "provisional_name": "",
+    "count": 73
+   },
+   {
+    "jid": "595981609125",
+    "tier": "untiered_personal",
+    "dirname": "162__p9125___wa_chat_595981609125_10582",
+    "provisional_name": "",
+    "count": 19
+   },
+   {
+    "jid": "595991852405",
+    "tier": "untiered_personal",
+    "dirname": "231__p2405___wa_chat_595991852405_9217",
+    "provisional_name": "",
+    "count": 23
+   },
+   {
+    "jid": "595982810360",
+    "tier": "untiered_personal",
+    "dirname": "175__p0360___wa_chat_595982810360_6527",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "595992379449",
+    "tier": "untiered_personal",
+    "dirname": "239__p9449___wa_chat_595992379449_9561",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "595984247377",
+    "tier": "untiered_personal",
+    "dirname": "188__p7377___wa_chat_595984247377_10541",
+    "provisional_name": "",
+    "count": 38
+   },
+   {
+    "jid": "595986551824",
+    "tier": "untiered_personal",
+    "dirname": "219__p1824___wa_chat_595986551824_11679",
+    "provisional_name": "",
+    "count": 26
+   },
+   {
+    "jid": "595984106852",
+    "tier": "untiered_personal",
+    "dirname": "185__p6852___wa_chat_595984106852_10933",
+    "provisional_name": "",
+    "count": 26
+   },
+   {
+    "jid": "5212215805319",
+    "tier": "untiered_personal",
+    "dirname": "106__p5319___wa_chat_5212215805319_11532",
+    "provisional_name": "",
+    "count": 27
+   },
+   {
+    "jid": "595986815081",
+    "tier": "untiered_personal",
+    "dirname": "222__p5081___wa_chat_595986815081_1736",
+    "provisional_name": "",
+    "count": 101
+   },
+   {
+    "jid": "595994445246",
+    "tier": "untiered_personal",
+    "dirname": "247__p5246___wa_chat_595994445246_6538",
+    "provisional_name": "",
+    "count": 20
+   },
+   {
+    "jid": "595972179084",
+    "tier": "untiered_personal",
+    "dirname": "135__p9084___wa_chat_595972179084_4679",
+    "provisional_name": "",
+    "count": 21
+   },
+   {
+    "jid": "5215510091811",
+    "tier": "untiered_personal",
+    "dirname": "107__p1811___wa_chat_5215510091811_11534",
+    "provisional_name": "",
+    "count": 113
+   },
+   {
+    "jid": "595984898288",
+    "tier": "untiered_personal",
+    "dirname": "195__p8288___wa_chat_595984898288_9149",
+    "provisional_name": "",
+    "count": 43
+   },
+   {
+    "jid": "595982954451",
+    "tier": "untiered_personal",
+    "dirname": "176__p4451___wa_chat_595982954451_11084",
+    "provisional_name": "",
+    "count": 171
+   },
+   {
+    "jid": "595981530531",
+    "tier": "untiered_personal",
+    "dirname": "159__p0531___wa_chat_595981530531_11980",
+    "provisional_name": "",
+    "count": 164
+   },
+   {
+    "jid": "595985508337",
+    "tier": "untiered_personal",
+    "dirname": "204__p8337___wa_chat_595985508337_5804",
+    "provisional_name": "",
+    "count": 29
+   },
+   {
+    "jid": "595961100198",
+    "tier": "untiered_personal",
+    "dirname": "111__p0198___wa_chat_595961100198_1354",
+    "provisional_name": "",
+    "count": 10
+   },
+   {
+    "jid": "595994562211",
+    "tier": "untiered_personal",
+    "dirname": "248__p2211___wa_chat_595994562211_7832",
+    "provisional_name": "",
+    "count": 28
+   },
+   {
+    "jid": "595984917697",
+    "tier": "untiered_personal",
+    "dirname": "199__p7697___wa_chat_595984917697_2941",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "595991904000",
+    "tier": "untiered_personal",
+    "dirname": "232__p4000___wa_chat_595991904000_1809",
+    "provisional_name": "",
+    "count": 29
+   },
+   {
+    "jid": "595982418373",
+    "tier": "untiered_personal",
+    "dirname": "171__p8373___wa_chat_595982418373_4145",
+    "provisional_name": "",
+    "count": 33
+   },
+   {
+    "jid": "595973603000",
+    "tier": "untiered_personal",
+    "dirname": "139__p3000___wa_chat_595973603000_9873",
+    "provisional_name": "",
+    "count": 14
+   },
+   {
+    "jid": "595981700045",
+    "tier": "untiered_personal",
+    "dirname": "164__p0045___wa_chat_595981700045_3657",
+    "provisional_name": "",
+    "count": 78
+   },
+   {
+    "jid": "33783552870",
+    "tier": "untiered_personal",
+    "dirname": "105__p2870___wa_chat_33783552870_2215",
+    "provisional_name": "",
+    "count": 87
+   },
+   {
+    "jid": "595971179825",
+    "tier": "untiered_personal",
+    "dirname": "johana_candidate___wa_chat_595971179825_3698",
+    "provisional_name": "johana_candidate",
+    "count": 39
+   },
+   {
+    "jid": "595972116024",
+    "tier": "untiered_personal",
+    "dirname": "133__p6024___wa_chat_595972116024_1306",
+    "provisional_name": "",
+    "count": 17
+   },
+   {
+    "jid": "595984626802",
+    "tier": "untiered_personal",
+    "dirname": "191__p6802___wa_chat_595984626802_1720",
+    "provisional_name": "",
+    "count": 20
+   },
+   {
+    "jid": "595985208778",
+    "tier": "untiered_personal",
+    "dirname": "201__p8778___wa_chat_595985208778_1946",
+    "provisional_name": "",
+    "count": 11
+   },
+   {
+    "jid": "595991952375",
+    "tier": "untiered_personal",
+    "dirname": "233__p2375___wa_chat_595991952375_10863",
+    "provisional_name": "",
+    "count": 29
+   },
+   {
+    "jid": "595994883857",
+    "tier": "untiered_personal",
+    "dirname": "250__p3857___wa_chat_595994883857_11673",
+    "provisional_name": "",
+    "count": 46
+   },
+   {
+    "jid": "595983435779",
+    "tier": "untiered_personal",
+    "dirname": "182__p5779___wa_chat_595983435779_11525",
+    "provisional_name": "",
+    "count": 13
+   }
+  ],
+  "single_msg": [
+   {
+    "jid": "595992633332",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992633332_5665",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982134965",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982134965_6865",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595976235253",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976235253_11444",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595986373136",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986373136_11877",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595971792390",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971792390_3634",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595981791849",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981791849_12618",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595973688038",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595973688038_9286",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595985860918",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985860918_5333",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595974904765",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974904765_10472",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595983131858",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983131858_6591",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595981967672",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981967672_10883",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "118670617522185",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_118670617522185_13132",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595983198459",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983198459_4728",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "203895133479023",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_203895133479023_14725",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595991203040",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991203040_5321",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595972822680",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972822680_10369",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595992322514",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992322514_11918",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "78971597271125",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_78971597271125_17125",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595971722516",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971722516_8987",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595971370907",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971370907_9197",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595984727418",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984727418_9109",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "142545787072590",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_142545787072590_15084",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595974688343",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974688343_9705",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "40875237347543",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_40875237347543_14632",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595972108420",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972108420_5021",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595983193233",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983193233_9777",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595986616606",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986616606_5109",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595984354341",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984354341_7846",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "217364603875378",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_217364603875378_15158",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "120363405740235414",
+    "tier": "_dropped",
+    "dirname": "_wa_group_the_wizard_academy_13575",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595971315989",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971315989_5108",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595985566569",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985566569_11275",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "75849323819111",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_75849323819111_13388",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "34754908921876",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_34754908921876_13562",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "13166196653",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_13166196653_1988",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982432938",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982432938_11294",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595971394192",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971394192_11924",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595981851625",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981851625_9045",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "120363177781450585",
+    "tier": "_dropped",
+    "dirname": "_wa_other_newsletter_120363177781450585_9944",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982236093",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982236093_1848",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595971116608",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971116608_7794",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "195653108015235",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_195653108015235_12861",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595984190420",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984190420_9657",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595984985392",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984985392_6878",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595994658646",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994658646_6663",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595983660080",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983660080_3641",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595972762653",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972762653_9104",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595985547457",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985547457_5812",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595984073945",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984073945_11933",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595983408340",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983408340_5151",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "195816652325082",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_195816652325082_14028",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595994996709",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994996709_11867",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595972822682",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972822682_10462",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595971151324",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971151324_5178",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595985596063",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985596063_11884",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595993310455",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595993310455_12689",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595981246776",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981246776_6604",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "99901308416109",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_99901308416109_14653",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595983732766",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595983732766_5336",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982516844",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982516844_11861",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595984234002",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984234002_10308",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595991710569",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991710569_6646",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595994644222",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595994644222_10368",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595992601047",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992601047_9610",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "0",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_0_1522",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595981108188",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981108188_11929",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595985476679",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595985476679_5840",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982004200",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982004200_9758",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595993530737",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595993530737_5012",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595987303274",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595987303274_6735",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595974904769",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974904769_10251",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595991262074",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595991262074_9949",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595984168130",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984168130_9580",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595971673249",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595971673249_8999",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982608837",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982608837_10306",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595981201732",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981201732_9545",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595984615230",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595984615230_6934",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595976537308",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595976537308_5843",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982787456",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982787456_5254",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982138376",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982138376_3731",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595986746614",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986746614_4039",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595981938677",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595981938677_9871",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595992298225",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595992298225_9317",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595982296168",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982296168_10484",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "120363406900051867",
+    "tier": "_dropped",
+    "dirname": "_wa_group_work-coordinator_13521",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "595974441551",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974441551_9898",
+    "provisional_name": "",
+    "count": 1
+   },
+   {
+    "jid": "120363184086467234",
+    "tier": "_dropped",
+    "dirname": "_wa_group_no_subject_4731",
+    "provisional_name": "",
+    "count": 1
+   }
+  ],
+  "active_chat": [
+   {
+    "jid": "101722055782411",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_101722055782411_12984",
+    "provisional_name": "",
+    "count": 262,
+    "has_audio": true
+   },
+   {
+    "jid": "217278167707806",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_217278167707806_14595",
+    "provisional_name": "",
+    "count": 194,
+    "has_audio": true
+   },
+   {
+    "jid": "171416456540224",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_171416456540224_13129",
+    "provisional_name": "",
+    "count": 208,
+    "has_audio": true
+   },
+   {
+    "jid": "224184944877725",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_224184944877725_13102",
+    "provisional_name": "",
+    "count": 83,
+    "has_audio": true
+   },
+   {
+    "jid": "55955521822873",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_55955521822873_16768",
+    "provisional_name": "",
+    "count": 80,
+    "has_audio": true
+   },
+   {
+    "jid": "120363260729722813",
+    "tier": "_dropped",
+    "dirname": "_wa_other_newsletter_120363260729722813_6630",
+    "provisional_name": "",
+    "count": 629,
+    "has_audio": true
+   },
+   {
+    "jid": "227972770435229",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_227972770435229_13533",
+    "provisional_name": "",
+    "count": 257,
+    "has_audio": true
+   },
+   {
+    "jid": "8212749230246",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_8212749230246_16778",
+    "provisional_name": "",
+    "count": 71,
+    "has_audio": true
+   },
+   {
+    "jid": "264647361974519",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_264647361974519_13190",
+    "provisional_name": "",
+    "count": 60,
+    "has_audio": true
+   },
+   {
+    "jid": "120363168153280680",
+    "tier": "_dropped",
+    "dirname": "_wa_other_newsletter_120363168153280680_5096",
+    "provisional_name": "",
+    "count": 626,
+    "has_audio": true
+   },
+   {
+    "jid": "159223061151983",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_159223061151983_16955",
+    "provisional_name": "",
+    "count": 283,
+    "has_audio": true
+   },
+   {
+    "jid": "57797458792574",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_57797458792574_15073",
+    "provisional_name": "",
+    "count": 281,
+    "has_audio": true
+   },
+   {
+    "jid": "174058297675951",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_174058297675951_15024",
+    "provisional_name": "",
+    "count": 332,
+    "has_audio": true
+   },
+   {
+    "jid": "189486155702510",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_189486155702510_15527",
+    "provisional_name": "",
+    "count": 125,
+    "has_audio": true
+   },
+   {
+    "jid": "170823767859295",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_170823767859295_16385",
+    "provisional_name": "",
+    "count": 91,
+    "has_audio": true
+   },
+   {
+    "jid": "276639095242788",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_276639095242788_17033",
+    "provisional_name": "",
+    "count": 514,
+    "has_audio": true
+   },
+   {
+    "jid": "123184141619444",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_123184141619444_17036",
+    "provisional_name": "",
+    "count": 109,
+    "has_audio": true
+   },
+   {
+    "jid": "158089659547891",
+    "tier": "other_lid",
+    "dirname": "lid_547891___wa_lid_158089659547891_14700",
+    "provisional_name": "",
+    "count": 2588,
+    "has_audio": true
+   },
+   {
+    "jid": "206588111532196",
+    "tier": "other_lid",
+    "dirname": "lid_532196___wa_lid_206588111532196_14798",
+    "provisional_name": "",
+    "count": 3825,
+    "has_audio": true
+   },
+   {
+    "jid": "245255651782842",
+    "tier": "other_lid",
+    "dirname": "lid_782842___wa_lid_245255651782842_15190",
+    "provisional_name": "",
+    "count": 578,
+    "has_audio": true
+   },
+   {
+    "jid": "170287115042926",
+    "tier": "other_lid",
+    "dirname": "lid_042926___wa_lid_170287115042926_13746",
+    "provisional_name": "",
+    "count": 83,
+    "has_audio": true
+   },
+   {
+    "jid": "113090817425545",
+    "tier": "other_lid",
+    "dirname": "lid_425545___wa_lid_113090817425545_13053",
+    "provisional_name": "",
+    "count": 15598,
+    "has_audio": true
+   },
+   {
+    "jid": "96606732967999",
+    "tier": "other_lid",
+    "dirname": "lid_967999___wa_lid_96606732967999_13130",
+    "provisional_name": "",
+    "count": 2151,
+    "has_audio": true
+   },
+   {
+    "jid": "154288881946676",
+    "tier": "other_lid",
+    "dirname": "lid_946676___wa_lid_154288881946676_13498",
+    "provisional_name": "",
+    "count": 3539,
+    "has_audio": true
+   },
+   {
+    "jid": "137533459566845",
+    "tier": "other_lid",
+    "dirname": "lid_566845___wa_lid_137533459566845_13164",
+    "provisional_name": "",
+    "count": 1210,
+    "has_audio": true
+   },
+   {
+    "jid": "214709794013386",
+    "tier": "other_lid",
+    "dirname": "lid_013386___wa_lid_214709794013386_13829",
+    "provisional_name": "",
+    "count": 814,
+    "has_audio": true
+   },
+   {
+    "jid": "595985724135",
+    "tier": "tier1_deep",
+    "dirname": "sister_kyrian_kiki___wa_chat_595985724135_111",
+    "provisional_name": "",
+    "count": 7838,
+    "has_audio": true
+   },
+   {
+    "jid": "595981791823",
+    "tier": "tier1_deep",
+    "dirname": "05__lourdes_youko_kurama___wa_chat_595981791823_1683",
+    "provisional_name": "",
+    "count": 16905,
+    "has_audio": true
+   },
+   {
+    "jid": "595971922708",
+    "tier": "tier1_deep",
+    "dirname": "jonathan_verdun___wa_chat_595971922708_3654",
+    "provisional_name": "",
+    "count": 34526,
+    "has_audio": true
+   },
+   {
+    "jid": "595982515138",
+    "tier": "tier1_deep",
+    "dirname": "mom_sonia_weiss___wa_chat_595982515138_64",
+    "provisional_name": "gabriel_g_curuguaty",
+    "count": 11305,
+    "has_audio": true
+   },
+   {
+    "jid": "595981258488",
+    "tier": "tier2_core",
+    "dirname": "qa_impostor_friend___wa_chat_595981258488_3525",
+    "provisional_name": "qa_impostor_friend",
+    "count": 1327,
+    "has_audio": true
+   },
+   {
+    "jid": "595991470829",
+    "tier": "tier2_core",
+    "dirname": "22__cesar_poli___wa_chat_595991470829_106",
+    "provisional_name": "",
+    "count": 3157,
+    "has_audio": true
+   },
+   {
+    "jid": "595985725871",
+    "tier": "tier2_core",
+    "dirname": "guitar_friend___wa_chat_595985725871_86",
+    "provisional_name": "guitar_friend",
+    "count": 4121,
+    "has_audio": true
+   },
+   {
+    "jid": "595985340001",
+    "tier": "tier2_core",
+    "dirname": "23__friend_uwu___wa_chat_595985340001_2439",
+    "provisional_name": "",
+    "count": 4098,
+    "has_audio": true
+   },
+   {
+    "jid": "595972209763",
+    "tier": "tier2_core",
+    "dirname": "30__kansas_springbreak___wa_chat_595972209763_2943",
+    "provisional_name": "",
+    "count": 1171,
+    "has_audio": true
+   },
+   {
+    "jid": "595986464184",
+    "tier": "tier2_core",
+    "dirname": "38__friend_arrival___wa_chat_595986464184_1811",
+    "provisional_name": "",
+    "count": 1392,
+    "has_audio": true
+   },
+   {
+    "jid": "595973572212",
+    "tier": "tier2_core",
+    "dirname": "34__friend_simple___wa_chat_595973572212_1994",
+    "provisional_name": "",
+    "count": 2236,
+    "has_audio": true
+   },
+   {
+    "jid": "595986868241",
+    "tier": "tier2_core",
+    "dirname": "35__friend_photos___wa_chat_595986868241_10607",
+    "provisional_name": "",
+    "count": 726,
+    "has_audio": true
+   },
+   {
+    "jid": "595983822921",
+    "tier": "tier2_core",
+    "dirname": "14__friend_brasilia___wa_chat_595983822921_11297",
+    "provisional_name": "",
+    "count": 3898,
+    "has_audio": true
+   },
+   {
+    "jid": "595976569739",
+    "tier": "tier2_core",
+    "dirname": "25__sexshop_companion___wa_chat_595976569739_2083",
+    "provisional_name": "",
+    "count": 1128,
+    "has_audio": true
+   },
+   {
+    "jid": "595983111686",
+    "tier": "tier2_core",
+    "dirname": "28__lilian_riveros___wa_chat_595983111686_3524",
+    "provisional_name": "",
+    "count": 604,
+    "has_audio": true
+   },
+   {
+    "jid": "595962291837",
+    "tier": "tier2_core",
+    "dirname": "16__friend_alvaro___wa_chat_595962291837_9625",
+    "provisional_name": "",
+    "count": 4269,
+    "has_audio": true
+   },
+   {
+    "jid": "595985951732",
+    "tier": "tier3_extended",
+    "dirname": "063__p1732___wa_chat_595985951732_1722",
+    "provisional_name": "",
+    "count": 650,
+    "has_audio": true
+   },
+   {
+    "jid": "595985855075",
+    "tier": "tier3_extended",
+    "dirname": "uncle_gerold_manders___wa_chat_595985855075_1366",
+    "provisional_name": "",
+    "count": 139,
+    "has_audio": true
+   },
+   {
+    "jid": "595982944453",
+    "tier": "tier3_extended",
+    "dirname": "058__p4453___wa_chat_595982944453_2454",
+    "provisional_name": "",
+    "count": 525,
+    "has_audio": true
+   },
+   {
+    "jid": "491743785770",
+    "tier": "tier3_extended",
+    "dirname": "065__p5770___wa_chat_491743785770_1989",
+    "provisional_name": "",
+    "count": 409,
+    "has_audio": true
+   },
+   {
+    "jid": "595986129386",
+    "tier": "tier3_extended",
+    "dirname": "041__p9386___wa_chat_595986129386_1781",
+    "provisional_name": "",
+    "count": 753,
+    "has_audio": true
+   },
+   {
+    "jid": "595991506193",
+    "tier": "tier3_extended",
+    "dirname": "084__p6193___wa_chat_595991506193_3099",
+    "provisional_name": "",
+    "count": 243,
+    "has_audio": true
+   },
+   {
+    "jid": "33665298582",
+    "tier": "tier3_extended",
+    "dirname": "042__p8582___wa_chat_33665298582_2646",
+    "provisional_name": "",
+    "count": 1202,
+    "has_audio": true
+   },
+   {
+    "jid": "595982410566",
+    "tier": "tier3_extended",
+    "dirname": "098__p0566___wa_chat_595982410566_9085",
+    "provisional_name": "",
+    "count": 453,
+    "has_audio": true
+   },
+   {
+    "jid": "595976409265",
+    "tier": "tier3_extended",
+    "dirname": "070__p9265___wa_chat_595976409265_2838",
+    "provisional_name": "",
+    "count": 367,
+    "has_audio": true
+   },
+   {
+    "jid": "595982553100",
+    "tier": "tier3_extended",
+    "dirname": "056__p3100___wa_chat_595982553100_9254",
+    "provisional_name": "",
+    "count": 722,
+    "has_audio": true
+   },
+   {
+    "jid": "595973757353",
+    "tier": "tier3_extended",
+    "dirname": "067__p7353___wa_chat_595973757353_1731",
+    "provisional_name": "",
+    "count": 819,
+    "has_audio": true
+   },
+   {
+    "jid": "595962288968",
+    "tier": "tier3_extended",
+    "dirname": "052__p8968___wa_chat_595962288968_1698",
+    "provisional_name": "",
+    "count": 471,
+    "has_audio": true
+   },
+   {
+    "jid": "595986710408",
+    "tier": "tier3_extended",
+    "dirname": "076__p0408___wa_chat_595986710408_1699",
+    "provisional_name": "",
+    "count": 541,
+    "has_audio": true
+   },
+   {
+    "jid": "595982223241",
+    "tier": "tier3_extended",
+    "dirname": "057__p3241___wa_chat_595982223241_11521",
+    "provisional_name": "",
+    "count": 738,
+    "has_audio": true
+   },
+   {
+    "jid": "595986637132",
+    "tier": "tier3_extended",
+    "dirname": "090__p7132___wa_chat_595986637132_5130",
+    "provisional_name": "",
+    "count": 112,
+    "has_audio": true
+   },
+   {
+    "jid": "595984689143",
+    "tier": "tier3_extended",
+    "dirname": "099__p9143___wa_chat_595984689143_4130",
+    "provisional_name": "",
+    "count": 126,
+    "has_audio": true
+   },
+   {
+    "jid": "595981514195",
+    "tier": "tier3_extended",
+    "dirname": "049__p4195___wa_chat_595981514195_9627",
+    "provisional_name": "",
+    "count": 206,
+    "has_audio": true
+   },
+   {
+    "jid": "118262125854912",
+    "tier": "tier3_extended",
+    "dirname": "097__lid_854912___wa_lid_118262125854912_15538",
+    "provisional_name": "",
+    "count": 5060,
+    "has_audio": true
+   },
+   {
+    "jid": "595981199223",
+    "tier": "tier3_extended",
+    "dirname": "050__p9223___wa_chat_595981199223_1728",
+    "provisional_name": "",
+    "count": 940,
+    "has_audio": true
+   },
+   {
+    "jid": "595971505289",
+    "tier": "tier3_extended",
+    "dirname": "044__p5289___wa_chat_595971505289_110",
+    "provisional_name": "",
+    "count": 1420,
+    "has_audio": true
+   },
+   {
+    "jid": "595971758658",
+    "tier": "tier3_extended",
+    "dirname": "088__p8658___wa_chat_595971758658_9805",
+    "provisional_name": "",
+    "count": 74,
+    "has_audio": true
+   },
+   {
+    "jid": "595991797009",
+    "tier": "tier3_extended",
+    "dirname": "069__p7009___wa_chat_595991797009_1949",
+    "provisional_name": "",
+    "count": 589,
+    "has_audio": true
+   },
+   {
+    "jid": "31634463709",
+    "tier": "tier3_extended",
+    "dirname": "053__p3709___wa_chat_31634463709_11777",
+    "provisional_name": "",
+    "count": 776,
+    "has_audio": true
+   },
+   {
+    "jid": "595986361808",
+    "tier": "tier3_extended",
+    "dirname": "055__p1808___wa_chat_595986361808_4032",
+    "provisional_name": "",
+    "count": 537,
+    "has_audio": true
+   },
+   {
+    "jid": "595981262272",
+    "tier": "tier3_extended",
+    "dirname": "093__p2272___wa_chat_595981262272_1550",
+    "provisional_name": "",
+    "count": 166,
+    "has_audio": true
+   },
+   {
+    "jid": "595981725157",
+    "tier": "tier3_extended",
+    "dirname": "085__p5157___wa_chat_595981725157_11979",
+    "provisional_name": "",
+    "count": 193,
+    "has_audio": true
+   },
+   {
+    "jid": "595986186281",
+    "tier": "tier3_extended",
+    "dirname": "079__p6281___wa_chat_595986186281_1292",
+    "provisional_name": "",
+    "count": 467,
+    "has_audio": true
+   },
+   {
+    "jid": "595983281667",
+    "tier": "tier3_extended",
+    "dirname": "062__p1667___wa_chat_595983281667_3593",
+    "provisional_name": "",
+    "count": 194,
+    "has_audio": true
+   },
+   {
+    "jid": "595985435809",
+    "tier": "tier3_extended",
+    "dirname": "051__p5809___wa_chat_595985435809_11371",
+    "provisional_name": "",
+    "count": 919,
+    "has_audio": true
+   },
+   {
+    "jid": "595982923913",
+    "tier": "tier3_extended",
+    "dirname": "087__p3913___wa_chat_595982923913_4696",
+    "provisional_name": "",
+    "count": 217,
+    "has_audio": true
+   },
+   {
+    "jid": "595983523251",
+    "tier": "tier3_extended",
+    "dirname": "077__p3251___wa_chat_595983523251_1276",
+    "provisional_name": "",
+    "count": 366,
+    "has_audio": true
+   },
+   {
+    "jid": "595983727370",
+    "tier": "tier3_extended",
+    "dirname": "081__p7370___wa_chat_595983727370_1926",
+    "provisional_name": "",
+    "count": 465,
+    "has_audio": true
+   },
+   {
+    "jid": "595971190089",
+    "tier": "untiered_personal",
+    "dirname": "116__p0089___wa_chat_595971190089_5319",
+    "provisional_name": "",
+    "count": 52,
+    "has_audio": true
+   },
+   {
+    "jid": "595992290656",
+    "tier": "untiered_personal",
+    "dirname": "238__p0656___wa_chat_595992290656_1725",
+    "provisional_name": "",
+    "count": 80,
+    "has_audio": true
+   },
+   {
+    "jid": "595962155684",
+    "tier": "untiered_personal",
+    "dirname": "112__p5684___wa_chat_595962155684_1881",
+    "provisional_name": "",
+    "count": 196,
+    "has_audio": true
+   },
+   {
+    "jid": "595971942911",
+    "tier": "untiered_personal",
+    "dirname": "131__p2911___wa_chat_595971942911_1748",
+    "provisional_name": "",
+    "count": 86,
+    "has_audio": true
+   },
+   {
+    "jid": "595986173200",
+    "tier": "untiered_personal",
+    "dirname": "215__p3200___wa_chat_595986173200_11974",
+    "provisional_name": "",
+    "count": 98,
+    "has_audio": true
+   },
+   {
+    "jid": "595981616294",
+    "tier": "untiered_personal",
+    "dirname": "163__p6294___wa_chat_595981616294_1696",
+    "provisional_name": "",
+    "count": 77,
+    "has_audio": true
+   },
+   {
+    "jid": "595976331904",
+    "tier": "untiered_personal",
+    "dirname": "145__p1904___wa_chat_595976331904_1866",
+    "provisional_name": "",
+    "count": 66,
+    "has_audio": true
+   },
+   {
+    "jid": "595985124464",
+    "tier": "untiered_personal",
+    "dirname": "200__p4464___wa_chat_595985124464_11430",
+    "provisional_name": "",
+    "count": 72,
+    "has_audio": true
+   },
+   {
+    "jid": "595986189433",
+    "tier": "untiered_personal",
+    "dirname": "217__p9433___wa_chat_595986189433_1752",
+    "provisional_name": "",
+    "count": 95,
+    "has_audio": true
+   },
+   {
+    "jid": "595974465910",
+    "tier": "untiered_personal",
+    "dirname": "141__p5910___wa_chat_595974465910_5322",
+    "provisional_name": "",
+    "count": 92,
+    "has_audio": true
+   },
+   {
+    "jid": "595981924528",
+    "tier": "untiered_personal",
+    "dirname": "170__p4528___wa_chat_595981924528_1795",
+    "provisional_name": "",
+    "count": 102,
+    "has_audio": true
+   },
+   {
+    "jid": "595984909166",
+    "tier": "untiered_personal",
+    "dirname": "198__p9166___wa_chat_595984909166_9157",
+    "provisional_name": "",
+    "count": 196,
+    "has_audio": true
+   },
+   {
+    "jid": "595971612900",
+    "tier": "untiered_personal",
+    "dirname": "123__p2900___wa_chat_595971612900_2048",
+    "provisional_name": "",
+    "count": 135,
+    "has_audio": true
+   },
+   {
+    "jid": "595984202187",
+    "tier": "untiered_personal",
+    "dirname": "187__p2187___wa_chat_595984202187_10088",
+    "provisional_name": "",
+    "count": 148,
+    "has_audio": true
+   },
+   {
+    "jid": "595982646114",
+    "tier": "untiered_personal",
+    "dirname": "172__p6114___wa_chat_595982646114_5235",
+    "provisional_name": "",
+    "count": 144,
+    "has_audio": true
+   },
+   {
+    "jid": "13163475777",
+    "tier": "untiered_personal",
+    "dirname": "102__p5777___wa_chat_13163475777_3667",
+    "provisional_name": "",
+    "count": 65,
+    "has_audio": true
+   },
+   {
+    "jid": "595991965767",
+    "tier": "untiered_personal",
+    "dirname": "234__p5767___wa_chat_595991965767_5169",
+    "provisional_name": "",
+    "count": 113,
+    "has_audio": true
+   },
+   {
+    "jid": "595985733375",
+    "tier": "untiered_personal",
+    "dirname": "207__p3375___wa_chat_595985733375_1831",
+    "provisional_name": "",
+    "count": 85,
+    "has_audio": true
+   },
+   {
+    "jid": "595981545498",
+    "tier": "untiered_personal",
+    "dirname": "160__p5498___wa_chat_595981545498_273",
+    "provisional_name": "",
+    "count": 79,
+    "has_audio": true
+   },
+   {
+    "jid": "595984731244",
+    "tier": "untiered_personal",
+    "dirname": "192__p1244___wa_chat_595984731244_10265",
+    "provisional_name": "",
+    "count": 70,
+    "has_audio": true
+   },
+   {
+    "jid": "595972104371",
+    "tier": "untiered_personal",
+    "dirname": "cesar____wa_chat_595972104371_9036",
+    "provisional_name": "cesar",
+    "count": 84,
+    "has_audio": true
+   },
+   {
+    "jid": "595986445564",
+    "tier": "untiered_personal",
+    "dirname": "218__p5564___wa_chat_595986445564_7538",
+    "provisional_name": "",
+    "count": 111,
+    "has_audio": true
+   },
+   {
+    "jid": "595993535355",
+    "tier": "untiered_personal",
+    "dirname": "246__p5355___wa_chat_595993535355_4233",
+    "provisional_name": "",
+    "count": 89,
+    "has_audio": true
+   },
+   {
+    "jid": "5215547629093",
+    "tier": "untiered_personal",
+    "dirname": "108__p9093___wa_chat_5215547629093_4393",
+    "provisional_name": "",
+    "count": 91,
+    "has_audio": true
+   },
+   {
+    "jid": "595971726746",
+    "tier": "untiered_personal",
+    "dirname": "127__p6746___wa_chat_595971726746_6977",
+    "provisional_name": "",
+    "count": 223,
+    "has_audio": true
+   },
+   {
+    "jid": "595983698281",
+    "tier": "untiered_personal",
+    "dirname": "neko_friend___wa_chat_595983698281_9914",
+    "provisional_name": "neko_friend",
+    "count": 103,
+    "has_audio": true
+   },
+   {
+    "jid": "595983380156",
+    "tier": "untiered_personal",
+    "dirname": "181__p0156___wa_chat_595983380156_3701",
+    "provisional_name": "",
+    "count": 1096,
+    "has_audio": true
+   }
+  ],
+  "service_bot": [
+   {
+    "jid": "95150772617227",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_95150772617227_14140",
+    "provisional_name": "",
+    "count": 44,
+    "n_svc": 9
+   },
+   {
+    "jid": "595974413000",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595974413000_9678",
+    "provisional_name": "",
+    "count": 4,
+    "n_svc": 3
+   },
+   {
+    "jid": "595972600129",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595972600129_5163",
+    "provisional_name": "",
+    "count": 8,
+    "n_svc": 3
+   },
+   {
+    "jid": "165768624893999",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_165768624893999_14648",
+    "provisional_name": "",
+    "count": 11,
+    "n_svc": 3
+   },
+   {
+    "jid": "194360691953795",
+    "tier": "_dropped",
+    "dirname": "_wa_lid_194360691953795_13217",
+    "provisional_name": "",
+    "count": 6,
+    "n_svc": 3
+   },
+   {
+    "jid": "595982665125",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595982665125_4726",
+    "provisional_name": "",
+    "count": 13,
+    "n_svc": 4
+   },
+   {
+    "jid": "595981180666",
+    "tier": "untiered_personal",
+    "dirname": "152__p0666___wa_chat_595981180666_11095",
+    "provisional_name": "",
+    "count": 128,
+    "n_svc": 3
+   },
+   {
+    "jid": "595981816355",
+    "tier": "untiered_personal",
+    "dirname": "168__p6355___wa_chat_595981816355_9271",
+    "provisional_name": "",
+    "count": 29,
+    "n_svc": 4
+   },
+   {
+    "jid": "595984409200",
+    "tier": "untiered_personal",
+    "dirname": "190__p9200___wa_chat_595984409200_4630",
+    "provisional_name": "",
+    "count": 58,
+    "n_svc": 5
+   },
+   {
+    "jid": "595986110595",
+    "tier": "untiered_personal",
+    "dirname": "212__consultorio_duerksen___wa_chat_595986110595_1767",
+    "provisional_name": "",
+    "count": 191,
+    "n_svc": 3
+   }
+  ],
+  "romantic": [
+   {
+    "jid": "120363150265582047",
+    "tier": "_dropped",
+    "dirname": "_wa_other_newsletter_120363150265582047_4303",
+    "provisional_name": "",
+    "count": 204,
+    "n_rom": 12
+   },
+   {
+    "jid": "595986316559",
+    "tier": "_dropped",
+    "dirname": "_wa_chat_595986316559_11868",
+    "provisional_name": "",
+    "count": 2,
+    "n_rom": 17
+   }
+  ],
+  "empty": [
+   {
+    "jid": "595976538689",
+    "tier": "tier1_deep",
+    "dirname": "laura_x___wa_chat_595976538689_3231",
+    "provisional_name": "laura_x"
+   },
+   {
+    "jid": "595984241789",
+    "tier": "tier2_core",
+    "dirname": "p_dropped_1___wa_chat_595984241789_1849",
+    "provisional_name": "p_dropped_1"
+   },
+   {
+    "jid": "595984933862",
+    "tier": "tier2_core",
+    "dirname": "becas_kansas_friend___wa_chat_595984933862_1330",
+    "provisional_name": "becas_kansas_friend"
+   },
+   {
+    "jid": "595981868718",
+    "tier": "tier2_core",
+    "dirname": "helpp_friend___wa_chat_595981868718_92",
+    "provisional_name": "helpp_friend"
+   },
+   {
+    "jid": "595982510082",
+    "tier": "tier2_core",
+    "dirname": "compiladores_friend___wa_chat_595982510082_1723",
+    "provisional_name": "compiladores_friend"
+   },
+   {
+    "jid": "595985249907",
+    "tier": "tier2_core",
+    "dirname": "lourdes__friend_tiktok_share___wa_chat_595985249907_9628",
+    "provisional_name": "Lourdes"
+   },
+   {
+    "jid": "595994341668",
+    "tier": "tier2_core",
+    "dirname": "21__friend_casual___wa_chat_595994341668_1955",
+    "provisional_name": "21__friend_casual"
+   },
+   {
+    "jid": "595984160109",
+    "tier": "tier2_core",
+    "dirname": "alvaro_drip___wa_chat_595984160109_1257",
+    "provisional_name": "alvaro_drip"
+   },
+   {
+    "jid": "595986805654",
+    "tier": "tier2_core",
+    "dirname": "fpuna_alvaro_alt___wa_chat_595986805654_1271",
+    "provisional_name": "fpuna_alvaro_alt"
+   },
+   {
+    "jid": "595981459382",
+    "tier": "tier2_core",
+    "dirname": "alejandro_alt_2___wa_chat_595981459382_4380",
+    "provisional_name": "alejandro_alt_2"
+   },
+   {
+    "jid": "595991705424",
+    "tier": "tier3_extended",
+    "dirname": "jack__p5424___wa_chat_595991705424_1202",
+    "provisional_name": "Jack"
+   },
+   {
+    "jid": "595972835716",
+    "tier": "tier3_extended",
+    "dirname": "068__p5716___wa_chat_595972835716_1244",
+    "provisional_name": "068__p5716"
+   },
+   {
+    "jid": "595982843645",
+    "tier": "tier3_extended",
+    "dirname": "emilia_lourdes_contact___wa_chat_595982843645_3101",
+    "provisional_name": "emilia_lourdes_contact"
+   },
+   {
+    "jid": "595982139653",
+    "tier": "tier3_extended",
+    "dirname": "100__p9653___wa_chat_595982139653_1855",
+    "provisional_name": "100__p9653"
+   },
+   {
+    "jid": "595991469087",
+    "tier": "tier3_extended",
+    "dirname": "myre_atyra___wa_chat_595991469087_4649",
+    "provisional_name": "myre_atyra"
+   },
+   {
+    "jid": "595991381669",
+    "tier": "untiered_personal",
+    "dirname": "alejandra____wa_chat_595991381669_6911",
+    "provisional_name": "alejandra"
+   }
+  ]
+ }
+}

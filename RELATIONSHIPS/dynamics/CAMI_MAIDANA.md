@@ -8,7 +8,16 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (715 from Ivan, 717 from them)
+
+Peak months: `2024-03` (157 msgs), `2024-05` (153 msgs), `2024-06` (271 msgs)
+Language mix: es: 338, other: 1086, en: 7, mixed: 1
+
+**Ivan calls them:** 'luana' (1x), 'kiki' (1x)
+
+**They call Ivan:** 'loco' (2x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +29,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-09-28] Ivan** (3 emojis): 📌 *¡Oportunidad laboral!* 🔸️En MentorMate buscamos un o una Junior Quality Engineer en Asunción, con inglés fluido y uno o dos años de experiencia. Más info aquí! 👇
+- **[2025-06-17] Them** (2 emojis): Buen díaaaaa!!! Feliiiiizzz cumpleeee Weisscitooo, que pases súper bien y que sigamos siendo amigos por mucho tiempo 🥰🥳
+
 
 ## Notes
 

@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (114 from Ivan, 239 from them)
+
+Peak months: `2024-01` (2 msgs), `2024-02` (324 msgs), `2024-03` (27 msgs)
+Language mix: other: 226, es: 124, mixed: 2, en: 1
+
+**They call Ivan:** 'iván' (1x), 'loco' (1x), 'amor' (1x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +27,8 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
 
 ## Notes
 

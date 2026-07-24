@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (154 from Ivan, 299 from them)
+
+Peak months: `2024-10` (68 msgs), `2026-05` (52 msgs), `2026-06` (163 msgs)
+Language mix: es: 120, other: 327, en: 5, mixed: 1
+
+**They call Ivan:** 'ivan' (16x)
+
+## Communication stats
 
 ## Communication stats
 
@@ -20,7 +27,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-04-17] Them** (8 emojis): Te invito a compartir un asado por mi cumpleaños 🧛🏽‍♀️🔥  La temática de este año es: transferencias a la cumpleañera... mentira jaja 😈 Con que vengas a compartir conmigo, soy más que feliz.  Nos vemos... 🖤  📍 Ubicación en Google Maps: WPG S.R.L. 📍 Enlace de la ubicación:  https://maps.app.goo.gl/Y3F
+- **[2025-01-20] Them** (4 emojis): *¡Entrenadores Pokémon!*   *Maxi está cumpliendo 6 años y necesita a su equipo para una aventura épica:*    📅 *Domingo 2 de febrero*   🕐 *Desde las 13:00 hs*  📍 *Casa Weiss van der Pol (Casa de sus abuelos)*  🗺 *Ubicación:* https://maps.app.goo.gl/jZ5WFapfk4ZE4P6z7     *¡Prepara ropa para la piscina
+
 
 ## Notes
 
