@@ -18,8 +18,9 @@ Avg msg length: Ivan 34 chars, them 31 chars
 Avg reply time: Ivan 26m, them 36m
 Question ratio: Ivan 9.0%, them 5.4%
 Longest streak: **8** consecutive days · Longest gap: **122** days
-Audio usage: 6.3% voice notes (n/a)
+Audio usage: 6.3% of all messages are voice notes
 Sentiment: Ivan +0.49 (very positive) (pos 29 / neg 10), them +0.30 (very positive) (pos 30 / neg 16)
+Mood trend: overall +0.28, recent +0.20, trend Δ +0.00 (0.00 (stable))
 
 **Ivan calls them:** 'kiki' (5x), 'papa' (2x), 'amor' (2x), 'gordo' (1x), 'gorda' (1x)
 
@@ -42,6 +43,15 @@ Sentiment: Ivan +0.49 (very positive) (pos 29 / neg 10), them +0.30 (very positi
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-11-30] Them** (2 emojis): Es Maga mi perrita, se quedo en lo de mis padres y ahora le veo cuando voy de visita 😭❤️
+- **[2026-01-22] Ivan** (2 emojis): Se hacen más comisiones   Ahora ale tiene que hacer su fursona jsjsja  🧠🧠 Jajajaj
+- **[2025-10-28] Ivan** (1 emojis): 📽️ Detailed Logo Animation Prompt: TOTALGAS  Goal: Create a clean, professional, and impactful animation for the TOTALGAS logo, emphasizing the orange frame and bold text. The animation should be around 4-6 seconds total (including an end hold).  1. The Opening Sequence (Entry - 2 seconds)  Backgrou
+- **[2025-12-28] Ivan** (1 emojis): Hello 👋 I’m taking a Bolt ride. Vehicle details: Kia Picanto, Red, CFH698  Destination: ADK SERVICE, Juan Leopardi, Fernando de la Mora, Paraguay  Track live trip status: https://ride.bolt.eu/?s=n54jMbQwaRqb
+- **[2026-06-17] Them** (1 emojis): No vamos a poder el sábado 😭 trnemos una reu qué ya pactamos hace rato y me había olvidado
+
 
 ## Notable messages (auto-extracted)
 

@@ -18,8 +18,9 @@ Avg msg length: Ivan 32 chars, them 21 chars
 Avg reply time: Ivan 3m, them 2m
 Question ratio: Ivan 10.3%, them 6.1%
 Longest streak: **1** consecutive days · Longest gap: **76** days
-Audio usage: 6.5% voice notes (n/a)
+Audio usage: 6.5% of all messages are voice notes
 Sentiment: Ivan -0.50 (very negative) (pos 1 / neg 3), them +0.27 (positive) (pos 7 / neg 4)
+Mood trend: overall -0.27, recent -0.27, trend Δ +0.00 (0.00 (stable))
 
 **They call Ivan:** 'amor' (2x), 'ivan' (1x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan -0.50 (very negative) (pos 1 / neg 3), them +0.27 (positive) (po
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-01-02] Them** (1 emojis): Creo que Fran me había dicho que tome inglés con Mirtha pero ella no está 😭
+- **[2022-10-05] Ivan** (0 emojis): jajaj osea  yo ni ahi estoy  pero con osvaldo si me piche solo me mensajea para pedir que le haga examen o para que le de weed  ademas de que le re tantea a mi hermana cuando viene a casa y ella onda XD  saffi chil re buena onda hector chill  pero onda solo nos juntamos para hacer farra en casa  fra
+- **[2022-10-05] Ivan** (0 emojis): Onda  No tengo los high standards de gente   Tipo  Me gustaría onda Que sea cute  Que sea inteligente Que le guste jugar conmigo Que me trate bien y de minutos  Que tenga algo que quiera hacer así le puedo ayudar/divertinos con los proyectos de los 2
+- **[2022-12-22] Ivan** (0 emojis): Onda a mi me gusta por que me deja más tranquilo y es más fácil pensar y dedicarme a hacer cosas sin distraerme   Tipo stoner funcional    Suelo fumar las noches antes de dormir  O días que se que no voy a hacer nada
+- **[2022-10-05] Ivan** (0 emojis): Y que programa usas para codear? Visual studio code(?  Hay plugins que podes usar para ayudarte  O si es en papel f ya
+
 
 ## Notable messages (auto-extracted)
 

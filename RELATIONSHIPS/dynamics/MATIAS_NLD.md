@@ -18,8 +18,9 @@ Avg msg length: Ivan 268 chars, them 14 chars
 Avg reply time: Ivan 10.4h, them 9.0h
 Question ratio: Ivan 33.3%, them 100.0%
 Longest streak: **1** consecutive days · Longest gap: **0** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
+Mood trend: overall +1.00, recent +1.00, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2024-08-31, Ivan): Hello Matias,  I'm Ivan Weiss—hope you’re doing well and that you enjoyed your trip to South America! :)  John mentioned that you’re also interested in artificial intelligence, which is awesome.  I’m 
 
@@ -38,6 +39,13 @@ Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negat
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-08-31] Ivan** (0 emojis): Hello Matias,  I'm Ivan Weiss—hope you’re doing well and that you enjoyed your trip to South America! :)  John mentioned that you’re also interested in artificial intelligence, which is awesome.  I’m slowly getting into it myself, currently working on setting up a local AI using Ollama. I was wonder
+- **[2024-08-31] Ivan** (0 emojis): It's a platform to run local language models   Similar to gpt   But on local /cloud devices   It allows you to try different models easily and since everything is running privately you have more control over data privacy
+- **[2024-08-31] Ivan** (0 emojis): https://youtu.be/ZoxJcPkjirs?si=qHmaGRYUJGjZaQpn  If you are interested and like an easy setup   This guide is really nice   using docker
+
 
 ## Notable messages (auto-extracted)
 

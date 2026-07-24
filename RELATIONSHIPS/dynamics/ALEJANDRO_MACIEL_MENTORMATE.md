@@ -18,8 +18,9 @@ Avg msg length: Ivan 28 chars, them 25 chars
 Avg reply time: Ivan 38m, them 6m
 Question ratio: Ivan 14.3%, them 14.0%
 Longest streak: **2** consecutive days · Longest gap: **428** days
-Audio usage: 9.8% voice notes (n/a)
+Audio usage: 9.8% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +0.33 (very positive) (pos 2 / neg 1)
+Mood trend: overall +0.27, recent +0.27, trend Δ +0.00 (0.00 (stable))
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -40,6 +41,11 @@ Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +0.33 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-09-13] Ivan** (0 emojis): https://www.linkedin.com/in/c%C3%A9sar-llano-2986821aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 
 ## Notable messages (auto-extracted)
 

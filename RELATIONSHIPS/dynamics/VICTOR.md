@@ -20,6 +20,7 @@ Question ratio: Ivan 16.7%, them 0.0%
 Longest streak: **1** consecutive days · Longest gap: **0** days
 Audio usage: 14.3% of all messages are voice notes
 Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
+Mood trend: overall +0.00, recent +0.00, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2023-03-10, Ivan): Hii
 

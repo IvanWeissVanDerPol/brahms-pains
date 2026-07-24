@@ -18,8 +18,9 @@ Avg msg length: Ivan 28 chars, them 15 chars
 Avg reply time: Ivan 43m, them 39m
 Question ratio: Ivan 24.5%, them 9.0%
 Longest streak: **5** consecutive days · Longest gap: **81** days
-Audio usage: 2.9% voice notes (n/a)
+Audio usage: 2.9% of all messages are voice notes
 Sentiment: Ivan +0.91 (very positive) (pos 43 / neg 2), them +0.52 (very positive) (pos 16 / neg 5)
+Mood trend: overall +0.48, recent +0.67, trend Δ +0.19 (+0.19 (warming))
 
 **Ivan calls them:** 'mamá' (5x), 'loco' (1x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan +0.91 (very positive) (pos 43 / neg 2), them +0.52 (very positiv
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-26] Ivan** (0 emojis): hola  sorry estuve a full y tuve mill inconvenientes hoy :(   quiero  pero no tengo ahora para transferirte :(  te parece bien si te mensajeo otravez cuando tenga? sorry otravez
+- **[2026-01-05] Ivan** (0 emojis): Uwu ahi busque online  2c-b sería verdad?  Chill con los otros estoy re happy   Maybe lsd  Pero me da más miedito stuff donde se puede mixear stuff random que es adicitive :(
+- **[2024-09-19] Ivan** (0 emojis): Me pasas tu alias ?  Estaba vuendo mi acceso a itau (Cambie de cell ) Y mañana me Dan mi pin (Ahi te tengo agregada ya )  Pero te Pago de ueno ahora ya que Tengo acceso ahi
+- **[2026-07-16] Ivan** (0 emojis): Ueuw me tienen que pasar aún para sus Kg jsjsjs    El cherry te puedo dar en cash ?  Así me deshago de mi efectivo?  Me es más nice tener en apps
+- **[2026-01-07] Ivan** (0 emojis): Ahh  Porro  Mdma Hongos me interesan   Cuales son tus precios actuales ?  Onda 1kg porro   Y una cantidad relativa a 200g de porro? Los demás
+
 
 ## Notable messages (auto-extracted)
 

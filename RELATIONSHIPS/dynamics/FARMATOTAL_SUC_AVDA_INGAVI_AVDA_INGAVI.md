@@ -18,8 +18,9 @@ Avg msg length: Ivan 18 chars, them 17 chars
 Avg reply time: Ivan 44s, them 1m
 Question ratio: Ivan 19.1%, them 4.8%
 Longest streak: **1** consecutive days · Longest gap: **178** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
+Mood trend: overall +1.00, recent +1.00, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2025-07-19, Ivan): Hola
 
@@ -38,6 +39,12 @@ Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them +1.00 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-01-13] Ivan** (0 emojis): en caso de que no salio aun quiero tambien y sino compro con otro delivery? jsjsjsjsj
+- **[2026-01-13] Ivan** (0 emojis): oude ser el suero un poco mas grande ? asi saco con jeringa ? y jernga tambien plz
+
 
 ## Notable messages (auto-extracted)
 

@@ -319,6 +319,52 @@ voy y ya yo""".split())
     sentiment_score_ivan = (pos_ivan - neg_ivan) / max(1, pos_ivan + neg_ivan)
     sentiment_score_them = (pos_them - neg_them) / max(1, pos_them + neg_them)
     
+    # Monthly sentiment trend
+    POS_WORDS_RICH = set("""amor amo encanta encantado encantada feliz bien buenos buenas gracias guapo guapa
+hermosa hermoso bella bello alegria contento contenta orgullosa orgulloso amazing
+love lovely enjoy wonderful excelente increible perfecto beautiful happy great
+best awesome fantastic perfecta perfecto alegria risa sonrisa tierna tierno""".split())
+    NEG_WORDS_RICH = set("""mal triste odio enojado enojada molesto molesta cansado cansada horrible
+terrible fatal feo fea asco dolor problema problemas angry sad tired hate upset
+awful terrible horrible disgusting pain hurt broken sick worried stress
+frustrated stressed anxious fear scary disappointing disappointed
+llorar llorar sufro sufres duele duelen solo sola lonely""".split())
+    POS_EMOJI = set("❤️ 💕 💖 💗 💓 💞 💘 💝 😊 😄 😃 😀 🤗 🥰 😍")
+    NEG_EMOJI = set("😢 😭 😞 😔 😟 😕 🙁 ☹️ 😣 😖 😫 😩 😤 😠 😡 🤬 💔")
+    
+    monthly_sentiment = []
+    for ym in sorted(set(m.get("ts_iso", "")[:7] for m in sorted_msgs if m.get("ts_iso"))):
+        pos_m = neg_m = 0
+        for m in sorted_msgs:
+            if not m.get("ts_iso", "").startswith(ym): continue
+            text = (m.get("text") or "").lower()
+            for w in re.findall(r'\b[a-záéíóúñ]+\b', text):
+                if w in POS_WORDS_RICH: pos_m += 1
+                elif w in NEG_WORDS_RICH: neg_m += 1
+            for em in re.findall(r'[\U0001F300-\U0001F9FF\U00002600-\U000027BF\U0001F600-\U0001F64F]', text):
+                if em in POS_EMOJI: pos_m += 1
+                elif em in NEG_EMOJI: neg_m += 1
+        total = pos_m + neg_m
+        if total > 0:
+            score = (pos_m - neg_m) / total
+        else:
+            score = 0
+        monthly_sentiment.append({"month": ym, "score": round(score, 3), "pos": pos_m, "neg": neg_m})
+    
+    # Recent trend
+    if len(monthly_sentiment) >= 6:
+        recent_3 = [m["score"] for m in monthly_sentiment[-3:]]
+        prior_3 = [m["score"] for m in monthly_sentiment[-6:-3]]
+        recent_avg = sum(recent_3) / len(recent_3)
+        prior_avg = sum(prior_3) / len(prior_3)
+        mood_trend = recent_avg - prior_avg
+    else:
+        recent_avg = sum(m["score"] for m in monthly_sentiment) / max(1, len(monthly_sentiment))
+        mood_trend = 0
+    
+    # Overall mood (avg of all months)
+    overall_mood = sum(m["score"] for m in monthly_sentiment) / max(1, len(monthly_sentiment))
+    
     return {
         "ivan_total": ivan_total,
         "them_total": them_total,
@@ -352,6 +398,10 @@ voy y ya yo""".split())
         "neg_them": neg_them,
         "sentiment_score_ivan": sentiment_score_ivan,
         "sentiment_score_them": sentiment_score_them,
+        "monthly_sentiment": monthly_sentiment,
+        "recent_avg_mood": recent_avg,
+        "mood_trend": mood_trend,
+        "overall_mood": overall_mood,
     }
 
 
@@ -385,8 +435,9 @@ def main():
             and "## Notable messages (auto-extracted)\n\n- **" in existing
             and "First message" in existing
             and "Avg reply time" in existing
-            and "Longest streak" in existing  # New: skip if already has streak
-            and "Audio usage" in existing):  # New: skip if already has audio
+            and "Longest streak" in existing
+            and "Audio usage" in existing
+            and "Mood trend" in existing):  # New: skip if already has mood trend
             continue
         
         # Analyze
@@ -463,6 +514,12 @@ def main():
             if score > -0.3: return f"{score:.2f} (slightly negative)"
             return f"{score:.2f} (very negative)"
         
+        # Format mood trend
+        def mood_str(score):
+            if score > 0.1: return f"+{score:.2f} (warming)"
+            if score > -0.1: return f"{score:.2f} (stable)"
+            return f"{score:.2f} (cooling)"
+        
         safe_overview = (
             f"## Overview\n\n"
             f"**Auto-extracted stats** ({analysis['ivan_total']:,} from Ivan, {analysis['them_total']:,} from them, {analysis['emojis_total']:,} emojis)\n\n"
@@ -476,6 +533,7 @@ def main():
             f"Longest streak: **{analysis['longest_streak']}** consecutive days · Longest gap: **{analysis['longest_gap']}** days\n"
             f"Audio usage: {analysis['audio_ratio']:.1%} of all messages are voice notes\n"
             f"Sentiment: Ivan {sentiment_str(analysis['sentiment_score_ivan'])} (pos {analysis['pos_ivan']} / neg {analysis['neg_ivan']}), them {sentiment_str(analysis['sentiment_score_them'])} (pos {analysis['pos_them']} / neg {analysis['neg_them']})\n"
+            f"Mood trend: overall {analysis['overall_mood']:+.2f}, recent {analysis['recent_avg_mood']:+.2f}, trend Δ {analysis['mood_trend']:+.2f} ({mood_str(analysis['mood_trend'])})\n"
             f"{nicks_str}"
             f"{first_msg_str}"
             f"{last_msg_str}"

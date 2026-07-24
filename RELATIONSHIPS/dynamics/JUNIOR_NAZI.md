@@ -18,8 +18,9 @@ Avg msg length: Ivan 20 chars, them 26 chars
 Avg reply time: Ivan 50m, them 38m
 Question ratio: Ivan 9.8%, them 7.0%
 Longest streak: **12** consecutive days · Longest gap: **185** days
-Audio usage: 3.3% voice notes (n/a)
+Audio usage: 3.3% of all messages are voice notes
 Sentiment: Ivan +0.59 (very positive) (pos 23 / neg 6), them +0.55 (very positive) (pos 38 / neg 11)
+Mood trend: overall +0.34, recent +0.17, trend Δ +0.17 (+0.17 (warming))
 
 **They call Ivan:** 'ivan' (5x), 'loco' (2x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan +0.59 (very positive) (pos 23 / neg 6), them +0.55 (very positiv
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2021-12-16] Them** (1 emojis): Buen viaje man, quería ir a despedirme también pero lastimosamente ya no me iba a dar tiempo 😔
+- **[2023-01-18] Them** (1 emojis): Le decís que sos gay y te dicen para participar de pijamadas 🧐
+- **[2022-03-24] Ivan** (0 emojis): Y no Onda si tenés pareja querés que te dé tranquilidad y todo eso Y si del hola qué tal ya es así no le van a dar bola   Onda si te pones en el lugar de una mujer  Que vas a preferir? Alguien chubby que te haga sonreír todo el tiempo? O alguien fisiculturista que siempre este estresado y gritando  
+- **[2022-10-04] Ivan** (0 emojis): yo le puse  2 que es por que cuando un auto se mueve mas lento  puede girar mas rapido   esto permite que cuando la velocidad es 1 llegue   pero con velocidad 2 el giro es mas lento  haciendo que toque la pared y termine la simulacion  3 Un caso cuando no puede llegar a estacionar es cuando esta ce
+- **[2023-02-08] Ivan** (0 emojis): "Hey Iduline, mind if I pull you away from work for a sec? I've been wanting to say something for a while now. You're really awesome, and I admire your dedication and passion for your studies. Every time we chat or grab a coffee, I have a great time. And the thing is, I really like you and would lov
+
 
 ## Notable messages (auto-extracted)
 

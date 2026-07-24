@@ -18,8 +18,9 @@ Avg msg length: Ivan 23 chars, them 57 chars
 Avg reply time: Ivan 8m, them 1m
 Question ratio: Ivan 26.7%, them 0.0%
 Longest streak: **1** consecutive days · Longest gap: **270** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very positive) (pos 2 / neg 0)
+Mood trend: overall +1.00, recent +1.00, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2024-08-08, Ivan): Para cuántas personas aprox sería la paella la trocha   Estamos 4
 
@@ -38,6 +39,11 @@ Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very posit
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-05-05] Them** (3 emojis): Buenas tardes☺️, ponemos a su disposición nuestro menú,  estaremos tomando pedidos anticipados para el 14 y 15 de mayo🥘💃
+
 
 ## Notable messages (auto-extracted)
 

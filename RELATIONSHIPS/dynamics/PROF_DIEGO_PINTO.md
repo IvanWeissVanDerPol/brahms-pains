@@ -18,8 +18,9 @@ Avg msg length: Ivan 137 chars, them 32 chars
 Avg reply time: Ivan 9m, them 50m
 Question ratio: Ivan 20.0%, them 25.0%
 Longest streak: **2** consecutive days · Longest gap: **447** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan +0.67 (very positive) (pos 5 / neg 1), them 0.00 (slightly negative) (pos 0 / neg 0)
+Mood trend: overall +0.07, recent +0.07, trend Δ +0.00 (0.00 (stable))
 
 **They call Ivan:** 'ivan' (3x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan +0.67 (very positive) (pos 5 / neg 1), them 0.00 (slightly negat
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-27] Ivan** (1 emojis): hola profe soy ivan Weiss deje mi cell en la calse 😅  podrias avisarme manana cuando estas por la facu y veo para pasar ?  gracias
+- **[2025-12-24] Ivan** (0 emojis): The p-adic framework treats biological sequences not as linear strings but as hierarchical structures that can be mapped to hyperbolic space. This approach reveals hidden patterns in viral evolution that are invisible to traditional sequence alignment methods.  P-adic geometry identifies HIV sentine
+- **[2025-12-24] Ivan** (0 emojis): Aquí tienes el resumen ejecutivo (300 palabras) sobre los hallazgos del Sistema y el futuro del proyecto:  El Descubrimiento del Sistema: Ingeniería Inversa del Escudo del VIH  La Investigación y Validación Nuestro sistema no se limitó a leer bibliografía; ejecutó una investigación computacional mas
+- **[2025-12-24] Ivan** (0 emojis): osea setup de AI agentes   claude  gemini  gpt  setup de IDE antigravity  cursor codex  setup de  skills rules pre prompts  hooks etc  self hosted vs paid  y despues cursos mas especificos para cada are  IIN - LCIK context engeneering   y para los demas RAG y mcps para sus areas de trabajo MCPS auto
+- **[2025-12-24] Ivan** (0 emojis): en conocer gente para hacer review / validar que lo que hacemos no es full alucinacion (ya estamos hablando con unos conocidos)   pero def necesito validar y confirmar con un profesional de bio informatica  o algun lab
+
 
 ## Notable messages (auto-extracted)
 

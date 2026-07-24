@@ -18,8 +18,9 @@ Avg msg length: Ivan 44 chars, them 24 chars
 Avg reply time: Ivan 28m, them 37m
 Question ratio: Ivan 11.4%, them 14.2%
 Longest streak: **4** consecutive days · Longest gap: **333** days
-Audio usage: 2.4% voice notes (n/a)
+Audio usage: 2.4% of all messages are voice notes
 Sentiment: Ivan +0.78 (very positive) (pos 8 / neg 1), them +0.27 (positive) (pos 7 / neg 4)
+Mood trend: overall -0.01, recent -0.67, trend Δ -0.67 (-0.67 (cooling))
 
 **Ivan calls them:** 'kiki' (1x), 'saskia' (1x)
 
@@ -42,6 +43,15 @@ Sentiment: Ivan +0.78 (very positive) (pos 8 / neg 1), them +0.27 (positive) (po
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-08-22] Ivan** (0 emojis): hola man ey para lo de is2  decis que algo que podria ir haciendo ya  es hacer las otras pages de la pagina? osea los otros htm y eso ? ahora estoy viendo algo de django y pense que podria ir haciendo el esqueleto  onda me pasas las cosas que tienen que tener cada pagina y veo para ir haciendo eso y
+- **[2022-10-12] Ivan** (0 emojis): holis llegue a esto Uwu lo de pass le puse prob sea mejor que haga una pantalla aparte para eso o algo asi en todo caso  an no hice eso de cargar los valores actuales (no le pillo como traer los valores y ya estoy zombie) pero manana le sigo  faltaria hacer que los botones anden que guarde los cambi
+- **[2023-11-16] Ivan** (0 emojis): si pasas por casa te doy una guia mas completa de como hacer todo  pero  resumen podes hacer en https://resume.io/app/resumes/35827491/edit y descargar con un programa de GitHub ya que la pagina es con paga pero re Buena  resumeio2pdf se llama el repo creo  para pagina web forkea mi pagina y edita t
+- **[2024-07-22] Ivan** (0 emojis): const hre = require("hardhat"); const fs = require('fs');  // Function to deploy a contract and return its instance async function deployContract(contractName) {   const ContractFactory = await hre.ethers.getContractFactory(contractName);   const contractInstance = await ContractFactory.deploy();   
+- **[2024-10-23] Ivan** (0 emojis): Logo Visa - QA Automation Engineer Opp #4572 Profile Requested  Position Sr TestRail QA Engineer English Level C1 - Advanced Required Skills      Nice to have Skills - Project Details  Start Date Oct 14, 2024 Initial Term 12 Months Possibility of Extension Yes Extension Term 6 Months Location Remote
+
 
 ## Notable messages (auto-extracted)
 

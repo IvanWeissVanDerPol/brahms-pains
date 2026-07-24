@@ -18,8 +18,9 @@ Avg msg length: Ivan 15 chars, them 93 chars
 Avg reply time: Ivan 26s, them 1.7h
 Question ratio: Ivan 27.3%, them 20.0%
 Longest streak: **1** consecutive days · Longest gap: **0** days
-Audio usage: 12.5% voice notes (n/a)
+Audio usage: 12.5% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
+Mood trend: overall +0.14, recent +0.14, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2025-08-21, Ivan): Cual es su número?
 
@@ -38,6 +39,11 @@ Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them 0.00 (slightly negat
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-08-21] Them** (0 emojis): Buenas! Recibimos su encomienda en la Transportadora San Ignacio TSI Agencia Fdo de la Mora. YA QUE EN SU BOLETA ESTÁ REGISTRADA PARÁ RETIRO DE AGENCIA Puede pasar a retirar. Estamos de lunes a viernes:08:30 a 18:00hs Sábado: 08:30 a 12hs  Gracias!!! RECIBIMOS SOLO EFECTIVO!!! Ubicación:  https://ma
+
 
 ## Notable messages (auto-extracted)
 

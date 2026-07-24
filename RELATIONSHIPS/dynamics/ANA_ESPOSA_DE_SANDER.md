@@ -18,8 +18,9 @@ Avg msg length: Ivan 21 chars, them 12 chars
 Avg reply time: Ivan 2.2h, them 2.1h
 Question ratio: Ivan 6.2%, them 0.0%
 Longest streak: **2** consecutive days · Longest gap: **768** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them -1.00 (very negative) (pos 0 / neg 1)
+Mood trend: overall -0.17, recent -0.33, trend Δ -0.33 (-0.33 (cooling))
 
 **Ivan calls them:** 'reina' (1x)
 
@@ -40,6 +41,11 @@ Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them -1.00 (very negat
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-21] Ivan** (0 emojis): https://www.youtube.com/watch?v=EYXO2tXbVWM&ab_channel=iilluminaughtii
+
 
 ## Notable messages (auto-extracted)
 

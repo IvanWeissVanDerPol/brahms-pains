@@ -18,8 +18,9 @@ Avg msg length: Ivan 33 chars, them 76 chars
 Avg reply time: Ivan 52s, them 1m
 Question ratio: Ivan 18.2%, them 18.8%
 Longest streak: **1** consecutive days · Longest gap: **23** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them 0.00 (slightly negative) (pos 1 / neg 1)
+Mood trend: overall +0.94, recent +0.94, trend Δ +0.00 (0.00 (stable))
 
 **They call Ivan:** 'ivan' (4x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them 0.00 (slightly negat
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-21] Them** (11 emojis): *HOLAA!* 🥰  Somos  *Bacon Burgers PASEO 1811🍔🍟*  🕚 *Estamos de 11h a 23:45 hs* (Costo del delivery:15.000)  *Para procesar tu pedido mucho más rápido, te pedimos que lo realices a través del siguiente  link!⚡👇*  https://fiweex.com/delivery/baconpaseo1811  Es súper fácil! Y tenés todos nuestros nuevo
+- **[2023-10-19] Them** (11 emojis): *HOLAA!* 🥰  Somos  *Bacon Burgers PASEO 1811🍔🍟*  🕚 *Estamos de 11h a 23:45 hs* (Costo del delivery:15.000)  *Para procesar tu pedido mucho más rápido, te pedimos que lo realices a través del siguiente  link!⚡👇*  https://fiweex.com/delivery/baconpaseo1811  Es súper fácil! Y tenés todos nuestros nuevo
+- **[2023-09-21] Them** (3 emojis): Ya no contamos con pagos por transferencia🥺 Te pedimos disculpas por el cambio en nuestros metodos de pagos, las opciones disponibles son: Tarjeta Efectivo Como te gustaría pagar? 💕🍔
+- **[2023-09-21] Them** (3 emojis): Lo vas a estar recibiendo en 45 a 60 minutos aproximadamente. *Gracias por tu pedido y que lo disfrutes* 🍔🍟🥰
+- **[2023-10-26] Them** (3 emojis): Lo vas a estar recibiendo en 45 a 60 minutos aproximadamente. *Gracias por tu pedido y que lo disfrutes* 🍔🍟🥰
+
 
 ## Notable messages (auto-extracted)
 

@@ -18,8 +18,9 @@ Avg msg length: Ivan 57 chars, them 34 chars
 Avg reply time: Ivan 16m, them 38m
 Question ratio: Ivan 10.0%, them 16.8%
 Longest streak: **4** consecutive days · Longest gap: **56** days
-Audio usage: 5.5% voice notes (n/a)
+Audio usage: 5.5% of all messages are voice notes
 Sentiment: Ivan -0.78 (very negative) (pos 1 / neg 8), them -1.00 (very negative) (pos 0 / neg 3)
+Mood trend: overall -0.12, recent +0.33, trend Δ +0.62 (+0.62 (warming))
 
 **Ivan calls them:** 'kiki' (1x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan -0.78 (very negative) (pos 1 / neg 8), them -1.00 (very negative
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-12-14] Ivan** (0 emojis): https://www.facebook.com/marketplace/item/1845156012685699/?ref=browse_tab&referral_code=marketplace_general&referral_story_type=general&tracking=%7B%22qid%22%3A%22-732009481968713428%22%2C%22mf_story_key%22%3A%228218462948699454587%22%2C%22top_level_post_id%22%3A%228218462948699454587%22%2C%22comme
+- **[2025-02-12] Them** (0 emojis): 1. Case Update - Lead Assignment  Triggered when a user selects a lead in the "Assign Lead" dropdown and clicks "Save".  Updates the case record with the assigned lead’s details and sends a notification to inform them of their responsibility. 2. Task Update - Task Complete  Triggered when a user cha
+- **[2025-02-12] Them** (0 emojis): If(                             var_LeadDepartmentChanged,                             'CaseUpdate-LeadAssignment'.Run(                                 var_CaseID,                                 Case_link,                                 var_Priority_edit.Value,                                 var_
+- **[2025-09-02] Ivan** (0 emojis): •	Tester Lead Conocimiento /  Experiencia	-	3 años en experiencia en Testing de software Conocimiento práctico del software de gestión de pruebas como qTest,  Zephyr, Testlink o similar 	-	Experiencia en proyectos de testing de gran envergadura 	-	Análisis de requisitos, creación y validación de pla
+- **[2025-09-10] Them** (0 emojis): En lo personal tengo entendio que siempre le gusto info pero por cuestiones economicas no pudo estudiar, ahora recien que termino su carrera y su hermano consiguió un buen trabajo le dio el espacio para que pueda estudiar y realmente hacer lo que le gusta, en su casa era imposible porque su mama no 
+
 
 ## Notable messages (auto-extracted)
 

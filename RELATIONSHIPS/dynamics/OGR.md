@@ -18,8 +18,9 @@ Avg msg length: Ivan 30 chars, them 21 chars
 Avg reply time: Ivan 4m, them 2m
 Question ratio: Ivan 11.8%, them 13.0%
 Longest streak: **2** consecutive days · Longest gap: **14** days
-Audio usage: 17.5% voice notes (n/a)
+Audio usage: 17.5% of all messages are voice notes
 Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very positive) (pos 2 / neg 0)
+Mood trend: overall +0.33, recent +0.33, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2025-10-13, Them): Baby cómo estás
 
@@ -38,6 +39,13 @@ Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very posit
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-10-13] Them** (1 emojis): Hola 👋 Estoy haciendo un viaje en Bolt. Detalles del vehículo: Hyundai HB20, Gris oscuro, AANL299  Destino: Río Pilcomayo, Fernando de la Mora  Seguimiento del viaje: https://ride.bolt.eu/route-sharing/?s=3UHnnCfOQLSm
+- **[2025-11-05] Them** (0 emojis): https://xhamster.com/videos/fucking-a-straight-fresh-ass-xh7EO75?t=403.671088&utm_source=ext_shared&utm_medium=referral&utm_campaign=link
+- **[2025-12-17] Ivan** (0 emojis): https://www.youtube.com/watch?v=cjhPKQjGkMo&list=RDcjhPKQjGkMo&index=1 me salio este en youtube y me recordo a que era tu onda
+
 
 ## Notable messages (auto-extracted)
 

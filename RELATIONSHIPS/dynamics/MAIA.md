@@ -18,8 +18,9 @@ Avg msg length: Ivan 84 chars, them 17 chars
 Avg reply time: Ivan 19m, them 1.2h
 Question ratio: Ivan 12.8%, them 8.8%
 Longest streak: **6** consecutive days · Longest gap: **158** days
-Audio usage: 3.6% voice notes (n/a)
+Audio usage: 3.6% of all messages are voice notes
 Sentiment: Ivan +0.76 (very positive) (pos 22 / neg 3), them +0.80 (very positive) (pos 18 / neg 2)
+Mood trend: overall +0.20, recent -0.17, trend Δ -0.33 (-0.33 (cooling))
 
 **Ivan calls them:** 'loco' (1x)
 
@@ -42,6 +43,15 @@ Sentiment: Ivan +0.76 (very positive) (pos 22 / neg 3), them +0.80 (very positiv
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-17] Them** (5 emojis): Holiiii Ivaaaan, feliz cumplee babyyyyy tqm un montoooon ❤️❤️❤️❤️❤️
+- **[2023-02-04] Ivan** (0 emojis): Needs In my personal life I don't have many needs Maybe access to good ingredients for cooking  A stable internet and electric connection And in a relationship sense I need physical affection I love cuddles and snuggles when I'm with someone    Goals My current goal is to finish my studies and be ab
+- **[2023-02-04] Ivan** (0 emojis): I'm interested in   All the classic nerd stuff (anime cartoon videogames comics) I like computer and I study computer science My interest in this is gaining the ability to work from anywhere Im interested in robotics and currently I'm working on a reforestation robot I like to go to the country side
+- **[2023-02-04] Ivan** (0 emojis): I don't really care about how other people see me   If their opinion of me Lowers because of how they see me  Their opinion is worthless to me   But if it is useful  I see myself as someone that is caring and wants to help  I believe I am interesting and relaxed   And I would say I'm creative if not
+- **[2023-02-21] Ivan** (0 emojis): i have to ask questions to coffee lovers  could you provide me sample questions  Certainly, here are some sample questions that you can ask coffee lovers:  How did you first start drinking coffee and what made you fall in love with it? What is your favorite coffee drink and why do you prefer it? Do 
+
 
 ## Notable messages (auto-extracted)
 

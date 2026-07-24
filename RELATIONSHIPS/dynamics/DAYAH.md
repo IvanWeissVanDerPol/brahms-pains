@@ -18,8 +18,9 @@ Avg msg length: Ivan 112 chars, them 31 chars
 Avg reply time: Ivan 51m, them 33m
 Question ratio: Ivan 10.6%, them 5.4%
 Longest streak: **4** consecutive days · Longest gap: **39** days
-Audio usage: 8.7% voice notes (n/a)
+Audio usage: 8.7% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 13 / neg 0), them +0.91 (very positive) (pos 22 / neg 1)
+Mood trend: overall +0.53, recent +0.79, trend Δ +0.67 (+0.67 (warming))
 
 **Ivan calls them:** 'amor' (2x), 'mama' (1x)
 
@@ -42,6 +43,15 @@ Sentiment: Ivan +1.00 (very positive) (pos 13 / neg 0), them +0.91 (very positiv
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-04-27] Ivan** (70 emojis): Cuestionario de onboarding — Dayah LitWorks Para: Dayah · De: equipo ParaguAI · Fecha: 21 abr 2026  Hola Dayah 👋. Ya tenés tu sitio en vivo en paragu-ai.com/dayah-litworks con los datos que migramos del demo. Pero hay mucho que precargamos con valores por defecto y varias cosas que necesitamos que c
+- **[2026-05-03] Ivan** (22 emojis): # Dayah LitWorks — Cuestionario de Onboarding Completo  > 📅 Versión: Mayo 2026 | 📍 Proyecto: ParaguAI > Propósito: Recopilar toda la información faltante para completar el sitio web.  ---  ## 🟢 SECCIÓN A — CONTENIDO QUE YA ESTÁ EN EL SITIO ✅ *(No necesitamos revisar esto — ya está implementado)*  ##
+- **[2026-06-25] Them** (2 emojis): Oohh, que se mejore su abue. En la siguiente pijamada sigue invitade 🫰🏻✨
+- **[2026-06-29] Them** (1 emojis): Yo hasta a su novio le escribí ahora 😂 el otro es también de unos amigos pero Yami es lo más de lo más.
+- **[2026-06-30] Ivan** (1 emojis): Si agendas onda IPS para otro day  Estoy para un 💋 Mark en mi nalga
+
 
 ## Notable messages (auto-extracted)
 

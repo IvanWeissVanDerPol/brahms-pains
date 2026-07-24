@@ -18,8 +18,9 @@ Avg msg length: Ivan 85 chars, them 5 chars
 Avg reply time: Ivan 1m, them 31s
 Question ratio: Ivan 33.3%, them 0.0%
 Longest streak: **1** consecutive days · Longest gap: **0** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan -1.00 (very negative) (pos 0 / neg 1), them 0.00 (slightly negative) (pos 0 / neg 0)
+Mood trend: overall -1.00, recent -1.00, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2024-07-19, Ivan): Hola
 
@@ -38,6 +39,11 @@ Sentiment: Ivan -1.00 (very negative) (pos 0 / neg 1), them 0.00 (slightly negat
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-07-19] Ivan** (0 emojis): Uff me parece que son los más finos estos   No sabes donde se consiguen los que son gruesos o como usar sin que te lastime toda la mano?   Me interesa pero creo que voy a tener el mismo problema que el que tenía en mi gimnasio anterior
+
 
 ## Notable messages (auto-extracted)
 

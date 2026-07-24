@@ -18,8 +18,9 @@ Avg msg length: Ivan 25 chars, them 6 chars
 Avg reply time: Ivan 1.0h, them 37m
 Question ratio: Ivan 21.7%, them 3.2%
 Longest streak: **4** consecutive days · Longest gap: **293** days
-Audio usage: 22.1% voice notes (n/a)
+Audio usage: 22.1% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 3 / neg 0), them -1.00 (very negative) (pos 0 / neg 1)
+Mood trend: overall +0.57, recent +0.57, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2022-06-22, Ivan): Jaja y yo sigo en el hospital  Voy mañana en todo caso
 
@@ -38,6 +39,11 @@ Sentiment: Ivan +1.00 (very positive) (pos 3 / neg 0), them -1.00 (very negative
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-05] Ivan** (0 emojis): Hola qué tal  Q Le llevo mi hermana a los gatos estos días?  Sino veo para llevarles cuando estén ustedes
+
 
 ## Notable messages (auto-extracted)
 

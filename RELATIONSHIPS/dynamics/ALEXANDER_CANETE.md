@@ -18,8 +18,9 @@ Avg msg length: Ivan 17 chars, them 27 chars
 Avg reply time: Ivan 13m, them 1m
 Question ratio: Ivan 3.2%, them 11.2%
 Longest streak: **2** consecutive days · Longest gap: **523** days
-Audio usage: 9.7% voice notes (n/a)
+Audio usage: 9.7% of all messages are voice notes
 Sentiment: Ivan -1.00 (very negative) (pos 0 / neg 1), them +0.71 (very positive) (pos 6 / neg 1)
+Mood trend: overall +0.07, recent +0.07, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2022-09-15, Them): Maaaan
 
@@ -38,6 +39,12 @@ Sentiment: Ivan -1.00 (very negative) (pos 0 / neg 1), them +0.71 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-15] Ivan** (0 emojis): https://drive.google.com/drive/mobile/folders/1FuyUdWOlEilAUPqW7CWHFMJKLydrLPfq?usp=drive_open
+- **[2022-09-15] Them** (0 emojis): Gracias man si tenes el drive podes pasar? No esta en la descripción
+
 
 ## Notable messages (auto-extracted)
 

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Psycology — Analysis Hub</title>
+<style>
+  :root { --bg: #0a0a0a; --fg: #d4d4d4; --bg-1: #111; --bg-2: #1a1a1a; --fg-1: #e4e4e4; --fg-2: #a0a0a0; --fg-3: #707070; --border: #2a2a2a; --hover: #1f1f1f; --accent: #58c4dc; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; min-height: 100%; background: var(--bg); color: var(--fg); font-family: system-ui, sans-serif; font-size: 14px; }
+  .app { padding: 32px 48px; max-width: 1200px; margin: 0 auto; }
+  h1 { font-size: 22px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--fg-1); margin: 0 0 4px; }
+  .subtitle { color: var(--fg-3); font-size: 13px; margin-bottom: 32px; }
+  
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+  .card { background: var(--bg-1); border: 1px solid var(--border); border-radius: 6px; padding: 20px; transition: all 0.15s; cursor: pointer; display: block; text-decoration: none; color: inherit; }
+  .card:hover { border-color: var(--accent); background: var(--hover); transform: translateY(-1px); }
+  .card-title { font-size: 15px; font-weight: 500; color: var(--fg-1); margin-bottom: 6px; }
+  .card-desc { font-size: 12px; color: var(--fg-3); line-height: 1.5; }
+  .card-stats { display: flex; gap: 12px; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border); font-size: 11px; color: var(--fg-2); }
+  .card-stats .num { color: var(--accent); font-weight: 500; }
+  .card-icon { float: right; font-size: 22px; opacity: 0.6; }
+  
+  h2 { margin: 32px 0 16px; font-size: 14px; text-transform: uppercase; letter-spacing: 0.05em; color: var(--fg-2); border-bottom: 1px solid var(--border); padding-bottom: 6px; }
+  .meta { font-size: 12px; color: var(--fg-3); margin: 24px 0; }
+  code { background: var(--bg-2); padding: 2px 6px; border-radius: 3px; font-family: ui-monospace, Consolas, monospace; font-size: 12px; color: var(--accent); }
+</style>
+</head>
+<body>
+<div class="app">
+  <h1>Psycology — Analysis Hub</h1>
+  <div class="subtitle">216 WhatsApp contacts · 235,404 messages · generated 2026-07-23</div>
+  
+  <h2>📊 Dashboards</h2>
+  <div class="grid">
+    <a href="relationships_dashboard.html" class="card">
+      <div class="card-icon">📈</div>
+      <div class="card-title">Relationship Dashboard</div>
+      <div class="card-desc">Per-contact 0-100 score with 10 weighted dimensions. Tiered (CLOSE/ACTIVE/WARM/DORMANT/COLD). Sortable, filterable.</div>
+      <div class="card-stats">
+        <span><span class="num">216</span> contacts</span>
+        <span><span class="num">12</span> CLOSE</span>
+        <span><span class="num">61</span> ACTIVE</span>
+      </div>
+    </a>
+    
+    <a href="trends.html" class="card">
+      <div class="card-icon">📉</div>
+      <div class="card-title">Engagement Trends</div>
+      <div class="card-desc">Last 30d vs prior 30d. NEW / RISING / GROWING / STABLE / COOLING / FALLING. Monthly sparklines.</div>
+      <div class="card-stats">
+        <span><span class="num">216</span> contacts</span>
+        <span><span class="num">7</span> NEW</span>
+        <span><span class="num">11</span> FALLING</span>
+      </div>
+    </a>
+    
+    <a href="mood_timeline.html" class="card">
+      <div class="card-icon">💭</div>
+      <div class="card-title">Mood Timelines</div>
+      <div class="card-desc">Per-month sentiment score (-1 to +1) for top 50 contacts. Tracks emotional trajectory. Trend Δ = warming/cooling.</div>
+      <div class="card-stats">
+        <span><span class="num">50</span> contacts</span>
+        <span><span class="num">2+</span> year history</span>
+      </div>
+    </a>
+    
+    <a href="clusters.html" class="card">
+      <div class="card-icon">🔗</div>
+      <div class="card-title">Relationship Clusters</div>
+      <div class="card-desc">Community detection via name cross-references. Greedy union-find with merge threshold. Finds Ivan's close circle.</div>
+      <div class="card-stats">
+        <span><span class="num">208</span> clusters</span>
+        <span><span class="num">9</span> in main cluster</span>
+      </div>
+    </a>
+    
+    <a href="viewer.html" class="card">
+      <div class="card-icon">📋</div>
+      <div class="card-title">Contact Index</div>
+      <div class="card-desc">Searchable table of all 216 contacts with message counts, first/last dates, tiers, last message preview. Loads JSON lazily.</div>
+      <div class="card-stats">
+        <span><span class="num">216</span> contacts</span>
+        <span><span class="num">5.5KB</span> HTML</span>
+      </div>
+    </a>
+    
+    <a href="family_tree.html" class="card">
+      <div class="card-icon">🌳</div>
+      <div class="card-title">Family Tree</div>
+      <div class="card-desc">Verified family relationships. SVG visualization. Color-coded by relation (Mom/Dad/Sibling/etc). Open questions section.</div>
+      <div class="card-stats">
+        <span><span class="num">13</span> family nodes</span>
+        <span><span class="num">3</span> generations</span>
+      </div>
+    </a>
+  </div>
+  
+  <h2>📁 Raw data files</h2>
+  <div class="meta">
+    <code>viewer_full_data.json</code> — 216 contacts × 10 stats each<br>
+    <code>relationships_dashboard.json</code> — scores + breakdowns<br>
+    <code>trends.json</code> — engagement windows per contact<br>
+    <code>mood_timelines.json</code> — per-month sentiment for top 50<br>
+    <code>clusters.json</code> — edges + clusters<br>
+    <code>contacts_vcard_resolved.json</code> — 216 phonebook-verified names<br>
+    <code>contacts_not_saved.json</code> — 882 unmatched chats<br>
+    <code>contacts_not_saved_grouped.json</code> — 882 → 9 categories<br>
+    <code>corpus_stats.json</code> — overall stats (235k msgs)<br>
+  </div>
+  
+  <h2>📚 Documentation</h2>
+  <div class="meta">
+    <code>RELATIONSHIPS_DASHBOARD.md</code> — top-20 + insights<br>
+    <code>docs/identity-corrections/</code> — family identity corrections (KIKI, SASKIA, GEROLD, SASKIA_BROTHER, TONI)<br>
+    <code>RELATIONSHIPS/dynamics/*.md</code> — 198 enriched profiles<br>
+  </div>
+</div>
+</body>
+</html>

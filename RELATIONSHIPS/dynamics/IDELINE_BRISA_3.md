@@ -18,8 +18,9 @@ Avg msg length: Ivan 29 chars, them 19 chars
 Avg reply time: Ivan 1.2h, them 1.1h
 Question ratio: Ivan 14.4%, them 13.9%
 Longest streak: **8** consecutive days · Longest gap: **819** days
-Audio usage: 1.7% voice notes (n/a)
+Audio usage: 1.7% of all messages are voice notes
 Sentiment: Ivan +0.71 (very positive) (pos 6 / neg 1), them +0.14 (positive) (pos 4 / neg 3)
+Mood trend: overall +0.29, recent +0.14, trend Δ -0.63 (-0.63 (cooling))
 
 **They call Ivan:** 'ivan' (1x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan +0.71 (very positive) (pos 6 / neg 1), them +0.14 (positive) (po
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-03-27] Them** (3 emojis): And I want to know if maybe next week we can do something 🤷🏻‍♀️
+- **[2023-03-27] Them** (2 emojis): Cool ! Will definitely tell you if I’m free lol cause yes I’m busy 😕😕  But this W-E should be okay ! Cause got a exam on Thursday…
+- **[2023-02-19] Them** (2 emojis): Do you think you will have the bravery to send a msg to wbb wsu in insta to ask for a jersey ? 😂🤣🫣🫣🫣🫣🫣🫠🫣🫣
+- **[2023-03-04] Them** (1 emojis): Thanks you so much !!! That was nice !! And good to do things with you again cause we were busy these last days and I was missing that 🤗
+- **[2023-03-31] Them** (1 emojis): Looks like you. Ahaha the posture 🤣 https://twitter.com/katieshox/status/1641869552970522628?s=48&t=TLQpreTuxvyHMxwEO4fynA
+
 
 ## Notable messages (auto-extracted)
 

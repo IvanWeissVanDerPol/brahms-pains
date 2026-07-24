@@ -18,8 +18,9 @@ Avg msg length: Ivan 29 chars, them 21 chars
 Avg reply time: Ivan 36m, them 2.3h
 Question ratio: Ivan 15.4%, them 11.5%
 Longest streak: **3** consecutive days · Longest gap: **367** days
-Audio usage: 4.4% voice notes (n/a)
+Audio usage: 4.4% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +0.33 (very positive) (pos 2 / neg 1)
+Mood trend: overall +0.22, recent +0.67, trend Δ +1.00 (+1.00 (warming))
 
 **They call Ivan:** 'ivan' (5x)
 
@@ -40,6 +41,12 @@ Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +0.33 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-04] Ivan** (0 emojis): https://docs.google.com/spreadsheets/d/1QjzzklWavEXT6B9kRRWhBke8sP1B1qwkXxJ_LsYXJgs/edit?usp=sharing
+- **[2025-07-11] Ivan** (0 emojis): Me podes pasar Fotos de estella?  Preparo un fla mientras flyers
+
 
 ## Notable messages (auto-extracted)
 

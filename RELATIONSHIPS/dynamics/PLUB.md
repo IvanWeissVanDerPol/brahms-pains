@@ -18,8 +18,9 @@ Avg msg length: Ivan 53 chars, them 60 chars
 Avg reply time: Ivan 5m, them 1m
 Question ratio: Ivan 21.4%, them 13.3%
 Longest streak: **1** consecutive days · Longest gap: **17** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +0.60 (very positive) (pos 4 / neg 1)
+Mood trend: overall +0.83, recent +0.83, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2024-07-30, Ivan): Buenas  Me pasaron este número para consultar por esta oferta laboral:)
 
@@ -38,6 +39,14 @@ Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +0.60 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-07-30] Ivan** (0 emojis): En base a que piden senior QA  Pero están mencionando más cosas de automation   Que específicamente buscan ?  Una persona para hacer el automation o más para hacer de guía y que otros escriban el automation     Que herramientas usan?  Mencionan varios  Pero estoy más familiarizado con selenium    Y 
+- **[2024-07-30] Them** (0 emojis): Hola Alex! Perdon que recien te responda jajaja estaba consultando para responderte Buscamos personas que tengan experiencía en conceptos de pruebas (ISTQB es importante porque da conceptos como los principios de pruebas, metodos de pruebas, segun lo que se requiera testear optimizando las pruebas a
+- **[2024-07-30] Ivan** (0 emojis): Okis  Te paso a vos la info para aplicar? O mando a alguna parte ?
+- **[2024-08-16] Them** (0 emojis): puedo pasar este numero de whatsapp asi se contactan contigo?
+
 
 ## Notable messages (auto-extracted)
 

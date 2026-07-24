@@ -18,8 +18,9 @@ Avg msg length: Ivan 23 chars, them 19 chars
 Avg reply time: Ivan 31m, them 42m
 Question ratio: Ivan 8.0%, them 11.7%
 Longest streak: **2** consecutive days · Longest gap: **286** days
-Audio usage: 3.6% voice notes (n/a)
+Audio usage: 3.6% of all messages are voice notes
 Sentiment: Ivan +0.50 (very positive) (pos 6 / neg 2), them +0.43 (very positive) (pos 5 / neg 2)
+Mood trend: overall +0.28, recent +1.00, trend Δ +0.67 (+0.67 (warming))
 
 **They call Ivan:** 'ivan' (1x), 'iván' (1x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan +0.50 (very positive) (pos 6 / neg 2), them +0.43 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-26] Ivan** (0 emojis): Maaaaan que putos son esos profes Onda whyyyyyy  Tipo  Sure sirve para que los que hacen random valgan verga Y tengan menos que corregir ellos Pero a los disléxicos que leen 6 como 9  Rip  Y por eso sale mal jsjsksjs
+- **[2022-07-19] Ivan** (0 emojis): Voy a estar probablemente en mi casa ahí pegado a la facu fumando el jueves a eso de las 7/10  X si te surge / sabes de gente que va y es stoner (?
+- **[2026-03-25] Ivan** (0 emojis): Hello   Sabes por si acaso donde comprar remera lila o violeta oscuro  Y pantalón de cuero ?
+- **[2022-06-25] Them** (0 emojis): Holi, estoy usando mi cel pa poner música y no puedo escuchar audios, me escribís? uwu
+- **[2021-12-01] Ivan** (0 emojis): https://www.youtube.com/watch?v=Db1WbTajdCk&ab_channel=SquidwardTennisBalls
+
 
 ## Notable messages (auto-extracted)
 

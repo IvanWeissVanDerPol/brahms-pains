@@ -18,8 +18,9 @@ Avg msg length: Ivan 37 chars, them 30 chars
 Avg reply time: Ivan 18m, them 13m
 Question ratio: Ivan 12.6%, them 11.1%
 Longest streak: **3** consecutive days · Longest gap: **155** days
-Audio usage: 8.3% voice notes (n/a)
+Audio usage: 8.3% of all messages are voice notes
 Sentiment: Ivan -0.14 (slightly negative) (pos 3 / neg 4), them +1.00 (very positive) (pos 1 / neg 0)
+Mood trend: overall +0.14, recent -0.33, trend Δ -0.33 (-0.33 (cooling))
 
 **First message** (2024-01-27, Ivan): Holis Nati  Sabes a qué hora es lo de MM  Tengo entendido que a las 10 es onda ice breakers  Y a las 15 lo de postman
 
@@ -38,6 +39,15 @@ Sentiment: Ivan -0.14 (slightly negative) (pos 3 / neg 4), them +1.00 (very posi
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-09-16] Them** (1 emojis): Bueno, a lo que vine es a saber el chisme  Creo que de MM te pidieron referencias porque "le contrataron a un aparato" 😂
+- **[2025-01-31] Ivan** (0 emojis): 850 usd bi weekly   Onda 11 palos cada mes me llega after transferencia internacional    Pero me fui para ganar experiencia en dev / code /cicd Más que por money  Y def ahora que le muestro al gfe que soy pro le voy a asaltar la billetera jajajaja
+- **[2025-08-31] Ivan** (0 emojis): Holis  Vos seguís en mentormate?  En caso de que si Este es un compa que certificó istqb que le quiere aplicar   X si te estría para el referal code y eso   +595 981 258488
+- **[2024-09-20] Ivan** (0 emojis): Holis  Vos tenes el contacto de anbu (anbuligon ) de RBC?  Le podes avisar que llego tarde :(   Ahora recien me sube el bolt y marca 940  Mi reu es a las 9 30 :(
+- **[2024-09-13] Ivan** (0 emojis): Alv Los otros 2 que hacen ?  Se les aplica afuera con ai?  Fuerza  Suena muy hard
+
 
 ## Notable messages (auto-extracted)
 

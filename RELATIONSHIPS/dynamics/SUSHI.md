@@ -18,8 +18,9 @@ Avg msg length: Ivan 12 chars, them 90 chars
 Avg reply time: Ivan 5s, them 2m
 Question ratio: Ivan 33.3%, them 0.0%
 Longest streak: **1** consecutive days · Longest gap: **0** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negative) (pos 0 / neg 0)
+Mood trend: overall +1.00, recent +1.00, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2026-04-07, Ivan): Hola
 
@@ -38,6 +39,12 @@ Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them 0.00 (slightly negat
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-04-07] Them** (2 emojis): Miercoles a Gs. 95.000.- (Premium) Viernes a Gs. 120.000.- (Sashimi Libre) El resto de la semana a Gs. 120.000.- (Premium) y Sashimi Libre a Gs. 160.000.- Domingos Almuezo Libre a Gs. 120.000.- de 11a 15 hs. ☺️😁
+- **[2026-04-07] Them** (1 emojis): Si disponemos aun de lugar, es por orden de llegada en este horario, el dia de hoy estamos hasta las 23hs ☺️
+
 
 ## Notable messages (auto-extracted)
 

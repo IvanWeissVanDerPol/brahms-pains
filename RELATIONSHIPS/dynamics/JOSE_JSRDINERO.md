@@ -18,8 +18,9 @@ Avg msg length: Ivan 50 chars, them 19 chars
 Avg reply time: Ivan 29m, them 1.4h
 Question ratio: Ivan 31.8%, them 0.0%
 Longest streak: **2** consecutive days · Longest gap: **286** days
-Audio usage: 6.1% voice notes (n/a)
+Audio usage: 6.1% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 2 / neg 0)
+Mood trend: overall +0.17, recent +0.00, trend Δ -0.33 (-0.33 (cooling))
 
 **First message** (2023-10-10, Ivan): Hol Jose   Me dijo Sonia que te interesa hacer trabajos en los condes también   Si te interesa te puedo ofrecer limpiar todo atrás de casa   Onda limpiar los árboles de atras  Poner todos los escombro
 
@@ -38,6 +39,13 @@ Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-10-10] Ivan** (0 emojis): Hol Jose   Me dijo Sonia que te interesa hacer trabajos en los condes también   Si te interesa te puedo ofrecer limpiar todo atrás de casa   Onda limpiar los árboles de atras  Poner todos los escombros y piedras del patio en bolsas / cajas para tirar  Y tapar el pozo que está atrás    La madera que 
+- **[2024-11-28] Ivan** (0 emojis): Hola   Será que podes pasar estos días por casa?   Para ver el lava ropas  Y ver cómo sería para poner los Blindex y cuánto sería por ese trabajo   Ver puertas para la sala y la sala de la lava ropa  Limpiar los aires  Nivelar la lava ropas y seca roppaa para que no vibren tanto   Ver la tubería de 
+- **[2023-11-30] Ivan** (0 emojis): Hay unas maderas que hay que mover y quemar  Pero están llenos de espinas  Jsjsjs  Te gustaría venir quemar todo y arreglar más atrás ?
+
 
 ## Notable messages (auto-extracted)
 

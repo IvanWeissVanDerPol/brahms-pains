@@ -18,8 +18,9 @@ Avg msg length: Ivan 20 chars, them 23 chars
 Avg reply time: Ivan 49m, them 30m
 Question ratio: Ivan 14.2%, them 11.2%
 Longest streak: **4** consecutive days · Longest gap: **210** days
-Audio usage: 4.1% voice notes (n/a)
+Audio usage: 4.1% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 14 / neg 0), them +1.00 (very positive) (pos 9 / neg 0)
+Mood trend: overall +0.53, recent +0.56, trend Δ +0.56 (+0.56 (warming))
 
 **They call Ivan:** 'ivan' (18x), 'iván' (3x), 'loco' (1x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan +1.00 (very positive) (pos 14 / neg 0), them +1.00 (very positiv
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-05-15] Them** (5 emojis): Hi Iván! Espero que hayas tenido un buen trip a Py Te quiero muchísimo 💖 Gracias por ser tan buen amigo, sos re genial ✨ éxitos en todos tus proyectos 💪🏻 cuando quieras hablar o algo yo siempre voy a estar disponible para mis gordis 💖
+- **[2023-01-18] Them** (4 emojis): Hi 🙋🏻‍♀️Ivan vas a dar tutorial de como era lo que mostró Kayla? Xq entre tarde 😭
+- **[2023-10-06] Them** (2 emojis): Jajaja no tranqui que puedas estar nomas el domingo ya es suficiente regalo para gordii 🥰🥹
+- **[2024-04-29] Them** (2 emojis): Okas voy a hincharte entonces, si alvi esta en su chamba, dale vamos a ver 👌🏻
+- **[2023-11-21] Them** (1 emojis): Vos decís que Ale pueda traer 2 esferas de nieve q compre de souvenir que deje allá 🤔?
+
 
 ## Notable messages (auto-extracted)
 

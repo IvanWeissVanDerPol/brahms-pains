@@ -18,8 +18,9 @@ Avg msg length: Ivan 37 chars, them 20 chars
 Avg reply time: Ivan 6m, them 6m
 Question ratio: Ivan 9.8%, them 14.4%
 Longest streak: **3** consecutive days · Longest gap: **347** days
-Audio usage: 4.1% voice notes (n/a)
+Audio usage: 4.1% of all messages are voice notes
 Sentiment: Ivan -0.09 (slightly negative) (pos 5 / neg 6), them +0.14 (positive) (pos 4 / neg 3)
+Mood trend: overall +0.02, recent -0.33, trend Δ -0.78 (-0.78 (cooling))
 
 **They call Ivan:** 'loco' (1x)
 
@@ -40,6 +41,15 @@ Sentiment: Ivan -0.09 (slightly negative) (pos 5 / neg 6), them +0.14 (positive)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2021-10-12] Ivan** (0 emojis): Bien random Pero soy luego random  Básicamente me interesa trabajar para el exterior también  Y esa wea Pero es muy xd hacerse amigo de alguien por algo asi nomas muy hecho puta/manipulador  Asi que hola mario Soy ivan weiss Via tratar de hacerme tu amigo para saber como conseguiste y eso y no se se
+- **[2021-10-12] Ivan** (0 emojis): ahora se estaba quejando por que su hierba no era como el queria todos los que probaron estaban onda  hdp sii pero el pichado por que tuvo semillas por que una planta se volvio hermafrodita por que el ciclo de dia noche estaba mal y por que la planta tenia semillas no se fue el 100% de la energia en
+- **[2021-10-13] Them** (0 emojis): Escriba un script que tome exactamente un argumento, un nombre de directorio, tal que: (a) Si el número de argumentos es diferente de uno, imprima un mensaje de uso. (b) Si el argumento no es un directorio, que imprima un mensaje de error informativo. (c) Para el directorio dado, liste los cinco arc
+- **[2021-10-20] Them** (0 emojis): #!/bin/bash #Script "service.sh" #Probar con: sudo bash service.sh initd INICIAR HParámetros posicionales DEMONIO=$1 #Acciones disponibles: INICIAR, PARAR, REINICIAR ACC=$2 ARCHIVOPID="/proc/run/demonio.pid" start() { DEMONIO=$1 ARCHIVOPID=$2 PID= su -c "nohup SDEMONIO >> /var/log/demonio.log&" SPID
+- **[2021-11-17] Ivan** (0 emojis): a-) if [ -d "/path/dirección" ]; then            echo "/path/dirección. is a valid and existing path" fi  b-)  if [ -d direccion ]; then            echo "es un directorio" elif [ -f direccion ]; then            echo "es un archivo" else            echo "es otro tipo de archivo" fi  ese lo que tengo 
+
 
 ## Notable messages (auto-extracted)
 

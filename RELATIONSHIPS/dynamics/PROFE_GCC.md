@@ -18,8 +18,9 @@ Avg msg length: Ivan 66 chars, them 30 chars
 Avg reply time: Ivan 36m, them 17m
 Question ratio: Ivan 12.7%, them 9.8%
 Longest streak: **3** consecutive days · Longest gap: **848** days
-Audio usage: 8.8% voice notes (n/a)
+Audio usage: 8.8% of all messages are voice notes
 Sentiment: Ivan +0.60 (very positive) (pos 4 / neg 1), them +1.00 (very positive) (pos 9 / neg 0)
+Mood trend: overall +0.50, recent +0.67, trend Δ -0.17 (-0.17 (cooling))
 
 **Ivan calls them:** 'loca' (2x)
 
@@ -42,6 +43,15 @@ Sentiment: Ivan +0.60 (very positive) (pos 4 / neg 1), them +1.00 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-08-07] Ivan** (0 emojis): hola profe  ya que leimos el caso de hospital  imagina en la entrada de los hospitales tenes cameras con motion amplifaction  y medis los pulsos directo de una camera para ir viendo directo al entrar casos mas densos  como paros cardiacos etc  https://www.youtube.com/watch?v=rEoc0YoALt0&t=684s&ab_ch
+- **[2026-04-30] Ivan** (0 emojis): Pero estoy viendo de hacer de modo genérico  Para ofrecer a varios negocios la misma solución    Ejemplo  Pag web de tienda x es lo mismo pretty much en todas las tiendas   Same pag web de servicios    For now mostly hago automations de hacer pag web   Y de deployear   Y todo la funcionalidad que se
+- **[2026-04-30] Ivan** (0 emojis): Similar a eso   En mi pag web la parte de pago  Manda un mensaje a WhatsApp con la lista de items servicios y costo total   No implemente aún fully pago para ni bancard    Mi idea es que el cliente tenga un IA en whatsapp que scrapee el comprobante de WhatsApp y confirme así + verificación en el ban
+- **[2026-05-01] Ivan** (0 emojis): Btw feel free de preguntar a mi IA que son mi Repos  Que tengo prepared etc    Si tenés clientes que necesiten pag web   Puedo hacer en días con IA depending de qué tan denso es su requerimiento   Most son minimal digital presence  Un home page y servicios etc    Mis prices son bs por ahora  Pero so
+- **[2026-04-30] Ivan** (0 emojis): Additional pro tip  Opencode y poner ohmyopencode   Y decirle que reserchee las comunidades y posibles Repos de upgrades a tus frameworks base    Muchísimo mejor que any of us mejora la comunidad  Y un prompt nomás es importar
+
 
 ## Notable messages (auto-extracted)
 

@@ -18,8 +18,9 @@ Avg msg length: Ivan 23 chars, them 40 chars
 Avg reply time: Ivan 23m, them 28m
 Question ratio: Ivan 8.2%, them 6.1%
 Longest streak: **26** consecutive days · Longest gap: **56** days
-Audio usage: 14.9% voice notes (n/a)
+Audio usage: 14.9% of all messages are voice notes
 Sentiment: Ivan +0.59 (very positive) (pos 39 / neg 10), them +0.49 (very positive) (pos 105 / neg 36)
+Mood trend: overall +0.40, recent +0.57, trend Δ +0.18 (+0.18 (warming))
 
 **Ivan calls them:** 'kiki' (20x), 'amor' (2x), 'papá' (1x), 'mama' (1x), 'papa' (1x)
 
@@ -42,6 +43,15 @@ Sentiment: Ivan +0.59 (very positive) (pos 39 / neg 10), them +0.49 (very positi
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-09-02] Ivan** (6 emojis): 🚗 Oferta Laboral – Empresa Automotriz (WTC Asunción)  📌 Puesto: Asistente Administrativo/a 👤 Edad: 26 a 35 años 💰 Salario: Gs. 4.500.000 – 5.000.000 (Bruto) 📍 Lugar: World Trade Center Asunción  Requisitos: Manejo de Excel, Outlook y Word Capacidad para leer y responder e-mails en inglés  📩 Interesa
+- **[2025-08-18] Them** (4 emojis): [8/18, 15:35] Adri 🌸: Holii [8/18, 15:35] Adri 🌸: Le voy a decir a Adrian [8/18, 15:35] Adri 🌸: Porque creo que teníamos algo este sábado pero le pregunto [8/18, 15:36] Adri 🌸: Lo de la feria podría ser pero no se si tengo 100 para la mesa o si voy a vender en una casa bien
+- **[2025-01-16] Them** (4 emojis): Holii Pregunta porque uno tiene *amsiedad* y necesita confirmar Seguro que podemos ir mañana a tu house? Es que viajan el finde y tambien Alvaro no nos conoce tanto  asi que no sea incomodo o algo para él  👉🏼👈🏼
+- **[2026-02-02] Them** (3 emojis): Wey si me mandasteee. Y justo pasó todo el quilombo con mi hermana y que me termine quedando un mes allá. Me re olvidé de leer las cosas que me mandaste😭😭😭perdooon
+- **[2025-02-15] Them** (2 emojis): Me la pase investigating los ovipositores JAJA era mas dificil de encontrar de lo que pensé😭😭 Pero vi otros que no son ovipositores que eran re lindos y me perdi ahi un rato
+
 
 ## Notable messages (auto-extracted)
 

@@ -18,8 +18,9 @@ Avg msg length: Ivan 107 chars, them 41 chars
 Avg reply time: Ivan 3m, them 5m
 Question ratio: Ivan 24.1%, them 1.8%
 Longest streak: **6** consecutive days · Longest gap: **579** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 7 / neg 0), them 0.00 (slightly negative) (pos 3 / neg 3)
+Mood trend: overall -0.15, recent +0.00, trend Δ +0.44 (+0.44 (warming))
 
 **First message** (2023-11-06, Ivan): Hola Óscar  Me paso tu contacto el profesor marcos Villagra   Me interesa la oportunidad de mobile engineer  Que información necesitarías que te pase ?
 
@@ -38,6 +39,15 @@ Sentiment: Ivan +1.00 (very positive) (pos 7 / neg 0), them 0.00 (slightly negat
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-11-06] Ivan** (0 emojis): Si   Experiencia de mobile dev  Tengo en flutter (para la uni) Y me gusta que te deja crear iOS o Android bien fácil   Algoritmos me va bien  Di mucho en la facultad+ suelo ver videos online de eso   Ai/ML apis aún no manejo   Ui/ux no se  Pero se hacer basado en ejemplos  / Pedirle a ai que genere 
+- **[2023-11-06] Ivan** (0 emojis): por el ingles  (hablo de pequeño / estudie en wstados Unidos) basado en que asumo que trabajan para el exterior  vale bastante  pero then again no se mucho de mobile  pero no le veo muy complicado capaz un poco de la integradcion con back end de los apps que quieran hacer  hay mas beneficios aparte 
+- **[2023-11-06] Ivan** (0 emojis): si lgmt  jsjssj pero estaba anlizando onda el min que pediria para cambiar  si es todo igual a la empresa donde estoy ahora jsjsjsj  personalmente  mi idea es cuando me reciba estar trabajando para 1er mundo por dinero basado en average online para el puesto  pero no tengo mucha indo de la empresa p
+- **[2023-12-04] Them** (0 emojis): Sr Machine Learning Engineer (https://wave.willdom.com/public/req/66ce0643-9068-11ee-b69b-3616e6a857ef) Sr GCP DevOps DevOps (https://wave.willdom.com/public/req/fc9f068b-9058-11ee-b69b-3616e6a857ef) Sr Mobile Developer / Android and iOS (https://wave.willdom.com/public/req/f7d9e415-9068-11ee-b69b-3
+- **[2023-12-05] Them** (0 emojis): este es el perfil arquitecto de software orientado a net y react - Amplia experiencia en desarrollo de software y gestión de proyectos. - Experiencia en Backend (Net) y en front Angular o React - Sólido conocimiento de una variedad de herramientas de programación y plataformas de desarrollo. - Excel
+
 
 ## Notable messages (auto-extracted)
 

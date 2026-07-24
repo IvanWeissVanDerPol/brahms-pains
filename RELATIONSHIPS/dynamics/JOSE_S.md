@@ -18,8 +18,9 @@ Avg msg length: Ivan 26 chars, them 48 chars
 Avg reply time: Ivan 1.8h, them 9m
 Question ratio: Ivan 18.2%, them 30.0%
 Longest streak: **2** consecutive days · Longest gap: **145** days
-Audio usage: 15.4% voice notes (n/a)
+Audio usage: 15.4% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive) (pos 1 / neg 0)
+Mood trend: overall +0.33, recent +0.33, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2024-01-04, Them): https://ibkr.com/referral/jose288
 
@@ -38,6 +39,15 @@ Sentiment: Ivan +1.00 (very positive) (pos 1 / neg 0), them +1.00 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-09-20] Them** (3 emojis): QA Engineer (mid-level 3/4 yoe)  ▫Java ▫Selenium or Cypress ▫JUnit, testNG, Postman ▫SQL  💸Up to 4.5k USD  100% remote 🌎Latam Upper-intermediate English 🎮Video game company  Cv and linkedin to veronica.arias@prediktive.com
+- **[2024-08-12] Them** (0 emojis): ¡Te invito a abrir una cuenta en un Banco Suizo! Utilice este código de promoción QWD-3PV y reciba 5 DUK+ siguiendo este enlace: https://www.dukascopy.bank/swiss/open-mca-account/?ref=QWD-3PV&lang=en
+- **[2024-08-10] Ivan** (0 emojis): Holis Puede venir un amigo como plus 1?  Es mi compa de QA de antes que quiere escapar también para que haga networking   Y es también mi compa que le interesa investments:)
+- **[2024-03-07] Them** (0 emojis): Join me and over 40 million users who love Revolut. Sign up with my link below: https://revolut.com/referral/?referral-code=joseol2sf!MAR1-24-VR-IE
+- **[2024-07-30] Them** (0 emojis): https://www.instagram.com/reel/C95ILEZxrvj/?igsh=MTQ3Y2JkZm1oY2Jodw==
+
 
 ## Notable messages (auto-extracted)
 

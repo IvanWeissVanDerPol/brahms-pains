@@ -18,8 +18,9 @@ Avg msg length: Ivan 33 chars, them 28 chars
 Avg reply time: Ivan 49s, them 7m
 Question ratio: Ivan 50.0%, them 0.0%
 Longest streak: **1** consecutive days · Longest gap: **27** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them +0.33 (very positive) (pos 2 / neg 1)
+Mood trend: overall +0.78, recent +0.78, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2024-02-15, Ivan): Buenas
 
@@ -38,6 +39,13 @@ Sentiment: Ivan +1.00 (very positive) (pos 2 / neg 0), them +0.33 (very positive
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-04-01] Them** (4 emojis): Buen día señor.. nos mudamos a Asunción ☺️❣️ muchas gracias por elegirnos 🐖😇
+- **[2024-03-19] Ivan** (0 emojis): perfecto voy en un rato estoy aun en una reu de trabajo  o podria pedir delivery?  vivo en destacamento cazal 1023 cuanto seria por 2 de jamon y queso?
+- **[2024-03-13] Ivan** (0 emojis): Hola tienen empanadas de jamón y queso y de choclo?  Quiero 1 de cada uno :)
+
 
 ## Notable messages (auto-extracted)
 

@@ -18,8 +18,9 @@ Avg msg length: Ivan 17 chars, them 159 chars
 Avg reply time: Ivan 3m, them 2.6h
 Question ratio: Ivan 0.0%, them 10.0%
 Longest streak: **2** consecutive days · Longest gap: **1** days
-Audio usage: 0.0% voice notes (n/a)
+Audio usage: 0.0% of all messages are voice notes
 Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very positive) (pos 4 / neg 0)
+Mood trend: overall +0.75, recent +0.75, trend Δ +0.00 (0.00 (stable))
 
 **First message** (2025-04-24, Them): ✨Gracias por CONTACTAR a BOTICA MAGISTRAL. ✨
 
@@ -38,6 +39,14 @@ Sentiment: Ivan 0.00 (slightly negative) (pos 0 / neg 0), them +1.00 (very posit
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-24] Them** (2 emojis): 1️⃣ SOLICITAR UN PRESUPUESTO 2️⃣ CONSULTAR ESTADO DE UN PRESUPUESTO 3️⃣ RENOVACIÓN DE FÓRMULA 4️⃣ COMUNICARME CON UN AGENTE  Opción no valida 😕, por favor ingresa una opción del menú 🙂
+- **[2025-04-24] Them** (0 emojis): Buenas tardes Estimado Cliente Muchas gracias por aguardar. *Para confirmar el pedido favor indicar:* - Nombre completo del paciente: - Número de C.I. Del paciente: - Este presupuesto es válido por un día- Le informo el detalle de su presupuesto:  *PRESUPUESTO: 5 - 14337 - 0* 250 ML   *TOTAL:* Gs. 2
+- **[2025-04-25] Them** (0 emojis): Pago recibido! Procesamos su pedido, la entrega seria el día de *mañana*en el periodo de *10hs a 13hs*  en el transcurso de ese tiempo le estaría llegando su preparado. 	 Ante dudas o consultas estamos a las ordenes!! Muchas gracias por la preferencia.
+- **[2025-04-24] Them** (0 emojis): 15.000gs seria el costo del envio, le quedaria  bien la entrega el dia sabado en el periodo de 10hs a 13? La factura seria a nombre del paciente? abonaria en efectivo, transferncia o le enviamos pos?
+
 
 ## Notable messages (auto-extracted)
 
