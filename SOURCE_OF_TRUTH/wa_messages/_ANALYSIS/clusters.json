@@ -1,0 +1,473 @@
+{
+ "generated_at": "2026-07-23T22:25:21.390834",
+ "method": "greedy community detection via name cross-references",
+ "merge_threshold": 2,
+ "total_contacts": 216,
+ "total_edges": 12,
+ "total_clusters": 208,
+ "singleton_clusters": 207,
+ "non_singleton_clusters": 1,
+ "largest_cluster_size": 9,
+ "edges": [
+  {
+   "a": "595976538689",
+   "b": "595986361808",
+   "weight": 8,
+   "evidence": [
+    "Laura 🐷 ↔ benja: 8 cross-refs"
+   ]
+  },
+  {
+   "a": "595962291837",
+   "b": "595986361808",
+   "weight": 7,
+   "evidence": [
+    "Defi Not There 4 U ↔ benja: 7 cross-refs"
+   ]
+  },
+  {
+   "a": "595984933862",
+   "b": "595986361808",
+   "weight": 7,
+   "evidence": [
+    "Fidabel Poli ↔ benja: 7 cross-refs"
+   ]
+  },
+  {
+   "a": "595985724135",
+   "b": "595986361808",
+   "weight": 5,
+   "evidence": [
+    "Kiki Weiss Hermana ↔ benja: 5 cross-refs"
+   ]
+  },
+  {
+   "a": "595982515138",
+   "b": "595986361808",
+   "weight": 3,
+   "evidence": [
+    "Sonia Weiss ↔ benja: 3 cross-refs"
+   ]
+  },
+  {
+   "a": "595985725366",
+   "b": "595986361808",
+   "weight": 3,
+   "evidence": [
+    "Luana Weiss ↔ benja: 3 cross-refs"
+   ]
+  },
+  {
+   "a": "595971922708",
+   "b": "595986361808",
+   "weight": 2,
+   "evidence": [
+    "Jonatan Verdún ↔ benja: 2 cross-refs"
+   ]
+  },
+  {
+   "a": "595972130867",
+   "b": "595986361808",
+   "weight": 2,
+   "evidence": [
+    "Alejandro Cabral Poli ↔ benja: 2 cross-refs"
+   ]
+  },
+  {
+   "a": "595981225272",
+   "b": "595986361808",
+   "weight": 1,
+   "evidence": [
+    "Magali Carreras Amiga Fpuna ↔ benja: 1 cross-refs"
+   ]
+  },
+  {
+   "a": "595985725871",
+   "b": "595986361808",
+   "weight": 1,
+   "evidence": [
+    "Saskia Weiss ↔ benja: 1 cross-refs"
+   ]
+  },
+  {
+   "a": "595982553100",
+   "b": "595986361808",
+   "weight": 1,
+   "evidence": [
+    "Maga ↔ benja: 1 cross-refs"
+   ]
+  },
+  {
+   "a": "595985786571",
+   "b": "595986361808",
+   "weight": 1,
+   "evidence": [
+    "Primo Gabriel ↔ benja: 1 cross-refs"
+   ]
+  }
+ ],
+ "clusters": [
+  {
+   "cluster_id": 1,
+   "size": 9,
+   "members": [
+    {
+     "jid": "595971922708",
+     "name": "Jonatan Verdún"
+    },
+    {
+     "jid": "595976538689",
+     "name": "Laura 🐷"
+    },
+    {
+     "jid": "595972130867",
+     "name": "Alejandro Cabral Poli"
+    },
+    {
+     "jid": "595982515138",
+     "name": "Sonia Weiss"
+    },
+    {
+     "jid": "595985724135",
+     "name": "Kiki Weiss Hermana"
+    },
+    {
+     "jid": "595962291837",
+     "name": "Defi Not There 4 U"
+    },
+    {
+     "jid": "595984933862",
+     "name": "Fidabel Poli"
+    },
+    {
+     "jid": "595985725366",
+     "name": "Luana Weiss"
+    },
+    {
+     "jid": "595986361808",
+     "name": "benja"
+    }
+   ],
+   "internal_edges": 37
+  },
+  {
+   "cluster_id": 2,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595981225272",
+     "name": "Magali Carreras Amiga Fpuna"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 3,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595981791823",
+     "name": "Lourdes Youko Kurama"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 4,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595986805654",
+     "name": "Fran"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 5,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595991549029",
+     "name": "Lucía Díaz"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 6,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595981925772",
+     "name": "Emilio Poli"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 7,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595985725871",
+     "name": "Saskia Weiss"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 8,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595985340001",
+     "name": "Sofi Nashe"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 9,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595981868718",
+     "name": "Ara Nuñez Poli"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 10,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595991470829",
+     "name": "Cesar Poli"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 11,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595984160109",
+     "name": "Junior Nazi"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 12,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595985249907",
+     "name": "Adri 🌸"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 13,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595973572212",
+     "name": "Alvaro Llano"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 14,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595986138387",
+     "name": "John"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 15,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595994341668",
+     "name": "Maia"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 16,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595991357332",
+     "name": "Mathias Barrios"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 17,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595982510082",
+     "name": "Cami Maidana"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 18,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595971505289",
+     "name": "Cliente 3d Edgar Fpuna"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 19,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595986464184",
+     "name": "fio"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 20,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595982843645",
+     "name": "Magali Dealer"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 21,
+   "size": 1,
+   "members": [
+    {
+     "jid": "33665298582",
+     "name": "Ideline Brisa <3"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 22,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595976569739",
+     "name": "Rach"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 23,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595986830049",
+     "name": "Génesis"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 24,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595983380156",
+     "name": "=4A=75=61=6E=72=61=20=46=65=72=72=65=69=72=61=20=F0=9F=87=B5=F0=9F=87="
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 25,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595981199223",
+     "name": "Joaquina Ex"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 26,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595986418879",
+     "name": "Lic Sanni Lalla"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 27,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595973757353",
+     "name": "Ivan Varela Compañero "
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 28,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595986129386",
+     "name": "Enrique Sanchez"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 29,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595986868241",
+     "name": "Dayah"
+    }
+   ],
+   "internal_edges": 0
+  },
+  {
+   "cluster_id": 30,
+   "size": 1,
+   "members": [
+    {
+     "jid": "595982553100",
+     "name": "Maga"
+    }
+   ],
+   "internal_edges": 0
+  }
+ ]
+}
