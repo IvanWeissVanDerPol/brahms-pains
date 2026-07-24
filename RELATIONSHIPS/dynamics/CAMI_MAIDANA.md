@@ -12,12 +12,21 @@
 
 Peak months: `2024-03` (157 msgs), `2024-05` (153 msgs), `2024-06` (271 msgs)
 Language mix: es: 338, other: 1086, en: 7, mixed: 1
-Most active: **Friday** at **20:00**
+Most active: **Friday** at **20:00** (evening (18-23))
 Top topics: jajaja (50), hacer (47), https (47), sistema (45), slide (39)
+Avg msg length: Ivan 57 chars, them 36 chars
+Avg reply time: Ivan 37m, them 1.2h
+Question ratio: Ivan 12.9%, them 13.1%
 
 **Ivan calls them:** 'luana' (1x), 'kiki' (1x)
 
 **They call Ivan:** 'loco' (2x)
+
+**First message** (2022-07-19, Ivan): Como aplicó?
+
+**Last from Ivan** (2026-06-12): Me van a atar on stage jaja
+
+**Last from them** (2026-06-17): Feliiiiizzz cummmpleeee tqmmm 🫶🏼
 
 ## Communication stats
 
@@ -30,6 +39,15 @@ Top topics: jajaja (50), hacer (47), https (47), sistema (45), slide (39)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-06-04] Them** (4 emojis): Graciiiiaassss Ivaaaannn 😭❣️❣️❣️ perdón ya dormía a esa hora ayer
+- **[2024-09-28] Ivan** (3 emojis): 📌 *¡Oportunidad laboral!* 🔸️En MentorMate buscamos un o una Junior Quality Engineer en Asunción, con inglés fluido y uno o dos años de experiencia. Más info aquí! 👇
+- **[2025-06-17] Them** (2 emojis): Buen díaaaaa!!! Feliiiiizzz cumpleeee Weisscitooo, que pases súper bien y que sigamos siendo amigos por mucho tiempo 🥰🥳
+- **[2024-06-17] Them** (2 emojis): Feliiiiiiiizzzz cumpleeeeee Weisscitoooo, que pases súper bieeen 🥰🥰
+- **[2024-06-30] Them** (2 emojis): Siq siii podemos estudiar por lo menos 2 días antes esta vez ☝🏻
+
 
 ## Notable messages (auto-extracted)
 

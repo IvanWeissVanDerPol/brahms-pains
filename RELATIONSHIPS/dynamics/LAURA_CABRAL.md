@@ -12,10 +12,19 @@
 
 Peak months: `2024-05` (2 msgs), `2024-08` (2 msgs), `2025-11` (2 msgs)
 Language mix: other: 2, es: 4
-Most active: **Friday** at **20:00**
+Most active: **Friday** at **20:00** (evening (18-23))
 Top topics: gracias (2), https (1), tengo (1), mochila (1), aesthetic (1)
+Avg msg length: Ivan 42 chars, them 13 chars
+Avg reply time: Ivan n/a, them 1.7h
+Question ratio: Ivan 0.0%, them 0.0%
 
 **They call Ivan:** 'ivan' (2x)
+
+**First message** (2024-05-03, Ivan): https://suno.com/song/25e11c7d-3d60-48db-95f2-af555e90e310
+
+**Last from Ivan** (2025-11-08): Amo que aesthetic la foto
+
+**Last from them** (2025-11-08): Gracias Ivan
 
 ## Communication stats
 

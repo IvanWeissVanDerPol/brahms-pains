@@ -12,8 +12,17 @@
 
 Peak months: `2022-07` (2 msgs), `2022-08` (4 msgs), `2022-10` (1 msgs)
 Language mix: other: 19, es: 1
-Most active: **Sunday** at **21:00**
+Most active: **Sunday** at **21:00** (evening (18-23))
 Top topics: concierto (2), avisa (1), vayas (1), tambien (1), quiero (1)
+Avg msg length: Ivan 18 chars, them 8 chars
+Avg reply time: Ivan 8m, them 51m
+Question ratio: Ivan 13.3%, them 20.0%
+
+**First message** (2022-07-15, Ivan): Te ves muy bien
+
+**Last from Ivan** (2026-05-17): Capaz nos vemos again en un concierto random
+
+**Last from them** (2026-05-17): Vos no me viste?
 
 ## Communication stats
 

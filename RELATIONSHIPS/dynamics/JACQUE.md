@@ -12,12 +12,21 @@
 
 Peak months: `2022-08` (14 msgs), `2022-09` (9 msgs), `2023-01` (22 msgs)
 Language mix: es: 27, other: 28
-Most active: **Tuesday** at **13:00**
+Most active: **Tuesday** at **13:00** (afternoon (12-18))
 Top topics: gracias (3), jajaja (2), podés (2), tengo (2), recién (2)
+Avg msg length: Ivan 16 chars, them 25 chars
+Avg reply time: Ivan 14m, them 7m
+Question ratio: Ivan 18.8%, them 17.9%
 
 **Ivan calls them:** 'kiki' (1x)
 
 **They call Ivan:** 'iván' (5x)
+
+**First message** (2022-08-29, Them): Hola Iván!
+
+**Last from Ivan** (2025-08-31): https://youtu.be/tQwVKr8rCYw
+
+**Last from them** (2025-08-31): Jajajajajajjajaja
 
 ## Communication stats
 

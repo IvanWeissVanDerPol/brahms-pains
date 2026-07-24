@@ -12,10 +12,19 @@
 
 Peak months: `2025-06` (5 msgs), `2025-08` (1 msgs)
 Language mix: other: 2, es: 4
-Most active: **Tuesday** at **17:00**
+Most active: **Tuesday** at **17:00** (afternoon (12-18))
 Top topics: fiorella (2), saluda (2), insignia (2), cualquier (2), consulta (2)
+Avg msg length: Ivan 7 chars, them 54 chars
+Avg reply time: Ivan 3m, them 6s
+Question ratio: Ivan 0.0%, them 0.0%
 
 **They call Ivan:** 'ivan' (3x)
+
+**First message** (2025-06-24, Them): Buen dia Ivan!
+
+**Last from Ivan** (2025-06-24): Gracias
+
+**Last from them** (2025-08-04): Hola Ivan! Fiorella te saluda de Insignia, cualquier consulta a las ordenes!
 
 ## Communication stats
 
@@ -28,6 +37,11 @@ Top topics: fiorella (2), saluda (2), insignia (2), cualquier (2), consulta (2)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-08-04] Them** (0 emojis): Hola Ivan! Fiorella te saluda de Insignia, cualquier consulta a las ordenes!
+
 
 ## Notable messages (auto-extracted)
 

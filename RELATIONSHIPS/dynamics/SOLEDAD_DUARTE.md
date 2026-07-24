@@ -12,8 +12,17 @@
 
 Peak months: `2024-04` (8 msgs)
 Language mix: es: 3, other: 5
-Most active: **Tuesday** at **16:00**
+Most active: **Tuesday** at **16:00** (afternoon (12-18))
 Top topics: número (2), weiss (1), estoy (1), teniendo (1), problemas (1)
+Avg msg length: Ivan 26 chars, them 39 chars
+Avg reply time: Ivan 31s, them 3m
+Question ratio: Ivan 20.0%, them 0.0%
+
+**First message** (2024-04-23, Ivan): Hola Sole Soy Iván Weiss   Estoy teniendo problemas con mi laptop:(  No tengo WiFi
+
+**Last from Ivan** (2024-04-23): Te mando :)
+
+**Last from them** (2024-04-23): Y el otro es el corporativo de la empresa
 
 ## Communication stats
 

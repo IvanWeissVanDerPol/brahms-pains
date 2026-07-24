@@ -12,8 +12,17 @@
 
 Peak months: `2025-04` (3 msgs), `2025-06` (7 msgs), `2025-09` (3 msgs)
 Language mix: es: 41, other: 74, en: 2
-Most active: **Tuesday** at **23:00**
+Most active: **Tuesday** at **23:00** (night (23-6))
 Top topics: https (6), vegan (6), tiene (5), jsjsjs (4), estoy (4)
+Avg msg length: Ivan 72 chars, them 28 chars
+Avg reply time: Ivan 55s, them 25s
+Question ratio: Ivan 8.7%, them 4.2%
+
+**First message** (2025-04-20, Ivan): me acorde un fla xq estaba hablando de istqb con un compa   y me recorde que tenia que mandarte  https://bancontinental.udemy.com/course/istqb-foundation-level-spanish/  Dirección https://bancontinent
+
+**Last from Ivan** (2026-01-27): jajsajs chill me autisteo de mis repos nomas
+
+**Last from them** (2026-01-27): Me pasa igual pero con otros temas
 
 ## Communication stats
 
@@ -26,6 +35,14 @@ Top topics: https (6), vegan (6), tiene (5), jsjsjs (4), estoy (4)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-20] Ivan** (0 emojis): me acorde un fla xq estaba hablando de istqb con un compa   y me recorde que tenia que mandarte  https://bancontinental.udemy.com/course/istqb-foundation-level-spanish/  Dirección https://bancontinental.udemy.com/organization/home/   Credenciales: usuario: benjamin.leguizamon@bancontinental.com.py c
+- **[2026-01-27] Ivan** (0 emojis): para mi psico estoy haciendo un deep analisis de todos mis audios therapy time de todos mis chats de whatsapp  y todos mis textos con amis  + mis own therapytime con ia    + ciclos de preguntas que respondo (pre responididas y edito para escribir menos)   y preparar reportes y deep analisis y opinio
+- **[2026-01-27] Ivan** (0 emojis): en todas partes es 1 qlo la existencia   def money simplifica mucho los estresses en caso de que quedes por py onda psicologo de Europa chill tiene servicio de home delivery de compras vegan de todos los lugares hiden e py   pero igual def takes time para que llegue todo los productos vegan y mas de
+- **[2026-01-27] Ivan** (0 emojis): https://docs.google.com/document/d/1oTI2SbJbC39dlPPUsUQh9fNydvY8jNNf/edit?usp=sharing&ouid=115456530499767121105&rtpof=true&sd=true
+
 
 ## Notable messages (auto-extracted)
 

@@ -12,10 +12,19 @@
 
 Peak months: `2022-07` (1 msgs), `2022-08` (22 msgs), `2022-09` (2 msgs)
 Language mix: other: 33, es: 8, en: 1
-Most active: **Wednesday** at **3:00**
+Most active: **Wednesday** at **3:00** (night (23-6))
 Top topics: https (2), youtube (1), watch (1), iilluminaughtii (1), ivaaan (1)
+Avg msg length: Ivan 21 chars, them 12 chars
+Avg reply time: Ivan 2.2h, them 2.1h
+Question ratio: Ivan 6.2%, them 0.0%
 
 **Ivan calls them:** 'reina' (1x)
+
+**First message** (2022-07-21, Ivan): https://www.youtube.com/watch?v=EYXO2tXbVWM&ab_channel=iilluminaughtii
+
+**Last from Ivan** (2026-05-24): https://reina-de-copas.paragu-ai.com/  holis ya esta live y lindo la pag :)
+
+**Last from them** (2024-11-23): 😂😂😂😂😂
 
 ## Communication stats
 
@@ -28,6 +37,11 @@ Top topics: https (2), youtube (1), watch (1), iilluminaughtii (1), ivaaan (1)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-21] Ivan** (0 emojis): https://www.youtube.com/watch?v=EYXO2tXbVWM&ab_channel=iilluminaughtii
+
 
 ## Notable messages (auto-extracted)
 

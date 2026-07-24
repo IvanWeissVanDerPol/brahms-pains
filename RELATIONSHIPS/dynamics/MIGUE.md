@@ -12,10 +12,19 @@
 
 Peak months: `2025-03` (31 msgs), `2025-04` (24 msgs), `2025-05` (18 msgs)
 Language mix: es: 70, other: 78
-Most active: **Friday** at **14:00**
+Most active: **Friday** at **14:00** (afternoon (12-18))
 Top topics: gracias (35), poder (23), mañana (19), avísame (16), porfa (10)
+Avg msg length: Ivan 31 chars, them 36 chars
+Avg reply time: Ivan 1.8h, them 1.7h
+Question ratio: Ivan 13.1%, them 21.8%
 
 **They call Ivan:** 'ivan' (22x), 'iván' (3x)
+
+**First message** (2025-02-26, Them): Hola Ivan que tal? Migue soy la masajista de padres
+
+**Last from Ivan** (2025-10-09): Re muchísimas gracias por los masajes
+
+**Last from them** (2026-01-27): Me avisas cuando quieren un masaje de vuelta si
 
 ## Communication stats
 
@@ -28,6 +37,15 @@ Top topics: gracias (35), poder (23), mañana (19), avísame (16), porfa (10)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-07-26] Them** (2 emojis): Dale está bien te escribo la próxima semana  Que te mejores pronto 💪🏻
+- **[2025-06-05] Them** (2 emojis): Dale tranqui que tengan buen viaje y nos vemos a la vuelta 🙌🏻
+- **[2025-03-17] Them** (0 emojis): Hola Ivan que tal? Consulta ustedes van a querer una vez por semana masaje o de vez en cuando avísame para poder organizarme porfis gracias
+- **[2025-03-17] Ivan** (0 emojis): hola sii  te queda bien cada 2 o 3 semanas? sabado o domingo?  entre semana lau va a tener pasantia ahora y no va a poder entre semana :(
+- **[2025-07-17] Ivan** (0 emojis): Hola sera que Podemos pasar para El prox finde?  Este finde Lau no va a poder   Viernes tampoco:(  Estamos todos en El trabajo
+
 
 ## Notable messages (auto-extracted)
 

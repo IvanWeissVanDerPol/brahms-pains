@@ -12,12 +12,21 @@
 
 Peak months: `2021-11` (601 msgs), `2021-12` (538 msgs), `2022-02` (451 msgs)
 Language mix: other: 5603, es: 1702, en: 81, mixed: 6
-Most active: **Monday** at **23:00**
+Most active: **Monday** at **23:00** (afternoon (12-18))
 Top topics: estoy (182), https (153), hacer (132), ahora (123), tengo (107)
+Avg msg length: Ivan 32 chars, them 21 chars
+Avg reply time: Ivan 39m, them 24m
+Question ratio: Ivan 13.1%, them 5.5%
 
 **Ivan calls them:** 'loca' (4x), 'kiki' (3x), 'amor' (3x), 'mamá' (2x), 'loco' (1x)
 
 **They call Ivan:** 'ivan' (82x), 'loco' (4x), 'iván' (3x), 'loca' (1x), 'amor' (1x)
+
+**First message** (2021-10-29, Ivan): holis me podes pasar tus respuestas de la actividad de fisica ?
+
+**Last from Ivan** (2026-07-13): te va a ser hot
+
+**Last from them** (2026-06-25): Ja u
 
 ## Communication stats
 
@@ -30,6 +39,15 @@ Top topics: estoy (182), https (153), hacer (132), ahora (123), tengo (107)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-14] Them** (24 emojis): *¡Expone tus conocimientos!*😼🧪💡  Anímate a este desafío y viaja con nosotros a Misiones para la Feria de Ciencias y Tecnología de Dirección de investigación Científica y Tecnológica el 22 de Julio de 2022.😍🦾💙  Si sos de: -IEN♻️ -IEL⚡ -IEK🧮 -IAE🛩️ -ISP⚙️ -IIN🖥️ -ICM🫧 -LCIK💻 -LEL💡  Prepará junto a tu 
+- **[2025-03-19] Them** (14 emojis): los hombres tambien podemos estar tristes? [9:33 a.m., 19/3/2025] Fran: Jessi siempre me pregunte que hice para que te enojes conmigo 🤔 paso mucho tiempo y encontre tu contacto [9:37 a.m., 19/3/2025] Fran: Eramos re buenos amigos y un día de repente ya no estabas [9:41 a.m., 19/3/2025] Jessica Rojas
+- **[2021-12-25] Them** (8 emojis): 🤣🤣🤩🤩🎊🥳 que lo pasen super bien! Y abrazo desde la distancia 🤩🤩
+- **[2023-09-18] Ivan** (5 emojis): ¡Buenos días a todos! ☀️ para quienes no quieran perder la práctica del idioma 🇺🇸 está vigente esta oportunidad, al ser miembros del programa Give Back el Comité y el Instituto le otorgan el beneficio de media beca ⚠️🎓📚🎒
+- **[2024-03-29] Them** (5 emojis): Que tal Ivan! Me bancas hasta las 8 para ver algo del trabajo antes 🥺🙏🏼🙏🏼
+
 
 ## Notable messages (auto-extracted)
 

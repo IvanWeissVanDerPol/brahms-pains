@@ -12,8 +12,17 @@
 
 Peak months: `2024-08` (11 msgs)
 Language mix: other: 9, es: 2
-Most active: **Tuesday** at **17:00**
+Most active: **Tuesday** at **17:00** (afternoon (12-18))
 Top topics: buenas (2), hacen (1), delivery (1), quiero (1), comprar (1)
+Avg msg length: Ivan 20 chars, them 16 chars
+Avg reply time: Ivan 54s, them 11m
+Question ratio: Ivan 60.0%, them 0.0%
+
+**First message** (2024-08-06, Ivan): Buenas hacen delivery?
+
+**Last from Ivan** (2024-08-07): Tiene thc y cbd esto? Me interesa
+
+**Last from them** (2024-08-07): buenas tardes es a base de cbd
 
 ## Communication stats
 

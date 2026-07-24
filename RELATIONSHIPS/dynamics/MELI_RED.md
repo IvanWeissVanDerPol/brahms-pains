@@ -12,8 +12,15 @@
 
 Peak months: `2025-04` (3 msgs)
 Language mix: es: 1, other: 2
-Most active: **Friday** at **0:00**
+Most active: **Friday** at **0:00** (night (23-6))
 Top topics: número (1)
+Avg msg length: Ivan 8 chars, them 0 chars
+Avg reply time: Ivan n/a, them n/a
+Question ratio: Ivan 33.3%, them 0.0%
+
+**First message** (2025-04-25, Ivan): Hola
+
+**Last from Ivan** (2025-04-25): Esta bien el número?
 
 ## Communication stats
 

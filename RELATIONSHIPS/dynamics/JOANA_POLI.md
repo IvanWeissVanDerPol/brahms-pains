@@ -12,8 +12,15 @@
 
 Peak months: `2024-06` (7 msgs)
 Language mix: other: 6, es: 1
-Most active: **Saturday** at **1:00**
+Most active: **Saturday** at **1:00** (night (23-6))
 Top topics: holaaa (1), genial (1), nomás (1), hacer (1), graciaaaas (1)
+Avg msg length: Ivan 0 chars, them 14 chars
+Avg reply time: Ivan n/a, them 2m
+Question ratio: Ivan 0.0%, them 20.0%
+
+**First message** (2024-06-22, Them): Holaaa
+
+**Last from them** (2024-06-22): Graciaaaas
 
 ## Communication stats
 

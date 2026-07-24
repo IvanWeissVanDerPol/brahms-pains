@@ -12,12 +12,21 @@
 
 Peak months: `2021-03` (118 msgs), `2021-07` (220 msgs), `2021-12` (110 msgs)
 Language mix: other: 2352, es: 407, en: 26, mixed: 3
-Most active: **Saturday** at **17:00**
+Most active: **Saturday** at **17:00** (evening (18-23))
 Top topics: https (148), hacer (41), ahora (41), podes (35), tengo (35)
+Avg msg length: Ivan 28 chars, them 18 chars
+Avg reply time: Ivan 55m, them 1.3h
+Question ratio: Ivan 10.2%, them 6.2%
 
 **Ivan calls them:** 'luana' (12x), 'kiki' (7x), 'papa' (3x), 'saskia' (2x), 'mamá' (1x)
 
 **They call Ivan:** 'iván' (1x)
+
+**First message** (2020-10-05, Ivan): https://www.beneficiosbbva.com.py/experience/?categoria=6
+
+**Last from Ivan** (2026-07-09): Y pedirle que investigue en la comunidad de lo que sea relevante para lo que hagas como upgradearse para eso
+
+**Last from them** (2026-07-09): osea tengo todas mis fuentes, es mas para que me ayude a escribir
 
 ## Communication stats
 
@@ -30,6 +39,15 @@ Top topics: https (148), hacer (41), ahora (41), podes (35), tengo (35)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-06-26] Ivan** (10 emojis): # Guía completa para Luana — Activar nexaparaguay.com.py  ## Resumen en una línea  Tienes que entrar a NIC.py y cambiar 2 nombres de servidor (los que dicen `pendiente`) por 2 que te paso abajo. Listo. Toma 2 minutos.  ---  ## Lo que ya está hecho (no tienes que tocar esto)  | Paso | Estado | |---|-
+- **[2025-09-02] Ivan** (6 emojis): 🚗 Oferta Laboral – Empresa Automotriz (WTC Asunción)  📌 Puesto: Asistente Administrativo/a 👤 Edad: 26 a 35 años 💰 Salario: Gs. 4.500.000 – 5.000.000 (Bruto) 📍 Lugar: World Trade Center Asunción  Requisitos: Manejo de Excel, Outlook y Word Capacidad para leer y responder e-mails en inglés  📩 Interesa
+- **[2024-07-07] Them** (5 emojis): ¡Hola!✌️ Este es mi alias para que puedas enviarme dinero de una forma mucho más fácil y sencilla. 🤩📲  🟢 CI 5897568   Desde ahora sólo tendrás que ingresar ese dato para realizarme una transferencia.  ¿Querés sumarte a esta nueva tendencia? Descargá Ueno y descubrí una nueva forma de recibir tu dine
+- **[2022-09-10] Ivan** (4 emojis): La vez pasada le puse a Renny al lado de nyx dormida y estaban así 🖤🖤🖤🖤
+- **[2021-01-07] Ivan** (2 emojis): Here’s a playlist for you… Homeoffice Lofi💻 2021 | Work from Home with Lo-fi Beats for productivity📈 by Pedro Augusto Lima https://open.spotify.com/playlist/2WyqBgmkLazcwuzXAeLv1f?si=NGacFC2ASAe68joOIk9fPw
+
 
 ## Notable messages (auto-extracted)
 

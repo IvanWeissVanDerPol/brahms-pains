@@ -12,8 +12,17 @@
 
 Peak months: `2022-09` (9 msgs)
 Language mix: other: 7, es: 2
-Most active: **Friday** at **20:00**
+Most active: **Friday** at **20:00** (evening (18-23))
 Top topics: buenas (2), tardes (2), abierto (1), necesito (1), hacer (1)
+Avg msg length: Ivan 21 chars, them 51 chars
+Avg reply time: Ivan 2m, them 6m
+Question ratio: Ivan 42.9%, them 0.0%
+
+**First message** (2022-09-30, Ivan): Buenas tardes
+
+**Last from Ivan** (2022-09-30): Me fijo gracias
+
+**Last from them** (2022-09-30): Sobre la avenida Eusebio Ayala al lado de importadora Santa Elena
 
 ## Communication stats
 

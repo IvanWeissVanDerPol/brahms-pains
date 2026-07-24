@@ -12,8 +12,17 @@
 
 Peak months: `2023-08` (5 msgs)
 Language mix: es: 1, other: 4
-Most active: **Friday** at **19:00**
+Most active: **Friday** at **19:00** (evening (18-23))
 Top topics: consulta (1), técnica (1), furro (1)
+Avg msg length: Ivan 2 chars, them 16 chars
+Avg reply time: Ivan 9m, them 14s
+Question ratio: Ivan 0.0%, them 25.0%
+
+**First message** (2023-08-18, Them): Es mio, solo que no fui a tu casa
+
+**Last from Ivan** (2023-08-18): Xd
+
+**Last from them** (2023-08-18): Vos sos furro?
 
 ## Communication stats
 

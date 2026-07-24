@@ -12,8 +12,15 @@
 
 Peak months: `2025-08` (3 msgs)
 Language mix: es: 1, other: 2
-Most active: **Monday** at **3:00**
+Most active: **Monday** at **3:00** (night (23-6))
 Top topics: https (1), locanto (1), sanlorenzo (1), putita (1), mujer (1)
+Avg msg length: Ivan 43 chars, them 0 chars
+Avg reply time: Ivan n/a, them n/a
+Question ratio: Ivan 66.7%, them 0.0%
+
+**First message** (2025-08-04, Ivan): Hola qué tal?
+
+**Last from Ivan** (2025-08-04): Esta bien el número?
 
 ## Communication stats
 

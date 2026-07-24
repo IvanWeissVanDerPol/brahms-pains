@@ -12,10 +12,19 @@
 
 Peak months: `2022-07` (5 msgs), `2023-06` (8 msgs)
 Language mix: other: 7, es: 6
-Most active: **Thursday** at **21:00**
+Most active: **Thursday** at **21:00** (evening (18-23))
 Top topics: proyecto (2), python (2), buscar (2), sándwich (1), milanesa (1)
+Avg msg length: Ivan 43 chars, them 44 chars
+Avg reply time: Ivan 39m, them 19s
+Question ratio: Ivan 0.0%, them 28.6%
 
 **They call Ivan:** 'ivan' (2x)
+
+**First message** (2022-07-29, Them): Dejé un sándwich de milanesa en la heladera
+
+**Last from Ivan** (2023-06-15): okis
+
+**Last from them** (2023-06-15): Avisame cuando tengas, gracias Ivan
 
 ## Communication stats
 
@@ -28,6 +37,12 @@ Top topics: proyecto (2), python (2), buscar (2), sándwich (1), milanesa (1)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-15] Them** (0 emojis): hola Ivan, quétal? me estan preguntando por tu proyecto de python
+- **[2023-06-15] Them** (0 emojis): llegaste a alzar en algun lado? el proyecto de python con ebase?
+
 
 ## Notable messages (auto-extracted)
 

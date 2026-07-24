@@ -12,8 +12,17 @@
 
 Peak months: `2024-02` (9 msgs), `2024-03` (25 msgs), `2024-04` (5 msgs)
 Language mix: other: 26, es: 13
-Most active: **Tuesday** at **15:00**
+Most active: **Tuesday** at **15:00** (afternoon (12-18))
 Top topics: jamón (10), buenas (6), carne (6), queso (6), señor (6)
+Avg msg length: Ivan 33 chars, them 28 chars
+Avg reply time: Ivan 49s, them 7m
+Question ratio: Ivan 50.0%, them 0.0%
+
+**First message** (2024-02-15, Ivan): Buenas
+
+**Last from Ivan** (2024-04-01): Espero que les vaya bien :)
+
+**Last from them** (2024-04-01): Muchas gracias señor .. de por ahí nos volvemos a ver❣️😇
 
 ## Communication stats
 
@@ -26,6 +35,13 @@ Top topics: jamón (10), buenas (6), carne (6), queso (6), señor (6)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-04-01] Them** (4 emojis): Buen día señor.. nos mudamos a Asunción ☺️❣️ muchas gracias por elegirnos 🐖😇
+- **[2024-03-19] Ivan** (0 emojis): perfecto voy en un rato estoy aun en una reu de trabajo  o podria pedir delivery?  vivo en destacamento cazal 1023 cuanto seria por 2 de jamon y queso?
+- **[2024-03-13] Ivan** (0 emojis): Hola tienen empanadas de jamón y queso y de choclo?  Quiero 1 de cada uno :)
+
 
 ## Notable messages (auto-extracted)
 

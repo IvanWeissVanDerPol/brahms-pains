@@ -12,8 +12,17 @@
 
 Peak months: `2023-07` (3 msgs), `2023-10` (35 msgs), `2023-11` (10 msgs)
 Language mix: other: 63, es: 16
-Most active: **Friday** at **15:00**
+Most active: **Friday** at **15:00** (afternoon (12-18))
 Top topics: tengo (8), estoy (5), filamento (3), estás (3), señor (2)
+Avg msg length: Ivan 13 chars, them 20 chars
+Avg reply time: Ivan 22m, them 21m
+Question ratio: Ivan 17.2%, them 24.0%
+
+**First message** (2023-07-08, Ivan): Holis
+
+**Last from Ivan** (2024-02-17): Voy
+
+**Last from them** (2024-02-17): Estoy afuera
 
 ## Communication stats
 

@@ -12,10 +12,19 @@
 
 Peak months: `2025-09` (9 msgs), `2025-11` (7 msgs), `2026-04` (4 msgs)
 Language mix: es: 10, other: 10
-Most active: **Thursday** at **14:00**
+Most active: **Thursday** at **14:00** (afternoon (12-18))
 Top topics: sábado (3), podes (3), gracias (2), pasar (2), mañana (2)
+Avg msg length: Ivan 27 chars, them 38 chars
+Avg reply time: Ivan 29m, them 59m
+Question ratio: Ivan 30.0%, them 20.0%
 
 **They call Ivan:** 'ivan' (1x)
+
+**First message** (2025-09-11, Them): Hola espero que te  encuentres bien la Señora Sonia me llamo para limpiarte la casa y el sábado pasado me fui
+
+**Last from Ivan** (2026-04-06): Será que podes pasar el sábado porfa :)
+
+**Last from them** (2026-04-06): Sii claro sin problemas
 
 ## Communication stats
 

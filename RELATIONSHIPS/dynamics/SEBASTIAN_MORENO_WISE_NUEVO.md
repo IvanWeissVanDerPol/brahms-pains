@@ -12,8 +12,17 @@
 
 Peak months: `2024-01` (7 msgs)
 Language mix: es: 4, other: 3
-Most active: **Thursday** at **16:00**
+Most active: **Thursday** at **16:00** (afternoon (12-18))
 Top topics: profe (2), estoy (2), recursos (2), sebastián (1), weiss (1)
+Avg msg length: Ivan 272 chars, them 43 chars
+Avg reply time: Ivan 2.9h, them 2.8h
+Question ratio: Ivan 100.0%, them 0.0%
+
+**First message** (2024-01-04, Ivan): Hola Sebastián  Soy Iván Weiss  Me paso tu número el profe copo Cabanellas   Estoy buscando aprender más sobre cómo ahorrar / invertír y hacer que mi dinero crezca   Pero la mayoría de los recursos qu
+
+**Last from Ivan** (2024-01-04): Que incluiría la mentira? Tenés más referencias?  Seria orientado más a gente que se mantiene en LATAM o más onda nómada digital ?  Mi contexto es que un profe de la facu me comentó que sabías algo de
+
+**Last from them** (2024-01-04): Después te recomendaría canales de youtube que refieran a ict o trading institucional
 
 ## Communication stats
 
@@ -26,6 +35,12 @@ Top topics: profe (2), estoy (2), recursos (2), sebastián (1), weiss (1)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-01-04] Ivan** (0 emojis): Hola Sebastián  Soy Iván Weiss  Me paso tu número el profe copo Cabanellas   Estoy buscando aprender más sobre cómo ahorrar / invertír y hacer que mi dinero crezca   Pero la mayoría de los recursos que encuentro son para personas que viven en primer mundo   Conoce por si acaso algun sitio web que po
+- **[2024-01-04] Ivan** (0 emojis): Que incluiría la mentira? Tenés más referencias?  Seria orientado más a gente que se mantiene en LATAM o más onda nómada digital ?  Mi contexto es que un profe de la facu me comentó que sabías algo del tema
+
 
 ## Notable messages (auto-extracted)
 

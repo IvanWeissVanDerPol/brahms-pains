@@ -12,8 +12,17 @@
 
 Peak months: `2023-11` (11 msgs)
 Language mix: other: 10, es: 1
-Most active: **Monday** at **13:00**
+Most active: **Monday** at **13:00** (afternoon (12-18))
 Top topics: happy (1), birthday (1), notifico (1), google (1), calendar (1)
+Avg msg length: Ivan 32 chars, them 9 chars
+Avg reply time: Ivan 1m, them 28s
+Question ratio: Ivan 16.7%, them 20.0%
+
+**First message** (2023-11-20, Ivan): Happy birthday
+
+**Last from Ivan** (2023-11-20): Mood jajwjqjw
+
+**Last from them** (2023-11-20): Ok
 
 ## Communication stats
 

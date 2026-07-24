@@ -12,8 +12,17 @@
 
 Peak months: `2024-04` (1 msgs), `2024-05` (11 msgs)
 Language mix: other: 7, es: 5
-Most active: **Thursday** at **15:00**
+Most active: **Thursday** at **15:00** (afternoon (12-18))
 Top topics: podrias (3), favor (3), transferencia (2), pasar (2), martes (1)
+Avg msg length: Ivan 28 chars, them 38 chars
+Avg reply time: Ivan 10s, them 23m
+Question ratio: Ivan 20.0%, them 0.0%
+
+**First message** (2024-05-02, Them): Buen dia
+
+**Last from Ivan** (2024-05-02): Veo de pasar cuando esté por sanlo otravez    Estoy por Oviedo ahora :(
+
+**Last from them** (2024-05-02): Podrias ponerle los puntitos al S.R.L por favor puede que sea por eso
 
 ## Communication stats
 

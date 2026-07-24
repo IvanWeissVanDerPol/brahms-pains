@@ -12,8 +12,17 @@
 
 Peak months: `2023-10` (15 msgs)
 Language mix: es: 7, other: 8
-Most active: **Friday** at **0:00**
+Most active: **Friday** at **0:00** (night (23-6))
 Top topics: tengo (3), profe (3), hacer (2), suele (2), flutter (2)
+Avg msg length: Ivan 58 chars, them 28 chars
+Avg reply time: Ivan 12s, them 3m
+Question ratio: Ivan 14.3%, them 0.0%
+
+**First message** (2023-10-13, Ivan): hola tengo una consulta random  tenes por si acaso aun el enunciado de las tareas de front end? odna los trabajos practicos?  quiero hacer ya  el profe no habilito aun  pero me gustaria adelantar asi 
+
+**Last from Ivan** (2023-10-13): nice  ya tengo escusa para aprender flutter 😎
+
+**Last from them** (2023-10-13): Jajjsjaj conel .git y todo te pasé
 
 ## Communication stats
 
@@ -26,6 +35,11 @@ Top topics: tengo (3), profe (3), hacer (2), suele (2), flutter (2)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-10-13] Ivan** (0 emojis): hola tengo una consulta random  tenes por si acaso aun el enunciado de las tareas de front end? odna los trabajos practicos?  quiero hacer ya  el profe no habilito aun  pero me gustaria adelantar asi cuando tenga mas trabajo no tengo que hacer esto a la vez :)
+
 
 ## Notable messages (auto-extracted)
 

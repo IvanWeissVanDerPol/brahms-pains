@@ -12,8 +12,17 @@
 
 Peak months: `2023-09` (47 msgs), `2024-04` (5 msgs), `2024-10` (6 msgs)
 Language mix: other: 71, es: 18
-Most active: **Monday** at **1:00**
+Most active: **Monday** at **1:00** (night (23-6))
 Top topics: sabores (9), pistacho (8), pedido (6), ubicación (6), producto (5)
+Avg msg length: Ivan 27 chars, them 47 chars
+Avg reply time: Ivan 1m, them 1m
+Question ratio: Ivan 23.5%, them 18.4%
+
+**First message** (2023-09-17, Ivan): Buenas a cuánto me hacen delivery hasta acá ?
+
+**Last from Ivan** (2025-12-10): Va
+
+**Last from them** (2025-12-10): Y en 10min ya puede pasar
 
 ## Communication stats
 
@@ -26,6 +35,15 @@ Top topics: sabores (9), pistacho (8), pedido (6), ubicación (6), producto (5)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-17] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-04-15] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-10-06] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2025-12-10] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2023-09-17] Ivan** (0 emojis): Cuanto sería así 1 Kg con delivery?   Te puedo pagar por transferencia?/ o por qr?
+
 
 ## Notable messages (auto-extracted)
 

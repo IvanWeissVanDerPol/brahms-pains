@@ -12,8 +12,17 @@
 
 Peak months: `2023-06` (21 msgs)
 Language mix: es: 10, other: 11
-Most active: **Tuesday** at **14:00**
+Most active: **Tuesday** at **14:00** (afternoon (12-18))
 Top topics: podemos (3), gracias (2), horario (2), puedo (2), hemograma (2)
+Avg msg length: Ivan 21 chars, them 32 chars
+Avg reply time: Ivan 25s, them 10s
+Question ratio: Ivan 50.0%, them 7.7%
+
+**First message** (2023-06-27, Ivan): Buenas  Hacen por si acaso castración de perras ?
+
+**Last from Ivan** (2023-06-27): Veo un fla con mi fam como hacemos
+
+**Last from them** (2023-06-27): Porque estoy fuera ahora
 
 ## Communication stats
 
@@ -26,6 +35,12 @@ Top topics: podemos (3), gracias (2), horario (2), puedo (2), hemograma (2)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-27] Them** (3 emojis): Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible. Horario de atención de 08:30 a 17:00 hs 🐶🐱❤️
+- **[2023-06-27] Them** (0 emojis): Gracias por comunicarte con Vida Animal. ¿Cómo podemos ayudarte?
+
 
 ## Notable messages (auto-extracted)
 

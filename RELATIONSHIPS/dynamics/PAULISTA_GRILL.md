@@ -12,8 +12,17 @@
 
 Peak months: `2024-08` (6 msgs)
 Language mix: other: 3, es: 3
-Most active: **Thursday** at **0:00**
+Most active: **Thursday** at **0:00** (night (23-6))
 Top topics: persona (8), incluido (7), incluye (6), almuerzo (4), fernando (3)
+Avg msg length: Ivan 14 chars, them 423 chars
+Avg reply time: Ivan n/a, them 2m
+Question ratio: Ivan 50.0%, them 25.0%
+
+**First message** (2024-08-29, Ivan): Buenas
+
+**Last from Ivan** (2024-08-29): Cuanto es por persona?
+
+**Last from them** (2024-08-29): *CHURRASQUERIA- PAULISTA GRILL FERNANDO DE LA MORA 🍽️                                                                                              *LOS PRECIOS VARIAN DE ACUERDO AL DIA*               
 
 ## Communication stats
 
@@ -26,6 +35,12 @@ Top topics: persona (8), incluido (7), incluye (6), almuerzo (4), fernando (3)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-08-29] Them** (12 emojis): *CHURRASQUERIA- PAULISTA GRILL FERNANDO DE LA MORA 🍽️                                                                                              *LOS PRECIOS VARIAN DE ACUERDO AL DIA*                                                                                                ✓ Lunes A Jueves Al
+- **[2024-08-29] Them** (1 emojis): ¡Gracias por comunicarte con *Paulista Grill* Local Fernando de la Mora. ¿Como podemos ayudarte?😊
+
 
 ## Notable messages (auto-extracted)
 

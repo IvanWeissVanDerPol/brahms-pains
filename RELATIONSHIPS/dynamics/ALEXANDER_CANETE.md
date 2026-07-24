@@ -12,8 +12,17 @@
 
 Peak months: `2022-09` (142 msgs), `2022-10` (21 msgs), `2024-03` (21 msgs)
 Language mix: other: 141, es: 55
-Most active: **Thursday** at **14:00**
+Most active: **Thursday** at **14:00** (afternoon (12-18))
 Top topics: drive (10), tenes (6), hacer (5), cosas (5), tengo (5)
+Avg msg length: Ivan 17 chars, them 27 chars
+Avg reply time: Ivan 13m, them 1m
+Question ratio: Ivan 3.2%, them 11.2%
+
+**First message** (2022-09-15, Them): Maaaan
+
+**Last from Ivan** (2024-06-29): Amazon de seguro jsjsj
+
+**Last from them** (2024-07-24): Cuantas veces se puede retomar una materia en la facultad?
 
 ## Communication stats
 
@@ -26,6 +35,12 @@ Top topics: drive (10), tenes (6), hacer (5), cosas (5), tengo (5)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-15] Ivan** (0 emojis): https://drive.google.com/drive/mobile/folders/1FuyUdWOlEilAUPqW7CWHFMJKLydrLPfq?usp=drive_open
+- **[2022-09-15] Them** (0 emojis): Gracias man si tenes el drive podes pasar? No esta en la descripción
+
 
 ## Notable messages (auto-extracted)
 

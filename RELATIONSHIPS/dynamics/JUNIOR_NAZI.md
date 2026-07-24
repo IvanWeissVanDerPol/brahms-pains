@@ -12,10 +12,19 @@
 
 Peak months: `2022-01` (190 msgs), `2022-02` (181 msgs), `2022-03` (202 msgs)
 Language mix: other: 2138, es: 542, en: 14, mixed: 3
-Most active: **Thursday** at **18:00**
+Most active: **Thursday** at **18:00** (afternoon (12-18))
 Top topics: https (106), hacer (54), estoy (53), jajajaja (48), jajaja (47)
+Avg msg length: Ivan 20 chars, them 26 chars
+Avg reply time: Ivan 50m, them 38m
+Question ratio: Ivan 9.8%, them 7.0%
 
 **They call Ivan:** 'ivan' (5x), 'loco' (2x)
+
+**First message** (2021-10-29, Ivan): holis
+
+**Last from Ivan** (2026-06-08): Uwuwuw estas siempre welcome
+
+**Last from them** (2026-06-08): Apenas pueda les tengo que pasar a visitarles
 
 ## Communication stats
 
@@ -28,6 +37,15 @@ Top topics: https (106), hacer (54), estoy (53), jajajaja (48), jajaja (47)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2021-12-16] Them** (1 emojis): Buen viaje man, quería ir a despedirme también pero lastimosamente ya no me iba a dar tiempo 😔
+- **[2023-01-18] Them** (1 emojis): Le decís que sos gay y te dicen para participar de pijamadas 🧐
+- **[2022-03-24] Ivan** (0 emojis): Y no Onda si tenés pareja querés que te dé tranquilidad y todo eso Y si del hola qué tal ya es así no le van a dar bola   Onda si te pones en el lugar de una mujer  Que vas a preferir? Alguien chubby que te haga sonreír todo el tiempo? O alguien fisiculturista que siempre este estresado y gritando  
+- **[2022-10-04] Ivan** (0 emojis): yo le puse  2 que es por que cuando un auto se mueve mas lento  puede girar mas rapido   esto permite que cuando la velocidad es 1 llegue   pero con velocidad 2 el giro es mas lento  haciendo que toque la pared y termine la simulacion  3 Un caso cuando no puede llegar a estacionar es cuando esta ce
+- **[2023-02-08] Ivan** (0 emojis): "Hey Iduline, mind if I pull you away from work for a sec? I've been wanting to say something for a while now. You're really awesome, and I admire your dedication and passion for your studies. Every time we chat or grab a coffee, I have a great time. And the thing is, I really like you and would lov
+
 
 ## Notable messages (auto-extracted)
 

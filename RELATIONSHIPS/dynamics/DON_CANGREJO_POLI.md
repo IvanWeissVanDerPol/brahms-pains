@@ -12,12 +12,21 @@
 
 Peak months: `2022-10` (45 msgs), `2023-08` (27 msgs), `2023-09` (24 msgs)
 Language mix: other: 473, es: 162, en: 5, mixed: 2
-Most active: **Wednesday** at **2:00**
+Most active: **Wednesday** at **2:00** (night (23-6))
 Top topics: estoy (28), ahora (27), hacer (16), blockchain (13), gracias (12)
+Avg msg length: Ivan 30 chars, them 31 chars
+Avg reply time: Ivan 50m, them 57m
+Question ratio: Ivan 10.0%, them 8.0%
 
 **Ivan calls them:** 'mamá' (1x), 'loco' (1x)
 
 **They call Ivan:** 'ivan' (1x), 'bb' (1x)
+
+**First message** (2022-07-16, Them): quien pio es tu grupo prro zd
+
+**Last from Ivan** (2024-07-31): XD
+
+**Last from them** (2024-07-31): Y la electiva no llevaste el semestre pasado?
 
 ## Communication stats
 
@@ -30,6 +39,15 @@ Top topics: estoy (28), ahora (27), hacer (16), blockchain (13), gracias (12)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-08-04] Them** (5 emojis): ⭕️ Seeds for the Future 2022 ⭕️ Desde la Representación Estudiantil de la FP-UNA y la Dirección de Extensión Universitaria, nos complace anunciar nuevamente la participación de la FP-UNA al programa “SEEDS FOR THE FUTURE”.  Es un programa que ofrece cursos sobre: Tecnologías clave como el 5G, inteli
+- **[2024-06-18] Them** (0 emojis): para montar tu contrato y acceder a el desde script.js 1) ejecutas el commando ```npx hardhat compile``` -         Este comando lo que hace es compilar tu contract de myContract.sol y te genera el abi en el archivo artifactscontractsmycontract.solMyContract.json que es en donde esta el abi 2) acc
+- **[2024-06-23] Ivan** (0 emojis): import os  def merge_files_by_type(folder_path, ignore_dirs, output_dir):     file_types = {}          for root, dirs, files in os.walk(folder_path):         # Ignore specified directories         dirs[:] = [d for d in dirs if d not in ignore_dirs]                  for file in files:             fil
+- **[2024-06-20] Ivan** (0 emojis): Onda  Su mamá se accidentó en moto en la ruta  Y en el camino al hospital se incendió la ambulancia   Hace poco estaba conciente  Y parece que se va a recuperar   Pero demasiado loco  Y quiero estar con ella hasta que esté mejor su ma para ayudarle en lo que pueda
+- **[2024-07-21] Them** (0 emojis): Un exchange descentralizado consta de dos tipos de participantes: comerciantes y proveedores de liquidez (LP). compara esta situación con un vendedor de monedas extranjeras de la calle, explicamelo en esos terminos y se lo mas claro posible
+
 
 ## Notable messages (auto-extracted)
 

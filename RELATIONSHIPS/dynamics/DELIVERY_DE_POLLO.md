@@ -12,8 +12,15 @@
 
 Peak months: `2025-03` (8 msgs)
 Language mix: other: 6, es: 2
-Most active: **Sunday** at **19:00**
+Most active: **Sunday** at **19:00** (evening (18-23))
 Top topics: cuanto (1), pasan (1), gustaría (1), pedirles (1), pollos (1)
+Avg msg length: Ivan 24 chars, them 0 chars
+Avg reply time: Ivan 35s, them n/a
+Question ratio: Ivan 14.3%, them 0.0%
+
+**First message** (2025-03-30, Ivan): Hola
+
+**Last from Ivan** (2025-03-30): Así te preparo una lista :)
 
 ## Communication stats
 

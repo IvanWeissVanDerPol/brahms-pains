@@ -12,10 +12,19 @@
 
 Peak months: `2022-07` (31 msgs), `2022-10` (15 msgs), `2023-03` (23 msgs)
 Language mix: other: 64, es: 16
-Most active: **Friday** at **2:00**
+Most active: **Friday** at **2:00** (night (23-6))
 Top topics: jajajaja (3), vamos (3), musicas (3), missiones (2), jajaja (2)
+Avg msg length: Ivan 18 chars, them 16 chars
+Avg reply time: Ivan 1.9h, them 48m
+Question ratio: Ivan 15.0%, them 2.5%
 
 **They call Ivan:** 'loco' (1x)
+
+**First message** (2022-07-22, Them): https://youtu.be/OG4ZjROEL4c
+
+**Last from Ivan** (2023-07-27): En mi casa
+
+**Last from them** (2023-04-28): 👀
 
 ## Communication stats
 

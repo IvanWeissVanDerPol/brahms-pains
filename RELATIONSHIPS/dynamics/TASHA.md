@@ -12,10 +12,19 @@
 
 Peak months: `2022-12` (4 msgs), `2023-12` (7 msgs)
 Language mix: es: 6, other: 5
-Most active: **Saturday** at **16:00**
+Most active: **Saturday** at **16:00** (afternoon (12-18))
 Top topics: holis (2), quiero (2), acaso (1), tienda (1), hacer (1)
+Avg msg length: Ivan 28 chars, them 17 chars
+Avg reply time: Ivan 3s, them 18s
+Question ratio: Ivan 25.0%, them 0.0%
 
 **They call Ivan:** 'ivan' (1x)
+
+**First message** (2022-12-21, Ivan): Holis que tal? Están x si acaso en la tienda?
+
+**Last from Ivan** (2023-12-02): Que disfrutes del viaje ✨🖤
+
+**Last from them** (2023-12-02): Yo estoy fuera del país
 
 ## Communication stats
 
@@ -28,6 +37,11 @@ Top topics: holis (2), quiero (2), acaso (1), tienda (1), hacer (1)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-12-02] Ivan** (0 emojis): Holis  Quiero pasar un fla por fun4me  Están open ?  No vi en maps el horario:(
+
 
 ## Notable messages (auto-extracted)
 

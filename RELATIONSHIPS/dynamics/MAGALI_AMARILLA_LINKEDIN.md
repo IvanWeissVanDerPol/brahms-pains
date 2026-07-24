@@ -12,10 +12,19 @@
 
 Peak months: `2025-01` (6 msgs)
 Language mix: es: 1, other: 5
-Most active: **Tuesday** at **12:00**
+Most active: **Tuesday** at **12:00** (afternoon (12-18))
 Top topics: buenos (2), super (2), estás (1), guardo (1), número (1)
+Avg msg length: Ivan 129 chars, them 26 chars
+Avg reply time: Ivan 29m, them 13.0h
+Question ratio: Ivan 0.0%, them 33.3%
 
 **They call Ivan:** 'ivan' (1x)
+
+**First message** (2025-01-06, Ivan): ¡Hola, Magali! 😊  ¡Feliz año nuevo para vos también! Gracias por pasarme tu contacto. Quedo atento a cualquier oportunidad que pueda surgir y con gusto podemos conversar si hay algo interesante.  Mien
+
+**Last from Ivan** (2025-01-07): Perfect
+
+**Last from them** (2025-01-07): A las órdenes! ☺️
 
 ## Communication stats
 
@@ -28,6 +37,11 @@ Top topics: buenos (2), super (2), estás (1), guardo (1), número (1)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-01-06] Ivan** (1 emojis): ¡Hola, Magali! 😊  ¡Feliz año nuevo para vos también! Gracias por pasarme tu contacto. Quedo atento a cualquier oportunidad que pueda surgir y con gusto podemos conversar si hay algo interesante.  Mientras tanto, te dejo mi página web: ivanweissvanderpol.github.io, donde podés ver más sobre mi experi
+
 
 ## Notable messages (auto-extracted)
 

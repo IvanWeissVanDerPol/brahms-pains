@@ -12,8 +12,17 @@
 
 Peak months: `2024-08` (27 msgs), `2025-05` (1 msgs)
 Language mix: other: 20, es: 8
-Most active: **Thursday** at **1:00**
+Most active: **Thursday** at **1:00** (night (23-6))
 Top topics: paella (3), aprox (2), trocha (2), sabor (2), especial (2)
+Avg msg length: Ivan 23 chars, them 57 chars
+Avg reply time: Ivan 8m, them 1m
+Question ratio: Ivan 26.7%, them 0.0%
+
+**First message** (2024-08-08, Ivan): Para cuántas personas aprox sería la paella la trocha   Estamos 4
+
+**Last from Ivan** (2024-08-08): Llegamos:)
+
+**Last from them** (2025-05-05): Buenas tardes☺️, ponemos a su disposición nuestro menú,  estaremos tomando pedidos anticipados para el 14 y 15 de mayo🥘💃
 
 ## Communication stats
 
@@ -26,6 +35,11 @@ Top topics: paella (3), aprox (2), trocha (2), sabor (2), especial (2)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-05-05] Them** (3 emojis): Buenas tardes☺️, ponemos a su disposición nuestro menú,  estaremos tomando pedidos anticipados para el 14 y 15 de mayo🥘💃
+
 
 ## Notable messages (auto-extracted)
 

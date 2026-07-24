@@ -12,8 +12,15 @@
 
 Peak months: `2023-12` (2 msgs), `2026-03` (1 msgs)
 Language mix: other: 2, es: 1
-Most active: **Monday** at **13:00**
+Most active: **Monday** at **13:00** (afternoon (12-18))
 Top topics: n/a
+Avg msg length: Ivan 1 chars, them 0 chars
+Avg reply time: Ivan n/a, them n/a
+Question ratio: Ivan 0.0%, them 0.0%
+
+**First message** (2026-03-05, Ivan): hola
+
+**Last from Ivan** (2026-03-05): hola
 
 ## Communication stats
 

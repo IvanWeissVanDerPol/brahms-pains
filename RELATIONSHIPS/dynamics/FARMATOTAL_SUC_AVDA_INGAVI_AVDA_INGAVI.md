@@ -12,8 +12,17 @@
 
 Peak months: `2025-07` (19 msgs), `2026-01` (70 msgs)
 Language mix: es: 23, other: 66
-Most active: **Tuesday** at **20:00**
+Most active: **Tuesday** at **20:00** (evening (18-23))
 Top topics: gracias (4), delivery (4), efectivo (4), dinero (4), salio (3)
+Avg msg length: Ivan 18 chars, them 17 chars
+Avg reply time: Ivan 44s, them 1m
+Question ratio: Ivan 19.1%, them 4.8%
+
+**First message** (2025-07-19, Ivan): Hola
+
+**Last from Ivan** (2026-01-13): gracias
+
+**Last from them** (2026-01-13): Te agrego la crema
 
 ## Communication stats
 
@@ -26,6 +35,12 @@ Top topics: gracias (4), delivery (4), efectivo (4), dinero (4), salio (3)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-01-13] Ivan** (0 emojis): en caso de que no salio aun quiero tambien y sino compro con otro delivery? jsjsjsjsj
+- **[2026-01-13] Ivan** (0 emojis): oude ser el suero un poco mas grande ? asi saco con jeringa ? y jernga tambien plz
+
 
 ## Notable messages (auto-extracted)
 

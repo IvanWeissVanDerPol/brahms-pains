@@ -12,12 +12,21 @@
 
 Peak months: `2025-10` (277 msgs), `2025-11` (337 msgs), `2025-12` (281 msgs)
 Language mix: other: 1731, es: 627, en: 30, mixed: 11
-Most active: **Thursday** at **0:00**
+Most active: **Thursday** at **0:00** (night (23-6))
 Top topics: jajaja (72), ahora (65), https (63), hacer (62), estoy (60)
+Avg msg length: Ivan 34 chars, them 31 chars
+Avg reply time: Ivan 26m, them 36m
+Question ratio: Ivan 9.0%, them 5.4%
 
 **Ivan calls them:** 'kiki' (5x), 'papa' (2x), 'amor' (2x), 'gordo' (1x), 'gorda' (1x)
 
 **They call Ivan:** 'loco' (4x), 'iván' (1x), 'amor' (1x), 'bb' (1x)
+
+**First message** (2025-05-05, Ivan): https://www.tiktok.com/t/ZTjAxD4Up/
+
+**Last from Ivan** (2026-07-05): Pero muy mood blanco
+
+**Last from them** (2026-07-05): Ewt super lindo el color de tu pelo
 
 ## Communication stats
 
@@ -30,6 +39,15 @@ Top topics: jajaja (72), ahora (65), https (63), hacer (62), estoy (60)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-11-30] Them** (2 emojis): Es Maga mi perrita, se quedo en lo de mis padres y ahora le veo cuando voy de visita 😭❤️
+- **[2026-01-22] Ivan** (2 emojis): Se hacen más comisiones   Ahora ale tiene que hacer su fursona jsjsja  🧠🧠 Jajajaj
+- **[2025-10-28] Ivan** (1 emojis): 📽️ Detailed Logo Animation Prompt: TOTALGAS  Goal: Create a clean, professional, and impactful animation for the TOTALGAS logo, emphasizing the orange frame and bold text. The animation should be around 4-6 seconds total (including an end hold).  1. The Opening Sequence (Entry - 2 seconds)  Backgrou
+- **[2025-12-28] Ivan** (1 emojis): Hello 👋 I’m taking a Bolt ride. Vehicle details: Kia Picanto, Red, CFH698  Destination: ADK SERVICE, Juan Leopardi, Fernando de la Mora, Paraguay  Track live trip status: https://ride.bolt.eu/?s=n54jMbQwaRqb
+- **[2026-06-17] Them** (1 emojis): No vamos a poder el sábado 😭 trnemos una reu qué ya pactamos hace rato y me había olvidado
+
 
 ## Notable messages (auto-extracted)
 

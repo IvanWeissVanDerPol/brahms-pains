@@ -12,8 +12,17 @@
 
 Peak months: `2023-02` (7 msgs), `2023-08` (7 msgs), `2023-10` (3 msgs)
 Language mix: es: 4, other: 13
-Most active: **Tuesday** at **22:00**
+Most active: **Tuesday** at **22:00** (evening (18-23))
 Top topics: acceso (1), cuenta (1), google (1), gracias (1), tambien (1)
+Avg msg length: Ivan 11 chars, them 11 chars
+Avg reply time: Ivan 10m, them 19m
+Question ratio: Ivan 12.5%, them 0.0%
+
+**First message** (2023-02-21, Them): hola
+
+**Last from Ivan** (2023-10-21): Vos ya vas ?
+
+**Last from them** (2023-10-21): Ahora llegué
 
 ## Communication stats
 

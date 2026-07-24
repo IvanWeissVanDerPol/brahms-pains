@@ -12,8 +12,17 @@
 
 Peak months: `2022-10` (6 msgs), `2023-01` (6 msgs), `2023-02` (13 msgs)
 Language mix: other: 42, es: 12
-Most active: **Monday** at **18:00**
+Most active: **Monday** at **18:00** (afternoon (12-18))
 Top topics: weiss (4), hacer (3), jajajaja (2), prepare (2), tiene (2)
+Avg msg length: Ivan 32 chars, them 21 chars
+Avg reply time: Ivan 3.0h, them 4m
+Question ratio: Ivan 10.3%, them 8.0%
+
+**First message** (2022-10-12, Them): Weiss
+
+**Last from Ivan** (2024-07-01): Gracias
+
+**Last from them** (2024-03-08): El de cami jajaja
 
 ## Communication stats
 

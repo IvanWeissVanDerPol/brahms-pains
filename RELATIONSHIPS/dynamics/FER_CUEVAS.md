@@ -12,10 +12,19 @@
 
 Peak months: `2024-03` (5 msgs)
 Language mix: other: 2, es: 3
-Most active: **Friday** at **1:00**
+Most active: **Friday** at **1:00** (night (23-6))
 Top topics: atyra (1), colgué (1), jamás (1), transferí (1), ajajaja (1)
+Avg msg length: Ivan 14 chars, them 19 chars
+Avg reply time: Ivan 1m, them n/a
+Question ratio: Ivan 0.0%, them 0.0%
 
 **They call Ivan:** 'ivan' (1x)
+
+**First message** (2024-03-08, Them): Por lo de Atyra Ivan
+
+**Last from Ivan** (2024-03-08): Uwuwuw gracias
+
+**Last from them** (2024-03-08): Por mi y Myre sería
 
 ## Communication stats
 

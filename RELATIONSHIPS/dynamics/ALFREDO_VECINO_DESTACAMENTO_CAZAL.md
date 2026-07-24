@@ -12,10 +12,19 @@
 
 Peak months: `2024-09` (7 msgs)
 Language mix: es: 2, other: 5
-Most active: **Friday** at **21:00**
+Most active: **Friday** at **21:00** (evening (18-23))
 Top topics: weiss (1), genial (1), gracias (1), mando (1), grupo (1)
+Avg msg length: Ivan 11 chars, them 26 chars
+Avg reply time: Ivan n/a, them 40s
+Question ratio: Ivan 0.0%, them 0.0%
 
 **They call Ivan:** 'iván' (1x)
+
+**First message** (2024-09-06, Ivan): Hola
+
+**Last from Ivan** (2024-09-06): Gracias mando al grupo
+
+**Last from them** (2024-09-06): Genial Iván ahí ya le pasé
 
 ## Communication stats
 

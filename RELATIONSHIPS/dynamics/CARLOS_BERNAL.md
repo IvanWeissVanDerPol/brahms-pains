@@ -12,8 +12,15 @@
 
 Peak months: `2025-04` (5 msgs)
 Language mix: other: 5
-Most active: **Tuesday** at **19:00**
+Most active: **Tuesday** at **19:00** (evening (18-23))
 Top topics: tengo (2), habré (1), devolvidó (1)
+Avg msg length: Ivan 20 chars, them 0 chars
+Avg reply time: Ivan 3m, them n/a
+Question ratio: Ivan 0.0%, them 0.0%
+
+**First message** (2025-04-01, Ivan): Este tengo
+
+**Last from Ivan** (2025-04-01): Si no es le habré devolvidó ya
 
 ## Communication stats
 

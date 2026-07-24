@@ -12,8 +12,17 @@
 
 Peak months: `2024-03` (16 msgs)
 Language mix: es: 8, other: 8
-Most active: **Friday** at **1:00**
+Most active: **Friday** at **1:00** (night (23-6))
 Top topics: estoy (2), tambien (2), interesa (2), viendo (2), haciendo (1)
+Avg msg length: Ivan 22 chars, them 24 chars
+Avg reply time: Ivan 7m, them 53m
+Question ratio: Ivan 0.0%, them 50.0%
+
+**First message** (2024-03-29, Ivan): hola
+
+**Last from Ivan** (2024-03-29): Y tenés que usar versiones viejas
+
+**Last from them** (2024-03-29): Yo soy Marcelo Aguayo
 
 ## Communication stats
 

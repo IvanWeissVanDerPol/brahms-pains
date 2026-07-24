@@ -12,10 +12,19 @@
 
 Peak months: `2025-06` (107 msgs), `2025-08` (12 msgs), `2025-09` (16 msgs)
 Language mix: es: 20, other: 115
-Most active: **Thursday** at **15:00**
+Most active: **Thursday** at **15:00** (night (23-6))
 Top topics: estoy (8), https (6), github (5), examen (4), parcial (3)
+Avg msg length: Ivan 20 chars, them 17 chars
+Avg reply time: Ivan 15m, them 11m
+Question ratio: Ivan 8.1%, them 8.2%
 
 **They call Ivan:** 'ivan' (1x)
+
+**First message** (2025-06-12, Them): Hola Ivan, qué tal, Foneca soy :)
+
+**Last from Ivan** (2025-09-03): X si surge 2nd job(?
+
+**Last from them** (2025-09-03): Pasá la info
 
 ## Communication stats
 
@@ -28,6 +37,13 @@ Top topics: estoy (8), https (6), github (5), examen (4), parcial (3)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-06-26] Ivan** (0 emojis): https://www.google.com/maps/place/Weiss+house/data=!4m2!3m1!1s0x0:0xf0c757dad8e51218?sa=X&ved=1t:2428&ictx=111
+- **[2025-06-12] Them** (0 emojis): Por si acaso no tenés los exámenes con las respuestas del primer y segundo parcial de bd?
+- **[2025-06-24] Ivan** (0 emojis): Hola Queres estudiar bd2? Irl estos dias? Antes del examen :)
+
 
 ## Notable messages (auto-extracted)
 

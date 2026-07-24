@@ -12,8 +12,17 @@
 
 Peak months: `2023-11` (38 msgs)
 Language mix: es: 7, other: 31
-Most active: **Wednesday** at **19:00**
+Most active: **Wednesday** at **19:00** (evening (18-23))
 Top topics: ahora (4), invitación (2), chill (2), nomas (2), avisa (2)
+Avg msg length: Ivan 17 chars, them 24 chars
+Avg reply time: Ivan 23m, them 3.0h
+Question ratio: Ivan 11.8%, them 4.8%
+
+**First message** (2023-11-08, Them): Man, será que me podes mandar otra vez la invitación para el git
+
+**Last from Ivan** (2023-11-10): Puedo unirme después de rendir
+
+**Last from them** (2023-11-10): Okis
 
 ## Communication stats
 

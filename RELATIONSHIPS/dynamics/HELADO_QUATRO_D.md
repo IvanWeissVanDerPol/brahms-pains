@@ -12,8 +12,17 @@
 
 Peak months: `2024-05` (17 msgs)
 Language mix: es: 4, other: 13
-Most active: **Wednesday** at **21:00**
+Most active: **Wednesday** at **21:00** (evening (18-23))
 Top topics: falta (2), chocolate (2), nuttela (2), ferrero (2), bosque (2)
+Avg msg length: Ivan 36 chars, them 24 chars
+Avg reply time: Ivan 57s, them 1m
+Question ratio: Ivan 30.0%, them 0.0%
+
+**First message** (2024-05-01, Ivan): Hola soy Iván weiss
+
+**Last from Ivan** (2024-05-01): Frambuesa y más pie de limón entonces
+
+**Last from them** (2024-05-01): Super
 
 ## Communication stats
 

@@ -12,8 +12,17 @@
 
 Peak months: `2022-08` (16 msgs), `2022-12` (27 msgs), `2023-03` (16 msgs)
 Language mix: other: 76, es: 25
-Most active: **Thursday** at **14:00**
+Most active: **Thursday** at **14:00** (afternoon (12-18))
 Top topics: https (6), podés (5), weiss (4), jajaja (4), mentormate (4)
+Avg msg length: Ivan 59 chars, them 23 chars
+Avg reply time: Ivan 3m, them 5m
+Question ratio: Ivan 6.2%, them 9.4%
+
+**First message** (2022-08-10, Them): Weiss
+
+**Last from Ivan** (2025-11-29): n.n
+
+**Last from them** (2025-11-29): Okiiii
 
 ## Communication stats
 
@@ -26,6 +35,12 @@ Top topics: https (6), podés (5), weiss (4), jajaja (4), mentormate (4)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-07-03] Ivan** (11 emojis): ### ✨ ¿Querés laburar remoto y bien pago? Te dejo un mini roadmap:  **🧠 Main Tip:** Vendete bien (marketing personal) **🎓 Segundo tip:** Certificaciones de QA  #### 📚 Cursos recomendados (todos online):  * [ISTQB Foundation](https://www.istqb.org/) – ~$200 * [FreeCodeCamp QA](https://www.freecodec
+- **[2022-08-10] Them** (0 emojis): Te puedo preguntar tu opinión acerca de una laptop que quiero comprar?
+
 
 ## Notable messages (auto-extracted)
 

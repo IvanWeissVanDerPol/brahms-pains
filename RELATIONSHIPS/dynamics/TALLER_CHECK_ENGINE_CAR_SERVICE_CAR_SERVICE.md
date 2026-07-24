@@ -12,8 +12,15 @@
 
 Peak months: `2024-12` (5 msgs)
 Language mix: es: 2, other: 3
-Most active: **Sunday** at **16:00**
+Most active: **Sunday** at **16:00** (afternoon (12-18))
 Top topics: llamé (1), recién (1), sería (1), acoplar (1), cargar (1)
+Avg msg length: Ivan 27 chars, them 0 chars
+Avg reply time: Ivan n/a, them n/a
+Question ratio: Ivan 25.0%, them 0.0%
+
+**First message** (2024-12-08, Ivan): Hola te llamé recién
+
+**Last from Ivan** (2024-12-08): Te parece bien onda 20 o 30 Mill?
 
 ## Communication stats
 

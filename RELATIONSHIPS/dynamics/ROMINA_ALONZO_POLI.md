@@ -12,8 +12,17 @@
 
 Peak months: `2024-01` (7 msgs)
 Language mix: other: 7
-Most active: **Tuesday** at **20:00**
+Most active: **Tuesday** at **20:00** (evening (18-23))
 Top topics: saltos (1), lunes (1), jajajajaja (1), mooood (1)
+Avg msg length: Ivan 10 chars, them 6 chars
+Avg reply time: Ivan 36m, them 1.6h
+Question ratio: Ivan 25.0%, them 0.0%
+
+**First message** (2024-01-02, Ivan): Ese es ale?
+
+**Last from Ivan** (2024-01-02): Salu2
+
+**Last from them** (2024-01-02): Jajajajaja
 
 ## Communication stats
 

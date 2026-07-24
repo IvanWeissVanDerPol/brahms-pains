@@ -12,8 +12,17 @@
 
 Peak months: `2023-09` (24 msgs), `2024-08` (18 msgs)
 Language mix: other: 36, es: 6
-Most active: **Sunday** at **13:00**
+Most active: **Sunday** at **13:00** (afternoon (12-18))
 Top topics: buenas (2), rueda (2), pasar (2), gracias (2), cuento (1)
+Avg msg length: Ivan 16 chars, them 7 chars
+Avg reply time: Ivan 4m, them 7m
+Question ratio: Ivan 17.9%, them 0.0%
+
+**First message** (2023-09-17, Ivan): Buenas  A cuento me arreglan una rueda pinchada ?  Estoy sobre destacamento cazal y campo via
+
+**Last from Ivan** (2024-08-31): Ahí es :)
+
+**Last from them** (2024-08-31): 80 t vas alcanzar dice el señor
 
 ## Communication stats
 
@@ -26,6 +35,11 @@ Top topics: buenas (2), rueda (2), pasar (2), gracias (2), cuento (1)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-17] Ivan** (0 emojis): Buenas  A cuento me arreglan una rueda pinchada ?  Estoy sobre destacamento cazal y campo via
+
 
 ## Notable messages (auto-extracted)
 

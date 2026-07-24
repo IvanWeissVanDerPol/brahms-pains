@@ -12,10 +12,19 @@
 
 Peak months: `2023-05` (115 msgs), `2024-05` (85 msgs), `2025-05` (96 msgs)
 Language mix: es: 275, other: 1010, en: 5, mixed: 3
-Most active: **Wednesday** at **18:00**
+Most active: **Wednesday** at **18:00** (night (23-6))
 Top topics: mañana (48), holaa (47), estoy (44), tengo (40), ahora (30)
+Avg msg length: Ivan 28 chars, them 15 chars
+Avg reply time: Ivan 43m, them 39m
+Question ratio: Ivan 24.5%, them 9.0%
 
 **Ivan calls them:** 'mamá' (5x), 'loco' (1x)
+
+**First message** (2023-05-30, Them): Hola soy amiga de Artman
+
+**Last from Ivan** (2026-07-20): Hello que tal para más tarde? Uwu
+
+**Last from them** (2026-07-20): Dale súper
 
 ## Communication stats
 
@@ -28,6 +37,15 @@ Top topics: mañana (48), holaa (47), estoy (44), tengo (40), ahora (30)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-26] Ivan** (0 emojis): hola  sorry estuve a full y tuve mill inconvenientes hoy :(   quiero  pero no tengo ahora para transferirte :(  te parece bien si te mensajeo otravez cuando tenga? sorry otravez
+- **[2026-01-05] Ivan** (0 emojis): Uwu ahi busque online  2c-b sería verdad?  Chill con los otros estoy re happy   Maybe lsd  Pero me da más miedito stuff donde se puede mixear stuff random que es adicitive :(
+- **[2024-09-19] Ivan** (0 emojis): Me pasas tu alias ?  Estaba vuendo mi acceso a itau (Cambie de cell ) Y mañana me Dan mi pin (Ahi te tengo agregada ya )  Pero te Pago de ueno ahora ya que Tengo acceso ahi
+- **[2026-07-16] Ivan** (0 emojis): Ueuw me tienen que pasar aún para sus Kg jsjsjs    El cherry te puedo dar en cash ?  Así me deshago de mi efectivo?  Me es más nice tener en apps
+- **[2026-01-07] Ivan** (0 emojis): Ahh  Porro  Mdma Hongos me interesan   Cuales son tus precios actuales ?  Onda 1kg porro   Y una cantidad relativa a 200g de porro? Los demás
+
 
 ## Notable messages (auto-extracted)
 

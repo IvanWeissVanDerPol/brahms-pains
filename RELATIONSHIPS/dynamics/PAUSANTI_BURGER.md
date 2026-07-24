@@ -12,8 +12,17 @@
 
 Peak months: `2025-03` (69 msgs), `2025-05` (35 msgs)
 Language mix: other: 85, es: 19
-Most active: **Wednesday** at **23:00**
+Most active: **Wednesday** at **23:00** (night (23-6))
 Top topics: gracias (9), burger (8), combo (7), buenas (6), quiero (6)
+Avg msg length: Ivan 18 chars, them 17 chars
+Avg reply time: Ivan 55m, them 6m
+Question ratio: Ivan 16.7%, them 10.7%
+
+**First message** (2025-03-03, Ivan): Buenas
+
+**Last from Ivan** (2025-05-21): Perfect
+
+**Last from them** (2025-05-21): Muchas gracias  Que disfrute
 
 ## Communication stats
 

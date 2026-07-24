@@ -50,6 +50,12 @@ def analyze_chat(chat_dir: Path) -> dict:
     if not msgs:
         return {}
     
+    # Sort chronologically
+    sorted_msgs = sorted(
+        [m for m in msgs if isinstance(m, dict) and m.get("ts_iso")],
+        key=lambda m: m["ts_iso"]
+    )
+    
     # Top notable messages: longest, most emojis, or with special markers
     notable = []
     monthly = Counter()
@@ -61,6 +67,28 @@ def analyze_chat(chat_dir: Path) -> dict:
     emojis_total = 0
     ivan_total = 0
     them_total = 0
+    ivan_word_chars = 0
+    them_word_chars = 0
+    ivan_msg_count = 0
+    them_msg_count = 0
+    questions_ivan = 0
+    questions_them = 0
+    
+    # First / last messages
+    first_msg = None
+    last_msg_ivan = None
+    last_msg_them = None
+    last_ivan_text = ""
+    last_them_text = ""
+    
+    # Response times
+    response_times_ivan = []  # time for Ivan to reply after them
+    response_times_them = []  # time for them to reply after Ivan
+    last_sender = None
+    last_ts = None
+    
+    # Time of day buckets
+    tod_buckets = Counter()  # morning, afternoon, evening, night
     
     # Top topic words (excluding stopwords)
     STOPWORDS = set("""a al algo algunas algunos ante antes como con contra cual cuando de del desde donde
@@ -73,9 +101,7 @@ tendríamos tendría tienes toda todas todo todos tu tus un una uno unos vosotra
 voy y ya yo""".split())
     topic_words = Counter()
     
-    for m in msgs:
-        if not isinstance(m, dict):
-            continue
+    for m in sorted_msgs:
         text = m.get("text") or ""
         ts_full = m.get("ts_iso", "")
         ts = ts_full[:7]  # YYYY-MM
@@ -84,12 +110,50 @@ voy y ya yo""".split())
         # Day of week and hour
         if ts_full:
             try:
-                from datetime import datetime
                 dt = datetime.fromisoformat(ts_full[:19])
                 weekday[dt.strftime("%A")] += 1
                 hour[dt.hour] += 1
+                # Time of day bucket
+                h = dt.hour
+                if 6 <= h < 12: tod_buckets["morning (6-12)"] += 1
+                elif 12 <= h < 18: tod_buckets["afternoon (12-18)"] += 1
+                elif 18 <= h < 23: tod_buckets["evening (18-23)"] += 1
+                else: tod_buckets["night (23-6)"] += 1
             except Exception:
                 pass
+        
+        # First message
+        if first_msg is None and text:
+            first_msg = {
+                "ts": ts_full[:10],
+                "from_ivan": m.get("from_me"),
+                "text": text[:200],
+            }
+        
+        # Last messages per side
+        if m.get("from_me") and text:
+            last_msg_ivan = {"ts": ts_full[:10], "text": text[:200]}
+            last_ivan_text = text[:200]
+        elif text and not m.get("from_me"):
+            last_msg_them = {"ts": ts_full[:10], "text": text[:200]}
+            last_them_text = text[:200]
+        
+        # Response time: time between consecutive different senders
+        try:
+            if last_sender is not None and last_sender != m.get("from_me") and last_ts and text:
+                from datetime import datetime as dt_cls
+                t1 = dt_cls.fromisoformat(last_ts[:19])
+                t2 = dt_cls.fromisoformat(ts_full[:19])
+                delta = (t2 - t1).total_seconds()
+                if delta < 86400:  # Only count if reply within 24h
+                    if m.get("from_me"):
+                        response_times_ivan.append(delta)
+                    else:
+                        response_times_them.append(delta)
+            last_sender = m.get("from_me")
+            last_ts = ts_full
+        except Exception:
+            pass
         
         # Language detection (simple)
         text_low = text.lower()
@@ -107,9 +171,6 @@ voy y ya yo""".split())
         # Emoji count
         emoji_n = len(re.findall(r'[\U0001F300-\U0001F9FF\U00002600-\U000027BF]', text))
         emojis_total += emoji_n
-        if ts:
-            # distribute emojis to month
-            pass
         
         # Topic extraction: top words > 4 chars
         if m.get("type") == 0 and text:
@@ -117,13 +178,21 @@ voy y ya yo""".split())
                 if word not in STOPWORDS:
                     topic_words[word] += 1
         
-        if m.get("from_me"):
+        # Per-side stats
+        is_ivan = m.get("from_me")
+        if is_ivan:
             ivan_total += 1
+            ivan_word_chars += len(text)
+            ivan_msg_count += 1
+            if "?" in text: questions_ivan += 1
             for nickname in ["kiki", "kyrian", "luana", "saskia", "mama", "mamá", "papa", "papá", "amor", "bebe", "bb", "loco", "loca", "gordo", "gorda", "rey", "reina", "princess", "princesa"]:
                 if re.search(rf'\b{nickname}\b', text_low):
                     ivan_nicknames[nickname] += 1
         else:
             them_total += 1
+            them_word_chars += len(text)
+            them_msg_count += 1
+            if "?" in text: questions_them += 1
             for nickname in ["ivan", "iván", "amor", "loco", "loca", "bebe", "bb", "gordo", "gorda", "rey", "reina", "princess", "princesa"]:
                 if re.search(rf'\b{nickname}\b', text_low):
                     them_nicknames[nickname] += 1
@@ -155,6 +224,23 @@ voy y ya yo""".split())
     top_ivan_nicks = ivan_nicknames.most_common(5)
     top_them_nicks = them_nicknames.most_common(5)
     
+    # Avg response times
+    def avg_seconds(times):
+        return sum(times) / len(times) if times else 0
+    avg_ivan_reply = avg_seconds(response_times_ivan)
+    avg_them_reply = avg_seconds(response_times_them)
+    
+    # Avg msg length
+    avg_ivan_len = ivan_word_chars / ivan_msg_count if ivan_msg_count else 0
+    avg_them_len = them_word_chars / them_msg_count if them_msg_count else 0
+    
+    # Question ratio
+    q_ivan_ratio = questions_ivan / ivan_msg_count if ivan_msg_count else 0
+    q_them_ratio = questions_them / them_msg_count if them_msg_count else 0
+    
+    # Top time-of-day bucket
+    top_tod = tod_buckets.most_common(1)[0] if tod_buckets else ("—", 0)
+    
     return {
         "ivan_total": ivan_total,
         "them_total": them_total,
@@ -168,6 +254,16 @@ voy y ya yo""".split())
         "top_hour": top_hour[0],
         "top_topics": top_topics,
         "emojis_total": emojis_total,
+        "first_msg": first_msg,
+        "last_msg_ivan": last_msg_ivan,
+        "last_msg_them": last_msg_them,
+        "avg_ivan_reply_s": avg_ivan_reply,
+        "avg_them_reply_s": avg_them_reply,
+        "avg_ivan_len": avg_ivan_len,
+        "avg_them_len": avg_them_len,
+        "q_ivan_ratio": q_ivan_ratio,
+        "q_them_ratio": q_them_ratio,
+        "top_tod": top_tod[0],
     }
 
 
@@ -198,7 +294,9 @@ def main():
         # Skip only if has all sections: Overview, Notable, AND Top topics
         if ("Auto-extracted stats" in existing 
             and "Top topics:" in existing
-            and "## Notable messages (auto-extracted)\n\n- **" in existing):
+            and "## Notable messages (auto-extracted)\n\n- **" in existing
+            and "First message" in existing  # New: skip if already has first msg
+            and "Avg reply time" in existing):  # New: skip if already has reply time
             continue
         
         # Analyze
@@ -222,6 +320,16 @@ def main():
         weekday_str = analysis['top_weekday']
         topics_str = ", ".join(f"{w} ({c})" for w, c in analysis['top_topics'][:5]) or "n/a"
         
+        # Format response times (in minutes/seconds)
+        def fmt_time(s):
+            if not s: return "n/a"
+            if s < 60: return f"{int(s)}s"
+            if s < 3600: return f"{int(s/60)}m"
+            if s < 86400: return f"{s/3600:.1f}h"
+            return f"{s/86400:.1f}d"
+        ivan_reply_str = fmt_time(analysis['avg_ivan_reply_s'])
+        them_reply_str = fmt_time(analysis['avg_them_reply_s'])
+        
         notable_str = ""
         if analysis["notable"]:
             notable_str = "\n## Notable messages (auto-extracted)\n\n"
@@ -238,19 +346,41 @@ def main():
         if analysis["them_nicknames"]:
             nicks_str += f"\n**They call Ivan:** {', '.join(f'{n!r} ({c}x)' for n, c in analysis['them_nicknames'].items())}\n"
         
-        # Replace TODO sections - use lambda to avoid backslash escape interpretation
+        # First / last messages
+        first_msg_str = ""
+        if analysis.get("first_msg"):
+            fm = analysis["first_msg"]
+            sender = "Ivan" if fm["from_ivan"] else "Them"
+            safe_text = re.sub(r'[\\]', '', fm["text"]).replace("\n", " ").replace("\r", "")
+            first_msg_str = f"\n**First message** ({fm['ts']}, {sender}): {safe_text}\n"
+        
+        last_msg_str = ""
+        if analysis.get("last_msg_ivan"):
+            lm = analysis["last_msg_ivan"]
+            safe_text = re.sub(r'[\\]', '', lm["text"]).replace("\n", " ").replace("\r", "")
+            last_msg_str += f"\n**Last from Ivan** ({lm['ts']}): {safe_text}\n"
+        if analysis.get("last_msg_them"):
+            lm = analysis["last_msg_them"]
+            safe_text = re.sub(r'[\\]', '', lm["text"]).replace("\n", " ").replace("\r", "")
+            last_msg_str += f"\n**Last from them** ({lm['ts']}): {safe_text}\n"
+        
+        # Replace Overview - match either TODO form or existing filled form
         new_content = existing
         safe_overview = (
             f"## Overview\n\n"
             f"**Auto-extracted stats** ({analysis['ivan_total']:,} from Ivan, {analysis['them_total']:,} from them, {analysis['emojis_total']:,} emojis)\n\n"
             f"{monthly_str}"
             f"Language mix: {lang_str}\n"
-            f"Most active: **{weekday_str}** at **{hour_str}**\n"
+            f"Most active: **{weekday_str}** at **{hour_str}** ({analysis['top_tod']})\n"
             f"Top topics: {topics_str}\n"
+            f"Avg msg length: Ivan {analysis['avg_ivan_len']:.0f} chars, them {analysis['avg_them_len']:.0f} chars\n"
+            f"Avg reply time: Ivan {ivan_reply_str}, them {them_reply_str}\n"
+            f"Question ratio: Ivan {analysis['q_ivan_ratio']:.1%}, them {analysis['q_them_ratio']:.1%}\n"
             f"{nicks_str}"
+            f"{first_msg_str}"
+            f"{last_msg_str}"
             f"\n## Communication stats\n"
         )
-        # Replace Overview - match either TODO form or existing filled form
         new_content = re.sub(
             r"## Overview\n\n.*?(?=\n## )",
             lambda m: safe_overview,

@@ -12,8 +12,17 @@
 
 Peak months: `2022-06` (51 msgs), `2022-07` (8 msgs), `2022-08` (15 msgs)
 Language mix: other: 62, es: 15
-Most active: **Thursday** at **17:00**
+Most active: **Thursday** at **17:00** (afternoon (12-18))
 Top topics: buenas (3), lleve (3), tiene (3), jajaja (3), llevo (3)
+Avg msg length: Ivan 25 chars, them 6 chars
+Avg reply time: Ivan 1.0h, them 37m
+Question ratio: Ivan 21.7%, them 3.2%
+
+**First message** (2022-06-22, Ivan): Jaja y yo sigo en el hospital  Voy mañana en todo caso
+
+**Last from Ivan** (2023-06-27): Buenas  Hacen por si acaso castración de perras ?
+
+**Last from them** (2022-06-30): Fuerzaaa🤗🤗🤗
 
 ## Communication stats
 
@@ -26,6 +35,11 @@ Top topics: buenas (3), lleve (3), tiene (3), jajaja (3), llevo (3)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-05] Ivan** (0 emojis): Hola qué tal  Q Le llevo mi hermana a los gatos estos días?  Sino veo para llevarles cuando estén ustedes
+
 
 ## Notable messages (auto-extracted)
 

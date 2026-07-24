@@ -12,8 +12,17 @@
 
 Peak months: `2025-07` (10 msgs), `2026-07` (2 msgs)
 Language mix: other: 9, es: 3
-Most active: **Sunday** at **2:00**
+Most active: **Sunday** at **2:00** (night (23-6))
 Top topics: tenes (1), cogerte (1), corras (1), videos (1)
+Avg msg length: Ivan 7 chars, them 8 chars
+Avg reply time: Ivan 1m, them 2m
+Question ratio: Ivan 12.5%, them 0.0%
+
+**First message** (2025-07-20, Them): Que hot
+
+**Last from Ivan** (2026-07-07): 😍
+
+**Last from them** (2025-07-20): A ver mas videos
 
 ## Communication stats
 

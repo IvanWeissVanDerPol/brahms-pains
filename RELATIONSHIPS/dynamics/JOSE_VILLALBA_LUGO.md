@@ -12,10 +12,19 @@
 
 Peak months: `2023-12` (27 msgs), `2025-02` (14 msgs), `2025-04` (19 msgs)
 Language mix: es: 27, other: 86
-Most active: **Tuesday** at **23:00**
+Most active: **Tuesday** at **23:00** (afternoon (12-18))
 Top topics: estoy (6), https (6), ahora (3), puedo (3), hacer (3)
+Avg msg length: Ivan 29 chars, them 21 chars
+Avg reply time: Ivan 36m, them 2.3h
+Question ratio: Ivan 15.4%, them 11.5%
 
 **They call Ivan:** 'ivan' (5x)
+
+**First message** (2023-12-12, Them): Hola ivan
+
+**Last from Ivan** (2026-07-09): Uwuw chill tho lit es mensajera en el grupo cuando estés chilling probale n.n
+
+**Last from them** (2026-07-09): Gracias viejo
 
 ## Communication stats
 
@@ -28,6 +37,12 @@ Top topics: estoy (6), https (6), ahora (3), puedo (3), hacer (3)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-04] Ivan** (0 emojis): https://docs.google.com/spreadsheets/d/1QjzzklWavEXT6B9kRRWhBke8sP1B1qwkXxJ_LsYXJgs/edit?usp=sharing
+- **[2025-07-11] Ivan** (0 emojis): Me podes pasar Fotos de estella?  Preparo un fla mientras flyers
+
 
 ## Notable messages (auto-extracted)
 

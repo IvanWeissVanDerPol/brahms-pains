@@ -12,8 +12,17 @@
 
 Peak months: `2024-07` (6 msgs)
 Language mix: es: 3, other: 3
-Most active: **Friday** at **17:00**
+Most active: **Friday** at **17:00** (afternoon (12-18))
 Top topics: facebook (1), después (1), parece (1), finos (1), sabes (1)
+Avg msg length: Ivan 85 chars, them 5 chars
+Avg reply time: Ivan 1m, them 31s
+Question ratio: Ivan 33.3%, them 0.0%
+
+**First message** (2024-07-19, Ivan): Hola
+
+**Last from Ivan** (2024-07-19): Uff me parece que son los más finos estos   No sabes donde se consiguen los que son gruesos o como usar sin que te lastime toda la mano?   Me interesa pero creo que voy a tener el mismo problema que e
+
+**Last from them** (2024-07-19): Ok
 
 ## Communication stats
 
@@ -26,6 +35,11 @@ Top topics: facebook (1), después (1), parece (1), finos (1), sabes (1)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-07-19] Ivan** (0 emojis): Uff me parece que son los más finos estos   No sabes donde se consiguen los que son gruesos o como usar sin que te lastime toda la mano?   Me interesa pero creo que voy a tener el mismo problema que el que tenía en mi gimnasio anterior
+
 
 ## Notable messages (auto-extracted)
 

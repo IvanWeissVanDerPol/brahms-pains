@@ -12,8 +12,17 @@
 
 Peak months: `2025-06` (5 msgs), `2026-02` (24 msgs)
 Language mix: other: 20, es: 9
-Most active: **Saturday** at **1:00**
+Most active: **Saturday** at **1:00** (night (23-6))
 Top topics: delivery (2), caacupe (2), momento (2), mañana (2), estas (1)
+Avg msg length: Ivan 21 chars, them 17 chars
+Avg reply time: Ivan 4m, them 1m
+Question ratio: Ivan 41.7%, them 5.9%
+
+**First message** (2025-06-27, Them): .
+
+**Last from Ivan** (2026-02-07): okis
+
+**Last from them** (2026-02-07): 60 mil sería así total
 
 ## Communication stats
 

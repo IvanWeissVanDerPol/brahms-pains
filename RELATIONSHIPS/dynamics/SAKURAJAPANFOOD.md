@@ -12,8 +12,17 @@
 
 Peak months: `2023-07` (8 msgs)
 Language mix: es: 4, other: 4
-Most active: **Tuesday** at **18:00**
+Most active: **Tuesday** at **18:00** (evening (18-23))
 Top topics: gracias (3), buenas (2), tardes (2), tienen (1), acaso (1)
+Avg msg length: Ivan 54 chars, them 32 chars
+Avg reply time: Ivan 4m, them 3m
+Question ratio: Ivan 50.0%, them 0.0%
+
+**First message** (2023-07-25, Ivan): Buenas tardes   Tienen por si acaso parrilla 0ara hacer takoyaki?
+
+**Last from Ivan** (2023-07-25): Gracias veo para ir cuando junte más money
+
+**Last from them** (2023-07-25): ☺️👍🏻
 
 ## Communication stats
 
@@ -26,6 +35,12 @@ Top topics: gracias (3), buenas (2), tardes (2), tienen (1), acaso (1)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-07-25] Them** (3 emojis): ¡Hola! Gracias por comunicarte con Sakura Mini Market!🌸 En breve nos comunicaremos con usted😊Muchas gracias!🙇
+- **[2023-07-25] Ivan** (0 emojis): Buenas tardes   Tienen por si acaso parrilla 0ara hacer takoyaki?
+
 
 ## Notable messages (auto-extracted)
 

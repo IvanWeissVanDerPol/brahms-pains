@@ -12,10 +12,19 @@
 
 Peak months: `2023-01` (28 msgs), `2023-02` (27 msgs), `2023-03` (32 msgs)
 Language mix: en: 39, other: 47, mixed: 1
-Most active: **Tuesday** at **16:00**
+Most active: **Tuesday** at **16:00** (night (23-6))
 Top topics: example (6), thanks (6), business (5), money (5), something (5)
+Avg msg length: Ivan 43 chars, them 49 chars
+Avg reply time: Ivan 11m, them 53m
+Question ratio: Ivan 11.9%, them 25.0%
 
 **They call Ivan:** 'ivan' (6x)
+
+**First message** (2023-01-21, Them): Hey Ivan how are you ?  It"s Antoine
+
+**Last from Ivan** (2023-03-21): UWu
+
+**Last from them** (2023-03-21): He aks me for radio bro 😭😭😭
 
 ## Communication stats
 
@@ -28,6 +37,15 @@ Top topics: example (6), thanks (6), business (5), money (5), something (5)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-02-06] Them** (0 emojis): Hello Ivan,  I hope you are doing well. I have a project in International Business. Can you answer these 2 questions with the point of view of a Paraguayan citizen (who live in Paraguay currently.)   it's not urgent, do it when you can, when you have free time.   1) “What do you think is the most di
+- **[2023-02-06] Ivan** (0 emojis): 1 I don't think they have many problems going to Paraguay Most people will probably buy them (if they aren't crazy expensive) just to show off and feel American   Maybe the biggest problems are on the legal side and politics Because there is a lot of corruption in Paraguay https://www.economist.com/
+- **[2023-01-21] Ivan** (0 emojis): Do you remember when the teacher was talking about different business  And stories  Like  The airplane that landed in the river  That went ok because the pilot was the correct guy  And he had a lot of experience and could drift the plane between buildings and stuff
+- **[2023-02-01] Them** (0 emojis): Hey Ivan  What did write for this one : 10.	Chapter 18.  What are 4 things you can do to create a professional image? please
+- **[2023-03-15] Ivan** (0 emojis): https://twitter.com/heartereum/status/1619053999008931840?t=jo-KgYVOncVmfLGHuc0O7g&s=08
+
 
 ## Notable messages (auto-extracted)
 

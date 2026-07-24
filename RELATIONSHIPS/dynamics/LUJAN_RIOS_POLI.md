@@ -12,10 +12,19 @@
 
 Peak months: `2022-07` (11 msgs), `2022-08` (208 msgs), `2022-10` (228 msgs)
 Language mix: other: 504, es: 141, mixed: 2, en: 3
-Most active: **Wednesday** at **13:00**
+Most active: **Wednesday** at **13:00** (afternoon (12-18))
 Top topics: tengo (15), estoy (14), jajaja (13), hacer (12), ahora (11)
+Avg msg length: Ivan 32 chars, them 21 chars
+Avg reply time: Ivan 3m, them 2m
+Question ratio: Ivan 10.3%, them 6.1%
 
 **They call Ivan:** 'amor' (2x), 'ivan' (1x)
+
+**First message** (2022-07-31, Them): WEISS
+
+**Last from Ivan** (2023-01-02): Googlea nomás todas tus preguntas y ejercicios Todo está online  Y con chat gpt 3 hasta preguntas normales te puede responder
+
+**Last from them** (2023-01-02): Pq ya es todo presencial po
 
 ## Communication stats
 
@@ -28,6 +37,15 @@ Top topics: tengo (15), estoy (14), jajaja (13), hacer (12), ahora (11)
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-01-02] Them** (1 emojis): Creo que Fran me había dicho que tome inglés con Mirtha pero ella no está 😭
+- **[2022-10-05] Ivan** (0 emojis): jajaj osea  yo ni ahi estoy  pero con osvaldo si me piche solo me mensajea para pedir que le haga examen o para que le de weed  ademas de que le re tantea a mi hermana cuando viene a casa y ella onda XD  saffi chil re buena onda hector chill  pero onda solo nos juntamos para hacer farra en casa  fra
+- **[2022-10-05] Ivan** (0 emojis): Onda  No tengo los high standards de gente   Tipo  Me gustaría onda Que sea cute  Que sea inteligente Que le guste jugar conmigo Que me trate bien y de minutos  Que tenga algo que quiera hacer así le puedo ayudar/divertinos con los proyectos de los 2
+- **[2022-12-22] Ivan** (0 emojis): Onda a mi me gusta por que me deja más tranquilo y es más fácil pensar y dedicarme a hacer cosas sin distraerme   Tipo stoner funcional    Suelo fumar las noches antes de dormir  O días que se que no voy a hacer nada
+- **[2022-10-05] Ivan** (0 emojis): Y que programa usas para codear? Visual studio code(?  Hay plugins que podes usar para ayudarte  O si es en papel f ya
+
 
 ## Notable messages (auto-extracted)
 

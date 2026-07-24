@@ -12,8 +12,17 @@
 
 Peak months: `2022-09` (11 msgs)
 Language mix: es: 9, other: 2
-Most active: **Monday** at **11:00**
+Most active: **Monday** at **11:00** (morning (6-12))
 Top topics: gracias (3), cultiva (3), cultivar (2), organización (2), cannabis (2)
+Avg msg length: Ivan 103 chars, them 132 chars
+Avg reply time: Ivan 24m, them 30m
+Question ratio: Ivan 50.0%, them 14.3%
+
+**First message** (2022-09-05, Ivan): Buenos días  Que tal? Me llamo Iván Weiss Quisiera consultar cómo es para poder cultivar
+
+**Last from Ivan** (2022-09-05): Voy a googlear gracias
+
+**Last from them** (2022-09-05): Cuál es la enfermedad que padece?
 
 ## Communication stats
 
@@ -26,6 +35,13 @@ Top topics: gracias (3), cultiva (3), cultivar (2), organización (2), cannabis 
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-05] Them** (1 emojis): Gracias por contactarnos Mamá Cultiva Paraguay es una Organización que está vinculada a Mamá Cultiva Chile  y Fundación Daya, promovemos el uso del aceite de Cannabis Medicinal. NO SOMOS PROVEEDORES, orientamos y ayudamos a los miembros de la organización, con charlas y talleres. Si desea ser miembr
+- **[2022-09-05] Ivan** (0 emojis): No tengo ninguna enfermedad Pero se de sus usos y suelo preparar para mis padres que tienen dolores   Y quiero darles una planta y mostrarles como hacer las cosas con videos de YouTube   Pero como tenemos miedo de que la Senad o algo así nos hagan drama no les planté nada aún
+- **[2022-09-05] Ivan** (0 emojis): Buenos días  Que tal? Me llamo Iván Weiss Quisiera consultar cómo es para poder cultivar
+
 
 ## Notable messages (auto-extracted)
 

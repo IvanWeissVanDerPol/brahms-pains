@@ -12,8 +12,17 @@
 
 Peak months: `2023-10` (9 msgs)
 Language mix: other: 7, es: 2
-Most active: **Tuesday** at **13:00**
+Most active: **Tuesday** at **13:00** (afternoon (12-18))
 Top topics: recibido (2), éxito (2), proceso (2), verificación (2), siguiente (2)
+Avg msg length: Ivan 1 chars, them 70 chars
+Avg reply time: Ivan n/a, them 5m
+Question ratio: Ivan 0.0%, them 0.0%
+
+**First message** (2023-10-24, Ivan): xd
+
+**Last from Ivan** (2023-10-24): xd
+
+**Last from them** (2023-10-24): _Comprobante recibido con éxito, en proceso de verificación, en un siguiente e-mail le notificaremos sobre su aprobación._
 
 ## Communication stats
 
