@@ -1,4 +1,14 @@
-<!DOCTYPE html>
+#!/usr/bin/env python3
+"""Build a SMALL viewer that fetches viewer_full_data.json lazily.
+~30KB HTML, ~600KB JSON. Renders inline messages on click.
+"""
+from __future__ import annotations
+from pathlib import Path
+
+REPO = Path(__file__).resolve().parent.parent
+ANALYSIS = REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS"
+
+HTML = '''<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -125,3 +135,7 @@ init().catch(e => {
 </script>
 </body>
 </html>
+'''
+out = ANALYSIS / "viewer.html"
+out.write_text(HTML)
+print(f"Wrote {out.relative_to(REPO)} ({len(HTML):,} bytes)")
