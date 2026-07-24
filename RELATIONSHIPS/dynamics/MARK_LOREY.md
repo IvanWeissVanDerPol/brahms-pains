@@ -8,14 +8,14 @@
 
 ## Overview
 
-**Auto-extracted stats** (293 from Ivan, 178 from them)
+**Auto-extracted stats** (293 from Ivan, 178 from them, 38 emojis)
 
-Peak months: `2022-06` (230 msgs), `2022-07` (180 msgs), `2022-09` (39 msgs)
+Peak months: `2022-06` (230 msgs), `2022-07` (180 msgs), `2022-08` (19 msgs)
 Language mix: other: 386, es: 85
+Most active: **Sunday** at **18:00**
+Top topics: jajaja (35), surge (13), jajajaj (11), estoy (10), jajajaja (10)
 
 **They call Ivan:** 'loco' (2x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -28,6 +28,20 @@ Language mix: other: 386, es: 85
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-29] Them** (2 emojis): Ya estancia osea quede antes en ir ahí contigo, pero el kp de monsi le dio semillas de lemon haze y white whidow🥴😖
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-29] Them** (2 emojis): Ya estancia osea quede antes en ir ahí contigo, pero el kp de monsi le dio semillas de lemon haze y white whidow🥴😖
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-29] Them** (2 emojis): Ya estancia osea quede antes en ir ahí contigo, pero el kp de monsi le dio semillas de lemon haze y white whidow🥴😖
 
 
 ## Notes

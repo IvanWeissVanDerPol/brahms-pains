@@ -8,12 +8,12 @@
 
 ## Overview
 
-**Auto-extracted stats** (29 from Ivan, 677 from them)
+**Auto-extracted stats** (29 from Ivan, 677 from them, 0 emojis)
 
 Peak months: `2023-11` (219 msgs), `2023-12` (92 msgs), `2024-02` (137 msgs)
 Language mix: es: 87, other: 611, en: 7, mixed: 1
-
-## Communication stats
+Most active: **Tuesday** at **14:00**
+Top topics: react (34), experiencia (28), remoto (25), junior (23), senior (21)
 
 ## Communication stats
 
@@ -26,6 +26,20 @@ Language mix: es: 87, other: 611, en: 7, mixed: 1
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-11-06] Ivan** (0 emojis): lo de ver cuanto cobrar basado en paginas onda greendoor? o lo de buscar info de empresad en py?
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-11-06] Ivan** (0 emojis): lo de ver cuanto cobrar basado en paginas onda greendoor? o lo de buscar info de empresad en py?
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-11-06] Ivan** (0 emojis): lo de ver cuanto cobrar basado en paginas onda greendoor? o lo de buscar info de empresad en py?
 
 
 ## Notes

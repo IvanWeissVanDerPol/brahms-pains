@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (3 from Ivan, 6 from them, 1 emojis)
+
+Peak months: `2022-07` (9 msgs)
+Language mix: es: 4, other: 5
+Most active: **Monday** at **22:00**
+Top topics: estas (2), oficina (1), porfis (1), podes (1), desconectar (1)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-18] Them** (0 emojis): Holi Ivan Vos estas en la oficina? Si es que estas será porfis no podes desconectar el mouse porque veo como si alguien moviera
+
 
 ## Notes
 

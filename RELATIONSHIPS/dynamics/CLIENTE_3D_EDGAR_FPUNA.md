@@ -8,16 +8,16 @@
 
 ## Overview
 
-**Auto-extracted stats** (740 from Ivan, 680 from them)
+**Auto-extracted stats** (740 from Ivan, 680 from them, 65 emojis)
 
-Peak months: `2021-09` (140 msgs), `2021-10` (224 msgs), `2023-03` (105 msgs)
+Peak months: `2021-01` (89 msgs), `2021-09` (140 msgs), `2021-10` (224 msgs)
 Language mix: other: 1180, es: 233, en: 6, mixed: 1
+Most active: **Tuesday** at **23:00**
+Top topics: https (40), hacer (24), estoy (21), jajaja (20), podes (13)
 
 **Ivan calls them:** 'bb' (1x)
 
 **They call Ivan:** 'ivan' (2x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -30,6 +30,23 @@ Language mix: other: 1180, es: 233, en: 6, mixed: 1
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2021-08-17] Ivan** (0 emojis): f4 actividad 2  word https://1drv.ms/w/s!AhxC3Rl_fRNLjTTumYqdOvOHh4Zk excel https://1drv.ms/x/s!AhxC3Rl_fRNLjTb3nTru87_qLIAT
+- **[2022-10-06] Ivan** (0 emojis): me tirarias un resumen de lo interesante de la chala? / si tiran info de beca? XDXD plz
+
+
+## Notable messages (auto-extracted)
+
+- **[2021-08-17] Ivan** (0 emojis): f4 actividad 2  word https://1drv.ms/w/s!AhxC3Rl_fRNLjTTumYqdOvOHh4Zk excel https://1drv.ms/x/s!AhxC3Rl_fRNLjTb3nTru87_qLIAT
+- **[2022-10-06] Ivan** (0 emojis): me tirarias un resumen de lo interesante de la chala? / si tiran info de beca? XDXD plz
+
+
+## Notable messages (auto-extracted)
+
+- **[2021-08-17] Ivan** (0 emojis): f4 actividad 2  word https://1drv.ms/w/s!AhxC3Rl_fRNLjTTumYqdOvOHh4Zk excel https://1drv.ms/x/s!AhxC3Rl_fRNLjTb3nTru87_qLIAT
+- **[2022-10-06] Ivan** (0 emojis): me tirarias un resumen de lo interesante de la chala? / si tiran info de beca? XDXD plz
 
 
 ## Notes

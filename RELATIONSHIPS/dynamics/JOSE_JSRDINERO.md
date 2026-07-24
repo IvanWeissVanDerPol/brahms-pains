@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (22 from Ivan, 27 from them, 2 emojis)
+
+Peak months: `2023-10` (23 msgs), `2023-11` (5 msgs), `2023-12` (17 msgs)
+Language mix: es: 15, other: 34
+Most active: **Friday** at **15:00**
+Top topics: holis (5), atrás (4), limpiar (3), poner (3), sábado (3)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-11-28] Ivan** (0 emojis): Hola   Será que podes pasar estos días por casa?   Para ver el lava ropas  Y ver cómo sería para poner los Blindex y cuánto sería por ese trabajo   Ver puertas para la sala y la sala de la lava ropa  Limpiar los aires  Nivelar la lava ropas y seca roppaa para que no vibren tanto   Ver la tubería de 
+
 
 ## Notes
 

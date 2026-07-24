@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (1 from Ivan, 5 from them, 0 emojis)
+
+Peak months: `2025-06` (5 msgs), `2025-08` (1 msgs)
+Language mix: other: 2, es: 4
+Most active: **Tuesday** at **17:00**
+Top topics: fiorella (2), saluda (2), insignia (2), cualquier (2), consulta (2)
+
+**They call Ivan:** 'ivan' (3x)
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-08-04] Them** (0 emojis): Hola Ivan! Fiorella te saluda de Insignia, cualquier consulta a las ordenes!
+
 
 ## Notes
 

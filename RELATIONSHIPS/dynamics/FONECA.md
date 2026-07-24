@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (74 from Ivan, 61 from them, 0 emojis)
+
+Peak months: `2025-06` (107 msgs), `2025-08` (12 msgs), `2025-09` (16 msgs)
+Language mix: es: 20, other: 115
+Most active: **Thursday** at **15:00**
+Top topics: estoy (8), https (6), github (5), examen (4), parcial (3)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,22 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-06-26] Ivan** (0 emojis): https://www.google.com/maps/place/Weiss+house/data=!4m2!3m1!1s0x0:0xf0c757dad8e51218?sa=X&ved=1t:2428&ictx=111
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-06-26] Ivan** (0 emojis): https://www.google.com/maps/place/Weiss+house/data=!4m2!3m1!1s0x0:0xf0c757dad8e51218?sa=X&ved=1t:2428&ictx=111
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-06-26] Ivan** (0 emojis): https://www.google.com/maps/place/Weiss+house/data=!4m2!3m1!1s0x0:0xf0c757dad8e51218?sa=X&ved=1t:2428&ictx=111
+
 
 ## Notes
 

@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (62 from Ivan, 52 from them, 3 emojis)
+
+Peak months: `2024-06` (7 msgs), `2025-03` (102 msgs), `2025-04` (5 msgs)
+Language mix: es: 50, other: 64
+Most active: **Wednesday** at **22:00**
+Top topics: consulta (15), buenas (11), estudios (10), costo (10), gracias (9)
+
+**They call Ivan:** 'ivan' (5x)
 
 ## Communication stats
 
@@ -20,7 +27,25 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-11] Ivan** (0 emojis): Buenas   Estoy dejando de fumar ahora   Aún fumo un poco de pod  Pero cannabis ya dejé x 2  semanas  Podría ir ya (? Para la congelación? O mejor esperar aún más tiempo?
+- **[2025-03-10] Ivan** (0 emojis): Puedo haces esto todo con ustedes?  O es mejor que vaya a un hospital como clínicas frente al Pinedo?
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-11] Ivan** (0 emojis): Buenas   Estoy dejando de fumar ahora   Aún fumo un poco de pod  Pero cannabis ya dejé x 2  semanas  Podría ir ya (? Para la congelación? O mejor esperar aún más tiempo?
+- **[2025-03-10] Ivan** (0 emojis): Puedo haces esto todo con ustedes?  O es mejor que vaya a un hospital como clínicas frente al Pinedo?
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-11] Ivan** (0 emojis): Buenas   Estoy dejando de fumar ahora   Aún fumo un poco de pod  Pero cannabis ya dejé x 2  semanas  Podría ir ya (? Para la congelación? O mejor esperar aún más tiempo?
+- **[2025-03-10] Ivan** (0 emojis): Puedo haces esto todo con ustedes?  O es mejor que vaya a un hospital como clínicas frente al Pinedo?
+
 
 ## Notes
 

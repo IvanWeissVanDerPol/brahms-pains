@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (74 from Ivan, 92 from them, 5 emojis)
+
+Peak months: `2022-03` (127 msgs), `2022-06` (18 msgs), `2022-09` (21 msgs)
+Language mix: es: 66, other: 99, en: 1
+Most active: **Tuesday** at **17:00**
+Top topics: profe (14), mañana (11), estoy (10), ahora (10), puedo (10)
 
 ## Communication stats
 
@@ -20,7 +25,28 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-22] Ivan** (0 emojis): Buenas noches profe  Soy Iván Weiss   Quería consultarte un poco de un tema bien divague Jajaja   Yo estoy ahora en el hospital por un quiste que me tienen que operar   Y me parece que mucho de lo que hacen en el hospital en la parte administrativa se puede digitalizar   Onda  Me imagino algo así Qu
+- **[2022-03-04] Ivan** (0 emojis): o decis que fotoshopee la fecha y cambie para canada este? que me hicieron el año pasado?
+- **[2022-09-30] Ivan** (0 emojis): hola profe que tal? sera que te puedo pedir una carta para aplicar a becas otravez?
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-22] Ivan** (0 emojis): Buenas noches profe  Soy Iván Weiss   Quería consultarte un poco de un tema bien divague Jajaja   Yo estoy ahora en el hospital por un quiste que me tienen que operar   Y me parece que mucho de lo que hacen en el hospital en la parte administrativa se puede digitalizar   Onda  Me imagino algo así Qu
+- **[2022-03-04] Ivan** (0 emojis): o decis que fotoshopee la fecha y cambie para canada este? que me hicieron el año pasado?
+- **[2022-09-30] Ivan** (0 emojis): hola profe que tal? sera que te puedo pedir una carta para aplicar a becas otravez?
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-22] Ivan** (0 emojis): Buenas noches profe  Soy Iván Weiss   Quería consultarte un poco de un tema bien divague Jajaja   Yo estoy ahora en el hospital por un quiste que me tienen que operar   Y me parece que mucho de lo que hacen en el hospital en la parte administrativa se puede digitalizar   Onda  Me imagino algo así Qu
+- **[2022-03-04] Ivan** (0 emojis): o decis que fotoshopee la fecha y cambie para canada este? que me hicieron el año pasado?
+- **[2022-09-30] Ivan** (0 emojis): hola profe que tal? sera que te puedo pedir una carta para aplicar a becas otravez?
+
 
 ## Notes
 

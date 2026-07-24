@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (2 from Ivan, 3 from them, 4 emojis)
+
+Peak months: `2023-06` (5 msgs)
+Language mix: es: 4, other: 1
+Most active: **Tuesday** at **14:00**
+Top topics: gracias (2), podemos (2), ayudarte (2), buenas (1), conocen (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por WhatsApp, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
+
 
 ## Notes
 

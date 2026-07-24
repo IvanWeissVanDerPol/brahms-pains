@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (28 from Ivan, 33 from them, 4 emojis)
+
+Peak months: `2023-05` (7 msgs), `2023-06` (13 msgs), `2023-07` (36 msgs)
+Language mix: en: 6, other: 22, es: 33
+Most active: **Thursday** at **20:00**
+Top topics: mentormate (11), horas (11), entrevista (8), sobre (7), sería (7)
+
+**They call Ivan:** 'ivan' (16x), 'iván' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,15 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-07-06] Them** (1 emojis): Hola Ivan, cómo estás? Espero que muy bien! Te escribo para coordinar la entrevista con el cliente al cual queremos proponerte como candidato☺️ Me podrías indicar qué fechas y horarios te quedan bien de entre estas opciones? Por favor, no olvides que estos horarios están en zona horaria *CST*  Frida
+- **[2023-07-20] Them** (1 emojis): Cómo estás Ivan? Te escribo para comentarte que finalmente estamos contando con oportunidades de proyecto y resolvimos realizarte una oferta formal de trabajo 🎉 Si contas con 30 minutos hoy a las 11.45 am podrías sumarte a una llamada para conversar sobre los detalles de la oferta? Saludos!
+- **[2023-07-06] Ivan** (0 emojis): Cst sería 1h atrasado en relación a py verdad ?  Me queda bien Friday 1030 a 11 Que sería 1130 a 1200 en py verdad? Y Monday de 11 a 12  Que sería 12 a 13 en py
+- **[2023-07-24] Them** (0 emojis): Qué tal Ivan? sin problema, podrías hacer esa consulta por correo y con copia a todos agregados? Así el área de recursos humanos va a poder brindar soporte
+
 
 ## Notes
 

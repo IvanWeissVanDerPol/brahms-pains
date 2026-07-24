@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (4 from Ivan, 3 from them, 5 emojis)
+
+Peak months: `2024-01` (7 msgs)
+Language mix: es: 6, other: 1
+Most active: **Monday** at **17:00**
+Top topics: hepatitis (3), aparte (2), clínica (2), servicios (2), gratuitos (2)
 
 ## Communication stats
 
@@ -20,7 +25,14 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-01-29] Them** (5 emojis): Hola ¡Saludos desde SOMOSGAY! [Este es un mensaje automático]En la Clínica Kunu’u contamos estos servicios gratuitos ✅ *Sin agendar* - Test Rápidos gratuitos: VIH, Sífilis, Hepatitis B y Hepatitis C - Consejería y vinculación✅  *Con agendamiento previo a este número*  Salud Mental: Psicología - Cons
+- **[2024-01-29] Ivan** (0 emojis): Esos 4 test serían gratis verdad ?  Si me voy cuanto sería para hacer tests para todos los ets? O los más importantes  Quiero testear me todo por si acaso uwu
+- **[2024-01-29] Ivan** (0 emojis): Hola qué tal Vi su anuncio en grindr   Como es la onda?  Hay más cosas que pueda ver de paso aparte de prep?
+
 
 ## Notes
 

@@ -8,16 +8,16 @@
 
 ## Overview
 
-**Auto-extracted stats** (321 from Ivan, 405 from them)
+**Auto-extracted stats** (321 from Ivan, 405 from them, 138 emojis)
 
-Peak months: `2026-04` (287 msgs), `2026-05` (70 msgs), `2026-06` (310 msgs)
+Peak months: `2026-01` (24 msgs), `2026-04` (287 msgs), `2026-05` (70 msgs)
 Language mix: other: 554, es: 154, en: 11, mixed: 7
+Most active: **Wednesday** at **15:00**
+Top topics: dayah (46), https (28), litworks (27), tengo (26), ahora (25)
 
 **Ivan calls them:** 'amor' (2x), 'mama' (1x)
 
 **They call Ivan:** 'bb' (3x), 'amor' (1x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -30,6 +30,24 @@ Language mix: other: 554, es: 154, en: 11, mixed: 7
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-04-27] Ivan** (70 emojis): Cuestionario de onboarding — Dayah LitWorks Para: Dayah · De: equipo ParaguAI · Fecha: 21 abr 2026  Hola Dayah 👋. Ya tenés tu sitio en vivo en paragu-ai.com/dayah-litworks con los datos que migramos del demo. Pero hay mucho que precargamos con valores por defecto y varias cosas que necesitamos que c
+- **[2026-05-03] Ivan** (22 emojis): # Dayah LitWorks — Cuestionario de Onboarding Completo  > 📅 Versión: Mayo 2026 | 📍 Proyecto: ParaguAI > Propósito: Recopilar toda la información faltante para completar el sitio web.  ---  ## 🟢 SECCIÓN A — CONTENIDO QUE YA ESTÁ EN EL SITIO ✅ *(No necesitamos revisar esto — ya está implementado)*  ##
+- **[2026-06-26] Them** (0 emojis): [25/6, 8:52 p.m.] Nico Pato: Como queda tu plan de mañana con la posibilidad del guiso? [25/6, 8:53 p.m.] Nico Pato: Mañana tengo sesión con la hermana de Neko [25/6, 8:54 p.m.] 𝐃𝐚𝐲𝐚𝐡: Nate también se va. [25/6, 8:54 p.m.] 𝐃𝐚𝐲𝐚𝐡: Kiki deliiii [25/6, 9:07 p.m.] Nico Pato: Nate??? [25/6, 9:07 p.m.] Ni
+- **[2026-04-22] Ivan** (0 emojis): que herramientas usas? pagas any servicios onda apps para tu tablet que consideras que usas mucho? que cosas haces?  no prob en un doc de tips compilado por mis ias despues jasjasj
+- **[2026-06-30] Them** (0 emojis): Alooo, ¿qué tal baby? ¿Decís que hoy vamos a Sabbath? Le escribí a Yami por si acaso. Pero sabes luego que tarda una vida en responder jeje
+
+
+## Notable messages (auto-extracted)
+
+- **[2026-04-27] Ivan** (70 emojis): Cuestionario de onboarding — Dayah LitWorks Para: Dayah · De: equipo ParaguAI · Fecha: 21 abr 2026  Hola Dayah 👋. Ya tenés tu sitio en vivo en paragu-ai.com/dayah-litworks con los datos que migramos del demo. Pero hay mucho que precargamos con valores por defecto y varias cosas que necesitamos que c
+- **[2026-05-03] Ivan** (22 emojis): # Dayah LitWorks — Cuestionario de Onboarding Completo  > 📅 Versión: Mayo 2026 | 📍 Proyecto: ParaguAI > Propósito: Recopilar toda la información faltante para completar el sitio web.  ---  ## 🟢 SECCIÓN A — CONTENIDO QUE YA ESTÁ EN EL SITIO ✅ *(No necesitamos revisar esto — ya está implementado)*  ##
+- **[2026-06-26] Them** (0 emojis): [25/6, 8:52 p.m.] Nico Pato: Como queda tu plan de mañana con la posibilidad del guiso? [25/6, 8:53 p.m.] Nico Pato: Mañana tengo sesión con la hermana de Neko [25/6, 8:54 p.m.] 𝐃𝐚𝐲𝐚𝐡: Nate también se va. [25/6, 8:54 p.m.] 𝐃𝐚𝐲𝐚𝐡: Kiki deliiii [25/6, 9:07 p.m.] Nico Pato: Nate??? [25/6, 9:07 p.m.] Ni
+- **[2026-04-22] Ivan** (0 emojis): que herramientas usas? pagas any servicios onda apps para tu tablet que consideras que usas mucho? que cosas haces?  no prob en un doc de tips compilado por mis ias despues jasjasj
+- **[2026-06-30] Them** (0 emojis): Alooo, ¿qué tal baby? ¿Decís que hoy vamos a Sabbath? Le escribí a Yami por si acaso. Pero sabes luego que tarda una vida en responder jeje
+
 
 ## Notable messages (auto-extracted)
 

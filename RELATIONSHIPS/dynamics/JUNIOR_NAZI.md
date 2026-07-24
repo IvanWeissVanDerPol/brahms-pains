@@ -8,14 +8,14 @@
 
 ## Overview
 
-**Auto-extracted stats** (1,402 from Ivan, 1,295 from them)
+**Auto-extracted stats** (1,402 from Ivan, 1,295 from them, 25 emojis)
 
-Peak months: `2022-01` (190 msgs), `2022-03` (202 msgs), `2022-04` (255 msgs)
+Peak months: `2022-01` (190 msgs), `2022-02` (181 msgs), `2022-03` (202 msgs)
 Language mix: other: 2138, es: 542, en: 14, mixed: 3
+Most active: **Thursday** at **18:00**
+Top topics: https (106), hacer (54), estoy (53), jajajaja (48), jajaja (47)
 
 **They call Ivan:** 'ivan' (5x), 'loco' (2x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -28,6 +28,26 @@ Language mix: other: 2138, es: 542, en: 14, mixed: 3
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-03-24] Ivan** (0 emojis): Y no Onda si tenés pareja querés que te dé tranquilidad y todo eso Y si del hola qué tal ya es así no le van a dar bola   Onda si te pones en el lugar de una mujer  Que vas a preferir? Alguien chubby que te haga sonreír todo el tiempo? O alguien fisiculturista que siempre este estresado y gritando  
+- **[2024-03-23] Them** (0 emojis): CASO 1 1.1. ¿Cuál es el activo del caso? Justifique en base a lo que describe el caso. * 3 puntos 1.2. ¿Cuál de los principios de la triada de seguridad de la información está afectada? Justificar en base a lo descrito en el caso. * 3 puntos 1.3. ¿El caso plantea una situación de privacidad, utilida
+- **[2022-02-19] Them** (0 emojis): ¿Qué tan larga debo tener la barba para ser un senior backend? y dado el caso ¿Qué color de cabello me recomiendan para empezar en el frontend?
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-03-24] Ivan** (0 emojis): Y no Onda si tenés pareja querés que te dé tranquilidad y todo eso Y si del hola qué tal ya es así no le van a dar bola   Onda si te pones en el lugar de una mujer  Que vas a preferir? Alguien chubby que te haga sonreír todo el tiempo? O alguien fisiculturista que siempre este estresado y gritando  
+- **[2024-03-23] Them** (0 emojis): CASO 1 1.1. ¿Cuál es el activo del caso? Justifique en base a lo que describe el caso. * 3 puntos 1.2. ¿Cuál de los principios de la triada de seguridad de la información está afectada? Justificar en base a lo descrito en el caso. * 3 puntos 1.3. ¿El caso plantea una situación de privacidad, utilida
+- **[2022-02-19] Them** (0 emojis): ¿Qué tan larga debo tener la barba para ser un senior backend? y dado el caso ¿Qué color de cabello me recomiendan para empezar en el frontend?
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-03-24] Ivan** (0 emojis): Y no Onda si tenés pareja querés que te dé tranquilidad y todo eso Y si del hola qué tal ya es así no le van a dar bola   Onda si te pones en el lugar de una mujer  Que vas a preferir? Alguien chubby que te haga sonreír todo el tiempo? O alguien fisiculturista que siempre este estresado y gritando  
+- **[2024-03-23] Them** (0 emojis): CASO 1 1.1. ¿Cuál es el activo del caso? Justifique en base a lo que describe el caso. * 3 puntos 1.2. ¿Cuál de los principios de la triada de seguridad de la información está afectada? Justificar en base a lo descrito en el caso. * 3 puntos 1.3. ¿El caso plantea una situación de privacidad, utilida
+- **[2022-02-19] Them** (0 emojis): ¿Qué tan larga debo tener la barba para ser un senior backend? y dado el caso ¿Qué color de cabello me recomiendan para empezar en el frontend?
 
 
 ## Notes

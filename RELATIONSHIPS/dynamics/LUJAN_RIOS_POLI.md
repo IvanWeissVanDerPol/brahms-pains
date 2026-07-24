@@ -8,14 +8,14 @@
 
 ## Overview
 
-**Auto-extracted stats** (271 from Ivan, 379 from them)
+**Auto-extracted stats** (271 from Ivan, 379 from them, 28 emojis)
 
-Peak months: `2022-08` (208 msgs), `2022-10` (228 msgs), `2022-12` (180 msgs)
+Peak months: `2022-07` (11 msgs), `2022-08` (208 msgs), `2022-10` (228 msgs)
 Language mix: other: 504, es: 141, mixed: 2, en: 3
+Most active: **Wednesday** at **13:00**
+Top topics: tengo (15), estoy (14), jajaja (13), hacer (12), ahora (11)
 
 **They call Ivan:** 'amor' (2x), 'ivan' (1x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -28,6 +28,20 @@ Language mix: other: 504, es: 141, mixed: 2, en: 3
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-10-05] Ivan** (0 emojis): Y que programa usas para codear? Visual studio code(?  Hay plugins que podes usar para ayudarte  O si es en papel f ya
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-10-05] Ivan** (0 emojis): Y que programa usas para codear? Visual studio code(?  Hay plugins que podes usar para ayudarte  O si es en papel f ya
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-10-05] Ivan** (0 emojis): Y que programa usas para codear? Visual studio code(?  Hay plugins que podes usar para ayudarte  O si es en papel f ya
 
 
 ## Notes

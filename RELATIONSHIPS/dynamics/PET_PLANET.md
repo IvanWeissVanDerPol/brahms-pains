@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (20 from Ivan, 23 from them, 0 emojis)
+
+Peak months: `2023-07` (27 msgs), `2023-08` (14 msgs), `2024-07` (2 msgs)
+Language mix: other: 39, es: 4
+Most active: **Monday** at **14:00**
+Top topics: puedo (3), buenas (2), perro (2), cinthia (2), comprar (2)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-08-17] Ivan** (0 emojis): Buenas tienen comida de perro disponible? Quiero comprar otravez
+
 
 ## Notes
 

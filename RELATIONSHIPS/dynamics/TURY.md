@@ -8,7 +8,16 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (30 from Ivan, 36 from them, 20 emojis)
+
+Peak months: `2022-09` (66 msgs)
+Language mix: other: 42, es: 24
+Most active: **Wednesday** at **22:00**
+Top topics: ajsjsj (3), jajaja (3), hacer (3), holiii (2), sabes (2)
+
+**Ivan calls them:** 'mamá' (1x)
+
+**They call Ivan:** 'iván' (1x)
 
 ## Communication stats
 
@@ -20,7 +29,15 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-07] Them** (3 emojis): Es un acto de una drag que se llama envidia metenes, es una diivaaa🤩🤩✨
+- **[2022-09-07] Them** (2 emojis): Decile que sos Iván y que yo te pase el contacto, el resto ya sabes ✨✨
+- **[2022-09-07] Ivan** (0 emojis): Jajaja don't worry   Si te sirve podes probar mi programa ese y me das críticas / cosas que mejor (?
+- **[2022-09-06] Ivan** (0 emojis): hola eyy  por si acaso sabes donde coseguir cannabis por sanlo? mi dealer se mudo a brasil xD
+
 
 ## Notes
 

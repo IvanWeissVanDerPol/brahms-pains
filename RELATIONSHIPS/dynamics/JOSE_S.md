@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (22 from Ivan, 30 from them, 19 emojis)
+
+Peak months: `2024-01` (3 msgs), `2024-03` (1 msgs), `2024-07` (2 msgs)
+Language mix: other: 41, en: 3, es: 8
+Most active: **Saturday** at **20:00**
+Top topics: https (13), youtube (4), referral (3), revolut (2), compa (2)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-09-20] Them** (3 emojis): QA Engineer (mid-level 3/4 yoe)  ▫Java ▫Selenium or Cypress ▫JUnit, testNG, Postman ▫SQL  💸Up to 4.5k USD  100% remote 🌎Latam Upper-intermediate English 🎮Video game company  Cv and linkedin to veronica.arias@prediktive.com
+
 
 ## Notes
 

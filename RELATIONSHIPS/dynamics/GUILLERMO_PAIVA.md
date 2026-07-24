@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (58 from Ivan, 39 from them, 3 emojis)
+
+Peak months: `2022-09` (35 msgs), `2023-03` (32 msgs), `2024-05` (2 msgs)
+Language mix: other: 65, es: 28, en: 3, mixed: 1
+Most active: **Friday** at **20:00**
+Top topics: https (5), sobre (4), ahora (4), github (4), cosas (3)
 
 ## Communication stats
 
@@ -20,7 +25,16 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-02] Them** (1 emojis): al momento tenemos esto de nuestro mvp, pero si nos falta muchas cosas que ahora estamos observando 🤣
+- **[2023-03-22] Them** (1 emojis): Cuándo es? 🌚 Ahora estamos ocupados porque mañana rendimos base de datos 2 :'v
+- **[2022-09-02] Ivan** (0 emojis): Si van a postear anuncios y eso después  Hice un bot de Python  Que puede postear en hendyla y clasipar   (Preparan flyers genéricos que hagan auto fill) Y ponen onda  Veni aprende materia x o algo así   Y después ponen 100 flyers en cada página de anuncios para tener muchos links a su página  (Si r
+- **[2022-09-02] Them** (0 emojis): aaalgo asi, solo que tendra cursos gratis y de pago estara mas enfocado a matematica, informatica y marketing xd  va a contener clases gamificadas y una clase de finalizacion de entrega de un proyecto, que si todo esta ok, se publica para que todos vean los resultados de los estudiantes al terminar 
+- **[2022-09-02] Ivan** (0 emojis): Jsjsjsjsjsjsjs  Yo lgmt no se ni qué hacen  Onda me recordé que hablaban Fran y junior de que andabas con cosas interesantes  Pero eso nomás    Y pensé hmm Capaz sea divertido ver si puedo participar y aprender algo en mi tiempo libre  Onda de Hobbie me gusta hacer proyectos puretes
+
 
 ## Notes
 

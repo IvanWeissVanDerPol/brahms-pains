@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (3 from Ivan, 3 from them, 2 emojis)
+
+Peak months: `2025-01` (6 msgs)
+Language mix: es: 1, other: 5
+Most active: **Tuesday** at **12:00**
+Top topics: buenos (2), super (2), estás (1), guardo (1), número (1)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-01-06] Ivan** (1 emojis): ¡Hola, Magali! 😊  ¡Feliz año nuevo para vos también! Gracias por pasarme tu contacto. Quedo atento a cualquier oportunidad que pueda surgir y con gusto podemos conversar si hay algo interesante.  Mientras tanto, te dejo mi página web: ivanweissvanderpol.github.io, donde podés ver más sobre mi experi
+
 
 ## Notes
 

@@ -8,16 +8,16 @@
 
 ## Overview
 
-**Auto-extracted stats** (3,464 from Ivan, 3,928 from them)
+**Auto-extracted stats** (3,464 from Ivan, 3,928 from them, 828 emojis)
 
-Peak months: `2021-11` (601 msgs), `2021-12` (538 msgs), `2022-03` (636 msgs)
+Peak months: `2021-11` (601 msgs), `2021-12` (538 msgs), `2022-02` (451 msgs)
 Language mix: other: 5603, es: 1702, en: 81, mixed: 6
+Most active: **Monday** at **23:00**
+Top topics: estoy (182), https (153), hacer (132), ahora (123), tengo (107)
 
-**Ivan calls them:** 'loca' (4x), 'kiki' (3x), 'amor' (3x)
+**Ivan calls them:** 'loca' (4x), 'kiki' (3x), 'amor' (3x), 'mamá' (2x), 'loco' (1x)
 
-**They call Ivan:** 'ivan' (82x), 'loco' (4x), 'iván' (3x)
-
-## Communication stats
+**They call Ivan:** 'ivan' (82x), 'loco' (4x), 'iván' (3x), 'loca' (1x), 'amor' (1x)
 
 ## Communication stats
 
@@ -30,6 +30,24 @@ Language mix: other: 5603, es: 1702, en: 81, mixed: 6
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-14] Them** (24 emojis): *¡Expone tus conocimientos!*😼🧪💡  Anímate a este desafío y viaja con nosotros a Misiones para la Feria de Ciencias y Tecnología de Dirección de investigación Científica y Tecnológica el 22 de Julio de 2022.😍🦾💙  Si sos de: -IEN♻️ -IEL⚡ -IEK🧮 -IAE🛩️ -ISP⚙️ -IIN🖥️ -ICM🫧 -LCIK💻 -LEL💡  Prepará junto a tu 
+- **[2025-03-19] Them** (14 emojis): los hombres tambien podemos estar tristes? [9:33 a.m., 19/3/2025] Fran: Jessi siempre me pregunte que hice para que te enojes conmigo 🤔 paso mucho tiempo y encontre tu contacto [9:37 a.m., 19/3/2025] Fran: Eramos re buenos amigos y un día de repente ya no estabas [9:41 a.m., 19/3/2025] Jessica Rojas
+- **[2023-09-18] Ivan** (5 emojis): ¡Buenos días a todos! ☀️ para quienes no quieran perder la práctica del idioma 🇺🇸 está vigente esta oportunidad, al ser miembros del programa Give Back el Comité y el Instituto le otorgan el beneficio de media beca ⚠️🎓📚🎒
+- **[2023-07-01] Them** (4 emojis): Y puedo ir en Bolt El tema que tampoco quiero tomar ni estar high 💔🤣 me siento muy mal de anoche 💔💔
+- **[2024-02-14] Ivan** (2 emojis): Buenas tardes a todos ☺ A parte del curso de preparación al TOEFL que estábamos compartiendo días atrás, en cooperación con el Instituto Alianza Educativa ofrecemos también cursos virtuales de inglés para todos los niveles del idioma. Por si quieran continuar reforzando su inglés o conozcan a alguie
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-06-14] Them** (24 emojis): *¡Expone tus conocimientos!*😼🧪💡  Anímate a este desafío y viaja con nosotros a Misiones para la Feria de Ciencias y Tecnología de Dirección de investigación Científica y Tecnológica el 22 de Julio de 2022.😍🦾💙  Si sos de: -IEN♻️ -IEL⚡ -IEK🧮 -IAE🛩️ -ISP⚙️ -IIN🖥️ -ICM🫧 -LCIK💻 -LEL💡  Prepará junto a tu 
+- **[2025-03-19] Them** (14 emojis): los hombres tambien podemos estar tristes? [9:33 a.m., 19/3/2025] Fran: Jessi siempre me pregunte que hice para que te enojes conmigo 🤔 paso mucho tiempo y encontre tu contacto [9:37 a.m., 19/3/2025] Fran: Eramos re buenos amigos y un día de repente ya no estabas [9:41 a.m., 19/3/2025] Jessica Rojas
+- **[2023-09-18] Ivan** (5 emojis): ¡Buenos días a todos! ☀️ para quienes no quieran perder la práctica del idioma 🇺🇸 está vigente esta oportunidad, al ser miembros del programa Give Back el Comité y el Instituto le otorgan el beneficio de media beca ⚠️🎓📚🎒
+- **[2023-07-01] Them** (4 emojis): Y puedo ir en Bolt El tema que tampoco quiero tomar ni estar high 💔🤣 me siento muy mal de anoche 💔💔
+- **[2024-02-14] Ivan** (2 emojis): Buenas tardes a todos ☺ A parte del curso de preparación al TOEFL que estábamos compartiendo días atrás, en cooperación con el Instituto Alianza Educativa ofrecemos también cursos virtuales de inglés para todos los niveles del idioma. Por si quieran continuar reforzando su inglés o conozcan a alguie
+
 
 ## Notable messages (auto-extracted)
 

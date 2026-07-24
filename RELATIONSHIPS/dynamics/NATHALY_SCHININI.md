@@ -8,14 +8,14 @@
 
 ## Overview
 
-**Auto-extracted stats** (212 from Ivan, 154 from them)
+**Auto-extracted stats** (212 from Ivan, 154 from them, 17 emojis)
 
-Peak months: `2022-06` (63 msgs), `2022-07` (117 msgs), `2023-04` (58 msgs)
+Peak months: `2021-12` (55 msgs), `2022-06` (63 msgs), `2022-07` (117 msgs)
 Language mix: other: 305, es: 60, mixed: 1
+Most active: **Friday** at **18:00**
+Top topics: jajaja (14), jajajaja (11), hacer (7), brownies (6), estoy (6)
 
 **They call Ivan:** 'ivan' (1x), 'iván' (1x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -28,6 +28,14 @@ Language mix: other: 305, es: 60, mixed: 1
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-26] Ivan** (0 emojis): Maaaaan que putos son esos profes Onda whyyyyyy  Tipo  Sure sirve para que los que hacen random valgan verga Y tengan menos que corregir ellos Pero a los disléxicos que leen 6 como 9  Rip  Y por eso sale mal jsjsksjs
+- **[2022-07-19] Ivan** (0 emojis): Voy a estar probablemente en mi casa ahí pegado a la facu fumando el jueves a eso de las 7/10  X si te surge / sabes de gente que va y es stoner (?
+- **[2026-03-25] Ivan** (0 emojis): Hello   Sabes por si acaso donde comprar remera lila o violeta oscuro  Y pantalón de cuero ?
+- **[2022-06-25] Them** (0 emojis): Holi, estoy usando mi cel pa poner música y no puedo escuchar audios, me escribís? uwu
+- **[2021-12-01] Ivan** (0 emojis): https://www.youtube.com/watch?v=Db1WbTajdCk&ab_channel=SquidwardTennisBalls
 
 
 ## Notes

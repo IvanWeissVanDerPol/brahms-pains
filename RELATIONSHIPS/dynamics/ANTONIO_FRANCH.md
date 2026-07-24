@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (59 from Ivan, 28 from them, 6 emojis)
+
+Peak months: `2023-01` (28 msgs), `2023-02` (27 msgs), `2023-03` (32 msgs)
+Language mix: en: 39, other: 47, mixed: 1
+Most active: **Tuesday** at **16:00**
+Top topics: example (6), thanks (6), business (5), money (5), something (5)
+
+**They call Ivan:** 'ivan' (6x)
 
 ## Communication stats
 
@@ -20,7 +27,22 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-02-06] Them** (0 emojis): Hello Ivan,  I hope you are doing well. I have a project in International Business. Can you answer these 2 questions with the point of view of a Paraguayan citizen (who live in Paraguay currently.)   it's not urgent, do it when you can, when you have free time.   1) “What do you think is the most di
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-02-06] Them** (0 emojis): Hello Ivan,  I hope you are doing well. I have a project in International Business. Can you answer these 2 questions with the point of view of a Paraguayan citizen (who live in Paraguay currently.)   it's not urgent, do it when you can, when you have free time.   1) “What do you think is the most di
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-02-06] Them** (0 emojis): Hello Ivan,  I hope you are doing well. I have a project in International Business. Can you answer these 2 questions with the point of view of a Paraguayan citizen (who live in Paraguay currently.)   it's not urgent, do it when you can, when you have free time.   1) “What do you think is the most di
+
 
 ## Notes
 

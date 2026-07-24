@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (129 from Ivan, 118 from them, 2 emojis)
+
+Peak months: `2022-07` (29 msgs), `2022-08` (27 msgs), `2022-09` (31 msgs)
+Language mix: es: 72, other: 172, mixed: 1, en: 2
+Most active: **Tuesday** at **15:00**
+Top topics: universidad (22), https (19), udemy (12), course (12), couponcode (12)
+
+**They call Ivan:** 'ivan' (9x), 'iván' (1x), 'loco' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,22 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-08-08] Ivan** (0 emojis): Gratis de nuevo (1000 cada uno)  Universidad Java - De Cero a Experto - Más Completo +106 hrs https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=GM_AGO  Universidad de Programación - Python, Java y JavaScript https://www.udemy.com/course/universidad-de
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-08-08] Ivan** (0 emojis): Gratis de nuevo (1000 cada uno)  Universidad Java - De Cero a Experto - Más Completo +106 hrs https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=GM_AGO  Universidad de Programación - Python, Java y JavaScript https://www.udemy.com/course/universidad-de
+
+
+## Notable messages (auto-extracted)
+
+- **[2022-08-08] Ivan** (0 emojis): Gratis de nuevo (1000 cada uno)  Universidad Java - De Cero a Experto - Más Completo +106 hrs https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/?couponCode=GM_AGO  Universidad de Programación - Python, Java y JavaScript https://www.udemy.com/course/universidad-de
+
 
 ## Notes
 

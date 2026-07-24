@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (8 from Ivan, 3 from them, 2 emojis)
+
+Peak months: `2022-12` (4 msgs), `2023-12` (7 msgs)
+Language mix: es: 6, other: 5
+Most active: **Saturday** at **16:00**
+Top topics: holis (2), quiero (2), acaso (1), tienda (1), hacer (1)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-12-02] Ivan** (0 emojis): Holis  Quiero pasar un fla por fun4me  Están open ?  No vi en maps el horario:(
+
 
 ## Notes
 

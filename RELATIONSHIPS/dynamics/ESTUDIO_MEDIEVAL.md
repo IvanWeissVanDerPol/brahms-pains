@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (5 from Ivan, 6 from them, 1 emojis)
+
+Peak months: `2024-08` (11 msgs)
+Language mix: other: 9, es: 2
+Most active: **Tuesday** at **17:00**
+Top topics: buenas (2), hacen (1), delivery (1), quiero (1), comprar (1)
 
 ## Communication stats
 
@@ -20,7 +25,8 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
 
 ## Notes
 

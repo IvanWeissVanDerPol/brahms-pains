@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (3 from Ivan, 3 from them, 0 emojis)
+
+Peak months: `2024-07` (6 msgs)
+Language mix: es: 3, other: 3
+Most active: **Friday** at **17:00**
+Top topics: facebook (1), después (1), parece (1), finos (1), sabes (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-07-19] Ivan** (0 emojis): Uff me parece que son los más finos estos   No sabes donde se consiguen los que son gruesos o como usar sin que te lastime toda la mano?   Me interesa pero creo que voy a tener el mismo problema que el que tenía en mi gimnasio anterior
+
 
 ## Notes
 

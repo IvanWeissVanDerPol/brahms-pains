@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (50 from Ivan, 62 from them, 25 emojis)
+
+Peak months: `2023-11` (37 msgs), `2024-10` (27 msgs), `2024-11` (8 msgs)
+Language mix: other: 77, es: 33, mixed: 1, en: 1
+Most active: **Saturday** at **16:00**
+Top topics: mañana (8), estoy (7), https (7), gracias (6), carne (5)
+
+**Ivan calls them:** 'kiki' (3x)
 
 ## Communication stats
 
@@ -20,7 +27,22 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-11-25] Them** (0 emojis): Donde decis para comprar la carne? Y cuanto más o menos necesitamos para que alcance para todos?
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-11-25] Them** (0 emojis): Donde decis para comprar la carne? Y cuanto más o menos necesitamos para que alcance para todos?
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-11-25] Them** (0 emojis): Donde decis para comprar la carne? Y cuanto más o menos necesitamos para que alcance para todos?
+
 
 ## Notes
 

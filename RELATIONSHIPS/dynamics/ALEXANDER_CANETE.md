@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (62 from Ivan, 134 from them, 32 emojis)
+
+Peak months: `2022-09` (142 msgs), `2022-10` (21 msgs), `2024-03` (21 msgs)
+Language mix: other: 141, es: 55
+Most active: **Thursday** at **14:00**
+Top topics: drive (10), tenes (6), hacer (5), cosas (5), tengo (5)
 
 ## Communication stats
 
@@ -20,7 +25,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-15] Ivan** (0 emojis): https://drive.google.com/drive/mobile/folders/1FuyUdWOlEilAUPqW7CWHFMJKLydrLPfq?usp=drive_open
+- **[2022-09-15] Them** (0 emojis): Gracias man si tenes el drive podes pasar? No esta en la descripción
+
 
 ## Notes
 

@@ -8,16 +8,16 @@
 
 ## Overview
 
-**Auto-extracted stats** (1,668 from Ivan, 1,120 from them)
+**Auto-extracted stats** (1,668 from Ivan, 1,120 from them, 54 emojis)
 
-Peak months: `2021-03` (118 msgs), `2021-07` (220 msgs), `2026-06` (128 msgs)
+Peak months: `2021-03` (118 msgs), `2021-07` (220 msgs), `2021-12` (110 msgs)
 Language mix: other: 2352, es: 407, en: 26, mixed: 3
+Most active: **Saturday** at **17:00**
+Top topics: https (148), hacer (41), ahora (41), podes (35), tengo (35)
 
-**Ivan calls them:** 'luana' (12x), 'kiki' (7x), 'papa' (3x)
+**Ivan calls them:** 'luana' (12x), 'kiki' (7x), 'papa' (3x), 'saskia' (2x), 'mamá' (1x)
 
 **They call Ivan:** 'iván' (1x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -30,6 +30,24 @@ Language mix: other: 2352, es: 407, en: 26, mixed: 3
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-06-26] Ivan** (10 emojis): # Guía completa para Luana — Activar nexaparaguay.com.py  ## Resumen en una línea  Tienes que entrar a NIC.py y cambiar 2 nombres de servidor (los que dicen `pendiente`) por 2 que te paso abajo. Listo. Toma 2 minutos.  ---  ## Lo que ya está hecho (no tienes que tocar esto)  | Paso | Estado | |---|-
+- **[2025-09-02] Ivan** (6 emojis): 🚗 Oferta Laboral – Empresa Automotriz (WTC Asunción)  📌 Puesto: Asistente Administrativo/a 👤 Edad: 26 a 35 años 💰 Salario: Gs. 4.500.000 – 5.000.000 (Bruto) 📍 Lugar: World Trade Center Asunción  Requisitos: Manejo de Excel, Outlook y Word Capacidad para leer y responder e-mails en inglés  📩 Interesa
+- **[2024-07-07] Them** (5 emojis): ¡Hola!✌️ Este es mi alias para que puedas enviarme dinero de una forma mucho más fácil y sencilla. 🤩📲  🟢 CI 5897568   Desde ahora sólo tendrás que ingresar ese dato para realizarme una transferencia.  ¿Querés sumarte a esta nueva tendencia? Descargá Ueno y descubrí una nueva forma de recibir tu dine
+- **[2021-01-07] Ivan** (2 emojis): Here’s a playlist for you… Homeoffice Lofi💻 2021 | Work from Home with Lo-fi Beats for productivity📈 by Pedro Augusto Lima https://open.spotify.com/playlist/2WyqBgmkLazcwuzXAeLv1f?si=NGacFC2ASAe68joOIk9fPw
+- **[2021-01-23] Ivan** (0 emojis): [22/01, 9:46 pm] +595 981 106846: TAA DE QUIMICA https://drive.google.com/open?id=1VH8mKpM3Sw-Mw7kPbYX1F-ObRKn9jFqm  TAA https://drive.google.com/drive/mobile/folders/0B7CGqaP851_0cVZ6NGF6YUxoZ28?usp=sharing_eip&ts=59974be2  TAA MEGA https://mega.nz/#F!OLQxhKDY!I0dFIAZzI2wN0WWkpi67Bg  TAA MEGA2 http
+
+
+## Notable messages (auto-extracted)
+
+- **[2026-06-26] Ivan** (10 emojis): # Guía completa para Luana — Activar nexaparaguay.com.py  ## Resumen en una línea  Tienes que entrar a NIC.py y cambiar 2 nombres de servidor (los que dicen `pendiente`) por 2 que te paso abajo. Listo. Toma 2 minutos.  ---  ## Lo que ya está hecho (no tienes que tocar esto)  | Paso | Estado | |---|-
+- **[2025-09-02] Ivan** (6 emojis): 🚗 Oferta Laboral – Empresa Automotriz (WTC Asunción)  📌 Puesto: Asistente Administrativo/a 👤 Edad: 26 a 35 años 💰 Salario: Gs. 4.500.000 – 5.000.000 (Bruto) 📍 Lugar: World Trade Center Asunción  Requisitos: Manejo de Excel, Outlook y Word Capacidad para leer y responder e-mails en inglés  📩 Interesa
+- **[2024-07-07] Them** (5 emojis): ¡Hola!✌️ Este es mi alias para que puedas enviarme dinero de una forma mucho más fácil y sencilla. 🤩📲  🟢 CI 5897568   Desde ahora sólo tendrás que ingresar ese dato para realizarme una transferencia.  ¿Querés sumarte a esta nueva tendencia? Descargá Ueno y descubrí una nueva forma de recibir tu dine
+- **[2021-01-07] Ivan** (2 emojis): Here’s a playlist for you… Homeoffice Lofi💻 2021 | Work from Home with Lo-fi Beats for productivity📈 by Pedro Augusto Lima https://open.spotify.com/playlist/2WyqBgmkLazcwuzXAeLv1f?si=NGacFC2ASAe68joOIk9fPw
+- **[2021-01-23] Ivan** (0 emojis): [22/01, 9:46 pm] +595 981 106846: TAA DE QUIMICA https://drive.google.com/open?id=1VH8mKpM3Sw-Mw7kPbYX1F-ObRKn9jFqm  TAA https://drive.google.com/drive/mobile/folders/0B7CGqaP851_0cVZ6NGF6YUxoZ28?usp=sharing_eip&ts=59974be2  TAA MEGA https://mega.nz/#F!OLQxhKDY!I0dFIAZzI2wN0WWkpi67Bg  TAA MEGA2 http
+
 
 ## Notable messages (auto-extracted)
 

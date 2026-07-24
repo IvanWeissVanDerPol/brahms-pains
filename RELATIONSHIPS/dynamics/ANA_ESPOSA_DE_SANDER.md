@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (16 from Ivan, 26 from them, 11 emojis)
+
+Peak months: `2022-07` (1 msgs), `2022-08` (22 msgs), `2022-09` (2 msgs)
+Language mix: other: 33, es: 8, en: 1
+Most active: **Wednesday** at **3:00**
+Top topics: https (2), youtube (1), watch (1), iilluminaughtii (1), ivaaan (1)
+
+**Ivan calls them:** 'reina' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-21] Ivan** (0 emojis): https://www.youtube.com/watch?v=EYXO2tXbVWM&ab_channel=iilluminaughtii
+
 
 ## Notes
 

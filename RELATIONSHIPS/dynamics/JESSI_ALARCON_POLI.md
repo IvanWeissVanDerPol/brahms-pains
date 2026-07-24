@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (7 from Ivan, 8 from them, 2 emojis)
+
+Peak months: `2023-10` (15 msgs)
+Language mix: es: 7, other: 8
+Most active: **Friday** at **0:00**
+Top topics: tengo (3), profe (3), hacer (2), suele (2), flutter (2)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-10-13] Ivan** (0 emojis): hola tengo una consulta random  tenes por si acaso aun el enunciado de las tareas de front end? odna los trabajos practicos?  quiero hacer ya  el profe no habilito aun  pero me gustaria adelantar asi cuando tenga mas trabajo no tengo que hacer esto a la vez :)
+
 
 ## Notes
 

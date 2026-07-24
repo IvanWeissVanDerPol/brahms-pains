@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (123 from Ivan, 83 from them, 17 emojis)
+
+Peak months: `2025-11` (3 msgs), `2025-12` (141 msgs), `2026-01` (28 msgs)
+Language mix: other: 138, en: 7, es: 59, mixed: 2
+Most active: **Saturday** at **19:00**
+Top topics: excel (11), clinic (9), productos (9), estoy (9), después (9)
 
 ## Communication stats
 
@@ -20,7 +25,25 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-12-16] Ivan** (0 emojis): # Proposal for Veterinary Clinics: The Unified Digital Platform  ## The Problem  As a veterinary clinic in Paraguay, you face three main digital challenges:  1.  **High Costs**: Building a custom, high-quality website costs millions of Guaranies and requires maintenance. 2.  **Fragmented Data**: Pat
+- **[2025-12-16] Ivan** (0 emojis): Uwu decis que algo asi seria nice para vetes?  prepare kinda para que le pueda ofrecer a varios  y que se centralicen los datos de los pacientes   para que luego estudiants puedan hacer analisis de los datos  onda cantidad vacunada   cantidad detectada de x  analisis de sangre  + consulta a paciente
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-12-16] Ivan** (0 emojis): # Proposal for Veterinary Clinics: The Unified Digital Platform  ## The Problem  As a veterinary clinic in Paraguay, you face three main digital challenges:  1.  **High Costs**: Building a custom, high-quality website costs millions of Guaranies and requires maintenance. 2.  **Fragmented Data**: Pat
+- **[2025-12-16] Ivan** (0 emojis): Uwu decis que algo asi seria nice para vetes?  prepare kinda para que le pueda ofrecer a varios  y que se centralicen los datos de los pacientes   para que luego estudiants puedan hacer analisis de los datos  onda cantidad vacunada   cantidad detectada de x  analisis de sangre  + consulta a paciente
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-12-16] Ivan** (0 emojis): # Proposal for Veterinary Clinics: The Unified Digital Platform  ## The Problem  As a veterinary clinic in Paraguay, you face three main digital challenges:  1.  **High Costs**: Building a custom, high-quality website costs millions of Guaranies and requires maintenance. 2.  **Fragmented Data**: Pat
+- **[2025-12-16] Ivan** (0 emojis): Uwu decis que algo asi seria nice para vetes?  prepare kinda para que le pueda ofrecer a varios  y que se centralicen los datos de los pacientes   para que luego estudiants puedan hacer analisis de los datos  onda cantidad vacunada   cantidad detectada de x  analisis de sangre  + consulta a paciente
+
 
 ## Notes
 

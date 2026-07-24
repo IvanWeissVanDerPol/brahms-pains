@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (12 from Ivan, 7 from them, 8 emojis)
+
+Peak months: `2025-04` (19 msgs)
+Language mix: other: 14, es: 5
+Most active: **Friday** at **1:00**
+Top topics: gracias (2), hamburguesas (2), delivery (2), buenas (1), noches (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-22] Them** (8 emojis): Muy buenas noches, Gracias por comunicarte con Lomiliz de Fernando de la Mora. 😄👋🏼   *MÉTODO DE PAGO CON EFECTIVO Y TRANSFERENCIA* 📲  ¿Cuál sería su pedido?🍔🍕🌯🍟
+
 
 ## Notes
 

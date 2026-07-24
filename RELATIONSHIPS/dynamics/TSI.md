@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (11 from Ivan, 5 from them, 0 emojis)
+
+Peak months: `2025-08` (16 msgs)
+Language mix: other: 11, es: 5
+Most active: **Thursday** at **12:00**
+Top topics: gracias (3), número (2), recibimos (2), agencia (2), efectivo (2)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-08-21] Them** (0 emojis): Buenas! Recibimos su encomienda en la Transportadora San Ignacio TSI Agencia Fdo de la Mora. YA QUE EN SU BOLETA ESTÁ REGISTRADA PARÁ RETIRO DE AGENCIA Puede pasar a retirar. Estamos de lunes a viernes:08:30 a 18:00hs Sábado: 08:30 a 12hs  Gracias!!! RECIBIMOS SOLO EFECTIVO!!! Ubicación:  https://ma
+
 
 ## Notes
 

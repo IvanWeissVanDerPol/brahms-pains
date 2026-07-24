@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (13 from Ivan, 9 from them, 0 emojis)
+
+Peak months: `2023-05` (22 msgs)
+Language mix: en: 4, other: 15, es: 3
+Most active: **Friday** at **2:00**
+Top topics: think (2), colores (2), alvaro (1), jonatan (1), going (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-05-17] Ivan** (0 emojis): Mira TikTok  Series  Recomendado cosas animadas y con muchos colores   O si querés re trioear  Mira algo sci-fi    Pelis como guardianes de la galaxia tienen mucho colores. Y es lindo + música buena   Maybe audio libro
+
 
 ## Notes
 

@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (4 from Ivan, 4 from them, 0 emojis)
+
+Peak months: `2024-02` (7 msgs), `2025-05` (1 msgs)
+Language mix: es: 4, other: 4
+Most active: **Wednesday** at **1:00**
+Top topics: postresql (5), profe (3), certificar (2), datos (2), clases (2)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,14 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-02-21] Ivan** (0 emojis): Hola profe  Soy Iván Weiss   Que certificados recomendas para ver / certificar   Que sean relevantes a base de datos 2 ?  Me gustaría a la par con las clases ver de certificar y tirar en LinkedIn
+- **[2024-02-21] Them** (0 emojis): Buenas Ivan!  Si tenes la oportunidad sería bueno hacer algún curso de Administración de Bases de Datos PostreSQL, Optimización de Consultas en PostreSQL o Consultas Avanzadas en PostreSQL
+- **[2024-02-21] Them** (0 emojis): Genial! Cualquier consulta lo podes hacer sin problema en clases. Saludos!!
+
 
 ## Notes
 

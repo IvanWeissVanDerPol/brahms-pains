@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (50 from Ivan, 35 from them, 2 emojis)
+
+Peak months: `2022-08` (34 msgs), `2023-09` (51 msgs)
+Language mix: other: 58, es: 26, en: 1
+Most active: **Tuesday** at **0:00**
+Top topics: clase (4), capaz (4), eusebio (3), tenía (3), profe (3)
 
 ## Communication stats
 
@@ -20,7 +25,14 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-12] Ivan** (0 emojis): holis  estoy lleyendo nomas los powerpoints random del profe pero son todos re contra mierda  tengo el drive de ale si queres Uwu  capaz te sirve mas que leer lo del profe (sus examenes eran online y eran mas densos)
+- **[2023-09-12] Them** (0 emojis): No sabes de nadie que estuvo en la última clase? En ciber que tuvimos con el era que decía más o menos la onda
+- **[2023-09-12] Them** (0 emojis): Y después. Che, vos no estuviste en la última clase o escuchaste algo respecto al examen de emergentes?
+
 
 ## Notes
 

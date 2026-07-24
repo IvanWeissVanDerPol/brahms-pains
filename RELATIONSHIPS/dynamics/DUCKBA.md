@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (48 from Ivan, 53 from them, 27 emojis)
+
+Peak months: `2022-08` (16 msgs), `2022-12` (27 msgs), `2023-03` (16 msgs)
+Language mix: other: 76, es: 25
+Most active: **Thursday** at **14:00**
+Top topics: https (6), podés (5), weiss (4), jajaja (4), mentormate (4)
 
 ## Communication stats
 
@@ -20,7 +25,22 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-07-03] Ivan** (11 emojis): ### ✨ ¿Querés laburar remoto y bien pago? Te dejo un mini roadmap:  **🧠 Main Tip:** Vendete bien (marketing personal) **🎓 Segundo tip:** Certificaciones de QA  #### 📚 Cursos recomendados (todos online):  * [ISTQB Foundation](https://www.istqb.org/) – ~$200 * [FreeCodeCamp QA](https://www.freecodec
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-07-03] Ivan** (11 emojis): ### ✨ ¿Querés laburar remoto y bien pago? Te dejo un mini roadmap:  **🧠 Main Tip:** Vendete bien (marketing personal) **🎓 Segundo tip:** Certificaciones de QA  #### 📚 Cursos recomendados (todos online):  * [ISTQB Foundation](https://www.istqb.org/) – ~$200 * [FreeCodeCamp QA](https://www.freecodec
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-07-03] Ivan** (11 emojis): ### ✨ ¿Querés laburar remoto y bien pago? Te dejo un mini roadmap:  **🧠 Main Tip:** Vendete bien (marketing personal) **🎓 Segundo tip:** Certificaciones de QA  #### 📚 Cursos recomendados (todos online):  * [ISTQB Foundation](https://www.istqb.org/) – ~$200 * [FreeCodeCamp QA](https://www.freecodec
+
 
 ## Notes
 

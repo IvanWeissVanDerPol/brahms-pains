@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (22 from Ivan, 13 from them, 2 emojis)
+
+Peak months: `2025-08` (22 msgs), `2025-10` (13 msgs)
+Language mix: es: 14, other: 21
+Most active: **Friday** at **19:00**
+Top topics: blanco (3), muchas (3), gracias (3), wilma (2), tenía (2)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-10-10] Ivan** (2 emojis): 🏨Muchas gracias  por comunicarse con el Centro Medico Bautista. 🗓️Su cita es para el día: *MIERCOLES* 15-OCT-25 19:00Hs🩺WILMA BORDON BOVEDA
+
 
 ## Notes
 

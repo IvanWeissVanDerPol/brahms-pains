@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (2 from Ivan, 5 from them, 0 emojis)
+
+Peak months: `2022-09` (4 msgs), `2024-02` (1 msgs), `2024-05` (2 msgs)
+Language mix: other: 6, es: 1
+Most active: **Monday** at **16:00**
+Top topics: https (2), twitter (1), fieraingenieria (1), status (1), chaaa (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-09-19] Them** (0 emojis): https://twitter.com/FieraIngenieria/status/1571508340575698944?s=08
+
 
 ## Notes
 

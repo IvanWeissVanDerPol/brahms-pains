@@ -8,14 +8,14 @@
 
 ## Overview
 
-**Auto-extracted stats** (318 from Ivan, 501 from them)
+**Auto-extracted stats** (318 from Ivan, 501 from them, 6 emojis)
 
-Peak months: `2022-08` (103 msgs), `2022-09` (365 msgs), `2024-02` (151 msgs)
+Peak months: `2022-07` (78 msgs), `2022-08` (103 msgs), `2022-09` (365 msgs)
 Language mix: es: 239, other: 579, en: 1
+Most active: **Thursday** at **15:00**
+Top topics: hacer (33), jajaja (24), tengo (15), ahora (14), cosas (12)
 
 **They call Ivan:** 'ivan' (3x), 'loco' (2x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -28,6 +28,20 @@ Language mix: es: 239, other: 579, en: 1
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-02-13] Them** (2 emojis): Muchas veces la vida es asi de injusta, justo la que te gusta tiene otra orientación. Puta vida🥹👍
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-02-13] Them** (2 emojis): Muchas veces la vida es asi de injusta, justo la que te gusta tiene otra orientación. Puta vida🥹👍
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-02-13] Them** (2 emojis): Muchas veces la vida es asi de injusta, justo la que te gusta tiene otra orientación. Puta vida🥹👍
 
 
 ## Notes

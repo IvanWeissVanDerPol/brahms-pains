@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (9 from Ivan, 10 from them, 4 emojis)
+
+Peak months: `2025-04` (19 msgs)
+Language mix: other: 11, es: 8
+Most active: **Thursday** at **19:00**
+Top topics: presupuesto (7), gracias (4), agente (3), paciente (3), seria (3)
 
 ## Communication stats
 
@@ -20,7 +25,14 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-04-24] Them** (2 emojis): 1️⃣ SOLICITAR UN PRESUPUESTO 2️⃣ CONSULTAR ESTADO DE UN PRESUPUESTO 3️⃣ RENOVACIÓN DE FÓRMULA 4️⃣ COMUNICARME CON UN AGENTE  Opción no valida 😕, por favor ingresa una opción del menú 🙂
+- **[2025-04-25] Them** (0 emojis): Pago recibido! Procesamos su pedido, la entrega seria el día de *mañana*en el periodo de *10hs a 13hs*  en el transcurso de ese tiempo le estaría llegando su preparado. 	 Ante dudas o consultas estamos a las ordenes!! Muchas gracias por la preferencia.
+- **[2025-04-24] Them** (0 emojis): 15.000gs seria el costo del envio, le quedaria  bien la entrega el dia sabado en el periodo de 10hs a 13? La factura seria a nombre del paciente? abonaria en efectivo, transferncia o le enviamos pos?
+
 
 ## Notes
 

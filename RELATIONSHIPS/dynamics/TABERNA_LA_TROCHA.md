@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (15 from Ivan, 13 from them, 3 emojis)
+
+Peak months: `2024-08` (27 msgs), `2025-05` (1 msgs)
+Language mix: other: 20, es: 8
+Most active: **Thursday** at **1:00**
+Top topics: paella (3), aprox (2), trocha (2), sabor (2), especial (2)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-05-05] Them** (3 emojis): Buenas tardes☺️, ponemos a su disposición nuestro menú,  estaremos tomando pedidos anticipados para el 14 y 15 de mayo🥘💃
+
 
 ## Notes
 

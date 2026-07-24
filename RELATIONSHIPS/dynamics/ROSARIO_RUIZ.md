@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (45 from Ivan, 41 from them, 2 emojis)
+
+Peak months: `2022-08` (27 msgs), `2023-12` (2 msgs), `2024-02` (12 msgs)
+Language mix: other: 48, es: 37, en: 1
+Most active: **Monday** at **18:00**
+Top topics: cosas (6), ahora (6), hacer (6), tengo (6), quiero (6)
 
 ## Communication stats
 
@@ -20,7 +25,22 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-03-22] Ivan** (0 emojis): so una licenciada en sciencias y tecnologia de alimentos y ademas de eso so ingeniera quimica vivo en paraguay hablo ingles espanol guarani y portuges   estoy trabajando en una pagina web profesional para mi  que sea una pagina donde mis futuros empleadores puedan ver y aprender de quien soy y que c
+
+
+## Notable messages (auto-extracted)
+
+- **[2024-03-22] Ivan** (0 emojis): so una licenciada en sciencias y tecnologia de alimentos y ademas de eso so ingeniera quimica vivo en paraguay hablo ingles espanol guarani y portuges   estoy trabajando en una pagina web profesional para mi  que sea una pagina donde mis futuros empleadores puedan ver y aprender de quien soy y que c
+
+
+## Notable messages (auto-extracted)
+
+- **[2024-03-22] Ivan** (0 emojis): so una licenciada en sciencias y tecnologia de alimentos y ademas de eso so ingeniera quimica vivo en paraguay hablo ingles espanol guarani y portuges   estoy trabajando en una pagina web profesional para mi  que sea una pagina donde mis futuros empleadores puedan ver y aprender de quien soy y que c
+
 
 ## Notes
 

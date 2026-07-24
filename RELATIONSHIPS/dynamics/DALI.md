@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (2 from Ivan, 4 from them, 10 emojis)
+
+Peak months: `2025-09` (2 msgs), `2025-10` (4 msgs)
+Language mix: other: 1, es: 5
+Most active: **Tuesday** at **12:00**
+Top topics: esperamos (2), local (2), privado (2), corazón (1), suelen (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-10-01] Them** (10 emojis): 💆‍♀️ ¿Qué incluye? ✔ 30 minutos de masaje relajante y sensual (¡liberación de estrés garantizada!). ✔ Final manual (tu masajista te ayudará a "venirte" con sus manos para una relajación total 💦). ✔ Ambiente íntimo con música suave, cuarto privado y suite con ducha. ✔ Estacionamiento privado (discret
+
 
 ## Notes
 

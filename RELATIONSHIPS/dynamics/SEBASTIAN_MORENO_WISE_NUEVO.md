@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (2 from Ivan, 5 from them, 0 emojis)
+
+Peak months: `2024-01` (7 msgs)
+Language mix: es: 4, other: 3
+Most active: **Thursday** at **16:00**
+Top topics: profe (2), estoy (2), recursos (2), sebastián (1), weiss (1)
 
 ## Communication stats
 
@@ -20,7 +25,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-01-04] Ivan** (0 emojis): Hola Sebastián  Soy Iván Weiss  Me paso tu número el profe copo Cabanellas   Estoy buscando aprender más sobre cómo ahorrar / invertír y hacer que mi dinero crezca   Pero la mayoría de los recursos que encuentro son para personas que viven en primer mundo   Conoce por si acaso algun sitio web que po
+- **[2024-01-04] Ivan** (0 emojis): Que incluiría la mentira? Tenés más referencias?  Seria orientado más a gente que se mantiene en LATAM o más onda nómada digital ?  Mi contexto es que un profe de la facu me comentó que sabías algo del tema
+
 
 ## Notes
 

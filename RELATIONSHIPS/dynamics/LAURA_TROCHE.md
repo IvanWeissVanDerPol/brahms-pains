@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (5 from Ivan, 3 from them, 2 emojis)
+
+Peak months: `2023-12` (8 msgs)
+Language mix: other: 7, es: 1
+Most active: **Sunday** at **16:00**
+Top topics: github (2), ivanweissvanderpolgh (2), pedile (2), https (1), pásale (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-12-03] Ivan** (0 emojis): Pásale tu resumen a chatgpt  Pedile que te haga preguntas  Pedile que te genere una sección de contenido unrenderd markdown para cada parte de la página web   Genera las imágenes con Leonardus app (Google )
+
 
 ## Notes
 

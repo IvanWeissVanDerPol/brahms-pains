@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (3 from Ivan, 4 from them, 0 emojis)
+
+Peak months: `2023-03` (7 msgs)
+Language mix: en: 7
+Most active: **Friday** at **14:00**
+Top topics: seeds (8), operator (7), working (6), rover (6), business (5)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-03-10] Ivan** (0 emojis): Hii Richard  Alicia Kannekens passed me your contact   I'm im Ivan Weiss Van Der Pol  Currently I am working on a project that I want to implement in paraguay  The idea is to make a robot that can move using gps information to traverse a patch of land  As it moves It will drop mixed seeds of native 
+
 
 ## Notes
 

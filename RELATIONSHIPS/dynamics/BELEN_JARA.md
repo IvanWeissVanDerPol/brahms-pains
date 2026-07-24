@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (9 from Ivan, 17 from them, 2 emojis)
+
+Peak months: `2023-10` (19 msgs), `2024-04` (7 msgs)
+Language mix: other: 15, es: 11
+Most active: **Tuesday** at **13:00**
+Top topics: precio (4), refiere (3), compras (3), azucar (3), holis (2)
+
+**They call Ivan:** 'ivan' (3x)
 
 ## Communication stats
 
@@ -20,7 +27,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-10-17] Them** (0 emojis): holis Bel!, no, habla sobre el precio cuando lo compras, que si es elevado, algunas personas ya no lo compran
+- **[2023-10-17] Ivan** (0 emojis): osea compras product torta y aparte ves el presio del azucar para la torta?
+
 
 ## Notes
 

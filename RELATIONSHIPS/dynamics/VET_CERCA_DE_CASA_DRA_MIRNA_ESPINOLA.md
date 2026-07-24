@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (46 from Ivan, 31 from them, 13 emojis)
+
+Peak months: `2022-06` (51 msgs), `2022-07` (8 msgs), `2022-08` (15 msgs)
+Language mix: other: 62, es: 15
+Most active: **Thursday** at **17:00**
+Top topics: buenas (3), lleve (3), tiene (3), jajaja (3), llevo (3)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-07-05] Ivan** (0 emojis): Hola qué tal  Q Le llevo mi hermana a los gatos estos días?  Sino veo para llevarles cuando estén ustedes
+
 
 ## Notes
 

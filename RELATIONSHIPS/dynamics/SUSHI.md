@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (6 from Ivan, 4 from them, 3 emojis)
+
+Peak months: `2026-04` (10 msgs)
+Language mix: es: 4, other: 6
+Most active: **Tuesday** at **23:00**
+Top topics: libre (4), premium (2), sashimi (2), lugar (2), sushi (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-04-07] Them** (2 emojis): Miercoles a Gs. 95.000.- (Premium) Viernes a Gs. 120.000.- (Sashimi Libre) El resto de la semana a Gs. 120.000.- (Premium) y Sashimi Libre a Gs. 160.000.- Domingos Almuezo Libre a Gs. 120.000.- de 11a 15 hs. ☺️😁
+
 
 ## Notes
 

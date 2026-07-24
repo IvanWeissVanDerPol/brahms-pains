@@ -8,14 +8,14 @@
 
 ## Overview
 
-**Auto-extracted stats** (220 from Ivan, 189 from them)
+**Auto-extracted stats** (220 from Ivan, 189 from them, 12 emojis)
 
-Peak months: `2023-02` (47 msgs), `2023-03` (210 msgs), `2025-10` (65 msgs)
+Peak months: `2023-01` (32 msgs), `2023-02` (47 msgs), `2023-03` (210 msgs)
 Language mix: en: 107, other: 302
+Most active: **Sunday** at **3:00**
+Top topics: would (16), https (16), person (16), think (13), reasonable (12)
 
 **They call Ivan:** 'ivan' (5x)
-
-## Communication stats
 
 ## Communication stats
 
@@ -28,6 +28,20 @@ Language mix: en: 107, other: 302
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-01-18] Ivan** (2 emojis): Anyway I have to sleep 😴💤  Goodnight I hope your classes for tomorrow are as chill as the one from today jsjsjsjsjsjsjs
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-01-18] Ivan** (2 emojis): Anyway I have to sleep 😴💤  Goodnight I hope your classes for tomorrow are as chill as the one from today jsjsjsjsjsjsjs
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-01-18] Ivan** (2 emojis): Anyway I have to sleep 😴💤  Goodnight I hope your classes for tomorrow are as chill as the one from today jsjsjsjsjsjsjs
 
 
 ## Notes

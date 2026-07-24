@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (243 from Ivan, 100 from them, 23 emojis)
+
+Peak months: `2021-12` (27 msgs), `2022-07` (55 msgs), `2022-08` (59 msgs)
+Language mix: other: 257, es: 76, mixed: 2, en: 8
+Most active: **Saturday** at **17:00**
+Top topics: https (17), nomás (12), jajaja (9), youtube (8), hello (8)
+
+**Ivan calls them:** 'rey' (1x), 'loco' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,25 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2021-12-29] Ivan** (0 emojis): Ey René Una pregunta bien random  Vos tenés una caja con cosas de chicas? Onda toallas, remedio de periodo, bolsa de agua caliente y eso?  O soy literal el único Man que prepara eso por si acaso?
+- **[2022-10-08] Ivan** (0 emojis): Hdp estaba en tu casa??  Yo debo estaba onda  Jau invitarle asado Pero jamás le vi xd
+
+
+## Notable messages (auto-extracted)
+
+- **[2021-12-29] Ivan** (0 emojis): Ey René Una pregunta bien random  Vos tenés una caja con cosas de chicas? Onda toallas, remedio de periodo, bolsa de agua caliente y eso?  O soy literal el único Man que prepara eso por si acaso?
+- **[2022-10-08] Ivan** (0 emojis): Hdp estaba en tu casa??  Yo debo estaba onda  Jau invitarle asado Pero jamás le vi xd
+
+
+## Notable messages (auto-extracted)
+
+- **[2021-12-29] Ivan** (0 emojis): Ey René Una pregunta bien random  Vos tenés una caja con cosas de chicas? Onda toallas, remedio de periodo, bolsa de agua caliente y eso?  O soy literal el único Man que prepara eso por si acaso?
+- **[2022-10-08] Ivan** (0 emojis): Hdp estaba en tu casa??  Yo debo estaba onda  Jau invitarle asado Pero jamás le vi xd
+
 
 ## Notes
 

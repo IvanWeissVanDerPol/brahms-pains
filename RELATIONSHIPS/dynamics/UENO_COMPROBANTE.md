@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (23 from Ivan, 16 from them, 2 emojis)
+
+Peak months: `2025-08` (39 msgs)
+Language mix: es: 24, other: 15
+Most active: **Monday** at **19:00**
+Top topics: acuerdo (60), cliente (44), contratista (43), cualquier (30), parte (22)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +27,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-08-11] Ivan** (0 emojis): Cuales serían los nombres de los otros documentos que necesiten   Onda cómo le llaman a las distintas formas de documentos que puedo entregar que avalen lo que quieren ?   Así veo si puedo conseguir?  Pero igual sería firmado por mi mismo o mi gefe en Canadá
+- **[2025-08-11] Ivan** (0 emojis): Que documento es el que quieren?  Firmado por suiza o Canadá?  Me están confundiendo
+
 
 ## Notes
 

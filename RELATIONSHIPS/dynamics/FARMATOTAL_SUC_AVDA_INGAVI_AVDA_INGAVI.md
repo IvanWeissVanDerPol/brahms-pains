@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (47 from Ivan, 42 from them, 2 emojis)
+
+Peak months: `2025-07` (19 msgs), `2026-01` (70 msgs)
+Language mix: es: 23, other: 66
+Most active: **Tuesday** at **20:00**
+Top topics: gracias (4), delivery (4), efectivo (4), dinero (4), salio (3)
 
 ## Communication stats
 
@@ -20,7 +25,22 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-01-13] Ivan** (0 emojis): oude ser el suero un poco mas grande ? asi saco con jeringa ? y jernga tambien plz
+
+
+## Notable messages (auto-extracted)
+
+- **[2026-01-13] Ivan** (0 emojis): oude ser el suero un poco mas grande ? asi saco con jeringa ? y jernga tambien plz
+
+
+## Notable messages (auto-extracted)
+
+- **[2026-01-13] Ivan** (0 emojis): oude ser el suero un poco mas grande ? asi saco con jeringa ? y jernga tambien plz
+
 
 ## Notes
 

@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (4 from Ivan, 4 from them, 0 emojis)
+
+Peak months: `2022-10` (8 msgs)
+Language mix: es: 5, other: 3
+Most active: **Monday** at **23:00**
+Top topics: feria (3), pivot (2), empresas (2), movimientos (2), ingresos (2)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2022-10-10] Ivan** (0 emojis): Buenos tardes   Estamos en plena *FERIA DE EMPLEOS - INFORMÁTICOS 2022.*  Favor ingresar a www.pivot.com.py/informatica2022 para visitar la Vidriera Expositora de la Feria. Aquí se muestran las empresas y los puestos vacantes.  Hay un número interesante de empresas participantes y siguen creciendo l
+
 
 ## Notes
 

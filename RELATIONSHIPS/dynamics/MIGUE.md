@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (61 from Ivan, 87 from them, 22 emojis)
+
+Peak months: `2025-03` (31 msgs), `2025-04` (24 msgs), `2025-05` (18 msgs)
+Language mix: es: 70, other: 78
+Most active: **Friday** at **14:00**
+Top topics: gracias (35), poder (23), mañana (19), avísame (16), porfa (10)
+
+**They call Ivan:** 'ivan' (22x), 'iván' (3x)
 
 ## Communication stats
 
@@ -20,7 +27,28 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2025-03-17] Ivan** (0 emojis): hola sii  te queda bien cada 2 o 3 semanas? sabado o domingo?  entre semana lau va a tener pasantia ahora y no va a poder entre semana :(
+- **[2025-07-17] Them** (0 emojis): Hola Ivan que tal? Van a poder el sábado temprano? Y si mañana pueden por la mañana viernes me quedaría mucho mejor
+- **[2025-09-24] Them** (0 emojis): Hola Ivan que tal? Ya volvieron de su viaje? Avísame si les queda bien mañana tipo 8:15 si
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-03-17] Ivan** (0 emojis): hola sii  te queda bien cada 2 o 3 semanas? sabado o domingo?  entre semana lau va a tener pasantia ahora y no va a poder entre semana :(
+- **[2025-07-17] Them** (0 emojis): Hola Ivan que tal? Van a poder el sábado temprano? Y si mañana pueden por la mañana viernes me quedaría mucho mejor
+- **[2025-09-24] Them** (0 emojis): Hola Ivan que tal? Ya volvieron de su viaje? Avísame si les queda bien mañana tipo 8:15 si
+
+
+## Notable messages (auto-extracted)
+
+- **[2025-03-17] Ivan** (0 emojis): hola sii  te queda bien cada 2 o 3 semanas? sabado o domingo?  entre semana lau va a tener pasantia ahora y no va a poder entre semana :(
+- **[2025-07-17] Them** (0 emojis): Hola Ivan que tal? Van a poder el sábado temprano? Y si mañana pueden por la mañana viernes me quedaría mucho mejor
+- **[2025-09-24] Them** (0 emojis): Hola Ivan que tal? Ya volvieron de su viaje? Avísame si les queda bien mañana tipo 8:15 si
+
 
 ## Notes
 

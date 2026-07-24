@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (51 from Ivan, 38 from them, 32 emojis)
+
+Peak months: `2023-09` (47 msgs), `2024-04` (5 msgs), `2024-10` (6 msgs)
+Language mix: other: 71, es: 18
+Most active: **Monday** at **1:00**
+Top topics: sabores (9), pistacho (8), pedido (6), ubicación (6), producto (5)
 
 ## Communication stats
 
@@ -20,7 +25,33 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-17] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-04-15] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-10-06] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2025-12-10] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2023-09-17] Ivan** (0 emojis): Cuanto sería así 1 Kg con delivery?   Te puedo pagar por transferencia?/ o por qr?
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-17] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-04-15] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-10-06] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2025-12-10] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2023-09-17] Ivan** (0 emojis): Cuanto sería así 1 Kg con delivery?   Te puedo pagar por transferencia?/ o por qr?
+
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-17] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-04-15] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2024-10-06] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+- **[2025-12-10] Them** (6 emojis): Hola!! Para poder *tomar tu pedido* necesitamos  👆🏼tu ubicación  ✌🏼el producto en detalle q desees   Ej: 1kg con los sabores que te          gustarían *(especificados)*         o alguna sugerencia!! En breve te atendemos🤗 Gracias por elegirnos❣️
+
 
 ## Notes
 

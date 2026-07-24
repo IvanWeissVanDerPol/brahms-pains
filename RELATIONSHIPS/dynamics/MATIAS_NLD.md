@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (3 from Ivan, 1 from them, 0 emojis)
+
+Peak months: `2024-08` (4 msgs)
+Language mix: en: 3, other: 1
+Most active: **Saturday** at **21:00**
+Top topics: local (3), interested (2), using (2), ollama (2), models (2)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-08-31] Ivan** (0 emojis): Hello Matias,  I'm Ivan Weiss—hope you’re doing well and that you enjoyed your trip to South America! :)  John mentioned that you’re also interested in artificial intelligence, which is awesome.  I’m slowly getting into it myself, currently working on setting up a local AI using Ollama. I was wonder
+
 
 ## Notes
 

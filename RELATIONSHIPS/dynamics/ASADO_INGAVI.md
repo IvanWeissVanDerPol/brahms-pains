@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (4 from Ivan, 1 from them, 2 emojis)
+
+Peak months: `2024-06` (5 msgs)
+Language mix: es: 1, other: 4
+Most active: **Sunday** at **16:00**
+Top topics: banco (2), cuenta (2), titular (2), maria (2), gloria (2)
 
 ## Communication stats
 
@@ -20,7 +25,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-06-23] Them** (1 emojis): 🏛 *BANCO UENO* NRO CUENTA: 619563622 Titular: Maria Gloria Galeano C.I.: 2370551
+- **[2024-06-23] Ivan** (1 emojis): 🏛 *BANCO UENO* NRO CUENTA: 619563622 Titular: Maria Gloria Galeano C.I.: 2370551
+
 
 ## Notes
 

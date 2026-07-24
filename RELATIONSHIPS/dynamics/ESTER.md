@@ -8,7 +8,16 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (9 from Ivan, 11 from them, 6 emojis)
+
+Peak months: `2023-04` (3 msgs), `2024-04` (4 msgs), `2025-06` (3 msgs)
+Language mix: other: 20
+Most active: **Wednesday** at **12:00**
+Top topics: eigen (3), succes (2), project (2), tante (2), ester (2)
+
+**Ivan calls them:** 'kyrian' (1x)
+
+**They call Ivan:** 'ivan' (1x)
 
 ## Communication stats
 
@@ -20,7 +29,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2026-06-17] Them** (1 emojis): Hieperdepiep hoera! Ivan van harte gefeliciteerd met je verjaardag! Fijne dag gewenst!🥳
+
 
 ## Notes
 

@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (2 from Ivan, 4 from them, 4 emojis)
+
+Peak months: `2023-06` (6 msgs)
+Language mix: es: 4, other: 2
+Most active: **Tuesday** at **16:00**
+Top topics: buenas (2), muchas (2), gracias (2), recibí (1), llamada (1)
+
+**They call Ivan:** 'ivan' (2x)
 
 ## Communication stats
 
@@ -20,7 +27,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-20] Them** (0 emojis): Hola Ivan, buenas tardes! ¿Comó estás?  Recibido correctamente. Muchas gracias por remitir tu CV actualizado
+- **[2023-06-20] Them** (0 emojis): Me gustaría consultarte sí ¿tendrias disponibilidad mañana a las 16:00 para una entrevista técnica?
+
 
 ## Notes
 

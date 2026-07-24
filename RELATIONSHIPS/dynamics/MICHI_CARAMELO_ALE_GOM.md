@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (40 from Ivan, 50 from them, 0 emojis)
+
+Peak months: `2024-07` (47 msgs), `2024-08` (43 msgs)
+Language mix: other: 45, es: 44, en: 1
+Most active: **Friday** at **20:00**
+Top topics: instructores (10), hacer (10), estoy (10), taller (7), ahora (6)
 
 ## Communication stats
 
@@ -20,7 +25,25 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-07-13] Ivan** (0 emojis): Cuantos instructores suelen necesitar ?  Tenes onda templates o lago así que pueda usar de base para ver cómo hacer la estructura de el curso ?
+- **[2024-08-10] Them** (0 emojis): Buenos días!! Jajaja perdón, me confundí con otro taller que iba a tener esta modalidad
+
+
+## Notable messages (auto-extracted)
+
+- **[2024-07-13] Ivan** (0 emojis): Cuantos instructores suelen necesitar ?  Tenes onda templates o lago así que pueda usar de base para ver cómo hacer la estructura de el curso ?
+- **[2024-08-10] Them** (0 emojis): Buenos días!! Jajaja perdón, me confundí con otro taller que iba a tener esta modalidad
+
+
+## Notable messages (auto-extracted)
+
+- **[2024-07-13] Ivan** (0 emojis): Cuantos instructores suelen necesitar ?  Tenes onda templates o lago así que pueda usar de base para ver cómo hacer la estructura de el curso ?
+- **[2024-08-10] Them** (0 emojis): Buenos días!! Jajaja perdón, me confundí con otro taller que iba a tener esta modalidad
+
 
 ## Notes
 

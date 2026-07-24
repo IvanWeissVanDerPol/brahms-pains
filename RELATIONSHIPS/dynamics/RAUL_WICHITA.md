@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (36 from Ivan, 29 from them, 0 emojis)
+
+Peak months: `2023-08` (60 msgs), `2024-06` (5 msgs)
+Language mix: other: 53, es: 10, en: 1, mixed: 1
+Most active: **Thursday** at **20:00**
+Top topics: estoy (5), tekorei (3), chill (2), mochilero (2), comprar (2)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-08-17] Them** (0 emojis): Jaja sí es más barato así! Mi hermano le encanta todo lo de Zelda y Mario! Dale! Creo que así sería mejor entonces!
+
 
 ## Notes
 

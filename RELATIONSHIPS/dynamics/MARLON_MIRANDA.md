@@ -8,7 +8,14 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (6 from Ivan, 7 from them, 0 emojis)
+
+Peak months: `2022-07` (5 msgs), `2023-06` (8 msgs)
+Language mix: other: 7, es: 6
+Most active: **Thursday** at **21:00**
+Top topics: proyecto (2), python (2), buscar (2), sándwich (1), milanesa (1)
+
+**They call Ivan:** 'ivan' (2x)
 
 ## Communication stats
 
@@ -20,7 +27,13 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-06-15] Them** (0 emojis): hola Ivan, quétal? me estan preguntando por tu proyecto de python
+- **[2023-06-15] Them** (0 emojis): llegaste a alzar en algun lado? el proyecto de python con ebase?
+
 
 ## Notes
 

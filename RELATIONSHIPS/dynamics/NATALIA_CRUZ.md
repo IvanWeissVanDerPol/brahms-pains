@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (127 from Ivan, 90 from them, 11 emojis)
+
+Peak months: `2024-01` (10 msgs), `2024-09` (65 msgs), `2025-01` (28 msgs)
+Language mix: es: 75, other: 138, en: 4
+Most active: **Friday** at **20:00**
+Top topics: ahora (6), estoy (6), tengo (5), jajaja (5), nomás (5)
 
 ## Communication stats
 
@@ -20,7 +25,22 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-09-13] Ivan** (0 emojis): Alv Los otros 2 que hacen ?  Se les aplica afuera con ai?  Fuerza  Suena muy hard
+
+
+## Notable messages (auto-extracted)
+
+- **[2024-09-13] Ivan** (0 emojis): Alv Los otros 2 que hacen ?  Se les aplica afuera con ai?  Fuerza  Suena muy hard
+
+
+## Notable messages (auto-extracted)
+
+- **[2024-09-13] Ivan** (0 emojis): Alv Los otros 2 que hacen ?  Se les aplica afuera con ai?  Fuerza  Suena muy hard
+
 
 ## Notes
 

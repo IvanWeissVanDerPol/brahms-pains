@@ -8,7 +8,12 @@
 
 ## Overview
 
-TODO: relationship context, how you know this person, dynamic summary.
+**Auto-extracted stats** (28 from Ivan, 14 from them, 0 emojis)
+
+Peak months: `2023-09` (24 msgs), `2024-08` (18 msgs)
+Language mix: other: 36, es: 6
+Most active: **Sunday** at **13:00**
+Top topics: buenas (2), rueda (2), pasar (2), gracias (2), cuento (1)
 
 ## Communication stats
 
@@ -20,7 +25,12 @@ TODO: relationship context, how you know this person, dynamic summary.
 
 ## Key moments / Topics
 
-TODO: extract 3-5 key moments from this chat — milestones, big fights, important conversations.
+Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2023-09-17] Ivan** (0 emojis): Buenas  A cuento me arreglan una rueda pinchada ?  Estoy sobre destacamento cazal y campo via
+
 
 ## Notes
 

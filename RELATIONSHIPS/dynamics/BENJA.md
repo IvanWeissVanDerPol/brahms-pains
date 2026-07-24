@@ -8,12 +8,12 @@
 
 ## Overview
 
-**Auto-extracted stats** (253 from Ivan, 284 from them)
+**Auto-extracted stats** (253 from Ivan, 284 from them, 6 emojis)
 
 Peak months: `2023-09` (91 msgs), `2023-10` (93 msgs), `2024-08` (49 msgs)
 Language mix: es: 51, other: 382, en: 103, mixed: 1
-
-## Communication stats
+Most active: **Sunday** at **22:00**
+Top topics: https (20), would (10), something (9), think (9), nomas (9)
 
 ## Communication stats
 
@@ -26,6 +26,23 @@ Language mix: es: 51, other: 382, en: 103, mixed: 1
 ## Key moments / Topics
 
 Auto-extracted notable messages from the chat:
+
+## Notable messages (auto-extracted)
+
+- **[2024-08-29] Them** (0 emojis): Olis, because of the mentormate Bootcamp, if I were interested, should I submit my CV through you too? Like can you get a bonus for that?
+- **[2026-02-03] Ivan** (0 emojis): Hello  Que tal ? Uwuwuw   No te molesto que me bese con Alex?  In case que te haya molesta sorry uwuwuw
+
+
+## Notable messages (auto-extracted)
+
+- **[2024-08-29] Them** (0 emojis): Olis, because of the mentormate Bootcamp, if I were interested, should I submit my CV through you too? Like can you get a bonus for that?
+- **[2026-02-03] Ivan** (0 emojis): Hello  Que tal ? Uwuwuw   No te molesto que me bese con Alex?  In case que te haya molesta sorry uwuwuw
+
+
+## Notable messages (auto-extracted)
+
+- **[2024-08-29] Them** (0 emojis): Olis, because of the mentormate Bootcamp, if I were interested, should I submit my CV through you too? Like can you get a bonus for that?
+- **[2026-02-03] Ivan** (0 emojis): Hello  Que tal ? Uwuwuw   No te molesto que me bese con Alex?  In case que te haya molesta sorry uwuwuw
 
 
 ## Notes
