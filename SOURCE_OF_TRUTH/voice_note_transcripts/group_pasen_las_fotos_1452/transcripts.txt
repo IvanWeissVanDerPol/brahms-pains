@@ -22,3 +22,37 @@ PTT-20231217-WA0020.opus | lang=es prob=0.9016071557998657 dur=40.0s
 [00:28.00 → 00:33.00] está bienvenido a casa. Y también pregunta si sale dónde va a pasar o algo,
 [00:33.00 → 00:36.00] también si quiere pasar con nosotros, está bienvenido.
 [00:36.00 → 00:40.00] No sé si está lolla a casa, en Paraguay de vuelta o no.
+PTT-20240621-WA0049.opus | lang=es prob=0.9762507081031799 dur=200.1s
+------------------------------------------------------------
+[00:00.00 → 00:08.88] O sea, tipo esta QA, tipo es el QA más básico es probar más cosas y tipo tenés que saber
+[00:08.88 → 00:16.44] inglés, tenés que saber hacer documentación, tenés que saber testear aplicaciones, o sea
+[00:16.44 → 00:20.36] con un computador y un celular, tipo te dan a decir que tenés la aplicación, onda esto
+[00:20.36 → 00:25.64] es tipo esos son los que hicimos y vos tenés que mirar, si es que le pongo un nombre
+[00:25.64 → 00:31.76] que es súper largo, sabe todavía bien en la pantalla, si es que le pongo un nombre con números, se va
+[00:31.76 → 00:38.32] la puta, si es que le pongo un nombre con acentos, anda todavía, reconoce los acentos, se queja de eso
+[00:38.32 → 00:45.60] y tipo todas esas boluguesas así, para asegurarse de que el programa anda bien, tipo no tenés tipo
+[00:45.60 → 00:52.20] así súper básico y bueno, me generaste que después haz una nueva versión del programa y tenés que
+[00:52.20 → 00:57.44] probar todo lo que hiciste ya hasta ahora, ultra garras, hiciste 100 cosas, te da, a ver no te da el
+[00:57.44 → 01:04.52] tiempo para probar las 100 cosas, más las cosas nuevas que hicieron, entonces le metés info y sabés
+[01:04.52 → 01:08.40] automatizar, sabés automatizar página web, sabés automatizar, tipo muchas boluguesas donde
+[01:08.40 → 01:17.60] eso y con programación, tipo hacerlo de automation y ahí puedes hacer que la página web solo haga
+[01:17.60 → 01:23.00] clic en todas las cosas, solo cargue los valores y solo saque un screenshot que guarda y hace un reporte
+[01:23.00 → 01:29.92] y ahí puedes tener, puedes probar automáticamente las 100 cosas que hiciste antes y escribir el codigo
+[01:29.92 → 01:39.08] para las 100 cosas nuevas que vienen, de esa forma puedes hacer la diferencia, tipo para hacer
+[01:39.08 → 01:45.20] CUA normal si sabes inglés y tenés YSTQB, me dormiste así por el buque rico
+[01:47.72 → 01:54.04] y si es que sabes programar y eso van a estar más mejor, hasta donde hay que apuntarme a eso
+[01:58.60 → 02:04.44] para CUA normal, así que creo que el tiempo te iría nomás a ustedes si les interesa meterse
+[02:04.44 → 02:11.96] en inglés y STQB así si quieren asegurar y Google inglés nomás ya creo que pueden irse porque el
+[02:11.96 → 02:15.80] mayor hecho que tienen la gente es que les cuesta comunicarse con los vulgaros, los americanos o los
+[02:15.80 → 02:21.08] indios y no sé, a mi hija más me fue ni un hecho y me imaginé que para ustedes tampoco, onda
+[02:23.48 → 02:25.68] no sé, ya estoy escuchando con inglés, todo eso ya
+[02:26.28 → 02:33.80] otra cosa que tengas que hacer como CUA normal, así es tipo aparte de preparar
+[02:33.80 → 02:38.48] documentación, esto va a mostrar así programitas que es onda mira onda esto conectadas el celular
+[02:38.48 → 02:44.60] con este programa, y ahora puedes ver todas las cosas que pasan antes de celular en el programa
+[02:44.60 → 02:50.88] tipo el programa ese te va a tirar, este error les atona el código y te tiras el código
+[02:50.88 → 02:55.12] de error para que puedas reportar bien porque no puedes ver si no es celular pero
+[02:55.12 → 02:59.64] el tipo ese de vuelta es otra vez más específico, onda al inicio creo que van a literal si es que
+[02:59.64 → 03:03.44] les aceptan meterle en bootcamps cursitos y ahí van a mostrarle cómo hacer todas las herramientas
+[03:04.80 → 03:11.28] en onda no sé, en cualquier empresa primer mundista si venís de Paraguay tipo van a
+[03:11.28 → 03:15.24] hacerlo cursos al comienzo, no deje tipo entrar a la empresa y de uno en proyecto,
+[03:15.24 → 03:19.40] a menos que el tipo tengas experiencia y tipo sepa lo que estás haciendo

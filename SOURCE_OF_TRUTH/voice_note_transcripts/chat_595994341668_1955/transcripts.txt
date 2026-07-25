@@ -1,0 +1,53 @@
+PTT-20240126-WA0014.opus | lang=es prob=0.8408678770065308 dur=179.2s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] O sea, si es que tenes en un lugar descargado todos tus PDFs, ¿eh?
+[00:07.00 → 00:09.00] ¿Qué pasó, bebé?
+[00:09.00 → 00:12.00] Mi vida como sacaste el lenguaje cuando te despertabas, mi chau.
+[00:13.00 → 00:19.00] O sea, si tenes un carpeto en tu computadora, todos tus PDFs de tus certificados,
+[00:19.00 → 00:21.00] tipo, de todas las volubesas ha sido online que hiciste también,
+[00:21.00 → 00:23.00] tipo, agregarle nomas todo un carpetado.
+[00:24.00 → 00:27.00] Hay un comando que te puede literal pasar nomas el...
+[00:28.00 → 00:32.00] Eh, capaz de estar complicado, pero te abre yo nomas un frappo que yo he llamado,
+[00:32.00 → 00:37.00] pero abrías una terminal en tu carpetado, que es básicamente click derecho,
+[00:37.00 → 00:40.00] Open New Terminal, que está entre las opciones de click derecho,
+[00:40.00 → 00:44.00] y te abre una cajita negra, y ahí le pones Dear,
+[00:44.00 → 00:49.00] y te va a leer escribir todas las carpetas, todos los archivos que están en la carpeta.
+[00:49.00 → 00:53.00] Y ahí tenes en un texto toda la lista de tus certificados,
+[00:53.00 → 00:57.00] y ahí le puedes pasar a chatGPT sin tener que hacer copy page de cada línea,
+[00:57.00 → 01:00.00] por si es que deseas, porque muy pasajera onda de eso.
+[01:01.00 → 01:04.00] Pero para mí es onda de eso, tipo, muy facilito, tipo,
+[01:05.00 → 01:09.00] tenes en una carpeta todos tus certificados, haces Dear,
+[01:09.00 → 01:11.00] tenes la lista de tus certificados en un texto,
+[01:12.00 → 01:16.00] le pasas a chatGPT, le pedís que te digas qué carpetas,
+[01:16.00 → 01:19.00] cómo nombrar las carpetas para clasificarles,
+[01:19.00 → 01:21.00] y le pedís nomas de vuelta de afuera,
+[01:21.00 → 01:24.00] y me haces un comando Determinal para crear esas carpetas,
+[01:24.00 → 01:28.00] y copias, pegas en Determinal, corres, te creas las carpetas,
+[01:28.00 → 01:31.00] y después le decís, ahora haces un comando que mueva,
+[01:31.00 → 01:35.00] todos los PDF es la carpeta correcta,
+[01:35.00 → 01:38.00] y te haces el comando Determinal, copias, pegas,
+[01:38.00 → 01:42.00] mueve todas las carpetas, mueve todas las carpetas correctas,
+[01:42.00 → 01:44.00] y después ya está todo organizado ya,
+[01:44.00 → 01:47.00] tenes que mover nomas tu carpeta central a tu drive,
+[01:47.00 → 01:51.00] y onda eso, pero capaz es muy info hacer onda de esa forma.
+[01:54.00 → 01:58.00] Pero si no así es contrapaja,
+[01:58.00 → 02:01.00] pero yo le veo onda que en ramas certificados le agregas mejor,
+[02:01.00 → 02:04.00] tipo, para eso, se certifica todo,
+[02:04.00 → 02:07.00] si puedes agregarle todo en LinkedIn luego,
+[02:07.00 → 02:10.00] y va a ser que tipo, tú resumen,
+[02:10.00 → 02:12.00] reenvíe, te envíe a tu LinkedIn,
+[02:12.00 → 02:15.00] reenvíe a tu página personal web así,
+[02:16.00 → 02:19.00] y a tus certificados, y a todas las redes sociales,
+[02:19.00 → 02:23.00] tipo, en el mío está onda que si es que hace click
+[02:23.00 → 02:25.00] en el trabajo en el que me fui antes,
+[02:25.00 → 02:27.00] le abre la página del trabajo en el que me fui antes,
+[02:27.00 → 02:30.00] y si abre por ejemplo, la universidad se hace click
+[02:30.00 → 02:32.00] en buchita o le abre la página de buchita,
+[02:32.00 → 02:36.00] o si hace click en la poli, le abre la página de la poli,
+[02:36.00 → 02:39.00] pero de vuelta, muy info.
+[02:40.00 → 02:45.00] Pero para mí es que onda de eso le puedes hacer,
+[02:45.00 → 02:50.00] o sea, igual el paso más baja para mí es
+[02:50.00 → 02:52.00] el de juntar todos los PDFs, si tenés todo eso,
+[02:52.00 → 02:55.00] avisa esto, ya hacemos las carpetas,
+[02:55.00 → 02:57.00] todo organizado por este.
+[02:57.00 → 02:59.00] O sea, si crees.
