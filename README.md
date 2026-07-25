@@ -1,269 +1,165 @@
-# Ivan - Psychological Repository
+# Ivan — Psychological Repository
 
-> **Purpose:** Comprehensive psychological documentation and self-understanding  
-> **Created:** January 2026  
-> **Status:** Living Document
+> **Purpose:** Comprehensive psychological documentation and self-understanding, plus WhatsApp corpus analysis
+> **Active period:** Jan 2026 → present
+> **Status:** Living document, ongoing analysis
 
 ---
 
-## Repository Structure
+## 🎯 Where to Start
+
+| If you are... | Start here |
+|---------------|------------|
+| **New to this repo** | [INDEX.md](./INDEX.md) — full repo map |
+| **A therapist (new)** | [TREATMENT/CLINICAL_SUMMARY.md](./TREATMENT/CLINICAL_SUMMARY.md) |
+| **A therapist (in session)** | [TREATMENT/QUICK_REFERENCE_CLINICAL.md](./TREATMENT/QUICK_REFERENCE_CLINICAL.md) |
+| **A partner/intimate** | [QUICK_REFERENCE/FOR_PARTNERS.md](./QUICK_REFERENCE/FOR_PARTNERS.md) |
+| **Looking for a person** | [RELATIONSHIPS/dynamics/](./RELATIONSHIPS/dynamics/README.md) (252 profiles) |
+| **Want visual dashboards** | [SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html](./SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html) |
+| **Looking for analysis** | [docs/](./docs/) |
+| **Want the deep psychological analysis** | [docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md](./docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md) |
+| **Repo health check** | [docs/REPO_ROAST_AUDIT.md](./docs/REPO_ROAST_AUDIT.md) |
+
+---
+
+## 📂 Repository Structure
+
+### ⭐ Top-Level — Read First
 
 ```
 psycology/
-├── SOURCE_OF_TRUTH/
-│   └── MASTER_PROFILE.md          # Consolidated single source of truth
+├── README.md                          # This file
+├── INDEX.md                           # Full repo map with all dashboards
+├── pyproject.toml / requirements*.txt # Python deps
 │
-├── REPORTS/
-│   ├── original_documents/        # Source documents
-│   │   ├── Complete_Psychological_Analysis_Jan2026.md
-│   │   └── A_Letter_to_My_Masters_Brahm.md
-│   └── session_notes/             # Future therapy session notes
+├── docs/                              # All written analysis
+│   ├── PSYCHOLOGICAL_ANALYSIS_20HATS.{md,html}  # ⭐ 20-perspective analysis
+│   ├── MAIN_FRIENDS.md                # 7 main friends verified
+│   ├── CONSISTENCY_AUDIT.md           # Identity corrections
+│   ├── REPO_ROAST_AUDIT.md            # Repo structure audit
+│   └── REPOSITORY_INCONSISTENCY_REPORT.md
 │
-├── CORE_PSYCHOLOGY/
-│   ├── wounds/                    # Core wounds analysis
-│   │   ├── 01_PESADO_LABEL.md
-│   │   ├── 02_LIPSTICK_INCIDENT.md
-│   │   ├── 03_PARENTAL_DYNAMICS.md
-│   │   └── 04_TOUCH_STARVATION.md
-│   ├── defense_mechanisms/        # How I protect myself
-│   │   ├── THE_FIXER.md
-│   │   ├── THE_FIREWALL.md
-│   │   ├── THE_MASK.md
-│   │   └── THE_FREEZE.md
-│   └── attachment_patterns/       # How I attach to others
-│       └── ATTACHMENT_OVERVIEW.md
+├── CORE_PSYCHOLOGY/                   # ⭐ Clinical material
+│   ├── wounds/                        # 4 core wounds
+│   ├── defense_mechanisms/            # Fixer, Firewall, Mask, Freeze
+│   └── attachment_patterns/
 │
-├── RELATIONSHIPS/
-│   ├── history/                   # Past relationships
-│   │   └── RELATIONSHIP_TIMELINE.md
-│   └── patterns/                  # Identified patterns
-│       └── IDENTIFIED_PATTERNS.md
+├── KINK_AND_INTIMACY/                 # ⭐ Kink analysis
+│   ├── cases/                         # Sarah, Nico/Nyx, Funhouse
+│   ├── preferences/
+│   └── permission_structures/
 │
-├── KINK_AND_INTIMACY/
-│   ├── permission_structures/     # How kink enables vulnerability
-│   │   └── HOW_KINK_FUNCTIONS.md
-│   └── preferences/               # Detailed preferences
-│       └── COMPLETE_PREFERENCES.md
+├── TREATMENT/                         # ⭐ Therapy planning
+│   ├── CLINICAL_SUMMARY.md
+│   ├── TREATMENT_ROADMAP.md
+│   └── goals/
 │
-├── TREATMENT/
-│   ├── CLINICAL_SUMMARY.md        # Comprehensive clinical documentation
-│   ├── QUICK_REFERENCE_CLINICAL.md # Session-at-a-glance guide
-│   ├── TREATMENT_ROADMAP.md       # Phase-by-phase intervention plan
-│   ├── CASE_CONCEPTUALIZATION.md  # Theoretical framework
-│   ├── THERAPIST_GUIDE.md         # Working effectively with Ivan
-│   ├── PROGRESS_TRACKING.md       # Measurable outcome tracking
-│   ├── goals/                     # Treatment targets
-│   │   └── TREATMENT_GOALS.md
-│   └── progress/                  # Progress tracking templates
+├── QUICK_REFERENCE/                   # ⭐ Reference
+│   ├── FOR_CLINICIANS.md
+│   └── FOR_PARTNERS.md
 │
-└── QUICK_REFERENCE/
-    ├── FOR_CLINICIANS.md          # Quick ref for therapists
-    └── FOR_PARTNERS.md            # Quick ref for partners/intimates
+├── ROLEPLAY_SESSIONS/                 # 4 therapy roleplay scripts
+│
+├── REPORTS/                           # Original documents + session notes
+│
+├── RELATIONSHIPS/                     # Contact profiles
+│   ├── dynamics/                      # 252 profiles (34 deep + 218 stubs)
+│   │   ├── README.md                  # ⭐ Profile index
+│   │   ├── *.md                       # 34 deep profiles at top
+│   │   └── _stubs/                    # 218 auto-generated stubs
+│   ├── patterns/
+│   └── history/
+│
+├── SOURCE_OF_TRUTH/                   # ⭐ The actual data
+│   ├── wa_messages/                   # 948 WhatsApp chats
+│   │   ├── _ANALYSIS/                 # 📊 All dashboards (start here)
+│   │   ├── _TIERS.md                  # Tier system explanation
+│   │   ├── tier1_deep/                # 13 closest
+│   │   ├── tier2_core/                # 32
+│   │   ├── tier3_extended/            # 63
+│   │   ├── tier4_groups/              # 42
+│   │   ├── untiered_personal/         # 153
+│   │   ├── other_lid/                 # 10
+│   │   ├── circles/                   # 6
+│   │   ├── _dropped/                  # 643
+│   │   └── _conversations/            # 75 (incl. Gaby WA export)
+│   ├── voice_note_transcripts/        # 20,733 transcripts (95.3h audio)
+│   │   ├── _README.md                 # Folder naming convention
+│   │   ├── Laura/                     # 7 named top contacts
+│   │   └── chat_*/lid_*/group_*/      # 248 numbered
+│   ├── NOTABLE_QUOTES.md              # 1.1MB of quotes
+│   ├── DEEP_EXTRACTION_REPORT.md      # 392KB
+│   └── ARCHIVE_QUESTIONNAIRE_V1/      # Original questionnaire
+│
+├── media/                             # Audio + visual assets (1.5GB)
+│   └── audio/                         # 200+ chat directories
+│
+├── scripts/                           # 43 analysis Python scripts
+├── src/                               # Source code (legacy)
+├── config/                            # Static config
+├── tests/                             # Tests
+└── logs/                              # Whisper process logs
 ```
+
+### 🎯 The Five "Start Here" Points
+
+1. **For therapy** → [TREATMENT/CLINICAL_SUMMARY.md](./TREATMENT/CLINICAL_SUMMARY.md)
+2. **For understanding Ivan** → [docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md](./docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md)
+3. **For browsing data** → [SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html](./SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html)
+4. **For understanding the repo** → [INDEX.md](./INDEX.md)
+5. **For health checks** → [docs/REPO_ROAST_AUDIT.md](./docs/REPO_ROAST_AUDIT.md)
 
 ---
 
-## Where to Start
+## 📊 Data Summary
 
-| If You Are... | Start Here |
-|---------------|-----------|
-| A therapist (new to case) | [Clinical Summary](TREATMENT/CLINICAL_SUMMARY.md) |
-| A therapist (in session) | [Quick Reference Clinical](TREATMENT/QUICK_REFERENCE_CLINICAL.md) |
-| A therapist (planning treatment) | [Treatment Roadmap](TREATMENT/TREATMENT_ROADMAP.md) |
-| A therapist (understanding theory) | [Case Conceptualization](TREATMENT/CASE_CONCEPTUALIZATION.md) |
-| A therapist (tracking progress) | [Progress Tracking](TREATMENT/PROGRESS_TRACKING.md) |
-| A partner/intimate | [Quick Reference for Partners](QUICK_REFERENCE/FOR_PARTNERS.md) |
-| Ivan (reviewing) | [Master Profile](SOURCE_OF_TRUTH/MASTER_PROFILE.md) |
-| Deep diving | [Core Wounds](CORE_PSYCHOLOGY/wounds/) |
-| Quick overview | [Quick Reference for Clinicians](QUICK_REFERENCE/FOR_CLINICIANS.md) |
-
-### WhatsApp corpus (July 2026)
-
-The WhatsApp backup was decrypted and extracted into `SOURCE_OF_TRUTH/wa_messages/`. Two complementary views:
-
-- **Tiers** (`tier1_deep/`, `tier2_core/`, `tier3_extended/`, etc.) — priority by message volume.
-- **Circles** (`circles/`) — Ivan's friend circles via group co-membership analysis. Inner Circle / Family / FPUNA / PyTesting.
-
-See [`SOURCE_OF_TRUTH/wa_messages/INDEX.md`](SOURCE_OF_TRUTH/wa_messages/INDEX.md), [`_ANALYSIS/CONTACT_CIRCLES.md`](SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/CONTACT_CIRCLES.md), and [`_ANALYSIS/CONTACTS_NAMED.md`](SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/CONTACTS_NAMED.md).
+| Source | Volume | Status |
+|--------|--------|--------|
+| WhatsApp chats | 948 directories | 235,404 messages |
+| Voice notes | 16,111 .opus files | 95.3 hours |
+| Transcripts | 20,733 | 1.4M words |
+| Named contacts | 216 (vCard-verified) | 12 CLOSE, 61 ACTIVE |
+| Profile analyses | 34 deep + 218 stubs | Curated |
+| Family members | 9 (in tree) | All verified |
+| Voice-note time | 23:00-02:00 peak | Late-night rumination pattern |
+| Top voice-note contact | Laura 🐷 | 2,915 notes (191k words) |
 
 ---
 
-## Key Concepts
+## 🦷 Recent Discoveries (2026-07-23)
 
-### The Dual-System Model
+- **Gaby (Dra. Gabriella González Pane)** — new client (Ometz Dental) + close friend
+- **"Mommy sexy / kido" dynamic** — physical affection without romance
+- **Sonia actively encouraging intimacy** with Gaby
+- **Ometz Dental project** — `ometzdental.com` live
 
-| The Engineer (Armor) | Brahm (Authentic Self) |
-|---------------------|------------------------|
-| Analytical, competent | Soft, vulnerable |
-| Logical, guarded | Needy, tactile |
-| "Be useful" | "Let me be held" |
-| Default mode | Requires permission |
+## 🔒 Privacy & PHI
 
-### Core Wounds
+⚠️ **WARNING**: This repo contains personal data:
+- `IPIP-NEO-120-Ivan.xlsx` — NEO-PI-R personality test
+- `MMPI2-Ivan.xlsx` — MMPI-2 clinical assessment
+- Real WhatsApp messages with full names and content
 
-1. **"Pesado" Label** - Called annoying/burden by entire family
-2. **Lipstick Incident** - Origin of the Information Firewall
-3. **Father: "Do Not Disturb"** - Emotionally unavailable
-4. **Mother: "Unpredictable Manager"** - High variance behavior
-5. **Touch Starvation** - Chronic unmet need for physical affection
-
-### Defense Mechanisms
-
-1. **The Fixer** - Compulsive over-functioning
-2. **The Firewall** - Information compartmentalization
-3. **The Mask** - "Chill guy" presentation
-4. **The Freeze** - Numbness/shutdown response
-
-### The Integration Goal
-
-> *"I want to integrate the softness of Brahm into daily life as Ivan. I want to ask for care without a permission structure. I want to feel less lonely. I want to feel warm more often."*
+These are now gitignored for **future commits** but exist in the working tree. **Move to private repo or encrypt before publishing.**
 
 ---
 
-## Document Conventions
+## 🗓️ Last Updates
 
-- **Bold quotes** - Ivan's own words
-- **Tables** - Quick reference information
-- **Related Documents** - Links at bottom of each file
-- **Clinical Notes** - Marked as such when present
-
----
-
-## Maintenance
-
-This is a living document. Add:
-- Session notes to `REPORTS/session_notes/`
-- Progress updates to `TREATMENT/progress/`
-- New insights to relevant sections
-
-Update `SOURCE_OF_TRUTH/MASTER_PROFILE.md` when significant changes occur.
+- 2026-07-25: Repo reorganization (top-level cleanup, INDEX.md, READMEs)
+- 2026-07-25: 218 stub profiles archived to `_stubs/`
+- 2026-07-25: PSYCOLOGICAL_ANALYSIS_20HATS published
+- 2026-07-23: Voice note analysis (95.3h audio, 1.4M words)
+- 2026-07-23: Family tree + identity corrections
+- 2026-07-23: Relationship dashboard (216 contacts scored)
 
 ---
 
-## Closing Note
+## 🤝 Contributing
 
-> *"I realized I use intellectualization to avoid feeling things, so I used an AI to intellectualize my feelings for me. But underneath all this analysis, there's a lonely wolf in a blizzard who still wants to be found. The cave exists - I've seen it. I just need to learn I'm allowed to stay."*
+This is a personal research repo. AI agents work on it during:
+- Scheduled cron jobs (analysis, transcription, audits)
+- On-demand user requests
+- Self-improvement loops
 
-**Prognosis: Good with appropriate therapeutic engagement.**
-
----
-
-## Technical Architecture
-
-### Transcription System (v2.0)
-
-A unified Python module for processing WhatsApp voice notes using OpenAI Whisper.
-
-#### Project Structure
-
-```
-psycology/
-├── src/
-│   └── transcription/           # Main transcription module
-│       ├── __init__.py
-│       ├── config.py            # Configuration management
-│       ├── core/
-│       │   ├── __init__.py
-│       │   └── engine.py        # Whisper transcription engine
-│       └── utils/
-│           ├── __init__.py
-│           ├── io.py            # File I/O operations
-│           ├── logging_utils.py # Logging configuration
-│           ├── path_utils.py    # Path parsing utilities
-│           └── quality.py       # Quality validation
-├── src/transcribe.py            # Unified CLI entry point
-├── tests/
-│   └── test_transcription.py    # Test suite
-├── config/                      # Configuration templates
-├── requirements.txt             # Production dependencies
-├── requirements-dev.txt         # Development dependencies
-└── pyproject.toml              # Project metadata
-```
-
-#### Commands
-
-| Command | Description | Example |
-|---------|-------------|---------|
-| `single` | Transcribe one chat | `python src/transcribe.py single Laura` |
-| `parallel` | Multi-worker processing | `python src/transcribe.py parallel --workers 4` |
-| `all` | Process all chats | `python src/transcribe.py all` |
-| `resume` | Resume interrupted job | `python src/transcribe.py resume Laura` |
-| `retranscribe` | Fix quality issues | `python src/transcribe.py retranscribe` |
-| `check` | Quality validation | `python src/transcribe.py check` |
-| `status` | View progress | `python src/transcribe.py status` |
-
-#### Configuration
-
-Configuration is managed via:
-1. Environment variables (highest priority)
-2. `.env` file in project root
-3. Default values (lowest priority)
-
-See `.env.example` for available options.
-
-#### Testing
-
-```bash
-# Install dev dependencies
-pip install -r requirements-dev.txt
-
-# Run tests
-pytest tests/ -v
-
-# Run with coverage
-pytest tests/ --cov=src/transcription --cov-report=html
-```
-
-#### Code Quality
-
-```bash
-# Format code
-black src/ tests/
-isort src/ tests/
-
-# Lint
-flake8 src/ tests/
-ruff check src/ tests/
-
-# Type check
-mypy src/
-```
-
----
-
-## Git Workflow
-
-This repository uses Git for version control.
-
-### Initial Setup
-
-```bash
-# Repository already initialized
-git status
-```
-
-### Making Changes
-
-```bash
-# Check status
-git status
-
-# Stage changes
-git add <files>
-
-# Commit with descriptive message
-git commit -m "feat: description of change"
-
-# View history
-git log --oneline
-```
-
-### Commit Convention
-
-- `feat:` New feature
-- `fix:` Bug fix
-- `refactor:` Code restructuring
-- `docs:` Documentation changes
-- `test:` Test additions/changes
-- `chore:` Maintenance tasks
-
+The repo is **evergreen** — every week it gets cleaner, deeper, and more useful.

@@ -210,3 +210,24 @@ whatsapp transcripts/
 
 # Personal PHI — never commit
 health/
+
+# Agent state directories (Herme5s / OpenCode / etc.) — not source
+.omo/
+.opencode/
+.opencode/goals/
+.opencode/*.json
+.opencode/*.md
+.hermes/desktop-attachments/
+
+# Whisper process state — transient
+*.pid
+whisper_*.out
+
+# Database dumps (already covered by *.db, but explicit)
+*.crypt14
+*.crypt15
+
+# Personal psychological test results (PHI)
+# Move these to private or encrypt
+IPIP-NEO-120-Ivan.xlsx
+MMPI2-Ivan.xlsx

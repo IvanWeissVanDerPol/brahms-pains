@@ -1,188 +1,82 @@
-# Individual Relationship Profiles
+# RELATIONSHIPS/dynamics/ — Profile Index
 
-> **Purpose:** Detailed psychological profiles of Ivan's significant relationships  
-> **Total Profiles:** 15  
-> **Analysis Period:** 2020-2026  
-> **Source:** WhatsApp chat transcripts, psychological analysis
->
-> **NEW (January 2026):** Alex 🌙 and Sarah profiles added - showing evolution in HIV disclosure, consent communication, and reciprocal kink dynamics
+> **Updated**: 2026-07-25
+> **Total profiles**: 252 (34 deep + 218 stubs)
+> **Stubs location**: `_stubs/`
 
----
+## The 34 Deep Profiles (curated)
 
-## Quick Reference: The Fixer Spectrum
+These are the profiles with substantive content (>50 lines, hand-written analysis).
 
-| Tier | Level | Relationships |
-|------|-------|---------------|
-| **1** | EXTREME | Laura, Magali |
-| **2** | HIGH | Rita, Lourdes, Jonatan, Mike |
-| **3** | MODERATE | Ara, Lucia, Ideline, Nico |
-| **4** | LOW/BALANCED | Defi, Cookie, Joaquina, Alejandro, Lujan |
+| # | Profile | Lines | Last Updated |
+|---|---------|-------|--------------|
+| 1 | **MIKE_NYX** | 445 | (bot vs human disambiguation) |
+| 2 | **LAURA** 🐷 | 443 | #1 voice-note contact (2,915 notes) |
+| 3 | **MAGALI_CARRERAS** | 436 | #3 strongest (28k msgs), FALLING |
+| 4 | **JONATAN_VERDUN** | 425 | Close friend, 1202 voice notes |
+| 5 | **SARAH** | 413 | Kink/FWB, 15k msgs Somosgay |
+| 6 | **LOURDES_YOUKO_KURAMA** | 383 | FWB 2022-2023, mood cooling |
+| 7 | **DEFI** Not There 4 U | 377 | Kink community |
+| 8 | **NICOLAS_DUARTE** | 337 | Kink Dom/Rigger, "Neko" dynamic |
+| 9 | **IDELINE_BRISA** | 299 | |
+| 10 | **ARA_NUNEZ_POLI** | 290 | Balanced friend |
+| 11 | **ALEX** 🌙 | 280 | |
+| 12 | **COOKIE** | 279 | Breakthrough friend |
+| 13 | **LUCIA_DIAZ** | 276 | |
+| 14 | **JOAQUINA_EX** | 244 | |
+| 15 | **RITA** | 234 | |
+| 16 | **ALEJANDRO_CABRAL** | 224 | #1 ranked friend (72.5 score) |
+| 17 | **LUJAN** | 202 | |
+| 18 | **Individual Relationship Profiles** | 189 | (multi-person doc) |
+| 19 | **SONIA** — Mother | 167 | #4 contact, 11k msgs |
+| 20 | **KIKI** (hermana) | 157 | Sister, 7.8k msgs |
+| 21 | **GABRIELLA_GP** | 112 | Ometz Dental client, 5.9k msgs |
+| 22 | **OPEN QUESTION — Ann_KINK vs Lucía Díaz** | 96 | Identity question |
+| 23 | **NATASHA** | 61 | |
+| 24 | **Lic Sanni Lalla** | 60 | |
+| 25 | **GERARDO RAMOS** | 56 | |
+| 26 | **emilia_lourdes_contact** | 56 | |
+| 27 | **JACK** | 53 | |
+| 28 | **GÉNESIS** | 52 | |
+| 29 | **BIANCA MM** | 51 | New contact (rising) |
+| 30 | **JAVIER_VECINO** | - | |
+| 31 | **COMPILADORES_FRIEND** | - | |
+| 32 | **BECAS_KANSAS_FRIEND** | - | |
+| 33 | **KIKI_HERMANA** | 157 | |
+| 34 | **ANN_KINK_OPEN_QUESTION** | - | |
 
----
+## Stubs (in _stubs/)
 
-## Profile Index
+218 auto-generated profile stubs. These are minimal — they list chat metadata but contain no analysis.
 
-### Core/Daily Relationships (New Category)
+**To use them**:
+- For research: search by JID or name
+- For analysis: only deep profiles have meaningful content
+- To clean up: delete or merge if no msg activity >180 days
 
-| Profile | Duration | Key Finding | Link |
-|---------|----------|-------------|------|
-| **Alejandro** | Best Friend | **LOW Fixer Activation**. Daily cohabitation reduces need to perform. | [ALEJANDRO_CABRAL.md](./ALEJANDRO_CABRAL.md) |
+## How to use this folder
 
-### Romantic Relationships
+```bash
+# Find a deep profile
+ls RELATIONSHIPS/dynamics/*.md  # 34 deep at top
 
-| Profile | Duration | Key Finding | Link |
-|---------|----------|-------------|------|
-| **Laura** | 21 months | MEDICAL CRISES - most significant wound evidence. Pattern recreation of mother's dynamic. | [LAURA.md](./LAURA.md) |
-| **Lujan** | High School | **HISTORICAL COUNTER-EVIDENCE**. Received care without earning it. "You can just rest." | [LUJAN.md](./LUJAN.md) |
-| **Rita** | ~2 months | Early romantic interest. Service (cooking) as primary love language. | [RITA.md](./RITA.md) |
-| **Alex 🌙** | Jan 2026+ | **BREAKTHROUGH COMMUNICATION**. Proactive HIV disclosure. Explicit consent. No Fixer activation. "Uwu" permission structure. Healthiest communication sample. | [ALEX.md](./ALEX.md) |
-| **Joaquina Ex** | Post-breakup | Surface-level friendship. Low Fixer activation. | [JOAQUINA_EX.md](./JOAQUINA_EX.md) |
+# Find a stub
+ls RELATIONSHIPS/dynamics/_stubs/  # 218 stubs
 
-### Sexual/FWB Relationships
+# Search content
+grep -l "kink" RELATIONSHIPS/dynamics/*.md
+```
 
-| Profile | Duration | Key Finding | Link |
-|---------|----------|-------------|------|
-| **Lourdes** | ~2 years | Sexual > Emotional fluency. One-way service despite casual framing. | [LOURDES_YOUKO_KURAMA.md](./LOURDES_YOUKO_KURAMA.md) |
-| **Sarah** | Jan 2026+ | **RECIPROCAL KINK + HEALTH ADVOCACY**. 252 audio files. Modified Fixer (helps with HIV testing). Explicit consent for high-risk play. | [SARAH.md](./SARAH.md) |
+## Profile file format (canonical)
 
-### University Friendships
+Deep profiles include:
+- `> Relationship Type` — one-liner category
+- `> Time Period` — start/end dates
+- `> Chat Length` — total messages
+- `> Status` — current state
+- Sections: Overview, Communication Patterns, Defense Mechanisms, Psychological Analysis, Risk Assessment, etc.
 
-| Profile | Duration | Key Finding | Link |
-|---------|----------|-------------|------|
-| **Magali** | 5+ years | MOST EXTREME Fixer example. 3AM code sessions. She identified his pattern. | [MAGALI_CARRERAS.md](./MAGALI_CARRERAS.md) |
-| **Ara** | 5+ years | BALANCED friendship model. Shows healthy dynamics are possible. | [ARA_NUNEZ_POLI.md](./ARA_NUNEZ_POLI.md) |
-
-### Male Friendships
-
-| Profile | Duration | Key Finding | Link |
-|---------|----------|-------------|------|
-| **Jonatan** | 2+ years | The Fixer is GENDER-NEUTRAL. Career mentor role. "Most tolerant person." | [JONATAN_VERDUN.md](./JONATAN_VERDUN.md) |
-
-### Exchange Program Friendships (Kansas 2023)
-
-| Profile | Duration | Key Finding | Link |
-|---------|----------|-------------|------|
-| **Lucia** | 3 months | Exchange context friendship. Group activities. | [LUCIA_DIAZ.md](./LUCIA_DIAZ.md) |
-| **Ideline** | 3 months | "Pesado" prevention strategy. Apologizing for existence. | [IDELINE_BRISA.md](./IDELINE_BRISA.md) |
-
-### Kink Community Friendships (CRITICAL - Active Healing Happening)
-
-| Profile | Duration | Key Finding | Link |
-|---------|----------|-------------|------|
-| **Nico (Nicolás Duarte)** | Aug 2025+ | PERMISSION STRUCTURE IN ACTION. D/s rigger. Ivan can ask for affection as "Neko". Processes Laura wound. | [NICOLAS_DUARTE.md](./NICOLAS_DUARTE.md) |
-| **Mike (Miki/Nyx)** | Jan 2026+ | FIXER WITH RECIPROCITY. Massage exchange addresses touch starvation. Service sustainable. | [MIKE_NYX.md](./MIKE_NYX.md) |
-| **Defi** | 1+ year | MORE BALANCED dynamic. Lower Mask. Friends raising standards together. | [DEFI.md](./DEFI.md) |
-| **Cookie** | Recent | BREAKTHROUGH: Ivan asked for help. Proves capability exists. | [COOKIE.md](./COOKIE.md) |
-
----
-
-## Key Patterns Across All Profiles
-
-### 1. The Fixer is Universal BUT Can Be Healthy
-- Appears in romantic, sexual, platonic, male, and female relationships
-- Primary relationship currency = SERVICE
-- Ranges from depleting (Laura, Magali) to sustainable (Ara, Defi, Nico, Mike)
-- **NEW FINDING:** With explicit reciprocity, The Fixer becomes sustainable
-- Evidence: Nico gives recognition + touch, Mike gives massage → Ivan doesn't deplete
-
-### 2. The "uwu" Permission Structure
-- Linguistic marker for vulnerability
-- Required even when asking for help (Cookie chat)
-- Functions as "soft Ivan" signal
-
-### 3. "Pesado" Prevention
-- Apologizing for presence before it's questioned
-- "Sorry if I'm too random"
-- Hedging all requests
-
-### 4. Sexual > Emotional Fluency
-- Can discuss explicit kink openly
-- Cannot say "I need care" directly
-- The Medical Crises (Dengue, Foot, Fistula) prove the gap
-
-### 5. Balance IS Possible
-- Ara, Defi, Cookie show healthier patterns exist
-- Tend to be lower emotional intensity
-- Clear boundaries, mutual respect
-- **NEW:** Alex shows romantic relationships CAN have explicit consent and proactive health communication
-
-### 6. Proactive Health Communication (NEW - January 2026)
-- **Alex:** Ivan proactively discloses HIV status (U=U), explains concepts clearly
-- **Sarah:** Ivan helps partner access HIV testing (health advocacy channeling)
-- **Contrast:** Major evolution from avoiding vulnerability to leading with transparency
-- **Significance:** Shows integration of HIV+ status into identity, not shame
-
-### 7. Explicit Consent Culture (NEW - January 2026)
-- **Alex:** "Consent is hot he'i" - positive framing of boundaries
-- **Sarah:** Detailed negotiation of sounding, pegging, drug use
-- **Progression:** From inability to ask for care → explicit sexual communication
-- **Clinical Note:** Permission structures ("uwu") enable explicit consent
-
-### 8. Absence of Self-Deprecation (NEW - January 2026)
-- **Alex:** No "pesado" apologies, no hedging, no "sorry I'm too much"
-- **Sarah:** Direct requests ("Plz con un strapon") without shame
-- **Breakthrough:** Self-worth sufficient to ask for pleasure without apology
-- **Contrast:** Laura relationship showed constant self-minimization
-
----
-
-## Critical Evidence by Profile
-
-### For "Needs Being Burden" Wound
-- **Laura:** The Medical Crises - "gave me absolutely nothing"
-- **Ideline:** "Sorry if I'm too random"
-- **Jonatan:** Never asks for anything despite constant giving
-
-### For Pattern Recreation
-- **Laura:** "Probably recreated the same dynamic [as with mother]"
-- **Stayed 7 months past wanting to leave**
-
-### For Capability to Ask for Help
-- **Cookie:** "Por si acaso conoces de tus clases gente en bio informatica? Uwu"
-- **Context:** Intellectual, not emotional
-
-### For Healthy Relationship Potential
-- **Ara:** Mutual academic support
-- **Defi:** Reciprocal emotional check-ins
-- **Nico:** D/s dynamic with explicit appreciation and touch
-- **Mike:** Exchange model - service for massage, both benefit
-- **Alex:** **NEW - BEST EXAMPLE** Explicit consent, HIV disclosure, vulnerable communication, zero Fixer
-- **Sarah:** **NEW** Reciprocal kink with health advocacy, mutual pleasure
-
-### For HIV Status Integration (NEW - January 2026)
-- **Alex:** "Ya estoy 3 meses en Pep / Debería estar U=U" - proactive, unashamed disclosure
-- **Sarah:** Health advocacy helping partner get tested - channeling experience positively
-- **Significance:** Major identity integration milestone
-
-### For Explicit Consent Capability (NEW - January 2026)
-- **Alex:** "Consent is hot" - positive boundary framing
-- **Sarah:** Detailed sounding/pegging negotiation - sophisticated consent
-- **Contrast:** Historical inability to ask for emotional care vs. current sexual explicitness
-
----
-
-## For Clinicians
-
-**Start with:** [LAURA.md](./LAURA.md) - Contains the core wound in action
-
-**For evidence of capability:** [COOKIE.md](./COOKIE.md) - Ivan CAN ask
-
-**For contrast/hope:** [ARA_NUNEZ_POLI.md](./ARA_NUNEZ_POLI.md) - Balance exists
-
-**For pattern across genders:** [JONATAN_VERDUN.md](./JONATAN_VERDUN.md) - Same with men
-
-**For breakthrough communication (NEW):** [ALEX.md](./ALEX.md) - **Healthiest communication sample in repository**
-
-**For evolved kink dynamics (NEW):** [SARAH.md](./SARAH.md) - Reciprocal, explicit, harm-reduction aware
-
-**For HIV integration progress (NEW):** Both Alex and Sarah profiles show proactive health communication
-
----
-
-## Related Documents
-
-- [COMMUNICATION_PATTERNS_ANALYSIS.md](../../SOURCE_OF_TRUTH/COMMUNICATION_PATTERNS_ANALYSIS.md) - Full synthesis
-- [MASTER_PROFILE.md](../../SOURCE_OF_TRUTH/MASTER_PROFILE.md) - Core psychological profile
-- [THE_FIXER.md](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_FIXER.md) - Defense mechanism details
-- [RELATIONSHIP_TIMELINE.md](../history/RELATIONSHIP_TIMELINE.md) - Chronological context
-- [IDENTIFIED_PATTERNS.md](../patterns/IDENTIFIED_PATTERNS.md) - Pattern summary
+Stub profiles are auto-generated by `scripts/generate_profile_stubs_v2.py` and have:
+- JID, tier, score
+- Auto-extracted stats (peak months, top topics, sentiment, etc.)
+- Auto-extracted notable messages
