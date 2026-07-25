@@ -14,7 +14,7 @@
 | **A therapist (new)** | [TREATMENT/CLINICAL_SUMMARY.md](./TREATMENT/CLINICAL_SUMMARY.md) |
 | **A therapist (in session)** | [TREATMENT/QUICK_REFERENCE_CLINICAL.md](./TREATMENT/QUICK_REFERENCE_CLINICAL.md) |
 | **A partner/intimate** | [QUICK_REFERENCE/FOR_PARTNERS.md](./QUICK_REFERENCE/FOR_PARTNERS.md) |
-| **Looking for a person** | [RELATIONSHIPS/dynamics/](./RELATIONSHIPS/dynamics/README.md) (252 profiles) |
+| **Looking for a person** | [RELATIONSHIPS/dynamics/](./RELATIONSHIPS/dynamics/README.md) (166 curated + 141 stubs + 73 archived) |
 | **Want visual dashboards** | [SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html](./SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html) |
 | **Looking for analysis** | [docs/](./docs/) |
 | **Want the deep psychological analysis** | [docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md](./docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md) |

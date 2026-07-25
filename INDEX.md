@@ -1,8 +1,8 @@
 # 🧠 psycology — Repository Index
 
-> **Last updated**: 2026-07-25
+> **Last updated**: 2026-07-25 (evening)
 > **Repo size**: 2.0 GB
-> **Status**: Active research, ongoing cleanup
+> **Status**: Active research, cleanup complete
 
 ---
 
