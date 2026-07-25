@@ -1,0 +1,750 @@
+{
+  "generated_at": "2026-07-25",
+  "method": "vcard > wm_dir_prefix > messages_intro > transcript_intro",
+  "renames": [
+    {
+      "folder": "chat_15055778339_2872",
+      "safe_name": "Toni_Weiss",
+      "jid": "15055778339",
+      "source": "vcard",
+      "canonical": "Toni Weiss"
+    },
+    {
+      "folder": "chat_595962291837_9625",
+      "safe_name": "Defi_Not_There_4_U",
+      "jid": "595962291837",
+      "source": "vcard",
+      "canonical": "Defi Not There 4 U"
+    },
+    {
+      "folder": "chat_595971922708_3654",
+      "safe_name": "Jonatan_Verdún",
+      "jid": "595971922708",
+      "source": "vcard",
+      "canonical": "Jonatan Verdún"
+    },
+    {
+      "folder": "chat_595972130867_49",
+      "safe_name": "Alejandro_Cabral_Poli",
+      "jid": "595972130867",
+      "source": "vcard",
+      "canonical": "Alejandro Cabral Poli"
+    },
+    {
+      "folder": "chat_595972209763_2943",
+      "safe_name": "Inglés_De_Siempre_Y_Tu_Capín_I",
+      "jid": "595972209763",
+      "source": "transcript_intro",
+      "canonical": "Inglés De Siempre Y Tu Capín I"
+    },
+    {
+      "folder": "chat_595973572212_1994",
+      "safe_name": "Alvaro_Llano",
+      "jid": "595973572212",
+      "source": "vcard",
+      "canonical": "Alvaro Llano"
+    },
+    {
+      "folder": "chat_595976538689_3231",
+      "safe_name": "Laura",
+      "jid": "595976538689",
+      "source": "vcard",
+      "canonical": "Laura 🐷"
+    },
+    {
+      "folder": "chat_595981180666_11095",
+      "safe_name": "El_Líder_Ahora_De_Casa_En_Tuve",
+      "jid": "595981180666",
+      "source": "transcript_intro",
+      "canonical": "El Líder Ahora De Casa En Tuve"
+    },
+    {
+      "folder": "chat_595981225272_62",
+      "safe_name": "Magali_Carreras_Amiga_Fpuna",
+      "jid": "595981225272",
+      "source": "vcard",
+      "canonical": "Magali Carreras Amiga Fpuna"
+    },
+    {
+      "folder": "chat_595981258488_3525",
+      "safe_name": "Tan_Inteligente_Como_Él",
+      "jid": "595981258488",
+      "source": "transcript_intro",
+      "canonical": "Tan Inteligente Como Él"
+    },
+    {
+      "folder": "chat_595981586063_6818",
+      "safe_name": "Tu_Driver_De_Monchis_App",
+      "jid": "595981586063",
+      "source": "messages_intro",
+      "canonical": "Tu Driver De Monchis App"
+    },
+    {
+      "folder": "chat_595981725157_11979",
+      "safe_name": "Indetectable_Hace",
+      "jid": "595981725157",
+      "source": "messages_intro",
+      "canonical": "Indetectable Hace"
+    },
+    {
+      "folder": "chat_595981791823_1683",
+      "safe_name": "Lourdes_Youko_Kurama",
+      "jid": "595981791823",
+      "source": "vcard",
+      "canonical": "Lourdes Youko Kurama"
+    },
+    {
+      "folder": "chat_595981945931_5470",
+      "safe_name": "Iván_Weiss",
+      "jid": "595981945931",
+      "source": "messages_intro",
+      "canonical": "Iván Weiss"
+    },
+    {
+      "folder": "chat_595982018339_6519",
+      "safe_name": "El_Delirio_Y_Ya_Estoy_Llegando",
+      "jid": "595982018339",
+      "source": "transcript_intro",
+      "canonical": "El Delirio Y Ya Estoy Llegando"
+    },
+    {
+      "folder": "chat_595982223241_11521",
+      "safe_name": "Así_Persona_De_Internet",
+      "jid": "595982223241",
+      "source": "transcript_intro",
+      "canonical": "Así Persona De Internet"
+    },
+    {
+      "folder": "chat_595982510082_1723",
+      "safe_name": "Cami_Maidana",
+      "jid": "595982510082",
+      "source": "vcard",
+      "canonical": "Cami Maidana"
+    },
+    {
+      "folder": "chat_595982515138_64",
+      "safe_name": "Sonia_Weiss",
+      "jid": "595982515138",
+      "source": "vcard",
+      "canonical": "Sonia Weiss"
+    },
+    {
+      "folder": "chat_595983698281_9914",
+      "safe_name": "Una_Fan_Con_Lara_También",
+      "jid": "595983698281",
+      "source": "transcript_intro",
+      "canonical": "Una Fan Con Lara También"
+    },
+    {
+      "folder": "chat_595984689143_4130",
+      "safe_name": "Iván_Weiss_Van_Der_Pol",
+      "jid": "595984689143",
+      "source": "messages_intro",
+      "canonical": "Iván Weiss Van Der Pol"
+    },
+    {
+      "folder": "chat_595984751669_667",
+      "safe_name": "Alberto",
+      "jid": "595984751669",
+      "source": "transcript_intro",
+      "canonical": "Alberto"
+    },
+    {
+      "folder": "chat_595985552000_6568",
+      "safe_name": "Iván_Weiss",
+      "jid": "595985552000",
+      "source": "messages_intro",
+      "canonical": "Iván Weiss"
+    },
+    {
+      "folder": "chat_595985724135_111",
+      "safe_name": "Kiki_Weiss_Hermana",
+      "jid": "595985724135",
+      "source": "vcard",
+      "canonical": "Kiki Weiss Hermana"
+    },
+    {
+      "folder": "chat_595985725366_99",
+      "safe_name": "Luana_Weiss",
+      "jid": "595985725366",
+      "source": "vcard",
+      "canonical": "Luana Weiss"
+    },
+    {
+      "folder": "chat_595985725871_86",
+      "safe_name": "Saskia_Weiss",
+      "jid": "595985725871",
+      "source": "vcard",
+      "canonical": "Saskia Weiss"
+    },
+    {
+      "folder": "chat_595986418879_1688",
+      "safe_name": "Lic_Sanni_Lalla",
+      "jid": "595986418879",
+      "source": "vcard",
+      "canonical": "Lic Sanni Lalla"
+    },
+    {
+      "folder": "chat_595986805654_1271",
+      "safe_name": "Fran",
+      "jid": "595986805654",
+      "source": "vcard",
+      "canonical": "Fran"
+    },
+    {
+      "folder": "chat_59899144505_2396",
+      "safe_name": "Paloma",
+      "jid": "59899144505",
+      "source": "vcard",
+      "canonical": "Paloma"
+    },
+    {
+      "folder": "lid_113090817425545_13053",
+      "safe_name": "Alérgica_Al_Sol_Lollll",
+      "jid": "113090817425545",
+      "source": "messages_intro",
+      "canonical": "Alérgica Al Sol Lollll"
+    },
+    {
+      "folder": "lid_118262125854912_15538",
+      "safe_name": "Ivan",
+      "jid": "118262125854912",
+      "source": "messages_intro",
+      "canonical": "Ivan"
+    },
+    {
+      "folder": "lid_137533459566845_13164",
+      "safe_name": "Tu_Kp_Ia_De_Informática",
+      "jid": "137533459566845",
+      "source": "messages_intro",
+      "canonical": "Tu Kp Ia De Informática"
+    },
+    {
+      "folder": "lid_154288881946676_13498",
+      "safe_name": "El_Hermano_De_Nyx",
+      "jid": "154288881946676",
+      "source": "messages_intro",
+      "canonical": "El Hermano De Nyx"
+    },
+    {
+      "folder": "lid_158089659547891_14700",
+      "safe_name": "Iván_Weiss_N",
+      "jid": "158089659547891",
+      "source": "messages_intro",
+      "canonical": "Iván Weiss N"
+    },
+    {
+      "folder": "lid_163857968414803_13535",
+      "safe_name": "Parte_Del_Equipo_De_Atención_D",
+      "jid": "163857968414803",
+      "source": "messages_intro",
+      "canonical": "Parte Del Equipo De Atención D"
+    },
+    {
+      "folder": "lid_196542485012495_14659",
+      "safe_name": "Iván_Weiss",
+      "jid": "196542485012495",
+      "source": "messages_intro",
+      "canonical": "Iván Weiss"
+    },
+    {
+      "folder": "lid_206588111532196_14798",
+      "safe_name": "Thais",
+      "jid": "206588111532196",
+      "source": "messages_intro",
+      "canonical": "Thais"
+    },
+    {
+      "folder": "lid_214709794013386_13829",
+      "safe_name": "Un_Random_De_Internet",
+      "jid": "214709794013386",
+      "source": "transcript_intro",
+      "canonical": "Un Random De Internet"
+    },
+    {
+      "folder": "lid_245255651782842_15190",
+      "safe_name": "Jordan_Delicioso_A_Quien_Dahi",
+      "jid": "245255651782842",
+      "source": "transcript_intro",
+      "canonical": "Jordan Delicioso A Quien Dahi"
+    },
+    {
+      "folder": "lid_276639095242788_17033",
+      "safe_name": "Una_Persona_Poli_Y_Tipo_No_Ten",
+      "jid": "276639095242788",
+      "source": "transcript_intro",
+      "canonical": "Una Persona Poli Y Tipo No Ten"
+    },
+    {
+      "folder": "lid_42490228936873_15160",
+      "safe_name": "Ivan",
+      "jid": "42490228936873",
+      "source": "messages_intro",
+      "canonical": "Ivan"
+    },
+    {
+      "folder": "lid_57797458792574_15073",
+      "safe_name": "En_Parte_De_Esta_Onda",
+      "jid": "57797458792574",
+      "source": "transcript_intro",
+      "canonical": "En Parte De Esta Onda"
+    },
+    {
+      "folder": "lid_61478682030117_15028",
+      "safe_name": "Crechada_En_Casa",
+      "jid": "61478682030117",
+      "source": "transcript_intro",
+      "canonical": "Crechada En Casa"
+    },
+    {
+      "folder": "lid_96606732967999_13130",
+      "safe_name": "Estudiante",
+      "jid": "96606732967999",
+      "source": "messages_intro",
+      "canonical": "Estudiante"
+    }
+  ],
+  "skipped": [
+    {
+      "folder": "chat_31634463709_11777",
+      "safe_name": "?",
+      "jid": "31634463709",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_50257029309_9070",
+      "safe_name": "?",
+      "jid": "50257029309",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595971151324_5178",
+      "safe_name": "?",
+      "jid": "595971151324",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595971758658_9805",
+      "safe_name": "?",
+      "jid": "595971758658",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595972994744_4768",
+      "safe_name": "?",
+      "jid": "595972994744",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595974956470_10067",
+      "safe_name": "?",
+      "jid": "595974956470",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595976409265_2838",
+      "safe_name": "?",
+      "jid": "595976409265",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595976682109_9259",
+      "safe_name": "?",
+      "jid": "595976682109",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595976933610_11524",
+      "safe_name": "?",
+      "jid": "595976933610",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595981063900_11176",
+      "safe_name": "?",
+      "jid": "595981063900",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595981279546_12805",
+      "safe_name": "?",
+      "jid": "595981279546",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595981285412_9804",
+      "safe_name": "?",
+      "jid": "595981285412",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595981319885_6607",
+      "safe_name": "?",
+      "jid": "595981319885",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595981321606_10229",
+      "safe_name": "?",
+      "jid": "595981321606",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595981609125_10582",
+      "safe_name": "?",
+      "jid": "595981609125",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595981656962_3522",
+      "safe_name": "4875676F204E75C3B1657A205A796D616E73636B6920F0",
+      "jid": "595981656962",
+      "source": "vcard",
+      "reason": "not_clean_or_same"
+    },
+    {
+      "folder": "chat_595981801463_9599",
+      "safe_name": "?",
+      "jid": "595981801463",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595982418373_4145",
+      "safe_name": "?",
+      "jid": "595982418373",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595982646114_5235",
+      "safe_name": "?",
+      "jid": "595982646114",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595983236333_6776",
+      "safe_name": "?",
+      "jid": "595983236333",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595983380156_3701",
+      "safe_name": "4A75616E726120466572726569726120F09F87B5F09F87",
+      "jid": "595983380156",
+      "source": "vcard",
+      "reason": "not_clean_or_same"
+    },
+    {
+      "folder": "chat_595983435779_11525",
+      "safe_name": "?",
+      "jid": "595983435779",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595983822921_11297",
+      "safe_name": "?",
+      "jid": "595983822921",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595983858997_3598",
+      "safe_name": "?",
+      "jid": "595983858997",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595984234002_10308",
+      "safe_name": "?",
+      "jid": "595984234002",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595984731244_10265",
+      "safe_name": "?",
+      "jid": "595984731244",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595984900920_9052",
+      "safe_name": "?",
+      "jid": "595984900920",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595984909166_9157",
+      "safe_name": "?",
+      "jid": "595984909166",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595984962826_5778",
+      "safe_name": "?",
+      "jid": "595984962826",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595985124464_11430",
+      "safe_name": "?",
+      "jid": "595985124464",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595985219034_6759",
+      "safe_name": "?",
+      "jid": "595985219034",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595985434234_9071",
+      "safe_name": "?",
+      "jid": "595985434234",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595985435809_11371",
+      "safe_name": "?",
+      "jid": "595985435809",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595986173200_11974",
+      "safe_name": "?",
+      "jid": "595986173200",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595986445564_7538",
+      "safe_name": "?",
+      "jid": "595986445564",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595986850030_6817",
+      "safe_name": "?",
+      "jid": "595986850030",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595987111437_10473",
+      "safe_name": "?",
+      "jid": "595987111437",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595987122940_9888",
+      "safe_name": "?",
+      "jid": "595987122940",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595991506193_3099",
+      "safe_name": "?",
+      "jid": "595991506193",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595992379449_9561",
+      "safe_name": "?",
+      "jid": "595992379449",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595992853154_2985",
+      "safe_name": "?",
+      "jid": "595992853154",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595992930805_10315",
+      "safe_name": "?",
+      "jid": "595992930805",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595993474633_11029",
+      "safe_name": "Ogr",
+      "jid": "595993474633",
+      "source": "vcard",
+      "reason": "not_clean_or_same"
+    },
+    {
+      "folder": "chat_595993553949_12779",
+      "safe_name": "?",
+      "jid": "595993553949",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "chat_595994252817_11522",
+      "safe_name": "Tsi",
+      "jid": "595994252817",
+      "source": "vcard",
+      "reason": "not_clean_or_same"
+    },
+    {
+      "folder": "lid_104741417795691_13103",
+      "safe_name": "?",
+      "jid": "104741417795691",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_108796538007729_15023",
+      "safe_name": "?",
+      "jid": "108796538007729",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_119259044835572_13532",
+      "safe_name": "?",
+      "jid": "119259044835572",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_142344342999195_17104",
+      "safe_name": "?",
+      "jid": "142344342999195",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_159223061151983_16955",
+      "safe_name": "?",
+      "jid": "159223061151983",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_170823767859295_16385",
+      "safe_name": "?",
+      "jid": "170823767859295",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_171416456540224_13129",
+      "safe_name": "?",
+      "jid": "171416456540224",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_174058297675951_15024",
+      "safe_name": "?",
+      "jid": "174058297675951",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_189486155702510_15527",
+      "safe_name": "?",
+      "jid": "189486155702510",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_217278167707806_14595",
+      "safe_name": "?",
+      "jid": "217278167707806",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_224184944877725_13102",
+      "safe_name": "?",
+      "jid": "224184944877725",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_227972770435229_13533",
+      "safe_name": "?",
+      "jid": "227972770435229",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_233264069500985_13120",
+      "safe_name": "?",
+      "jid": "233264069500985",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_264647361974519_13190",
+      "safe_name": "?",
+      "jid": "264647361974519",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_55955521822873_16768",
+      "safe_name": "?",
+      "jid": "55955521822873",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_76824231051438_12954",
+      "safe_name": "?",
+      "jid": "76824231051438",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_8212749230246_16778",
+      "safe_name": "?",
+      "jid": "8212749230246",
+      "source": "none",
+      "reason": "?"
+    },
+    {
+      "folder": "lid_94206383145183_14119",
+      "safe_name": "?",
+      "jid": "94206383145183",
+      "source": "none",
+      "reason": "?"
+    }
+  ]
+}
