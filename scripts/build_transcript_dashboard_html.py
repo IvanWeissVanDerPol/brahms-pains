@@ -79,7 +79,7 @@ HTML = f'''<!DOCTYPE html>
     <div class="stat-card">
       <div class="stat-label">Total audio</div>
       <div class="stat-value">{data['total_duration_hours']:.1f}h</div>
-      <div class="stat-sub">avg {data['avg_duration_seconds']:.1f}s per note</div>
+      <div class="stat-sub">median {data['median_duration_seconds']:.1f}s / p90 {data['p90_duration_seconds']:.1f}s</div>
     </div>
     <div class="stat-card">
       <div class="stat-label">Words/note</div>
@@ -95,9 +95,9 @@ HTML = f'''<!DOCTYPE html>
   
   <h2>🗣 Sentiment distribution</h2>
   <div class="stats-row">
-    <div class="stat-card" style="border-color:#98c379"><div class="stat-label" style="color:#98c379">POSITIVE</div><div class="stat-value" style="color:#98c379">{data['sentiment_distribution']['positive_msgs']:,}</div><div class="stat-sub">{100*data['sentiment_distribution']['positive_msgs']/data['total_transcripts']:.1f}% of messages</div></div>
-    <div class="stat-card"><div class="stat-label">NEUTRAL</div><div class="stat-value">{data['sentiment_distribution']['neutral_msgs']:,}</div><div class="stat-sub">{100*data['sentiment_distribution']['neutral_msgs']/data['total_transcripts']:.1f}%</div></div>
-    <div class="stat-card" style="border-color:#d97e3a"><div class="stat-label" style="color:#d97e3a">NEGATIVE</div><div class="stat-value" style="color:#d97e3a">{data['sentiment_distribution']['negative_msgs']:,}</div><div class="stat-sub">{100*data['sentiment_distribution']['negative_msgs']/data['total_transcripts']:.1f}%</div></div>
+    <div class="stat-card" style="border-color:#98c379"><div class="stat-label" style="color:#98c379">POSITIVE</div><div class="stat-value" style="color:#98c379">{data['sentiment_distribution']['positive']:,}</div><div class="stat-sub">{100*data['sentiment_distribution']['positive']/data['total_transcripts']:.1f}% of messages</div></div>
+    <div class="stat-card"><div class="stat-label">NEUTRAL</div><div class="stat-value">{data['sentiment_distribution']['neutral']:,}</div><div class="stat-sub">{100*data['sentiment_distribution']['neutral']/data['total_transcripts']:.1f}%</div></div>
+    <div class="stat-card" style="border-color:#d97e3a"><div class="stat-label" style="color:#d97e3a">NEGATIVE</div><div class="stat-value" style="color:#d97e3a">{data['sentiment_distribution']['negative']:,}</div><div class="stat-sub">{100*data['sentiment_distribution']['negative']/data['total_transcripts']:.1f}%</div></div>
   </div>
   
   <h2>🎭 Emotions detected (total markers)</h2>
@@ -129,6 +129,7 @@ HTML += '''
       <th class="num" data-sort="transcripts">Notes</th>
       <th class="num" data-sort="words">Words</th>
       <th class="num" data-sort="duration">Audio (hrs)</th>
+      <th class="num">Median</th>
       <th class="num" data-sort="sentiment">Sentiment</th>
       <th>Pos/Neg</th>
       <th class="num" data-sort="lang">Lang</th>
@@ -177,6 +178,7 @@ function render() {
       <td class="num"><strong>${c.transcripts.toLocaleString()}</strong> <div class="bar"><div class="bar-fill" style="width:${barW}px;background:#79c0ff"></div></div></td>
       <td class="num mono">${c.total_words.toLocaleString()}</td>
       <td class="num mono">${(c.total_duration_s / 3600).toFixed(1)}h</td>
+      <td class="num mono">${(c.transcripts > 0 ? c.total_duration_s / c.transcripts : 0).toFixed(1)}s</td>
       <td class="num" style="color:${sentColor}"><strong>${sentPrefix}${c.avg_sentiment.toFixed(2)}</strong></td>
       <td class="num mono">${c.pos_words}/${c.neg_words}</td>
       <td class="num mono">${c.dominant_lang}</td>
