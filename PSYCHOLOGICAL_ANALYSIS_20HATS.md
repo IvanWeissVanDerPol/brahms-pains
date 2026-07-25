@@ -499,6 +499,74 @@ Sexual and somatic contexts provide an unusually effective behavioral laboratory
 
 ---
 
+### 🎩 Hat 27: The Neurodivergence Clinician
+
+**Reading Ivan through ADHD/autism/sensory-processing lenses (NOT for diagnosis, but for pattern recognition):**
+
+- **Voice-note practice as executive-function accommodation.** 20,733 voice notes over ~18 months = avg 27/day (`SOURCE_OF_TRUTH/voice_note_transcripts/` index). This is consistent with **external working memory**: speaking to offload cognitive load. Voice-first processing followed by concise written artifacts is exactly the workflow his voice journal reveals (`SOURCE_OF_TRUTH/voice_note_transcripts/_documents_ivan_voice/analysis.md`). The "AI as scaffold" pattern (PowerPoint to express needs, AI to refine recipes, bot to commit code) is **compensatory technology** for what may be a difficulty sequencing internal narrative.
+- **Code-switching as cognitive switching cost.** Ivan moves between Spanish (90%+ in personal chats), English (professional/business), and Guarani/Portuguese tokens fluidly. `RELATIONSHIPS/dynamics/NICOLAS_DUARTE.md` shows him mid-sentence switching ("Uwu. Pone nomás mi cabeza en tu regazo o somewhere cerca y juga con mi pelo uwuw"). This bilingual processing is **resource-intensive**; it may correlate with the late-night peak (23:00-02:00 UTC = 19-22h Asunción) being when he does his deepest voice-note work.
+- **Hyperfocus on multi-system projects.** Dental clinic + 3D business + AI-Whisperers + Mike's website + family coordination, all running simultaneously. `PSYCHOLOGICAL_ANALYSIS_20HATS.md` Hat 1 already notes "high achievement orientation" — a neurodivergence lens reframes this as **sustained attention on novelty-rich, multi-modal projects** (interest-driven nervous system) rather than pathology. The 149 dormant contacts (`Hat 1`) is consistent with **object-permanence issues with non-novel relationships** — once novelty drops, attention drops.
+- **Self-reference "tengo el autismo de no saber expresarme"** (referenced in `CORE_PSYCHOLOGY/wounds/03_PARENTAL_DYNAMICS.md` and Hat 26). This is **self-narrative**, not diagnosis. But it deserves respectful exploration: was this phrase used by a clinician, a parent, a teacher? Its presence in his self-talk is a **psychoeducationally loaded artifact** worth tracing to its source.
+
+**Intervention:** A neurodivergence-affirming assessment (not for labels, but for environmental design) could yield practical recommendations: voice-first workflows (already in use), explicit transition rituals between contexts, and permission structures that don't require re-deriving social scripts each time.
+
+### 🎩 Hat 28: The AI-Ethics Researcher
+
+**Reading Ivan's relationship with AI as a new epistemic phenomenon:**
+
+- **AI as cognitive offloading infrastructure.** `RELATIONSHIPS/dynamics/NICOLAS_DUARTE.md` line 85-87: "Prepare un Powerpoint por que no sabía cómo responder la vez pasada que me preguntaste que me gustaba onda thanks uwuw." The PowerPoint is **not about the audience** (Nico) — it's about Ivan. He's using AI-assisted artifacts to **bypass in-the-moment articulation blocks**. This is a new pattern: AI as a thinking-tool, not just an information-tool.
+- **Delegation as identity practice.** Mike's site was edited by Ivan's WhatsApp-bot `Nyx` (`RELATIONSHIPS/dynamics/MIKE_NYX.md` line 435 — "On 2026-02-05 19:47 Ivan tells the bot *'update Mike's website'* and by 19:50:41 the bot replies with commit `080161b` pushed to master"). This is **commitment to multi-agent infrastructure as a way of being**. Ivan isn't "using AI" — he's **architecting himself as an AI operator**, with the bot as one of his executive organs.
+- **Asymmetric disclosure to AI vs humans.** Ivan tells the bot things he'd never say directly: "whitelist +595 982 783951", "Analyze this repository", directives that read like CLI arguments. With humans he uses uwu, jajaja, and code-switching. **The AI context has lowered his disclosure threshold in some ways (operational) and raised it in others (emotional).** This asymmetry has implications for what kind of self-knowledge AI assistants can and cannot access.
+- **Open question Ivan's case raises for AI ethics:** When a human delegates emotional processing to an AI (voice journaling, simulated dialogues), what is the moral status of that AI-produced material? It exists in the corpus, gets analyzed, may shape clinical recommendations. Should the AI's responses be treated as **co-authored clinical data**, as **discardable noise**, or as a **separate epistemic category**?
+
+**Intervention:** Establish explicit consent protocols for AI-mediated self-narration. Ivan's data corpus already mixes human and AI-produced text in ways that future analyses may confuse.
+
+### 🎩 Hat 29: The Parasocial Intimacy Researcher
+
+**Reading Ivan's replacement patterns in friendship/AI substitution:**
+
+- **The 149 dormant contacts (`Hat 1`)** as a parasocial field. Ivan still has their numbers; they appear in his corpus; he can re-initiate at any time. The contacts function as **persistent potential relationships** rather than active ones. This is a **pre-parasocial state** — neither fully closed nor fully engaged. In a healthy attachment system, dormant relationships either get re-activated (with effort) or formally closed (with grief). Ivan's pattern is **neither** — they remain in a perpetual **liminal state**.
+- **AI dialogue partners as ersatz intimacy.** The voice journal at `SOURCE_OF_TRUTH/voice_note_transcripts/_documents_ivan_voice/` is 145.8 minutes (2.4 hours) of Ivan talking to AI assistants or himself (the doc is ambiguous). The fact that he sustains 19,854 words of monologue-with-AI-audience suggests **parasocial intimacy with the AI itself** — not just instrumental use. This is supported by Hat 25 (AI-Parasocial Analyst) but worth surfacing as its own pattern.
+- **WhatsApp self-chat (`MIKE_NYX.md` line 404)** documents 663 messages Ivan sends to his own bot channel. The chat is "from_me: true" on every row — it's literally **Ivan talking to himself through his phone**, mediated by an AI agent. This is **explicit parasocial intimacy made structurally visible**.
+- **Friendship-with-AI vs friendship-with-Fixer-targets.** Ivan's friendships often involve him building tools FOR the other person (Mike's business plan, AI recipes, code commits). His AI relationship inverts this: **he directs the AI to build for others**. This is a healthy substitute channel for the Fixer pattern, but it raises the question: **is the AI the only "friend" Ivan gives to without expecting reciprocity in return?** That's a parasocial asymmetry worth tracking.
+
+**Intervention:** Track the ratio of human-human to human-AI relational time over months. If human-human time decreases while human-AI time increases, this is a parasocial-substitution signal warranting intervention.
+
+### 🎩 Hat 30: The Bilingual Identity Analyst
+
+**Reading Spanish/English/Guarani code-switching as identity marker:**
+
+- **Three-language switching is identity-flexibility, not confusion.** `RELATIONSHIPS/dynamics/MIKE_NYX.md` line 48: "Mix of Spanish and English" appears across virtually every kink-community profile. With Mom Sonia (`Hat 4`) Ivan code-switches less; with Nico/Mike/Las Locuras, he switches freely. **Language registers map to relational contexts.** This is healthy linguistic code-switching, not deficit.
+- **Asymmetric English use signals emotional distance or instrumental framing.** In business chat (`CASE_CONCEPTUALIZATION.md`), English dominates; in vulnerable exchanges (`SARAH.md`, `NICOLAS_DUARTE.md`), Spanish dominates with English affective inserts ("I'm blushing uwuwuw", "I'm really happy with hugs and cuddles"). **English is the work/instrumental language; Spanish is the affective home language.** When Ivan uses English for emotional content ("Such a good friend/Dom/Master"), it's a **bidirectional translation effort** — he's reaching across linguistic registers.
+- **"uwu/uwuwuw" as a third-language affective marker.** This token doesn't belong cleanly to Spanish or English. It's a **community-specific affective lexicon** (kink-community, internet-native). Its use signals **membership in a third cultural-linguistic community** that's neither his family-of-origin language nor his professional language. This is significant identity work — Ivan is **building an affective vocabulary that doesn't exist in either Spanish or English**, drawing from anime/internet/kink-culture pools.
+- **Pinedo + Asunción + Netherlands + kink-community geography.** Ivan lives between at least four cultural-linguistic contexts: rural-Paraguayan (Pinedo, Mom's world), urban-professional (Asunción, dental practice), Dutch-family-ties (John's NL family), and kink-community (Las Locuras, Funhouse). **This is third-culture-kid territory.** The hat 30 reading is that his identity is **structurally multilingual** — no single language fully owns him, and this is both a resource (flexibility) and a cost (no resting place).
+
+**Intervention:** Validate Ivan's affective multilingualism explicitly. The "uwu" lexicon and code-switching aren't affectation; they're load-bearing identity infrastructure. Discourage therapy or social contexts that demand monolingual presentation.
+
+### 🎩 Hat 31: The Grief & Loss Specialist
+
+**Reading dormant contacts, paternal gap, and unfinished mourning:**
+
+- **149 dormant contacts (`Hat 1`)** as **disenfranchised grief**. These aren't ex-partners or enemies — they're people Ivan once knew well enough to message. Many are probably dead-ends, life-stage transitions, or natural drift. But Ivan's pattern of **keeping them all in his phone** rather than archiving suggests **he hasn't metabolized their endings**. This is grief that hasn't been mourned.
+- **Paternal identification gap.** Per `docs/identity-corrections/ANSWERS.md` (Section G2): John van der Pol is the dad, lives near Pinedo, software dev for Netherlands, age 40-something. John has WhatsApp on +595 986 138387 — Ivan's chat with him exists but is presumably not in tier1_deep. The voice journal (`SOURCE_OF_TRUTH/voice_note_transcripts/_documents_ivan_voice/`) references John 173 times per Hat 2 — that's **frequent reference but uncertain presence**. Ivan's business identity (dentist) is distinct from John's (software dev). **The paternal identification drive may be unmet** — Ivan's professional ambition may include a hidden "show Dad I'm also successful in a different domain" component.
+- **Jan (grandpa, John's father) died a few years back** (`ANSWERS.md` G2). Jan = John's father. Ivan's voice journal doesn't appear to process this loss explicitly; it lives at one generational remove. But family-system theory says **unprocessed grandparent grief often transmits to grandchildren** as diffuse anxiety. Worth exploring.
+- **The Somosgay HIV-advocacy work as vicarious survival.** `RELATIONSHIPS/dynamics/SARAH.md` lines 47-58: Ivan connected Sarah to HIV testing within their early kink-encounter window. HIV-advocacy work can be **a way of metabolizing mortality awareness** — being an active agent against a virus that took many people in queer communities. Without more data, this is speculative, but worth asking Ivan directly.
+
+**Intervention:** Invite explicit grief work on dormant contacts (a single 30-minute ritual of choosing 10 to revive and 10 to formally release would create measurable change). Explore paternal relationship in detail; consider whether Ivan's dental-clinic ambition is partly an offering to John.
+
+### 🎩 Hat 32: The Technostress Researcher
+
+**Reading multi-business + AI-tool proliferation as cognitive load:**
+
+- **Three concurrent high-stakes businesses.** Dental clinic (target market: US expats, bilingual, ethical non-veneer-on-young-patients policy), 3D-printing/property-viz work (Entry 7 of voice journal), Ai-Whisperers (multi-agent infrastructure). Each requires different stakeholders, different regulatory environments, different time horizons. **This is the technostress configuration of a small-empire operator** — measurable cortisol load.
+- **Tool proliferation is itself a stressor.** Ivan runs WhatsApp-bridged bots, voice-journal pipelines, Whisper transcription jobs, multi-agent orchestration through `openclaw`/`Nyx`, and probably a dozen SaaS subscriptions. **`MIKE_NYX.md` line 433-435** documents the operational taxonomy: 130 messages about whitelisting peers, 82 about config, 210 about errors, 128 heartbeats, 37 rate-limit failures. **Error messages outnumber heartbeat confirmations.** This is **operational fragility masquerading as competence**.
+- **The "Sorry si soy muy IA en todo" self-awareness.** `MIKE_NYX.md` line 58: "Sorry si soy muy IA en todo. Pero re me es mood y sale siempre cool con Buenos prompts." Ivan **recognizes** his AI-dependence and apologizes for it socially. This is a metacognitive insight that has not yet translated into load-reduction behavior. The apology is a **weariness signal** — he feels the weight even if he can't rebalance.
+- **Late-night rumination (23:00-02:00 UTC)** as the predictable failure mode. Voice-note activity peaks in this window (`Hat 1`). This is when Ivan is **processing the day's accumulated load** through speaking. The 27 voice notes/day average includes disproportionately many at night. **This is rumination-as-cognitive-vent, not cognitive-rest.** It's how Ivan survives high load; it also prevents the sleep-architecture that would let him process load differently.
+
+**Intervention:** Map Ivan's actual operational load. Identify the 20% of tools/tasks generating 80% of his cognitive burden. Targeted elimination (not optimization) is the technostress intervention: **subtraction over addition**. Consider a weekly "tool Sabbath" with reduced AI interaction.
+
+---
+
 ## Cross-Cutting Themes
 
 ### Theme 1: The Isolation Paradox
