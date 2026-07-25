@@ -207,3 +207,6 @@ whatsapp transcripts/
 
 .tmp.drivedownload
 .tmp.driveupload
+
+# Personal PHI — never commit
+health/
