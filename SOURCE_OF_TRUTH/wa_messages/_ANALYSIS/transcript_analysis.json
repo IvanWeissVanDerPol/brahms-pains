@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-07-25T20:27:28.028031",
- "total_transcripts": 17825,
- "total_files_scanned": 295,
- "total_words": 1569247,
- "total_duration_hours": 146.11,
- "avg_words_per_note": 88.0,
+ "generated_at": "2026-07-25T20:54:12.102336",
+ "total_transcripts": 17783,
+ "total_files_scanned": 274,
+ "total_words": 1551400,
+ "total_duration_hours": 143.92,
+ "avg_words_per_note": 87.2,
  "median_duration_seconds": 16.5,
- "p90_duration_seconds": 74.7,
- "p95_duration_seconds": 105.3,
- "p99_duration_seconds": 174.0,
+ "p90_duration_seconds": 73.7,
+ "p95_duration_seconds": 103.1,
+ "p99_duration_seconds": 168.1,
  "max_duration_seconds": 1865.1,
  "languages": {
-  "es": 13554,
+  "es": 13513,
   "?": 3466,
-  "en": 464,
+  "en": 463,
   "la": 31,
   "pt": 30,
   "fi": 25,
@@ -62,28 +62,28 @@
   "te": 1
  },
  "yearly_distribution": {
-  "2023": 1311,
-  "2026": 5385,
-  "2024": 3150,
-  "2025": 7422
+  "2023": 1308,
+  "2026": 5380,
+  "2024": 3141,
+  "2025": 7397
  },
  "sentiment_distribution": {
-  "positive": 4341,
-  "neutral": 12262,
-  "negative": 1222
+  "positive": 4317,
+  "neutral": 12250,
+  "negative": 1216
  },
  "sentiment_totals": {
-  "positive_words": 8262,
-  "negative_words": 2944,
-  "ratio": 2.806
+  "positive_words": 8200,
+  "negative_words": 2914,
+  "ratio": 2.814
  },
  "emotion_totals": {
-  "anger": 3644,
-  "love": 1700,
-  "sadness": 1343,
-  "surprise": 1102,
-  "gratitude": 916,
-  "laugh": 617
+  "anger": 3601,
+  "love": 1696,
+  "sadness": 1335,
+  "surprise": 1087,
+  "gratitude": 912,
+  "laugh": 616
  },
  "top_chats_by_volume": [
   {
@@ -545,12 +545,12 @@
    "chat": "group_amigos_de_las_locuras_swinger_11642",
    "name": "?",
    "jid": "?",
-   "transcripts": 146,
-   "total_words": 12136,
-   "total_duration_s": 5854.4,
-   "avg_sentiment": 0.472,
-   "pos_words": 92,
-   "neg_words": 33,
+   "transcripts": 147,
+   "total_words": 12651,
+   "total_duration_s": 6076.4,
+   "avg_sentiment": 0.45,
+   "pos_words": 95,
+   "neg_words": 36,
    "dominant_lang": "es",
    "emotions": {
     "gratitude": 9,
@@ -775,17 +775,17 @@
    "chat": "lid_137533459566845_13164",
    "name": "?",
    "jid": "?",
-   "transcripts": 68,
-   "total_words": 4871,
-   "total_duration_s": 2197.9,
-   "avg_sentiment": 0.818,
-   "pos_words": 30,
+   "transcripts": 69,
+   "total_words": 5341,
+   "total_duration_s": 2450.3,
+   "avg_sentiment": 0.829,
+   "pos_words": 32,
    "neg_words": 3,
    "dominant_lang": "es",
    "emotions": {
     "love": 4,
-    "gratitude": 2,
-    "anger": 13,
+    "gratitude": 3,
+    "anger": 14,
     "surprise": 6,
     "sadness": 3
    }
@@ -969,9 +969,9 @@
    }
   },
   {
-   "chat": "chat_595981725157_11979",
+   "chat": "Sincero",
    "name": "?",
-   "jid": "595981725157",
+   "jid": "?",
    "transcripts": 40,
    "total_words": 4766,
    "total_duration_s": 2013.6,
@@ -1042,5 +1042,5 @@
    }
   }
  ],
- "all_chats_count": 295
+ "all_chats_count": 274
 }
