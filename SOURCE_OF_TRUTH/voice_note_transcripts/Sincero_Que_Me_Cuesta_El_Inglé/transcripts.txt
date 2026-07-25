@@ -1,0 +1,66 @@
+PTT-20250307-WA0010.opus | lang=es prob=0.9176517724990845 dur=38.1s
+------------------------------------------------------------
+[00:00.00 → 00:08.94] una última consulta muchachos y en la entrevista en la primera entrevista donde
+[00:08.94 → 00:14.70] recluso manate contacta qué tipo de preguntas hacen así en inglés porque
+[00:14.70 → 00:20.98] aclaran luego de 30 minutos y la primera o sea la primera parte de la entrevista
+[00:20.98 → 00:26.06] es tipo para que me conozcan a mí pero que menos preguntan o ya mezclan
+[00:26.06 → 00:31.82] todo ya con lo técnico más o menos para tener una idea o más igual ya estoy
+[00:31.82 → 00:36.90] practicando con mi experiencia tipo anotando todo y eso viendo cómo responder
+[00:36.90 → 00:39.38] en inglés
+PTT-20250307-WA0011.opus | lang=es prob=0.9406362175941467 dur=132.1s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Ni idea. No me acuerdo que fue mi entrevista donde yo estaba ya.
+[00:05.00 → 00:06.00] Tipo...
+[00:07.00 → 00:12.00] No sé, mi época era una entrevista relativamente chile en el que me preguntaron mi experiencia anterior.
+[00:12.00 → 00:16.00] Les conté qué estaba haciendo, qué hice de Automation, qué hice de QA.
+[00:17.00 → 00:19.00] ¿Qué tal mi inglés si tengo experiencia en eso?
+[00:21.00 → 00:24.00] ¿Capaz hablamos de Bufla rando un vídeo de la vida en inglés?
+[00:24.00 → 00:25.00] Pero no me dine nada a la mente.
+[00:25.00 → 00:30.00] Y mi pregunta de QA era donde...
+[00:35.00 → 00:43.00] Imagínate que estás en un hotel que tenés uno de esos teléfonos de hotel que tiene tipo el numeral 0123456789.
+[00:43.00 → 00:53.00] 911 es policía, cero es oficina, uno es la cocina de los estelos.
+[00:53.00 → 00:55.00] ¿Cómo vas a probar que ese teléfono anda?
+[00:56.00 → 00:58.00] Eso era así mi pregunta de entrevista.
+[00:58.00 → 01:01.00] Y acá te doy un flatterpo para pensar, apagar el audio.
+[01:01.00 → 01:03.00] Yo le dije onda...
+[01:05.00 → 01:08.00] Primero a ver si está enchufado el teléfono este.
+[01:09.00 → 01:12.00] Después llamara 911 llamara cero, llamara uno.
+[01:13.00 → 01:16.00] Verificar que me mandan la persona correcta.
+[01:16.00 → 01:19.00] Poner 911 con uno más.
+[01:19.00 → 01:21.00] Poner 911.
+[01:21.00 → 01:23.00] Poner 0-0.
+[01:23.00 → 01:25.00] A ver qué sale. Poner 0-1. A ver qué sale.
+[01:25.00 → 01:27.00] Poner 1-0.
+[01:28.00 → 01:32.00] Llamar a mi número personal propio y ver si es que me llega la llamada.
+[01:32.00 → 01:36.00] Y le habría inventado unos cuantos más así en random.
+[01:36.00 → 01:42.00] Pero creo que ahora hacen tipo un examen así para conocer después un examen.
+[01:42.00 → 01:52.00] Que es medio virtual, en el que capaz haces programación live en una página.
+[01:52.00 → 01:59.00] No, agastrampa por favor porque tienen un recording de tu pantalla o del browser.
+[01:59.00 → 02:02.00] Y van a ver que de repente apareció todo el código HGPT.
+[02:02.00 → 02:07.00] Así que si es que haces eso al menos mirar el código HGPT es que ya mano.
+[02:07.00 → 02:11.00] En vez de copiar y pegar todo de uno.
+[02:12.00 → 02:15.00] Subtítulos por la comunidad de Amara.org
+PTT-20250306-WA0024.opus | lang=en prob=0.992465615272522 dur=154.3s
+------------------------------------------------------------
+[00:00.00 → 00:06.64] sort gets really messed up. Your ones, your tens, your hundreds, your thousands all get
+[00:06.64 → 00:13.52] lined up first and then next up. So I definitely keep the zeros.
+[00:19.36 → 00:24.08] Okay. Requested but I just submitted but is this just like a word change?
+[00:24.88 → 00:29.44] Just a word change. Yeah so like yesterday I started kind of going through like the
+[00:30.24 → 00:36.72] UI changes that I would like to see before we start doing like more cheaper user testing
+[00:37.76 → 00:41.60] and so I was like picking up on some of the stuff just trying to like standardize the
+[00:41.60 → 00:46.32] words that we were using everywhere because I noticed it was like requested by in some places
+[00:46.32 → 00:54.40] submitted by like in others. So submitted by this is what I'd like to stick with.
+[00:55.04 → 01:08.88] Okay. The last one, can show all selected values when hovering on felt. So I think we had it.
+[01:10.08 → 01:17.76] Has it disappeared in some moment? I'm not sure but when I'm like reviewing a case and looking at
+[01:17.76 → 01:24.48] the collaborators if there is more than one like if I hover over it it didn't work at least
+[01:24.48 → 01:31.04] yesterday when I was trying to. Okay. So you want to ensure that they have this right?
+[01:31.04 → 01:35.68] Yeah just so like if you hover over the collaborators you can actually see the
+[01:35.68 → 01:40.80] collaborators that have been selected on the case especially if you're
+[01:40.96 → 01:49.76] if you are a collaborator and like if you are a user that can't change the collaborator field
+[01:49.76 → 01:53.60] then you can't even like open the drop down to see which ones are selected.
+[01:53.60 → 01:58.88] Yeah. I think that needs should be there.
+[01:58.88 → 02:07.76] All right. And I believe they're sorting options as well, correct?
+[02:09.76 → 02:12.96] Yeah so if I drop down it's the following order.
+[02:14.56 → 02:19.76] Yeah so that was just like the usability function just for the
+[02:22.24 → 02:27.52] how can I say this? Just columns are a certain order and then they were
+[02:27.52 → 02:33.12] different names from the columns and so like same column order, same names.

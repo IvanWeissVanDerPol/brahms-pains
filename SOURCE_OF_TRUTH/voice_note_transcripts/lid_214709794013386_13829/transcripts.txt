@@ -104,3 +104,74 @@ PTT-20260323-WA0032.opus | lang=es prob=0.9174551367759705 dur=62.6s
 [00:50.00 → 00:54.00] La información de...
 [00:54.00 → 00:56.00] Hay que aflar, no entiendo.
 [00:56.00 → 01:00.00] Me preguntan aquí en las EPITRA FORMS, ¿es para las veterinarias?
+PTT-20260323-WA0030.opus | lang=es prob=0.8832623958587646 dur=61.2s
+------------------------------------------------------------
+[00:00.00 → 00:04.50] Soy Odin, si es que, o sea, tenés luego acceso a mi hosting, creo.
+[00:04.50 → 00:08.20] ¿Anything que necesite es mi site de setup para configurar las máquinas?
+[00:08.20 → 00:10.00] Just let me know.
+[00:10.00 → 00:13.00] Let me open a step 3.
+[00:13.00 → 00:17.00] A partir de eso, gateways para configurar.
+[00:17.00 → 00:20.50] De hecho, el multi-machine setup me parece real worth it,
+[00:20.50 → 00:24.00] a ser que se usen todos los recursos que tengamos.
+[00:24.00 → 00:26.00] A los lasti que voy a depender mis pantallas.
+[00:27.00 → 00:29.00] I don't know.
+[00:32.00 → 00:39.00] Death, feel free, let me know if anything can help me with something.
+[00:39.00 → 00:46.00] Slash, any advances, o cositas que vayas viendo en lo de las clínicas.
+[00:46.00 → 00:49.00] Puedes decirme dónde, voy a estar viendole esto ahora.
+[00:49.00 → 00:57.00] O no se, y te voy a hacer un guidance o any tips o contexto de cómo está el current setup
+[00:57.00 → 01:01.00] o de lo que recuerdo, así está más improved lo que te salga al final.
+PTT-20260323-WA0014.opus | lang=es prob=0.86041259765625 dur=71.3s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] ¿Hay alguna hora que te quede mejor que las 11?
+[00:05.00 → 00:12.00] O sea, para hacer un meeting rápido, onda, no sé, me puedes dar así el context de lo que entendiste,
+[00:12.00 → 00:16.00] de la página de crínicas, de lo que tendrías que ya hay.
+[00:16.00 → 00:24.00] Te puedo agregar el context de las otras cosas que le habíamos estopeado y que sí le podría implementar.
+[00:25.00 → 00:33.00] Esos dos, la clínica entendés ya más o menos cómo funciona y cómo se carga la información.
+[00:40.00 → 00:45.00] Después de hablar con Nia, de cuál sería el mínimo MVP para empezar a ofrecer.
+[00:45.00 → 00:53.00] Y ya empezamos a organizarle, a mandar la gente automáticamente, que prepare todo.
+[00:54.00 → 01:02.00] Y después del MVP, puedo ir trabajando en los siguientes epics o preparando más todos los epics y stories
+[01:02.00 → 01:06.00] de todos los features que te interesan a agregarle y que tenga.
+[01:06.00 → 01:09.00] Y le podemos ir agregando one by one.
+[01:09.00 → 01:11.00] Sí, todo detallado, sí.
+PTT-20260323-WA0033.opus | lang=es prob=0.9697900414466858 dur=81.9s
+------------------------------------------------------------
+[00:00.00 → 00:08.60] La idea de las páginas es, tipo, está así, un template básico que es el main page por ahí, del cliente.
+[00:08.60 → 00:14.60] Y todos los clientes tienen el mismo page básico en su mismo formato.
+[00:14.60 → 00:22.80] Cada cliente después puede al crearse su página, cargar contenido de su template.
+[00:22.80 → 00:32.20] Y ese contenido es, tipo, el texto, los colores que usa, los fonts que usa, los teams que usa, las imágenes, donde...
+[00:32.20 → 00:35.70] ...todos son contactos.
+[00:35.70 → 00:38.20] Ese cara automático.
+[00:38.20 → 00:43.00] Inicialmente tenía como jason, ahora no estoy seguro si es que está en superbase en tablas.
+[00:43.00 → 00:49.40] Pero en el futuro deberían estar en tablas, en mi opinión, para que esté toda la nube.
+[00:50.20 → 00:52.20] I don't fly.
+[00:54.20 → 00:57.20] Esos dos, jason, tabla...
+[01:02.70 → 01:04.20] Rurururururuk.
+[01:04.20 → 01:12.70] El inventario de las páginas de los clientes también son todos separados en distintas tablas de inventario de cada cliente, pero...
+[01:12.70 → 01:14.70] ...en lleno, sé.
+[01:15.70 → 01:17.70] Esta es un superbase.
+[01:17.70 → 01:22.00] Si me puedes explicar mejor tu pregunta, te explico sin drama.
+PTT-20260320-WA0024.opus | lang=es prob=0.9317787289619446 dur=148.9s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] Project Equity, que es el primero. La idea es Big Scrapping de todos los datos de las empresas
+[00:08.00 → 00:20.00] para preparar reportes interesantes, detallados y específicos con Sources y Full Tracking para los Shareholders y Stakeholders de empresas.
+[00:21.00 → 00:31.00] Si es que se hace bien, esto es algo que puede hacer que una empresa compre otra empresa y multiplique su valor.
+[00:31.00 → 00:36.00] Por el cual el servicio de Private Equity Analysis.
+[00:36.00 → 00:49.00] Y si por encima de 100 mil dólares por el costo tipo de una empresa que es un billón puede crecer a tres billones por implementarle las insights que le dan.
+[00:49.00 → 00:56.00] O una empresa pequeña, puede comprar otra empresa pequeña y volverse a una empresa enorme.
+[00:56.00 → 01:01.00] El otro, el Templo Clinic Website, si querés recontrar la tea este.
+[01:01.00 → 01:05.00] Y si te interesa, tengo ya mostros de proyectos hechos.
+[01:05.00 → 01:08.00] Es un poco de conflicto, más lo que falta.
+[01:08.00 → 01:10.00] Y unos puntos setups más.
+[01:10.00 → 01:16.00] Pero es donde página web de clínicas son lo mismo en cualquier clínica.
+[01:16.00 → 01:20.00] Son actualmente horribles e ineficientes.
+[01:20.00 → 01:27.00] Hacer una página web moderna para anyclínica se puede hacer un template genérico.
+[01:27.00 → 01:36.00] Y después con Google Maps puedes encontrar todas las clínicas existentes en Paraguay, en Latinoamérica y en el mundo.
+[01:37.00 → 01:46.00] Con AI podemos hacerles su página web moderna con todos los features que podrían llegar a pedir.
+[01:46.00 → 01:51.00] Y ofrecerles como suscripción a las clínicas.
+[01:51.00 → 01:54.00] Y el último es The Forestation Tracker.
+[01:54.00 → 02:04.00] Este es un passion project porque me interesa no más poder sacar datos de la deforestación en la toda Latinoamérica.
+[02:05.00 → 02:12.00] Hasta podemos sacar la deforestación con comparación de imágenes de satélite de zona urbana de tipo Z-Low, este árbol.
+[02:12.00 → 02:18.00] En diferentes épocas del año, capaz podemos encontrar en base a las flores.
+[02:18.00 → 02:20.00] ¿Qué tipo de árboles son?
+[02:20.00 → 02:22.00] A menos algunos.
+[02:22.00 → 02:29.00] Y tener un average, o tipo sacar el Big Data de árboles para venderles las empresas que son eco-friendly en el idioma.

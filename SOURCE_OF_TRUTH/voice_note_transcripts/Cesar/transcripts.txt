@@ -1,0 +1,65 @@
+PTT-20250903-WA0052.opus | lang=en prob=0.6959331035614014 dur=1.9s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ha ha ha ha
+PTT-20250903-WA0025.opus | lang=es prob=0.6205811500549316 dur=12.0s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Me pasaron la...
+[00:02.00 → 00:03.00] tu LinkedIn
+[00:03.00 → 00:05.00] slash
+[00:05.00 → 00:07.00] lo se llama
+[00:07.00 → 00:10.00] un link donde purés
+[00:10.00 → 00:12.00] tu visita QA
+PTT-20250903-WA0051.opus | lang=es prob=0.9487603902816772 dur=14.4s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Mirad tus mails en flash cada día, cada 3 horas, mirad si tu mail es Justin Case.
+[00:06.00 → 00:09.00] No se, no se, falla eso como el Andrés.
+[00:09.00 → 00:13.00] Sí, mirad también tus pam. Dios mío, qué pelada.
+[00:13.00 → 00:15.00] Qué puto Andrés.
+PTT-20250806-WA0113.opus | lang=es prob=0.9196885228157043 dur=45.3s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Uuuh, de nada, hay que sorrirme de avisarte para verlo, el creador de cosas, para mandar.
+[00:06.00 → 00:10.00] Pero como estoy hecho puta lua, no estoy fumando tanto porro.
+[00:10.00 → 00:14.00] Alas me fieles de verga otra vez, me dio así...
+[00:14.00 → 00:18.00] No se lo costa hablar con a Carlos o algo, y me dio así, súper alergia.
+[00:18.00 → 00:23.00] Y yo sé, me pego. Mucho verguísima de los putísimas madres.
+[00:24.00 → 00:31.00] Pero, pero rea, en mirar la full, en que te puede servir.
+[00:31.00 → 00:39.00] Si te sientes de contexto, te puedo mandar un ejemplo de tipo la página web que mi roommate hizo para él.
+[00:39.00 → 00:45.00] Que onda, no tocó nada de código, y hizo así en un día.
+PTT-20250806-WA0115.opus | lang=es prob=0.9209308624267578 dur=77.9s
+------------------------------------------------------------
+[00:00.00 → 00:06.64] te pone el caso de que quieres hacer una página, no sé qué quieres hacer o si es que quieres hacer algo con tu esposa para su trabajo
+[00:07.64 → 00:13.20] pero donde si quieres hacer una página o algo, re-buscáela, si estas son unos cuantos ejemplos y le pasará ejemplos
+[00:13.64 → 00:17.08] hay que investigue, se conecta a la internet y mira, siga un flaba
+[00:19.60 → 00:20.36] ¿Cómo se llama?
+[00:21.80 → 00:23.60] Las páginas y analiza cómo son
+[00:24.36 → 00:30.60] y otra cosa más que puedes verle es que mcp's tipo literal le decís, no más así
+[00:31.80 → 00:36.20] una vez que tengas todo el contexto listo y decirle qué crees hacer
+[00:36.88 → 00:40.80] antes de empezar le decís que prepara un plan detallado para lo que queres hacer
+[00:41.40 → 00:44.00] entonces te va diciendo ya qué es lo que él está pensando
+[00:45.76 → 00:51.60] y en base al plan en lo que lo que va a hacer le puedes decir que busque mcp's model context protocols
+[00:52.56 → 00:56.20] y con eso le das herramientas para que pueda operar mejor
+[00:56.60 → 01:02.00] por ejemplo le puedes dar mcp de calculadora para que en vez de alucinar las números o la matemática
+[01:02.88 → 01:04.20] te dé una respuesta real
+[01:05.68 → 01:09.20] y también le puedes dar mcp's para conectarse con la internet
+[01:09.60 → 01:13.80] por ejemplo playwright y si conecta abre su propio navegador
+[01:14.44 → 01:17.60] y puede verificar sus cambios en la página web que este está haciendo
+PTT-20250806-WA0114.opus | lang=es prob=0.9211351871490479 dur=96.1s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] ¿Y onda? ¿Vos como hiciste tu proceso de tu página Ale? ¿Tenías así tu información inicial luego en una carpeta?
+[00:07.00 → 00:12.00] ¿Y después te llevabagando... ¿Tenías tu versión inicial de tu página que era medio me?
+[00:12.00 → 00:14.00] Sí.
+[00:14.00 → 00:19.00] ¿Y te dijiste una más onda? ¿Arreglarla, hacerle profesional, agregarle cosas, agregarle secciones?
+[00:19.00 → 00:22.00] Entonces esta es mi CD, agregarle info.
+[00:22.00 → 00:27.00] ¿Y si tengo más o menos prompts?
+[00:27.00 → 00:31.00] ¿Por qué deberías tener todo el cloud?
+[00:31.00 → 00:38.00] No sé si te guarda ese spec story los prompts de cloud, solo los de cursor.
+[00:38.00 → 00:45.00] Pero si necesitabas así contexto, debajo de menos que se le preguntó a Elia, puedo ver un flag de...
+[00:45.00 → 00:47.00] ¿Tenías los commits y historias?
+[00:47.00 → 00:52.00] Hay que preguntar por ahí. Si no puedes mirarte a los commits y historias de la página de Ale.
+[00:52.00 → 01:01.00] ¿Pero donde enserias? ¿Tenías así tu terminal? Le abriges en la carpeta que quieras trabajar y le explicas nomás lo que querías hacer.
+[01:01.00 → 01:06.00] Y, obviamente, la parte más importante es darle suficiente contexto.
+[01:06.00 → 01:12.00] En el caso de la página es pasarle tu resumen, tu información, todo lo que hiciste, que sepa quién sos.
+[01:13.00 → 01:17.00] ¿Qué hiciste? ¿Qué proyectos te has tocado? ¿Qué otros cosas?
+[01:17.00 → 01:24.00] Todo lo que podrías querer es que tu página tiene que saber que existe, porque solo tiene el contexto de la carpeta.
+[01:24.00 → 01:33.00] Y onda le preparas nomás bien detallado unos cuantos archivos y haces nomás de inicio de contexto.
+[01:33.00 → 01:35.00] Y ahí te andas joyísima.

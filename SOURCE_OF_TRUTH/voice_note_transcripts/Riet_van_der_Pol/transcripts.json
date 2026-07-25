@@ -1,0 +1,72 @@
+[
+ {
+  "file": "PTT-20241127-WA0004.opus",
+  "language": "en",
+  "language_probability": 0.5331286787986755,
+  "duration": 1.4978125,
+  "transcribed_at": "2026-07-23T19:03:00.489364+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Thanks for watching!"
+   }
+  ],
+  "text": "Thanks for watching!"
+ },
+ {
+  "file": "PTT-20250614-WA0012.opus",
+  "language": "de",
+  "language_probability": 0.5210387110710144,
+  "duration": 62.3178125,
+  "transcribed_at": "2026-07-25T05:01:11.316882+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.2600000000000002,
+    "text": " Hallo Oma, sorry, ich hab in Helebeischu weg."
+   },
+   {
+    "start": 3.2600000000000002,
+    "end": 14.3,
+    "text": " Elke Dachbordel mit Bas, ein Hefeblöck, kann an den Bergdingen und Expos sehen."
+   },
+   {
+    "start": 15.58,
+    "end": 17.82,
+    "text": " Und dann alle Konferenziers."
+   },
+   {
+    "start": 20.12,
+    "end": 24.32,
+    "text": " So, jetzt sind wir in der anderen Hotel mit allen den Freunden."
+   },
+   {
+    "start": 24.92,
+    "end": 30.52,
+    "text": " Wir sind jetzt in Weich-Vakanzi mit Hingwerk in San Francisco."
+   },
+   {
+    "start": 30.52,
+    "end": 35.38,
+    "text": " Wir haben jetzt einen Rundlob und dann ..."
+   },
+   {
+    "start": 45.28,
+    "end": 49.400000000000006,
+    "text": " Ja, es ist hier sehr schön."
+   },
+   {
+    "start": 49.4,
+    "end": 58.64,
+    "text": " Haben wir vielleicht mehr Fotos mit den Freunden, die nicht so viele Fotos haben,"
+   },
+   {
+    "start": 58.64,
+    "end": 61.519999999999996,
+    "text": " aber wir haben hier viele Fotos mit der Infan-Netzwerk-Gruppe."
+   }
+  ],
+  "text": "Hallo Oma, sorry, ich hab in Helebeischu weg. Elke Dachbordel mit Bas, ein Hefeblöck, kann an den Bergdingen und Expos sehen. Und dann alle Konferenziers. So, jetzt sind wir in der anderen Hotel mit allen den Freunden. Wir sind jetzt in Weich-Vakanzi mit Hingwerk in San Francisco. Wir haben jetzt einen Rundlob und dann ... Ja, es ist hier sehr schön. Haben wir vielleicht mehr Fotos mit den Freunden, die nicht so viele Fotos haben, aber wir haben hier viele Fotos mit der Infan-Netzwerk-Gruppe."
+ }
+]

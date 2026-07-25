@@ -225,3 +225,94 @@ AUD-20260406-WA0002.opus | lang=es prob=0.9365783333778381 dur=50.1s
 [00:34.88 → 00:43.00] Eso es lo que quiero yo guardar y eso, como para verme un formato de excel para que yo
 [00:43.00 → 00:48.92] le pueda dictar en un audio nomás para que me cargue y no tenga que estar tecleando yo para
 [00:48.92 → 00:49.96] guardar en el excel.
+PTT-20260406-WA0000.opus | lang=es prob=0.9408997893333435 dur=77.7s
+------------------------------------------------------------
+[00:00.00 → 00:19.36] Hay aproximadamente 8.509 de mis gallinas, sacan como el 85% en promedio, creo, no estoy
+[00:19.36 → 00:27.32] seguro, la raza si no se, es de la verdad te voy a tener que decir, la edad depende porque
+[00:27.32 → 00:33.44] hay tres galpones y cada galpón tiene una cantidad distinta de gallinas, la cantidad
+[00:33.44 → 00:38.56] específica también de cada galpón te tiene que decir Laura, pero creo que era algo así como
+[00:38.56 → 00:57.76] 2000, 2500 y 3500, por ahora no vale comprar más, la edad de comer balanceado pero el precio
+[00:57.76 → 01:04.04] tiene que decir Laura, el alimento también tiene que decir de dónde compra, cuánto se
+[01:04.04 → 01:15.84] gastó por mes, si los otros ya son muy específicos ya, a ver un poco si funciona del audio
+AUD-20260218-WA0010.opus | lang=en prob=0.6563072800636292 dur=154.0s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] I'm sorry.
+[00:02.00 → 00:03.00] Yeah?
+[00:03.00 → 00:04.00] Have we done?
+[00:04.00 → 00:05.00] I hear you.
+[00:05.00 → 00:07.00] Yeah, yeah, yeah.
+[00:07.00 → 00:10.00] It's the finishing, it's the building.
+[00:14.00 → 00:16.00] Several things more.
+[00:18.00 → 00:26.00] I'm going to say I told already that Luana also makes sure Luana and Kirian just get there also where we are recording tonight.
+[00:27.00 → 00:30.00] And Luana already contacted you?
+[00:30.00 → 00:31.00] No.
+[00:31.00 → 00:32.00] Or not?
+[00:41.00 → 00:45.00] If we can get a little pleasure that Saskia is there also.
+[00:46.00 → 00:47.00] What?
+[00:47.00 → 00:49.00] I'm sorry, now I'm hearing again.
+[00:49.00 → 00:51.00] I'll make sure Saskia is there also.
+[00:51.00 → 00:52.00] Yeah?
+[00:54.00 → 00:55.00] I'm sorry, what?
+[00:56.00 → 00:57.00] Very good.
+[00:57.00 → 01:01.00] We'll talk, not talk with Saskia, talk with Luana, yeah?
+[01:01.00 → 01:02.00] But talk with Luana?
+[01:02.00 → 01:03.00] Yeah, talk with us.
+[01:13.00 → 01:16.00] Anyway, that is what I wanted to pass you, if I can.
+[01:18.00 → 01:19.00] Okay.
+[01:19.00 → 01:20.00] Yeah?
+[01:20.00 → 01:22.00] But what do I have to do with Luana and Saskia?
+[01:23.00 → 01:27.00] No, I was talking with Luana and Saskia.
+[01:27.00 → 01:31.00] You said Luana and Saskia, they're not almost, but not what I have to do with it.
+[01:31.00 → 01:32.00] Yes.
+[01:32.00 → 01:36.00] No, tomorrow tonight, when you're talking tomorrow.
+[01:36.00 → 01:39.00] Yeah, but that will be like a different thing.
+[01:39.00 → 01:41.00] That will be so full of stories.
+[01:41.00 → 01:45.00] I want to have them to be present, you know, to phone, you know?
+[01:45.00 → 01:47.00] That will be full of stories also.
+[01:47.00 → 01:49.00] That will be full of stories from the people in the restaurant, John.
+[01:49.00 → 01:50.00] Sorry?
+[01:50.00 → 01:54.00] Nobody will be able to hear anything anyway, because it's a fucking restaurant.
+[01:54.00 → 01:56.00] It's so full of people.
+[01:56.00 → 02:00.00] We will find the right thing to do.
+[02:00.00 → 02:03.00] Otherwise, you take the right room, you know?
+[02:03.00 → 02:04.00] Don't worry.
+[02:06.00 → 02:07.00] Sure.
+[02:07.00 → 02:09.00] We will have the right room, yeah?
+[02:13.00 → 02:15.00] Really, do that, yeah?
+[02:15.00 → 02:18.00] I'll give you the right everything, yeah?
+[02:18.00 → 02:19.00] Mm-hmm.
+[02:22.00 → 02:25.00] Anyway, that is what I want to ask you, yes?
+[02:27.00 → 02:28.00] Sure.
+[02:29.00 → 02:30.00] Ciao.
+AUD-20260218-WA0012.opus | lang=en prob=0.6112779974937439 dur=158.1s
+------------------------------------------------------------
+[00:00.00 → 00:11.00] I was talking with you, bringing, if you would go to Europe and what's to happen, to arrange things.
+[00:11.00 → 00:19.00] Because you need to talk with the person anyway at some point, that's going to happen.
+[00:19.00 → 00:23.00] I know it's going to happen. It's just simple matter.
+[00:23.00 → 00:27.00] What you have is that it's bringing the right people in contact.
+[00:27.00 → 00:34.00] You know that OPA has been helping out those things in India.
+[00:34.00 → 00:41.00] I see the problem is mainly, how do you call that?
+[00:41.00 → 00:50.00] The government actually being a beach more or less. That is the problem that they have.
+[00:50.00 → 00:57.00] The government working against them while good people try to help.
+[00:57.00 → 01:05.00] Now the head of Fortext is an Indian cop called.
+[01:05.00 → 01:11.00] Yes, they have that class divide. They are upper class in India.
+[01:11.00 → 01:16.00] They have the contact. They have the people to talk. They have how you can fix this.
+[01:16.00 → 01:26.00] I'm going to talk with him one day. I'm going to tell him the story of OPA.
+[01:26.00 → 01:29.00] Definitely also be quite interesting to do that.
+[01:29.00 → 01:32.00] And you already know that this is going to happen.
+[01:32.00 → 01:35.00] By the way, Kierni is awake now.
+[01:35.00 → 01:41.00] Yeah, you talk things through and what's to ever. I will have to grow a lot of time to read.
+[01:41.00 → 01:47.00] Yeah, but it's also stupid.
+[01:47.00 → 01:53.00] Anyway, yeah, good luck. Oh, and it was another one.
+[01:53.00 → 01:59.00] You know, and I was saying, Sonya, do you know what is the moral of the story?
+[01:59.00 → 02:04.00] Yeah, yeah, yeah. You know, what is the whole moral of this whole story?
+[02:04.00 → 02:09.00] Talking. You have time now. Do you know what is the moral of the story?
+[02:09.00 → 02:14.00] It's that people should, how do you say, start fucking listening to me, instead of ignoring me.
+[02:14.00 → 02:16.00] Yeah.
+[02:16.00 → 02:20.00] You get it.
+[02:20.00 → 02:23.00] Happy birthday, mama.
+[02:23.00 → 02:25.00] Sorry.
+[02:25.00 → 02:28.00] Kierni says happy birthday for Sonya.
+[02:28.00 → 02:31.00] Thank you very much.
+[02:31.00 → 02:33.00] Thank you very much.
+[02:33.00 → 02:36.00] Thank you very much.

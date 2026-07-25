@@ -214,3 +214,46 @@ PTT-20260304-WA0086.opus | lang=es prob=0.9853535890579224 dur=53.1s
 [00:47.24 → 00:50.28] ¡Perdón, pero no le conocí todavía!
 [00:50.28 → 00:51.52] Y así...
 [00:51.52 → 00:53.04] ¡Futura señora wey, hey!
+PTT-20260310-WA0016.opus | lang=es prob=0.9277942180633545 dur=55.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Y no sé, o sea, yo le he mencionado a mamá, pero ves que es tipo algo...
+[00:05.00 → 00:13.00] tipo, porque tenía que ser la hua, la gran cosa, tipo no sé, y panio llega pincinando 3 años por ella que seguía haciendo una base de tu mía
+[00:13.00 → 00:20.00] y tipo, estaba acá en la casa mamá ayudándole con cosas que me pidió que le ayude la computadora
+[00:20.00 → 00:26.00] y le preguntaba qué tal todo en casa y le dije chill, tipo no, no, gran cosa
+[00:26.00 → 00:29.00] y me dijo, tenderte que tu primo va a ser papá
+[00:29.00 → 00:31.00] y yo, tipo, sí, nos contó
+[00:31.00 → 00:34.00] y van al toque, se dijo que se va a ser ya su otra hacer tu mía
+[00:34.00 → 00:36.00] y de más o menos, fue normal, le dije
+[00:36.00 → 00:38.00] porque sí, es una anécdota tembo, ¿entendés?
+[00:38.00 → 00:40.00] no es como que yo me fí de cuenta y tal
+[00:40.00 → 00:41.00] vamos a saber que va a ser que ella se va...
+[00:41.00 → 00:44.00] no, bludo, me vale madres
+[00:44.00 → 00:46.00] o sea, no sé
+[00:49.00 → 00:52.00] mamá no es tampoco la persona más... o sea
+[00:52.00 → 00:55.00] grandico sonido te hace aquí, lo más ganada es eso
+PTT-20240401-WA0028.opus | lang=es prob=0.9645791053771973 dur=66.4s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Acha, yo pensé que ya tenía como 20 o 21 ofrezas, que ya.
+[00:07.00 → 00:14.24] Capaz, ahí no influye tanto, pero, o sea, yo le pregunte las condiciones a Mateo,
+[00:14.24 → 00:21.84] y él me dijo de 20 a 28 años estaría bueno, porque ya había contratado anteriormente
+[00:21.84 → 00:27.88] a alguien que era menor de 20 y no le funcionó tan bien, entonces que era así
+[00:27.88 → 00:35.88] por lo menos a mí me halló la estabilidad mental para que pueda soportar un trabajo, ¿verdad?
+[00:35.88 → 00:45.88] Y eso, igual puede pechar, no sé, pagan 80 meseros y nada, ¿verdad?
+[00:45.88 → 00:54.88] Si 80 mil por día, o sea, no pagan al mes, pagan al día 80 mil y aparte tenes tu propina,
+[00:54.88 → 01:05.88] y eso, y así. Ahora llegue a mi casita, ¿qué haces?
+PTT-20250825-WA0021.opus | lang=es prob=0.9307677149772644 dur=78.6s
+------------------------------------------------------------
+[00:00.00 → 00:15.00] Ahora estoy por México como una parada en el trip a Canadá porque era más barato que mi directo a Canadá.
+[00:15.00 → 00:19.00] Directo a Canadá cuando yo compra el ticket ya era 5.000 dólares.
+[00:19.00 → 00:26.00] Pasar por México 10 días quedaron acá y después a Canadá me costa 1.500 dólares.
+[00:26.00 → 00:31.00] Entonces, oh no, me voy por México.
+[00:31.00 → 00:38.00] Pero me estoy yendo acá a Canadá para visitar la empresa del jefe.
+[00:38.00 → 00:40.00] Ni puta idea porque no vamos.
+[00:40.00 → 00:43.00] El tipo de trabajo que es full, que mata el pedo.
+[00:43.00 → 00:49.00] El jefe dijo, yo estoy cheto, vengan a visitarme y les pago todo.
+[00:49.00 → 00:54.00] Pero ya estoy haciendo data engineering que es...
+[00:54.00 → 01:02.00] Hay exes muy grandes que no entren en computadoras y hay que hacer transformaciones tipo esta columna.
+[01:02.00 → 01:06.00] Convertir todos los números, esta columna todo por dos.
+[01:06.00 → 01:12.00] Esta columna limpiar los strings, las letras, las palabras para que no tengan espacios al final.
+[01:12.00 → 01:15.00] Miren donde eso.
+[01:15.00 → 01:18.00] Y replicar los clips de los clientes pero full chatipiti.

@@ -143,5 +143,65 @@
    }
   ],
   "text": "Hay que tomar con calma normal la situación dice un amigo mío así que yo voy a llegar a la facultad lo antes posible que el tráfico permita, me voy a quedar hasta las 7.30 para revisar con los que puedan llegar para los que no puedan llegar voy a volver a pasar por acá por este medio las notas y cuando todo esté en acuerdo con su nota había presentado oficialmente la facultad así que no hay porque preocuparse demasiado les mando un abrazo a todos"
+ },
+ {
+  "file": "PTT-20240508-WA0013.opus",
+  "language": "es",
+  "language_probability": 0.9789942502975464,
+  "duration": 52.9378125,
+  "transcribed_at": "2026-07-25T05:12:50.735624+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Sin mal no recuerdo para la segunda parte del curso"
+   },
+   {
+    "start": 6.0,
+    "end": 12.0,
+    "text": " nos tocan los capítulos 15 que es transacciones"
+   },
+   {
+    "start": 12.0,
+    "end": 17.0,
+    "text": " el capítulo control de concurrencia que creo que es el 16"
+   },
+   {
+    "start": 17.0,
+    "end": 22.0,
+    "text": " después vamos a ir a base de datos distribuidas"
+   },
+   {
+    "start": 22.0,
+    "end": 27.0,
+    "text": " que el capítulo 19 sin mal no me recuerdo"
+   },
+   {
+    "start": 27.0,
+    "end": 35.0,
+    "text": " y ahí vamos a ver si desarrollamos la parte de análisis de datos"
+   },
+   {
+    "start": 35.0,
+    "end": 38.0,
+    "text": " que sería la parte de dataware, etcétera, etcétera"
+   },
+   {
+    "start": 38.0,
+    "end": 44.0,
+    "text": " pero eso va a depender de cómo se dé el semestre"
+   },
+   {
+    "start": 44.0,
+    "end": 47.0,
+    "text": " si es que no van a haber más paros"
+   },
+   {
+    "start": 47.0,
+    "end": 52.0,
+    "text": " si es que los feriados no nos van a afectar y así sucesivamente"
+   }
+  ],
+  "text": "Sin mal no recuerdo para la segunda parte del curso nos tocan los capítulos 15 que es transacciones el capítulo control de concurrencia que creo que es el 16 después vamos a ir a base de datos distribuidas que el capítulo 19 sin mal no me recuerdo y ahí vamos a ver si desarrollamos la parte de análisis de datos que sería la parte de dataware, etcétera, etcétera pero eso va a depender de cómo se dé el semestre si es que no van a haber más paros si es que los feriados no nos van a afectar y así sucesivamente"
  }
 ]

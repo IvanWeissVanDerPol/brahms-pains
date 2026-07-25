@@ -1,0 +1,1167 @@
+[
+ {
+  "file": "PTT-20250401-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.3380284309387207,
+  "duration": 2.0535,
+  "transcribed_at": "2026-07-23T19:20:12.879952+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿Qué es CIT?"
+   }
+  ],
+  "text": "¿Qué es CIT?"
+ },
+ {
+  "file": "PTT-20250401-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.6243039965629578,
+  "duration": 3.4735,
+  "transcribed_at": "2026-07-23T21:42:48.155127+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Ya no estoy frente a mi computadora."
+   }
+  ],
+  "text": "Ya no estoy frente a mi computadora."
+ },
+ {
+  "file": "PTT-20250401-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.9612329602241516,
+  "duration": 5.5978125,
+  "transcribed_at": "2026-07-24T00:11:17.942635+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.5,
+    "text": " ¿Sorri que me desconecta así de repente?"
+   },
+   {
+    "start": 2.5,
+    "end": 3.5,
+    "text": " ¡Ah!"
+   },
+   {
+    "start": 3.5,
+    "end": 5.5,
+    "text": " No vi tus mensajes."
+   }
+  ],
+  "text": "¿Sorri que me desconecta así de repente? ¡Ah! No vi tus mensajes."
+ },
+ {
+  "file": "PTT-20250726-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.963370144367218,
+  "duration": 6.1578125,
+  "transcribed_at": "2026-07-24T00:13:19.519555+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Ahora estoy en Paraguay, me olvidé de Estados Unidos hace unas semanas."
+   }
+  ],
+  "text": "Ahora estoy en Paraguay, me olvidé de Estados Unidos hace unas semanas."
+ },
+ {
+  "file": "PTT-20251106-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.8991070985794067,
+  "duration": 6.8535,
+  "transcribed_at": "2026-07-24T00:18:08.821582+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " y vos pensar que se podría hacer una película con AI o todavía."
+   }
+  ],
+  "text": "y vos pensar que se podría hacer una película con AI o todavía."
+ },
+ {
+  "file": "PTT-20250401-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.7255232930183411,
+  "duration": 6.8735,
+  "transcribed_at": "2026-07-24T00:49:08.932521+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.4,
+    "text": " voy a volver a abrirla cuando llegue a casa"
+   }
+  ],
+  "text": "voy a volver a abrirla cuando llegue a casa"
+ },
+ {
+  "file": "PTT-20250726-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9099006652832031,
+  "duration": 7.4135,
+  "transcribed_at": "2026-07-24T01:29:09.458225+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Bueno, gracias Iván. ¿Vos estás en Paraguay ahora o estás en Estados Unidos?"
+   }
+  ],
+  "text": "Bueno, gracias Iván. ¿Vos estás en Paraguay ahora o estás en Estados Unidos?"
+ },
+ {
+  "file": "PTT-20250404-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.9064778089523315,
+  "duration": 7.9135,
+  "transcribed_at": "2026-07-24T01:56:17.472885+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.12,
+    "text": " yo estoy entrando y saliendo de montañas así que te hablo y se me corta"
+   }
+  ],
+  "text": "yo estoy entrando y saliendo de montañas así que te hablo y se me corta"
+ },
+ {
+  "file": "PTT-20251105-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.3989599943161011,
+  "duration": 11.0335,
+  "transcribed_at": "2026-07-24T02:09:41.751994+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " que vayas. El número 5 en el aire en el hielo le está haciendo muchos hielos en Paraguay por el carácter histórico."
+   }
+  ],
+  "text": "que vayas. El número 5 en el aire en el hielo le está haciendo muchos hielos en Paraguay por el carácter histórico."
+ },
+ {
+  "file": "PTT-20250417-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.6733779311180115,
+  "duration": 12.5935,
+  "transcribed_at": "2026-07-24T02:39:09.101142+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 12.200000000000001,
+    "text": " Porque si ya cora más barato, yo te ayudo con eso y vos aprendes el software."
+   }
+  ],
+  "text": "Porque si ya cora más barato, yo te ayudo con eso y vos aprendes el software."
+ },
+ {
+  "file": "PTT-20250403-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.8175429701805115,
+  "duration": 9.1335,
+  "transcribed_at": "2026-07-24T02:43:51.065043+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Yo necesito crear más del tren paraguayo donde no existen trenes o vías."
+   }
+  ],
+  "text": "Yo necesito crear más del tren paraguayo donde no existen trenes o vías."
+ },
+ {
+  "file": "PTT-20250403-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.7210692167282104,
+  "duration": 9.0935,
+  "transcribed_at": "2026-07-24T03:01:31.779104+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " O poner el tren viejo, el tren paraguayo viejo en el monte."
+   }
+  ],
+  "text": "O poner el tren viejo, el tren paraguayo viejo en el monte."
+ },
+ {
+  "file": "PTT-20250403-WA0032.opus",
+  "language": "es",
+  "language_probability": 0.39058515429496765,
+  "duration": 10.4735,
+  "transcribed_at": "2026-07-24T04:11:38.552951+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Incluso firmar dentro de un vagón y luego agregarle todo con eso, el paisaje que pasa, cosas así."
+   }
+  ],
+  "text": "Incluso firmar dentro de un vagón y luego agregarle todo con eso, el paisaje que pasa, cosas así."
+ },
+ {
+  "file": "PTT-20250613-WA0005.opus",
+  "language": "es",
+  "language_probability": 0.6969159841537476,
+  "duration": 13.3978125,
+  "transcribed_at": "2026-07-24T05:30:54.765293+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Si es que no os hagas clínicas, super recomendado de suscribirte."
+   },
+   {
+    "start": 7.0,
+    "end": 13.0,
+    "text": " El más fuerte ahora mismo creo que veo 3, pero te puedo ver un flaco."
+   }
+  ],
+  "text": "Si es que no os hagas clínicas, super recomendado de suscribirte. El más fuerte ahora mismo creo que veo 3, pero te puedo ver un flaco."
+ },
+ {
+  "file": "PTT-20250403-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.8722990155220032,
+  "duration": 17.6335,
+  "transcribed_at": "2026-07-24T08:09:49.963535+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 15.0,
+    "text": " Lo que si me interesa esto, por ejemplo, hay cosas que yo voy a necesitar, por ejemplo, poner la vía del tren sobre un camino que no tiene nada."
+   }
+  ],
+  "text": "Lo que si me interesa esto, por ejemplo, hay cosas que yo voy a necesitar, por ejemplo, poner la vía del tren sobre un camino que no tiene nada."
+ },
+ {
+  "file": "PTT-20250417-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.8948934674263,
+  "duration": 19.8735,
+  "transcribed_at": "2026-07-24T08:51:23.859418+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 14.84,
+    "text": " En el video dicen que está gratis, después está 79, después está 230 y ¿qué sé yo"
+   },
+   {
+    "start": 14.84,
+    "end": 15.84,
+    "text": " más?"
+   },
+   {
+    "start": 15.84,
+    "end": 19.32,
+    "text": " ¿Estás seguro que vos estás hablando de 0, 7 y 30?"
+   }
+  ],
+  "text": "En el video dicen que está gratis, después está 79, después está 230 y ¿qué sé yo más? ¿Estás seguro que vos estás hablando de 0, 7 y 30?"
+ },
+ {
+  "file": "PTT-20250613-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.8061989545822144,
+  "duration": 21.9535,
+  "transcribed_at": "2026-07-24T11:05:58.214552+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.08,
+    "text": " Y ahora me contó su sueño que estás en San Francisco, si tenés tiempo decirme cuál"
+   },
+   {
+    "start": 8.08,
+    "end": 18.32,
+    "text": " sería el mejor AI para inscribirme este mes, estuve por dos meses en Kling, pero usé"
+   },
+   {
+    "start": 18.32,
+    "end": 21.56,
+    "text": " una vez nomás y empezará a usar más."
+   }
+  ],
+  "text": "Y ahora me contó su sueño que estás en San Francisco, si tenés tiempo decirme cuál sería el mejor AI para inscribirme este mes, estuve por dos meses en Kling, pero usé una vez nomás y empezará a usar más."
+ },
+ {
+  "file": "PTT-20250401-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.9473153352737427,
+  "duration": 22.5978125,
+  "transcribed_at": "2026-07-24T11:21:13.455232+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.44,
+    "text": " Para lugar las nubes, puedes tener así todas las nubes y poder descargar las imágenes individuales"
+   },
+   {
+    "start": 7.44,
+    "end": 15.84,
+    "text": " y si no en el Zip tenés todo lo ya en HD, sí, aún entiendo la compresión y puedes extraer"
+   },
+   {
+    "start": 15.84,
+    "end": 20.2,
+    "text": " no más todas las imágenes a un lugar de imágenes en tu computadora, pero ahora no puedes ver"
+   },
+   {
+    "start": 20.2,
+    "end": 22.04,
+    "text": " porque están dentro del punto Zip."
+   }
+  ],
+  "text": "Para lugar las nubes, puedes tener así todas las nubes y poder descargar las imágenes individuales y si no en el Zip tenés todo lo ya en HD, sí, aún entiendo la compresión y puedes extraer no más todas las imágenes a un lugar de imágenes en tu computadora, pero ahora no puedes ver porque están dentro del punto Zip."
+ },
+ {
+  "file": "PTT-20250330-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.9124287366867065,
+  "duration": 26.1335,
+  "transcribed_at": "2026-07-24T11:27:21.624742+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 18.240000000000002,
+    "text": " yo no tengo todavía el chat gbt pagado así que tal vez cuál me decía el plus o el"
+   },
+   {
+    "start": 18.240000000000002,
+    "end": 25.28,
+    "text": " probar el pro mucho más caro que el plus vos cuál tenés"
+   }
+  ],
+  "text": "yo no tengo todavía el chat gbt pagado así que tal vez cuál me decía el plus o el probar el pro mucho más caro que el plus vos cuál tenés"
+ },
+ {
+  "file": "PTT-20250401-WA0024.opus",
+  "language": "es",
+  "language_probability": 0.9071665406227112,
+  "duration": 22.5778125,
+  "transcribed_at": "2026-07-24T11:30:39.422156+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.44,
+    "text": " ¡Venga, sorry! Dejé abierto mi computadora mientras estaba preparando la escena y llegaron"
+   },
+   {
+    "start": 5.44,
+    "end": 11.8,
+    "text": " los mensajes y no me salían el celular. Todo esto puedes descargar en tu computadora,"
+   },
+   {
+    "start": 11.8,
+    "end": 16.96,
+    "text": " o sea, moviendo mejor la carpeta de imágenes que te parezca ok, y ahí puedes ver más"
+   },
+   {
+    "start": 16.96,
+    "end": 22.48,
+    "text": " las imágenes como PNGs, tipo, son varios PNGs y también los vídeos que había preparado."
+   }
+  ],
+  "text": "¡Venga, sorry! Dejé abierto mi computadora mientras estaba preparando la escena y llegaron los mensajes y no me salían el celular. Todo esto puedes descargar en tu computadora, o sea, moviendo mejor la carpeta de imágenes que te parezca ok, y ahí puedes ver más las imágenes como PNGs, tipo, son varios PNGs y también los vídeos que había preparado."
+ },
+ {
+  "file": "PTT-20250403-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.8246225118637085,
+  "duration": 24.9135,
+  "transcribed_at": "2026-07-24T12:08:38.988035+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.6000000000000005,
+    "text": " Increíble esas imágenes, me supongo que si hago un video de que quiero contar las imágenes"
+   },
+   {
+    "start": 7.6000000000000005,
+    "end": 14.24,
+    "text": " van a ser demasiado, mucho más de lo que podría ofrecer en Paraguay y hay peligro"
+   },
+   {
+    "start": 14.24,
+    "end": 23.68,
+    "text": " en eso de overdoing y después no me puedo deliver lo que las imágenes producen."
+   }
+  ],
+  "text": "Increíble esas imágenes, me supongo que si hago un video de que quiero contar las imágenes van a ser demasiado, mucho más de lo que podría ofrecer en Paraguay y hay peligro en eso de overdoing y después no me puedo deliver lo que las imágenes producen."
+ },
+ {
+  "file": "PTT-20251105-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9297245740890503,
+  "duration": 31.7778125,
+  "transcribed_at": "2026-07-24T15:46:38.088572+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.64,
+    "text": " Ya, no le conozco al menos al tipo, escucha medio borroso tu audio, pero sus videos al"
+   },
+   {
+    "start": 8.64,
+    "end": 15.08,
+    "text": " menos me parecen onda hasta la versión antigua hacer los videos, o sea como eran"
+   },
+   {
+    "start": 15.08,
+    "end": 24.16,
+    "text": " más antes, porque los latest models son, tipo no sé, no pasa así que tipo la"
+   },
+   {
+    "start": 24.16,
+    "end": 29.84,
+    "text": " cara está mirando a un lado y cae en la gira y tipo no sé, unos pantos"
+   },
+   {
+    "start": 29.84,
+    "end": 33.28,
+    "text": " de defectos raros que salen"
+   }
+  ],
+  "text": "Ya, no le conozco al menos al tipo, escucha medio borroso tu audio, pero sus videos al menos me parecen onda hasta la versión antigua hacer los videos, o sea como eran más antes, porque los latest models son, tipo no sé, no pasa así que tipo la cara está mirando a un lado y cae en la gira y tipo no sé, unos pantos de defectos raros que salen"
+ },
+ {
+  "file": "PTT-20250613-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.738259494304657,
+  "duration": 36.4978125,
+  "transcribed_at": "2026-07-24T20:28:51.416321+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.5,
+    "text": " Hoy es en Sorrikeno Telefon y otro mensaje estuve así a full desde el viernes. Esto se me ha pasado."
+   },
+   {
+    "start": 9.0,
+    "end": 18.5,
+    "text": " Y después tipo el viajero tiene internet lo de Moni Cacheto y fue el esto de la teleconferencia ahora también tipo Normie Unwell."
+   },
+   {
+    "start": 20.5,
+    "end": 22.5,
+    "text": " A full todos los días."
+   },
+   {
+    "start": 25.5,
+    "end": 28.5,
+    "text": " Ahora se van a ver los jefes a la canada de vuelta."
+   },
+   {
+    "start": 28.5,
+    "end": 30.5,
+    "text": " Esto es la voz de nuestro Airbnb."
+   },
+   {
+    "start": 30.5,
+    "end": 32.5,
+    "text": " Voy a verlo."
+   },
+   {
+    "start": 32.5,
+    "end": 35.5,
+    "text": " Y después de hacer volúes en San Francisco."
+   }
+  ],
+  "text": "Hoy es en Sorrikeno Telefon y otro mensaje estuve así a full desde el viernes. Esto se me ha pasado. Y después tipo el viajero tiene internet lo de Moni Cacheto y fue el esto de la teleconferencia ahora también tipo Normie Unwell. A full todos los días. Ahora se van a ver los jefes a la canada de vuelta. Esto es la voz de nuestro Airbnb. Voy a verlo. Y después de hacer volúes en San Francisco."
+ },
+ {
+  "file": "PTT-20250404-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.8546035289764404,
+  "duration": 37.2578125,
+  "transcribed_at": "2026-07-24T21:18:06.535865+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.84,
+    "text": " Ya, o sea que el primer frame que preparé luego no era, o sea, no es muy bueno creo,"
+   },
+   {
+    "start": 6.84,
+    "end": 13.72,
+    "text": " slash, la, el prompt, la acercación que yo le de, de tiempo no se le había hecho si"
+   },
+   {
+    "start": 13.72,
+    "end": 20.52,
+    "text": " piti que me hagas un prompt, la sona imagen otra vez, tipo, no sé, si está free más"
+   },
+   {
+    "start": 20.52,
+    "end": 25.76,
+    "text": " tarde o el fin de, a ver si ahí vemos un flag, o sea, miro de generar unos cuantos"
+   },
+   {
+    "start": 25.76,
+    "end": 31.400000000000002,
+    "text": " contigo vemos qué tal salió, por ahí salen algunos escenas que si preparamos unas cuantas"
+   },
+   {
+    "start": 31.400000000000002,
+    "end": 34.92,
+    "text": " escenas importantes que puedes animar y tener después muchas imágenes."
+   }
+  ],
+  "text": "Ya, o sea que el primer frame que preparé luego no era, o sea, no es muy bueno creo, slash, la, el prompt, la acercación que yo le de, de tiempo no se le había hecho si piti que me hagas un prompt, la sona imagen otra vez, tipo, no sé, si está free más tarde o el fin de, a ver si ahí vemos un flag, o sea, miro de generar unos cuantos contigo vemos qué tal salió, por ahí salen algunos escenas que si preparamos unas cuantas escenas importantes que puedes animar y tener después muchas imágenes."
+ },
+ {
+  "file": "PTT-20250726-WA0038.opus",
+  "language": "es",
+  "language_probability": 0.909324049949646,
+  "duration": 44.0778125,
+  "transcribed_at": "2026-07-24T22:34:15.007772+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 15.0,
+    "text": " O sea, estoy ya de vuelta en Paraguay pero estoy medio de reposo, me enferme de un flag, pero si necesitas que investigue algo avisa y vea un flag que encuentre en internet que te pueda hacer útil."
+   },
+   {
+    "start": 15.0,
+    "end": 24.0,
+    "text": " Pero lo de preparar y promptar los videos, en serio, tendría que ver a vos nomás en vez de yo porque no podría juzgar los resultados que hace."
+   },
+   {
+    "start": 25.0,
+    "end": 33.0,
+    "text": " Podría decir, sale lindo purete, mira, hardcore el video, pero onda de eso, tipo..."
+   },
+   {
+    "start": 36.0,
+    "end": 43.0,
+    "text": " Saldrían mucho más puretes y mejor si es que le haces vos que sé que yo le hago, me parece."
+   }
+  ],
+  "text": "O sea, estoy ya de vuelta en Paraguay pero estoy medio de reposo, me enferme de un flag, pero si necesitas que investigue algo avisa y vea un flag que encuentre en internet que te pueda hacer útil. Pero lo de preparar y promptar los videos, en serio, tendría que ver a vos nomás en vez de yo porque no podría juzgar los resultados que hace. Podría decir, sale lindo purete, mira, hardcore el video, pero onda de eso, tipo... Saldrían mucho más puretes y mejor si es que le haces vos que sé que yo le hago, me parece."
+ },
+ {
+  "file": "PTT-20250404-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.7597941160202026,
+  "duration": 44.7335,
+  "transcribed_at": "2026-07-25T01:24:32.804584+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 12.44,
+    "text": " Bueno, una forma de ver cómo lo hace es esa escena que te mandé. Si vos ves, ves que hay"
+   },
+   {
+    "start": 12.44,
+    "end": 23.52,
+    "text": " una camioneta, un camión detrás de esos tipos. Y si vos le puedes decir que ponga un molde"
+   },
+   {
+    "start": 23.52,
+    "end": 31.759999999999998,
+    "text": " o lo que sea, ahí atrás. Y después el tren estaría buenísimo, pero tiene que ser ese mismo tren"
+   },
+   {
+    "start": 31.759999999999998,
+    "end": 39.36,
+    "text": " viejo de Paraguay. Porque el tren que está poniendo es casi dibujo animados y súper nuevo."
+   },
+   {
+    "start": 41.16,
+    "end": 43.519999999999996,
+    "text": " Y le cambié a los tipos, pero eso no importa."
+   }
+  ],
+  "text": "Bueno, una forma de ver cómo lo hace es esa escena que te mandé. Si vos ves, ves que hay una camioneta, un camión detrás de esos tipos. Y si vos le puedes decir que ponga un molde o lo que sea, ahí atrás. Y después el tren estaría buenísimo, pero tiene que ser ese mismo tren viejo de Paraguay. Porque el tren que está poniendo es casi dibujo animados y súper nuevo. Y le cambié a los tipos, pero eso no importa."
+ },
+ {
+  "file": "PTT-20250401-WA0032.opus",
+  "language": "es",
+  "language_probability": 0.884509265422821,
+  "duration": 49.1178125,
+  "transcribed_at": "2026-07-25T02:51:22.789442+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " O sea, le comenté también ayer, tipo, que tipo capaz de escribías y le dije luego, tipo,"
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " ah, justo se me olvidó de avisar, tipo, ya estaba re-ormido."
+   },
+   {
+    "start": 8.0,
+    "end": 13.0,
+    "text": " Pero Rachel, tipo, cuando estaba, no sabes qué, me la he transferido, lo hice, tipo,"
+   },
+   {
+    "start": 13.0,
+    "end": 17.0,
+    "text": " y ahí, Rachel, estoy, ahí, chileando con los compás del viaje."
+   },
+   {
+    "start": 19.0,
+    "end": 23.0,
+    "text": " Me alegro de poder verte de un puesto en favor."
+   },
+   {
+    "start": 23.0,
+    "end": 33.0,
+    "text": " Pero, pero ya, ojalá salga purete y lindo, me gusta la gente, el cosa."
+   },
+   {
+    "start": 33.0,
+    "end": 39.0,
+    "text": " Des, en unos años va a estar más fácil usar el ya, o más fácil que ahora,"
+   },
+   {
+    "start": 39.0,
+    "end": 41.0,
+    "text": " y te va a hacer más bien el vino todo de bueno."
+   },
+   {
+    "start": 41.0,
+    "end": 44.0,
+    "text": " Ahí le puedes hacer puretito."
+   },
+   {
+    "start": 44.0,
+    "end": 48.0,
+    "text": " O sea, es así, todo el trailer animado ya."
+   }
+  ],
+  "text": "O sea, le comenté también ayer, tipo, que tipo capaz de escribías y le dije luego, tipo, ah, justo se me olvidó de avisar, tipo, ya estaba re-ormido. Pero Rachel, tipo, cuando estaba, no sabes qué, me la he transferido, lo hice, tipo, y ahí, Rachel, estoy, ahí, chileando con los compás del viaje. Me alegro de poder verte de un puesto en favor. Pero, pero ya, ojalá salga purete y lindo, me gusta la gente, el cosa. Des, en unos años va a estar más fácil usar el ya, o más fácil que ahora, y te va a hacer más bien el vino todo de bueno. Ahí le puedes hacer puretito. O sea, es así, todo el trailer animado ya."
+ },
+ {
+  "file": "PTT-20250417-WA0014.opus",
+  "language": "es",
+  "language_probability": 0.933271586894989,
+  "duration": 51.4978125,
+  "transcribed_at": "2026-07-25T03:22:47.633753+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 13.0,
+    "text": " Si no recontra pure tesón, CGD, es una cuenta, osea, CGD, CGD querés pro ar y tu compras una cuenta premium del Kling, de Kling"
+   },
+   {
+    "start": 13.0,
+    "end": 21.0,
+    "text": " Te, eh, no se, hacemos un meet y lleguemos a un fladeo pronte ar y como se tupe ar y estas abuelo, eso es"
+   },
+   {
+    "start": 21.0,
+    "end": 33.0,
+    "text": " Creo que el barato, esa, tenia 3 tiers de subscription, que es 4, el gratis, que te da poquito de créditos para probar"
+   },
+   {
+    "start": 33.0,
+    "end": 41.0,
+    "text": " Después uno de 7 dólares y uno de 30, 70, carito, pero"
+   },
+   {
+    "start": 41.0,
+    "end": 44.0,
+    "text": " Se puede probar un fladeo y ver que sale"
+   },
+   {
+    "start": 44.0,
+    "end": 51.0,
+    "text": " He de hacer como no uso para el trabajo, no tengo una cuenta premium"
+   }
+  ],
+  "text": "Si no recontra pure tesón, CGD, es una cuenta, osea, CGD, CGD querés pro ar y tu compras una cuenta premium del Kling, de Kling Te, eh, no se, hacemos un meet y lleguemos a un fladeo pronte ar y como se tupe ar y estas abuelo, eso es Creo que el barato, esa, tenia 3 tiers de subscription, que es 4, el gratis, que te da poquito de créditos para probar Después uno de 7 dólares y uno de 30, 70, carito, pero Se puede probar un fladeo y ver que sale He de hacer como no uso para el trabajo, no tengo una cuenta premium"
+ },
+ {
+  "file": "PTT-20250414-WA0024.opus",
+  "language": "es",
+  "language_probability": 0.9581595063209534,
+  "duration": 57.6178125,
+  "transcribed_at": "2026-07-25T05:44:27.850057+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Please. Entiendo muy bien cómo son secuencias superiores."
+   },
+   {
+    "start": 5.0,
+    "end": 11.0,
+    "text": " Yo lo sé cero así de cosas de cine y cinevideos y todo eso."
+   },
+   {
+    "start": 11.0,
+    "end": 16.0,
+    "text": " Pero sin explicar más o menos cómo necesitas o qué te sirve,"
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " o si es que te pareció preto y que te mande,"
+   },
+   {
+    "start": 18.0,
+    "end": 22.0,
+    "text": " podemos verlo hacer unas con las secuencias más hondas."
+   },
+   {
+    "start": 22.0,
+    "end": 27.0,
+    "text": " Tienes así la imagen en el frame inicial de donde querés que empiece"
+   },
+   {
+    "start": 27.0,
+    "end": 31.0,
+    "text": " y vamos a devagarnos de hacer que el tren se vaya para enfrente"
+   },
+   {
+    "start": 31.0,
+    "end": 35.0,
+    "text": " y que el conductor salude y tipo un beso o lo que sea."
+   },
+   {
+    "start": 35.0,
+    "end": 37.0,
+    "text": " Pero ya."
+   },
+   {
+    "start": 37.0,
+    "end": 43.0,
+    "text": " Me estoy dando un plan ofy por como 4 horas más, creo."
+   },
+   {
+    "start": 43.0,
+    "end": 47.0,
+    "text": " Y después estoy frijos."
+   },
+   {
+    "start": 47.0,
+    "end": 51.0,
+    "text": " Pero si te sirve, podemos ponernos"
+   },
+   {
+    "start": 51.0,
+    "end": 56.0,
+    "text": " After work a ver cosas de vídeos"
+   },
+   {
+    "start": 56.0,
+    "end": 58.0,
+    "text": " o si te son útiles."
+   }
+  ],
+  "text": "Please. Entiendo muy bien cómo son secuencias superiores. Yo lo sé cero así de cosas de cine y cinevideos y todo eso. Pero sin explicar más o menos cómo necesitas o qué te sirve, o si es que te pareció preto y que te mande, podemos verlo hacer unas con las secuencias más hondas. Tienes así la imagen en el frame inicial de donde querés que empiece y vamos a devagarnos de hacer que el tren se vaya para enfrente y que el conductor salude y tipo un beso o lo que sea. Pero ya. Me estoy dando un plan ofy por como 4 horas más, creo. Y después estoy frijos. Pero si te sirve, podemos ponernos After work a ver cosas de vídeos o si te son útiles."
+ },
+ {
+  "file": "PTT-20250403-WA0038.opus",
+  "language": "es",
+  "language_probability": 0.8688636422157288,
+  "duration": 92.2578125,
+  "transcribed_at": "2026-07-25T13:21:14.395782+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.44,
+    "text": " ¿Es la pared? Necesitas más imágenes de tipo el campo en Paraguay y mitad de la nada con el camino de las alavías del tren,"
+   },
+   {
+    "start": 9.44,
+    "end": 17.44,
+    "text": " el tren de tracks, railroads, a pesos, y unas cuantas más imágenes de la parte adentro del tren, ¿verdad?"
+   },
+   {
+    "start": 17.44,
+    "end": 19.44,
+    "text": " Eh, bueno, flas de eso..."
+   },
+   {
+    "start": 23.44,
+    "end": 33.44,
+    "text": " Podemos buscar un flas del modelo del tren que se trajo seguramente a alguna parte y de ahí se puede buscar un flas de la parte adentro de ese, como se ve,"
+   },
+   {
+    "start": 33.44,
+    "end": 38.44,
+    "text": " y podemos pedirle onda un tren de este modelo y capaz de entender."
+   },
+   {
+    "start": 38.44,
+    "end": 41.44,
+    "text": " Y si no se puede buscar un internet, imágenes de referencia."
+   },
+   {
+    "start": 41.44,
+    "end": 47.44,
+    "text": " Porque visto que tipo, no sé, han de ser medio estándar, slash manda nomás uno o dos a Paraguay."
+   },
+   {
+    "start": 47.44,
+    "end": 52.44,
+    "text": " Los que eran de primer mundo, o sea, Europa y a los Estados Unidos."
+   },
+   {
+    "start": 54.44,
+    "end": 62.44,
+    "text": " Y entonces seguro van a haber imágenes de tipo, otros trenes iguales, pero yo qué sé, otros colores, guau."
+   },
+   {
+    "start": 62.44,
+    "end": 65.44,
+    "text": " Pero es igual, tipo, chat GPT y camino a los colores."
+   },
+   {
+    "start": 66.44,
+    "end": 73.44,
+    "text": " Eh, ya, serían imágenes, mitad de la nada, con railroads,"
+   },
+   {
+    "start": 73.44,
+    "end": 79.44,
+    "text": " y imágenes adentro del modelo del tren que está en Paraguay."
+   },
+   {
+    "start": 81.44,
+    "end": 85.44,
+    "text": " ¿Puedes preparar unos cuantos más de esos? ¿Necesitas algunos personajes en esas escenas?"
+   },
+   {
+    "start": 85.44,
+    "end": 88.44,
+    "text": " ¿Algunos puntos alista que prefieras?"
+   },
+   {
+    "start": 88.44,
+    "end": 92.44,
+    "text": " O, no sé, preparamos unos cuantos rambun."
+   }
+  ],
+  "text": "¿Es la pared? Necesitas más imágenes de tipo el campo en Paraguay y mitad de la nada con el camino de las alavías del tren, el tren de tracks, railroads, a pesos, y unas cuantas más imágenes de la parte adentro del tren, ¿verdad? Eh, bueno, flas de eso... Podemos buscar un flas del modelo del tren que se trajo seguramente a alguna parte y de ahí se puede buscar un flas de la parte adentro de ese, como se ve, y podemos pedirle onda un tren de este modelo y capaz de entender. Y si no se puede buscar un internet, imágenes de referencia. Porque visto que tipo, no sé, han de ser medio estándar, slash manda nomás uno o dos a Paraguay. Los que eran de primer mundo, o sea, Europa y a los Estados Unidos. Y entonces seguro van a haber imágenes de tipo, otros trenes iguales, pero yo qué sé, otros colores, guau. Pero es igual, tipo, chat GPT y camino a los colores. Eh, ya, serían imágenes, mitad de la nada, con railroads, y imágenes adentro del modelo del tren que está en Paraguay. ¿Puedes preparar unos cuantos más de esos? ¿Necesitas algunos personajes en esas escenas? ¿Algunos puntos alista que prefieras? O, no sé, preparamos unos cuantos rambun."
+ },
+ {
+  "file": "PTT-20250403-WA0040.opus",
+  "language": "es",
+  "language_probability": 0.9092881679534912,
+  "duration": 92.6778125,
+  "transcribed_at": "2026-07-25T13:30:18.045543+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " No estoy seguro a qué te referís con esto de Overdoing or Undeliver o de Paraguay."
+   },
+   {
+    "start": 10.0,
+    "end": 15.0,
+    "text": " Pretty sure que tipo, con una cuenta que me crea acá igual puedo acceder al Open..."
+   },
+   {
+    "start": 15.0,
+    "end": 18.0,
+    "text": " O sea, no es OpenAI, es de... ¿Cómo se llamaba?"
+   },
+   {
+    "start": 18.0,
+    "end": 21.0,
+    "text": " El Vision 4.0 creo que era."
+   },
+   {
+    "start": 21.0,
+    "end": 24.0,
+    "text": " En el video dice, pero..."
+   },
+   {
+    "start": 25.0,
+    "end": 29.0,
+    "text": " Es como la suscripción de OpenAI para chat GPT."
+   },
+   {
+    "start": 29.0,
+    "end": 33.0,
+    "text": " En el que tipo yo puedo pagar nomás el Paraguay y tengo así el Premium."
+   },
+   {
+    "start": 33.0,
+    "end": 39.0,
+    "text": " O sea, tengo el Plus porque el problema es demasiado caro y no necesito."
+   },
+   {
+    "start": 39.0,
+    "end": 45.0,
+    "text": " Y en el otro tipo también puedo hacer nomás con el más bajo, el que no queda 15, el otro era 35."
+   },
+   {
+    "start": 45.0,
+    "end": 47.0,
+    "text": " A ver, lo planifico."
+   },
+   {
+    "start": 48.0,
+    "end": 50.0,
+    "text": " Si, 15, 75."
+   },
+   {
+    "start": 50.0,
+    "end": 53.0,
+    "text": " Tipo, la única diferencia es que el 25 puede ya incluir voces."
+   },
+   {
+    "start": 53.0,
+    "end": 57.0,
+    "text": " Entonces, tipo, o sea, le podemos dar ya una voz a unos personajes y que..."
+   },
+   {
+    "start": 57.0,
+    "end": 60.0,
+    "text": " Abre las 100 guaraníes de fondo y que no entiendan nada a los..."
+   },
+   {
+    "start": 60.0,
+    "end": 62.0,
+    "text": " Le ponen subtítulos abajo."
+   },
+   {
+    "start": 66.0,
+    "end": 68.0,
+    "text": " Pero, pero ya..."
+   },
+   {
+    "start": 70.0,
+    "end": 73.0,
+    "text": " No estoy seguro a qué te referís por esos posibles issues."
+   },
+   {
+    "start": 73.0,
+    "end": 76.0,
+    "text": " Ya entiendo, no llegué a usar la aplicación, así que no estoy..."
+   },
+   {
+    "start": 76.0,
+    "end": 80.0,
+    "text": " No te puedo ser 100%, pero opino que va a ser onda el chat GPT."
+   },
+   {
+    "start": 80.0,
+    "end": 86.0,
+    "text": " Que tipo, te pagas la cuenta y tenés acceso a su herramienta de hacer videos."
+   },
+   {
+    "start": 86.0,
+    "end": 92.0,
+    "text": " Y no sé, la cantidad que pueda hacer es la cantidad que los tokens que me despermitan."
+   }
+  ],
+  "text": "No estoy seguro a qué te referís con esto de Overdoing or Undeliver o de Paraguay. Pretty sure que tipo, con una cuenta que me crea acá igual puedo acceder al Open... O sea, no es OpenAI, es de... ¿Cómo se llamaba? El Vision 4.0 creo que era. En el video dice, pero... Es como la suscripción de OpenAI para chat GPT. En el que tipo yo puedo pagar nomás el Paraguay y tengo así el Premium. O sea, tengo el Plus porque el problema es demasiado caro y no necesito. Y en el otro tipo también puedo hacer nomás con el más bajo, el que no queda 15, el otro era 35. A ver, lo planifico. Si, 15, 75. Tipo, la única diferencia es que el 25 puede ya incluir voces. Entonces, tipo, o sea, le podemos dar ya una voz a unos personajes y que... Abre las 100 guaraníes de fondo y que no entiendan nada a los... Le ponen subtítulos abajo. Pero, pero ya... No estoy seguro a qué te referís por esos posibles issues. Ya entiendo, no llegué a usar la aplicación, así que no estoy... No te puedo ser 100%, pero opino que va a ser onda el chat GPT. Que tipo, te pagas la cuenta y tenés acceso a su herramienta de hacer videos. Y no sé, la cantidad que pueda hacer es la cantidad que los tokens que me despermitan."
+ },
+ {
+  "file": "PTT-20250403-WA0041.opus",
+  "language": "es",
+  "language_probability": 0.9589180946350098,
+  "duration": 98.2978125,
+  "transcribed_at": "2026-07-25T13:47:44.650143+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Ya lo recién vi y son ondas 625 que de vuelta, pues sé cuántos créditos usa para hacer los videos."
+   },
+   {
+    "start": 9.0,
+    "end": 13.0,
+    "text": " Que ya, tipo no se, por ese lado tipo, o no se."
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " Puedo poner más yo, mira un flag que tal sale, testeo un flag"
+   },
+   {
+    "start": 16.0,
+    "end": 21.0,
+    "text": " y después hacemos una sesión en el que tipo le hace más más guided"
+   },
+   {
+    "start": 21.0,
+    "end": 25.0,
+    "text": " porque el video que genera, después le puedes editar de vuelta, tipo..."
+   },
+   {
+    "start": 26.0,
+    "end": 28.0,
+    "text": " No sé dónde es eso."
+   },
+   {
+    "start": 30.0,
+    "end": 36.0,
+    "text": " Porque a este tipo de paso puedes ver un flag como es y el output que salga va a estar mejor"
+   },
+   {
+    "start": 36.0,
+    "end": 40.0,
+    "text": " porque vas a saber lo que te va a servir más que yo."
+   },
+   {
+    "start": 40.0,
+    "end": 43.0,
+    "text": " Yo voy a decirle, ah, lindo video."
+   },
+   {
+    "start": 46.0,
+    "end": 48.0,
+    "text": " Pero yo..."
+   },
+   {
+    "start": 49.0,
+    "end": 52.0,
+    "text": " Avisar y le probo."
+   },
+   {
+    "start": 54.0,
+    "end": 57.0,
+    "text": " Igual me estoy a probar, tipo en algún momento voy a apagarle, no más para probar por mi cuenta"
+   },
+   {
+    "start": 57.0,
+    "end": 61.0,
+    "text": " porque también quiero hacer unos cuantos videos de animaciones y volverse a onda eso"
+   },
+   {
+    "start": 61.0,
+    "end": 64.0,
+    "text": " pero más por el fan of it."
+   },
+   {
+    "start": 64.0,
+    "end": 68.0,
+    "text": " Y por no ser, voy a buscar algún anime que sea así, un manga que sea así bien cortito"
+   },
+   {
+    "start": 68.0,
+    "end": 73.0,
+    "text": " que no esté adaptado todavía, o uno que sea no bien corto"
+   },
+   {
+    "start": 73.0,
+    "end": 78.0,
+    "text": " y ver un majo flag que también puede ser la animación de ese anime con chadgy piti"
+   },
+   {
+    "start": 78.0,
+    "end": 83.0,
+    "text": " y después de fan of it, pero no vas a hacer unas cuantas animaciones así de..."
+   },
+   {
+    "start": 83.0,
+    "end": 88.0,
+    "text": " negociamano, tipo de las mangas o... no sé."
+   },
+   {
+    "start": 88.0,
+    "end": 93.0,
+    "text": " Mira donde así presentar así de repente. Mira, fuerte."
+   },
+   {
+    "start": 96.0,
+    "end": 98.0,
+    "text": " Pero no sé."
+   }
+  ],
+  "text": "Ya lo recién vi y son ondas 625 que de vuelta, pues sé cuántos créditos usa para hacer los videos. Que ya, tipo no se, por ese lado tipo, o no se. Puedo poner más yo, mira un flag que tal sale, testeo un flag y después hacemos una sesión en el que tipo le hace más más guided porque el video que genera, después le puedes editar de vuelta, tipo... No sé dónde es eso. Porque a este tipo de paso puedes ver un flag como es y el output que salga va a estar mejor porque vas a saber lo que te va a servir más que yo. Yo voy a decirle, ah, lindo video. Pero yo... Avisar y le probo. Igual me estoy a probar, tipo en algún momento voy a apagarle, no más para probar por mi cuenta porque también quiero hacer unos cuantos videos de animaciones y volverse a onda eso pero más por el fan of it. Y por no ser, voy a buscar algún anime que sea así, un manga que sea así bien cortito que no esté adaptado todavía, o uno que sea no bien corto y ver un majo flag que también puede ser la animación de ese anime con chadgy piti y después de fan of it, pero no vas a hacer unas cuantas animaciones así de... negociamano, tipo de las mangas o... no sé. Mira donde así presentar así de repente. Mira, fuerte. Pero no sé."
+ },
+ {
+  "file": "PTT-20250331-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.9346394538879395,
+  "duration": 147.1978125,
+  "transcribed_at": "2026-07-25T19:37:15.390952+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Hola tío, ahora estoy en el otro trabajo, o sea, voy a trabajar en Frastalada 5 ish, y después le sigo viendo cosas"
+   },
+   {
+    "start": 8.0,
+    "end": 17.0,
+    "text": " Si es que te estira ver un fralo que prepare, está en el link, ese que es donde tiene más o menos por el capítulo, le puse una imagen"
+   },
+   {
+    "start": 17.0,
+    "end": 24.0,
+    "text": " Pero algunos ya no son más hiperrealistas, son más honda pintura por ahí, porque hiperrealista no le gusta el chachipiti, dice"
+   },
+   {
+    "start": 24.0,
+    "end": 37.0,
+    "text": " Espera, espera, espera, niño con rocket clothes, todo hecho puta, el chachipiti dice, no, no, no, no, no, no puedo generarte esto, campeón"
+   },
+   {
+    "start": 37.0,
+    "end": 43.0,
+    "text": " Entonces los algunos ya le dicen lo más honda medio artístico"
+   },
+   {
+    "start": 44.0,
+    "end": 50.0,
+    "text": " Y me vuelvo a ver si le puedo prepararme un videito para esas partes"
+   },
+   {
+    "start": 50.0,
+    "end": 57.0,
+    "text": " Pero def, honda del chachipiti da hora, o sea, el AI da hora, ya puedo hacer las imágenes"
+   },
+   {
+    "start": 57.0,
+    "end": 68.0,
+    "text": " En la parte más larga es que todos los AI para hacer imágenes, que Openly conozco, son unos filtros de caca estos"
+   },
+   {
+    "start": 69.0,
+    "end": 83.0,
+    "text": " Ah, puedo ver un fla de descargar uno que es para hacer self-hosting en el que tengo el IA, no servidor local, en una computadora que descargo e instalo, monto y preparo todo eso, es"
+   },
+   {
+    "start": 83.0,
+    "end": 92.0,
+    "text": " Y ahí podría ser de preguntas con menos filtros, porque no se va directo a la empresa de Openly ahí, y todo eso es política"
+   },
+   {
+    "start": 93.0,
+    "end": 104.0,
+    "text": " Pero ahí, de vuelta, en de lo que me fije en internet, tarda así un fla tipo 20 minutos a una hora para hacer una imagen, que estaría también un minuto de tiempo"
+   },
+   {
+    "start": 104.0,
+    "end": 109.0,
+    "text": " Y aquí necesitas para el martes, no creo que pueda preparar todo eso"
+   },
+   {
+    "start": 109.0,
+    "end": 119.0,
+    "text": " Voy a decir que sirven las imágenes medio artísticamente representadas, puedo agregarte unas cuantas más y preparas con eso el collage"
+   },
+   {
+    "start": 119.0,
+    "end": 127.0,
+    "text": " Slash, si es que te gustan los idiotos que preparé, slash, si es que parece que están ok, puedo preparar más de esos videos, slash te muestro como va a ser preparado"
+   },
+   {
+    "start": 129.0,
+    "end": 137.0,
+    "text": " Ahorita el plan va a ser con unos pochuritos de negrarle al jefe canadiense, y después le mira un fla los idiotos, la imagino otra vez"
+   },
+   {
+    "start": 137.0,
+    "end": 146.0,
+    "text": " Si es que le miras un fla y tenés any feedback review, o cosas que quieras cambiar, o es una que quieras agregar, de una"
+   }
+  ],
+  "text": "Hola tío, ahora estoy en el otro trabajo, o sea, voy a trabajar en Frastalada 5 ish, y después le sigo viendo cosas Si es que te estira ver un fralo que prepare, está en el link, ese que es donde tiene más o menos por el capítulo, le puse una imagen Pero algunos ya no son más hiperrealistas, son más honda pintura por ahí, porque hiperrealista no le gusta el chachipiti, dice Espera, espera, espera, niño con rocket clothes, todo hecho puta, el chachipiti dice, no, no, no, no, no, no puedo generarte esto, campeón Entonces los algunos ya le dicen lo más honda medio artístico Y me vuelvo a ver si le puedo prepararme un videito para esas partes Pero def, honda del chachipiti da hora, o sea, el AI da hora, ya puedo hacer las imágenes En la parte más larga es que todos los AI para hacer imágenes, que Openly conozco, son unos filtros de caca estos Ah, puedo ver un fla de descargar uno que es para hacer self-hosting en el que tengo el IA, no servidor local, en una computadora que descargo e instalo, monto y preparo todo eso, es Y ahí podría ser de preguntas con menos filtros, porque no se va directo a la empresa de Openly ahí, y todo eso es política Pero ahí, de vuelta, en de lo que me fije en internet, tarda así un fla tipo 20 minutos a una hora para hacer una imagen, que estaría también un minuto de tiempo Y aquí necesitas para el martes, no creo que pueda preparar todo eso Voy a decir que sirven las imágenes medio artísticamente representadas, puedo agregarte unas cuantas más y preparas con eso el collage Slash, si es que te gustan los idiotos que preparé, slash, si es que parece que están ok, puedo preparar más de esos videos, slash te muestro como va a ser preparado Ahorita el plan va a ser con unos pochuritos de negrarle al jefe canadiense, y después le mira un fla los idiotos, la imagino otra vez Si es que le miras un fla y tenés any feedback review, o cosas que quieras cambiar, o es una que quieras agregar, de una"
+ }
+]

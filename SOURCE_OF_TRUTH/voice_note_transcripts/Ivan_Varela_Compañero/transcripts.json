@@ -1,0 +1,182 @@
+[
+ {
+  "file": "PTT-20230804-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.8842204213142395,
+  "duration": 29.4978125,
+  "transcribed_at": "2026-07-24T16:30:54.458204+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.38,
+    "text": " ¿Qué mood? Ya ahora salvo de la universidad."
+   },
+   {
+    "start": 2.38,
+    "end": 4.88,
+    "text": " Me voy a ir a casa y voy a seguir leyendo cosas del trabajo."
+   },
+   {
+    "start": 5.38,
+    "end": 6.38,
+    "text": " Está a re-fan."
+   },
+   {
+    "start": 7.48,
+    "end": 10.78,
+    "text": " O sea, no a fan, pero tipo, no es así cosas paja de leer."
+   },
+   {
+    "start": 11.28,
+    "end": 13.46,
+    "text": " Bueno, caen dos pajas, pero tipo..."
+   },
+   {
+    "start": 14.16,
+    "end": 17.78,
+    "text": " cosas técnicas divertidas. O sea, no sé explicar, pero..."
+   },
+   {
+    "start": 17.78,
+    "end": 21.38,
+    "text": " No me da tan paja leer como cosas randomes de colegio. O sea, es la universidad."
+   },
+   {
+    "start": 21.62,
+    "end": 24.26,
+    "text": " Es tipo, actualmente, una información útil."
+   },
+   {
+    "start": 28.78,
+    "end": 29.78,
+    "text": " Yeah."
+   }
+  ],
+  "text": "¿Qué mood? Ya ahora salvo de la universidad. Me voy a ir a casa y voy a seguir leyendo cosas del trabajo. Está a re-fan. O sea, no a fan, pero tipo, no es así cosas paja de leer. Bueno, caen dos pajas, pero tipo... cosas técnicas divertidas. O sea, no sé explicar, pero... No me da tan paja leer como cosas randomes de colegio. O sea, es la universidad. Es tipo, actualmente, una información útil. Yeah."
+ },
+ {
+  "file": "PTT-20240222-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.7464778423309326,
+  "duration": 139.7378125,
+  "transcribed_at": "2026-07-25T19:51:14.581503+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.98,
+    "text": " Te dio un flaco a un texto, tengo un meeting en ocho minutos, pero él lea y yo usó el"
+   },
+   {
+    "start": 5.98,
+    "end": 17.96,
+    "text": " literal para todo, ahora mismo trabajo adecuado, quality assurance, y no sé, tenés que escribir"
+   },
+   {
+    "start": 17.96,
+    "end": 22.0,
+    "text": " un reporte, le das la información hasta el GPT, escribí un reporte en este tono"
+   },
+   {
+    "start": 22.0,
+    "end": 28.32,
+    "text": " con este largo error dirigido a tal persona por esta fecha, pa, pa, pa, pa, pa, pa."
+   },
+   {
+    "start": 28.32,
+    "end": 35.04,
+    "text": " Quality assurance hacen muchos test cases, que es escribir pruebas de sistemas, imaginate que tenés"
+   },
+   {
+    "start": 35.04,
+    "end": 40.52,
+    "text": " que probar el chat de whatsapp, límite de caracteres, qué símbolo se puede meter, que no hereré,"
+   },
+   {
+    "start": 40.52,
+    "end": 45.519999999999996,
+    "text": " toda información le pasaba al AI y decís, hacerme caso de prueba para éste,"
+   },
+   {
+    "start": 45.519999999999996,
+    "end": 50.879999999999995,
+    "text": " usualmente toda esa información está luego en un ticket para cada cosa que tenés que"
+   },
+   {
+    "start": 50.879999999999995,
+    "end": 54.6,
+    "text": " probar, entonces sacá la información del ticket, le pasás a el AI, le decías,"
+   },
+   {
+    "start": 54.68,
+    "end": 59.56,
+    "text": " semele las casas de prueba, ponerme todos los pasos, pa, pa, pa, pa, pa, pa, pa."
+   },
+   {
+    "start": 60.56,
+    "end": 67.92,
+    "text": " Y no sé, yo usé un montón para generación de casas de prueba, para generación de scripts de"
+   },
+   {
+    "start": 67.92,
+    "end": 76.76,
+    "text": " Pogman, para programación a full, tipo un montón de ejercicios de KK, te genera ya un código"
+   },
+   {
+    "start": 76.76,
+    "end": 81.52000000000001,
+    "text": " sámpago bastante decente que después modificas, no más, tipo, ah mira, esta parte no tiene"
+   },
+   {
+    "start": 81.64,
+    "end": 89.52,
+    "text": " sentido, la reglo yo, ya está, o le decía al AI, y esta cosa le reglas así, y te diga"
+   },
+   {
+    "start": 89.52,
+    "end": 96.6,
+    "text": " un nuevo código mejor, si no, yo que sé, vos creo que estabas en la economía y eso,"
+   },
+   {
+    "start": 96.6,
+    "end": 102.12,
+    "text": " imaginate que le podés fidear a un AI, toda información de un proyecto que estás haciendo"
+   },
+   {
+    "start": 102.12,
+    "end": 108.56,
+    "text": " y después le pedís no más, que tipo, terastructure para el tipo, imagete que tenés el AI con"
+   },
+   {
+    "start": 108.64,
+    "end": 114.52,
+    "text": " toda la información, todo el contexto, con todos los documentos que preparaste para un trabajo,"
+   },
+   {
+    "start": 114.52,
+    "end": 122.76,
+    "text": " el AI sabe todo eso ya, no te vas a hacer respuestas perfectas, siempre, pero te vas a generar,"
+   },
+   {
+    "start": 122.76,
+    "end": 126.64,
+    "text": " yo que sé, un cliente nuevo te pide, quiero tal cambio, me paso una revisión, tal cosa,"
+   },
+   {
+    "start": 126.64,
+    "end": 130.68,
+    "text": " pa, pa, pa, pa, pa, pa, pa, y le pedís no más, al AI, bueno, ha de explicarles estos cambios,"
+   },
+   {
+    "start": 130.68,
+    "end": 135.2,
+    "text": " generarme el documento, hacerme un markdown, le fue un markdown, le pasas a Word,"
+   },
+   {
+    "start": 135.2,
+    "end": 139.35999999999999,
+    "text": " convertís a documento y listo, tipo, no sé, yo uso para todo."
+   }
+  ],
+  "text": "Te dio un flaco a un texto, tengo un meeting en ocho minutos, pero él lea y yo usó el literal para todo, ahora mismo trabajo adecuado, quality assurance, y no sé, tenés que escribir un reporte, le das la información hasta el GPT, escribí un reporte en este tono con este largo error dirigido a tal persona por esta fecha, pa, pa, pa, pa, pa, pa. Quality assurance hacen muchos test cases, que es escribir pruebas de sistemas, imaginate que tenés que probar el chat de whatsapp, límite de caracteres, qué símbolo se puede meter, que no hereré, toda información le pasaba al AI y decís, hacerme caso de prueba para éste, usualmente toda esa información está luego en un ticket para cada cosa que tenés que probar, entonces sacá la información del ticket, le pasás a el AI, le decías, semele las casas de prueba, ponerme todos los pasos, pa, pa, pa, pa, pa, pa, pa. Y no sé, yo usé un montón para generación de casas de prueba, para generación de scripts de Pogman, para programación a full, tipo un montón de ejercicios de KK, te genera ya un código sámpago bastante decente que después modificas, no más, tipo, ah mira, esta parte no tiene sentido, la reglo yo, ya está, o le decía al AI, y esta cosa le reglas así, y te diga un nuevo código mejor, si no, yo que sé, vos creo que estabas en la economía y eso, imaginate que le podés fidear a un AI, toda información de un proyecto que estás haciendo y después le pedís no más, que tipo, terastructure para el tipo, imagete que tenés el AI con toda la información, todo el contexto, con todos los documentos que preparaste para un trabajo, el AI sabe todo eso ya, no te vas a hacer respuestas perfectas, siempre, pero te vas a generar, yo que sé, un cliente nuevo te pide, quiero tal cambio, me paso una revisión, tal cosa, pa, pa, pa, pa, pa, pa, pa, y le pedís no más, al AI, bueno, ha de explicarles estos cambios, generarme el documento, hacerme un markdown, le fue un markdown, le pasas a Word, convertís a documento y listo, tipo, no sé, yo uso para todo."
+ }
+]

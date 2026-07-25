@@ -1,0 +1,102 @@
+PTT-20250912-WA0032.opus | lang=es prob=0.9467496275901794 dur=8.8s
+------------------------------------------------------------
+[00:00.00 → 00:08.60] Trabajaba el server par y su almacenamiento de datos era un culo y le faltó soluciones de Big Data.
+PTT-20250912-WA0040.opus | lang=es prob=0.7947006225585938 dur=9.8s
+------------------------------------------------------------
+[00:00.00 → 00:06.08] Note AWS Azure DevOps Certificaciones, eso también le va a ser muy
+[00:06.08 → 00:09.52] nice a los gringos, por si estas te corre y querés saber las más certificaciones.
+PTT-20250912-WA0041.opus | lang=es prob=0.8210976719856262 dur=19.5s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Si tenés ninguna recomendación de certificaciones, para que le dea también.
+[00:05.00 → 00:13.00] Yo estoy realmente más en AI y en el contexto de engineering, pero siempre estoy para tratar de certificarme de cosas randomes.
+[00:13.00 → 00:19.00] Y lo voy cuando ofrecen. Si el trabajo puedo hacer todo con él, dan mis dos trabajos.
+PTT-20250912-WA0037.opus | lang=es prob=0.9312412142753601 dur=25.9s
+------------------------------------------------------------
+[00:00.00 → 00:09.84] Todas las cosas de tablets se hacen Databricks, Databricks es una plataforma en la nuben que
+[00:09.84 → 00:15.44] tipo puede partir las tablas enormes en diferentes subcomputadoras que trabajan al mismo tiempo,
+[00:15.44 → 00:19.48] o sea, todo un paralelo para hacer las transformaciones que quiere eso de las tablets.
+[00:19.48 → 00:24.92] Porque si no va a ser línea por línea en una tabla de un trillón de líneas, este es imposible.
+PTT-20250912-WA0039.opus | lang=es prob=0.9249920845031738 dur=32.8s
+------------------------------------------------------------
+[00:00.00 → 00:07.76] también tipo igual si es que no trabaja así en, como se llama, data engineering, tipo igual,
+[00:07.76 → 00:14.28] siempre te entiendes a todos los otros gringos, no solo a mi jefe, pero también le puedes
+[00:14.28 → 00:18.40] antear, digo, todos los siguientes trabajos, de decir, mirad, si yo entiendo tablas, puedo
+[00:18.40 → 00:24.28] hacer que tus tablas se carguen lindo y testear que no le entren noodles y todas
+[00:24.28 → 00:31.92] otras boludes es que se toman en cuenta para Big Data y un certificado que desea, dice que sabe eso.
+PTT-20250912-WA0038.opus | lang=es prob=0.8531897068023682 dur=52.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.96] Yo en 3D en hipotismo, no más, pues necesitaba hasta fear un proyecto, necesitaba manes que
+[00:05.96 → 00:11.44] puedan programar y que sean responsables, sepan inglés y puedan lidiar con clientes,
+[00:11.44 → 00:17.76] que tan que chido, me habló no más de lo que fui en la entrevista, ya da ya, porque
+[00:17.76 → 00:23.08] en Power Apps es low code, tú las quiero, soy tipo y tener un ingeniero informático
+[00:23.08 → 00:33.12] en haciendo eso que es overkill, pero las notificaciones para Databricks son tipo Apache Spark,
+[00:33.12 → 00:39.96] Databricks Associates, Databricks Certified Professional o algo así, tiene uno de Jenny y Ahi,
+[00:39.96 → 00:46.16] pero te irá a grabar onda de la Apache Spark y tipo los que son así de entrada, no más,
+[00:46.16 → 00:50.16] a no ser que tipo te interese demasiado uno de los otros, pero ahorita buscan más
+[00:50.16 → 00:52.28] Databricks Certification y te vas a ver en el mundo.
+PTT-20250912-WA0036.opus | lang=es prob=0.9483744502067566 dur=57.4s
+------------------------------------------------------------
+[00:00.00 → 00:07.50] De contexto, es el hermano de mi beca de buchita antes era agropecuario, pero ahora se certificó
+[00:07.50 → 00:12.70] ISTQB y quiere embodarse a Cuba. Si un por ciento nuevo va a ser en todo, no, le va a servir para
+[00:12.70 → 00:23.10] hacer las cosas densas, pero tipo no sé. Le metió la garra de irse así de agropecuaria a meterse
+[00:23.10 → 00:35.66] ISTQB y certificarse. Y no sé, era también nene de videojuegos así. Se hubiera ido a Info, pero no tenía
+[00:35.66 → 00:45.60] las chances de estudiar eso. Por lo menos eso es lo que tengo entendido. Pero no sé, entiendo al menos
+[00:45.60 → 00:57.12] inglés capaz de estén un flash y todavía comienzo porque es de San Juan. Pero no sé, está certificado.
+PTT-20250912-WA0031.opus | lang=es prob=0.9086779952049255 dur=110.3s
+------------------------------------------------------------
+[00:00.00 → 00:07.60] literales ha sido. No sé, no dicen, ésta es nuestra base de datos, ésta es lo que queremos que tenga esa lia
+[00:08.80 → 00:15.84] fuerza y no sé, tenés que aceptar la bronze silver gold en el que bronze es literal el garbage del
+[00:15.84 → 00:22.80] cliente, el silver tiene la transformación aquí que es tipo que no tenga nudes, que no tenga
+[00:22.80 → 00:31.20] fechas inconsistentes, todo el mismo formato, de arreglato y tonflado, todo nice y después en gold saca de la info que querés.
+[00:33.20 → 00:43.20] Eres bastante relativamente simple, tonflado es SQL, y no sé, la conferencia de abrir también estaba bastante hecheta
+[00:43.20 → 00:52.40] y hay bastante dinero en eso, tipo, no sé, si tipo entraras tipo, si tipo que hay gente le digo no mal jefe, hola mirá
+[00:53.20 → 01:01.60] a cada un amigo que tiene un certificado que capaz te interesa, tipo no sé, si sin ramas, pero realmente van a decir
+[01:01.60 → 01:09.20] ah ya voy a ver tonflado, yo le quiero entrevistar, pero no es tipo, ah bueno referencia y van, ya
+[01:09.20 → 01:16.80] tienes vas haciendo diva, guerra, donde legalmente todo el tiempo, ah, al inicio esta hasta feado
+[01:16.80 → 01:24.40] un proyecto de power ups que es unas cosas querosa, y ahora ya estoy haciendo código de vuelta, ya estoy feliz, estoy, nice
+[01:27.20 → 01:35.60] Pero Rachel, de vuelta, si es que no trajo un Stoic Finch, hay bastantes empresas que están saliendo con Databricks
+[01:36.40 → 01:43.20] y bastantes negocios, inclusive en Paraguay, a que le puedes decir hey, tenéis estos datos
+[01:43.20 → 01:49.60] y la se ve bien o mal, porque tipo a un carajo no saben tener sus datos la gente, Dios mío
+PTT-20250912-WA0030.opus | lang=es prob=0.8025448322296143 dur=161.7s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Uff, bueno yo la estoy recontrajando, acabo de llegar a la quesadilla que no la da.
+[00:08.00 → 00:11.00] Yo estoy haciendo ahora Data Engineering por Stoic Finch,
+[00:11.00 → 00:15.00] y voy a empezar andando un canadiense que un combate entró por certificarse en algo
+[00:15.00 → 00:17.00] y le dijo algo al jefe.
+[00:18.00 → 00:20.00] Esto es conocido, saben programar.
+[00:21.00 → 00:24.00] Y entramos haciendo Data Engineering en Francia ICD.
+[00:25.00 → 00:31.00] Imagínate, automatización de Big Excel.
+[00:33.00 → 00:34.00] Pretty much.
+[00:34.00 → 00:39.00] Y a eso lo que hacemos y la empresa de Achille me pagaron 8.50 bill weekly.
+[00:40.00 → 00:43.00] Tengo que certificarme unas juntas por la semana para pagar más.
+[00:43.00 → 00:46.00] Mi compañero gana 32 palos al mes.
+[00:47.00 → 00:49.00] Pero él le recontrapró.
+[00:50.00 → 00:52.00] Capaz si certificó todo también por ahí.
+[00:52.00 → 00:53.00] Tengo que ver.
+[00:54.00 → 00:56.00] Tengo que enserrarme a certificar a la puta madre.
+[00:58.00 → 00:59.00] Pero no sé.
+[00:59.00 → 01:01.00] El jefe en Tipo Naspago viajó a San Francisco.
+[01:01.00 → 01:02.00] ¿Lo has pasado?
+[01:03.00 → 01:04.00] Nos puso un hotel Chetón.
+[01:05.00 → 01:09.00] Todas las conferencias, todos los comidas, todo el evento, todo el tasto de día y ya va.
+[01:10.00 → 01:11.00] Y ahora nos ando acá nada.
+[01:13.00 → 01:15.00] Y bastante pura pero...
+[01:16.00 → 01:19.00] Pero no sé si es que pagan bastante.
+[01:19.00 → 01:21.00] Estoy también interesado en hacerlo de CUA.
+[01:23.00 → 01:24.00] Slash.
+[01:27.00 → 01:28.00] Dependiendo qué necesitan.
+[01:29.00 → 01:32.00] Puedo hacer un desay también si es que tipo es una cosa bullshit.
+[01:34.00 → 01:36.00] Tipo no hacer una página web así.
+[01:36.00 → 01:38.00] Tipo no sé qué es su proyecto tipo en todo el contexto.
+[01:39.00 → 01:43.00] Pero gran parte de CUA Automation yo creo que puedo hacer con context engineering.
+[01:43.00 → 01:45.00] Y es lo que estoy haciendo.
+[01:45.00 → 01:49.00] Tipo ya hago full pipelines de data engineering, full vibe codeado.
+[01:49.00 → 01:54.00] Pero haciéndole context engineering en el que tipo le doy así el contexto de que estamos queriendo hacer.
+[01:55.00 → 01:58.00] Que funciona ya necesitas qué pasa y nada, nada, nada, nada, nada.
+[01:58.00 → 02:00.00] Toda que exceso necesitan.
+[02:01.00 → 02:08.00] No sé qué necesita para tener el contexto completo para poder trabajar en el zone.
+[02:08.00 → 02:10.00] Y por lo que le pasó es que él gira entero.
+[02:10.00 → 02:20.96] volirle paso hacia el gilandero y gran parte de lo que era coautomation de lo que llegue a hacer
+[02:20.96 → 02:28.24] yo creo que con pasarle hacia el html yo te puedo hacer casi todo al menos a mi en todas las veces
+[02:28.24 → 02:35.60] que le tuve que hacer después de random, así hago, tipo, osea, de que pido el proyecto a ver
+[02:35.60 → 02:41.44] qué tan interesantes, los players que yo estoy leyendo, el poro acá es buenísimo

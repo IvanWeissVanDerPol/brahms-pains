@@ -1,0 +1,9 @@
+PTT-20240423-WA0020.opus | lang=es prob=0.9723106026649475 dur=56.1s
+------------------------------------------------------------
+[00:00.00 → 00:09.72] Hola Iván, ¿cómo estás? Les voy a escribir también por el chat de Teams, que tal pudiste
+[00:09.72 → 00:16.72] contactar con alguien en particular, normalmente tenés que de alguna manera abrir un ticket
+[00:16.72 → 00:26.48] escribiendo a vgsupportarobamentorme.com, eso es lo primero que tenés que hacer como para
+[00:26.48 → 00:33.76] dejar registro del problema y eventualmente si tienen una solución común ellos muy rápido te responden.
+[00:35.76 → 00:43.04] Hay veces que el problema es de autenticación con el teléfono o con la cuenta y ellos lo que hacen
+[00:43.04 → 00:52.88] es resetear ciertos permisos o bien, ser permisivos por una sola vez para que puedas entrar y a partir
+[00:52.88 → 00:55.84] de ahí te piden realmente autenticar.

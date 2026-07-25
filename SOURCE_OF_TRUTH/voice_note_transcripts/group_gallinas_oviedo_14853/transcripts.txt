@@ -16,3 +16,12 @@ AUD-20260406-WA0020.opus | lang=es prob=0.9365783333778381 dur=50.1s
 [00:34.88 → 00:43.00] Eso es lo que quiero yo guardar y eso, como para verme un formato de excel para que yo
 [00:43.00 → 00:48.92] le pueda dictar en un audio nomás para que me cargue y no tenga que estar tecleando yo para
 [00:48.92 → 00:49.96] guardar en el excel.
+PTT-20260406-WA0014.opus | lang=es prob=0.9408997893333435 dur=77.7s
+------------------------------------------------------------
+[00:00.00 → 00:19.36] Hay aproximadamente 8.509 de mis gallinas, sacan como el 85% en promedio, creo, no estoy
+[00:19.36 → 00:27.32] seguro, la raza si no se, es de la verdad te voy a tener que decir, la edad depende porque
+[00:27.32 → 00:33.44] hay tres galpones y cada galpón tiene una cantidad distinta de gallinas, la cantidad
+[00:33.44 → 00:38.56] específica también de cada galpón te tiene que decir Laura, pero creo que era algo así como
+[00:38.56 → 00:57.76] 2000, 2500 y 3500, por ahora no vale comprar más, la edad de comer balanceado pero el precio
+[00:57.76 → 01:04.04] tiene que decir Laura, el alimento también tiene que decir de dónde compra, cuánto se
+[01:04.04 → 01:15.84] gastó por mes, si los otros ya son muy específicos ya, a ver un poco si funciona del audio

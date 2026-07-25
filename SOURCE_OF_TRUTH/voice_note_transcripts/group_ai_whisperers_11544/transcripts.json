@@ -773,5 +773,930 @@
    }
   ],
   "text": "¿Dónde hay alguien? Yo no sé, ¿tendría más que tengo? Para mí se ven luego fias todas las rameras. ¿Y no más dije? Si, esta idea de Jamie me dice que se ve como cosito para abuela. Que tengo extra de wifi. ¿Alguna vez? Bueno no, también me ves de tres huevos la parte de eso. Como sabes, tipo, mi idea es voy a ir de f**king mago. Pero chill, no sé, de rameras y eso es la cosa menos importante entre todas las cosas que estamos viendo. Not worth any work, me effort, en mi opinión ahorita cuando se tiene más prioridad de ver todos los propósitos, plans, los staff para la mierda a Orlando investigación de todos los cositos que queremos hacer en Google."
+ },
+ {
+  "file": "PTT-20250826-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.967945396900177,
+  "duration": 58.5178125,
+  "transcribed_at": "2026-07-25T05:27:31.556545+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 13.0,
+    "text": " Este audio es más o menos para ir a un flag como dividirse, en Kiryan le está viendo un flag lo de frontend y creo que entiende ya o tiene la idea de que es lo que quiere el cliente."
+   },
+   {
+    "start": 14.0,
+    "end": 21.0,
+    "text": " Y anteriormente estaba hecho en Streamlit que era asqueroso y ahora reíse todo de vuelta ayer."
+   },
+   {
+    "start": 21.0,
+    "end": 24.0,
+    "text": " O sea no reíse todo, o sea le hice el IAC que haga todo eso."
+   },
+   {
+    "start": 24.0,
+    "end": 28.0,
+    "text": " Pero le mude a FastAPI con React."
+   },
+   {
+    "start": 30.0,
+    "end": 35.0,
+    "text": " Kiryan creo que iba a ponerse un flag para hacer que se vea como ella quiera, que esté lindito."
+   },
+   {
+    "start": 36.0,
+    "end": 38.0,
+    "text": " Entonces se encarga ella del frontend."
+   },
+   {
+    "start": 39.0,
+    "end": 48.0,
+    "text": " Y si podías llevarle un flag con la parte del backend y después ver un flag con todo que lo funcione y los apis y todo eso."
+   },
+   {
+    "start": 49.0,
+    "end": 51.0,
+    "text": " Ya."
+   },
+   {
+    "start": 52.0,
+    "end": 58.0,
+    "text": " Básicamente es, le pasás un excel, tienes que hacer unos análisis y darte un excel para descargarlo."
+   }
+  ],
+  "text": "Este audio es más o menos para ir a un flag como dividirse, en Kiryan le está viendo un flag lo de frontend y creo que entiende ya o tiene la idea de que es lo que quiere el cliente. Y anteriormente estaba hecho en Streamlit que era asqueroso y ahora reíse todo de vuelta ayer. O sea no reíse todo, o sea le hice el IAC que haga todo eso. Pero le mude a FastAPI con React. Kiryan creo que iba a ponerse un flag para hacer que se vea como ella quiera, que esté lindito. Entonces se encarga ella del frontend. Y si podías llevarle un flag con la parte del backend y después ver un flag con todo que lo funcione y los apis y todo eso. Ya. Básicamente es, le pasás un excel, tienes que hacer unos análisis y darte un excel para descargarlo."
+ },
+ {
+  "file": "PTT-20250918-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.8063283562660217,
+  "duration": 72.4178125,
+  "transcribed_at": "2026-07-25T06:15:29.214650+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.8000000000000003,
+    "text": " Good morning, chistoso, le dieron horas."
+   },
+   {
+    "start": 2.8000000000000003,
+    "end": 7.0,
+    "text": " Nice, ya sé, buen maldito en esto, vamos a vendrernos mejores."
+   },
+   {
+    "start": 11.0,
+    "end": 13.5,
+    "text": " Nice, qué bueno que sirva la base de datos, eso."
+   },
+   {
+    "start": 25.8,
+    "end": 28.1,
+    "text": " Sí, nos mejora hacer lo de personal y después"
+   },
+   {
+    "start": 28.1,
+    "end": 34.1,
+    "text": " vemos los detalles y entonces vamos a ver también a la vuelta."
+   },
+   {
+    "start": 34.1,
+    "end": 39.1,
+    "text": " Pero yo le digo que todo el contenido de lo que vamos a enseñar"
+   },
+   {
+    "start": 39.1,
+    "end": 46.1,
+    "text": " que básicamente se ha distillado no más de los videos de los mejores youtubers de estos temas."
+   },
+   {
+    "start": 46.1,
+    "end": 51.1,
+    "text": " Tipo, George Dill realmente haría no más un..."
+   },
+   {
+    "start": 51.1,
+    "end": 58.1,
+    "text": " primero buscarle a unos 20 youtubers de como usaría."
+   },
+   {
+    "start": 58.1,
+    "end": 62.1,
+    "text": " Y el siguiente paso es convertir todos esos videos a transcripciones"
+   },
+   {
+    "start": 62.1,
+    "end": 69.1,
+    "text": " y decirle al ya que analice las transcripciones para de qué hacer cada contenido."
+   },
+   {
+    "start": 69.1,
+    "end": 73.1,
+    "text": " En base a todos los videos de todos los youtubers."
+   }
+  ],
+  "text": "Good morning, chistoso, le dieron horas. Nice, ya sé, buen maldito en esto, vamos a vendrernos mejores. Nice, qué bueno que sirva la base de datos, eso. Sí, nos mejora hacer lo de personal y después vemos los detalles y entonces vamos a ver también a la vuelta. Pero yo le digo que todo el contenido de lo que vamos a enseñar que básicamente se ha distillado no más de los videos de los mejores youtubers de estos temas. Tipo, George Dill realmente haría no más un... primero buscarle a unos 20 youtubers de como usaría. Y el siguiente paso es convertir todos esos videos a transcripciones y decirle al ya que analice las transcripciones para de qué hacer cada contenido. En base a todos los videos de todos los youtubers."
+ },
+ {
+  "file": "PTT-20250918-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.889866054058075,
+  "duration": 62.3378125,
+  "transcribed_at": "2026-07-25T06:50:57.025482+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " By the way, parece que ha habido un evento de testing para QA en Paraguay."
+   },
+   {
+    "start": 6.0,
+    "end": 13.0,
+    "text": " Para ese evento, estaría relativamente interesante hacer una presentación de cómo hacer QA Automation con ya."
+   },
+   {
+    "start": 14.0,
+    "end": 16.0,
+    "text": " Slashla charla rápida."
+   },
+   {
+    "start": 17.0,
+    "end": 21.0,
+    "text": " Litu podemos hacer la página web que hicimos para personal."
+   },
+   {
+    "start": 22.0,
+    "end": 25.0,
+    "text": " Y hacer para eso el PageObjectModel."
+   },
+   {
+    "start": 25.0,
+    "end": 29.0,
+    "text": " Este es el PageObjectModel."
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " Ahora vamos a agregar las funciones."
+   },
+   {
+    "start": 32.0,
+    "end": 34.0,
+    "text": " Estas son las funciones que queremos agregar."
+   },
+   {
+    "start": 34.0,
+    "end": 35.0,
+    "text": " Agregó las funciones."
+   },
+   {
+    "start": 35.0,
+    "end": 36.0,
+    "text": " Vamos a probar."
+   },
+   {
+    "start": 36.0,
+    "end": 45.0,
+    "text": " Y que ya esté todo el framework listo para mostrar Live como no genera el código de QA Automation para la página."
+   },
+   {
+    "start": 45.0,
+    "end": 49.0,
+    "text": " Me parece que sería relativamente por este demostrar."
+   },
+   {
+    "start": 50.0,
+    "end": 53.0,
+    "text": " Ahora después de ofrecerle servicios de QA Automation a la empresa si quieren."
+   },
+   {
+    "start": 53.0,
+    "end": 58.0,
+    "text": " Slash como usar, enseñarles cómo usar ya a empresas con muchos QA."
+   },
+   {
+    "start": 60.0,
+    "end": 62.0,
+    "text": " Slash Bullshit, onda eso."
+   }
+  ],
+  "text": "By the way, parece que ha habido un evento de testing para QA en Paraguay. Para ese evento, estaría relativamente interesante hacer una presentación de cómo hacer QA Automation con ya. Slashla charla rápida. Litu podemos hacer la página web que hicimos para personal. Y hacer para eso el PageObjectModel. Este es el PageObjectModel. Ahora vamos a agregar las funciones. Estas son las funciones que queremos agregar. Agregó las funciones. Vamos a probar. Y que ya esté todo el framework listo para mostrar Live como no genera el código de QA Automation para la página. Me parece que sería relativamente por este demostrar. Ahora después de ofrecerle servicios de QA Automation a la empresa si quieren. Slash como usar, enseñarles cómo usar ya a empresas con muchos QA. Slash Bullshit, onda eso."
+ },
+ {
+  "file": "PTT-20250909-WA0042.opus",
+  "language": "es",
+  "language_probability": 0.8320389986038208,
+  "duration": 81.6778125,
+  "transcribed_at": "2026-07-25T10:09:33.236243+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.6,
+    "text": " A poco, me parece perfecto si lo haces así, como le quieran pero yo recomiendo más a"
+   },
+   {
+    "start": 8.6,
+    "end": 14.040000000000001,
+    "text": " lluvia porque es lo que este no sonde acá en 16 inch y porque vos andes de repente"
+   },
+   {
+    "start": 14.040000000000001,
+    "end": 21.96,
+    "text": " en el primer mundo para probar usarle, pero real usarle no, si puedo, como les parezca"
+   },
+   {
+    "start": 21.96,
+    "end": 26.92,
+    "text": " más práctico, más rápido, más fácil de usar, metanla así, y ni sin que quiera"
+   },
+   {
+    "start": 26.92,
+    "end": 34.2,
+    "text": " implementarle, se re-diabaguen, aprendan a usar las herramientas y hacer que sea lo"
+   },
+   {
+    "start": 34.2,
+    "end": 39.32,
+    "text": " más eficiente posible de todos los diabagues, y después hacemos un flower brainstorm de"
+   },
+   {
+    "start": 39.32,
+    "end": 44.120000000000005,
+    "text": " qué otros diabagues hacer y algo por llegar y qué preparar y después a quién"
+   },
+   {
+    "start": 44.120000000000005,
+    "end": 52.52,
+    "text": " entandearle, o eso aquí podemos mejorar el archer cuando tengamos mejor, y si el"
+   },
+   {
+    "start": 52.52,
+    "end": 58.32,
+    "text": " primero es que tener preparados qué mierda tenemos y después lo embudamos al archer, si"
+   },
+   {
+    "start": 58.32,
+    "end": 62.800000000000004,
+    "text": " quieren más en todo caso, pero por mi es rechela ser más tranquita, y quiero nomás que"
+   },
+   {
+    "start": 62.800000000000004,
+    "end": 67.72,
+    "text": " les sea más fácil trabajar a todos en todos los diabagueses y configurar ya bien todos"
+   },
+   {
+    "start": 67.72,
+    "end": 73.28,
+    "text": " los permisos y todos los sheets, y eso es claro, pues los calibros grandes existen"
+   }
+  ],
+  "text": "A poco, me parece perfecto si lo haces así, como le quieran pero yo recomiendo más a lluvia porque es lo que este no sonde acá en 16 inch y porque vos andes de repente en el primer mundo para probar usarle, pero real usarle no, si puedo, como les parezca más práctico, más rápido, más fácil de usar, metanla así, y ni sin que quiera implementarle, se re-diabaguen, aprendan a usar las herramientas y hacer que sea lo más eficiente posible de todos los diabagues, y después hacemos un flower brainstorm de qué otros diabagues hacer y algo por llegar y qué preparar y después a quién entandearle, o eso aquí podemos mejorar el archer cuando tengamos mejor, y si el primero es que tener preparados qué mierda tenemos y después lo embudamos al archer, si quieren más en todo caso, pero por mi es rechela ser más tranquita, y quiero nomás que les sea más fácil trabajar a todos en todos los diabagueses y configurar ya bien todos los permisos y todos los sheets, y eso es claro, pues los calibros grandes existen"
+ },
+ {
+  "file": "PTT-20250909-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.8986210823059082,
+  "duration": 86.3978125,
+  "transcribed_at": "2026-07-25T12:58:42.284897+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Básicamente, en un proyecto de este company information, lo que estoy haciendo es, más o menos, que desde este proyecto"
+   },
+   {
+    "start": 8.0,
+    "end": 20.0,
+    "text": " se puedan recibir información de los repositorios y también editar los repositorios en el sentido de que, por ejemplo,"
+   },
+   {
+    "start": 20.0,
+    "end": 25.0,
+    "text": " queremos tener un updated report de cómo están todos los proyectos en general,"
+   },
+   {
+    "start": 26.0,
+    "end": 35.0,
+    "text": " el proyecto en sí tiene el contexto básico de qué es lo que tiene que hacer el proyecto"
+   },
+   {
+    "start": 38.0,
+    "end": 43.0,
+    "text": " y, en base a esto, verifica qué tan hechos están los proyectos"
+   },
+   {
+    "start": 43.0,
+    "end": 51.0,
+    "text": " y, por ejemplo, desde este proyecto nomás se crean los todos para tipo todas las cosas que se tienen que hacer en los proyectos"
+   },
+   {
+    "start": 51.0,
+    "end": 60.0,
+    "text": " y estos todos directamente se van a, como se dice, estos mismos todos están en los files de los proyectos"
+   },
+   {
+    "start": 60.0,
+    "end": 64.0,
+    "text": " así en los proyectos mismos ya están los todos, ya están las cosas que se tienen que hacer"
+   },
+   {
+    "start": 64.0,
+    "end": 68.0,
+    "text": " y tipo ponerle que vas a trabajar en este, verificar el todo de las cosas que hay que hacer"
+   },
+   {
+    "start": 68.0,
+    "end": 74.0,
+    "text": " y, en base a eso, continuar trabajando en ese proyecto, no sé qué piensan de eso"
+   },
+   {
+    "start": 74.0,
+    "end": 79.0,
+    "text": " porque estoy viendo que en la SURE nadie realmente está utilizando, está funcionando también"
+   },
+   {
+    "start": 79.0,
+    "end": 86.0,
+    "text": " y este tipo es mucho más automatizado que usar SURE como un tercero, sería."
+   }
+  ],
+  "text": "Básicamente, en un proyecto de este company information, lo que estoy haciendo es, más o menos, que desde este proyecto se puedan recibir información de los repositorios y también editar los repositorios en el sentido de que, por ejemplo, queremos tener un updated report de cómo están todos los proyectos en general, el proyecto en sí tiene el contexto básico de qué es lo que tiene que hacer el proyecto y, en base a esto, verifica qué tan hechos están los proyectos y, por ejemplo, desde este proyecto nomás se crean los todos para tipo todas las cosas que se tienen que hacer en los proyectos y estos todos directamente se van a, como se dice, estos mismos todos están en los files de los proyectos así en los proyectos mismos ya están los todos, ya están las cosas que se tienen que hacer y tipo ponerle que vas a trabajar en este, verificar el todo de las cosas que hay que hacer y, en base a eso, continuar trabajando en ese proyecto, no sé qué piensan de eso porque estoy viendo que en la SURE nadie realmente está utilizando, está funcionando también y este tipo es mucho más automatizado que usar SURE como un tercero, sería."
+ },
+ {
+  "file": "PTT-20251015-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.8700619339942932,
+  "duration": 118.1978125,
+  "transcribed_at": "2026-07-25T16:42:16.896368+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.12,
+    "text": " ¡Oh! Dice sueños."
+   },
+   {
+    "start": 2.12,
+    "end": 9.120000000000001,
+    "text": " No, Red Chill en tipo, para mí puede ser cheesy, cursi cuanto quieras, tipo, no sé, bueno, ¿o no que te expreses?"
+   },
+   {
+    "start": 14.48,
+    "end": 15.48,
+    "text": " Red Chill."
+   },
+   {
+    "start": 16.28,
+    "end": 18.96,
+    "text": " ¿Qué me te vamos a decir? ¡Oh, no!"
+   },
+   {
+    "start": 19.32,
+    "end": 21.32,
+    "text": " ¡Está disfrutando del trabajo!"
+   },
+   {
+    "start": 22.76,
+    "end": 24.92,
+    "text": " Recontra Chill, pero... ¡Oh, don't worry!"
+   },
+   {
+    "start": 25.44,
+    "end": 27.44,
+    "text": " ¡Está re-welcome!"
+   },
+   {
+    "start": 28.44,
+    "end": 29.44,
+    "text": " ¡Ah!"
+   },
+   {
+    "start": 30.44,
+    "end": 33.44,
+    "text": " Me alegro que estés pasando bien y aprendiendo un montón."
+   },
+   {
+    "start": 36.44,
+    "end": 43.44,
+    "text": " Es decir, les doy un tip sobre un flag aquí donde preparar la negociación, onda extraer del proyecto de personal todo lo que se hizo,"
+   },
+   {
+    "start": 44.44,
+    "end": 49.44,
+    "text": " unos cuantos reportes y sacar así números en base de cuánto cobrar en base a eso con él."
+   },
+   {
+    "start": 49.44,
+    "end": 53.44,
+    "text": " Hay contexto también de la negociación de un flag, es que..."
+   },
+   {
+    "start": 54.44,
+    "end": 60.44,
+    "text": " eso voy a tener, voy a ser tipo una mini charla para señoras en un tipo, no sé si se..."
+   },
+   {
+    "start": 61.44,
+    "end": 62.44,
+    "text": " En un club de Chetos."
+   },
+   {
+    "start": 62.44,
+    "end": 68.44,
+    "text": " En un club de Chetos, o sea, de señoras que tienen esposos Chetos, que se van a ir a aprender a hacer charles que te vas a comenzar."
+   },
+   {
+    "start": 70.44,
+    "end": 73.44,
+    "text": " Y tengo que ver porque Luana se suponía que me hizo toda la presentación,"
+   },
+   {
+    "start": 74.44,
+    "end": 77.44,
+    "text": " pero al final terminé de hacer otro hito con Gama."
+   },
+   {
+    "start": 78.44,
+    "end": 79.44,
+    "text": " Y..."
+   },
+   {
+    "start": 80.44,
+    "end": 82.44,
+    "text": " ¡Eso! Te muevo el agarro."
+   },
+   {
+    "start": 83.44,
+    "end": 84.44,
+    "text": " Mucha gama que te haga el final."
+   },
+   {
+    "start": 85.44,
+    "end": 90.44,
+    "text": " Y por eso le tengo una compañera, una amiga que es profesora, y me ha recóngalo de tips para dar presentación."
+   },
+   {
+    "start": 92.44,
+    "end": 93.44,
+    "text": " Y eso."
+   },
+   {
+    "start": 94.44,
+    "end": 100.44,
+    "text": " De este puedo pasar todo lo que tipo de los que yo les voy a hablar y si puedo, si querés, puedes hacer así tipo un documentation,"
+   },
+   {
+    "start": 101.44,
+    "end": 106.44,
+    "text": " tipo para las personas que van a querer después de la charla tipo info extra para tener."
+   },
+   {
+    "start": 107.44,
+    "end": 109.44,
+    "text": " Y me voy a hacer ese archivo, por ejemplo."
+   },
+   {
+    "start": 110.44,
+    "end": 112.44,
+    "text": " No, me voy a operar otro día."
+   },
+   {
+    "start": 113.44,
+    "end": 115.44,
+    "text": " Ahora, hasta te quedo de dormir y a darle limitas a tu novia."
+   },
+   {
+    "start": 115.44,
+    "end": 117.44,
+    "text": " Exactamente. Descansa, perro."
+   }
+  ],
+  "text": "¡Oh! Dice sueños. No, Red Chill en tipo, para mí puede ser cheesy, cursi cuanto quieras, tipo, no sé, bueno, ¿o no que te expreses? Red Chill. ¿Qué me te vamos a decir? ¡Oh, no! ¡Está disfrutando del trabajo! Recontra Chill, pero... ¡Oh, don't worry! ¡Está re-welcome! ¡Ah! Me alegro que estés pasando bien y aprendiendo un montón. Es decir, les doy un tip sobre un flag aquí donde preparar la negociación, onda extraer del proyecto de personal todo lo que se hizo, unos cuantos reportes y sacar así números en base de cuánto cobrar en base a eso con él. Hay contexto también de la negociación de un flag, es que... eso voy a tener, voy a ser tipo una mini charla para señoras en un tipo, no sé si se... En un club de Chetos. En un club de Chetos, o sea, de señoras que tienen esposos Chetos, que se van a ir a aprender a hacer charles que te vas a comenzar. Y tengo que ver porque Luana se suponía que me hizo toda la presentación, pero al final terminé de hacer otro hito con Gama. Y... ¡Eso! Te muevo el agarro. Mucha gama que te haga el final. Y por eso le tengo una compañera, una amiga que es profesora, y me ha recóngalo de tips para dar presentación. Y eso. De este puedo pasar todo lo que tipo de los que yo les voy a hablar y si puedo, si querés, puedes hacer así tipo un documentation, tipo para las personas que van a querer después de la charla tipo info extra para tener. Y me voy a hacer ese archivo, por ejemplo. No, me voy a operar otro día. Ahora, hasta te quedo de dormir y a darle limitas a tu novia. Exactamente. Descansa, perro."
+ },
+ {
+  "file": "PTT-20260218-WA0020.opus",
+  "language": "en",
+  "language_probability": 0.6563072800636292,
+  "duration": 154.0178125,
+  "transcribed_at": "2026-07-25T18:58:10.507579+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " I'm sorry."
+   },
+   {
+    "start": 2.0,
+    "end": 3.0,
+    "text": " Yeah?"
+   },
+   {
+    "start": 3.0,
+    "end": 4.0,
+    "text": " Have you done?"
+   },
+   {
+    "start": 4.0,
+    "end": 5.0,
+    "text": " I hear you."
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " Yeah, yeah, yeah."
+   },
+   {
+    "start": 7.0,
+    "end": 10.0,
+    "text": " It's the teaching."
+   },
+   {
+    "start": 14.0,
+    "end": 17.0,
+    "text": " Several things more."
+   },
+   {
+    "start": 17.0,
+    "end": 27.0,
+    "text": " I'm going to say, I told already that Luana also makes sure Luana and Kirian just get there also when we are recording tonight."
+   },
+   {
+    "start": 27.0,
+    "end": 30.0,
+    "text": " And Luana already contacted you?"
+   },
+   {
+    "start": 30.0,
+    "end": 31.0,
+    "text": " No."
+   },
+   {
+    "start": 31.0,
+    "end": 32.0,
+    "text": " Or not?"
+   },
+   {
+    "start": 41.0,
+    "end": 46.0,
+    "text": " If we can get a little pleasure, the Saskia intro will show you there also."
+   },
+   {
+    "start": 46.0,
+    "end": 47.0,
+    "text": " Yeah?"
+   },
+   {
+    "start": 47.0,
+    "end": 48.0,
+    "text": " What?"
+   },
+   {
+    "start": 48.0,
+    "end": 49.0,
+    "text": " I'm sorry."
+   },
+   {
+    "start": 49.0,
+    "end": 50.0,
+    "text": " Now I'm hearing again."
+   },
+   {
+    "start": 50.0,
+    "end": 52.0,
+    "text": " I'll make sure Saskia is there also."
+   },
+   {
+    "start": 52.0,
+    "end": 54.0,
+    "text": " Yeah?"
+   },
+   {
+    "start": 54.0,
+    "end": 56.0,
+    "text": " I'm sorry, what?"
+   },
+   {
+    "start": 57.0,
+    "end": 61.0,
+    "text": " We'll talk, not talk with Saskia, talk with Luana, yeah?"
+   },
+   {
+    "start": 61.0,
+    "end": 62.0,
+    "text": " But talk with Luana?"
+   },
+   {
+    "start": 62.0,
+    "end": 64.0,
+    "text": " They are talking to us."
+   },
+   {
+    "start": 73.0,
+    "end": 76.0,
+    "text": " Anyway, that is what I wanted to pass you, if I can."
+   },
+   {
+    "start": 78.0,
+    "end": 79.0,
+    "text": " Okay."
+   },
+   {
+    "start": 79.0,
+    "end": 80.0,
+    "text": " Yeah?"
+   },
+   {
+    "start": 80.0,
+    "end": 82.0,
+    "text": " But what do I have to do with Luana and Saskia?"
+   },
+   {
+    "start": 83.0,
+    "end": 85.0,
+    "text": " No, I was talking with..."
+   },
+   {
+    "start": 85.0,
+    "end": 87.0,
+    "text": " Oh, sorry, Luana, I was."
+   },
+   {
+    "start": 87.0,
+    "end": 91.0,
+    "text": " You said Luana and Saskia, they are at Omas, but not what I have to do with it."
+   },
+   {
+    "start": 91.0,
+    "end": 92.0,
+    "text": " Yes."
+   },
+   {
+    "start": 92.0,
+    "end": 96.0,
+    "text": " No, tomorrow tonight when you're talking to mom."
+   },
+   {
+    "start": 96.0,
+    "end": 98.0,
+    "text": " Yeah, but that will be like..."
+   },
+   {
+    "start": 98.0,
+    "end": 100.0,
+    "text": " When we're at the end of the Korean."
+   },
+   {
+    "start": 100.0,
+    "end": 101.0,
+    "text": " Yeah?"
+   },
+   {
+    "start": 101.0,
+    "end": 102.0,
+    "text": " That will be so full of..."
+   },
+   {
+    "start": 102.0,
+    "end": 105.0,
+    "text": " I want to have them to be present, you know, to phone, you know?"
+   },
+   {
+    "start": 105.0,
+    "end": 109.0,
+    "text": " That will be full of most of the people in the restaurant, John."
+   },
+   {
+    "start": 109.0,
+    "end": 110.0,
+    "text": " Sorry?"
+   },
+   {
+    "start": 110.0,
+    "end": 114.0,
+    "text": " Nobody will be able to hear anything anyway, because it's a fucking restaurant."
+   },
+   {
+    "start": 114.0,
+    "end": 116.0,
+    "text": " It's so full of people."
+   },
+   {
+    "start": 116.0,
+    "end": 120.0,
+    "text": " We will try to find..."
+   },
+   {
+    "start": 120.0,
+    "end": 122.0,
+    "text": " Otherwise, you take the five rooms, you know?"
+   },
+   {
+    "start": 122.0,
+    "end": 123.0,
+    "text": " Don't worry."
+   },
+   {
+    "start": 126.0,
+    "end": 127.0,
+    "text": " Sure."
+   },
+   {
+    "start": 127.0,
+    "end": 129.0,
+    "text": " We will have the five rooms, yeah?"
+   },
+   {
+    "start": 133.0,
+    "end": 135.0,
+    "text": " Really, do that, yeah?"
+   },
+   {
+    "start": 135.0,
+    "end": 138.0,
+    "text": " I'll give you the raise everything, yeah?"
+   },
+   {
+    "start": 139.0,
+    "end": 140.0,
+    "text": " Mm-hmm."
+   },
+   {
+    "start": 142.0,
+    "end": 145.0,
+    "text": " Anyway, that is what I want to ask you, yes?"
+   },
+   {
+    "start": 147.0,
+    "end": 148.0,
+    "text": " Sure."
+   },
+   {
+    "start": 150.0,
+    "end": 151.0,
+    "text": " Ciao."
+   }
+  ],
+  "text": "I'm sorry. Yeah? Have you done? I hear you. Yeah, yeah, yeah. It's the teaching. Several things more. I'm going to say, I told already that Luana also makes sure Luana and Kirian just get there also when we are recording tonight. And Luana already contacted you? No. Or not? If we can get a little pleasure, the Saskia intro will show you there also. Yeah? What? I'm sorry. Now I'm hearing again. I'll make sure Saskia is there also. Yeah? I'm sorry, what? We'll talk, not talk with Saskia, talk with Luana, yeah? But talk with Luana? They are talking to us. Anyway, that is what I wanted to pass you, if I can. Okay. Yeah? But what do I have to do with Luana and Saskia? No, I was talking with... Oh, sorry, Luana, I was. You said Luana and Saskia, they are at Omas, but not what I have to do with it. Yes. No, tomorrow tonight when you're talking to mom. Yeah, but that will be like... When we're at the end of the Korean. Yeah? That will be so full of... I want to have them to be present, you know, to phone, you know? That will be full of most of the people in the restaurant, John. Sorry? Nobody will be able to hear anything anyway, because it's a fucking restaurant. It's so full of people. We will try to find... Otherwise, you take the five rooms, you know? Don't worry. Sure. We will have the five rooms, yeah? Really, do that, yeah? I'll give you the raise everything, yeah? Mm-hmm. Anyway, that is what I want to ask you, yes? Sure. Ciao."
+ },
+ {
+  "file": "PTT-20260218-WA0022.opus",
+  "language": "en",
+  "language_probability": 0.6112779974937439,
+  "duration": 158.1178125,
+  "transcribed_at": "2026-07-25T20:10:24.647476+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " I was talking with you, bringing, if you would go to Europe and what's to happen, to arrange things."
+   },
+   {
+    "start": 11.0,
+    "end": 19.0,
+    "text": " Because you need to talk with the person anyway at some point, that's going to happen."
+   },
+   {
+    "start": 19.0,
+    "end": 23.0,
+    "text": " I know it's going to happen. It's just simple matter."
+   },
+   {
+    "start": 23.0,
+    "end": 27.0,
+    "text": " What you have is that it's bringing the right people in contact."
+   },
+   {
+    "start": 27.0,
+    "end": 34.0,
+    "text": " You know that OPA has been helping out those things in India."
+   },
+   {
+    "start": 34.0,
+    "end": 41.0,
+    "text": " I see the problem is mainly, how do you call that?"
+   },
+   {
+    "start": 41.0,
+    "end": 50.0,
+    "text": " The government actually being a beach more or less. That is the problem that they have."
+   },
+   {
+    "start": 50.0,
+    "end": 57.0,
+    "text": " The government working against them while good people try to help."
+   },
+   {
+    "start": 57.0,
+    "end": 65.0,
+    "text": " Now the head of Fortext is an Indian cop called."
+   },
+   {
+    "start": 65.0,
+    "end": 71.0,
+    "text": " Yes, they have that class divide. They are upper class in India."
+   },
+   {
+    "start": 71.0,
+    "end": 76.0,
+    "text": " They have the contact. They have the people to talk. They have how you can fix this."
+   },
+   {
+    "start": 76.0,
+    "end": 86.0,
+    "text": " I'm going to talk with him one day. I'm going to tell him the story of OPA."
+   },
+   {
+    "start": 86.0,
+    "end": 89.0,
+    "text": " Definitely also be quite interesting to do that."
+   },
+   {
+    "start": 89.0,
+    "end": 92.0,
+    "text": " And you already know that this is going to happen."
+   },
+   {
+    "start": 92.0,
+    "end": 95.0,
+    "text": " By the way, Kierni is awake now."
+   },
+   {
+    "start": 95.0,
+    "end": 101.0,
+    "text": " Yeah, you talk things through and what's to ever. I will have to grow a lot of time to read."
+   },
+   {
+    "start": 101.0,
+    "end": 107.0,
+    "text": " Yeah, but it's also stupid."
+   },
+   {
+    "start": 107.0,
+    "end": 113.0,
+    "text": " Anyway, yeah, good luck. Oh, and it was another one."
+   },
+   {
+    "start": 113.0,
+    "end": 119.0,
+    "text": " You know, and I was saying, Sonya, do you know what is the moral of the story?"
+   },
+   {
+    "start": 119.0,
+    "end": 124.0,
+    "text": " Yeah, yeah, yeah. You know, what is the whole moral of this whole story?"
+   },
+   {
+    "start": 124.0,
+    "end": 129.0,
+    "text": " Talking. You have time now. Do you know what is the moral of the story?"
+   },
+   {
+    "start": 129.0,
+    "end": 134.0,
+    "text": " It's that people should, how do you say, start fucking listening to me, instead of ignoring me."
+   },
+   {
+    "start": 134.0,
+    "end": 136.0,
+    "text": " Yeah."
+   },
+   {
+    "start": 136.0,
+    "end": 140.0,
+    "text": " You get it."
+   },
+   {
+    "start": 140.0,
+    "end": 143.0,
+    "text": " Happy birthday, mama."
+   },
+   {
+    "start": 143.0,
+    "end": 145.0,
+    "text": " Sorry."
+   },
+   {
+    "start": 145.0,
+    "end": 148.0,
+    "text": " Kierni says happy birthday for Sonya."
+   },
+   {
+    "start": 148.0,
+    "end": 151.0,
+    "text": " Thank you very much."
+   },
+   {
+    "start": 151.0,
+    "end": 153.0,
+    "text": " Thank you very much."
+   },
+   {
+    "start": 153.0,
+    "end": 156.0,
+    "text": " Thank you very much."
+   }
+  ],
+  "text": "I was talking with you, bringing, if you would go to Europe and what's to happen, to arrange things. Because you need to talk with the person anyway at some point, that's going to happen. I know it's going to happen. It's just simple matter. What you have is that it's bringing the right people in contact. You know that OPA has been helping out those things in India. I see the problem is mainly, how do you call that? The government actually being a beach more or less. That is the problem that they have. The government working against them while good people try to help. Now the head of Fortext is an Indian cop called. Yes, they have that class divide. They are upper class in India. They have the contact. They have the people to talk. They have how you can fix this. I'm going to talk with him one day. I'm going to tell him the story of OPA. Definitely also be quite interesting to do that. And you already know that this is going to happen. By the way, Kierni is awake now. Yeah, you talk things through and what's to ever. I will have to grow a lot of time to read. Yeah, but it's also stupid. Anyway, yeah, good luck. Oh, and it was another one. You know, and I was saying, Sonya, do you know what is the moral of the story? Yeah, yeah, yeah. You know, what is the whole moral of this whole story? Talking. You have time now. Do you know what is the moral of the story? It's that people should, how do you say, start fucking listening to me, instead of ignoring me. Yeah. You get it. Happy birthday, mama. Sorry. Kierni says happy birthday for Sonya. Thank you very much. Thank you very much. Thank you very much."
  }
 ]

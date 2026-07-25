@@ -1,0 +1,52 @@
+[
+ {
+  "file": "PTT-20250805-WA0048.opus",
+  "language": "es",
+  "language_probability": 0.9432747960090637,
+  "duration": 54.1978125,
+  "transcribed_at": "2026-07-25T04:06:48.964112+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.24,
+    "text": " Hola tía, pero justo me enferme y me fui a la red de semana pasada esta semana, pero"
+   },
+   {
+    "start": 8.24,
+    "end": 14.44,
+    "text": " pensé no te contaste, pero ya preparé una versión inicial del analizador de comentarios"
+   },
+   {
+    "start": 14.44,
+    "end": 20.76,
+    "text": " que te puedo hacer un video en OBS y te mando si te parece."
+   },
+   {
+    "start": 20.76,
+    "end": 27.48,
+    "text": " De tiempo podemos reunirnos, suelo trabajar donde va a estar las 6 y si tienes any tiempo"
+   },
+   {
+    "start": 27.48,
+    "end": 32.96,
+    "text": " libre después de las 6 podemos ver así digitalmente para reunirnos, no si prefieres, me puedo ir"
+   },
+   {
+    "start": 32.96,
+    "end": 39.72,
+    "text": " también en persona y te muestro ahí con el laptop, pero ya, te preparé un fly video,"
+   },
+   {
+    "start": 39.72,
+    "end": 45.72,
+    "text": " a ver si te mando unas cositas de trabajo, pero te preparé un video cuando tenga tiempo y te mando"
+   },
+   {
+    "start": 45.72,
+    "end": 52.0,
+    "text": " así de la versión inicial, le hice una página web y todo, que le tiras nomás el Excel."
+   }
+  ],
+  "text": "Hola tía, pero justo me enferme y me fui a la red de semana pasada esta semana, pero pensé no te contaste, pero ya preparé una versión inicial del analizador de comentarios que te puedo hacer un video en OBS y te mando si te parece. De tiempo podemos reunirnos, suelo trabajar donde va a estar las 6 y si tienes any tiempo libre después de las 6 podemos ver así digitalmente para reunirnos, no si prefieres, me puedo ir también en persona y te muestro ahí con el laptop, pero ya, te preparé un fly video, a ver si te mando unas cositas de trabajo, pero te preparé un video cuando tenga tiempo y te mando así de la versión inicial, le hice una página web y todo, que le tiras nomás el Excel."
+ }
+]

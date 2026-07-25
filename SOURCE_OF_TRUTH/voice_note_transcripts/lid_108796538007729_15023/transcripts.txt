@@ -23,3 +23,20 @@ PTT-20260708-WA0022.opus | lang=es prob=0.9220006465911865 dur=47.1s
 [00:30.40 → 00:36.00] podemos alegar, hay un porcentaje que no podemos alegar y eso nos puede generar un problema de
 [00:36.00 → 00:44.56] integridad, es decir, es que es asociado con nosotros, entonces eso no debería estar a la vista.
 [00:44.56 → 00:46.56] ¿Más que entre vos y yo?
+PTT-20260430-WA0013.opus | lang=es prob=0.9158129096031189 dur=107.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.32] Sí, sí, no justamente, como le estoy haciendo es tengo un lugar central en el que configuro
+[00:06.32 → 00:11.16] todas las cosas que tienen en común todas las páginas y le estoy haciendo un reposeparado
+[00:11.16 → 00:17.20] para cada uno de los clientes, entonces cuando hago un cambio para como se ve la estructura
+[00:17.20 → 00:25.24] X en tu pagina, no le cambie también a cualquier otra página que esté en el mismo lugar
+[00:25.40 → 00:33.40] y por eso le estoy configurando y cambiando cositas ahora, pero es un borrador, cualquier cosa que
+[00:33.40 → 00:41.00] no les guste así puedo borrar, cambiar los colores, digamos cualquiera así se cambia
+[00:43.72 → 00:49.16] si tienen unos cuantos colores que les gusta puedo preparar un selector y pueden try out
+[00:49.16 → 00:59.00] unos cuantos como se ve, entonces tienen más que si visualizar, hacerle en español y en inglés
+[00:59.00 → 01:07.40] también sin drama, más que nada sirven las funcionalidades así que quieran en la página
+[01:07.40 → 01:15.72] que mis main preguntas tipo no sé de repente quieren escribir muchos blogs o algo y el
+[01:15.80 → 01:22.68] blog que es muy importante o yo que sé me imagino que en su caso tienen todos sus sistemas internos
+[01:22.68 → 01:29.88] y que el usuario llegue un whatsapp a ustedes y ya está, pero si quieren puedo regarle también
+[01:29.88 → 01:35.88] que el usuario pueda entrar, poner todos sus datos ahí, guardar ahí fácilmente todos
+[01:35.88 → 01:41.80] sus documentos, entonces cuando se comunican con ustedes, le tienen así un drive que tiene
+[01:41.80 → 01:47.08] todo juntado, pero no sé, distintos fichos que se pueden viendo y veniendo de que quieran

@@ -1,0 +1,47 @@
+[
+ {
+  "file": "PTT-20240423-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.9723106026649475,
+  "duration": 56.0935,
+  "transcribed_at": "2026-07-25T06:35:44.965356+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.72,
+    "text": " Hola Iván, ¿cómo estás? Les voy a escribir también por el chat de Teams, que tal pudiste"
+   },
+   {
+    "start": 9.72,
+    "end": 16.72,
+    "text": " contactar con alguien en particular, normalmente tenés que de alguna manera abrir un ticket"
+   },
+   {
+    "start": 16.72,
+    "end": 26.48,
+    "text": " escribiendo a vgsupportarobamentorme.com, eso es lo primero que tenés que hacer como para"
+   },
+   {
+    "start": 26.48,
+    "end": 33.76,
+    "text": " dejar registro del problema y eventualmente si tienen una solución común ellos muy rápido te responden."
+   },
+   {
+    "start": 35.76,
+    "end": 43.04,
+    "text": " Hay veces que el problema es de autenticación con el teléfono o con la cuenta y ellos lo que hacen"
+   },
+   {
+    "start": 43.04,
+    "end": 52.88,
+    "text": " es resetear ciertos permisos o bien, ser permisivos por una sola vez para que puedas entrar y a partir"
+   },
+   {
+    "start": 52.88,
+    "end": 55.84,
+    "text": " de ahí te piden realmente autenticar."
+   }
+  ],
+  "text": "Hola Iván, ¿cómo estás? Les voy a escribir también por el chat de Teams, que tal pudiste contactar con alguien en particular, normalmente tenés que de alguna manera abrir un ticket escribiendo a vgsupportarobamentorme.com, eso es lo primero que tenés que hacer como para dejar registro del problema y eventualmente si tienen una solución común ellos muy rápido te responden. Hay veces que el problema es de autenticación con el teléfono o con la cuenta y ellos lo que hacen es resetear ciertos permisos o bien, ser permisivos por una sola vez para que puedas entrar y a partir de ahí te piden realmente autenticar."
+ }
+]

@@ -1,0 +1,1839 @@
+PTT-20240315-WA0010.opus | lang=en prob=0.920253336429596 dur=1.5s
+------------------------------------------------------------
+[00:00.00 → 00:00.76] Thank you.
+PTT-20250112-WA0041.opus | lang=es prob=0.3787141442298889 dur=2.0s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Chau el chisme perro
+PTT-20250105-WA0027.opus | lang=es prob=0.8382455110549927 dur=2.0s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ¿Estás en el pinedo ahora?
+PTT-20250324-WA0014.opus | lang=pa prob=0.37588974833488464 dur=2.3s
+------------------------------------------------------------
+[00:00.00 → 00:02.04] अचिंटा चाद्इभाइ पिट्छि रहार मंदे।
+PTT-20240210-WA0033.opus | lang=es prob=0.8912930488586426 dur=2.4s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Ale se fue ahora a bañarse
+PTT-20231106-WA0017.opus | lang=es prob=0.903078556060791 dur=2.6s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] y como cuando estuviamos por la base de datos.
+PTT-20231112-WA0021.opus | lang=en prob=0.28093862533569336 dur=2.6s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] It's all good, thank you.
+PTT-20260607-WA0003.opus | lang=es prob=0.9403958916664124 dur=2.9s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Tirarle hondas, no sé, dale besitos.
+PTT-20231112-WA0020.opus | lang=es prob=0.7159069180488586 dur=2.8s
+------------------------------------------------------------
+[00:00.00 → 00:02.80] ¿Te referías a machine learning? Yo no llevo machine learning.
+PTT-20240208-WA0028.opus | lang=es prob=0.913601815700531 dur=3.5s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Helo, mi psicóloga te manda esto
+PTT-20240718-WA0007.opus | lang=es prob=0.9035975337028503 dur=3.3s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Yo puedo irme, me tengo que quedar en casa hoy.
+PTT-20231017-WA0119.opus | lang=es prob=0.7867776155471802 dur=3.2s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Andé demasiado rico, demasiado blandito me salió, demasiado...
+[00:02.00 → 00:03.00] ¡Joder!
+PTT-20250105-WA0028.opus | lang=ur prob=0.30022141337394714 dur=3.6s
+------------------------------------------------------------
+[00:00.00 → 00:02.28] ایجار کے پاکہ ہونو کرنو مست چھوپتے
+[00:02.28 → 00:03.42] ایجار لبھی نیو
+PTT-20231118-WA0024.opus | lang=es prob=0.9347053170204163 dur=3.8s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Estoy haciendo ahora presentando mi currículum, porque estoy con mi técnico por ahí.
+PTT-20231012-WA0007.opus | lang=es prob=0.933036744594574 dur=4.0s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] No en serio solo nos vamos a ver que parte va a decir que ahi ya esta
+PTT-20240317-WA0037.opus | lang=es prob=0.7490974068641663 dur=4.1s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Ya, ya no está de círculo, la sufrera no parece.
+PTT-20250102-WA0013.opus | lang=es prob=0.970406711101532 dur=4.2s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Y ya GPT me enseña así como generar dataset y eso para probarlo.
+PTT-20231012-WA0008.opus | lang=es prob=0.7179962992668152 dur=4.3s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Me conecto en un flash, ya me conecto.
+[00:02.00 → 00:04.00] Ya me conecto, ya me conecto.
+PTT-20231103-WA0022.opus | lang=es prob=0.2982679605484009 dur=4.5s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] enjoy
+[00:02.00 → 00:04.00] voy a estar ahí por ahí
+PTT-20230930-WA0001.opus | lang=en prob=0.9207863807678223 dur=4.3s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Or you are talking to me with WhatsApp Web?
+PTT-20240210-WA0032.opus | lang=es prob=0.9077560305595398 dur=4.4s
+------------------------------------------------------------
+[00:00.00 → 00:03.16] Pero un poco vale que me decí, un poco, qué opina de esos mensajes, hermano.
+PTT-20230930-WA0000.opus | lang=en prob=0.7435708045959473 dur=4.5s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Hi mom, you recovered your phone?
+PTT-20250105-WA0025.opus | lang=es prob=0.8582380414009094 dur=4.7s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Uuh, estamos por ahí unos mañanas a 7 al gimnasio
+PTT-20250105-WA0007.opus | lang=en prob=0.4263189435005188 dur=6.5s
+------------------------------------------------------------
+[00:00.00 → 00:02.20] Nice, I can take a suck
+PTT-20241228-WA0016.opus | lang=es prob=0.8820968866348267 dur=5.1s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Dicieron a llamada, acá también están Álvaro y César el hermano de Álvaro.
+PTT-20231112-WA0023.opus | lang=es prob=0.9481122493743896 dur=5.2s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Y ecología hace un tipo de mismas materiales, yo creo que es todo chill por ahora.
+PTT-20260607-WA0004.opus | lang=ar prob=0.8124373555183411 dur=5.2s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] وعنا نهل لسي
+[00:04.00 → 00:05.00] تلقى لأولو
+PTT-20231118-WA0025.opus | lang=es prob=0.9652940630912781 dur=5.2s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Ah, entiendo, entiendo, entiendo, entiendo, ya, ya, ya, ya sé ya cuál es tu referencia.
+[00:03.00 → 00:05.00] Sí, voy a buscar.
+PTT-20240409-WA0044.opus | lang=es prob=0.9681965708732605 dur=5.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.56] ay juevo yo yo pensé que entraba a quitar mangos de peluqueón entonces
+PTT-20240208-WA0043.opus | lang=es prob=0.82928866147995 dur=5.5s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Te esperé en casa, yo estoy acá chileando, al eso fue el suelo de hacer las compras.
+PTT-20241210-WA0000.opus | lang=en prob=0.8446109890937805 dur=6.1s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] It's Monday, it's one of those days.
+[00:03.00 → 00:04.00] Good night.
+[00:04.00 → 00:06.00] Ah, ah.
+PTT-20231106-WA0016.opus | lang=es prob=0.9776606559753418 dur=5.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.50] Y si ustedes están yo estoy esperando a partir de mañana a irme y hacemos resumen en tu casa y va, a full.
+PTT-20240315-WA0009.opus | lang=es prob=0.967667818069458 dur=5.8s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Ahora estoy en Rondivano, tu casa.
+[00:02.00 → 00:04.00] Hola, precioso. ¿Cómo te llamas vos?
+[00:04.00 → 00:06.00] Hay un perro que está haciendo un agujero en tu patio.
+PTT-20240119-WA0018.opus | lang=es prob=0.6847649216651917 dur=6.4s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Es un cojón, ¿no?
+[00:02.00 → 00:04.00] Sí, un cojón.
+[00:04.00 → 00:06.00] Me alegro, perro.
+PTT-20240210-WA0038.opus | lang=es prob=0.9770028591156006 dur=6.0s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Pasó, pasó, no me llamó, ni ahí tiene que estar, o sea, rápido te vas a recuperar, ni siquiera te agarró el grave, ¿verdad?
+PTT-20231112-WA0024.opus | lang=es prob=0.8228811025619507 dur=6.5s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Voy a ir estudiando entonces hagan casa también.
+[00:03.00 → 00:04.00] Me la creí.
+[00:04.00 → 00:05.00] Ya de ánime.
+[00:05.00 → 00:06.00] Reci.
+PTT-20240610-WA0005.opus | lang=es prob=0.9419500827789307 dur=6.5s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Si no, no se lo van a mirar a estudiar con ustedes ni nada, confía ahora, voy a pasar por el junio y ahora mismo.
+PTT-20231016-WA0196.opus | lang=es prob=0.9183974862098694 dur=6.4s
+------------------------------------------------------------
+[00:00.00 → 00:01.48] Sí, tienes razón.
+[00:01.48 → 00:03.40] No, tranqui.
+[00:03.40 → 00:07.68] Voy a comprobarlo también de si probamos y hacemos mucho.
+PTT-20250225-WA0003.opus | lang=es prob=0.7501122951507568 dur=7.1s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Te movaste a tu abertamento, a ver si se pasa por fortes y si se compra a full carnet y ornos.
+PTT-20240208-WA0026.opus | lang=es prob=0.780562162399292 dur=7.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] No sé, te deseo hacer su cumple, lo que pasa es que no...
+PTT-20231103-WA0020.opus | lang=es prob=0.9589004516601562 dur=7.4s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ¿No te mereces si me voy después contigo?
+[00:02.00 → 00:05.00] O sea, tipo, yo estoy por la facupa
+[00:05.00 → 00:07.00] y quería saber si podría pasar a saludar.
+PTT-20240208-WA0015.opus | lang=es prob=0.8975396156311035 dur=8.1s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Bueno, si, en vez de como con don'tos, son como billeteras y después te tiran la niña.
+PTT-20231118-WA0018.opus | lang=es prob=0.9703733921051025 dur=7.6s
+------------------------------------------------------------
+[00:00.00 → 00:06.40] Llevo para cenar con ustedes, osea voy a preparar para voy para Emilio y voy a mandarles fotos de la circa en mi cena, ahora sí
+PTT-20250102-WA0011.opus | lang=en prob=0.8860382437705994 dur=7.6s
+------------------------------------------------------------
+[00:00.00 → 00:07.36] Thank you. Thank you so much. I'm very excited to this opportunity. Thank you.
+PTT-20240208-WA0038.opus | lang=es prob=0.9493533968925476 dur=8.1s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] me gustaría que te pongas
+PTT-20240208-WA0010.opus | lang=es prob=0.8742060661315918 dur=8.0s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] tipo ese me es muy mutu vídeos porque me lastimen físicamente, me gusta más que que me lastimen emocionalmente
+PTT-20240103-WA0013.opus | lang=es prob=0.7420064806938171 dur=8.0s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] Ok, pero osea, ¿para qué? ¿estás prestando el banco ahora o qué onda?
+PTT-20231118-WA0032.opus | lang=es prob=0.9747053980827332 dur=8.1s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] Puedes comprar un vino para mí porque sí, o sea, eso sí, soy súper normal y nada, unas cositas más.
+PTT-20241226-WA0006.opus | lang=es prob=0.9007607102394104 dur=8.7s
+------------------------------------------------------------
+[00:00.00 → 00:08.60] Uy, pero, no sé, tipo, era bajando para avisarte de que estaba esa oferta, tipo, dije, ah, flutter, fran y te mantengo.
+PTT-20230917-WA0020.opus | lang=es prob=0.9694411158561707 dur=8.5s
+------------------------------------------------------------
+[00:00.00 → 00:06.28] Sí, igual investiga a cadien, investiga a las cooperativas, es muy bueno eso.
+[00:06.28 → 00:08.28] Si vas a hacer eso, yo también quiero hacerlo antes.
+PTT-20260511-WA0010.opus | lang=es prob=0.8311923146247864 dur=8.9s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] Tengo que revivir el más hoflado ahora porque estaba hoflado offline, pero si te sientes un rato capaz de revivir, te aviso si quieres un meeting conmigo.
+PTT-20260607-WA0002.opus | lang=es prob=0.5456003546714783 dur=9.6s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] Si ya se entienden que te viste como una cosplayer, pero no entiendo por les el chiste tipo cute girl, cute outfit.
+PTT-20250120-WA0010.opus | lang=es prob=0.8617160320281982 dur=9.6s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] O sea, el tipo está de hacer tu CD album, o sea, tu página web y me dijo que está difícil porque vos estás en Iti.
+[00:07.00 → 00:10.00] No, qué tipo de posición es en Iti.
+PTT-20231111-WA0033.opus | lang=es prob=0.9763782024383545 dur=10.0s
+------------------------------------------------------------
+[00:00.00 → 00:01.88] Ah, vos te referís a qué tipo se corta.
+[00:01.88 → 00:04.46] Ah, sí, eso es porque puse frecuencia de 10 segundos.
+[00:04.46 → 00:06.96] Voy a ponerle más frecuencia para que no haga tanto en corto
+[00:06.96 → 00:09.52] y que se sienta más suavecito.
+PTT-20231118-WA0017.opus | lang=es prob=0.9637940526008606 dur=9.9s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] que por si es lo que damos, que iremos a salir el pronto rato
+[00:04.00 → 00:06.00] y tipo me dijo cual es su vino favorito de yo
+[00:07.00 → 00:09.00] déjeme surgir ya al vino de la nanda de hoy
+PTT-20231219-WA0011.opus | lang=es prob=0.8289491534233093 dur=10.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.20] Man, este compás un payaso, no va a frenomar, le digo, soy compañero, no soy yo los cambios
+[00:06.20 → 00:10.60] a producción, payasiste, uuuh.
+PTT-20230917-WA0024.opus | lang=es prob=0.9745989441871643 dur=10.4s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] Eso es lo que te recomendaría que investigues bien, porque yo te juro ni idea, porque todavía no ha ganado lo suficiente para impuestos, pero, pero sí.
+PTT-20240607-WA0008.opus | lang=es prob=0.9561890363693237 dur=10.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] es que yo sumo que lo que sea que yo tengo es lo mismo que tiene que tuvieron ustedes
+[00:06.00 → 00:11.00] puedes simple hecho que como tengo el pie roto no salgo de casa
+PTT-20240210-WA0036.opus | lang=es prob=0.8338404297828674 dur=10.6s
+------------------------------------------------------------
+[00:00.00 → 00:03.90] Es más raro que dentro de 7 días también tenga dengue, porque de tiempo me picaron
+[00:03.90 → 00:08.06] mi mosquito cuando estaba ahí en tus casas, pero no me preocupa de eso, mientras que
+[00:08.06 → 00:09.64] no le contagia a mis abuelitos todavía.
+PTT-20240312-WA0037.opus | lang=es prob=0.9456242322921753 dur=10.7s
+------------------------------------------------------------
+[00:00.00 → 00:03.60] Justito, ay voló, porque lo que me mandaste es justo, desde ahora iba...
+[00:04.16 → 00:10.46] Yo, yo ya ahora mismo estoy muy deprimido, estoy acá en mi cama, volé justo y insistí escuchar eso, volé deprimido más.
+PTT-20231109-WA0021.opus | lang=es prob=0.9418525695800781 dur=10.7s
+------------------------------------------------------------
+[00:00.00 → 00:08.56] Hello, hello, yo ahora mismo voy a ir a, o sea, estallando, si es que, porque eres
+[00:08.56 → 00:10.00] puede ir a tu casa y estudiamos juntos.
+PTT-20250120-WA0011.opus | lang=es prob=0.9081047773361206 dur=11.4s
+------------------------------------------------------------
+[00:00.00 → 00:05.88] El Flyer es de IT, ni idea, no sé, pero al menos me he entendido eso de la combo slash.
+[00:05.88 → 00:11.28] Si es que era de IT me esperaba más mierda con el logo de IT en alguna parte.
+PTT-20240210-WA0022.opus | lang=es prob=0.9122397303581238 dur=12.3s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Y que chicas más tembolealmente
+[00:05.00 → 00:07.00] Estás hinchando un flas de mención
+[00:08.00 → 00:09.00] Que se vaya la puta
+PTT-20231118-WA0031.opus | lang=es prob=0.9411320090293884 dur=11.0s
+------------------------------------------------------------
+[00:00.00 → 00:11.00] El cosa del Algaro que salió más caro, o sea 73,000 salió porque no conseguí el más pequeño, el más grande, no más había, y como dije luego, bueno, es lo que sobreví a traer acá a casa, de guam.
+PTT-20230917-WA0022.opus | lang=es prob=0.8752474784851074 dur=11.0s
+------------------------------------------------------------
+[00:00.00 → 00:05.28] a la tarde estoy ponerle acá las dos y media una por ahí porque después o sea no a las
+[00:05.28 → 00:09.12] una y media a dos por ahí porque voy a ir a almorzar con mis padres pero primero quiero
+[00:09.12 → 00:10.92] ir a ir a entrenar un rato
+PTT-20240711-WA0016.opus | lang=es prob=0.9604138731956482 dur=11.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.70] Poco es que puedo pedir aumento porque ese fue el solo, así que pedí y ya estoy recién hace 4 meses
+[00:05.70 → 00:11.50] todavía no tengo ningún producto de producción así que todavía no tengo posición de poder reclamar aumento ni nada.
+PTT-20231006-WA0068.opus | lang=es prob=0.9044363498687744 dur=11.8s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] hola, te llamaba la maf para decirte que tal tuya, uuh, soy riquento y fuiste hace rato y no te pude hablar porque estaba en cosas
+[00:07.00 → 00:11.00] pero, uh, ojala que hayas pasado bien en casas, ye ye ye
+PTT-20231118-WA0015.opus | lang=es prob=0.9456309676170349 dur=11.6s
+------------------------------------------------------------
+[00:00.00 → 00:03.68] Voy por el super, compro los ingredientes y después voy a tu home.
+[00:03.68 → 00:11.24] Y así aprendo y realmente quiero aprender, tomar una foto y mandarle decirle, mira mi cena ahora sí.
+PTT-20231118-WA0019.opus | lang=es prob=0.9695573449134827 dur=11.8s
+------------------------------------------------------------
+[00:00.00 → 00:03.12] por lo menos por ahora dejenme servirme un ratito
+[00:03.12 → 00:06.00] porque yo sé que puede ser que me ayer todo y me da la estima ahora
+[00:06.00 → 00:10.48] pero es que es una chica por la cual sí o es la pena hacer simple, me tiene gran puta
+PTT-20250316-WA0020.opus | lang=es prob=0.8243005871772766 dur=12.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Olys, te voy a avisar uno más que estabas preparando un mandón de lomitos del pollo
+[00:05.00 → 00:08.00] y si es que estás de corey, me aparezcas con pollo
+[00:08.00 → 00:11.00] y hacemos más lomitos del pollo y te llevas los pantalones para congelar.
+[00:12.00 → 00:13.00] ¡Uh!
+PTT-20231118-WA0033.opus | lang=es prob=0.9589794874191284 dur=11.9s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Ya estén en Camín Ivan, o sea, ahora estoy saliendo ya del lambaré.
+[00:07.00 → 00:10.00] Voy a tardar ponerle que 20-30 minutos en llegar a tu casa.
+PTT-20240103-WA0011.opus | lang=es prob=0.9077519178390503 dur=12.3s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] es referencia a, osea, para mí no hay drama
+[00:07.00 → 00:12.00] pero decirlo mas o menos que queres que diga del tipo si se me preguntan
+PTT-20231021-WA0007.opus | lang=es prob=0.8931345343589783 dur=12.7s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Nos vemos a las 10 en el inmediato, yo que se salvo del game y ya me voy con tío.
+[00:05.00 → 00:12.00] Voy a quemar un poquito de gracita porque realmente son 4 meses que mantengo mi PS y nos estoy bajando un carajo, estoy devorando.
+PTT-20231118-WA0021.opus | lang=es prob=0.941882312297821 dur=12.5s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] entiendo también como sazones, o sea, tipo polvitos y esas cosas, o te referijaba en general, porque toping también puede significar la carne, esas cosas
+[00:09.00 → 00:13.00] porque la milanesa de pollo que te refería de ella es un toping, ¿verdad?
+PTT-20241222-WA0002.opus | lang=es prob=0.937791109085083 dur=15.1s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Hola, Sory. Ahora recién volvimos a casa.
+[00:06.00 → 00:09.00] Esperamos despertarnos. ¿Cómo nos despertemos, Jhonale?
+[00:10.00 → 00:13.00] Y cuando las de 10 empezará a ir yendo hacia el summer, más o menos.
+[00:13.00 → 00:15.00] O sea, que te parece el plan.
+PTT-20240210-WA0035.opus | lang=es prob=0.7578169107437134 dur=15.5s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] Metela fue el perro, yo sigo un cerrado bajo el serestín, yo estoy, no se llama, no josaba, no
+[00:10.00 → 00:17.00] acarentito, era la iglesia, rechil. Te deseo mucho Jim.
+PTT-20231118-WA0023.opus | lang=es prob=0.9210246801376343 dur=13.9s
+------------------------------------------------------------
+[00:00.00 → 00:12.00] Sí, ambos, ambos, ambos quiero, pero primero pues quiero hacer una sopita o algo para hacerme super fanci, super fake yo, pero bueno, y después de eso, ver qué onda.
+PTT-20250221-WA0028.opus | lang=es prob=0.8806617856025696 dur=14.7s
+------------------------------------------------------------
+[00:00.00 → 00:08.16] Decíles y que que venga, si estábamos sin nada por más regalos, pero bueno, si no
+[00:08.16 → 00:14.40] quieres, es ok, pero hubiera pegado conocerle, si os pueda, le más carajo.
+PTT-20231118-WA0030.opus | lang=es prob=0.9748332500457764 dur=14.0s
+------------------------------------------------------------
+[00:00.00 → 00:03.40] Ivan, ¿qué tal? Ya vos ya consigues lo que necesitabas. Voy a tu casa.
+[00:03.40 → 00:05.90] Man, estoy loco de la cabeza la de 20.
+[00:05.90 → 00:08.70] 185.000 en ingredientes con gastebólogo.
+[00:08.70 → 00:10.20] Pero vale la pena.
+[00:10.20 → 00:12.70] Todo por ser, por ser un poco simple.
+PTT-20240210-WA0039.opus | lang=es prob=0.9634416103363037 dur=14.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] O sea, yo igual me podía mover chill sin remedio, o sea, me dolió no más todo y era un...
+[00:09.00 → 00:13.00] Para que no estés dolin' una demasiada tipo de ejercicio de respiración, pero...
+[00:13.00 → 00:15.00] Estaba bastante ex-dile, realmente.
+PTT-20240429-WA0031.opus | lang=es prob=0.9020470380783081 dur=14.9s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] y maybe, osea
+[00:05.00 → 00:08.00] diría que la persona me contó honda hace dos años
+[00:10.00 → 00:14.00] por ahí y habrá pasado unos dos años antes de eso
+PTT-20230812-WA0013.opus | lang=es prob=0.9261083602905273 dur=14.6s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] O sea, yo te diría, si querés meterle 3 y todo, para mí son chiles, pero, o sea...
+[00:10.00 → 00:14.00] Comé 2, máximo 3, no le metas 4.
+PTT-20240210-WA0026.opus | lang=es prob=0.9759951233863831 dur=14.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Me volvió a hinchar cuando le puse la foto del gym.
+[00:05.00 → 00:07.00] Mio, no estaba entrenando.
+[00:07.00 → 00:10.00] Y eso parece que fue lo que le hizo que me inscribí otra vez.
+[00:10.00 → 00:12.00] Esta mañana vi yo.
+[00:12.00 → 00:15.00] Ni ahí estoy, perra.
+PTT-20241202-WA0022.opus | lang=es prob=0.9535403251647949 dur=15.7s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] El tipo tú se ve y decirle a un flow de contexto, yo le mando el contexto de que hola a un amigo está buscando trabajar en MentorMate
+[00:07.00 → 00:14.00] y le ofrece tu número para que le pase de referencia, así te quedas con el cajín que MentorMate regala después
+[00:14.00 → 00:16.00] Espero, pero eso
+PTT-20230813-WA0000.opus | lang=es prob=0.8792914748191833 dur=16.2s
+------------------------------------------------------------
+[00:00.00 → 00:16.00] Sí, te dije cuando me bañan yo, a ver que se falla con su hermana a me verendar y eso, y ahí se van a ir al aeropuerto, pero yo me voy por mi cuenta.
+PTT-20240210-WA0034.opus | lang=es prob=0.946904718875885 dur=14.8s
+------------------------------------------------------------
+[00:00.00 → 00:07.40] yo estoy ahora yendo al gym, acá en multiplaza porque el paseo está demasiado lleno de vehículo
+[00:07.40 → 00:11.80] dije en cerro alto está demasiado lleno de vehículo y dije me voy a multiplaza hace mucho
+[00:11.80 → 00:13.44] no me voy a ir y pega también.
+PTT-20260608-WA0018.opus | lang=es prob=0.8717052340507507 dur=15.2s
+------------------------------------------------------------
+[00:00.00 → 00:03.40] ¿Viendo una jajaja? ¿What? ¿Estás viendo un porno?
+[00:04.40 → 00:08.10] Eh, tío, si estás en Corea y estás, welcome a mí a autista arde y ya acá.
+[00:08.10 → 00:10.40] Yo estoy a autista ando hasta tarde.
+[00:11.30 → 00:14.10] Eh, ahora estamos viendo anime con Ale, si querés venir y chillar.
+[00:14.60 → 00:15.20] Go, go, go.
+PTT-20250221-WA0030.opus | lang=es prob=0.8945485949516296 dur=15.7s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] De Bajón, pero bueno, si nos quiere ir, pero decirle que todos somos buena onda y que el mejor círculo no le va a poder entrar.
+[00:10.00 → 00:16.00] Mejor que ingrese con nosotros antes que ingrese al otro grupo.
+PTT-20231008-WA0007.opus | lang=es prob=0.9524496793746948 dur=15.5s
+------------------------------------------------------------
+[00:00.00 → 00:04.84] Dale, dale, dale, yo diría estar adelantando cositas y estés a pasar y posiblemente voy
+[00:04.84 → 00:12.20] a tratar de tener ya todo hoy, mañana, a la noche no voy a poder posiblemente, tengo
+[00:12.20 → 00:14.80] un compromiso, pero sí, voy a tratar de adelantar todo ya hoy.
+PTT-20240103-WA0014.opus | lang=pt prob=0.8104134798049927 dur=15.3s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] D.D.
+[00:02.00 → 00:03.50] É, mas...
+[00:03.50 → 00:05.50] Ah, eu acho que quando me perguntava quando me dê a mão.
+[00:08.00 → 00:10.00] D.D.
+[00:11.00 → 00:13.00] Por favor, você contou os concitros.
+[00:14.00 → 00:15.00] Perfeito.
+PTT-20230917-WA0021.opus | lang=es prob=0.984100878238678 dur=15.2s
+------------------------------------------------------------
+[00:00.00 → 00:05.16] cuando es diversificar, nos vayan a mandar una sola prueba, o sea, si tenés mucho dinero,
+[00:05.16 → 00:09.08] te recomiendo que pruebes también eso. Yo, por ejemplo, me encantaría también hacer
+[00:09.08 → 00:12.76] eso, pero ni tener nada más que alcanzar todavía para eso, o sea, puedo empezar con
+[00:12.76 → 00:15.20] más pequeño, pero no me alcance igual.
+PTT-20231129-WA0035.opus | lang=es prob=0.8494599461555481 dur=15.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.20] No le digo a que tal, te quería preguntar, iba el problema que yo me quedo a dormir con
+[00:05.20 → 00:12.24] ustedes esta noche y hacer home mañana en tu home, porque así podemos estudiar bien
+[00:12.24 → 00:14.44] y eso, si es que no hay problema.
+PTT-20231008-WA0011.opus | lang=es prob=0.9608299136161804 dur=16.1s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] ¡Uff! ¿Y a ver? Ojalá si...
+[00:04.00 → 00:06.00] Si hay algo unido a ti, tengo que saber.
+[00:07.00 → 00:10.00] Si no, regalo a hacerle cursitos.
+[00:10.00 → 00:13.00] Y ella certifica todo lo que puedas.
+[00:13.00 → 00:16.00] Me da el mejor protiplegalmente hacer eso.
+PTT-20230917-WA0025.opus | lang=es prob=0.9454761743545532 dur=15.6s
+------------------------------------------------------------
+[00:00.00 → 00:06.60] También ve atender algo, cuando vas a hacer eso, atender que es deducible y que no con
+[00:06.60 → 00:11.04] los impuestos, porque te puede pasar también eso de que algo estás invertiendo en algo
+[00:11.04 → 00:14.68] que no es deducible y te cobran 10% como si fuera que nunca gastaste eso.
+[00:14.68 → 00:15.52] Eso también es un tema.
+PTT-20240813-WA0012.opus | lang=es prob=0.9552629590034485 dur=17.5s
+------------------------------------------------------------
+[00:00.00 → 00:05.34] WSK, si queremos máscaras, siempre se puede agarrar más un peluche, cortarles un agujero,
+[00:05.34 → 00:09.90] quitarle todo el lado adentro y se usa el peluche de máscara, de una...
+[00:09.90 → 00:12.34] Aunque está la máscara esa del Bong, ¿tá coras?
+[00:12.34 → 00:14.02] ¿Qué tipo es un virus y todo en frente?
+[00:14.02 → 00:16.02] Si también puedes estar usando.
+PTT-20240607-WA0009.opus | lang=es prob=0.7060673832893372 dur=16.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.56] En el único lugar que podría llegar a CIG, es la gente que viene a casa, porque el lit no salgo.
+[00:06.56 → 00:13.00] Lo único que salía si fue para verme un fly al escándale mi pie, y cuando eso me sentía bien chile.
+PTT-20240208-WA0007.opus | lang=es prob=0.8162485361099243 dur=16.7s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Si te estiras, puedes mandar hacia un flow of context
+[00:03.00 → 00:06.00] y te atado a leer o a leerme el leer en voz alta
+[00:06.00 → 00:08.00] porque no puedo leer en serio
+[00:08.00 → 00:10.00] o sea puedo leer pero me duele mi ojo a leer
+[00:12.00 → 00:15.00] pero Tristin, no malabondas legalmente
+PTT-20240129-WA0050.opus | lang=es prob=0.8955204486846924 dur=16.8s
+------------------------------------------------------------
+[00:00.00 → 00:03.28] Por mí no hay drama perro, pero yo no tengo balija ahora mismo.
+[00:03.28 → 00:05.84] Mis semanas se fueron de viaje y llevan a la balija de casa.
+[00:07.12 → 00:08.68] Entonces, yo tengo el menos.
+[00:08.68 → 00:10.80] Pero pues mirar si es que algo, vale, tiene...
+[00:11.64 → 00:16.72] capaz de estar en los vídeos con más balijas, no sé, pero en casa no tengo balija ahora mismo.
+PTT-20250215-WA0056.opus | lang=es prob=0.929343044757843 dur=16.6s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] Si terminás antes de las tres, estás reuelco de apreciar también más tarde, tipo, toda la noche es la fiesta.
+[00:09.00 → 00:12.00] Sabizamos si no, después, cuando nos vamos.
+[00:12.00 → 00:17.00] Pero... pero remote. Espero que estemos ya bien entre ingles.
+PTT-20231118-WA0016.opus | lang=es prob=0.926465630531311 dur=16.5s
+------------------------------------------------------------
+[00:00.00 → 00:16.48] Yo cuando mudo simpa, ahora yo un rato, déjenme ser simp por lo menos un rato hasta que no sé tipo, diga que soy de valor o algo así, después cuando me cuqué en otra vez, porque yo sé que en estos casos siempre soy un cuqueador, pero déjenme ser feliz un plazo.
+PTT-20231106-WA0015.opus | lang=es prob=0.9727162718772888 dur=18.2s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Emilio, parás que se sé, hay que leer desde el capítulo 14 hasta el 21.
+[00:05.00 → 00:06.00] Ya, ¿da?
+[00:06.00 → 00:08.00] O sea, hay que pelear bueno los otros.
+[00:08.00 → 00:09.00] Qué rico.
+[00:09.00 → 00:13.00] Se estudia con el conocimiento que tengo de Mentor Mate.
+[00:13.00 → 00:14.00] Mega.
+[00:14.00 → 00:17.00] Un huevo, no sé qué sé.
+PTT-20240210-WA0028.opus | lang=es prob=0.8899861574172974 dur=19.6s
+------------------------------------------------------------
+[00:00.00 → 00:04.16] Me encanta el mudes ese ni a esto de perro
+[00:06.88 → 00:11.00] Pero no creo que este que sale algo en el agua, así que si crees en ir, meterle
+[00:12.00 → 00:14.00] Ya tengo plan de estar chill en casa nada más
+[00:15.30 → 00:17.30] Por de mi, llega
+PTT-20230917-WA0023.opus | lang=es prob=0.962653398513794 dur=18.4s
+------------------------------------------------------------
+[00:00.00 → 00:05.34] Ahora te manque a partir de ahora te debes concierto un contador o hacer tu propio IRP porque ya
+[00:05.34 → 00:10.52] voy a tener suficiente dinero para empezar a pagar impuestos también o sea y si es que no
+[00:10.52 → 00:17.44] se eso te puede crear un problema del FISCO o sea te puede ver problemas de, sí, problemas con el FISCO
+PTT-20231112-WA0019.opus | lang=es prob=0.6788486838340759 dur=19.1s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Hola, soy Río. Probablemente no lo quisiera.
+[00:04.00 → 00:09.00] Salí de la mañana a decidirle a mi amiga que se fue de viaje.
+[00:09.00 → 00:14.00] Y mi ciudad estaba un kilómetro tocado a mil botones.
+[00:15.00 → 00:17.00] ¿Qué tal, perro? ¿Qué andás haciendo?
+[00:17.00 → 00:19.00] Que con esto no es para hoy.
+PTT-20250324-WA0015.opus | lang=es prob=0.9310305714607239 dur=20.0s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] Si no, estoy contra GPT primero extrayendo todos los ejercicios que tiene para hacer mis propios exámenes de prueba para practicar ahí
+[00:09.00 → 00:18.00] y vamos a saber sobre estar practicando un viaje, no voy a responder contra GPT, sino responder con mis palabras, sobre practicar contra GPT si está bien
+[00:18.00 → 00:20.00] y donde eso voy a ir practicando
+PTT-20240701-WA0053.opus | lang=es prob=0.9288010597229004 dur=21.0s
+------------------------------------------------------------
+[00:00.00 → 00:04.64] Osea, pues si te interesaba es un flaeste, ya que parece que esta medio vacio
+[00:04.64 → 00:06.64] Ufff, va a ser fío
+[00:06.64 → 00:09.14] Entonces la sumo que no va a haber mucha gente
+[00:09.14 → 00:12.64] Y te puede mostrar así fácil como son las cosas de Aptar
+[00:12.64 → 00:16.76] Y después cuando te sale algo de Aptar y eso, va a saber que te toco más
+[00:16.76 → 00:20.36] Si no estas como yo viendo en Google, dos de tiempos
+[00:20.36 → 00:21.36] Ufff
+PTT-20240129-WA0048.opus | lang=es prob=0.9026697278022766 dur=19.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Ivan, ¿qué tal? ¿Cómo estás? Te quería preguntar si por ahí no hay problema.
+[00:05.00 → 00:11.00] O sea, si por ahí no tenés problema en prestarme tú una valija pequeña nomás, o sea, una valija chica,
+[00:11.00 → 00:14.00] donde pueda meter tipo ropa para 8 días, más o menos.
+[00:14.00 → 00:20.00] Tipo para mi viaje que va a ser esta semana, si no tenés problema.
+PTT-20240711-WA0018.opus | lang=es prob=0.9316501617431641 dur=21.7s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] No, no, no, no es para ahora. Si no ponía cuando pidas, pidas un aumento ultra alto luego, tipo que se coman las fijadas voladas ahí en el banco.
+[00:09.00 → 00:17.00] De decirle que tienen un aumento de 300 por ciento, ni siquiera 30, 300 por ciento así de que debes verlo. Voy a hacer la puta.
+PTT-20250105-WA0026.opus | lang=es prob=0.9151886105537415 dur=21.0s
+------------------------------------------------------------
+[00:00.00 → 00:05.88] ¿En cuál gimnasio? El Smart Fit de Pinedo de Fuente, ¿En cuál?
+[00:05.88 → 00:07.44] En el que dijo que gané a todo el shopping.
+[00:07.44 → 00:09.52] Sí, o sea, vino a todo el shopping, pero ahí...
+[00:09.52 → 00:12.40] ¿Y ya es el Pinedo? ¿O qué? Ya que estamos haciendo el shopping.
+[00:12.40 → 00:13.88] Somos pues super después de aquí.
+[00:13.88 → 00:15.52] ¿A cuantas? ¿Cuánto es el shopping?
+[00:15.52 → 00:21.00] Ya, eh... y eso, hubo, hubo, hubo, abracitos.
+PTT-20231118-WA0022.opus | lang=es prob=0.9727711081504822 dur=20.4s
+------------------------------------------------------------
+[00:00.00 → 00:20.00] No tengo ni un hipote de lo que estoy haciendo, yo estoy aprendiendo lo más, yo estoy allá, literalmente hay que estar demasiado sin para salir de tu casa, super cómodo, usado a la noche para comprar cosas, y por eso solamente porque me impresionará, pero bueno, tengo el permiso, o sea, estoy quitando un crédito de decir hoy o dos.
+PTT-20231103-WA0021.opus | lang=es prob=0.9058877825737 dur=21.7s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Sí, por mí no viene un drama, pero nos pasamos más.
+[00:04.00 → 00:08.00] Más tarde van a venir Lucy, Maybe, Jessica y vamos a ver Ghibli.
+[00:11.00 → 00:14.00] Tipo, ese es el plan para la noche, pero no sé si cancelan de vuelta.
+[00:16.00 → 00:20.00] Pero ya, feel free, tipo, que estoy chileando, viendo postman y escuchando música.
+PTT-20251219-WA0004.opus | lang=es prob=0.7600009441375732 dur=24.7s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] Y luego veo que estás usando Coursera, pero ¿estás entendiendo la config y qué estás haciendo?
+[00:10.00 → 00:19.00] Bien, no sé qué le fue a pasar, pero hay un flight en esto, nuestro setup.
+[00:19.00 → 00:25.00] De config, reglas, que se lo gustó y te va a dar mejor.
+PTT-20231008-WA0009.opus | lang=es prob=0.8128814101219177 dur=22.8s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] Es el mismo drive que la he pasado hasta, pero en un circuito te creo, tipo, yo.
+[00:09.00 → 00:16.00] Va a buscarte a buscar, pues si no tenes eso, te vas a buscar para que me fly en mi drive.
+[00:18.00 → 00:22.00] Yo iba a que el circuito de aquel te lo he pasado.
+PTT-20230917-WA0019.opus | lang=es prob=0.9661539793014526 dur=21.8s
+------------------------------------------------------------
+[00:00.00 → 00:02.46] Y vos podés ir acumulando más, podés ir ahorrando más, por ejemplo,
+[00:02.46 → 00:05.66] podés ir con el tiempo haciendo 10 millones, 20 millones, 30 millones,
+[00:05.66 → 00:10.86] y al fin de año, o sea, en un año, podés tener casi mucho más dinero.
+[00:10.86 → 00:16.04] O sea, tipo, siempre 10% del mundo que está ahí, ¿verdad?
+[00:16.04 → 00:19.30] Y entonces va a ser, por ejemplo, si ponerle 100 millones,
+[00:19.30 → 00:21.70] entonces 9% sería 9 millones por día de ahora.
+PTT-20250120-WA0013.opus | lang=es prob=0.9072681069374084 dur=25.1s
+------------------------------------------------------------
+[00:00.00 → 00:02.80] Worst Case, ¿te entiendes? No te interesa y estás chill.
+[00:02.80 → 00:06.60] Y, tipo, sabes que la gente te ofrece al menos cantidad de keys.
+[00:06.60 → 00:10.30] Y cuando te abras más o algo así, tipo, ni nada.
+[00:10.30 → 00:13.50] Pero capaz el otro man después, conocer otras ofertas más interesantes.
+[00:13.50 → 00:18.70] Y ya sabes, tú se ve y ya te conoce un flag, porque te abro un flag y te mando el más directo ya vos.
+[00:18.70 → 00:20.20] O no es como me manda algo.
+[00:20.20 → 00:25.00] Y no sé. De repente es purete. Y el man es para empresas de afuera y eso. No, solo en latamo.
+PTT-20250221-WA0032.opus | lang=es prob=0.9049507975578308 dur=25.4s
+------------------------------------------------------------
+[00:00.00 → 00:25.00] A mi me siento reofendida con lo que dijo en serio, que onda, que se vaya así o sí, además tipo X, como te digo, ¿cómo era la chica que... no olvides su nombre, pero hay una chica también que tampoco es muy flaquita ni nada y tipo... para que vean que cuerpos hay nomas, digo.
+PTT-20250309-WA0005.opus | lang=es prob=0.9505849480628967 dur=28.4s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Me es Mastinbo, tipo no se
+[00:02.00 → 00:04.00] Te lo explico, está con otro novio
+[00:04.00 → 00:06.00] Está así pureando el trabajo
+[00:06.00 → 00:08.00] Quiere regalo el hijo de la jefa
+[00:08.00 → 00:10.00] Un reloj, what the fuck
+[00:10.00 → 00:12.00] Ah si, eso es muy rando
+[00:12.00 → 00:14.00] Eso hace nada que verde
+[00:14.00 → 00:16.00] El hecho de que haya mencionado
+[00:16.00 → 00:18.00] Que no sabemos como exactamente fue
+[00:18.00 → 00:20.00] Pero el hecho de que haya mencionado
+[00:20.00 → 00:22.00] Mastinbo
+[00:22.00 → 00:24.00] El precio y la persona de Mastinbo
+[00:26.00 → 00:28.00] Muy ex-dilegalmente
+PTT-20231212-WA0035.opus | lang=es prob=0.8272935748100281 dur=28.9s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Ahora me fui a trapezar, puedo hablar mejor.
+[00:04.00 → 00:05.00] Pero...
+[00:06.00 → 00:07.00] No sé, Ferro.
+[00:07.00 → 00:10.00] Lele, te me suena de necesito de lo de tu diente, Onda.
+[00:11.00 → 00:12.00] ¿Qué haces?
+[00:12.00 → 00:13.00] No, es...
+[00:13.00 → 00:15.00] Afrán, lo más tipo de diente está...
+[00:15.00 → 00:16.00] Ahora se va a revisarse.
+[00:17.00 → 00:18.00] Pero, Lele...
+[00:18.00 → 00:19.00] Onda, uu...
+[00:19.00 → 00:20.00] Ojalá que te...
+[00:20.00 → 00:22.00] Podáis que mañana hay que te revisen, mi niña, todo.
+[00:25.00 → 00:26.00] Espera, ¿de qué no está hablando?
+[00:26.00 → 00:27.00] ¿De qué no está hablando?
+[00:27.00 → 00:28.00] O sea, no es Onda.
+[00:28.00 → 00:29.00] Uu.
+PTT-20240409-WA0045.opus | lang=es prob=0.909998893737793 dur=27.8s
+------------------------------------------------------------
+[00:00.00 → 00:04.84] yo tuviera que hacer así porque los médicos chetos acá al lado de casa les
+[00:04.84 → 00:10.28] molestaban las plantas de mango les molestan las plantas de banana todo le
+[00:10.28 → 00:15.76] molesta pero nosotros nosotros no vamos a quejar de su planta de guayaba
+[00:15.76 → 00:21.04] que sucia no producen nada pero es una chita
+[00:21.04 → 00:28.96] y por eso mandé yo cortar de podar una beja así también por este señor que te había comentado
+PTT-20230812-WA0014.opus | lang=es prob=0.9127599596977234 dur=28.1s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Ya, a veces va al aeropuerto las nueve, o somo que yo lo he hecho fredo
+[00:05.00 → 00:08.00] Uff, no se, podemos calcular
+[00:08.00 → 00:10.00] Y ya, eh...
+[00:10.00 → 00:14.00] En realidad salvo ocho y media o ocho pre
+[00:14.00 → 00:17.00] Osea, me quiero ir nomas más temprano, por si acaso
+[00:17.00 → 00:21.00] Porque me dijeron que capaz no hay cuarenta, ya paso, pero da puerto
+[00:24.00 → 00:28.00] Yo estoy chill en casa, estoy jugando ahora Baldur's Gate 3
+PTT-20240208-WA0004.opus | lang=es prob=0.6501775979995728 dur=29.9s
+------------------------------------------------------------
+[00:00.00 → 00:12.00] ¡Hola! Si yo voy a estar en casa, tengo un flatingue hecho verquísima, estoy en SPING pero sin la S
+[00:13.00 → 00:15.00] Bueno, por eso quiero vos también
+[00:17.00 → 00:19.00] ¡Faz la folga! Soy de Avorragi, no se...
+[00:21.00 → 00:23.00] O sea, se hace serapitario
+[00:23.00 → 00:25.00] Ay, hija de puta
+[00:26.00 → 00:28.00] Tienes que dormir realmente
+[00:28.00 → 00:30.00] ¡Agracidos!
+PTT-20250221-WA0023.opus | lang=es prob=0.9490985870361328 dur=30.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Totalmente aptuos, pero tipo, estás súper bienvenido.
+[00:08.00 → 00:13.00] No, no soy seguro que te referís con que tengas tiña en tipo de coro rojo así, tipo what.
+[00:14.00 → 00:19.00] Para serme imagino cada vez serlo más tipo sweat o presión marzo de estar sentado y eso.
+[00:20.00 → 00:21.00] Pero, pero niña, u...
+[00:23.00 → 00:26.00] Pero ya, u, fuerza. Estás re-welcome.
+[00:26.00 → 00:29.00] Igual si, tipo, más tarde de noche estás con el lapiroto. Aparece, no va.
+[00:30.00 → 00:31.00] No, no.
+PTT-20231129-WA0006.opus | lang=es prob=0.8734038472175598 dur=30.3s
+------------------------------------------------------------
+[00:00.00 → 00:17.92] Que son las cosas que te gustan de Wadi, pero como es diferente Wadi de las otras chicas
+[00:17.92 → 00:18.92] que te gustaron antes.
+[00:18.92 → 00:28.76] Si me conoce, preguntás a una de esas creo que sirven para pensar en la de eso.
+PTT-20240924-WA0009.opus | lang=es prob=0.9220703840255737 dur=30.1s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Fran, voy a aplicarle lo más y después aprende.
+[00:04.00 → 00:06.00] Tanteo es gratis.
+[00:06.00 → 00:08.00] Así es.
+[00:08.00 → 00:10.00] Por ahí te vas y te escapas de gelato.
+[00:10.00 → 00:12.00] Trabajas chill desde tu casa.
+[00:12.00 → 00:15.00] Y qué otra cosa, qué otro beneficio hay.
+[00:15.00 → 00:17.00] No aprende cosas nuevas.
+[00:17.00 → 00:19.00] Cuamit.
+[00:19.00 → 00:21.00] Estoy ganando un M14.
+[00:21.00 → 00:23.00] iOS Dev.
+[00:23.00 → 00:25.00] Pegle onda 30, 20 por ahí.
+[00:26.00 → 00:28.00] Dev vas a poder conseguir.
+[00:28.00 → 00:30.00] Conseguir.
+PTT-20240711-WA0019.opus | lang=es prob=0.9524428248405457 dur=30.6s
+------------------------------------------------------------
+[00:00.00 → 00:06.76] Puede ser, cuando llegue el momento que aquí voy a pedirlo, obviamente, pero mientras tanto no estoy en esa posición.
+[00:06.76 → 00:16.00] Pero si, también hay que valorar cuantos años de experiencia tenía a Noel, porque acá en Paraguay se sigue midiendo mucho por la antigüedad.
+[00:16.00 → 00:24.24] Yo conllevo ahora, decir, realmente, dentro de 5 días cumplo 2 años en el ámbito laboral.
+[00:24.24 → 00:30.56] El 15 de julio empecé yo en Neko, y ahora van a ser 4 o 5 meses que han ido...
+PTT-20231021-WA0006.opus | lang=es prob=0.9595166444778442 dur=29.2s
+------------------------------------------------------------
+[00:00.00 → 00:04.30] Mam, ¿viste que Pulse no confirmó si podemos hacerlo en su casa?
+[00:04.80 → 00:07.90] Yo estaba pensando si terminamos en tu casa y después nos vamos.
+[00:08.90 → 00:12.10] Porque después no nos dijo nada y me dijo luego por privado también
+[00:12.40 → 00:14.80] que no planifiquen nada hasta que los demás confirmen.
+[00:15.40 → 00:18.00] Entonces, vamos a trabajar en tu casa y cuando confirmemos
+[00:18.00 → 00:19.00] vamos a irnos los de Pulse.
+[00:20.00 → 00:21.70] Yo traje todo mis cosas para rezar en tu casa,
+[00:21.70 → 00:23.10] pero dame el chance,
+[00:23.50 → 00:25.30] voy a entrenar un ratito, una hora,
+[00:25.70 → 00:26.60] ahí a las 10,
+[00:27.10 → 00:28.70] 10, 10 mil veces en tu casa, ¿sí?
+PTT-20250221-WA0022.opus | lang=es prob=0.9018170237541199 dur=33.4s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Chil, la obtener la minestría y cositas así, tipo ahí a esa espalda es el tigrecito
+[00:07.00 → 00:12.00] Tipo no sé para mí es un daúf, mira de metido gana y bajo de peso, tipo
+[00:13.00 → 00:15.00] proof que le metes esfuerzo
+[00:17.00 → 00:21.00] Yo le diría que parezca nomás, tipo si te sentís cómodo
+[00:21.00 → 00:24.00] y es chistino más chil, va idea, va a ver carne
+[00:24.00 → 00:29.00] Gente buena onda, te le conocés al grupo y después estas modo ufff
+[00:29.00 → 00:33.00] y me conocí de gordo y ahora de flaco, de mamado ufff
+PTT-20240208-WA0005.opus | lang=es prob=0.8092136979103088 dur=33.7s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] Ojo, Liz, te iba a hacer llamada por hablar y eso, por si es que te sorje, porque leerme me le fue a la bola loco.
+[00:08.00 → 00:11.00] Pero ánimo.
+[00:11.00 → 00:15.00] What? ¿Qué he hecho por Tefrán? ¿Qué onda?
+[00:15.00 → 00:21.00] ¿Cómo te hicieron gastar así por ella? O sea, what, no entiendo.
+[00:21.00 → 00:24.00] Fuerza.
+[00:24.00 → 00:29.00] Hay que tener un buen viaje y a mover.
+[00:29.00 → 00:33.00] Ánimos, perro.
+PTT-20240210-WA0025.opus | lang=es prob=0.9387773275375366 dur=32.4s
+------------------------------------------------------------
+[00:00.00 → 00:03.94] Man, todos mis socios me dijeron lo mismo, y todo lo que estamos ahí ya tipo,
+[00:03.94 → 00:06.92] oh, de esas chicas, una perra, o lo...
+[00:06.92 → 00:09.42] Bueno, yo me da exactamente igual, le dije que no,
+[00:09.42 → 00:13.00] no quiero salir, tengo cosas que hacer, y ahora estoy viendo qué hacer esta tarde,
+[00:13.00 → 00:16.92] tipo, no, posiblemente no sé si están para ir a chilear, no sé si vos tenés hoy,
+[00:16.92 → 00:21.28] eh, vas a estar el rachky con la agua o así, verdad, tipo...
+[00:21.28 → 00:25.18] Si hay cosas para hacer la noche, yo estoy para echar comida y para cocinar algo,
+[00:25.18 → 00:27.82] tipo, pero si es que vos vas a estar ocupado,
+[00:27.82 → 00:29.90] ahí se nos mantén cosas, y le invito, vale, eso.
+PTT-20240210-WA0008.opus | lang=es prob=0.7511579990386963 dur=36.7s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Y un éxito legalmente.
+[00:18.00 → 00:21.00] En todo caso de Y aquí le he escrito a la chatica que fuiste
+[00:22.00 → 00:26.00] y que con ese preparé una refuerza de becho por esto.
+[00:26.00 → 00:30.00] Así, tipo, no sé.
+[00:33.00 → 00:35.00] Si no, siempre estoy al costearle.
+PTT-20240409-WA0046.opus | lang=es prob=0.8717952370643616 dur=33.6s
+------------------------------------------------------------
+[00:00.00 → 00:04.44] Ya, ahí me va a pasar el vecino, si es que entran su cámara al video
+[00:04.44 → 00:11.44] Me comentó lo también que tuvo problemas similares, es un tiempo que le vieron que corte su árbol y pudo, wau, pero mala onda
+[00:11.44 → 00:14.14] Y ya, y no sé, pero...
+[00:14.14 → 00:18.64] Veo un frase y tengo el video, mi idea es literal asustarle a la señora y que se calme
+[00:18.64 → 00:23.64] Y me imagino que un abogado que le da así una... una encajona así en su culo
+[00:24.64 → 00:29.14] Que tipo le haga tener miedo así de una violación a su billetera
+[00:30.00 → 00:33.64] Porque qué puta, qué vieja más conchuda
+PTT-20240607-WA0001.opus | lang=es prob=0.8486905097961426 dur=34.9s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] ¡Hellos! ¿Cómo estás? He hecho vergo. Posiblemente con un gripe o en un H1 o venga o no te unirás, pero...
+[00:09.00 → 00:12.00] He hecho vergo.
+[00:12.00 → 00:20.00] Hoy con Cami íbamos a cantar la Junior Edge. Capaz se puede decir algo. Yo no creo que sea buena idea.
+[00:20.00 → 00:23.00] No es capaz de enfermar otra vez a la gente.
+[00:23.00 → 00:29.00] Me imaginé ayudarme a armar mi PC y su cumpleaños mañana. Me dijo a Cami que...
+[00:29.00 → 00:35.00] ¿Y capaz de hacer eso? Puedo decirlo. Yo estoy hecho verguisima. No comiendo.
+PTT-20250221-WA0021.opus | lang=es prob=0.9212290048599243 dur=36.4s
+------------------------------------------------------------
+[00:00.00 → 00:16.00] Venís ahora a un Flak que está todavía a Chovy, y después venís, o sea, te conocen ya todo chill, y después le venís de vuelta mamadísima así como feroz culo, y decís ahora sí, ya ven la estatua griega que te lleve, o te llevas a un Flak.
+[00:18.00 → 00:22.00] Pero yo creo que todo va a estar chill de bollo, tipo...
+[00:23.00 → 00:28.00] No sé, los que estaban en las eventos anteriores tampoco es que se dan todos así el más cirujo.
+[00:28.00 → 00:33.00] Tipo, el Twinkie y el Manky le gustaba que le troputen, sí, pero los demás no.
+PTT-20231006-WA0069.opus | lang=es prob=0.9390761852264404 dur=35.2s
+------------------------------------------------------------
+[00:00.00 → 00:04.52] ¿Oli van qué tal? Claro que sí, pasé súper bien cada vez que estoy con ustedes, pasé demasiado bien.
+[00:04.52 → 00:09.34] Yo no más estaba vine acá con casa rápido, después de la clase, porque tenía que...
+[00:09.34 → 00:11.10] tenía que...
+[00:11.10 → 00:14.96] o sea, tengo que prepararme para que salga el mañana, aunque la mente no estudia nada.
+[00:14.96 → 00:18.46] Voy a costarme y no me ha dormido, he de descansar, tener la mente descansada.
+[00:18.46 → 00:22.04] Y llamo cada vez, o sea, hoy me premié y se le he empezado.
+[00:22.04 → 00:24.60] Me compro una hamburguesa de mostaza, sé qué quería.
+[00:24.60 → 00:26.16] Y eso es más conmigo.
+[00:26.32 → 00:27.68] Pero nada, eh...
+[00:27.68 → 00:31.56] ¿Trochil? Realmente te agradezco mucho a tú este día, realmente.
+[00:31.56 → 00:35.16] Y vamos a ver fácilmente cuando cobre hacemos algo, fuera de bola.
+PTT-20240208-WA0022.opus | lang=es prob=0.8847246766090393 dur=38.3s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] Si te sirve, no estás mi psicóloga y es tipo de tu casa nomás y rechil tipo, no sé, para mí está de re bien.
+[00:11.00 → 00:16.00] Concibieron que no hacen ni una diferencia tipo si estás en persona o en una cámara para la terapia.
+[00:18.00 → 00:22.00] Slash es una chica de escandinavia entonces bastante más pro que acá.
+[00:22.00 → 00:35.00] Pero no sé, women are scary legalmente. Slash es una chica así que va a tener mejor como piensan las chicas.
+PTT-20240208-WA0025.opus | lang=es prob=0.81057208776474 dur=39.0s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] No tengo ni idea de quién es Gianni, pero me alegro de que esté bancando también.
+[00:13.00 → 00:22.00] Se viaja después, cuando se tenga dinero de cheto y se llama todo remoto.
+[00:23.00 → 00:29.00] Se gana así 40 para los cada uno, y no, uno más chile así,
+[00:29.00 → 00:32.00] hasta que se desvara a todos puretes.
+[00:32.00 → 00:34.00] Y se chilea.
+[00:36.00 → 00:38.00] Elmo levemente.
+PTT-20231112-WA0022.opus | lang=es prob=0.9543513655662537 dur=36.3s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Para la universidad ya no supongo, o sea, en mi caso yo llevo ese 2 y ya, oof, casi ya, termino.
+[00:07.00 → 00:12.00] Y después para lo que es, es que se lo debo estudiar.
+[00:12.00 → 00:16.00] Lo que pegaría es medio, yo lo voy a hacer todos los días estudiar un capítulo, ¿no?
+[00:16.00 → 00:22.00] Ahora así tipo, con fulco, un saco de pete, para ver que puedo rescatar lo máximo que pueda, ¿verdad?
+[00:22.00 → 00:26.00] Y... y eso, bueno.
+[00:26.00 → 00:31.00] Voy a tratar de entrenar con las preguntas que tiene el profesor y voy a tratar de entrenar un modelo o algo así,
+[00:31.00 → 00:34.00] de echar gpt para ver si es que pueda hacer preguntas igual de imbéciles,
+[00:34.00 → 00:37.00] para ver si es que podemos responderlo más correctamente posible.
+PTT-20250324-WA0013.opus | lang=es prob=0.8961046934127808 dur=44.6s
+------------------------------------------------------------
+[00:00.00 → 00:23.00] Hola, creo que me acuerdo algo, osea, me acuerdo de blockchain, creo que la tarea era hacer, ni me acuerdo, tipo, algo con hacer una cosa que se encryptaba, y creo que era así un modelo destino, algo así, ni puta idea.
+[00:24.00 → 00:29.00] Ah no, hash por seguidón o algo así, era que se dedicó al profe.
+[00:30.00 → 00:41.00] Que hacía con hash por seguidón una oludés, que eso se encryptaba, te ponía en tal forma y después eso, tipo, se simulaba con un flag, hacer las moneditas fuera de esas.
+[00:42.00 → 00:44.00] Espero no sé, muy bullshit.
+PTT-20240711-WA0014.opus | lang=es prob=0.9546530842781067 dur=42.0s
+------------------------------------------------------------
+[00:00.00 → 00:05.72] es que para mí que vos sos señor y es yo si soño arquitecto tipo por eso ya debes cobrar más
+[00:10.20 → 00:14.24] onda no sé pero
+[00:18.40 → 00:23.72] te quería pasar nomás de contexto para que tengas así con referencia de cuando ha ganado otras
+[00:23.72 → 00:30.64] personas para cuando pido más moni onda de ser mira tal persona es de y sé que era tonto
+[00:30.64 → 00:33.92] o ni siquiera eso sé que los de están ganando tanto
+[00:35.92 → 00:40.80] y es pelgosa que me pague en onda esto para por discutir elegí eso
+PTT-20251014-WA0045.opus | lang=es prob=0.9137719869613647 dur=43.4s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] O sea, 100.000, es lo que está cobrando ahora como profesora ish particular de nenes autistas pequeños.
+[00:09.00 → 00:14.00] Def, 100.000 por el... ¿Cómo se llama?
+[00:14.00 → 00:19.00] Terapia le va a hacer muchísimo más, no dice el trabajo porque no tenés que estar ligando con un nene pelotudo.
+[00:20.00 → 00:27.00] Bueno, sí, un nene grande pelotudo, pero onda responsable y yo se le puede hablar más bien, no está gritando.
+[00:28.00 → 00:33.00] Slash más estable los horarios que cuando es con un nene random de colección.
+[00:34.00 → 00:40.00] Pero ahora mismo está ganando onda 100 por hora haciendo eso, si lo ofrecer más que 100 va a estar recontra feliz.
+[00:41.00 → 00:43.00] Y te paso un plado de info.
+PTT-20241202-WA0019.opus | lang=es prob=0.9511140584945679 dur=41.0s
+------------------------------------------------------------
+[00:00.00 → 00:02.02] O sea, permite ir a Replicale, perro.
+[00:02.02 → 00:06.16] Antes ya lo te dije, aplicar la METORMATE no negres para la gente de acá, te van a afotarnos más.
+[00:08.00 → 00:14.28] Pero si preguntabas onda de que se le hable una persona y le digas, les recomiendo a Fran, tipo, no tengo ni idea de quién decirle.
+[00:16.12 → 00:18.64] Not sure, si es que en mi opinión, actualmente vale algo ahí.
+[00:19.80 → 00:21.64] Pero, Replicale, perro.
+[00:22.08 → 00:26.72] Allá lo otro poco es que haya mucho nepotismo, tipo, aplicale y mira que está el tema de la aplicación.
+[00:27.16 → 00:31.32] Te van a decir, loco decir, si ya usted pagamos, usted no tratamos porque es manpro.
+[00:32.32 → 00:37.88] Más que porque o no, ese cuar hace un año era pro y le haré comiendo.
+[00:39.68 → 00:40.88] Tipo, aplicale y chill, perro.
+PTT-20231106-WA0018.opus | lang=es prob=0.9329851865768433 dur=40.0s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Por mí, si querés venir a casa a estudiar, GCC no tiene ningún drama.
+[00:04.00 → 00:05.00] Me gusta el plan.
+[00:05.00 → 00:07.00] Real, estoy para escuchar así, de fondo, un flat de GCC.
+[00:07.00 → 00:11.00] Pero realmente me veo haciendo más cosas de trabajo y...
+[00:11.00 → 00:12.00] Escuchando, Lesslie.
+[00:12.00 → 00:13.00] Sí.
+[00:14.00 → 00:16.00] Tío, ahora mismo estoy viendo un flat de mi hondo, no sé qué hice,
+[00:16.00 → 00:18.00] viendo cómo putas de authenticar mi postman,
+[00:18.00 → 00:20.00] y ya estoy de joyita con cosas de trabajo.
+[00:21.00 → 00:22.00] Y debería estudiar para emergentes,
+[00:22.00 → 00:24.00] pero nadie sabe qué putas estudias.
+[00:24.00 → 00:26.00] No sabemos ni si es rendimiento.
+[00:26.00 → 00:27.00] Literal.
+[00:27.00 → 00:29.00] Y así chill, tipo, no sé.
+[00:29.00 → 00:32.00] Realmente podemos estudiar el propósito de un edificio que rendíamos.
+[00:32.00 → 00:33.00] Ya.
+[00:33.00 → 00:35.00] Y va a ser vuelta.
+[00:35.00 → 00:36.00] Qué putana.
+[00:36.00 → 00:38.00] Una no te calles.
+PTT-20250309-WA0006.opus | lang=es prob=0.8697599172592163 dur=46.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Y el tipo random es de nada que ver ahí el ulti, tipo totalmente, ya.
+[00:07.50 → 00:09.00] Tipo no sé, ah.
+[00:10.50 → 00:15.00] En todo caso, se puede ir de Chile y estar nomás esperando afuera haciendo otras cosas.
+[00:15.00 → 00:17.00] Chileando no va ahí, tipo, no sé.
+[00:17.50 → 00:22.00] El método, yo al menos me sentía muy incómodo en el lugar del tipo también ahí, tipo, estaría anda bueno.
+[00:22.00 → 00:27.00] Me quedaron acá y ya se pasaba, tipo, ¿qué apoyó que te va a dar el total random?
+[00:28.00 → 00:31.00] No sé, no sé, no sé, no sé, no sé mucho.
+[00:32.00 → 00:35.00] El jefe que está nomás entera es muy equis de...
+[00:38.00 → 00:41.00] Es que baja la gente para ser chismosa y hacer humores.
+[00:43.00 → 00:45.00] Que garro, pero fuerza.
+PTT-20240711-WA0015.opus | lang=es prob=0.9235764145851135 dur=40.1s
+------------------------------------------------------------
+[00:00.00 → 00:05.88] Pero no soy señor architecto, pues soy junior architecto, pero soy mi señor en mobile development.
+[00:05.88 → 00:13.72] O sea, para alcanzar el seniority en la parte de arquitectura tengo que tener mucho más
+[00:13.72 → 00:20.04] conocimientos, y no solamente conocimientos de mobile, sino que también conocimientos
+[00:20.04 → 00:24.84] de web. Y hay muchos conocimientos que me faltan. Y tengo que tener conocimientos
+[00:24.84 → 00:28.04] de otras herramientas, o sea, otros lenguajes.
+[00:28.04 → 00:32.36] Yo el único lenguaje que domino bien y tampoco domino bien, porque es muy
+[00:32.36 → 00:35.28] amplio. Realmente me faltan más certificaciones, tengo que hacer más
+[00:35.28 → 00:41.76] cursitos realmente. Pero sí me falta todavía para alcanzar el seniority.
+PTT-20230917-WA0018.opus | lang=es prob=0.9626649022102356 dur=39.7s
+------------------------------------------------------------
+[00:00.00 → 00:04.78] Más que te recomendaría que ese tipo de ahorro veas una caja a plazo fijo fuera un
+[00:04.78 → 00:09.82] banco en una cooperativa un poco más rentable o incluso veas fondos mutos de
+[00:09.82 → 00:12.74] inversiones que es mucho más más recomendable.
+[00:12.74 → 00:17.82] Cadien por ejemplo, vos puedes quitar y meter tu plata y si metes en un fondo,
+[00:17.82 → 00:22.78] en un año tenés 9% de distribución.
+[00:22.78 → 00:28.30] Si por ejemplo metiste 10 millones de guaraníes a un plazo de un año,
+[00:28.30 → 00:32.78] entonces vas a tener 9% y entonces hay que decir que vas a ganar de ese 10 millones vas a
+[00:32.78 → 00:39.10] ganar un 900 mil por ahí 900 mil o un millón aproximadamente.
+PTT-20250102-WA0012.opus | lang=es prob=0.954479992389679 dur=40.8s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] ¿Qué tengo que saber para la entrevista con SAC más o menos? ¿Qué te pregunta y eso?
+[00:05.00 → 00:09.24] Yo voy a certificar Spark, no creo nomás que termine para este mes, o voy a tratar de
+[00:09.24 → 00:14.12] forzarme para inicios en febrero, pero, o estoy estudiando a full. Ayer estudié todo
+[00:14.12 → 00:18.80] el día, hoy voy a estudiar así, cinco horas por ahí, así. La verdad estoy muy contento
+[00:18.80 → 00:24.20] porque logré montar a Spark y probar todo, ya sé ya manejar los data frames, voy a
+[00:24.20 → 00:32.20] meterle así duro lo que es los DLs, DLs, creo que era, los clásteres y eso y me
+[00:32.20 → 00:36.40] empezaron a hacer pruebas. Lo que hago yo me conchené a pedirles este tipo de
+[00:36.40 → 00:42.44] microproyectos para poder aprender cada una de las cosas y poner práctica.
+PTT-20231008-WA0012.opus | lang=es prob=0.9363366365432739 dur=43.7s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Y yo re muerto realmente.
+[00:04.00 → 00:08.00] Hoy a las 12 tengo terapia, después de mi terapia me voy a ir a...
+[00:08.00 → 00:11.00] Lo he decidido a ver otra vez a seguir por lo que no he pasado.
+[00:13.00 → 00:16.00] Después a las 7 me voy a ir en cumpleaños que tengo.
+[00:19.00 → 00:21.00] Y después de eso vuelvo a casa.
+[00:22.00 → 00:28.00] Y el lunes tengo mi to-do list de cosas para hacer.
+[00:28.00 → 00:33.00] Dos tareas de estudiar de MentorMate y...
+[00:33.00 → 00:35.00] ¿Cómo se llama?
+[00:36.00 → 00:39.00] GCC, Machine Learning y Frontend.
+[00:40.00 → 00:43.00] A nadie realmente que paja todo.
+PTT-20230921-WA0009.opus | lang=es prob=0.9480941295623779 dur=41.5s
+------------------------------------------------------------
+[00:00.00 → 00:08.10] Hola, soy yo por responderte ahora. Estuve en mil reuniones, mi compadre móvil que te conté en una sesión hirgana.
+[00:08.10 → 00:10.32] Y mudaste no más ya a Cuba, perro, ya ves.
+[00:10.32 → 00:16.94] Te bajas chill, no hace un carajo tu trabajo decirle al de tu coi va a estar mal, te pagan 10 palos
+[00:16.94 → 00:25.18] por hacerte que dices que chupete te escribes todo, y si sos a Cuba Automation, yo sabés toda la parte de programar y te pagan aún más.
+[00:25.18 → 00:27.18] De una, perdón.
+[00:27.18 → 00:35.18] Ahora me pidieron otra vez que corrijan una cosa que me estuvo malo, agarró y piso a cambios que ya se sucieron en el aerón a Cuba.
+[00:35.18 → 00:39.18] ¡Qué pelo tuvo!
+[00:39.18 → 00:41.18] ¡Mán qué tipo más pendejo!
+PTT-20240208-WA0037.opus | lang=es prob=0.8821055889129639 dur=44.4s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Mi idea, por favor, si es boba.
+[00:04.00 → 00:08.00] Si, suje estar con la gente de Mimitos.
+[00:08.00 → 00:10.00] Ya.
+[00:10.00 → 00:13.00] Pero después hay Felix y te quedas XT.
+[00:13.00 → 00:18.00] Hola. Ahorita vamos a hablar acá.
+[00:18.00 → 00:20.00] No lo sé.
+[00:20.00 → 00:26.00] Pero, si, las relaciones son muy contecadas.
+[00:26.00 → 00:31.00] Pero se encuentran en algún momento.
+[00:31.00 → 00:36.00] Hay que hacernos remelazmentes para usar ese directo con chicas.
+[00:36.00 → 00:39.00] Por favor, diga bien.
+[00:39.00 → 00:42.00] Si, estoy pegable.
+PTT-20240210-WA0029.opus | lang=es prob=0.9112796187400818 dur=42.7s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Y si está dándole, yo estoy para ahí llevar cosas para cocinar con ustedes esta noche ahí, estar en Chile.
+[00:05.00 → 00:08.00] Yo quería lo hacer eso ayer, pero ayer pasaron cositas, ¿verdad?
+[00:08.00 → 00:11.00] Tipo, no pude, no pude, yo ahora voy a ir al gimnasio y eso.
+[00:11.00 → 00:14.00] Entonces yo le dije a Tamina, tengo planes.
+[00:14.00 → 00:16.00] Tengo planes con gente que realmente sí me importa.
+[00:16.00 → 00:19.00] Como perras, como esa perra.
+[00:19.00 → 00:23.00] Porque te juro, es muy fácil agarrar, fingirle más.
+[00:23.00 → 00:25.00] Yo bueno, soy tonto, man.
+[00:25.00 → 00:27.00] Yo como tipo, también tengo cierto nivel de calle.
+[00:27.00 → 00:31.00] Y tipo, bueno, le dijo a todos los socios que quieren ir a la piscina y decir,
+[00:31.00 → 00:34.00] bueno, si quieren coger con otros, que coja con otros.
+[00:34.00 → 00:37.00] Pero que no me busque a mí, para hacer yo sustenar pistas de gratis.
+[00:37.00 → 00:40.00] Ya pido, sucia, zorra.
+[00:40.00 → 00:42.00] Aquerosa, puta.
+PTT-20240607-WA0002.opus | lang=es prob=0.8967694044113159 dur=44.3s
+------------------------------------------------------------
+[00:00.00 → 00:06.74] O sea, como de razón que eso nos enfermamos fue Onda, Vos, Fran, Ehh, Fran, Ale y después yo
+[00:07.34 → 00:09.24] Y también de ahí, Lau
+[00:10.74 → 00:12.94] Pero, parece que Ale y Lau tuvieron vacunas
+[00:12.94 → 00:14.74] Y por eso estaban más bien
+[00:14.74 → 00:16.58] Y yo me olvidé de ponerme todo allá
+[00:16.58 → 00:17.92] Y me fui a la puta
+[00:20.62 → 00:24.46] Para mí es lo mismo, o sea, si es que pasa de A a B, o de A a B hace
+[00:26.46 → 00:27.12] Pero de...
+[00:27.12 → 00:29.26] Pregundan si estaba vacunado por su casa
+[00:29.34 → 00:30.34] Vos estás...
+[00:31.54 → 00:33.34] Vos estás vacunado por su acaso
+[00:33.34 → 00:34.34] Contra el influencia
+[00:34.34 → 00:35.54] Contra el influencia
+[00:36.98 → 00:40.54] Pero de mi usual en casa de gente enferma, ella es de la puta
+[00:40.54 → 00:41.54] Ella es de su casa
+PTT-20230921-WA0010.opus | lang=es prob=0.9532890319824219 dur=44.8s
+------------------------------------------------------------
+[00:00.00 → 00:08.08] Pero si no, no joke, QA, hay pocos que sean decentes y QA, Automation, aún menos porque
+[00:08.08 → 00:13.52] tenés que saber programar, y la gente que sabe programar se va nomás a developing eso,
+[00:13.52 → 00:22.16] pero al parecer, QA tiene bastante nice playing, encima el trabajo es literal tan easy.
+[00:22.48 → 00:31.44] Tipo no sé, una vez hice que pues una vez que se te daba bien todo, yo ahora me estoy
+[00:31.44 → 00:39.36] pilando con Apium, pero en serio man, que solete tu compañero le dan el té, que pa' que
+[00:39.36 → 00:43.84] no pa' que te paguen 10 palos y no pueda fucking hacer un git merge bien, que puta.
+PTT-20240210-WA0037.opus | lang=es prob=0.634932279586792 dur=48.5s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Y yo he usado referente, mirad.
+[00:07.00 → 00:10.00] Yo he entendido el pichero en Floresta,
+[00:10.00 → 00:17.00] todo tipo que estuve de dengue no vino a visitarme ninguna vez.
+[00:18.00 → 00:21.00] Y el tipo único que me dijo referente a dengue es...
+[00:21.00 → 00:24.00] y no se ha estirado, pero no se ha estirado referente.
+[00:26.00 → 00:28.00] Y yo ahí...
+[00:31.00 → 00:33.00] ¿Qué vamos a hacer?
+[00:33.00 → 00:35.00] A mí empece menos de medio...
+[00:36.00 → 00:40.00] un realistic ponerme referente cada vez que salgo de mi pieza.
+[00:43.00 → 00:46.00] Tiempo, ponemos el, espirar ese cada tanto, pero...
+[00:46.00 → 00:48.00] ya, ahí.
+PTT-20231008-WA0013.opus | lang=es prob=0.9642935991287231 dur=44.2s
+------------------------------------------------------------
+[00:00.00 → 00:07.80] entiendo, entiendo. No, está bien. Y ahora quiero terminarlo más. Ya dije, ya, of, de todo
+[00:07.80 → 00:13.56] su tema. O sea, medio de clarezo, voy al tema de la beca. Esa es el tipo de video que quiero
+[00:13.56 → 00:17.36] dedicarme a mí. O sea, lo que pasa por ejemplo es que como engordé muchísimo, por todo
+[00:17.36 → 00:25.92] esto, es que yo quiero volver a mí el entrenamiento de uno de mis objetivos ahora. Y eso
+[00:25.92 → 00:36.84] de y plus hacer más certificación. Ahora, por ejemplo, quiero certificar Kotlin. Quiero
+[00:36.84 → 00:40.88] aprender Kotlin y quiero certificar Kotlin. Ya manejo más o menos Flutter. Yo me defiendo
+[00:40.88 → 00:42.64] con Flutter desde ahora quiero ser Kotlin.
+PTT-20240711-WA0017.opus | lang=es prob=0.9105969667434692 dur=48.3s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] No se, me considero bastante probable en mi ala de fronte.
+[00:08.00 → 00:10.00] Están pegando onda...
+[00:10.00 → 00:13.00] ¿Tenés que poner arquitecto en tu título?
+[00:13.00 → 00:16.00] Entonces ya debes estar ganando muchísimo.
+[00:16.00 → 00:19.00] Y estás ganando onda... lo que gana a Cuba.
+[00:21.00 → 00:24.00] Ehh... por eso el ala más onda por el que es tipo...
+[00:24.00 → 00:27.00] No sé, o sea, en mi opinión debería generar onda 15-20 por ahí.
+[00:31.00 → 00:33.00] Nahuel, creo que es...
+[00:33.00 → 00:36.00] Creo que era Cuba antes y se fue a Dev, ella.
+[00:36.00 → 00:38.00] No tengo ni de quién es Nahuel.
+[00:39.00 → 00:42.00] Pero basado en que se fue así de Cuba a Dev de ahí.
+[00:43.00 → 00:45.00] Esperaría...
+[00:45.00 → 00:48.00] tipo, que se pare más a vos, legalmente, claro.
+PTT-20240208-WA0006.opus | lang=es prob=0.8321087956428528 dur=48.9s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Uuuh, se hace cuando se llamó después de que empezó.
+[00:04.00 → 00:07.00] Si, ¿cuál es el franc?
+[00:07.00 → 00:09.00] No, no sé.
+[00:09.00 → 00:14.00] Intentan todo caso pensar en otras cosas para ir.
+[00:14.00 → 00:16.00] Eh, no sé.
+[00:16.00 → 00:18.00] Mi idea.
+[00:18.00 → 00:21.00] Pero, muy hecho puto, de verdad.
+[00:21.00 → 00:23.00] XD.
+[00:23.00 → 00:26.00] Te deseo un viaje corte y que llegues ya.
+[00:26.00 → 00:28.00] Si.
+[00:28.00 → 00:33.00] Pero, intentar, no sé, estar con...
+[00:33.00 → 00:36.00] con gente rándomo que, con otra gente,
+[00:36.00 → 00:38.00] disfrutar algo que puedas en todo caso.
+[00:38.00 → 00:40.00] El viaje, para que no sea tan bajo.
+[00:40.00 → 00:42.00] Mmm.
+[00:42.00 → 00:45.00] Toma, te nombré la tonina y dormí todo el viaje.
+[00:45.00 → 00:47.00] También.
+[00:47.00 → 00:49.00] Fuerza.
+PTT-20230919-WA0038.opus | lang=es prob=0.8038085103034973 dur=47.9s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] ¡Hola perro! Soy Río, ahora es el reciente nuevo tiempo, volví, volví a casa.
+[00:05.00 → 00:11.00] Me fui a la iglesia, con la iglesia.
+[00:11.00 → 00:14.00] Y ya.
+[00:14.00 → 00:18.00] ¡Qué cool que se hay en Kansas!
+[00:18.00 → 00:21.00] Te das cuidadas, te bajas ir a Kansas
+[00:21.00 → 00:26.00] y directo trabajas ahí, translas para hacer work en campos con ellos ahí.
+[00:27.00 → 00:30.00] Si no, puedes mirar para quedarte
+[00:30.00 → 00:34.00] un mes más ahí para hacer work training ahí con ellos.
+[00:34.00 → 00:38.00] Y después cuando vuelves a Paraguay haces trabajo directo por un mejor salario
+[00:38.00 → 00:42.00] porque ya haces training desde el training y va a ser de Estados Unidos.
+[00:42.00 → 00:45.00] O algo así le puedes lanzar, es bueno, yo qué sé.
+[00:45.00 → 00:48.00] Pero me tele, perdón, qué cool.
+PTT-20240119-WA0017.opus | lang=es prob=0.8577224612236023 dur=48.3s
+------------------------------------------------------------
+[00:00.00 → 00:08.70] Man, qué nice. O sea, vos sabés que estoy hablando abiertamente con mis abuelos sobre el tema de la marihuana, eso, ¿verdad?
+[00:08.70 → 00:14.00] Y ellos vos sabés que ni cerca de molestarse porque yo le digo que yo consumo, ¿verdad?
+[00:14.00 → 00:20.50] Tipo, ellos, man, no. Tipo, me acertan así como soy, eso, ¿verdad? Y, tipo, ellos saben que yo con mi...
+[00:20.50 → 00:24.70] Como soy, ¿verdad? Voy a poder controlarme con ese tema. Entonces, ni les molesta.
+[00:24.70 → 00:27.60] Y es muy faixa hablar abiertamente con mis abuelos de eso.
+[00:27.60 → 00:35.10] Eso sí, ellos me dijeron que ellos no consumirían porque una vez consumieron CBD y a mi abuelo y a mi abuelo sí le hizo un poquito mal.
+[00:35.10 → 00:41.10] Pero, pero es re nice fuera abuelo. O sea, tipo que... que acepten eso, ¿verdad?
+[00:41.10 → 00:48.10] Y yo, ah, bueno. Y les pregunté si no le iba a molestar si traigo a casa y digo que no. Obviamente con mis padres no mal de más.
+PTT-20241210-WA0001.opus | lang=es prob=0.8748364448547363 dur=55.0s
+------------------------------------------------------------
+[00:00.00 → 00:07.20] Se ve bastante lindo realmente, diría que en todas se podrán también agregarleras,
+[00:07.20 → 00:13.60] eso es lo que haga rapero más, pero no sé si le agrega hasta ahí lo que existe en la facultad y eso, tipo
+[00:13.60 → 00:20.80] charlas que diste, eventos que participaste, tipo esos cursos que diste en
+[00:20.80 → 00:25.60] cursos de invierno y eso, a raíz de antedal ahí,
+[00:25.60 → 00:30.68] yo estoy diste en el centro de estudiantes, por favor, también ahí me parecen,
+[00:30.68 → 00:35.00] y por eso, bueno, vas a ir a Bolsheet y te dale verga, pero por la empresa,
+[00:35.00 → 00:38.80] mejor man que estuvo en el centro de estudiantes,
+[00:38.80 → 00:43.20] que hizo todo eso, que man que no hizo nada de eso, tipo,
+[00:43.20 → 00:47.60] le vas a hacer relativamente mojo, igual ya está bastante, perdón, espero que lo hagas.
+[00:51.60 → 00:54.60] Me está muy lindito, me gusta.
+PTT-20240813-WA0018.opus | lang=es prob=0.9150850772857666 dur=56.3s
+------------------------------------------------------------
+[00:00.00 → 00:07.44] No entendí con eso si es que aparecer o no, para irnos y después te vas antes o
+[00:07.44 → 00:15.48] cuál es tu plan al final pero anyway está súper invitado a aparecer en casa
+[00:15.48 → 00:21.24] nos vestimos a esteric, lo vamos al asefo, se envían tetas al aire, se chilea, se
+[00:21.24 → 00:27.08] fumó un porraso y después se armó todo el mundo a su casa, tenés material para
+[00:27.08 → 00:30.00] una buena paja mental
+[00:30.00 → 00:41.24] no sé, tipo, super welcome, para quizás por eso tipo siendo jaja que pacha, ya tipo
+[00:41.24 → 00:46.68] entendí cuál de los dos quieres hacer, tipo al aparecer, irte antes o el no
+[00:46.68 → 00:51.68] aparecer o el aparecer y quedarte hasta el final, pero anything que vos esto es
+[00:51.68 → 00:57.72] cómodo está super welcome a unirte, tipo Rachel
+PTT-20240208-WA0023.opus | lang=es prob=0.8429456353187561 dur=53.5s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] abracito
+[00:06.00 → 00:08.00] fuerte
+[00:10.00 → 00:12.00] se hacen viajes después
+[00:12.00 → 00:15.00] sin gente random y le conocen a chicas locales
+[00:15.00 → 00:17.00] y le come su culo así
+[00:18.00 → 00:20.00] y estas ni bollo
+[00:20.00 → 00:21.00] quiero
+[00:21.00 → 00:23.00] me gustaría saber con una chica de gancho
+[00:23.00 → 00:25.00] nos vamos a seguir viajando a Japón
+[00:25.00 → 00:27.00] y le comemos uno japonesito
+[00:28.00 → 00:30.00] uno de cada agujero
+[00:37.00 → 00:39.00] pero ni de la perro
+[00:41.00 → 00:43.00] no le dejo una a la chica de 18
+[00:43.00 → 00:45.00] cierto
+[00:47.00 → 00:49.00] le deseo ver si tos a la vuelta
+[00:49.00 → 00:51.00] si
+[00:51.00 → 00:53.00] fuerza
+PTT-20240208-WA0034.opus | lang=es prob=0.8416563868522644 dur=51.9s
+------------------------------------------------------------
+[00:00.00 → 00:02.80] En todo caso, si querés que haga algo como el Prodermit Up,
+[00:02.80 → 00:05.80] tipo damos la conferencia, ni idea.
+[00:05.80 → 00:11.30] Pero en E-Triple y eso, al menos mi contexto de la mayoría de las chicas que están ahí,
+[00:11.30 → 00:13.80] es que son un tipo de medios lesbianos.
+[00:13.80 → 00:20.80] El tipo que nos fuimos a el cumpleaños de una,
+[00:20.80 → 00:23.60] eso despedía, que se iba a ir en el país,
+[00:23.60 → 00:28.60] y se fueron otras dos más de E-Triple, que eran todos lesbianos,
+[00:28.70 → 00:32.20] y no, o sea, personalmente no iba, yo tipo Remboot,
+[00:32.20 → 00:36.20] pero no creo que encontrase una chica que te debo la...
+[00:38.20 → 00:41.20] Pero maybe, ni idea, tipo...
+[00:43.80 → 00:47.80] tipo no se, es que también está tipo Natalie y eso,
+[00:47.80 → 00:51.80] pero creo que está más de, no se.
+PTT-20250120-WA0012.opus | lang=es prob=0.9454588294029236 dur=57.4s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Si no, osea, mi idea es una, osea, mi opinión es una de esto, tipo...
+[00:07.00 → 00:17.00] La verdad, lo mal tipo, te dice, si este rango salarial, esto son las cosas, esto es el resto de la info que nos pasa en el coso.
+[00:17.00 → 00:23.00] Si es que te interesa decir, me interesa ir aplicados. Si no, no. Y miras cuántos te ofrecen.
+[00:23.00 → 00:31.00] Y cuando sea tu época de aumento, te hace saber, miras, me estas llegando ofertas afuera, por por lo menos esta cantidad.
+[00:31.00 → 00:33.00] Se hace un fla de legisito.
+[00:34.00 → 00:40.00] Porque, y ti no vas a, osea, tu empresa actual no puedes perderte a vos ahora, tipo...
+[00:40.00 → 00:47.00] Cosa redensa ni lo estas haciendo. Te pierde y quien pió se va a encargar de hacer la regeneridad flutter de esas cosas, tipo...
+[00:47.00 → 00:54.00] Pero anda eso, tipo... anda tipo para que te entes, en vez de un fla que ofrecen.
+[00:54.00 → 00:56.00] Y anda eso.
+PTT-20240429-WA0030.opus | lang=es prob=0.8819097876548767 dur=53.1s
+------------------------------------------------------------
+[00:00.00 → 00:07.76] Y bueno, ya sé quién es, porque tipo, es mala onda, jijij, pero el concierto que tengo
+[00:07.76 → 00:14.76] esta vez fue onda, llevaron el lado para comer contigo y la vez que trajo el lado abuelo
+[00:14.76 → 00:15.76] no le quiso comer.
+[00:15.76 → 00:22.72] O sea, a mí el contesto que me dieron fue alguien que se fue a tu casa con el lado
+[00:22.72 → 00:27.44] para comer contigo, creo que era el lado dieta o algo así, y tipo, quería comer
+[00:27.44 → 00:32.64] el bueno más porque era el lado dieta, y esa persona me dijo onda, que te estresa si te
+[00:32.64 → 00:41.52] alteraste un flan y yo onda, ah, bueno, de seguro estamos, Dios mío y colado que puedo
+[00:41.52 → 00:52.56] comer porque el lado dieta, ni da, pero es uno de los contextos, contextos que me pasaron.
+PTT-20250309-WA0004.opus | lang=es prob=0.9395180344581604 dur=59.6s
+------------------------------------------------------------
+[00:00.00 → 00:03.50] Ahora les vamos a ver el mensaje sobre el screenshot.
+[00:03.50 → 00:05.50] ¿Cuál es la facta legalmente?
+[00:07.50 → 00:10.50] Y no sé, supongo que te responderá.
+[00:10.50 → 00:14.00] Yo estaré, ya te mandaste, ya sé que te querías decir.
+[00:14.00 → 00:17.50] Sé que se picha y ya estaré equivocado.
+[00:19.50 → 00:22.00] Y no sé, me parece bien.
+[00:22.00 → 00:24.50] Si es que buscérete tomar distancia,
+[00:24.50 → 00:26.50] si es que notas que te da sentimiento
+[00:26.50 → 00:30.50] o que te inclusive que te genera sentimiento negativo
+[00:30.50 → 00:34.50] y eso me parece una buena decisión.
+[00:34.50 → 00:38.50] Especialmente ahora con todo lo que hay verano
+[00:38.50 → 00:41.50] no tener más drama encima.
+[00:41.50 → 00:47.50] Y eso, no sé, más o menos.
+[00:47.50 → 00:50.50] ¿Capás en algún momento de contestar?
+[00:50.50 → 00:52.50] No sé cómo suéterse.
+[00:52.50 → 00:56.50] También no sé, me la onda.
+PTT-20240208-WA0033.opus | lang=es prob=0.8697397708892822 dur=56.4s
+------------------------------------------------------------
+[00:00.00 → 00:06.56] Yo también tipo un paraguay único lugar donde pensaría que voy a conocer chicas nerd es tipo en el
+[00:06.56 → 00:13.04] Liga de Entreros jugando juegos de mesa o sino un tipo de eventos otaku y eso pero las chicas
+[00:13.04 → 00:18.28] los eventos otaku legalmente son muy cringe y los eventos otaku no son más tan cool como antes
+[00:18.28 → 00:23.00] chica otakus de eventos del primer mundo si realmente llevo con coflex furetes pero los
+[00:23.00 → 00:29.48] acá re cringe tipo no no no pega tanto pero yo por lo menos me veo más tipo teniendo una
+[00:29.48 → 00:35.72] relación de verdad así con una chica que sea onda en nomada digital y tipo esté viajando y nos
+[00:35.72 → 00:42.04] conocemos nomas de chila así en unos cuantos eventos como nomada digital re chill y re chill
+[00:42.04 → 00:47.48] donde a eso tipo no sé donde va a ser luego gente que esté toliendo el computadora los que
+[00:47.48 → 00:55.24] estén en eso pero si no onda en conferencia o vuelves a fundar eso de informática y en el
+[00:55.24 → 00:55.92] meet up after
+PTT-20240607-WA0003.opus | lang=es prob=0.8710910081863403 dur=56.7s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Ese Lago estaba también a un Flamita, pero ella se recuperó un Flap.
+[00:05.00 → 00:09.00] Paso de asumimos qué influencia, porque a Ali Lago se vacunaron y están mejor.
+[00:09.00 → 00:12.00] Y yo no, y me fui a la puta.
+[00:12.00 → 00:16.00] El Cooperate sigue rontingo las. Ese es mi plan.
+[00:16.00 → 00:19.00] No la ha vuelto a estar hecho puta.
+[00:19.00 → 00:23.00] Proyecto trataré de terminar lo de pruebas 3 y un ejemplo que se hacen, nice.
+[00:23.00 → 00:26.00] Entonces sí fue yo, pero no la estoy.
+[00:26.00 → 00:30.00] Fran no estaba vacunado contra influencia, parece.
+[00:30.00 → 00:34.00] No sé, me siento más, son un montón de dolores random.
+[00:34.00 → 00:39.00] Dolores de cabeza, dolor atrás de los ojos, dolor de los brazos, dolor de las piernas, dolor de las caderas.
+[00:39.00 → 00:42.00] O sea, la cadera hacia atrás, dolor de espalda alta.
+[00:42.00 → 00:45.00] Dolores, no cae cuello. Fuck mi deo también.
+[00:45.00 → 00:49.00] ¿De qué me incluyen esto o COVID o alguna cosa?
+[00:49.00 → 00:52.00] Estoy weak as fuck.
+[00:52.00 → 00:56.00] Sí, sí, sí, sí.
+PTT-20250221-WA0024.opus | lang=es prob=0.8944432735443115 dur=61.0s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Yo te digo flag de warning, imagínate. Te pones mamado, te quedas con otra novia y otra vez no te vas a traer a eventos VDSM
+[00:06.00 → 00:09.00] porque no le gusta a la chica y eso.
+[00:09.00 → 00:14.00] Yo opiné que el reto no es que irte nada más ni boche, VD, existías y chill.
+[00:14.00 → 00:17.00] Digo, no sé, te interesas en tiempo ya.
+[00:18.00 → 00:23.00] La comunidad de Richill, no te van a hacer bullying de estrías ni nada de eso, tipo...
+[00:24.00 → 00:25.00] Uhhh...
+[00:29.00 → 00:31.00] Digo, no sé, reefendi la gente.
+[00:32.00 → 00:34.00] ¿El loco pines, Ale?
+[00:34.00 → 00:37.00] Es cierto, es cierto lo que dice.
+[00:37.00 → 00:39.00] ¿Cuál es el apenado?
+[00:39.00 → 00:43.00] Pasar a la vergüenza y estar a un rato para después estar chico.
+[00:43.00 → 00:47.00] Ah, sí, yo sí estuve en la primera meeting.
+[00:47.00 → 00:52.00] Yo estaba con vergüenza y después perdí el uno.
+[00:52.00 → 00:54.00] Me tengo que quitar de ropa.
+[00:56.00 → 00:59.00] Fue una experiencia muy interesante.
+[00:59.00 → 01:01.00] ¿Por qué tú ganaste?
+PTT-20250309-WA0003.opus | lang=es prob=0.9491642117500305 dur=67.0s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Y...
+[00:02.00 → 00:05.00] Yo soy un frajajayfrán, realmente.
+[00:05.00 → 00:09.00] Pero no sé. El pensamiento rápido que me vino, solamente...
+[00:09.00 → 00:12.00] Es tipo... no sé. Me das muy bolas, Cindy.
+[00:12.00 → 00:14.00] Tipo...
+[00:14.00 → 00:18.00] ¿Por qué es el personal que se va y le dice así, en el lugar de trabajo nuevo?
+[00:18.00 → 00:21.00] Y y y... Fran, el hijo de la gerente.
+[00:21.00 → 00:23.00] No, obviamente, hay algunas palabras, pero...
+[00:23.00 → 00:26.00] Esta persona de este lugar... me regalo que lo he traído un palo.
+[00:27.00 → 00:30.00] Tipo, no sé. Y después también lo del auto, tipo...
+[00:30.00 → 00:33.00] A mí me da muy manipulación, bifes.
+[00:34.00 → 00:39.00] Tipo, no sé, me es muy falso, slash, careta, slash, tipo...
+[00:39.00 → 00:41.00] No sé.
+[00:43.00 → 00:44.00] Pero, pero...
+[00:44.00 → 00:46.00] Es muy mala onda, tipo, what the fuck.
+[00:47.00 → 00:49.00] Y el de aquí, tipo...
+[00:49.00 → 00:52.00] ¿Qué haces acá ya en el trabajo? No seas pelotuda.
+[00:53.00 → 00:56.00] Al pido escutar más de la mano.
+[00:56.00 → 00:58.00] Mi hija, no sé.
+[00:58.00 → 01:01.00] Eso fue así, mi rapido fomental.
+[01:01.00 → 01:03.00] Pero, realmente, es muy mala onda, tipo...
+[01:03.00 → 01:05.00] Última que te dejé así en vista, tipo...
+[01:05.00 → 01:07.00] No, pero ya me la respondí, tipo, what the fuck.
+PTT-20241210-WA0003.opus | lang=es prob=0.8728168606758118 dur=64.4s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] En tu contacto puedes poner botones para que puedan dejar de regar tu resumen
+[00:05.00 → 00:09.00] Tipo en tu contacto me dejaré tener un Instagram GitHub y eso
+[00:09.00 → 00:15.00] Puedes ponerle tipo mail y que te manden una clara directo al mail
+[00:18.00 → 00:22.00] Whatsapp y que le ponga directo en tu página, en tu link de en tu inbox
+[00:22.00 → 00:24.00] Whatsapp
+[00:25.00 → 00:27.00] Hello!
+[00:28.00 → 00:30.00] Me pisaste
+[00:32.00 → 00:35.00] Pero no se, ¿Cuántas has sido contacto? ¿Puedo hacer un flan mejor?
+[00:35.00 → 00:40.00] Puedes también ver, hacer una tarjeta de QR y como te vas a hacer eventos
+[00:40.00 → 00:42.00] que le pasa a todo el mundo
+[00:42.00 → 00:46.00] Tipo literal hacer tipo 300 tarjetas y regalando más en mi vida
+[00:49.00 → 00:52.00] Osea la parte de contacto que miramos flas como esta en mi rote de esa parte de iria
+[00:55.00 → 01:00.00] Imágenes repuretes, bastante lindas y pixelados
+[01:00.00 → 01:04.00] Puedes hacer mejor, alhoras más asteris
+PTT-20250102-WA0010.opus | lang=es prob=0.899592936038971 dur=64.1s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ¿Por qué te dice eu?
+[00:02.00 → 00:03.00] No sé
+[00:31.00 → 00:33.00] Hola, mirá, certifica este mi trabajo
+[00:34.00 → 00:35.00] Hola
+[00:36.00 → 00:38.00] Hablamos con Flacon
+[00:38.00 → 00:40.00] Para que te confirme, Álvaro
+[00:40.00 → 00:42.00] Hablamos con Flacon un rato y dijo
+[00:42.00 → 00:44.00] De lo que ya entendí, ya hubo gente en la TAM
+[00:44.00 → 00:46.00] Es más barato que los canallenses
+[00:49.00 → 00:51.00] Así es, confío
+[00:51.00 → 00:52.00] ¿Una audio qué es?
+[00:52.00 → 00:53.00] Una audio
+[00:54.00 → 00:56.00] ¡Me corto dos huevos!
+[00:56.00 → 00:58.00] Pero que nice que yo yo tu perfil
+[00:58.00 → 01:00.00] Le mande tu
+[01:00.00 → 01:02.00] Tu rap o guitarra que tiene tu ser
+[01:02.00 → 01:04.00] Y tu link 3, así podemos
+PTT-20250121-WA0018.opus | lang=es prob=0.9461967945098877 dur=68.3s
+------------------------------------------------------------
+[00:00.00 → 00:05.84] Osea dev, ese es medio salario me, para nosotros ahora, pero no se
+[00:05.84 → 00:10.08] Igual no parece interesante, contéablenlo más, ven y voy yo, tipo
+[00:10.08 → 00:13.44] A ver cuánto actualismo ofrecen
+[00:13.44 → 00:19.84] Entonces pretendes practicar entre vista, slash, si es que se ponen más esperados
+[00:19.84 → 00:25.44] Pues tipo, a medida que lo consiguen el plato que quieren, más esperado van a ponerse
+[00:25.52 → 00:32.08] Y ahí van a tener más suave su bolsillo y que apagas ofrecen 2 mil, 3 mil después
+[00:32.08 → 00:38.00] Pero, con el segundo de eso, tipo, vi, vi, esperadlo, tipo, tonteo el free, te diré
+[00:38.00 → 00:44.56] Le más tú se ve, decirle, hola, si tiene una entrevista, decirle, yo mínimo 2 millones, 2 car
+[00:44.56 → 00:49.36] Y si le dicen, no vamos a llevar caro, voy a decir, bueno, sigan buscando
+[00:49.36 → 00:54.48] No soy yo entonces, le he indicado, pero que podamos tener una relación excelente en el futuro
+[00:55.36 → 01:00.16] Pero de verdad es un tipo, no sé
+[01:00.16 → 01:08.16] Worst case, pedeas una hora en un final de meeting, ves que es, te conocen más de otra parte y después te tiran otra oferta
+PTT-20250308-WA0002.opus | lang=es prob=0.8764281868934631 dur=67.2s
+------------------------------------------------------------
+[00:00.00 → 00:07.68] También tus credenciales cuando tengas tiempo, tipo para tu LinkedIn, tu github, esas voludeces
+[00:07.68 → 00:12.44] y me pongo un flag a ver con Chargivity de agregar todos los detalles.
+[00:12.44 → 00:16.44] El tipo de datos es tu formato, tipo le voy a promptear un flag para ver que mierda más
+[00:16.44 → 00:21.92] le falta de cosas de marketing, tipo si tú se pueden agregar y que el cursor no más
+[00:21.92 → 00:26.24] esculpa todo, entonces después cuando venga, primero va un flag de mis detalles y después
+[00:26.24 → 00:29.88] la pica por isia, playa todo mientras estamos de coreano.
+[00:29.88 → 00:31.88] ¿Por qué?
+[00:31.88 → 00:38.80] En la parte de marketing creo que más lo que le falta y sincronizar todas las cosas, diría
+[00:38.80 → 00:45.12] para agregar un PDF para descargar tu resumen en formato PDF porque te piden todos los reclutadores
+[00:45.12 → 00:46.12] y las demás.
+[00:46.12 → 00:52.56] Tipo ser la vida lo más fácil posible es medio la regla y honda eso.
+[00:52.56 → 00:58.28] Pero ya, te vas pensando en cosas que se podrían mejorar para aplicarle a full a cosito,
+[00:58.28 → 00:59.28] así que te den bola.
+[00:59.28 → 01:06.28] De paso también mirar un flag a todos los posts de trabajos latam que mando Chargivity.
+PTT-20231008-WA0010.opus | lang=es prob=0.8696560859680176 dur=64.1s
+------------------------------------------------------------
+[00:00.00 → 00:06.82] aquí, aquí, aquí, yo ahora me voy a entrenar un rato, después voy a almorzar, después voy a
+[00:06.82 → 00:15.38] venir a casa, voy a mirarlo de esto, después voy a ver trabajo pendiente que tengo. Más
+[00:15.38 → 00:19.86] demasiado bajo un fuego, lo de ayer yo estaba a red de valde, no quería contestar el teléfono
+[00:19.86 → 00:26.78] por nada, por todo esto, ya me dijo olvidarme, ¡off! dije de todo ayer. Y tipo tenía ganas de
+[00:26.78 → 00:33.66] salir a farrear de noche, una amiga me dijo, sí, te hago silencia, me dijo en vistazo, después yo
+[00:33.66 → 00:39.20] llevo a las 9 a mi mir, me desperté hoy a las, literalmente a las 9 de la noche, ya estaba
+[00:39.20 → 00:46.94] dormiendo, me desperté hoy a las 9, 12 horas, dormí así, corrido. Y ahora, chill, la verdad que
+[00:46.94 → 00:53.82] no sé qué quiero hacer, o sea, bueno, ahora, por ejemplo, lo que quiero hacer es aprender
+[00:53.82 → 00:59.02] un new skill. Tipo, yo creo que lo de la beca no va a salir, porque no me fué tan bien en
+[00:59.02 → 01:03.42] el examen ayer, o sea, el tiempo me costó. Y eso, ahora, vamos a ver qué tal.
+PTT-20240208-WA0011.opus | lang=es prob=0.917622447013855 dur=74.7s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Cuando vengas, nos ponemos a ver videos de psicología.
+[00:06.00 → 00:08.00] ¿Dónde? No sé.
+[00:08.00 → 00:15.00] Hace como tenía tipo, no sé, 14 o 15, me puse a ver un montón de esos videos, así que...
+[00:15.00 → 00:17.00] Cuidado con relaciones.
+[00:17.00 → 00:19.00] Signos de una relación que está malo.
+[00:19.00 → 00:21.00] Signos de que te fliptean.
+[00:21.00 → 00:27.00] Sí, buscar así, no sé, Netflix o alguna cosa, algo que...
+[00:27.00 → 00:29.00] Algo que te...
+[00:29.00 → 00:31.00] Allá podía decir que...
+[00:31.00 → 00:33.00] Yo busco más Green Flux.
+[00:33.00 → 00:35.00] Sí, buscar Green Flux.
+[00:35.00 → 00:40.00] Bueno, pero claro, no es buscar Netflix, pero estar atento a...
+[00:41.00 → 00:44.00] Por si acaso, o ni idea.
+[00:44.00 → 00:46.00] Pero yo...
+[00:48.00 → 00:51.00] Me pregunto si le puedes poner a tu banco, o sea...
+[00:51.00 → 00:55.00] Es una tarjeta que dice así, no me gastes en mujeres.
+[00:57.00 → 01:02.00] La tarjeta de bueno, le pedí que te pongan un dibujito así de un...
+[01:02.00 → 01:07.00] Algún meme que diga tipo no, o de una cara que te juzgue.
+[01:09.00 → 01:11.00] Pero ni idea.
+[01:11.00 → 01:13.00] No ni más perro.
+[01:13.00 → 01:15.00] ¡Fuerza!
+PTT-20250102-WA0014.opus | lang=es prob=0.7926792502403259 dur=76.4s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ¿Tienes audio?
+[00:02.00 → 00:03.00] A este lado, yo.
+[00:03.00 → 00:10.00] Pero vos sabés Fran, o sea, en realidad para mí es refacho que vos estés haciendo esos cursos,
+[00:10.00 → 00:13.00] porque es un tipo de la base por ahí.
+[00:13.00 → 00:19.00] Pero en el trabajo, en realidad nosotros hacemos ya Databricks directos por ahí, en la nube, ya de Databricks.
+[00:19.00 → 00:25.00] Y, pretiamente, todo trabajo es manejar DataFrames y LCIC DataBricks.
+[00:25.00 → 00:38.00] Eso es lo que más tipo en el día a día por ahí hacen, hacer eso de medallion, medallion architecture,
+[00:38.00 → 00:41.00] y Databricks bundles.
+[00:41.00 → 00:49.00] Eso, tipo vos le decías y que sabes eso hasta aquí para mí que va a comer frente.
+[00:49.00 → 00:50.00] Sí.
+[00:51.00 → 00:57.00] Pero igual, eso que vos estás haciendo ahora es refacho, porque es tipo cómo funciona por debajo.
+[00:57.00 → 01:00.00] Igual, tenés que saber para configurar.
+[01:00.00 → 01:07.00] Pero, tipo, en nuestro trabajo vos vas a configurar ya más por ahí para esas cosas, tipo,
+[01:07.00 → 01:13.00] vas a configurar que tan grande tiene que ser tu driver, tus executors, cuántos alteneres y esas cosas,
+[01:13.00 → 01:15.00] todo vos puedes optimizar así.
+PTT-20231129-WA0005.opus | lang=es prob=0.9521660804748535 dur=79.6s
+------------------------------------------------------------
+[00:00.00 → 00:07.52] o sea yo te digo más honda que miras que estos feelings por el lado de que me da la impresión de que tipo vos te gustas medio rápido de la gente
+[00:08.72 → 00:13.68] tipo muy a menudo suele pasar, pasar por cazado si esta honda
+[00:14.08 → 00:16.40] hija de puta le amo a persona X
+[00:17.20 → 00:20.08] ella si la siente que pasaba de otra persona
+[00:20.96 → 00:22.96] o y tipo estas osea
+[00:23.92 → 00:30.80] una por por contacto honda eso es que me da la impresión de que tipo te gustas fácil de osea no fácil pero tipo
+[00:31.52 → 00:33.76] te engancha rapido de alguien y
+[00:35.68 → 00:37.68] tipo
+[00:39.76 → 00:43.44] no se bien yo diria que pues es era muy mas difícil confiar en la
+[00:45.28 → 00:49.84] conversación osea mas difícil confiar mas de tipo si si que estos feelings de verdad
+[00:53.04 → 01:01.52] para pues estar bien todo y no hablar de nadie, como a la tima yo le doy al urdes y nos damos mas a mi tipo muy sabroso
+[01:06.56 → 01:09.68] no hay nas, me ojala que este muy cute, el xoxin
+[01:10.64 → 01:13.92] vamos a hacer un modo terapia y leemos los mensajes y leemos que honda
+[01:15.60 → 01:18.08] si hablas despues con Flacon Chat, GPT de modo terapia
+PTT-20240429-WA0029.opus | lang=es prob=0.9578376412391663 dur=78.3s
+------------------------------------------------------------
+[00:00.00 → 00:07.44] a vosotros habéis pedido 5 cosas negativas fran?
+[00:07.44 → 00:11.12] negativas y positivos
+[00:11.12 → 00:13.80] ah bueno, entonces estabas haciendo lo mejor, llegue
+[00:13.80 → 00:20.56] ya eh, él le mandó un adiós rondo
+[00:20.56 → 00:24.60] si tenés alguna idea de algo negativo de fran tirando mas
+[00:24.60 → 00:30.60] ah, estoy escribiendo, me falta una cosa positiva y 5 negativas
+[00:30.60 → 00:38.60] si sirve un frado de contexto de algo, es medio negativo que me dijeron de vos, hace un tiempo paso
+[00:38.60 → 00:44.60] es que una amiga se fue a tu casa con el lado para comer juntos
+[00:44.60 → 00:46.60] y cuando iban a comer juntos estaba jondada
+[00:46.60 → 00:50.60] no, mío es y que querías comer vos nomas porque era el lado en dieta o algo así
+[00:50.60 → 00:53.60] y me dijo eso una vez la amiga y me fue onda
+[00:53.60 → 00:55.60] hace ese fue un momento que hice con fran y yo
+[00:55.60 → 00:58.60] ah, bueno
+[00:58.60 → 01:04.60] yo en cosas negativas no sé qué poner ya, pero por qué no me cuesta decir cosas negativas de la gente
+[01:04.60 → 01:08.60] por dos, en general para mí es bastante rechil
+[01:08.60 → 01:10.60] me cae bien fran
+[01:10.60 → 01:17.60] me cae bastante más bien que winter slash alemarine slash no sé gente rondo de la facultad
+PTT-20250112-WA0042.opus | lang=es prob=0.8602228760719299 dur=79.4s
+------------------------------------------------------------
+[00:00.00 → 00:06.80] Ahora mismo, una cosa de ese purete es hablar con sacas y qué otras tareas bajas tiene así
+[00:06.80 → 00:18.16] y qué va haciendo con las cosas para luego con el elemento flora.
+[00:18.16 → 00:25.24] Honda mostrarle cómo se tupeó un día, o sea, un día que corre nomás un script y corre una carpeta
+[00:25.24 → 00:29.32] entera para todos los archivos y te va cortando los textos para que puedas poner en proyectos
+[00:29.32 → 00:31.32] en chat y piti para tu temas de cliente.
+[00:31.32 → 00:38.76] Por eso le podemos mostrar una fralidad en lo fundamental de Honda, pero ahora es cuando
+[00:38.76 → 00:44.12] encuentro nomás tasks que están haciendo a mano, que esto se puede automatizar porque en muchas
+[00:44.12 → 00:51.00] cosas no hacen, mucho todavía muy a mano, pero hay tasks como editors, agregar 50
+[00:51.00 → 00:55.48] user stories a un nuevo proyecto que es un copy paste de algo del anterior por ahí porque
+[00:55.48 → 01:00.84] cambió así, las tareas lo que se refiere es que se le aplica todo lo mismo, entonces hay que
+[01:00.84 → 01:05.08] crear lo mismo user stories y eso puede copiar y pectear nomás de otro y puede iterar más con
+[01:05.08 → 01:10.08] chat y piti todos los rows, tipo copiar un row y le pide a chat y piti y dame en este formato
+[01:10.08 → 01:15.12] agregame toda esta formación, pega, ahora sí le para todos estos otros casos y le pide a las
+[01:15.12 → 01:18.68] listas de los user stories, tipo ¡ah, me encantan! Pero pero eso.
+PTT-20240330-WA0014.opus | lang=es prob=0.7959942817687988 dur=87.2s
+------------------------------------------------------------
+[00:00.00 → 00:08.96] Hello, ahora ya anda, ya podemos guardar en la base de otros, y ya podemos hacer el get y el post,
+[00:08.96 → 00:16.46] ver el costumers, y como en la mañana voy a ver cómo configurar las partes de lo que
+[00:16.46 → 00:24.84] sea unique y este de aquello, y después, lo que me queda es hacer todos los otros handpoints,
+[00:25.84 → 00:31.28] y ahí está todo rechil, pero que putada,
+[00:34.88 → 00:43.60] que divares configuración de mierda esta cosa, el forbidden, el not found, después te muestra en el
+[00:43.60 → 00:54.04] post van y el post no te dice, ah, te la comés, ah, what the fuck, que putas, si es así,
+[00:54.04 → 00:58.36] con el sistema mejor hacer esta cosa, y no dejar 7 pedacitos, es el mejor formulo,
+[01:03.04 → 01:08.36] demasiado, este momento no, ahora habia un front, ya terminamos la, la figuración de cacado,
+[01:09.36 → 01:16.92] y tomamos un rato, y pensé que iba a terminar ya para las, después yo que comenzaba a terminar
+[01:16.92 → 01:26.76] ya ando a las 6 por ahí, no, pero, ahora ya, vamos mañana por ahí a seguir, ahora si es fuerte, yo voy a seguir.
+PTT-20240813-WA0016.opus | lang=es prob=0.8970876336097717 dur=94.9s
+------------------------------------------------------------
+[00:00.00 → 00:08.08] de ayuno dopamínico, asumo que también puedes onda, estar onda y bueno, la cefo es ahora
+[00:08.08 → 00:16.60] y te vas nomás a estas dopaminas a full, te dices chaa, que linda la teta de la tipa, me gusta y están más chileando y relaxo
+[00:16.60 → 00:18.60] y...
+[00:18.60 → 00:26.60] lo sé, después también puedes seguir tu no paja sesión, no fap, agosto
+[00:26.60 → 00:30.60] perdón, pero gracias enserio, te estiro mucho enserio
+[00:30.60 → 00:31.60] ahora si, todo
+[00:31.60 → 00:34.60] tipo para que estes animado y tipo
+[00:34.60 → 00:39.60] no se, parece que te interesa un flat desde la primera vez que me fui que fue ya hace un tiempo paso
+[00:39.60 → 00:42.60] y me parece que va a ser un flatus vibes
+[00:43.60 → 00:45.60] hmmmmmmm
+[00:45.60 → 00:47.60] pero si uuu
+[00:47.60 → 00:51.60] y luego de tu novia, no novia, situación
+[00:51.60 → 00:59.10] Honestly, en mi opinión es cuando vos decías terminar, no mas, terminó y ya piró, le dices, bueno, hasta que doy F.
+[01:00.10 → 01:01.60] Se lo bloqueó un flan.
+[01:02.60 → 01:04.60] Sólo únicamente no me siento cómodo.
+[01:05.60 → 01:09.60] Y... tipo no sé, también si le quieres seguir a la chica y hablar leyendo, metele.
+[01:09.60 → 01:11.60] Pero no sé, élito.
+[01:11.60 → 01:13.60] Everybody por ahí te dice K.P.
+[01:13.60 → 01:15.60] Muchos red flags ya.
+[01:17.60 → 01:20.60] Pero te devuelta, cada uno vive eso ya, como quiere.
+[01:20.60 → 01:22.60] Si te estira ahí usted, estás ultra welcome.
+[01:25.60 → 01:27.60] Es el Deathline con ella.
+[01:27.60 → 01:30.60] Así que el Deathline sea el Mercurial y te vas chill.
+[01:31.60 → 01:33.60] Le conoces a alguien sin culpa ahí.
+PTT-20240813-WA0017.opus | lang=es prob=0.9124702215194702 dur=93.2s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] Y de vuelta, tipo, una vez que estás allá, las pasadas nos fuimos con Emilio, Lucy, Álvaro y unos cuantos más
+[00:09.00 → 00:12.00] Y tipo, yo se fueron antes porque no era tanto su onda
+[00:12.00 → 00:18.00] Y yo alejé a unos que dan más al final, tipo, lo llamo Fla, quitar las cuerdas de las cosas y eso, tipo remoto
+[00:19.00 → 00:24.00] Onda, no se, el mood de secuestrarte está allá, que hoy es un fla chill
+[00:24.00 → 00:30.00] Y si es que está, onda, pues te apagas la gente, ah, te estás libres, ah
+[00:30.00 → 00:32.00] Y esto es que ya estoy choqueado
+[00:32.00 → 00:35.00] ¿Qué tipo, tipo, es una sanción?
+[00:35.00 → 00:38.00] Tipo, yo no me anubre y te da tu casa
+[00:38.00 → 00:43.00] Y bueno, tampoco ningún, no te sientas obligado a quedarte y eso, tampoco, si es que te sentís incómodo
+[00:43.00 → 00:49.00] Onda, el vibe de la gente, y luego es, tipo, todo tener ser consensual
+[00:49.00 → 00:53.00] Si es que te gusta, puedes estar y si no te gusta, siempre sos free de irte
+[00:53.00 → 00:56.00] Onda, nadie te va a obligar a hacer algo que no te estira
+[00:59.00 → 01:07.00] Pero, pero ya, tipo, estás súper invitado al sexpo, el Merckles
+[01:07.00 → 01:12.00] El estos días, nos vamos a Steric
+[01:13.00 → 01:15.00] Y si disfrutas de todo el show
+[01:17.00 → 01:19.00] Mmm, que frío
+[01:20.00 → 01:22.00] Y eso, tipo, no se
+[01:23.00 → 01:28.00] Si es que no disfrutas tanto del show, como sabes, el huevra estará al lado
+[01:30.00 → 01:32.00] Cero, cero estrés
+PTT-20240208-WA0014.opus | lang=es prob=0.9283145070075989 dur=88.5s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Y creo que en este caso es puta inversa, porque gastaste 500 mil y no te cogió.
+[00:07.00 → 00:15.00] Sori no sé, pero no sé, en serio, gastar dinero en chicas hacia el comienzo para mí es
+[00:15.00 → 00:17.00] mala idea, tipo.
+[00:17.00 → 00:22.00] Yo soy súper weary de gastar nada en nadie por ahí.
+[00:22.00 → 00:24.00] O bueno, no sé, no tanto, pero...
+[00:24.00 → 00:27.00] Yo gastaría máximo un 100 mil si no vamos a tomar un café o algo.
+[00:27.00 → 00:30.00] Si, tipo un 100 mil ya es mucho.
+[00:30.00 → 00:33.00] Ya va a ser tipo 100 mil, luego gasté.
+[00:33.00 → 00:39.00] Tipo, yo mismo luego en el momento de gastar el 100 mil voy a estar overthinkando así tipo
+[00:39.00 → 00:44.00] de ya va a pensar ya que tengo plata, no sé qué tipo de personas será.
+[00:44.00 → 00:46.00] ¿Será que se va a acostumbrar o qué tipo va a decir?
+[00:46.00 → 00:50.00] Uh, este tipo paga 100 mil, así fue cosas random, va a decir.
+[00:50.00 → 00:53.00] Y yo ya me quedo pensando así, sí, sí.
+[00:54.00 → 00:58.00] Pero el tema es que vos gastaste después de conocer de...
+[00:58.00 → 01:00.00] No sé.
+[01:00.00 → 01:06.00] Pero igual no es mucho 500 mil ni idea, pero no, no son con todas así.
+[01:06.00 → 01:08.00] Hay mucha gente cool.
+[01:08.00 → 01:14.00] Tipo, mira, el asigno que sea ahora o a la...
+[01:14.00 → 01:18.00] O no sé, cada mi tipo reba nada.
+[01:19.00 → 01:21.00] Pero no sé.
+[01:21.00 → 01:25.00] Hay letras chicas en Jail y te van a usar como un condomino y después tirarte.
+[01:25.00 → 01:28.00] Sí, hay también esos, existen.
+PTT-20250102-WA0006.opus | lang=es prob=0.8113954663276672 dur=104.2s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] Yo le mandé luego a Asak, o sea, tus dos links, el de tu GitHub repo, de tu página web, y de tu LinkedIn.
+[00:09.00 → 00:15.00] Me dije a una amiga, tú eres un amigo que es arquitecto, que quiere ser cambiador de carrera.
+[00:15.00 → 00:23.00] Ahora está como arquitecto en un banco, quiere irse a hacer dos Ions porque hay que hacer algo nuevo.
+[00:24.00 → 00:28.00] Ya, más o menos, onda eso, y hablamos más del hermano de Álvaro.
+[00:28.00 → 00:33.00] Pero para mí, repedí onda 14, pedí 15.
+[00:37.00 → 00:42.00] Legalmente decirle como arquitecto, estoy actualmente cobrando 20,
+[00:42.00 → 00:46.00] pero estoy dispuesto a recibir menos porque estaría completamente nueva para mí,
+[00:46.00 → 00:49.00] que decirle que estás bien ahí con 15.
+[00:50.00 → 00:52.00] Uno sé, por ahí.
+[00:53.00 → 01:01.00] Yo estoy ahora actualmente en 8.50 cada dos semanas, que equivale a unos 600 a próximos, cada mes.
+[01:04.00 → 01:08.00] Unos 600, más que otros 100 porque una semana.
+[01:11.00 → 01:16.00] Casi como dos cada mes, creo que es lo que estoy grabando yo.
+[01:20.00 → 01:24.00] Pero de vuelta, con 15 y eso te llega un poquito menos de seguro.
+[01:24.00 → 01:26.00] Pero igual, rechil.
+[01:28.00 → 01:33.00] Def, cuando te antees, no le pidas onda 3, 3, 4 cada.
+[01:33.00 → 01:37.00] Es decir, más bien así, tipo, si les doy onda ahora, estoy como arquitecto,
+[01:37.00 → 01:42.00] estoy pro onda, soy trabajador y a bota la mierda.
+[01:43.00 → 01:44.00] Pero, rechil.
+PTT-20250221-WA0020.opus | lang=es prob=0.9486064314842224 dur=106.0s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Uuuh, el solivista de la flora de fundera estaba en meeting, ahora termino, uuuh.
+[00:05.00 → 00:09.00] No sé, es que de mi parte, o sea...
+[00:09.00 → 00:13.00] No sé, creo que mi opinión no cuenta porque siempre fui flaco.
+[00:13.00 → 00:19.00] Tipo, es objectively invalid, lo que sea que diga.
+[00:19.00 → 00:24.00] Pero no sé, tipo, Mago también es...
+[00:24.00 → 00:27.00] Grande cita.
+[00:27.00 → 00:29.00] El novio de Abrita.
+[00:29.00 → 00:33.00] El chongo de Abrita también es así, grande.
+[00:33.00 → 00:37.00] No, no sé, depende completa de estos dos, pero, tipo, si es que no te sentís cómodo,
+[00:37.00 → 00:41.00] si te sentís onda, ah, o, no sé, te da venida o vergüenza,
+[00:41.00 → 00:48.00] anything, tipo, no estás obligado a participar y venir y hacer cosas que no te estiren a hacer.
+[00:48.00 → 00:51.00] Tipo, si te interesas, estás real, wecom, y si es que no...
+[00:51.00 → 00:55.00] tipo, cero peer pressure perro.
+[00:55.00 → 01:01.00] Red Shield, pero si venís también Red Shield, van a pasar cositas.
+[01:01.00 → 01:03.00] Quien sabe.
+[01:03.00 → 01:06.00] Ya, tipo, no es tampoco qué tipo de entras en la casa y te quitas toda tu ropa.
+[01:06.00 → 01:10.00] Tipo, es, decía, Mago, onda qué tipo traigas un pantalón que te puedas quitar fácil
+[01:10.00 → 01:13.00] porque después estamos jugando, sí, strip 1 y tenés que pararte.
+[01:13.00 → 01:16.00] Estás filando te media hora y con tu cinto.
+[01:16.00 → 01:21.00] Te quitas el pantalón y se trenca con tu champion.
+[01:21.00 → 01:26.00] Más que nada, por eso es el que estaba diciendo de que venga con ropa cómoda.
+[01:26.00 → 01:30.00] Pero como te dije, totalidad tu yo, si es que te estirá parecer o no.
+[01:30.00 → 01:35.00] Yo creo que ninguna de las chicas va a estar onda, oh, no, gordo.
+[01:35.00 → 01:42.00] Como te dije, tipo, no sé, Mago, el novio de Adri,
+[01:42.00 → 01:46.00] y Adri son más grandes, ahí es esto.
+PTT-20240429-WA0032.opus | lang=es prob=0.8496795296669006 dur=100.7s
+------------------------------------------------------------
+[00:00.00 → 00:09.68] Pero no es el perro, en general me parece bastante joya, tipo, me parece más, tipo buena onda,
+[00:09.68 → 00:16.72] si es interesante que bañera oja nadie que tuve en el colegio, slash más buena gente
+[00:16.72 → 00:21.36] que varios tipo fromellas de paraguay, igual un flay de seguridad y eso a veces lo tenés
+[00:21.36 → 00:28.72] y eso, pero, ni idea, me parece que más que nada, tipo estresano más rápido, slash
+[00:28.72 → 00:38.68] tipo lo mismo que es con la que saben ellos, tipo, eh, eh, como se llama, antes de rendirte
+[00:38.68 → 00:44.20] estresas todo, después de rendirte estresas con cual era la respuesta correcta y después
+[00:44.20 → 00:50.04] estresas todo, oh no, ya valía verga, en vez de estar nomás chilonda, que sea lo que
+[00:50.04 → 01:02.68] digasito quiera, estar más relax, ya, tipo, eh, como les prego las puertas, bueno si, en general me parece
+[01:02.68 → 01:14.60] este tipo barachel, me entusiaso de donde ser ansiedad, slash, estresarte, slash no saber
+[01:14.60 → 01:21.60] que hacer y estar onda, ah, y tener miedo probablemente, tipo, me imagino que con el examen
+[01:21.60 → 01:26.60] ha de ser miedo el examen y tipo, mismas situaciones en otros lugares que podan ser, miedo así
+[01:26.60 → 01:34.56] de escagar tal cosa y estas onda, ah, estresas y, a ser oneself, por fin, profecina que
+[01:34.56 → 01:39.64] la cagas porque estresas, porque tenes miedo de hacer eso, no hay ni idea, tipo, ah.
+PTT-20231129-WA0004.opus | lang=es prob=0.8003477454185486 dur=103.1s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Y sin hablar, no es posible saber si alguien quiere algo o no, pero, por eso tenés que hablar.
+[00:11.00 → 00:18.00] Bueno, te diría que uno de los primeros sito-feelings leads un onda, tipo, a more orde, ¿verdad?
+[00:18.00 → 00:25.00] O un onda, digamos, interés, apego, gusto, atracción...
+[00:25.00 → 00:30.00] No cuantas así de onda eso, tipo...
+[00:33.00 → 00:37.00] Que me sopla bien así, ¿cuál feeling, de verdad, el que tenés?
+[00:37.00 → 00:40.00] Porque se lo funde, lo sopla, no tome.
+[00:40.00 → 00:42.00] Y después estás, ouch.
+[00:44.00 → 00:46.00] ¿Qué es el agua?
+[00:46.00 → 00:48.00] Vale, vale.
+[00:54.00 → 00:56.00] No sé, perdón, no.
+[00:57.00 → 01:04.00] Le he describido así, o sea, hacía una lista detallada, un mensaje detallado, tipo, escribí un sublime text,
+[01:04.00 → 01:10.00] así, un divague de contexto, tipo, explícala un poco cómo te sentís,
+[01:11.00 → 01:15.00] ¿Qué es lo que vos querés? ¿Qué es lo que vos querés más long-term?
+[01:15.00 → 01:19.00] Mira, si es que es compatible, tipo, un montón de cosas de eso.
+[01:19.00 → 01:21.00] Y...
+[01:23.00 → 01:27.00] O sea, tipo, es cierto, yo puedo morirte de eso también, tipo, sin dramas, tipo...
+[01:27.00 → 01:31.00] Ya, pero, leí, un solucionamiento de dramas así, con su 3pt.
+[01:32.00 → 01:34.00] Como lo que yo...
+[01:35.00 → 01:40.00] No, ya, que sé cuando querés venir, pero hoy se hace un modo de terapia con Emilio.
+[01:41.00 → 01:43.00] Mi infla, mi alma.
+PTT-20251014-WA0041.opus | lang=es prob=0.8444207310676575 dur=106.8s
+------------------------------------------------------------
+[00:00.00 → 00:10.68] Yo puedo ayudar en inhabilidades sociales, escucha activa y no le voy a decir a la persona
+[00:10.68 → 00:21.28] qué hacer, le voy a dar, le voy a escuchar y eventualmente de tanto hablar, voy a comenzar
+[00:21.28 → 00:27.84] a tener resonancia en su cabeza, lo que se habla, lo que se habla, porque prácticamente
+[00:27.84 → 00:34.84] voy a hacer un notepad para la persona y recordatorio de, me habías dicho tal y tal cosa, es así,
+[00:34.84 → 00:41.00] yo se como que le voy a recordar así, situaciones que de repente, como que me gustaría que se
+[00:41.00 → 00:48.88] replante, no es que se replante, pero que recuerde, le voy a fijar esa clase de cuestiones, me explico,
+[00:48.88 → 00:57.24] entonces vamos a repetir una y otra y otra y otra vez de que la persona encuentre la
+[00:57.24 → 01:08.80] respuesta, por ejemplo, Egan perdón, E-G-A-N-R, Egan tiene su herramienta para poder hacer eso,
+[01:08.80 → 01:14.92] entonces me baso en eso, hasta ahí puedo y como digo, entrenamiento en habilidades sociales,
+[01:14.92 → 01:23.64] que es entrenamiento en habilidades sociales, o sea poner límites, saber comunicarse
+[01:27.64 → 01:36.76] entender y aceptarse a uno mismo y también entender el free will de la otra persona,
+[01:43.40 → 01:44.44] creo que eso...
+PTT-20240813-WA0009.opus | lang=es prob=0.9084690809249878 dur=112.4s
+------------------------------------------------------------
+[00:00.00 → 00:06.36] para outfits no sé mi plan maybe probablemente es ropa de oficina y
+[00:06.36 → 00:10.86] cuerdos tipo un pantalón de vestir, zapato de fiesta, una camisa random,
+[00:10.86 → 00:17.20] cuerditas encima y ya está joyita. Creo que había somewhere una másjara que te
+[00:17.20 → 00:23.40] podría prestar en todo caso si te interesa estar más anónimo. Tengo
+[00:23.40 → 00:26.64] cosas de cuero
+[00:31.56 → 00:36.24] pero no sé, el outfit pretty much hace básicamente eso, o sea
+[00:36.24 → 00:44.88] oficina vibes con cuerdas y a ver, claro, tenía una máscara de conejitos somewhere
+[00:44.88 → 00:51.24] que capaz están los de mis hijos porque era actualidad que ya, pero si necesitan
+[00:51.24 → 00:56.48] tipo se pueden provisar o algo, allá también se venden más caras y eso, mierda
+[00:56.48 → 01:03.12] aquí entonces se puede conseguir también ahí. Y así fue la bola, tipo de outfit, lo
+[01:03.12 → 01:09.60] que sea que te sea cómodo, si quieres te puedes ir sin boxer, pero yo llevo
+[01:09.60 → 01:13.08] un pantalón de vestir, algo que te hayan dicho alguna vez que te queda bien,
+[01:13.08 → 01:16.96] si quieres le puedes tirar así fotos al lado y decirle hola que te parece este
+[01:16.96 → 01:21.96] outfit para el Mércoles. Y ese tipo de lit no contras nada, siempre estás
+[01:21.96 → 01:26.76] welcome a meterle así en mi armario, o sea, vamos a ponerte este y
+[01:26.76 → 01:35.76] vas a hacer así, media hora, dress up fran, pero ya.
+[01:36.12 → 01:41.80] ¿Capaz en una de esas en el outfit? Me surgí comprarme también pintura y vestirme de ghost
+[01:41.84 → 01:48.84] de la banda, donde intervención de calavera por la cara, así no sé, tanto en mis caras
+[01:48.84 → 01:51.84] y eso, pero que mira estoy en más ni bollón, pero ¡uh!
+PTT-20240208-WA0020.opus | lang=es prob=0.7593173980712891 dur=113.7s
+------------------------------------------------------------
+[00:00.00 → 00:07.40] es que beach please cuando tengas 28 bajas tipo vas a ver conocido otra vez gente más pro no
+[00:07.40 → 00:12.96] gente así random de un viaje tipo imagina te le conoces a alguien con la cien bueno y hay onda
+[00:12.96 → 00:19.44] conoce tipo te bajas a eventos como flutter conf y te pones a hablar con una chica y están
+[00:19.44 → 00:25.68] ahí rechil y después no hacen cosas onda de eso ahora no se está onda de eso tipo
+[00:26.68 → 00:34.04] más de cultura nerd que de viaje y fiestas porque en mi opinión legalmente no sé en
+[00:34.04 → 00:37.28] cultura nerd vas a conocer chicas más emocional y stable
+[00:39.60 → 00:43.04] si la que quiera que tipo sepa más que quiere por ahí tipo
+[00:46.28 → 00:51.84] no va a estar onda gente baja de colegio que está pensando onda ja ja quiero coger
+[00:51.84 → 01:00.36] o ni de un tipo es que no ser mis compañeras de colegio me eran toda ultra cringe y muchas
+[01:00.36 → 01:04.32] chicas que conozco así me dan mas cringe y me dan vibes de tipo un bitch no sabe que crees o
+[01:05.76 → 01:12.20] el que tipo te da cuenta que te va a usar nomas y no se me parece que la gente nerd es menos así
+[01:14.20 → 01:15.16] tipo ni de
+[01:15.16 → 01:25.56] pero ya tenés 28 y estás así con una señora remut y tipo llegas a tu casa y te agarra
+[01:25.56 → 01:31.12] cabello y te hace mi mitos o sea no no tipo te agarra cabello pero tipo llegas y bien y te agarra
+[01:31.12 → 01:36.96] tipo tu nunca y te haces ir aqui y estas onda o llegas a tu casa ni pute de edad
+[01:37.96 → 01:39.80] yo y teléfono de eso
+[01:43.84 → 01:44.56] pero ya
+[01:46.76 → 01:52.68] no sé conocer gente que hubo en el momento de ejecuerte no vas de nerd de todo porque ahí te lastimas
+PTT-20240208-WA0008.opus | lang=es prob=0.9477704167366028 dur=124.2s
+------------------------------------------------------------
+[00:00.00 → 00:11.48] No, tranquilo Manfrán, no sé, o sea, he hecho puto realmente lo que decís, no entendí
+[00:11.48 → 00:17.84] tan bien lo del bus y eso, si era una fiesta donde había muchas personas o qué onda, pero...
+[00:17.84 → 00:22.60] Yo opiné que terapia te va a ser bien realmente.
+[00:22.60 → 00:24.60] Sí, terapia te va a ser bien.
+[00:24.76 → 00:28.76] Pero entenderme que es real pedo, qué puta. Haciendo más terapia digital.
+[00:28.76 → 00:46.92] Terapia remota, yo también quiero empezar a hacer terapia cuando tenga plata en algún momento, pero tranquilo, no sé, realmente he hecho puto.
+[00:46.92 → 00:48.92] Ya.
+[00:48.92 → 00:55.92] Mi protipo es tipo, no te enamores de la chica hasta tipo un mes, dos meses de estar juntos.
+[00:55.92 → 01:13.92] Si, capaz, no sé, se atacharon muy rápido, o sea, pero la chica no, no sé, estaba en otra conda parece.
+[01:17.92 → 01:19.92] Pero fuerza.
+[01:19.92 → 01:21.92] Ya, usted hace un viaje rápido.
+[01:21.92 → 01:22.92] Si.
+[01:22.92 → 01:24.92] Maten, maten.
+[01:24.92 → 01:28.92] Tranquilo Man, intenta pensar en otras cosas, no sé.
+[01:28.92 → 01:39.92] Una jefe pensar onda, jaja, se va a quedar con un man a nadie del bus y va a ser así, jefe de arquitecto de los que putan en bueno.
+[01:39.92 → 01:42.92] Yo lo especió en tu cabeza.
+[01:42.92 → 01:47.92] A mí me pasa cada vez que tengo flashbacks así de cosas que no quiero pensar.
+[01:47.92 → 01:51.92] Pienso en un momento y es tipo, ah, la gran puta, me voy a matar.
+[01:51.92 → 01:55.92] Y después corto, no más ese pensamiento y pienso en otra cosa.
+[01:55.92 → 01:57.92] Bueno, voy a pensar en otra cosa.
+[01:57.92 → 01:59.92] Y miro furros.
+[02:00.92 → 02:02.92] Pero no lo sé.
+PTT-20240208-WA0017.opus | lang=es prob=0.9154934883117676 dur=126.0s
+------------------------------------------------------------
+[00:00.00 → 00:29.16] no sé yo siento que podría tipo como que dos tres que estamos acá estamos como en posiciones
+[00:29.16 → 00:35.52] distintas por ahí de no sé si llegas a hacer un diagrama de onda attachment y cosas así
+[00:36.52 → 00:45.32] tipo yo estoy en el extremo de tipo no sé yo para mí que ya me voy todo porque yo
+[00:45.32 → 00:49.44] hablo con una chica y digo no seguro no sé algo a gustar es mi y ya no te hablo nomás nunca
+[00:49.44 → 01:07.16] y después oís si de habla pero no se atachea que se cayó mi celular encima era y vos y vos
+[01:07.16 → 01:14.16] francapas no sé te atacheas más es que yo también me attaché así de rápido tipo si yo estaba con
+[01:14.16 → 01:20.36] alguien así y va a estar nomás luego súper tipo si estuve con una chica mirándose los limitos
+[01:21.56 → 01:31.52] y va a estar atachado quizás pero igual no sé supongo que depende así tipo
+[01:31.52 → 01:42.24] intentaría estar así onda bueno vamos a ver qué pasa esto me gustó pero no sé veremos mañana
+[01:43.00 → 01:50.40] un día de aves un día de aves eso es una buena filosofía de antes yo no
+[01:52.40 → 02:03.20] es que por mí que es el yo así de colegio yo no sí quizás y así es muy complicado
+PTT-20250217-WA0025.opus | lang=es prob=0.9084842205047607 dur=131.9s
+------------------------------------------------------------
+[00:00.00 → 00:05.38] Liz Fran, sorry, estaba en Flauful entre ayer y el sábado.
+[00:05.38 → 00:07.60] Hoy recién estoy así en Flauble, liendo todos los mensajes.
+[00:07.60 → 00:08.10] ¡Uh!
+[00:09.20 → 00:14.40] Ahora, Miguel, que termine con Jess, ella me quiere con ella, pero no quiere tan exagerar con ella.
+[00:14.40 → 00:15.80] ¿Qué salió la puta, realmente?
+[00:17.30 → 00:19.40] Bitch, please, la cantidad de mujeres que te van a decir,
+[00:19.40 → 00:22.80] ¡Uf, mira, estás trabajando bien, estás chiste en este reno,
+[00:23.10 → 00:24.30] recibiendo todas las facultades,
+[00:24.30 → 00:26.70] ¡Mira, no estás vendiendo hasta aquí en Lomitos en la calle!
+[00:27.60 → 00:28.50] ¡Perfecto que me ha dicho!
+[00:28.60 → 00:30.30] La cantidad de mujeres que van a decirte, ¡Ya, ¡Uh, pito!
+[00:32.40 → 00:33.60] ¿Qué se le ha como una pija?
+[00:33.60 → 00:34.40] Yes, en serio.
+[00:35.20 → 00:37.90] Estabilidad emocional, la costa de lo que me quita mil capetes,
+[00:37.90 → 00:40.00] quita mucho más de estabilidad mental, en serio.
+[00:41.00 → 00:43.40] Pero ya, es que se vaya a la doble triple, ¡Mega puta!
+[00:47.90 → 00:51.00] ¡Que hasta que libre el 21 para ser peado y torturado!
+[00:53.60 → 00:56.40] Sherry Bitte dice que mi trabajo me va a dar cáncer, porque...
+[00:57.30 → 01:00.10] No, porque cáncer, el ley ofla este del grupo,
+[01:00.60 → 01:03.30] es legalmente bastante tembo legalmente, ¿Qué puta?
+[01:04.90 → 01:06.70] Lo ley ofla todo porque es muchísimo texto,
+[01:06.70 → 01:09.20] pero tenía ofla que tu jefe prometió que iba a estar algo
+[01:09.20 → 01:12.00] que ni siquiera sabe lo ante y sacó de ese sucoble
+[01:12.00 → 01:13.60] y que le está presionando un montón.
+[01:14.20 → 01:16.30] Y en serio, se cumple ese Charly Bitte,
+[01:16.30 → 01:19.10] ¡Que se vaya a la remil puta tu jefe!
+[01:19.10 → 01:20.40] Y la empresa de eso.
+[01:21.30 → 01:22.00] Tipo...
+[01:22.70 → 01:23.60] ¿Leit salió cuando a vos?
+[01:24.60 → 01:26.50] Ya veis, ¿Qué te están rompiendo las bolas?
+[01:26.50 → 01:28.70] Jamás va a ser el momento propio,
+[01:28.70 → 01:30.60] porque ahí va a ser wow cuando todo esté tranqui.
+[01:30.60 → 01:32.90] En info jamás nunca está todo chí,
+[01:32.90 → 01:34.20] siempre hay mierda que hacer.
+[01:34.90 → 01:37.20] Así que tenés que seguir más, voy a decirle,
+[01:37.20 → 01:39.90] te comes una pija, yo voy a que me pagan más.
+[01:41.00 → 01:42.20] Y ahí le decí también, tipo,
+[01:42.20 → 01:43.20] ¿Quieres que termines?
+[01:43.20 → 01:45.30] Pagame un montón extra, tipo,
+[01:45.30 → 01:47.00] ¿Cuánto te estás pagando por el proyecto este?
+[01:47.00 → 01:49.10] Yo quiero la mitad, si querés que te terminen un día.
+[01:50.10 → 01:53.20] Y luego le das un plato a tu jefe de ahora,
+[01:53.20 → 01:54.40] y está bris, tipo,
+[01:54.40 → 01:56.30] y la cantidad de jefes que hay en el primer mundo
+[01:56.30 → 01:57.40] que te van a decir yahu.
+[01:59.30 → 02:01.70] Mejor que puedas aplicarlas todo relativamente
+[02:01.70 → 02:03.50] fully AI y full automation.
+[02:07.50 → 02:09.50] Tu trabajo es explotadísimo,
+[02:09.50 → 02:11.00] ¡Que se va a ir a la puta!
+PTT-20240813-WA0014.opus | lang=es prob=0.909551203250885 dur=149.2s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Sí, no, chilo. O sea, así fuera de bola, en la inicia la idea era onda...
+[00:06.00 → 00:11.00] Bueno, primero pensábamos que este tipo iba a haber terminado ya con tu novia.
+[00:12.00 → 00:16.00] Y aquí va a estar la onda. Ah, sabes que ni bollo, ya piro todo.
+[00:16.00 → 00:21.00] Y hay decir de onda. Y bueno, a surprise, el evento es la sexbo.
+[00:22.00 → 00:25.00] Y que este es onda. ¿Sabes que ya piro?
+[00:25.00 → 00:28.00] Porque, tipo, la entrada ya podía todo allá, tipo, si no venís ni bollo.
+[00:28.00 → 00:32.00] Tipo, I really do not care. O sea, por el precio de la entrada eso.
+[00:32.00 → 00:36.00] Tipo, ya más onda para animarte, slash, hacerte conocer people random,
+[00:36.00 → 00:39.00] slash ver el evento kinky que creo que te interesa.
+[00:40.00 → 00:45.00] Tipo, no sé. Onda de eso era... o sea, no me atrae a unir.
+[00:46.00 → 00:49.00] Tipo, o sea, no sé, tipo, creo que te imaginas que onda,
+[00:49.00 → 00:52.00] digo, esos videos por no así alemanes que están en un dungeon,
+[00:52.00 → 00:55.00] todo cogiendo. Pero el lit es más onda ya que sé.
+[00:56.00 → 00:59.00] Un montón de gente chileando y tomando como si fuera que es un bar.
+[00:59.00 → 01:02.00] Y en el escenario, el escenario está en la tipa que le están atando.
+[01:02.00 → 01:04.00] Y te atajas al aire. Uuuuh.
+[01:05.00 → 01:08.00] Te puedes poner en la X y te espanquean chicas lindas.
+[01:08.00 → 01:10.00] Uuuuh. Tipo, no sé. Onda de eso no es.
+[01:10.00 → 01:14.00] Tipo, no sé, no es así. Orgía, gangbang, tipo al aire libre.
+[01:14.00 → 01:18.00] Y tipo, está nomás alguien parado y... uup, tu culo se lleno.
+[01:19.00 → 01:22.00] Es nomás el Red Chill, así. Tipo, ya.
+[01:22.00 → 01:24.00] Y no sé, la idea era onda de eso, tipo...
+[01:26.00 → 01:30.00] Working on the assumption que estás medio ya off con tu novia.
+[01:30.00 → 01:32.00] O que estás medio off con tu novia.
+[01:33.00 → 01:35.00] Animarty de esta onda.
+[01:35.00 → 01:38.00] Sí, mira, está este evento purete, que parece que te interesa un plazo.
+[01:39.00 → 01:42.00] Y decirte, onda, tipo, en el micole, estás toda esteric y que estejo onda.
+[01:42.00 → 01:44.00] Y bueno, ya aún me voy o qué.
+[01:45.00 → 01:47.00] Tipo, no sé.
+[01:50.00 → 01:53.00] Me parece que te va a animar slash, conocer gente.
+[01:53.00 → 01:56.00] Slash. Vas a beber y vas a decir, hija de puta.
+[01:56.00 → 01:59.00] Hay mil tipos que les encanta coger.
+[02:00.00 → 02:02.00] Normal, así de tipos.
+[02:02.00 → 02:04.00] Tipo, no sé, a everybody que le gusta coger.
+[02:04.00 → 02:06.00] Uuuuh. O no sé, no sé. Pero...
+[02:06.00 → 02:08.00] Pero ya onda eso.
+[02:08.00 → 02:10.00] Ahora después hay uno, dos, panmínico.
+[02:10.00 → 02:13.00] Y entre las cosas que dejé es el porno.
+[02:13.00 → 02:15.00] Y...
+[02:15.00 → 02:17.00] Te puedo prometer que vas a estar ultra hijaado.
+[02:17.00 → 02:19.00] Y pues para quedarte después sin porno.
+[02:19.00 → 02:21.00] Tipo, están nomás ahí...
+[02:21.00 → 02:23.00] Mirad, todas las cosas al aire y llegas a tu auto.
+[02:23.00 → 02:25.00] ¡Prrr!
+[02:25.00 → 02:27.00] Acción turbo.
+PTT-20240208-WA0036.opus | lang=es prob=0.8973041772842407 dur=138.0s
+------------------------------------------------------------
+[00:00.00 → 00:08.44] es que legalmente me suena muy acerpita y meso porque tiene que venir tu felicidad de vos mismo perro
+[00:08.44 → 00:12.44] asi es, te regue, te regue
+[00:12.44 → 00:20.44] amarte a vos mismo Fran y estar asi
+[00:20.44 → 00:27.44] eso es la mierda de la vida, tipo cuando vos este es asi la gran puta
+[00:27.44 → 00:34.44] te va a revinar en el trabajo, estas asi chill, no se te vas asi con una mejor asesada mental y eso
+[00:34.44 → 00:41.44] vas a estar asi como, sabes que estoy bien ahora, estoy perfecto, no necesito a nadie y ahi van a venir la hija de puta
+[00:41.44 → 00:49.44] ahi la chica van a ver y van a decir, oh este tipo, he got it all figured out
+[00:49.44 → 00:53.44] algo asi, ni idea, me imagino
+[00:53.44 → 00:56.44] pero a mi me cuesta darme un ramo
+[00:56.44 → 01:04.44] pero no se, a mi me parece que como si este tipo de la chica, como si estaba tipo please amame, vas a dar un ahi, que inicio
+[01:04.44 → 01:14.44] osea, no se, imaginate, bueno es difícil decir pero
+[01:14.44 → 01:18.44] no se, mismo yo si estoy con una chica
+[01:18.44 → 01:23.44] preferiria que sea asi una chica que tiene su vida por ahi, que esta chida asi
+[01:23.44 → 01:31.44] mas que alguien que sea tipo, no se, no te he visto en un dia te extraño
+[01:31.44 → 01:35.44] bueno puede ser, ni idea, pero que no sea mas muy
+[01:35.44 → 01:40.44] para mi el extraño esta recug, pero por el empezo de estar asi, me es muy a please no
+[01:40.44 → 01:50.44] claro, tipo, no se, que estar con alguien que esta conmigo y me quiere mas que tipo
+[01:50.44 → 01:55.44] que te pongan un pedestal por ahi, y capaz a nosotros nos pasa mucho a mi tambien
+[01:55.44 → 02:02.44] que tipo demasiado de poner en un pedestal a una chica, ni idea
+[02:02.44 → 02:07.44] tipo ella es demasiado, no vale estar conmigo ni idea
+[02:07.44 → 02:11.44] y la otra hasta no mas asi existiendo
+[02:11.44 → 02:15.44] pero me pasa
+[02:15.44 → 02:17.44] no se
+PTT-20240208-WA0009.opus | lang=es prob=0.9347676038742065 dur=147.5s
+------------------------------------------------------------
+[00:00.00 → 00:04.80] es que no sé yo creo que a mí me es fácil eso de extra con alguien sin enamorarme porque soy
+[00:04.80 → 00:11.44] no más ultra autístic y da much por ahí slash todos los años que vi así de romances
+[00:11.44 → 00:21.64] terminan así supersot entonces ya estoy onda no sé tipo todo no sé qué pasa o sea es que a
+[00:21.64 → 00:30.40] mí me onda tipo estoy con alguien y tengo sido un dial de feelings dial es tipo ese de guitarras
+[00:30.40 → 00:36.32] para volumen y tipo si hace cosas que me gusta subo un poquito y se hace cosas que no me gusta
+[00:36.32 → 00:42.48] le bajo si un poquito y estoy onda y después de tipo lo que sé unos cuantos meses recién
+[00:42.48 → 00:48.60] está onda puede ser pero eso y yo no sé cómo la gente va a ayudar más con ese una
+[00:48.60 → 00:54.76] pregunta que sabe de feelings y eso como la mía me dice jaja como es esto feeling es capaz no es lo
+[00:54.76 → 01:03.56] mejor pero a mí me funcione y estoy feliz con eso pero sí depende yo yo creo que mi problema es que
+[01:03.56 → 01:14.52] yo me cierro demasiado nomás no me llegó a pasar algo así pero si me pasaba iba a estar
+[01:14.52 → 01:21.96] muy triste capaz pero hay mucha gente que mira es lo famoso aceptó un cosplay así puede ser una
+[01:21.96 → 01:29.56] teléfono lit tan adenir todas las cosplayers te vestís así de alastor o te vestís de moxi
+[01:29.56 → 01:32.72] tipo si te vestís de moxi van a saber lo peguin
+[01:35.92 → 01:43.00] ánimo pero no te mando de mi tan virtual es cierto abrazo y yo legalmente no creo
+[01:43.00 → 01:44.00] que me llegue a buscarte
+[01:49.00 → 01:50.80] te gastamos un 40 mil en huber
+[01:56.32 → 01:59.76] por ahí no sé para levantarme de la cabana
+[02:01.76 → 02:06.24] no sé si te dijo eso es la condena y van a lesí que vas a poder decir que le sigas
+[02:06.24 → 02:08.56] capaz que sí a qué hora ya
+[02:10.16 → 02:12.36] dijo no sé horas así que las ocho por ahí
+[02:16.36 → 02:17.48] pero ya
+[02:17.48 → 02:22.36] women are scary si a mí las otras chicas
+[02:23.56 → 02:25.36] te pueden lastimar más que gente
+PTT-20240622-WA0007.opus | lang=es prob=0.722949206829071 dur=154.6s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ¡Hola perro!
+[00:04.00 → 00:07.00] Te quería decir que hay que practicar inglés.
+[00:08.00 → 00:11.00] Así te aplicas a trabajo afuera.
+[00:16.00 → 00:18.00] ¿Por qué re, my dude?
+[00:20.00 → 00:22.00] Abracitos.
+[00:22.00 → 00:24.00] Uhhh...
+[00:28.00 → 00:30.00] ¿Tipo ya? No sé.
+[00:30.00 → 00:33.00] Es así, una hora y media hora de hablar inglés.
+[00:33.00 → 00:35.00] ¿Dijó recién así?
+[00:35.00 → 00:36.00] Sí.
+[00:36.00 → 00:38.00] ¿Hacemos sesiones o algo?
+[00:40.00 → 00:43.00] Fue también dos autísticas a las cinco y media.
+[00:44.00 → 00:46.00] Pero re, no sé.
+[00:46.00 → 00:50.00] Es que le estoy queriendo llevar a unos contados amigos a...
+[00:50.00 → 00:52.00] irse a dar remoto.
+[00:52.00 → 00:54.00] Porque tipo, se trabajó en el espacio y le culean.
+[00:54.00 → 00:56.00] Y me suelga a andar así, le anda.
+[00:56.00 → 00:58.00] Vamos a hacer un flaucursito de ese certificado.
+[00:58.00 → 01:01.00] Porque justo en Milio, tienen que venir dentro de poco.
+[01:01.00 → 01:03.00] Yo rendí y pasé.
+[01:03.00 → 01:05.00] Y es un certificado así, es refácil.
+[01:05.00 → 01:07.00] Que es el lecuá.
+[01:07.00 → 01:10.00] Y tipo, ya pagas y rechile.
+[01:10.00 → 01:13.00] Le quiero llevar así, a conseguirse a la oye mi hermana.
+[01:13.00 → 01:15.00] Slash a la de Álvaro.
+[01:15.00 → 01:17.00] Slash lo sí.
+[01:18.00 → 01:19.00] Y...
+[01:19.00 → 01:22.00] Les estaba pensando que también es muy puerte para ese inglés.
+[01:22.00 → 01:25.00] Y también, tipo, te falta inglés abajo, así puerte.
+[01:25.00 → 01:27.00] Entonces, para practicar también inglés.
+[01:27.00 → 01:28.00] Y no sé.
+[01:28.00 → 01:30.00] Por ahí sí te interesa parecer de random.
+[01:30.00 → 01:32.00] Cuando se hace, estudia el cuá.
+[01:32.00 → 01:33.00] Y hacemos estudiar en inglés.
+[01:33.00 → 01:35.00] Porque el Milio va a rendir en inglés.
+[01:35.00 → 01:37.00] Así, no sé.
+[01:37.00 → 01:38.00] Se practica inglés.
+[01:38.00 → 01:40.00] Y escuchas a inglés.
+[01:40.00 → 01:42.00] Y tipo, si hacemos a vos a hablar inglés.
+[01:42.00 → 01:45.00] Puede tener que también responder la frontera de cuá.
+[01:45.00 → 01:48.00] Slash certificado a cuá también es útil para...
+[01:48.00 → 01:50.00] PMs y...
+[01:50.00 → 01:51.00] IT directores.
+[01:51.00 → 01:52.00] Y eso decía el certificado.
+[01:52.00 → 01:55.00] Tiene unos cuantos roles que tipo dice que son útiles.
+[01:55.00 → 01:58.00] Tipo, no te va a ser malo tenerlo más así de onda.
+[01:58.00 → 02:00.00] Igual si te vas hacia la frontera.
+[02:00.00 → 02:02.00] Más si te vas hacia la frontera y le decís.
+[02:02.00 → 02:04.00] También se tiene más de quality assurance.
+[02:04.00 → 02:06.00] Y...
+[02:06.00 → 02:09.00] Fue igual, tipo, por tu frontera en lo ya te vas así rejollita.
+[02:09.00 → 02:11.00] Le agregamos un frail inglés.
+[02:11.00 → 02:13.00] Y va a estar ultrajollita.
+[02:13.00 → 02:17.00] Y si estás de pan hay que gastar un 250 en un certificado adecuado.
+[02:17.00 → 02:19.00] Le pones así...
+[02:19.00 → 02:21.00] Ful por y encima.
+[02:23.00 → 02:25.00] Pero ya no sé.
+[02:25.00 → 02:27.00] Hay que practicar inglés.
+[02:27.00 → 02:29.00] Y se escapa de la tamperro.
+[02:30.00 → 02:32.00] Abracitos.
+PTT-20240208-WA0013.opus | lang=es prob=0.8035719394683838 dur=162.1s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Si te sirve de algo, le pasé un flaco a un texto en mi circulo, para preguntarle, ¿onde a qué tips te sirve?
+[00:08.00 → 00:11.00] Es decir, yo le giro a todo, no sé, a nueva gente.
+[00:12.00 → 00:15.00] No, pues lo que no sé, sí que es nueva gente, pero tenés que irte, o sea...
+[00:16.00 → 00:18.00] Imagino que no vamos a ser un fin de la...
+[00:19.00 → 00:21.00] Ese grupo de D&D, y le conoces, no vas a alguien ahí, mira.
+[00:22.00 → 00:24.00] Pero a mí me da realmente repaja.
+[00:25.00 → 00:28.00] Mi fin de zona, sí, chile en casa, no sé, realmente.
+[00:30.00 → 00:33.00] Uuu, a mí también, no sé.
+[00:34.00 → 00:37.00] Pero sí es bueno conocer más gente, tipo, yo sé conocer más chicas que te das cuenta.
+[00:38.00 → 00:40.00] Ah, espera que esta clase de chicas sí son buenas para mí.
+[00:42.00 → 00:44.00] Porque si no conoces, vas a quedarte nomás con...
+[00:45.00 → 00:47.00] Ah, espera que todas las chicas que conocen, me hacen mal.
+[00:48.00 → 00:49.00] Ni idea.
+[00:50.00 → 00:51.00] Pero no sé.
+[00:52.00 → 00:54.00] No empecé a estuve la bebilla, no.
+[00:55.00 → 00:56.00] Yes.
+[00:56.00 → 00:58.00] Hay, there is hope.
+[00:59.00 → 01:00.00] Hay muchas chicas.
+[01:01.00 → 01:05.00] A mí también sobre estar con una chica, algún día, en algún momento.
+[01:06.00 → 01:09.00] Si te sentís mal y querés sentir un poco de dolor físico para no sentir dolor emocional,
+[01:10.00 → 01:11.00] ya vas a hacernos tatuajes.
+[01:12.00 → 01:13.00] Tatuajes ha sido algo de gelófobos.
+[01:14.00 → 01:16.00] Pido cualquier chica que vea y le gusta la serie, te va a hablar de eso.
+[01:17.00 → 01:18.00] Ni idea.
+[01:19.00 → 01:20.00] Uuu.
+[01:21.00 → 01:23.00] Yo no sé de qué tatuar, realmente, realmente.
+[01:24.00 → 01:26.00] Es que me haría un tatuaje.
+[01:27.00 → 01:29.00] Pero a mí como me cuesta pegar stickers por cosas.
+[01:30.00 → 01:31.00] Tipo...
+[01:32.00 → 01:33.00] Tatuar tengo un corazón en tus frenteales.
+[01:36.00 → 01:39.00] Me va a tatuar algo así súper feo por mi pelada.
+[01:41.00 → 01:43.00] Para que se vea siempre así todo el tiempo.
+[01:44.00 → 01:45.00] ¿Y dónde te vas un pelo así?
+[01:46.00 → 01:47.00] O sea, es lo más que allí hay.
+[01:48.00 → 01:49.00] ¿Qué era?
+[01:50.00 → 01:53.00] Si tenés tatuajes, te va a costar más ir a Japón.
+[01:55.00 → 01:58.00] No hay que tener tatuajes visibles, por lo menos onda así.
+[01:59.00 → 02:01.00] ¿Es que te ponen o más el parche de piel eso?
+[02:02.00 → 02:03.00] Puede ser.
+[02:04.00 → 02:05.00] Pero, en eso de una noticia que es Japón,
+[02:06.00 → 02:12.00] como que se abrió una nueva visa para no más digitales.
+[02:12.00 → 02:13.00] Si.
+[02:14.00 → 02:15.00] Y tenés que ganar, no me acuerdo cuánto,
+[02:16.00 → 02:18.00] pero era una cantidad tipo alcanzable.
+[02:19.00 → 02:20.00] Ya va.
+[02:21.00 → 02:22.00] Solgir a Japón.
+[02:23.00 → 02:24.00] Con eso de una japonesita.
+[02:25.00 → 02:26.00] ¿Qué dices?
+[02:27.00 → 02:28.00] Te hago suki suki.
+[02:29.00 → 02:30.00] No me acuerdo que era suki suki.
+[02:31.00 → 02:32.00] Y suki suki, yo digo de saq saq.
+[02:34.00 → 02:35.00] Dave suki suki.
+[02:38.00 → 02:39.00] Pero fue esa fran,
+[02:40.00 → 02:41.00] las chicas dan miedo.
+[02:42.00 → 02:44.00] Pero no es una fran,
+[02:45.00 → 02:46.00] es una fran.
+[02:48.00 → 02:49.00] No.
+[02:50.00 → 02:51.00] No.
+[02:52.00 → 02:53.00] No.
+[02:54.00 → 02:55.00] No.
+[02:56.00 → 02:57.00] No.
+[02:58.00 → 02:59.00] No.
+[03:00.00 → 03:01.00] No.
+[03:02.00 → 03:03.00] No.
+[03:03.00 → 03:04.00] No.
+[03:05.00 → 03:06.00] No.
+[03:07.00 → 03:08.00] No.
+[03:09.00 → 03:10.00] No.

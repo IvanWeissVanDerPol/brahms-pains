@@ -27,3 +27,15 @@ PTT-20240726-WA0021.opus | lang=es prob=0.9809975028038025 dur=35.0s
 [00:15.76 → 00:21.84] revisar con los que puedan llegar para los que no puedan llegar voy a volver a pasar
 [00:21.84 → 00:26.40] por acá por este medio las notas y cuando todo esté en acuerdo con su nota había
 [00:26.40 → 00:34.24] presentado oficialmente la facultad así que no hay porque preocuparse demasiado les mando un abrazo a todos
+PTT-20240508-WA0013.opus | lang=es prob=0.9789942502975464 dur=52.9s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Sin mal no recuerdo para la segunda parte del curso
+[00:06.00 → 00:12.00] nos tocan los capítulos 15 que es transacciones
+[00:12.00 → 00:17.00] el capítulo control de concurrencia que creo que es el 16
+[00:17.00 → 00:22.00] después vamos a ir a base de datos distribuidas
+[00:22.00 → 00:27.00] que el capítulo 19 sin mal no me recuerdo
+[00:27.00 → 00:35.00] y ahí vamos a ver si desarrollamos la parte de análisis de datos
+[00:35.00 → 00:38.00] que sería la parte de dataware, etcétera, etcétera
+[00:38.00 → 00:44.00] pero eso va a depender de cómo se dé el semestre
+[00:44.00 → 00:47.00] si es que no van a haber más paros
+[00:47.00 → 00:52.00] si es que los feriados no nos van a afectar y así sucesivamente

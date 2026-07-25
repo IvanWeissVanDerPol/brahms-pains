@@ -153,3 +153,188 @@ PTT-20260225-WA0031.opus | lang=es prob=0.6931607127189636 dur=58.5s
 [00:45.00 → 00:49.00] cuando se tiene más prioridad de ver todos los propósitos,
 [00:49.00 → 00:52.00] plans, los staff para la mierda a Orlando
 [00:52.00 → 00:58.00] investigación de todos los cositos que queremos hacer en Google.
+PTT-20250826-WA0031.opus | lang=es prob=0.967945396900177 dur=58.5s
+------------------------------------------------------------
+[00:00.00 → 00:13.00] Este audio es más o menos para ir a un flag como dividirse, en Kiryan le está viendo un flag lo de frontend y creo que entiende ya o tiene la idea de que es lo que quiere el cliente.
+[00:14.00 → 00:21.00] Y anteriormente estaba hecho en Streamlit que era asqueroso y ahora reíse todo de vuelta ayer.
+[00:21.00 → 00:24.00] O sea no reíse todo, o sea le hice el IAC que haga todo eso.
+[00:24.00 → 00:28.00] Pero le mude a FastAPI con React.
+[00:30.00 → 00:35.00] Kiryan creo que iba a ponerse un flag para hacer que se vea como ella quiera, que esté lindito.
+[00:36.00 → 00:38.00] Entonces se encarga ella del frontend.
+[00:39.00 → 00:48.00] Y si podías llevarle un flag con la parte del backend y después ver un flag con todo que lo funcione y los apis y todo eso.
+[00:49.00 → 00:51.00] Ya.
+[00:52.00 → 00:58.00] Básicamente es, le pasás un excel, tienes que hacer unos análisis y darte un excel para descargarlo.
+PTT-20250918-WA0009.opus | lang=es prob=0.8063283562660217 dur=72.4s
+------------------------------------------------------------
+[00:00.00 → 00:02.80] Good morning, chistoso, le dieron horas.
+[00:02.80 → 00:07.00] Nice, ya sé, buen maldito en esto, vamos a vendrernos mejores.
+[00:11.00 → 00:13.50] Nice, qué bueno que sirva la base de datos, eso.
+[00:25.80 → 00:28.10] Sí, nos mejora hacer lo de personal y después
+[00:28.10 → 00:34.10] vemos los detalles y entonces vamos a ver también a la vuelta.
+[00:34.10 → 00:39.10] Pero yo le digo que todo el contenido de lo que vamos a enseñar
+[00:39.10 → 00:46.10] que básicamente se ha distillado no más de los videos de los mejores youtubers de estos temas.
+[00:46.10 → 00:51.10] Tipo, George Dill realmente haría no más un...
+[00:51.10 → 00:58.10] primero buscarle a unos 20 youtubers de como usaría.
+[00:58.10 → 01:02.10] Y el siguiente paso es convertir todos esos videos a transcripciones
+[01:02.10 → 01:09.10] y decirle al ya que analice las transcripciones para de qué hacer cada contenido.
+[01:09.10 → 01:13.10] En base a todos los videos de todos los youtubers.
+PTT-20250918-WA0011.opus | lang=es prob=0.889866054058075 dur=62.3s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] By the way, parece que ha habido un evento de testing para QA en Paraguay.
+[00:06.00 → 00:13.00] Para ese evento, estaría relativamente interesante hacer una presentación de cómo hacer QA Automation con ya.
+[00:14.00 → 00:16.00] Slashla charla rápida.
+[00:17.00 → 00:21.00] Litu podemos hacer la página web que hicimos para personal.
+[00:22.00 → 00:25.00] Y hacer para eso el PageObjectModel.
+[00:25.00 → 00:29.00] Este es el PageObjectModel.
+[00:30.00 → 00:32.00] Ahora vamos a agregar las funciones.
+[00:32.00 → 00:34.00] Estas son las funciones que queremos agregar.
+[00:34.00 → 00:35.00] Agregó las funciones.
+[00:35.00 → 00:36.00] Vamos a probar.
+[00:36.00 → 00:45.00] Y que ya esté todo el framework listo para mostrar Live como no genera el código de QA Automation para la página.
+[00:45.00 → 00:49.00] Me parece que sería relativamente por este demostrar.
+[00:50.00 → 00:53.00] Ahora después de ofrecerle servicios de QA Automation a la empresa si quieren.
+[00:53.00 → 00:58.00] Slash como usar, enseñarles cómo usar ya a empresas con muchos QA.
+[01:00.00 → 01:02.00] Slash Bullshit, onda eso.
+PTT-20250909-WA0042.opus | lang=es prob=0.8320389986038208 dur=81.7s
+------------------------------------------------------------
+[00:00.00 → 00:08.60] A poco, me parece perfecto si lo haces así, como le quieran pero yo recomiendo más a
+[00:08.60 → 00:14.04] lluvia porque es lo que este no sonde acá en 16 inch y porque vos andes de repente
+[00:14.04 → 00:21.96] en el primer mundo para probar usarle, pero real usarle no, si puedo, como les parezca
+[00:21.96 → 00:26.92] más práctico, más rápido, más fácil de usar, metanla así, y ni sin que quiera
+[00:26.92 → 00:34.20] implementarle, se re-diabaguen, aprendan a usar las herramientas y hacer que sea lo
+[00:34.20 → 00:39.32] más eficiente posible de todos los diabagues, y después hacemos un flower brainstorm de
+[00:39.32 → 00:44.12] qué otros diabagues hacer y algo por llegar y qué preparar y después a quién
+[00:44.12 → 00:52.52] entandearle, o eso aquí podemos mejorar el archer cuando tengamos mejor, y si el
+[00:52.52 → 00:58.32] primero es que tener preparados qué mierda tenemos y después lo embudamos al archer, si
+[00:58.32 → 01:02.80] quieren más en todo caso, pero por mi es rechela ser más tranquita, y quiero nomás que
+[01:02.80 → 01:07.72] les sea más fácil trabajar a todos en todos los diabagueses y configurar ya bien todos
+[01:07.72 → 01:13.28] los permisos y todos los sheets, y eso es claro, pues los calibros grandes existen
+PTT-20250909-WA0009.opus | lang=es prob=0.8986210823059082 dur=86.4s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] Básicamente, en un proyecto de este company information, lo que estoy haciendo es, más o menos, que desde este proyecto
+[00:08.00 → 00:20.00] se puedan recibir información de los repositorios y también editar los repositorios en el sentido de que, por ejemplo,
+[00:20.00 → 00:25.00] queremos tener un updated report de cómo están todos los proyectos en general,
+[00:26.00 → 00:35.00] el proyecto en sí tiene el contexto básico de qué es lo que tiene que hacer el proyecto
+[00:38.00 → 00:43.00] y, en base a esto, verifica qué tan hechos están los proyectos
+[00:43.00 → 00:51.00] y, por ejemplo, desde este proyecto nomás se crean los todos para tipo todas las cosas que se tienen que hacer en los proyectos
+[00:51.00 → 01:00.00] y estos todos directamente se van a, como se dice, estos mismos todos están en los files de los proyectos
+[01:00.00 → 01:04.00] así en los proyectos mismos ya están los todos, ya están las cosas que se tienen que hacer
+[01:04.00 → 01:08.00] y tipo ponerle que vas a trabajar en este, verificar el todo de las cosas que hay que hacer
+[01:08.00 → 01:14.00] y, en base a eso, continuar trabajando en ese proyecto, no sé qué piensan de eso
+[01:14.00 → 01:19.00] porque estoy viendo que en la SURE nadie realmente está utilizando, está funcionando también
+[01:19.00 → 01:26.00] y este tipo es mucho más automatizado que usar SURE como un tercero, sería.
+PTT-20251015-WA0021.opus | lang=es prob=0.8700619339942932 dur=118.2s
+------------------------------------------------------------
+[00:00.00 → 00:02.12] ¡Oh! Dice sueños.
+[00:02.12 → 00:09.12] No, Red Chill en tipo, para mí puede ser cheesy, cursi cuanto quieras, tipo, no sé, bueno, ¿o no que te expreses?
+[00:14.48 → 00:15.48] Red Chill.
+[00:16.28 → 00:18.96] ¿Qué me te vamos a decir? ¡Oh, no!
+[00:19.32 → 00:21.32] ¡Está disfrutando del trabajo!
+[00:22.76 → 00:24.92] Recontra Chill, pero... ¡Oh, don't worry!
+[00:25.44 → 00:27.44] ¡Está re-welcome!
+[00:28.44 → 00:29.44] ¡Ah!
+[00:30.44 → 00:33.44] Me alegro que estés pasando bien y aprendiendo un montón.
+[00:36.44 → 00:43.44] Es decir, les doy un tip sobre un flag aquí donde preparar la negociación, onda extraer del proyecto de personal todo lo que se hizo,
+[00:44.44 → 00:49.44] unos cuantos reportes y sacar así números en base de cuánto cobrar en base a eso con él.
+[00:49.44 → 00:53.44] Hay contexto también de la negociación de un flag, es que...
+[00:54.44 → 01:00.44] eso voy a tener, voy a ser tipo una mini charla para señoras en un tipo, no sé si se...
+[01:01.44 → 01:02.44] En un club de Chetos.
+[01:02.44 → 01:08.44] En un club de Chetos, o sea, de señoras que tienen esposos Chetos, que se van a ir a aprender a hacer charles que te vas a comenzar.
+[01:10.44 → 01:13.44] Y tengo que ver porque Luana se suponía que me hizo toda la presentación,
+[01:14.44 → 01:17.44] pero al final terminé de hacer otro hito con Gama.
+[01:18.44 → 01:19.44] Y...
+[01:20.44 → 01:22.44] ¡Eso! Te muevo el agarro.
+[01:23.44 → 01:24.44] Mucha gama que te haga el final.
+[01:25.44 → 01:30.44] Y por eso le tengo una compañera, una amiga que es profesora, y me ha recóngalo de tips para dar presentación.
+[01:32.44 → 01:33.44] Y eso.
+[01:34.44 → 01:40.44] De este puedo pasar todo lo que tipo de los que yo les voy a hablar y si puedo, si querés, puedes hacer así tipo un documentation,
+[01:41.44 → 01:46.44] tipo para las personas que van a querer después de la charla tipo info extra para tener.
+[01:47.44 → 01:49.44] Y me voy a hacer ese archivo, por ejemplo.
+[01:50.44 → 01:52.44] No, me voy a operar otro día.
+[01:53.44 → 01:55.44] Ahora, hasta te quedo de dormir y a darle limitas a tu novia.
+[01:55.44 → 01:57.44] Exactamente. Descansa, perro.
+PTT-20260218-WA0020.opus | lang=en prob=0.6563072800636292 dur=154.0s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] I'm sorry.
+[00:02.00 → 00:03.00] Yeah?
+[00:03.00 → 00:04.00] Have you done?
+[00:04.00 → 00:05.00] I hear you.
+[00:05.00 → 00:07.00] Yeah, yeah, yeah.
+[00:07.00 → 00:10.00] It's the teaching.
+[00:14.00 → 00:17.00] Several things more.
+[00:17.00 → 00:27.00] I'm going to say, I told already that Luana also makes sure Luana and Kirian just get there also when we are recording tonight.
+[00:27.00 → 00:30.00] And Luana already contacted you?
+[00:30.00 → 00:31.00] No.
+[00:31.00 → 00:32.00] Or not?
+[00:41.00 → 00:46.00] If we can get a little pleasure, the Saskia intro will show you there also.
+[00:46.00 → 00:47.00] Yeah?
+[00:47.00 → 00:48.00] What?
+[00:48.00 → 00:49.00] I'm sorry.
+[00:49.00 → 00:50.00] Now I'm hearing again.
+[00:50.00 → 00:52.00] I'll make sure Saskia is there also.
+[00:52.00 → 00:54.00] Yeah?
+[00:54.00 → 00:56.00] I'm sorry, what?
+[00:57.00 → 01:01.00] We'll talk, not talk with Saskia, talk with Luana, yeah?
+[01:01.00 → 01:02.00] But talk with Luana?
+[01:02.00 → 01:04.00] They are talking to us.
+[01:13.00 → 01:16.00] Anyway, that is what I wanted to pass you, if I can.
+[01:18.00 → 01:19.00] Okay.
+[01:19.00 → 01:20.00] Yeah?
+[01:20.00 → 01:22.00] But what do I have to do with Luana and Saskia?
+[01:23.00 → 01:25.00] No, I was talking with...
+[01:25.00 → 01:27.00] Oh, sorry, Luana, I was.
+[01:27.00 → 01:31.00] You said Luana and Saskia, they are at Omas, but not what I have to do with it.
+[01:31.00 → 01:32.00] Yes.
+[01:32.00 → 01:36.00] No, tomorrow tonight when you're talking to mom.
+[01:36.00 → 01:38.00] Yeah, but that will be like...
+[01:38.00 → 01:40.00] When we're at the end of the Korean.
+[01:40.00 → 01:41.00] Yeah?
+[01:41.00 → 01:42.00] That will be so full of...
+[01:42.00 → 01:45.00] I want to have them to be present, you know, to phone, you know?
+[01:45.00 → 01:49.00] That will be full of most of the people in the restaurant, John.
+[01:49.00 → 01:50.00] Sorry?
+[01:50.00 → 01:54.00] Nobody will be able to hear anything anyway, because it's a fucking restaurant.
+[01:54.00 → 01:56.00] It's so full of people.
+[01:56.00 → 02:00.00] We will try to find...
+[02:00.00 → 02:02.00] Otherwise, you take the five rooms, you know?
+[02:02.00 → 02:03.00] Don't worry.
+[02:06.00 → 02:07.00] Sure.
+[02:07.00 → 02:09.00] We will have the five rooms, yeah?
+[02:13.00 → 02:15.00] Really, do that, yeah?
+[02:15.00 → 02:18.00] I'll give you the raise everything, yeah?
+[02:19.00 → 02:20.00] Mm-hmm.
+[02:22.00 → 02:25.00] Anyway, that is what I want to ask you, yes?
+[02:27.00 → 02:28.00] Sure.
+[02:30.00 → 02:31.00] Ciao.
+PTT-20260218-WA0022.opus | lang=en prob=0.6112779974937439 dur=158.1s
+------------------------------------------------------------
+[00:00.00 → 00:11.00] I was talking with you, bringing, if you would go to Europe and what's to happen, to arrange things.
+[00:11.00 → 00:19.00] Because you need to talk with the person anyway at some point, that's going to happen.
+[00:19.00 → 00:23.00] I know it's going to happen. It's just simple matter.
+[00:23.00 → 00:27.00] What you have is that it's bringing the right people in contact.
+[00:27.00 → 00:34.00] You know that OPA has been helping out those things in India.
+[00:34.00 → 00:41.00] I see the problem is mainly, how do you call that?
+[00:41.00 → 00:50.00] The government actually being a beach more or less. That is the problem that they have.
+[00:50.00 → 00:57.00] The government working against them while good people try to help.
+[00:57.00 → 01:05.00] Now the head of Fortext is an Indian cop called.
+[01:05.00 → 01:11.00] Yes, they have that class divide. They are upper class in India.
+[01:11.00 → 01:16.00] They have the contact. They have the people to talk. They have how you can fix this.
+[01:16.00 → 01:26.00] I'm going to talk with him one day. I'm going to tell him the story of OPA.
+[01:26.00 → 01:29.00] Definitely also be quite interesting to do that.
+[01:29.00 → 01:32.00] And you already know that this is going to happen.
+[01:32.00 → 01:35.00] By the way, Kierni is awake now.
+[01:35.00 → 01:41.00] Yeah, you talk things through and what's to ever. I will have to grow a lot of time to read.
+[01:41.00 → 01:47.00] Yeah, but it's also stupid.
+[01:47.00 → 01:53.00] Anyway, yeah, good luck. Oh, and it was another one.
+[01:53.00 → 01:59.00] You know, and I was saying, Sonya, do you know what is the moral of the story?
+[01:59.00 → 02:04.00] Yeah, yeah, yeah. You know, what is the whole moral of this whole story?
+[02:04.00 → 02:09.00] Talking. You have time now. Do you know what is the moral of the story?
+[02:09.00 → 02:14.00] It's that people should, how do you say, start fucking listening to me, instead of ignoring me.
+[02:14.00 → 02:16.00] Yeah.
+[02:16.00 → 02:20.00] You get it.
+[02:20.00 → 02:23.00] Happy birthday, mama.
+[02:23.00 → 02:25.00] Sorry.
+[02:25.00 → 02:28.00] Kierni says happy birthday for Sonya.
+[02:28.00 → 02:31.00] Thank you very much.
+[02:31.00 → 02:33.00] Thank you very much.
+[02:33.00 → 02:36.00] Thank you very much.

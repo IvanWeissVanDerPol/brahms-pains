@@ -1,0 +1,36 @@
+PTT-20230804-WA0039.opus | lang=es prob=0.8842204213142395 dur=29.5s
+------------------------------------------------------------
+[00:00.00 → 00:02.38] ¿Qué mood? Ya ahora salvo de la universidad.
+[00:02.38 → 00:04.88] Me voy a ir a casa y voy a seguir leyendo cosas del trabajo.
+[00:05.38 → 00:06.38] Está a re-fan.
+[00:07.48 → 00:10.78] O sea, no a fan, pero tipo, no es así cosas paja de leer.
+[00:11.28 → 00:13.46] Bueno, caen dos pajas, pero tipo...
+[00:14.16 → 00:17.78] cosas técnicas divertidas. O sea, no sé explicar, pero...
+[00:17.78 → 00:21.38] No me da tan paja leer como cosas randomes de colegio. O sea, es la universidad.
+[00:21.62 → 00:24.26] Es tipo, actualmente, una información útil.
+[00:28.78 → 00:29.78] Yeah.
+PTT-20240222-WA0018.opus | lang=es prob=0.7464778423309326 dur=139.7s
+------------------------------------------------------------
+[00:00.00 → 00:05.98] Te dio un flaco a un texto, tengo un meeting en ocho minutos, pero él lea y yo usó el
+[00:05.98 → 00:17.96] literal para todo, ahora mismo trabajo adecuado, quality assurance, y no sé, tenés que escribir
+[00:17.96 → 00:22.00] un reporte, le das la información hasta el GPT, escribí un reporte en este tono
+[00:22.00 → 00:28.32] con este largo error dirigido a tal persona por esta fecha, pa, pa, pa, pa, pa, pa.
+[00:28.32 → 00:35.04] Quality assurance hacen muchos test cases, que es escribir pruebas de sistemas, imaginate que tenés
+[00:35.04 → 00:40.52] que probar el chat de whatsapp, límite de caracteres, qué símbolo se puede meter, que no hereré,
+[00:40.52 → 00:45.52] toda información le pasaba al AI y decís, hacerme caso de prueba para éste,
+[00:45.52 → 00:50.88] usualmente toda esa información está luego en un ticket para cada cosa que tenés que
+[00:50.88 → 00:54.60] probar, entonces sacá la información del ticket, le pasás a el AI, le decías,
+[00:54.68 → 00:59.56] semele las casas de prueba, ponerme todos los pasos, pa, pa, pa, pa, pa, pa, pa.
+[01:00.56 → 01:07.92] Y no sé, yo usé un montón para generación de casas de prueba, para generación de scripts de
+[01:07.92 → 01:16.76] Pogman, para programación a full, tipo un montón de ejercicios de KK, te genera ya un código
+[01:16.76 → 01:21.52] sámpago bastante decente que después modificas, no más, tipo, ah mira, esta parte no tiene
+[01:21.64 → 01:29.52] sentido, la reglo yo, ya está, o le decía al AI, y esta cosa le reglas así, y te diga
+[01:29.52 → 01:36.60] un nuevo código mejor, si no, yo que sé, vos creo que estabas en la economía y eso,
+[01:36.60 → 01:42.12] imaginate que le podés fidear a un AI, toda información de un proyecto que estás haciendo
+[01:42.12 → 01:48.56] y después le pedís no más, que tipo, terastructure para el tipo, imagete que tenés el AI con
+[01:48.64 → 01:54.52] toda la información, todo el contexto, con todos los documentos que preparaste para un trabajo,
+[01:54.52 → 02:02.76] el AI sabe todo eso ya, no te vas a hacer respuestas perfectas, siempre, pero te vas a generar,
+[02:02.76 → 02:06.64] yo que sé, un cliente nuevo te pide, quiero tal cambio, me paso una revisión, tal cosa,
+[02:06.64 → 02:10.68] pa, pa, pa, pa, pa, pa, pa, y le pedís no más, al AI, bueno, ha de explicarles estos cambios,
+[02:10.68 → 02:15.20] generarme el documento, hacerme un markdown, le fue un markdown, le pasas a Word,
+[02:15.20 → 02:19.36] convertís a documento y listo, tipo, no sé, yo uso para todo.

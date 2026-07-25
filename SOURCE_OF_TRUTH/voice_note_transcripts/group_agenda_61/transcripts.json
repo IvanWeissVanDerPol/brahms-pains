@@ -113,5 +113,395 @@
    }
   ],
   "text": "¿No tiene nada?"
+ },
+ {
+  "file": "PTT-20260714-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.8964887857437134,
+  "duration": 65.6935,
+  "transcribed_at": "2026-07-25T06:31:13.468146+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " No veo bien, pero se..."
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " ¿Qué mierda le puso a los manos a un pastelillo, mierda?"
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " Yo, mierda, estoy demasiado..."
+   },
+   {
+    "start": 23.0,
+    "end": 25.0,
+    "text": " Habló su oliva, boys."
+   },
+   {
+    "start": 25.0,
+    "end": 26.0,
+    "text": " Ay, puta."
+   },
+   {
+    "start": 27.0,
+    "end": 28.0,
+    "text": " Y..."
+   },
+   {
+    "start": 28.0,
+    "end": 31.0,
+    "text": " ...desde así todo que te llamó, te..."
+   },
+   {
+    "start": 31.0,
+    "end": 32.0,
+    "text": " ...só."
+   },
+   {
+    "start": 38.0,
+    "end": 40.0,
+    "text": " Y boja, tija, este..."
+   },
+   {
+    "start": 43.0,
+    "end": 46.0,
+    "text": " Lo que sé es que te voy a reducir la boliva aquí,"
+   },
+   {
+    "start": 46.0,
+    "end": 48.0,
+    "text": " pero ya me puse dos bolsas."
+   },
+   {
+    "start": 56.0,
+    "end": 59.0,
+    "text": " Te juro que estoy remoreada."
+   },
+   {
+    "start": 61.0,
+    "end": 64.0,
+    "text": " Lo sé y te impedo que carajo de compasar."
+   }
+  ],
+  "text": "No veo bien, pero se... ¿Qué mierda le puso a los manos a un pastelillo, mierda? Yo, mierda, estoy demasiado... Habló su oliva, boys. Ay, puta. Y... ...desde así todo que te llamó, te... ...só. Y boja, tija, este... Lo que sé es que te voy a reducir la boliva aquí, pero ya me puse dos bolsas. Te juro que estoy remoreada. Lo sé y te impedo que carajo de compasar."
+ },
+ {
+  "file": "PTT-20260628-WA0028.opus",
+  "language": "en",
+  "language_probability": 0.8360548615455627,
+  "duration": 67.4735,
+  "transcribed_at": "2026-07-25T09:36:02.059349+00:00",
+  "segments": [
+   {
+    "start": 0.64,
+    "end": 6.08,
+    "text": " project about making a live transcription to help people steer interviews."
+   },
+   {
+    "start": 8.0,
+    "end": 12.88,
+    "text": " Should have the context of what is happening, who the presence in the interview are at least as a"
+   },
+   {
+    "start": 12.88,
+    "end": 20.400000000000002,
+    "text": " basic. It's like default tempest, default psychoanalyst of the conversation, so you can steer the"
+   },
+   {
+    "start": 20.400000000000002,
+    "end": 27.84,
+    "text": " conversation and help get the right results. So everything is configured, but not with"
+   },
+   {
+    "start": 27.919999999999998,
+    "end": 33.6,
+    "text": " hard questions, but with interactive, like how you say somebody talking in your ear from,"
+   },
+   {
+    "start": 33.6,
+    "end": 39.04,
+    "text": " hey, try to do this, try to do that. And then like that, you don't need to transcribe anymore because"
+   },
+   {
+    "start": 39.04,
+    "end": 44.8,
+    "text": " that is done automatically. You only need to help the conversation. And that is that extra in the"
+   },
+   {
+    "start": 44.8,
+    "end": 54.16,
+    "text": " ear. You can have even that different personas from, hey, don't forget this one. So with"
+   },
+   {
+    "start": 54.160000000000004,
+    "end": 60.720000000000006,
+    "text": " different personas, you can have different people giving advice. So you're interviewing,"
+   },
+   {
+    "start": 60.720000000000006,
+    "end": 65.76,
+    "text": " they're listening and it's like 10 people be standing behind you from the intro."
+   }
+  ],
+  "text": "project about making a live transcription to help people steer interviews. Should have the context of what is happening, who the presence in the interview are at least as a basic. It's like default tempest, default psychoanalyst of the conversation, so you can steer the conversation and help get the right results. So everything is configured, but not with hard questions, but with interactive, like how you say somebody talking in your ear from, hey, try to do this, try to do that. And then like that, you don't need to transcribe anymore because that is done automatically. You only need to help the conversation. And that is that extra in the ear. You can have even that different personas from, hey, don't forget this one. So with different personas, you can have different people giving advice. So you're interviewing, they're listening and it's like 10 people be standing behind you from the intro."
+ },
+ {
+  "file": "PTT-20240718-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.904765248298645,
+  "duration": 104.0178125,
+  "transcribed_at": "2026-07-25T16:21:35.066542+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Decime un poco tal de tu problema, jamí."
+   },
+   {
+    "start": 3.2,
+    "end": 4.0,
+    "text": " Necesito..."
+   },
+   {
+    "start": 4.0,
+    "end": 5.2,
+    "text": " Decí otra vez."
+   },
+   {
+    "start": 5.7,
+    "end": 6.7,
+    "text": " Decí otra vez."
+   },
+   {
+    "start": 6.7,
+    "end": 7.7,
+    "text": " De verdad ahora pico."
+   },
+   {
+    "start": 9.200000000000001,
+    "end": 10.200000000000001,
+    "text": " Quiero que la da bien."
+   },
+   {
+    "start": 10.200000000000001,
+    "end": 11.200000000000001,
+    "text": " Dale, dale, dale."
+   },
+   {
+    "start": 11.200000000000001,
+    "end": 12.5,
+    "text": " Ah, ahí vamos con la unión."
+   },
+   {
+    "start": 12.5,
+    "end": 13.200000000000001,
+    "text": " Ahí vamos."
+   },
+   {
+    "start": 13.700000000000001,
+    "end": 14.8,
+    "text": " Necesita, necesito."
+   },
+   {
+    "start": 14.8,
+    "end": 16.7,
+    "text": " Estoy quedando, estoy quedando, no conocemos."
+   },
+   {
+    "start": 16.7,
+    "end": 19.2,
+    "text": " Yo soy la novia oficial, ahora por encima no sé ya."
+   },
+   {
+    "start": 19.2,
+    "end": 21.0,
+    "text": " Me relaciono ocho años ya."
+   },
+   {
+    "start": 21.3,
+    "end": 22.2,
+    "text": " No sé quién soy."
+   },
+   {
+    "start": 23.3,
+    "end": 24.400000000000002,
+    "text": " Necesita lo de mí."
+   },
+   {
+    "start": 24.400000000000002,
+    "end": 28.1,
+    "text": " Pero yo hasta criatura, yo dormí a 24 horas y todavía no ya se la baño."
+   },
+   {
+    "start": 31.0,
+    "end": 33.4,
+    "text": " Ay, bueno, ¿qué te dije?"
+   },
+   {
+    "start": 33.4,
+    "end": 34.8,
+    "text": " Estaba buscando."
+   },
+   {
+    "start": 34.8,
+    "end": 35.8,
+    "text": " Que yo no busco."
+   },
+   {
+    "start": 35.8,
+    "end": 38.2,
+    "text": " Ella es súper sutena."
+   },
+   {
+    "start": 38.7,
+    "end": 40.2,
+    "text": " Le gusta que le dominen."
+   },
+   {
+    "start": 40.5,
+    "end": 41.5,
+    "text": " Vamos a empezar por ahí."
+   },
+   {
+    "start": 46.8,
+    "end": 49.2,
+    "text": " Bueno, yo que alguien me coja no me va así."
+   },
+   {
+    "start": 49.2,
+    "end": 50.2,
+    "text": " ¿Qué tal?"
+   },
+   {
+    "start": 51.5,
+    "end": 53.2,
+    "text": " Que le azote, que le azote."
+   },
+   {
+    "start": 53.2,
+    "end": 54.2,
+    "text": " ¿Qué mía?"
+   },
+   {
+    "start": 54.2,
+    "end": 55.3,
+    "text": " Y sí, la verdad."
+   },
+   {
+    "start": 55.3,
+    "end": 56.2,
+    "text": " ¿Sabes qué me gusta?"
+   },
+   {
+    "start": 56.2,
+    "end": 56.8,
+    "text": " Y eso."
+   },
+   {
+    "start": 56.800000000000004,
+    "end": 61.900000000000006,
+    "text": " Si vos les dan algo, por ahí les puede gustar, pues pegás bien fuerte."
+   },
+   {
+    "start": 62.6,
+    "end": 64.10000000000001,
+    "text": " Pero tiene una mano grande."
+   },
+   {
+    "start": 68.2,
+    "end": 74.2,
+    "text": " Estaba pensando que hay que llevarle la próxima sexo a ella y que ella encuentre a alguien."
+   },
+   {
+    "start": 74.60000000000001,
+    "end": 77.10000000000001,
+    "text": " Por ahí encuentras y alguien que le da un minuto."
+   },
+   {
+    "start": 77.10000000000001,
+    "end": 80.10000000000001,
+    "text": " Mínimo, yo 95 como el tipo de encuerza y saliendo ahora."
+   },
+   {
+    "start": 80.10000000000001,
+    "end": 81.30000000000001,
+    "text": " No está saliendo, está saliendo."
+   },
+   {
+    "start": 81.30000000000001,
+    "end": 82.10000000000001,
+    "text": " Ah, bueno."
+   },
+   {
+    "start": 82.10000000000001,
+    "end": 83.4,
+    "text": " Pero le quiero coger."
+   },
+   {
+    "start": 83.4,
+    "end": 85.10000000000001,
+    "text": " Le quiero coger."
+   },
+   {
+    "start": 85.4,
+    "end": 87.10000000000001,
+    "text": " Pero, pero tiene, tiene."
+   },
+   {
+    "start": 87.10000000000001,
+    "end": 88.10000000000001,
+    "text": " Te voy a coger con él."
+   },
+   {
+    "start": 88.10000000000001,
+    "end": 88.80000000000001,
+    "text": " ¿Cómo se da?"
+   },
+   {
+    "start": 88.80000000000001,
+    "end": 90.4,
+    "text": " Tiene un pito grande, ella sabe."
+   },
+   {
+    "start": 91.4,
+    "end": 92.10000000000001,
+    "text": " Sí, grande."
+   },
+   {
+    "start": 92.10000000000001,
+    "end": 93.10000000000001,
+    "text": " Me asusto."
+   },
+   {
+    "start": 93.10000000000001,
+    "end": 94.10000000000001,
+    "text": " Me asusto."
+   },
+   {
+    "start": 95.10000000000001,
+    "end": 96.9,
+    "text": " Ay, no me sigues de tal grande."
+   },
+   {
+    "start": 96.9,
+    "end": 97.9,
+    "text": " Yo estoy muy..."
+   },
+   {
+    "start": 98.10000000000001,
+    "end": 99.4,
+    "text": " ¿Cómo voy a coger con eso?"
+   },
+   {
+    "start": 99.4,
+    "end": 101.10000000000001,
+    "text": " Pero bueno, uno practica."
+   }
+  ],
+  "text": "Decime un poco tal de tu problema, jamí. Necesito... Decí otra vez. Decí otra vez. De verdad ahora pico. Quiero que la da bien. Dale, dale, dale. Ah, ahí vamos con la unión. Ahí vamos. Necesita, necesito. Estoy quedando, estoy quedando, no conocemos. Yo soy la novia oficial, ahora por encima no sé ya. Me relaciono ocho años ya. No sé quién soy. Necesita lo de mí. Pero yo hasta criatura, yo dormí a 24 horas y todavía no ya se la baño. Ay, bueno, ¿qué te dije? Estaba buscando. Que yo no busco. Ella es súper sutena. Le gusta que le dominen. Vamos a empezar por ahí. Bueno, yo que alguien me coja no me va así. ¿Qué tal? Que le azote, que le azote. ¿Qué mía? Y sí, la verdad. ¿Sabes qué me gusta? Y eso. Si vos les dan algo, por ahí les puede gustar, pues pegás bien fuerte. Pero tiene una mano grande. Estaba pensando que hay que llevarle la próxima sexo a ella y que ella encuentre a alguien. Por ahí encuentras y alguien que le da un minuto. Mínimo, yo 95 como el tipo de encuerza y saliendo ahora. No está saliendo, está saliendo. Ah, bueno. Pero le quiero coger. Le quiero coger. Pero, pero tiene, tiene. Te voy a coger con él. ¿Cómo se da? Tiene un pito grande, ella sabe. Sí, grande. Me asusto. Me asusto. Ay, no me sigues de tal grande. Yo estoy muy... ¿Cómo voy a coger con eso? Pero bueno, uno practica."
  }
 ]

@@ -369,3 +369,425 @@ PTT-20260522-WA0010.opus | lang=es prob=0.9897944331169128 dur=59.7s
 [00:40.60 → 00:45.88] después está el último del blog, nada más eso te consulto si es que se puede hacer,
 [00:45.88 → 00:52.84] si no, bueno está bien también voy a ver cómo ajustar eso, verdad, en todo caso saco los tres
 [00:52.84 → 00:59.64] de abajo y mantengo treno más y voy cambiando, no va a haber luego demasiado mucho al principio, verdad.
+PTT-20260523-WA0040.opus | lang=es prob=0.9764933586120605 dur=61.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.80] la portada a carrusel yo ya había editado ayer y dejé de una manera que quería que se quede
+[00:06.80 → 00:12.24] esos cuatro y tener lo que te dije para para mantener como categoría pero ahora visto que
+[00:12.24 → 00:20.68] me cambió todo otra vez, cambió los textos no sé si voy si de esa edición o la IA después
+[00:20.68 → 00:25.08] el tema carrusel de equi promoción está bien la categoría está bien pero después abajo
+[00:25.08 → 00:30.12] sale otra vez el ya tenía que estar el blog y ese ya no está ya no figura otra vez figura no
+[00:30.12 → 00:35.28] sé figura al tema de lo que es tipo de producto esas cosas
+[00:39.12 → 00:44.28] eso es lo que tenía consultar si vos hiciste esas modificaciones o solo él hace eso es lo que me
+[00:44.28 → 00:50.76] está preocupando porque parece que nos está funcionando y van no funciona el tema de la
+[00:50.76 → 00:58.60] IA parece que no funciona porque te modifica cada rato y y ahí lo que no se puede no se puede puede
+[00:58.60 → 01:01.44] estar cambiando eso cada rato ahora
+PTT-20260522-WA0023.opus | lang=es prob=0.937528133392334 dur=51.7s
+------------------------------------------------------------
+[00:00.00 → 00:05.48] O sea, por ahora no le mire si quieres lo de kits, porque estuve viendo lo de que los
+[00:05.48 → 00:11.44] productos se vean bien y eso. Si se le querés hacer más pequeños o el carrusel, no es ningún
+[00:11.44 → 00:15.64] problema, es así, facilito, gilch. Ehh, José Man.
+[00:20.64 → 00:25.08] El hecho que tiene gilch más o menos de repente es que yo le hago siempre que
+[00:25.08 → 00:30.12] investiga a fondo cuáles son las mejores prácticas y todas las mejores estandarejitas,
+[00:30.12 → 00:37.88] esas cosas de en tiendas y páginas web, de como leo sería el best approach y vos
+[00:37.88 → 00:46.84] implementa todo y ahí le hace como pienso que es el best way para hacer para esa parte de kits y promos.
+[00:46.84 → 00:51.16] Pero hacerle carrusel a alguien no es any issues.
+PTT-20260521-WA0051.opus | lang=es prob=0.9859440326690674 dur=52.6s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Y creo que es lo que hablamos, verdad que ya está prácticamente todo en base a lo que habíamos hablado, verdad.
+[00:07.00 → 00:20.00] Después, evidentemente, vamos a ir viendo como si genera buen impacto, si es práctico, si es fácil para el cliente.
+[00:21.00 → 00:28.00] Otra cosa que te quería consultar, arriba mismo, cuando voy a ingresar en la página,
+[00:28.00 → 00:36.00] entre el logo y el carrusel, hay una barrita azul que dice, por ejemplo,
+[00:36.00 → 00:44.00] envío gratis a partir de 300,000 barníes por la compra de tal promoción,
+[00:44.00 → 00:52.00] ese yo también puedo cambiar, figura también si me puedo indicar, si puedo cambiar también ese.
+PTT-20260523-WA0046.opus | lang=es prob=0.9621893167495728 dur=63.7s
+------------------------------------------------------------
+[00:00.00 → 00:08.22] lo que te quiero pedir Iván es que por ejemplo eso es lo que estoy notando que cambia cada
+[00:08.22 → 00:17.72] rato ahora no sé si cambia vamos a decirle las funciones o sea vite que en la página
+[00:17.72 → 00:25.92] principal estaba para lo que sería el carrusel de categoría en la portada grande después
+[00:25.92 → 00:31.84] abajo era lo que sería los las kits y promociones en carrusel también después sería las categorías
+[00:31.84 → 00:39.04] y después ya se creo que entra entraba lo que era producto destacado producto destacado y nuevo
+[00:39.04 → 00:44.80] producto y eso ahora por ejemplo ya en la página no está veo que no está está totalmente otra
+[00:44.80 → 00:51.68] cosa y eso es lo que me preocupa porque él está cambiando todo el tiempo para y parece
+[00:51.68 → 00:59.08] que no podemos rematar no podemos vamos a decirles ya de una vez por todas bueno dejar fijos la página
+[00:59.08 → 01:03.56] y que ya se pueda ya trabajar en eso lo que me está preocupando
+PTT-20260522-WA0016.opus | lang=es prob=0.8666250109672546 dur=66.6s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Si, si, ahora estoy probando un flop que genera más lindos, tipo estoy haciendo un flop
+[00:07.00 → 00:13.00] Verso uno que genera 5, mi gran flop que tal le pone, que tal el color, y que critique
+[00:13.00 → 00:18.00] Después veo que lo que está mal y mejor es eso
+[00:19.00 → 00:21.00] Pero con eso no
+[00:30.00 → 00:34.00] Yo le pino, si es que ves algo que tipo te gustaría cambiar particularmente
+[00:34.00 → 00:40.00] Si es que te parece ok, que no te gusta de las imágenes y veo que genera más lindo
+[00:41.00 → 00:50.00] Pero el mayor problema de lo que veo es las imágenes que son rectangulares
+[00:50.00 → 00:53.00] Que son las iniciales de arriba que habías pasado
+[00:53.00 → 00:56.00] Su hijo es que es rectangularo
+[00:56.00 → 01:00.00] Y por hacerle ver bien el que se expanda bien
+[01:00.00 → 01:04.00] Es necesidad del tamaño cuadrado que espera la página
+PTT-20260521-WA0009.opus | lang=es prob=0.9740344882011414 dur=56.9s
+------------------------------------------------------------
+[00:00.00 → 00:08.32] y van viste que ahí al lado del precio dice en dólares ese también sería bueno sacar nomas
+[00:08.32 → 00:14.52] porque nos vamos a decorar en dólar y puede confundir un poco a la gente verdad y ahora
+[00:14.52 → 00:21.04] entré en administración y modifique los precios pero no me permite subir fotos o sea que
+[00:21.04 → 00:26.92] intenté muchísimo y no me permite actualizar la foto que hice verdad no sé cómo eso
+[00:27.08 → 00:31.52] tenemos yo creo que tenemos que reunirnos y me mostrar bien todo y otra cosa viste que
+[00:31.52 → 00:39.48] entré a través del lojin pero hay un sistema de registro para los clientes en la página que
+[00:39.48 → 00:49.04] es similar a ese acceso mi consulta va el administrador eso eso solo tengo yo verdad yo y
+[00:49.04 → 00:53.28] usted de verdad por ejemplo otra persona si se registra no le va a figurar ese para que
+[00:53.28 → 00:56.84] entran modificar precio que sea por la duda no mate con su
+PTT-20260523-WA0049.opus | lang=es prob=0.9179155230522156 dur=57.5s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] Perfecto, voy a remover el por qué elegí el viajero y lo que hice nuestros clientes del home page de tu página.
+[00:08.00 → 00:16.00] Aparte de eso, en mis pruebas me dejó cambiar las imágenes, cambiar los textos, poner las categorías y subcategorías
+[00:16.00 → 00:23.00] para que en tu tienda tengas así como en las otras páginas que onda, puf, abretas la categoría y subseleccionás en lo que te interesa
+[00:23.00 → 00:29.00] tipo a pesca y quieres ver solamente las cañas o a pesca y quieres ver los anzuelos o lo que sea.
+[00:29.00 → 00:35.00] Eso me estuve andando viajero, me avisó que en un tienda, tipo a Moslim y mis pruebas que estoy cambiando cosas eran por eso
+[00:35.00 → 00:43.00] tipo estuve verificando que andaban o me andaban a mí y que podía hacer varios de los cambios en el instaurador.
+[00:43.00 → 00:51.00] De vuelta, no probé todas las cositas administrativas porque son un montón de cosas y estoy haciendo varias otras cosas también
+[00:51.00 → 00:57.00] pero deberían andar las categorías y productos que son los que más les estuve testando rápido.
+PTT-20260522-WA0007.opus | lang=es prob=0.9497766494750977 dur=60.4s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] O sea, el fondo de las imágenes se puede hacer que sea un tono específico y pausa ese mismo
+[00:09.00 → 00:16.32] tono específico para el fondo de tus imágenes. O sea, el fondo que está fuerte a la imagen y el
+[00:16.32 → 00:21.44] fondo que está dentro de la imagen se puede hacer que sea el mismo tono. Tienes que darle
+[00:21.44 → 00:27.76] uno más a ese contexto, dale ya. Voy a pasarlo ahora allá que analice las imágenes que
+[00:27.76 → 00:37.40] les pasaste y que me genera un prompt de base de imagen que le defina ya el fondo y le
+[00:37.40 → 00:42.88] defina ya las dimensiones y esas cosas. Entonces cuando vos usas le decís a tu ya,
+[00:42.88 → 00:48.84] que era una foto para mi tienda de este producto, lo que sea y le pasas la foto de tu producto,
+[00:48.84 → 00:54.36] le agregas el contexto de mi prompt extra que es tipo estas dimensiones, este fondo,
+[00:54.36 → 01:00.16] lo que sea y te debería de generar una imagen que entra mejor en la página.
+PTT-20260525-WA0030.opus | lang=es prob=0.9399030208587646 dur=62.9s
+------------------------------------------------------------
+[00:00.00 → 00:07.76] este se refiero un poco más las imágenes onda no de los productos pero onda las imágenes de tipo
+[00:07.76 → 00:13.60] tu fab y con tu logo y eso aunque también puedo mover nomas todo al superbase pero ahí tarda un
+[00:13.60 → 00:18.76] poquito en cargar hasta que tipo este tipo tenemos una página que carga y tipo hay imágenes que
+[00:18.76 → 00:22.72] cargan así el instante más o menos y una que tiene que buscar un servidor y ahí por eso
+[00:22.72 → 00:28.40] tarda en cargar por ejemplo te vas a facebook y te cargas luego de facebook pero no te cargas
+[00:28.40 → 00:35.00] todos los posts y eso todavía y todas tus imágenes así de tus productos promos lo que sea no están
+[00:35.00 → 00:41.96] corriendo en el de versel eso están en la base de datos en superbase así que vos puedes tener un
+[00:41.96 → 00:53.72] billón de productos y entran superbase y nos no le molesta al versel o sea era más un ejemplo
+[00:53.72 → 01:02.16] de que tipo puede tener un montón más y de estas chill tipo no deja tener problemas de esa cosa
+PTT-20260522-WA0043.opus | lang=es prob=0.9889569878578186 dur=73.9s
+------------------------------------------------------------
+[00:00.00 → 00:06.82] ¿Qué tal Iván? Bueno te comento, estas nuestras categorías también tienen
+[00:06.82 → 00:13.26] problemas para modificarse, porque ahora estoy estoy empezando de arriba, verdad,
+[00:13.26 → 00:18.10] la portada, el carrusel principal y al final las categorías que van a quedar
+[00:18.10 → 00:23.10] son los siguientes, o sea algunos vamos a decirle que incorporé nomas otro para
+[00:23.10 → 00:29.06] que es ser más práctico, verdad, va a quedar lo que es camping, después va a
+[00:29.06 → 00:35.70] hacer lo que es artículo de pesca, después va a quedar ruta y aventura, ese
+[00:35.70 → 00:40.46] vamos a mantener como está en la portada, pero en ruta y aventura van a ir todo lo
+[00:40.46 → 00:45.82] que son productos de juegos para viajes electrónicos y equipos y accesorios
+[00:45.82 → 00:50.18] para viajes, o sea ahí van a entrar todo lo que inclusive equipamiento para
+[00:50.18 → 00:56.06] vehículos, motos, eso, y último va a quedar exploración y táctico como
+[00:56.06 → 01:00.38] categoría y en lo que exploración y táctico va a ser todo lo que oferta de
+[01:00.38 → 01:07.26] equipo táctico y exploración, verdad, todo lo que es bolsones, bolsos para, todo lo
+[01:07.26 → 01:12.02] que es exploración, verdad, y eso es lo que yo quiero modificar en lo que sería
+[01:12.02 → 01:15.74] esa la categoría
+PTT-20260523-WA0010.opus | lang=es prob=0.951903223991394 dur=67.5s
+------------------------------------------------------------
+[00:00.00 → 00:09.40] Hola tío, ahí me parece que ya anda bien ish. Estuve haciendo unos contos updates hablando de varias cosas, de tener
+[00:09.40 → 00:15.56] imágenes de todos los productos también. Las categorías tienen nacional rules, tienen varios
+[00:15.56 → 00:23.00] niveles para poder filtrar todo. El admin me dejó cambiar las cosas y me deja cambiar las imágenes
+[00:23.00 → 00:30.60] avisadas si es que no te anda o tienes algún problema. La cosa de ella, tengo que configurarlo
+[00:30.60 → 00:38.68] otra vez, tengo que poner el crédito en el modelo que está conectado. Pero me dejó hacer los cambios
+[00:38.68 → 00:44.80] y cosas contesta y eso. Avisadas si es que no te anda o tienes algún problema con algo.
+[00:45.76 → 00:51.84] Provedé unas cuantas de las cosas pero no probé de todo el fondo porque estoy haciendo
+[00:51.84 → 00:58.36] también unas cuantas otras páginas y todo el otro contenido y lo de Nexa. Pero los que
+[00:58.36 → 01:06.28] probé mantuvo. Así que de tu lado si es que no te anda o voy a arreglar lo que esté ruto.
+PTT-20260521-WA0006.opus | lang=es prob=0.9748837947845459 dur=66.5s
+------------------------------------------------------------
+[00:00.00 → 00:11.60] ¿Qué tal Iván? Para hacerte recordar más o menos cómo era el tema. Está muy bien todo lo que es la
+[00:11.60 → 00:19.12] parte de arriba, el tema el carrusel, después abajo iba kit y promociones, que ya visto que
+[00:19.12 → 00:24.96] esta semana estaba, figuraba que también era de manera de carrusel, pero que la gente podía
+[00:24.96 → 00:33.56] mover. Ya estaba funcionando bien, pero ahora veo que no está en la página. Después de eso
+[00:33.56 → 00:39.76] iban nuestras categorías que eran esos globitos que estaban, que yo les pedía, que irían que saque
+[00:39.76 → 00:47.28] y pongan unas más imágenes de referencia. Después de eso abajo estaban los que eran el producto
+[00:47.28 → 00:53.72] de Nstoty destacado y último quería que vaya también este figura en la página principal
+[00:53.72 → 01:01.72] del blog, el blog de viajito de eso. Y eso sería el orden, ¿verdad? Y que no esté muy separado uno
+[01:01.72 → 01:05.64] de otro porque veo también que a veces hay un espacio muy grande entre uno y otro.
+PTT-20260521-WA0056.opus | lang=es prob=0.9877561330795288 dur=75.3s
+------------------------------------------------------------
+[00:00.00 → 00:07.96] Y quedamos así, mañana voy a ver bien y te aviso, si es que puedes ver el tema del kit y
+[00:07.96 → 00:11.80] promociones para esta noche, entonces mañana lo mejor cuando dentro ya está también eso.
+[00:16.44 → 00:20.72] Y ahí para ir definiendo ya, así como te digo, lo que quiero es que ya estés ya,
+[00:21.84 → 00:28.08] si se puede esta semana podamos ya eso cerrar, que la página ya esté 100%
+[00:29.00 → 00:36.24] funcionable y que ya no genere modificaciones y yo empiezo a trabajar ya en los productos,
+[00:36.24 → 00:41.44] encargar los productos y una vez que tenga todo voy cambiando después, ¿verdad?
+[00:41.44 → 00:47.36] Y como te dije el tema del logo, si yo puedo modificar eso, así como me dijiste que puedo
+[00:47.36 → 00:53.68] hacer, voy a ponerle nomás algo así general de momento, hasta que yo pueda definir bien
+[00:53.68 → 00:59.08] el tema del nombre de la empresa, el dominio se va a mantener porque ya pague,
+[00:59.08 → 01:05.16] a eso te quería consultar, en el caso que yo quiera cambiar otra vez el dominio,
+[01:06.88 → 01:12.36] ponerle que quiera cambiar el nombre de la empresa que registro, eso se podría hacer
+[01:12.36 → 01:15.08] sin generar ninguna modificación en la página.
+PTT-20260521-WA0052.opus | lang=es prob=0.9858221411705017 dur=71.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.88] Y como te digo, si definimos eso entre hoy y mañana, o sea mañana voy a sentarme a ver
+[00:06.88 → 00:12.08] toda la página, voy a entrar en tres máquinas diferentes luego, porque una cosa al celular,
+[00:12.08 → 00:19.60] otra vez, y una vez que yo vea que ya está todo bien, toda la función, todo funciona
+[00:19.60 → 00:28.88] bien, y si se agregó el tema de los kits, el carrusel de kits, entonces ya establecer
+[00:28.88 → 00:34.56] eso como fijo, o sea, tratar ya de que no se modifique nada, para que yo pueda ir trabajando.
+[00:34.56 → 00:41.32] Claro, y así como te dije, no voy a lanzar todavía sin cargar todos los productos, pero
+[00:41.32 → 00:45.64] en estos días quería hacer, por ejemplo, me pasaron, me pasaste el tema del acceso, hoy
+[00:45.64 → 00:51.72] me senté para trabajar, pero viste que se desordenó, se desordenó y tampoco me permitía
+[00:51.72 → 00:56.76] de salir imagen, entonces eso es lo que no quiero más que ocurra, o sea, quiero
+[00:56.76 → 01:02.64] ya sentarme y que toda la función es bien ordenada y que se pueda ir trabajando en cargarlo,
+[01:02.64 → 01:08.44] pero como te digo no te preocupen, voy a lanzarlo así, claro que tengo que desarrollar, cargar
+[01:08.44 → 01:11.64] todos los productos, todo lo que tenga.
+PTT-20260521-WA0054.opus | lang=es prob=0.9023206233978271 dur=73.8s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Perfecto, voy a fijarme de que tenga también
+[00:04.00 → 00:12.00] Pretty sure que la cosa esa de la barrerita que estaba encima que me decís se refiere a los códigos promocionales
+[00:12.00 → 00:19.00] o una de las áreas acá que era para eso, muy seguro que preparó también el día
+[00:19.00 → 00:24.00] pero voy a ver de que esté en configuración el contenido también y
+[00:24.00 → 00:30.00] que te pones a caer la barrita de banner de promos porque sé por ejemplo es yo que sé
+[00:30.00 → 00:38.00] pise la primavera y querés poner ahí un texto rápido de cosas de camping para flores o kit de semillas
+[00:38.00 → 00:42.00] para que cuando te vas al campo puedas rocear las semillas y llenar de flores tu camino
+[00:42.00 → 00:50.00] yo que sé para la siguiente vez que se va la persona o no sé tipo es para esas promos rápidas así de temporada
+[00:50.00 → 00:56.00] que son tipo también le puedes poner en la imagen grande pero son las distintas
+[00:56.00 → 01:05.00] los tipos que querés poner ahí tipo uno es el main promo del coso y el otro es un quick banner de flash sale de tal cosa o lo que sea
+[01:05.00 → 01:11.00] pero todo debía ser configurable desde la parte de configuración contenido
+[01:11.00 → 01:13.00] veo de que esté también eso
+PTT-20260522-WA0032.opus | lang=es prob=0.9855337738990784 dur=88.1s
+------------------------------------------------------------
+[00:00.00 → 00:10.48] Sí, sí, por favor, vamos a hacer lo siguiente, estoy yo probando algunas cosas no funcionan, no
+[00:10.48 → 00:19.80] me deja editar o no me deja cambiar y te voy a ir diciendo así de a poco y vamos a ir cambiando
+[00:19.80 → 00:26.92] eso para que no te llene de cosas ahora y después no puedas hacer todo de una vera,
+[00:26.92 → 00:35.24] o sea de momento hoy lo que te pedí primero fue el tema de las de las portadas del carrusel que no me
+[00:35.24 → 00:46.60] permitía modificar textos ni y eso ahora y los enlaces que me dijiste que iba a ver eso y después
+[00:46.60 → 00:54.28] es dejar los cuadros que esté nomás con el fondo blanco los cuadros de los donde van las imágenes
+[00:54.28 → 01:01.24] de los productos y después veo muchas cosas que no me está no está funcionando al menos en la edición
+[01:01.24 → 01:08.88] verá pero eso te voy a ir pasando una vez que corrijamos los otros vamos a ir te voy a ir pasando
+[01:08.88 → 01:18.64] para que me vayas corrigiendo también por ejemplo hay eso y el tema del kit y promociones y es que
+[01:18.64 → 01:25.84] vas a hacer o no con carruselos y no dejamos así nomás se llama se indicaron que me dijiste que
+[01:25.84 → 01:28.08] podías achicar un poco esos cuadros
+PTT-20260521-WA0037.opus | lang=es prob=0.9589561820030212 dur=74.9s
+------------------------------------------------------------
+[00:00.00 → 00:13.60] Ok, yo voy a probar todas las funciones y te aviso cómo anda y si el kit justo entra a mirar,
+[00:13.60 → 00:21.12] ese es lo que es faltaba, el kit y promoción, y lo que te quería consultar, el tema del carrusel
+[00:21.12 → 00:26.96] de arriba de la página principal cuando se ingresa, ese carrusel yo tengo la opción de
+[00:26.96 → 00:32.16] cambiar también, Kirian creo que me había dicho, creo que vos también dijiste que podíamos cambiar
+[00:32.16 → 00:38.48] nosotros también a través del administrador, porque hay algunas cosas que quiero cambiar ahí,
+[00:38.48 → 00:50.24] ese es una pregunta y otra consulta es el tema de, viste que cuando vos justamente del carrusel
+[00:50.24 → 00:56.44] dice ir a la tienda y cuando entras en la tienda figuran todos los 80 productos que se tiene,
+[00:56.44 → 01:02.32] pero ella está mezclado todas las categorías, yo lo que quiero saber es si no es mejor cuando
+[01:02.32 → 01:09.00] sea da click en tienda que le dé la opción a la gente otra vez de seleccionar la categoría que
+[01:09.00 → 01:14.84] quiera ir a ver o eso como sería
+PTT-20260521-WA0049.opus | lang=es prob=0.9355481863021851 dur=87.3s
+------------------------------------------------------------
+[00:00.00 → 00:06.12] para los textos y eso. Te vas en tu admin, te vas hasta configuración contenido
+[00:06.12 → 00:09.28] y ahí tienes general, giroportada, categorías,
+[00:09.28 → 00:13.80] nosotros, contactos, footer y todas las cosas.
+[00:13.80 → 00:17.44] El que él me fijé que anda es el de categoría.
+[00:17.44 → 00:20.44] Actualmente tiene un
+[00:20.44 → 00:23.44] link a la imagen en vez de la imagen en sí.
+[00:23.44 → 00:26.88] Son más cositas que hay que arreglarle y eso, pero
+[00:26.88 → 00:29.96] como no sé cuáles son las cosas que quieren cambiar de editar y eso, estoy dando a
+[00:29.96 → 00:33.28] cuales más prioridad primero.
+[00:33.28 → 00:37.48] Entiendo que te es bastante prioritario, o sea, bastante te interesa la parte de que
+[00:37.48 → 00:39.20] puedas editar todo.
+[00:39.20 → 00:42.64] Deberías de poder editar los textos tranquilamente ya.
+[00:42.64 → 00:46.96] El que es medio problemático son las imágenes, porque es un path en vez de
+[00:46.96 → 00:48.72] europear una imagen
+[00:48.72 → 00:50.48] pero es algo que le puedo editar también
+[00:50.48 → 00:52.56] fácilmente.
+[00:52.56 → 00:56.32] Me voy a hacer el que pueda cambiar las imágenes, Chile.
+[00:56.36 → 00:58.28] Actualmente lo que te dice es
+[00:58.28 → 01:00.28] imagen de fondo URL
+[01:00.28 → 01:05.36] y una dirección de archivo a la imagen.
+[01:05.36 → 01:09.20] Creo que la onda era que le dejejen fotos y después le pases o algo, si se
+[01:09.20 → 01:09.88] evabelía.
+[01:09.88 → 01:12.76] Pero voy a ver de qué puedas tropear directo la imagen, hay que querías
+[01:12.76 → 01:14.44] reemplazar de lo que sea.
+[01:14.44 → 01:16.76] Si te parece bien.
+[01:16.76 → 01:19.80] Pero pues mirar la configuración en contenido,
+[01:19.80 → 01:23.12] todas las cosas que tiene ahí son las cosas de la página que puedes ir
+[01:23.12 → 01:24.08] viendo de cambiado.
+[01:24.08 → 01:26.84] Si es que te parece que falta algo avisando y le voy a agregarle.
+PTT-20260521-WA0038.opus | lang=es prob=0.9829671382904053 dur=84.2s
+------------------------------------------------------------
+[00:00.00 → 00:09.28] Este logo, Iván, habíamos hecho para cambiarte, ¿acordas? Bueno, te comento, yo estuve
+[00:09.28 → 00:19.20] abriguando y no me dejan registrar como marca, o sea, ninguna palabra que sea descriptiva de una
+[00:19.20 → 00:30.28] de una acción, vamos a decirle, ¿verdad? O sea, no puedo llamarle viajero ni el viajero, ¿verdad? Tiene
+[00:30.28 → 00:39.24] que ser una marca que no sea descriptiva a algo que uno hace, pero sí puedo usar viajero en redes,
+[00:39.24 → 00:44.64] puedo usar viajero en página, o sea, tienda al viajero, ese vamos a mantener dominio,
+[00:44.64 → 00:52.16] porque ese dominio luego ya compré, va a ser difícil que otro consiga al mismo, ¿verdad?
+[00:52.16 → 01:00.04] Al menos si es .com.pi. Lo que sí te quería consultar el tema de la marca, estoy viendo porque,
+[01:00.04 → 01:07.64] como no se puede registrar el viajero, tengo que ver de cambiar esa marca. Mi pregunta es si eso
+[01:07.64 → 01:15.64] se puede, si no va a afectar a la marca, a la página, incorporar el logo de una nueva marca,
+[01:15.64 → 01:21.68] vamos a mantener el dominio, tienda del viajero, pero es probable que cambie, ese es el viajero,
+[01:21.68 → 01:24.08] como marca de empresa.
+PTT-20260521-WA0053.opus | lang=es prob=0.9019767045974731 dur=90.4s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] de rica.flav, las cositas que le veo ahorita es Kitty Promociones que aparezca el lindo,
+[00:06.00 → 00:12.30] dos que cuando toquen una categoría le manda la página de categoría con la categoría que
+[00:12.30 → 00:20.64] siempre todo seleccionado y tres unflav, obrificar que las cositas de configuración de admin
+[00:20.64 → 00:28.08] update en los textos en la página. Veo unflav esas tres cositas y también voy a ver de hacer
+[00:28.08 → 00:38.40] la parte de CICD, entonces deja de desconfigurarse eso. Esa parte lo que sí voy a fijar un poco más,
+[00:38.40 → 00:46.64] es esta más wonky diva de complex de hacerle que esté lindo y organizado y separado bien las
+[00:46.64 → 00:52.16] diferentes versiones de la página para que cualquier trabajo que me pidas tengas después disponible
+[00:52.16 → 01:00.48] en lo que sea. Mi dominio que era el viajero puntoparaguay.com o puedo tener dev.elviajero.paraguay.com
+[01:00.48 → 01:07.24] entonces puedes verle la versión de trabajo y una vez que está todo bien y lindo y perfecto
+[01:07.24 → 01:16.28] ahí recién se va a producción en el que estiende el viajero.com.py entonces tener
+[01:16.28 → 01:21.16] separado las versiones y el más wonky diva que te gusta no más está en producción y tipo
+[01:21.16 → 01:28.80] todas esas cosas pero además unflamada más diva que la página por allá. Pero lo voy a estar haciendo.
+PTT-20260523-WA0053.opus | lang=es prob=0.9883908033370972 dur=104.8s
+------------------------------------------------------------
+[00:00.00 → 00:09.88] Y decimos una cosa, Iván, esta página todo el tiempo está vinculado a tu IA, ¿sabes por qué te
+[00:09.88 → 00:17.16] pregunto? Porque lo ideal sería, o sea, yo te aconsejo, verdad, que bueno, la IA te prepara,
+[00:17.16 → 00:23.04] te hace todo lo que vos decías, ¿verdad? Según lo que él cree que es conveniente y después
+[00:23.04 → 00:27.80] también modifica, de acuerdo a cómo nosotros queremos, ¿verdad? Pero una vez que ya la
+[00:27.80 → 00:35.68] página esté 100% como nosotros queremos, sería bueno ya desligar a la IA. O sea, que la IA ya no
+[00:35.68 → 00:42.88] tenga más ningún tipo de participación para que la página funcione y no hayas cambio, ¿verdad?
+[00:42.88 → 00:46.84] Eso es lo que, o sea, no entiendo, pues yo, ¿verdad? Disculpame, a lo mejor yo no más no entiendo.
+[00:48.56 → 00:52.80] Puede que yo no más sea alguien no entiende cómo, pero más o menos como así vos me
+[00:52.80 → 00:59.64] explicás, cuando vos le pedís algo, él te, según lo que él piensa, te va cambiando y después,
+[00:59.64 → 01:04.72] pero no es al final lo que nosotros queremos, ¿verdad? Entonces sería bueno en algún momento decir,
+[01:04.72 → 01:10.80] bueno, la página ya está como queremos y ahí, bueno, nos desligamos de la IA,
+[01:10.80 → 01:17.40] que la página ya esté como si fuera que un desarrollador hizo una página de 0 sin IA y
+[01:17.40 → 01:21.60] que ya esté funcionando así como nosotros queremos, ¿verdad? Eso es lo que sería bueno
+[01:21.60 → 01:29.40] porque si no, siempre parece ser que un día entra, está de una manera, el día siguiente está de
+[01:29.40 → 01:35.88] otra manera y así y hay cambio y no podemos, yo voy a trabajar, voy a cargar la imagen y todo
+[01:35.88 → 01:41.88] eso, pero cuando a la hora que yo lance con todo, yo ya no quiero que haya esos cambios,
+[01:41.88 → 01:44.72] o sea, ya no quiero por ningún motivo que haya esos cambios, ¿verdad?
+PTT-20260521-WA0045.opus | lang=es prob=0.9588930010795593 dur=99.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.96] Ya, excelente, si es que yo a través del Lightning, o sea, buscame nada y mostrame más o menos
+[00:06.96 → 00:14.04] donde yo puedo cambiar esa palabra y ese logito. Con relación a la IA, eso es lo que me estaba
+[00:14.04 → 00:20.64] preocupando y te quería decir, porque Kirian me dijo eso justamente cuando vos le pedías
+[00:20.64 → 00:25.32] a la IA que te haga algunas modificaciones, creo que ahí lo que venía el problema
+[00:25.32 → 00:32.20] verdad, no sé si es tan así o no, que se desordenaba un poco o la IA creía que tenía que ser de una
+[00:32.20 → 00:40.04] manera. Yo lo que quiero es que, mira, tratemos ya de establecer todo, que es toda la función
+[00:40.04 → 00:48.68] en bien, estén así como hablamos y no tocar más. O sea, no tocar más que nosotros podamos
+[00:48.68 → 00:53.80] ser manualmente, no más, porque el tema de la marca, eso no te preocupe, que yo, mi abogada,
+[00:53.80 → 00:58.76] ve luego en los registros si está o no registrado, o sea, no se puede lo registrar,
+[00:58.76 → 01:03.64] una marca que ya está registrada imposible, o sea, sí o sí, ella me averigua lo antes.
+[01:03.64 → 01:08.40] Entonces, una vez que busque el nombre, yo normalmente le voy a cambiar, ahora no quiero,
+[01:08.40 → 01:14.56] ahora es que ese proceso genera otra vez toda una modificación en la página,
+[01:14.56 → 01:20.00] porque después, una vez que yo lance la campaña para que la gente ingrese a la página,
+[01:20.40 → 01:25.12] no hay que confundirle a los clientes, la página tiene que funcionar de manera estable,
+[01:25.12 → 01:31.64] siempre y de una sola manera, ¿verdad? Por ejemplo, entró un cliente, le gustó una
+[01:31.64 → 01:35.92] manera de cómo adquirió los productos, después, en la siguiente,
+[01:35.92 → 01:39.64] que entra a lo mejor se le modificó todo, eso es lo que nos quiero que ocurra.
+PTT-20260521-WA0042.opus | lang=es prob=0.9215973019599915 dur=104.3s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] El costo del logo, había entendido que querían todavía ver unas cuantas cosas con su señora y confirmar.
+[00:07.00 → 00:13.00] Está el ejemplo que hicimos con Kiki en su laptop, que me había mandado después,
+[00:13.00 → 00:21.00] pero entendí que todavía estaban viendo y confirmando esas cosas, por eso no le puse ningún oficial así de cambio.
+[00:21.00 → 00:27.00] Cambiar las imágenes, los textos, no hacen ningún problema.
+[00:27.00 → 00:33.00] En la mayoría deberías de poder cambiar luego todo desde la parte de Admin de configuración.
+[00:33.00 → 00:39.00] Deberías poder editar el texto ahí y que automáticamente refleje en la página.
+[00:39.00 → 00:45.00] Te veo unflado de testear también ese, o no sé, me fijo.
+[00:45.00 → 00:54.00] Uno que yo veo que capaz va a ser interesante de agregar para que tengas es que en tu lugar de Admin tengas un lugar de IA
+[00:54.00 → 00:58.00] en el que le puedas hablar a mi agente que trabaja en estas cosas.
+[00:58.00 → 01:06.00] Entonces le puedes de repente pedir que cambie todos los tipos que te explique de dónde está, por qué tiene el viajero,
+[01:06.00 → 01:11.00] en qué partes puedes cambiar o que directamente te hagan los cambios por vos.
+[01:11.00 → 01:20.00] Y por le decir, el nuevo nombre de mi negocio es Camping of Mar.
+[01:20.00 → 01:25.00] Osmar por la Ruta, yo qué sé.
+[01:25.00 → 01:29.00] Le puedes decir así el nuevo nombre, debería de poder empezar a entender qué tipo,
+[01:29.00 → 01:36.00] ah bueno, el viajero es ahora Osmar en la Ruta, Osmar Camping.
+[01:36.00 → 01:38.00] Para mí no es de Paraguay, yo qué sé.
+[01:38.00 → 01:43.00] Y empezar a poner más los textos correctos en donde le pidas.
+[01:43.00 → 01:45.00] ¿Te interesa esa funcionaría?
+PTT-20260521-WA0055.opus | lang=es prob=0.9738885164260864 dur=114.6s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] No, más o menos así como están las cosas que ustedes pusieron está excelente porque yo estaba
+[00:06.00 → 00:12.24] pensando en lo hacer eso que por una compra x incluye el envío por ejemplo en lo que sería
+[00:12.24 → 00:19.68] asunción y área metropolitana. Solo que te pido si es que yo puedo eso modificar en el caso que
+[00:19.68 → 00:28.28] quiera cambiar o incluir alguna promo o algún descuento especial en tal categoría. Entonces
+[00:28.28 → 00:33.40] nada más si yo puedo eso modificar. Pero más o menos así como ustedes pusieron excelente o sea
+[00:33.40 → 00:41.00] más o menos esas cosas lo que voy a estar usando. Y eso es todo. Y después voy a mañana,
+[00:41.00 → 00:47.60] voy a centrarme con tranquilidad, voy a mirar bien y ahí te voy a ir mostrando. Creo que así
+[00:47.60 → 00:53.64] ahora entre, miré, creo que está como habíamos hablado. Lo único que faltaba es el tema de los
+[00:53.64 → 01:04.88] kits. Y después lo que sí el tema como te digo, el tema del carusel de la portada grande es que yo
+[01:04.88 → 01:12.48] pueda cambiar los textos y incorporar uno nuevo o sacar o cambiar las imágenes.
+[01:13.28 → 01:27.04] Y nada, ya prácticamente eso no más ya sería todo. Después podemos ver el lunes si tenés tiempo,
+[01:27.04 → 01:34.00] me voy junto a hoy y ahí me mostrás bien todo el tema del admin. Más o menos yo manejo porque
+[01:34.00 → 01:40.64] así como te dije tenía otras páginas, pero igual voy a ir probando y así hay cosas que
+[01:40.64 → 01:45.72] yo te consulto y a lo mejor no sé si tiene y vos me decís que sí, ahí se puede hacer entonces
+[01:45.72 → 01:50.44] para que me pueda mostrar bien. Pero si no, vos me pasas así por whatsapp, la imagen,
+[01:50.44 → 01:54.40] el lugar donde tengo que ir y voy entrando y voy cambiando.
+PTT-20260525-WA0012.opus | lang=es prob=0.963862955570221 dur=122.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.52] hola tío, hay esto live de vuelta, el issue es que como estoy corriendo del midi pies, todas mis cosas
+[00:09.02 → 00:14.20] de repente se mueren porque está corriendo demasiadas páginas para un solo servidor allá
+[00:15.32 → 00:21.12] para lo de clientes, estoy viendo ahora un flag alternativa ahí para
+[00:22.00 → 00:25.08] tener mejor y estoy viendo un versel
+[00:25.08 → 00:32.64] versel puede correr free y me menciona que cuando vayas creciendo hay tipo tener más recursos usando
+[00:32.64 → 00:42.36] y eso, o sea mucho tráfico y todas esas cosas, ahí empieza a querer cobrar honda 20 dólares
+[00:42.36 → 00:50.60] pero vemos en todo caso cuando entiendas que nos hará cobrar como hacemos eso porque por ahora
+[00:50.60 → 00:55.76] este se topeó en el modo free en nuestra cuenta de versel para que hostes de ahí
+[00:59.20 → 01:08.32] básicamente va a estar en versel, versel se conecta es donde está corriendo el código que están
+[01:08.32 → 01:17.28] el código está mi kit hub repo que es donde existen todos los archivos eso se compila y se ejecuta
+[01:17.28 → 01:23.52] en versel, actualmente corre en midi pies pero para que no se muera más que es el problema cuando
+[01:23.52 → 01:29.68] 04 que estás viendo, quiero mover algo separado de mi sistema entonces no se satura cuando estoy
+[01:29.68 → 01:37.80] haciendo demasiadas cosas en versel tiene su modo free, mientras tiene poco tráfico y vamos
+[01:37.80 → 01:42.96] a ir viendo en base al tráfico si es que necesitamos cambiarle algo o que honda si
+[01:42.96 → 01:52.48] te parecen, por ahora ya está live en midi piesa ya me cargará página de tienda del viajero
+[01:52.48 → 01:58.36] punto con punto pay, cuando muda versel va a seguir siendo el mismo link, va a correr
+[01:58.36 → 02:01.56] nomás desde versel en vez de midi piesa
+PTT-20260525-WA0023.opus | lang=es prob=0.9288930892944336 dur=130.0s
+------------------------------------------------------------
+[00:00.00 → 00:04.20] O sea, ahora no te cambio nada, Elia, te estoy cambiando yo.
+[00:04.20 → 00:08.36] Lo que estoy haciendo es, como el mío de PS,
+[00:08.36 → 00:10.40] hay problemas de tráfico, o sea, no de tráfico,
+[00:10.40 → 00:14.60] pero de qué tipo estoy haciendo hosteando un montón de
+[00:14.60 → 00:17.40] diferentes páginas, estoy haciendo el mismo tiempo y haciendo
+[00:17.40 → 00:20.88] updates y restarteando mi Cloudflare y estoy aquello.
+[00:20.88 → 00:22.76] Y todas esas boludeses, tipo,
+[00:22.76 → 00:24.44] ¿qué hay no te están haciendo más?
+[00:24.44 → 00:27.12] Porque tipo, tiene que restartear.
+[00:27.12 → 00:30.72] Entre los que restarte, hay que poner todo de vuelta up o hacer
+[00:30.72 → 00:34.88] un fresh reboot del server y todas esas cosas.
+[00:34.88 → 00:37.32] Para ser que no tenga más onda que de la mañana,
+[00:37.32 → 00:39.12] sería 404.
+[00:39.12 → 00:42.32] Estoy sacando de mi server y poniendo en Cloudflare,
+[00:42.32 → 00:45.04] en uno que puedo correr.
+[00:45.04 → 00:46.68] Me recomendó Elia, perfecto.
+[00:46.68 → 00:50.08] Dice que es el comandillo para Smart Businesses,
+[00:50.08 → 00:52.76] que es perfecto.
+[00:52.76 → 00:56.04] No creo que tengas el tráfico así de Temu o de
+[00:56.04 → 00:58.64] Shane o yo que sé, shopping China,
+[00:58.64 → 01:06.60] tipo ellos tienen bastante más usage y así que debería
+[01:06.60 → 01:08.40] estar chill.
+[01:08.40 → 01:11.52] O sea, ellos igual, tipo, se le pueden tirar $20 a este y
+[01:11.52 → 01:13.44] entra en modo Pro.
+[01:13.44 → 01:15.64] O se mira o hay alguna otra solución que sea mejor,
+[01:15.64 → 01:18.56] más barata, tipo, todo se puede mirar.
+[01:18.56 → 01:21.88] Currently, como todo está en modo gratis,
+[01:21.88 → 01:27.52] no le estoy poniendo, tipo, no tiene sentido de una ya tirarlas
+[01:27.52 → 01:31.28] y murien esto y en esto y en esto.
+[01:31.28 → 01:34.24] Porque, tipo, estamos a onda, do we really need it?
+[01:34.24 → 01:39.64] Y money wise es un flacarito, si es que se hace un poquito.
+[01:43.20 → 01:45.92] De vuelta, cambios de lia en tu página, no hay.
+[01:45.92 → 01:48.56] Los cambios que hubieron es, tipo, no sé,
+[01:48.60 → 01:54.20] cambiar de mi servidor a el Versel.
+[01:54.20 → 01:56.96] Lo que me refería es que vi que había la parte de promo,
+[01:56.96 → 02:01.16] imágenes no tan generadas por mí, ya que son así,
+[02:01.16 → 02:03.24] con el fondo lindo y todas esas cosas,
+[02:03.24 → 02:06.08] que me pareció que subiste vos o habrá hecho Kydian
+[02:06.08 → 02:07.92] para algo, yo pensé.
+[02:07.92 → 02:11.08] Pero pretty sure que no me hizo ir a eso.
+PTT-20260523-WA0052.opus | lang=es prob=0.8816148042678833 dur=159.6s
+------------------------------------------------------------
+[00:00.00 → 00:08.80] No, el que se vuelve loco soy yo de noche, porque estoy así, o sea, como me pareció que ayer tu problema era que estaba feo y no era editable las cosas,
+[00:08.80 → 00:15.92] estuve así siendo lehonda. Vamos a hacerle lo más lindo posible, lo más profesional, everything perfect,
+[00:15.92 → 00:25.04] entre esos tipos, estuve hablando con mi AI, mi de honda, y que hagas un dump así acá, queda acá en la feo,
+[00:25.04 → 00:28.80] por otros estandres, pero de vuelta.
+[00:28.80 → 00:40.40] Yo, client, así te descibo las órdenes, mantengo así el, como se llama, el home page y voy a hacer un rule de que me mande un whatsapp,
+[00:40.40 → 00:48.56] de confirmación para editar el, como se llama, las secciones que tienen tu home page.
+[00:48.56 → 00:54.96] Entonces, cualquier momento que este tipo esté hablando y criticando y rasteando, porque mi forma de trabajar es de repente honda de estos tipos.
+[00:55.12 → 00:59.92] Analizar a fondo todo lo que tenemos y decirme todo lo que queda feo, todo lo que está mal,
+[00:59.92 → 01:04.80] todo lo que nos siguen los estandres, los anti-patterns, todas las cosas así que los,
+[01:04.80 → 01:10.40] los, la gente prona hardware que tipo estudio así, todas las cosas de marketing que dicen,
+[01:10.40 → 01:21.76] esto no, no, no está tan bueno. Decime todo hacer un full roast y crítica mi completamente todo mi trabajo.
+[01:21.92 → 01:27.36] Para mí es siempre feo porque yo no soy muy archy, no, no soy tan poco marketero,
+[01:27.36 → 01:33.60] tipo lo que saca a mí me saca que yo estaría honda a mil veces hondada, pero está lindo.
+[01:33.60 → 01:39.60] Y después de como estaba hasta las 2 de la mañana esté ando y arreglando y viendo que ande todo,
+[01:39.60 → 01:45.60] estaba honda, please criticar y rastear todo y decirme que no salten nada y que todas las páginas estén bien y completo
+[01:45.68 → 01:52.72] y que no haya nada que no se testedó y no se cargó y de ahí es el problema, pero re.
+[01:55.76 → 02:02.48] Igual ya tengo entendido que estamos haciendo contenido, lo que te quede, lo que, lo que le falta
+[02:02.48 → 02:09.44] a las páginas y para usefulness es que las tipo tus precios de tus, de tus productos,
+[02:10.16 → 02:16.00] tus categorías, tipo el resto de contenido ya no veo más que sea honda algo que se tenga que tocar
+[02:16.00 → 02:23.84] luego, me parece que ya está bien completo y en tu caso después si se preparan su mapa les puedo
+[02:23.84 → 02:31.36] hacer eso de las rutas de sus viajes, pero eso es luego otra página, pero, pero perfecto,
+[02:31.36 → 02:36.56] voy a poner la regla de que me manda el whatsapp, confirmación, debería de ser ya intocable
+[02:36.56 → 02:39.68] de tu página o sea el diseño del homepage.

@@ -6,3 +6,25 @@ PTT-20231212-WA0038.opus | lang=es prob=0.9140211939811707 dur=36.8s
 [00:15.88 → 00:21.12] esta será una versión para pasantes. No sé, me parece que tipo una buena
 [00:21.12 → 00:25.16] idea sería mirar esa aplicación, mirar todos los clíns que tiene, tomar esas
 [00:25.16 → 00:36.88] ideas y resquinar. No sé, toca ver el más pájaro.
+PTT-20231212-WA0037.opus | lang=es prob=0.8666876554489136 dur=132.9s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] O sea, yo resto ahí, tipo mi idea para estas vacaciones era hacer nuevas aplicaciones, quería
+[00:06.00 → 00:13.84] hacer una aplicación de reciclaje de basura que sería básicamente sacar foto de tu basura,
+[00:13.84 → 00:20.04] le pones gps, tags y los recolectores de basura pueden ver que basura va a llegarte, pero
+[00:20.04 → 00:23.32] esta aplicación no parece también bastante interesante hacer, que va a ser bastante
+[00:23.32 → 00:31.08] similar, sos psicólogo puedes poner los tags de cuáles son tus especialidades y puedes poner
+[00:31.08 → 00:38.12] gente que está buscando psicólogos para las especialidades tipo de basura y productor reciclaje
+[00:40.52 → 00:47.60] yo que sé, mental isho y psicólogo para tal mental isho y todo así, me parece por el
+[00:47.60 → 00:52.72] escrito la idea, me gustaría ver un flag como se hace, estar con más gente que le interesa
+[00:52.72 → 00:56.52] leer el tema slash para saber cómo hacer eso, entonces puedo también después saber mejor
+[00:56.52 → 01:08.24] cómo implementar en mi idea y ya lo sé, yo resto ahí, si ya hay tipos, ideas, información
+[01:08.24 → 01:15.64] del tipo del cosa, le podrías pasar y voy a ir un flag yendo leyendo y viendo un flag que se
+[01:15.64 → 01:24.88] quiere, entonces sé más de en qué me estoy metiendo, slash, si es una aplicación para cosas
+[01:24.88 → 01:30.00] médicas o no, eso es para cosas de ser los médicos, más que para cosas metales médicas,
+[01:30.00 → 01:38.08] no sé, me dice lo importante, pero no sé, me gustaría ver un flag que es lo que
+[01:38.08 → 01:43.64] quieren hacer, cuáles son las ideas que tienen, qué es el flow que le tienen en el mente y
+[01:43.64 → 01:50.44] ver un flag, si puedo sketchar un flag tipo un mock up o algo así, ya rápido, 100% generado con
+[01:50.44 → 01:59.40] ella y para el tipo, cuando se presente algo, ver para tipo mostrar dónde eso, pero de una
+[01:59.40 → 02:03.68] game, no sé si voy a tener tiempo de hacer eso todavía porque quiero timinar unos cuantos
+[02:03.68 → 02:09.52] cursos del trabajo también, pero me interesa y me gustaría participar y ahora que no hay
+[02:09.52 → 02:12.16] más clases, creo que voy a tener un poco de tiempo para hacer eso

@@ -1,0 +1,197 @@
+[
+ {
+  "file": "PTT-20241013-WA0023.opus",
+  "language": "es",
+  "language_probability": 0.9371247887611389,
+  "duration": 64.1178125,
+  "transcribed_at": "2026-07-25T08:40:50.336198+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.72,
+    "text": " No hace falta ejecutar nada de Python, nada JavaScript, CSS, HTML, es activar el repo,"
+   },
+   {
+    "start": 6.72,
+    "end": 13.72,
+    "text": " clonar el repo, activar la página web, y editar el contenido de Datas.js con tu contenido."
+   },
+   {
+    "start": 13.72,
+    "end": 20.2,
+    "text": " Y debería activarse y debería cargar en tu página tu información, y ya está ya."
+   },
+   {
+    "start": 20.2,
+    "end": 24.560000000000002,
+    "text": " Después puedes hacer si quieres modo marketing, te esperaste que estitas para cuando te bajas"
+   },
+   {
+    "start": 54.56,
+    "end": 58.160000000000004,
+    "text": " y que tipo hay 10 personas que le aplican, y solo vas a tener página web,"
+   },
+   {
+    "start": 58.160000000000004,
+    "end": 64.16,
+    "text": " pues ya vas a estar mucho más op, más marketingada que la otra persona random."
+   }
+  ],
+  "text": "No hace falta ejecutar nada de Python, nada JavaScript, CSS, HTML, es activar el repo, clonar el repo, activar la página web, y editar el contenido de Datas.js con tu contenido. Y debería activarse y debería cargar en tu página tu información, y ya está ya. Después puedes hacer si quieres modo marketing, te esperaste que estitas para cuando te bajas y que tipo hay 10 personas que le aplican, y solo vas a tener página web, pues ya vas a estar mucho más op, más marketingada que la otra persona random."
+ },
+ {
+  "file": "PTT-20241013-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.9228241443634033,
+  "duration": 117.9378125,
+  "transcribed_at": "2026-07-25T17:44:19.832060+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.8,
+    "text": " O sea, mi página web es un repo en Github que Github hostela."
+   },
+   {
+    "start": 4.8,
+    "end": 8.16,
+    "text": " Github hace todo eso de cargar la página de internet y que la gente"
+   },
+   {
+    "start": 8.16,
+    "end": 11.32,
+    "text": " pueda acceder y todo eso y está los encargados."
+   },
+   {
+    "start": 11.32,
+    "end": 17.92,
+    "text": " Y la página se ha hecho de una forma que todo el contenido es variables."
+   },
+   {
+    "start": 17.92,
+    "end": 21.32,
+    "text": " Y solamente tenés que cargar las variables con tus contenidos."
+   },
+   {
+    "start": 21.32,
+    "end": 24.240000000000002,
+    "text": " Y pues clonarnos más en mi repasatorio de Github."
+   },
+   {
+    "start": 24.240000000000002,
+    "end": 26.8,
+    "text": " Se llama, tipo, website, el nombre en"
+   },
+   {
+    "start": 26.8,
+    "end": 31.72,
+    "text": " www.evanwazeunderpoly.github y algo así, tipo, en mi página web te vas a"
+   },
+   {
+    "start": 31.72,
+    "end": 37.72,
+    "text": " al fondo, buscas, vio Github, abres mi Github y puedes buscar mis repas."
+   },
+   {
+    "start": 37.72,
+    "end": 41.2,
+    "text": " Y clonando más en, o sea, no sé si sabes cómo hacer Github y eso,"
+   },
+   {
+    "start": 41.2,
+    "end": 46.8,
+    "text": " sino, Liz Sander te puede explicar o chat GPT y decirlo más, hola, mira chat GPT,"
+   },
+   {
+    "start": 46.8,
+    "end": 48.2,
+    "text": " este es el repo que quiero clonar."
+   },
+   {
+    "start": 48.2,
+    "end": 52.760000000000005,
+    "text": " Mostrame un flag como se hace y espere que te haga todos los pasos."
+   },
+   {
+    "start": 52.76,
+    "end": 59.199999999999996,
+    "text": " Una vez que tengas el repo clonado, existiendo en tu Github, mira chat GPT,"
+   },
+   {
+    "start": 59.199999999999996,
+    "end": 65.2,
+    "text": " la configuración para activar tu Github pages, está online Github en el tab de"
+   },
+   {
+    "start": 65.2,
+    "end": 71.0,
+    "text": " settings y repositorio, te vas a pages y por ahí está una opción."
+   },
+   {
+    "start": 71.0,
+    "end": 74.44,
+    "text": " Sino, en internet te va a explicar esa parte también y una vez que el tipo"
+   },
+   {
+    "start": 74.44,
+    "end": 77.75999999999999,
+    "text": " tenés el repo y está activada la página, vas a poder acceder a la"
+   },
+   {
+    "start": 77.75999999999999,
+    "end": 81.36,
+    "text": " página en tu repos que te va a cargar con información."
+   },
+   {
+    "start": 81.96,
+    "end": 86.16,
+    "text": " Para crear tu información habéis el repositorio, hay un archivo llamado"
+   },
+   {
+    "start": 86.16,
+    "end": 90.08,
+    "text": " data.js o algo así."
+   },
+   {
+    "start": 90.08,
+    "end": 94.76,
+    "text": " Y ese archivo tiene tipo yo que sé, nombre y se igual."
+   },
+   {
+    "start": 94.76,
+    "end": 98.03999999999999,
+    "text": " About me y te dice about me de Ivan."
+   },
+   {
+    "start": 98.03999999999999,
+    "end": 102.36,
+    "text": " Y le cambiamos más toda esa información de variables a tipo tus variables."
+   },
+   {
+    "start": 102.36,
+    "end": 105.24,
+    "text": " Preparas tu resumen bien, prepara toda la información que tengas de vos,"
+   },
+   {
+    "start": 105.24,
+    "end": 110.44,
+    "text": " tus certificados, tu historial, el trabajo, en mi gente que tengas error."
+   },
+   {
+    "start": 110.44,
+    "end": 114.24,
+    "text": " Y pasar al GPT decirle, escribid esta información mía en este formato y"
+   },
+   {
+    "start": 114.24,
+    "end": 116.0,
+    "text": " pasarle el mía como un template."
+   },
+   {
+    "start": 116.0,
+    "end": 117.32,
+    "text": " Y te escupes y peales y ya está."
+   }
+  ],
+  "text": "O sea, mi página web es un repo en Github que Github hostela. Github hace todo eso de cargar la página de internet y que la gente pueda acceder y todo eso y está los encargados. Y la página se ha hecho de una forma que todo el contenido es variables. Y solamente tenés que cargar las variables con tus contenidos. Y pues clonarnos más en mi repasatorio de Github. Se llama, tipo, website, el nombre en www.evanwazeunderpoly.github y algo así, tipo, en mi página web te vas a al fondo, buscas, vio Github, abres mi Github y puedes buscar mis repas. Y clonando más en, o sea, no sé si sabes cómo hacer Github y eso, sino, Liz Sander te puede explicar o chat GPT y decirlo más, hola, mira chat GPT, este es el repo que quiero clonar. Mostrame un flag como se hace y espere que te haga todos los pasos. Una vez que tengas el repo clonado, existiendo en tu Github, mira chat GPT, la configuración para activar tu Github pages, está online Github en el tab de settings y repositorio, te vas a pages y por ahí está una opción. Sino, en internet te va a explicar esa parte también y una vez que el tipo tenés el repo y está activada la página, vas a poder acceder a la página en tu repos que te va a cargar con información. Para crear tu información habéis el repositorio, hay un archivo llamado data.js o algo así. Y ese archivo tiene tipo yo que sé, nombre y se igual. About me y te dice about me de Ivan. Y le cambiamos más toda esa información de variables a tipo tus variables. Preparas tu resumen bien, prepara toda la información que tengas de vos, tus certificados, tu historial, el trabajo, en mi gente que tengas error. Y pasar al GPT decirle, escribid esta información mía en este formato y pasarle el mía como un template. Y te escupes y peales y ya está."
+ }
+]

@@ -528,5 +528,360 @@
    }
   ],
   "text": "O sea, había una veterinaria, o sea, básicamente estudiamos haciendo inicialmente templates para dos clientes, uno que era Terrapet y otro que es Adris, que son así los unos conocidos admiños que tienen su negocio de veterinaria que le estábamos viendo de utilizar como beta testers del sistema. Adris, o sea, debería de ver con los clientes, creo que Adris o Terrapet, creo que eran el mismo y había una magia FETLIFE o FETLIFE o algo así, que era el otro cliente, o sea, el otro beta tester. La información de... Hay que aflar, no entiendo. Me preguntan aquí en las EPITRA FORMS, ¿es para las veterinarias?"
+ },
+ {
+  "file": "PTT-20260323-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.8832623958587646,
+  "duration": 61.2178125,
+  "transcribed_at": "2026-07-25T05:17:36.111980+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.5,
+    "text": " Soy Odin, si es que, o sea, tenés luego acceso a mi hosting, creo."
+   },
+   {
+    "start": 4.5,
+    "end": 8.2,
+    "text": " ¿Anything que necesite es mi site de setup para configurar las máquinas?"
+   },
+   {
+    "start": 8.2,
+    "end": 10.0,
+    "text": " Just let me know."
+   },
+   {
+    "start": 10.0,
+    "end": 13.0,
+    "text": " Let me open a step 3."
+   },
+   {
+    "start": 13.0,
+    "end": 17.0,
+    "text": " A partir de eso, gateways para configurar."
+   },
+   {
+    "start": 17.0,
+    "end": 20.5,
+    "text": " De hecho, el multi-machine setup me parece real worth it,"
+   },
+   {
+    "start": 20.5,
+    "end": 24.0,
+    "text": " a ser que se usen todos los recursos que tengamos."
+   },
+   {
+    "start": 24.0,
+    "end": 26.0,
+    "text": " A los lasti que voy a depender mis pantallas."
+   },
+   {
+    "start": 27.0,
+    "end": 29.0,
+    "text": " I don't know."
+   },
+   {
+    "start": 32.0,
+    "end": 39.0,
+    "text": " Death, feel free, let me know if anything can help me with something."
+   },
+   {
+    "start": 39.0,
+    "end": 46.0,
+    "text": " Slash, any advances, o cositas que vayas viendo en lo de las clínicas."
+   },
+   {
+    "start": 46.0,
+    "end": 49.0,
+    "text": " Puedes decirme dónde, voy a estar viendole esto ahora."
+   },
+   {
+    "start": 49.0,
+    "end": 57.0,
+    "text": " O no se, y te voy a hacer un guidance o any tips o contexto de cómo está el current setup"
+   },
+   {
+    "start": 57.0,
+    "end": 61.0,
+    "text": " o de lo que recuerdo, así está más improved lo que te salga al final."
+   }
+  ],
+  "text": "Soy Odin, si es que, o sea, tenés luego acceso a mi hosting, creo. ¿Anything que necesite es mi site de setup para configurar las máquinas? Just let me know. Let me open a step 3. A partir de eso, gateways para configurar. De hecho, el multi-machine setup me parece real worth it, a ser que se usen todos los recursos que tengamos. A los lasti que voy a depender mis pantallas. I don't know. Death, feel free, let me know if anything can help me with something. Slash, any advances, o cositas que vayas viendo en lo de las clínicas. Puedes decirme dónde, voy a estar viendole esto ahora. O no se, y te voy a hacer un guidance o any tips o contexto de cómo está el current setup o de lo que recuerdo, así está más improved lo que te salga al final."
+ },
+ {
+  "file": "PTT-20260323-WA0014.opus",
+  "language": "es",
+  "language_probability": 0.86041259765625,
+  "duration": 71.2778125,
+  "transcribed_at": "2026-07-25T06:56:24.690898+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " ¿Hay alguna hora que te quede mejor que las 11?"
+   },
+   {
+    "start": 5.0,
+    "end": 12.0,
+    "text": " O sea, para hacer un meeting rápido, onda, no sé, me puedes dar así el context de lo que entendiste,"
+   },
+   {
+    "start": 12.0,
+    "end": 16.0,
+    "text": " de la página de crínicas, de lo que tendrías que ya hay."
+   },
+   {
+    "start": 16.0,
+    "end": 24.0,
+    "text": " Te puedo agregar el context de las otras cosas que le habíamos estopeado y que sí le podría implementar."
+   },
+   {
+    "start": 25.0,
+    "end": 33.0,
+    "text": " Esos dos, la clínica entendés ya más o menos cómo funciona y cómo se carga la información."
+   },
+   {
+    "start": 40.0,
+    "end": 45.0,
+    "text": " Después de hablar con Nia, de cuál sería el mínimo MVP para empezar a ofrecer."
+   },
+   {
+    "start": 45.0,
+    "end": 53.0,
+    "text": " Y ya empezamos a organizarle, a mandar la gente automáticamente, que prepare todo."
+   },
+   {
+    "start": 54.0,
+    "end": 62.0,
+    "text": " Y después del MVP, puedo ir trabajando en los siguientes epics o preparando más todos los epics y stories"
+   },
+   {
+    "start": 62.0,
+    "end": 66.0,
+    "text": " de todos los features que te interesan a agregarle y que tenga."
+   },
+   {
+    "start": 66.0,
+    "end": 69.0,
+    "text": " Y le podemos ir agregando one by one."
+   },
+   {
+    "start": 69.0,
+    "end": 71.0,
+    "text": " Sí, todo detallado, sí."
+   }
+  ],
+  "text": "¿Hay alguna hora que te quede mejor que las 11? O sea, para hacer un meeting rápido, onda, no sé, me puedes dar así el context de lo que entendiste, de la página de crínicas, de lo que tendrías que ya hay. Te puedo agregar el context de las otras cosas que le habíamos estopeado y que sí le podría implementar. Esos dos, la clínica entendés ya más o menos cómo funciona y cómo se carga la información. Después de hablar con Nia, de cuál sería el mínimo MVP para empezar a ofrecer. Y ya empezamos a organizarle, a mandar la gente automáticamente, que prepare todo. Y después del MVP, puedo ir trabajando en los siguientes epics o preparando más todos los epics y stories de todos los features que te interesan a agregarle y que tenga. Y le podemos ir agregando one by one. Sí, todo detallado, sí."
+ },
+ {
+  "file": "PTT-20260323-WA0033.opus",
+  "language": "es",
+  "language_probability": 0.9697900414466858,
+  "duration": 81.8578125,
+  "transcribed_at": "2026-07-25T08:29:27.343360+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.6,
+    "text": " La idea de las páginas es, tipo, está así, un template básico que es el main page por ahí, del cliente."
+   },
+   {
+    "start": 8.6,
+    "end": 14.6,
+    "text": " Y todos los clientes tienen el mismo page básico en su mismo formato."
+   },
+   {
+    "start": 14.6,
+    "end": 22.8,
+    "text": " Cada cliente después puede al crearse su página, cargar contenido de su template."
+   },
+   {
+    "start": 22.8,
+    "end": 32.2,
+    "text": " Y ese contenido es, tipo, el texto, los colores que usa, los fonts que usa, los teams que usa, las imágenes, donde..."
+   },
+   {
+    "start": 32.2,
+    "end": 35.7,
+    "text": " ...todos son contactos."
+   },
+   {
+    "start": 35.7,
+    "end": 38.2,
+    "text": " Ese cara automático."
+   },
+   {
+    "start": 38.2,
+    "end": 43.0,
+    "text": " Inicialmente tenía como jason, ahora no estoy seguro si es que está en superbase en tablas."
+   },
+   {
+    "start": 43.0,
+    "end": 49.400000000000006,
+    "text": " Pero en el futuro deberían estar en tablas, en mi opinión, para que esté toda la nube."
+   },
+   {
+    "start": 50.199999999999996,
+    "end": 52.199999999999996,
+    "text": " I don't fly."
+   },
+   {
+    "start": 54.199999999999996,
+    "end": 57.199999999999996,
+    "text": " Esos dos, jason, tabla..."
+   },
+   {
+    "start": 62.7,
+    "end": 64.2,
+    "text": " Rurururururuk."
+   },
+   {
+    "start": 64.2,
+    "end": 72.7,
+    "text": " El inventario de las páginas de los clientes también son todos separados en distintas tablas de inventario de cada cliente, pero..."
+   },
+   {
+    "start": 72.7,
+    "end": 74.7,
+    "text": " ...en lleno, sé."
+   },
+   {
+    "start": 75.7,
+    "end": 77.7,
+    "text": " Esta es un superbase."
+   },
+   {
+    "start": 77.7,
+    "end": 82.0,
+    "text": " Si me puedes explicar mejor tu pregunta, te explico sin drama."
+   }
+  ],
+  "text": "La idea de las páginas es, tipo, está así, un template básico que es el main page por ahí, del cliente. Y todos los clientes tienen el mismo page básico en su mismo formato. Cada cliente después puede al crearse su página, cargar contenido de su template. Y ese contenido es, tipo, el texto, los colores que usa, los fonts que usa, los teams que usa, las imágenes, donde... ...todos son contactos. Ese cara automático. Inicialmente tenía como jason, ahora no estoy seguro si es que está en superbase en tablas. Pero en el futuro deberían estar en tablas, en mi opinión, para que esté toda la nube. I don't fly. Esos dos, jason, tabla... Rurururururuk. El inventario de las páginas de los clientes también son todos separados en distintas tablas de inventario de cada cliente, pero... ...en lleno, sé. Esta es un superbase. Si me puedes explicar mejor tu pregunta, te explico sin drama."
+ },
+ {
+  "file": "PTT-20260320-WA0024.opus",
+  "language": "es",
+  "language_probability": 0.9317787289619446,
+  "duration": 148.9178125,
+  "transcribed_at": "2026-07-25T18:58:30.470885+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Project Equity, que es el primero. La idea es Big Scrapping de todos los datos de las empresas"
+   },
+   {
+    "start": 8.0,
+    "end": 20.0,
+    "text": " para preparar reportes interesantes, detallados y específicos con Sources y Full Tracking para los Shareholders y Stakeholders de empresas."
+   },
+   {
+    "start": 21.0,
+    "end": 31.0,
+    "text": " Si es que se hace bien, esto es algo que puede hacer que una empresa compre otra empresa y multiplique su valor."
+   },
+   {
+    "start": 31.0,
+    "end": 36.0,
+    "text": " Por el cual el servicio de Private Equity Analysis."
+   },
+   {
+    "start": 36.0,
+    "end": 49.0,
+    "text": " Y si por encima de 100 mil dólares por el costo tipo de una empresa que es un billón puede crecer a tres billones por implementarle las insights que le dan."
+   },
+   {
+    "start": 49.0,
+    "end": 56.0,
+    "text": " O una empresa pequeña, puede comprar otra empresa pequeña y volverse a una empresa enorme."
+   },
+   {
+    "start": 56.0,
+    "end": 61.0,
+    "text": " El otro, el Templo Clinic Website, si querés recontrar la tea este."
+   },
+   {
+    "start": 61.0,
+    "end": 65.0,
+    "text": " Y si te interesa, tengo ya mostros de proyectos hechos."
+   },
+   {
+    "start": 65.0,
+    "end": 68.0,
+    "text": " Es un poco de conflicto, más lo que falta."
+   },
+   {
+    "start": 68.0,
+    "end": 70.0,
+    "text": " Y unos puntos setups más."
+   },
+   {
+    "start": 70.0,
+    "end": 76.0,
+    "text": " Pero es donde página web de clínicas son lo mismo en cualquier clínica."
+   },
+   {
+    "start": 76.0,
+    "end": 80.0,
+    "text": " Son actualmente horribles e ineficientes."
+   },
+   {
+    "start": 80.0,
+    "end": 87.0,
+    "text": " Hacer una página web moderna para anyclínica se puede hacer un template genérico."
+   },
+   {
+    "start": 87.0,
+    "end": 96.0,
+    "text": " Y después con Google Maps puedes encontrar todas las clínicas existentes en Paraguay, en Latinoamérica y en el mundo."
+   },
+   {
+    "start": 97.0,
+    "end": 106.0,
+    "text": " Con AI podemos hacerles su página web moderna con todos los features que podrían llegar a pedir."
+   },
+   {
+    "start": 106.0,
+    "end": 111.0,
+    "text": " Y ofrecerles como suscripción a las clínicas."
+   },
+   {
+    "start": 111.0,
+    "end": 114.0,
+    "text": " Y el último es The Forestation Tracker."
+   },
+   {
+    "start": 114.0,
+    "end": 124.0,
+    "text": " Este es un passion project porque me interesa no más poder sacar datos de la deforestación en la toda Latinoamérica."
+   },
+   {
+    "start": 125.0,
+    "end": 132.0,
+    "text": " Hasta podemos sacar la deforestación con comparación de imágenes de satélite de zona urbana de tipo Z-Low, este árbol."
+   },
+   {
+    "start": 132.0,
+    "end": 138.0,
+    "text": " En diferentes épocas del año, capaz podemos encontrar en base a las flores."
+   },
+   {
+    "start": 138.0,
+    "end": 140.0,
+    "text": " ¿Qué tipo de árboles son?"
+   },
+   {
+    "start": 140.0,
+    "end": 142.0,
+    "text": " A menos algunos."
+   },
+   {
+    "start": 142.0,
+    "end": 149.0,
+    "text": " Y tener un average, o tipo sacar el Big Data de árboles para venderles las empresas que son eco-friendly en el idioma."
+   }
+  ],
+  "text": "Project Equity, que es el primero. La idea es Big Scrapping de todos los datos de las empresas para preparar reportes interesantes, detallados y específicos con Sources y Full Tracking para los Shareholders y Stakeholders de empresas. Si es que se hace bien, esto es algo que puede hacer que una empresa compre otra empresa y multiplique su valor. Por el cual el servicio de Private Equity Analysis. Y si por encima de 100 mil dólares por el costo tipo de una empresa que es un billón puede crecer a tres billones por implementarle las insights que le dan. O una empresa pequeña, puede comprar otra empresa pequeña y volverse a una empresa enorme. El otro, el Templo Clinic Website, si querés recontrar la tea este. Y si te interesa, tengo ya mostros de proyectos hechos. Es un poco de conflicto, más lo que falta. Y unos puntos setups más. Pero es donde página web de clínicas son lo mismo en cualquier clínica. Son actualmente horribles e ineficientes. Hacer una página web moderna para anyclínica se puede hacer un template genérico. Y después con Google Maps puedes encontrar todas las clínicas existentes en Paraguay, en Latinoamérica y en el mundo. Con AI podemos hacerles su página web moderna con todos los features que podrían llegar a pedir. Y ofrecerles como suscripción a las clínicas. Y el último es The Forestation Tracker. Este es un passion project porque me interesa no más poder sacar datos de la deforestación en la toda Latinoamérica. Hasta podemos sacar la deforestación con comparación de imágenes de satélite de zona urbana de tipo Z-Low, este árbol. En diferentes épocas del año, capaz podemos encontrar en base a las flores. ¿Qué tipo de árboles son? A menos algunos. Y tener un average, o tipo sacar el Big Data de árboles para venderles las empresas que son eco-friendly en el idioma."
  }
 ]

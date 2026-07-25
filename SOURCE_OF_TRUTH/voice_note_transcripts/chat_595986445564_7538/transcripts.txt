@@ -11,3 +11,39 @@ PTT-20240724-WA0015.opus | lang=es prob=0.9008681178092957 dur=51.5s
 [00:27.12 → 00:35.64] maca no sé si va a ser tipo ese ejercicio si hay algo que hacer
 [00:38.64 → 00:46.00] no sé qué preparaste no sé no sé si a la pared que vayas leyendo y explicando vas a
 [00:46.00 → 00:49.12] mostrar con con ejemplos o algo así
+PTT-20240724-WA0017.opus | lang=es prob=0.9587169289588928 dur=58.2s
+------------------------------------------------------------
+[00:00.00 → 00:09.40] Voy de güey, para eso de gestionar la asistencia, tipo para mi es muy al pedo, como se llama,
+[00:09.40 → 00:14.40] tipo no se me parece que al pedísimo vas a estar ahí media hora oye que sé, digo no
+[00:14.40 → 00:18.52] se media hora pero probablemente capaz es más honda 5 o 10 minutos y mando el liste de eso,
+[00:18.52 → 00:24.88] si hay que haber mucha gente, capaz se puede hacer no más honda un quick link que tipo
+[00:24.88 → 00:30.88] posar más una página que tipo un excel y agregue en su nombre y que tipo todo el mundo
+[00:30.88 → 00:37.92] más se agregue solo, tipo no se me parece más esficienta hacer honda eso, que tipo
+[00:39.92 → 00:45.12] tenga que ponerte después a escribir cada una persona que se nota, con una unidad como
+[00:45.12 → 00:49.92] del sistema que tiene, pero en todo caso si es que te interesa se puede ver un flado hacer eso,
+[00:49.92 → 00:55.40] tipo un quick link a un google sheet en el que le decimos por tenemos un slide por cada clase y la
+[00:55.40 → 00:56.68] gente se agrega lo más listo.
+PTT-20240724-WA0018.opus | lang=es prob=0.8869350552558899 dur=58.7s
+------------------------------------------------------------
+[00:00.00 → 00:11.00] De las listas que están ahí, inscribite con malupno, definitivamente, y si no, o la virtual, no sé si vamos a necesitar, ni nada de eso, tipo, ya está todo en un repón.
+[00:11.00 → 00:22.00] On the worst case, un Google Meet que está nomas puesto para cada semana, para cada sábado.
+[00:22.00 → 00:24.00] Creo que estaría chupete.
+[00:24.00 → 00:29.00] Y en el Google Meet luego le puedes poner, en el evento de calendario, el link al GitHub.
+[00:29.00 → 00:35.00] Toma resistencia, como dije, me parece que va a ser automotizar nomas eso.
+[00:35.00 → 00:38.00] Gestionar y moderar las reuniones virtuales.
+[00:40.00 → 00:42.00] Gracias.
+[00:45.00 → 00:47.00] Y grabar las clases.
+[00:52.00 → 00:58.00] Si te estira puedo poner nomas también en un OBS, tipo, grabar también yo y tomando, no sé.
+PTT-20240724-WA0019.opus | lang=es prob=0.9688248634338379 dur=68.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.80] tipo si te da contexto, mi idea es una, yo que se, ahora presentación y digo, hago todo el intro si te cae el
+[00:05.80 → 00:09.76] digo, bueno ahora me voy a ver el intro del contenido y le llevo el módulo de intro a
+[00:09.76 → 00:16.84] coa, vamos a ver primero qué es coa y aprobo el markdown de eso y se ve lo como un pdf y ahí
+[00:16.84 → 00:21.84] mismo puede leer lo de la gente si quiere y ahí tipo dice ahí, qué es coa, objetivos,
+[00:21.84 → 00:29.00] contenido, definición, importancia, prevenir los defectos, y bueno, les puedo explicar
+[00:29.04 → 00:34.52] por qué bueno prevenir defectos, porque cuántos antes de evitar golubes más barato te va a ser el
+[00:34.52 → 00:41.76] cliente, todo el desarrollo, el coa también te va a decir así mejor a continuación te va a ir diciendo
+[00:41.76 → 00:45.96] constantemente qué cosas puedes ir mejorando y qué cosas tan mal y qué cosas tan feo, qué cosas no
+[00:45.96 → 00:53.92] funcionarían y porque evitaste muchos errores y vas mejorando todo, aumenta la eficiencia,
+[00:54.00 → 01:00.72] efectividad y por eso también el cliente está feliz, básicamente eso para cada tema que están
+[01:00.72 → 01:06.92] en pdf este tipo en serio pueden leer no más este pdf los alumnos y ni siquiera darme bola

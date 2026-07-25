@@ -1,0 +1,2301 @@
+{
+  "generated_at": "2026-07-25",
+  "total_folders": 285,
+  "by_action": {
+    "skip": 162,
+    "rename": 123
+  },
+  "by_tier": {
+    "untiered_personal": 52,
+    "tier3_extended": 38,
+    "tier1_deep": 8,
+    "_dropped": 62,
+    "unknown": 54,
+    "named": 7,
+    "special": 28,
+    "other_lid": 10,
+    "tier2_core": 26
+  },
+  "mappings": [
+    {
+      "folder": "chat_595982646114_5235",
+      "jid": "595982646114",
+      "canonical": null,
+      "safe_name": "chat_595982646114_5235",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595991506193_3099",
+      "jid": "595991506193",
+      "canonical": null,
+      "safe_name": "chat_595991506193_3099",
+      "tier": "tier3_extended",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595991705424_1202",
+      "jid": "595991705424",
+      "canonical": "Mario Gueyraud",
+      "safe_name": "Mario_Gueyraud",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595985724135_111",
+      "jid": "595985724135",
+      "canonical": "Kiki Weiss Hermana",
+      "safe_name": "Kiki_Weiss_Hermana",
+      "tier": "tier1_deep",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_57797458792574_15073",
+      "jid": "57797458792574",
+      "canonical": null,
+      "safe_name": "lid_57797458792574_15073",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_dan_14862",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_dan_14862"
+    },
+    {
+      "folder": "chat_595985343897_7621",
+      "jid": "595985343897",
+      "canonical": "César",
+      "safe_name": "César",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595985435809_11371",
+      "jid": "595985435809",
+      "canonical": "Ese",
+      "safe_name": "Ese",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "group_juntada_13529",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_juntada_13529"
+    },
+    {
+      "folder": "chat_595981656962_3522",
+      "jid": "595981656962",
+      "canonical": "=48=75=67=6F=20=4E=75=C3=B1=65=7A=20=5A=79=6D=61=6E=73=63=6B=69=20=F0=",
+      "safe_name": "4875676F204E75C3B1657A205A796D616E73636B6920F0",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_94206383145183_14119",
+      "jid": "94206383145183",
+      "canonical": null,
+      "safe_name": "lid_94206383145183_14119",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_dentista_gabi_15956",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_dentista_gabi_15956"
+    },
+    {
+      "folder": "chat_595986129386_1781",
+      "jid": "595986129386",
+      "canonical": "Enrique Sanchez",
+      "safe_name": "Enrique_Sanchez",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "Laura",
+      "jid": null,
+      "canonical": "Laura",
+      "tier": "named",
+      "action": "skip",
+      "safe_name": "Laura"
+    },
+    {
+      "folder": "chat_595971758658_9805",
+      "jid": "595971758658",
+      "canonical": null,
+      "safe_name": "chat_595971758658_9805",
+      "tier": "tier3_extended",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595994445246_6538",
+      "jid": "595994445246",
+      "canonical": "Sincero Que Me Cuesta El Inglé",
+      "safe_name": "Sincero_Que_Me_Cuesta_El_Inglé",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_group_weiss_siblings_530",
+      "jid": null,
+      "canonical": "_wa_group_weiss_siblings_530",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_group_weiss_siblings_530"
+    },
+    {
+      "folder": "chat_595971922708_3654",
+      "jid": "595971922708",
+      "canonical": "Jonatan Verdún",
+      "safe_name": "Jonatan_Verdún",
+      "tier": "tier1_deep",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_31634463709_11777",
+      "jid": "31634463709",
+      "canonical": null,
+      "safe_name": "chat_31634463709_11777",
+      "tier": "tier3_extended",
+      "action": "skip"
+    },
+    {
+      "folder": "group_flia_weiss_van_der_pol_443",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_flia_weiss_van_der_pol_443"
+    },
+    {
+      "folder": "lid_61478682030117_15028",
+      "jid": "61478682030117",
+      "canonical": null,
+      "safe_name": "lid_61478682030117_15028",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595994252817_11522",
+      "jid": "595994252817",
+      "canonical": "Tsi",
+      "safe_name": "Tsi",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595982783951_6901",
+      "jid": "595982783951",
+      "canonical": "Gerardo Ramos",
+      "safe_name": "Gerardo_Ramos",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_217278167707806_14595",
+      "jid": "217278167707806",
+      "canonical": null,
+      "safe_name": "lid_217278167707806_14595",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595983281667_3593",
+      "jid": "595983281667",
+      "canonical": "Profe Gcc",
+      "safe_name": "Profe_Gcc",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595976409265_2838",
+      "jid": "595976409265",
+      "canonical": null,
+      "safe_name": "chat_595976409265_2838",
+      "tier": "tier3_extended",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_233264069500985_13120",
+      "jid": "233264069500985",
+      "canonical": null,
+      "safe_name": "lid_233264069500985_13120",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_189486155702510_15527",
+      "jid": "189486155702510",
+      "canonical": null,
+      "safe_name": "lid_189486155702510_15527",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_49074850025489_15046",
+      "jid": "49074850025489",
+      "canonical": "Tu Driver De Monchis App",
+      "safe_name": "Tu_Driver_De_Monchis_App",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_174058297675951_15024",
+      "jid": "174058297675951",
+      "canonical": null,
+      "safe_name": "lid_174058297675951_15024",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "_wa_lid_113090817425545_13053",
+      "jid": null,
+      "canonical": "_wa_lid_113090817425545_13053",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_lid_113090817425545_13053"
+    },
+    {
+      "folder": "chat_595982923913_4696",
+      "jid": "595982923913",
+      "canonical": "Natalia Cruz",
+      "safe_name": "Natalia_Cruz",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "group_unnamed_12862",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_unnamed_12862"
+    },
+    {
+      "folder": "chat_595981225272_62",
+      "jid": "595981225272",
+      "canonical": "Magali Carreras Amiga Fpuna",
+      "safe_name": "Magali_Carreras_Amiga_Fpuna",
+      "tier": "tier1_deep",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595985837875_4762",
+      "jid": "595985837875",
+      "canonical": "Jose Jsrdinero",
+      "safe_name": "Jose_Jsrdinero",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981990870_2079",
+      "jid": "595981990870",
+      "canonical": "Informático Y Me Interesa Si E",
+      "safe_name": "Informático_Y_Me_Interesa_Si_E",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_sarah_ivan_msgs",
+      "jid": null,
+      "canonical": "_wa_chat_sarah_ivan_msgs",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_sarah_ivan_msgs"
+    },
+    {
+      "folder": "lid_224184944877725_13102",
+      "jid": "224184944877725",
+      "canonical": null,
+      "safe_name": "lid_224184944877725_13102",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_193097552105524_13098",
+      "jid": "193097552105524",
+      "canonical": "Stoner",
+      "safe_name": "Stoner",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_137533459566845_13164",
+      "jid": "137533459566845",
+      "canonical": null,
+      "safe_name": "lid_137533459566845_13164",
+      "tier": "other_lid",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595981258488_3525",
+      "jid": "595981258488",
+      "canonical": null,
+      "safe_name": "chat_595981258488_3525",
+      "tier": "tier2_core",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595976933610_11524",
+      "jid": "595976933610",
+      "canonical": null,
+      "safe_name": "chat_595976933610_11524",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595993535355_4233",
+      "jid": "595993535355",
+      "canonical": "Grido Ingavi",
+      "safe_name": "Grido_Ingavi",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595986186281_1292",
+      "jid": "595986186281",
+      "canonical": "Marco Poli",
+      "safe_name": "Marco_Poli",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "Ara_Nunez_Poli",
+      "jid": null,
+      "canonical": "Ara_Nunez_Poli",
+      "tier": "named",
+      "action": "skip",
+      "safe_name": "Ara_Nunez_Poli"
+    },
+    {
+      "folder": "group_info_startups_13651",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_info_startups_13651"
+    },
+    {
+      "folder": "lid_108796538007729_15023",
+      "jid": "108796538007729",
+      "canonical": null,
+      "safe_name": "lid_108796538007729_15023",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595985249907_9628",
+      "jid": "595985249907",
+      "canonical": "Adri 🌸",
+      "safe_name": "Adri",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595992853154_2985",
+      "jid": "595992853154",
+      "canonical": null,
+      "safe_name": "chat_595992853154_2985",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595971378035_1724",
+      "jid": "595971378035",
+      "canonical": "Don Cangrejo Poli",
+      "safe_name": "Don_Cangrejo_Poli",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595976569739_2083",
+      "jid": "595976569739",
+      "canonical": "Rach",
+      "safe_name": "Rach",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "group_give_back_program_-_cpk_3506",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_give_back_program_-_cpk_3506"
+    },
+    {
+      "folder": "chat_595981725157_11979",
+      "jid": "595981725157",
+      "canonical": null,
+      "safe_name": "chat_595981725157_11979",
+      "tier": "tier3_extended",
+      "action": "skip"
+    },
+    {
+      "folder": "group_ueno_bank_la_gang_3082",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_ueno_bank_la_gang_3082"
+    },
+    {
+      "folder": "chat_595986868241_10607",
+      "jid": "595986868241",
+      "canonical": "Dayah",
+      "safe_name": "Dayah",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595992432097_3075",
+      "jid": "595992432097",
+      "canonical": "Nara Mongelós",
+      "safe_name": "Nara_Mongelós",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595972104371_9036",
+      "jid": "595972104371",
+      "canonical": "Cesar",
+      "safe_name": "Cesar",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_8212749230246_16778",
+      "jid": "8212749230246",
+      "canonical": null,
+      "safe_name": "lid_8212749230246_16778",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595991470829_106",
+      "jid": "595991470829",
+      "canonical": "Cesar Poli",
+      "safe_name": "Cesar_Poli",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595993553949_12779",
+      "jid": "595993553949",
+      "canonical": null,
+      "safe_name": "chat_595993553949_12779",
+      "tier": "tier2_core",
+      "action": "skip"
+    },
+    {
+      "folder": "group_sheldon_s_dreams_14888",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_sheldon_s_dreams_14888"
+    },
+    {
+      "folder": "chat_595972130867_49",
+      "jid": "595972130867",
+      "canonical": "Alejandro Cabral Poli",
+      "safe_name": "Alejandro_Cabral_Poli",
+      "tier": "tier1_deep",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_214709794013386_13829",
+      "jid": "214709794013386",
+      "canonical": null,
+      "safe_name": "lid_214709794013386_13829",
+      "tier": "other_lid",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_171416456540224_13129",
+      "jid": "171416456540224",
+      "canonical": null,
+      "safe_name": "lid_171416456540224_13129",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "_wa_chat_dan_ivan_msgs",
+      "jid": null,
+      "canonical": "_wa_chat_dan_ivan_msgs",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_dan_ivan_msgs"
+    },
+    {
+      "folder": "group_nasa_space_apps_ieee_computer_society_4711",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_nasa_space_apps_ieee_computer_society_4711"
+    },
+    {
+      "folder": "group_gallinas_oviedo_14853",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_gallinas_oviedo_14853"
+    },
+    {
+      "folder": "chat_595992379449_9561",
+      "jid": "595992379449",
+      "canonical": null,
+      "safe_name": "chat_595992379449_9561",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "group_sarah_s_neon_furry_b-day_party_13138",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_sarah_s_neon_furry_b-day_party_13138"
+    },
+    {
+      "folder": "group_amigos_de_las_locuras_swinger_11642",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_amigos_de_las_locuras_swinger_11642"
+    },
+    {
+      "folder": "chat_595991952375_10863",
+      "jid": "595991952375",
+      "canonical": "Ferrex",
+      "safe_name": "Ferrex",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_63741810978885_15109",
+      "jid": "63741810978885",
+      "canonical": "Lucy",
+      "safe_name": "Lucy",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "Defi",
+      "jid": null,
+      "canonical": "Defi",
+      "tier": "named",
+      "action": "skip",
+      "safe_name": "Defi"
+    },
+    {
+      "folder": "chat_595976909490_10320",
+      "jid": "595976909490",
+      "canonical": "Delivery De Pollo",
+      "safe_name": "Delivery_De_Pollo",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981791823_1683",
+      "jid": "595981791823",
+      "canonical": "Lourdes Youko Kurama",
+      "safe_name": "Lourdes_Youko_Kurama",
+      "tier": "tier1_deep",
+      "action": "rename"
+    },
+    {
+      "folder": "group_cuarteto_el_15_06_5863",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_cuarteto_el_15_06_5863"
+    },
+    {
+      "folder": "chat_595991549029_1956",
+      "jid": "595991549029",
+      "canonical": "Lucía Díaz",
+      "safe_name": "Lucía_Díaz",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_group_cum_a_secas_17026",
+      "jid": null,
+      "canonical": "_wa_group_cum_a_secas_17026",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_group_cum_a_secas_17026"
+    },
+    {
+      "folder": "group_grupo_destrucción_aregua_cityyyyyyyyy_3077",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_grupo_destrucción_aregua_cityyyyyyyyy_3077"
+    },
+    {
+      "folder": "_wa_chat_jonatan_ivan_msgs",
+      "jid": null,
+      "canonical": "_wa_chat_jonatan_ivan_msgs",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_jonatan_ivan_msgs"
+    },
+    {
+      "folder": "group_epic_musical_juntadas_15561",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_epic_musical_juntadas_15561"
+    },
+    {
+      "folder": "lid_76824231051438_12954",
+      "jid": "76824231051438",
+      "canonical": null,
+      "safe_name": "lid_76824231051438_12954",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_weiss_siblings_530",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_weiss_siblings_530"
+    },
+    {
+      "folder": "chat_595976351903_1740",
+      "jid": "595976351903",
+      "canonical": "Belén Fratts Officina",
+      "safe_name": "Belén_Fratts_Officina",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981459447_11190",
+      "jid": "595981459447",
+      "canonical": "Iván Weiss",
+      "safe_name": "Iván_Weiss",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595971227824_5316",
+      "jid": "595971227824",
+      "canonical": "Sebastian Moreno Wise Nuevo",
+      "safe_name": "Sebastian_Moreno_Wise_Nuevo",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595983858997_3598",
+      "jid": "595983858997",
+      "canonical": null,
+      "safe_name": "chat_595983858997_3598",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_nexa-paraguay_14983",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_nexa-paraguay_14983"
+    },
+    {
+      "folder": "chat_595974465910_5322",
+      "jid": "595974465910",
+      "canonical": "Alejandro Maciel mentormate",
+      "safe_name": "Alejandro_Maciel_mentormate",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_alex_ivan_msgs",
+      "jid": null,
+      "canonical": "_wa_chat_alex_ivan_msgs",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_alex_ivan_msgs"
+    },
+    {
+      "folder": "group_bd2_iin_2024_5774",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_bd2_iin_2024_5774"
+    },
+    {
+      "folder": "group_primos_weiss_5233",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_primos_weiss_5233"
+    },
+    {
+      "folder": "chat_595994609417_3721",
+      "jid": "595994609417",
+      "canonical": "Joana Poli",
+      "safe_name": "Joana_Poli",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595985909813_11354",
+      "jid": "595985909813",
+      "canonical": "Ueno Comprobante",
+      "safe_name": "Ueno_Comprobante",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595985219034_6759",
+      "jid": "595985219034",
+      "canonical": null,
+      "safe_name": "chat_595985219034_6759",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "_wa_chat_lara_ivan_msgs",
+      "jid": null,
+      "canonical": "_wa_chat_lara_ivan_msgs",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_lara_ivan_msgs"
+    },
+    {
+      "folder": "group_organización_ci24_7605",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_organización_ci24_7605"
+    },
+    {
+      "folder": "chat_595971755786_1741",
+      "jid": "595971755786",
+      "canonical": "Sebastián Aguilera",
+      "safe_name": "Sebastián_Aguilera",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595987111437_10473",
+      "jid": "595987111437",
+      "canonical": null,
+      "safe_name": "chat_595987111437_10473",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_taller_de_introducción_qa_instructores_6921",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_taller_de_introducción_qa_instructores_6921"
+    },
+    {
+      "folder": "lid_265755698413630_16849",
+      "jid": "265755698413630",
+      "canonical": "David",
+      "safe_name": "David",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_119259044835572_13532",
+      "jid": "119259044835572",
+      "canonical": null,
+      "safe_name": "lid_119259044835572_13532",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595962288968_1698",
+      "jid": "595962288968",
+      "canonical": "Mark Lorey",
+      "safe_name": "Mark_Lorey",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_595985725871_86",
+      "jid": null,
+      "canonical": "_wa_chat_595985725871_86",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595985725871_86"
+    },
+    {
+      "folder": "chat_595972209763_2943",
+      "jid": "595972209763",
+      "canonical": null,
+      "safe_name": "chat_595972209763_2943",
+      "tier": "tier2_core",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595973572212_1994",
+      "jid": "595973572212",
+      "canonical": "Alvaro Llano",
+      "safe_name": "Alvaro_Llano",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981285412_9804",
+      "jid": "595981285412",
+      "canonical": null,
+      "safe_name": "chat_595981285412_9804",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595982510082_1723",
+      "jid": "595982510082",
+      "canonical": "Cami Maidana",
+      "safe_name": "Cami_Maidana",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_276639095242788_17033",
+      "jid": "276639095242788",
+      "canonical": null,
+      "safe_name": "lid_276639095242788_17033",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595985434234_9071",
+      "jid": "595985434234",
+      "canonical": "Yo",
+      "safe_name": "Yo",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595984751669_667",
+      "jid": "595984751669",
+      "canonical": null,
+      "safe_name": "chat_595984751669_667",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595983822921_11297",
+      "jid": "595983822921",
+      "canonical": null,
+      "safe_name": "chat_595983822921_11297",
+      "tier": "tier2_core",
+      "action": "skip"
+    },
+    {
+      "folder": "group_funhouse_9626",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_funhouse_9626"
+    },
+    {
+      "folder": "lid_104741417795691_13103",
+      "jid": "104741417795691",
+      "canonical": null,
+      "safe_name": "lid_104741417795691_13103",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595981801824_11545",
+      "jid": "595981801824",
+      "canonical": "Dra Wilma",
+      "safe_name": "Dra_Wilma",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595985340001_2439",
+      "jid": "595985340001",
+      "canonical": "Sofi Nashe",
+      "safe_name": "Sofi_Nashe",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595971200431_11186",
+      "jid": "595971200431",
+      "canonical": "Iván Weiss Van Der Pol",
+      "safe_name": "Iván_Weiss_Van_Der_Pol",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_118262125854912_15538",
+      "jid": "118262125854912",
+      "canonical": "Ivan",
+      "safe_name": "Ivan",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981925772_1253",
+      "jid": "595981925772",
+      "canonical": "Emilio Poli",
+      "safe_name": "Emilio_Poli",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595985532655_5077",
+      "jid": "595985532655",
+      "canonical": "yanny 🍂✨",
+      "safe_name": "yanny",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "group_stoic_finch_-_latam_9090",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_stoic_finch_-_latam_9090"
+    },
+    {
+      "folder": "chat_491743785770_1989",
+      "jid": "491743785770",
+      "canonical": "Lucas Germán",
+      "safe_name": "Lucas_Germán",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_595981925772_1253",
+      "jid": null,
+      "canonical": "_wa_chat_595981925772_1253",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595981925772_1253"
+    },
+    {
+      "folder": "Magali_Carreras",
+      "jid": null,
+      "canonical": "Magali_Carreras",
+      "tier": "named",
+      "action": "skip",
+      "safe_name": "Magali_Carreras"
+    },
+    {
+      "folder": "chat_595987122940_9888",
+      "jid": "595987122940",
+      "canonical": null,
+      "safe_name": "chat_595987122940_9888",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_is3_2024_5765",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_is3_2024_5765"
+    },
+    {
+      "folder": "chat_595971726746_6977",
+      "jid": "595971726746",
+      "canonical": "Bisexual",
+      "safe_name": "Bisexual",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "group_iin_fpuna_019_26",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_iin_fpuna_019_26"
+    },
+    {
+      "folder": "chat_595982515138_64",
+      "jid": "595982515138",
+      "canonical": "Sonia Weiss",
+      "safe_name": "Sonia_Weiss",
+      "tier": "tier1_deep",
+      "action": "rename"
+    },
+    {
+      "folder": "group_la_casa_10475",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_la_casa_10475"
+    },
+    {
+      "folder": "chat_595971190089_5319",
+      "jid": "595971190089",
+      "canonical": "Jose S",
+      "safe_name": "Jose_S",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595982418373_4145",
+      "jid": "595982418373",
+      "canonical": null,
+      "safe_name": "chat_595982418373_4145",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "_wa_group_flia_weiss_van_der_pol_443",
+      "jid": null,
+      "canonical": "_wa_group_flia_weiss_van_der_pol_443",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_group_flia_weiss_van_der_pol_443"
+    },
+    {
+      "folder": "_wa_chat_595985725366_99",
+      "jid": null,
+      "canonical": "_wa_chat_595985725366_99",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595985725366_99"
+    },
+    {
+      "folder": "chat_595983111686_3524",
+      "jid": "595983111686",
+      "canonical": "Lilian Riveros",
+      "safe_name": "Lilian_Riveros",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595983435779_11525",
+      "jid": "595983435779",
+      "canonical": null,
+      "safe_name": "chat_595983435779_11525",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "_wa_chat_thais_ivan_msgs",
+      "jid": null,
+      "canonical": "_wa_chat_thais_ivan_msgs",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_thais_ivan_msgs"
+    },
+    {
+      "folder": "group_ml_2023-1_3619",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_ml_2023-1_3619"
+    },
+    {
+      "folder": "chat_595983328698_5343",
+      "jid": "595983328698",
+      "canonical": "Lazzerini Pizzs",
+      "safe_name": "Lazzerini_Pizzs",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_ptt_bulk",
+      "jid": null,
+      "canonical": "_wa_ptt_bulk",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_ptt_bulk"
+    },
+    {
+      "folder": "chat_595974956470_10067",
+      "jid": "595974956470",
+      "canonical": null,
+      "safe_name": "chat_595974956470_10067",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595962291837_9625",
+      "jid": "595962291837",
+      "canonical": "Defi Not There 4 U",
+      "safe_name": "Defi_Not_There_4_U",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_nicolas_ivan_msgs",
+      "jid": null,
+      "canonical": "_wa_chat_nicolas_ivan_msgs",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_nicolas_ivan_msgs"
+    },
+    {
+      "folder": "chat_595991797009_1949",
+      "jid": "595991797009",
+      "canonical": "Jessica Chena",
+      "safe_name": "Jessica_Chena",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595982553100_9254",
+      "jid": "595982553100",
+      "canonical": "Maga",
+      "safe_name": "Maga",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595984933862_1330",
+      "jid": "595984933862",
+      "canonical": "Fidabel Poli",
+      "safe_name": "Fidabel_Poli",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "group_py_testing_community_4296",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_py_testing_community_4296"
+    },
+    {
+      "folder": "group_organización_py_testing_2026_16349",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_organización_py_testing_2026_16349"
+    },
+    {
+      "folder": "_wa_lid_158089659547891_14700",
+      "jid": null,
+      "canonical": "_wa_lid_158089659547891_14700",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_lid_158089659547891_14700"
+    },
+    {
+      "folder": "chat_34650513549_10652",
+      "jid": "34650513549",
+      "canonical": "Hombre",
+      "safe_name": "Hombre",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595972994744_4768",
+      "jid": "595972994744",
+      "canonical": null,
+      "safe_name": "chat_595972994744_4768",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595993598454_2323",
+      "jid": "595993598454",
+      "canonical": "Laura Troche",
+      "safe_name": "Laura_Troche",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_31612495139_98",
+      "jid": "31612495139",
+      "canonical": "Riet van der Pol",
+      "safe_name": "Riet_van_der_Pol",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "group_el_viajero_15051",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_el_viajero_15051"
+    },
+    {
+      "folder": "chat_595982410566_9085",
+      "jid": "595982410566",
+      "canonical": "Anna Rodas van der Pol",
+      "safe_name": "Anna_Rodas_van_der_Pol",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_170287115042926_13746",
+      "jid": "170287115042926",
+      "canonical": "Ai Qa Ing Info De La Una",
+      "safe_name": "Ai_Qa_Ing_Info_De_La_Una",
+      "tier": "other_lid",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_6790360092864_12996",
+      "jid": "6790360092864",
+      "canonical": "Milagros Y Te Estaré Atendiend",
+      "safe_name": "Milagros_Y_Te_Estaré_Atendiend",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_123184141619444_17036",
+      "jid": "123184141619444",
+      "canonical": "Un Ratito",
+      "safe_name": "Un_Ratito",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595976682109_9259",
+      "jid": "595976682109",
+      "canonical": null,
+      "safe_name": "chat_595976682109_9259",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_iin_fpuna_2019_-_2025_1450",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_iin_fpuna_2019_-_2025_1450"
+    },
+    {
+      "folder": "chat_595985725871_86",
+      "jid": "595985725871",
+      "canonical": "Saskia Weiss",
+      "safe_name": "Saskia_Weiss",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981801463_9599",
+      "jid": "595981801463",
+      "canonical": null,
+      "safe_name": "chat_595981801463_9599",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "group_agi_is_cumming_9683",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_agi_is_cumming_9683"
+    },
+    {
+      "folder": "chat_595985124464_11430",
+      "jid": "595985124464",
+      "canonical": null,
+      "safe_name": "chat_595985124464_11430",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "group_ingeniería_en_informática_3907",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_ingeniería_en_informática_3907"
+    },
+    {
+      "folder": "chat_595984900920_9052",
+      "jid": "595984900920",
+      "canonical": null,
+      "safe_name": "chat_595984900920_9052",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "_wa_chat_595983236333_6776",
+      "jid": null,
+      "canonical": "_wa_chat_595983236333_6776",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595983236333_6776"
+    },
+    {
+      "folder": "chat_595984234002_10308",
+      "jid": "595984234002",
+      "canonical": null,
+      "safe_name": "chat_595984234002_10308",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_159223061151983_16955",
+      "jid": "159223061151983",
+      "canonical": null,
+      "safe_name": "lid_159223061151983_16955",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_calgary_todo_random_11548",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_calgary_todo_random_11548"
+    },
+    {
+      "folder": "chat_595985786571_3711",
+      "jid": "595985786571",
+      "canonical": "Primo Gabriel",
+      "safe_name": "Primo_Gabriel",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "group_pasen_las_fotos_1452",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_pasen_las_fotos_1452"
+    },
+    {
+      "folder": "_wa_chat_595982515138_64",
+      "jid": null,
+      "canonical": "_wa_chat_595982515138_64",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595982515138_64"
+    },
+    {
+      "folder": "chat_595983236333_6776",
+      "jid": "595983236333",
+      "canonical": null,
+      "safe_name": "chat_595983236333_6776",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_242455349821600_14752",
+      "jid": "242455349821600",
+      "canonical": "Masterdom",
+      "safe_name": "Masterdom",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_245255651782842_15190",
+      "jid": "245255651782842",
+      "canonical": null,
+      "safe_name": "lid_245255651782842_15190",
+      "tier": "other_lid",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_42490228936873_15160",
+      "jid": "42490228936873",
+      "canonical": "Ivan",
+      "safe_name": "Ivan",
+      "tier": "other_lid",
+      "action": "rename"
+    },
+    {
+      "folder": "group_comité_de_cursos_charlas_-_cs_3047",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_comité_de_cursos_charlas_-_cs_3047"
+    },
+    {
+      "folder": "group_club_de_info_gral_5082",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_club_de_info_gral_5082"
+    },
+    {
+      "folder": "chat_595984962826_5778",
+      "jid": "595984962826",
+      "canonical": null,
+      "safe_name": "chat_595984962826_5778",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595981279546_12805",
+      "jid": "595981279546",
+      "canonical": null,
+      "safe_name": "chat_595981279546_12805",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "group_méxico_city_11536",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_méxico_city_11536"
+    },
+    {
+      "folder": "chat_595992930805_10315",
+      "jid": "595992930805",
+      "canonical": null,
+      "safe_name": "chat_595992930805_10315",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595994341668_1955",
+      "jid": "595994341668",
+      "canonical": "Maia",
+      "safe_name": "Maia",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981868718_92",
+      "jid": "595981868718",
+      "canonical": "Ara Nuñez Poli",
+      "safe_name": "Ara_Nuñez_Poli",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_101722055782411_12984",
+      "jid": "101722055782411",
+      "canonical": "Iván",
+      "safe_name": "Iván",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595993474633_11029",
+      "jid": "595993474633",
+      "canonical": "Ogr",
+      "safe_name": "Ogr",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595986445564_7538",
+      "jid": "595986445564",
+      "canonical": null,
+      "safe_name": "chat_595986445564_7538",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "group_ritual_de_cuerdas_13127",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_ritual_de_cuerdas_13127"
+    },
+    {
+      "folder": "chat_595981375463_9165",
+      "jid": "595981375463",
+      "canonical": "Camilo Amarilla",
+      "safe_name": "Camilo_Amarilla",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_33665298582_2646",
+      "jid": "33665298582",
+      "canonical": "Ideline Brisa <3",
+      "safe_name": "Ideline_Brisa_3",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595982223241_11521",
+      "jid": "595982223241",
+      "canonical": null,
+      "safe_name": "chat_595982223241_11521",
+      "tier": "tier3_extended",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595971612900_2048",
+      "jid": "595971612900",
+      "canonical": "Foneca",
+      "safe_name": "Foneca",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "group_maskarada_-_club_de_azote_9803",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_maskarada_-_club_de_azote_9803"
+    },
+    {
+      "folder": "lid_196542485012495_14659",
+      "jid": "196542485012495",
+      "canonical": "Iván Weiss",
+      "safe_name": "Iván_Weiss",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "group_powerpoint_powe_apps_para_canadá_9593",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_powerpoint_powe_apps_para_canadá_9593"
+    },
+    {
+      "folder": "chat_595981321606_10229",
+      "jid": "595981321606",
+      "canonical": null,
+      "safe_name": "chat_595981321606_10229",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595985778871_3717",
+      "jid": "595985778871",
+      "canonical": "Gomeria Ingavi Criss",
+      "safe_name": "Gomeria_Ingavi_Criss",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595984689143_4130",
+      "jid": "595984689143",
+      "canonical": "Iván Weiss Van Der Pol",
+      "safe_name": "Iván_Weiss_Van_Der_Pol",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_15055778339_2872",
+      "jid": "15055778339",
+      "canonical": "Toni Weiss",
+      "safe_name": "Toni_Weiss",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "Lourdes_Youko_Kurama",
+      "jid": null,
+      "canonical": "Lourdes_Youko_Kurama",
+      "tier": "named",
+      "action": "skip",
+      "safe_name": "Lourdes_Youko_Kurama"
+    },
+    {
+      "folder": "lid_170823767859295_16385",
+      "jid": "170823767859295",
+      "canonical": null,
+      "safe_name": "lid_170823767859295_16385",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "_w4b_unmapped",
+      "jid": null,
+      "canonical": "_w4b_unmapped",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_w4b_unmapped"
+    },
+    {
+      "folder": "group_mansion_weiss_5844",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_mansion_weiss_5844"
+    },
+    {
+      "folder": "chat_5215547629093_4393",
+      "jid": "5215547629093",
+      "canonical": "Cerri",
+      "safe_name": "Cerri",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "group_qe_meriendita_5317",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_qe_meriendita_5317"
+    },
+    {
+      "folder": "chat_31640912250_1850",
+      "jid": "31640912250",
+      "canonical": "Ester",
+      "safe_name": "Ester",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_595991549029_1956",
+      "jid": null,
+      "canonical": "_wa_chat_595991549029_1956",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595991549029_1956"
+    },
+    {
+      "folder": "_wa_lid_174058297675951_15024",
+      "jid": null,
+      "canonical": "_wa_lid_174058297675951_15024",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_lid_174058297675951_15024"
+    },
+    {
+      "folder": "chat_595981514195_9627",
+      "jid": "595981514195",
+      "canonical": "Adrian",
+      "safe_name": "Adrian",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "group_agenda_61",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_agenda_61"
+    },
+    {
+      "folder": "chat_595981945426_9591",
+      "jid": "595981945426",
+      "canonical": "Taller - Check Engine Car Service Car Service",
+      "safe_name": "Taller_-_Check_Engine_Car_Service_Car_Service",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595986138387_1265",
+      "jid": "595986138387",
+      "canonical": "John",
+      "safe_name": "John",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981586063_6818",
+      "jid": "595981586063",
+      "canonical": "Tu Driver De Monchis App",
+      "safe_name": "Tu_Driver_De_Monchis_App",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "group_team_isabelle_mm_5771",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_team_isabelle_mm_5771"
+    },
+    {
+      "folder": "lid_113090817425545_13053",
+      "jid": "113090817425545",
+      "canonical": "Alérgica Al Sol Lollll",
+      "safe_name": "Alérgica_Al_Sol_Lollll",
+      "tier": "other_lid",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_13163475777_3667",
+      "jid": "13163475777",
+      "canonical": "Raúl Wichita",
+      "safe_name": "Raúl_Wichita",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_163857968414803_13535",
+      "jid": "163857968414803",
+      "canonical": null,
+      "safe_name": "lid_163857968414803_13535",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595981324569_1092",
+      "jid": "595981324569",
+      "canonical": "Iván Weiss Número Pro",
+      "safe_name": "Iván_Weiss_Número_Pro",
+      "tier": "tier1_deep",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_59899144505_2396",
+      "jid": "59899144505",
+      "canonical": "Paloma",
+      "safe_name": "Paloma",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595986850030_6817",
+      "jid": "595986850030",
+      "canonical": null,
+      "safe_name": "chat_595986850030_6817",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595984731244_10265",
+      "jid": "595984731244",
+      "canonical": null,
+      "safe_name": "chat_595984731244_10265",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "_documents_ivan_voice",
+      "jid": null,
+      "canonical": "_documents_ivan_voice",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_documents_ivan_voice"
+    },
+    {
+      "folder": "chat_595981545498_273",
+      "jid": "595981545498",
+      "canonical": "Carlos Oviedo",
+      "safe_name": "Carlos_Oviedo",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_50257029309_9070",
+      "jid": "50257029309",
+      "canonical": null,
+      "safe_name": "chat_50257029309_9070",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "Jonatan_Verdun",
+      "jid": null,
+      "canonical": "Jonatan_Verdun",
+      "tier": "named",
+      "action": "skip",
+      "safe_name": "Jonatan_Verdun"
+    },
+    {
+      "folder": "chat_595981428090_3734",
+      "jid": "595981428090",
+      "canonical": "Carlos Bernal",
+      "safe_name": "Carlos_Bernal",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "group_este_grupo_se_autodestruirá_en_20min_6754",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_este_grupo_se_autodestruirá_en_20min_6754"
+    },
+    {
+      "folder": "group_meetings_13374",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_meetings_13374"
+    },
+    {
+      "folder": "chat_595971151324_5178",
+      "jid": "595971151324",
+      "canonical": null,
+      "safe_name": "chat_595971151324_5178",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595972835716_1244",
+      "jid": "595972835716",
+      "canonical": "Piter Lesme Poli",
+      "safe_name": "Piter_Lesme_Poli",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595983698281_9914",
+      "jid": "595983698281",
+      "canonical": null,
+      "safe_name": "chat_595983698281_9914",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595983380156_3701",
+      "jid": "595983380156",
+      "canonical": "=4A=75=61=6E=72=61=20=46=65=72=72=65=69=72=61=20=F0=9F=87=B5=F0=9F=87=",
+      "safe_name": "4A75616E726120466572726569726120F09F87B5F09F87",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595982833757_11928",
+      "jid": "595982833757",
+      "canonical": "Lety",
+      "safe_name": "Lety",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_206588111532196_14798",
+      "jid": "206588111532196",
+      "canonical": "Thais",
+      "safe_name": "Thais",
+      "tier": "other_lid",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_227972770435229_13533",
+      "jid": "227972770435229",
+      "canonical": null,
+      "safe_name": "lid_227972770435229_13533",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595984160109_1257",
+      "jid": "595984160109",
+      "canonical": "Junior Nazi",
+      "safe_name": "Junior_Nazi",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595994639567_4227",
+      "jid": "595994639567",
+      "canonical": "Javier Vecino",
+      "safe_name": "Javier_Vecino",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595974621488_7274",
+      "jid": "595974621488",
+      "canonical": "De San Lorenzo",
+      "safe_name": "De_San_Lorenzo",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981063900_11176",
+      "jid": "595981063900",
+      "canonical": null,
+      "safe_name": "chat_595981063900_11176",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "lid_142344342999195_17104",
+      "jid": "142344342999195",
+      "canonical": null,
+      "safe_name": "lid_142344342999195_17104",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595984202187_10088",
+      "jid": "595984202187",
+      "canonical": "Migue",
+      "safe_name": "Migue",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥_6823",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥_6823"
+    },
+    {
+      "folder": "group_cum_a_secas_17026",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_cum_a_secas_17026"
+    },
+    {
+      "folder": "chat_595984626802_1720",
+      "jid": "595984626802",
+      "canonical": "Brenda Poli",
+      "safe_name": "Brenda_Poli",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595986805654_1271",
+      "jid": "595986805654",
+      "canonical": "Fran",
+      "safe_name": "Fran",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_dayah_ivan_msgs",
+      "jid": null,
+      "canonical": "_wa_chat_dayah_ivan_msgs",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_dayah_ivan_msgs"
+    },
+    {
+      "folder": "chat_595981945931_5470",
+      "jid": "595981945931",
+      "canonical": "Iván Weiss",
+      "safe_name": "Iván_Weiss",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "group_familie_van_der_pol_497",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_familie_van_der_pol_497"
+    },
+    {
+      "folder": "chat_595982018339_6519",
+      "jid": "595982018339",
+      "canonical": null,
+      "safe_name": "chat_595982018339_6519",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595982843645_3101",
+      "jid": "595982843645",
+      "canonical": "Magali Dealer",
+      "safe_name": "Magali_Dealer",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_264647361974519_13190",
+      "jid": "264647361974519",
+      "canonical": null,
+      "safe_name": "lid_264647361974519_13190",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595984409200_4630",
+      "jid": "595984409200",
+      "canonical": "Estudio Medieval",
+      "safe_name": "Estudio_Medieval",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595991730357_1791",
+      "jid": "595991730357",
+      "canonical": "Diego Emanuel Duarte",
+      "safe_name": "Diego_Emanuel_Duarte",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_595993474633_11029",
+      "jid": null,
+      "canonical": "_wa_chat_595993474633_11029",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595993474633_11029"
+    },
+    {
+      "folder": "lid_154288881946676_13498",
+      "jid": "154288881946676",
+      "canonical": "El Hermano De Nyx",
+      "safe_name": "El_Hermano_De_Nyx",
+      "tier": "other_lid",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_595971922708_3654",
+      "jid": null,
+      "canonical": "_wa_chat_595971922708_3654",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595971922708_3654"
+    },
+    {
+      "folder": "chat_595994442444_9596",
+      "jid": "595994442444",
+      "canonical": "Álvaro Claro",
+      "safe_name": "Álvaro_Claro",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_96606732967999_13130",
+      "jid": "96606732967999",
+      "canonical": "Estudiante",
+      "safe_name": "Estudiante",
+      "tier": "other_lid",
+      "action": "rename"
+    },
+    {
+      "folder": "group_samber_atyra_5702",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_samber_atyra_5702"
+    },
+    {
+      "folder": "Cookie",
+      "jid": null,
+      "canonical": "Cookie",
+      "tier": "named",
+      "action": "skip",
+      "safe_name": "Cookie"
+    },
+    {
+      "folder": "chat_595986173200_11974",
+      "jid": "595986173200",
+      "canonical": null,
+      "safe_name": "chat_595986173200_11974",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595973757353_1731",
+      "jid": "595973757353",
+      "canonical": "Ivan Varela Compañero ",
+      "safe_name": "Ivan_Varela_Compañero",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595986418879_1688",
+      "jid": "595986418879",
+      "canonical": "Lic Sanni Lalla",
+      "safe_name": "Lic_Sanni_Lalla",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595971942911_1748",
+      "jid": "595971942911",
+      "canonical": "Rosario Ruiz✨",
+      "safe_name": "Rosario_Ruiz",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "lid_55955521822873_16768",
+      "jid": "55955521822873",
+      "canonical": null,
+      "safe_name": "lid_55955521822873_16768",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595985725366_99",
+      "jid": "595985725366",
+      "canonical": "Luana Weiss",
+      "safe_name": "Luana_Weiss",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981472444_1308",
+      "jid": "595981472444",
+      "canonical": "Carli Weiss",
+      "safe_name": "Carli_Weiss",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "other_newsletter_120363144038483540_5327",
+      "jid": "120363144038483",
+      "canonical": null,
+      "safe_name": "other_newsletter_120363144038483540_5327",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595981459382_4380",
+      "jid": "595981459382",
+      "canonical": "Daisy",
+      "safe_name": "Daisy",
+      "tier": "tier2_core",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595961943357_4695",
+      "jid": "595961943357",
+      "canonical": "Bianca MM",
+      "safe_name": "Bianca_MM",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595981609125_10582",
+      "jid": "595981609125",
+      "canonical": null,
+      "safe_name": "chat_595981609125_10582",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "_wa_group_dentista_gabi_15956",
+      "jid": null,
+      "canonical": "_wa_group_dentista_gabi_15956",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_group_dentista_gabi_15956"
+    },
+    {
+      "folder": "chat_595981319885_6607",
+      "jid": "595981319885",
+      "canonical": null,
+      "safe_name": "chat_595981319885_6607",
+      "tier": "_dropped",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595991965767_5169",
+      "jid": "595991965767",
+      "canonical": "José Villalba Lugo💡",
+      "safe_name": "José_Villalba_Lugo",
+      "tier": "untiered_personal",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595984909166_9157",
+      "jid": "595984909166",
+      "canonical": null,
+      "safe_name": "chat_595984909166_9157",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "_wa_chat_595981791823_1683",
+      "jid": null,
+      "canonical": "_wa_chat_595981791823_1683",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595981791823_1683"
+    },
+    {
+      "folder": "chat_595985552000_6568",
+      "jid": "595985552000",
+      "canonical": "Iván Weiss",
+      "safe_name": "Iván_Weiss",
+      "tier": "_dropped",
+      "action": "rename"
+    },
+    {
+      "folder": "_wa_chat_595984933862_1330",
+      "jid": null,
+      "canonical": "_wa_chat_595984933862_1330",
+      "tier": "special",
+      "action": "skip",
+      "safe_name": "_wa_chat_595984933862_1330"
+    },
+    {
+      "folder": "lid_158089659547891_14700",
+      "jid": "158089659547891",
+      "canonical": "Dan",
+      "safe_name": "Dan",
+      "tier": "other_lid",
+      "action": "rename"
+    },
+    {
+      "folder": "chat_595976538689_3231",
+      "jid": "595976538689",
+      "canonical": "Laura 🐷",
+      "safe_name": "Laura",
+      "tier": "tier1_deep",
+      "action": "rename"
+    },
+    {
+      "folder": "group_ai_whisperers_11544",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_ai_whisperers_11544"
+    },
+    {
+      "folder": "chat_595981180666_11095",
+      "jid": "595981180666",
+      "canonical": null,
+      "safe_name": "chat_595981180666_11095",
+      "tier": "untiered_personal",
+      "action": "skip"
+    },
+    {
+      "folder": "chat_595986361808_4032",
+      "jid": "595986361808",
+      "canonical": "benja",
+      "safe_name": "benja",
+      "tier": "tier3_extended",
+      "action": "rename"
+    },
+    {
+      "folder": "group_consejo_de_emergencia_16927",
+      "jid": null,
+      "canonical": null,
+      "tier": "unknown",
+      "action": "skip",
+      "safe_name": "group_consejo_de_emergencia_16927"
+    }
+  ]
+}

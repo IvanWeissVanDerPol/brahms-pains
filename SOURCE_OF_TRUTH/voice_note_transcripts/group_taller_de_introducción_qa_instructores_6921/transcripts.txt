@@ -4,3 +4,23 @@ PTT-20240726-WA0027.opus | lang=es prob=0.9635556936264038 dur=27.1s
 [00:08.00 → 00:15.50] o sea, el link que está adjuntado al correo de programación web se fue sin querer el grupo de Cuba,
 [00:15.50 → 00:24.00] así que probablemente tengan varios personas en la lista que no están en su lista, así que eso.
 [00:24.00 → 00:27.00] Disculpen el error, ahora vamos a intersolucionar eso.
+PTT-20240716-WA0035.opus | lang=es prob=0.966366171836853 dur=91.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.56] O sea, por el contexto, la primera parte va a ser así, pero ¿cuál es esto?
+[00:05.56 → 00:08.86] Sofor Development Life Cycle y literal está todo en el Powerpoint.
+[00:08.86 → 00:14.26] Leer nomás o flea y explicaras en mis palabras, tipo, en esta fase se hacen estas cosas.
+[00:14.26 → 00:18.20] En la fase de diseño, y bueno, el cual no puede escribir nada, y bueno, no puede probar nada.
+[00:18.20 → 00:24.00] Y lo que puede hacer es pensar cómo va a ser su prueba en base a los diseños que ya se hicieron.
+[00:24.00 → 00:28.90] O yo qué sé, después cuando llega la parte de Python o nada, estas son las funciones, se usan así.
+[00:30.50 → 00:40.00] Así es como hacer una librería, una módulo, o sea, un archivo con un init que puedas tener más otras funciones apartes.
+[00:41.00 → 00:46.00] Después llegan flamas de Deep Encelenium, onda esto como un Page Object Model.
+[00:46.00 → 00:51.00] Acá pones estos, tu XPath, ID path, lo que sea.
+[00:51.00 → 00:56.00] Y en otra parte pones tu lógica y, bueno, no sé, o sea,
+[00:56.00 → 01:02.00] como quiero ponerlo todo el contenido en el github para que la persona que esté leyendo,
+[01:02.00 → 01:07.00] o sea, la persona que sea mi alumno pueda literal tener el github, leer eso y que ya esté chill.
+[01:08.00 → 01:12.00] No sabría si es que hace falta que estemos agentes realmente.
+[01:12.00 → 01:15.00] Igual si hace falta, le puedo pedir un monoflow en mi room y tanda,
+[01:15.00 → 01:17.00] please, me ayudo a hablar con este.
+[01:17.00 → 01:22.00] Pero me parece que podría ser, tipo, placer chill.
+[01:22.00 → 01:26.00] Ya que hay los profesores que ofrecen un poor point con cara de muertos,
+[01:26.00 → 01:31.00] está haciendo un dormir y están ahí chill.

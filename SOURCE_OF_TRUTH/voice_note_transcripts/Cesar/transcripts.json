@@ -1,0 +1,327 @@
+[
+ {
+  "file": "PTT-20250903-WA0052.opus",
+  "language": "en",
+  "language_probability": 0.6959331035614014,
+  "duration": 1.9178125,
+  "transcribed_at": "2026-07-23T19:28:55.942930+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ha ha ha ha"
+   }
+  ],
+  "text": "ha ha ha ha"
+ },
+ {
+  "file": "PTT-20250903-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.6205811500549316,
+  "duration": 11.9978125,
+  "transcribed_at": "2026-07-24T04:59:41.055209+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Me pasaron la..."
+   },
+   {
+    "start": 2.0,
+    "end": 3.0,
+    "text": " tu LinkedIn"
+   },
+   {
+    "start": 3.0,
+    "end": 5.0,
+    "text": " slash"
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " lo se llama"
+   },
+   {
+    "start": 7.0,
+    "end": 10.0,
+    "text": " un link donde purés"
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " tu visita QA"
+   }
+  ],
+  "text": "Me pasaron la... tu LinkedIn slash lo se llama un link donde purés tu visita QA"
+ },
+ {
+  "file": "PTT-20250903-WA0051.opus",
+  "language": "es",
+  "language_probability": 0.9487603902816772,
+  "duration": 14.3778125,
+  "transcribed_at": "2026-07-24T06:41:39.421176+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Mirad tus mails en flash cada día, cada 3 horas, mirad si tu mail es Justin Case."
+   },
+   {
+    "start": 6.0,
+    "end": 9.0,
+    "text": " No se, no se, falla eso como el Andrés."
+   },
+   {
+    "start": 9.0,
+    "end": 13.0,
+    "text": " Sí, mirad también tus pam. Dios mío, qué pelada."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Qué puto Andrés."
+   }
+  ],
+  "text": "Mirad tus mails en flash cada día, cada 3 horas, mirad si tu mail es Justin Case. No se, no se, falla eso como el Andrés. Sí, mirad también tus pam. Dios mío, qué pelada. Qué puto Andrés."
+ },
+ {
+  "file": "PTT-20250806-WA0113.opus",
+  "language": "es",
+  "language_probability": 0.9196885228157043,
+  "duration": 45.2578125,
+  "transcribed_at": "2026-07-24T23:38:36.154909+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Uuuh, de nada, hay que sorrirme de avisarte para verlo, el creador de cosas, para mandar."
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " Pero como estoy hecho puta lua, no estoy fumando tanto porro."
+   },
+   {
+    "start": 10.0,
+    "end": 14.0,
+    "text": " Alas me fieles de verga otra vez, me dio así..."
+   },
+   {
+    "start": 14.0,
+    "end": 18.0,
+    "text": " No se lo costa hablar con a Carlos o algo, y me dio así, súper alergia."
+   },
+   {
+    "start": 18.0,
+    "end": 23.0,
+    "text": " Y yo sé, me pego. Mucho verguísima de los putísimas madres."
+   },
+   {
+    "start": 24.0,
+    "end": 31.0,
+    "text": " Pero, pero rea, en mirar la full, en que te puede servir."
+   },
+   {
+    "start": 31.0,
+    "end": 39.0,
+    "text": " Si te sientes de contexto, te puedo mandar un ejemplo de tipo la página web que mi roommate hizo para él."
+   },
+   {
+    "start": 39.0,
+    "end": 45.0,
+    "text": " Que onda, no tocó nada de código, y hizo así en un día."
+   }
+  ],
+  "text": "Uuuh, de nada, hay que sorrirme de avisarte para verlo, el creador de cosas, para mandar. Pero como estoy hecho puta lua, no estoy fumando tanto porro. Alas me fieles de verga otra vez, me dio así... No se lo costa hablar con a Carlos o algo, y me dio así, súper alergia. Y yo sé, me pego. Mucho verguísima de los putísimas madres. Pero, pero rea, en mirar la full, en que te puede servir. Si te sientes de contexto, te puedo mandar un ejemplo de tipo la página web que mi roommate hizo para él. Que onda, no tocó nada de código, y hizo así en un día."
+ },
+ {
+  "file": "PTT-20250806-WA0115.opus",
+  "language": "es",
+  "language_probability": 0.9209308624267578,
+  "duration": 77.9178125,
+  "transcribed_at": "2026-07-25T10:52:50.817411+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.640000000000001,
+    "text": " te pone el caso de que quieres hacer una página, no sé qué quieres hacer o si es que quieres hacer algo con tu esposa para su trabajo"
+   },
+   {
+    "start": 7.640000000000001,
+    "end": 13.200000000000001,
+    "text": " pero donde si quieres hacer una página o algo, re-buscáela, si estas son unos cuantos ejemplos y le pasará ejemplos"
+   },
+   {
+    "start": 13.64,
+    "end": 17.080000000000002,
+    "text": " hay que investigue, se conecta a la internet y mira, siga un flaba"
+   },
+   {
+    "start": 19.6,
+    "end": 20.36,
+    "text": " ¿Cómo se llama?"
+   },
+   {
+    "start": 21.8,
+    "end": 23.6,
+    "text": " Las páginas y analiza cómo son"
+   },
+   {
+    "start": 24.360000000000003,
+    "end": 30.6,
+    "text": " y otra cosa más que puedes verle es que mcp's tipo literal le decís, no más así"
+   },
+   {
+    "start": 31.8,
+    "end": 36.2,
+    "text": " una vez que tengas todo el contexto listo y decirle qué crees hacer"
+   },
+   {
+    "start": 36.88,
+    "end": 40.8,
+    "text": " antes de empezar le decís que prepara un plan detallado para lo que queres hacer"
+   },
+   {
+    "start": 41.400000000000006,
+    "end": 44.0,
+    "text": " entonces te va diciendo ya qué es lo que él está pensando"
+   },
+   {
+    "start": 45.760000000000005,
+    "end": 51.6,
+    "text": " y en base al plan en lo que lo que va a hacer le puedes decir que busque mcp's model context protocols"
+   },
+   {
+    "start": 52.56,
+    "end": 56.2,
+    "text": " y con eso le das herramientas para que pueda operar mejor"
+   },
+   {
+    "start": 56.6,
+    "end": 62.0,
+    "text": " por ejemplo le puedes dar mcp de calculadora para que en vez de alucinar las números o la matemática"
+   },
+   {
+    "start": 62.88,
+    "end": 64.2,
+    "text": " te dé una respuesta real"
+   },
+   {
+    "start": 65.68,
+    "end": 69.2,
+    "text": " y también le puedes dar mcp's para conectarse con la internet"
+   },
+   {
+    "start": 69.6,
+    "end": 73.8,
+    "text": " por ejemplo playwright y si conecta abre su propio navegador"
+   },
+   {
+    "start": 74.44,
+    "end": 77.6,
+    "text": " y puede verificar sus cambios en la página web que este está haciendo"
+   }
+  ],
+  "text": "te pone el caso de que quieres hacer una página, no sé qué quieres hacer o si es que quieres hacer algo con tu esposa para su trabajo pero donde si quieres hacer una página o algo, re-buscáela, si estas son unos cuantos ejemplos y le pasará ejemplos hay que investigue, se conecta a la internet y mira, siga un flaba ¿Cómo se llama? Las páginas y analiza cómo son y otra cosa más que puedes verle es que mcp's tipo literal le decís, no más así una vez que tengas todo el contexto listo y decirle qué crees hacer antes de empezar le decís que prepara un plan detallado para lo que queres hacer entonces te va diciendo ya qué es lo que él está pensando y en base al plan en lo que lo que va a hacer le puedes decir que busque mcp's model context protocols y con eso le das herramientas para que pueda operar mejor por ejemplo le puedes dar mcp de calculadora para que en vez de alucinar las números o la matemática te dé una respuesta real y también le puedes dar mcp's para conectarse con la internet por ejemplo playwright y si conecta abre su propio navegador y puede verificar sus cambios en la página web que este está haciendo"
+ },
+ {
+  "file": "PTT-20250806-WA0114.opus",
+  "language": "es",
+  "language_probability": 0.9211351871490479,
+  "duration": 96.0978125,
+  "transcribed_at": "2026-07-25T13:13:59.013759+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " ¿Y onda? ¿Vos como hiciste tu proceso de tu página Ale? ¿Tenías así tu información inicial luego en una carpeta?"
+   },
+   {
+    "start": 7.0,
+    "end": 12.0,
+    "text": " ¿Y después te llevabagando... ¿Tenías tu versión inicial de tu página que era medio me?"
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " Sí."
+   },
+   {
+    "start": 14.0,
+    "end": 19.0,
+    "text": " ¿Y te dijiste una más onda? ¿Arreglarla, hacerle profesional, agregarle cosas, agregarle secciones?"
+   },
+   {
+    "start": 19.0,
+    "end": 22.0,
+    "text": " Entonces esta es mi CD, agregarle info."
+   },
+   {
+    "start": 22.0,
+    "end": 27.0,
+    "text": " ¿Y si tengo más o menos prompts?"
+   },
+   {
+    "start": 27.0,
+    "end": 31.0,
+    "text": " ¿Por qué deberías tener todo el cloud?"
+   },
+   {
+    "start": 31.0,
+    "end": 38.0,
+    "text": " No sé si te guarda ese spec story los prompts de cloud, solo los de cursor."
+   },
+   {
+    "start": 38.0,
+    "end": 45.0,
+    "text": " Pero si necesitabas así contexto, debajo de menos que se le preguntó a Elia, puedo ver un flag de..."
+   },
+   {
+    "start": 45.0,
+    "end": 47.0,
+    "text": " ¿Tenías los commits y historias?"
+   },
+   {
+    "start": 47.0,
+    "end": 52.0,
+    "text": " Hay que preguntar por ahí. Si no puedes mirarte a los commits y historias de la página de Ale."
+   },
+   {
+    "start": 52.0,
+    "end": 61.0,
+    "text": " ¿Pero donde enserias? ¿Tenías así tu terminal? Le abriges en la carpeta que quieras trabajar y le explicas nomás lo que querías hacer."
+   },
+   {
+    "start": 61.0,
+    "end": 66.0,
+    "text": " Y, obviamente, la parte más importante es darle suficiente contexto."
+   },
+   {
+    "start": 66.0,
+    "end": 72.0,
+    "text": " En el caso de la página es pasarle tu resumen, tu información, todo lo que hiciste, que sepa quién sos."
+   },
+   {
+    "start": 73.0,
+    "end": 77.0,
+    "text": " ¿Qué hiciste? ¿Qué proyectos te has tocado? ¿Qué otros cosas?"
+   },
+   {
+    "start": 77.0,
+    "end": 84.0,
+    "text": " Todo lo que podrías querer es que tu página tiene que saber que existe, porque solo tiene el contexto de la carpeta."
+   },
+   {
+    "start": 84.0,
+    "end": 93.0,
+    "text": " Y onda le preparas nomás bien detallado unos cuantos archivos y haces nomás de inicio de contexto."
+   },
+   {
+    "start": 93.0,
+    "end": 95.0,
+    "text": " Y ahí te andas joyísima."
+   }
+  ],
+  "text": "¿Y onda? ¿Vos como hiciste tu proceso de tu página Ale? ¿Tenías así tu información inicial luego en una carpeta? ¿Y después te llevabagando... ¿Tenías tu versión inicial de tu página que era medio me? Sí. ¿Y te dijiste una más onda? ¿Arreglarla, hacerle profesional, agregarle cosas, agregarle secciones? Entonces esta es mi CD, agregarle info. ¿Y si tengo más o menos prompts? ¿Por qué deberías tener todo el cloud? No sé si te guarda ese spec story los prompts de cloud, solo los de cursor. Pero si necesitabas así contexto, debajo de menos que se le preguntó a Elia, puedo ver un flag de... ¿Tenías los commits y historias? Hay que preguntar por ahí. Si no puedes mirarte a los commits y historias de la página de Ale. ¿Pero donde enserias? ¿Tenías así tu terminal? Le abriges en la carpeta que quieras trabajar y le explicas nomás lo que querías hacer. Y, obviamente, la parte más importante es darle suficiente contexto. En el caso de la página es pasarle tu resumen, tu información, todo lo que hiciste, que sepa quién sos. ¿Qué hiciste? ¿Qué proyectos te has tocado? ¿Qué otros cosas? Todo lo que podrías querer es que tu página tiene que saber que existe, porque solo tiene el contexto de la carpeta. Y onda le preparas nomás bien detallado unos cuantos archivos y haces nomás de inicio de contexto. Y ahí te andas joyísima."
+ }
+]

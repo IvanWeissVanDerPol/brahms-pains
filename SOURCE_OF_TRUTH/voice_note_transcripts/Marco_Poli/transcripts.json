@@ -1,0 +1,472 @@
+[
+ {
+  "file": "PTT-20240507-WA0016.opus",
+  "language": "no",
+  "language_probability": 0.2757408022880554,
+  "duration": 2.9978125,
+  "transcribed_at": "2026-07-23T21:17:54.222346+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Alis, har jeg det? Hvorfor har du det?"
+   }
+  ],
+  "text": "Alis, har jeg det? Hvorfor har du det?"
+ },
+ {
+  "file": "PTT-20250520-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.964699387550354,
+  "duration": 3.5378125,
+  "transcribed_at": "2026-07-23T22:21:17.386290+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.52,
+    "text": " Se estudia un flaful. Se pasa en dos días."
+   }
+  ],
+  "text": "Se estudia un flaful. Se pasa en dos días."
+ },
+ {
+  "file": "PTT-20240512-WA0000.opus",
+  "language": "es",
+  "language_probability": 0.35559046268463135,
+  "duration": 17.0178125,
+  "transcribed_at": "2026-07-24T07:52:06.092490+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Hola, si es tu urnes?"
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " No sé ni si tengo que ir nomas, si no hay que asociar que te adorme."
+   },
+   {
+    "start": 14.0,
+    "end": 16.0,
+    "text": " Pero es tu urnes, chico."
+   }
+  ],
+  "text": "Hola, si es tu urnes? No sé ni si tengo que ir nomas, si no hay que asociar que te adorme. Pero es tu urnes, chico."
+ },
+ {
+  "file": "PTT-20240509-WA0038.opus",
+  "language": "es",
+  "language_probability": 0.7290048003196716,
+  "duration": 17.1178125,
+  "transcribed_at": "2026-07-24T07:53:02.352356+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Ya se mira entonces en hora de combinar, oye, eso es."
+   },
+   {
+    "start": 7.0,
+    "end": 11.0,
+    "text": " Quedéis combinar ya ni el atasado."
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " El atasado es super bien."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " El atasado es super bien."
+   },
+   {
+    "start": 15.0,
+    "end": 17.0,
+    "text": " ¡Upo!"
+   }
+  ],
+  "text": "Ya se mira entonces en hora de combinar, oye, eso es. Quedéis combinar ya ni el atasado. El atasado es super bien. El atasado es super bien. ¡Upo!"
+ },
+ {
+  "file": "PTT-20250520-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.9521965384483337,
+  "duration": 28.7578125,
+  "transcribed_at": "2026-07-24T15:16:14.972838+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.76,
+    "text": " a mí me confunda un flop porque el examen de ahora es selección múltiples no sé qué y como"
+   },
+   {
+    "start": 7.76,
+    "end": 12.040000000000001,
+    "text": " no hay ejemplos de su examen en ese formato estoy donde la puta madre"
+   },
+   {
+    "start": 13.96,
+    "end": 20.12,
+    "text": " pero estoy siendo compilado flop de exámenes y temas y ejercicios y preguntas y dios mío qué"
+   },
+   {
+    "start": 20.12,
+    "end": 28.240000000000002,
+    "text": " puta creo que tengo en casa no estoy seguro si tenés el final recontra yo muchísimas gracias"
+   }
+  ],
+  "text": "a mí me confunda un flop porque el examen de ahora es selección múltiples no sé qué y como no hay ejemplos de su examen en ese formato estoy donde la puta madre pero estoy siendo compilado flop de exámenes y temas y ejercicios y preguntas y dios mío qué puta creo que tengo en casa no estoy seguro si tenés el final recontra yo muchísimas gracias"
+ },
+ {
+  "file": "PTT-20240511-WA0040.opus",
+  "language": "es",
+  "language_probability": 0.8968604803085327,
+  "duration": 39.5578125,
+  "transcribed_at": "2026-07-24T23:01:56.441144+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hola, ¿qué tal boys?"
+   },
+   {
+    "start": 2.0,
+    "end": 5.0,
+    "text": " Para el 2019, pero ya estamos a misiones con los chicos"
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " para no ser tan temprano y dar un poco más de tiempo"
+   },
+   {
+    "start": 8.0,
+    "end": 9.0,
+    "text": " a ver si nos llueve verano."
+   },
+   {
+    "start": 9.0,
+    "end": 11.0,
+    "text": " Viste que tipo se llueve de 5 y media y eso para ahí,"
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " yo creo que suspendemos,"
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " pero si es que no estés de menos para 5 y media, 6,"
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " yo creo que nos reunimos para las 7 para ahí,"
+   },
+   {
+    "start": 18.0,
+    "end": 20.0,
+    "text": " para, tipo, onda como es por donde llegada"
+   },
+   {
+    "start": 20.0,
+    "end": 24.0,
+    "text": " intentar estar medio temprano y terminar temprano,"
+   },
+   {
+    "start": 24.0,
+    "end": 26.0,
+    "text": " porque ahora creo que tenía 3 días más de noche,"
+   },
+   {
+    "start": 26.0,
+    "end": 28.0,
+    "text": " entonces va hacia eso,"
+   },
+   {
+    "start": 28.0,
+    "end": 30.0,
+    "text": " pero vamos a ver si nos llueve,"
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " con Dennis estoy en el shopping maniscal ahora"
+   },
+   {
+    "start": 32.0,
+    "end": 34.0,
+    "text": " y hay un vientito sospechoso,"
+   },
+   {
+    "start": 34.0,
+    "end": 37.0,
+    "text": " pero como todavía no llueve, todavía sigue en pie el plan,"
+   },
+   {
+    "start": 37.0,
+    "end": 39.0,
+    "text": " para, creo que más confirmado para las 19 por ahí."
+   }
+  ],
+  "text": "Hola, ¿qué tal boys? Para el 2019, pero ya estamos a misiones con los chicos para no ser tan temprano y dar un poco más de tiempo a ver si nos llueve verano. Viste que tipo se llueve de 5 y media y eso para ahí, yo creo que suspendemos, pero si es que no estés de menos para 5 y media, 6, yo creo que nos reunimos para las 7 para ahí, para, tipo, onda como es por donde llegada intentar estar medio temprano y terminar temprano, porque ahora creo que tenía 3 días más de noche, entonces va hacia eso, pero vamos a ver si nos llueve, con Dennis estoy en el shopping maniscal ahora y hay un vientito sospechoso, pero como todavía no llueve, todavía sigue en pie el plan, para, creo que más confirmado para las 19 por ahí."
+ },
+ {
+  "file": "PTT-20240511-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.7625928521156311,
+  "duration": 42.1378125,
+  "transcribed_at": "2026-07-24T23:34:21.061677+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Ay, perdón, no te respondía este Maytut."
+   },
+   {
+    "start": 3.0,
+    "end": 4.0,
+    "text": " Ah!"
+   },
+   {
+    "start": 4.0,
+    "end": 5.0,
+    "text": " Ehm..."
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " Y por mí, yo igual estoy rechil."
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " Tipo, ehm..."
+   },
+   {
+    "start": 10.0,
+    "end": 14.0,
+    "text": " Si siguen a ir a las 6.30, de parno."
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " Y ya, y no sé, algo."
+   },
+   {
+    "start": 19.0,
+    "end": 20.0,
+    "text": " CG, later, I guess."
+   },
+   {
+    "start": 20.0,
+    "end": 21.0,
+    "text": " Acá también estábale."
+   },
+   {
+    "start": 21.0,
+    "end": 22.0,
+    "text": " Sí."
+   },
+   {
+    "start": 22.0,
+    "end": 24.0,
+    "text": " Estábamos viendo a Animal."
+   },
+   {
+    "start": 24.0,
+    "end": 26.0,
+    "text": " Y nosotros podemos ir a las 6.30."
+   },
+   {
+    "start": 26.0,
+    "end": 29.0,
+    "text": " Y si ustedes perciben, o si quieren ir más tarde."
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " También, o sea..."
+   },
+   {
+    "start": 35.0,
+    "end": 36.0,
+    "text": " Como..."
+   },
+   {
+    "start": 36.0,
+    "end": 37.0,
+    "text": " Como..."
+   },
+   {
+    "start": 37.0,
+    "end": 38.0,
+    "text": " Me quedé mejor."
+   },
+   {
+    "start": 38.0,
+    "end": 39.0,
+    "text": " Ya seguimos, ya."
+   },
+   {
+    "start": 39.0,
+    "end": 40.0,
+    "text": " A mí me quedo bien."
+   },
+   {
+    "start": 41.0,
+    "end": 42.0,
+    "text": " Bo..."
+   }
+  ],
+  "text": "Ay, perdón, no te respondía este Maytut. Ah! Ehm... Y por mí, yo igual estoy rechil. Tipo, ehm... Si siguen a ir a las 6.30, de parno. Y ya, y no sé, algo. CG, later, I guess. Acá también estábale. Sí. Estábamos viendo a Animal. Y nosotros podemos ir a las 6.30. Y si ustedes perciben, o si quieren ir más tarde. También, o sea... Como... Como... Me quedé mejor. Ya seguimos, ya. A mí me quedo bien. Bo..."
+ },
+ {
+  "file": "PTT-20240509-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.391767680644989,
+  "duration": 48.8778125,
+  "transcribed_at": "2026-07-25T01:47:09.390407+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 14.0,
+    "text": " Hola Marco, ¿y donde es el karting? ¿esla vez como es?"
+   },
+   {
+    "start": 18.0,
+    "end": 27.0,
+    "text": " Realmente me surqué bastante dormir, pero ni idea."
+   },
+   {
+    "start": 28.0,
+    "end": 32.0,
+    "text": " Pero aquí me quedo un ratito, no pasa."
+   },
+   {
+    "start": 32.0,
+    "end": 34.0,
+    "text": " Oye, ¿quién sabe?"
+   },
+   {
+    "start": 35.0,
+    "end": 38.0,
+    "text": " A ver, ahí se entijeron que sí."
+   },
+   {
+    "start": 42.0,
+    "end": 45.0,
+    "text": " Y... me hace..."
+   },
+   {
+    "start": 46.0,
+    "end": 49.0,
+    "text": " Realmente estoy súper sombio aflado."
+   }
+  ],
+  "text": "Hola Marco, ¿y donde es el karting? ¿esla vez como es? Realmente me surqué bastante dormir, pero ni idea. Pero aquí me quedo un ratito, no pasa. Oye, ¿quién sabe? A ver, ahí se entijeron que sí. Y... me hace... Realmente estoy súper sombio aflado."
+ },
+ {
+  "file": "PTT-20240509-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9393808245658875,
+  "duration": 82.9378125,
+  "transcribed_at": "2026-07-25T12:59:29.214003+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Hola, ¿qué tal? El sábado, ¿viste que compré Jenny y fue en miércoles?"
+   },
+   {
+    "start": 6.0,
+    "end": 10.5,
+    "text": " Y pensábamos ir con unos amigos, entonces me dijo, sí, para imitarle también a un grupo de café"
+   },
+   {
+    "start": 10.5,
+    "end": 13.0,
+    "text": " y eso con ustedes, que ganaron un poco más, ¿verdad?"
+   },
+   {
+    "start": 13.0,
+    "end": 20.0,
+    "text": " Es cerca de año un azul y creo que el Cártin, al lado del Parque Olímpico, me dice qué es."
+   },
+   {
+    "start": 20.0,
+    "end": 24.0,
+    "text": " Y creo que sí me anda a mí porque cuesta por carrera, por persona, ¿verdad?"
+   },
+   {
+    "start": 24.0,
+    "end": 27.0,
+    "text": " Y la carrera, que son como siete vueltas, algo así."
+   },
+   {
+    "start": 27.0,
+    "end": 32.0,
+    "text": " La carrera era para hacer algo un poco diferente a lo que son más serias después de eso cenar por ahí."
+   },
+   {
+    "start": 32.0,
+    "end": 37.0,
+    "text": " Ahora lo que dijo es que preferencia quería hacer tempeano porque tenía algo más de noche"
+   },
+   {
+    "start": 37.0,
+    "end": 40.0,
+    "text": " y el Cártin está a partería las seis y media, entonces dijimos para encontrarnos por allá,"
+   },
+   {
+    "start": 40.0,
+    "end": 45.0,
+    "text": " llegan las seis y media, nueve por ahí, de momento, pero no seis y media, siete."
+   },
+   {
+    "start": 45.0,
+    "end": 52.0,
+    "text": " Y de los chicos los que me confirmaron por ahora son básicamente Aria y Santi."
+   },
+   {
+    "start": 52.0,
+    "end": 56.0,
+    "text": " Yo también voy y un par de amigos de Jenny."
+   },
+   {
+    "start": 57.0,
+    "end": 59.0,
+    "text": " Y eso no sé qué te interesa."
+   },
+   {
+    "start": 59.0,
+    "end": 66.0,
+    "text": " Era originalmente preguntar quién es Jenny para reservar, pero realmente los audos no tienen reservación en el lugar."
+   },
+   {
+    "start": 66.0,
+    "end": 69.0,
+    "text": " Éramos que nada para reservar si es que, para no tener que esperar mucho,"
+   },
+   {
+    "start": 69.0,
+    "end": 73.0,
+    "text": " pero realmente los audos no tienen reserva, así que hay que ir por donde llegada"
+   },
+   {
+    "start": 73.0,
+    "end": 78.0,
+    "text": " y queramos ir temprano, por eso justamente puede, como te dije, ahora tienen compromiso más tarde, ¿verdad?"
+   },
+   {
+    "start": 78.0,
+    "end": 83.0,
+    "text": " Así que mañana sobre lo que hablé con los chicos ahí en la hora de compil, hoy S3."
+   }
+  ],
+  "text": "Hola, ¿qué tal? El sábado, ¿viste que compré Jenny y fue en miércoles? Y pensábamos ir con unos amigos, entonces me dijo, sí, para imitarle también a un grupo de café y eso con ustedes, que ganaron un poco más, ¿verdad? Es cerca de año un azul y creo que el Cártin, al lado del Parque Olímpico, me dice qué es. Y creo que sí me anda a mí porque cuesta por carrera, por persona, ¿verdad? Y la carrera, que son como siete vueltas, algo así. La carrera era para hacer algo un poco diferente a lo que son más serias después de eso cenar por ahí. Ahora lo que dijo es que preferencia quería hacer tempeano porque tenía algo más de noche y el Cártin está a partería las seis y media, entonces dijimos para encontrarnos por allá, llegan las seis y media, nueve por ahí, de momento, pero no seis y media, siete. Y de los chicos los que me confirmaron por ahora son básicamente Aria y Santi. Yo también voy y un par de amigos de Jenny. Y eso no sé qué te interesa. Era originalmente preguntar quién es Jenny para reservar, pero realmente los audos no tienen reservación en el lugar. Éramos que nada para reservar si es que, para no tener que esperar mucho, pero realmente los audos no tienen reserva, así que hay que ir por donde llegada y queramos ir temprano, por eso justamente puede, como te dije, ahora tienen compromiso más tarde, ¿verdad? Así que mañana sobre lo que hablé con los chicos ahí en la hora de compil, hoy S3."
+ }
+]

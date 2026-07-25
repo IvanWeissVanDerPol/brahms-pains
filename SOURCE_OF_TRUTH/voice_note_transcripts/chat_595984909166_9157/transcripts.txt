@@ -1,0 +1,39 @@
+PTT-20241013-WA0023.opus | lang=es prob=0.9371247887611389 dur=64.1s
+------------------------------------------------------------
+[00:00.00 → 00:06.72] No hace falta ejecutar nada de Python, nada JavaScript, CSS, HTML, es activar el repo,
+[00:06.72 → 00:13.72] clonar el repo, activar la página web, y editar el contenido de Datas.js con tu contenido.
+[00:13.72 → 00:20.20] Y debería activarse y debería cargar en tu página tu información, y ya está ya.
+[00:20.20 → 00:24.56] Después puedes hacer si quieres modo marketing, te esperaste que estitas para cuando te bajas
+[00:54.56 → 00:58.16] y que tipo hay 10 personas que le aplican, y solo vas a tener página web,
+[00:58.16 → 01:04.16] pues ya vas a estar mucho más op, más marketingada que la otra persona random.
+PTT-20241013-WA0022.opus | lang=es prob=0.9228241443634033 dur=117.9s
+------------------------------------------------------------
+[00:00.00 → 00:04.80] O sea, mi página web es un repo en Github que Github hostela.
+[00:04.80 → 00:08.16] Github hace todo eso de cargar la página de internet y que la gente
+[00:08.16 → 00:11.32] pueda acceder y todo eso y está los encargados.
+[00:11.32 → 00:17.92] Y la página se ha hecho de una forma que todo el contenido es variables.
+[00:17.92 → 00:21.32] Y solamente tenés que cargar las variables con tus contenidos.
+[00:21.32 → 00:24.24] Y pues clonarnos más en mi repasatorio de Github.
+[00:24.24 → 00:26.80] Se llama, tipo, website, el nombre en
+[00:26.80 → 00:31.72] www.evanwazeunderpoly.github y algo así, tipo, en mi página web te vas a
+[00:31.72 → 00:37.72] al fondo, buscas, vio Github, abres mi Github y puedes buscar mis repas.
+[00:37.72 → 00:41.20] Y clonando más en, o sea, no sé si sabes cómo hacer Github y eso,
+[00:41.20 → 00:46.80] sino, Liz Sander te puede explicar o chat GPT y decirlo más, hola, mira chat GPT,
+[00:46.80 → 00:48.20] este es el repo que quiero clonar.
+[00:48.20 → 00:52.76] Mostrame un flag como se hace y espere que te haga todos los pasos.
+[00:52.76 → 00:59.20] Una vez que tengas el repo clonado, existiendo en tu Github, mira chat GPT,
+[00:59.20 → 01:05.20] la configuración para activar tu Github pages, está online Github en el tab de
+[01:05.20 → 01:11.00] settings y repositorio, te vas a pages y por ahí está una opción.
+[01:11.00 → 01:14.44] Sino, en internet te va a explicar esa parte también y una vez que el tipo
+[01:14.44 → 01:17.76] tenés el repo y está activada la página, vas a poder acceder a la
+[01:17.76 → 01:21.36] página en tu repos que te va a cargar con información.
+[01:21.96 → 01:26.16] Para crear tu información habéis el repositorio, hay un archivo llamado
+[01:26.16 → 01:30.08] data.js o algo así.
+[01:30.08 → 01:34.76] Y ese archivo tiene tipo yo que sé, nombre y se igual.
+[01:34.76 → 01:38.04] About me y te dice about me de Ivan.
+[01:38.04 → 01:42.36] Y le cambiamos más toda esa información de variables a tipo tus variables.
+[01:42.36 → 01:45.24] Preparas tu resumen bien, prepara toda la información que tengas de vos,
+[01:45.24 → 01:50.44] tus certificados, tu historial, el trabajo, en mi gente que tengas error.
+[01:50.44 → 01:54.24] Y pasar al GPT decirle, escribid esta información mía en este formato y
+[01:54.24 → 01:56.00] pasarle el mía como un template.
+[01:56.00 → 01:57.32] Y te escupes y peales y ya está.

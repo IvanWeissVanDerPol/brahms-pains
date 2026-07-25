@@ -21,3 +21,16 @@ PTT-20241204-WA0015.opus | lang=es prob=0.9010570645332336 dur=36.5s
 [00:27.00 → 00:32.00] podés instalarte en linux o un npm para que la vía sea más fácil con node
 [00:32.00 → 00:35.00] para que la vía sea más fácil con php
 [00:35.00 → 00:37.00] eso no más
+AUD-20250129-WA0022.opus | lang=es prob=0.9797160625457764 dur=55.3s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] hola dupla comandas, capete querías una consulta
+[00:04.00 → 00:09.00] viste que yo estoy en una distribuidora, osea abrir para mi distribuidora de producto así para despensa
+[00:09.00 → 00:12.00] todo lo que sea básico para despensa
+[00:12.00 → 00:18.00] y vos sabes que estoy necesitando, osea estoy queriendo hacer para mi sistema
+[00:18.00 → 00:23.00] con un lector para pasar mi producto y que me lea todo ya mi código de barra
+[00:23.00 → 00:29.00] y después ponerle la cantidad no me hayan para poder imprimir mi factura
+[00:29.00 → 00:34.00] me explico verdad, seguramente en estos videos ya que estoy dedicado a eso
+[00:34.00 → 00:41.00] en mi sistema donde diga mi número, osea mi distribuidora
+[00:41.00 → 00:48.00] pueda pasar el lector por la galletita por ejemplo y ya me salda el código de barra
+[00:48.00 → 00:52.00] y el precio, vamos a decirle
+[00:52.00 → 00:55.00] me explico, vos por si acaso haces eso que veo
