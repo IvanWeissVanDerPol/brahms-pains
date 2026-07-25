@@ -1,0 +1,37 @@
+[
+ {
+  "file": "PTT-20240612-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.9058566689491272,
+  "duration": 12.3178125,
+  "transcribed_at": "2026-07-24T05:12:09.112114+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¡Hola! ¡Luis! ¡Luisín! ¡Está muy cuto!"
+   },
+   {
+    "start": 3.0,
+    "end": 5.0,
+    "text": " ¡Muchas gracias!"
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " Una moto en 6 de partir del 22"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " El YouTube..."
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " ¡Qué raza!"
+   }
+  ],
+  "text": "¡Hola! ¡Luis! ¡Luisín! ¡Está muy cuto! ¡Muchas gracias! Una moto en 6 de partir del 22 El YouTube... ¡Qué raza!"
+ }
+]

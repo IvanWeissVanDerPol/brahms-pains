@@ -1,0 +1,37 @@
+[
+ {
+  "file": "PTT-20260201-WA0096.opus",
+  "language": "es",
+  "language_probability": 0.8457098603248596,
+  "duration": 8.4178125,
+  "transcribed_at": "2026-07-24T00:16:58.491997+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Si, super bien se entiende."
+   },
+   {
+    "start": 3.0,
+    "end": 8.0,
+    "text": " Entendí el yaúdos, aquí lo sabía."
+   }
+  ],
+  "text": "Si, super bien se entiende. Entendí el yaúdos, aquí lo sabía."
+ },
+ {
+  "file": "PTT-20260201-WA0095.opus",
+  "language": "es",
+  "language_probability": 0.9120125770568848,
+  "duration": 7.1778125,
+  "transcribed_at": "2026-07-24T01:29:28.648423+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.04,
+    "text": " No sé si se entiende mal, pero yo estoy parado de 2 kilos de miel y yo cuando sé que puedas pasar"
+   }
+  ],
+  "text": "No sé si se entiende mal, pero yo estoy parado de 2 kilos de miel y yo cuando sé que puedas pasar"
+ }
+]

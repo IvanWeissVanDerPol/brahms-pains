@@ -1,0 +1,137 @@
+[
+ {
+  "file": "PTT-20250903-WA0052.opus",
+  "language": "en",
+  "language_probability": 0.6959331035614014,
+  "duration": 1.9178125,
+  "transcribed_at": "2026-07-23T19:28:55.942930+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ha ha ha ha"
+   }
+  ],
+  "text": "ha ha ha ha"
+ },
+ {
+  "file": "PTT-20250903-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.6205811500549316,
+  "duration": 11.9978125,
+  "transcribed_at": "2026-07-24T04:59:41.055209+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Me pasaron la..."
+   },
+   {
+    "start": 2.0,
+    "end": 3.0,
+    "text": " tu LinkedIn"
+   },
+   {
+    "start": 3.0,
+    "end": 5.0,
+    "text": " slash"
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " lo se llama"
+   },
+   {
+    "start": 7.0,
+    "end": 10.0,
+    "text": " un link donde purés"
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " tu visita QA"
+   }
+  ],
+  "text": "Me pasaron la... tu LinkedIn slash lo se llama un link donde purés tu visita QA"
+ },
+ {
+  "file": "PTT-20250903-WA0051.opus",
+  "language": "es",
+  "language_probability": 0.9487603902816772,
+  "duration": 14.3778125,
+  "transcribed_at": "2026-07-24T06:41:39.421176+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Mirad tus mails en flash cada día, cada 3 horas, mirad si tu mail es Justin Case."
+   },
+   {
+    "start": 6.0,
+    "end": 9.0,
+    "text": " No se, no se, falla eso como el Andrés."
+   },
+   {
+    "start": 9.0,
+    "end": 13.0,
+    "text": " Sí, mirad también tus pam. Dios mío, qué pelada."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Qué puto Andrés."
+   }
+  ],
+  "text": "Mirad tus mails en flash cada día, cada 3 horas, mirad si tu mail es Justin Case. No se, no se, falla eso como el Andrés. Sí, mirad también tus pam. Dios mío, qué pelada. Qué puto Andrés."
+ },
+ {
+  "file": "PTT-20250806-WA0113.opus",
+  "language": "es",
+  "language_probability": 0.9196885228157043,
+  "duration": 45.2578125,
+  "transcribed_at": "2026-07-24T23:38:36.154909+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Uuuh, de nada, hay que sorrirme de avisarte para verlo, el creador de cosas, para mandar."
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " Pero como estoy hecho puta lua, no estoy fumando tanto porro."
+   },
+   {
+    "start": 10.0,
+    "end": 14.0,
+    "text": " Alas me fieles de verga otra vez, me dio así..."
+   },
+   {
+    "start": 14.0,
+    "end": 18.0,
+    "text": " No se lo costa hablar con a Carlos o algo, y me dio así, súper alergia."
+   },
+   {
+    "start": 18.0,
+    "end": 23.0,
+    "text": " Y yo sé, me pego. Mucho verguísima de los putísimas madres."
+   },
+   {
+    "start": 24.0,
+    "end": 31.0,
+    "text": " Pero, pero rea, en mirar la full, en que te puede servir."
+   },
+   {
+    "start": 31.0,
+    "end": 39.0,
+    "text": " Si te sientes de contexto, te puedo mandar un ejemplo de tipo la página web que mi roommate hizo para él."
+   },
+   {
+    "start": 39.0,
+    "end": 45.0,
+    "text": " Que onda, no tocó nada de código, y hizo así en un día."
+   }
+  ],
+  "text": "Uuuh, de nada, hay que sorrirme de avisarte para verlo, el creador de cosas, para mandar. Pero como estoy hecho puta lua, no estoy fumando tanto porro. Alas me fieles de verga otra vez, me dio así... No se lo costa hablar con a Carlos o algo, y me dio así, súper alergia. Y yo sé, me pego. Mucho verguísima de los putísimas madres. Pero, pero rea, en mirar la full, en que te puede servir. Si te sientes de contexto, te puedo mandar un ejemplo de tipo la página web que mi roommate hizo para él. Que onda, no tocó nada de código, y hizo así en un día."
+ }
+]

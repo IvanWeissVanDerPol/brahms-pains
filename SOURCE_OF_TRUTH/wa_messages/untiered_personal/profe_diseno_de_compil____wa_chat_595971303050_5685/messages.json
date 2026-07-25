@@ -163,7 +163,7 @@
   }
  ],
  "__provisional_name": {
-  "name": "Profe Diseño De Compiladores",
+  "name": "Profe Diseño De Compil",
   "confidence": "VERIFIED_PHONEBOOK",
   "jid_user": "595971303050",
   "vcard_source": {
@@ -176,6 +176,6 @@
   "banner": "✅ vCard-confirmed (Ivan's own phonebook). Auto-renamed; rename is irreversible in this branch.",
   "set_at": "2026-07-23T01:17:58.561405",
   "set_by": "chore/contact-circle-analysis branch (vCard import phase)",
-  "source": "vcard-match-2026-07-23"
+  "source": "vcard-match-v2-2026-07-23"
  }
 }

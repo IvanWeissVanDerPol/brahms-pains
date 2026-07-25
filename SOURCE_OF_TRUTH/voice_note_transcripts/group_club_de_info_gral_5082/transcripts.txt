@@ -1,0 +1,23 @@
+PTT-20250321-WA0047.opus | lang=es prob=0.9124476909637451 dur=4.0s
+------------------------------------------------------------
+[00:00.00 → 00:02.40] Casi acá, en San Lorenzo, al menos, no hay pluco.
+PTT-20240102-WA0010.opus | lang=es prob=0.9005658626556396 dur=5.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Pero yo es la verdad que me haría panadero antes de hacer eso.
+PTT-20240102-WA0009.opus | lang=es prob=0.9253309369087219 dur=31.1s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] La verdad que no creo que ni siquiera te dejen tu gestores de paquetes de tener dos versiones de Taekwai
+[00:08.00 → 00:17.00] Y webpack, bueno por lo tanto por webpack, por webpack no
+[00:18.00 → 00:25.00] Los que podes intentar y ya es bajo tu propia responsabilidad
+[00:25.00 → 00:30.00] Es importar directamente en el html en la header
+PTT-20241204-WA0015.opus | lang=es prob=0.9010570645332336 dur=36.5s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] pero eso es porque tenés que instalarte el repositorio de vroom para php
+[00:05.00 → 00:10.00] o sea es lo mismo que por ejemplo pase en linux con node que tenés que instalarte en un repositorio de node
+[00:10.00 → 00:13.00] para tener la última versión
+[00:13.00 → 00:16.00] y básicamente eso no más
+[00:16.00 → 00:22.00] pero la verdad que es mucho mejor utilizar GERD para manejar las versiones
+[00:22.00 → 00:27.00] y no es tampoco nada muy raro o sea es un manejador de versión de php así como
+[00:27.00 → 00:32.00] podés instalarte en linux o un npm para que la vía sea más fácil con node
+[00:32.00 → 00:35.00] para que la vía sea más fácil con php
+[00:35.00 → 00:37.00] eso no más

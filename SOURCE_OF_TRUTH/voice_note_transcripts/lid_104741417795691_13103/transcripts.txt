@@ -1,0 +1,15 @@
+PTT-20260113-WA0164.opus | lang=es prob=0.9243044257164001 dur=3.8s
+------------------------------------------------------------
+[00:00.00 → 00:02.12] Sí, ya estamos. Puedes solicitarnos más ya.
+[00:02.12 → 00:03.62] Ahora estoy preparando tu pedido.
+PTT-20260113-WA0162.opus | lang=es prob=0.9522286653518677 dur=7.6s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Una vez realizada la transferencia necesito el comprobante porfa y te paso la ubicación así para que solicites el bol.
+PTT-20260113-WA0160.opus | lang=es prob=0.9405276775360107 dur=22.0s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Te comento que no contamos con delivery. Normalmente el envío lo hacemos por moto envíos.
+[00:05.00 → 00:10.00] Si te interesa que se te envía así, podemos coordinarme, pasar tu ubicación exacta.
+[00:10.00 → 00:13.00] Yo veo cuando te alcanza en la app y te mando una foto.
+[00:13.00 → 00:16.00] Si te interesa, el pago de la joya sería por transferencia.
+[00:16.00 → 00:20.00] Y el pago de la joya y el pago de la aplicación del bol lo salías pagando al conductor
+[00:20.00 → 00:22.00] una vez que te entrega tu joyita.

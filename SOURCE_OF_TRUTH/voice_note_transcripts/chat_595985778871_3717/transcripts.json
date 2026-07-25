@@ -1,0 +1,127 @@
+[
+ {
+  "file": "PTT-20230917-WA0007.opus",
+  "language": "en",
+  "language_probability": 0.573028028011322,
+  "duration": 1.1178125,
+  "transcribed_at": "2026-07-23T18:48:00.498919+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 0.5,
+    "text": " Good?"
+   }
+  ],
+  "text": "Good?"
+ },
+ {
+  "file": "PTT-20230917-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.6394495368003845,
+  "duration": 2.2778125,
+  "transcribed_at": "2026-07-23T19:55:13.220747+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Ah bueno, avísame nada más."
+   }
+  ],
+  "text": "Ah bueno, avísame nada más."
+ },
+ {
+  "file": "PTT-20230917-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.9548222422599792,
+  "duration": 4.6378125,
+  "transcribed_at": "2026-07-23T23:26:46.140129+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Por giro lo que puedo recibir transferencia los domingos nos recibimos."
+   }
+  ],
+  "text": "Por giro lo que puedo recibir transferencia los domingos nos recibimos."
+ },
+ {
+  "file": "PTT-20230917-WA0005.opus",
+  "language": "es",
+  "language_probability": 0.917358934879303,
+  "duration": 5.1378125,
+  "transcribed_at": "2026-07-23T23:45:01.448345+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.16,
+    "text": " 50 mil te va a salir, dice mi mujer, hoy es domingo."
+   }
+  ],
+  "text": "50 mil te va a salir, dice mi mujer, hoy es domingo."
+ },
+ {
+  "file": "PTT-20230917-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.25650590658187866,
+  "duration": 9.5778125,
+  "transcribed_at": "2026-07-24T03:08:50.654703+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.52,
+    "text": " La casa está en la calle, mamá."
+   },
+   {
+    "start": 3.8000000000000003,
+    "end": 9.4,
+    "text": " Ahora está despertando el gomero y se va a ir, dice."
+   }
+  ],
+  "text": "La casa está en la calle, mamá. Ahora está despertando el gomero y se va a ir, dice."
+ },
+ {
+  "file": "PTT-20230917-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.9250991940498352,
+  "duration": 12.3178125,
+  "transcribed_at": "2026-07-24T05:25:17.861780+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.46,
+    "text": " Y tigo, giro tigo, lo que tenemos"
+   },
+   {
+    "start": 4.46,
+    "end": 6.96,
+    "text": " lo que tenemos tigo, mone"
+   },
+   {
+    "start": 6.96,
+    "end": 12.22,
+    "text": " no se como puedo, yo no puedo decir tigo mone si no tengo para la tarjeta"
+   }
+  ],
+  "text": "Y tigo, giro tigo, lo que tenemos lo que tenemos tigo, mone no se como puedo, yo no puedo decir tigo mone si no tengo para la tarjeta"
+ },
+ {
+  "file": "PTT-20230917-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.7694142460823059,
+  "duration": 29.9978125,
+  "transcribed_at": "2026-07-24T16:43:51.982835+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 26.0,
+    "text": " Ya señor, voy a me traferice todo ya y viste que él se tiene que rear tu cubierta, si es que para, si es que tiene agujeras te va a cerrar, si es que se rompe tu rueda, lo que se va a hacer ya otro problema, si es que no tenemos los cubiertas en mi nuevo nosotros, pero se va a ir a rear tu rueda, ahí lo va a ver si es que se rompió o no veras, si tiene agujeras nomás es solucionable veras, pero si es que se rompe, pues gente."
+   },
+   {
+    "start": 26.0,
+    "end": 30.0,
+    "text": " Eso va a ir ya enseguida."
+   }
+  ],
+  "text": "Ya señor, voy a me traferice todo ya y viste que él se tiene que rear tu cubierta, si es que para, si es que tiene agujeras te va a cerrar, si es que se rompe tu rueda, lo que se va a hacer ya otro problema, si es que no tenemos los cubiertas en mi nuevo nosotros, pero se va a ir a rear tu rueda, ahí lo va a ver si es que se rompió o no veras, si tiene agujeras nomás es solucionable veras, pero si es que se rompe, pues gente. Eso va a ir ya enseguida."
+ }
+]

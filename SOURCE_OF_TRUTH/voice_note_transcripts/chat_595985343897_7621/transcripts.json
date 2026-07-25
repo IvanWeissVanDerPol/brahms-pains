@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20240906-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.6541769504547119,
+  "duration": 9.6178125,
+  "transcribed_at": "2026-07-24T02:49:43.960235+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Por mí es un drama, pero mi critica es que es que hay que ver este resumen."
+   }
+  ],
+  "text": "Por mí es un drama, pero mi critica es que es que hay que ver este resumen."
+ }
+]

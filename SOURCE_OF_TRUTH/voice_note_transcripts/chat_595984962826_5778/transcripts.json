@@ -1,0 +1,27 @@
+[
+ {
+  "file": "PTT-20240309-WA0023.opus",
+  "language": "es",
+  "language_probability": 0.864913821220398,
+  "duration": 8.0578125,
+  "transcribed_at": "2026-07-24T01:57:21.693357+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Ya estoy llevando el camino y ya tengo tu pedido y no te quince minutos ya voy a llegar."
+   },
+   {
+    "start": 6.0,
+    "end": 7.0,
+    "text": " Ya."
+   },
+   {
+    "start": 7.0,
+    "end": 8.0,
+    "text": " Y ya estamos pillando el pedido."
+   }
+  ],
+  "text": "Ya estoy llevando el camino y ya tengo tu pedido y no te quince minutos ya voy a llegar. Ya. Y ya estamos pillando el pedido."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20241208-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.9592314958572388,
+  "duration": 7.9378125,
+  "transcribed_at": "2026-07-24T01:18:39.416510+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0200000000000005,
+    "text": " Eh... mañana puedo ir a acoplarte amigos si es que no conseguiste."
+   },
+   {
+    "start": 6.0200000000000005,
+    "end": 7.88,
+    "text": " ¿Qué vehículo es?"
+   }
+  ],
+  "text": "Eh... mañana puedo ir a acoplarte amigos si es que no conseguiste. ¿Qué vehículo es?"
+ }
+]

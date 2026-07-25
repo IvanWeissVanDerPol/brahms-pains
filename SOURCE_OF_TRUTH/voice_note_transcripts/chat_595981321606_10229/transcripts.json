@@ -1,0 +1,97 @@
+[
+ {
+  "file": "PTT-20250319-WA0016.opus",
+  "language": "es",
+  "language_probability": 0.9479866623878479,
+  "duration": 6.9578125,
+  "transcribed_at": "2026-07-24T01:06:24.059119+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.5,
+    "text": " Estamos en frente de tu casa. Venimos para llevar la llave."
+   }
+  ],
+  "text": "Estamos en frente de tu casa. Venimos para llevar la llave."
+ },
+ {
+  "file": "PTT-20260123-WA0054.opus",
+  "language": "es",
+  "language_probability": 0.8065487742424011,
+  "duration": 15.7178125,
+  "transcribed_at": "2026-07-24T06:33:13.253116+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Tipo en el patio, parece que ese es el más lindo, al menos no veo ninguno alcanzable a la fuera."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Llegado hasta de afuera, no hay más ninguno."
+   }
+  ],
+  "text": "Tipo en el patio, parece que ese es el más lindo, al menos no veo ninguno alcanzable a la fuera. Llegado hasta de afuera, no hay más ninguno."
+ },
+ {
+  "file": "PTT-20260123-WA0056.opus",
+  "language": "es",
+  "language_probability": 0.9780949950218201,
+  "duration": 40.6378125,
+  "transcribed_at": "2026-07-24T22:09:35.551804+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.84,
+    "text": " entiendo, no te vayas a preocupar que yo conozco porque ahora viste que no no son"
+   },
+   {
+    "start": 5.84,
+    "end": 13.56,
+    "text": " tan buenas las frutas por no sé por por qué razones me parece que por el por el"
+   },
+   {
+    "start": 13.56,
+    "end": 22.64,
+    "text": " clima por el tiempo no no está tan buena las frutas del año y bueno querido no"
+   },
+   {
+    "start": 22.64,
+    "end": 31.72,
+    "text": " te preocupes no te preocupes entonces quedamos así nomás voy a buscar ahora le digo a mi"
+   },
+   {
+    "start": 31.72,
+    "end": 39.2,
+    "text": " papá cuando ven a que me traiga de cosa está bien bueno gracias"
+   }
+  ],
+  "text": "entiendo, no te vayas a preocupar que yo conozco porque ahora viste que no no son tan buenas las frutas por no sé por por qué razones me parece que por el por el clima por el tiempo no no está tan buena las frutas del año y bueno querido no te preocupes no te preocupes entonces quedamos así nomás voy a buscar ahora le digo a mi papá cuando ven a que me traiga de cosa está bien bueno gracias"
+ },
+ {
+  "file": "PTT-20260123-WA0051.opus",
+  "language": "es",
+  "language_probability": 0.9145389199256897,
+  "duration": 41.6378125,
+  "transcribed_at": "2026-07-24T23:20:26.687625+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 24.0,
+    "text": " Ahora me fijamos afuera, en el patio de menos hace unos días manda más limpiar todo y no hay... bueno hay dos en el piso, pero están medio feitos, llenos de hormigas, y en los árboles, bueno en el enfrente no veo más ningún mango, capaz de estar más arriba, pero no tengo ni un palito para alcanzarle, el atras tampoco veo que tenga."
+   },
+   {
+    "start": 25.0,
+    "end": 33.0,
+    "text": " ¡Flatulite! Pero cuando sea época de mangos y este lleno así le dejan, resto y frío de pasar y agarramos nomás, en serio se caen y se coberen todo en el patio."
+   },
+   {
+    "start": 34.0,
+    "end": 41.0,
+    "text": " Randomly agarramos con Allen, así que están ahí, ahorita nomás ya parece que no queda."
+   }
+  ],
+  "text": "Ahora me fijamos afuera, en el patio de menos hace unos días manda más limpiar todo y no hay... bueno hay dos en el piso, pero están medio feitos, llenos de hormigas, y en los árboles, bueno en el enfrente no veo más ningún mango, capaz de estar más arriba, pero no tengo ni un palito para alcanzarle, el atras tampoco veo que tenga. ¡Flatulite! Pero cuando sea época de mangos y este lleno así le dejan, resto y frío de pasar y agarramos nomás, en serio se caen y se coberen todo en el patio. Randomly agarramos con Allen, así que están ahí, ahorita nomás ya parece que no queda."
+ }
+]

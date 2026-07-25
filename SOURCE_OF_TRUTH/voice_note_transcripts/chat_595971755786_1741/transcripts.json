@@ -1,0 +1,362 @@
+[
+ {
+  "file": "PTT-20260211-WA0013.opus",
+  "language": "es",
+  "language_probability": 0.6018002033233643,
+  "duration": 4.9978125,
+  "transcribed_at": "2026-07-23T23:25:11.533346+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.8000000000000003,
+    "text": " ¡Oh! ¿Tá eso cuando llego?"
+   },
+   {
+    "start": 2.8000000000000003,
+    "end": 4.28,
+    "text": " En un rabo, hoy."
+   },
+   {
+    "start": 4.28,
+    "end": 5.28,
+    "text": " ¡Ah!"
+   }
+  ],
+  "text": "¡Oh! ¿Tá eso cuando llego? En un rabo, hoy. ¡Ah!"
+ },
+ {
+  "file": "PTT-20260413-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.663072407245636,
+  "duration": 6.8978125,
+  "transcribed_at": "2026-07-24T00:25:39.897257+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Si aquí ven y agren de árbos, el porro, haya fútbol."
+   },
+   {
+    "start": 4.0,
+    "end": 7.0,
+    "text": " Tenés que separarnos todo de la planta."
+   }
+  ],
+  "text": "Si aquí ven y agren de árbos, el porro, haya fútbol. Tenés que separarnos todo de la planta."
+ },
+ {
+  "file": "PTT-20230807-WA0013.opus",
+  "language": "es",
+  "language_probability": 0.9717925786972046,
+  "duration": 7.0378125,
+  "transcribed_at": "2026-07-24T01:13:58.600754+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.8000000000000003,
+    "text": " Sí, cuando me estaba sentando ahí, luego vi que estaba ahí"
+   },
+   {
+    "start": 2.8000000000000003,
+    "end": 5.42,
+    "text": " y pensé que era de alguien, pero se habrán olvidado llevar a tu casa"
+   },
+   {
+    "start": 5.42,
+    "end": 6.92,
+    "text": " te dejaron de regalo, parece"
+   }
+  ],
+  "text": "Sí, cuando me estaba sentando ahí, luego vi que estaba ahí y pensé que era de alguien, pero se habrán olvidado llevar a tu casa te dejaron de regalo, parece"
+ },
+ {
+  "file": "PTT-20250226-WA0000.opus",
+  "language": "es",
+  "language_probability": 0.9037628173828125,
+  "duration": 8.3778125,
+  "transcribed_at": "2026-07-24T01:52:01.709296+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿Qué tal?"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Ya, consulta, ¿no te vas por la facu más?"
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " ¿O cómo hacer? Porque si no te has entendido,"
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " vas a estar con un tecita."
+   }
+  ],
+  "text": "¿Qué tal? Ya, consulta, ¿no te vas por la facu más? ¿O cómo hacer? Porque si no te has entendido, vas a estar con un tecita."
+ },
+ {
+  "file": "PTT-20260413-WA0014.opus",
+  "language": "es",
+  "language_probability": 0.5791878700256348,
+  "duration": 11.6178125,
+  "transcribed_at": "2026-07-24T02:38:46.268919+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " y es que tiene rat rays, trabaja por afuera y remoto perro"
+   },
+   {
+    "start": 6.0,
+    "end": 11.0,
+    "text": " mientras negre es para para huevo y vas a negrear afuera"
+   }
+  ],
+  "text": "y es que tiene rat rays, trabaja por afuera y remoto perro mientras negre es para para huevo y vas a negrear afuera"
+ },
+ {
+  "file": "PTT-20260212-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.8708073496818542,
+  "duration": 9.2778125,
+  "transcribed_at": "2026-07-24T02:54:12.996701+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Hay clipas más o menos, ya que es lo que añade ya, y para mí soy, entonces, para que pueda durar más los dates, tengo que irme a su zona."
+   }
+  ],
+  "text": "Hay clipas más o menos, ya que es lo que añade ya, y para mí soy, entonces, para que pueda durar más los dates, tengo que irme a su zona."
+ },
+ {
+  "file": "PTT-20260413-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.9689351320266724,
+  "duration": 14.1778125,
+  "transcribed_at": "2026-07-24T05:17:27.296278+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " No, yo te he preguntado más cuando esté por ahí te voy a avisar, pero imposible, imposible."
+   },
+   {
+    "start": 7.0,
+    "end": 8.0,
+    "text": " ¡Qué pucha!"
+   },
+   {
+    "start": 9.0,
+    "end": 11.0,
+    "text": " Estoy muerto, te envidio."
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " Y bueno, a buscar trabajo fuera."
+   }
+  ],
+  "text": "No, yo te he preguntado más cuando esté por ahí te voy a avisar, pero imposible, imposible. ¡Qué pucha! Estoy muerto, te envidio. Y bueno, a buscar trabajo fuera."
+ },
+ {
+  "file": "PTT-20260212-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9564973711967468,
+  "duration": 20.8578125,
+  "transcribed_at": "2026-07-24T09:39:47.602128+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.52,
+    "text": " O sea, este es mi open cloud que respondió a un mensaje, ya estoy configurando y viendo que ande en mi whatsapp"
+   },
+   {
+    "start": 8.52,
+    "end": 12.36,
+    "text": " para que pueda mandar el mensaje si después le voy a restringir a solo mi celular."
+   },
+   {
+    "start": 15.0,
+    "end": 20.8,
+    "text": " Pero el video que te mandas hace rato, oye, es un full guide a cómo instalar y sotopear todo."
+   }
+  ],
+  "text": "O sea, este es mi open cloud que respondió a un mensaje, ya estoy configurando y viendo que ande en mi whatsapp para que pueda mandar el mensaje si después le voy a restringir a solo mi celular. Pero el video que te mandas hace rato, oye, es un full guide a cómo instalar y sotopear todo."
+ },
+ {
+  "file": "PTT-20260413-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.9044364094734192,
+  "duration": 20.0978125,
+  "transcribed_at": "2026-07-24T10:05:28.180006+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Qué tal, doyón? Iban con su vuelta."
+   },
+   {
+    "start": 3.0,
+    "end": 6.0,
+    "text": " ¿Vos tenés toda la plantación del purete?"
+   },
+   {
+    "start": 6.0,
+    "end": 9.0,
+    "text": " Porque se me ya estoy buscando."
+   },
+   {
+    "start": 9.0,
+    "end": 12.0,
+    "text": " Bueno, que me explicaste una vez que este tipo de semillas me dijiste que tenía."
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " Pero nunca nos vimos cuando eso."
+   },
+   {
+    "start": 14.0,
+    "end": 16.0,
+    "text": " Avisando si tenés ahí."
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " Voy a pasar a buscar o que..."
+   },
+   {
+    "start": 18.0,
+    "end": 20.0,
+    "text": " ¿Vos siempre estabas diciendo que la fue?"
+   }
+  ],
+  "text": "¿Qué tal, doyón? Iban con su vuelta. ¿Vos tenés toda la plantación del purete? Porque se me ya estoy buscando. Bueno, que me explicaste una vez que este tipo de semillas me dijiste que tenía. Pero nunca nos vimos cuando eso. Avisando si tenés ahí. Voy a pasar a buscar o que... ¿Vos siempre estabas diciendo que la fue?"
+ },
+ {
+  "file": "PTT-20260211-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9272643327713013,
+  "duration": 22.1178125,
+  "transcribed_at": "2026-07-24T10:19:54.812341+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Así voy a mi cita."
+   },
+   {
+    "start": 4.32,
+    "end": 6.68,
+    "text": " Pero no he tenido ratón capaz de volver."
+   },
+   {
+    "start": 6.68,
+    "end": 8.82,
+    "text": " Ahora estoy a la red haciendo que mi amea ande."
+   },
+   {
+    "start": 9.700000000000001,
+    "end": 12.1,
+    "text": " Trabajé mi cita mientras estoy en mi cita."
+   },
+   {
+    "start": 13.3,
+    "end": 14.64,
+    "text": " Y después salgo."
+   },
+   {
+    "start": 15.24,
+    "end": 15.860000000000001,
+    "text": " Pero reen."
+   },
+   {
+    "start": 16.3,
+    "end": 18.06,
+    "text": " En un retiro voy a look en."
+   },
+   {
+    "start": 18.06,
+    "end": 20.54,
+    "text": " Da vez para las dos chas estoy pero ahí ya empieza mi cita."
+   },
+   {
+    "start": 20.54,
+    "end": 21.04,
+    "text": " Así que..."
+   },
+   {
+    "start": 21.6,
+    "end": 22.1,
+    "text": " ¡Tú rato!"
+   }
+  ],
+  "text": "Así voy a mi cita. Pero no he tenido ratón capaz de volver. Ahora estoy a la red haciendo que mi amea ande. Trabajé mi cita mientras estoy en mi cita. Y después salgo. Pero reen. En un retiro voy a look en. Da vez para las dos chas estoy pero ahí ya empieza mi cita. Así que... ¡Tú rato!"
+ },
+ {
+  "file": "PTT-20251127-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.938981294631958,
+  "duration": 21.3978125,
+  "transcribed_at": "2026-07-24T10:41:17.358064+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.48,
+    "text": " que tal Iván? Iván justamente hoy le está comentándome a un compañero que se encarga en programar sobre tu proyecto"
+   },
+   {
+    "start": 7.48,
+    "end": 12.08,
+    "text": " justamente el tema de la automatización otra vez de día y me dijo que es más interesante es que"
+   },
+   {
+    "start": 12.08,
+    "end": 16.240000000000002,
+    "text": " probablemente te escribas para saber que es donde eso te quería avisar una pedra mirando se llama"
+   },
+   {
+    "start": 16.240000000000002,
+    "end": 20.44,
+    "text": " amigos y eso ya la vamos a juntar en algún momento"
+   }
+  ],
+  "text": "que tal Iván? Iván justamente hoy le está comentándome a un compañero que se encarga en programar sobre tu proyecto justamente el tema de la automatización otra vez de día y me dijo que es más interesante es que probablemente te escribas para saber que es donde eso te quería avisar una pedra mirando se llama amigos y eso ya la vamos a juntar en algún momento"
+ },
+ {
+  "file": "PTT-20250226-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.9368359446525574,
+  "duration": 24.2578125,
+  "transcribed_at": "2026-07-24T11:46:29.466871+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Tengo todavía una clase que va a ser a todos dos, que no lleve antes para que me fríe a Estados Unidos."
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " Aparte de eso también se lo tecís."
+   },
+   {
+    "start": 14.0,
+    "end": 17.0,
+    "text": " Y yo ya estoy haciendo uno más mi proyecto de tecís por mi cuenta."
+   },
+   {
+    "start": 19.0,
+    "end": 22.0,
+    "text": " Tengo dado un temano para que después sea presentarnos más."
+   }
+  ],
+  "text": "Tengo todavía una clase que va a ser a todos dos, que no lleve antes para que me fríe a Estados Unidos. Aparte de eso también se lo tecís. Y yo ya estoy haciendo uno más mi proyecto de tecís por mi cuenta. Tengo dado un temano para que después sea presentarnos más."
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "file": "PTT-20250330-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.8911529183387756,
+  "duration": 14.2978125,
+  "transcribed_at": "2026-07-24T06:36:15.687886+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " hola hola qué tal amigo y mañana voy a pasar por ahí"
+   },
+   {
+    "start": 5.0,
+    "end": 10.0,
+    "text": " calcular el que pasó a las ocho ocho y media por ahí pasamos por ahí"
+   },
+   {
+    "start": 10.0,
+    "end": 14.0,
+    "text": " o sea en realidad nosotros pasamos del lunes asado por ahí a esa hora"
+   }
+  ],
+  "text": "hola hola qué tal amigo y mañana voy a pasar por ahí calcular el que pasó a las ocho ocho y media por ahí pasamos por ahí o sea en realidad nosotros pasamos del lunes asado por ahí a esa hora"
+ }
+]

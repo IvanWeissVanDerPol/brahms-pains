@@ -1,0 +1,37 @@
+[
+ {
+  "file": "PTT-20260206-WA0059.opus",
+  "language": "es",
+  "language_probability": 0.9767957925796509,
+  "duration": 4.6378125,
+  "transcribed_at": "2026-07-23T23:27:27.969021+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.3000000000000003,
+    "text": " Que nuestro delivery si se anima hier"
+   },
+   {
+    "start": 3.3000000000000003,
+    "end": 4.5,
+    "text": " ¡Gua pos al precio!"
+   }
+  ],
+  "text": "Que nuestro delivery si se anima hier ¡Gua pos al precio!"
+ },
+ {
+  "file": "PTT-20260206-WA0058.opus",
+  "language": "es",
+  "language_probability": 0.9569858908653259,
+  "duration": 8.6378125,
+  "transcribed_at": "2026-07-24T02:37:46.247052+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Nosotros que somos de Kakupe, pero capaz mañana te puedan llevar o vos quieres para hoy."
+   }
+  ],
+  "text": "Nosotros que somos de Kakupe, pero capaz mañana te puedan llevar o vos quieres para hoy."
+ }
+]

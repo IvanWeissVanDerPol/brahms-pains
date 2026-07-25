@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20240624-WA0062.opus",
+  "language": "es",
+  "language_probability": 0.9689406156539917,
+  "duration": 3.2378125,
+  "transcribed_at": "2026-07-23T21:45:15.058577+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.2,
+    "text": " Es que tengo como foto tarjetas y no estoy seguro con cuál de las cuatro hice."
+   }
+  ],
+  "text": "Es que tengo como foto tarjetas y no estoy seguro con cuál de las cuatro hice."
+ }
+]

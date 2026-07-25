@@ -1,0 +1,127 @@
+[
+ {
+  "file": "PTT-20250912-WA0032.opus",
+  "language": "es",
+  "language_probability": 0.9467496275901794,
+  "duration": 8.7778125,
+  "transcribed_at": "2026-07-24T02:26:12.497642+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.6,
+    "text": " Trabajaba el server par y su almacenamiento de datos era un culo y le faltó soluciones de Big Data."
+   }
+  ],
+  "text": "Trabajaba el server par y su almacenamiento de datos era un culo y le faltó soluciones de Big Data."
+ },
+ {
+  "file": "PTT-20250912-WA0040.opus",
+  "language": "es",
+  "language_probability": 0.7947006225585938,
+  "duration": 9.7778125,
+  "transcribed_at": "2026-07-24T03:42:42.176118+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.08,
+    "text": " Note AWS Azure DevOps Certificaciones, eso también le va a ser muy"
+   },
+   {
+    "start": 6.08,
+    "end": 9.52,
+    "text": " nice a los gringos, por si estas te corre y querés saber las más certificaciones."
+   }
+  ],
+  "text": "Note AWS Azure DevOps Certificaciones, eso también le va a ser muy nice a los gringos, por si estas te corre y querés saber las más certificaciones."
+ },
+ {
+  "file": "PTT-20250912-WA0041.opus",
+  "language": "es",
+  "language_probability": 0.8210976719856262,
+  "duration": 19.5178125,
+  "transcribed_at": "2026-07-24T09:20:53.051048+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Si tenés ninguna recomendación de certificaciones, para que le dea también."
+   },
+   {
+    "start": 5.0,
+    "end": 13.0,
+    "text": " Yo estoy realmente más en AI y en el contexto de engineering, pero siempre estoy para tratar de certificarme de cosas randomes."
+   },
+   {
+    "start": 13.0,
+    "end": 19.0,
+    "text": " Y lo voy cuando ofrecen. Si el trabajo puedo hacer todo con él, dan mis dos trabajos."
+   }
+  ],
+  "text": "Si tenés ninguna recomendación de certificaciones, para que le dea también. Yo estoy realmente más en AI y en el contexto de engineering, pero siempre estoy para tratar de certificarme de cosas randomes. Y lo voy cuando ofrecen. Si el trabajo puedo hacer todo con él, dan mis dos trabajos."
+ },
+ {
+  "file": "PTT-20250912-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9312412142753601,
+  "duration": 25.9378125,
+  "transcribed_at": "2026-07-24T12:43:03.354547+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.84,
+    "text": " Todas las cosas de tablets se hacen Databricks, Databricks es una plataforma en la nuben que"
+   },
+   {
+    "start": 9.84,
+    "end": 15.44,
+    "text": " tipo puede partir las tablas enormes en diferentes subcomputadoras que trabajan al mismo tiempo,"
+   },
+   {
+    "start": 15.44,
+    "end": 19.48,
+    "text": " o sea, todo un paralelo para hacer las transformaciones que quiere eso de las tablets."
+   },
+   {
+    "start": 19.48,
+    "end": 24.92,
+    "text": " Porque si no va a ser línea por línea en una tabla de un trillón de líneas, este es imposible."
+   }
+  ],
+  "text": "Todas las cosas de tablets se hacen Databricks, Databricks es una plataforma en la nuben que tipo puede partir las tablas enormes en diferentes subcomputadoras que trabajan al mismo tiempo, o sea, todo un paralelo para hacer las transformaciones que quiere eso de las tablets. Porque si no va a ser línea por línea en una tabla de un trillón de líneas, este es imposible."
+ },
+ {
+  "file": "PTT-20250912-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.9249920845031738,
+  "duration": 32.7578125,
+  "transcribed_at": "2026-07-24T17:22:17.265729+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.76,
+    "text": " también tipo igual si es que no trabaja así en, como se llama, data engineering, tipo igual,"
+   },
+   {
+    "start": 7.76,
+    "end": 14.280000000000001,
+    "text": " siempre te entiendes a todos los otros gringos, no solo a mi jefe, pero también le puedes"
+   },
+   {
+    "start": 14.280000000000001,
+    "end": 18.400000000000002,
+    "text": " antear, digo, todos los siguientes trabajos, de decir, mirad, si yo entiendo tablas, puedo"
+   },
+   {
+    "start": 18.400000000000002,
+    "end": 24.28,
+    "text": " hacer que tus tablas se carguen lindo y testear que no le entren noodles y todas"
+   },
+   {
+    "start": 24.28,
+    "end": 31.92,
+    "text": " otras boludes es que se toman en cuenta para Big Data y un certificado que desea, dice que sabe eso."
+   }
+  ],
+  "text": "también tipo igual si es que no trabaja así en, como se llama, data engineering, tipo igual, siempre te entiendes a todos los otros gringos, no solo a mi jefe, pero también le puedes antear, digo, todos los siguientes trabajos, de decir, mirad, si yo entiendo tablas, puedo hacer que tus tablas se carguen lindo y testear que no le entren noodles y todas otras boludes es que se toman en cuenta para Big Data y un certificado que desea, dice que sabe eso."
+ }
+]

@@ -1,0 +1,262 @@
+[
+ {
+  "file": "PTT-20260524-WA0040.opus",
+  "language": "en",
+  "language_probability": 0.3212531805038452,
+  "duration": 5.2978125,
+  "transcribed_at": "2026-07-23T23:04:18.454963+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Hello, how are you?"
+   },
+   {
+    "start": 3.0,
+    "end": 4.0,
+    "text": " How are you?"
+   },
+   {
+    "start": 4.0,
+    "end": 5.0,
+    "text": " I'm fine."
+   }
+  ],
+  "text": "Hello, how are you? How are you? I'm fine."
+ },
+ {
+  "file": "PTT-20260521-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.9539081454277039,
+  "duration": 6.5378125,
+  "transcribed_at": "2026-07-24T00:23:29.282563+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Qué tal? ¿Qué tal? ¿Cómo estás? Máteco."
+   },
+   {
+    "start": 3.0,
+    "end": 6.0,
+    "text": " ¿Vos o solo? ¿Eso quería saber?"
+   }
+  ],
+  "text": "¿Qué tal? ¿Qué tal? ¿Cómo estás? Máteco. ¿Vos o solo? ¿Eso quería saber?"
+ },
+ {
+  "file": "PTT-20260521-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.9441933035850525,
+  "duration": 7.6778125,
+  "transcribed_at": "2026-07-24T00:43:45.414720+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.6000000000000005,
+    "text": " Y que tal podés oido de repente no sé, para encontrarnos o tomar algo ahí, a la noche."
+   }
+  ],
+  "text": "Y que tal podés oido de repente no sé, para encontrarnos o tomar algo ahí, a la noche."
+ },
+ {
+  "file": "PTT-20260522-WA0051.opus",
+  "language": "es",
+  "language_probability": 0.9777761101722717,
+  "duration": 6.9178125,
+  "transcribed_at": "2026-07-24T00:59:48.613438+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Ah, ya entiendo. O sea, se viene a hacer, decimos nomas, donde San Lorenzo, cerca del Pineo, o donde sería."
+   }
+  ],
+  "text": "Ah, ya entiendo. O sea, se viene a hacer, decimos nomas, donde San Lorenzo, cerca del Pineo, o donde sería."
+ },
+ {
+  "file": "PTT-20260521-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.9683309197425842,
+  "duration": 7.4178125,
+  "transcribed_at": "2026-07-24T01:34:21.023584+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.28,
+    "text": " Da listo de cuestión de que veamos y corinemos eso, ¿o tenés lugar de repente así? ¿tenés lugar sin drama?"
+   }
+  ],
+  "text": "Da listo de cuestión de que veamos y corinemos eso, ¿o tenés lugar de repente así? ¿tenés lugar sin drama?"
+ },
+ {
+  "file": "PTT-20260522-WA0049.opus",
+  "language": "es",
+  "language_probability": 0.9450863003730774,
+  "duration": 8.2178125,
+  "transcribed_at": "2026-07-24T01:41:51.569701+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Ya entiendo, pero vos ¿dónde vivís? O sea, en realidad vivís hacia el campus"
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " o que partemos para tener en cuenta"
+   }
+  ],
+  "text": "Ya entiendo, pero vos ¿dónde vivís? O sea, en realidad vivís hacia el campus o que partemos para tener en cuenta"
+ },
+ {
+  "file": "PTT-20260521-WA0033.opus",
+  "language": "es",
+  "language_probability": 0.9855698943138123,
+  "duration": 10.0778125,
+  "transcribed_at": "2026-07-24T01:50:11.696182+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.6,
+    "text": " No hay claro, super relax ahí, tomar cerveza, disfrutar, pasarla bien, super bien."
+   }
+  ],
+  "text": "No hay claro, super relax ahí, tomar cerveza, disfrutar, pasarla bien, super bien."
+ },
+ {
+  "file": "PTT-20260521-WA0032.opus",
+  "language": "es",
+  "language_probability": 0.9666944146156311,
+  "duration": 7.7378125,
+  "transcribed_at": "2026-07-24T01:50:23.654314+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.88,
+    "text": " ¿A qué te referís cuando queda todo para ser específico en el que sentido estás diciendo?"
+   },
+   {
+    "start": 5.88,
+    "end": 7.48,
+    "text": " En el recuerdo de la mente yo te hablo."
+   }
+  ],
+  "text": "¿A qué te referís cuando queda todo para ser específico en el que sentido estás diciendo? En el recuerdo de la mente yo te hablo."
+ },
+ {
+  "file": "PTT-20260521-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.9725192785263062,
+  "duration": 8.0378125,
+  "transcribed_at": "2026-07-24T01:50:41.408259+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Dale excelente y dime algo vos sos vívera, no tenés drama en hacer de todo experimentar, de todo sin problema."
+   }
+  ],
+  "text": "Dale excelente y dime algo vos sos vívera, no tenés drama en hacer de todo experimentar, de todo sin problema."
+ },
+ {
+  "file": "PTT-20260521-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.9596328139305115,
+  "duration": 10.3178125,
+  "transcribed_at": "2026-07-24T03:19:46.406048+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Ah no, no, no, ya es muy tarde esa hora."
+   },
+   {
+    "start": 4.0,
+    "end": 10.0,
+    "text": " Nosotros podemos partir en la tarde, partir las 4 y media, hasta las 10 por ahí ponerle."
+   }
+  ],
+  "text": "Ah no, no, no, ya es muy tarde esa hora. Nosotros podemos partir en la tarde, partir las 4 y media, hasta las 10 por ahí ponerle."
+ },
+ {
+  "file": "PTT-20260521-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.9763517379760742,
+  "duration": 13.8578125,
+  "transcribed_at": "2026-07-24T05:36:29.975318+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.120000000000001,
+    "text": " dale tranqui ya y de donde sos a que parte más o menos vivís cosas así para saber un poco"
+   },
+   {
+    "start": 8.120000000000001,
+    "end": 13.16,
+    "text": " y cartel entonces por ahí te buscamos esta noche y qué tal estás de aparato"
+   }
+  ],
+  "text": "dale tranqui ya y de donde sos a que parte más o menos vivís cosas así para saber un poco y cartel entonces por ahí te buscamos esta noche y qué tal estás de aparato"
+ },
+ {
+  "file": "PTT-20260521-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.9749691486358643,
+  "duration": 16.6178125,
+  "transcribed_at": "2026-07-24T07:09:06.878976+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 17.0,
+    "text": " No, solamente fotos de tu cosa no más queremos ver, no se ve, pues solo antes se ve uno muy lejano, o sea fotos así que tengas dualería no, así que entremos en el enlace en un Apple estilo."
+   }
+  ],
+  "text": "No, solamente fotos de tu cosa no más queremos ver, no se ve, pues solo antes se ve uno muy lejano, o sea fotos así que tengas dualería no, así que entremos en el enlace en un Apple estilo."
+ },
+ {
+  "file": "PTT-20260524-WA0046.opus",
+  "language": "es",
+  "language_probability": 0.8456743359565735,
+  "duration": 24.2178125,
+  "transcribed_at": "2026-07-24T10:07:44.396159+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿En qué sentido? O sea..."
+   },
+   {
+    "start": 6.5,
+    "end": 8.5,
+    "text": " ¿En qué cosas de sábado puedo hacer?"
+   },
+   {
+    "start": 8.5,
+    "end": 10.5,
+    "text": " Pero el domingo me sentí ya..."
+   },
+   {
+    "start": 10.5,
+    "end": 12.5,
+    "text": " O sea, hoy me sentí ya chuputa."
+   },
+   {
+    "start": 13.5,
+    "end": 15.5,
+    "text": " ¿Qué fue el día de dejarme saber realmente?"
+   },
+   {
+    "start": 15.5,
+    "end": 17.5,
+    "text": " Aquí me desperté ahorita."
+   },
+   {
+    "start": 23.0,
+    "end": 24.5,
+    "text": " ¡Qué fría hace!"
+   }
+  ],
+  "text": "¿En qué sentido? O sea... ¿En qué cosas de sábado puedo hacer? Pero el domingo me sentí ya... O sea, hoy me sentí ya chuputa. ¿Qué fue el día de dejarme saber realmente? Aquí me desperté ahorita. ¡Qué fría hace!"
+ }
+]

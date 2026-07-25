@@ -1,0 +1,46 @@
+PTT-20250328-WA0029.opus | lang=es prob=0.9222017526626587 dur=3.8s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ¡Oop! No, ni idea, pero...
+[00:02.00 → 00:04.00] ¡Ah, igualitos!
+PTT-20250324-WA0028.opus | lang=es prob=0.9266571998596191 dur=22.7s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ¿Vas a necesitar un negro a un tarno?
+[00:02.00 → 00:06.00] Siempre es solo tener, lo único que le pido a los perros es que se queda acá
+[00:06.00 → 00:09.00] Siempre está casi ahí, que lo envían cualquier grupo de eso
+[00:09.00 → 00:12.00] Y está bien que le ayudara a los perros, los va condenados
+[00:12.00 → 00:13.00] ¿Y esta materia?
+[00:13.00 → 00:14.00] ¡Ah, difíciles!
+[00:14.00 → 00:18.00] ¡Muy, muy, MUY larga la teoría!
+[00:19.00 → 00:20.00] ¡Y puta!
+[00:20.00 → 00:22.00] ¡No, no, da mucho gusto!
+PTT-20250324-WA0024.opus | lang=es prob=0.8383169174194336 dur=22.3s
+------------------------------------------------------------
+[00:00.00 → 00:08.44] No, tranqui, eh, los exámenes son chiles, te voy a pasar, yo tengo fotos de exámenes anteriores,
+[00:08.44 → 00:13.64] eso no pasa en maniulado, porque aquí lo muevo, pero te voy a pasar imágenes del
+[00:13.64 → 00:17.24] exámen que te vas a servir, porque no lo vas a hacer más música, no lo vas a mostrar
+[00:17.24 → 00:21.96] más, y que no circule, no muevo, porque eso no mueva la puta.
+PTT-20250324-WA0032.opus | lang=es prob=0.797856330871582 dur=27.0s
+------------------------------------------------------------
+[00:00.00 → 00:03.44] No no, solo se te abrupo, o sea.
+[00:03.44 → 00:05.40] No, nunca se dice nada.
+[00:05.40 → 00:07.46] La fecha de XAMIN y todas esas primos...
+[00:07.46 → 00:10.02] no se mantiene, pero no.
+[00:10.02 → 00:11.10] En un grupo así...
+[00:11.10 → 00:13.72] aquí, bueno...
+[00:13.72 → 00:16.98] vas a ver...
+[00:16.98 → 00:19.10] va a estar ahí uno.
+[00:19.10 → 00:21.32] No importa tanto, pero no.
+[00:21.32 → 00:23.98] Y, sí, me ayudará a reto, así de cierto.
+[00:23.98 → 00:25.70] Bueno, bueno, para dar...
+[00:25.70 → 00:27.04] pasamos al tijoso.
+PTT-20250324-WA0029.opus | lang=es prob=0.8972602486610413 dur=50.1s
+------------------------------------------------------------
+[00:00.00 → 00:05.40] Ya no, encima de esta teoría es redivague y es cosas viejas.
+[00:05.40 → 00:13.20] O sea, yo estoy trabajando ahora con Databricks, que ya es onda base de datos serverless por
+[00:13.20 → 00:19.80] clusters, que ya son, tipo, nativamente resilient, que, tipo, no hay que estresar, tipo, solo
+[00:19.80 → 00:24.28] te encargas de la infraestructura y el tipo de cómo vas a hacer tus datos y, tipo,
+[00:24.28 → 00:28.08] ya está automático todo el divague de esta materia.
+[00:30.68 → 00:37.00] Tipo, como Handlea, todos los cosas, todos los datos, era ya de fondo, ya es así.
+[00:39.52 → 00:43.92] Ha reglado automáticamente por Apache Spark, optimización de tus queries,
+[00:43.92 → 00:48.24] también ya te hace automáticamente la Apache Spark, tipo, ah, que paja,
+[00:48.24 → 00:49.28] tiene que ser una todadura.

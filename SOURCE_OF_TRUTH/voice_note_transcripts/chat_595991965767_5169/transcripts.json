@@ -1,0 +1,182 @@
+[
+ {
+  "file": "PTT-20231223-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.890767514705658,
+  "duration": 5.2178125,
+  "transcribed_at": "2026-07-23T23:52:14.084463+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " ¡Hola! Ahora salió de la veterinaria donde le dejé, le llevo a ustedes."
+   }
+  ],
+  "text": "¡Hola! Ahora salió de la veterinaria donde le dejé, le llevo a ustedes."
+ },
+ {
+  "file": "PTT-20250605-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.932317316532135,
+  "duration": 13.1978125,
+  "transcribed_at": "2026-07-24T05:05:23.840229+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Holis? ¿Será que pueden pasar más tarde?"
+   },
+   {
+    "start": 4.0,
+    "end": 8.0,
+    "text": " Hay un perro nuevo que apareció por la zona y le metí en casa"
+   },
+   {
+    "start": 9.0,
+    "end": 12.0,
+    "text": " y tiene unas bolitas para que le castren."
+   }
+  ],
+  "text": "¿Holis? ¿Será que pueden pasar más tarde? Hay un perro nuevo que apareció por la zona y le metí en casa y tiene unas bolitas para que le castren."
+ },
+ {
+  "file": "PTT-20250605-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.9513075351715088,
+  "duration": 21.1778125,
+  "transcribed_at": "2026-07-24T09:02:50.585576+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Después Jade está arreglando, pero parece que le está copiando uno más a Renny."
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " Y no sé..."
+   },
+   {
+    "start": 14.0,
+    "end": 16.0,
+    "text": " Pero hay un baño para Renny antes que me vaya."
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " Y capaz para que uno vuelva legalmente."
+   },
+   {
+    "start": 20.0,
+    "end": 21.0,
+    "text": " Perdón, perdón."
+   }
+  ],
+  "text": "Después Jade está arreglando, pero parece que le está copiando uno más a Renny. Y no sé... Pero hay un baño para Renny antes que me vaya. Y capaz para que uno vuelva legalmente. Perdón, perdón."
+ },
+ {
+  "file": "PTT-20250710-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.8774163126945496,
+  "duration": 37.3578125,
+  "transcribed_at": "2026-07-24T18:32:20.462155+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.1,
+    "text": " Está pasando un flag a chatGPT y ahora que reviví"
+   },
+   {
+    "start": 3.1,
+    "end": 5.6000000000000005,
+    "text": " O sea, estaba casi dormido cerrotón y ahora reviví"
+   },
+   {
+    "start": 5.6000000000000005,
+    "end": 8.4,
+    "text": " Y le pasé un flag al liao y me expliqué"
+   },
+   {
+    "start": 8.4,
+    "end": 10.4,
+    "text": " Los resultados de Michi"
+   },
+   {
+    "start": 10.4,
+    "end": 12.4,
+    "text": " Yeah"
+   },
+   {
+    "start": 12.4,
+    "end": 13.6,
+    "text": " Pero rexilio"
+   },
+   {
+    "start": 13.6,
+    "end": 17.1,
+    "text": " Hemos un flag de conseguir la casita entonces"
+   },
+   {
+    "start": 17.1,
+    "end": 20.6,
+    "text": " Any ideas, tips o no se de dónde le podemos dejar"
+   },
+   {
+    "start": 20.6,
+    "end": 23.1,
+    "text": " Slash todo eso mientras"
+   },
+   {
+    "start": 23.1,
+    "end": 25.1,
+    "text": " Por si acaso"
+   },
+   {
+    "start": 27.1,
+    "end": 29.1,
+    "text": " Si no, no se"
+   },
+   {
+    "start": 30.9,
+    "end": 32.9,
+    "text": " Ya ni idea"
+   },
+   {
+    "start": 34.9,
+    "end": 36.9,
+    "text": " Pero bueno, es la Michi, triste"
+   }
+  ],
+  "text": "Está pasando un flag a chatGPT y ahora que reviví O sea, estaba casi dormido cerrotón y ahora reviví Y le pasé un flag al liao y me expliqué Los resultados de Michi Yeah Pero rexilio Hemos un flag de conseguir la casita entonces Any ideas, tips o no se de dónde le podemos dejar Slash todo eso mientras Por si acaso Si no, no se Ya ni idea Pero bueno, es la Michi, triste"
+ },
+ {
+  "file": "PTT-20241224-WA0024.opus",
+  "language": "es",
+  "language_probability": 0.9380831718444824,
+  "duration": 35.6578125,
+  "transcribed_at": "2026-07-24T20:46:51.548347+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 19.0,
+    "text": " París, la chile esta parece, tipo durmiendo más todo el día, ayer si ya me he drogado, no tomo mucho agua pero le abriso a cada si le metí giringa de agua y tomo así, cuando le hice eso tipo tenía una cara de... después, pero..."
+   },
+   {
+    "start": 19.0,
+    "end": 29.0,
+    "text": " esta chile, necesito tomar agua y ahora si le levanto, osea, le levanto, le dejo un plafuera, se va a cagar, vea, come, toma un poco de agua y esta chile aca"
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " y le dejare otra vez encerrada dentro mas tarde"
+   },
+   {
+    "start": 33.0,
+    "end": 35.0,
+    "text": " pero le veo que..."
+   }
+  ],
+  "text": "París, la chile esta parece, tipo durmiendo más todo el día, ayer si ya me he drogado, no tomo mucho agua pero le abriso a cada si le metí giringa de agua y tomo así, cuando le hice eso tipo tenía una cara de... después, pero... esta chile, necesito tomar agua y ahora si le levanto, osea, le levanto, le dejo un plafuera, se va a cagar, vea, come, toma un poco de agua y esta chile aca y le dejare otra vez encerrada dentro mas tarde pero le veo que..."
+ }
+]

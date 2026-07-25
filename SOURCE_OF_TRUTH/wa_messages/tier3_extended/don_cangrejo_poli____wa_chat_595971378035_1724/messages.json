@@ -7505,7 +7505,7 @@
   }
  ],
  "__provisional_name": {
-  "name": "raff",
+  "name": "Don Cangrejo Poli",
   "confidence": "VCARD_GENERIC",
   "jid_user": "595971378035",
   "banner": "✅ vCard-confirmed (Ivan's own phonebook). Auto-renamed; rename is irreversible in this branch.",
@@ -7517,6 +7517,7 @@
    "biz": null,
    "email": null,
    "tag": "phonebook_import"
-  }
+  },
+  "source": "vcard-match-v2-2026-07-23"
  }
 }

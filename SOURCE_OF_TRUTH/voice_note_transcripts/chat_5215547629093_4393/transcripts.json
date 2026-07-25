@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20250825-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.9319743514060974,
+  "duration": 9.9378125,
+  "transcribed_at": "2026-07-24T02:06:20.830172+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " yo se va más tarde"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " ah esto me ha despertado a las seis"
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " para"
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " estar vivo si o si en las siete para el trabajo"
+   }
+  ],
+  "text": "yo se va más tarde ah esto me ha despertado a las seis para estar vivo si o si en las siete para el trabajo"
+ }
+]

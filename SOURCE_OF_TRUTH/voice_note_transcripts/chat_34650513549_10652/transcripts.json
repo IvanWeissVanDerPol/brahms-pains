@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20250624-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.5490365624427795,
+  "duration": 10.0135,
+  "transcribed_at": "2026-07-24T03:53:12.147576+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " La ley do bien porque pide que sea mujer y que reside en México, con lo cual no puede optar."
+   },
+   {
+    "start": 5.0,
+    "end": 10.0,
+    "text": " Si nos ayudas a compartir el canal de las vacantes con tus amistades y grupos tecnológicos, trogan."
+   }
+  ],
+  "text": "La ley do bien porque pide que sea mujer y que reside en México, con lo cual no puede optar. Si nos ayudas a compartir el canal de las vacantes con tus amistades y grupos tecnológicos, trogan."
+ }
+]

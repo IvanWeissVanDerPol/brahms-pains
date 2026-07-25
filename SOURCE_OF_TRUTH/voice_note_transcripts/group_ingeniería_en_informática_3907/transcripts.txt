@@ -1,0 +1,4 @@
+AUD-20250204-WA0030.opus | lang=es prob=0.967409610748291 dur=10.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.08] Hola, ¿qué tal? ¿podrías avisar a los chicos de ingeniería informática que ahora ya está
+[00:06.08 → 00:10.60] habilitado inteligencia artificial para cursar, para que se puedan inscribir?

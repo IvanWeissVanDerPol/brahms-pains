@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20260307-WA0000.opus",
+  "language": "en",
+  "language_probability": 0.9510273337364197,
+  "duration": 7.1378125,
+  "transcribed_at": "2026-07-24T00:19:19.383482+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Hello, it's the jobs, art job, the Chrome jobs running and working."
+   }
+  ],
+  "text": "Hello, it's the jobs, art job, the Chrome jobs running and working."
+ }
+]

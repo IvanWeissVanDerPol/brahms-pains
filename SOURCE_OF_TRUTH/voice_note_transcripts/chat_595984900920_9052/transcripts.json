@@ -1,0 +1,27 @@
+[
+ {
+  "file": "PTT-20240922-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.897869884967804,
+  "duration": 5.8178125,
+  "transcribed_at": "2026-07-24T00:23:30.841127+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Prendo un Flamie computadora ahora"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Ah, prendo un Flamie computadora"
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " y cabezón"
+   }
+  ],
+  "text": "Prendo un Flamie computadora ahora Ah, prendo un Flamie computadora y cabezón"
+ }
+]

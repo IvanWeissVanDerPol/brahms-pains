@@ -1,0 +1,37 @@
+[
+ {
+  "file": "PTT-20241111-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.9295033812522888,
+  "duration": 1.8935,
+  "transcribed_at": "2026-07-23T19:32:12.046549+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Entiendo y no sabría dónde puedo conseguir"
+   }
+  ],
+  "text": "Entiendo y no sabría dónde puedo conseguir"
+ },
+ {
+  "file": "PTT-20241111-WA0005.opus",
+  "language": "es",
+  "language_probability": 0.9213573932647705,
+  "duration": 8.3935,
+  "transcribed_at": "2026-07-24T02:23:31.204006+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.5,
+    "text": " ¿Qué tal? ¿Cómo estás? ¿No pasaron tus contactos?"
+   },
+   {
+    "start": 2.5,
+    "end": 8.0,
+    "text": " Estoy buscando los filamentos colores naranjas, este P1, o sea, lo que es goma para impresora 3D."
+   }
+  ],
+  "text": "¿Qué tal? ¿Cómo estás? ¿No pasaron tus contactos? Estoy buscando los filamentos colores naranjas, este P1, o sea, lo que es goma para impresora 3D."
+ }
+]

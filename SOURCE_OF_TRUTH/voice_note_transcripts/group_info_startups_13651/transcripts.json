@@ -1,0 +1,52 @@
+[
+ {
+  "file": "PTT-20260718-WA0113.opus",
+  "language": "es",
+  "language_probability": 0.9732581377029419,
+  "duration": 10.3935,
+  "transcribed_at": "2026-07-24T04:06:47.048151+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.84,
+    "text": " Yo no solo veo imposible que empaten sino que le van a meter cuatro más por ahí"
+   },
+   {
+    "start": 6.84,
+    "end": 10.16,
+    "text": " y siguen jugando así un asco esto es un asco"
+   }
+  ],
+  "text": "Yo no solo veo imposible que empaten sino que le van a meter cuatro más por ahí y siguen jugando así un asco esto es un asco"
+ },
+ {
+  "file": "PTT-20260718-WA0120.opus",
+  "language": "es",
+  "language_probability": 0.9687684774398804,
+  "duration": 18.6935,
+  "transcribed_at": "2026-07-24T09:25:46.099449+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.16,
+    "text": " Sí, increíble, el mejor partido del mundial. Casi se me paró el corazón, casi me bajó la"
+   },
+   {
+    "start": 6.16,
+    "end": 10.72,
+    "text": " presión, sentí que me moría y ni siquiera me importaba quién gane. Así que mañana"
+   },
+   {
+    "start": 10.72,
+    "end": 16.32,
+    "text": " vamos a ver si vuelvo, vamos a ver si llego, porque ahí sí se me va a parar el corazón"
+   },
+   {
+    "start": 16.32,
+    "end": 18.64,
+    "text": " en serio. Vamos a sufrir, vamos a sufrir."
+   }
+  ],
+  "text": "Sí, increíble, el mejor partido del mundial. Casi se me paró el corazón, casi me bajó la presión, sentí que me moría y ni siquiera me importaba quién gane. Así que mañana vamos a ver si vuelvo, vamos a ver si llego, porque ahí sí se me va a parar el corazón en serio. Vamos a sufrir, vamos a sufrir."
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "file": "PTT-20250829-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.8349992632865906,
+  "duration": 10.5178125,
+  "transcribed_at": "2026-07-24T04:12:13.527624+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Hola, es, osea, la gente no sabía cuáles todos los medicamentos eran."
+   },
+   {
+    "start": 5.0,
+    "end": 9.0,
+    "text": " Ahora sé que es ese, me estoy yendo al hospital a ver qué me pueden dar."
+   },
+   {
+    "start": 9.0,
+    "end": 11.0,
+    "text": " Te pica todo el cuerpo."
+   }
+  ],
+  "text": "Hola, es, osea, la gente no sabía cuáles todos los medicamentos eran. Ahora sé que es ese, me estoy yendo al hospital a ver qué me pueden dar. Te pica todo el cuerpo."
+ },
+ {
+  "file": "PTT-20250830-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.7948030233383179,
+  "duration": 54.6778125,
+  "transcribed_at": "2026-07-25T03:09:43.561411+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.5,
+    "text": " Ayer tomé tipo, oera, separados los médicos mentos y empecé a hacer las 7 con Cipro Flox de Astina."
+   },
+   {
+    "start": 11.0,
+    "end": 17.5,
+    "text": " Cuando las 8 y media, el único medico me tomé todavía y me empezaba a picar toda la piel."
+   },
+   {
+    "start": 18.0,
+    "end": 24.5,
+    "text": " Y me fui al hospital acá en México, me culiaron un flado y..."
+   },
+   {
+    "start": 25.5,
+    "end": 32.5,
+    "text": " Ya no se me dieron unas juntas cosas, me hicieron unas juntas scans, te puedo darte si te sirve un flado."
+   },
+   {
+    "start": 33.5,
+    "end": 42.5,
+    "text": " Pero solo tomé Cipro Flox de Astina y un rato después me empezó a picar todos, así es, como sé que me dio alergia."
+   },
+   {
+    "start": 43.5,
+    "end": 47.5,
+    "text": " Sabe a ver cómo estás y qué es lo que te dio alergia."
+   },
+   {
+    "start": 48.5,
+    "end": 53.5,
+    "text": " Y visité Cipro Flox de Astina, no sé, tomé una hora después me estaba ardiendo todo el cuerpo."
+   }
+  ],
+  "text": "Ayer tomé tipo, oera, separados los médicos mentos y empecé a hacer las 7 con Cipro Flox de Astina. Cuando las 8 y media, el único medico me tomé todavía y me empezaba a picar toda la piel. Y me fui al hospital acá en México, me culiaron un flado y... Ya no se me dieron unas juntas cosas, me hicieron unas juntas scans, te puedo darte si te sirve un flado. Pero solo tomé Cipro Flox de Astina y un rato después me empezó a picar todos, así es, como sé que me dio alergia. Sabe a ver cómo estás y qué es lo que te dio alergia. Y visité Cipro Flox de Astina, no sé, tomé una hora después me estaba ardiendo todo el cuerpo."
+ }
+]

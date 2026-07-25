@@ -1,0 +1,77 @@
+[
+ {
+  "file": "PTT-20240422-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.9616368412971497,
+  "duration": 25.9135,
+  "transcribed_at": "2026-07-24T14:18:08.414241+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.76,
+    "text": " Hola a todos, espero que estén super bien, nosotros ya nos encontramos en el hotel Guarani,"
+   },
+   {
+    "start": 5.76,
+    "end": 10.52,
+    "text": " por eso a todos aquellos que se anotaron para ser voluntarios esta tarde, les ruego por"
+   },
+   {
+    "start": 10.52,
+    "end": 16.6,
+    "text": " favor que cuanto antes puedan llegar mejor aún a llegar simplemente si tienen que anotar"
+   },
+   {
+    "start": 16.6,
+    "end": 23.64,
+    "text": " en la recepción, en la parte de registro y así ya tenemos anotados quienes estuvieron,"
+   },
+   {
+    "start": 23.64,
+    "end": 25.44,
+    "text": " así que les esperamos sí o sí."
+   }
+  ],
+  "text": "Hola a todos, espero que estén super bien, nosotros ya nos encontramos en el hotel Guarani, por eso a todos aquellos que se anotaron para ser voluntarios esta tarde, les ruego por favor que cuanto antes puedan llegar mejor aún a llegar simplemente si tienen que anotar en la recepción, en la parte de registro y así ya tenemos anotados quienes estuvieron, así que les esperamos sí o sí."
+ },
+ {
+  "file": "PTT-20240418-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.9413086771965027,
+  "duration": 28.1735,
+  "transcribed_at": "2026-07-24T15:45:26.856463+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Algo importante que pueden compartir y que ya me confirmaron la mayoría de las instituciones que están participando"
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " es que las instituciones van a estar ofreciendo para las ferias específicamente"
+   },
+   {
+    "start": 10.0,
+    "end": 14.0,
+    "text": " oportunidades de asistencia financieras, medias becas, regalos"
+   },
+   {
+    "start": 14.0,
+    "end": 18.0,
+    "text": " que se van a suertear como es tradición luego en las ferias también"
+   },
+   {
+    "start": 18.0,
+    "end": 22.0,
+    "text": " pero eso va a ser exclusivamente para la gente que esté en ese momento"
+   },
+   {
+    "start": 22.0,
+    "end": 27.0,
+    "text": " entonces eso también es un atractivo que puede ser importante de mencionar"
+   }
+  ],
+  "text": "Algo importante que pueden compartir y que ya me confirmaron la mayoría de las instituciones que están participando es que las instituciones van a estar ofreciendo para las ferias específicamente oportunidades de asistencia financieras, medias becas, regalos que se van a suertear como es tradición luego en las ferias también pero eso va a ser exclusivamente para la gente que esté en ese momento entonces eso también es un atractivo que puede ser importante de mencionar"
+ }
+]

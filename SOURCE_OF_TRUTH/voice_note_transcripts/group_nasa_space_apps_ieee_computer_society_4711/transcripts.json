@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20231008-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.8490594625473022,
+  "duration": 10.1935,
+  "transcribed_at": "2026-07-24T03:47:02.774191+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Y Discover Me A Storm no está disponible, punto verde está pura de la verdad."
+   }
+  ],
+  "text": "Y Discover Me A Storm no está disponible, punto verde está pura de la verdad."
+ },
+ {
+  "file": "PTT-20231008-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.952009379863739,
+  "duration": 24.2935,
+  "transcribed_at": "2026-07-24T12:49:58.593859+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 23.0,
+    "text": " Estoy haciendo todavía, pero eso es lo que le dije a Willy recién aquí, que podemos ya reservar un dominio y tipo meter un maje de link en cualquier momento si es que no termino lo que sea y después sigo editando, lo sigo desarrollando en la página."
+   }
+  ],
+  "text": "Estoy haciendo todavía, pero eso es lo que le dije a Willy recién aquí, que podemos ya reservar un dominio y tipo meter un maje de link en cualquier momento si es que no termino lo que sea y después sigo editando, lo sigo desarrollando en la página."
+ }
+]

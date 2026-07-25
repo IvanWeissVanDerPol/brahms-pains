@@ -1,0 +1,122 @@
+[
+ {
+  "file": "PTT-20260207-WA0036.opus",
+  "language": "fi",
+  "language_probability": 0.19734734296798706,
+  "duration": 3.8578125,
+  "transcribed_at": "2026-07-23T22:41:54.329820+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Ha! Ha! Ha!"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Aki no tiikis trikis!"
+   }
+  ],
+  "text": "Ha! Ha! Ha! Aki no tiikis trikis!"
+ },
+ {
+  "file": "PTT-20260202-WA0092.opus",
+  "language": "es",
+  "language_probability": 0.9555368423461914,
+  "duration": 5.9378125,
+  "transcribed_at": "2026-07-23T23:57:51.540652+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.5,
+    "text": " Lo más importante no es empeñar. Lo más importante es la familia."
+   }
+  ],
+  "text": "Lo más importante no es empeñar. Lo más importante es la familia."
+ },
+ {
+  "file": "PTT-20260207-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.2532711923122406,
+  "duration": 14.8578125,
+  "transcribed_at": "2026-07-24T05:14:43.193787+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.0,
+    "text": " Ahora está eso que yo me voy a tocar, a la tarde ya me voy a pegar el volto, te aviso."
+   },
+   {
+    "start": 9.0,
+    "end": 14.0,
+    "text": " El temprano ya está ahí, hinchándote."
+   }
+  ],
+  "text": "Ahora está eso que yo me voy a tocar, a la tarde ya me voy a pegar el volto, te aviso. El temprano ya está ahí, hinchándote."
+ },
+ {
+  "file": "PTT-20260207-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.8784919381141663,
+  "duration": 16.8978125,
+  "transcribed_at": "2026-07-24T05:47:59.432196+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " hola hola hola hola"
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " ahora me levanté, el proveedor me irá atrás"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " lembre"
+   },
+   {
+    "start": 10.0,
+    "end": 13.0,
+    "text": " para recuperar la energía para esta noche"
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " voy a explotar todo"
+   }
+  ],
+  "text": "hola hola hola hola ahora me levanté, el proveedor me irá atrás lembre para recuperar la energía para esta noche voy a explotar todo"
+ },
+ {
+  "file": "PTT-20260206-WA0033.opus",
+  "language": "nn",
+  "language_probability": 0.6231610774993896,
+  "duration": 22.3378125,
+  "transcribed_at": "2026-07-24T10:25:19.236718+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 23.88,
+    "text": " ᗃᗿᗿᗿ"
+   }
+  ],
+  "text": "ᗃᗿᗿᗿ"
+ },
+ {
+  "file": "PTT-20260125-WA0110.opus",
+  "language": "ko",
+  "language_probability": 0.3636814057826996,
+  "duration": 21.5578125,
+  "transcribed_at": "2026-07-24T10:53:40.653682+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 21.5,
+    "text": " 구독과 좋아요 부탁드려요!"
+   }
+  ],
+  "text": "구독과 좋아요 부탁드려요!"
+ }
+]

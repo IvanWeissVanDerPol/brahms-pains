@@ -1,0 +1,132 @@
+[
+ {
+  "file": "PTT-20260610-WA0040.opus",
+  "language": "es",
+  "language_probability": 0.9044893980026245,
+  "duration": 8.6135,
+  "transcribed_at": "2026-07-24T02:14:32.033861+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " O voy a decir que es al pedo de filtro tipo hace un zoom, no mames, ya está, ¿verdad?"
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " O tipo filtrar en lo que es feminicidio, acoso, abuso."
+   }
+  ],
+  "text": "O voy a decir que es al pedo de filtro tipo hace un zoom, no mames, ya está, ¿verdad? O tipo filtrar en lo que es feminicidio, acoso, abuso."
+ },
+ {
+  "file": "PTT-20260610-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.9668538570404053,
+  "duration": 16.3735,
+  "transcribed_at": "2026-07-24T06:47:55.278883+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " tipo a partir del mapa para abajo y me parece que está por bete, lo que veo que no está tampoco del filtro de los casos"
+   },
+   {
+    "start": 10.0,
+    "end": 16.0,
+    "text": " porque quizás algunas personas quieran ver más que nada de su país y que sé yo"
+   }
+  ],
+  "text": "tipo a partir del mapa para abajo y me parece que está por bete, lo que veo que no está tampoco del filtro de los casos porque quizás algunas personas quieran ver más que nada de su país y que sé yo"
+ },
+ {
+  "file": "PTT-20260610-WA0038.opus",
+  "language": "es",
+  "language_probability": 0.915070652961731,
+  "duration": 34.0535,
+  "transcribed_at": "2026-07-24T18:51:45.081643+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.68,
+    "text": " Olys, sí, vos sabes que vi la sugerencia de poner un hero, pero la verdad que yo quería que se centré en el mapa."
+   },
+   {
+    "start": 9.68,
+    "end": 18.48,
+    "text": " Tengo que ver y eso es lo primero que veas, quizás porque ya entras en la página y ya tenés una noción de qué es."
+   },
+   {
+    "start": 18.48,
+    "end": 25.36,
+    "text": " Y abajo suma el hero. O sea, si ves la última versión que hice, tiene el hero abajo."
+   },
+   {
+    "start": 25.36,
+    "end": 34.0,
+    "text": " Me gusta eso de los contadores, de cuantas cosas, de cuantas cositas tiene y así, está muy bueno."
+   }
+  ],
+  "text": "Olys, sí, vos sabes que vi la sugerencia de poner un hero, pero la verdad que yo quería que se centré en el mapa. Tengo que ver y eso es lo primero que veas, quizás porque ya entras en la página y ya tenés una noción de qué es. Y abajo suma el hero. O sea, si ves la última versión que hice, tiene el hero abajo. Me gusta eso de los contadores, de cuantas cosas, de cuantas cositas tiene y así, está muy bueno."
+ },
+ {
+  "file": "PTT-20260608-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.9132141470909119,
+  "duration": 36.2735,
+  "transcribed_at": "2026-07-24T21:22:51.158389+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 13.0,
+    "text": " El código es abierto, hice todo con Cloud Code y está subiendo github, verdad, o sea, todo el código en una página puedes encontrar hacia el final, por si querés, no sé, mirar."
+   },
+   {
+    "start": 13.0,
+    "end": 20.0,
+    "text": " Yo, la verdad que no, no es muy básico el HTML, pero con Cloud Code hice todo."
+   },
+   {
+    "start": 20.0,
+    "end": 35.0,
+    "text": " Y con SuperBase, para cargar las solicitudes de nuevos moderadores y otras cosas que no me acuerdo bien qué, y todo cargué en Vercel."
+   }
+  ],
+  "text": "El código es abierto, hice todo con Cloud Code y está subiendo github, verdad, o sea, todo el código en una página puedes encontrar hacia el final, por si querés, no sé, mirar. Yo, la verdad que no, no es muy básico el HTML, pero con Cloud Code hice todo. Y con SuperBase, para cargar las solicitudes de nuevos moderadores y otras cosas que no me acuerdo bien qué, y todo cargué en Vercel."
+ },
+ {
+  "file": "PTT-20260608-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.9062507152557373,
+  "duration": 39.5335,
+  "transcribed_at": "2026-07-24T22:57:23.859256+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.92,
+    "text": " Yo ya venía haciendo sitios web sin no-code, pero nada, con Cloud Code fui probando"
+   },
+   {
+    "start": 6.92,
+    "end": 16.2,
+    "text": " hacia algunas cosas, funcionalidades, y dale, en lo que puedas ayudar, siempre la ayuda"
+   },
+   {
+    "start": 16.2,
+    "end": 25.72,
+    "text": " había venido, o sea, yo hice eso hasta ahora, y nada, así que eso, si quieres escucharme"
+   },
+   {
+    "start": 25.72,
+    "end": 34.48,
+    "text": " al código, no sé si se puede compartir el proyecto de Cloud Code, así también, mira, y si con Next"
+   },
+   {
+    "start": 34.48,
+    "end": 38.16,
+    "text": " hice, con Next, de Superbase Iversal."
+   }
+  ],
+  "text": "Yo ya venía haciendo sitios web sin no-code, pero nada, con Cloud Code fui probando hacia algunas cosas, funcionalidades, y dale, en lo que puedas ayudar, siempre la ayuda había venido, o sea, yo hice eso hasta ahora, y nada, así que eso, si quieres escucharme al código, no sé si se puede compartir el proyecto de Cloud Code, así también, mira, y si con Next hice, con Next, de Superbase Iversal."
+ }
+]

@@ -1,0 +1,1337 @@
+[
+ {
+  "file": "PTT-20251025-WA0023.opus",
+  "language": "es",
+  "language_probability": 0.9026997089385986,
+  "duration": 2.5178125,
+  "transcribed_at": "2026-07-23T20:21:25.318701+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Está sobre mi cola."
+   }
+  ],
+  "text": "Está sobre mi cola."
+ },
+ {
+  "file": "PTT-20251025-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.7092441320419312,
+  "duration": 2.6378125,
+  "transcribed_at": "2026-07-23T20:33:00.024368+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿Qué tengo, lealmente?"
+   }
+  ],
+  "text": "¿Qué tengo, lealmente?"
+ },
+ {
+  "file": "PTT-20260424-WA0007.opus",
+  "language": "es",
+  "language_probability": 0.9216569066047668,
+  "duration": 3.0178125,
+  "transcribed_at": "2026-07-23T20:59:13.223409+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¡Luz! Ahora me va a quedar una ducha"
+   }
+  ],
+  "text": "¡Luz! Ahora me va a quedar una ducha"
+ },
+ {
+  "file": "PTT-20260123-WA0038.opus",
+  "language": "es",
+  "language_probability": 0.6880941390991211,
+  "duration": 3.1978125,
+  "transcribed_at": "2026-07-23T21:36:14.236895+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " La posse legalmente es muy..."
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Shimona"
+   }
+  ],
+  "text": "La posse legalmente es muy... Shimona"
+ },
+ {
+  "file": "PTT-20260424-WA0006.opus",
+  "language": "is",
+  "language_probability": 0.43623295426368713,
+  "duration": 3.4778125,
+  "transcribed_at": "2026-07-23T22:21:25.266223+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.68,
+    "text": " Það er á þá styrir Ígenður þessinn."
+   }
+  ],
+  "text": "Það er á þá styrir Ígenður þessinn."
+ },
+ {
+  "file": "PTT-20251005-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.840216338634491,
+  "duration": 3.5978125,
+  "transcribed_at": "2026-07-23T22:44:11.330286+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.6,
+    "text": " Todo sí puedo pedar sin tener que meter el micrófono."
+   }
+  ],
+  "text": "Todo sí puedo pedar sin tener que meter el micrófono."
+ },
+ {
+  "file": "PTT-20251204-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9823038578033447,
+  "duration": 3.9178125,
+  "transcribed_at": "2026-07-23T22:56:56.537353+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Está en sacrificio de sangre para el cuchillo, ahora siempre va a ser filoso."
+   }
+  ],
+  "text": "Está en sacrificio de sangre para el cuchillo, ahora siempre va a ser filoso."
+ },
+ {
+  "file": "PTT-20251005-WA0023.opus",
+  "language": "pt",
+  "language_probability": 0.8256680369377136,
+  "duration": 4.2778125,
+  "transcribed_at": "2026-07-23T22:59:52.996357+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.16,
+    "text": " Tô querendo fazer um internet fércita, nunca cheguei na casa"
+   }
+  ],
+  "text": "Tô querendo fazer um internet fércita, nunca cheguei na casa"
+ },
+ {
+  "file": "PTT-20251028-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.9565498232841492,
+  "duration": 4.3578125,
+  "transcribed_at": "2026-07-23T23:00:21.765922+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.16,
+    "text": " Medio, teso medio, mismo tu audio."
+   },
+   {
+    "start": 3.16,
+    "end": 3.66,
+    "text": " Amo."
+   }
+  ],
+  "text": "Medio, teso medio, mismo tu audio. Amo."
+ },
+ {
+  "file": "PTT-20260508-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.9422057867050171,
+  "duration": 4.2978125,
+  "transcribed_at": "2026-07-23T23:00:43.077650+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Salud y toja la goma."
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Un abrazo en mi parte."
+   }
+  ],
+  "text": "Salud y toja la goma. Un abrazo en mi parte."
+ },
+ {
+  "file": "PTT-20260123-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.7818311452865601,
+  "duration": 5.7778125,
+  "transcribed_at": "2026-07-24T00:15:46.059903+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 1.9000000000000001,
+    "text": " No entiendo cómo ser la cara que quieres."
+   },
+   {
+    "start": 2.0,
+    "end": 3.4,
+    "text": " ¡Me aburro!"
+   },
+   {
+    "start": 3.5,
+    "end": 5.5,
+    "text": " ¡Me estoy reyendo afla!"
+   }
+  ],
+  "text": "No entiendo cómo ser la cara que quieres. ¡Me aburro! ¡Me estoy reyendo afla!"
+ },
+ {
+  "file": "PTT-20251204-WA0033.opus",
+  "language": "es",
+  "language_probability": 0.9657435417175293,
+  "duration": 6.6378125,
+  "transcribed_at": "2026-07-24T00:49:25.379280+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.7600000000000002,
+    "text": " Este es mi cuchillo que traje ahora, lo debo más."
+   },
+   {
+    "start": 2.7600000000000002,
+    "end": 6.5600000000000005,
+    "text": " Y inauguré y también me corté el dedo, como puedas ver en esa imagen."
+   }
+  ],
+  "text": "Este es mi cuchillo que traje ahora, lo debo más. Y inauguré y también me corté el dedo, como puedas ver en esa imagen."
+ },
+ {
+  "file": "PTT-20260106-WA0036.opus",
+  "language": "es",
+  "language_probability": 0.9863613843917847,
+  "duration": 6.8978125,
+  "transcribed_at": "2026-07-24T01:06:22.399683+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.72,
+    "text": " ¿Cuál tina? No hay ninguna tina, no sé qué dije de tina, pero creo que no dije nada de tinas."
+   }
+  ],
+  "text": "¿Cuál tina? No hay ninguna tina, no sé qué dije de tina, pero creo que no dije nada de tinas."
+ },
+ {
+  "file": "PTT-20260106-WA0038.opus",
+  "language": "en",
+  "language_probability": 0.47139930725097656,
+  "duration": 7.4978125,
+  "transcribed_at": "2026-07-24T01:31:05.217261+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Damn! I hope it goes well with your date, then. I hope it's something."
+   }
+  ],
+  "text": "Damn! I hope it goes well with your date, then. I hope it's something."
+ },
+ {
+  "file": "PTT-20251216-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.7241528630256653,
+  "duration": 7.9578125,
+  "transcribed_at": "2026-07-24T01:35:05.260950+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Los... los patos son un amigo que tiene patos."
+   },
+   {
+    "start": 5.5,
+    "end": 6.5,
+    "text": " ¿Qué tal?"
+   }
+  ],
+  "text": "Los... los patos son un amigo que tiene patos. ¿Qué tal?"
+ },
+ {
+  "file": "PTT-20251204-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.9378695487976074,
+  "duration": 8.6178125,
+  "transcribed_at": "2026-07-24T01:50:59.802541+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.24,
+    "text": " ¡Hola!"
+   },
+   {
+    "start": 3.24,
+    "end": 5.2,
+    "text": " Prefiero cuchillos pro..."
+   },
+   {
+    "start": 5.2,
+    "end": 8.0,
+    "text": " ¡Prago, la prefiero cuchillos pro!"
+   }
+  ],
+  "text": "¡Hola! Prefiero cuchillos pro... ¡Prago, la prefiero cuchillos pro!"
+ },
+ {
+  "file": "PTT-20260329-WA0047.opus",
+  "language": "es",
+  "language_probability": 0.813969612121582,
+  "duration": 8.8178125,
+  "transcribed_at": "2026-07-24T02:36:10.045141+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ha ha ha ha ha ha ha"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " muy fanico le mando un short"
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " Form content a short person"
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " que se trata sobre short people"
+   }
+  ],
+  "text": "ha ha ha ha ha ha ha muy fanico le mando un short Form content a short person que se trata sobre short people"
+ },
+ {
+  "file": "PTT-20260123-WA0073.opus",
+  "language": "es",
+  "language_probability": 0.9740643501281738,
+  "duration": 11.0578125,
+  "transcribed_at": "2026-07-24T02:58:08.896391+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¡Cute!"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Jaja, amor"
+   },
+   {
+    "start": 4.0,
+    "end": 7.0,
+    "text": " Te deje ponerte y decirles pues"
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " ¡Aca está la leche!"
+   },
+   {
+    "start": 9.0,
+    "end": 11.0,
+    "text": " Y le haces así un buca que a todo el mundo"
+   }
+  ],
+  "text": "¡Cute! Jaja, amor Te deje ponerte y decirles pues ¡Aca está la leche! Y le haces así un buca que a todo el mundo"
+ },
+ {
+  "file": "PTT-20251028-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.9376832246780396,
+  "duration": 11.0178125,
+  "transcribed_at": "2026-07-24T03:47:56.985141+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Hola Iván, ¿qué tal?"
+   },
+   {
+    "start": 3.0,
+    "end": 6.0,
+    "text": " No va a ser nada, creo, pero..."
+   },
+   {
+    "start": 6.0,
+    "end": 11.0,
+    "text": " Igual estoy extraño y quiero hablarles."
+   }
+  ],
+  "text": "Hola Iván, ¿qué tal? No va a ser nada, creo, pero... Igual estoy extraño y quiero hablarles."
+ },
+ {
+  "file": "PTT-20251025-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.8865057826042175,
+  "duration": 11.2978125,
+  "transcribed_at": "2026-07-24T04:12:58.294686+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Voy a estar recién despierto ahora, o qué?"
+   },
+   {
+    "start": 3.0,
+    "end": 5.0,
+    "text": " ¿Qué te envuelo el Michi, por cierto?"
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " Y disfrutala, sexbo."
+   },
+   {
+    "start": 7.0,
+    "end": 8.0,
+    "text": " Have fun."
+   },
+   {
+    "start": 8.0,
+    "end": 11.0,
+    "text": " And I guess get fucked."
+   }
+  ],
+  "text": "¿Voy a estar recién despierto ahora, o qué? ¿Qué te envuelo el Michi, por cierto? Y disfrutala, sexbo. Have fun. And I guess get fucked."
+ },
+ {
+  "file": "PTT-20260329-WA0045.opus",
+  "language": "es",
+  "language_probability": 0.833452582359314,
+  "duration": 11.3178125,
+  "transcribed_at": "2026-07-24T04:35:42.681658+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¡Hola!"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Si quieres que vean genuinamente"
+   },
+   {
+    "start": 4.0,
+    "end": 7.0,
+    "text": " vas a tener que cargar y mandarme descargado"
+   },
+   {
+    "start": 7.0,
+    "end": 11.0,
+    "text": " porque yo no tengo plataformas de contenido corto"
+   }
+  ],
+  "text": "¡Hola! Si quieres que vean genuinamente vas a tener que cargar y mandarme descargado porque yo no tengo plataformas de contenido corto"
+ },
+ {
+  "file": "PTT-20251005-WA0059.opus",
+  "language": "es",
+  "language_probability": 0.8545613884925842,
+  "duration": 4.9535,
+  "transcribed_at": "2026-07-24T06:09:49.568480+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Qué me hiciste ver, Iván?"
+   }
+  ],
+  "text": "¿Qué me hiciste ver, Iván?"
+ },
+ {
+  "file": "PTT-20251025-WA0013.opus",
+  "language": "es",
+  "language_probability": 0.4679395258426666,
+  "duration": 17.1178125,
+  "transcribed_at": "2026-07-24T06:46:50.116884+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¡Ay, gris! ¿Qué tal?"
+   },
+   {
+    "start": 4.0,
+    "end": 5.0,
+    "text": " Se ha sido costado."
+   },
+   {
+    "start": 9.0,
+    "end": 10.0,
+    "text": " Se va a dormir la extra."
+   },
+   {
+    "start": 14.0,
+    "end": 16.0,
+    "text": " ¿Qué tiendas haciendo?"
+   }
+  ],
+  "text": "¡Ay, gris! ¿Qué tal? Se ha sido costado. Se va a dormir la extra. ¿Qué tiendas haciendo?"
+ },
+ {
+  "file": "PTT-20251229-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.9441232681274414,
+  "duration": 17.3578125,
+  "transcribed_at": "2026-07-24T07:12:50.547218+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.0,
+    "text": " Mandame el archivo, link, página, cosa, lo que sea, donde descargaste, prueba la PC y veo que onda."
+   },
+   {
+    "start": 13.0,
+    "end": 17.0,
+    "text": " Like le va a hacer la cosa más difícil para que te andes la cosa."
+   }
+  ],
+  "text": "Mandame el archivo, link, página, cosa, lo que sea, donde descargaste, prueba la PC y veo que onda. Like le va a hacer la cosa más difícil para que te andes la cosa."
+ },
+ {
+  "file": "PTT-20260106-WA0040.opus",
+  "language": "es",
+  "language_probability": 0.9502902030944824,
+  "duration": 15.7378125,
+  "transcribed_at": "2026-07-24T07:19:09.058723+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " No hay supers que tengan plantas de agua, la verdad. No es tan fácil robar plantas, la verdad."
+   },
+   {
+    "start": 8.0,
+    "end": 16.0,
+    "text": " Pensé en robárselo a personas que tienen pinceras con plantas, pero no one tiene pinceras con plantas."
+   }
+  ],
+  "text": "No hay supers que tengan plantas de agua, la verdad. No es tan fácil robar plantas, la verdad. Pensé en robárselo a personas que tienen pinceras con plantas, pero no one tiene pinceras con plantas."
+ },
+ {
+  "file": "PTT-20251229-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.9487254023551941,
+  "duration": 18.5778125,
+  "transcribed_at": "2026-07-24T07:35:49.058188+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " No sé cómo es de tu amigo, no sé qué es instalado, no sé de dónde descargo, cuál código de dónde sacó."
+   },
+   {
+    "start": 10.0,
+    "end": 18.0,
+    "text": " Si crees te puedo ver un flash de encuentro Ableton Code Key Security y lo que sea, pero unlike que eso le anda a cualquiera."
+   }
+  ],
+  "text": "No sé cómo es de tu amigo, no sé qué es instalado, no sé de dónde descargo, cuál código de dónde sacó. Si crees te puedo ver un flash de encuentro Ableton Code Key Security y lo que sea, pero unlike que eso le anda a cualquiera."
+ },
+ {
+  "file": "PTT-20251216-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.840270459651947,
+  "duration": 16.1978125,
+  "transcribed_at": "2026-07-24T07:48:33.934017+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Sí, pero no me terminaste de explicar, tipo, los patos son de tu amigo, están en la casa de tu amigo,"
+   },
+   {
+    "start": 6.0,
+    "end": 11.0,
+    "text": " tu amigo te mandó una foto, me mandaste una foto a mí, viste los patos y me mandaste una foto a mí,"
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " o adoptaste patos y tenes patos en tu patio."
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " Those are all my questions, honestly."
+   }
+  ],
+  "text": "Sí, pero no me terminaste de explicar, tipo, los patos son de tu amigo, están en la casa de tu amigo, tu amigo te mandó una foto, me mandaste una foto a mí, viste los patos y me mandaste una foto a mí, o adoptaste patos y tenes patos en tu patio. Those are all my questions, honestly."
+ },
+ {
+  "file": "PTT-20251204-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.9820898771286011,
+  "duration": 17.5178125,
+  "transcribed_at": "2026-07-24T07:55:56.563831+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hola Iván, ¿qué tal?"
+   },
+   {
+    "start": 3.0,
+    "end": 6.0,
+    "text": " Estoy volviendo a casa ayer, estaba dormida esa hora"
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " Se llamaste cuando estaba súper dormida"
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " ¡Tengo buenas noticias!"
+   },
+   {
+    "start": 15.0,
+    "end": 17.0,
+    "text": " ¡Buenas noticias, muy buenas noticias!"
+   }
+  ],
+  "text": "Hola Iván, ¿qué tal? Estoy volviendo a casa ayer, estaba dormida esa hora Se llamaste cuando estaba súper dormida ¡Tengo buenas noticias! ¡Buenas noticias, muy buenas noticias!"
+ },
+ {
+  "file": "PTT-20251025-WA0016.opus",
+  "language": "es",
+  "language_probability": 0.8789843916893005,
+  "duration": 18.4378125,
+  "transcribed_at": "2026-07-24T08:44:48.920961+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.92,
+    "text": " Sí realmente me voy a divertir ahora estoy con papá y con mamá y vamos a comer entre"
+   },
+   {
+    "start": 6.92,
+    "end": 13.72,
+    "text": " todos en la casa de blanca pues y voy a cocinar ahí y recién pasamos tipo a saludar la"
+   },
+   {
+    "start": 13.72,
+    "end": 17.68,
+    "text": " carne y entre los tres. ¿Qué tal en casa por cierto?"
+   }
+  ],
+  "text": "Sí realmente me voy a divertir ahora estoy con papá y con mamá y vamos a comer entre todos en la casa de blanca pues y voy a cocinar ahí y recién pasamos tipo a saludar la carne y entre los tres. ¿Qué tal en casa por cierto?"
+ },
+ {
+  "file": "PTT-20251025-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.868470311164856,
+  "duration": 20.9378125,
+  "transcribed_at": "2026-07-24T08:59:29.066878+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.52,
+    "text": " ¿Qué pasa? Yo no sé más manejar en Europa después de 20 años, debo aprender a manejar"
+   },
+   {
+    "start": 10.52,
+    "end": 20.28,
+    "text": " para white. Un abrazo. Sonrisa que te vas a ir a divertir con la tía."
+   }
+  ],
+  "text": "¿Qué pasa? Yo no sé más manejar en Europa después de 20 años, debo aprender a manejar para white. Un abrazo. Sonrisa que te vas a ir a divertir con la tía."
+ },
+ {
+  "file": "PTT-20251212-WA0043.opus",
+  "language": "es",
+  "language_probability": 0.7841055989265442,
+  "duration": 19.2178125,
+  "transcribed_at": "2026-07-24T09:27:58.041482+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Estoy, tipo, en la cocina, como asistente."
+   },
+   {
+    "start": 7.0,
+    "end": 12.0,
+    "text": " Ayúdame para preparar los platos."
+   },
+   {
+    "start": 12.0,
+    "end": 17.0,
+    "text": " Tenemos que anar a la parte fría, de donde se armanas en salada y salman platos."
+   },
+   {
+    "start": 17.0,
+    "end": 19.0,
+    "text": " Me gusta."
+   }
+  ],
+  "text": "Estoy, tipo, en la cocina, como asistente. Ayúdame para preparar los platos. Tenemos que anar a la parte fría, de donde se armanas en salada y salman platos. Me gusta."
+ },
+ {
+  "file": "PTT-20251229-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.7972636222839355,
+  "duration": 21.4978125,
+  "transcribed_at": "2026-07-24T10:00:23.596284+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.72,
+    "text": " me estoy counting out porque sé que no no me puedo explicar más bien así que"
+   },
+   {
+    "start": 5.72,
+    "end": 10.68,
+    "text": " don't worry si necesito algo, voy a intentarlo en otro momento pero I'm not"
+   },
+   {
+    "start": 10.68,
+    "end": 15.68,
+    "text": " gonna be helpful. Vos no me vas a entender, yo no me voy a poder explicar."
+   },
+   {
+    "start": 15.68,
+    "end": 23.0,
+    "text": " I'm sorry for waking you up, I was too excited, never mind, okay?"
+   }
+  ],
+  "text": "me estoy counting out porque sé que no no me puedo explicar más bien así que don't worry si necesito algo, voy a intentarlo en otro momento pero I'm not gonna be helpful. Vos no me vas a entender, yo no me voy a poder explicar. I'm sorry for waking you up, I was too excited, never mind, okay?"
+ },
+ {
+  "file": "PTT-20251204-WA0032.opus",
+  "language": "es",
+  "language_probability": 0.798848569393158,
+  "duration": 22.5978125,
+  "transcribed_at": "2026-07-24T10:04:52.361197+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Qué pasó?"
+   },
+   {
+    "start": 3.0,
+    "end": 6.0,
+    "text": " ¿Qué con noticias?"
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " ¿Qué con noticias?"
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " El cuchillo realmente, creo que compras lo más reciente a mano"
+   },
+   {
+    "start": 12.0,
+    "end": 15.0,
+    "text": " y compramos un buen enfilador."
+   },
+   {
+    "start": 15.0,
+    "end": 18.0,
+    "text": " Entonces tenías todo el jochillo de su perfil."
+   },
+   {
+    "start": 18.0,
+    "end": 21.0,
+    "text": " Llega hasta el final el excel que te mandé."
+   },
+   {
+    "start": 21.0,
+    "end": 23.0,
+    "text": " Hay unas cuantas gigas."
+   }
+  ],
+  "text": "¿Qué pasó? ¿Qué con noticias? ¿Qué con noticias? El cuchillo realmente, creo que compras lo más reciente a mano y compramos un buen enfilador. Entonces tenías todo el jochillo de su perfil. Llega hasta el final el excel que te mandé. Hay unas cuantas gigas."
+ },
+ {
+  "file": "PTT-20260106-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9311894178390503,
+  "duration": 20.4178125,
+  "transcribed_at": "2026-07-24T10:17:17.766398+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.84,
+    "text": " Tengo que limpiar, ayer estaba armando mi pesera y dejé demasiado sucia el baño"
+   },
+   {
+    "start": 9.84,
+    "end": 13.8,
+    "text": " porque estaba en el baño haciéndolo de la pesera, entonces tengo que ordenar el baño"
+   },
+   {
+    "start": 13.8,
+    "end": 18.8,
+    "text": " y vací el lavaplatos pero no guardé todos los platos, tengo que guardar todos los platos."
+   },
+   {
+    "start": 18.8,
+    "end": 20.3,
+    "text": " That type shit."
+   }
+  ],
+  "text": "Tengo que limpiar, ayer estaba armando mi pesera y dejé demasiado sucia el baño porque estaba en el baño haciéndolo de la pesera, entonces tengo que ordenar el baño y vací el lavaplatos pero no guardé todos los platos, tengo que guardar todos los platos. That type shit."
+ },
+ {
+  "file": "PTT-20251012-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9260047674179077,
+  "duration": 24.8378125,
+  "transcribed_at": "2026-07-24T12:22:15.895208+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 23.0,
+    "text": " Yo me acabo de decir que te sos un don Juan y que tipo, cuando era chiquito, le pedías matrimonio a todas las señoras, a su profesora y a Oma y a alguien la seguí más y ya acabo de decir que tipo no tenés suficiente con una y yo me caía la risa."
+   }
+  ],
+  "text": "Yo me acabo de decir que te sos un don Juan y que tipo, cuando era chiquito, le pedías matrimonio a todas las señoras, a su profesora y a Oma y a alguien la seguí más y ya acabo de decir que tipo no tenés suficiente con una y yo me caía la risa."
+ },
+ {
+  "file": "PTT-20251204-WA0023.opus",
+  "language": "es",
+  "language_probability": 0.9316275119781494,
+  "duration": 24.3578125,
+  "transcribed_at": "2026-07-24T12:31:30.970315+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.36,
+    "text": " pero fraola un set de cuchillos no me quejo puedo llevar en todos lados y cocinar rico"
+   },
+   {
+    "start": 7.36,
+    "end": 10.84,
+    "text": " donde sea porque fraola no todo el mundo tiene cuchillos buenos"
+   },
+   {
+    "start": 10.84,
+    "end": 16.84,
+    "text": " and I fucking hate that hoy mismo estoy llevando un cuchillo que yo compre de"
+   },
+   {
+    "start": 16.84,
+    "end": 21.5,
+    "text": " segunda mano a lo de oba porque como no tiene ningún cuchillo grande y ver a"
+   },
+   {
+    "start": 21.5,
+    "end": 26.16,
+    "text": " llevar y dejar en su casa si puedo usar cuando cocino ahí"
+   }
+  ],
+  "text": "pero fraola un set de cuchillos no me quejo puedo llevar en todos lados y cocinar rico donde sea porque fraola no todo el mundo tiene cuchillos buenos and I fucking hate that hoy mismo estoy llevando un cuchillo que yo compre de segunda mano a lo de oba porque como no tiene ningún cuchillo grande y ver a llevar y dejar en su casa si puedo usar cuando cocino ahí"
+ },
+ {
+  "file": "PTT-20260202-WA0007.opus",
+  "language": "es",
+  "language_probability": 0.633847177028656,
+  "duration": 39.1578125,
+  "transcribed_at": "2026-07-24T12:39:34.004339+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 23.88,
+    "text": " pero si tanto se manda, ajá, mi chino de amoras, que pesado, pero es real, está muy"
+   },
+   {
+    "start": 23.88,
+    "end": 33.879999999999995,
+    "text": " muy extraño, mucha gente purete, lo siento, y de muchos minutos, y todos, y son tan softy"
+   },
+   {
+    "start": 33.879999999999995,
+    "end": 35.879999999999995,
+    "text": " bueno y fascín, me encantó."
+   }
+  ],
+  "text": "pero si tanto se manda, ajá, mi chino de amoras, que pesado, pero es real, está muy muy extraño, mucha gente purete, lo siento, y de muchos minutos, y todos, y son tan softy bueno y fascín, me encantó."
+ },
+ {
+  "file": "PTT-20251227-WA0005.opus",
+  "language": "es",
+  "language_probability": 0.6622589826583862,
+  "duration": 25.1978125,
+  "transcribed_at": "2026-07-24T13:08:08.923755+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " A veces hay cosas que son tan simples y lógicas"
+   },
+   {
+    "start": 6.0,
+    "end": 9.0,
+    "text": " y las personas no hacen esto simple y lógico"
+   },
+   {
+    "start": 9.0,
+    "end": 12.0,
+    "text": " y te dices que no lo haces simple y lógico"
+   },
+   {
+    "start": 12.0,
+    "end": 15.0,
+    "text": " y te dices que no lo haces"
+   },
+   {
+    "start": 15.0,
+    "end": 17.0,
+    "text": " y se pasa siempre en casa"
+   },
+   {
+    "start": 17.0,
+    "end": 21.0,
+    "text": " pero creo que las pedí que guarden en mi pieza, en la parte de arriba"
+   },
+   {
+    "start": 21.0,
+    "end": 25.0,
+    "text": " y creo que es bueno si lo ponen ahí"
+   }
+  ],
+  "text": "A veces hay cosas que son tan simples y lógicas y las personas no hacen esto simple y lógico y te dices que no lo haces simple y lógico y te dices que no lo haces y se pasa siempre en casa pero creo que las pedí que guarden en mi pieza, en la parte de arriba y creo que es bueno si lo ponen ahí"
+ },
+ {
+  "file": "PTT-20260512-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.9083603620529175,
+  "duration": 29.5178125,
+  "transcribed_at": "2026-07-24T13:38:13.535042+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Hola Iván, yo me fui a Irlanda, me paso y ahora me estoy yendo a Italia"
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " y me fui a Irlanda a conocerle a un amigo"
+   },
+   {
+    "start": 10.0,
+    "end": 15.0,
+    "text": " y ahora me estoy yendo a Italia a pasar el resto de la semana con Fabri"
+   },
+   {
+    "start": 15.0,
+    "end": 22.0,
+    "text": " hasta el 17, estoy super feliz, super contenta, Irlanda es hermoso"
+   },
+   {
+    "start": 22.0,
+    "end": 29.0,
+    "text": " Irlanda es una belleza de lugar realmente incomparable"
+   }
+  ],
+  "text": "Hola Iván, yo me fui a Irlanda, me paso y ahora me estoy yendo a Italia y me fui a Irlanda a conocerle a un amigo y ahora me estoy yendo a Italia a pasar el resto de la semana con Fabri hasta el 17, estoy super feliz, super contenta, Irlanda es hermoso Irlanda es una belleza de lugar realmente incomparable"
+ },
+ {
+  "file": "PTT-20260106-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9461659789085388,
+  "duration": 26.9778125,
+  "transcribed_at": "2026-07-24T14:09:07.866721+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 13.0,
+    "text": " ¿Qué tal? Yo estoy súper bien, ya salí antes de trabajo y estoy en casa, chilling, tipo, nada, tipo voy a ordenar las cosas que dejé desordenadas y le voy a hacer su regalo a Oma."
+   },
+   {
+    "start": 13.0,
+    "end": 21.0,
+    "text": " Me ha pasado mañana el cumple de Oma y no sé realmente todavía qué regalarle, pero creo que le voy a escribir una carta y hacer algo lindo."
+   },
+   {
+    "start": 21.0,
+    "end": 26.0,
+    "text": " Pero ya estaba lo más escribiendo, check up on you also."
+   }
+  ],
+  "text": "¿Qué tal? Yo estoy súper bien, ya salí antes de trabajo y estoy en casa, chilling, tipo, nada, tipo voy a ordenar las cosas que dejé desordenadas y le voy a hacer su regalo a Oma. Me ha pasado mañana el cumple de Oma y no sé realmente todavía qué regalarle, pero creo que le voy a escribir una carta y hacer algo lindo. Pero ya estaba lo más escribiendo, check up on you also."
+ },
+ {
+  "file": "PTT-20251025-WA0014.opus",
+  "language": "es",
+  "language_probability": 0.938670814037323,
+  "duration": 27.2178125,
+  "transcribed_at": "2026-07-24T14:36:40.555829+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " ahora estamos yendo entre los tres a cocinar en la casa de blanca, tipo yo voy a cocinar la casa de blanca"
+   },
+   {
+    "start": 6.0,
+    "end": 20.240000000000002,
+    "text": " mejor dicho, y voy a hacer un menú de tres comidas y voy a cocinar así para nueve, pero sí,"
+   },
+   {
+    "start": 20.240000000000002,
+    "end": 26.560000000000002,
+    "text": " muy yendo y herérea y que lombo así, tipo estar atento al tráfico dolando y herérea."
+   }
+  ],
+  "text": "ahora estamos yendo entre los tres a cocinar en la casa de blanca, tipo yo voy a cocinar la casa de blanca mejor dicho, y voy a hacer un menú de tres comidas y voy a cocinar así para nueve, pero sí, muy yendo y herérea y que lombo así, tipo estar atento al tráfico dolando y herérea."
+ },
+ {
+  "file": "PTT-20251212-WA0044.opus",
+  "language": "es",
+  "language_probability": 0.9263155460357666,
+  "duration": 29.2778125,
+  "transcribed_at": "2026-07-24T15:57:01.344030+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Bien, ahí está el fan legalmente, el chef me prestó su cuchillo y es un cuchillo muy lindo"
+   },
+   {
+    "start": 8.0,
+    "end": 16.0,
+    "text": " y ahora sé que buscar cuando vaya a estar buscando mi cuchillo, para que sea mi cuchillo"
+   },
+   {
+    "start": 16.0,
+    "end": 22.0,
+    "text": " y nada tipo es un cuchillo japonés el que tiene, es muy lindo, muy bueno"
+   },
+   {
+    "start": 22.0,
+    "end": 26.0,
+    "text": " y me da ganas de conseguir hacer un cuchillo bueno para mí"
+   },
+   {
+    "start": 26.0,
+    "end": 29.0,
+    "text": " y de conseguir también un cuchillo bueno para Salva"
+   }
+  ],
+  "text": "Bien, ahí está el fan legalmente, el chef me prestó su cuchillo y es un cuchillo muy lindo y ahora sé que buscar cuando vaya a estar buscando mi cuchillo, para que sea mi cuchillo y nada tipo es un cuchillo japonés el que tiene, es muy lindo, muy bueno y me da ganas de conseguir hacer un cuchillo bueno para mí y de conseguir también un cuchillo bueno para Salva"
+ },
+ {
+  "file": "PTT-20251229-WA0014.opus",
+  "language": "es",
+  "language_probability": 0.8852090835571289,
+  "duration": 33.9578125,
+  "transcribed_at": "2026-07-24T16:46:31.903525+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " Mirá, Madude. No me estás mandando una imagen donde tu programa ya está instalado y tenés un step-by-step guide de que tenés que hacer para instalar tu programa."
+   },
+   {
+    "start": 11.0,
+    "end": 18.0,
+    "text": " En el screenshot no me explica qué hice tenés, por qué no te andas, por qué no te andaría."
+   },
+   {
+    "start": 19.0,
+    "end": 22.0,
+    "text": " Me estás diciendo, por qué no me..."
+   },
+   {
+    "start": 22.0,
+    "end": 28.0,
+    "text": " ¿Cómo instalo este programa? Me mandás una foto del programa ya instalado con un paso-paso de cómo instalar."
+   },
+   {
+    "start": 30.0,
+    "end": 34.0,
+    "text": " No veo qué puedo hacer para ayudar ahí, no veo cuál es el hecho."
+   }
+  ],
+  "text": "Mirá, Madude. No me estás mandando una imagen donde tu programa ya está instalado y tenés un step-by-step guide de que tenés que hacer para instalar tu programa. En el screenshot no me explica qué hice tenés, por qué no te andas, por qué no te andaría. Me estás diciendo, por qué no me... ¿Cómo instalo este programa? Me mandás una foto del programa ya instalado con un paso-paso de cómo instalar. No veo qué puedo hacer para ayudar ahí, no veo cuál es el hecho."
+ },
+ {
+  "file": "PTT-20251229-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.8900054097175598,
+  "duration": 36.0778125,
+  "transcribed_at": "2026-07-24T17:20:33.090525+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 18.0,
+    "text": " I don't mind probar un Flamie PC a ver cómo se instala y probar y ver qué onda, pero no puedo llevarte mucho sin any context."
+   },
+   {
+    "start": 18.0,
+    "end": 28.0,
+    "text": " Mi context ahora mismo es, ¿dejargaste de alguna parte el cozo? No te anda bien y tenes un step by step guide que sigue, pero..."
+   },
+   {
+    "start": 29.0,
+    "end": 31.0,
+    "text": " ...samjao algo no te anda."
+   },
+   {
+    "start": 33.0,
+    "end": 36.0,
+    "text": " Tiremos el link en playboy que no ni pensé."
+   }
+  ],
+  "text": "I don't mind probar un Flamie PC a ver cómo se instala y probar y ver qué onda, pero no puedo llevarte mucho sin any context. Mi context ahora mismo es, ¿dejargaste de alguna parte el cozo? No te anda bien y tenes un step by step guide que sigue, pero... ...samjao algo no te anda. Tiremos el link en playboy que no ni pensé."
+ },
+ {
+  "file": "PTT-20251028-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.6148412227630615,
+  "duration": 49.0778125,
+  "transcribed_at": "2026-07-24T19:20:51.954987+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Me agobro sus..."
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " Les dueño realmente."
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " Me agobro estos."
+   },
+   {
+    "start": 19.0,
+    "end": 22.0,
+    "text": " Aquí hago un buen rasgueo, no nos vemos."
+   },
+   {
+    "start": 31.0,
+    "end": 33.0,
+    "text": " Un repensamiento."
+   },
+   {
+    "start": 35.0,
+    "end": 38.0,
+    "text": " Los rasgueos son geniales."
+   },
+   {
+    "start": 40.0,
+    "end": 42.0,
+    "text": " Me encantó."
+   },
+   {
+    "start": 43.0,
+    "end": 45.0,
+    "text": " Me aprecio haciendo mémitos."
+   },
+   {
+    "start": 46.0,
+    "end": 48.0,
+    "text": " Un beso."
+   }
+  ],
+  "text": "Me agobro sus... Les dueño realmente. Me agobro estos. Aquí hago un buen rasgueo, no nos vemos. Un repensamiento. Los rasgueos son geniales. Me encantó. Me aprecio haciendo mémitos. Un beso."
+ },
+ {
+  "file": "PTT-20251227-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.9435523748397827,
+  "duration": 35.0378125,
+  "transcribed_at": "2026-07-24T20:11:56.063172+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.8,
+    "text": " Si es que encuentro acá, o consigo dar una otra forma, otra cafetera mejor o algo así,"
+   },
+   {
+    "start": 7.8,
+    "end": 15.76,
+    "text": " te vendo por el precio que compré, que era un millón 369, algo creo, pero por ahí"
+   },
+   {
+    "start": 15.76,
+    "end": 20.32,
+    "text": " no más ya estaba, era un millón o más, no, no, no, porque originalmente costa 3 millones"
+   },
+   {
+    "start": 20.32,
+    "end": 29.400000000000002,
+    "text": " pues, y yo compré con descuento de febrero, cuando eso, pero si no es muy linda, es"
+   },
+   {
+    "start": 29.400000000000002,
+    "end": 34.92,
+    "text": " muy buena, funciona muy bien, y prefiero que esté guardado hasta que yo vuelva."
+   }
+  ],
+  "text": "Si es que encuentro acá, o consigo dar una otra forma, otra cafetera mejor o algo así, te vendo por el precio que compré, que era un millón 369, algo creo, pero por ahí no más ya estaba, era un millón o más, no, no, no, porque originalmente costa 3 millones pues, y yo compré con descuento de febrero, cuando eso, pero si no es muy linda, es muy buena, funciona muy bien, y prefiero que esté guardado hasta que yo vuelva."
+ },
+ {
+  "file": "PTT-20251025-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.8072781562805176,
+  "duration": 41.0378125,
+  "transcribed_at": "2026-07-24T21:49:30.502301+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " Chil, no sabría que tal están los vanas de banca, pero me parece que están chiles, y acá en casa Chil también chile everywhere."
+   },
+   {
+    "start": 13.0,
+    "end": 18.0,
+    "text": " Si él le diste a mi chile aquí, pero está chile, le enseño a mí."
+   },
+   {
+    "start": 19.0,
+    "end": 22.0,
+    "text": " Es chisteo que le quiere más a mi cailla."
+   },
+   {
+    "start": 23.0,
+    "end": 27.0,
+    "text": " Lo relaxa."
+   },
+   {
+    "start": 28.0,
+    "end": 30.0,
+    "text": " Más tarde no vamos al asespo."
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " Eso me va a ir a conducir eso."
+   },
+   {
+    "start": 37.0,
+    "end": 41.0,
+    "text": " Y los desgaseos van a ir mañana a Ciudad del Este, creo."
+   }
+  ],
+  "text": "Chil, no sabría que tal están los vanas de banca, pero me parece que están chiles, y acá en casa Chil también chile everywhere. Si él le diste a mi chile aquí, pero está chile, le enseño a mí. Es chisteo que le quiere más a mi cailla. Lo relaxa. Más tarde no vamos al asespo. Eso me va a ir a conducir eso. Y los desgaseos van a ir mañana a Ciudad del Este, creo."
+ },
+ {
+  "file": "PTT-20251229-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.9790669083595276,
+  "duration": 41.3378125,
+  "transcribed_at": "2026-07-24T23:50:28.728133+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Ese es el step by step que asumo que se va nomás con el programa original."
+   },
+   {
+    "start": 8.0,
+    "end": 14.0,
+    "text": " Voy a tratar de encontrar los videos que usé para llegarme hasta este punto a ver si que ahí continúo."
+   },
+   {
+    "start": 14.0,
+    "end": 21.0,
+    "text": " Pero yo recuerdo que acá lo que yo necesito es como que el link o la llave o la contraseña del crack."
+   },
+   {
+    "start": 21.0,
+    "end": 26.0,
+    "text": " Porque este lo que me manda es como el Adobe Premiere que te manda después a"
+   },
+   {
+    "start": 26.0,
+    "end": 29.0,
+    "text": " crearte una cuenta Adobe Premiere y accede con tu código."
+   },
+   {
+    "start": 29.0,
+    "end": 31.0,
+    "text": " Y yo no tengo eso y no quiero tener nada de eso."
+   },
+   {
+    "start": 31.0,
+    "end": 35.0,
+    "text": " Entonces no sé cómo explicarme."
+   },
+   {
+    "start": 35.0,
+    "end": 39.0,
+    "text": " Entonces nada sirve que te pida ayuda porque no me voy a poder explicar bien como para que vos me puedas ayudar a mí."
+   },
+   {
+    "start": 39.0,
+    "end": 41.0,
+    "text": " Así que voy a tratar de solucionar sola."
+   }
+  ],
+  "text": "Ese es el step by step que asumo que se va nomás con el programa original. Voy a tratar de encontrar los videos que usé para llegarme hasta este punto a ver si que ahí continúo. Pero yo recuerdo que acá lo que yo necesito es como que el link o la llave o la contraseña del crack. Porque este lo que me manda es como el Adobe Premiere que te manda después a crearte una cuenta Adobe Premiere y accede con tu código. Y yo no tengo eso y no quiero tener nada de eso. Entonces no sé cómo explicarme. Entonces nada sirve que te pida ayuda porque no me voy a poder explicar bien como para que vos me puedas ayudar a mí. Así que voy a tratar de solucionar sola."
+ },
+ {
+  "file": "PTT-20251212-WA0050.opus",
+  "language": "es",
+  "language_probability": 0.8233435750007629,
+  "duration": 47.6778125,
+  "transcribed_at": "2026-07-25T02:25:23.756148+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.84,
+    "text": " Yo creo que quisiera tener un termómetro, quiero conseguir un cuchillo pro pero"
+   },
+   {
+    "start": 9.84,
+    "end": 19.72,
+    "text": " yo creo que eres tan estimada de cuánto cuchillo pro es, porque tipo son caros los cuchillos buenos,"
+   },
+   {
+    "start": 19.72,
+    "end": 25.560000000000002,
+    "text": " pero quiero encontrar así algo que me guste a mí y eso y después tipo poner eso mi wishlist,"
+   },
+   {
+    "start": 25.720000000000002,
+    "end": 31.880000000000003,
+    "text": " pero quiero conseguir yo tal vez el cuchillo, pero para filar yo requiero un afilador para poder"
+   },
+   {
+    "start": 31.880000000000003,
+    "end": 36.040000000000006,
+    "text": " afilar en caso de los cuchillos y poder afilar mejor el cuchillo de oma, tengo un cuchillo en"
+   },
+   {
+    "start": 36.040000000000006,
+    "end": 42.160000000000004,
+    "text": " lo oma pero no conseguí afilar del todo entonces estaba todavía medio me y el estuche para mis"
+   },
+   {
+    "start": 42.160000000000004,
+    "end": 47.28,
+    "text": " cuchillos posiblemente haga yo con tela reciclada así que tipo, that one is also ok"
+   }
+  ],
+  "text": "Yo creo que quisiera tener un termómetro, quiero conseguir un cuchillo pro pero yo creo que eres tan estimada de cuánto cuchillo pro es, porque tipo son caros los cuchillos buenos, pero quiero encontrar así algo que me guste a mí y eso y después tipo poner eso mi wishlist, pero quiero conseguir yo tal vez el cuchillo, pero para filar yo requiero un afilador para poder afilar en caso de los cuchillos y poder afilar mejor el cuchillo de oma, tengo un cuchillo en lo oma pero no conseguí afilar del todo entonces estaba todavía medio me y el estuche para mis cuchillos posiblemente haga yo con tela reciclada así que tipo, that one is also ok"
+ }
+]

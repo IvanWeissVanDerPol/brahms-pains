@@ -1,0 +1,82 @@
+[
+ {
+  "file": "PTT-20231208-WA0000.opus",
+  "language": "es",
+  "language_probability": 0.8979936838150024,
+  "duration": 17.3535,
+  "transcribed_at": "2026-07-24T07:12:32.893576+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.84,
+    "text": " y van a que ya te puse todo el coso de la leña o sea la rama como para quemar y"
+   },
+   {
+    "start": 11.84,
+    "end": 17.92,
+    "text": " entonces hay que algunos os compro yo también y me quedé sin bolsa"
+   }
+  ],
+  "text": "y van a que ya te puse todo el coso de la leña o sea la rama como para quemar y entonces hay que algunos os compro yo también y me quedé sin bolsa"
+ },
+ {
+  "file": "PTT-20250910-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.8347073793411255,
+  "duration": 23.0378125,
+  "transcribed_at": "2026-07-24T10:45:42.548895+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿Qué tal? ¿Qué tal?"
+   },
+   {
+    "start": 2.0,
+    "end": 3.0,
+    "text": " ¿Qué tal?"
+   },
+   {
+    "start": 3.0,
+    "end": 8.0,
+    "text": " Sí, estoy morderando ayer tu... tu house"
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " y nos encontramos unas impresoras"
+   },
+   {
+    "start": 12.0,
+    "end": 18.0,
+    "text": " O sea, por si acaso vos, o sea, tienes algún fa ya o algo por ahí"
+   },
+   {
+    "start": 18.0,
+    "end": 23.0,
+    "text": " y por ahí no vas a usar para venderme"
+   }
+  ],
+  "text": "¿Qué tal? ¿Qué tal? ¿Qué tal? Sí, estoy morderando ayer tu... tu house y nos encontramos unas impresoras O sea, por si acaso vos, o sea, tienes algún fa ya o algo por ahí y por ahí no vas a usar para venderme"
+ },
+ {
+  "file": "PTT-20231015-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.7539820075035095,
+  "duration": 26.8335,
+  "transcribed_at": "2026-07-24T11:50:14.454012+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 16.0,
+    "text": " Hola Iván, recién me desperté, no sé si vas a estar, no me olvidé también de avisarte ayer así,"
+   },
+   {
+    "start": 16.0,
+    "end": 27.0,
+    "text": " para que me avise también si vas a estar hoy o no, cuando pueden avísame, así para ir a terminar esa parte."
+   }
+  ],
+  "text": "Hola Iván, recién me desperté, no sé si vas a estar, no me olvidé también de avisarte ayer así, para que me avise también si vas a estar hoy o no, cuando pueden avísame, así para ir a terminar esa parte."
+ }
+]

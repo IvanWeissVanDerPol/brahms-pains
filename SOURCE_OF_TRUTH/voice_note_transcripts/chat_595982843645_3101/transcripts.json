@@ -1,0 +1,782 @@
+[
+ {
+  "file": "PTT-20250528-WA0012.opus",
+  "language": "ru",
+  "language_probability": 0.3083580434322357,
+  "duration": 1.1978125,
+  "transcribed_at": "2026-07-23T18:54:19.083235+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Охренеть!"
+   }
+  ],
+  "text": "Охренеть!"
+ },
+ {
+  "file": "PTT-20240511-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.959649920463562,
+  "duration": 1.9578125,
+  "transcribed_at": "2026-07-23T19:39:27.307095+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Estoy en un kiosk."
+   }
+  ],
+  "text": "Estoy en un kiosk."
+ },
+ {
+  "file": "PTT-20231210-WA0021.opus",
+  "language": "ru",
+  "language_probability": 0.2689288258552551,
+  "duration": 2.2178125,
+  "transcribed_at": "2026-07-23T20:02:29.891524+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Я тоже"
+   }
+  ],
+  "text": "Я тоже"
+ },
+ {
+  "file": "PTT-20250104-WA0000.opus",
+  "language": "es",
+  "language_probability": 0.8229855895042419,
+  "duration": 2.7135,
+  "transcribed_at": "2026-07-23T20:49:13.755475+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.68,
+    "text": " Hay algo para llevar, sabes lo, una mochila o algo."
+   }
+  ],
+  "text": "Hay algo para llevar, sabes lo, una mochila o algo."
+ },
+ {
+  "file": "PTT-20250528-WA0013.opus",
+  "language": "es",
+  "language_probability": 0.9315987825393677,
+  "duration": 3.7378125,
+  "transcribed_at": "2026-07-23T22:50:36.038735+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.5,
+    "text": " Estoy en un guía de color blanco medio gris."
+   }
+  ],
+  "text": "Estoy en un guía de color blanco medio gris."
+ },
+ {
+  "file": "PTT-20250528-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.7765006422996521,
+  "duration": 3.8378125,
+  "transcribed_at": "2026-07-23T22:52:26.222625+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.2800000000000002,
+    "text": " Eso es lo que está en la esquina ahora. Voy junto a vos creo."
+   }
+  ],
+  "text": "Eso es lo que está en la esquina ahora. Voy junto a vos creo."
+ },
+ {
+  "file": "PTT-20260107-WA0067.opus",
+  "language": "es",
+  "language_probability": 0.8480740189552307,
+  "duration": 3.8735,
+  "transcribed_at": "2026-07-23T22:53:25.268138+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.68,
+    "text": " Dale alegría a gestionar todo hoy entre mañana y te aviso, ¿sí?"
+   }
+  ],
+  "text": "Dale alegría a gestionar todo hoy entre mañana y te aviso, ¿sí?"
+ },
+ {
+  "file": "PTT-20240511-WA0036.opus",
+  "language": "es",
+  "language_probability": 0.8912080526351929,
+  "duration": 4.0778125,
+  "transcribed_at": "2026-07-23T23:10:47.664456+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Alice y también JRita. ¿Qué valor es tu auto?"
+   }
+  ],
+  "text": "Alice y también JRita. ¿Qué valor es tu auto?"
+ },
+ {
+  "file": "PTT-20250101-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.8726071119308472,
+  "duration": 4.7535,
+  "transcribed_at": "2026-07-23T23:28:39.446859+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.2,
+    "text": " Cuántame cuando pase todo este tema del año nuevo y organizamos de uno."
+   }
+  ],
+  "text": "Cuántame cuando pase todo este tema del año nuevo y organizamos de uno."
+ },
+ {
+  "file": "PTT-20241007-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.8845171928405762,
+  "duration": 4.7735,
+  "transcribed_at": "2026-07-23T23:32:36.048856+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.64,
+    "text": " Y en sí se le hice al paso paraguayo, al que te suelo vender."
+   }
+  ],
+  "text": "Y en sí se le hice al paso paraguayo, al que te suelo vender."
+ },
+ {
+  "file": "PTT-20250528-WA0011.opus",
+  "language": "hi",
+  "language_probability": 0.6202040314674377,
+  "duration": 4.6778125,
+  "transcribed_at": "2026-07-23T23:33:48.748451+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.84,
+    "text": " नुरिस और थो इस्यल वाडगें तुछ़िए तुछ़िए किठी आसेग."
+   }
+  ],
+  "text": "नुरिस और थो इस्यल वाडगें तुछ़िए तुछ़िए किठी आसेग."
+ },
+ {
+  "file": "PTT-20250104-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.8697497844696045,
+  "duration": 6.7778125,
+  "transcribed_at": "2026-07-24T01:04:34.301118+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Sí, está en la machilita negra."
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Estoy caminando a la plaza."
+   },
+   {
+    "start": 4.0,
+    "end": 7.0,
+    "text": " Tengo un show de conferrecitos y no era medanegra."
+   }
+  ],
+  "text": "Sí, está en la machilita negra. Estoy caminando a la plaza. Tengo un show de conferrecitos y no era medanegra."
+ },
+ {
+  "file": "PTT-20260107-WA0064.opus",
+  "language": "es",
+  "language_probability": 0.9221429228782654,
+  "duration": 7.8335,
+  "transcribed_at": "2026-07-24T01:14:24.099948+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Yo conseguí una dosis que sería para dos personas, por ahí, por doscientos, y eso es lo que tiene ahora."
+   }
+  ],
+  "text": "Yo conseguí una dosis que sería para dos personas, por ahí, por doscientos, y eso es lo que tiene ahora."
+ },
+ {
+  "file": "PTT-20260524-WA0082.opus",
+  "language": "es",
+  "language_probability": 0.9253362417221069,
+  "duration": 7.6578125,
+  "transcribed_at": "2026-07-24T01:23:20.764534+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.16,
+    "text": " Hello sounds perfect, ahí saco este cerca y llevo el otro millón, amigo"
+   }
+  ],
+  "text": "Hello sounds perfect, ahí saco este cerca y llevo el otro millón, amigo"
+ },
+ {
+  "file": "PTT-20251008-WA0093.opus",
+  "language": "es",
+  "language_probability": 0.8602118492126465,
+  "duration": 7.6935,
+  "transcribed_at": "2026-07-24T01:43:44.599813+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.2,
+    "text": " Hola, mi hijito, ¿qué tal? Y yo ahora me voy a ir a buscar el producto y te puedo"
+   },
+   {
+    "start": 5.2,
+    "end": 7.2,
+    "text": " acercar ya y eso me ayuda a estar disponible."
+   }
+  ],
+  "text": "Hola, mi hijito, ¿qué tal? Y yo ahora me voy a ir a buscar el producto y te puedo acercar ya y eso me ayuda a estar disponible."
+ },
+ {
+  "file": "PTT-20251004-WA0057.opus",
+  "language": "es",
+  "language_probability": 0.8844203948974609,
+  "duration": 8.6335,
+  "transcribed_at": "2026-07-24T02:43:18.387746+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 1.3800000000000001,
+    "text": " Hola amigo, ¿qué tal?"
+   },
+   {
+    "start": 1.3800000000000001,
+    "end": 3.46,
+    "text": " Y vos sabes que no me llevo todavía."
+   },
+   {
+    "start": 4.08,
+    "end": 6.7,
+    "text": " No necesito tener problemas en esperar."
+   },
+   {
+    "start": 7.140000000000001,
+    "end": 8.620000000000001,
+    "text": " Ya hablo todo mal, no sé qué me pasa."
+   }
+  ],
+  "text": "Hola amigo, ¿qué tal? Y vos sabes que no me llevo todavía. No necesito tener problemas en esperar. Ya hablo todo mal, no sé qué me pasa."
+ },
+ {
+  "file": "PTT-20260309-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.7963774800300598,
+  "duration": 10.1335,
+  "transcribed_at": "2026-07-24T03:54:04.838216+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Así como siempre, a 1.801 mañana va a llevar la mañana y en la tarde ya te puedo llevar."
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " ¡Tranferimino mayor como puedes!"
+   }
+  ],
+  "text": "Así como siempre, a 1.801 mañana va a llevar la mañana y en la tarde ya te puedo llevar. ¡Tranferimino mayor como puedes!"
+ },
+ {
+  "file": "PTT-20260324-WA0008.opus",
+  "language": "es",
+  "language_probability": 0.9481197595596313,
+  "duration": 10.9735,
+  "transcribed_at": "2026-07-24T04:19:33.894628+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.0,
+    "text": " Amigo, vos sabes que para mañana al final porque me dijo que ahora tiene medio nomás y mañana va a tener un nuevo entonces yo creo que va a ser más lindo luego"
+   },
+   {
+    "start": 9.0,
+    "end": 11.0,
+    "text": " Y ya te reserve"
+   }
+  ],
+  "text": "Amigo, vos sabes que para mañana al final porque me dijo que ahora tiene medio nomás y mañana va a tener un nuevo entonces yo creo que va a ser más lindo luego Y ya te reserve"
+ },
+ {
+  "file": "PTT-20231025-WA0013.opus",
+  "language": "es",
+  "language_probability": 0.9283889532089233,
+  "duration": 13.5935,
+  "transcribed_at": "2026-07-24T06:10:09.282985+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.44,
+    "text": " En la última vez sí vino un poco más tipo con hojas pero esta vez ya vino"
+   },
+   {
+    "start": 5.44,
+    "end": 11.28,
+    "text": " más gordo el cuello y todos son así despigas sin sin tanto semilla como la"
+   },
+   {
+    "start": 11.28,
+    "end": 15.280000000000001,
+    "text": " última vez. Tiene pero pulguito."
+   }
+  ],
+  "text": "En la última vez sí vino un poco más tipo con hojas pero esta vez ya vino más gordo el cuello y todos son así despigas sin sin tanto semilla como la última vez. Tiene pero pulguito."
+ },
+ {
+  "file": "PTT-20250812-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.9338622093200684,
+  "duration": 14.2578125,
+  "transcribed_at": "2026-07-24T06:20:25.214213+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.08,
+    "text": " Iván, preguntarle una tu dilemmas si yo no puedo pasar su teléfono, si es que vos me"
+   },
+   {
+    "start": 5.08,
+    "end": 10.24,
+    "text": " podés pasar su teléfono para yo pasarle su teléfono a mi amigo que quiere"
+   },
+   {
+    "start": 10.24,
+    "end": 15.96,
+    "text": " más que a buenas todas las manos y quiere comprar más de él."
+   }
+  ],
+  "text": "Iván, preguntarle una tu dilemmas si yo no puedo pasar su teléfono, si es que vos me podés pasar su teléfono para yo pasarle su teléfono a mi amigo que quiere más que a buenas todas las manos y quiere comprar más de él."
+ },
+ {
+  "file": "PTT-20260720-WA0013.opus",
+  "language": "es",
+  "language_probability": 0.8899884223937988,
+  "duration": 15.2135,
+  "transcribed_at": "2026-07-24T06:29:26.532302+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.4,
+    "text": " y por ahora mis planes son de estar en casa mínimo hasta las cuatro por ahí"
+   },
+   {
+    "start": 5.4,
+    "end": 13.120000000000001,
+    "text": " después algo si es que me avisan las planes la gente pero me avisan más y me quedo si no"
+   },
+   {
+    "start": 13.120000000000001,
+    "end": 14.48,
+    "text": " los pico más de rechil"
+   }
+  ],
+  "text": "y por ahora mis planes son de estar en casa mínimo hasta las cuatro por ahí después algo si es que me avisan las planes la gente pero me avisan más y me quedo si no los pico más de rechil"
+ },
+ {
+  "file": "PTT-20260107-WA0065.opus",
+  "language": "es",
+  "language_probability": 0.9136979579925537,
+  "duration": 15.0735,
+  "transcribed_at": "2026-07-24T06:57:06.888527+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Y si a ustedes tienen que ir probando, nomás las cuerdas como le esperan, van comiendo, ¿entendés?"
+   },
+   {
+    "start": 7.0,
+    "end": 15.0,
+    "text": " Tipo, come a un chiquitito, espero un rato, media hora, una hora, y si no te pegas tanto, toma más, y así, tipo micro dosis."
+   }
+  ],
+  "text": "Y si a ustedes tienen que ir probando, nomás las cuerdas como le esperan, van comiendo, ¿entendés? Tipo, come a un chiquitito, espero un rato, media hora, una hora, y si no te pegas tanto, toma más, y así, tipo micro dosis."
+ },
+ {
+  "file": "PTT-20240511-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.8806007504463196,
+  "duration": 15.2935,
+  "transcribed_at": "2026-07-24T07:02:40.398489+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.52,
+    "text": " Sí, pero es muy raro porque estoy a bote en vía, o sea, si a bote aparece y reboto,"
+   },
+   {
+    "start": 8.52,
+    "end": 12.0,
+    "text": " si o si me tiene que aparecir también a mí eso y yo llamé al banco y me dijeron"
+   },
+   {
+    "start": 12.0,
+    "end": 14.120000000000001,
+    "text": " que no se visualiza nada."
+   }
+  ],
+  "text": "Sí, pero es muy raro porque estoy a bote en vía, o sea, si a bote aparece y reboto, si o si me tiene que aparecir también a mí eso y yo llamé al banco y me dijeron que no se visualiza nada."
+ },
+ {
+  "file": "PTT-20250528-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.9413870573043823,
+  "duration": 14.9978125,
+  "transcribed_at": "2026-07-24T07:10:35.312117+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Un episodio descubrido."
+   },
+   {
+    "start": 6.0,
+    "end": 13.0,
+    "text": " Ahora salgo de la cuadra de la iglesia y voy hacia donde creo que es la vez que te referís y que me dejaste."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Con placer la dispensa, ¿verdad?"
+   }
+  ],
+  "text": "Un episodio descubrido. Ahora salgo de la cuadra de la iglesia y voy hacia donde creo que es la vez que te referís y que me dejaste. Con placer la dispensa, ¿verdad?"
+ },
+ {
+  "file": "PTT-20260327-WA0036.opus",
+  "language": "es",
+  "language_probability": 0.9114722609519958,
+  "duration": 16.1335,
+  "transcribed_at": "2026-07-24T07:48:32.300397+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Pasa que sabe luego cómo son ellas, a veces te pasan la obra y todo eso y no..."
+   },
+   {
+    "start": 4.0,
+    "end": 11.0,
+    "text": " ella ya es seguro que llegas a obra pero así para acorinar e ir a buscar otra vez de todo un tema"
+   },
+   {
+    "start": 11.0,
+    "end": 16.0,
+    "text": " entonces creo que va a mostrar en contacto nomás y vemos que paso mañana"
+   }
+  ],
+  "text": "Pasa que sabe luego cómo son ellas, a veces te pasan la obra y todo eso y no... ella ya es seguro que llegas a obra pero así para acorinar e ir a buscar otra vez de todo un tema entonces creo que va a mostrar en contacto nomás y vemos que paso mañana"
+ },
+ {
+  "file": "PTT-20250804-WA0021.opus",
+  "language": "la",
+  "language_probability": 0.281516432762146,
+  "duration": 21.8178125,
+  "transcribed_at": "2026-07-24T08:10:50.064572+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.6,
+    "text": " ʀĀĀĀĀĀĀĀĀ ǧĀĀĀĀ promises."
+   },
+   {
+    "start": 14.280000000000001,
+    "end": 18.56,
+    "text": " L face Bแล it wasoney that kor'r mā지만 ǐĀĀĀ ĀĀĀĀch tuo t' Makip t' Bu회rk mo la �ICò Motion Graph."
+   },
+   {
+    "start": 20.16,
+    "end": 22.12,
+    "text": " … j táarsyouss"
+   }
+  ],
+  "text": "ʀĀĀĀĀĀĀĀĀ ǧĀĀĀĀ promises. L face Bแล it wasoney that kor'r mā지만 ǐĀĀĀ ĀĀĀĀch tuo t' Makip t' Bu회rk mo la �ICò Motion Graph. … j táarsyouss"
+ },
+ {
+  "file": "PTT-20250528-WA0014.opus",
+  "language": "es",
+  "language_probability": 0.8678485751152039,
+  "duration": 16.6578125,
+  "transcribed_at": "2026-07-24T08:16:42.446054+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.84,
+    "text": " Ya me estoy recorriendo a mostrar la escuadra por el sujeto encuentro."
+   },
+   {
+    "start": 6.84,
+    "end": 9.94,
+    "text": " Así que, mandame más donde está y me voy a jugar junto a él."
+   },
+   {
+    "start": 12.64,
+    "end": 14.620000000000001,
+    "text": " Que si no, me vamos a estar rebocando un alumno."
+   },
+   {
+    "start": 14.620000000000001,
+    "end": 16.12,
+    "text": " No es una contra moza."
+   }
+  ],
+  "text": "Ya me estoy recorriendo a mostrar la escuadra por el sujeto encuentro. Así que, mandame más donde está y me voy a jugar junto a él. Que si no, me vamos a estar rebocando un alumno. No es una contra moza."
+ },
+ {
+  "file": "PTT-20260709-WA0100.opus",
+  "language": "es",
+  "language_probability": 0.8586809635162354,
+  "duration": 18.5735,
+  "transcribed_at": "2026-07-24T09:10:53.416014+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " O sea, igual sería más pero pregunte a los precios ofla, y ver un flasí junto a un maní."
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " Que sé, va a dar mis en casa, así les estira."
+   },
+   {
+    "start": 8.0,
+    "end": 11.0,
+    "text": " Pero de vuelta estoy todavía chill."
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " El otro es interesting."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Tipamente es el bread y el price."
+   },
+   {
+    "start": 15.0,
+    "end": 19.0,
+    "text": " Y les sugiero oflar a los compás que les estiran."
+   }
+  ],
+  "text": "O sea, igual sería más pero pregunte a los precios ofla, y ver un flasí junto a un maní. Que sé, va a dar mis en casa, así les estira. Pero de vuelta estoy todavía chill. El otro es interesting. Tipamente es el bread y el price. Y les sugiero oflar a los compás que les estiran."
+ },
+ {
+  "file": "PTT-20260720-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.8029595017433167,
+  "duration": 19.4335,
+  "transcribed_at": "2026-07-24T09:34:31.653375+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " No, tranqui, no pasa nada, me acabas de enviar 6 millones más, vale, que me escribas a preguntarme."
+   },
+   {
+    "start": 7.0,
+    "end": 19.0,
+    "text": " Y bueno, te llevo entonces, que ahora más o menos va a estar por tu casa o si estás toda la tarde, en un rato ya me voy."
+   }
+  ],
+  "text": "No, tranqui, no pasa nada, me acabas de enviar 6 millones más, vale, que me escribas a preguntarme. Y bueno, te llevo entonces, que ahora más o menos va a estar por tu casa o si estás toda la tarde, en un rato ya me voy."
+ },
+ {
+  "file": "PTT-20250308-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.8697705268859863,
+  "duration": 22.2978125,
+  "transcribed_at": "2026-07-24T11:04:59.378611+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿Qué hora Prox estarían viniendo?"
+   },
+   {
+    "start": 2.0,
+    "end": 5.0,
+    "text": " Porque en un rato tengo que irme al cumplea de mi sobrinita"
+   },
+   {
+    "start": 6.0,
+    "end": 9.0,
+    "text": " Pero de vez en vez puedo esperar así..."
+   },
+   {
+    "start": 9.0,
+    "end": 13.0,
+    "text": " O sea, si es que vienen un ratito les espero y si es tipo en una hora"
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Podría ser otro día si no"
+   },
+   {
+    "start": 15.0,
+    "end": 17.0,
+    "text": " O le puedo tirar mi rumi si puedo mostrar"
+   },
+   {
+    "start": 17.0,
+    "end": 21.0,
+    "text": " Pero no sé qué tanto estarán para eso"
+   }
+  ],
+  "text": "¿Qué hora Prox estarían viniendo? Porque en un rato tengo que irme al cumplea de mi sobrinita Pero de vez en vez puedo esperar así... O sea, si es que vienen un ratito les espero y si es tipo en una hora Podría ser otro día si no O le puedo tirar mi rumi si puedo mostrar Pero no sé qué tanto estarán para eso"
+ },
+ {
+  "file": "PTT-20240920-WA0005.opus",
+  "language": "es",
+  "language_probability": 0.8699597716331482,
+  "duration": 26.2535,
+  "transcribed_at": "2026-07-24T13:03:15.431456+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Viste que el amigo que me iba a aconseguir tuvo problemas con la policía y está en la comisaría ahora"
+   },
+   {
+    "start": 8.0,
+    "end": 11.0,
+    "text": " Y nadie me puede darme en su casa"
+   },
+   {
+    "start": 11.0,
+    "end": 16.0,
+    "text": " Por eso no más, o si no te llevaba de una, yo lo estaba esperando a ver lo más"
+   },
+   {
+    "start": 16.0,
+    "end": 22.0,
+    "text": " No sé si querés que te enví otra vez tu plata o esperamos hasta mañana"
+   },
+   {
+    "start": 22.0,
+    "end": 26.0,
+    "text": " Mañana o pasado, decirme lo más que querés hacer"
+   }
+  ],
+  "text": "Viste que el amigo que me iba a aconseguir tuvo problemas con la policía y está en la comisaría ahora Y nadie me puede darme en su casa Por eso no más, o si no te llevaba de una, yo lo estaba esperando a ver lo más No sé si querés que te enví otra vez tu plata o esperamos hasta mañana Mañana o pasado, decirme lo más que querés hacer"
+ },
+ {
+  "file": "PTT-20260108-WA0058.opus",
+  "language": "es",
+  "language_probability": 0.8889155387878418,
+  "duration": 25.9735,
+  "transcribed_at": "2026-07-24T13:14:44.304056+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.72,
+    "text": " Solamente conseguí por 200 longos y más 25 metrán hasta mi casa."
+   },
+   {
+    "start": 6.72,
+    "end": 12.88,
+    "text": " Fíjate que yo estoy sin móvil y el MD me traje en un por 300 más 30.000 dólares de libre."
+   },
+   {
+    "start": 12.88,
+    "end": 17.36,
+    "text": " Y me voy a descontar un mato de eso y vamos a ver cuánto te sobra."
+   },
+   {
+    "start": 17.36,
+    "end": 22.92,
+    "text": " Lo que puedo hacer es darte genética por lo que sobra yo tengo, puede por mí, porro lindo."
+   },
+   {
+    "start": 22.92,
+    "end": 25.92,
+    "text": " Entonces te completo con eso, si te parece."
+   }
+  ],
+  "text": "Solamente conseguí por 200 longos y más 25 metrán hasta mi casa. Fíjate que yo estoy sin móvil y el MD me traje en un por 300 más 30.000 dólares de libre. Y me voy a descontar un mato de eso y vamos a ver cuánto te sobra. Lo que puedo hacer es darte genética por lo que sobra yo tengo, puede por mí, porro lindo. Entonces te completo con eso, si te parece."
+ },
+ {
+  "file": "PTT-20260720-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.9513992667198181,
+  "duration": 27.1735,
+  "transcribed_at": "2026-07-24T13:53:06.574912+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 13.0,
+    "text": " Hola amigo, ¿qué tal? O sea, es que esa trazo un poquito de la carga, pero tengo ahora disponible en un kilo de gensis y el otro, la genética que te había dicho 125 gramos."
+   },
+   {
+    "start": 13.0,
+    "end": 19.0,
+    "text": " ¿Te puedo llevar más ya ese hoy y mañana o pasado a llevar los otros dos kilos?"
+   },
+   {
+    "start": 19.0,
+    "end": 24.0,
+    "text": " Si te parece, porque viste que yo ya pago todo por adelantado y entonces me envían."
+   },
+   {
+    "start": 24.0,
+    "end": 27.0,
+    "text": " Avisame y te llevo hasta tarde."
+   }
+  ],
+  "text": "Hola amigo, ¿qué tal? O sea, es que esa trazo un poquito de la carga, pero tengo ahora disponible en un kilo de gensis y el otro, la genética que te había dicho 125 gramos. ¿Te puedo llevar más ya ese hoy y mañana o pasado a llevar los otros dos kilos? Si te parece, porque viste que yo ya pago todo por adelantado y entonces me envían. Avisame y te llevo hasta tarde."
+ },
+ {
+  "file": "PTT-20260720-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.9238200783729553,
+  "duration": 28.1735,
+  "transcribed_at": "2026-07-24T15:10:53.261931+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Si es que puedes pasar a dejar, me estira para empezar a convertir en el aceite y fumar un flat fresh herb."
+   },
+   {
+    "start": 10.0,
+    "end": 13.0,
+    "text": " Si pasa lo más pure que rechil, si no."
+   },
+   {
+    "start": 14.0,
+    "end": 17.0,
+    "text": " Pregúndelo más que tanto porque me pasa que si no me cueldo, entonces..."
+   },
+   {
+    "start": 18.0,
+    "end": 22.0,
+    "text": " Se ríe si soy molesto que te rumbo las bolas cada día así que..."
+   },
+   {
+    "start": 23.0,
+    "end": 25.0,
+    "text": " Me decís que es maybe."
+   },
+   {
+    "start": 26.0,
+    "end": 28.0,
+    "text": " Pero..."
+   }
+  ],
+  "text": "Si es que puedes pasar a dejar, me estira para empezar a convertir en el aceite y fumar un flat fresh herb. Si pasa lo más pure que rechil, si no. Pregúndelo más que tanto porque me pasa que si no me cueldo, entonces... Se ríe si soy molesto que te rumbo las bolas cada día así que... Me decís que es maybe. Pero..."
+ }
+]

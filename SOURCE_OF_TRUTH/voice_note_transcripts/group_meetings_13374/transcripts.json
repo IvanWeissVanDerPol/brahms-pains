@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20260204-WA0014.opus",
+  "language": "es",
+  "language_probability": 0.6197995543479919,
+  "duration": 4.3578125,
+  "transcribed_at": "2026-07-23T23:18:12.334140+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.4,
+    "text": " Quique, no, está en la oficina. ¿La pastada en su piezo?"
+   },
+   {
+    "start": 3.4,
+    "end": 4.4,
+    "text": " No, no, por favor."
+   }
+  ],
+  "text": "Quique, no, está en la oficina. ¿La pastada en su piezo? No, no, por favor."
+ }
+]

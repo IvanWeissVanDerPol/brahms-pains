@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20240619-WA0000.opus",
+  "language": "es",
+  "language_probability": 0.7716742157936096,
+  "duration": 1.5378125,
+  "transcribed_at": "2026-07-23T22:16:57.678597+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Ya estoy en la ubicación"
+   }
+  ],
+  "text": "Ya estoy en la ubicación"
+ }
+]

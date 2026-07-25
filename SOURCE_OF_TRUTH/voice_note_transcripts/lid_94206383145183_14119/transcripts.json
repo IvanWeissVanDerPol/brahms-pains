@@ -1,0 +1,37 @@
+[
+ {
+  "file": "PTT-20260427-WA0053.opus",
+  "language": "es",
+  "language_probability": 0.9019018411636353,
+  "duration": 28.5578125,
+  "transcribed_at": "2026-07-24T14:30:15.061058+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Hola hermano, muchas gracias. Si es la cuenta en Dolores tranquilo, no me importa, no uso más."
+   },
+   {
+    "start": 9.0,
+    "end": 12.0,
+    "text": " Si es la cuenta en Guarani, es la que sí uso en Itaú."
+   },
+   {
+    "start": 13.0,
+    "end": 20.0,
+    "text": " Pero tranquilo, si es que hace falta, se puede muermelo más o menos a bueno o familiar."
+   },
+   {
+    "start": 21.0,
+    "end": 27.0,
+    "text": " Pero, pero es chill. Grax que es la de OECD entonces en vez de una que me importa ahora."
+   },
+   {
+    "start": 28.0,
+    "end": 29.0,
+    "text": " Muchas gracias."
+   }
+  ],
+  "text": "Hola hermano, muchas gracias. Si es la cuenta en Dolores tranquilo, no me importa, no uso más. Si es la cuenta en Guarani, es la que sí uso en Itaú. Pero tranquilo, si es que hace falta, se puede muermelo más o menos a bueno o familiar. Pero, pero es chill. Grax que es la de OECD entonces en vez de una que me importa ahora. Muchas gracias."
+ }
+]

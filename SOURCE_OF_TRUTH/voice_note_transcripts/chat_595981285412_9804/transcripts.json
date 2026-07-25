@@ -1,0 +1,52 @@
+[
+ {
+  "file": "PTT-20260621-WA0065.opus",
+  "language": "es",
+  "language_probability": 0.4980338215827942,
+  "duration": 11.1135,
+  "transcribed_at": "2026-07-24T04:28:12.808651+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hello, sorry for the wait."
+   },
+   {
+    "start": 3.0,
+    "end": 5.0,
+    "text": " Me dije en casa y no estaba."
+   },
+   {
+    "start": 5.0,
+    "end": 11.0,
+    "text": " En lo de mis viejos me fui a ver aún y le llamé ahora a Nico para confirmar, pero llevo Nico a tu cartera."
+   }
+  ],
+  "text": "Hello, sorry for the wait. Me dije en casa y no estaba. En lo de mis viejos me fui a ver aún y le llamé ahora a Nico para confirmar, pero llevo Nico a tu cartera."
+ },
+ {
+  "file": "PTT-20260621-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.7700484395027161,
+  "duration": 23.6535,
+  "transcribed_at": "2026-07-24T11:57:25.078014+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.46,
+    "text": " Uhhh, creo que estaba generosa, creo que trajeron mi cuello eso, lo preguntaron, pero me"
+   },
+   {
+    "start": 10.46,
+    "end": 17.5,
+    "text": " vieron ahora a todos mis viejos trabajos y chequearon, pero me hiré en un tenemico,"
+   },
+   {
+    "start": 17.5,
+    "end": 23.5,
+    "text": " cut pins, no sé, yo trajeron una cartelita."
+   }
+  ],
+  "text": "Uhhh, creo que estaba generosa, creo que trajeron mi cuello eso, lo preguntaron, pero me vieron ahora a todos mis viejos trabajos y chequearon, pero me hiré en un tenemico, cut pins, no sé, yo trajeron una cartelita."
+ }
+]

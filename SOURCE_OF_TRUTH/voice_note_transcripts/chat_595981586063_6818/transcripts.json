@@ -1,0 +1,37 @@
+[
+ {
+  "file": "PTT-20240623-WA0066.opus",
+  "language": "es",
+  "language_probability": 0.915244460105896,
+  "duration": 3.1378125,
+  "transcribed_at": "2026-07-23T21:01:13.247968+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " y más a velón de señores como la cosa"
+   }
+  ],
+  "text": "y más a velón de señores como la cosa"
+ },
+ {
+  "file": "PTT-20240623-WA0065.opus",
+  "language": "es",
+  "language_probability": 0.637756884098053,
+  "duration": 9.3978125,
+  "transcribed_at": "2026-07-24T02:55:33.198715+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Como que les ha señalado si me marcó acá señaló la ubicación."
+   },
+   {
+    "start": 5.0,
+    "end": 9.0,
+    "text": " A ver, puedo salir un poco y me conjuntamos."
+   }
+  ],
+  "text": "Como que les ha señalado si me marcó acá señaló la ubicación. A ver, puedo salir un poco y me conjuntamos."
+ }
+]

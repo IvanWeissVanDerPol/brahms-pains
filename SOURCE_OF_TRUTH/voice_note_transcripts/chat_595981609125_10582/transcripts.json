@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20250605-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.9750884771347046,
+  "duration": 8.2178125,
+  "transcribed_at": "2026-07-24T01:47:32.423627+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Y las tarjetas sin presos, a ambos lados, es a la 88.000, y es el 100, en la medida 9 x 5."
+   }
+  ],
+  "text": "Y las tarjetas sin presos, a ambos lados, es a la 88.000, y es el 100, en la medida 9 x 5."
+ }
+]

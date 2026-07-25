@@ -1,0 +1,52 @@
+PTT-20260524-WA0040.opus | lang=en prob=0.3212531805038452 dur=5.3s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Hello, how are you?
+[00:03.00 → 00:04.00] How are you?
+[00:04.00 → 00:05.00] I'm fine.
+PTT-20260521-WA0017.opus | lang=es prob=0.9539081454277039 dur=6.5s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] ¿Qué tal? ¿Qué tal? ¿Cómo estás? Máteco.
+[00:03.00 → 00:06.00] ¿Vos o solo? ¿Eso quería saber?
+PTT-20260521-WA0022.opus | lang=es prob=0.9441933035850525 dur=7.7s
+------------------------------------------------------------
+[00:00.00 → 00:07.60] Y que tal podés oido de repente no sé, para encontrarnos o tomar algo ahí, a la noche.
+PTT-20260522-WA0051.opus | lang=es prob=0.9777761101722717 dur=6.9s
+------------------------------------------------------------
+[00:00.00 → 00:07.00] Ah, ya entiendo. O sea, se viene a hacer, decimos nomas, donde San Lorenzo, cerca del Pineo, o donde sería.
+PTT-20260521-WA0030.opus | lang=es prob=0.9683309197425842 dur=7.4s
+------------------------------------------------------------
+[00:00.00 → 00:07.28] Da listo de cuestión de que veamos y corinemos eso, ¿o tenés lugar de repente así? ¿tenés lugar sin drama?
+PTT-20260522-WA0049.opus | lang=es prob=0.9450863003730774 dur=8.2s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Ya entiendo, pero vos ¿dónde vivís? O sea, en realidad vivís hacia el campus
+[00:05.00 → 00:08.00] o que partemos para tener en cuenta
+PTT-20260521-WA0033.opus | lang=es prob=0.9855698943138123 dur=10.1s
+------------------------------------------------------------
+[00:00.00 → 00:08.60] No hay claro, super relax ahí, tomar cerveza, disfrutar, pasarla bien, super bien.
+PTT-20260521-WA0032.opus | lang=es prob=0.9666944146156311 dur=7.7s
+------------------------------------------------------------
+[00:00.00 → 00:05.88] ¿A qué te referís cuando queda todo para ser específico en el que sentido estás diciendo?
+[00:05.88 → 00:07.48] En el recuerdo de la mente yo te hablo.
+PTT-20260521-WA0029.opus | lang=es prob=0.9725192785263062 dur=8.0s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] Dale excelente y dime algo vos sos vívera, no tenés drama en hacer de todo experimentar, de todo sin problema.
+PTT-20260521-WA0031.opus | lang=es prob=0.9596328139305115 dur=10.3s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Ah no, no, no, ya es muy tarde esa hora.
+[00:04.00 → 00:10.00] Nosotros podemos partir en la tarde, partir las 4 y media, hasta las 10 por ahí ponerle.
+PTT-20260521-WA0025.opus | lang=es prob=0.9763517379760742 dur=13.9s
+------------------------------------------------------------
+[00:00.00 → 00:08.12] dale tranqui ya y de donde sos a que parte más o menos vivís cosas así para saber un poco
+[00:08.12 → 00:13.16] y cartel entonces por ahí te buscamos esta noche y qué tal estás de aparato
+PTT-20260521-WA0026.opus | lang=es prob=0.9749691486358643 dur=16.6s
+------------------------------------------------------------
+[00:00.00 → 00:17.00] No, solamente fotos de tu cosa no más queremos ver, no se ve, pues solo antes se ve uno muy lejano, o sea fotos así que tengas dualería no, así que entremos en el enlace en un Apple estilo.
+PTT-20260524-WA0046.opus | lang=es prob=0.8456743359565735 dur=24.2s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] ¿En qué sentido? O sea...
+[00:06.50 → 00:08.50] ¿En qué cosas de sábado puedo hacer?
+[00:08.50 → 00:10.50] Pero el domingo me sentí ya...
+[00:10.50 → 00:12.50] O sea, hoy me sentí ya chuputa.
+[00:13.50 → 00:15.50] ¿Qué fue el día de dejarme saber realmente?
+[00:15.50 → 00:17.50] Aquí me desperté ahorita.
+[00:23.00 → 00:24.50] ¡Qué fría hace!

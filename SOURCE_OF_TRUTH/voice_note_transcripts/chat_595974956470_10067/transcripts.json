@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20250731-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.8847938776016235,
+  "duration": 3.3978125,
+  "transcribed_at": "2026-07-23T21:43:09.279682+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.2,
+    "text": " hola que tal corazón te gustaría pasar por el local"
+   }
+  ],
+  "text": "hola que tal corazón te gustaría pasar por el local"
+ }
+]

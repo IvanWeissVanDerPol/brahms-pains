@@ -1,0 +1,2732 @@
+[
+ {
+  "file": "PTT-20251017-WA0051.opus",
+  "language": "ja",
+  "language_probability": 0.13993656635284424,
+  "duration": 1.5978125,
+  "transcribed_at": "2026-07-23T19:14:33.271441+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "おいこいテーブルおいこいテーブル"
+   }
+  ],
+  "text": "おいこいテーブルおいこいテーブル"
+ },
+ {
+  "file": "PTT-20260323-WA0010.opus",
+  "language": "en",
+  "language_probability": 0.45431384444236755,
+  "duration": 2.2378125,
+  "transcribed_at": "2026-07-23T19:25:17.587189+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Thanks for watching!"
+   }
+  ],
+  "text": "Thanks for watching!"
+ },
+ {
+  "file": "PTT-20251017-WA0058.opus",
+  "language": "es",
+  "language_probability": 0.590185821056366,
+  "duration": 1.9378125,
+  "transcribed_at": "2026-07-23T19:35:38.107822+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " En la camita"
+   }
+  ],
+  "text": "En la camita"
+ },
+ {
+  "file": "PTT-20260625-WA0049.opus",
+  "language": "es",
+  "language_probability": 0.8560848236083984,
+  "duration": 1.9535,
+  "transcribed_at": "2026-07-23T19:36:04.957808+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hola Freddy, ¿qué tal?"
+   }
+  ],
+  "text": "Hola Freddy, ¿qué tal?"
+ },
+ {
+  "file": "PTT-20251019-WA0012.opus",
+  "language": "en",
+  "language_probability": 0.639289140701294,
+  "duration": 1.9978125,
+  "transcribed_at": "2026-07-23T19:40:35.980844+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Thank you very much."
+   }
+  ],
+  "text": "Thank you very much."
+ },
+ {
+  "file": "PTT-20251029-WA0067.opus",
+  "language": "es",
+  "language_probability": 0.7430234551429749,
+  "duration": 2.0578125,
+  "transcribed_at": "2026-07-23T19:42:38.607706+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " De capiata somos, de capiata"
+   }
+  ],
+  "text": "De capiata somos, de capiata"
+ },
+ {
+  "file": "PTT-20251008-WA0092.opus",
+  "language": "es",
+  "language_probability": 0.9393261671066284,
+  "duration": 2.5778125,
+  "transcribed_at": "2026-07-23T19:59:24.382672+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.36,
+    "text": " Gracias, queridos. Agradezco el helado."
+   }
+  ],
+  "text": "Gracias, queridos. Agradezco el helado."
+ },
+ {
+  "file": "PTT-20251211-WA0033.opus",
+  "language": "it",
+  "language_probability": 0.3727785050868988,
+  "duration": 2.7178125,
+  "transcribed_at": "2026-07-23T20:21:28.315933+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Loi da pacchon pacchon"
+   }
+  ],
+  "text": "Loi da pacchon pacchon"
+ },
+ {
+  "file": "PTT-20251226-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.9775651693344116,
+  "duration": 2.6578125,
+  "transcribed_at": "2026-07-23T20:27:29.548278+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.6,
+    "text": " Realmente sí, muy, muy feliz."
+   }
+  ],
+  "text": "Realmente sí, muy, muy feliz."
+ },
+ {
+  "file": "PTT-20251125-WA0047.opus",
+  "language": "es",
+  "language_probability": 0.9381215572357178,
+  "duration": 3.3378125,
+  "transcribed_at": "2026-07-23T20:58:33.352557+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.64,
+    "text": " todos los días son de leche"
+   }
+  ],
+  "text": "todos los días son de leche"
+ },
+ {
+  "file": "PTT-20251212-WA0020.opus",
+  "language": "en",
+  "language_probability": 0.5465216040611267,
+  "duration": 3.2578125,
+  "transcribed_at": "2026-07-23T21:07:17.435026+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Thanks for watching!"
+   }
+  ],
+  "text": "Thanks for watching!"
+ },
+ {
+  "file": "PTT-20251016-WA0031.opus",
+  "language": "it",
+  "language_probability": 0.45258599519729614,
+  "duration": 3.0935,
+  "transcribed_at": "2026-07-23T21:14:19.225400+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Dele che Cristian!"
+   }
+  ],
+  "text": "Dele che Cristian!"
+ },
+ {
+  "file": "PTT-20260625-WA0046.opus",
+  "language": "es",
+  "language_probability": 0.6672465205192566,
+  "duration": 3.1135,
+  "transcribed_at": "2026-07-23T21:23:40.392684+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Hola Christian, ¿qué tal?"
+   }
+  ],
+  "text": "Hola Christian, ¿qué tal?"
+ },
+ {
+  "file": "PTT-20251224-WA0056.opus",
+  "language": "es",
+  "language_probability": 0.9673800468444824,
+  "duration": 3.9178125,
+  "transcribed_at": "2026-07-23T22:58:18.478005+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.9,
+    "text": " ¡Qué rica se ve, por Dios! ¡Qué rica!"
+   }
+  ],
+  "text": "¡Qué rica se ve, por Dios! ¡Qué rica!"
+ },
+ {
+  "file": "PTT-20251117-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.7817725539207458,
+  "duration": 5.0378125,
+  "transcribed_at": "2026-07-23T22:59:27.197292+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Escapa, ten ahí venido, doctor."
+   }
+  ],
+  "text": "Escapa, ten ahí venido, doctor."
+ },
+ {
+  "file": "PTT-20260625-WA0045.opus",
+  "language": "es",
+  "language_probability": 0.828670859336853,
+  "duration": 4.2735,
+  "transcribed_at": "2026-07-23T23:07:56.386131+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Hola, hola, ¿qué tal? ¿Cómo están?"
+   }
+  ],
+  "text": "Hola, hola, ¿qué tal? ¿Cómo están?"
+ },
+ {
+  "file": "PTT-20251119-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9364131093025208,
+  "duration": 4.8578125,
+  "transcribed_at": "2026-07-23T23:17:12.955896+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Realmente hago más cosas que solamente calentar con la voz."
+   }
+  ],
+  "text": "Realmente hago más cosas que solamente calentar con la voz."
+ },
+ {
+  "file": "PTT-20251016-WA0062.opus",
+  "language": "es",
+  "language_probability": 0.9674232006072998,
+  "duration": 4.5378125,
+  "transcribed_at": "2026-07-23T23:20:46.573030+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.4,
+    "text": " Mamacita, la Silvia, que rica se te ve en esa posición."
+   }
+  ],
+  "text": "Mamacita, la Silvia, que rica se te ve en esa posición."
+ },
+ {
+  "file": "PTT-20251016-WA0052.opus",
+  "language": "es",
+  "language_probability": 0.8591033220291138,
+  "duration": 4.6378125,
+  "transcribed_at": "2026-07-23T23:21:20.415398+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.4,
+    "text": " Bien, bien, bien, Cristóbal, espectacular y vos, siempre por villaje."
+   }
+  ],
+  "text": "Bien, bien, bien, Cristóbal, espectacular y vos, siempre por villaje."
+ },
+ {
+  "file": "PTT-20251119-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.9808399081230164,
+  "duration": 5.7978125,
+  "transcribed_at": "2026-07-23T23:28:57.066903+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Mejor dicho imposible, no es claro, agua."
+   }
+  ],
+  "text": "Mejor dicho imposible, no es claro, agua."
+ },
+ {
+  "file": "PTT-20251220-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.7986769080162048,
+  "duration": 4.8778125,
+  "transcribed_at": "2026-07-23T23:40:34.621029+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.8,
+    "text": " ¡Qué rico se ve con los sabrosos!"
+   }
+  ],
+  "text": "¡Qué rico se ve con los sabrosos!"
+ },
+ {
+  "file": "PTT-20251214-WA0033.opus",
+  "language": "el",
+  "language_probability": 0.31867021322250366,
+  "duration": 5.0578125,
+  "transcribed_at": "2026-07-23T23:41:50.152529+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Μα αχέττε νεβίκο, πόρτι, διό, σκέντι, γένα."
+   }
+  ],
+  "text": "Μα αχέττε νεβίκο, πόρτι, διό, σκέντι, γένα."
+ },
+ {
+  "file": "PTT-20251215-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.8750190138816833,
+  "duration": 5.2178125,
+  "transcribed_at": "2026-07-23T23:43:16.119621+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Gracias Cristian, por responderme cabez, sacame la duda, gracias y holo."
+   }
+  ],
+  "text": "Gracias Cristian, por responderme cabez, sacame la duda, gracias y holo."
+ },
+ {
+  "file": "PTT-20251217-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.9312763810157776,
+  "duration": 5.2578125,
+  "transcribed_at": "2026-07-23T23:49:58.950944+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Ah, qué bien, qué bien, o sea, jugó otro equipo. Buena a esa profe, buena a esa."
+   }
+  ],
+  "text": "Ah, qué bien, qué bien, o sea, jugó otro equipo. Buena a esa profe, buena a esa."
+ },
+ {
+  "file": "PTT-20260101-WA0058.opus",
+  "language": "it",
+  "language_probability": 0.9010134339332581,
+  "duration": 5.7378125,
+  "transcribed_at": "2026-07-23T23:59:56.207521+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " e stira già una piscina o un giaccusi"
+   }
+  ],
+  "text": "e stira già una piscina o un giaccusi"
+ },
+ {
+  "file": "PTT-20251017-WA0057.opus",
+  "language": "es",
+  "language_probability": 0.9287225008010864,
+  "duration": 5.5978125,
+  "transcribed_at": "2026-07-24T00:08:56.692561+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.5,
+    "text": " Te imaginas cómo se mueve, cómo se mueve las bordas."
+   }
+  ],
+  "text": "Te imaginas cómo se mueve, cómo se mueve las bordas."
+ },
+ {
+  "file": "PTT-20260107-WA0047.opus",
+  "language": "es",
+  "language_probability": 0.8289996981620789,
+  "duration": 6.1178125,
+  "transcribed_at": "2026-07-24T00:13:27.590016+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Toque, tío, al toque. ¿Dónde vio esta?"
+   },
+   {
+    "start": 3.0,
+    "end": 6.0,
+    "text": " Estas tú el día y la tema y nada, tupla."
+   }
+  ],
+  "text": "Toque, tío, al toque. ¿Dónde vio esta? Estas tú el día y la tema y nada, tupla."
+ },
+ {
+  "file": "PTT-20251016-WA0049.opus",
+  "language": "es",
+  "language_probability": 0.9674275517463684,
+  "duration": 7.0778125,
+  "transcribed_at": "2026-07-24T00:18:40.337989+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Cristobal, no entendí este mensaje. ¿Qué pasó ahí?"
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " ¿Alguien quiere en Buzú?"
+   }
+  ],
+  "text": "Cristobal, no entendí este mensaje. ¿Qué pasó ahí? ¿Alguien quiere en Buzú?"
+ },
+ {
+  "file": "PTT-20260625-WA0048.opus",
+  "language": "es",
+  "language_probability": 0.8484256863594055,
+  "duration": 7.2135,
+  "transcribed_at": "2026-07-24T00:39:00.205249+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.16,
+    "text": " muy linda botones suena como muy sexy tuos"
+   }
+  ],
+  "text": "muy linda botones suena como muy sexy tuos"
+ },
+ {
+  "file": "PTT-20251016-WA0054.opus",
+  "language": "es",
+  "language_probability": 0.98324054479599,
+  "duration": 6.9378125,
+  "transcribed_at": "2026-07-24T00:58:16.775860+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.16,
+    "text": " qué bien amigo qué bien cuando compartimos la mononasa que tenés"
+   }
+  ],
+  "text": "qué bien amigo qué bien cuando compartimos la mononasa que tenés"
+ },
+ {
+  "file": "PTT-20260625-WA0047.opus",
+  "language": "es",
+  "language_probability": 0.8814526796340942,
+  "duration": 8.5135,
+  "transcribed_at": "2026-07-24T01:37:30.232945+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.5200000000000005,
+    "text": " Hola buen día, buen día amiga, todo bien, digo que tal estás, ¿qué estás haciendo?"
+   }
+  ],
+  "text": "Hola buen día, buen día amiga, todo bien, digo que tal estás, ¿qué estás haciendo?"
+ },
+ {
+  "file": "PTT-20260117-WA0069.opus",
+  "language": "es",
+  "language_probability": 0.46734383702278137,
+  "duration": 7.7378125,
+  "transcribed_at": "2026-07-24T01:43:13.677866+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Es demasiado, es demasiado, ya vamos a chupamos, coger, ya está, ya, el tema, os paga problema."
+   }
+  ],
+  "text": "Es demasiado, es demasiado, ya vamos a chupamos, coger, ya está, ya, el tema, os paga problema."
+ },
+ {
+  "file": "PTT-20251217-WA0000.opus",
+  "language": "si",
+  "language_probability": 0.18448759615421295,
+  "duration": 7.8778125,
+  "transcribed_at": "2026-07-24T01:49:58.485792+00:00",
+  "segments": [
+   {
+    "start": 0.3,
+    "end": 3.1,
+    "text": " ව්ඨාඩේසායි වන්බායි වළබිස්style"
+   },
+   {
+    "start": 3.1,
+    "end": 9.200000000000001,
+    "text": " ගැිල යබායින්管 කයන්ු, ලකෙන් හස්මල අවස්ක නාලු ඁන්…"
+   }
+  ],
+  "text": "ව්ඨාඩේසායි වන්බායි වළබිස්style ගැිල යබායින්管 කයන්ු, ලකෙන් හස්මල අවස්ක නාලු ඁන්…"
+ },
+ {
+  "file": "PTT-20260117-WA0105.opus",
+  "language": "es",
+  "language_probability": 0.9501985311508179,
+  "duration": 8.5978125,
+  "transcribed_at": "2026-07-24T01:57:09.084966+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.04,
+    "text": " Dice que el cocodrilo va a creer que su pilín es como un gusanito"
+   }
+  ],
+  "text": "Dice que el cocodrilo va a creer que su pilín es como un gusanito"
+ },
+ {
+  "file": "PTT-20260120-WA0128.opus",
+  "language": "es",
+  "language_probability": 0.8198751211166382,
+  "duration": 8.5578125,
+  "transcribed_at": "2026-07-24T01:57:58.880077+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Dicencias anuales, ahí te envío un mensaje en el privado, podés revisar por favor, podés revisar por favor."
+   }
+  ],
+  "text": "Dicencias anuales, ahí te envío un mensaje en el privado, podés revisar por favor, podés revisar por favor."
+ },
+ {
+  "file": "PTT-20251217-WA0005.opus",
+  "language": "my",
+  "language_probability": 0.43103545904159546,
+  "duration": 8.1378125,
+  "transcribed_at": "2026-07-24T02:14:15.943468+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.13,
+    "text": " සනිථුස ගෝලාලාවින්න් නැමු කිලාපානේයෙවලාලයෝ වසිනිතුක්නාල්න්නෙන්න්න්නෝෝාවින්නෙවන්නානිලය්න්වකෙලාපමමමම්න්නෙන්නාපාලානානක�"
+   }
+  ],
+  "text": "සනිථුස ගෝලාලාවින්න් නැමු කිලාපානේයෙවලාලයෝ වසිනිතුක්නාල්න්නෙන්න්න්නෝෝාවින්නෙවන්නානිලය්න්වකෙලාපමමමම්න්නෙන්නාපාලානානක�"
+ },
+ {
+  "file": "PTT-20251206-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.8699031472206116,
+  "duration": 8.5178125,
+  "transcribed_at": "2026-07-24T02:24:35.972811+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.34,
+    "text": " cuando no está trabajando así podemos encontrarnos por ahí ya está ya"
+   }
+  ],
+  "text": "cuando no está trabajando así podemos encontrarnos por ahí ya está ya"
+ },
+ {
+  "file": "PTT-20251217-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.9354934096336365,
+  "duration": 8.6178125,
+  "transcribed_at": "2026-07-24T02:34:38.056245+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " El ya no es integrante, creo que es pao, si no, me va por un chubá y va y nada."
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " Verás, pues eso no se está manifestando."
+   }
+  ],
+  "text": "El ya no es integrante, creo que es pao, si no, me va por un chubá y va y nada. Verás, pues eso no se está manifestando."
+ },
+ {
+  "file": "PTT-20251211-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.815609335899353,
+  "duration": 8.9778125,
+  "transcribed_at": "2026-07-24T02:36:38.134331+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.44,
+    "text": " y por qué no vienen ustedes por aquí a que nosotros tenemos lugar tranquilo"
+   },
+   {
+    "start": 4.44,
+    "end": 7.6000000000000005,
+    "text": " y en vez de pagar el motel, paguen por el boli y vengan"
+   }
+  ],
+  "text": "y por qué no vienen ustedes por aquí a que nosotros tenemos lugar tranquilo y en vez de pagar el motel, paguen por el boli y vengan"
+ },
+ {
+  "file": "PTT-20251203-WA0016.opus",
+  "language": "my",
+  "language_probability": 0.5382557511329651,
+  "duration": 8.7578125,
+  "transcribed_at": "2026-07-24T02:45:30.571795+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": "  ಮನಮಾಟೂಟಿತಯಸ್ಁ ಪಾರ್ಯಾಯ ಮಾಲ್ಲಿಗಿದ್ಕಿ � gateway"
+   },
+   {
+    "start": 4.0,
+    "end": 21.94,
+    "text": " ಮಾಣ"
+   },
+   {
+    "start": 21.94,
+    "end": 29.44,
+    "text": " ಎರಮಾperingರಿತಾಚಲ್ನ ಮಡರುರ್ತಿತೋತಯಲ್ 문 cells"
+   }
+  ],
+  "text": "ಮನಮಾಟೂಟಿತಯಸ್ಁ ಪಾರ್ಯಾಯ ಮಾಲ್ಲಿಗಿದ್ಕಿ � gateway ಮಾಣ ಎರಮಾperingರಿತಾಚಲ್ನ ಮಡರುರ್ತಿತೋತಯಲ್ 문 cells"
+ },
+ {
+  "file": "PTT-20251217-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.9111860990524292,
+  "duration": 8.8978125,
+  "transcribed_at": "2026-07-24T02:46:35.543725+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.12,
+    "text": " Y acá recién volviendo hacia Mariano, el recalonzo de Villalles."
+   },
+   {
+    "start": 6.12,
+    "end": 8.620000000000001,
+    "text": " Pules a la una tema."
+   }
+  ],
+  "text": "Y acá recién volviendo hacia Mariano, el recalonzo de Villalles. Pules a la una tema."
+ },
+ {
+  "file": "PTT-20251215-WA0019.opus",
+  "language": "es",
+  "language_probability": 0.6282864809036255,
+  "duration": 9.4578125,
+  "transcribed_at": "2026-07-24T02:47:24.563933+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Hola, Clarí, vos pico acá en Paraguay, ¿estás vivo, Clarí, o cómo?"
+   },
+   {
+    "start": 5.0,
+    "end": 9.0,
+    "text": " No entiendo, es un atumario a nivel, no entendéis, no, Clarí."
+   }
+  ],
+  "text": "Hola, Clarí, vos pico acá en Paraguay, ¿estás vivo, Clarí, o cómo? No entiendo, es un atumario a nivel, no entendéis, no, Clarí."
+ },
+ {
+  "file": "PTT-20251015-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.941998302936554,
+  "duration": 10.9578125,
+  "transcribed_at": "2026-07-24T03:29:16.779528+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.48,
+    "text": " que tal también como está así y vos sabés bien que nos fracaso mucho con mi masaje"
+   },
+   {
+    "start": 8.16,
+    "end": 9.84,
+    "text": " después de ver cómo te va a hacer"
+   }
+  ],
+  "text": "que tal también como está así y vos sabés bien que nos fracaso mucho con mi masaje después de ver cómo te va a hacer"
+ },
+ {
+  "file": "PTT-20251206-WA0024.opus",
+  "language": "es",
+  "language_probability": 0.8236657381057739,
+  "duration": 9.8578125,
+  "transcribed_at": "2026-07-24T03:29:23.439707+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Amigo, ¿cómo le va?"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Me eras, sobre, no me baña."
+   },
+   {
+    "start": 4.0,
+    "end": 5.0,
+    "text": " ¿Qué te dejás plantada?"
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " Yo, la vez, como la última vez."
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " Me hacía papero vosotros."
+   }
+  ],
+  "text": "Amigo, ¿cómo le va? Me eras, sobre, no me baña. ¿Qué te dejás plantada? Yo, la vez, como la última vez. Me hacía papero vosotros."
+ },
+ {
+  "file": "PTT-20251211-WA0032.opus",
+  "language": "es",
+  "language_probability": 0.8263088464736938,
+  "duration": 9.9978125,
+  "transcribed_at": "2026-07-24T03:35:10.697625+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " De que patan a la noina, se si le venia monqueta y ve tu patina, se si le venia monqueta y la patronandis"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " Va, va venia monqueta y no"
+   }
+  ],
+  "text": "De que patan a la noina, se si le venia monqueta y ve tu patina, se si le venia monqueta y la patronandis Va, va venia monqueta y no"
+ },
+ {
+  "file": "PTT-20251103-WA0036.opus",
+  "language": "es",
+  "language_probability": 0.888222336769104,
+  "duration": 9.6178125,
+  "transcribed_at": "2026-07-24T03:39:18.028115+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.0,
+    "text": " Yo por eso siempre pido audio para mi seguridad, porque en este tema hay demasiado gente mal intencionada."
+   }
+  ],
+  "text": "Yo por eso siempre pido audio para mi seguridad, porque en este tema hay demasiado gente mal intencionada."
+ },
+ {
+  "file": "PTT-20260117-WA0104.opus",
+  "language": "es",
+  "language_probability": 0.923294723033905,
+  "duration": 9.7135,
+  "transcribed_at": "2026-07-24T03:40:36.177059+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.48,
+    "text": " Desafortunadamente entiendo poco nada de Guarani y mi mujer no me quiere traducir ayuda."
+   }
+  ],
+  "text": "Desafortunadamente entiendo poco nada de Guarani y mi mujer no me quiere traducir ayuda."
+ },
+ {
+  "file": "PTT-20251217-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.9001297354698181,
+  "duration": 10.9378125,
+  "transcribed_at": "2026-07-24T04:17:28.432140+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿Qué estás haciendo? ¿Qué hace Cristian?"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " ¿De pie donde tenés que ir?"
+   },
+   {
+    "start": 4.0,
+    "end": 5.0,
+    "text": " ¿Y será?"
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " ¿Cómo quiero tener ese tu..."
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " Metabolismo, será?"
+   },
+   {
+    "start": 9.0,
+    "end": 11.0,
+    "text": " ¿Qué aguante tenés Cristian?"
+   }
+  ],
+  "text": "¿Qué estás haciendo? ¿Qué hace Cristian? ¿De pie donde tenés que ir? ¿Y será? ¿Cómo quiero tener ese tu... Metabolismo, será? ¿Qué aguante tenés Cristian?"
+ },
+ {
+  "file": "PTT-20260120-WA0127.opus",
+  "language": "es",
+  "language_probability": 0.9789974093437195,
+  "duration": 11.7178125,
+  "transcribed_at": "2026-07-24T04:24:18.640318+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.5,
+    "text": " Y vos sabés que te vas a cagar de risa."
+   },
+   {
+    "start": 3.5,
+    "end": 11.5,
+    "text": " Pero mi señora no es solamente toma muni ultra, ni champagne, ni wiki, caro, ni nada, muni ultra de la agua."
+   }
+  ],
+  "text": "Y vos sabés que te vas a cagar de risa. Pero mi señora no es solamente toma muni ultra, ni champagne, ni wiki, caro, ni nada, muni ultra de la agua."
+ },
+ {
+  "file": "PTT-20251206-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.8825476169586182,
+  "duration": 11.2778125,
+  "transcribed_at": "2026-07-24T04:34:34.955437+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.84,
+    "text": " Trabajo también no da gusto también eso, son seis, tiene razón y nosotros"
+   },
+   {
+    "start": 6.84,
+    "end": 10.48,
+    "text": " estábamos apurados también, pero casi toda hora que estuvimos también esperando de ahí."
+   }
+  ],
+  "text": "Trabajo también no da gusto también eso, son seis, tiene razón y nosotros estábamos apurados también, pero casi toda hora que estuvimos también esperando de ahí."
+ },
+ {
+  "file": "PTT-20251016-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.9420287609100342,
+  "duration": 11.2778125,
+  "transcribed_at": "2026-07-24T04:35:31.977821+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.5600000000000005,
+    "text": " si por ahí invita alguna pareja de de limpio o alrededores seguro que le"
+   },
+   {
+    "start": 7.5600000000000005,
+    "end": 10.6,
+    "text": " bajamos algo yorjo"
+   }
+  ],
+  "text": "si por ahí invita alguna pareja de de limpio o alrededores seguro que le bajamos algo yorjo"
+ },
+ {
+  "file": "PTT-20260117-WA0068.opus",
+  "language": "es",
+  "language_probability": 0.9713912010192871,
+  "duration": 11.7778125,
+  "transcribed_at": "2026-07-24T04:38:16.790723+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.44,
+    "text": " Se entiende lo que es decir, pero fácil también es de solucionar, si uno te escribe en el privado"
+   },
+   {
+    "start": 7.44,
+    "end": 10.44,
+    "text": " y no te gusta, le bloqueas y ya está, solucione."
+   }
+  ],
+  "text": "Se entiende lo que es decir, pero fácil también es de solucionar, si uno te escribe en el privado y no te gusta, le bloqueas y ya está, solucione."
+ },
+ {
+  "file": "PTT-20251208-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.8875464797019958,
+  "duration": 13.0778125,
+  "transcribed_at": "2026-07-24T04:39:01.804711+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hola, ¿Qué tal?"
+   },
+   {
+    "start": 2.0,
+    "end": 6.0,
+    "text": " Oh, qué lágrimas nosotros, ya estamos llenando de novillado."
+   },
+   {
+    "start": 6.0,
+    "end": 11.0,
+    "text": " Por eso es el rato, estábamos mensajeando y nadie se comunica con nosotros."
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " Ya estamos llenando de desunción."
+   }
+  ],
+  "text": "Hola, ¿Qué tal? Oh, qué lágrimas nosotros, ya estamos llenando de novillado. Por eso es el rato, estábamos mensajeando y nadie se comunica con nosotros. Ya estamos llenando de desunción."
+ },
+ {
+  "file": "PTT-20251215-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.757831871509552,
+  "duration": 13.0378125,
+  "transcribed_at": "2026-07-24T04:43:53.496595+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Y la Yoko tengo como un amigo que trabaja en eso, un pasajero que trabaja en eso."
+   },
+   {
+    "start": 7.0,
+    "end": 13.0,
+    "text": " Y ahí te conté las notas lo que pasó y me contó él."
+   }
+  ],
+  "text": "Y la Yoko tengo como un amigo que trabaja en eso, un pasajero que trabaja en eso. Y ahí te conté las notas lo que pasó y me contó él."
+ },
+ {
+  "file": "PTT-20260115-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.938011646270752,
+  "duration": 14.9578125,
+  "transcribed_at": "2026-07-24T05:01:30.792272+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 12.0,
+    "text": " Quieta a la amiga como estas pero no molestarte vamos por mas, vamos por mas, 2026 recién arranca"
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " Quieta a la como esta amiga"
+   }
+  ],
+  "text": "Quieta a la amiga como estas pero no molestarte vamos por mas, vamos por mas, 2026 recién arranca Quieta a la como esta amiga"
+ },
+ {
+  "file": "PTT-20260105-WA0086.opus",
+  "language": "es",
+  "language_probability": 0.9292206168174744,
+  "duration": 11.6978125,
+  "transcribed_at": "2026-07-24T05:03:47.441618+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " Bélico, pasar la ubicación del cumple, Bélico, pasar la ubicación del cumple, para ahí no va a pasarla bien."
+   }
+  ],
+  "text": "Bélico, pasar la ubicación del cumple, Bélico, pasar la ubicación del cumple, para ahí no va a pasarla bien."
+ },
+ {
+  "file": "PTT-20260518-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.889885663986206,
+  "duration": 13.6978125,
+  "transcribed_at": "2026-07-24T05:15:15.955308+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Hola, Cristian, ¿qué tal?"
+   },
+   {
+    "start": 3.0,
+    "end": 7.0,
+    "text": " Y yo creo que no tiene nada que ver un saludo, ¿no?"
+   },
+   {
+    "start": 7.0,
+    "end": 13.0,
+    "text": " Por ahí decir alguna otra cosa o algo así, ¿no más?"
+   }
+  ],
+  "text": "Hola, Cristian, ¿qué tal? Y yo creo que no tiene nada que ver un saludo, ¿no? Por ahí decir alguna otra cosa o algo así, ¿no más?"
+ },
+ {
+  "file": "PTT-20251220-WA0057.opus",
+  "language": "bn",
+  "language_probability": 0.2825372517108917,
+  "duration": 13.9778125,
+  "transcribed_at": "2026-07-24T05:40:32.800949+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.16,
+    "text": " बा एेियो मुरा दिची क्लपा में का लेग भी मां आमीगो आमीगो के आसी थेशी उचल पाशे का दे"
+   },
+   {
+    "start": 6.16,
+    "end": 8.98,
+    "text": " आपृप्� upurabai ekri hi haa"
+   },
+   {
+    "start": 8.98,
+    "end": 14.24,
+    "text": " फ्फाँयों से मां इगे डिची क्लपा मेंें सके गधिफ्रुध के इछच्रूद दा कोना फामील्या"
+   }
+  ],
+  "text": "बा एेियो मुरा दिची क्लपा में का लेग भी मां आमीगो आमीगो के आसी थेशी उचल पाशे का दे आपृप्� upurabai ekri hi haa फ्फाँयों से मां इगे डिची क्लपा मेंें सके गधिफ्रुध के इछच्रूद दा कोना फामील्या"
+ },
+ {
+  "file": "PTT-20251214-WA0036.opus",
+  "language": "es",
+  "language_probability": 0.6892701983451843,
+  "duration": 13.3578125,
+  "transcribed_at": "2026-07-24T05:58:13.235520+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " jajajajajajajajajajajajajajaja"
+   },
+   {
+    "start": 2.0,
+    "end": 2.7600000000000002,
+    "text": " jajaja"
+   },
+   {
+    "start": 2.7600000000000002,
+    "end": 3.2800000000000002,
+    "text": " de..."
+   },
+   {
+    "start": 3.2800000000000002,
+    "end": 4.0600000000000005,
+    "text": " de legalmente"
+   },
+   {
+    "start": 4.0600000000000005,
+    "end": 4.82,
+    "text": " camara"
+   },
+   {
+    "start": 4.82,
+    "end": 6.0200000000000005,
+    "text": " bebé"
+   },
+   {
+    "start": 6.0200000000000005,
+    "end": 6.5200000000000005,
+    "text": " bebé"
+   },
+   {
+    "start": 7.86,
+    "end": 9.02,
+    "text": " parejo camara"
+   },
+   {
+    "start": 9.02,
+    "end": 9.72,
+    "text": " bebé"
+   },
+   {
+    "start": 9.72,
+    "end": 11.120000000000001,
+    "text": " parejo a casapo"
+   },
+   {
+    "start": 11.120000000000001,
+    "end": 12.48,
+    "text": " se caíó"
+   },
+   {
+    "start": 12.48,
+    "end": 13.16,
+    "text": " bebé"
+   }
+  ],
+  "text": "jajajajajajajajajajajajajajaja jajaja de... de legalmente camara bebé bebé parejo camara bebé parejo a casapo se caíó bebé"
+ },
+ {
+  "file": "PTT-20251214-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.43259397149086,
+  "duration": 14.4178125,
+  "transcribed_at": "2026-07-24T06:03:43.489418+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Yo toco a rubes y churubes, báñame en brujo."
+   },
+   {
+    "start": 4.0,
+    "end": 5.0,
+    "text": " Que loco sea."
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " Ya no es loco, la tatua mío sea."
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " Lo amigo cuero sea."
+   },
+   {
+    "start": 10.0,
+    "end": 11.0,
+    "text": " Y cuando se doy el baile salón,"
+   },
+   {
+    "start": 11.0,
+    "end": 12.0,
+    "text": " entonces la venía,"
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " eh, hoy cojo que da puto sea."
+   }
+  ],
+  "text": "Yo toco a rubes y churubes, báñame en brujo. Que loco sea. Ya no es loco, la tatua mío sea. Lo amigo cuero sea. Y cuando se doy el baile salón, entonces la venía, eh, hoy cojo que da puto sea."
+ },
+ {
+  "file": "PTT-20251015-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.901402473449707,
+  "duration": 15.7578125,
+  "transcribed_at": "2026-07-24T06:16:22.429651+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " ¿Qué tal amigo? Bien, bien, estamos bien."
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " Hay que ver cuándo va..."
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " le hacen otra masajita a mi señora."
+   },
+   {
+    "start": 12.0,
+    "end": 15.0,
+    "text": " Hay que ver cuándo."
+   }
+  ],
+  "text": "¿Qué tal amigo? Bien, bien, estamos bien. Hay que ver cuándo va... le hacen otra masajita a mi señora. Hay que ver cuándo."
+ },
+ {
+  "file": "PTT-20251215-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.6796514987945557,
+  "duration": 14.8178125,
+  "transcribed_at": "2026-07-24T06:27:01.074989+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " que muestrasalas?"
+   },
+   {
+    "start": 2.0,
+    "end": 4.12,
+    "text": " ah no sois mal"
+   },
+   {
+    "start": 4.12,
+    "end": 6.36,
+    "text": " se da un sensor y se da una calvura"
+   },
+   {
+    "start": 6.36,
+    "end": 7.8,
+    "text": " por ahí"
+   },
+   {
+    "start": 7.8,
+    "end": 8.8,
+    "text": " ah-ah-ah-ah"
+   },
+   {
+    "start": 8.8,
+    "end": 10.52,
+    "text": " ella está ahí, ahora hizo marido allá"
+   },
+   {
+    "start": 10.52,
+    "end": 11.88,
+    "text": " entiendo, entiendo"
+   },
+   {
+    "start": 11.88,
+    "end": 14.08,
+    "text": " y ya ha ahí"
+   },
+   {
+    "start": 14.08,
+    "end": 15.08,
+    "text": " teman"
+   }
+  ],
+  "text": "que muestrasalas? ah no sois mal se da un sensor y se da una calvura por ahí ah-ah-ah-ah ella está ahí, ahora hizo marido allá entiendo, entiendo y ya ha ahí teman"
+ },
+ {
+  "file": "PTT-20251212-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.8352866172790527,
+  "duration": 15.4778125,
+  "transcribed_at": "2026-07-24T06:34:25.947991+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Hola, buen día, grupo. Si yo pienso también que hay mucha persona infirtrada, infirtrada, hay neto de grupo."
+   },
+   {
+    "start": 10.0,
+    "end": 15.0,
+    "text": " Hay que tener cuidado con eso."
+   }
+  ],
+  "text": "Hola, buen día, grupo. Si yo pienso también que hay mucha persona infirtrada, infirtrada, hay neto de grupo. Hay que tener cuidado con eso."
+ },
+ {
+  "file": "PTT-20251016-WA0053.opus",
+  "language": "es",
+  "language_probability": 0.9339554905891418,
+  "duration": 19.8778125,
+  "transcribed_at": "2026-07-24T06:51:06.626910+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Qué bueno, mío, Prisciana. Qué bueno. Es importante."
+   },
+   {
+    "start": 5.0,
+    "end": 9.0,
+    "text": " Sí, todo tranquilo, todo tranquilo. Descansando y ahora bien."
+   },
+   {
+    "start": 9.0,
+    "end": 13.0,
+    "text": " Después de la oraza que voy a oír."
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " Mucho laburo."
+   },
+   {
+    "start": 16.0,
+    "end": 19.0,
+    "text": " Sí, sí, por acá siempre, mío."
+   }
+  ],
+  "text": "Qué bueno, mío, Prisciana. Qué bueno. Es importante. Sí, todo tranquilo, todo tranquilo. Descansando y ahora bien. Después de la oraza que voy a oír. Mucho laburo. Sí, sí, por acá siempre, mío."
+ },
+ {
+  "file": "PTT-20250909-WA0036.opus",
+  "language": "es",
+  "language_probability": 0.9538443684577942,
+  "duration": 14.4535,
+  "transcribed_at": "2026-07-24T06:51:11.117430+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 12.0,
+    "text": " ¿Será que te voy a presentar el privado y así, el privado y con tu foto con el que envíaste el video?"
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " Así ve, llama que hizo."
+   }
+  ],
+  "text": "¿Será que te voy a presentar el privado y así, el privado y con tu foto con el que envíaste el video? Así ve, llama que hizo."
+ },
+ {
+  "file": "PTT-20260120-WA0123.opus",
+  "language": "es",
+  "language_probability": 0.970253050327301,
+  "duration": 16.4778125,
+  "transcribed_at": "2026-07-24T07:36:37.022576+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.78,
+    "text": " Ahí les mandé, son bienvenidos cuando quieran, vengan y vamos a arrear, algunas fotos ya"
+   },
+   {
+    "start": 8.78,
+    "end": 15.860000000000001,
+    "text": " mandé luego ya para que todos vean de cómo nos juntamos a cabra, que longo se puede"
+   },
+   {
+    "start": 15.860000000000001,
+    "end": 16.36,
+    "text": " hacer acá."
+   }
+  ],
+  "text": "Ahí les mandé, son bienvenidos cuando quieran, vengan y vamos a arrear, algunas fotos ya mandé luego ya para que todos vean de cómo nos juntamos a cabra, que longo se puede hacer acá."
+ },
+ {
+  "file": "PTT-20251214-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.8663442730903625,
+  "duration": 18.7778125,
+  "transcribed_at": "2026-07-24T07:59:11.561521+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Este rey dio armas a Ciudad de Salganda, Moñez, Ceduce y el Leite."
+   },
+   {
+    "start": 5.0,
+    "end": 9.0,
+    "text": " Años de mi shi y mi leche condensada, peñara."
+   },
+   {
+    "start": 9.0,
+    "end": 10.0,
+    "text": " C*** de alejada."
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " C*** de putatura, peñara."
+   },
+   {
+    "start": 12.0,
+    "end": 15.0,
+    "text": " O igual nomas si no hay así este."
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " Este rey dio armas, este rey hija."
+   },
+   {
+    "start": 18.0,
+    "end": 19.0,
+    "text": " Emover."
+   }
+  ],
+  "text": "Este rey dio armas a Ciudad de Salganda, Moñez, Ceduce y el Leite. Años de mi shi y mi leche condensada, peñara. C*** de alejada. C*** de putatura, peñara. O igual nomas si no hay así este. Este rey dio armas, este rey hija. Emover."
+ },
+ {
+  "file": "PTT-20251030-WA0065.opus",
+  "language": "es",
+  "language_probability": 0.9502568244934082,
+  "duration": 18.1778125,
+  "transcribed_at": "2026-07-24T08:05:30.710986+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.84,
+    "text": " qué pasa caro el qué pasa estoy de vuelta la sinmalo soy yo el"
+   },
+   {
+    "start": 6.84,
+    "end": 14.120000000000001,
+    "text": " repente salgo de repente entro pero por algunos motivos"
+   },
+   {
+    "start": 15.6,
+    "end": 18.88,
+    "text": " que anda haciendo"
+   }
+  ],
+  "text": "qué pasa caro el qué pasa estoy de vuelta la sinmalo soy yo el repente salgo de repente entro pero por algunos motivos que anda haciendo"
+ },
+ {
+  "file": "PTT-20260120-WA0129.opus",
+  "language": "es",
+  "language_probability": 0.889561653137207,
+  "duration": 16.8178125,
+  "transcribed_at": "2026-07-24T08:11:52.240836+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " El grupo diga si vamos a hacer el encuentro o no vamos a hacer, nadie dice o opina, si podemos hacer el encuentro."
+   },
+   {
+    "start": 10.0,
+    "end": 16.0,
+    "text": " Que vio dice que ospina, se puede o no se puede, hablen o digan o si se puede."
+   }
+  ],
+  "text": "El grupo diga si vamos a hacer el encuentro o no vamos a hacer, nadie dice o opina, si podemos hacer el encuentro. Que vio dice que ospina, se puede o no se puede, hablen o digan o si se puede."
+ },
+ {
+  "file": "PTT-20251016-WA0033.opus",
+  "language": "es",
+  "language_probability": 0.9338945746421814,
+  "duration": 16.9178125,
+  "transcribed_at": "2026-07-24T08:18:23.630222+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.24,
+    "text": " Ese ya no es caso, sí, yo yo, ese es culo."
+   },
+   {
+    "start": 4.24,
+    "end": 5.24,
+    "text": " ¡Pues usá culo!"
+   },
+   {
+    "start": 9.16,
+    "end": 12.0,
+    "text": " Che, ¿qué tal estuvo el beso de la rusa?"
+   },
+   {
+    "start": 12.0,
+    "end": 13.32,
+    "text": " Yo yo, ¿verdad?"
+   },
+   {
+    "start": 14.040000000000001,
+    "end": 16.32,
+    "text": " Parece que yo no quiero ir de allá, enseguido otra vez ahí."
+   }
+  ],
+  "text": "Ese ya no es caso, sí, yo yo, ese es culo. ¡Pues usá culo! Che, ¿qué tal estuvo el beso de la rusa? Yo yo, ¿verdad? Parece que yo no quiero ir de allá, enseguido otra vez ahí."
+ },
+ {
+  "file": "PTT-20260606-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.9631820917129517,
+  "duration": 18.9178125,
+  "transcribed_at": "2026-07-24T08:20:42.387253+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 19.0,
+    "text": " Y si al socarlo seguro que si es un TVT nuestro porque con ellos si salimos a conocernos y salimos a hacer muchas fotos, travesuras y demás porque así son parejas reales."
+   }
+  ],
+  "text": "Y si al socarlo seguro que si es un TVT nuestro porque con ellos si salimos a conocernos y salimos a hacer muchas fotos, travesuras y demás porque así son parejas reales."
+ },
+ {
+  "file": "PTT-20260120-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9788672924041748,
+  "duration": 19.8778125,
+  "transcribed_at": "2026-07-24T09:38:28.959104+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.6000000000000005,
+    "text": " Y aparte que no corresponde, ¿me entiendes? ¿Cómo te va a decir eso?"
+   },
+   {
+    "start": 4.6000000000000005,
+    "end": 7.4,
+    "text": " Es una falta de respeto, falta de educación."
+   },
+   {
+    "start": 7.4,
+    "end": 11.0,
+    "text": " Imagínate, así yo te pago la niñera, no hay problema, venga."
+   },
+   {
+    "start": 11.0,
+    "end": 16.6,
+    "text": " Y llega a tu casa y te va a decir, uy, no tengo para comprar condón y le vas a tener que comprar condón."
+   },
+   {
+    "start": 16.6,
+    "end": 19.8,
+    "text": " Creo que es una locura, ¿me entiendes?"
+   }
+  ],
+  "text": "Y aparte que no corresponde, ¿me entiendes? ¿Cómo te va a decir eso? Es una falta de respeto, falta de educación. Imagínate, así yo te pago la niñera, no hay problema, venga. Y llega a tu casa y te va a decir, uy, no tengo para comprar condón y le vas a tener que comprar condón. Creo que es una locura, ¿me entiendes?"
+ },
+ {
+  "file": "PTT-20251223-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.8490250110626221,
+  "duration": 19.7578125,
+  "transcribed_at": "2026-07-24T10:04:15.026447+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Has estado donde yo tengo entendido si soy yo?"
+   },
+   {
+    "start": 3.0,
+    "end": 16.0,
+    "text": " Ahora puede ser esa una perfección distorsionada de mi realidad mas, pero hasta donde yo creo, hasta donde yo sé si, si creo que soy yo, soy yo, soy yo, ¿verdad?"
+   },
+   {
+    "start": 16.0,
+    "end": 17.0,
+    "text": " Si soy yo."
+   },
+   {
+    "start": 17.0,
+    "end": 18.0,
+    "text": " Si, mi amor."
+   },
+   {
+    "start": 18.0,
+    "end": 20.0,
+    "text": " Viste, si soy yo, dice."
+   }
+  ],
+  "text": "¿Has estado donde yo tengo entendido si soy yo? Ahora puede ser esa una perfección distorsionada de mi realidad mas, pero hasta donde yo creo, hasta donde yo sé si, si creo que soy yo, soy yo, soy yo, ¿verdad? Si soy yo. Si, mi amor. Viste, si soy yo, dice."
+ },
+ {
+  "file": "PTT-20251016-WA0042.opus",
+  "language": "es",
+  "language_probability": 0.606241762638092,
+  "duration": 23.6778125,
+  "transcribed_at": "2026-07-24T10:07:58.787331+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 13.0,
+    "text": " A mí ya no hay, bueno, te voy a preocupar, va a estar el dióxido en buenas manos, ahí en la cabeza me dio a Cristian ahí, todo te preocupa de nada."
+   },
+   {
+    "start": 13.0,
+    "end": 21.0,
+    "text": " Te pico a él, no, te pido, te pido, te pido, te pico, te pido, te pido, te pido, te pido, te pido, te pido."
+   }
+  ],
+  "text": "A mí ya no hay, bueno, te voy a preocupar, va a estar el dióxido en buenas manos, ahí en la cabeza me dio a Cristian ahí, todo te preocupa de nada. Te pico a él, no, te pido, te pido, te pido, te pico, te pido, te pido, te pido, te pido, te pido, te pido."
+ },
+ {
+  "file": "PTT-20260117-WA0078.opus",
+  "language": "es",
+  "language_probability": 0.8611726760864258,
+  "duration": 23.5178125,
+  "transcribed_at": "2026-07-24T10:19:49.517661+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Vas de cobi o que tal? ¿Cómo están?"
+   },
+   {
+    "start": 3.0,
+    "end": 5.0,
+    "text": " No entiendo también que les tiene lo que pasa, o sea..."
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " Es que el lobo que hay de curción será..."
+   },
+   {
+    "start": 9.0,
+    "end": 13.0,
+    "text": " Los cientos de paqueteamos en el grupo y tres cuartos nomás están ahí..."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " ...perdiéndole el resto, tú se discute."
+   },
+   {
+    "start": 17.0,
+    "end": 19.0,
+    "text": " Es que estoy ve..."
+   },
+   {
+    "start": 19.0,
+    "end": 21.0,
+    "text": " ...pe gusta ver cuántas hay..."
+   },
+   {
+    "start": 21.0,
+    "end": 23.0,
+    "text": " ...experimenta la cosa, tranquilo."
+   }
+  ],
+  "text": "¿Vas de cobi o que tal? ¿Cómo están? No entiendo también que les tiene lo que pasa, o sea... Es que el lobo que hay de curción será... Los cientos de paqueteamos en el grupo y tres cuartos nomás están ahí... ...perdiéndole el resto, tú se discute. Es que estoy ve... ...pe gusta ver cuántas hay... ...experimenta la cosa, tranquilo."
+ },
+ {
+  "file": "PTT-20251016-WA0047.opus",
+  "language": "es",
+  "language_probability": 0.9670987725257874,
+  "duration": 22.5778125,
+  "transcribed_at": "2026-07-24T11:30:41.427205+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " ¡Dale, dale, dale! ¡Yordio, ya está ya!"
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " ¡Sin problema!"
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " ¡No! De hecho que..."
+   },
+   {
+    "start": 12.0,
+    "end": 15.0,
+    "text": " ¡Reciproco tiene que ser la situación!"
+   },
+   {
+    "start": 15.0,
+    "end": 18.0,
+    "text": " ¡Y ahí vuelta!"
+   },
+   {
+    "start": 18.0,
+    "end": 20.0,
+    "text": " Y no, ella siempre tiene que estar ahí al lado"
+   },
+   {
+    "start": 20.0,
+    "end": 22.0,
+    "text": " para que sea lo que hay para cualquier cosa."
+   }
+  ],
+  "text": "¡Dale, dale, dale! ¡Yordio, ya está ya! ¡Sin problema! ¡No! De hecho que... ¡Reciproco tiene que ser la situación! ¡Y ahí vuelta! Y no, ella siempre tiene que estar ahí al lado para que sea lo que hay para cualquier cosa."
+ },
+ {
+  "file": "PTT-20260114-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.9503812193870544,
+  "duration": 23.5978125,
+  "transcribed_at": "2026-07-24T11:47:10.226155+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " O sea, prácticamente con una mente muy cerrada, y a mí no me gusta que es muy cerrada la mente, me gusta que sea abierto."
+   },
+   {
+    "start": 12.0,
+    "end": 13.0,
+    "text": " ¿Está bueno?"
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Son solo de jef."
+   },
+   {
+    "start": 16.0,
+    "end": 17.0,
+    "text": " Y más."
+   },
+   {
+    "start": 17.0,
+    "end": 20.0,
+    "text": " Y ahora ando solita, solita, no más."
+   },
+   {
+    "start": 20.0,
+    "end": 23.0,
+    "text": " Aunque así se disfruta más estando sola."
+   }
+  ],
+  "text": "O sea, prácticamente con una mente muy cerrada, y a mí no me gusta que es muy cerrada la mente, me gusta que sea abierto. ¿Está bueno? Son solo de jef. Y más. Y ahora ando solita, solita, no más. Aunque así se disfruta más estando sola."
+ },
+ {
+  "file": "PTT-20260119-WA0059.opus",
+  "language": "es",
+  "language_probability": 0.9750780463218689,
+  "duration": 28.0378125,
+  "transcribed_at": "2026-07-24T12:09:27.287673+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.96,
+    "text": " con la marina y yo pregunté y te caía y estaba diciendo no sé cómo sé que yo ni cómo se dice"
+   },
+   {
+    "start": 7.96,
+    "end": 19.400000000000002,
+    "text": " cu cu cu cu no sé qué y yo no estaba entendiendo qué significa y algunos amigos ya me aclararon ya"
+   },
+   {
+    "start": 20.400000000000002,
+    "end": 27.32,
+    "text": " ya escribieron y dijeron qué es lo que significa eso no mayor pregunté"
+   }
+  ],
+  "text": "con la marina y yo pregunté y te caía y estaba diciendo no sé cómo sé que yo ni cómo se dice cu cu cu cu no sé qué y yo no estaba entendiendo qué significa y algunos amigos ya me aclararon ya ya escribieron y dijeron qué es lo que significa eso no mayor pregunté"
+ },
+ {
+  "file": "PTT-20251016-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.6385284066200256,
+  "duration": 24.6935,
+  "transcribed_at": "2026-07-24T13:16:03.911420+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.52,
+    "text": " A ver, Cristian, ¿me tengo que empezar a ofender? ¿O qué? ¿Noelia? ¿Tenemos? ¿Tenemos?"
+   },
+   {
+    "start": 8.52,
+    "end": 18.16,
+    "text": " ¿Y qué? Yo no estoy invitado a comer el lomito en la pisería. A ver, nelo para guayos"
+   },
+   {
+    "start": 18.16,
+    "end": 24.64,
+    "text": " son peor con los italianos. Ya, ya, ya, ya os tengo jalados a todos, ¿eh?"
+   }
+  ],
+  "text": "A ver, Cristian, ¿me tengo que empezar a ofender? ¿O qué? ¿Noelia? ¿Tenemos? ¿Tenemos? ¿Y qué? Yo no estoy invitado a comer el lomito en la pisería. A ver, nelo para guayos son peor con los italianos. Ya, ya, ya, ya os tengo jalados a todos, ¿eh?"
+ },
+ {
+  "file": "PTT-20251029-WA0066.opus",
+  "language": "es",
+  "language_probability": 0.8629540205001831,
+  "duration": 27.3978125,
+  "transcribed_at": "2026-07-24T14:25:24.442541+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿Qué tal, amigos? ¿Cómo estamos?"
+   },
+   {
+    "start": 2.0,
+    "end": 7.0,
+    "text": " Pueden escribirme al privado, los solos que hay."
+   },
+   {
+    "start": 7.0,
+    "end": 12.0,
+    "text": " Pueden escribirme y ella es la que elige, ¿verdad?"
+   },
+   {
+    "start": 12.0,
+    "end": 16.0,
+    "text": " Entonces, sería para este sábado de noche."
+   },
+   {
+    "start": 16.0,
+    "end": 19.0,
+    "text": " Estamos acá en Zola de Capiata."
+   },
+   {
+    "start": 19.0,
+    "end": 24.0,
+    "text": " Entonces, alguien que pueda, puede escribirme."
+   },
+   {
+    "start": 24.0,
+    "end": 27.0,
+    "text": " Entonces, coordinamos."
+   }
+  ],
+  "text": "¿Qué tal, amigos? ¿Cómo estamos? Pueden escribirme al privado, los solos que hay. Pueden escribirme y ella es la que elige, ¿verdad? Entonces, sería para este sábado de noche. Estamos acá en Zola de Capiata. Entonces, alguien que pueda, puede escribirme. Entonces, coordinamos."
+ },
+ {
+  "file": "PTT-20251206-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.886671245098114,
+  "duration": 26.9378125,
+  "transcribed_at": "2026-07-24T14:39:32.763364+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.76,
+    "text": " Era su progrés, sí, y era, de patiante, dos horas y media, casi tres, cinco, hubieran esperado,"
+   },
+   {
+    "start": 6.76,
+    "end": 13.96,
+    "text": " porque ya te digo, ya nosotros creo que terminamos, como, treinta minutos, cuatro minutos después de reciclar."
+   },
+   {
+    "start": 15.96,
+    "end": 25.96,
+    "text": " Y bueno, así no más a veces, cuando se complica el trabajo, pensamos que íbamos a tardar una hora, una hora y media más, así que no, se fue todo listo."
+   }
+  ],
+  "text": "Era su progrés, sí, y era, de patiante, dos horas y media, casi tres, cinco, hubieran esperado, porque ya te digo, ya nosotros creo que terminamos, como, treinta minutos, cuatro minutos después de reciclar. Y bueno, así no más a veces, cuando se complica el trabajo, pensamos que íbamos a tardar una hora, una hora y media más, así que no, se fue todo listo."
+ },
+ {
+  "file": "PTT-20251212-WA0024.opus",
+  "language": "es",
+  "language_probability": 0.9074038863182068,
+  "duration": 27.8778125,
+  "transcribed_at": "2026-07-24T14:43:40.195406+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Aparte de diversión, aparte de pasarla bien, aparte de socializar a ese amigos,"
+   },
+   {
+    "start": 8.0,
+    "end": 17.0,
+    "text": " esto no es por falta de exceso sino es por experimentar y llevar al límite las relaciones,"
+   },
+   {
+    "start": 17.0,
+    "end": 22.0,
+    "text": " y por eso tenemos que cuidarnos las espaldas cada uno,"
+   },
+   {
+    "start": 22.0,
+    "end": 28.0,
+    "text": " y en conocimiento, esa mi humilde opinión. Muchas gracias."
+   }
+  ],
+  "text": "Aparte de diversión, aparte de pasarla bien, aparte de socializar a ese amigos, esto no es por falta de exceso sino es por experimentar y llevar al límite las relaciones, y por eso tenemos que cuidarnos las espaldas cada uno, y en conocimiento, esa mi humilde opinión. Muchas gracias."
+ },
+ {
+  "file": "PTT-20260120-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9682042598724365,
+  "duration": 28.3935,
+  "transcribed_at": "2026-07-24T14:58:24.620422+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.74,
+    "text": " Señor, no sé cómo te llamas, pero te queremos ¿Eh? ¿Qué? El, el, el, el, ¿Qué dice? ¿Liquito"
+   },
+   {
+    "start": 9.74,
+    "end": 15.94,
+    "text": " dice? No, no te conozco ni, ni, ni mi esposo tampoco, pero te queremos invitar a tomar"
+   },
+   {
+    "start": 15.94,
+    "end": 26.5,
+    "text": " una copa. Cuando puedas. Mañana no podemos, pero si de repente podés hoy o el jueves."
+   }
+  ],
+  "text": "Señor, no sé cómo te llamas, pero te queremos ¿Eh? ¿Qué? El, el, el, el, ¿Qué dice? ¿Liquito dice? No, no te conozco ni, ni, ni mi esposo tampoco, pero te queremos invitar a tomar una copa. Cuando puedas. Mañana no podemos, pero si de repente podés hoy o el jueves."
+ },
+ {
+  "file": "PTT-20251016-WA0045.opus",
+  "language": "es",
+  "language_probability": 0.5916379690170288,
+  "duration": 30.0935,
+  "transcribed_at": "2026-07-24T15:03:57.347127+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.4,
+    "text": " Cristian, yo te digo que en tres años de vacaciones en asunción y el tercer año conocí a mi mujer,"
+   },
+   {
+    "start": 8.4,
+    "end": 22.84,
+    "text": " mi señora, te aseguro que conozco más sitios en asunción centro que mi mujer. Así que tú"
+   },
+   {
+    "start": 22.84,
+    "end": 28.48,
+    "text": " llévame pero yo también te puedo llevar en sitios de los buenos donde nos podemos divertir."
+   }
+  ],
+  "text": "Cristian, yo te digo que en tres años de vacaciones en asunción y el tercer año conocí a mi mujer, mi señora, te aseguro que conozco más sitios en asunción centro que mi mujer. Así que tú llévame pero yo también te puedo llevar en sitios de los buenos donde nos podemos divertir."
+ },
+ {
+  "file": "PTT-20251215-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.9045706391334534,
+  "duration": 30.1578125,
+  "transcribed_at": "2026-07-24T15:06:54.144676+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.48,
+    "text": " sí así no pasó así me pasó un poco y yo con este trabajo de motota y si muchas cosas ya"
+   },
+   {
+    "start": 7.48,
+    "end": 17.88,
+    "text": " habí todo se vi escuché de todas cosas ya que va a haber muchas cosas ya aprendí"
+   },
+   {
+    "start": 17.88,
+    "end": 25.52,
+    "text": " trabajando así en las callegos de todo se ve y no a la noche cosa que nadie ve o sabe todo"
+   },
+   {
+    "start": 25.52,
+    "end": 28.96,
+    "text": " que va mototas hijos dios"
+   }
+  ],
+  "text": "sí así no pasó así me pasó un poco y yo con este trabajo de motota y si muchas cosas ya habí todo se vi escuché de todas cosas ya que va a haber muchas cosas ya aprendí trabajando así en las callegos de todo se ve y no a la noche cosa que nadie ve o sabe todo que va mototas hijos dios"
+ },
+ {
+  "file": "PTT-20251015-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.9261094927787781,
+  "duration": 32.7178125,
+  "transcribed_at": "2026-07-24T16:20:52.914225+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.94,
+    "text": " hola caroli cómo estás después qué tal después del masaje cómo te fue cómo te va"
+   },
+   {
+    "start": 8.94,
+    "end": 14.5,
+    "text": " a mejorarte un poquito tengo que hacer otras sesiones de masaje para que se"
+   },
+   {
+    "start": 14.5,
+    "end": 22.8,
+    "text": " ablande toda esa espalda que tenés ahí con muchas tensiones"
+   },
+   {
+    "start": 23.8,
+    "end": 28.44,
+    "text": " y unas cuantas sesiones yo creo que con ese ya te va a dar un buen relax"
+   },
+   {
+    "start": 30.6,
+    "end": 31.44,
+    "text": " qué decís"
+   }
+  ],
+  "text": "hola caroli cómo estás después qué tal después del masaje cómo te fue cómo te va a mejorarte un poquito tengo que hacer otras sesiones de masaje para que se ablande toda esa espalda que tenés ahí con muchas tensiones y unas cuantas sesiones yo creo que con ese ya te va a dar un buen relax qué decís"
+ },
+ {
+  "file": "PTT-20260120-WA0126.opus",
+  "language": "es",
+  "language_probability": 0.9809473156929016,
+  "duration": 30.9778125,
+  "transcribed_at": "2026-07-24T16:31:12.936746+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Y una cosa que nosotros siempre decimos con todas las parejas si nos organizamos vamos a coger todo esto."
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " Lo tienes en una buena organización."
+   },
+   {
+    "start": 8.0,
+    "end": 13.0,
+    "text": " Hay que tener en cuenta que no es juntarse, no más estar en la pila y porque estamos todos de nuevo."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Uno ya quiere meter donde sea."
+   },
+   {
+    "start": 15.0,
+    "end": 20.0,
+    "text": " Eso le molesta mucho al hombre y a la mujer también si la mujer no le gusta, ¿verdad?"
+   },
+   {
+    "start": 20.0,
+    "end": 24.0,
+    "text": " Hay que es muy amplio el ambiente."
+   },
+   {
+    "start": 24.0,
+    "end": 27.0,
+    "text": " Añandean, entendenean y informaban a los perros."
+   },
+   {
+    "start": 27.0,
+    "end": 31.0,
+    "text": " Me andé a rero y en la tema y a la mujer hay que complacerlo."
+   }
+  ],
+  "text": "Y una cosa que nosotros siempre decimos con todas las parejas si nos organizamos vamos a coger todo esto. Lo tienes en una buena organización. Hay que tener en cuenta que no es juntarse, no más estar en la pila y porque estamos todos de nuevo. Uno ya quiere meter donde sea. Eso le molesta mucho al hombre y a la mujer también si la mujer no le gusta, ¿verdad? Hay que es muy amplio el ambiente. Añandean, entendenean y informaban a los perros. Me andé a rero y en la tema y a la mujer hay que complacerlo."
+ },
+ {
+  "file": "PTT-20251015-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.9308879971504211,
+  "duration": 32.3178125,
+  "transcribed_at": "2026-07-24T17:17:18.080165+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Viste que eso vola, la invitación se te hace un día antes, se te hace un día antes para que puedas"
+   },
+   {
+    "start": 8.0,
+    "end": 17.6,
+    "text": " adecuarte y planificar el horario. En el primer contacto que tuvimos si te invité ya algo tarde"
+   },
+   {
+    "start": 17.6,
+    "end": 25.68,
+    "text": " pero después ya te dejé la invitación para que te acomodes y puedas venir el día siguiente."
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " ¡Sólo vola, sire!"
+   }
+  ],
+  "text": "Viste que eso vola, la invitación se te hace un día antes, se te hace un día antes para que puedas adecuarte y planificar el horario. En el primer contacto que tuvimos si te invité ya algo tarde pero después ya te dejé la invitación para que te acomodes y puedas venir el día siguiente. ¡Sólo vola, sire!"
+ },
+ {
+  "file": "PTT-20260117-WA0063.opus",
+  "language": "es",
+  "language_probability": 0.9333106279373169,
+  "duration": 31.5378125,
+  "transcribed_at": "2026-07-24T17:35:34.233529+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Una cosa que pidas permiso y otra cosa muy diferente es que te autoricen a escribir."
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " Entende, es totalmente diferente lo que estás queriendo decir."
+   },
+   {
+    "start": 10.0,
+    "end": 16.0,
+    "text": " Hay gente que, por ejemplo, que balsa una foto o balsa la foto de tu señora, o balsa la foto pinchando,"
+   },
+   {
+    "start": 16.0,
+    "end": 20.0,
+    "text": " o balsa la foto con tu amante, o con tu amiga, con lo que quieras decir."
+   },
+   {
+    "start": 20.0,
+    "end": 26.0,
+    "text": " Enseguida te mandan fotos, mensajes en el privado, o te mandan fotos de su miembro en el privado."
+   },
+   {
+    "start": 26.0,
+    "end": 31.0,
+    "text": " Sin que la persona la autorice a qué le escriba, a ese punto hoy."
+   }
+  ],
+  "text": "Una cosa que pidas permiso y otra cosa muy diferente es que te autoricen a escribir. Entende, es totalmente diferente lo que estás queriendo decir. Hay gente que, por ejemplo, que balsa una foto o balsa la foto de tu señora, o balsa la foto pinchando, o balsa la foto con tu amante, o con tu amiga, con lo que quieras decir. Enseguida te mandan fotos, mensajes en el privado, o te mandan fotos de su miembro en el privado. Sin que la persona la autorice a qué le escriba, a ese punto hoy."
+ },
+ {
+  "file": "PTT-20251214-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9447093605995178,
+  "duration": 35.0778125,
+  "transcribed_at": "2026-07-24T17:58:33.400867+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.12,
+    "text": " Donde la entende, ahí no se acaba, donde la entende"
+   },
+   {
+    "start": 3.12,
+    "end": 4.96,
+    "text": " ahí no, dista..."
+   },
+   {
+    "start": 4.96,
+    "end": 6.96,
+    "text": " Será que mi cuneo, esa vez,"
+   },
+   {
+    "start": 7.04,
+    "end": 8.78,
+    "text": " sticks y ahí bella?"
+   },
+   {
+    "start": 8.78,
+    "end": 9.58,
+    "text": " Hahaha"
+   },
+   {
+    "start": 9.58,
+    "end": 11.18,
+    "text": " Hay fades, sencillo, se..."
+   },
+   {
+    "start": 11.24,
+    "end": 14.24,
+    "text": " si hay alguna mujer que me escucha, por favor"
+   },
+   {
+    "start": 14.24,
+    "end": 16.240000000000002,
+    "text": " que me responda un poco, por favor"
+   },
+   {
+    "start": 16.740000000000002,
+    "end": 18.900000000000002,
+    "text": " en audio queremos escuchar los hombres"
+   },
+   {
+    "start": 18.900000000000002,
+    "end": 20.900000000000002,
+    "text": " Si ustedes cuando ven"
+   },
+   {
+    "start": 20.900000000000002,
+    "end": 25.02,
+    "text": " esa pija dice nazi también, como nosotros decimos de ustedes"
+   },
+   {
+    "start": 25.02,
+    "end": 27.02,
+    "text": " cuando vemos la concha"
+   },
+   {
+    "start": 27.02,
+    "end": 28.62,
+    "text": " Si alguna mujer se anima"
+   },
+   {
+    "start": 28.62,
+    "end": 33.620000000000005,
+    "text": " no solo a mí me hará para el grupo y para todos los muchachos queremos escuchar."
+   }
+  ],
+  "text": "Donde la entende, ahí no se acaba, donde la entende ahí no, dista... Será que mi cuneo, esa vez, sticks y ahí bella? Hahaha Hay fades, sencillo, se... si hay alguna mujer que me escucha, por favor que me responda un poco, por favor en audio queremos escuchar los hombres Si ustedes cuando ven esa pija dice nazi también, como nosotros decimos de ustedes cuando vemos la concha Si alguna mujer se anima no solo a mí me hará para el grupo y para todos los muchachos queremos escuchar."
+ },
+ {
+  "file": "PTT-20260117-WA0106.opus",
+  "language": "es",
+  "language_probability": 0.9564872980117798,
+  "duration": 34.2135,
+  "transcribed_at": "2026-07-24T19:45:29.486415+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.120000000000001,
+    "text": " Aplicas eso en la página y se la sebo y pero no hay cuáles si dijiste en sentido malo o bueno pero"
+   },
+   {
+    "start": 12.32,
+    "end": 17.52,
+    "text": " en mi idioma o sea en mis palabras yo entiendo sebo y cuando una persona es muy flaquita verdad"
+   },
+   {
+    "start": 17.52,
+    "end": 24.240000000000002,
+    "text": " y empezamos a tener dos guaraníes diferentes cada uno tiene su guaraní aquí yo guaraní"
+   },
+   {
+    "start": 24.240000000000002,
+    "end": 31.160000000000004,
+    "text": " yo soy luqueña y guaraní es luqueña"
+   }
+  ],
+  "text": "Aplicas eso en la página y se la sebo y pero no hay cuáles si dijiste en sentido malo o bueno pero en mi idioma o sea en mis palabras yo entiendo sebo y cuando una persona es muy flaquita verdad y empezamos a tener dos guaraníes diferentes cada uno tiene su guaraní aquí yo guaraní yo soy luqueña y guaraní es luqueña"
+ },
+ {
+  "file": "PTT-20260311-WA0041.opus",
+  "language": "es",
+  "language_probability": 0.910607099533081,
+  "duration": 37.3978125,
+  "transcribed_at": "2026-07-24T21:42:27.852259+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 15.0,
+    "text": " Y van a hacer una despeguea soltero y me invitaron, insistí, pero realmente cuesta muchísimo juntarle a los celos porque están los que te dicen sí, sí, sí a todo, y después no aparecen."
+   },
+   {
+    "start": 15.0,
+    "end": 21.0,
+    "text": " Y los que todo el tiempo, a ver cuándo invitas para hacer algo, a ver cuándo hacemos algo, y después finalmente le dije no."
+   },
+   {
+    "start": 21.0,
+    "end": 31.0,
+    "text": " Te dicen que sí, después los 45 no. O sea, es que se descompuso auto, se enfermoso abuelano, que es superrito."
+   },
+   {
+    "start": 31.0,
+    "end": 37.0,
+    "text": " Todas las escuchas a bien, pero a ver, ya las escuchas. Pero cuándo se da, siempre da gusto."
+   }
+  ],
+  "text": "Y van a hacer una despeguea soltero y me invitaron, insistí, pero realmente cuesta muchísimo juntarle a los celos porque están los que te dicen sí, sí, sí a todo, y después no aparecen. Y los que todo el tiempo, a ver cuándo invitas para hacer algo, a ver cuándo hacemos algo, y después finalmente le dije no. Te dicen que sí, después los 45 no. O sea, es que se descompuso auto, se enfermoso abuelano, que es superrito. Todas las escuchas a bien, pero a ver, ya las escuchas. Pero cuándo se da, siempre da gusto."
+ },
+ {
+  "file": "PTT-20251016-WA0046.opus",
+  "language": "es",
+  "language_probability": 0.6197283864021301,
+  "duration": 37.5378125,
+  "transcribed_at": "2026-07-24T21:55:06.730494+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.5,
+    "text": " Noja Nendi, vete a cono el, y ande con la,"
+   },
+   {
+    "start": 3.88,
+    "end": 5.54,
+    "text": " vas a finalandra con nada,"
+   },
+   {
+    "start": 6.68,
+    "end": 8.66,
+    "text": " que tuyaygutui na ti, no mero y."
+   },
+   {
+    "start": 9.36,
+    "end": 12.6,
+    "text": " Nendi ye tango, te gori metan y no bebe ahi,"
+   },
+   {
+    "start": 12.86,
+    "end": 15.88,
+    "text": " vas te copio pa la peca, pues co topio pa kno, y a te go,"
+   },
+   {
+    "start": 16.0,
+    "end": 17.18,
+    "text": " oya pipare indaina."
+   },
+   {
+    "start": 19.68,
+    "end": 21.740000000000002,
+    "text": " Nondego ahi me apresende no, el ande,"
+   },
+   {
+    "start": 21.8,
+    "end": 23.48,
+    "text": " donde va vetenina,"
+   },
+   {
+    "start": 23.66,
+    "end": 25.0,
+    "text": " vais puipiraro y kutua."
+   },
+   {
+    "start": 26.54,
+    "end": 29.02,
+    "text": " Má, má que diave, ibe,"
+   },
+   {
+    "start": 29.02,
+    "end": 37.46,
+    "text": " Eres temeano, es decir, tengo mi pina, era, era, yo pedí de patar laña de carnaco, era, era."
+   }
+  ],
+  "text": "Noja Nendi, vete a cono el, y ande con la, vas a finalandra con nada, que tuyaygutui na ti, no mero y. Nendi ye tango, te gori metan y no bebe ahi, vas te copio pa la peca, pues co topio pa kno, y a te go, oya pipare indaina. Nondego ahi me apresende no, el ande, donde va vetenina, vais puipiraro y kutua. Má, má que diave, ibe, Eres temeano, es decir, tengo mi pina, era, era, yo pedí de patar laña de carnaco, era, era."
+ },
+ {
+  "file": "PTT-20251212-WA0023.opus",
+  "language": "es",
+  "language_probability": 0.8466017246246338,
+  "duration": 39.6178125,
+  "transcribed_at": "2026-07-24T22:05:56.213410+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Muy buenos días para todos y de una vez machácalo."
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " Estoy en el mundo."
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " Soy ya hace más de 12 años."
+   },
+   {
+    "start": 12.0,
+    "end": 17.0,
+    "text": " Soy amigo de nuestro querido, amigo Christian y alguno que conozco en este grupo."
+   },
+   {
+    "start": 17.0,
+    "end": 26.0,
+    "text": " Yo creo que tenemos que estar presentándonos cada uno, enviar fotos sociales para conocernos todos."
+   },
+   {
+    "start": 26.0,
+    "end": 34.0,
+    "text": " Porque es muy delicado este mundo, porque tenemos hijos, parientes."
+   },
+   {
+    "start": 34.0,
+    "end": 40.0,
+    "text": " Y son muy delicados este mundo, tenemos que saber cómo llevar todo esto."
+   }
+  ],
+  "text": "Muy buenos días para todos y de una vez machácalo. Estoy en el mundo. Soy ya hace más de 12 años. Soy amigo de nuestro querido, amigo Christian y alguno que conozco en este grupo. Yo creo que tenemos que estar presentándonos cada uno, enviar fotos sociales para conocernos todos. Porque es muy delicado este mundo, porque tenemos hijos, parientes. Y son muy delicados este mundo, tenemos que saber cómo llevar todo esto."
+ },
+ {
+  "file": "PTT-20251016-WA0040.opus",
+  "language": "es",
+  "language_probability": 0.8975508213043213,
+  "duration": 38.1378125,
+  "transcribed_at": "2026-07-24T22:13:16.798829+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Giorgio, cuando llegue a Paraguay, yo te espero para irnos a pescar."
+   },
+   {
+    "start": 6.0,
+    "end": 14.0,
+    "text": " Yo digo a 5 cuadras del río Paraguay, en los dos lugares, en Villaya tengo una casa que está a 3 cuadras del río Paraguay"
+   },
+   {
+    "start": 14.0,
+    "end": 21.0,
+    "text": " acá en Loca Alonso tengo una casa que estamos un poquito más retirados, ahora más o menos estamos 8 a 10 cuadras del río Paraguay"
+   },
+   {
+    "start": 21.0,
+    "end": 26.0,
+    "text": " pero estamos cerquitas. Tenemos el río Paraguay a nuestra disposición cuando vengan"
+   },
+   {
+    "start": 26.0,
+    "end": 38.0,
+    "text": " estaremos yendo a pescar, y lo vamos a pescar morenitas, rujitas, de todo un poco."
+   }
+  ],
+  "text": "Giorgio, cuando llegue a Paraguay, yo te espero para irnos a pescar. Yo digo a 5 cuadras del río Paraguay, en los dos lugares, en Villaya tengo una casa que está a 3 cuadras del río Paraguay acá en Loca Alonso tengo una casa que estamos un poquito más retirados, ahora más o menos estamos 8 a 10 cuadras del río Paraguay pero estamos cerquitas. Tenemos el río Paraguay a nuestra disposición cuando vengan estaremos yendo a pescar, y lo vamos a pescar morenitas, rujitas, de todo un poco."
+ },
+ {
+  "file": "PTT-20251016-WA0043.opus",
+  "language": "es",
+  "language_probability": 0.9402604699134827,
+  "duration": 39.1778125,
+  "transcribed_at": "2026-07-24T22:39:29.156506+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.88,
+    "text": " no lo prometió yo me comprometo a llevarte a pescar ahora que saquemos no es ella"
+   },
+   {
+    "start": 6.88,
+    "end": 9.120000000000001,
+    "text": " de otra cuestión"
+   },
+   {
+    "start": 9.120000000000001,
+    "end": 16.28,
+    "text": " si te prometo que podemos pescar alguna rubita una mollochita que no sea vera"
+   },
+   {
+    "start": 16.28,
+    "end": 20.04,
+    "text": " con caña y hilo de pescar"
+   },
+   {
+    "start": 20.04,
+    "end": 25.84,
+    "text": " seguramente podemos pescar con alguna cervecita alguna cenita"
+   },
+   {
+    "start": 25.84,
+    "end": 33.12,
+    "text": " acompañado de la amiga noelia"
+   },
+   {
+    "start": 35.64,
+    "end": 37.12,
+    "text": " o ella no permiten"
+   }
+  ],
+  "text": "no lo prometió yo me comprometo a llevarte a pescar ahora que saquemos no es ella de otra cuestión si te prometo que podemos pescar alguna rubita una mollochita que no sea vera con caña y hilo de pescar seguramente podemos pescar con alguna cervecita alguna cenita acompañado de la amiga noelia o ella no permiten"
+ },
+ {
+  "file": "PTT-20251206-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.9536805152893066,
+  "duration": 41.8978125,
+  "transcribed_at": "2026-07-25T00:10:36.843452+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.12,
+    "text": " Última vez, cuando le dejamos plantado, porque usted se ha pulado demasiado, nosotros le"
+   },
+   {
+    "start": 5.12,
+    "end": 9.84,
+    "text": " dijimos que estábamos trabajando en lambarejo y ustedes estaban en la zona también, entonces"
+   },
+   {
+    "start": 9.84,
+    "end": 16.0,
+    "text": " nosotros le hicimos que esperen un rato porque estábamos ahí trabajando, pasa que a veces"
+   },
+   {
+    "start": 16.0,
+    "end": 20.96,
+    "text": " cuando estás haciendo un trabajo, no es que te liberas, soltas y dejas y te vas, es"
+   },
+   {
+    "start": 20.96,
+    "end": 25.04,
+    "text": " lo que pasa ahora, el que trata de dejar en forma otra vez vuestro trabajo, si bien"
+   },
+   {
+    "start": 25.04,
+    "end": 28.240000000000002,
+    "text": " no arreglar trabajo por estilo, por lo menos hay que tratar de dejar en forma"
+   },
+   {
+    "start": 28.240000000000002,
+    "end": 34.0,
+    "text": " otra vez, porque hicimos nosotros, esperen que se ponga a ustedes más o menos 40 puntos después"
+   },
+   {
+    "start": 34.0,
+    "end": 42.0,
+    "text": " de que les mensajeamos y ustedes ya salguen a ti, no es lo que pasó, pero no es así, no es así, pero bueno."
+   }
+  ],
+  "text": "Última vez, cuando le dejamos plantado, porque usted se ha pulado demasiado, nosotros le dijimos que estábamos trabajando en lambarejo y ustedes estaban en la zona también, entonces nosotros le hicimos que esperen un rato porque estábamos ahí trabajando, pasa que a veces cuando estás haciendo un trabajo, no es que te liberas, soltas y dejas y te vas, es lo que pasa ahora, el que trata de dejar en forma otra vez vuestro trabajo, si bien no arreglar trabajo por estilo, por lo menos hay que tratar de dejar en forma otra vez, porque hicimos nosotros, esperen que se ponga a ustedes más o menos 40 puntos después de que les mensajeamos y ustedes ya salguen a ti, no es lo que pasó, pero no es así, no es así, pero bueno."
+ },
+ {
+  "file": "PTT-20260120-WA0040.opus",
+  "language": "es",
+  "language_probability": 0.9740601778030396,
+  "duration": 47.7378125,
+  "transcribed_at": "2026-07-25T01:52:11.788416+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Y en cuanto a tomar un vino no hay problema, yo también les invito, nosotros les invitamos, les invitamos a nuestra casa."
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " Si hay un problema pueden venir por más que esté nuestro nene, no hay problema."
+   },
+   {
+    "start": 12.0,
+    "end": 18.0,
+    "text": " No quiere decir que porque vengan a casa y está mi nene, vamos a coger en frente al nene, no."
+   },
+   {
+    "start": 18.0,
+    "end": 22.0,
+    "text": " Pueden venir, comemos un asado, compartimos salvo."
+   },
+   {
+    "start": 22.0,
+    "end": 27.0,
+    "text": " Y si se da bueno, vamos al telo, vamos a otro lugar porque mi casa está mi nene."
+   },
+   {
+    "start": 27.0,
+    "end": 34.0,
+    "text": " Si no estuvieran mi nene no hay problema, pero tenemos un hijo de 12 años que ya entiende y una nena de 9."
+   },
+   {
+    "start": 34.0,
+    "end": 40.0,
+    "text": " Y nada, eso, están súper invitados, pueden venir a casa, podemos cenar."
+   },
+   {
+    "start": 40.0,
+    "end": 46.0,
+    "text": " Si hay que hacer algo, si se da vamos al telo y después viene y se duermen en casa y se van al día siguiente."
+   },
+   {
+    "start": 46.0,
+    "end": 48.0,
+    "text": " No hay ningún problema con eso."
+   }
+  ],
+  "text": "Y en cuanto a tomar un vino no hay problema, yo también les invito, nosotros les invitamos, les invitamos a nuestra casa. Si hay un problema pueden venir por más que esté nuestro nene, no hay problema. No quiere decir que porque vengan a casa y está mi nene, vamos a coger en frente al nene, no. Pueden venir, comemos un asado, compartimos salvo. Y si se da bueno, vamos al telo, vamos a otro lugar porque mi casa está mi nene. Si no estuvieran mi nene no hay problema, pero tenemos un hijo de 12 años que ya entiende y una nena de 9. Y nada, eso, están súper invitados, pueden venir a casa, podemos cenar. Si hay que hacer algo, si se da vamos al telo y después viene y se duermen en casa y se van al día siguiente. No hay ningún problema con eso."
+ },
+ {
+  "file": "PTT-20260117-WA0080.opus",
+  "language": "es",
+  "language_probability": 0.9772283434867859,
+  "duration": 46.5335,
+  "transcribed_at": "2026-07-25T02:00:26.918046+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " y la verdad que no te podría decir que si hay fotos no porque nosotros no grabamos pero capaz que"
+   },
+   {
+    "start": 6.0,
+    "end": 13.5,
+    "text": " nos hayan grabado porque como que que me entero ahora que si se podía grabar y todo eso nosotros"
+   },
+   {
+    "start": 13.5,
+    "end": 19.82,
+    "text": " no sabíamos pero bueno si hay vídeos fotos envíen por favor queremos vernos"
+   },
+   {
+    "start": 22.72,
+    "end": 29.72,
+    "text": " pero en serio todas todas las parejas estaban sentados nadie activaba nadie nadie"
+   },
+   {
+    "start": 29.72,
+    "end": 38.16,
+    "text": " pero al final la música era buena buenos tragos es poco caro pero bueno pero pasamos bien igual"
+   },
+   {
+    "start": 38.16,
+    "end": 45.0,
+    "text": " pasamos super gente más si conocimos gente buena y bueno ya en fin"
+   }
+  ],
+  "text": "y la verdad que no te podría decir que si hay fotos no porque nosotros no grabamos pero capaz que nos hayan grabado porque como que que me entero ahora que si se podía grabar y todo eso nosotros no sabíamos pero bueno si hay vídeos fotos envíen por favor queremos vernos pero en serio todas todas las parejas estaban sentados nadie activaba nadie nadie pero al final la música era buena buenos tragos es poco caro pero bueno pero pasamos bien igual pasamos super gente más si conocimos gente buena y bueno ya en fin"
+ },
+ {
+  "file": "PTT-20260117-WA0064.opus",
+  "language": "es",
+  "language_probability": 0.9032933712005615,
+  "duration": 47.2378125,
+  "transcribed_at": "2026-07-25T02:35:22.206578+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.72,
+    "text": " yo ya llevo ya acá en este ambiente ya llevo más de 22 años y hay una persona que en este grupo"
+   },
+   {
+    "start": 9.72,
+    "end": 20.8,
+    "text": " que me conoce que exactamente hace siete años sino más que no conocemos y ella me conoce"
+   },
+   {
+    "start": 20.8,
+    "end": 29.560000000000002,
+    "text": " muy bien perfectamente me conoce y sabe cómo soy yo muy discreto y no me gusta lo estaré"
+   },
+   {
+    "start": 29.560000000000002,
+    "end": 36.36,
+    "text": " escribiendo también a cada rato si se hace de ahí sino bueno paciencia o si pasó algo mañana"
+   },
+   {
+    "start": 36.36,
+    "end": 43.2,
+    "text": " si me te evito no me acuerdo así tiene que ser ahí eso es lo que voy que hay gente que no sabe su"
+   },
+   {
+    "start": 43.2,
+    "end": 45.760000000000005,
+    "text": " rol de tercero"
+   }
+  ],
+  "text": "yo ya llevo ya acá en este ambiente ya llevo más de 22 años y hay una persona que en este grupo que me conoce que exactamente hace siete años sino más que no conocemos y ella me conoce muy bien perfectamente me conoce y sabe cómo soy yo muy discreto y no me gusta lo estaré escribiendo también a cada rato si se hace de ahí sino bueno paciencia o si pasó algo mañana si me te evito no me acuerdo así tiene que ser ahí eso es lo que voy que hay gente que no sabe su rol de tercero"
+ },
+ {
+  "file": "PTT-20260116-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.923902690410614,
+  "duration": 55.6578125,
+  "transcribed_at": "2026-07-25T02:55:10.720960+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.52,
+    "text": " Hola, muy buenas tardes señores, parejas, solos, olas y amigos, tengo un"
+   },
+   {
+    "start": 8.52,
+    "end": 16.76,
+    "text": " amigo que tiene una quinta, acá en Lucque creo y está queriendo organizar"
+   },
+   {
+    "start": 16.76,
+    "end": 24.52,
+    "text": " un encuentro para divertirnos, pasarla bien, obviamente coger a full, por"
+   },
+   {
+    "start": 24.52,
+    "end": 33.4,
+    "text": " sobre todas las cosas y me voy a ir preguntando los detalles de que me"
+   },
+   {
+    "start": 33.4,
+    "end": 43.0,
+    "text": " envíe la ubicación, que le envíe, es un singler, es un singler y para cuándo, creo"
+   },
+   {
+    "start": 43.0,
+    "end": 49.28,
+    "text": " que es para mañana, si se presta el tiempo estaría bueno, mañana o el"
+   },
+   {
+    "start": 49.28,
+    "end": 54.6,
+    "text": " domingo, creo, le voy a estar avisando"
+   }
+  ],
+  "text": "Hola, muy buenas tardes señores, parejas, solos, olas y amigos, tengo un amigo que tiene una quinta, acá en Lucque creo y está queriendo organizar un encuentro para divertirnos, pasarla bien, obviamente coger a full, por sobre todas las cosas y me voy a ir preguntando los detalles de que me envíe la ubicación, que le envíe, es un singler, es un singler y para cuándo, creo que es para mañana, si se presta el tiempo estaría bueno, mañana o el domingo, creo, le voy a estar avisando"
+ },
+ {
+  "file": "PTT-20260117-WA0114.opus",
+  "language": "es",
+  "language_probability": 0.9625687003135681,
+  "duration": 48.1135,
+  "transcribed_at": "2026-07-25T02:59:27.941973+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.88,
+    "text": " Y creo que sí ponen todos excusas porque nosotros bueno ayer nos fuimos en este el evento de la"
+   },
+   {
+    "start": 9.88,
+    "end": 16.8,
+    "text": " negrita y bueno pasamos bien solo si pasamos bien porque tratamos siempre de disfrutar pero bueno"
+   },
+   {
+    "start": 16.8,
+    "end": 26.240000000000002,
+    "text": " queríamos conocer parejas o compartir que sé yo pero no solas más que nada"
+   },
+   {
+    "start": 27.080000000000002,
+    "end": 29.12,
+    "text": " pero bueno"
+   },
+   {
+    "start": 31.12,
+    "end": 37.92,
+    "text": " capaz que el año que viene cuando volvamos tengamos un poco más de suerte con las paraguayas"
+   },
+   {
+    "start": 37.92,
+    "end": 45.160000000000004,
+    "text": " porque le quería presentar una paraguaya por lo menos a mi a mi esposo pero no hay cuaron mi amor"
+   }
+  ],
+  "text": "Y creo que sí ponen todos excusas porque nosotros bueno ayer nos fuimos en este el evento de la negrita y bueno pasamos bien solo si pasamos bien porque tratamos siempre de disfrutar pero bueno queríamos conocer parejas o compartir que sé yo pero no solas más que nada pero bueno capaz que el año que viene cuando volvamos tengamos un poco más de suerte con las paraguayas porque le quería presentar una paraguaya por lo menos a mi a mi esposo pero no hay cuaron mi amor"
+ },
+ {
+  "file": "PTT-20260115-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.957537829875946,
+  "duration": 50.9178125,
+  "transcribed_at": "2026-07-25T03:09:25.967871+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Aunque, en honor a la verdad, yo creí que allá para agosto, septiembre, por ella iba a llegar,"
+   },
+   {
+    "start": 10.0,
+    "end": 20.0,
+    "text": " porque en junio yo ya iba por los 95 y yo dije, no, este para agosto, septiembre ya llegó,"
+   },
+   {
+    "start": 20.0,
+    "end": 27.0,
+    "text": " pero después del 120 se me empezó a complicar un poco más porque cuesta muchísimo conseguir"
+   },
+   {
+    "start": 27.0,
+    "end": 35.0,
+    "text": " los potables. Parece el bebo mentira. Los que más abundan son los pageros que te escriben,"
+   },
+   {
+    "start": 35.0,
+    "end": 41.0,
+    "text": " que quieran sexting, intercambiar fotos y videos, pero a la verdad de concretar, ahí se les"
+   },
+   {
+    "start": 41.0,
+    "end": 48.0,
+    "text": " descompuso el auto, se enfermoso abuela, se murió su perro, un hambre en al bebo, pero se logró."
+   },
+   {
+    "start": 48.0,
+    "end": 51.0,
+    "text": " Lo importante es que se logró."
+   }
+  ],
+  "text": "Aunque, en honor a la verdad, yo creí que allá para agosto, septiembre, por ella iba a llegar, porque en junio yo ya iba por los 95 y yo dije, no, este para agosto, septiembre ya llegó, pero después del 120 se me empezó a complicar un poco más porque cuesta muchísimo conseguir los potables. Parece el bebo mentira. Los que más abundan son los pageros que te escriben, que quieran sexting, intercambiar fotos y videos, pero a la verdad de concretar, ahí se les descompuso el auto, se enfermoso abuela, se murió su perro, un hambre en al bebo, pero se logró. Lo importante es que se logró."
+ }
+]

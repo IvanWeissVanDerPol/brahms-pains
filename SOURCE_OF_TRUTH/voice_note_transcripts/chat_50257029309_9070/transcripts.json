@@ -1,0 +1,37 @@
+[
+ {
+  "file": "PTT-20240924-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.8639594316482544,
+  "duration": 28.2935,
+  "transcribed_at": "2026-07-24T13:46:25.031378+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Hola Iván, buenas tardes. Lorena Zepeda, le saluda de Guatemala."
+   },
+   {
+    "start": 5.0,
+    "end": 13.0,
+    "text": " Recibí su aplicación para la plaza de Full Stack Developer Paraguay en un formato de trabajo híbrido."
+   },
+   {
+    "start": 13.0,
+    "end": 20.0,
+    "text": " Me interesa bastante su perfil, quisiera contarle que estoy buscando mi proyecto, el cliente,"
+   },
+   {
+    "start": 20.0,
+    "end": 25.0,
+    "text": " e iniciar formalmente el proceso de reclutamiento y selección con su persona."
+   },
+   {
+    "start": 25.0,
+    "end": 29.0,
+    "text": " Déjame saber en qué momento lo puedo contactar. Muchas gracias."
+   }
+  ],
+  "text": "Hola Iván, buenas tardes. Lorena Zepeda, le saluda de Guatemala. Recibí su aplicación para la plaza de Full Stack Developer Paraguay en un formato de trabajo híbrido. Me interesa bastante su perfil, quisiera contarle que estoy buscando mi proyecto, el cliente, e iniciar formalmente el proceso de reclutamiento y selección con su persona. Déjame saber en qué momento lo puedo contactar. Muchas gracias."
+ }
+]

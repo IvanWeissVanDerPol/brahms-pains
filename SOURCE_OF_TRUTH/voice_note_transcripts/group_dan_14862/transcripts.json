@@ -1,0 +1,67 @@
+[
+ {
+  "file": "PTT-20260508-WA0003.opus",
+  "language": "de",
+  "language_probability": 0.7894580364227295,
+  "duration": 4.1978125,
+  "transcribed_at": "2026-07-23T23:08:28.875623+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.2,
+    "text": " Rieb ist da auf der Inelus, dann gebrennt er mich quasi das."
+   },
+   {
+    "start": 3.2,
+    "end": 4.2,
+    "text": " Ah, ah, sorry."
+   }
+  ],
+  "text": "Rieb ist da auf der Inelus, dann gebrennt er mich quasi das. Ah, ah, sorry."
+ },
+ {
+  "file": "PTT-20260406-WA0057.opus",
+  "language": "es",
+  "language_probability": 0.9123611450195312,
+  "duration": 14.7578125,
+  "transcribed_at": "2026-07-24T05:51:50.668884+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.96,
+    "text": " En mi diversidad, fondo los precios en Paraguay, la clientela, el target market,"
+   },
+   {
+    "start": 4.96,
+    "end": 11.22,
+    "text": " donde ofrecer, a quien ofrecerles, mirar por asunción y lambaré,"
+   },
+   {
+    "start": 11.22,
+    "end": 14.68,
+    "text": " donde dejar flyers, toda esa información relevante."
+   }
+  ],
+  "text": "En mi diversidad, fondo los precios en Paraguay, la clientela, el target market, donde ofrecer, a quien ofrecerles, mirar por asunción y lambaré, donde dejar flyers, toda esa información relevante."
+ },
+ {
+  "file": "PTT-20260406-WA0046.opus",
+  "language": "es",
+  "language_probability": 0.8720411062240601,
+  "duration": 40.6578125,
+  "transcribed_at": "2026-07-24T22:19:01.277184+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 18.0,
+    "text": " Hola Ergos, quiero que investigue un poco el mercado de Paraguay, ONG internacionales para ayuda a las mujeres y cómo implementar proyectos como traer copas menstruales y hacer tollitas reutilizables."
+   },
+   {
+    "start": 18.0,
+    "end": 40.0,
+    "text": " Las cosas que debería tener una página web para ofrecer productos menstruales gratis para gente de clase baja y ofrecer esta idea de proyecto tanto al gobierno en Paraguay como a gobiernos afuera y instituciones que estén interesados en ayudar."
+   }
+  ],
+  "text": "Hola Ergos, quiero que investigue un poco el mercado de Paraguay, ONG internacionales para ayuda a las mujeres y cómo implementar proyectos como traer copas menstruales y hacer tollitas reutilizables. Las cosas que debería tener una página web para ofrecer productos menstruales gratis para gente de clase baja y ofrecer esta idea de proyecto tanto al gobierno en Paraguay como a gobiernos afuera y instituciones que estén interesados en ayudar."
+ }
+]

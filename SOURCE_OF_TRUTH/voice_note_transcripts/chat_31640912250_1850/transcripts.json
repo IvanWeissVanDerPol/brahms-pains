@@ -1,0 +1,157 @@
+[
+ {
+  "file": "PTT-20260617-WA0067.opus",
+  "language": "en",
+  "language_probability": 0.8934438824653625,
+  "duration": 32.5935,
+  "transcribed_at": "2026-07-24T16:22:41.460669+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Hello, Dante Esther. Thank you so much."
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " I will party a lot and cuddle a lot of people."
+   },
+   {
+    "start": 13.0,
+    "end": 14.0,
+    "text": " So cuddly."
+   },
+   {
+    "start": 16.0,
+    "end": 19.0,
+    "text": " Thank you so much. Have a great day."
+   },
+   {
+    "start": 24.0,
+    "end": 28.0,
+    "text": " Hope you're having lots of fun back in the Netherlands."
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " Thank you for remembering."
+   }
+  ],
+  "text": "Hello, Dante Esther. Thank you so much. I will party a lot and cuddle a lot of people. So cuddly. Thank you so much. Have a great day. Hope you're having lots of fun back in the Netherlands. Thank you for remembering."
+ },
+ {
+  "file": "PTT-20251120-WA0019.opus",
+  "language": "en",
+  "language_probability": 0.9282869696617126,
+  "duration": 38.7578125,
+  "transcribed_at": "2026-07-24T17:57:23.648908+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.68,
+    "text": " Hello, I'll just speak in English because it's easier to express myself because in Dutch I'm missing all the words"
+   },
+   {
+    "start": 6.5200000000000005,
+    "end": 7.68,
+    "text": " but"
+   },
+   {
+    "start": 7.68,
+    "end": 13.56,
+    "text": " Definitely, ah with Kirian we prepared a little text, but I'll take a look to"
+   },
+   {
+    "start": 14.52,
+    "end": 16.52,
+    "text": " add this slush and"
+   },
+   {
+    "start": 18.2,
+    "end": 22.52,
+    "text": " Definitely, I'm really glad that he enjoyed it and he said it a lot"
+   },
+   {
+    "start": 25.6,
+    "end": 27.6,
+    "text": " Definitely really useful and helpful"
+   },
+   {
+    "start": 28.6,
+    "end": 31.44,
+    "text": " Slush glad that he liked it"
+   },
+   {
+    "start": 35.08,
+    "end": 38.160000000000004,
+    "text": " Thank you, and may he rest in peace"
+   }
+  ],
+  "text": "Hello, I'll just speak in English because it's easier to express myself because in Dutch I'm missing all the words but Definitely, ah with Kirian we prepared a little text, but I'll take a look to add this slush and Definitely, I'm really glad that he enjoyed it and he said it a lot Definitely really useful and helpful Slush glad that he liked it Thank you, and may he rest in peace"
+ },
+ {
+  "file": "PTT-20250617-WA0067.opus",
+  "language": "nl",
+  "language_probability": 0.5648877024650574,
+  "duration": 47.6378125,
+  "transcribed_at": "2026-07-25T02:35:04.592650+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Hallo, Dante Esther. Dank je wel."
+   },
+   {
+    "start": 3.0,
+    "end": 10.0,
+    "text": " Hier is het nog steeds niet in dag gelaten, want het is nog steeds mijn vierde dag voor een jaar."
+   },
+   {
+    "start": 10.0,
+    "end": 15.0,
+    "text": " Maar ja, nu zijn we in San Francisco."
+   },
+   {
+    "start": 15.0,
+    "end": 18.0,
+    "text": " Maar het baas is wel terug naar Canada."
+   },
+   {
+    "start": 18.0,
+    "end": 25.0,
+    "text": " Wij hebben gewoon naar California gegaan in Amerika voor de conferentie van werk."
+   },
+   {
+    "start": 25.0,
+    "end": 28.0,
+    "text": " Misschien volgende jaar of later."
+   },
+   {
+    "start": 28.0,
+    "end": 31.0,
+    "text": " Deze jaar gaan we ook naar Canada, maar ik weet niet."
+   },
+   {
+    "start": 31.0,
+    "end": 34.0,
+    "text": " Ik denk misschien meer volgende jaar."
+   },
+   {
+    "start": 34.0,
+    "end": 38.0,
+    "text": " Maar daar is het misschien fijnere en leker, want het is..."
+   },
+   {
+    "start": 43.0,
+    "end": 45.0,
+    "text": " Hebben ze meer tijd voor de mensen van de bedrijf?"
+   },
+   {
+    "start": 45.0,
+    "end": 47.0,
+    "text": " Dan kunnen we meer dingen doen met iedereen."
+   }
+  ],
+  "text": "Hallo, Dante Esther. Dank je wel. Hier is het nog steeds niet in dag gelaten, want het is nog steeds mijn vierde dag voor een jaar. Maar ja, nu zijn we in San Francisco. Maar het baas is wel terug naar Canada. Wij hebben gewoon naar California gegaan in Amerika voor de conferentie van werk. Misschien volgende jaar of later. Deze jaar gaan we ook naar Canada, maar ik weet niet. Ik denk misschien meer volgende jaar. Maar daar is het misschien fijnere en leker, want het is... Hebben ze meer tijd voor de mensen van de bedrijf? Dan kunnen we meer dingen doen met iedereen."
+ }
+]

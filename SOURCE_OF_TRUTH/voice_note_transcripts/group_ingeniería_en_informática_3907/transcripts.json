@@ -1,0 +1,22 @@
+[
+ {
+  "file": "AUD-20250204-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.967409610748291,
+  "duration": 10.6735,
+  "transcribed_at": "2026-07-24T03:56:39.453360+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.08,
+    "text": " Hola, ¿qué tal? ¿podrías avisar a los chicos de ingeniería informática que ahora ya está"
+   },
+   {
+    "start": 6.08,
+    "end": 10.6,
+    "text": " habilitado inteligencia artificial para cursar, para que se puedan inscribir?"
+   }
+  ],
+  "text": "Hola, ¿qué tal? ¿podrías avisar a los chicos de ingeniería informática que ahora ya está habilitado inteligencia artificial para cursar, para que se puedan inscribir?"
+ }
+]

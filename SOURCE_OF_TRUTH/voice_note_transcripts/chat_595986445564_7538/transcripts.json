@@ -1,0 +1,67 @@
+[
+ {
+  "file": "PTT-20240724-WA0024.opus",
+  "language": "es",
+  "language_probability": 0.8916473984718323,
+  "duration": 25.3178125,
+  "transcribed_at": "2026-07-24T13:31:09.357336+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 17.0,
+    "text": " Sí, no, o sea, mi plano es lit poner mal air. Mi idea lo es, tipo, si la profesora es facultad, su clase que puede ser leer un powerpoint de mierda, voy al menos a hacer lo mismo, pero hacer con powerpoint no sea una mierda."
+   },
+   {
+    "start": 19.0,
+    "end": 25.0,
+    "text": " Pero ya, gracias, te aviso, si necesito anything random en el cursito. A grasitos."
+   }
+  ],
+  "text": "Sí, no, o sea, mi plano es lit poner mal air. Mi idea lo es, tipo, si la profesora es facultad, su clase que puede ser leer un powerpoint de mierda, voy al menos a hacer lo mismo, pero hacer con powerpoint no sea una mierda. Pero ya, gracias, te aviso, si necesito anything random en el cursito. A grasitos."
+ },
+ {
+  "file": "PTT-20240724-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.9008681178092957,
+  "duration": 51.4978125,
+  "transcribed_at": "2026-07-25T00:54:33.903793+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.28,
+    "text": " ok ok no hay normalmente o sea yo el año antes pasado creo que me había"
+   },
+   {
+    "start": 7.28,
+    "end": 12.84,
+    "text": " inscribido en base de datos y base de datos por ejemplo tipo te daba unidad"
+   },
+   {
+    "start": 12.84,
+    "end": 19.76,
+    "text": " positiva o sea un pobre pone y te lee y después te muestra en con ejercicio ahora"
+   },
+   {
+    "start": 19.76,
+    "end": 27.12,
+    "text": " cómo funciona ni cosas así pero en este caso no sé cómo va a ser no se lo te"
+   },
+   {
+    "start": 27.12,
+    "end": 35.64,
+    "text": " maca no sé si va a ser tipo ese ejercicio si hay algo que hacer"
+   },
+   {
+    "start": 38.64,
+    "end": 46.0,
+    "text": " no sé qué preparaste no sé no sé si a la pared que vayas leyendo y explicando vas a"
+   },
+   {
+    "start": 46.0,
+    "end": 49.120000000000005,
+    "text": " mostrar con con ejemplos o algo así"
+   }
+  ],
+  "text": "ok ok no hay normalmente o sea yo el año antes pasado creo que me había inscribido en base de datos y base de datos por ejemplo tipo te daba unidad positiva o sea un pobre pone y te lee y después te muestra en con ejercicio ahora cómo funciona ni cosas así pero en este caso no sé cómo va a ser no se lo te maca no sé si va a ser tipo ese ejercicio si hay algo que hacer no sé qué preparaste no sé no sé si a la pared que vayas leyendo y explicando vas a mostrar con con ejemplos o algo así"
+ }
+]

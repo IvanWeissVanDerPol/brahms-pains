@@ -1,0 +1,527 @@
+[
+ {
+  "file": "PTT-20251001-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.8295984268188477,
+  "duration": 1.5978125,
+  "transcribed_at": "2026-07-23T19:06:19.257117+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 1.2,
+    "text": " El tuyo cuánto tarda."
+   }
+  ],
+  "text": "El tuyo cuánto tarda."
+ },
+ {
+  "file": "PTT-20250602-WA0041.opus",
+  "language": "es",
+  "language_probability": 0.8720868825912476,
+  "duration": 4.0978125,
+  "transcribed_at": "2026-07-23T23:01:42.514020+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " ¿Qué pasa perro? Ahí termina el meeting con Perlina."
+   }
+  ],
+  "text": "¿Qué pasa perro? Ahí termina el meeting con Perlina."
+ },
+ {
+  "file": "PTT-20250901-WA0107.opus",
+  "language": "es",
+  "language_probability": 0.9878072142601013,
+  "duration": 4.0378125,
+  "transcribed_at": "2026-07-23T23:03:16.020673+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Me siento mal, me compren cosas, pero con alguien indicado por a vos le dice"
+   }
+  ],
+  "text": "Me siento mal, me compren cosas, pero con alguien indicado por a vos le dice"
+ },
+ {
+  "file": "PTT-20250901-WA0106.opus",
+  "language": "es",
+  "language_probability": 0.8679410815238953,
+  "duration": 4.1578125,
+  "transcribed_at": "2026-07-23T23:07:16.258261+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " No, no me ha pasado."
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Me dijo que no me ha dicho yo, ah, bueno."
+   }
+  ],
+  "text": "No, no me ha pasado. Me dijo que no me ha dicho yo, ah, bueno."
+ },
+ {
+  "file": "PTT-20250611-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.9257279634475708,
+  "duration": 4.5778125,
+  "transcribed_at": "2026-07-23T23:25:46.694730+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 1.48,
+    "text": " Desapareciste, Álvaro."
+   },
+   {
+    "start": 1.48,
+    "end": 4.48,
+    "text": " Nos estrenamos ahora al south otra vez para los meetings."
+   }
+  ],
+  "text": "Desapareciste, Álvaro. Nos estrenamos ahora al south otra vez para los meetings."
+ },
+ {
+  "file": "PTT-20250611-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.5093618631362915,
+  "duration": 6.5535,
+  "transcribed_at": "2026-07-24T00:47:37.962316+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Ah, yo prefiero la plaza para tener mi almuerzo y ahora ya estoy en el salvo otra vez."
+   }
+  ],
+  "text": "Ah, yo prefiero la plaza para tener mi almuerzo y ahora ya estoy en el salvo otra vez."
+ },
+ {
+  "file": "PTT-20250901-WA0105.opus",
+  "language": "es",
+  "language_probability": 0.950669527053833,
+  "duration": 7.5178125,
+  "transcribed_at": "2026-07-24T01:45:28.836162+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.8000000000000003,
+    "text": " Haga todo perro, él cree que le abusen o más no asexualmente,"
+   },
+   {
+    "start": 2.8000000000000003,
+    "end": 4.32,
+    "text": " es decir, comprame todos los tragos,"
+   },
+   {
+    "start": 4.32,
+    "end": 7.5200000000000005,
+    "text": " púrro, púrame ropa y me hígide de ahí como."
+   }
+  ],
+  "text": "Haga todo perro, él cree que le abusen o más no asexualmente, es decir, comprame todos los tragos, púrro, púrame ropa y me hígide de ahí como."
+ },
+ {
+  "file": "PTT-20251118-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.9603894352912903,
+  "duration": 8.7778125,
+  "transcribed_at": "2026-07-24T01:50:31.530569+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Ok, bueno, porque yo no sabía estar acá y ya que sabía es perfecto. Tiene la cosa en el medio de la madera."
+   }
+  ],
+  "text": "Ok, bueno, porque yo no sabía estar acá y ya que sabía es perfecto. Tiene la cosa en el medio de la madera."
+ },
+ {
+  "file": "PTT-20250901-WA0134.opus",
+  "language": "es",
+  "language_probability": 0.8592373728752136,
+  "duration": 10.5978125,
+  "transcribed_at": "2026-07-24T04:15:53.818128+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.5,
+    "text": " Uh, le noté otra vez por si acaso, pero busqué así César, me salió César Vera y otros César, pero ninguna era así César, ya no Rodríguez, creo."
+   }
+  ],
+  "text": "Uh, le noté otra vez por si acaso, pero busqué así César, me salió César Vera y otros César, pero ninguna era así César, ya no Rodríguez, creo."
+ },
+ {
+  "file": "PTT-20250901-WA0109.opus",
+  "language": "es",
+  "language_probability": 0.8853734731674194,
+  "duration": 11.5378125,
+  "transcribed_at": "2026-07-24T04:19:31.093625+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " Yo me siento mal si me compran mierda, pero más tarde viene un co-worker más al Airbnb, que creo que es más tu onda."
+   }
+  ],
+  "text": "Yo me siento mal si me compran mierda, pero más tarde viene un co-worker más al Airbnb, que creo que es más tu onda."
+ },
+ {
+  "file": "PTT-20251118-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.8981749415397644,
+  "duration": 11.9378125,
+  "transcribed_at": "2026-07-24T04:44:40.103995+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hola, parece que tengo tu pasaporte."
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " What the fuck?"
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " Están acá, te he tirado en mi mesa de madera"
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " en el cozo del medio."
+   }
+  ],
+  "text": "Hola, parece que tengo tu pasaporte. What the fuck? Están acá, te he tirado en mi mesa de madera en el cozo del medio."
+ },
+ {
+  "file": "PTT-20251001-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.9064537882804871,
+  "duration": 12.9735,
+  "transcribed_at": "2026-07-24T05:11:43.459635+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.28,
+    "text": " Pero yo quiero saber si es que te corre tu query. O sea, si es que te corre pero cuánto"
+   },
+   {
+    "start": 5.28,
+    "end": 10.44,
+    "text": " tarda. Tipo, si tarda lo mismo camino capaz que ya esté bien, ponerle espero que el mío"
+   },
+   {
+    "start": 10.44,
+    "end": 12.56,
+    "text": " esté bien. Y ahora voy a chequear."
+   }
+  ],
+  "text": "Pero yo quiero saber si es que te corre tu query. O sea, si es que te corre pero cuánto tarda. Tipo, si tarda lo mismo camino capaz que ya esté bien, ponerle espero que el mío esté bien. Y ahora voy a chequear."
+ },
+ {
+  "file": "PTT-20250402-WA0063.opus",
+  "language": "es",
+  "language_probability": 0.8230946063995361,
+  "duration": 17.3778125,
+  "transcribed_at": "2026-07-24T08:33:47.553382+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Me dijo que iban que yo te aviso, que se está quedando por acá, pero ya."
+   },
+   {
+    "start": 4.0,
+    "end": 8.0,
+    "text": " Parece que se peló un flag con Sony ayer y..."
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " Se está quedando ahora mismo en tu pieza, pero cuando den gan se ha mudado el sofá,"
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " pero después hay que hacer falta en la pieza."
+   }
+  ],
+  "text": "Me dijo que iban que yo te aviso, que se está quedando por acá, pero ya. Parece que se peló un flag con Sony ayer y... Se está quedando ahora mismo en tu pieza, pero cuando den gan se ha mudado el sofá, pero después hay que hacer falta en la pieza."
+ },
+ {
+  "file": "PTT-20250402-WA0065.opus",
+  "language": "es",
+  "language_probability": 0.8981988430023193,
+  "duration": 29.0778125,
+  "transcribed_at": "2026-07-24T15:10:17.514692+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Onda no sé, si les queda bien así fin de mes, tienen así tiempo chill para buscar uno que mientras están en casa."
+   },
+   {
+    "start": 10.0,
+    "end": 15.0,
+    "text": " Y ahí tipo, tenés tiempo así chill para juntar todos tus tazos."
+   },
+   {
+    "start": 15.0,
+    "end": 17.0,
+    "text": " Y buscar flete eso."
+   },
+   {
+    "start": 17.0,
+    "end": 19.0,
+    "text": " Aunque de flete luego..."
+   },
+   {
+    "start": 19.0,
+    "end": 24.0,
+    "text": " Ah, realmente la auto defía y eso va a llevar bastantes cosas en la parte de atrás."
+   }
+  ],
+  "text": "Onda no sé, si les queda bien así fin de mes, tienen así tiempo chill para buscar uno que mientras están en casa. Y ahí tipo, tenés tiempo así chill para juntar todos tus tazos. Y buscar flete eso. Aunque de flete luego... Ah, realmente la auto defía y eso va a llevar bastantes cosas en la parte de atrás."
+ },
+ {
+  "file": "PTT-20250402-WA0066.opus",
+  "language": "es",
+  "language_probability": 0.961419939994812,
+  "duration": 35.5978125,
+  "transcribed_at": "2026-07-24T18:35:06.209776+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.14,
+    "text": " parece que el próximo que recibirá a Rosera de Housewarming Gift serás vos"
+   },
+   {
+    "start": 7.46,
+    "end": 12.3,
+    "text": " hola pero no sé si es que tipo de Rosera te interesó, tipo ya que ya viste como que tal es"
+   },
+   {
+    "start": 14.3,
+    "end": 20.14,
+    "text": " yo me pregunto cuál sería así relativamente útil, tipo no sé, tenés así, agria"
+   },
+   {
+    "start": 20.14,
+    "end": 24.82,
+    "text": " es como que cualquiera te sirve entonces vas a ver en eso"
+   },
+   {
+    "start": 27.02,
+    "end": 31.3,
+    "text": " realmente recomendarísimo un starter o no de Facebook Marketplace,"
+   },
+   {
+    "start": 31.3,
+    "end": 34.74,
+    "text": " puedes hacer así, ya sabéis todos los tips de hornitos"
+   }
+  ],
+  "text": "parece que el próximo que recibirá a Rosera de Housewarming Gift serás vos hola pero no sé si es que tipo de Rosera te interesó, tipo ya que ya viste como que tal es yo me pregunto cuál sería así relativamente útil, tipo no sé, tenés así, agria es como que cualquiera te sirve entonces vas a ver en eso realmente recomendarísimo un starter o no de Facebook Marketplace, puedes hacer así, ya sabéis todos los tips de hornitos"
+ },
+ {
+  "file": "PTT-20251001-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.8598774075508118,
+  "duration": 39.2378125,
+  "transcribed_at": "2026-07-24T21:29:54.332427+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.0,
+    "text": " O sea, porque, asumo que sería también bastante, no sé, a cuáles son más, media hora, una hora, si mirá, andá la pantalla en mi entrada."
+   },
+   {
+    "start": 9.0,
+    "end": 15.0,
+    "text": " Veo con mucha GPT, me hace el beatme, y... no sé, debo ir bien todo."
+   },
+   {
+    "start": 15.0,
+    "end": 20.0,
+    "text": " Bueno, estas boludeses me quito para ver si es que andaba, vamos a agregarle ahora que ya anda."
+   },
+   {
+    "start": 20.0,
+    "end": 27.0,
+    "text": " Y todas esas boludeses, ya fue cuando me arreglé eso y me andé todo bien al query, veo de hacer la tabla."
+   },
+   {
+    "start": 27.0,
+    "end": 32.0,
+    "text": " Y ahí debería de estar, espero, ahí te puedo avisar si le puedas dar un quick review, si te parece."
+   },
+   {
+    "start": 32.0,
+    "end": 37.0,
+    "text": " O no sé, te desprego un review antes de empezar a trabajar en el notebook,"
+   },
+   {
+    "start": 37.0,
+    "end": 39.0,
+    "text": " o sea, le miras ya los resultados y eso."
+   }
+  ],
+  "text": "O sea, porque, asumo que sería también bastante, no sé, a cuáles son más, media hora, una hora, si mirá, andá la pantalla en mi entrada. Veo con mucha GPT, me hace el beatme, y... no sé, debo ir bien todo. Bueno, estas boludeses me quito para ver si es que andaba, vamos a agregarle ahora que ya anda. Y todas esas boludeses, ya fue cuando me arreglé eso y me andé todo bien al query, veo de hacer la tabla. Y ahí debería de estar, espero, ahí te puedo avisar si le puedas dar un quick review, si te parece. O no sé, te desprego un review antes de empezar a trabajar en el notebook, o sea, le miras ya los resultados y eso."
+ },
+ {
+  "file": "PTT-20251004-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.6224915981292725,
+  "duration": 69.7978125,
+  "transcribed_at": "2026-07-25T00:08:40.268167+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " pero enserio a jhon que no a los codos siempre sean iguales"
+   },
+   {
+    "start": 10.0,
+    "end": 14.0,
+    "text": " si quiero dos toras y a costa de hitor relajado"
+   },
+   {
+    "start": 14.0,
+    "end": 17.0,
+    "text": " tu me hándome por la falsetad a ver a alguien"
+   },
+   {
+    "start": 17.0,
+    "end": 22.0,
+    "text": " que se sienta bocado, calentito y que me da rito"
+   },
+   {
+    "start": 22.0,
+    "end": 26.0,
+    "text": " pero no a la puta madre no hay"
+   },
+   {
+    "start": 26.0,
+    "end": 29.0,
+    "text": " a jhon jeez, yo solo quiero a mi más"
+   },
+   {
+    "start": 39.0,
+    "end": 41.0,
+    "text": " no sé a que digo a geto"
+   },
+   {
+    "start": 43.0,
+    "end": 46.0,
+    "text": " pero a la que me abri ya mentamente"
+   },
+   {
+    "start": 47.0,
+    "end": 49.0,
+    "text": " ya estoy off"
+   },
+   {
+    "start": 51.0,
+    "end": 53.0,
+    "text": " mi cabeza"
+   },
+   {
+    "start": 54.0,
+    "end": 57.0,
+    "text": " te quedan a saber si"
+   },
+   {
+    "start": 58.0,
+    "end": 60.0,
+    "text": " que fa pit"
+   },
+   {
+    "start": 62.0,
+    "end": 65.0,
+    "text": " que geto es lo de el pozo"
+   },
+   {
+    "start": 66.0,
+    "end": 69.0,
+    "text": " todo esto va a ser digo a jhon"
+   }
+  ],
+  "text": "pero enserio a jhon que no a los codos siempre sean iguales si quiero dos toras y a costa de hitor relajado tu me hándome por la falsetad a ver a alguien que se sienta bocado, calentito y que me da rito pero no a la puta madre no hay a jhon jeez, yo solo quiero a mi más no sé a que digo a geto pero a la que me abri ya mentamente ya estoy off mi cabeza te quedan a saber si que fa pit que geto es lo de el pozo todo esto va a ser digo a jhon"
+ },
+ {
+  "file": "PTT-20250402-WA0064.opus",
+  "language": "es",
+  "language_probability": 0.8845502734184265,
+  "duration": 43.0778125,
+  "transcribed_at": "2026-07-25T00:41:54.099117+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 12.0,
+    "text": " O en el otro lado, no sé, decimelo más una fecha en la que te quede bien y sé que nada de esa fecha, mira, tipo..."
+   },
+   {
+    "start": 12.0,
+    "end": 17.0,
+    "text": " Ah, de mi lado ya sí, mucho puro de ahora mismo eso, tipo..."
+   },
+   {
+    "start": 17.0,
+    "end": 18.0,
+    "text": " Pero tu hermano..."
+   },
+   {
+    "start": 18.0,
+    "end": 19.0,
+    "text": " Sí."
+   },
+   {
+    "start": 19.0,
+    "end": 21.0,
+    "text": " ...collaco pretende eso más que de algo."
+   },
+   {
+    "start": 21.0,
+    "end": 26.0,
+    "text": " O sea, no le des falso esperanza si no apuntas a tu hermano."
+   },
+   {
+    "start": 26.0,
+    "end": 28.0,
+    "text": " Pero de ella me dio ante el dedo."
+   },
+   {
+    "start": 28.0,
+    "end": 33.0,
+    "text": " Sí, no sabes más de dónde darle un date de cosas?"
+   },
+   {
+    "start": 33.0,
+    "end": 36.0,
+    "text": " Tipo, no, dónde que viene tiene que irse."
+   },
+   {
+    "start": 36.0,
+    "end": 39.0,
+    "text": " Pero dónde para que..."
+   },
+   {
+    "start": 39.0,
+    "end": 40.0,
+    "text": " Que vayan viendo ya."
+   },
+   {
+    "start": 40.0,
+    "end": 41.0,
+    "text": " Ya."
+   }
+  ],
+  "text": "O en el otro lado, no sé, decimelo más una fecha en la que te quede bien y sé que nada de esa fecha, mira, tipo... Ah, de mi lado ya sí, mucho puro de ahora mismo eso, tipo... Pero tu hermano... Sí. ...collaco pretende eso más que de algo. O sea, no le des falso esperanza si no apuntas a tu hermano. Pero de ella me dio ante el dedo. Sí, no sabes más de dónde darle un date de cosas? Tipo, no, dónde que viene tiene que irse. Pero dónde para que... Que vayan viendo ya. Ya."
+ }
+]

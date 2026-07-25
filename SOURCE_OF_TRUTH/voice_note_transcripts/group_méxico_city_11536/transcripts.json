@@ -1,0 +1,42 @@
+[
+ {
+  "file": "AUD-20250830-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.976921021938324,
+  "duration": 29.3978125,
+  "transcribed_at": "2026-07-24T16:25:55.335301+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.32,
+    "text": " El primer remedio es un antialérgico, que ya le compraste, que es la loratadina,"
+   },
+   {
+    "start": 5.32,
+    "end": 8.64,
+    "text": " así que ese ya no le compres, en todo caso la pretnisona,"
+   },
+   {
+    "start": 8.64,
+    "end": 13.0,
+    "text": " porque tiene alguna inflamación todavía y es para reducir esa inflamación."
+   },
+   {
+    "start": 13.0,
+    "end": 20.080000000000002,
+    "text": " Y luego, sopita, nada de verduras crudas, nada de limón, nada de cebolla,"
+   },
+   {
+    "start": 20.080000000000002,
+    "end": 25.28,
+    "text": " nada de tomate, todo cosito, así bien, bien light la comida."
+   },
+   {
+    "start": 25.28,
+    "end": 28.28,
+    "text": " Y así, por lo menos, una semana que coma."
+   }
+  ],
+  "text": "El primer remedio es un antialérgico, que ya le compraste, que es la loratadina, así que ese ya no le compres, en todo caso la pretnisona, porque tiene alguna inflamación todavía y es para reducir esa inflamación. Y luego, sopita, nada de verduras crudas, nada de limón, nada de cebolla, nada de tomate, todo cosito, así bien, bien light la comida. Y así, por lo menos, una semana que coma."
+ }
+]

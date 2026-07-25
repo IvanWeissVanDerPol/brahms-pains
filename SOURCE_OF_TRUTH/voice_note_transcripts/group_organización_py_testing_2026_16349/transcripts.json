@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20260717-WA0000.opus",
+  "language": "es",
+  "language_probability": 0.8642063140869141,
+  "duration": 7.8335,
+  "transcribed_at": "2026-07-24T01:45:25.961678+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.5,
+    "text": " Si pueden grabar la sesión se los agradezco porque lamentablemente me había olvidado y no voy a poder estar."
+   }
+  ],
+  "text": "Si pueden grabar la sesión se los agradezco porque lamentablemente me había olvidado y no voy a poder estar."
+ }
+]

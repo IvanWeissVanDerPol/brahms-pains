@@ -1,0 +1,27 @@
+[
+ {
+  "file": "PTT-20250203-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.9659730195999146,
+  "duration": 11.6578125,
+  "transcribed_at": "2026-07-24T03:18:34.932844+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Qué tal Iván, Claudia, soy?"
+   },
+   {
+    "start": 3.0,
+    "end": 8.0,
+    "text": " ¿Será que me puedes pasar tu ubicación para irme en vol"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " para llegar muy rápido?"
+   }
+  ],
+  "text": "¿Qué tal Iván, Claudia, soy? ¿Será que me puedes pasar tu ubicación para irme en vol para llegar muy rápido?"
+ }
+]

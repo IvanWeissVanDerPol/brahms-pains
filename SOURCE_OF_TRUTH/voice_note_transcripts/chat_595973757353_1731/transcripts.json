@@ -1,0 +1,57 @@
+[
+ {
+  "file": "PTT-20230804-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.8842204213142395,
+  "duration": 29.4978125,
+  "transcribed_at": "2026-07-24T16:30:54.458204+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.38,
+    "text": " ¿Qué mood? Ya ahora salvo de la universidad."
+   },
+   {
+    "start": 2.38,
+    "end": 4.88,
+    "text": " Me voy a ir a casa y voy a seguir leyendo cosas del trabajo."
+   },
+   {
+    "start": 5.38,
+    "end": 6.38,
+    "text": " Está a re-fan."
+   },
+   {
+    "start": 7.48,
+    "end": 10.78,
+    "text": " O sea, no a fan, pero tipo, no es así cosas paja de leer."
+   },
+   {
+    "start": 11.28,
+    "end": 13.46,
+    "text": " Bueno, caen dos pajas, pero tipo..."
+   },
+   {
+    "start": 14.16,
+    "end": 17.78,
+    "text": " cosas técnicas divertidas. O sea, no sé explicar, pero..."
+   },
+   {
+    "start": 17.78,
+    "end": 21.38,
+    "text": " No me da tan paja leer como cosas randomes de colegio. O sea, es la universidad."
+   },
+   {
+    "start": 21.62,
+    "end": 24.26,
+    "text": " Es tipo, actualmente, una información útil."
+   },
+   {
+    "start": 28.78,
+    "end": 29.78,
+    "text": " Yeah."
+   }
+  ],
+  "text": "¿Qué mood? Ya ahora salvo de la universidad. Me voy a ir a casa y voy a seguir leyendo cosas del trabajo. Está a re-fan. O sea, no a fan, pero tipo, no es así cosas paja de leer. Bueno, caen dos pajas, pero tipo... cosas técnicas divertidas. O sea, no sé explicar, pero... No me da tan paja leer como cosas randomes de colegio. O sea, es la universidad. Es tipo, actualmente, una información útil. Yeah."
+ }
+]

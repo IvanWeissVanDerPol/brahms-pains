@@ -1,0 +1,87 @@
+[
+ {
+  "file": "PTT-20240702-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.9801595211029053,
+  "duration": 3.3178125,
+  "transcribed_at": "2026-07-23T20:38:17.576710+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.8000000000000003,
+    "text": " lo que sea, hablarme por privado."
+   }
+  ],
+  "text": "lo que sea, hablarme por privado."
+ },
+ {
+  "file": "PTT-20240706-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.6376619338989258,
+  "duration": 5.0978125,
+  "transcribed_at": "2026-07-23T22:21:16.885926+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " La verdad que la estoy flipando un poquito con el link que se ve."
+   }
+  ],
+  "text": "La verdad que la estoy flipando un poquito con el link que se ve."
+ },
+ {
+  "file": "PTT-20240702-WA0016.opus",
+  "language": "gl",
+  "language_probability": 0.7740163207054138,
+  "duration": 7.7178125,
+  "transcribed_at": "2026-07-24T01:20:49.218970+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Re-instale Windows 2 veces"
+   },
+   {
+    "start": 4.0,
+    "end": 7.0,
+    "text": " e me siga saindo en mesmo dos juegos."
+   }
+  ],
+  "text": "Re-instale Windows 2 veces e me siga saindo en mesmo dos juegos."
+ },
+ {
+  "file": "PTT-20240711-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9427148699760437,
+  "duration": 3.0135,
+  "transcribed_at": "2026-07-24T01:26:51.643425+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Yo estoy en el baño descompuesto."
+   }
+  ],
+  "text": "Yo estoy en el baño descompuesto."
+ },
+ {
+  "file": "PTT-20240629-WA0057.opus",
+  "language": "es",
+  "language_probability": 0.8669424653053284,
+  "duration": 8.7178125,
+  "transcribed_at": "2026-07-24T02:04:19.840718+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Bueno, ¿cómo están todos? Cambió mi cuenta."
+   },
+   {
+    "start": 4.0,
+    "end": 8.0,
+    "text": " ¿Cómo están? Alguien que me le interese me tiró al privado."
+   }
+  ],
+  "text": "Bueno, ¿cómo están todos? Cambió mi cuenta. ¿Cómo están? Alguien que me le interese me tiró al privado."
+ }
+]

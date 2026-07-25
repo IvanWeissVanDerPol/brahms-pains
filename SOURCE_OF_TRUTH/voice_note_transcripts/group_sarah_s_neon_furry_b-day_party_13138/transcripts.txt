@@ -1,0 +1,24 @@
+PTT-20260207-WA0036.opus | lang=fi prob=0.19734734296798706 dur=3.9s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Ha! Ha! Ha!
+[00:02.00 → 00:04.00] Aki no tiikis trikis!
+PTT-20260202-WA0092.opus | lang=es prob=0.9555368423461914 dur=5.9s
+------------------------------------------------------------
+[00:00.00 → 00:05.50] Lo más importante no es empeñar. Lo más importante es la familia.
+PTT-20260207-WA0010.opus | lang=es prob=0.2532711923122406 dur=14.9s
+------------------------------------------------------------
+[00:00.00 → 00:09.00] Ahora está eso que yo me voy a tocar, a la tarde ya me voy a pegar el volto, te aviso.
+[00:09.00 → 00:14.00] El temprano ya está ahí, hinchándote.
+PTT-20260207-WA0009.opus | lang=es prob=0.8784919381141663 dur=16.9s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] hola hola hola hola
+[00:05.00 → 00:08.00] ahora me levanté, el proveedor me irá atrás
+[00:08.00 → 00:10.00] lembre
+[00:10.00 → 00:13.00] para recuperar la energía para esta noche
+[00:13.00 → 00:16.00] voy a explotar todo
+PTT-20260206-WA0033.opus | lang=nn prob=0.6231610774993896 dur=22.3s
+------------------------------------------------------------
+[00:00.00 → 00:23.88] ᗃᗿᗿᗿ
+PTT-20260125-WA0110.opus | lang=ko prob=0.3636814057826996 dur=21.6s
+------------------------------------------------------------
+[00:00.00 → 00:21.50] 구독과 좋아요 부탁드려요!

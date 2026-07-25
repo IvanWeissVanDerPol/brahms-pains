@@ -1,0 +1,122 @@
+[
+ {
+  "file": "PTT-20230810-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.9607768654823303,
+  "duration": 1.8978125,
+  "transcribed_at": "2026-07-23T19:35:37.289240+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Cacitos por tu pito Emilio"
+   }
+  ],
+  "text": "Cacitos por tu pito Emilio"
+ },
+ {
+  "file": "PTT-20231217-WA0048.opus",
+  "language": "es",
+  "language_probability": 0.9104743599891663,
+  "duration": 4.4578125,
+  "transcribed_at": "2026-07-23T23:27:45.666812+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.4,
+    "text": " Hay un asado de la familia de Ale, que nos emitaron desde el aeropuerto y estamos allá."
+   }
+  ],
+  "text": "Hay un asado de la familia de Ale, que nos emitaron desde el aeropuerto y estamos allá."
+ },
+ {
+  "file": "PTT-20231217-WA0019.opus",
+  "language": "es",
+  "language_probability": 0.9181628823280334,
+  "duration": 27.7378125,
+  "transcribed_at": "2026-07-24T15:07:56.079679+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.6000000000000005,
+    "text": " Igual, no estoy muy sure del tipo como son los planes, para mí el vibe siempre es, yo como casa"
+   },
+   {
+    "start": 6.5200000000000005,
+    "end": 12.36,
+    "text": " Pero a mí el aeropuerto, onda una hora y media, para cuando venga a darle"
+   },
+   {
+    "start": 14.72,
+    "end": 16.72,
+    "text": " No sé, si es que..."
+   },
+   {
+    "start": 18.48,
+    "end": 21.36,
+    "text": " El planeo es después de ahí hacer algo o más de esta orden"
+   },
+   {
+    "start": 22.12,
+    "end": 24.52,
+    "text": " Pero si no va a estar en casa hecho el limpiando, ordenando"
+   },
+   {
+    "start": 25.36,
+    "end": 27.36,
+    "text": " También es tan mal como si la surja"
+   }
+  ],
+  "text": "Igual, no estoy muy sure del tipo como son los planes, para mí el vibe siempre es, yo como casa Pero a mí el aeropuerto, onda una hora y media, para cuando venga a darle No sé, si es que... El planeo es después de ahí hacer algo o más de esta orden Pero si no va a estar en casa hecho el limpiando, ordenando También es tan mal como si la surja"
+ },
+ {
+  "file": "PTT-20231217-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.9016071557998657,
+  "duration": 39.9578125,
+  "transcribed_at": "2026-07-24T23:01:51.060922+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " ¿Viste que fue una vida? No sé si vas a pasar con nosotros, si vas a pasar, o sea, verdad."
+   },
+   {
+    "start": 7.0,
+    "end": 13.0,
+    "text": " Pues yo te vi Jackie, quiere mamá, si puedes probar, ya que aún te sale bien."
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " Si vas a hacer el chop soy, yo voy a hacer el arroz."
+   },
+   {
+    "start": 16.0,
+    "end": 21.0,
+    "text": " Y mamá va a hacer lumpias, las otras cosas esas."
+   },
+   {
+    "start": 21.0,
+    "end": 28.0,
+    "text": " Y también si es que tienes a alguna amiga eso que no tiene donde pasar o no quiere pasar con su familia o algo,"
+   },
+   {
+    "start": 28.0,
+    "end": 33.0,
+    "text": " está bienvenido a casa. Y también pregunta si sale dónde va a pasar o algo,"
+   },
+   {
+    "start": 33.0,
+    "end": 36.0,
+    "text": " también si quiere pasar con nosotros, está bienvenido."
+   },
+   {
+    "start": 36.0,
+    "end": 40.0,
+    "text": " No sé si está lolla a casa, en Paraguay de vuelta o no."
+   }
+  ],
+  "text": "¿Viste que fue una vida? No sé si vas a pasar con nosotros, si vas a pasar, o sea, verdad. Pues yo te vi Jackie, quiere mamá, si puedes probar, ya que aún te sale bien. Si vas a hacer el chop soy, yo voy a hacer el arroz. Y mamá va a hacer lumpias, las otras cosas esas. Y también si es que tienes a alguna amiga eso que no tiene donde pasar o no quiere pasar con su familia o algo, está bienvenido a casa. Y también pregunta si sale dónde va a pasar o algo, también si quiere pasar con nosotros, está bienvenido. No sé si está lolla a casa, en Paraguay de vuelta o no."
+ }
+]

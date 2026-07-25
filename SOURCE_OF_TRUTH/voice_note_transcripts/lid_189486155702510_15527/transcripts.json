@@ -1,0 +1,267 @@
+[
+ {
+  "file": "PTT-20260613-WA0048.opus",
+  "language": "en",
+  "language_probability": 0.5092446208000183,
+  "duration": 1.6578125,
+  "transcribed_at": "2026-07-23T19:18:53.321805+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " VNs or what?"
+   }
+  ],
+  "text": "VNs or what?"
+ },
+ {
+  "file": "PTT-20260614-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.5532084107398987,
+  "duration": 3.0778125,
+  "transcribed_at": "2026-07-23T21:10:24.362158+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hellos, pasaré nomás."
+   },
+   {
+    "start": 2.0,
+    "end": 3.0,
+    "text": " Oh, guau."
+   }
+  ],
+  "text": "Hellos, pasaré nomás. Oh, guau."
+ },
+ {
+  "file": "PTT-20260720-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.9327619671821594,
+  "duration": 3.7535,
+  "transcribed_at": "2026-07-23T22:44:25.029896+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Y la gente que no les juico realmente no más."
+   }
+  ],
+  "text": "Y la gente que no les juico realmente no más."
+ },
+ {
+  "file": "PTT-20260617-WA0000.opus",
+  "language": "es",
+  "language_probability": 0.8635029196739197,
+  "duration": 6.3978125,
+  "transcribed_at": "2026-07-24T00:33:09.615949+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Happy Birthday Ivan!"
+   },
+   {
+    "start": 5.0,
+    "end": 6.0,
+    "text": " Feliz cumpleaños!"
+   }
+  ],
+  "text": "Happy Birthday Ivan! Feliz cumpleaños!"
+ },
+ {
+  "file": "PTT-20260720-WA0014.opus",
+  "language": "es",
+  "language_probability": 0.9710208177566528,
+  "duration": 8.7935,
+  "transcribed_at": "2026-07-24T02:32:57.447308+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Hola Iván, ¿Qué tal? ¿Vos qué haces esta semana? ¿Tenés un día chill en el que no haya un montón de gente en tu casa para caer?"
+   }
+  ],
+  "text": "Hola Iván, ¿Qué tal? ¿Vos qué haces esta semana? ¿Tenés un día chill en el que no haya un montón de gente en tu casa para caer?"
+ },
+ {
+  "file": "PTT-20260620-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.8476589322090149,
+  "duration": 8.6735,
+  "transcribed_at": "2026-07-24T02:45:03.843133+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " ¡Hola! No, yo no pasé por tu casa. Me fui y dejé unas cosas. Me deconté que me olvidé de algo y me fui a buscar esa otra cosa que me olvidé."
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " Y ahora me he olvidado de vuelta a lo de ustedes."
+   }
+  ],
+  "text": "¡Hola! No, yo no pasé por tu casa. Me fui y dejé unas cosas. Me deconté que me olvidé de algo y me fui a buscar esa otra cosa que me olvidé. Y ahora me he olvidado de vuelta a lo de ustedes."
+ },
+ {
+  "file": "PTT-20260710-WA0144.opus",
+  "language": "es",
+  "language_probability": 0.8226759433746338,
+  "duration": 10.1535,
+  "transcribed_at": "2026-07-24T02:57:36.961834+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " Hola Iván, hice algo Iván y prendí un porro y después me senté a usar tu vida."
+   }
+  ],
+  "text": "Hola Iván, hice algo Iván y prendí un porro y después me senté a usar tu vida."
+ },
+ {
+  "file": "PTT-20260617-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.9029947519302368,
+  "duration": 17.1578125,
+  "transcribed_at": "2026-07-24T07:06:27.352047+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " ¡Oh, muchas gracias! Efectivamente muy rápido."
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " ¡Sachakit boy!"
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " ¡Qué jodos son los pípulos!"
+   },
+   {
+    "start": 14.0,
+    "end": 16.0,
+    "text": " ¡Muchas gracias!"
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " Ya se me va a partir."
+   }
+  ],
+  "text": "¡Oh, muchas gracias! Efectivamente muy rápido. ¡Sachakit boy! ¡Qué jodos son los pípulos! ¡Muchas gracias! Ya se me va a partir."
+ },
+ {
+  "file": "PTT-20260530-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.8857152462005615,
+  "duration": 20.8978125,
+  "transcribed_at": "2026-07-24T10:49:10.056392+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " No, pero igual te voy a devolver todo porque, tipo, porque, tipo, necesitábamos más ahora."
+   },
+   {
+    "start": 8.0,
+    "end": 14.0,
+    "text": " It's not a gift. I give you your money back. I made money para tener, para estas situaciones."
+   },
+   {
+    "start": 14.0,
+    "end": 17.0,
+    "text": " No tengo nada más en guaranillas. Pero, solucionado."
+   },
+   {
+    "start": 17.0,
+    "end": 21.0,
+    "text": " Pero, thank you so much for saldormelas ahora. It's nice."
+   }
+  ],
+  "text": "No, pero igual te voy a devolver todo porque, tipo, porque, tipo, necesitábamos más ahora. It's not a gift. I give you your money back. I made money para tener, para estas situaciones. No tengo nada más en guaranillas. Pero, solucionado. Pero, thank you so much for saldormelas ahora. It's nice."
+ },
+ {
+  "file": "PTT-20260620-WA0038.opus",
+  "language": "es",
+  "language_probability": 0.9744057059288025,
+  "duration": 26.0535,
+  "transcribed_at": "2026-07-24T13:25:16.720039+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Quería preguntarte no más, si es que vos llevaste los malvaviscos de mi casa o algo cuando yo estaba en el baño"
+   },
+   {
+    "start": 7.0,
+    "end": 10.0,
+    "text": " Solo porque si no están los malvaviscos más acá"
+   },
+   {
+    "start": 11.0,
+    "end": 14.0,
+    "text": " Wait a minute, did I think of what happened?"
+   },
+   {
+    "start": 14.0,
+    "end": 16.0,
+    "text": " Y nada, siempre estaba la más thinking, eso"
+   },
+   {
+    "start": 17.0,
+    "end": 21.0,
+    "text": " Pero, yo estoy escribiendo jugo en oranja y cuando termine escribiendo jugo en oranja"
+   },
+   {
+    "start": 22.0,
+    "end": 26.0,
+    "text": " Me era casa y me iba a llevar conmigo la torta"
+   }
+  ],
+  "text": "Quería preguntarte no más, si es que vos llevaste los malvaviscos de mi casa o algo cuando yo estaba en el baño Solo porque si no están los malvaviscos más acá Wait a minute, did I think of what happened? Y nada, siempre estaba la más thinking, eso Pero, yo estoy escribiendo jugo en oranja y cuando termine escribiendo jugo en oranja Me era casa y me iba a llevar conmigo la torta"
+ },
+ {
+  "file": "PTT-20260601-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.912433922290802,
+  "duration": 44.3178125,
+  "transcribed_at": "2026-07-25T01:20:11.788198+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Hola Iván, ¿qué tal? ¿me puedes pasar los datos de tu cuenta si te puedo pasar de vuelta la plata?"
+   },
+   {
+    "start": 6.0,
+    "end": 12.0,
+    "text": " Also, ¿de lo que me mandaste los mensajes de las compras?"
+   },
+   {
+    "start": 14.0,
+    "end": 22.0,
+    "text": " Hoy recién arreglé la casa de Oma, que me compró Petilla con queriendo darle su catio y de ayudarle con lo de su pieza."
+   },
+   {
+    "start": 22.0,
+    "end": 32.0,
+    "text": " Así que, creo que para el rato en el que tenga espacio de mi mente para ver eso, va a ser el fin de este mes y eso recién."
+   },
+   {
+    "start": 32.0,
+    "end": 39.0,
+    "text": " Entonces, no sé, me voy a tratar de recordarme yo y ver porque, like, maybe es interesante y eso."
+   },
+   {
+    "start": 39.0,
+    "end": 44.0,
+    "text": " En cualquier caso, me voy a sentar primero y después te aviso, ¿sí?"
+   }
+  ],
+  "text": "Hola Iván, ¿qué tal? ¿me puedes pasar los datos de tu cuenta si te puedo pasar de vuelta la plata? Also, ¿de lo que me mandaste los mensajes de las compras? Hoy recién arreglé la casa de Oma, que me compró Petilla con queriendo darle su catio y de ayudarle con lo de su pieza. Así que, creo que para el rato en el que tenga espacio de mi mente para ver eso, va a ser el fin de este mes y eso recién. Entonces, no sé, me voy a tratar de recordarme yo y ver porque, like, maybe es interesante y eso. En cualquier caso, me voy a sentar primero y después te aviso, ¿sí?"
+ }
+]

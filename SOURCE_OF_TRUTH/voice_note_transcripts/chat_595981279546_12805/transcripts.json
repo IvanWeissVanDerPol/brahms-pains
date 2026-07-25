@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20251229-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.9146388173103333,
+  "duration": 4.2378125,
+  "transcribed_at": "2026-07-23T22:42:27.103086+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Amigas, ahora te estoy llevando tu pedido. Ponenle que llegan media hora por ahí."
+   }
+  ],
+  "text": "Amigas, ahora te estoy llevando tu pedido. Ponenle que llegan media hora por ahí."
+ }
+]

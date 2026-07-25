@@ -1,0 +1,52 @@
+[
+ {
+  "file": "PTT-20231129-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.7703126668930054,
+  "duration": 30.3778125,
+  "transcribed_at": "2026-07-24T16:58:54.427912+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Oli, Sory, me voy a poder irme."
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " Igual Emilio lleva mi parte, ya le pasé a él."
+   },
+   {
+    "start": 9.0,
+    "end": 13.0,
+    "text": " Déjelo también que, tipo como está, ya te pase, o te refieres, o te refieres a él."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " Igual que te pasé de 60."
+   },
+   {
+    "start": 18.0,
+    "end": 23.0,
+    "text": " Pero ya, Sory, sucede que el mismo día había sido, viajar mi hermano a Holanda."
+   },
+   {
+    "start": 23.0,
+    "end": 26.0,
+    "text": " Y tengo que estar en el aeropuerto para... no me viaja."
+   },
+   {
+    "start": 27.0,
+    "end": 29.0,
+    "text": " Ija, ah."
+   },
+   {
+    "start": 29.0,
+    "end": 30.0,
+    "text": " Sory."
+   }
+  ],
+  "text": "Oli, Sory, me voy a poder irme. Igual Emilio lleva mi parte, ya le pasé a él. Déjelo también que, tipo como está, ya te pase, o te refieres, o te refieres a él. Igual que te pasé de 60. Pero ya, Sory, sucede que el mismo día había sido, viajar mi hermano a Holanda. Y tengo que estar en el aeropuerto para... no me viaja. Ija, ah. Sory."
+ }
+]

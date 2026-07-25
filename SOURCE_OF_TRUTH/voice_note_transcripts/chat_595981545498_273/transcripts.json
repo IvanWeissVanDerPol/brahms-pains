@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20240210-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.9389076232910156,
+  "duration": 33.1778125,
+  "transcribed_at": "2026-07-24T17:40:38.691047+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.88,
+    "text": " de los que son medio metálicos diría le tengo cobre oro y plata pero no son de poco muy color"
+   },
+   {
+    "start": 10.88,
+    "end": 19.240000000000002,
+    "text": " metálico metálico diría son tipo el tono de oro cobre y plata y después aparte de eso tengo"
+   },
+   {
+    "start": 19.240000000000002,
+    "end": 27.28,
+    "text": " los colores normales tipo rojo blanco azul verde marrón danco negro diría los que tenía"
+   },
+   {
+    "start": 27.28,
+    "end": 32.480000000000004,
+    "text": " lo siempre y que cambia de color no tengo ninguno"
+   }
+  ],
+  "text": "de los que son medio metálicos diría le tengo cobre oro y plata pero no son de poco muy color metálico metálico diría son tipo el tono de oro cobre y plata y después aparte de eso tengo los colores normales tipo rojo blanco azul verde marrón danco negro diría los que tenía lo siempre y que cambia de color no tengo ninguno"
+ }
+]

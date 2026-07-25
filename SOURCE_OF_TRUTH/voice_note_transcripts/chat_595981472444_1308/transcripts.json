@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20240217-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.804625928401947,
+  "duration": 13.1578125,
+  "transcribed_at": "2026-07-24T05:25:05.987722+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 12.0,
+    "text": " Hola Karly, mejor sueño que te pase el GPS. El autito suele estar ahora en mi casa. Si puedes pasar, ya somos cambiados de camión."
+   }
+  ],
+  "text": "Hola Karly, mejor sueño que te pase el GPS. El autito suele estar ahora en mi casa. Si puedes pasar, ya somos cambiados de camión."
+ }
+]

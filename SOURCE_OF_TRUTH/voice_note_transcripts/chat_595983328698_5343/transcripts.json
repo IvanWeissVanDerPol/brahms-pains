@@ -1,0 +1,42 @@
+[
+ {
+  "file": "PTT-20240330-WA0033.opus",
+  "language": "es",
+  "language_probability": 0.9611685276031494,
+  "duration": 7.2178125,
+  "transcribed_at": "2026-07-24T01:31:08.084653+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.4,
+    "text": " Ay, ya, perdón, nos estábamos fijando en la hoja equivocada, sorry. Ahora vemos bien."
+   }
+  ],
+  "text": "Ay, ya, perdón, nos estábamos fijando en la hoja equivocada, sorry. Ahora vemos bien."
+ },
+ {
+  "file": "PTT-20241013-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.8874633312225342,
+  "duration": 19.7978125,
+  "transcribed_at": "2026-07-24T09:18:53.522617+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Puedes pedir en el número porque ahora estoy full y no me ha hecho mucho de ir a pedirle"
+   },
+   {
+    "start": 6.0,
+    "end": 16.0,
+    "text": " y yo quiero vencer a morir en mitad de cinco quesos y eso, ni puedo llevar de ir a mar."
+   },
+   {
+    "start": 16.0,
+    "end": 20.0,
+    "text": " Ahora no sé si venieron mucha gente."
+   }
+  ],
+  "text": "Puedes pedir en el número porque ahora estoy full y no me ha hecho mucho de ir a pedirle y yo quiero vencer a morir en mitad de cinco quesos y eso, ni puedo llevar de ir a mar. Ahora no sé si venieron mucha gente."
+ }
+]

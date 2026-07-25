@@ -1,0 +1,967 @@
+[
+ {
+  "file": "PTT-20240718-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.3642995059490204,
+  "duration": 1.8378125,
+  "transcribed_at": "2026-07-23T19:26:38.814001+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Sip, es un mismo."
+   }
+  ],
+  "text": "Sip, es un mismo."
+ },
+ {
+  "file": "PTT-20240828-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.7789968848228455,
+  "duration": 2.4778125,
+  "transcribed_at": "2026-07-23T20:16:53.620247+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.46,
+    "text": " Estaba co-escribiendo uuuu"
+   }
+  ],
+  "text": "Estaba co-escribiendo uuuu"
+ },
+ {
+  "file": "PTT-20241012-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.8524991869926453,
+  "duration": 2.7778125,
+  "transcribed_at": "2026-07-23T20:50:25.642573+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.7600000000000002,
+    "text": " Hola, ya conseguí ya, me fui a volver al bici."
+   }
+  ],
+  "text": "Hola, ya conseguí ya, me fui a volver al bici."
+ },
+ {
+  "file": "PTT-20240718-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.976557195186615,
+  "duration": 3.1578125,
+  "transcribed_at": "2026-07-23T21:27:52.223708+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Hola, ahora acabo de salir de la oficina."
+   }
+  ],
+  "text": "Hola, ahora acabo de salir de la oficina."
+ },
+ {
+  "file": "PTT-20240818-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.6204032301902771,
+  "duration": 3.1978125,
+  "transcribed_at": "2026-07-23T21:34:35.866481+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Ok, te comparto."
+   }
+  ],
+  "text": "Ok, te comparto."
+ },
+ {
+  "file": "PTT-20240718-WA0033.opus",
+  "language": "es",
+  "language_probability": 0.5400794744491577,
+  "duration": 3.6778125,
+  "transcribed_at": "2026-07-23T22:42:43.364402+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¡Dale, ya estoy saliendo hora!"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " ¡Hora voy a este lugar!"
+   }
+  ],
+  "text": "¡Dale, ya estoy saliendo hora! ¡Hora voy a este lugar!"
+ },
+ {
+  "file": "PTT-20240224-WA0051.opus",
+  "language": "es",
+  "language_probability": 0.9069944024085999,
+  "duration": 4.4378125,
+  "transcribed_at": "2026-07-23T23:21:03.082223+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.4,
+    "text": " Hugo, también solo llegaron más, jijij, va a ser más disente que escribir todo."
+   }
+  ],
+  "text": "Hugo, también solo llegaron más, jijij, va a ser más disente que escribir todo."
+ },
+ {
+  "file": "PTT-20240620-WA0053.opus",
+  "language": "es",
+  "language_probability": 0.939782440662384,
+  "duration": 5.2578125,
+  "transcribed_at": "2026-07-23T23:52:50.084290+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.74,
+    "text": " Estoy en el super. Hay una marca en particular de salga que quieras que compre o cualquiera"
+   },
+   {
+    "start": 4.74,
+    "end": 5.0,
+    "text": " nomás."
+   }
+  ],
+  "text": "Estoy en el super. Hay una marca en particular de salga que quieras que compre o cualquiera nomás."
+ },
+ {
+  "file": "PTT-20231102-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.8035458922386169,
+  "duration": 5.3978125,
+  "transcribed_at": "2026-07-23T23:57:29.224169+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " ¡Hola! Sí, no, ahora estoy volviendo a casar a hablarles en salida en MentorMate."
+   }
+  ],
+  "text": "¡Hola! Sí, no, ahora estoy volviendo a casar a hablarles en salida en MentorMate."
+ },
+ {
+  "file": "PTT-20250901-WA0042.opus",
+  "language": "es",
+  "language_probability": 0.9467458128929138,
+  "duration": 6.5578125,
+  "transcribed_at": "2026-07-24T00:44:05.297985+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.4,
+    "text": " Si no, este fue el viernes cuando me dio alergia y me fui a la puta, pero demasiado temo que es la foto."
+   }
+  ],
+  "text": "Si no, este fue el viernes cuando me dio alergia y me fui a la puta, pero demasiado temo que es la foto."
+ },
+ {
+  "file": "PTT-20240308-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.8822283148765564,
+  "duration": 6.4578125,
+  "transcribed_at": "2026-07-24T00:50:39.543784+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " No, tranqui. Ahora vamos a ir a buscar la valer para agarrar la llave del guayernos a casa."
+   }
+  ],
+  "text": "No, tranqui. Ahora vamos a ir a buscar la valer para agarrar la llave del guayernos a casa."
+ },
+ {
+  "file": "PTT-20240324-WA0015.opus",
+  "language": "en",
+  "language_probability": 0.4287620186805725,
+  "duration": 9.4178125,
+  "transcribed_at": "2026-07-24T02:48:06.657543+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Good morning."
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " Get done."
+   }
+  ],
+  "text": "Good morning. Get done."
+ },
+ {
+  "file": "PTT-20240115-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.8947229981422424,
+  "duration": 10.9778125,
+  "transcribed_at": "2026-07-24T04:04:04.525902+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Y bueno, hay que ir en algún momento cuando no esté paja a hacer el visito a ver qué anda."
+   },
+   {
+    "start": 10.0,
+    "end": 11.0,
+    "text": " ¡Qué moto!"
+   }
+  ],
+  "text": "Y bueno, hay que ir en algún momento cuando no esté paja a hacer el visito a ver qué anda. ¡Qué moto!"
+ },
+ {
+  "file": "PTT-20240327-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9536432027816772,
+  "duration": 10.6178125,
+  "transcribed_at": "2026-07-24T04:13:23.558144+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Hey, al final nos quedamos más con Fidavel, porque Lucy ya va a llegar dentro de un rato y vamos a ver más algo para comer."
+   }
+  ],
+  "text": "Hey, al final nos quedamos más con Fidavel, porque Lucy ya va a llegar dentro de un rato y vamos a ver más algo para comer."
+ },
+ {
+  "file": "PTT-20240705-WA0049.opus",
+  "language": "es",
+  "language_probability": 0.9626285433769226,
+  "duration": 10.9178125,
+  "transcribed_at": "2026-07-24T04:33:29.432611+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " Ya leje la puerta abierta atrás y llegé la llave a un costado donde solemos dejar luego, y la dice eso, por si te he preguntado así, sino yo mi mensaje, que sabes."
+   }
+  ],
+  "text": "Ya leje la puerta abierta atrás y llegé la llave a un costado donde solemos dejar luego, y la dice eso, por si te he preguntado así, sino yo mi mensaje, que sabes."
+ },
+ {
+  "file": "PTT-20240324-WA0016.opus",
+  "language": "en",
+  "language_probability": 0.32155245542526245,
+  "duration": 12.8778125,
+  "transcribed_at": "2026-07-24T04:58:04.019170+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Yeah, no, I farted it."
+   },
+   {
+    "start": 3.0,
+    "end": 5.0,
+    "text": " Yeah, I can't."
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " Yeah."
+   }
+  ],
+  "text": "Yeah, no, I farted it. Yeah, I can't. Yeah."
+ },
+ {
+  "file": "PTT-20240523-WA0000.opus",
+  "language": "es",
+  "language_probability": 0.8298629522323608,
+  "duration": 12.5178125,
+  "transcribed_at": "2026-07-24T05:09:22.468336+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Oelis, ¿será que me puedes despertar mañana cuando te doy el trabajo?"
+   },
+   {
+    "start": 5.0,
+    "end": 9.0,
+    "text": " Yo también me tengo que ir hacia Asunción, a las ocho tengo de Antista."
+   },
+   {
+    "start": 9.0,
+    "end": 12.0,
+    "text": " ¡Gracias!"
+   }
+  ],
+  "text": "Oelis, ¿será que me puedes despertar mañana cuando te doy el trabajo? Yo también me tengo que ir hacia Asunción, a las ocho tengo de Antista. ¡Gracias!"
+ },
+ {
+  "file": "PTT-20240628-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.6865985989570618,
+  "duration": 12.9778125,
+  "transcribed_at": "2026-07-24T05:45:13.902797+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.62,
+    "text": " Aquí voy a seguir buscando un plan. Son las llaves de la casa del Lago."
+   },
+   {
+    "start": 4.62,
+    "end": 9.52,
+    "text": " He estado ayer por el video, no creo, y hoy yo no espero decir más,"
+   },
+   {
+    "start": 9.52,
+    "end": 12.52,
+    "text": " es el tipo de whatsapp. ¿Dónde llegue?"
+   }
+  ],
+  "text": "Aquí voy a seguir buscando un plan. Son las llaves de la casa del Lago. He estado ayer por el video, no creo, y hoy yo no espero decir más, es el tipo de whatsapp. ¿Dónde llegue?"
+ },
+ {
+  "file": "PTT-20250602-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9181151390075684,
+  "duration": 14.9178125,
+  "transcribed_at": "2026-07-24T05:52:17.127843+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " A veces es que necesitan que ayuda con algo cuando estén, o sea, si quieres algo más"
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " plenitivo, me voy a llamar algo, o sea, por si no me llega el mensaje."
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " Porque capaz me quedo dormido."
+   }
+  ],
+  "text": "A veces es que necesitan que ayuda con algo cuando estén, o sea, si quieres algo más plenitivo, me voy a llamar algo, o sea, por si no me llega el mensaje. Porque capaz me quedo dormido."
+ },
+ {
+  "file": "PTT-20240331-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.7705169916152954,
+  "duration": 14.6578125,
+  "transcribed_at": "2026-07-24T06:15:46.090507+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Hey Luz, me puedes obligar a despertarme a ondas las 9 de... por ahí"
+   },
+   {
+    "start": 7.0,
+    "end": 10.0,
+    "text": " Le me dejo bolas y te digo a lo que no me desciertes"
+   },
+   {
+    "start": 10.0,
+    "end": 14.0,
+    "text": " Ponerme agua en la cara, bofeteame y me treno más"
+   }
+  ],
+  "text": "Hey Luz, me puedes obligar a despertarme a ondas las 9 de... por ahí Le me dejo bolas y te digo a lo que no me desciertes Ponerme agua en la cara, bofeteame y me treno más"
+ },
+ {
+  "file": "PTT-20240324-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.6852529048919678,
+  "duration": 14.5178125,
+  "transcribed_at": "2026-07-24T06:22:38.108008+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.72,
+    "text": " GG, no es problema, entre sí, dentro de este cerrado habrá que preguntar algo, pero"
+   },
+   {
+    "start": 6.72,
+    "end": 13.76,
+    "text": " hemos tenido que estar acá, estaba por ahí en la casa, o yo estaba súper chupotado"
+   },
+   {
+    "start": 13.76,
+    "end": 14.4,
+    "text": " que era mañana."
+   }
+  ],
+  "text": "GG, no es problema, entre sí, dentro de este cerrado habrá que preguntar algo, pero hemos tenido que estar acá, estaba por ahí en la casa, o yo estaba súper chupotado que era mañana."
+ },
+ {
+  "file": "PTT-20240621-WA0085.opus",
+  "language": "es",
+  "language_probability": 0.969219446182251,
+  "duration": 14.2978125,
+  "transcribed_at": "2026-07-24T06:37:35.422107+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " uu, te llamaba nomas la para decirte onda que si vas a prohibir si podrías traer filtro para ponerle al bono"
+   },
+   {
+    "start": 7.0,
+    "end": 8.0,
+    "text": " en Vino se vende"
+   },
+   {
+    "start": 8.0,
+    "end": 9.0,
+    "text": " se vende el filtro a meterlo"
+   },
+   {
+    "start": 9.0,
+    "end": 11.0,
+    "text": " se vende en verdad o en secuencia"
+   },
+   {
+    "start": 11.0,
+    "end": 12.0,
+    "text": " ah, la puta"
+   },
+   {
+    "start": 12.0,
+    "end": 13.0,
+    "text": " no, entonces defe"
+   }
+  ],
+  "text": "uu, te llamaba nomas la para decirte onda que si vas a prohibir si podrías traer filtro para ponerle al bono en Vino se vende se vende el filtro a meterlo se vende en verdad o en secuencia ah, la puta no, entonces defe"
+ },
+ {
+  "file": "PTT-20240622-WA0043.opus",
+  "language": "es",
+  "language_probability": 0.9504309296607971,
+  "duration": 14.4178125,
+  "transcribed_at": "2026-07-24T06:41:40.500697+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Nuestro plan es, viene Emilio, Emilio nos busca a nosotros y al lado y ahí nos vamos"
+   },
+   {
+    "start": 8.0,
+    "end": 11.0,
+    "text": " No se si a Montral todos"
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " Vemos que onda"
+   }
+  ],
+  "text": "Nuestro plan es, viene Emilio, Emilio nos busca a nosotros y al lado y ahí nos vamos No se si a Montral todos Vemos que onda"
+ },
+ {
+  "file": "PTT-20240203-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.6219546794891357,
+  "duration": 15.3378125,
+  "transcribed_at": "2026-07-24T06:54:15.086926+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.64,
+    "text": " aquí cerramos el portón de la casa"
+   },
+   {
+    "start": 2.64,
+    "end": 6.640000000000001,
+    "text": " que no se, no se cuando viene eso, osea porque esta cerrado"
+   },
+   {
+    "start": 7.72,
+    "end": 12.280000000000001,
+    "text": " pero para ver, para abrirte en todo caso no se que..."
+   },
+   {
+    "start": 13.16,
+    "end": 15.5,
+    "text": " aaaah, aaaah, a eso"
+   }
+  ],
+  "text": "aquí cerramos el portón de la casa que no se, no se cuando viene eso, osea porque esta cerrado pero para ver, para abrirte en todo caso no se que... aaaah, aaaah, a eso"
+ },
+ {
+  "file": "AUD-20240622-WA0042.opus",
+  "language": "es",
+  "language_probability": 0.8860872983932495,
+  "duration": 16.3135,
+  "transcribed_at": "2026-07-24T07:40:40.752192+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.0,
+    "text": " ahora recientito llegué a mi casa, me quiero cambiar, bañarme y, osea, bañarme, cambiar, comer algo y después ir"
+   },
+   {
+    "start": 9.0,
+    "end": 15.0,
+    "text": " si es que están en dos de Iván, no pueden pasar por no, por esa casa"
+   },
+   {
+    "start": 15.0,
+    "end": 16.0,
+    "text": " así me voy, voy, voy"
+   }
+  ],
+  "text": "ahora recientito llegué a mi casa, me quiero cambiar, bañarme y, osea, bañarme, cambiar, comer algo y después ir si es que están en dos de Iván, no pueden pasar por no, por esa casa así me voy, voy, voy"
+ },
+ {
+  "file": "PTT-20240716-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.939697802066803,
+  "duration": 21.9578125,
+  "transcribed_at": "2026-07-24T10:56:12.568365+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Si, chill, le vi hoy a la mañana a un ratón nazi sin cola, muerto en el piso en la cocina."
+   },
+   {
+    "start": 7.0,
+    "end": 10.0,
+    "text": " Le jugo a todo a Nick si no le comió."
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " Es una pesada, eh."
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " Imagina, ratoncito."
+   },
+   {
+    "start": 14.0,
+    "end": 18.0,
+    "text": " Pero ya está muerto, ya traerá fuera ahora."
+   },
+   {
+    "start": 18.0,
+    "end": 22.0,
+    "text": " Que se descomponga y le coman las plantas."
+   }
+  ],
+  "text": "Si, chill, le vi hoy a la mañana a un ratón nazi sin cola, muerto en el piso en la cocina. Le jugo a todo a Nick si no le comió. Es una pesada, eh. Imagina, ratoncito. Pero ya está muerto, ya traerá fuera ahora. Que se descomponga y le coman las plantas."
+ },
+ {
+  "file": "PTT-20240503-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.7692010998725891,
+  "duration": 22.1378125,
+  "transcribed_at": "2026-07-24T11:31:06.896328+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " ¡Gelus! ¿Será que no puedes despertar mañana a tempranito cuando te despiertes?"
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " Bueno, no te aportes tan tempranito."
+   },
+   {
+    "start": 7.0,
+    "end": 11.0,
+    "text": " O sea, onda en..."
+   },
+   {
+    "start": 11.0,
+    "end": 14.0,
+    "text": " En Streetage, o sea, ¿cómo estabas?"
+   },
+   {
+    "start": 14.0,
+    "end": 17.0,
+    "text": " Así estoy despertando temprano mañana."
+   },
+   {
+    "start": 17.0,
+    "end": 20.0,
+    "text": " Y no alas hora de mi reunión recién."
+   },
+   {
+    "start": 20.0,
+    "end": 21.0,
+    "text": " Gracias."
+   },
+   {
+    "start": 21.0,
+    "end": 22.0,
+    "text": " Muy buenas noches."
+   }
+  ],
+  "text": "¡Gelus! ¿Será que no puedes despertar mañana a tempranito cuando te despiertes? Bueno, no te aportes tan tempranito. O sea, onda en... En Streetage, o sea, ¿cómo estabas? Así estoy despertando temprano mañana. Y no alas hora de mi reunión recién. Gracias. Muy buenas noches."
+ },
+ {
+  "file": "PTT-20240726-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.922806978225708,
+  "duration": 33.0378125,
+  "transcribed_at": "2026-07-24T18:11:08.136949+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.36,
+    "text": " Hola, perro, cuando vengas a casa, yo estoy a full para hacer mierda de cursitos y eso, que puta..."
+   },
+   {
+    "start": 6.86,
+    "end": 10.78,
+    "text": " ¡Ah, me estresa esta basura! ¡Qué sorrete el banco del Canadá!"
+   },
+   {
+    "start": 10.78,
+    "end": 16.1,
+    "text": " ¡Manga de pajeros, qué putos! Porque es tan feo su interfaz y es tan lento y rompebo la..."
+   },
+   {
+    "start": 16.1,
+    "end": 17.2,
+    "text": " ¡Ah!"
+   },
+   {
+    "start": 17.2,
+    "end": 21.44,
+    "text": " Estoy hacía dos de tener burnout de tratar de hacer una másera en bordin de mierda este."
+   },
+   {
+    "start": 21.44,
+    "end": 24.48,
+    "text": " ¡Manga de pajeros, qué puta!"
+   },
+   {
+    "start": 25.240000000000002,
+    "end": 30.080000000000002,
+    "text": " Tico, quiero ser al doble y ya no más y me ponen a trabajar con gui horribles."
+   },
+   {
+    "start": 30.080000000000002,
+    "end": 32.24,
+    "text": " ¡Ah, qué puto!"
+   }
+  ],
+  "text": "Hola, perro, cuando vengas a casa, yo estoy a full para hacer mierda de cursitos y eso, que puta... ¡Ah, me estresa esta basura! ¡Qué sorrete el banco del Canadá! ¡Manga de pajeros, qué putos! Porque es tan feo su interfaz y es tan lento y rompebo la... ¡Ah! Estoy hacía dos de tener burnout de tratar de hacer una másera en bordin de mierda este. ¡Manga de pajeros, qué puta! Tico, quiero ser al doble y ya no más y me ponen a trabajar con gui horribles. ¡Ah, qué puto!"
+ },
+ {
+  "file": "PTT-20240809-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.9478896260261536,
+  "duration": 34.2178125,
+  "transcribed_at": "2026-07-24T19:24:15.981895+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Y ahí ves por qué es más divertido trabajar con Python que con Pohmal."
+   },
+   {
+    "start": 6.0,
+    "end": 11.0,
+    "text": " Maximulo que pueda hacer perro para hacer onda eso, es donde sea que llames método 2."
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " Antes llamar la método 1 en forma secuencial."
+   },
+   {
+    "start": 15.0,
+    "end": 18.0,
+    "text": " Tipo no sé donde así, me la sigue yo en mis test de Pohmal."
+   },
+   {
+    "start": 20.0,
+    "end": 26.0,
+    "text": " Preparando más por acá, en tu colección tienes más varios cases, en cada case tienes así tu setup."
+   },
+   {
+    "start": 26.0,
+    "end": 32.0,
+    "text": " En tu setup, esta copia esté adonando más tu función de login y tu función de lo que sea que haga."
+   },
+   {
+    "start": 33.0,
+    "end": 34.0,
+    "text": " Metodo 1 y metodo 2."
+   }
+  ],
+  "text": "Y ahí ves por qué es más divertido trabajar con Python que con Pohmal. Maximulo que pueda hacer perro para hacer onda eso, es donde sea que llames método 2. Antes llamar la método 1 en forma secuencial. Tipo no sé donde así, me la sigue yo en mis test de Pohmal. Preparando más por acá, en tu colección tienes más varios cases, en cada case tienes así tu setup. En tu setup, esta copia esté adonando más tu función de login y tu función de lo que sea que haga. Metodo 1 y metodo 2."
+ },
+ {
+  "file": "PTT-20240809-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.914550244808197,
+  "duration": 35.6978125,
+  "transcribed_at": "2026-07-24T19:45:52.015211+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " Entiendo que Request1 hace un post-request de cosa X y vos querés guardar su resultado y poner en el otro output, ¿verdad?"
+   },
+   {
+    "start": 12.0,
+    "end": 19.0,
+    "text": " En Postman, tenés la parte de test o pre-request script o algo de eso y hoy puedes hacer eso por lo que haces."
+   },
+   {
+    "start": 20.0,
+    "end": 26.0,
+    "text": " En el primero en el test, extract, guardar una variable de environment o guardar lo que es lo que quieras, tu valor."
+   },
+   {
+    "start": 26.0,
+    "end": 35.0,
+    "text": " Y en el otro, en tu pre-request script o en tu recurso más directo, ya que hace falta hacer eso, en tu recurso más por la variable es y listo."
+   }
+  ],
+  "text": "Entiendo que Request1 hace un post-request de cosa X y vos querés guardar su resultado y poner en el otro output, ¿verdad? En Postman, tenés la parte de test o pre-request script o algo de eso y hoy puedes hacer eso por lo que haces. En el primero en el test, extract, guardar una variable de environment o guardar lo que es lo que quieras, tu valor. Y en el otro, en tu pre-request script o en tu recurso más directo, ya que hace falta hacer eso, en tu recurso más por la variable es y listo."
+ },
+ {
+  "file": "PTT-20240809-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.9837843179702759,
+  "duration": 38.8178125,
+  "transcribed_at": "2026-07-24T22:26:30.218018+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.66,
+    "text": " Metodo 1 genera un valor. Metodo 2 necesita ese valor. Entiendote más los"
+   },
+   {
+    "start": 6.66,
+    "end": 13.540000000000001,
+    "text": " variables, pero Metodo 2 necesita ejecutarle autónomamente a Metodo 1."
+   },
+   {
+    "start": 13.540000000000001,
+    "end": 20.5,
+    "text": " No sé si sabéis cómo se hace eso. Sí, tema de las variables es de más cosas, pero no me sirve porque después esto se va a ejecutar en un"
+   },
+   {
+    "start": 21.5,
+    "end": 25.5,
+    "text": " y se va a ejecutar de forma secuencial y todos van a estar aislados."
+   },
+   {
+    "start": 25.5,
+    "end": 33.5,
+    "text": " Necesita un número, o sea necesitar ese método 2 llamarle al método 1."
+   },
+   {
+    "start": 33.5,
+    "end": 38.5,
+    "text": " Se crea el número ticket y eso utilizo dentro de Metodo 2."
+   }
+  ],
+  "text": "Metodo 1 genera un valor. Metodo 2 necesita ese valor. Entiendote más los variables, pero Metodo 2 necesita ejecutarle autónomamente a Metodo 1. No sé si sabéis cómo se hace eso. Sí, tema de las variables es de más cosas, pero no me sirve porque después esto se va a ejecutar en un y se va a ejecutar de forma secuencial y todos van a estar aislados. Necesita un número, o sea necesitar ese método 2 llamarle al método 1. Se crea el número ticket y eso utilizo dentro de Metodo 2."
+ },
+ {
+  "file": "PTT-20240330-WA0012.opus",
+  "language": "en",
+  "language_probability": 0.3413143754005432,
+  "duration": 42.9178125,
+  "transcribed_at": "2026-07-24T23:02:49.197177+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " I"
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " I"
+   }
+  ],
+  "text": "I I"
+ },
+ {
+  "file": "PTT-20240828-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.9467955827713013,
+  "duration": 42.1378125,
+  "transcribed_at": "2026-07-24T23:39:00.233533+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.22,
+    "text": " pero pensé en mandarle por mensaje de teams nomás"
+   },
+   {
+    "start": 5.22,
+    "end": 8.72,
+    "text": " pero me di cuenta que era de Tito Evry y no de MentorMate"
+   },
+   {
+    "start": 8.72,
+    "end": 11.82,
+    "text": " entonces me parece más profesional"
+   },
+   {
+    "start": 11.82,
+    "end": 16.38,
+    "text": " si me mandas nomás a ese mail y después yo le reenvío a su mail y le digo"
+   },
+   {
+    "start": 16.38,
+    "end": 19.0,
+    "text": " Hi, my referral is..."
+   },
+   {
+    "start": 19.0,
+    "end": 20.78,
+    "text": " Wanted me to send you this message"
+   },
+   {
+    "start": 20.78,
+    "end": 24.38,
+    "text": " He is busy, bueno, si le tiro o..."
+   },
+   {
+    "start": 24.38,
+    "end": 25.88,
+    "text": " He has..."
+   },
+   {
+    "start": 25.88,
+    "end": 27.580000000000002,
+    "text": " no sé que sé que diga tu mensaje"
+   },
+   {
+    "start": 27.66,
+    "end": 31.660000000000004,
+    "text": " agrega tipo un mensaje que es lo que querés que yo diga pero mandame al whatsapp ese"
+   },
+   {
+    "start": 31.660000000000004,
+    "end": 33.260000000000005,
+    "text": " y así"
+   },
+   {
+    "start": 33.260000000000005,
+    "end": 36.260000000000005,
+    "text": " tipo para mí es una persona completamente desconocida, jamás la hables todavía"
+   },
+   {
+    "start": 36.260000000000005,
+    "end": 39.82,
+    "text": " pero le mando nomás a Sion Forward y la agrego ahí"
+   },
+   {
+    "start": 39.82,
+    "end": 40.7,
+    "text": " Hola"
+   },
+   {
+    "start": 40.7,
+    "end": 41.980000000000004,
+    "text": " me mandó Álvaro esto"
+   }
+  ],
+  "text": "pero pensé en mandarle por mensaje de teams nomás pero me di cuenta que era de Tito Evry y no de MentorMate entonces me parece más profesional si me mandas nomás a ese mail y después yo le reenvío a su mail y le digo Hi, my referral is... Wanted me to send you this message He is busy, bueno, si le tiro o... He has... no sé que sé que diga tu mensaje agrega tipo un mensaje que es lo que querés que yo diga pero mandame al whatsapp ese y así tipo para mí es una persona completamente desconocida, jamás la hables todavía pero le mando nomás a Sion Forward y la agrego ahí Hola me mandó Álvaro esto"
+ },
+ {
+  "file": "PTT-20240406-WA0060.opus",
+  "language": "es",
+  "language_probability": 0.8437226414680481,
+  "duration": 49.4378125,
+  "transcribed_at": "2026-07-25T03:29:11.782954+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.58,
+    "text": " Si no por mi rechil, cuando tengo un ira puro que este tipo salga de la pieza"
+   },
+   {
+    "start": 3.58,
+    "end": 6.58,
+    "text": " pero me suje el tipo a echar el chill con el agua"
+   },
+   {
+    "start": 6.58,
+    "end": 9.58,
+    "text": " y no se puede, si es que hay gente"
+   },
+   {
+    "start": 9.58,
+    "end": 12.08,
+    "text": " Slash, ahora le va a creer mi su pieza entonces"
+   },
+   {
+    "start": 12.08,
+    "end": 14.38,
+    "text": " va a ser por lo mismo en la pieza si es que estamos los dos"
+   },
+   {
+    "start": 14.38,
+    "end": 17.38,
+    "text": " por eso tipo te conviene más tener tu pieza en el otro piezo"
+   },
+   {
+    "start": 20.2,
+    "end": 22.2,
+    "text": " tipo no se"
+   },
+   {
+    "start": 24.2,
+    "end": 25.7,
+    "text": " pero ya no se"
+   },
+   {
+    "start": 25.7,
+    "end": 29.2,
+    "text": " a menos que cuando tipo está ahí en la pieza, por mi rechil"
+   },
+   {
+    "start": 29.599999999999998,
+    "end": 31.599999999999998,
+    "text": " me puede decir también un flag, va a ser el tipo"
+   },
+   {
+    "start": 31.599999999999998,
+    "end": 35.1,
+    "text": " de, no se, yo estoy en la pieza haciendo cosas y Salena está en la sala y eso"
+   },
+   {
+    "start": 35.1,
+    "end": 37.6,
+    "text": " porque ahora estoy en mi meeting y tengo que poner música"
+   },
+   {
+    "start": 37.6,
+    "end": 41.2,
+    "text": " y para que tipo estén más bien comodado en tu pieza y tipo"
+   },
+   {
+    "start": 41.2,
+    "end": 45.2,
+    "text": " escarte lo más chill en tu cama y en tus cosas sin tener que ir a la sala"
+   },
+   {
+    "start": 45.2,
+    "end": 47.2,
+    "text": " lo que sea, mía"
+   },
+   {
+    "start": 47.2,
+    "end": 49.2,
+    "text": " pero eso"
+   }
+  ],
+  "text": "Si no por mi rechil, cuando tengo un ira puro que este tipo salga de la pieza pero me suje el tipo a echar el chill con el agua y no se puede, si es que hay gente Slash, ahora le va a creer mi su pieza entonces va a ser por lo mismo en la pieza si es que estamos los dos por eso tipo te conviene más tener tu pieza en el otro piezo tipo no se pero ya no se a menos que cuando tipo está ahí en la pieza, por mi rechil me puede decir también un flag, va a ser el tipo de, no se, yo estoy en la pieza haciendo cosas y Salena está en la sala y eso porque ahora estoy en mi meeting y tengo que poner música y para que tipo estén más bien comodado en tu pieza y tipo escarte lo más chill en tu cama y en tus cosas sin tener que ir a la sala lo que sea, mía pero eso"
+ }
+]

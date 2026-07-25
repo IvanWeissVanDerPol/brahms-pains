@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20250401-WA0016.opus",
+  "language": "es",
+  "language_probability": 0.9624592661857605,
+  "duration": 8.9778125,
+  "transcribed_at": "2026-07-24T02:21:23.453993+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.34,
+    "text": " Y ese video es claro que ustedes llevan a la Argentina, ahí va, porque este tiene"
+   },
+   {
+    "start": 6.34,
+    "end": 8.28,
+    "text": " rockming pues y queremos usar con tu mamá."
+   }
+  ],
+  "text": "Y ese video es claro que ustedes llevan a la Argentina, ahí va, porque este tiene rockming pues y queremos usar con tu mamá."
+ }
+]

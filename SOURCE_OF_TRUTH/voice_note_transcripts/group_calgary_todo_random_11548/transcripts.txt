@@ -1,0 +1,9 @@
+PTT-20250826-WA0128.opus | lang=es prob=0.8573777675628662 dur=34.8s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] Era un texto-speech, pero ahora te da un adiós, pero ¿mover los decoritos generalizar cosas duplicadas en el código?
+[00:10.00 → 00:14.00] Sí, los tests se podrían ofrecer en menos líneas.
+[00:19.00 → 00:21.00] ¿La cosa al final también?
+[00:21.00 → 00:24.00] Sí, sí, sí, eso, tipo esa parte.
+[00:25.00 → 00:29.00] Y... no sé, no es con más.
+[00:29.00 → 00:32.00] Ver que si podemos ver algo útiles.
+[00:32.00 → 00:35.00] Y buscar un más código que se repita mucho.

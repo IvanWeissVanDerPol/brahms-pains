@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20240224-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.9505360722541809,
+  "duration": 11.5778125,
+  "transcribed_at": "2026-07-24T04:40:42.435956+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Estamos aquí en el paseo al lado del lago, bajamos a tomar fotos."
+   },
+   {
+    "start": 7.0,
+    "end": 11.0,
+    "text": " Les esperamos aquí, ya llegan en seguida."
+   }
+  ],
+  "text": "Estamos aquí en el paseo al lado del lago, bajamos a tomar fotos. Les esperamos aquí, ya llegan en seguida."
+ }
+]

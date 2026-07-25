@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20240311-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.5633082985877991,
+  "duration": 19.6578125,
+  "transcribed_at": "2026-07-24T09:50:31.661516+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Ok, so, eh, yo iba a hablar, I was going to talk in English, I'm gonna do it in Spanish."
+   },
+   {
+    "start": 8.0,
+    "end": 20.0,
+    "text": " Kate puso la hora para las seis y media porque yo pensé que iba a ver más gente a esta tipo de una oficina y no es muy directo, pero no hay ningún problema con la hora, dice, a la hora que nos quede mejor."
+   }
+  ],
+  "text": "Ok, so, eh, yo iba a hablar, I was going to talk in English, I'm gonna do it in Spanish. Kate puso la hora para las seis y media porque yo pensé que iba a ver más gente a esta tipo de una oficina y no es muy directo, pero no hay ningún problema con la hora, dice, a la hora que nos quede mejor."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20240129-WA0037.opus",
+  "language": "es",
+  "language_probability": 0.9633599519729614,
+  "duration": 6.7778125,
+  "transcribed_at": "2026-07-24T01:09:37.027886+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.8,
+    "text": " Ivan, yo estoy hasta las seis y media en el migone, me llamo Ravisa, menos más que"
+   },
+   {
+    "start": 4.8,
+    "end": 6.5600000000000005,
+    "text": " ahora te vas para avisarlo a la secretaria."
+   }
+  ],
+  "text": "Ivan, yo estoy hasta las seis y media en el migone, me llamo Ravisa, menos más que ahora te vas para avisarlo a la secretaria."
+ }
+]

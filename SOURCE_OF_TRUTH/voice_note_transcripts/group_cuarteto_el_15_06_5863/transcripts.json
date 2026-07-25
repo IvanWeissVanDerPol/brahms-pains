@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20240616-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.9795827865600586,
+  "duration": 4.1778125,
+  "transcribed_at": "2026-07-23T23:10:39.591344+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Y yo te acabo de leer, boludo John, si yo estaba enfrente, bolido, ah, perdón."
+   }
+  ],
+  "text": "Y yo te acabo de leer, boludo John, si yo estaba enfrente, bolido, ah, perdón."
+ }
+]

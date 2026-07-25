@@ -1,0 +1,7 @@
+PTT-20240924-WA0004.opus | lang=es prob=0.8639594316482544 dur=28.3s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Hola Iván, buenas tardes. Lorena Zepeda, le saluda de Guatemala.
+[00:05.00 → 00:13.00] Recibí su aplicación para la plaza de Full Stack Developer Paraguay en un formato de trabajo híbrido.
+[00:13.00 → 00:20.00] Me interesa bastante su perfil, quisiera contarle que estoy buscando mi proyecto, el cliente,
+[00:20.00 → 00:25.00] e iniciar formalmente el proceso de reclutamiento y selección con su persona.
+[00:25.00 → 00:29.00] Déjame saber en qué momento lo puedo contactar. Muchas gracias.

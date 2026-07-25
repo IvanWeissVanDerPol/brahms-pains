@@ -1,0 +1,17 @@
+PTT-20240702-WA0017.opus | lang=es prob=0.9801595211029053 dur=3.3s
+------------------------------------------------------------
+[00:00.00 → 00:02.80] lo que sea, hablarme por privado.
+PTT-20240706-WA0001.opus | lang=es prob=0.6376619338989258 dur=5.1s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] La verdad que la estoy flipando un poquito con el link que se ve.
+PTT-20240702-WA0016.opus | lang=gl prob=0.7740163207054138 dur=7.7s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Re-instale Windows 2 veces
+[00:04.00 → 00:07.00] e me siga saindo en mesmo dos juegos.
+PTT-20240711-WA0037.opus | lang=es prob=0.9427148699760437 dur=3.0s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Yo estoy en el baño descompuesto.
+PTT-20240629-WA0057.opus | lang=es prob=0.8669424653053284 dur=8.7s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Bueno, ¿cómo están todos? Cambió mi cuenta.
+[00:04.00 → 00:08.00] ¿Cómo están? Alguien que me le interese me tiró al privado.

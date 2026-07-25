@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20250617-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.7103530764579773,
+  "duration": 17.2578125,
+  "transcribed_at": "2026-07-24T07:13:36.294015+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Ay, si, pero el chile de una festa es joven y nada, está que chilen, está en Francisco."
+   },
+   {
+    "start": 13.0,
+    "end": 17.0,
+    "text": " Ay, el chile de un nuevo, hasta un septiembre por ahí creo, o sea, o cuando era."
+   }
+  ],
+  "text": "Ay, si, pero el chile de una festa es joven y nada, está que chilen, está en Francisco. Ay, el chile de un nuevo, hasta un septiembre por ahí creo, o sea, o cuando era."
+ }
+]

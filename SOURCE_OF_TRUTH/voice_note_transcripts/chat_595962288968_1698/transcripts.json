@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20231230-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.8854805827140808,
+  "duration": 14.4578125,
+  "transcribed_at": "2026-07-24T06:35:20.323787+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Hello, Sperro, sorry, yo estoy en mi casa propiendo en los mis viejos."
+   },
+   {
+    "start": 4.0,
+    "end": 8.0,
+    "text": " ¿Pero te fiste comprar algo en la pesca de brilla?"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " Buen provecho."
+   },
+   {
+    "start": 10.0,
+    "end": 14.0,
+    "text": " Ah, yo estoy riendo ahora."
+   }
+  ],
+  "text": "Hello, Sperro, sorry, yo estoy en mi casa propiendo en los mis viejos. ¿Pero te fiste comprar algo en la pesca de brilla? Buen provecho. Ah, yo estoy riendo ahora."
+ }
+]

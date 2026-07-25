@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20260628-WA0033.opus",
+  "language": "es",
+  "language_probability": 0.8850958347320557,
+  "duration": 3.5335,
+  "transcribed_at": "2026-07-23T22:21:42.766058+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Hola, ¿se escucha este audio? ¿Me entendés Erebus?"
+   }
+  ],
+  "text": "Hola, ¿se escucha este audio? ¿Me entendés Erebus?"
+ },
+ {
+  "file": "PTT-20260703-WA0065.opus",
+  "language": "es",
+  "language_probability": 0.9725616574287415,
+  "duration": 4.4135,
+  "transcribed_at": "2026-07-23T23:19:26.831256+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.4,
+    "text": " ¡Uh! Le he conectado un flato. O sea, voy a ver un flaquecer con el todo y le mando un flato mensaje."
+   }
+  ],
+  "text": "¡Uh! Le he conectado un flato. O sea, voy a ver un flaquecer con el todo y le mando un flato mensaje."
+ }
+]

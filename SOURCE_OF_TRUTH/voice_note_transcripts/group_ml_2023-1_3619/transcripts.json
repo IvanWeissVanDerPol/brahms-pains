@@ -1,0 +1,37 @@
+[
+ {
+  "file": "AUD-20230918-WA0016.opus",
+  "language": "es",
+  "language_probability": 0.934657096862793,
+  "duration": 41.3178125,
+  "transcribed_at": "2026-07-24T23:35:20.675945+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.700000000000001,
+    "text": " Camila en el horario de clases yo voy a lanzar el el clasroom con el con las"
+   },
+   {
+    "start": 11.700000000000001,
+    "end": 18.44,
+    "text": " preguntas verdad tipo encuesta, pero todo el mundo el que va a rendir va a tener"
+   },
+   {
+    "start": 18.44,
+    "end": 27.240000000000002,
+    "text": " que tener su cámara encendida y yo voy a grabar va a durar 40 minutos más"
+   },
+   {
+    "start": 27.240000000000002,
+    "end": 32.28,
+    "text": " o menos así que avisarlo un poco a todos los compañeros que ese va a hacer el"
+   },
+   {
+    "start": 32.28,
+    "end": 42.120000000000005,
+    "text": " esquema, el que no tenga cámara que ve a utilizar su teléfono o algo así"
+   }
+  ],
+  "text": "Camila en el horario de clases yo voy a lanzar el el clasroom con el con las preguntas verdad tipo encuesta, pero todo el mundo el que va a rendir va a tener que tener su cámara encendida y yo voy a grabar va a durar 40 minutos más o menos así que avisarlo un poco a todos los compañeros que ese va a hacer el esquema, el que no tenga cámara que ve a utilizar su teléfono o algo así"
+ }
+]

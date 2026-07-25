@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20240426-WA0010.opus",
+  "language": "en",
+  "language_probability": 0.3903707265853882,
+  "duration": 1.0578125,
+  "transcribed_at": "2026-07-23T18:48:28.562625+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 1.0,
+    "text": " la la"
+   }
+  ],
+  "text": "la la"
+ },
+ {
+  "file": "PTT-20231014-WA0007.opus",
+  "language": "es",
+  "language_probability": 0.7310813665390015,
+  "duration": 13.8535,
+  "transcribed_at": "2026-07-24T05:23:15.932583+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 13.82,
+    "text": " Acá lo tengo en la mochila me llevé todo pero estaba buscando"
+   }
+  ],
+  "text": "Acá lo tengo en la mochila me llevé todo pero estaba buscando"
+ }
+]

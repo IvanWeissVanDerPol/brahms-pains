@@ -1,0 +1,82 @@
+[
+ {
+  "file": "PTT-20240806-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.9298185110092163,
+  "duration": 3.1178125,
+  "transcribed_at": "2026-07-23T21:32:43.823919+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.08,
+    "text": " ¿Dónde dice se hora y entidad tenés que poner el rub?"
+   }
+  ],
+  "text": "¿Dónde dice se hora y entidad tenés que poner el rub?"
+ },
+ {
+  "file": "PTT-20240806-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.9810412526130676,
+  "duration": 7.4178125,
+  "transcribed_at": "2026-07-24T01:40:58.328113+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.72,
+    "text": " 2 más grandes están 6.90 y el azul más chico, el de Frigerable, está 4.80"
+   }
+  ],
+  "text": "2 más grandes están 6.90 y el azul más chico, el de Frigerable, está 4.80"
+ },
+ {
+  "file": "PTT-20240806-WA0013.opus",
+  "language": "es",
+  "language_probability": 0.9544656872749329,
+  "duration": 8.9578125,
+  "transcribed_at": "2026-07-24T02:57:08.705612+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.46,
+    "text": " Avisa menos más si es que vas a querer porfa porque el delivery de la logística está"
+   },
+   {
+    "start": 5.46,
+    "end": 8.28,
+    "text": " viniendo por acá y va a llevar el último pedido, pues ya no vuelve."
+   }
+  ],
+  "text": "Avisa menos más si es que vas a querer porfa porque el delivery de la logística está viniendo por acá y va a llevar el último pedido, pues ya no vuelve."
+ },
+ {
+  "file": "PTT-20240806-WA0018.opus",
+  "language": "es",
+  "language_probability": 0.9554463624954224,
+  "duration": 25.0578125,
+  "transcribed_at": "2026-07-24T13:28:49.475608+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.84,
+    "text": " A pedir es que atiendas bien al abrir, porque te estoy mandando por piezas separadas."
+   },
+   {
+    "start": 5.84,
+    "end": 16.68,
+    "text": " El pico y el tubito te mando en algo separado, y el box te puse mucha bolsa y mucha cinta."
+   },
+   {
+    "start": 16.68,
+    "end": 21.72,
+    "text": " Entonces para que abras con cuidado, para que no se desbale y se rompa, ¿qué?"
+   },
+   {
+    "start": 21.72,
+    "end": 25.0,
+    "text": " Porque como que se va en moto es muy peligroso que se rompa con el camino."
+   }
+  ],
+  "text": "A pedir es que atiendas bien al abrir, porque te estoy mandando por piezas separadas. El pico y el tubito te mando en algo separado, y el box te puse mucha bolsa y mucha cinta. Entonces para que abras con cuidado, para que no se desbale y se rompa, ¿qué? Porque como que se va en moto es muy peligroso que se rompa con el camino."
+ }
+]

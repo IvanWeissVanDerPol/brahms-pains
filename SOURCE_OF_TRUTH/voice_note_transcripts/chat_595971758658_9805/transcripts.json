@@ -1,0 +1,87 @@
+[
+ {
+  "file": "PTT-20260618-WA0021.opus",
+  "language": "es",
+  "language_probability": 0.9661540985107422,
+  "duration": 17.5535,
+  "transcribed_at": "2026-07-24T07:25:42.664673+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Ay, Neko, perdón, yo pensé que tu cumple, era el 20, había sido falleer."
+   },
+   {
+    "start": 5.0,
+    "end": 10.0,
+    "text": " Él incomple, Neko. Él incomple, estaba por el hospital, por eso no me hagas."
+   },
+   {
+    "start": 10.0,
+    "end": 13.0,
+    "text": " No entré a ver el grupo."
+   },
+   {
+    "start": 13.0,
+    "end": 17.0,
+    "text": " Espero que haya pasado muy bien y que disfrutes mucho el 20."
+   }
+  ],
+  "text": "Ay, Neko, perdón, yo pensé que tu cumple, era el 20, había sido falleer. Él incomple, Neko. Él incomple, estaba por el hospital, por eso no me hagas. No entré a ver el grupo. Espero que haya pasado muy bien y que disfrutes mucho el 20."
+ },
+ {
+  "file": "PTT-20260618-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.6602540016174316,
+  "duration": 33.6535,
+  "transcribed_at": "2026-07-24T15:20:17.961034+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 15.72,
+    "text": " Ya, ya te rellegé en el nino, que rico el frío, pero hop que toque y en el hospital,"
+   },
+   {
+    "start": 15.72,
+    "end": 29.48,
+    "text": " me da brazos, pero a te, mejor cumplir, demasiado feliz pasé, muchas gracias."
+   },
+   {
+    "start": 30.0,
+    "end": 33.0,
+    "text": " Y ahora sí te oso."
+   }
+  ],
+  "text": "Ya, ya te rellegé en el nino, que rico el frío, pero hop que toque y en el hospital, me da brazos, pero a te, mejor cumplir, demasiado feliz pasé, muchas gracias. Y ahora sí te oso."
+ },
+ {
+  "file": "PTT-20251026-WA0039.opus",
+  "language": "es",
+  "language_probability": 0.8332257866859436,
+  "duration": 44.4178125,
+  "transcribed_at": "2026-07-24T17:44:09.170693+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 26.0,
+    "text": " holies, sobre por eso aparece el senfranoyer, el que viene con las amiz, que tipo tiene un candadramista con algunos grupos parecen, y como una estada en comodas en senfranoyer, y bueno venimos con todas las compañías, pero se vio muy nadie en la partida, estaban todos muy ásteres"
+   },
+   {
+    "start": 27.0,
+    "end": 30.0,
+    "text": " espero que se hayan divertido mucho"
+   },
+   {
+    "start": 34.0,
+    "end": 37.0,
+    "text": " desde el próximo me voy nomas a lo"
+   },
+   {
+    "start": 40.0,
+    "end": 42.0,
+    "text": " pero me agasitos"
+   }
+  ],
+  "text": "holies, sobre por eso aparece el senfranoyer, el que viene con las amiz, que tipo tiene un candadramista con algunos grupos parecen, y como una estada en comodas en senfranoyer, y bueno venimos con todas las compañías, pero se vio muy nadie en la partida, estaban todos muy ásteres espero que se hayan divertido mucho desde el próximo me voy nomas a lo pero me agasitos"
+ }
+]

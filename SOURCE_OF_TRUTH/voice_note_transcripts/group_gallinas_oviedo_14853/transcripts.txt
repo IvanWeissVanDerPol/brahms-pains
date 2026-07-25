@@ -1,0 +1,18 @@
+PTT-20260406-WA0015.opus | lang=es prob=0.956466794013977 dur=27.7s
+------------------------------------------------------------
+[00:00.00 → 00:06.00] Quiero que analices todo el repo que tenemos y updatees con los datos reales que nos pasaron.
+[00:07.00 → 00:13.00] Todos los datos que tenemos prohibidos por ALLE y por labor en el futuro son los reales
+[00:13.00 → 00:17.00] y deberían updatear los datos en el repositorio.
+[00:17.00 → 00:22.00] En base a los datos nuevos, después quiero que updatees todos los planes
+[00:22.00 → 00:28.00] y nos ayuda a encontrar mejores ideas y formas de mejorar el negocio en el plan.
+AUD-20260406-WA0020.opus | lang=es prob=0.9365783333778381 dur=50.1s
+------------------------------------------------------------
+[00:00.00 → 00:05.32] Viste que nosotros tenemos un cuaderno físico, porque cada galpón donde los
+[00:05.32 → 00:11.24] muchachos anotan cuántos huevos sale por día y de qué tipo son cada huevo que sale.
+[00:11.24 → 00:15.92] En cada gallinero hay un cuaderno, hay cuatro cuadernos en total y esos cuadernos
+[00:15.92 → 00:20.84] es lo que yo quiero informar y saber. Salieron 100 tipo A de tal gallinero,
+[00:20.84 → 00:26.60] 100 tipo B de ese mismo gallinero, tanto tipo C, tanto super y así de cada
+[00:26.60 → 00:32.88] gallinero. Quiero guardar la producción que hubo por día y el total de tabletas.
+[00:34.88 → 00:43.00] Eso es lo que quiero yo guardar y eso, como para verme un formato de excel para que yo
+[00:43.00 → 00:48.92] le pueda dictar en un audio nomás para que me cargue y no tenga que estar tecleando yo para
+[00:48.92 → 00:49.96] guardar en el excel.

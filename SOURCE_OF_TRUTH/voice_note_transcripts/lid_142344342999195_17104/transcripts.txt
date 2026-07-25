@@ -1,0 +1,12 @@
+PTT-20260713-WA0001.opus | lang=es prob=0.896996796131134 dur=3.2s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Puta, hace frío afuera la puta madre.
+PTT-20260719-WA0024.opus | lang=ml prob=0.20833243429660797 dur=4.3s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Dhali, nothin puru kuppes.
+[00:02.00 → 00:03.00] The man on the other side.
+[00:03.00 → 00:04.00] Take it off.
+PTT-20260713-WA0000.opus | lang=tl prob=0.221836119890213 dur=6.5s
+------------------------------------------------------------
+[00:00.00 → 00:02.78] Oo, sounds good. Aga mahafet siya yandeng.
+[00:02.78 → 00:06.46] Prandaw na mahafet na randong paraasari mahafet na kaya raya-expecting.

@@ -1,0 +1,87 @@
+[
+ {
+  "file": "PTT-20260510-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.9843047261238098,
+  "duration": 12.3778125,
+  "transcribed_at": "2026-07-24T05:29:21.300376+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.96,
+    "text": " originalmente era la foto de un edificio en el trasfondo en tipo tinta de agua"
+   },
+   {
+    "start": 6.96,
+    "end": 11.84,
+    "text": " como se llama eso y luego pusiste una foto de una casa con un lapacho en"
+   },
+   {
+    "start": 11.84,
+    "end": 14.24,
+    "text": " frente"
+   }
+  ],
+  "text": "originalmente era la foto de un edificio en el trasfondo en tipo tinta de agua como se llama eso y luego pusiste una foto de una casa con un lapacho en frente"
+ },
+ {
+  "file": "PTT-20260508-WA0043.opus",
+  "language": "es",
+  "language_probability": 0.9022265076637268,
+  "duration": 23.4978125,
+  "transcribed_at": "2026-07-24T12:33:44.019510+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.78,
+    "text": " Iván, más o menos qué es lo que la empresa queremos hacer, es decir, yo por haber vivido"
+   },
+   {
+    "start": 8.78,
+    "end": 15.82,
+    "text": " en el extranjero en Holanda y haber pasado por el proceso de emigrar, ser lo que se siente"
+   },
+   {
+    "start": 15.82,
+    "end": 23.5,
+    "text": " el llegar a un país y no tener nadie que te guíe, sobre todo si no hablas el idioma."
+   }
+  ],
+  "text": "Iván, más o menos qué es lo que la empresa queremos hacer, es decir, yo por haber vivido en el extranjero en Holanda y haber pasado por el proceso de emigrar, ser lo que se siente el llegar a un país y no tener nadie que te guíe, sobre todo si no hablas el idioma."
+ },
+ {
+  "file": "PTT-20260508-WA0044.opus",
+  "language": "es",
+  "language_probability": 0.9502763152122498,
+  "duration": 44.9378125,
+  "transcribed_at": "2026-07-25T01:41:20.513633+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " La idea es ayudarle a acompañarle a lo largo de su proceso de emigración al Paraguay"
+   },
+   {
+    "start": 10.0,
+    "end": 22.6,
+    "text": " con la parte de documentación, con la parte de buscar un lugar donde afincarse, con la parte de sus registros"
+   },
+   {
+    "start": 22.6,
+    "end": 30.6,
+    "text": " y es un proceso que normalmente dura hasta un año, entonces es acompañarle a lo largo del proceso"
+   },
+   {
+    "start": 30.6,
+    "end": 38.6,
+    "text": " no es solamente sacarle sus documentos y luego me olvido, es hacerle un acompañamiento de cerca"
+   },
+   {
+    "start": 38.6,
+    "end": 44.6,
+    "text": " ya que manejo el idioma y conozco la experiencia."
+   }
+  ],
+  "text": "La idea es ayudarle a acompañarle a lo largo de su proceso de emigración al Paraguay con la parte de documentación, con la parte de buscar un lugar donde afincarse, con la parte de sus registros y es un proceso que normalmente dura hasta un año, entonces es acompañarle a lo largo del proceso no es solamente sacarle sus documentos y luego me olvido, es hacerle un acompañamiento de cerca ya que manejo el idioma y conozco la experiencia."
+ }
+]

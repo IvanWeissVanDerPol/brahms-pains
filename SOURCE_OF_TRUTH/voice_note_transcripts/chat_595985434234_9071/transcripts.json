@@ -1,0 +1,22 @@
+[
+ {
+  "file": "PTT-20240924-WA0005.opus",
+  "language": "es",
+  "language_probability": 0.9691289663314819,
+  "duration": 12.6978125,
+  "transcribed_at": "2026-07-24T05:44:53.413054+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Usted es la persona que nos vamos a encontrar prácticamente detrás de Salema, ¿verdad?"
+   },
+   {
+    "start": 5.0,
+    "end": 13.0,
+    "text": " Como le digo, si es así, a las 3 y media, 3 y 40 aproximadamente, voy a estar ahí en Ético Paraguay, donde le envíe la ubicación."
+   }
+  ],
+  "text": "Usted es la persona que nos vamos a encontrar prácticamente detrás de Salema, ¿verdad? Como le digo, si es así, a las 3 y media, 3 y 40 aproximadamente, voy a estar ahí en Ético Paraguay, donde le envíe la ubicación."
+ }
+]

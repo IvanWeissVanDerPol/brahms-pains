@@ -1,0 +1,402 @@
+[
+ {
+  "file": "PTT-20250819-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.993313729763031,
+  "duration": 3.8178125,
+  "transcribed_at": "2026-07-23T20:25:36.860325+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " y le instalamos Windows"
+   }
+  ],
+  "text": "y le instalamos Windows"
+ },
+ {
+  "file": "PTT-20251013-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.9249443411827087,
+  "duration": 2.9578125,
+  "transcribed_at": "2026-07-23T20:48:39.907049+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.6,
+    "text": " Hola, buenas tardes. ¿Qué tal, capo? ¿Cómo estamos, che?"
+   }
+  ],
+  "text": "Hola, buenas tardes. ¿Qué tal, capo? ¿Cómo estamos, che?"
+ },
+ {
+  "file": "PTT-20250819-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.9638739228248596,
+  "duration": 4.0378125,
+  "transcribed_at": "2026-07-23T22:43:01.130803+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.36,
+    "text": " dale súper y avísame cualquier cosa así"
+   }
+  ],
+  "text": "dale súper y avísame cualquier cosa así"
+ },
+ {
+  "file": "PTT-20250819-WA0023.opus",
+  "language": "es",
+  "language_probability": 0.9151597619056702,
+  "duration": 4.2578125,
+  "transcribed_at": "2026-07-23T22:57:26.575262+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Decíme vos cuando estás viajando, cuando estuviste viajando."
+   }
+  ],
+  "text": "Decíme vos cuando estás viajando, cuando estuviste viajando."
+ },
+ {
+  "file": "PTT-20250819-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.9833902716636658,
+  "duration": 4.3778125,
+  "transcribed_at": "2026-07-23T23:00:58.206525+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.08,
+    "text": " ok, entiendo, entiendo, súper, está bien"
+   }
+  ],
+  "text": "ok, entiendo, entiendo, súper, está bien"
+ },
+ {
+  "file": "PTT-20250819-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.9330633282661438,
+  "duration": 4.1578125,
+  "transcribed_at": "2026-07-23T23:08:09.163800+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Avisame nomás decir, decirle que me pase Guaraní, ¿cuánto él le pasó?"
+   }
+  ],
+  "text": "Avisame nomás decir, decirle que me pase Guaraní, ¿cuánto él le pasó?"
+ },
+ {
+  "file": "PTT-20250819-WA0024.opus",
+  "language": "es",
+  "language_probability": 0.9598251581192017,
+  "duration": 7.1778125,
+  "transcribed_at": "2026-07-24T00:51:35.475682+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.72,
+    "text": " bueno y decirle un poco que jueves de día te vas o de tarde"
+   }
+  ],
+  "text": "bueno y decirle un poco que jueves de día te vas o de tarde"
+ },
+ {
+  "file": "PTT-20250819-WA0044.opus",
+  "language": "es",
+  "language_probability": 0.9632226824760437,
+  "duration": 8.0178125,
+  "transcribed_at": "2026-07-24T01:11:28.637074+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Y ahora me envió tu mamá comprobante, ahora voy a retirar el café que ya voy a comprar para vos. ¿Está bien?"
+   }
+  ],
+  "text": "Y ahora me envió tu mamá comprobante, ahora voy a retirar el café que ya voy a comprar para vos. ¿Está bien?"
+ },
+ {
+  "file": "PTT-20250819-WA0036.opus",
+  "language": "es",
+  "language_probability": 0.9506773948669434,
+  "duration": 7.4378125,
+  "transcribed_at": "2026-07-24T01:22:32.141048+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.28,
+    "text": " Vale, hablo ahora con el portador a cuánto y le cotizan ahora, subo el guaraní y ya te paso."
+   }
+  ],
+  "text": "Vale, hablo ahora con el portador a cuánto y le cotizan ahora, subo el guaraní y ya te paso."
+ },
+ {
+  "file": "PTT-20250819-WA0026.opus",
+  "language": "es",
+  "language_probability": 0.8953897356987,
+  "duration": 8.4778125,
+  "transcribed_at": "2026-07-24T02:23:55.916841+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.6000000000000005,
+    "text": " Decime una MacBook Air, no te sirve una i7 8GB de RAM 512 SSD"
+   }
+  ],
+  "text": "Decime una MacBook Air, no te sirve una i7 8GB de RAM 512 SSD"
+ },
+ {
+  "file": "PTT-20251013-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.9449832439422607,
+  "duration": 9.6778125,
+  "transcribed_at": "2026-07-24T03:12:02.181865+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.5,
+    "text": " Sí, amigo, hasta me la aguanto, en el último caso voy a montar y devolverte, lamentablemente, es el tema."
+   }
+  ],
+  "text": "Sí, amigo, hasta me la aguanto, en el último caso voy a montar y devolverte, lamentablemente, es el tema."
+ },
+ {
+  "file": "PTT-20250819-WA0057.opus",
+  "language": "es",
+  "language_probability": 0.8625233769416809,
+  "duration": 10.1178125,
+  "transcribed_at": "2026-07-24T03:48:12.075422+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Dale, dale, sin problema, no te preocupes, estamos aquí, cosa está mal ahora."
+   },
+   {
+    "start": 4.0,
+    "end": 10.0,
+    "text": " Si necesitas un pedido por algo, estamos por acá."
+   }
+  ],
+  "text": "Dale, dale, sin problema, no te preocupes, estamos aquí, cosa está mal ahora. Si necesitas un pedido por algo, estamos por acá."
+ },
+ {
+  "file": "PTT-20250819-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.9705114364624023,
+  "duration": 11.5378125,
+  "transcribed_at": "2026-07-24T04:33:54.705027+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.0,
+    "text": " Inclusive le puedo cargar Windows, lo que va a tener la diferencia es a lo mejor en los teclados, pero si te sirve lo mejor podemos conseguir más barato ahora."
+   }
+  ],
+  "text": "Inclusive le puedo cargar Windows, lo que va a tener la diferencia es a lo mejor en los teclados, pero si te sirve lo mejor podemos conseguir más barato ahora."
+ },
+ {
+  "file": "PTT-20250819-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.9578667283058167,
+  "duration": 12.0578125,
+  "transcribed_at": "2026-07-24T04:53:49.976683+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.78,
+    "text": " que tal capo cómo estás mira ahora estuve viendo 420 dólares está este modelo pero sin factura"
+   },
+   {
+    "start": 8.78,
+    "end": 11.38,
+    "text": " legal no sé qué es y"
+   }
+  ],
+  "text": "que tal capo cómo estás mira ahora estuve viendo 420 dólares está este modelo pero sin factura legal no sé qué es y"
+ },
+ {
+  "file": "PTT-20260205-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.9471867680549622,
+  "duration": 15.2978125,
+  "transcribed_at": "2026-07-24T06:36:50.906631+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.58,
+    "text": " Hola, ¿qué tal? ¿como estamos? Espero que te encuentres bien. Decime, tu notbo aún no"
+   },
+   {
+    "start": 7.58,
+    "end": 14.84,
+    "text": " dio reparo y decime, ¿o no querés por si acaso vender como pieza o algo así?"
+   }
+  ],
+  "text": "Hola, ¿qué tal? ¿como estamos? Espero que te encuentres bien. Decime, tu notbo aún no dio reparo y decime, ¿o no querés por si acaso vender como pieza o algo así?"
+ },
+ {
+  "file": "PTT-20250819-WA0032.opus",
+  "language": "es",
+  "language_probability": 0.9734208583831787,
+  "duration": 15.4578125,
+  "transcribed_at": "2026-07-24T06:53:37.079907+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Entiendo, entiendo, súper. No hay por vos nomás, por vos nomás, así me enviás ahora, yo me voy"
+   },
+   {
+    "start": 6.0,
+    "end": 15.0,
+    "text": " y ya te veo, antes que cierren todo, pero decirte, tenemos cada media hora más, a más de 20 minutos, vamos a ya ver."
+   }
+  ],
+  "text": "Entiendo, entiendo, súper. No hay por vos nomás, por vos nomás, así me enviás ahora, yo me voy y ya te veo, antes que cierren todo, pero decirte, tenemos cada media hora más, a más de 20 minutos, vamos a ya ver."
+ },
+ {
+  "file": "PTT-20260205-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.9132972955703735,
+  "duration": 19.8578125,
+  "transcribed_at": "2026-07-24T08:58:23.414753+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 11.92,
+    "text": " y no sé decirme vos cuánto más o menos querés así veo si me conviene o no es para más para"
+   },
+   {
+    "start": 11.92,
+    "end": 19.400000000000002,
+    "text": " utilizar como pieza para el tipo de display y algunos accesorios"
+   }
+  ],
+  "text": "y no sé decirme vos cuánto más o menos querés así veo si me conviene o no es para más para utilizar como pieza para el tipo de display y algunos accesorios"
+ },
+ {
+  "file": "PTT-20250819-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.9149845838546753,
+  "duration": 23.8578125,
+  "transcribed_at": "2026-07-24T11:03:09.386575+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Y realmente, realmente, por lo general, todo es efectivo acá, trabajan la importadora."
+   },
+   {
+    "start": 10.0,
+    "end": 16.0,
+    "text": " Entonces, si te estoy pasando así, lo que es el precio que me pasa, ya te estoy pasando a vos."
+   },
+   {
+    "start": 16.0,
+    "end": 23.0,
+    "text": " O sea, sin factura, y así ese precio para reventar."
+   }
+  ],
+  "text": "Y realmente, realmente, por lo general, todo es efectivo acá, trabajan la importadora. Entonces, si te estoy pasando así, lo que es el precio que me pasa, ya te estoy pasando a vos. O sea, sin factura, y así ese precio para reventar."
+ },
+ {
+  "file": "PTT-20250819-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.9534590244293213,
+  "duration": 24.7778125,
+  "transcribed_at": "2026-07-24T11:44:46.760156+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Perfecto, voy a escribir todas esas sonias, le digo que si te puede transferir el dinero y después le voy a transferir a ella, le devuelvo."
+   },
+   {
+    "start": 7.0,
+    "end": 11.0,
+    "text": " Así te mando y puedes mandarnos más llaves."
+   },
+   {
+    "start": 11.0,
+    "end": 17.0,
+    "text": " Pero si no tampoco no hay ningún problema en mi parte para pagar más, para asegurar que llegue."
+   },
+   {
+    "start": 17.0,
+    "end": 19.0,
+    "text": " ¿Cómo se llama?"
+   },
+   {
+    "start": 19.0,
+    "end": 25.0,
+    "text": " Me va a hacer más caro estar en el viaje sin mis herramientas de trabajo."
+   }
+  ],
+  "text": "Perfecto, voy a escribir todas esas sonias, le digo que si te puede transferir el dinero y después le voy a transferir a ella, le devuelvo. Así te mando y puedes mandarnos más llaves. Pero si no tampoco no hay ningún problema en mi parte para pagar más, para asegurar que llegue. ¿Cómo se llama? Me va a hacer más caro estar en el viaje sin mis herramientas de trabajo."
+ },
+ {
+  "file": "PTT-20250819-WA0025.opus",
+  "language": "es",
+  "language_probability": 0.8998650908470154,
+  "duration": 23.9778125,
+  "transcribed_at": "2026-07-24T12:32:51.632525+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.0,
+    "text": " No, yo no te voy a curar nada de comisión, mi amigo. Te paso el precio y tu mamá es mi clienta, entonces no."
+   },
+   {
+    "start": 9.0,
+    "end": 16.0,
+    "text": " Siempre gano por ella por la reparación que me envía. Te voy a hacer el aguante porque le damos televisión a una mala jugadora, así no da gusto."
+   },
+   {
+    "start": 16.0,
+    "end": 24.0,
+    "text": " Parece que este es el aguante, como todavía no puede solucionarte, entonces la reparación o más, después nos ajustamos, sin problemas."
+   }
+  ],
+  "text": "No, yo no te voy a curar nada de comisión, mi amigo. Te paso el precio y tu mamá es mi clienta, entonces no. Siempre gano por ella por la reparación que me envía. Te voy a hacer el aguante porque le damos televisión a una mala jugadora, así no da gusto. Parece que este es el aguante, como todavía no puede solucionarte, entonces la reparación o más, después nos ajustamos, sin problemas."
+ },
+ {
+  "file": "PTT-20250819-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.9763765931129456,
+  "duration": 44.5778125,
+  "transcribed_at": "2026-07-24T22:12:34.980700+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 17.6,
+    "text": " Minh, tenemos dos opciones, si me envíes el dinero hoy, yo te envío por transportadora"
+   },
+   {
+    "start": 17.6,
+    "end": 25.080000000000002,
+    "text": " hoy y mañana en el recebiz, o en el caso de que si mas o menos me vas a enviar mañana"
+   },
+   {
+    "start": 25.080000000000002,
+    "end": 30.76,
+    "text": " te puedo enviar mañana, pero te va a costar mas caro el envío, tipo te puede enviar por risa,"
+   },
+   {
+    "start": 30.76,
+    "end": 36.84,
+    "text": " te puede enviar por otra empresa que por bus, era por colectivo, entonces ellos coran un poquito"
+   },
+   {
+    "start": 36.84,
+    "end": 43.480000000000004,
+    "text": " mas caro y demás cosas, de acuerdo al valor, ese no mas va a ser el tema, ahora por vos no mas"
+   }
+  ],
+  "text": "Minh, tenemos dos opciones, si me envíes el dinero hoy, yo te envío por transportadora hoy y mañana en el recebiz, o en el caso de que si mas o menos me vas a enviar mañana te puedo enviar mañana, pero te va a costar mas caro el envío, tipo te puede enviar por risa, te puede enviar por otra empresa que por bus, era por colectivo, entonces ellos coran un poquito mas caro y demás cosas, de acuerdo al valor, ese no mas va a ser el tema, ahora por vos no mas"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20260212-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.938563883304596,
+  "duration": 11.6178125,
+  "transcribed_at": "2026-07-24T03:55:02.895470+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hola, ¿Qué tal? ¿Cómo estás?"
+   },
+   {
+    "start": 3.0,
+    "end": 6.0,
+    "text": " Sí, claro que sí, voy a poder pasar."
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " Cuando llegué la..."
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " Pero fuera ahora le digo que sé comunicar contigo."
+   }
+  ],
+  "text": "Hola, ¿Qué tal? ¿Cómo estás? Sí, claro que sí, voy a poder pasar. Cuando llegué la... Pero fuera ahora le digo que sé comunicar contigo."
+ }
+]

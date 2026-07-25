@@ -1,0 +1,87 @@
+[
+ {
+  "file": "PTT-20260506-WA0027.opus",
+  "language": "en",
+  "language_probability": 0.8060474395751953,
+  "duration": 12.1378125,
+  "transcribed_at": "2026-07-24T03:47:17.446992+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " You know, I know this."
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " Oh, you sure take it clean."
+   }
+  ],
+  "text": "You know, I know this. Oh, you sure take it clean."
+ },
+ {
+  "file": "PTT-20260519-WA0052.opus",
+  "language": "es",
+  "language_probability": 0.9230921268463135,
+  "duration": 10.4135,
+  "transcribed_at": "2026-07-24T04:04:53.918882+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Yo ahora salí de mi trabajo y me voy a ir a buscar la movida para Kuki y nos vamos, me podrías mandarte Kuki, cazao."
+   }
+  ],
+  "text": "Yo ahora salí de mi trabajo y me voy a ir a buscar la movida para Kuki y nos vamos, me podrías mandarte Kuki, cazao."
+ },
+ {
+  "file": "PTT-20260518-WA0046.opus",
+  "language": "es",
+  "language_probability": 0.9710906147956848,
+  "duration": 38.8735,
+  "transcribed_at": "2026-07-24T22:11:42.128532+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.16,
+    "text": " Y tiene un límite de, o sea, tipo, te voy a dar la suscripción si es que quiero, o sea,"
+   },
+   {
+    "start": 9.16,
+    "end": 14.4,
+    "text": " es cual lo que es mi problema con Cloud, por ejemplo, y creo que ya me trataste de explicarlo"
+   },
+   {
+    "start": 14.4,
+    "end": 19.04,
+    "text": " varias veces y que no estás tan muy bueno luego Cloud y que hay muchas mejores opciones,"
+   },
+   {
+    "start": 19.04,
+    "end": 23.2,
+    "text": " pero me pasa, por ejemplo, con Cloud, que de que yo le mando un código y me quita"
+   },
+   {
+    "start": 23.2,
+    "end": 27.48,
+    "text": " algunas cosas de mi código y tipo, me haré algo que le pido, pero pierdo de otras"
+   },
+   {
+    "start": 27.48,
+    "end": 32.24,
+    "text": " informaciones, como que no tiene una retención de memoria muy fuerte, ¿entendés? Y eso."
+   },
+   {
+    "start": 32.24,
+    "end": 36.04,
+    "text": " También quería saber si que tal con Hermes, igual llegué a probar."
+   },
+   {
+    "start": 36.04,
+    "end": 38.6,
+    "text": " O sea, ahora voy a entrar a la compu de mi trabajo y voy a probar."
+   }
+  ],
+  "text": "Y tiene un límite de, o sea, tipo, te voy a dar la suscripción si es que quiero, o sea, es cual lo que es mi problema con Cloud, por ejemplo, y creo que ya me trataste de explicarlo varias veces y que no estás tan muy bueno luego Cloud y que hay muchas mejores opciones, pero me pasa, por ejemplo, con Cloud, que de que yo le mando un código y me quita algunas cosas de mi código y tipo, me haré algo que le pido, pero pierdo de otras informaciones, como que no tiene una retención de memoria muy fuerte, ¿entendés? Y eso. También quería saber si que tal con Hermes, igual llegué a probar. O sea, ahora voy a entrar a la compu de mi trabajo y voy a probar."
+ }
+]

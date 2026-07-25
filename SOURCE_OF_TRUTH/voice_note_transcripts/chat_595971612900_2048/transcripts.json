@@ -1,0 +1,67 @@
+[
+ {
+  "file": "PTT-20250612-WA0124.opus",
+  "language": "es",
+  "language_probability": 0.26223310828208923,
+  "duration": 3.1978125,
+  "transcribed_at": "2026-07-23T21:35:47.259277+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Yo voy a irse a ver cuando ve la segunda final."
+   }
+  ],
+  "text": "Yo voy a irse a ver cuando ve la segunda final."
+ },
+ {
+  "file": "PTT-20250823-WA0075.opus",
+  "language": "es",
+  "language_probability": 0.903056263923645,
+  "duration": 10.4378125,
+  "transcribed_at": "2026-07-24T02:51:11.787375+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¿Qué te di cuenta si pasas chila?"
+   },
+   {
+    "start": 5.0,
+    "end": 9.0,
+    "text": " Hay unas cuantas bandas que van a tocar todos recul."
+   },
+   {
+    "start": 9.0,
+    "end": 10.0,
+    "text": " No hubo."
+   }
+  ],
+  "text": "¿Qué te di cuenta si pasas chila? Hay unas cuantas bandas que van a tocar todos recul. No hubo."
+ },
+ {
+  "file": "PTT-20250612-WA0123.opus",
+  "language": "es",
+  "language_probability": 0.9099730253219604,
+  "duration": 15.3778125,
+  "transcribed_at": "2026-07-24T06:54:46.999795+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " En el interior habían secado fotos de Samen, también gente."
+   },
+   {
+    "start": 5.0,
+    "end": 8.0,
+    "text": " Bueno, a ver si me pasa un pack al bien."
+   },
+   {
+    "start": 10.0,
+    "end": 15.0,
+    "text": " Pero Muth, nos vemos en el segundo final."
+   }
+  ],
+  "text": "En el interior habían secado fotos de Samen, también gente. Bueno, a ver si me pasa un pack al bien. Pero Muth, nos vemos en el segundo final."
+ }
+]

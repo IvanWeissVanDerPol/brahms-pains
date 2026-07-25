@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20240404-WA0036.opus",
+  "language": "es",
+  "language_probability": 0.8810397982597351,
+  "duration": 3.4778125,
+  "transcribed_at": "2026-07-23T22:21:25.960107+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.5,
+    "text": " ¿Para qué tal, amigo? Yo soy el delirio y ya estoy llegando, estoy a dos cuadras."
+   }
+  ],
+  "text": "¿Para qué tal, amigo? Yo soy el delirio y ya estoy llegando, estoy a dos cuadras."
+ }
+]

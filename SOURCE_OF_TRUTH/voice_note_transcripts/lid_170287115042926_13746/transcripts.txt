@@ -1,0 +1,26 @@
+PTT-20260610-WA0040.opus | lang=es prob=0.9044893980026245 dur=8.6s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] O voy a decir que es al pedo de filtro tipo hace un zoom, no mames, ya está, ¿verdad?
+[00:05.00 → 00:08.00] O tipo filtrar en lo que es feminicidio, acoso, abuso.
+PTT-20260610-WA0039.opus | lang=es prob=0.9668538570404053 dur=16.4s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] tipo a partir del mapa para abajo y me parece que está por bete, lo que veo que no está tampoco del filtro de los casos
+[00:10.00 → 00:16.00] porque quizás algunas personas quieran ver más que nada de su país y que sé yo
+PTT-20260610-WA0038.opus | lang=es prob=0.915070652961731 dur=34.1s
+------------------------------------------------------------
+[00:00.00 → 00:09.68] Olys, sí, vos sabes que vi la sugerencia de poner un hero, pero la verdad que yo quería que se centré en el mapa.
+[00:09.68 → 00:18.48] Tengo que ver y eso es lo primero que veas, quizás porque ya entras en la página y ya tenés una noción de qué es.
+[00:18.48 → 00:25.36] Y abajo suma el hero. O sea, si ves la última versión que hice, tiene el hero abajo.
+[00:25.36 → 00:34.00] Me gusta eso de los contadores, de cuantas cosas, de cuantas cositas tiene y así, está muy bueno.
+PTT-20260608-WA0010.opus | lang=es prob=0.9132141470909119 dur=36.3s
+------------------------------------------------------------
+[00:00.00 → 00:13.00] El código es abierto, hice todo con Cloud Code y está subiendo github, verdad, o sea, todo el código en una página puedes encontrar hacia el final, por si querés, no sé, mirar.
+[00:13.00 → 00:20.00] Yo, la verdad que no, no es muy básico el HTML, pero con Cloud Code hice todo.
+[00:20.00 → 00:35.00] Y con SuperBase, para cargar las solicitudes de nuevos moderadores y otras cosas que no me acuerdo bien qué, y todo cargué en Vercel.
+PTT-20260608-WA0011.opus | lang=es prob=0.9062507152557373 dur=39.5s
+------------------------------------------------------------
+[00:00.00 → 00:06.92] Yo ya venía haciendo sitios web sin no-code, pero nada, con Cloud Code fui probando
+[00:06.92 → 00:16.20] hacia algunas cosas, funcionalidades, y dale, en lo que puedas ayudar, siempre la ayuda
+[00:16.20 → 00:25.72] había venido, o sea, yo hice eso hasta ahora, y nada, así que eso, si quieres escucharme
+[00:25.72 → 00:34.48] al código, no sé si se puede compartir el proyecto de Cloud Code, así también, mira, y si con Next
+[00:34.48 → 00:38.16] hice, con Next, de Superbase Iversal.

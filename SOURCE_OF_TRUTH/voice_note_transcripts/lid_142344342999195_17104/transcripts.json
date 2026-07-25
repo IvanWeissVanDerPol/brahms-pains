@@ -1,0 +1,62 @@
+[
+ {
+  "file": "PTT-20260713-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.896996796131134,
+  "duration": 3.2335,
+  "transcribed_at": "2026-07-23T21:30:32.474680+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Puta, hace frío afuera la puta madre."
+   }
+  ],
+  "text": "Puta, hace frío afuera la puta madre."
+ },
+ {
+  "file": "PTT-20260719-WA0024.opus",
+  "language": "ml",
+  "language_probability": 0.20833243429660797,
+  "duration": 4.2735,
+  "transcribed_at": "2026-07-23T23:12:21.762151+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Dhali, nothin puru kuppes."
+   },
+   {
+    "start": 2.0,
+    "end": 3.0,
+    "text": " The man on the other side."
+   },
+   {
+    "start": 3.0,
+    "end": 4.0,
+    "text": " Take it off."
+   }
+  ],
+  "text": "Dhali, nothin puru kuppes. The man on the other side. Take it off."
+ },
+ {
+  "file": "PTT-20260713-WA0000.opus",
+  "language": "tl",
+  "language_probability": 0.221836119890213,
+  "duration": 6.4535,
+  "transcribed_at": "2026-07-24T00:48:58.171634+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.7800000000000002,
+    "text": " Oo, sounds good. Aga mahafet siya yandeng."
+   },
+   {
+    "start": 2.7800000000000002,
+    "end": 6.46,
+    "text": " Prandaw na mahafet na randong paraasari mahafet na kaya raya-expecting."
+   }
+  ],
+  "text": "Oo, sounds good. Aga mahafet siya yandeng. Prandaw na mahafet na randong paraasari mahafet na kaya raya-expecting."
+ }
+]

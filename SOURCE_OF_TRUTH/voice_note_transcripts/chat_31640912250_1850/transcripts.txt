@@ -1,0 +1,31 @@
+PTT-20260617-WA0067.opus | lang=en prob=0.8934438824653625 dur=32.6s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Hello, Dante Esther. Thank you so much.
+[00:06.00 → 00:10.00] I will party a lot and cuddle a lot of people.
+[00:13.00 → 00:14.00] So cuddly.
+[00:16.00 → 00:19.00] Thank you so much. Have a great day.
+[00:24.00 → 00:28.00] Hope you're having lots of fun back in the Netherlands.
+[00:30.00 → 00:32.00] Thank you for remembering.
+PTT-20251120-WA0019.opus | lang=en prob=0.9282869696617126 dur=38.8s
+------------------------------------------------------------
+[00:00.00 → 00:05.68] Hello, I'll just speak in English because it's easier to express myself because in Dutch I'm missing all the words
+[00:06.52 → 00:07.68] but
+[00:07.68 → 00:13.56] Definitely, ah with Kirian we prepared a little text, but I'll take a look to
+[00:14.52 → 00:16.52] add this slush and
+[00:18.20 → 00:22.52] Definitely, I'm really glad that he enjoyed it and he said it a lot
+[00:25.60 → 00:27.60] Definitely really useful and helpful
+[00:28.60 → 00:31.44] Slush glad that he liked it
+[00:35.08 → 00:38.16] Thank you, and may he rest in peace
+PTT-20250617-WA0067.opus | lang=nl prob=0.5648877024650574 dur=47.6s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Hallo, Dante Esther. Dank je wel.
+[00:03.00 → 00:10.00] Hier is het nog steeds niet in dag gelaten, want het is nog steeds mijn vierde dag voor een jaar.
+[00:10.00 → 00:15.00] Maar ja, nu zijn we in San Francisco.
+[00:15.00 → 00:18.00] Maar het baas is wel terug naar Canada.
+[00:18.00 → 00:25.00] Wij hebben gewoon naar California gegaan in Amerika voor de conferentie van werk.
+[00:25.00 → 00:28.00] Misschien volgende jaar of later.
+[00:28.00 → 00:31.00] Deze jaar gaan we ook naar Canada, maar ik weet niet.
+[00:31.00 → 00:34.00] Ik denk misschien meer volgende jaar.
+[00:34.00 → 00:38.00] Maar daar is het misschien fijnere en leker, want het is...
+[00:43.00 → 00:45.00] Hebben ze meer tijd voor de mensen van de bedrijf?
+[00:45.00 → 00:47.00] Dan kunnen we meer dingen doen met iedereen.

@@ -1,0 +1,42 @@
+[
+ {
+  "file": "PTT-20240514-WA0008.opus",
+  "language": "es",
+  "language_probability": 0.963983416557312,
+  "duration": 20.6978125,
+  "transcribed_at": "2026-07-24T10:04:41.758747+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Y la verdad que amigo de efectivo nomás porque"
+   },
+   {
+    "start": 4.0,
+    "end": 7.0,
+    "text": " un chingo me indica tuve con el tema de transferencia"
+   },
+   {
+    "start": 7.0,
+    "end": 11.0,
+    "text": " porque ese pudo poder cancelar nomás otra vez que te equivocaste y ya está"
+   },
+   {
+    "start": 11.0,
+    "end": 13.0,
+    "text": " no me siento tan confiado con transferencia"
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " por eso nomás, si tener el efectivo"
+   },
+   {
+    "start": 16.0,
+    "end": 20.0,
+    "text": " puede venir y llevarlo ya"
+   }
+  ],
+  "text": "Y la verdad que amigo de efectivo nomás porque un chingo me indica tuve con el tema de transferencia porque ese pudo poder cancelar nomás otra vez que te equivocaste y ya está no me siento tan confiado con transferencia por eso nomás, si tener el efectivo puede venir y llevarlo ya"
+ }
+]

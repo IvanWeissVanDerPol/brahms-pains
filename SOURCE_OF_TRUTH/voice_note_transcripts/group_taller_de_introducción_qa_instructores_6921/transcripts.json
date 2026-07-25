@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20240726-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.9635556936264038,
+  "duration": 27.1378125,
+  "transcribed_at": "2026-07-24T14:49:17.747905+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Alice, para los voluntarios de apoyo de este grupo les aviso que sin querer enviamos mal el correo de programación web,"
+   },
+   {
+    "start": 8.0,
+    "end": 15.5,
+    "text": " o sea, el link que está adjuntado al correo de programación web se fue sin querer el grupo de Cuba,"
+   },
+   {
+    "start": 15.5,
+    "end": 24.0,
+    "text": " así que probablemente tengan varios personas en la lista que no están en su lista, así que eso."
+   },
+   {
+    "start": 24.0,
+    "end": 27.0,
+    "text": " Disculpen el error, ahora vamos a intersolucionar eso."
+   }
+  ],
+  "text": "Alice, para los voluntarios de apoyo de este grupo les aviso que sin querer enviamos mal el correo de programación web, o sea, el link que está adjuntado al correo de programación web se fue sin querer el grupo de Cuba, así que probablemente tengan varios personas en la lista que no están en su lista, así que eso. Disculpen el error, ahora vamos a intersolucionar eso."
+ }
+]

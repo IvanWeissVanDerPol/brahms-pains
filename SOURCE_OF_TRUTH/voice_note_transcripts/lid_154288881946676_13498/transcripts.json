@@ -1,0 +1,62 @@
+[
+ {
+  "file": "PTT-20260626-WA0019.opus",
+  "language": "en",
+  "language_probability": 0.9020112156867981,
+  "duration": 1.4535,
+  "transcribed_at": "2026-07-23T19:05:55.958391+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hello, can you hear me?"
+   }
+  ],
+  "text": "Hello, can you hear me?"
+ },
+ {
+  "file": "PTT-20260218-WA0010.opus",
+  "language": "en",
+  "language_probability": 0.8845885396003723,
+  "duration": 2.1578125,
+  "transcribed_at": "2026-07-23T19:08:11.730799+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hear me, Whishart."
+   }
+  ],
+  "text": "Hear me, Whishart."
+ },
+ {
+  "file": "PTT-20260501-WA0035.opus",
+  "language": "es",
+  "language_probability": 0.947507917881012,
+  "duration": 2.0178125,
+  "transcribed_at": "2026-07-23T19:38:50.988078+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hola, ¿me podés escuchar?"
+   }
+  ],
+  "text": "Hola, ¿me podés escuchar?"
+ },
+ {
+  "file": "PTT-20260218-WA0009.opus",
+  "language": "en",
+  "language_probability": 0.9303258061408997,
+  "duration": 2.4178125,
+  "transcribed_at": "2026-07-23T20:05:36.341017+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Hello Merlin, can you hear me?"
+   }
+  ],
+  "text": "Hello Merlin, can you hear me?"
+ }
+]

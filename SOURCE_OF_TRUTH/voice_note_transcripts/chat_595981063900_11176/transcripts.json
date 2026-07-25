@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20250718-WA0017.opus",
+  "language": "es",
+  "language_probability": 0.9528197646141052,
+  "duration": 4.1778125,
+  "transcribed_at": "2026-07-23T22:54:22.823813+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Si puedes estar atento a tu teléfono si te envío el código QR."
+   }
+  ],
+  "text": "Si puedes estar atento a tu teléfono si te envío el código QR."
+ },
+ {
+  "file": "PTT-20250719-WA0022.opus",
+  "language": "es",
+  "language_probability": 0.9518373012542725,
+  "duration": 5.2178125,
+  "transcribed_at": "2026-07-23T23:46:53.084427+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " y no ya me nomás la primera pregunta si tenían otra pasada, pero ya se lo suene, muchas gracias"
+   }
+  ],
+  "text": "y no ya me nomás la primera pregunta si tenían otra pasada, pero ya se lo suene, muchas gracias"
+ }
+]

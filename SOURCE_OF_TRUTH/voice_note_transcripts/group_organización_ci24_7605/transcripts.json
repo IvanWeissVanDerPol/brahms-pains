@@ -1,0 +1,82 @@
+[
+ {
+  "file": "PTT-20240806-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.9240728616714478,
+  "duration": 3.9178125,
+  "transcribed_at": "2026-07-23T22:52:49.124605+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.48,
+    "text": " voy a encargarme yo tranquilas gracias gracias gracias yo me encargo"
+   }
+  ],
+  "text": "voy a encargarme yo tranquilas gracias gracias gracias yo me encargo"
+ },
+ {
+  "file": "PTT-20240806-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.9020856618881226,
+  "duration": 10.2978125,
+  "transcribed_at": "2026-07-24T03:59:47.584817+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Olys, yo enví ese correo desde Dianito, o sea, me vieron la firma de Dianito, pero ya solo tiene, conseguimos el auditorio de FSQ."
+   }
+  ],
+  "text": "Olys, yo enví ese correo desde Dianito, o sea, me vieron la firma de Dianito, pero ya solo tiene, conseguimos el auditorio de FSQ."
+ },
+ {
+  "file": "PTT-20240806-WA0040.opus",
+  "language": "es",
+  "language_probability": 0.9466091394424438,
+  "duration": 14.5178125,
+  "transcribed_at": "2026-07-24T06:54:31.321303+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Hello, quería avisar un poco más que yo tengo conmigo mi hija AutolTel, el banner de"
+   },
+   {
+    "start": 7.0,
+    "end": 14.0,
+    "text": " Litiple, si por ahí van a necesitar, avísenme nomás y les voy a traer estos días."
+   }
+  ],
+  "text": "Hello, quería avisar un poco más que yo tengo conmigo mi hija AutolTel, el banner de Litiple, si por ahí van a necesitar, avísenme nomás y les voy a traer estos días."
+ },
+ {
+  "file": "PTT-20240731-WA0048.opus",
+  "language": "es",
+  "language_probability": 0.9364016652107239,
+  "duration": 23.7978125,
+  "transcribed_at": "2026-07-24T11:36:46.832028+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.76,
+    "text": " Oli que tal, justo me escribió, me escribió para saber, antes de publicar esto le pueden"
+   },
+   {
+    "start": 7.76,
+    "end": 18.52,
+    "text": " compartir a la gente porque ellos querían saber sobre esto también."
+   },
+   {
+    "start": 18.52,
+    "end": 22.0,
+    "text": " Eso me escribió Sandra hoy y me olvida a avisar porque tenía cosas que hacer y estuve"
+   },
+   {
+    "start": 22.0,
+    "end": 23.8,
+    "text": " por el lentista."
+   }
+  ],
+  "text": "Oli que tal, justo me escribió, me escribió para saber, antes de publicar esto le pueden compartir a la gente porque ellos querían saber sobre esto también. Eso me escribió Sandra hoy y me olvida a avisar porque tenía cosas que hacer y estuve por el lentista."
+ }
+]

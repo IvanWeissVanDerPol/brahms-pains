@@ -1,0 +1,77 @@
+[
+ {
+  "file": "PTT-20260113-WA0164.opus",
+  "language": "es",
+  "language_probability": 0.9243044257164001,
+  "duration": 3.8135,
+  "transcribed_at": "2026-07-23T22:50:41.580354+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.12,
+    "text": " Sí, ya estamos. Puedes solicitarnos más ya."
+   },
+   {
+    "start": 2.12,
+    "end": 3.62,
+    "text": " Ahora estoy preparando tu pedido."
+   }
+  ],
+  "text": "Sí, ya estamos. Puedes solicitarnos más ya. Ahora estoy preparando tu pedido."
+ },
+ {
+  "file": "PTT-20260113-WA0162.opus",
+  "language": "es",
+  "language_probability": 0.9522286653518677,
+  "duration": 7.5735,
+  "transcribed_at": "2026-07-24T01:40:50.374122+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Una vez realizada la transferencia necesito el comprobante porfa y te paso la ubicación así para que solicites el bol."
+   }
+  ],
+  "text": "Una vez realizada la transferencia necesito el comprobante porfa y te paso la ubicación así para que solicites el bol."
+ },
+ {
+  "file": "PTT-20260113-WA0160.opus",
+  "language": "es",
+  "language_probability": 0.9405276775360107,
+  "duration": 21.9735,
+  "transcribed_at": "2026-07-24T11:22:16.811232+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Te comento que no contamos con delivery. Normalmente el envío lo hacemos por moto envíos."
+   },
+   {
+    "start": 5.0,
+    "end": 10.0,
+    "text": " Si te interesa que se te envía así, podemos coordinarme, pasar tu ubicación exacta."
+   },
+   {
+    "start": 10.0,
+    "end": 13.0,
+    "text": " Yo veo cuando te alcanza en la app y te mando una foto."
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " Si te interesa, el pago de la joya sería por transferencia."
+   },
+   {
+    "start": 16.0,
+    "end": 20.0,
+    "text": " Y el pago de la joya y el pago de la aplicación del bol lo salías pagando al conductor"
+   },
+   {
+    "start": 20.0,
+    "end": 22.0,
+    "text": " una vez que te entrega tu joyita."
+   }
+  ],
+  "text": "Te comento que no contamos con delivery. Normalmente el envío lo hacemos por moto envíos. Si te interesa que se te envía así, podemos coordinarme, pasar tu ubicación exacta. Yo veo cuando te alcanza en la app y te mando una foto. Si te interesa, el pago de la joya sería por transferencia. Y el pago de la joya y el pago de la aplicación del bol lo salías pagando al conductor una vez que te entrega tu joyita."
+ }
+]

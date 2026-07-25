@@ -1,0 +1,7 @@
+PTT-20240104-WA0019.opus | lang=es prob=0.9051486253738403 dur=27.8s
+------------------------------------------------------------
+[00:00.00 → 00:08.00] La mentoría incluye los contenidos, que son, como ya te dije, desde cero hasta el nivel avanzado
+[00:08.00 → 00:12.00] verán los contenidos de la interpretación de los macros, la interpretación de las velas,
+[00:12.00 → 00:18.00] la interpretación de las noticias, cómo el mercado se mueve, la relación existente entre
+[00:18.00 → 00:24.00] los diversos mercados indexados, lo que es el IPDA, el algoritmo inter bancario que nosotros
+[00:24.00 → 00:27.00] estudiamos, cómo sacar de provecho a eso.

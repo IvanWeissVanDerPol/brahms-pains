@@ -1,0 +1,27 @@
+[
+ {
+  "file": "PTT-20260326-WA0005.opus",
+  "language": "es",
+  "language_probability": 0.9365231990814209,
+  "duration": 12.7378125,
+  "transcribed_at": "2026-07-24T04:45:32.588480+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.8,
+    "text": " O sea, me acuerdo que la página me mostró siempre esas cosas."
+   },
+   {
+    "start": 4.8,
+    "end": 8.6,
+    "text": " La noche antes que pagué por la página,"
+   },
+   {
+    "start": 8.6,
+    "end": 12.8,
+    "text": " creo que no tendrá más de pasar tu balla que te trasciero."
+   }
+  ],
+  "text": "O sea, me acuerdo que la página me mostró siempre esas cosas. La noche antes que pagué por la página, creo que no tendrá más de pasar tu balla que te trasciero."
+ }
+]

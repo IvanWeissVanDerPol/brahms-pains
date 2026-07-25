@@ -1,0 +1,157 @@
+[
+ {
+  "file": "PTT-20250218-WA0024.opus",
+  "language": "pt",
+  "language_probability": 0.24339136481285095,
+  "duration": 2.2578125,
+  "transcribed_at": "2026-07-23T20:04:28.377278+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.24,
+    "text": " Be-dank-dank, irei! Be-dank-dank!"
+   }
+  ],
+  "text": "Be-dank-dank, irei! Be-dank-dank!"
+ },
+ {
+  "file": "PTT-20251019-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.8738397359848022,
+  "duration": 2.5578125,
+  "transcribed_at": "2026-07-23T20:32:04.307098+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.5,
+    "text": " ¡Calamba este campeón!"
+   }
+  ],
+  "text": "¡Calamba este campeón!"
+ },
+ {
+  "file": "PTT-20250825-WA0003.opus",
+  "language": "fi",
+  "language_probability": 0.8388379216194153,
+  "duration": 2.9178125,
+  "transcribed_at": "2026-07-23T20:51:47.837059+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Halloo, ikäpää alles!"
+   }
+  ],
+  "text": "Halloo, ikäpää alles!"
+ },
+ {
+  "file": "PTT-20251231-WA0031.opus",
+  "language": "es",
+  "language_probability": 0.3746560215950012,
+  "duration": 4.4778125,
+  "transcribed_at": "2026-07-23T23:07:06.882541+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " ¡Yepiii! ¡Se lo quise no viaaaar!"
+   }
+  ],
+  "text": "¡Yepiii! ¡Se lo quise no viaaaar!"
+ },
+ {
+  "file": "PTT-20241013-WA0002.opus",
+  "language": "nl",
+  "language_probability": 0.8568193912506104,
+  "duration": 5.5778125,
+  "transcribed_at": "2026-07-23T23:46:04.121265+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Veel plezier als opa Jan en oma Riet komen."
+   }
+  ],
+  "text": "Veel plezier als opa Jan en oma Riet komen."
+ },
+ {
+  "file": "PTT-20241013-WA0001.opus",
+  "language": "fi",
+  "language_probability": 0.3311329483985901,
+  "duration": 5.8578125,
+  "transcribed_at": "2026-07-24T00:10:53.282816+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Oi, Moksi."
+   },
+   {
+    "start": 2.0,
+    "end": 3.5,
+    "text": " Oi, Moksi."
+   },
+   {
+    "start": 3.5,
+    "end": 5.5,
+    "text": " Et siin haatsa kutun mitään."
+   }
+  ],
+  "text": "Oi, Moksi. Oi, Moksi. Et siin haatsa kutun mitään."
+ },
+ {
+  "file": "PTT-20251022-WA0012.opus",
+  "language": "nl",
+  "language_probability": 0.9717794060707092,
+  "duration": 7.7378125,
+  "transcribed_at": "2026-07-24T01:36:50.607672+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.36,
+    "text": " Of ook een dagje bij Openoma geworden, maar dan kan ik voor allemaal koken."
+   }
+  ],
+  "text": "Of ook een dagje bij Openoma geworden, maar dan kan ik voor allemaal koken."
+ },
+ {
+  "file": "PTT-20251022-WA0011.opus",
+  "language": "nl",
+  "language_probability": 0.945837676525116,
+  "duration": 8.8778125,
+  "transcribed_at": "2026-07-24T02:43:48.880328+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Ik denk het zal leuker zijn als ik naar jou toegaat koken."
+   },
+   {
+    "start": 4.0,
+    "end": 9.0,
+    "text": " Dan kan ik iets uitdenken en dan verrassen in je keuken."
+   }
+  ],
+  "text": "Ik denk het zal leuker zijn als ik naar jou toegaat koken. Dan kan ik iets uitdenken en dan verrassen in je keuken."
+ },
+ {
+  "file": "PTT-20251201-WA0004.opus",
+  "language": "nl",
+  "language_probability": 0.9816477298736572,
+  "duration": 18.6578125,
+  "transcribed_at": "2026-07-24T08:27:33.183463+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Hallo, deze zijdpakketjes die aangekomen waren en ik zie dat er niemand is en ik ga nu naar Oma toe."
+   },
+   {
+    "start": 10.0,
+    "end": 18.0,
+    "text": " Ik heb ze onder de tafel gezet, maar ik zal ze in de schuur proberen te doen."
+   }
+  ],
+  "text": "Hallo, deze zijdpakketjes die aangekomen waren en ik zie dat er niemand is en ik ga nu naar Oma toe. Ik heb ze onder de tafel gezet, maar ik zal ze in de schuur proberen te doen."
+ }
+]

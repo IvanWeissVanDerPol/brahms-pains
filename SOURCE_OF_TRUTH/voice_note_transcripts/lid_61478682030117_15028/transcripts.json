@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20260504-WA0061.opus",
+  "language": "es",
+  "language_probability": 0.9409904479980469,
+  "duration": 8.3778125,
+  "transcribed_at": "2026-07-24T02:14:22.661710+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.12,
+    "text": " y mañana es su cumple entonces hoy yo que querían pasar cada noche para pasar las 12"
+   }
+  ],
+  "text": "y mañana es su cumple entonces hoy yo que querían pasar cada noche para pasar las 12"
+ }
+]

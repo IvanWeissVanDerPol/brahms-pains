@@ -1,0 +1,57 @@
+[
+ {
+  "file": "PTT-20251005-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.9654505848884583,
+  "duration": 2.1978125,
+  "transcribed_at": "2026-07-23T19:38:22.452340+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Hola, Montautari, a pasar por local."
+   }
+  ],
+  "text": "Hola, Montautari, a pasar por local."
+ },
+ {
+  "file": "PTT-20251005-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.9843724966049194,
+  "duration": 3.0178125,
+  "transcribed_at": "2026-07-23T20:46:32.448062+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.8000000000000003,
+    "text": " ahora me muestro a la señorita Pamela y Luna de Leve"
+   }
+  ],
+  "text": "ahora me muestro a la señorita Pamela y Luna de Leve"
+ },
+ {
+  "file": "PTT-20251005-WA0011.opus",
+  "language": "es",
+  "language_probability": 0.9829596281051636,
+  "duration": 12.1578125,
+  "transcribed_at": "2026-07-24T04:17:42.387858+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Tienes sexo directo 100, 15 minutos, 150,000 de horas, 240 minutos y dado a 300 bebes."
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " Ahí te pasa la ubicación."
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " Solicitate aquí 15 minutos antes de pasar."
+   }
+  ],
+  "text": "Tienes sexo directo 100, 15 minutos, 150,000 de horas, 240 minutos y dado a 300 bebes. Ahí te pasa la ubicación. Solicitate aquí 15 minutos antes de pasar."
+ }
+]

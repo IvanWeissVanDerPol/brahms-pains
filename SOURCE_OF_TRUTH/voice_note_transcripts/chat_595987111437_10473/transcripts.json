@@ -1,0 +1,82 @@
+[
+ {
+  "file": "PTT-20250807-WA0044.opus",
+  "language": "es",
+  "language_probability": 0.9448493719100952,
+  "duration": 3.5978125,
+  "transcribed_at": "2026-07-23T22:45:55.283564+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Dale, dale, está bien, avisa a mi nomás"
+   }
+  ],
+  "text": "Dale, dale, está bien, avisa a mi nomás"
+ },
+ {
+  "file": "PTT-20250807-WA0045.opus",
+  "language": "es",
+  "language_probability": 0.9876226186752319,
+  "duration": 4.5578125,
+  "transcribed_at": "2026-07-23T23:23:56.484719+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.32,
+    "text": " dale dale muchísimas gracias le llevo vueltas de 200"
+   }
+  ],
+  "text": "dale dale muchísimas gracias le llevo vueltas de 200"
+ },
+ {
+  "file": "PTT-20250807-WA0046.opus",
+  "language": "es",
+  "language_probability": 0.9550570249557495,
+  "duration": 6.5978125,
+  "transcribed_at": "2026-07-24T00:48:28.491265+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Bueno, ya estoy acá en la ubicación, ya estoy acá en la ubicación."
+   }
+  ],
+  "text": "Bueno, ya estoy acá en la ubicación, ya estoy acá en la ubicación."
+ },
+ {
+  "file": "PTT-20250807-WA0043.opus",
+  "language": "es",
+  "language_probability": 0.9778590798377991,
+  "duration": 22.6378125,
+  "transcribed_at": "2026-07-24T11:57:27.320177+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Buenas, ¿Qué tal delí la serínisa y consulta? Por casualidad no tendría para pagar en efectivo 153."
+   },
+   {
+    "start": 7.0,
+    "end": 13.0,
+    "text": " Ve que tenemos muchísima banda pedido. Y todo lo puedo estar ocupado y no ahora mismo."
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " Por eso estoy teniendo más. ¿Avísame una por favor?"
+   },
+   {
+    "start": 16.0,
+    "end": 20.0,
+    "text": " O de por ahí si tiene pa' curre, tenemos otra aplicación también para curar el pa' curre."
+   },
+   {
+    "start": 20.0,
+    "end": 22.0,
+    "text": " Sin problema."
+   }
+  ],
+  "text": "Buenas, ¿Qué tal delí la serínisa y consulta? Por casualidad no tendría para pagar en efectivo 153. Ve que tenemos muchísima banda pedido. Y todo lo puedo estar ocupado y no ahora mismo. Por eso estoy teniendo más. ¿Avísame una por favor? O de por ahí si tiene pa' curre, tenemos otra aplicación también para curar el pa' curre. Sin problema."
+ }
+]

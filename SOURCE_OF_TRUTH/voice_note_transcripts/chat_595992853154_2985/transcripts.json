@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20251219-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.9091008305549622,
+  "duration": 17.3778125,
+  "transcribed_at": "2026-07-24T08:26:32.496999+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Palo y Juan, ¿qué tal?"
+   },
+   {
+    "start": 2.0,
+    "end": 6.0,
+    "text": " Le pase a mí y a tu número para que se comparte contigo, ya que me pidió."
+   },
+   {
+    "start": 6.0,
+    "end": 12.0,
+    "text": " Y te pase también a su número de aire, en cualquier caso, en cualquier eventualidad."
+   },
+   {
+    "start": 12.0,
+    "end": 17.0,
+    "text": " Así que, en cualquier caso, si te estamos a las órdenes, espero que te puedan ayudar a eso."
+   }
+  ],
+  "text": "Palo y Juan, ¿qué tal? Le pase a mí y a tu número para que se comparte contigo, ya que me pidió. Y te pase también a su número de aire, en cualquier caso, en cualquier eventualidad. Así que, en cualquier caso, si te estamos a las órdenes, espero que te puedan ayudar a eso."
+ }
+]

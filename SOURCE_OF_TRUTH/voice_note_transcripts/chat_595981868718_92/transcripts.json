@@ -1,0 +1,307 @@
+[
+ {
+  "file": "PTT-20231216-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.9373419880867004,
+  "duration": 7.9178125,
+  "transcribed_at": "2026-07-24T01:51:10.460941+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Uuuh, vas a ver a que hora llega el"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " Creo que era medio 11"
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " Shhh, pero no estoy muy segura"
+   },
+   {
+    "start": 6.0,
+    "end": 8.0,
+    "text": " Para ver"
+   }
+  ],
+  "text": "Uuuh, vas a ver a que hora llega el Creo que era medio 11 Shhh, pero no estoy muy segura Para ver"
+ },
+ {
+  "file": "PTT-20231216-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.8963271379470825,
+  "duration": 10.2778125,
+  "transcribed_at": "2026-07-24T03:52:12.167835+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " y yo cuando entonces el domingo a las 12 de una no va a las 6 ya estamos"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " esperando nomas"
+   }
+  ],
+  "text": "y yo cuando entonces el domingo a las 12 de una no va a las 6 ya estamos esperando nomas"
+ },
+ {
+  "file": "PTT-20231217-WA0031.opus",
+  "language": "en",
+  "language_probability": 0.4181288182735443,
+  "duration": 11.0978125,
+  "transcribed_at": "2026-07-24T04:21:44.443416+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Mm-hmm good morning"
+   }
+  ],
+  "text": "Mm-hmm good morning"
+ },
+ {
+  "file": "PTT-20230817-WA0012.opus",
+  "language": "es",
+  "language_probability": 0.6647613644599915,
+  "duration": 15.2778125,
+  "transcribed_at": "2026-07-24T07:16:38.740109+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.2,
+    "text": " ¡Hola, Sara! ¿Qué tal? ¿Vos tenés planes de alojas ser después de clases?"
+   },
+   {
+    "start": 4.2,
+    "end": 7.2,
+    "text": " ¿Capá aparecer Raúl de Wichita por casa?"
+   },
+   {
+    "start": 8.700000000000001,
+    "end": 11.200000000000001,
+    "text": " Y me lo debes sacar en casa. No sé si lo suyo que apareceré."
+   },
+   {
+    "start": 13.5,
+    "end": 14.5,
+    "text": " Rechila, sí."
+   }
+  ],
+  "text": "¡Hola, Sara! ¿Qué tal? ¿Vos tenés planes de alojas ser después de clases? ¿Capá aparecer Raúl de Wichita por casa? Y me lo debes sacar en casa. No sé si lo suyo que apareceré. Rechila, sí."
+ },
+ {
+  "file": "PTT-20231216-WA0028.opus",
+  "language": "es",
+  "language_probability": 0.987509548664093,
+  "duration": 16.8778125,
+  "transcribed_at": "2026-07-24T07:58:35.490607+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¿Te aviso cuando salgo?"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " ¿Qué tal tu día, por cierto?"
+   },
+   {
+    "start": 7.0,
+    "end": 9.0,
+    "text": " Estoy ahora quemando la basura en casa."
+   },
+   {
+    "start": 11.0,
+    "end": 14.0,
+    "text": " O sea, no basura, sino tipo toda la madera que se cortó."
+   },
+   {
+    "start": 16.0,
+    "end": 17.0,
+    "text": " Está muy lindo."
+   }
+  ],
+  "text": "¿Te aviso cuando salgo? ¿Qué tal tu día, por cierto? Estoy ahora quemando la basura en casa. O sea, no basura, sino tipo toda la madera que se cortó. Está muy lindo."
+ },
+ {
+  "file": "PTT-20230817-WA0019.opus",
+  "language": "es",
+  "language_probability": 0.8858281970024109,
+  "duration": 27.7535,
+  "transcribed_at": "2026-07-24T15:17:29.624315+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Dale, dale. ¿Cómo ha estado, ahora extraño, ahora?"
+   },
+   {
+    "start": 7.0,
+    "end": 12.0,
+    "text": " Sí me dijo que se le estaba empezando mucho tiempo en la facultad, pero a ver, a ver"
+   },
+   {
+    "start": 12.0,
+    "end": 19.0,
+    "text": " cómo está ella, se me gustaría verla ella y ver qué más."
+   },
+   {
+    "start": 19.0,
+    "end": 27.0,
+    "text": " ¿Y sí? ¿Es la misma casa donde estuvo la fiesta de la vez pasada?"
+   },
+   {
+    "start": 27.0,
+    "end": 29.0,
+    "text": " ¿O no?"
+   }
+  ],
+  "text": "Dale, dale. ¿Cómo ha estado, ahora extraño, ahora? Sí me dijo que se le estaba empezando mucho tiempo en la facultad, pero a ver, a ver cómo está ella, se me gustaría verla ella y ver qué más. ¿Y sí? ¿Es la misma casa donde estuvo la fiesta de la vez pasada? ¿O no?"
+ },
+ {
+  "file": "PTT-20231217-WA0016.opus",
+  "language": "es",
+  "language_probability": 0.8955438137054443,
+  "duration": 29.0178125,
+  "transcribed_at": "2026-07-24T15:33:31.379371+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " aah... buenos días..."
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " ¿Qué tal estas?"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " 10 me desperté ya..."
+   },
+   {
+    "start": 10.0,
+    "end": 13.0,
+    "text": " a las 11, 2is vamos por el mes a irnos..."
+   },
+   {
+    "start": 13.0,
+    "end": 15.0,
+    "text": " ... aca a la de Emilio"
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " aah..."
+   },
+   {
+    "start": 21.0,
+    "end": 23.0,
+    "text": " ¿Qué soño?"
+   },
+   {
+    "start": 26.0,
+    "end": 28.0,
+    "text": " ¿Qué tal tu mañana?"
+   }
+  ],
+  "text": "aah... buenos días... ¿Qué tal estas? 10 me desperté ya... a las 11, 2is vamos por el mes a irnos... ... aca a la de Emilio aah... ¿Qué soño? ¿Qué tal tu mañana?"
+ },
+ {
+  "file": "PTT-20240607-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.5534774661064148,
+  "duration": 31.7578125,
+  "transcribed_at": "2026-07-24T16:11:36.807189+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " ¡Elis! Yo estoy muriendo."
+   },
+   {
+    "start": 9.0,
+    "end": 11.0,
+    "text": " Elis, ¿y si me despertamos la polvo a mi tarde?"
+   },
+   {
+    "start": 15.0,
+    "end": 17.0,
+    "text": " Tengo una polvo influenzada."
+   },
+   {
+    "start": 17.0,
+    "end": 19.0,
+    "text": " ¡Pero no!"
+   },
+   {
+    "start": 29.0,
+    "end": 32.0,
+    "text": " ¿Crees que me puedes traer un balde para..."
+   }
+  ],
+  "text": "¡Elis! Yo estoy muriendo. Elis, ¿y si me despertamos la polvo a mi tarde? Tengo una polvo influenzada. ¡Pero no! ¿Crees que me puedes traer un balde para..."
+ },
+ {
+  "file": "PTT-20240607-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.8725449442863464,
+  "duration": 35.9378125,
+  "transcribed_at": "2026-07-24T19:36:56.519448+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Mi pie ya está bien, hace como dos semanas por ahí, se me cayó una pesada de 8 kilos y uno de mis juezitos, se olvidó de dos juezitos."
+   },
+   {
+    "start": 14.0,
+    "end": 21.0,
+    "text": " Pues mi pie está relativamente aquí ahora creo, a ver que me coge la influencia."
+   },
+   {
+    "start": 22.0,
+    "end": 26.0,
+    "text": " Qué puta, me dio así de todo."
+   },
+   {
+    "start": 32.0,
+    "end": 35.0,
+    "text": " Gracias, ahora sí te voy a bajar."
+   }
+  ],
+  "text": "Mi pie ya está bien, hace como dos semanas por ahí, se me cayó una pesada de 8 kilos y uno de mis juezitos, se olvidó de dos juezitos. Pues mi pie está relativamente aquí ahora creo, a ver que me coge la influencia. Qué puta, me dio así de todo. Gracias, ahora sí te voy a bajar."
+ },
+ {
+  "file": "PTT-20231216-WA0029.opus",
+  "language": "es",
+  "language_probability": 0.8502317070960999,
+  "duration": 40.7978125,
+  "transcribed_at": "2026-07-24T23:35:55.029678+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 17.0,
+    "text": " Hello, yo realmente no tengo ni idea. No subí todavía la nota al profesor, así que no sé cuánto hice, pero no nos, no nos dijo nada al profesor menos cuando estábamos, así que la vibe sé que estábamos todos chiles, pero lo veremos cuando corrijan todos."
+   },
+   {
+    "start": 18.0,
+    "end": 29.0,
+    "text": " Legalmente no mide sino también quemas las basuras, y el metro de Sino forma porro también, entonces callito callado todo en neighborhood."
+   },
+   {
+    "start": 31.0,
+    "end": 40.0,
+    "text": " Pero Dios, me muero de calor. Yo quemé toda la basura, uno me queda otra montaña igual de alta de madera para quemar después."
+   }
+  ],
+  "text": "Hello, yo realmente no tengo ni idea. No subí todavía la nota al profesor, así que no sé cuánto hice, pero no nos, no nos dijo nada al profesor menos cuando estábamos, así que la vibe sé que estábamos todos chiles, pero lo veremos cuando corrijan todos. Legalmente no mide sino también quemas las basuras, y el metro de Sino forma porro también, entonces callito callado todo en neighborhood. Pero Dios, me muero de calor. Yo quemé toda la basura, uno me queda otra montaña igual de alta de madera para quemar después."
+ }
+]

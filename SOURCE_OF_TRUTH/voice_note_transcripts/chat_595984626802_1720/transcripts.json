@@ -1,0 +1,57 @@
+[
+ {
+  "file": "PTT-20260517-WA0050.opus",
+  "language": "es",
+  "language_probability": 0.9565006494522095,
+  "duration": 30.4378125,
+  "transcribed_at": "2026-07-24T15:22:03.991841+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " No, yo soy Githé."
+   },
+   {
+    "start": 4.0,
+    "end": 7.0,
+    "text": " Te mandé una foto de yo por si es que me viste en el concierto."
+   },
+   {
+    "start": 7.0,
+    "end": 10.0,
+    "text": " Estaba autista y ando ahí con Ale y unos a mis más."
+   },
+   {
+    "start": 11.0,
+    "end": 16.0,
+    "text": " O sea, ¿sumo? Me pareció por el video que era el concierto de Nudo en el puerto ayer."
+   },
+   {
+    "start": 18.0,
+    "end": 21.0,
+    "text": " Nosotros apreciamos a eso de las..."
+   },
+   {
+    "start": 22.0,
+    "end": 24.0,
+    "text": " ¿No hay media?"
+   },
+   {
+    "start": 24.0,
+    "end": 26.0,
+    "text": " Nos quedamos hasta las dos."
+   },
+   {
+    "start": 27.0,
+    "end": 29.0,
+    "text": " Pero mano, ¿eh? Rechidú."
+   },
+   {
+    "start": 29.0,
+    "end": 31.0,
+    "text": " Revestí."
+   }
+  ],
+  "text": "No, yo soy Githé. Te mandé una foto de yo por si es que me viste en el concierto. Estaba autista y ando ahí con Ale y unos a mis más. O sea, ¿sumo? Me pareció por el video que era el concierto de Nudo en el puerto ayer. Nosotros apreciamos a eso de las... ¿No hay media? Nos quedamos hasta las dos. Pero mano, ¿eh? Rechidú. Revestí."
+ }
+]

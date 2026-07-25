@@ -1,0 +1,37 @@
+[
+ {
+  "file": "PTT-20260212-WA0034.opus",
+  "language": "es",
+  "language_probability": 0.9359501600265503,
+  "duration": 28.1778125,
+  "transcribed_at": "2026-07-24T15:09:33.169243+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.04,
+    "text": " Mira nomás, ¿quién estuvo en qué clase? o ¿alún de eso? porque donde a cada clase es un tema separado"
+   },
+   {
+    "start": 5.04,
+    "end": 12.38,
+    "text": " tipo uno es setup, el otro clase es de una instalación de open code, el otro era instalación de"
+   },
+   {
+    "start": 12.38,
+    "end": 17.22,
+    "text": " omai open code para hacer que sea obligado, el tercero era cómo utilizar estos dos para"
+   },
+   {
+    "start": 17.22,
+    "end": 23.18,
+    "text": " investigar cosas de universidad, el cuarto creo que era software dev, el tercero creo que era"
+   },
+   {
+    "start": 23.18,
+    "end": 27.900000000000002,
+    "text": " marketing, o sea el quinto creo que era marketing y el sexto iba a hacer aeronautica pero no hubo"
+   }
+  ],
+  "text": "Mira nomás, ¿quién estuvo en qué clase? o ¿alún de eso? porque donde a cada clase es un tema separado tipo uno es setup, el otro clase es de una instalación de open code, el otro era instalación de omai open code para hacer que sea obligado, el tercero era cómo utilizar estos dos para investigar cosas de universidad, el cuarto creo que era software dev, el tercero creo que era marketing, o sea el quinto creo que era marketing y el sexto iba a hacer aeronautica pero no hubo"
+ }
+]

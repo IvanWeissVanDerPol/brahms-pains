@@ -1,0 +1,42 @@
+[
+ {
+  "file": "PTT-20240418-WA0002.opus",
+  "language": "es",
+  "language_probability": 0.9823535680770874,
+  "duration": 4.9135,
+  "transcribed_at": "2026-07-23T23:35:49.952546+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.8000000000000003,
+    "text": " Diego va a dar su discurso y va a decir acabo de tirar factos."
+   }
+  ],
+  "text": "Diego va a dar su discurso y va a decir acabo de tirar factos."
+ },
+ {
+  "file": "PTT-20231201-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.9588204622268677,
+  "duration": 12.6578125,
+  "transcribed_at": "2026-07-24T05:52:05.421080+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Si quieren reclamar, reclamen, o sea, no vayan a quedarse porque de guau a mí me perjudica, no me perjudica, o sea, si corresponde yo voy a ir más a rendir otra vez, o sea, no, hagan eso por ahí."
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " Pero yo me colijo el provejijo de puta."
+   },
+   {
+    "start": 12.0,
+    "end": 13.0,
+    "text": " ¡Sanjico!"
+   }
+  ],
+  "text": "Si quieren reclamar, reclamen, o sea, no vayan a quedarse porque de guau a mí me perjudica, no me perjudica, o sea, si corresponde yo voy a ir más a rendir otra vez, o sea, no, hagan eso por ahí. Pero yo me colijo el provejijo de puta. ¡Sanjico!"
+ }
+]

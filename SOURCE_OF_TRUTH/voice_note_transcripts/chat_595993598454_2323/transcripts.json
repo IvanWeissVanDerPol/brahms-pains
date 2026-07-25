@@ -1,0 +1,27 @@
+[
+ {
+  "file": "PTT-20231203-WA0027.opus",
+  "language": "es",
+  "language_probability": 0.9037743806838989,
+  "duration": 12.9778125,
+  "transcribed_at": "2026-07-24T05:38:35.295651+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.24,
+    "text": " Hellooo, ese video y esa foto no me asise ayer"
+   },
+   {
+    "start": 4.94,
+    "end": 9.700000000000001,
+    "text": " Asterix, sorry mi celular esta super roto, tengo que cambiar mi... mi vidrio"
+   },
+   {
+    "start": 10.36,
+    "end": 13.120000000000001,
+    "text": " Esta asi crack que adicimo encima de mi camera"
+   }
+  ],
+  "text": "Hellooo, ese video y esa foto no me asise ayer Asterix, sorry mi celular esta super roto, tengo que cambiar mi... mi vidrio Esta asi crack que adicimo encima de mi camera"
+ }
+]

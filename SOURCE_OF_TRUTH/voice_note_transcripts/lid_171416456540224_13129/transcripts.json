@@ -1,0 +1,157 @@
+[
+ {
+  "file": "PTT-20260408-WA0004.opus",
+  "language": "es",
+  "language_probability": 0.57203608751297,
+  "duration": 14.5178125,
+  "transcribed_at": "2026-07-24T03:13:15.463620+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " ¡Morning!"
+   },
+   {
+    "start": 2.0,
+    "end": 3.0,
+    "text": " ¡No!"
+   },
+   {
+    "start": 3.0,
+    "end": 5.0,
+    "text": " ¡Revié ahora!"
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " ¡Vaya que apurete!"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " ¡Que esté liberada!"
+   },
+   {
+    "start": 10.0,
+    "end": 12.0,
+    "text": " ¡No quiero que no!"
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " ¡Que me llegue por la lluvia!"
+   }
+  ],
+  "text": "¡Morning! ¡No! ¡Revié ahora! ¡Vaya que apurete! ¡Que esté liberada! ¡No quiero que no! ¡Que me llegue por la lluvia!"
+ },
+ {
+  "file": "PTT-20260516-WA0032.opus",
+  "language": "es",
+  "language_probability": 0.9311698079109192,
+  "duration": 9.9378125,
+  "transcribed_at": "2026-07-24T03:31:12.607578+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Oh, eso yo no bajé en las pantallas de la televisión de Google, me fue Moishin Geki, el L.E."
+   }
+  ],
+  "text": "Oh, eso yo no bajé en las pantallas de la televisión de Google, me fue Moishin Geki, el L.E."
+ },
+ {
+  "file": "PTT-20260313-WA0061.opus",
+  "language": "es",
+  "language_probability": 0.9522370100021362,
+  "duration": 10.6778125,
+  "transcribed_at": "2026-07-24T04:12:23.551299+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Demas yo tembo cuejos, no creo que tipo no sé, me duele así enflar los sites de los huevos"
+   },
+   {
+    "start": 6.0,
+    "end": 10.0,
+    "text": " y el dolor me hace twitchar, entonces me duele más los huevos"
+   }
+  ],
+  "text": "Demas yo tembo cuejos, no creo que tipo no sé, me duele así enflar los sites de los huevos y el dolor me hace twitchar, entonces me duele más los huevos"
+ },
+ {
+  "file": "PTT-20260313-WA0062.opus",
+  "language": "es",
+  "language_probability": 0.9545730948448181,
+  "duration": 32.7978125,
+  "transcribed_at": "2026-07-24T16:19:27.865400+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " fue una mezcla así de ¡ah! qué rico!"
+   },
+   {
+    "start": 2.0,
+    "end": 4.0,
+    "text": " ¡ah!"
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " ¡que puta!"
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " pues necesitaba más pruebas de que estaba por el video sin que puta"
+   },
+   {
+    "start": 14.0,
+    "end": 16.0,
+    "text": " pero es un... ah!"
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " unos sensations definitivamente"
+   },
+   {
+    "start": 19.0,
+    "end": 22.0,
+    "text": " ignorar mal mensaje de Open Cloud es mi agente de ella"
+   },
+   {
+    "start": 22.0,
+    "end": 24.0,
+    "text": " que se quiere configurar un plan"
+   },
+   {
+    "start": 24.0,
+    "end": 26.0,
+    "text": " pero le voy a ignorar hasta que tú que me pese"
+   },
+   {
+    "start": 26.0,
+    "end": 28.0,
+    "text": " pero de..."
+   },
+   {
+    "start": 28.0,
+    "end": 30.0,
+    "text": " me va a porfitarse"
+   },
+   {
+    "start": 30.0,
+    "end": 32.0,
+    "text": " me no es peinful que..."
+   },
+   {
+    "start": 32.0,
+    "end": 34.0,
+    "text": " criaturas"
+   }
+  ],
+  "text": "fue una mezcla así de ¡ah! qué rico! ¡ah! ¡que puta! pues necesitaba más pruebas de que estaba por el video sin que puta pero es un... ah! unos sensations definitivamente ignorar mal mensaje de Open Cloud es mi agente de ella que se quiere configurar un plan pero le voy a ignorar hasta que tú que me pese pero de... me va a porfitarse me no es peinful que... criaturas"
+ }
+]

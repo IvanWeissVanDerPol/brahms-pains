@@ -1,0 +1,31 @@
+PTT-20250218-WA0024.opus | lang=pt prob=0.24339136481285095 dur=2.3s
+------------------------------------------------------------
+[00:00.00 → 00:02.24] Be-dank-dank, irei! Be-dank-dank!
+PTT-20251019-WA0004.opus | lang=es prob=0.8738397359848022 dur=2.6s
+------------------------------------------------------------
+[00:00.00 → 00:02.50] ¡Calamba este campeón!
+PTT-20250825-WA0003.opus | lang=fi prob=0.8388379216194153 dur=2.9s
+------------------------------------------------------------
+[00:00.00 → 00:03.00] Halloo, ikäpää alles!
+PTT-20251231-WA0031.opus | lang=es prob=0.3746560215950012 dur=4.5s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] ¡Yepiii! ¡Se lo quise no viaaaar!
+PTT-20241013-WA0002.opus | lang=nl prob=0.8568193912506104 dur=5.6s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Veel plezier als opa Jan en oma Riet komen.
+PTT-20241013-WA0001.opus | lang=fi prob=0.3311329483985901 dur=5.9s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Oi, Moksi.
+[00:02.00 → 00:03.50] Oi, Moksi.
+[00:03.50 → 00:05.50] Et siin haatsa kutun mitään.
+PTT-20251022-WA0012.opus | lang=nl prob=0.9717794060707092 dur=7.7s
+------------------------------------------------------------
+[00:00.00 → 00:07.36] Of ook een dagje bij Openoma geworden, maar dan kan ik voor allemaal koken.
+PTT-20251022-WA0011.opus | lang=nl prob=0.945837676525116 dur=8.9s
+------------------------------------------------------------
+[00:00.00 → 00:04.00] Ik denk het zal leuker zijn als ik naar jou toegaat koken.
+[00:04.00 → 00:09.00] Dan kan ik iets uitdenken en dan verrassen in je keuken.
+PTT-20251201-WA0004.opus | lang=nl prob=0.9816477298736572 dur=18.7s
+------------------------------------------------------------
+[00:00.00 → 00:10.00] Hallo, deze zijdpakketjes die aangekomen waren en ik zie dat er niemand is en ik ga nu naar Oma toe.
+[00:10.00 → 00:18.00] Ik heb ze onder de tafel gezet, maar ik zal ze in de schuur proberen te doen.

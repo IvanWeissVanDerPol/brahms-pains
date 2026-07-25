@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20251229-WA0008.opus",
+  "language": "es",
+  "language_probability": 0.9075706005096436,
+  "duration": 3.9778125,
+  "transcribed_at": "2026-07-23T22:57:52.857675+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " La he hecho por eso yo. Muchas gracias y ya tengo mi agua."
+   }
+  ],
+  "text": "La he hecho por eso yo. Muchas gracias y ya tengo mi agua."
+ }
+]

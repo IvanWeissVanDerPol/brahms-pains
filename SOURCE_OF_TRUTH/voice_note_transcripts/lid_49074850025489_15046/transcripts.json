@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20260502-WA0013.opus",
+  "language": "en",
+  "language_probability": 0.7810412645339966,
+  "duration": 1.6178125,
+  "transcribed_at": "2026-07-23T19:17:16.753381+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 1.6,
+    "text": " Thank you very much."
+   }
+  ],
+  "text": "Thank you very much."
+ },
+ {
+  "file": "PTT-20260502-WA0015.opus",
+  "language": "en",
+  "language_probability": 0.5230405926704407,
+  "duration": 1.6378125,
+  "transcribed_at": "2026-07-23T19:17:51.574417+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 1.6,
+    "text": " What are you doing?"
+   }
+  ],
+  "text": "What are you doing?"
+ }
+]

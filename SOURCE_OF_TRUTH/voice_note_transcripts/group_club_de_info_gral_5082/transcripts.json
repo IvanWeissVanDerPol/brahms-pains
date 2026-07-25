@@ -1,0 +1,117 @@
+[
+ {
+  "file": "PTT-20250321-WA0047.opus",
+  "language": "es",
+  "language_probability": 0.9124476909637451,
+  "duration": 4.0178125,
+  "transcribed_at": "2026-07-23T22:54:27.974415+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.4,
+    "text": " Casi acá, en San Lorenzo, al menos, no hay pluco."
+   }
+  ],
+  "text": "Casi acá, en San Lorenzo, al menos, no hay pluco."
+ },
+ {
+  "file": "PTT-20240102-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.9005658626556396,
+  "duration": 5.6335,
+  "transcribed_at": "2026-07-23T23:57:42.574556+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Pero yo es la verdad que me haría panadero antes de hacer eso."
+   }
+  ],
+  "text": "Pero yo es la verdad que me haría panadero antes de hacer eso."
+ },
+ {
+  "file": "PTT-20240102-WA0009.opus",
+  "language": "es",
+  "language_probability": 0.9253309369087219,
+  "duration": 31.0935,
+  "transcribed_at": "2026-07-24T17:10:07.312351+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " La verdad que no creo que ni siquiera te dejen tu gestores de paquetes de tener dos versiones de Taekwai"
+   },
+   {
+    "start": 8.0,
+    "end": 17.0,
+    "text": " Y webpack, bueno por lo tanto por webpack, por webpack no"
+   },
+   {
+    "start": 18.0,
+    "end": 25.0,
+    "text": " Los que podes intentar y ya es bajo tu propia responsabilidad"
+   },
+   {
+    "start": 25.0,
+    "end": 30.0,
+    "text": " Es importar directamente en el html en la header"
+   }
+  ],
+  "text": "La verdad que no creo que ni siquiera te dejen tu gestores de paquetes de tener dos versiones de Taekwai Y webpack, bueno por lo tanto por webpack, por webpack no Los que podes intentar y ya es bajo tu propia responsabilidad Es importar directamente en el html en la header"
+ },
+ {
+  "file": "PTT-20241204-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.9010570645332336,
+  "duration": 36.4735,
+  "transcribed_at": "2026-07-24T19:38:23.776951+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " pero eso es porque tenés que instalarte el repositorio de vroom para php"
+   },
+   {
+    "start": 5.0,
+    "end": 10.0,
+    "text": " o sea es lo mismo que por ejemplo pase en linux con node que tenés que instalarte en un repositorio de node"
+   },
+   {
+    "start": 10.0,
+    "end": 13.0,
+    "text": " para tener la última versión"
+   },
+   {
+    "start": 13.0,
+    "end": 16.0,
+    "text": " y básicamente eso no más"
+   },
+   {
+    "start": 16.0,
+    "end": 22.0,
+    "text": " pero la verdad que es mucho mejor utilizar GERD para manejar las versiones"
+   },
+   {
+    "start": 22.0,
+    "end": 27.0,
+    "text": " y no es tampoco nada muy raro o sea es un manejador de versión de php así como"
+   },
+   {
+    "start": 27.0,
+    "end": 32.0,
+    "text": " podés instalarte en linux o un npm para que la vía sea más fácil con node"
+   },
+   {
+    "start": 32.0,
+    "end": 35.0,
+    "text": " para que la vía sea más fácil con php"
+   },
+   {
+    "start": 35.0,
+    "end": 37.0,
+    "text": " eso no más"
+   }
+  ],
+  "text": "pero eso es porque tenés que instalarte el repositorio de vroom para php o sea es lo mismo que por ejemplo pase en linux con node que tenés que instalarte en un repositorio de node para tener la última versión y básicamente eso no más pero la verdad que es mucho mejor utilizar GERD para manejar las versiones y no es tampoco nada muy raro o sea es un manejador de versión de php así como podés instalarte en linux o un npm para que la vía sea más fácil con node para que la vía sea más fácil con php eso no más"
+ }
+]

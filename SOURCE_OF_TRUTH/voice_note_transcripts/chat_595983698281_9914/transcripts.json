@@ -1,0 +1,527 @@
+[
+ {
+  "file": "PTT-20260425-WA0007.opus",
+  "language": "en",
+  "language_probability": 0.23233258724212646,
+  "duration": 2.5135,
+  "transcribed_at": "2026-07-23T20:11:50.905960+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Don't do anything anyone"
+   }
+  ],
+  "text": "Don't do anything anyone"
+ },
+ {
+  "file": "PTT-20260518-WA0062.opus",
+  "language": "es",
+  "language_probability": 0.9580491185188293,
+  "duration": 3.2535,
+  "transcribed_at": "2026-07-23T21:40:40.237136+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.2,
+    "text": " Sí, sí, sí, me dijo, me dijo eso."
+   }
+  ],
+  "text": "Sí, sí, sí, me dijo, me dijo eso."
+ },
+ {
+  "file": "PTT-20260425-WA0010.opus",
+  "language": "es",
+  "language_probability": 0.8072385787963867,
+  "duration": 3.9335,
+  "transcribed_at": "2026-07-23T22:52:19.897033+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Es media cuadra antes de la americana."
+   }
+  ],
+  "text": "Es media cuadra antes de la americana."
+ },
+ {
+  "file": "PTT-20260425-WA0008.opus",
+  "language": "sv",
+  "language_probability": 0.7965776324272156,
+  "duration": 4.0978125,
+  "transcribed_at": "2026-07-23T23:02:02.476495+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Nu var det skönt att ta kvar det här händen i voldt och ge det åt aerofla."
+   }
+  ],
+  "text": "Nu var det skönt att ta kvar det här händen i voldt och ge det åt aerofla."
+ },
+ {
+  "file": "PTT-20260518-WA0061.opus",
+  "language": "es",
+  "language_probability": 0.9413219094276428,
+  "duration": 4.7935,
+  "transcribed_at": "2026-07-23T23:30:35.514062+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " También me comentó que van de viaje a Córdoba."
+   }
+  ],
+  "text": "También me comentó que van de viaje a Córdoba."
+ },
+ {
+  "file": "PTT-20260518-WA0076.opus",
+  "language": "es",
+  "language_probability": 0.9490872025489807,
+  "duration": 5.4335,
+  "transcribed_at": "2026-07-23T23:44:25.492935+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 4.0,
+    "text": " Sí, sí, yo creo que sí, creo que es súper, sin ningún problema."
+   },
+   {
+    "start": 4.0,
+    "end": 5.0,
+    "text": " Es buena hora."
+   }
+  ],
+  "text": "Sí, sí, yo creo que sí, creo que es súper, sin ningún problema. Es buena hora."
+ },
+ {
+  "file": "PTT-20260518-WA0068.opus",
+  "language": "es",
+  "language_probability": 0.8804879784584045,
+  "duration": 6.0778125,
+  "transcribed_at": "2026-07-24T00:27:43.347698+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Si les sirve, tengo un poco de manteca y tengo la máquina para hacer más."
+   }
+  ],
+  "text": "Si les sirve, tengo un poco de manteca y tengo la máquina para hacer más."
+ },
+ {
+  "file": "PTT-20260518-WA0071.opus",
+  "language": "es",
+  "language_probability": 0.9220352172851562,
+  "duration": 6.7735,
+  "transcribed_at": "2026-07-24T00:53:35.912072+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.0,
+    "text": " Bueno, see you on Domingo Iván."
+   },
+   {
+    "start": 4.0,
+    "end": 6.0,
+    "text": " Emitad la ladra, por si se quiere ver también."
+   }
+  ],
+  "text": "Bueno, see you on Domingo Iván. Emitad la ladra, por si se quiere ver también."
+ },
+ {
+  "file": "PTT-20260518-WA0058.opus",
+  "language": "es",
+  "language_probability": 0.898497998714447,
+  "duration": 7.1578125,
+  "transcribed_at": "2026-07-24T01:19:44.663545+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " si te estira más tarde vine por mi casa si te estira a fumar y tengo también bastante"
+   }
+  ],
+  "text": "si te estira más tarde vine por mi casa si te estira a fumar y tengo también bastante"
+ },
+ {
+  "file": "PTT-20260518-WA0073.opus",
+  "language": "es",
+  "language_probability": 0.9011422395706177,
+  "duration": 7.3135,
+  "transcribed_at": "2026-07-24T01:23:41.382786+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.0,
+    "text": " Y confirmadme el horario que vos te queda bien y me organiza yo, tranqui."
+   }
+  ],
+  "text": "Y confirmadme el horario que vos te queda bien y me organiza yo, tranqui."
+ },
+ {
+  "file": "PTT-20260425-WA0009.opus",
+  "language": "ar",
+  "language_probability": 0.3516392111778259,
+  "duration": 9.0778125,
+  "transcribed_at": "2026-07-24T02:22:40.897259+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.5,
+    "text": " موت، ها يوم بيه يا كسيركا"
+   },
+   {
+    "start": 3.5,
+    "end": 5.5,
+    "text": " بس وفلا"
+   },
+   {
+    "start": 5.5,
+    "end": 9.0,
+    "text": " ها لو كي يعمل بيه، ورسيه خوشان الهوان تخيجيه"
+   }
+  ],
+  "text": "موت، ها يوم بيه يا كسيركا بس وفلا ها لو كي يعمل بيه، ورسيه خوشان الهوان تخيجيه"
+ },
+ {
+  "file": "PTT-20260518-WA0056.opus",
+  "language": "es",
+  "language_probability": 0.9161796569824219,
+  "duration": 10.3935,
+  "transcribed_at": "2026-07-24T03:42:37.824293+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " Iván, te extraño, jeje, estuve hablando con Lora y me mostró tu fursona, muy muy genial."
+   }
+  ],
+  "text": "Iván, te extraño, jeje, estuve hablando con Lora y me mostró tu fursona, muy muy genial."
+ },
+ {
+  "file": "PTT-20260425-WA0005.opus",
+  "language": "es",
+  "language_probability": 0.9116896986961365,
+  "duration": 9.9735,
+  "transcribed_at": "2026-07-24T03:45:46.389752+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Hola Iván, doble doble, la verdad es que todavía no llega nadie porque como te dije,"
+   },
+   {
+    "start": 5.0,
+    "end": 10.0,
+    "text": " tenemos un menos por la 8, así que ven y cuando quieras, no hay problema."
+   }
+  ],
+  "text": "Hola Iván, doble doble, la verdad es que todavía no llega nadie porque como te dije, tenemos un menos por la 8, así que ven y cuando quieras, no hay problema."
+ },
+ {
+  "file": "PTT-20260301-WA0030.opus",
+  "language": "es",
+  "language_probability": 0.8830058574676514,
+  "duration": 12.3735,
+  "transcribed_at": "2026-07-24T04:53:05.527422+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 8.0,
+    "text": " Alónico, te iba a responder y me quedé sin batería por la noche y me volví del corador en casa de Ragnis Levo."
+   },
+   {
+    "start": 8.0,
+    "end": 12.0,
+    "text": " Claro que no sé, pero estoy sin cargador."
+   }
+  ],
+  "text": "Alónico, te iba a responder y me quedé sin batería por la noche y me volví del corador en casa de Ragnis Levo. Claro que no sé, pero estoy sin cargador."
+ },
+ {
+  "file": "PTT-20260518-WA0070.opus",
+  "language": "es",
+  "language_probability": 0.9390654563903809,
+  "duration": 13.4135,
+  "transcribed_at": "2026-07-24T05:58:43.886400+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 9.0,
+    "text": " Dale, por mi genial, si yo creo que es mucho mejor el domingo antes que el sábado, por el sábado si estamos ocupaditos"
+   },
+   {
+    "start": 9.0,
+    "end": 13.0,
+    "text": " y aparte es la buena onda un domingo porque es mucho mas chiste, dale"
+   }
+  ],
+  "text": "Dale, por mi genial, si yo creo que es mucho mejor el domingo antes que el sábado, por el sábado si estamos ocupaditos y aparte es la buena onda un domingo porque es mucho mas chiste, dale"
+ },
+ {
+  "file": "PTT-20260518-WA0057.opus",
+  "language": "es",
+  "language_probability": 0.9371445775032043,
+  "duration": 14.5578125,
+  "transcribed_at": "2026-07-24T05:59:12.121126+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 3.5,
+    "text": " Madenas. Nadie es que esté aquí un teléfono malo."
+   },
+   {
+    "start": 7.5,
+    "end": 9.0,
+    "text": " Se hacen unos cuantos más."
+   },
+   {
+    "start": 9.0,
+    "end": 12.0,
+    "text": " Próximamente Face Paint de Mapache y una máscara."
+   },
+   {
+    "start": 12.0,
+    "end": 13.0,
+    "text": " ¿Quién sabe?"
+   },
+   {
+    "start": 13.0,
+    "end": 14.5,
+    "text": " ¡Yo!"
+   }
+  ],
+  "text": "Madenas. Nadie es que esté aquí un teléfono malo. Se hacen unos cuantos más. Próximamente Face Paint de Mapache y una máscara. ¿Quién sabe? ¡Yo!"
+ },
+ {
+  "file": "PTT-20260518-WA0069.opus",
+  "language": "es",
+  "language_probability": 0.9343015551567078,
+  "duration": 17.0335,
+  "transcribed_at": "2026-07-24T07:53:24.895744+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 17.0,
+    "text": " Uuuh, que genial, bien, y creo que al fin de, si vamos a estar bastante deligores, creo que no tengo nada por el fin de, entonces, te parece que si vamos a tipoar, vamos a chocolate, son muy arrepiculas chocolate."
+   }
+  ],
+  "text": "Uuuh, que genial, bien, y creo que al fin de, si vamos a estar bastante deligores, creo que no tengo nada por el fin de, entonces, te parece que si vamos a tipoar, vamos a chocolate, son muy arrepiculas chocolate."
+ },
+ {
+  "file": "PTT-20260518-WA0072.opus",
+  "language": "es",
+  "language_probability": 0.7869215607643127,
+  "duration": 21.1978125,
+  "transcribed_at": "2026-07-24T07:54:38.299135+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.0,
+    "text": " Oh, me parece bien."
+   },
+   {
+    "start": 5.0,
+    "end": 7.0,
+    "text": " Any time que particularmente te queda bien?"
+   },
+   {
+    "start": 8.0,
+    "end": 10.0,
+    "text": " No estoy seguro del time de mi ati."
+   },
+   {
+    "start": 12.0,
+    "end": 14.0,
+    "text": " Voy a preguntarlo un flop."
+   },
+   {
+    "start": 16.0,
+    "end": 17.0,
+    "text": " Pero real."
+   },
+   {
+    "start": 19.0,
+    "end": 20.0,
+    "text": " Soy una fan con Lara también."
+   },
+   {
+    "start": 21.0,
+    "end": 22.0,
+    "text": " Ya."
+   }
+  ],
+  "text": "Oh, me parece bien. Any time que particularmente te queda bien? No estoy seguro del time de mi ati. Voy a preguntarlo un flop. Pero real. Soy una fan con Lara también. Ya."
+ },
+ {
+  "file": "PTT-20260518-WA0060.opus",
+  "language": "es",
+  "language_probability": 0.9561330080032349,
+  "duration": 24.4535,
+  "transcribed_at": "2026-07-24T12:24:57.366704+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " porque ella me tiró un comentario así, me dijo, ja ja, no sé qué ultraautista"
+   },
+   {
+    "start": 6.0,
+    "end": 13.0,
+    "text": " y pues estoy hablando de furros, yo le dije que van como muy de la mano en los autistas de los furros"
+   },
+   {
+    "start": 13.0,
+    "end": 17.0,
+    "text": " y dijo, ja ja, si yo tengo un amigo así, yo también, se llama Iván"
+   },
+   {
+    "start": 17.0,
+    "end": 21.0,
+    "text": " y me dijo, Iván qué? y le dije, Waze Van der Pol"
+   },
+   {
+    "start": 21.0,
+    "end": 24.0,
+    "text": " y me dijo, ah si, también es mi amigo"
+   },
+   {
+    "start": 24.0,
+    "end": 25.0,
+    "text": " y así"
+   }
+  ],
+  "text": "porque ella me tiró un comentario así, me dijo, ja ja, no sé qué ultraautista y pues estoy hablando de furros, yo le dije que van como muy de la mano en los autistas de los furros y dijo, ja ja, si yo tengo un amigo así, yo también, se llama Iván y me dijo, Iván qué? y le dije, Waze Van der Pol y me dijo, ah si, también es mi amigo y así"
+ },
+ {
+  "file": "PTT-20260425-WA0006.opus",
+  "language": "es",
+  "language_probability": 0.48329827189445496,
+  "duration": 26.6578125,
+  "transcribed_at": "2026-07-24T14:46:50.855867+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.0,
+    "text": " Pero es cierto, mi current plan es a que se va a ir a la chispa"
+   },
+   {
+    "start": 5.0,
+    "end": 10.0,
+    "text": " y esperando que se vea, se encuentre con unos amis en el camino"
+   },
+   {
+    "start": 11.0,
+    "end": 16.0,
+    "text": " y, o sea, se va a la chispa y me deja mielo a ustedes"
+   },
+   {
+    "start": 16.0,
+    "end": 18.0,
+    "text": " y en la chispa se encuentra con amis"
+   },
+   {
+    "start": 18.0,
+    "end": 21.0,
+    "text": " y no se, o sea, luego me quedo un rato"
+   },
+   {
+    "start": 21.0,
+    "end": 24.0,
+    "text": " le conozco a tu ami y después de mi otra vez a la chispa"
+   },
+   {
+    "start": 24.0,
+    "end": 26.0,
+    "text": " y vi a fumar porro"
+   }
+  ],
+  "text": "Pero es cierto, mi current plan es a que se va a ir a la chispa y esperando que se vea, se encuentre con unos amis en el camino y, o sea, se va a la chispa y me deja mielo a ustedes y en la chispa se encuentra con amis y no se, o sea, luego me quedo un rato le conozco a tu ami y después de mi otra vez a la chispa y vi a fumar porro"
+ },
+ {
+  "file": "PTT-20260518-WA0063.opus",
+  "language": "es",
+  "language_probability": 0.9177581667900085,
+  "duration": 32.0135,
+  "transcribed_at": "2026-07-24T17:49:24.031538+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.200000000000001,
+    "text": " Muy, muy genial, estoy pensando en que podríamos, o sea, puedo comprar chocolate y fundimos"
+   },
+   {
+    "start": 10.200000000000001,
+    "end": 16.0,
+    "text": " y fundamos con la manteca danábica, a ver qué tal, porque la última vez que hice"
+   },
+   {
+    "start": 16.0,
+    "end": 21.16,
+    "text": " salieron muy, muy ricos, que he hecho y sin nada más. Estaban muy ricos y a los papás"
+   },
+   {
+    "start": 21.16,
+    "end": 24.240000000000002,
+    "text": " de Mati por ejemplo les encantó y fue así, uff, que tenía ese chocolate que estaba"
+   },
+   {
+    "start": 24.240000000000002,
+    "end": 29.0,
+    "text": " tan rico, y no le contamos que tenía marihuana hasta después de dos meses por ahí,"
+   },
+   {
+    "start": 29.0,
+    "end": 31.4,
+    "text": " que sí, básicamente. Estaban muy ricos."
+   }
+  ],
+  "text": "Muy, muy genial, estoy pensando en que podríamos, o sea, puedo comprar chocolate y fundimos y fundamos con la manteca danábica, a ver qué tal, porque la última vez que hice salieron muy, muy ricos, que he hecho y sin nada más. Estaban muy ricos y a los papás de Mati por ejemplo les encantó y fue así, uff, que tenía ese chocolate que estaba tan rico, y no le contamos que tenía marihuana hasta después de dos meses por ahí, que sí, básicamente. Estaban muy ricos."
+ },
+ {
+  "file": "PTT-20260518-WA0059.opus",
+  "language": "es",
+  "language_probability": 0.9187899231910706,
+  "duration": 35.6535,
+  "transcribed_at": "2026-07-24T19:51:43.317512+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 10.0,
+    "text": " No, no, pero el fin de si. Hay que ver que tenés para ser el fin de repente y nos vamos a ensambar algo."
+   },
+   {
+    "start": 10.0,
+    "end": 13.0,
+    "text": " Porque este fin de estuvimos súper, súper tranquilos."
+   },
+   {
+    "start": 13.0,
+    "end": 17.0,
+    "text": " O sea, fuimos a lo de Martin y estuvimos ahí nada más."
+   },
+   {
+    "start": 17.0,
+    "end": 23.0,
+    "text": " Pero si, nada como estoy trabajando ahora con Lara, que lo estemos hablando."
+   },
+   {
+    "start": 24.0,
+    "end": 30.0,
+    "text": " Y justo me comentó nomás que os le hayáis invitado para ir a hacer Manteca de la Náviga."
+   },
+   {
+    "start": 30.0,
+    "end": 34.0,
+    "text": " Y que no, no pudo irlas por el gusto de tener el trabajo."
+   },
+   {
+    "start": 34.0,
+    "end": 36.0,
+    "text": " Entonces eso básicamente."
+   }
+  ],
+  "text": "No, no, pero el fin de si. Hay que ver que tenés para ser el fin de repente y nos vamos a ensambar algo. Porque este fin de estuvimos súper, súper tranquilos. O sea, fuimos a lo de Martin y estuvimos ahí nada más. Pero si, nada como estoy trabajando ahora con Lara, que lo estemos hablando. Y justo me comentó nomás que os le hayáis invitado para ir a hacer Manteca de la Náviga. Y que no, no pudo irlas por el gusto de tener el trabajo. Entonces eso básicamente."
+ }
+]

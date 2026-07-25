@@ -1,0 +1,17 @@
+[
+ {
+  "file": "PTT-20251006-WA0003.opus",
+  "language": "es",
+  "language_probability": 0.9143626689910889,
+  "duration": 4.4735,
+  "transcribed_at": "2026-07-23T23:20:29.967048+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.32,
+    "text": " hola qué tal amor buen día cómo estás ya estoy atendiendo te gustaría pasar"
+   }
+  ],
+  "text": "hola qué tal amor buen día cómo estás ya estoy atendiendo te gustaría pasar"
+ }
+]

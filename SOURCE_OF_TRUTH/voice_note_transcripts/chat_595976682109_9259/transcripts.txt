@@ -1,0 +1,7 @@
+PTT-20241111-WA0006.opus | lang=es prob=0.9295033812522888 dur=1.9s
+------------------------------------------------------------
+[00:00.00 → 00:02.00] Entiendo y no sabría dónde puedo conseguir
+PTT-20241111-WA0005.opus | lang=es prob=0.9213573932647705 dur=8.4s
+------------------------------------------------------------
+[00:00.00 → 00:02.50] ¿Qué tal? ¿Cómo estás? ¿No pasaron tus contactos?
+[00:02.50 → 00:08.00] Estoy buscando los filamentos colores naranjas, este P1, o sea, lo que es goma para impresora 3D.

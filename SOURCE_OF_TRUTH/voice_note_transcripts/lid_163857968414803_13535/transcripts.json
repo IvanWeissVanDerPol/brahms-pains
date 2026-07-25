@@ -1,0 +1,32 @@
+[
+ {
+  "file": "PTT-20260213-WA0101.opus",
+  "language": "es",
+  "language_probability": 0.9656544327735901,
+  "duration": 19.5978125,
+  "transcribed_at": "2026-07-24T09:37:15.798151+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.66,
+    "text": " O sea, el beat entré en mi cuenta en Shopping China, me fui a el link que me pasaste"
+   },
+   {
+    "start": 5.66,
+    "end": 12.700000000000001,
+    "text": " y lo puse hasta 3 y le di a agregar, y como no me agregó el carrito tipo aprieto"
+   },
+   {
+    "start": 12.700000000000001,
+    "end": 15.9,
+    "text": " se pone un poco más, o sea que en vez de probar el botón"
+   },
+   {
+    "start": 15.9,
+    "end": 19.5,
+    "text": " y después retorne como estaba originalmente sin haber agregado mi carrito"
+   }
+  ],
+  "text": "O sea, el beat entré en mi cuenta en Shopping China, me fui a el link que me pasaste y lo puse hasta 3 y le di a agregar, y como no me agregó el carrito tipo aprieto se pone un poco más, o sea que en vez de probar el botón y después retorne como estaba originalmente sin haber agregado mi carrito"
+ }
+]

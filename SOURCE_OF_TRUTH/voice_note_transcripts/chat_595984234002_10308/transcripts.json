@@ -1,0 +1,27 @@
+[
+ {
+  "file": "PTT-20250325-WA0001.opus",
+  "language": "es",
+  "language_probability": 0.9221158623695374,
+  "duration": 9.0778125,
+  "transcribed_at": "2026-07-24T02:46:20.798676+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 2.54,
+    "text": " ¿Qué tal, Iván Valaporte? ¿Cómo andamos?"
+   },
+   {
+    "start": 2.54,
+    "end": 6.74,
+    "text": " Iván María me dijo que vos me estarías dando la llave de soportamento hoy"
+   },
+   {
+    "start": 6.74,
+    "end": 8.74,
+    "text": " y ya estoy frente a tu depo"
+   }
+  ],
+  "text": "¿Qué tal, Iván Valaporte? ¿Cómo andamos? Iván María me dijo que vos me estarías dando la llave de soportamento hoy y ya estoy frente a tu depo"
+ }
+]

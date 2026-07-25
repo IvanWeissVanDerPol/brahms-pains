@@ -1,0 +1,6 @@
+PTT-20260628-WA0033.opus | lang=es prob=0.8850958347320557 dur=3.5s
+------------------------------------------------------------
+[00:00.00 → 00:05.00] Hola, ¿se escucha este audio? ¿Me entendés Erebus?
+PTT-20260703-WA0065.opus | lang=es prob=0.9725616574287415 dur=4.4s
+------------------------------------------------------------
+[00:00.00 → 00:04.40] ¡Uh! Le he conectado un flato. O sea, voy a ver un flaquecer con el todo y le mando un flato mensaje.

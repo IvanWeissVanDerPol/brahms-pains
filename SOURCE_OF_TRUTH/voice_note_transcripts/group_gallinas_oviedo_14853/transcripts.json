@@ -1,0 +1,92 @@
+[
+ {
+  "file": "PTT-20260406-WA0015.opus",
+  "language": "es",
+  "language_probability": 0.956466794013977,
+  "duration": 27.7178125,
+  "transcribed_at": "2026-07-24T12:56:42.842010+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 6.0,
+    "text": " Quiero que analices todo el repo que tenemos y updatees con los datos reales que nos pasaron."
+   },
+   {
+    "start": 7.0,
+    "end": 13.0,
+    "text": " Todos los datos que tenemos prohibidos por ALLE y por labor en el futuro son los reales"
+   },
+   {
+    "start": 13.0,
+    "end": 17.0,
+    "text": " y deberían updatear los datos en el repositorio."
+   },
+   {
+    "start": 17.0,
+    "end": 22.0,
+    "text": " En base a los datos nuevos, después quiero que updatees todos los planes"
+   },
+   {
+    "start": 22.0,
+    "end": 28.0,
+    "text": " y nos ayuda a encontrar mejores ideas y formas de mejorar el negocio en el plan."
+   }
+  ],
+  "text": "Quiero que analices todo el repo que tenemos y updatees con los datos reales que nos pasaron. Todos los datos que tenemos prohibidos por ALLE y por labor en el futuro son los reales y deberían updatear los datos en el repositorio. En base a los datos nuevos, después quiero que updatees todos los planes y nos ayuda a encontrar mejores ideas y formas de mejorar el negocio en el plan."
+ },
+ {
+  "file": "AUD-20260406-WA0020.opus",
+  "language": "es",
+  "language_probability": 0.9365783333778381,
+  "duration": 50.1378125,
+  "transcribed_at": "2026-07-25T03:27:21.297997+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 5.32,
+    "text": " Viste que nosotros tenemos un cuaderno físico, porque cada galpón donde los"
+   },
+   {
+    "start": 5.32,
+    "end": 11.24,
+    "text": " muchachos anotan cuántos huevos sale por día y de qué tipo son cada huevo que sale."
+   },
+   {
+    "start": 11.24,
+    "end": 15.92,
+    "text": " En cada gallinero hay un cuaderno, hay cuatro cuadernos en total y esos cuadernos"
+   },
+   {
+    "start": 15.92,
+    "end": 20.84,
+    "text": " es lo que yo quiero informar y saber. Salieron 100 tipo A de tal gallinero,"
+   },
+   {
+    "start": 20.84,
+    "end": 26.6,
+    "text": " 100 tipo B de ese mismo gallinero, tanto tipo C, tanto super y así de cada"
+   },
+   {
+    "start": 26.6,
+    "end": 32.88,
+    "text": " gallinero. Quiero guardar la producción que hubo por día y el total de tabletas."
+   },
+   {
+    "start": 34.88,
+    "end": 43.0,
+    "text": " Eso es lo que quiero yo guardar y eso, como para verme un formato de excel para que yo"
+   },
+   {
+    "start": 43.0,
+    "end": 48.92,
+    "text": " le pueda dictar en un audio nomás para que me cargue y no tenga que estar tecleando yo para"
+   },
+   {
+    "start": 48.92,
+    "end": 49.96,
+    "text": " guardar en el excel."
+   }
+  ],
+  "text": "Viste que nosotros tenemos un cuaderno físico, porque cada galpón donde los muchachos anotan cuántos huevos sale por día y de qué tipo son cada huevo que sale. En cada gallinero hay un cuaderno, hay cuatro cuadernos en total y esos cuadernos es lo que yo quiero informar y saber. Salieron 100 tipo A de tal gallinero, 100 tipo B de ese mismo gallinero, tanto tipo C, tanto super y así de cada gallinero. Quiero guardar la producción que hubo por día y el total de tabletas. Eso es lo que quiero yo guardar y eso, como para verme un formato de excel para que yo le pueda dictar en un audio nomás para que me cargue y no tenga que estar tecleando yo para guardar en el excel."
+ }
+]
