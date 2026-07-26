@@ -153,5 +153,220 @@
    }
   ],
   "text": "Hallo, Dante Esther. Dank je wel. Hier is het nog steeds niet in dag gelaten, want het is nog steeds mijn vierde dag voor een jaar. Maar ja, nu zijn we in San Francisco. Maar het baas is wel terug naar Canada. Wij hebben gewoon naar California gegaan in Amerika voor de conferentie van werk. Misschien volgende jaar of later. Deze jaar gaan we ook naar Canada, maar ik weet niet. Ik denk misschien meer volgende jaar. Maar daar is het misschien fijnere en leker, want het is... Hebben ze meer tijd voor de mensen van de bedrijf? Dan kunnen we meer dingen doen met iedereen."
+ },
+ {
+  "file": "PTT-20251214-WA0043.opus",
+  "language": "en",
+  "language_probability": 0.9262093901634216,
+  "duration": 239.4978125,
+  "transcribed_at": "2026-07-26T00:11:06.530261+00:00",
+  "segments": [
+   {
+    "start": 0.0,
+    "end": 7.32,
+    "text": " Hello Esther. I will just explain English because I totally lack the terms to be able"
+   },
+   {
+    "start": 7.32,
+    "end": 15.64,
+    "text": " to explain it really in Dutch. So, and with a bit more of context I'll be able to provide"
+   },
+   {
+    "start": 15.64,
+    "end": 21.76,
+    "text": " a way better answer but based on the message I understand that you have like a meeting"
+   },
+   {
+    "start": 21.76,
+    "end": 31.36,
+    "text": " recording something with people talking for one point five hours and from this you"
+   },
+   {
+    "start": 31.36,
+    "end": 37.8,
+    "text": " want to take notes or have an AI analyze and give you feedback. For this I"
+   },
+   {
+    "start": 37.8,
+    "end": 45.400000000000006,
+    "text": " prepared the PDF that you have there that explains what AI recommended. If you"
+   },
+   {
+    "start": 45.4,
+    "end": 52.72,
+    "text": " want to try the Google one AI studio I have a paid account with the things so if"
+   },
+   {
+    "start": 52.72,
+    "end": 58.879999999999995,
+    "text": " you want to try it feel free I can pass I will pass you my credentials. Don't"
+   },
+   {
+    "start": 58.879999999999995,
+    "end": 66.28,
+    "text": " worry about sharing password things. Totally chill. If they make drama I"
+   },
+   {
+    "start": 66.28,
+    "end": 73.92,
+    "text": " will just make another account and no problems. But I will pass you my"
+   },
+   {
+    "start": 73.92,
+    "end": 78.8,
+    "text": " credentials if you want to try it with the AI studio the way I would work on it"
+   },
+   {
+    "start": 78.8,
+    "end": 83.92,
+    "text": " is I will assume that there will be somebody working on making these notes"
+   },
+   {
+    "start": 83.92,
+    "end": 90.44,
+    "text": " or having the agent to do these things for them. You can try the AI studio flow"
+   },
+   {
+    "start": 90.44,
+    "end": 97.84,
+    "text": " you can download also for free anti-gravity from Google you can drop"
+   },
+   {
+    "start": 97.84,
+    "end": 102.24000000000001,
+    "text": " the audio and it can you can ask it hey make the transcription for this it"
+   },
+   {
+    "start": 102.24000000000001,
+    "end": 106.48,
+    "text": " will make you the transcriptions and you can ask it to make the transcriptions"
+   },
+   {
+    "start": 106.48,
+    "end": 110.16000000000001,
+    "text": " for all of your meetings for all of your recordings dump it out in one place and"
+   },
+   {
+    "start": 110.16000000000001,
+    "end": 114.72000000000001,
+    "text": " then you can ask it hey in this folder with the transcriptions can you"
+   },
+   {
+    "start": 114.72000000000001,
+    "end": 118.60000000000001,
+    "text": " analyze everything and make these reports with these texts with this"
+   },
+   {
+    "start": 118.60000000000001,
+    "end": 122.56,
+    "text": " information or what information is inside make me a detailed list blah blah"
+   },
+   {
+    "start": 122.56,
+    "end": 129.0,
+    "text": " if you want to give it a try if you send me a zip file or a Google Drive"
+   },
+   {
+    "start": 129.04,
+    "end": 135.32,
+    "text": " with your audios or videos I can make a quick example project where you can easily"
+   },
+   {
+    "start": 135.32,
+    "end": 141.36,
+    "text": " run it or at least to have it like in an easy way for you to be able to try it"
+   },
+   {
+    "start": 141.36,
+    "end": 146.52,
+    "text": " and be like okay now for this audio or something like that but if you want to"
+   },
+   {
+    "start": 146.52,
+    "end": 151.36,
+    "text": " try it out on your own dev you just have to talk with Gemini or the AI studio"
+   },
+   {
+    "start": 151.36,
+    "end": 157.48,
+    "text": " you want to use I would recommend Gemini from Google it was really good"
+   },
+   {
+    "start": 157.48,
+    "end": 166.12,
+    "text": " recently it got updated a few weeks ago and the difference between the latest"
+   },
+   {
+    "start": 166.12,
+    "end": 171.2,
+    "text": " models is not that much and anyway if you wait a few weeks they'll readjust to be"
+   },
+   {
+    "start": 171.2,
+    "end": 180.64,
+    "text": " kind of kind of equally good let's see one more dev if you send a sample I"
+   },
+   {
+    "start": 180.64,
+    "end": 184.16,
+    "text": " can make an initial version for you to try out and see if you want to do it"
+   },
+   {
+    "start": 184.2,
+    "end": 191.35999999999999,
+    "text": " fully you can ask AI also and follow the flow or the guide there also don't worry"
+   },
+   {
+    "start": 191.35999999999999,
+    "end": 197.2,
+    "text": " you can literally just send me an idea of what you want to try and I can give it a"
+   },
+   {
+    "start": 197.2,
+    "end": 201.04,
+    "text": " look mostly when I'm working I'm already working on like three projects at the"
+   },
+   {
+    "start": 201.04,
+    "end": 205.12,
+    "text": " same time just sitting in AI what to do so it's no problem to add another"
+   },
+   {
+    "start": 205.12,
+    "end": 208.8,
+    "text": " project on the background where I'm just like this is the whole plan of what"
+   },
+   {
+    "start": 208.8,
+    "end": 213.35999999999999,
+    "text": " we need work on this for a bit because it should be way simpler than the"
+   },
+   {
+    "start": 213.36,
+    "end": 219.28,
+    "text": " random things that I'm doing right now hopefully this is useful for you if you"
+   },
+   {
+    "start": 219.28,
+    "end": 223.64000000000001,
+    "text": " prefer an explanation in English let me know and I can in Dutch I can also try"
+   },
+   {
+    "start": 223.64000000000001,
+    "end": 228.56,
+    "text": " to explain it a bit in that way and prepare a few PDFs or resources for you"
+   },
+   {
+    "start": 228.56,
+    "end": 236.36,
+    "text": " to read and have more context but if explain a bit more the idea of what"
+   },
+   {
+    "start": 236.36,
+    "end": 240.96,
+    "text": " you need and I can make a sample project"
+   }
+  ],
+  "text": "Hello Esther. I will just explain English because I totally lack the terms to be able to explain it really in Dutch. So, and with a bit more of context I'll be able to provide a way better answer but based on the message I understand that you have like a meeting recording something with people talking for one point five hours and from this you want to take notes or have an AI analyze and give you feedback. For this I prepared the PDF that you have there that explains what AI recommended. If you want to try the Google one AI studio I have a paid account with the things so if you want to try it feel free I can pass I will pass you my credentials. Don't worry about sharing password things. Totally chill. If they make drama I will just make another account and no problems. But I will pass you my credentials if you want to try it with the AI studio the way I would work on it is I will assume that there will be somebody working on making these notes or having the agent to do these things for them. You can try the AI studio flow you can download also for free anti-gravity from Google you can drop the audio and it can you can ask it hey make the transcription for this it will make you the transcriptions and you can ask it to make the transcriptions for all of your meetings for all of your recordings dump it out in one place and then you can ask it hey in this folder with the transcriptions can you analyze everything and make these reports with these texts with this information or what information is inside make me a detailed list blah blah if you want to give it a try if you send me a zip file or a Google Drive with your audios or videos I can make a quick example project where you can easily run it or at least to have it like in an easy way for you to be able to try it and be like okay now for this audio or something like that but if you want to try it out on your own dev you just have to talk with Gemini or the AI studio you want to use I would recommend Gemini from Google it was really good recently it got updated a few weeks ago and the difference between the latest models is not that much and anyway if you wait a few weeks they'll readjust to be kind of kind of equally good let's see one more dev if you send a sample I can make an initial version for you to try out and see if you want to do it fully you can ask AI also and follow the flow or the guide there also don't worry you can literally just send me an idea of what you want to try and I can give it a look mostly when I'm working I'm already working on like three projects at the same time just sitting in AI what to do so it's no problem to add another project on the background where I'm just like this is the whole plan of what we need work on this for a bit because it should be way simpler than the random things that I'm doing right now hopefully this is useful for you if you prefer an explanation in English let me know and I can in Dutch I can also try to explain it a bit in that way and prepare a few PDFs or resources for you to read and have more context but if explain a bit more the idea of what you need and I can make a sample project"
  }
 ]
