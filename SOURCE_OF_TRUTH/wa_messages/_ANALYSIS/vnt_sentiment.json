@@ -1,0 +1,2031 @@
+{
+ "generated_at": "2026-07-27T17:25:46.269591",
+ "total_contacts_analyzed": 252,
+ "by_tier": {
+  "unknown": 96,
+  "tier3_extended": 43,
+  "tier4_groups": 40,
+  "untiered_personal": 17,
+  "tier2_core": 43,
+  "other_lid": 7,
+  "tier1_deep": 6
+ },
+ "per_contact": {
+  "Maps_Link": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 306
+  },
+  "Nara_Mongelós": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 550
+  },
+  "Taller_-_Check_Engine_Car_Service_Car_Service": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 259
+  },
+  "Dayah": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.623,
+   "emotional_word_count": 0,
+   "word_matches": 53,
+   "text_length": 40423
+  },
+  "P3154": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 493
+  },
+  "Group_Club_De_Info_Gral": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 2831
+  },
+  "Estudiante": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0.773,
+   "emotional_word_count": 17,
+   "word_matches": 150,
+   "text_length": 72964
+  },
+  "Delivery_De_Pollo": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 389
+  },
+  "Profe_Gcc": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.889,
+   "emotional_word_count": 0,
+   "word_matches": 18,
+   "text_length": 18415
+  },
+  "P0030": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 231
+  },
+  "Mark_Lorey": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 383
+  },
+  "Ferrex": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 472
+  },
+  "Thais": {
+   "tier": "other_lid",
+   "transcript_count": 1,
+   "sentiment_score": 0.739,
+   "emotional_word_count": 41,
+   "word_matches": 352,
+   "text_length": 213463
+  },
+  "Loan_Service": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 1641
+  },
+  "Skokka_Ad": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 204
+  },
+  "Photo_Sender": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 6,
+   "text_length": 3140
+  },
+  "P3900": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 462
+  },
+  "Laura": {
+   "tier": "tier1_deep",
+   "transcript_count": 1,
+   "sentiment_score": 0.714,
+   "emotional_word_count": 2,
+   "word_matches": 14,
+   "text_length": 10548
+  },
+  "097_Lid_854912": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.862,
+   "emotional_word_count": 0,
+   "word_matches": 58,
+   "text_length": 31075
+  },
+  "Ester": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 8,
+   "text_length": 2118
+  },
+  "Ivan_Varela_Compañero": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 3380
+  },
+  "Gomeria_Ingavi_Criss": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 1981
+  },
+  "Alérgica_Al_Sol_Lollll": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.617,
+   "emotional_word_count": 65,
+   "word_matches": 575,
+   "text_length": 503992
+  },
+  "Carli_Weiss": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 283
+  },
+  "Hombre": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 368
+  },
+  "Sold_Out": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 516
+  },
+  "Una": {
+   "tier": "tier1_deep",
+   "transcript_count": 1,
+   "sentiment_score": 0.6,
+   "emotional_word_count": 2,
+   "word_matches": 20,
+   "text_length": 12886
+  },
+  "Salgo": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 177
+  },
+  "Crechada": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": -0.2,
+   "emotional_word_count": 0,
+   "word_matches": 5,
+   "text_length": 1797
+  },
+  "Group_Epic_Musical_Juntadas": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 1663
+  },
+  "Kansas_Springbreak": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.811,
+   "emotional_word_count": 8,
+   "word_matches": 74,
+   "text_length": 30821
+  },
+  "Álvaro_Claro": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.5,
+   "emotional_word_count": 4,
+   "word_matches": 4,
+   "text_length": 9820
+  },
+  "Group_Funhouse": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.833,
+   "emotional_word_count": 2,
+   "word_matches": 12,
+   "text_length": 18687
+  },
+  "Group_Primos_Weiss": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 3,
+   "word_matches": 17,
+   "text_length": 20600
+  },
+  "Adrian": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.68,
+   "emotional_word_count": 0,
+   "word_matches": 25,
+   "text_length": 14527
+  },
+  "Dra_Wilma": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": -1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 1270
+  },
+  "Tu_Driver_De_Monchis_App": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 344
+  },
+  "Group_Info_Startups": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.846,
+   "emotional_word_count": 2,
+   "word_matches": 13,
+   "text_length": 2154
+  },
+  "Group_Amigos_De_Las_Locuras_Swinger": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.677,
+   "emotional_word_count": 7,
+   "word_matches": 198,
+   "text_length": 113397
+  },
+  "Iván_Weiss_Número_Pro": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 220
+  },
+  "Auto_Reply": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 358
+  },
+  "Don_Cangrejo_Poli": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": -0.667,
+   "emotional_word_count": 0,
+   "word_matches": 6,
+   "text_length": 8870
+  },
+  "Magali_Carreras_Amiga_Fpuna": {
+   "tier": "tier1_deep",
+   "transcript_count": 1,
+   "sentiment_score": 0.48,
+   "emotional_word_count": 30,
+   "word_matches": 423,
+   "text_length": 289808
+  },
+  "Piercing_Hecho": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 355
+  },
+  "P0666": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.429,
+   "emotional_word_count": 0,
+   "word_matches": 7,
+   "text_length": 11242
+  },
+  "Group_Flia_Weiss_Van_Der_Pol": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.571,
+   "emotional_word_count": 5,
+   "word_matches": 56,
+   "text_length": 107870
+  },
+  "Cami_Maidana": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.621,
+   "emotional_word_count": 8,
+   "word_matches": 58,
+   "text_length": 55162
+  },
+  "Lic_Sanni_Lalla": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.588,
+   "emotional_word_count": 14,
+   "word_matches": 68,
+   "text_length": 33128
+  },
+  "Piercing_Aftercare": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1195
+  },
+  "P8373": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": -0.143,
+   "emotional_word_count": 0,
+   "word_matches": 7,
+   "text_length": 4404
+  },
+  "Alvaro_Llano": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.556,
+   "emotional_word_count": 0,
+   "word_matches": 9,
+   "text_length": 13686
+  },
+  "Group_Sarah_S_Neon_Furry_B-Day_Party": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1422
+  },
+  "P1244": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 5,
+   "text_length": 2805
+  },
+  "Mario_Gueyraud": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": -0.263,
+   "emotional_word_count": 0,
+   "word_matches": 19,
+   "text_length": 13021
+  },
+  "Daisy": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 7,
+   "text_length": 8489
+  },
+  "Enrique_Sanchez": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.556,
+   "emotional_word_count": 0,
+   "word_matches": 9,
+   "text_length": 15454
+  },
+  "P3200": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.833,
+   "emotional_word_count": 2,
+   "word_matches": 12,
+   "text_length": 8868
+  },
+  "Gerardo_Ramos": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": -0.5,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 6238
+  },
+  "Kiki_Adjacent": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.872,
+   "emotional_word_count": 12,
+   "word_matches": 109,
+   "text_length": 62983
+  },
+  "Group_Gallinas_Oviedo": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 2538
+  },
+  "App_Contact": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 468
+  },
+  "Emilio_Poli": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.63,
+   "emotional_word_count": 1,
+   "word_matches": 27,
+   "text_length": 51177
+  },
+  "Group_Grupo_Destrucción_Aregua_Cityyyyyyyyy": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.0,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 8845
+  },
+  "iPhone_Seller": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 544
+  },
+  "Cesar_Poli": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 0,
+   "word_matches": 6,
+   "text_length": 12503
+  },
+  "Adri": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.54,
+   "emotional_word_count": 21,
+   "word_matches": 139,
+   "text_length": 108440
+  },
+  "Cloud_Nyx": {
+   "tier": "other_lid",
+   "transcript_count": 1,
+   "sentiment_score": 0.905,
+   "emotional_word_count": 6,
+   "word_matches": 42,
+   "text_length": 39565
+  },
+  "Friend_Brasilia": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.813,
+   "emotional_word_count": 14,
+   "word_matches": 150,
+   "text_length": 94815
+  },
+  "Stoner": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": -0.333,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 1697
+  },
+  "Group_Agenda": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.833,
+   "emotional_word_count": 6,
+   "word_matches": 12,
+   "text_length": 22762
+  },
+  "Sincero": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.683,
+   "emotional_word_count": 3,
+   "word_matches": 63,
+   "text_length": 38213
+  },
+  "Saul_Goodman_Initiative": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 4212
+  },
+  "Ogr": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 3064
+  },
+  "Group_Ai_Whisperers": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.739,
+   "emotional_word_count": 7,
+   "word_matches": 46,
+   "text_length": 57298
+  },
+  "Empty_1msg_2": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 339
+  },
+  "Bianca_MM": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.625,
+   "emotional_word_count": 0,
+   "word_matches": 16,
+   "text_length": 15224
+  },
+  "Group_Stoic_Finch_-_Latam": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 23,
+   "word_matches": 75,
+   "text_length": 109395
+  },
+  "Group_Iin_Fpuna_2019_-_2025": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 323
+  },
+  "Javier_Vecino": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.5,
+   "emotional_word_count": 1,
+   "word_matches": 16,
+   "text_length": 22856
+  },
+  "Poke_Sushi": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 321
+  },
+  "Neko_Friend": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0.75,
+   "emotional_word_count": 0,
+   "word_matches": 8,
+   "text_length": 7608
+  },
+  "Sofi_Nashe": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.314,
+   "emotional_word_count": 40,
+   "word_matches": 105,
+   "text_length": 126247
+  },
+  "Piter_Lesme_Poli": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 710
+  },
+  "Iván_Weiss": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 2348
+  },
+  "Group_Give_Back_Program_-_Cpk": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.529,
+   "emotional_word_count": 0,
+   "word_matches": 17,
+   "text_length": 14840
+  },
+  "Alvaro_Celular": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 392
+  },
+  "Dukascopy": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 659
+  },
+  "Group_Taller_De_Introducción_Qa_Instructores": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 1,
+   "word_matches": 4,
+   "text_length": 2458
+  },
+  "Odin": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 4,
+   "word_matches": 2,
+   "text_length": 14159
+  },
+  "Piercer": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.0,
+   "emotional_word_count": 0,
+   "word_matches": 6,
+   "text_length": 5483
+  },
+  "Jose_S": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.714,
+   "emotional_word_count": 0,
+   "word_matches": 7,
+   "text_length": 5011
+  },
+  "Parte": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 516
+  },
+  "P5564": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.5,
+   "emotional_word_count": 0,
+   "word_matches": 8,
+   "text_length": 4804
+  },
+  "Nudo_Cliente": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 3895
+  },
+  "Group_Mansion_Weiss": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.429,
+   "emotional_word_count": 1,
+   "word_matches": 14,
+   "text_length": 15579
+  },
+  "Lid_854912": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.524,
+   "emotional_word_count": 3,
+   "word_matches": 21,
+   "text_length": 16690
+  },
+  "Lety": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 228
+  },
+  "Riet_van_der_Pol": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 999
+  },
+  "044_P5289": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.0,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 6196
+  },
+  "Group_Pivigames_General": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 1103
+  },
+  "Bisexual": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": -0.333,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 3808
+  },
+  "Saskia_Weiss": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.615,
+   "emotional_word_count": 9,
+   "word_matches": 78,
+   "text_length": 96753
+  },
+  "Group_Maskarada_-_Club_De_Azote": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 7764
+  },
+  "El_Viajero": {
+   "tier": "other_lid",
+   "transcript_count": 1,
+   "sentiment_score": 0.571,
+   "emotional_word_count": 0,
+   "word_matches": 84,
+   "text_length": 78921
+  },
+  "P4464": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 7467
+  },
+  "P9143": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 969
+  },
+  "P9125": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 243
+  },
+  "Carlos_Oviedo": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 543
+  },
+  "Retachi": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.818,
+   "emotional_word_count": 3,
+   "word_matches": 11,
+   "text_length": 9505
+  },
+  "Dealer_Galletitas": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0.76,
+   "emotional_word_count": 4,
+   "word_matches": 25,
+   "text_length": 28515
+  },
+  "Kiki_Weiss_Hermana": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.497,
+   "emotional_word_count": 34,
+   "word_matches": 147,
+   "text_length": 173829
+  },
+  "Kinesiologo": {
+   "tier": "other_lid",
+   "transcript_count": 1,
+   "sentiment_score": 0.467,
+   "emotional_word_count": 0,
+   "word_matches": 15,
+   "text_length": 10719
+  },
+  "P9449": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 745
+  },
+  "David": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 3370
+  },
+  "Belén_Fratts_Officina": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 892
+  },
+  "Group_Juntada": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 453
+  },
+  "P3709": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.917,
+   "emotional_word_count": 1,
+   "word_matches": 24,
+   "text_length": 23534
+  },
+  "_wa_ptt_bulk": {
+   "tier": "unknown",
+   "transcript_count": 1171,
+   "sentiment_score": 0.578,
+   "emotional_word_count": 97,
+   "word_matches": 895,
+   "text_length": 672236
+  },
+  "Informático_Y_Me_Interesa_Si_E": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1100
+  },
+  "Group_Agi_Is_Cumming": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": -1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 1332
+  },
+  "Diego_Emanuel_Duarte": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": -1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 727
+  },
+  "Group_Familie_Van_Der_Pol": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 2028
+  },
+  "Group_México_City": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 653
+  },
+  "Joana_Poli": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 1606
+  },
+  "Toni_Weiss": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 12,
+   "text_length": 19941
+  },
+  "Defi_Not_There_4_U": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.611,
+   "emotional_word_count": 85,
+   "word_matches": 576,
+   "text_length": 439338
+  },
+  "Group_Organización_Py_Testing_2026": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 261
+  },
+  "Voy": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 234
+  },
+  "Un_Ratito": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.778,
+   "emotional_word_count": 0,
+   "word_matches": 9,
+   "text_length": 5939
+  },
+  "P4744": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 3044
+  },
+  "Group_Nexa-Paraguay": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1496
+  },
+  "Alejandro_Cabral_Poli": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.582,
+   "emotional_word_count": 0,
+   "word_matches": 67,
+   "text_length": 74818
+  },
+  "Camilo_Amarilla": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 1314
+  },
+  "Raúl_Wichita": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 1,
+   "word_matches": 3,
+   "text_length": 6576
+  },
+  "Group_Powerpoint_Powe_Apps_Para_Canadá": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.667,
+   "emotional_word_count": 0,
+   "word_matches": 6,
+   "text_length": 3829
+  },
+  "Checking": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 1531
+  },
+  "Jessica_Chena": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.895,
+   "emotional_word_count": 0,
+   "word_matches": 19,
+   "text_length": 8310
+  },
+  "Sivling": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0.714,
+   "emotional_word_count": 0,
+   "word_matches": 7,
+   "text_length": 4007
+  },
+  "Qa_Impostor_Friend": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.375,
+   "emotional_word_count": 3,
+   "word_matches": 64,
+   "text_length": 82628
+  },
+  "Franco_Nunez_Bristol": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 674
+  },
+  "P1463": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 485
+  },
+  "Empty_1msg": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 198
+  },
+  "Erebus": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": -1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 3292
+  },
+  "P6114": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 3959
+  },
+  "Delivery_Amigo": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 234
+  },
+  "Empty_60": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.5,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 2853
+  },
+  "Maia": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.714,
+   "emotional_word_count": 0,
+   "word_matches": 7,
+   "text_length": 20947
+  },
+  "Group_Consejo_De_Emergencia": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.789,
+   "emotional_word_count": 0,
+   "word_matches": 19,
+   "text_length": 9765
+  },
+  "Fidabel_Poli": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.516,
+   "emotional_word_count": 11,
+   "word_matches": 62,
+   "text_length": 59390
+  },
+  "Ravisa": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 301
+  },
+  "Alejandro_Maciel_mentormate": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.75,
+   "emotional_word_count": 0,
+   "word_matches": 8,
+   "text_length": 9235
+  },
+  "P5412": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1945
+  },
+  "Junior_Nazi": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 5,
+   "text_length": 3779
+  },
+  "Paloma": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 17,
+   "text_length": 9533
+  },
+  "P9265": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.811,
+   "emotional_word_count": 10,
+   "word_matches": 53,
+   "text_length": 42422
+  },
+  "P6193": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 5,
+   "text_length": 6125
+  },
+  "See_You": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 1197
+  },
+  "Group_Calgary_Todo_Random": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 619
+  },
+  "Group_Ml_2023-1": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 623
+  },
+  "Migue": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.6,
+   "emotional_word_count": 4,
+   "word_matches": 5,
+   "text_length": 3692
+  },
+  "Ivan": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0.536,
+   "emotional_word_count": 100,
+   "word_matches": 832,
+   "text_length": 640302
+  },
+  "Estudio_Medieval": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1305
+  },
+  "Sincero_Que_Me_Cuesta_El_Inglé": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 5475
+  },
+  "Laura_Troche": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 368
+  },
+  "Ideline_Brisa_3": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.938,
+   "emotional_word_count": 1,
+   "word_matches": 32,
+   "text_length": 5932
+  },
+  "Group_Py_Testing_Community": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 372
+  },
+  "Confiable": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 0,
+   "word_matches": 6,
+   "text_length": 7370
+  },
+  "Lilian_Riveros": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.684,
+   "emotional_word_count": 2,
+   "word_matches": 19,
+   "text_length": 16079
+  },
+  "Zubo": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 1794
+  },
+  "César": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 228
+  },
+  "Group_Sheldon_S_Dreams": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 2150
+  },
+  "Lourdes_Youko_Kurama": {
+   "tier": "tier1_deep",
+   "transcript_count": 1,
+   "sentiment_score": 0.469,
+   "emotional_word_count": 222,
+   "word_matches": 1726,
+   "text_length": 1291708
+  },
+  "Sebastian_Moreno_Wise_Nuevo": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1663
+  },
+  "_w4b_unmapped": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.873,
+   "emotional_word_count": 21,
+   "word_matches": 110,
+   "text_length": 154560
+  },
+  "Pezon_Piercing": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 2,
+   "word_matches": 6,
+   "text_length": 3995
+  },
+  "Group_Nasa_Space_Apps_Ieee_Computer_Society": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 632
+  },
+  "Fran": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.444,
+   "emotional_word_count": 13,
+   "word_matches": 133,
+   "text_length": 136861
+  },
+  "Gift_Delivery": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 596
+  },
+  "Natalia_Cruz": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.294,
+   "emotional_word_count": 1,
+   "word_matches": 17,
+   "text_length": 18687
+  },
+  "Cerri": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 326
+  },
+  "Group_Organización_Ci24": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.5,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 1323
+  },
+  "Thijs The Dutch Guy": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 8,
+   "text_length": 4470
+  },
+  "ETA_Tracker": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 739
+  },
+  "Sonia_Weiss": {
+   "tier": "tier1_deep",
+   "transcript_count": 1,
+   "sentiment_score": 0.386,
+   "emotional_word_count": 33,
+   "word_matches": 280,
+   "text_length": 385897
+  },
+  "Rosario_Ruiz": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 1313
+  },
+  "Carlos_Bernal": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 299
+  },
+  "Masterdom": {
+   "tier": "untiered_personal",
+   "transcript_count": 1,
+   "sentiment_score": 0.5,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 4349
+  },
+  "P3241": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.562,
+   "emotional_word_count": 3,
+   "word_matches": 32,
+   "text_length": 30670
+  },
+  "Brenda_Poli": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 662
+  },
+  "Ai_Qa_Ing_Info_De_La_Una": {
+   "tier": "other_lid",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 2540
+  },
+  "John": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.778,
+   "emotional_word_count": 3,
+   "word_matches": 9,
+   "text_length": 17987
+  },
+  "Group_Unnamed": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.2,
+   "emotional_word_count": 0,
+   "word_matches": 5,
+   "text_length": 3067
+  },
+  "Milagros_Y_Te_Estaré_Atendiend": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 211
+  },
+  "P9166": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": -1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 3297
+  },
+  "_documents_ivan_voice": {
+   "tier": "tier3_extended",
+   "transcript_count": 7,
+   "sentiment_score": 0.419,
+   "emotional_word_count": 12,
+   "word_matches": 124,
+   "text_length": 101437
+  },
+  "Group_Comité_De_Cursos_Charlas_-_Cs": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1039
+  },
+  "Marco_Poli": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 6326
+  },
+  "Group_Ritual_De_Cuerdas": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.818,
+   "emotional_word_count": 0,
+   "word_matches": 11,
+   "text_length": 4454
+  },
+  "Group_Dan": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": -1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 4555
+  },
+  "Iván": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 4769
+  },
+  "P5246": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": -0.333,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 4517
+  },
+  "benja": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.895,
+   "emotional_word_count": 6,
+   "word_matches": 38,
+   "text_length": 36256
+  },
+  "Lucas_Germán": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 2242
+  },
+  "070_P9265": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.143,
+   "emotional_word_count": 14,
+   "word_matches": 7,
+   "text_length": 7918
+  },
+  "Jonatan_Verdún": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.51,
+   "emotional_word_count": 143,
+   "word_matches": 1192,
+   "text_length": 1312006
+  },
+  "Maga": {
+   "tier": "tier1_deep",
+   "transcript_count": 1,
+   "sentiment_score": 0.867,
+   "emotional_word_count": 7,
+   "word_matches": 30,
+   "text_length": 29977
+  },
+  "yanny": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 644
+  },
+  "Magali_Dealer": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.667,
+   "emotional_word_count": 0,
+   "word_matches": 6,
+   "text_length": 11629
+  },
+  "Cesar": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": -1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 5242
+  },
+  "Group_Este_Grupo_Se_Autodestruirá_En_20Min": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 353
+  },
+  "Luana_Weiss": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.375,
+   "emotional_word_count": 3,
+   "word_matches": 80,
+   "text_length": 102210
+  },
+  "Ueno_Comprobante": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 819
+  },
+  "Miguel": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 719
+  },
+  "Group_Samber_Atyra": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 283
+  },
+  "Group_El_Viajero": {
+   "tier": "other_lid",
+   "transcript_count": 1,
+   "sentiment_score": 0.6,
+   "emotional_word_count": 0,
+   "word_matches": 5,
+   "text_length": 3518
+  },
+  "Alberto": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.6,
+   "emotional_word_count": 0,
+   "word_matches": 5,
+   "text_length": 3377
+  },
+  "Lucy": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 1458
+  },
+  "Kink_Punishment": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.5,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 6823
+  },
+  "Tsi": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 885
+  },
+  "P1606": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 7,
+   "text_length": 1939
+  },
+  "Jose_Jsrdinero": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 1171
+  },
+  "P0920": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 273
+  },
+  "Group_Iin_Fpuna_019": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.333,
+   "emotional_word_count": 0,
+   "word_matches": 3,
+   "text_length": 2713
+  },
+  "Anna_Rodas_van_der_Pol": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 3957
+  },
+  "El_Hermano_De_Nyx": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 704
+  },
+  "Group_Cuarteto_El_15_06": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 231
+  },
+  "Group_Bd2_Iin_2024": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 5,
+   "text_length": 3290
+  },
+  "Sebastián_Aguilera": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.4,
+   "emotional_word_count": 2,
+   "word_matches": 10,
+   "text_length": 8540
+  },
+  "Rach": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.704,
+   "emotional_word_count": 3,
+   "word_matches": 54,
+   "text_length": 33961
+  },
+  "Primo_Gabriel": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 344
+  },
+  "Argentina_Friend": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 863
+  },
+  "Lazzerini_Pizzs": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 648
+  },
+  "Group_Pasen_Las_Fotos": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": -0.5,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 5663
+  },
+  "José_Villalba_Lugo": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 2458
+  },
+  "P5809": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 0.802,
+   "emotional_word_count": 9,
+   "word_matches": 81,
+   "text_length": 55971
+  },
+  "Group_Team_Isabelle_Mm": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 1014
+  },
+  "Foneca": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 831
+  },
+  "Mind": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": -0.143,
+   "emotional_word_count": 0,
+   "word_matches": 7,
+   "text_length": 4050
+  },
+  "Group_La_Casa": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 2806
+  },
+  "other_newsletter_120363144038483540_5327": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 1018
+  },
+  "Paraguay_Friday": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 1,
+   "text_length": 644
+  },
+  "Group_Is3_2024": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0.429,
+   "emotional_word_count": 0,
+   "word_matches": 14,
+   "text_length": 2624
+  },
+  "Kink_Artist": {
+   "tier": "other_lid",
+   "transcript_count": 1,
+   "sentiment_score": 0.832,
+   "emotional_word_count": 13,
+   "word_matches": 119,
+   "text_length": 80947
+  },
+  "Iván_Weiss_Van_Der_Pol": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 998
+  },
+  "Group_Ueno_Bank_La_Gang": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.111,
+   "emotional_word_count": 2,
+   "word_matches": 9,
+   "text_length": 7559
+  },
+  "De_San_Lorenzo": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 2,
+   "text_length": 596
+  },
+  "Grido_Ingavi": {
+   "tier": "tier2_core",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 541
+  },
+  "P8658": {
+   "tier": "tier3_extended",
+   "transcript_count": 1,
+   "sentiment_score": 1.0,
+   "emotional_word_count": 0,
+   "word_matches": 4,
+   "text_length": 1421
+  },
+  "Group_Ingeniería_En_Informática": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 341
+  },
+  "Group_Meetings": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 250
+  },
+  "Group_Qe_Meriendita": {
+   "tier": "tier4_groups",
+   "transcript_count": 1,
+   "sentiment_score": 0,
+   "emotional_word_count": 0,
+   "word_matches": 0,
+   "text_length": 470
+  },
+  "Lucía_Díaz": {
+   "tier": "unknown",
+   "transcript_count": 1,
+   "sentiment_score": 0.69,
+   "emotional_word_count": 31,
+   "word_matches": 232,
+   "text_length": 160261
+  }
+ }
+}
