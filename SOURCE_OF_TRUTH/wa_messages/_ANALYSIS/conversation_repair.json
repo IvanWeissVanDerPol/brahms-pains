@@ -1,0 +1,2565 @@
+{
+ "generated_at": "2026-07-27T17:22:25.199457",
+ "total_gaps_detected": 2275,
+ "total_repair_events": 1101,
+ "per_chat_repair": {
+  "sister_kyrian_kiki___wa_chat_595985724135_111": {
+   "total_gaps": 69,
+   "ivan_repairs": 25,
+   "them_repairs": 44,
+   "max_gap": 0,
+   "total_gap_days": 911.0000000000001,
+   "ivan_repair_ratio": 0.362
+  },
+  "06__p4569___wa_chat_595981324569_1092": {
+   "total_gaps": 4,
+   "ivan_repairs": 4,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 543.6,
+   "ivan_repair_ratio": 1.0
+  },
+  "magali_carreras_amiga_fpuna____wa_chat_595981225272_62": {
+   "total_gaps": 43,
+   "ivan_repairs": 21,
+   "them_repairs": 22,
+   "max_gap": 0,
+   "total_gap_days": 1247.1999999999996,
+   "ivan_repair_ratio": 0.488
+  },
+  "05__lourdes_youko_kurama___wa_chat_595981791823_1683": {
+   "total_gaps": 16,
+   "ivan_repairs": 5,
+   "them_repairs": 11,
+   "max_gap": 0,
+   "total_gap_days": 905.5999999999999,
+   "ivan_repair_ratio": 0.312
+  },
+  "jonathan_verdun___wa_chat_595971922708_3654": {
+   "total_gaps": 17,
+   "ivan_repairs": 4,
+   "them_repairs": 13,
+   "max_gap": 0,
+   "total_gap_days": 398.1,
+   "ivan_repair_ratio": 0.235
+  },
+  "laura____wa_chat_595976538689_3231": {
+   "total_gaps": 8,
+   "ivan_repairs": 4,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 309.4,
+   "ivan_repair_ratio": 0.5
+  },
+  "10__alejandro_cabral___wa_chat_595972130867_49": {
+   "total_gaps": 26,
+   "ivan_repairs": 15,
+   "them_repairs": 11,
+   "max_gap": 0,
+   "total_gap_days": 312.3,
+   "ivan_repair_ratio": 0.577
+  },
+  "mom_sonia_weiss___wa_chat_595982515138_64": {
+   "total_gaps": 36,
+   "ivan_repairs": 15,
+   "them_repairs": 21,
+   "max_gap": 0,
+   "total_gap_days": 417.59999999999997,
+   "ivan_repair_ratio": 0.417
+  },
+  "qa_impostor_friend___wa_chat_595981258488_3525": {
+   "total_gaps": 16,
+   "ivan_repairs": 4,
+   "them_repairs": 12,
+   "max_gap": 0,
+   "total_gap_days": 314.80000000000007,
+   "ivan_repair_ratio": 0.25
+  },
+  "Profe_Gcc": {
+   "total_gaps": 5,
+   "ivan_repairs": 5,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 989.5999999999999,
+   "ivan_repair_ratio": 1.0
+  },
+  "Mark_Lorey": {
+   "total_gaps": 4,
+   "ivan_repairs": 2,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 507.5,
+   "ivan_repair_ratio": 0.5
+  },
+  "Nathaly_Schinini": {
+   "total_gaps": 21,
+   "ivan_repairs": 19,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 1621.3,
+   "ivan_repair_ratio": 0.905
+  },
+  "Génesis": {
+   "total_gaps": 5,
+   "ivan_repairs": 3,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 459.0,
+   "ivan_repair_ratio": 0.6
+  },
+  "dad_john_van_der_pol___wa_chat_595986138387_1265": {
+   "total_gaps": 67,
+   "ivan_repairs": 12,
+   "them_repairs": 55,
+   "max_gap": 0,
+   "total_gap_days": 1205.0,
+   "ivan_repair_ratio": 0.179
+  },
+  "fran____wa_chat_595986805654_1271": {
+   "total_gaps": 52,
+   "ivan_repairs": 29,
+   "them_repairs": 23,
+   "max_gap": 0,
+   "total_gap_days": 1009.9999999999999,
+   "ivan_repair_ratio": 0.558
+  },
+  "Ester": {
+   "total_gaps": 5,
+   "ivan_repairs": 0,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 1151.4,
+   "ivan_repair_ratio": 0.0
+  },
+  "Hospital_Bautista": {
+   "total_gaps": 10,
+   "ivan_repairs": 10,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 872.5,
+   "ivan_repair_ratio": 1.0
+  },
+  "Adrian": {
+   "total_gaps": 5,
+   "ivan_repairs": 4,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 235.7,
+   "ivan_repair_ratio": 0.8
+  },
+  "Don_Cangrejo_Poli": {
+   "total_gaps": 13,
+   "ivan_repairs": 8,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 673.0,
+   "ivan_repair_ratio": 0.615
+  },
+  "matias_winter____wa_chat_595984690946_3704": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 9.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "22__cesar_poli___wa_chat_595991470829_106": {
+   "total_gaps": 69,
+   "ivan_repairs": 47,
+   "them_repairs": 22,
+   "max_gap": 0,
+   "total_gap_days": 1538.8999999999999,
+   "ivan_repair_ratio": 0.681
+  },
+  "Enrique_Sanchez": {
+   "total_gaps": 27,
+   "ivan_repairs": 12,
+   "them_repairs": 15,
+   "max_gap": 0,
+   "total_gap_days": 1253.1999999999998,
+   "ivan_repair_ratio": 0.444
+  },
+  "Cliente_3d_Edgar_Fpuna": {
+   "total_gaps": 36,
+   "ivan_repairs": 12,
+   "them_repairs": 24,
+   "max_gap": 0,
+   "total_gap_days": 1240.9,
+   "ivan_repair_ratio": 0.333
+  },
+  "Mathias_Barrios": {
+   "total_gaps": 7,
+   "ivan_repairs": 1,
+   "them_repairs": 6,
+   "max_gap": 0,
+   "total_gap_days": 110.6,
+   "ivan_repair_ratio": 0.143
+  },
+  "guitar_friend___wa_chat_595985725871_86": {
+   "total_gaps": 72,
+   "ivan_repairs": 31,
+   "them_repairs": 41,
+   "max_gap": 0,
+   "total_gap_days": 1047.7000000000003,
+   "ivan_repair_ratio": 0.431
+  },
+  "Consultorio_Duerksen": {
+   "total_gaps": 17,
+   "ivan_repairs": 17,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 1050.8,
+   "ivan_repair_ratio": 1.0
+  },
+  "23__friend_uwu___wa_chat_595985340001_2439": {
+   "total_gaps": 50,
+   "ivan_repairs": 13,
+   "them_repairs": 37,
+   "max_gap": 0,
+   "total_gap_days": 893.7999999999998,
+   "ivan_repair_ratio": 0.26
+  },
+  "30__kansas_springbreak___wa_chat_595972209763_2943": {
+   "total_gaps": 3,
+   "ivan_repairs": 1,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 97.9,
+   "ivan_repair_ratio": 0.333
+  },
+  "Gerold_Manders": {
+   "total_gaps": 19,
+   "ivan_repairs": 13,
+   "them_repairs": 6,
+   "max_gap": 0,
+   "total_gap_days": 1619.6,
+   "ivan_repair_ratio": 0.684
+  },
+  "Bianca_MM": {
+   "total_gaps": 24,
+   "ivan_repairs": 15,
+   "them_repairs": 9,
+   "max_gap": 0,
+   "total_gap_days": 885.5999999999998,
+   "ivan_repair_ratio": 0.625
+  },
+  "Javier_Vecino": {
+   "total_gaps": 22,
+   "ivan_repairs": 3,
+   "them_repairs": 19,
+   "max_gap": 0,
+   "total_gap_days": 904.3,
+   "ivan_repair_ratio": 0.136
+  },
+  "27__lic_sanni_lalla___wa_chat_595986418879_1688": {
+   "total_gaps": 40,
+   "ivan_repairs": 3,
+   "them_repairs": 37,
+   "max_gap": 0,
+   "total_gap_days": 777.1,
+   "ivan_repair_ratio": 0.075
+  },
+  "Jose_S": {
+   "total_gaps": 6,
+   "ivan_repairs": 1,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 282.8,
+   "ivan_repair_ratio": 0.167
+  },
+  "cami_maidana____wa_chat_595982510082_1723": {
+   "total_gaps": 46,
+   "ivan_repairs": 32,
+   "them_repairs": 14,
+   "max_gap": 0,
+   "total_gap_days": 1218.9,
+   "ivan_repair_ratio": 0.696
+  },
+  "junior_nazi____wa_chat_595984160109_1257": {
+   "total_gaps": 40,
+   "ivan_repairs": 19,
+   "them_repairs": 21,
+   "max_gap": 0,
+   "total_gap_days": 1213.3999999999999,
+   "ivan_repair_ratio": 0.475
+  },
+  "duckba": {
+   "total_gaps": 10,
+   "ivan_repairs": 5,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 1201.3000000000002,
+   "ivan_repair_ratio": 0.5
+  },
+  "38__friend_arrival___wa_chat_595986464184_1811": {
+   "total_gaps": 7,
+   "ivan_repairs": 3,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 274.4,
+   "ivan_repair_ratio": 0.429
+  },
+  "34__friend_simple___wa_chat_595973572212_1994": {
+   "total_gaps": 28,
+   "ivan_repairs": 14,
+   "them_repairs": 14,
+   "max_gap": 0,
+   "total_gap_days": 478.9000000000001,
+   "ivan_repair_ratio": 0.5
+  },
+  "Prima_Mikaela_Weiss": {
+   "total_gaps": 5,
+   "ivan_repairs": 3,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 390.3,
+   "ivan_repair_ratio": 0.6
+  },
+  "35__friend_photos___wa_chat_595986868241_10607": {
+   "total_gaps": 6,
+   "ivan_repairs": 2,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 123.89999999999999,
+   "ivan_repair_ratio": 0.333
+  },
+  "Camilo_Amarilla": {
+   "total_gaps": 24,
+   "ivan_repairs": 7,
+   "them_repairs": 17,
+   "max_gap": 0,
+   "total_gap_days": 568.6,
+   "ivan_repair_ratio": 0.292
+  },
+  "Jessica_Chena": {
+   "total_gaps": 23,
+   "ivan_repairs": 10,
+   "them_repairs": 13,
+   "max_gap": 0,
+   "total_gap_days": 1177.1,
+   "ivan_repair_ratio": 0.435
+  },
+  "sister_luana_weiss___wa_chat_595985725366_99": {
+   "total_gaps": 81,
+   "ivan_repairs": 35,
+   "them_repairs": 46,
+   "max_gap": 0,
+   "total_gap_days": 1181.2999999999997,
+   "ivan_repair_ratio": 0.432
+  },
+  "ara_nunez_poli____wa_chat_595981868718_92": {
+   "total_gaps": 57,
+   "ivan_repairs": 29,
+   "them_repairs": 28,
+   "max_gap": 0,
+   "total_gap_days": 1700.3999999999999,
+   "ivan_repair_ratio": 0.509
+  },
+  "14__friend_brasilia___wa_chat_595983822921_11297": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 162.89999999999998,
+   "ivan_repair_ratio": 1.0
+  },
+  "Alejandro_Maciel_mentormate": {
+   "total_gaps": 4,
+   "ivan_repairs": 2,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 594.5,
+   "ivan_repair_ratio": 0.5
+  },
+  "René_Pols_Poli": {
+   "total_gaps": 27,
+   "ivan_repairs": 21,
+   "them_repairs": 6,
+   "max_gap": 0,
+   "total_gap_days": 1428.3,
+   "ivan_repair_ratio": 0.778
+  },
+  "fidabel_poli____wa_chat_595984933862_1330": {
+   "total_gaps": 52,
+   "ivan_repairs": 18,
+   "them_repairs": 34,
+   "max_gap": 0,
+   "total_gap_days": 995.4999999999999,
+   "ivan_repair_ratio": 0.346
+  },
+  "Migue": {
+   "total_gaps": 14,
+   "ivan_repairs": 1,
+   "them_repairs": 13,
+   "max_gap": 0,
+   "total_gap_days": 289.2,
+   "ivan_repair_ratio": 0.071
+  },
+  "Ideline_Brisa_3": {
+   "total_gaps": 9,
+   "ivan_repairs": 6,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 962.3999999999999,
+   "ivan_repair_ratio": 0.667
+  },
+  "Mat": {
+   "total_gaps": 3,
+   "ivan_repairs": 2,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 794.6,
+   "ivan_repair_ratio": 0.667
+  },
+  "Joaquina_Ex": {
+   "total_gaps": 9,
+   "ivan_repairs": 4,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 218.20000000000005,
+   "ivan_repair_ratio": 0.444
+  },
+  "Natalia_Cruz": {
+   "total_gaps": 15,
+   "ivan_repairs": 10,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 747.5,
+   "ivan_repair_ratio": 0.667
+  },
+  "33__kiki_adjacent___wa_chat_595993553949_12779": {
+   "total_gaps": 4,
+   "ivan_repairs": 2,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 125.4,
+   "ivan_repair_ratio": 0.5
+  },
+  "Juanra_Ferreira": {
+   "total_gaps": 5,
+   "ivan_repairs": 0,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 106.3,
+   "ivan_repair_ratio": 0.0
+  },
+  "25__sexshop_companion___wa_chat_595976569739_2083": {
+   "total_gaps": 27,
+   "ivan_repairs": 19,
+   "them_repairs": 8,
+   "max_gap": 0,
+   "total_gap_days": 1189.8,
+   "ivan_repair_ratio": 0.704
+  },
+  "Shwarma": {
+   "total_gaps": 4,
+   "ivan_repairs": 3,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 691.9,
+   "ivan_repair_ratio": 0.75
+  },
+  "Camila_Pintora": {
+   "total_gaps": 10,
+   "ivan_repairs": 2,
+   "them_repairs": 8,
+   "max_gap": 0,
+   "total_gap_days": 805.1999999999999,
+   "ivan_repair_ratio": 0.2
+  },
+  "28__lilian_riveros___wa_chat_595983111686_3524": {
+   "total_gaps": 29,
+   "ivan_repairs": 20,
+   "them_repairs": 9,
+   "max_gap": 0,
+   "total_gap_days": 997.0000000000001,
+   "ivan_repair_ratio": 0.69
+  },
+  "Marco_Poli": {
+   "total_gaps": 20,
+   "ivan_repairs": 10,
+   "them_repairs": 10,
+   "max_gap": 0,
+   "total_gap_days": 1299.8000000000002,
+   "ivan_repair_ratio": 0.5
+  },
+  "daisy____wa_chat_595981459382_4380": {
+   "total_gaps": 8,
+   "ivan_repairs": 5,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 707.7,
+   "ivan_repair_ratio": 0.625
+  },
+  "benja": {
+   "total_gaps": 31,
+   "ivan_repairs": 10,
+   "them_repairs": 21,
+   "max_gap": 0,
+   "total_gap_days": 970.8000000000002,
+   "ivan_repair_ratio": 0.323
+  },
+  "Lucas_Germán": {
+   "total_gaps": 7,
+   "ivan_repairs": 3,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 927.8,
+   "ivan_repair_ratio": 0.429
+  },
+  "Maga": {
+   "total_gaps": 13,
+   "ivan_repairs": 10,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 338.8,
+   "ivan_repair_ratio": 0.769
+  },
+  "Magali_Dealer": {
+   "total_gaps": 36,
+   "ivan_repairs": 17,
+   "them_repairs": 19,
+   "max_gap": 0,
+   "total_gap_days": 1044.3999999999999,
+   "ivan_repair_ratio": 0.472
+  },
+  "lucia_diaz____wa_chat_595991549029_1956": {
+   "total_gaps": 53,
+   "ivan_repairs": 19,
+   "them_repairs": 34,
+   "max_gap": 0,
+   "total_gap_days": 791.0,
+   "ivan_repair_ratio": 0.358
+  },
+  "Guillermo_Paiva": {
+   "total_gaps": 5,
+   "ivan_repairs": 4,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 1262.1,
+   "ivan_repair_ratio": 0.8
+  },
+  "Anna_Rodas_van_der_Pol": {
+   "total_gaps": 17,
+   "ivan_repairs": 3,
+   "them_repairs": 14,
+   "max_gap": 0,
+   "total_gap_days": 609.7,
+   "ivan_repair_ratio": 0.176
+  },
+  "Alexander_van_der_Pol": {
+   "total_gaps": 16,
+   "ivan_repairs": 6,
+   "them_repairs": 10,
+   "max_gap": 0,
+   "total_gap_days": 1246.0,
+   "ivan_repair_ratio": 0.375
+  },
+  "Sebastián_Aguilera": {
+   "total_gaps": 13,
+   "ivan_repairs": 7,
+   "them_repairs": 6,
+   "max_gap": 0,
+   "total_gap_days": 1341.6000000000001,
+   "ivan_repair_ratio": 0.538
+  },
+  "Lazzerini_Pizzs": {
+   "total_gaps": 15,
+   "ivan_repairs": 12,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 879.5,
+   "ivan_repair_ratio": 0.8
+  },
+  "José_Villalba_Lugo": {
+   "total_gaps": 11,
+   "ivan_repairs": 6,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 927.2,
+   "ivan_repair_ratio": 0.545
+  },
+  "40__victor_urgent___wa_chat_595981473912_1762": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 999.2,
+   "ivan_repair_ratio": 1.0
+  },
+  "Natasha": {
+   "total_gaps": 6,
+   "ivan_repairs": 3,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 1346.2,
+   "ivan_repair_ratio": 0.5
+  },
+  "adri____wa_chat_595985249907_9628": {
+   "total_gaps": 7,
+   "ivan_repairs": 3,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 236.09999999999997,
+   "ivan_repair_ratio": 0.429
+  },
+  "Eros_Dios_Del_Sexo": {
+   "total_gaps": 11,
+   "ivan_repairs": 10,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 555.5,
+   "ivan_repair_ratio": 0.909
+  },
+  "emilio_poli____wa_chat_595981925772_1253": {
+   "total_gaps": 61,
+   "ivan_repairs": 26,
+   "them_repairs": 35,
+   "max_gap": 0,
+   "total_gap_days": 1038.4000000000003,
+   "ivan_repair_ratio": 0.426
+  },
+  "uncle_antonio_toni_lopez_weiss___wa_chat_15055778339_2872": {
+   "total_gaps": 17,
+   "ivan_repairs": 5,
+   "them_repairs": 12,
+   "max_gap": 0,
+   "total_gap_days": 1101.6,
+   "ivan_repair_ratio": 0.294
+  },
+  "maia____wa_chat_595994341668_1955": {
+   "total_gaps": 24,
+   "ivan_repairs": 9,
+   "them_repairs": 15,
+   "max_gap": 0,
+   "total_gap_days": 1067.3000000000002,
+   "ivan_repair_ratio": 0.375
+  },
+  "Grido_Ingavi": {
+   "total_gaps": 4,
+   "ivan_repairs": 4,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 814.9,
+   "ivan_repair_ratio": 1.0
+  },
+  "16__friend_alvaro___wa_chat_595962291837_9625": {
+   "total_gaps": 14,
+   "ivan_repairs": 8,
+   "them_repairs": 6,
+   "max_gap": 0,
+   "total_gap_days": 219.39999999999998,
+   "ivan_repair_ratio": 0.571
+  },
+  "Nara_Mongelós": {
+   "total_gaps": 4,
+   "ivan_repairs": 1,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 455.5,
+   "ivan_repair_ratio": 0.25
+  },
+  "Alejandra": {
+   "total_gaps": 6,
+   "ivan_repairs": 3,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 773.9000000000001,
+   "ivan_repair_ratio": 0.5
+  },
+  "Ferrex": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 224.3,
+   "ivan_repair_ratio": 1.0
+  },
+  "Noe_Ortiz": {
+   "total_gaps": 3,
+   "ivan_repairs": 2,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 228.89999999999998,
+   "ivan_repair_ratio": 0.667
+  },
+  "Gomeria_Ingavi_Criss": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 349.3,
+   "ivan_repair_ratio": 1.0
+  },
+  "Héctor_Gonzales_IEN": {
+   "total_gaps": 6,
+   "ivan_repairs": 3,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 363.3,
+   "ivan_repair_ratio": 0.5
+  },
+  "Bold_Adventures_Paraguay": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 10.9,
+   "ivan_repair_ratio": 1.0
+  },
+  "063__p1732___wa_chat_595985951732_1722": {
+   "total_gaps": 5,
+   "ivan_repairs": 3,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 152.29999999999998,
+   "ivan_repair_ratio": 0.6
+  },
+  "Patiño": {
+   "total_gaps": 3,
+   "ivan_repairs": 3,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 206.9,
+   "ivan_repair_ratio": 1.0
+  },
+  "075__p0258___wa_chat_595983240258_3008": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 52.4,
+   "ivan_repair_ratio": 0.5
+  },
+  "Dra_Wilma": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 40.9,
+   "ivan_repair_ratio": 1.0
+  },
+  "071__gerardo_ramos___wa_chat_595982783951_6901": {
+   "total_gaps": 6,
+   "ivan_repairs": 5,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 553.8,
+   "ivan_repair_ratio": 0.833
+  },
+  "Vet_Cerca_De_Weisshoyse": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 449.7,
+   "ivan_repair_ratio": 0.5
+  },
+  "Luis_Gilberto_Salinas": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 58.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Devon_Robinson": {
+   "total_gaps": 3,
+   "ivan_repairs": 0,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 96.2,
+   "ivan_repair_ratio": 0.0
+  },
+  "Bacon_Burgers": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 23.3,
+   "ivan_repair_ratio": 1.0
+  },
+  "086__p1410___wa_chat_595984401410_4438": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 819.3,
+   "ivan_repair_ratio": 1.0
+  },
+  "Jacque": {
+   "total_gaps": 6,
+   "ivan_repairs": 3,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 1097.5,
+   "ivan_repair_ratio": 0.5
+  },
+  "084__p6193___wa_chat_595991506193_3099": {
+   "total_gaps": 9,
+   "ivan_repairs": 3,
+   "them_repairs": 6,
+   "max_gap": 0,
+   "total_gap_days": 253.1,
+   "ivan_repair_ratio": 0.333
+  },
+  "Buco_Bogado_Poli": {
+   "total_gaps": 8,
+   "ivan_repairs": 4,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 627.5,
+   "ivan_repair_ratio": 0.5
+  },
+  "Vet_Cerca_De_Casa_Dra_Mirna_Espinola": {
+   "total_gaps": 3,
+   "ivan_repairs": 3,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 356.79999999999995,
+   "ivan_repair_ratio": 1.0
+  },
+  "094__p9300___wa_chat_595984729300_9919": {
+   "total_gaps": 4,
+   "ivan_repairs": 4,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 88.7,
+   "ivan_repair_ratio": 1.0
+  },
+  "elias____wa_chat_595985383004_10373": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 66.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "Ogr": {
+   "total_gaps": 4,
+   "ivan_repairs": 0,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 44.900000000000006,
+   "ivan_repair_ratio": 0.0
+  },
+  "Guille_Pamplona": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 394.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "070__p9265___wa_chat_595976409265_2838": {
+   "total_gaps": 8,
+   "ivan_repairs": 4,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 128.5,
+   "ivan_repair_ratio": 0.5
+  },
+  "Pet_Planet": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 387.70000000000005,
+   "ivan_repair_ratio": 0.5
+  },
+  "067__p7353___wa_chat_595973757353_1731": {
+   "total_gaps": 10,
+   "ivan_repairs": 2,
+   "them_repairs": 8,
+   "max_gap": 0,
+   "total_gap_days": 555.6,
+   "ivan_repair_ratio": 0.2
+  },
+  "Taberna_La_Trocha": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 270.5,
+   "ivan_repair_ratio": 0.0
+  },
+  "hugo_mentormate___wa_chat_595981656962_3522": {
+   "total_gaps": 14,
+   "ivan_repairs": 6,
+   "them_repairs": 8,
+   "max_gap": 0,
+   "total_gap_days": 683.7,
+   "ivan_repair_ratio": 0.429
+  },
+  "057__p3241___wa_chat_595982223241_11521": {
+   "total_gaps": 16,
+   "ivan_repairs": 12,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 218.70000000000002,
+   "ivan_repair_ratio": 0.75
+  },
+  "089__p5974___wa_chat_595982925974_9881": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 278.6,
+   "ivan_repair_ratio": 0.0
+  },
+  "Carlos_Oviedo": {
+   "total_gaps": 4,
+   "ivan_repairs": 0,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 223.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "mario_gueyraud____wa_chat_595991705424_1202": {
+   "total_gaps": 13,
+   "ivan_repairs": 5,
+   "them_repairs": 8,
+   "max_gap": 0,
+   "total_gap_days": 705.1999999999999,
+   "ivan_repair_ratio": 0.385
+  },
+  "Belén_Fratts_Officina": {
+   "total_gaps": 4,
+   "ivan_repairs": 2,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 685.0,
+   "ivan_repair_ratio": 0.5
+  },
+  "Ana_Esposa_De_Sander": {
+   "total_gaps": 5,
+   "ivan_repairs": 2,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 1401.5,
+   "ivan_repair_ratio": 0.4
+  },
+  "Mymba_Roga": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 271.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Diego_Emanuel_Duarte": {
+   "total_gaps": 4,
+   "ivan_repairs": 2,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 832.6,
+   "ivan_repair_ratio": 0.5
+  },
+  "Facebook_Cerdo": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 278.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "piter_lesme_poli____wa_chat_595972835716_1244": {
+   "total_gaps": 19,
+   "ivan_repairs": 18,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 587.8000000000001,
+   "ivan_repair_ratio": 0.947
+  },
+  "Gibir_Banco_De_Semen": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 287.6,
+   "ivan_repair_ratio": 1.0
+  },
+  "078__p9447___wa_chat_595981459447_11190": {
+   "total_gaps": 4,
+   "ivan_repairs": 0,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 60.699999999999996,
+   "ivan_repair_ratio": 0.0
+  },
+  "099__p9143___wa_chat_595984689143_4130": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 43.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Raúl_Wichita": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 301.3,
+   "ivan_repair_ratio": 1.0
+  },
+  "Plub": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 17.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Profe_Diseño_De_Compil": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 46.2,
+   "ivan_repair_ratio": 1.0
+  },
+  "grandma_riet_van_der_pol___wa_chat_31612495139_98": {
+   "total_gaps": 34,
+   "ivan_repairs": 23,
+   "them_repairs": 11,
+   "max_gap": 0,
+   "total_gap_days": 1847.3999999999999,
+   "ivan_repair_ratio": 0.676
+  },
+  "059__álvaro_claro___wa_chat_595994442444_9596": {
+   "total_gaps": 16,
+   "ivan_repairs": 10,
+   "them_repairs": 6,
+   "max_gap": 0,
+   "total_gap_days": 374.3,
+   "ivan_repair_ratio": 0.625
+  },
+  "Wiliam_Gr": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 352.6,
+   "ivan_repair_ratio": 1.0
+  },
+  "Carlos_Urdapilleta": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 242.2,
+   "ivan_repair_ratio": 1.0
+  },
+  "088__p8658___wa_chat_595971758658_9805": {
+   "total_gaps": 6,
+   "ivan_repairs": 3,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 311.70000000000005,
+   "ivan_repair_ratio": 0.5
+  },
+  "Tasha": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 346.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Rosario_Ruiz": {
+   "total_gaps": 4,
+   "ivan_repairs": 4,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 591.0,
+   "ivan_repair_ratio": 1.0
+  },
+  "Brenda_Poli": {
+   "total_gaps": 5,
+   "ivan_repairs": 5,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 1402.6,
+   "ivan_repair_ratio": 1.0
+  },
+  "047__ueno_comprobante___wa_chat_595985909813_11354": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 7.7,
+   "ivan_repair_ratio": 1.0
+  },
+  "Belén_Jara": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 192.4,
+   "ivan_repair_ratio": 0.0
+  },
+  "053__p3709___wa_chat_31634463709_11777": {
+   "total_gaps": 12,
+   "ivan_repairs": 8,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 160.4,
+   "ivan_repair_ratio": 0.667
+  },
+  "Cliente_3d_Óscar_Rafa": {
+   "total_gaps": 5,
+   "ivan_repairs": 0,
+   "them_repairs": 5,
+   "max_gap": 0,
+   "total_gap_days": 716.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "Diego_Duarte": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 308.2,
+   "ivan_repair_ratio": 0.0
+  },
+  "Michi_CarameloAle_Góm": {
+   "total_gaps": 3,
+   "ivan_repairs": 3,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 42.8,
+   "ivan_repair_ratio": 1.0
+  },
+  "Antonio_Franch": {
+   "total_gaps": 3,
+   "ivan_repairs": 3,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 39.4,
+   "ivan_repair_ratio": 1.0
+  },
+  "Bacon_Villa_Morra": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 104.4,
+   "ivan_repair_ratio": 0.0
+  },
+  "093__p2272___wa_chat_595981262272_1550": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 205.7,
+   "ivan_repair_ratio": 1.0
+  },
+  "085__p5157___wa_chat_595981725157_11979": {
+   "total_gaps": 4,
+   "ivan_repairs": 1,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 65.9,
+   "ivan_repair_ratio": 0.25
+  },
+  "096__p0870___wa_chat_595981990870_2079": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 189.20000000000002,
+   "ivan_repair_ratio": 1.0
+  },
+  "yanny": {
+   "total_gaps": 6,
+   "ivan_repairs": 4,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 325.70000000000005,
+   "ivan_repair_ratio": 0.667
+  },
+  "Marlon_Miranda": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 320.6,
+   "ivan_repair_ratio": 0.0
+  },
+  "073__paloma___wa_chat_59899144505_2396": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 552.4,
+   "ivan_repair_ratio": 1.0
+  },
+  "Jose_Jsrdinero": {
+   "total_gaps": 5,
+   "ivan_repairs": 2,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 689.3,
+   "ivan_repair_ratio": 0.4
+  },
+  "Primo_Gabriel": {
+   "total_gaps": 3,
+   "ivan_repairs": 2,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 277.0,
+   "ivan_repair_ratio": 0.667
+  },
+  "051__p5809___wa_chat_595985435809_11371": {
+   "total_gaps": 3,
+   "ivan_repairs": 2,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 43.3,
+   "ivan_repair_ratio": 0.667
+  },
+  "Foneca": {
+   "total_gaps": 3,
+   "ivan_repairs": 2,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 76.7,
+   "ivan_repair_ratio": 0.667
+  },
+  "FARMATOTAL_-_Suc_Avda_Ingavi_Avda_Ingavi": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 178.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Alexander_Cañete": {
+   "total_gaps": 4,
+   "ivan_repairs": 1,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 677.4,
+   "ivan_repair_ratio": 0.25
+  },
+  "Pausanti_Burger": {
+   "total_gaps": 3,
+   "ivan_repairs": 3,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 70.8,
+   "ivan_repair_ratio": 1.0
+  },
+  "Luissushi": {
+   "total_gaps": 2,
+   "ivan_repairs": 0,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 37.5,
+   "ivan_repair_ratio": 0.0
+  },
+  "081__p7370___wa_chat_595983727370_1926": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 69.6,
+   "ivan_repair_ratio": 0.0
+  },
+  "Despensa_Esquina": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 39.9,
+   "ivan_repair_ratio": 1.0
+  },
+  "Prestamo_Query": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 45.0,
+   "ivan_repair_ratio": 1.0
+  },
+  "Nro_Ale_Request": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 67.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Consult_Query": {
+   "total_gaps": 3,
+   "ivan_repairs": 3,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 258.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "121__p4600___wa_chat_595971444600_9680": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 504.5,
+   "ivan_repair_ratio": 1.0
+  },
+  "Hello_More_Info_Query": {
+   "total_gaps": 2,
+   "ivan_repairs": 0,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 118.2,
+   "ivan_repair_ratio": 0.0
+  },
+  "Hola_Que_Tal_180": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 54.099999999999994,
+   "ivan_repair_ratio": 0.5
+  },
+  "118__p0431___wa_chat_595971200431_11186": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 14.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Nudo_Cliente_Chat": {
+   "total_gaps": 3,
+   "ivan_repairs": 2,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 22.1,
+   "ivan_repair_ratio": 0.667
+  },
+  "Adri_Referral_Quote": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 12.3,
+   "ivan_repair_ratio": 1.0
+  },
+  "Bueno_Dia_Chat": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 86.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Oli_Grindr_Brazil": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 278.5,
+   "ivan_repair_ratio": 0.0
+  },
+  "200__p4464___wa_chat_595985124464_11430": {
+   "total_gaps": 4,
+   "ivan_repairs": 3,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 165.0,
+   "ivan_repair_ratio": 0.75
+  },
+  "Neko_Friend_Chat": {
+   "total_gaps": 6,
+   "ivan_repairs": 3,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 226.6,
+   "ivan_repair_ratio": 0.5
+  },
+  "Discord_Friend": {
+   "total_gaps": 5,
+   "ivan_repairs": 3,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 193.4,
+   "ivan_repair_ratio": 0.6
+  },
+  "Uwuwu_Cute_Friend": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 70.7,
+   "ivan_repair_ratio": 0.5
+  },
+  "213__p9488___wa_chat_595986159488_9270": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 253.2,
+   "ivan_repair_ratio": 0.0
+  },
+  "Saffi_Farra": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 70.6,
+   "ivan_repair_ratio": 0.0
+  },
+  "Argentina_Uwuwu": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 15.2,
+   "ivan_repair_ratio": 0.0
+  },
+  "Thijs_Dutch_Guy_Chat": {
+   "total_gaps": 5,
+   "ivan_repairs": 3,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 79.0,
+   "ivan_repair_ratio": 0.6
+  },
+  "Saul_Goodman_Page": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 67.7,
+   "ivan_repair_ratio": 1.0
+  },
+  "235__p6040___wa_chat_595992036040_11693": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 147.8,
+   "ivan_repair_ratio": 1.0
+  },
+  "Buenas_Tardes_Ivan": {
+   "total_gaps": 2,
+   "ivan_repairs": 0,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 413.70000000000005,
+   "ivan_repair_ratio": 0.0
+  },
+  "Tamara_Tienda_Movil": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 72.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "Jose_Balcarse": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 12.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Hola_Ivan_Que_Tal": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 40.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "Gemini_Sharer": {
+   "total_gaps": 6,
+   "ivan_repairs": 6,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 108.9,
+   "ivan_repair_ratio": 1.0
+  },
+  "122__p4131___wa_chat_595971524131_2150": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 431.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "La_Luna_Es_Mia_Tienda": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 19.5,
+   "ivan_repair_ratio": 1.0
+  },
+  "After_Talentoso": {
+   "total_gaps": 9,
+   "ivan_repairs": 0,
+   "them_repairs": 9,
+   "max_gap": 0,
+   "total_gap_days": 241.9,
+   "ivan_repair_ratio": 0.0
+  },
+  "Vasectomia_Query": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 465.2,
+   "ivan_repair_ratio": 1.0
+  },
+  "Asistencia_Viajero_Query": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 16.0,
+   "ivan_repair_ratio": 1.0
+  },
+  "Vine_Con_Mama": {
+   "total_gaps": 4,
+   "ivan_repairs": 1,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 310.0,
+   "ivan_repair_ratio": 0.25
+  },
+  "148__p7023___wa_chat_595976777023_2027": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 24.1,
+   "ivan_repair_ratio": 0.5
+  },
+  "Sara": {
+   "total_gaps": 2,
+   "ivan_repairs": 0,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 38.5,
+   "ivan_repair_ratio": 0.0
+  },
+  "Jose_Insfran_Weiss": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 92.2,
+   "ivan_repair_ratio": 0.0
+  },
+  "Dolly_Sabanas": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 109.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Alejandra_Queretaro": {
+   "total_gaps": 3,
+   "ivan_repairs": 3,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 84.69999999999999,
+   "ivan_repair_ratio": 1.0
+  },
+  "138__p4744___wa_chat_595972994744_4768": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 260.5,
+   "ivan_repair_ratio": 0.5
+  },
+  "179__p0080___wa_chat_595983220080_2162": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 9.3,
+   "ivan_repair_ratio": 0.0
+  },
+  "Holaaaa_637": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 11.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Tigo_Bot_Liza": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 57.8,
+   "ivan_repair_ratio": 1.0
+  },
+  "Kunu_u": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 47.7,
+   "ivan_repair_ratio": 1.0
+  },
+  "202__p3897___wa_chat_595985343897_7621": {
+   "total_gaps": 2,
+   "ivan_repairs": 0,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 229.10000000000002,
+   "ivan_repair_ratio": 0.0
+  },
+  "WSP_Assist_00E9E00": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 8.3,
+   "ivan_repair_ratio": 1.0
+  },
+  "Fabricio_Mendoza_AIESEC": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 24.6,
+   "ivan_repair_ratio": 0.0
+  },
+  "Buenas_168p6355": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 254.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Skokka_Melik_Ad": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 30.2,
+   "ivan_repair_ratio": 1.0
+  },
+  "Holaaa_Chat": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 86.8,
+   "ivan_repair_ratio": 0.0
+  },
+  "252__p2888___wa_chat_595994922888_5114": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 210.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Oreja_Transversal_Piercing": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 155.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Cami_Amigo": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 118.7,
+   "ivan_repair_ratio": 0.0
+  },
+  "Angel_Gamarra_CS": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 8.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Peider_QA_Support": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 10.2,
+   "ivan_repair_ratio": 1.0
+  },
+  "Que_Tal_Chat": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 17.8,
+   "ivan_repair_ratio": 0.0
+  },
+  "Buenas_584": {
+   "total_gaps": 3,
+   "ivan_repairs": 0,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 323.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "Coffeecatpy_Insta": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 12.7,
+   "ivan_repair_ratio": 0.0
+  },
+  "Anna_Referral": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 555.9,
+   "ivan_repair_ratio": 0.5
+  },
+  "Piercing_Buyer": {
+   "total_gaps": 7,
+   "ivan_repairs": 7,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 120.80000000000001,
+   "ivan_repair_ratio": 1.0
+  },
+  "Saskia_Close_Friend": {
+   "total_gaps": 3,
+   "ivan_repairs": 0,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 917.2,
+   "ivan_repair_ratio": 0.0
+  },
+  "Cerri": {
+   "total_gaps": 4,
+   "ivan_repairs": 0,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 685.9000000000001,
+   "ivan_repair_ratio": 0.0
+  },
+  "Frutika_Delivery": {
+   "total_gaps": 2,
+   "ivan_repairs": 0,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 39.7,
+   "ivan_repair_ratio": 0.0
+  },
+  "INSIGNIA_07_Query": {
+   "total_gaps": 4,
+   "ivan_repairs": 1,
+   "them_repairs": 3,
+   "max_gap": 0,
+   "total_gap_days": 288.1,
+   "ivan_repair_ratio": 0.25
+  },
+  "Poke_Sushi_Delivery_2": {
+   "total_gaps": 2,
+   "ivan_repairs": 0,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 77.0,
+   "ivan_repair_ratio": 0.0
+  },
+  "Nataly_Stoner_Friend": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 164.0,
+   "ivan_repair_ratio": 0.5
+  },
+  "Holaaa_224": {
+   "total_gaps": 6,
+   "ivan_repairs": 5,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 167.39999999999998,
+   "ivan_repair_ratio": 0.833
+  },
+  "Test_Automation_Experience": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 267.1,
+   "ivan_repair_ratio": 0.0
+  },
+  "Delivery_Query": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 249.9,
+   "ivan_repair_ratio": 1.0
+  },
+  "Cesar": {
+   "total_gaps": 12,
+   "ivan_repairs": 8,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 332.1000000000001,
+   "ivan_repair_ratio": 0.667
+  },
+  "Kiki_Referral_Wes": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 18.8,
+   "ivan_repair_ratio": 0.0
+  },
+  "Grindr_Contact": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 8.4,
+   "ivan_repair_ratio": 0.0
+  },
+  "De_Donde_Sos_Amigo": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 57.1,
+   "ivan_repair_ratio": 1.0
+  },
+  "Uber_Crashea_Casa": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 7.9,
+   "ivan_repair_ratio": 0.0
+  },
+  "199__p7697___wa_chat_595984917697_2941": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 7.6,
+   "ivan_repair_ratio": 0.0
+  },
+  "Soy_Solo_Chat": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 12.5,
+   "ivan_repair_ratio": 1.0
+  },
+  "Kink_Castigos_Friend": {
+   "total_gaps": 1,
+   "ivan_repairs": 1,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 24.9,
+   "ivan_repair_ratio": 1.0
+  },
+  "Hola_nnn_Friend": {
+   "total_gaps": 4,
+   "ivan_repairs": 0,
+   "them_repairs": 4,
+   "max_gap": 0,
+   "total_gap_days": 283.2,
+   "ivan_repair_ratio": 0.0
+  },
+  "Sivling_Chat": {
+   "total_gaps": 3,
+   "ivan_repairs": 1,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 29.3,
+   "ivan_repair_ratio": 0.333
+  },
+  "johana_candidate___wa_chat_595971179825_3698": {
+   "total_gaps": 2,
+   "ivan_repairs": 0,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 129.6,
+   "ivan_repair_ratio": 0.0
+  },
+  "Consulta_Agenda": {
+   "total_gaps": 2,
+   "ivan_repairs": 2,
+   "them_repairs": 0,
+   "max_gap": 0,
+   "total_gap_days": 62.5,
+   "ivan_repair_ratio": 1.0
+  },
+  "Thais": {
+   "total_gaps": 1,
+   "ivan_repairs": 0,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 12.7,
+   "ivan_repair_ratio": 0.0
+  },
+  "Foodie_Friend": {
+   "total_gaps": 2,
+   "ivan_repairs": 1,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 16.9,
+   "ivan_repair_ratio": 0.5
+  },
+  "Cloud_Nyx": {
+   "total_gaps": 4,
+   "ivan_repairs": 2,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 46.3,
+   "ivan_repair_ratio": 0.5
+  },
+  "Kinesiologo": {
+   "total_gaps": 5,
+   "ivan_repairs": 4,
+   "them_repairs": 1,
+   "max_gap": 0,
+   "total_gap_days": 61.2,
+   "ivan_repair_ratio": 0.8
+  },
+  "Kink_Artist": {
+   "total_gaps": 4,
+   "ivan_repairs": 2,
+   "them_repairs": 2,
+   "max_gap": 0,
+   "total_gap_days": 114.4,
+   "ivan_repair_ratio": 0.5
+  }
+ },
+ "all_gaps_sample": [
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 18.8,
+   "from_ivan": false,
+   "gap_start": "2020-10-12T06:17:09.435000+00:00",
+   "gap_end": "2020-10-31T01:09:03+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.3,
+   "from_ivan": false,
+   "gap_start": "2020-11-24T21:38:28.170000+00:00",
+   "gap_end": "2020-12-02T04:26:06+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.2,
+   "from_ivan": true,
+   "gap_start": "2020-12-07T16:28:02+00:00",
+   "gap_end": "2020-12-19T20:25:46.518000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 13.9,
+   "from_ivan": true,
+   "gap_start": "2021-01-07T20:10:20+00:00",
+   "gap_end": "2021-01-21T18:34:57.903000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 11.4,
+   "from_ivan": false,
+   "gap_start": "2021-01-30T17:47:54+00:00",
+   "gap_end": "2021-02-11T02:53:32+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.6,
+   "from_ivan": false,
+   "gap_start": "2021-02-11T02:53:32+00:00",
+   "gap_end": "2021-02-19T17:08:53+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.1,
+   "from_ivan": true,
+   "gap_start": "2021-02-23T00:05:38+00:00",
+   "gap_end": "2021-03-05T01:28:39.808000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 23.6,
+   "from_ivan": true,
+   "gap_start": "2021-03-07T03:08:51+00:00",
+   "gap_end": "2021-03-30T16:47:26+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 11.0,
+   "from_ivan": false,
+   "gap_start": "2021-03-30T18:03:34.779000+00:00",
+   "gap_end": "2021-04-10T18:07:12+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.1,
+   "from_ivan": true,
+   "gap_start": "2021-04-10T18:11:23.343000+00:00",
+   "gap_end": "2021-04-20T21:10:17+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 13.7,
+   "from_ivan": false,
+   "gap_start": "2021-04-22T20:11:00.285000+00:00",
+   "gap_end": "2021-05-06T12:59:05+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 14.8,
+   "from_ivan": false,
+   "gap_start": "2021-05-07T20:12:40+00:00",
+   "gap_end": "2021-05-22T14:20:58+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 21.9,
+   "from_ivan": true,
+   "gap_start": "2021-05-26T22:31:34+00:00",
+   "gap_end": "2021-06-17T19:13:59.965000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 15.3,
+   "from_ivan": false,
+   "gap_start": "2021-06-27T22:27:01.862000+00:00",
+   "gap_end": "2021-07-13T04:29:18+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.2,
+   "from_ivan": false,
+   "gap_start": "2021-07-26T15:05:11+00:00",
+   "gap_end": "2021-08-05T21:03:10+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.2,
+   "from_ivan": false,
+   "gap_start": "2021-08-06T19:27:46+00:00",
+   "gap_end": "2021-08-19T00:18:34+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.5,
+   "from_ivan": true,
+   "gap_start": "2021-08-20T16:13:38.173000+00:00",
+   "gap_end": "2021-08-29T04:49:09.013000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.0,
+   "from_ivan": false,
+   "gap_start": "2021-09-03T23:02:41+00:00",
+   "gap_end": "2021-09-10T23:24:24+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.4,
+   "from_ivan": true,
+   "gap_start": "2021-10-01T17:04:07+00:00",
+   "gap_end": "2021-10-10T02:14:53+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 11.6,
+   "from_ivan": true,
+   "gap_start": "2021-11-19T03:47:25+00:00",
+   "gap_end": "2021-11-30T18:16:51+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 9.9,
+   "from_ivan": false,
+   "gap_start": "2021-12-20T14:22:24+00:00",
+   "gap_end": "2021-12-30T11:14:08+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.4,
+   "from_ivan": true,
+   "gap_start": "2022-02-11T16:22:18+00:00",
+   "gap_end": "2022-02-19T01:55:53+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.2,
+   "from_ivan": false,
+   "gap_start": "2022-04-27T16:54:41+00:00",
+   "gap_end": "2022-05-04T22:07:06+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.3,
+   "from_ivan": false,
+   "gap_start": "2022-07-02T16:01:10+00:00",
+   "gap_end": "2022-07-10T23:40:07+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.8,
+   "from_ivan": true,
+   "gap_start": "2022-07-22T23:55:54.786000+00:00",
+   "gap_end": "2022-08-04T18:02:06+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.6,
+   "from_ivan": false,
+   "gap_start": "2022-09-29T02:16:12.964000+00:00",
+   "gap_end": "2022-10-07T16:39:00+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 69.7,
+   "from_ivan": false,
+   "gap_start": "2022-10-11T19:02:41.271000+00:00",
+   "gap_end": "2022-12-20T11:27:43+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.6,
+   "from_ivan": false,
+   "gap_start": "2023-01-17T05:52:04.196000+00:00",
+   "gap_end": "2023-01-24T19:11:22+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 24.0,
+   "from_ivan": false,
+   "gap_start": "2023-01-29T15:10:27.812000+00:00",
+   "gap_end": "2023-02-22T15:56:23+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.2,
+   "from_ivan": false,
+   "gap_start": "2023-03-01T19:31:00+00:00",
+   "gap_end": "2023-03-09T00:10:03+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 11.8,
+   "from_ivan": false,
+   "gap_start": "2023-03-25T02:32:35.834000+00:00",
+   "gap_end": "2023-04-05T21:06:58+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.6,
+   "from_ivan": false,
+   "gap_start": "2023-04-10T22:08:24+00:00",
+   "gap_end": "2023-04-21T11:54:58+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.8,
+   "from_ivan": false,
+   "gap_start": "2023-05-09T02:50:18+00:00",
+   "gap_end": "2023-05-17T22:17:12+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.1,
+   "from_ivan": true,
+   "gap_start": "2023-06-14T22:47:48+00:00",
+   "gap_end": "2023-06-27T00:30:06.874000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 13.3,
+   "from_ivan": true,
+   "gap_start": "2023-06-29T15:17:51.506000+00:00",
+   "gap_end": "2023-07-12T23:23:01.118000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.2,
+   "from_ivan": false,
+   "gap_start": "2023-07-21T12:25:38.512000+00:00",
+   "gap_end": "2023-07-31T16:43:15+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 20.5,
+   "from_ivan": true,
+   "gap_start": "2023-08-06T07:45:49.553000+00:00",
+   "gap_end": "2023-08-26T19:32:49.740000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 16.2,
+   "from_ivan": false,
+   "gap_start": "2023-09-02T16:45:42.934000+00:00",
+   "gap_end": "2023-09-18T21:40:40+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 13.8,
+   "from_ivan": true,
+   "gap_start": "2023-09-21T03:52:54+00:00",
+   "gap_end": "2023-10-04T23:33:21+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 27.9,
+   "from_ivan": false,
+   "gap_start": "2023-11-04T17:34:05+00:00",
+   "gap_end": "2023-12-02T14:14:35+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.7,
+   "from_ivan": true,
+   "gap_start": "2023-12-03T04:42:46.109000+00:00",
+   "gap_end": "2023-12-15T20:46:51.592000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.7,
+   "from_ivan": false,
+   "gap_start": "2023-12-22T20:29:33+00:00",
+   "gap_end": "2023-12-30T13:26:12+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 22.9,
+   "from_ivan": false,
+   "gap_start": "2023-12-31T21:29:41.455000+00:00",
+   "gap_end": "2024-01-23T19:24:16+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 15.8,
+   "from_ivan": false,
+   "gap_start": "2024-01-23T20:42:51+00:00",
+   "gap_end": "2024-02-08T15:24:21+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 14.0,
+   "from_ivan": false,
+   "gap_start": "2024-02-20T23:28:06+00:00",
+   "gap_end": "2024-03-05T23:43:17+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 28.7,
+   "from_ivan": false,
+   "gap_start": "2024-03-20T19:34:39+00:00",
+   "gap_end": "2024-04-18T12:50:04+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 15.8,
+   "from_ivan": false,
+   "gap_start": "2024-04-27T00:13:04+00:00",
+   "gap_end": "2024-05-12T19:31:23+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 16.4,
+   "from_ivan": false,
+   "gap_start": "2024-05-13T13:51:45.839000+00:00",
+   "gap_end": "2024-05-29T23:11:01+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 17.1,
+   "from_ivan": true,
+   "gap_start": "2024-05-30T13:47:11+00:00",
+   "gap_end": "2024-06-16T17:03:29.438000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.3,
+   "from_ivan": false,
+   "gap_start": "2024-06-16T17:03:29.438000+00:00",
+   "gap_end": "2024-06-24T23:19:51+00:00"
+  }
+ ],
+ "all_repairs_sample": [
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.2,
+   "gap_start": "2020-12-07T16:28:02+00:00",
+   "gap_end": "2020-12-19T20:25:46.518000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 13.9,
+   "gap_start": "2021-01-07T20:10:20+00:00",
+   "gap_end": "2021-01-21T18:34:57.903000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.1,
+   "gap_start": "2021-02-23T00:05:38+00:00",
+   "gap_end": "2021-03-05T01:28:39.808000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 23.6,
+   "gap_start": "2021-03-07T03:08:51+00:00",
+   "gap_end": "2021-03-30T16:47:26+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.1,
+   "gap_start": "2021-04-10T18:11:23.343000+00:00",
+   "gap_end": "2021-04-20T21:10:17+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 21.9,
+   "gap_start": "2021-05-26T22:31:34+00:00",
+   "gap_end": "2021-06-17T19:13:59.965000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.5,
+   "gap_start": "2021-08-20T16:13:38.173000+00:00",
+   "gap_end": "2021-08-29T04:49:09.013000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 8.4,
+   "gap_start": "2021-10-01T17:04:07+00:00",
+   "gap_end": "2021-10-10T02:14:53+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 11.6,
+   "gap_start": "2021-11-19T03:47:25+00:00",
+   "gap_end": "2021-11-30T18:16:51+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.4,
+   "gap_start": "2022-02-11T16:22:18+00:00",
+   "gap_end": "2022-02-19T01:55:53+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.8,
+   "gap_start": "2022-07-22T23:55:54.786000+00:00",
+   "gap_end": "2022-08-04T18:02:06+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.1,
+   "gap_start": "2023-06-14T22:47:48+00:00",
+   "gap_end": "2023-06-27T00:30:06.874000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 13.3,
+   "gap_start": "2023-06-29T15:17:51.506000+00:00",
+   "gap_end": "2023-07-12T23:23:01.118000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 20.5,
+   "gap_start": "2023-08-06T07:45:49.553000+00:00",
+   "gap_end": "2023-08-26T19:32:49.740000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 13.8,
+   "gap_start": "2023-09-21T03:52:54+00:00",
+   "gap_end": "2023-10-04T23:33:21+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 12.7,
+   "gap_start": "2023-12-03T04:42:46.109000+00:00",
+   "gap_end": "2023-12-15T20:46:51.592000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 17.1,
+   "gap_start": "2024-05-30T13:47:11+00:00",
+   "gap_end": "2024-06-16T17:03:29.438000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.7,
+   "gap_start": "2024-08-09T23:08:21.592000+00:00",
+   "gap_end": "2024-08-20T16:30:46.617000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 11.4,
+   "gap_start": "2024-09-13T10:22:39+00:00",
+   "gap_end": "2024-09-24T19:49:36+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 10.7,
+   "gap_start": "2024-10-08T22:48:13+00:00",
+   "gap_end": "2024-10-19T15:08:02.455000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.0,
+   "gap_start": "2025-03-17T15:55:41+00:00",
+   "gap_end": "2025-03-24T16:51:36+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.3,
+   "gap_start": "2025-05-09T14:05:45+00:00",
+   "gap_end": "2025-05-16T20:58:51+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 14.8,
+   "gap_start": "2025-07-24T03:07:45+00:00",
+   "gap_end": "2025-08-07T21:27:49.649000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.2,
+   "gap_start": "2026-03-15T07:17:07.293000+00:00",
+   "gap_end": "2026-03-22T10:53:57.581000+00:00"
+  },
+  {
+   "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+   "tier": "tier1_deep",
+   "gap_days": 7.5,
+   "gap_start": "2026-03-28T05:12:10+00:00",
+   "gap_end": "2026-04-04T17:22:42.698000+00:00"
+  },
+  {
+   "chat": "06__p4569___wa_chat_595981324569_1092",
+   "tier": "tier1_deep",
+   "gap_days": 93.7,
+   "gap_start": "2024-08-31T23:40:08.931000+00:00",
+   "gap_end": "2024-12-03T16:03:21.841000+00:00"
+  },
+  {
+   "chat": "06__p4569___wa_chat_595981324569_1092",
+   "tier": "tier1_deep",
+   "gap_days": 400.1,
+   "gap_start": "2024-12-03T16:03:21.841000+00:00",
+   "gap_end": "2026-01-07T18:54:55.379000+00:00"
+  },
+  {
+   "chat": "06__p4569___wa_chat_595981324569_1092",
+   "tier": "tier1_deep",
+   "gap_days": 28.3,
+   "gap_start": "2026-01-07T18:54:55.379000+00:00",
+   "gap_end": "2026-02-05T02:17:32+00:00"
+  },
+  {
+   "chat": "06__p4569___wa_chat_595981324569_1092",
+   "tier": "tier1_deep",
+   "gap_days": 21.5,
+   "gap_start": "2026-02-13T18:42:56+00:00",
+   "gap_end": "2026-03-07T07:29:43+00:00"
+  },
+  {
+   "chat": "magali_carreras_amiga_fpuna____wa_chat_595981225272_62",
+   "tier": "tier1_deep",
+   "gap_days": 10.5,
+   "gap_start": "2020-10-17T17:34:09.944000+00:00",
+   "gap_end": "2020-10-28T04:55:14.087000+00:00"
+  }
+ ]
+}
