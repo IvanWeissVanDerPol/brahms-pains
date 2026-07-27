@@ -101,6 +101,8 @@ All served from `SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/`:
 | Dashboard | URL | Description |
 |-----------|-----|-------------|
 | **Analysis Hub** | `index.html` | Start here — links all dashboards |
+| **🩺 Psychologist Brief** | `psychologist_brief.html` | **NEW** — pre-session interactive brief |
+| **📅 Friendship Timeline** | `timeline_dashboard.html` | **NEW** — 7-year conversation history |
 | **Voice Notes** | `voice_notes_dashboard.html` | 17k+ voice notes analyzed |
 | **Transcript Search** | `transcript_search.html` | Search across 1.4M words |
 | **Relationships** | `relationships_dashboard.html` | 216 contacts scored 0-100 (rebuilt 2026-07-27) |
@@ -111,7 +113,38 @@ All served from `SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/`:
 
 ---
 
-## 👥 The 7 Main Friends (verified)
+## 🔬 6 NEW Empirical Analyses (2026-07-27)
+
+| Analysis | Output File | Feeds Hats | Key Finding |
+|----------|------------|-----------|-------------|
+| **Time Patterns** | `time_patterns.json` | 1, 6, 22 | 32% late-night baseline |
+| **Initiator** | `initiator_analysis.json` | 1, 4 | 48.4% Ivan repair rate |
+| **Recency** | `recency_heatmap.json` | 1, 31 | 13 abandoned tier1/tier2 |
+| **Conversation Timeline** | `conversation_timeline.json` | 14, 16 | 2026 peak year |
+| **VNT Sentiment** | `vnt_sentiment.json` | 1, 7, 22 | Lourdes most emotional |
+| **Voice vs Text** | `voice_vs_text.json` | 7, 32 | Family voice, kink text |
+| **Grief (Hat 31)** | `grief_analysis.json` | 31 | 13 abandoned categorized |
+| **Repair (Hat 1, 4)** | `conversation_repair.json` | 1, 4 | Lourdes 594-day reunion |
+
+---
+
+## 🩺 2026-07-27 New Clinical Docs
+
+| Doc | Purpose |
+|-----|---------|
+| `TREATMENT/SESSION_UPDATE_FOR_PSYCHOLOGIST_2026-07-27.md` | Full pre-session brief |
+| `TREATMENT/SESSION_CHEAT_SHEET_2026-07-27.md` | 1-page printable |
+| `TREATMENT/CASE_CONCEPTUALIZATION_UPDATE_2026-07-27.md` | Updated theoretical framework |
+| `EMPIRICAL_PROFILE_COMPLETE_2026-07-27.md` | Synthesis of 6 analyses |
+| `RELATIONSHIPS/CONVERSATION_TIMELINE_2026-07-27.md` | 7-year friendship timeline |
+| `RELATIONSHIPS/dynamics/EMPIRICAL_SUMMARY_2026-07-27.md` | Top 10 profiles with metrics |
+| `CORE_PSYCHOLOGY/grief_analysis/HAT_31_GRIEF_LOSS_ANALYSIS.md` | Grief deep dive |
+| `CORE_PSYCHOLOGY/attachment_patterns/HAT_1_4_CONVERSATION_REPAIR.md` | Repair patterns |
+| `docs/ANALYSIS_PLAN_2026-07-27.md` | 24 future analyses identified |
+
+---
+
+## 📋 The 7 Main Friends (verified)
 
 1. **Ale** (Alejandro Cabral Poli) — score 72.5 CLOSE, 23k msgs, RISING
 2. **Kuki** (Kiki Weiss Hermana) — score 71.4 CLOSE, 7.8k msgs, sister, COOLING
@@ -189,12 +222,14 @@ These are now gitignored but exist in the working tree. **Move to private repo o
 
 ## 🗓️ Last Cleanups
 
+- **2026-07-27**: 6 empirical analyses complete + comprehensive synthesis
+- **2026-07-27**: 9 new clinical docs (grief, repair, brief, cheat sheet, etc.)
+- **2026-07-27**: 9 new analysis scripts (time, initiator, recency, grief, repair, etc.)
 - **2026-07-27**: 100% naming coverage on wa_messages (951) + VNT (267)
 - **2026-07-27**: Created `_newsletters` tier (7 broadcasts)
 - **2026-07-27**: 196 chats rescued from `_dropped` to proper tiers
 - **2026-07-27**: 70 contacts promoted tier3 → tier2
 - **2026-07-27**: Cleanup report published (CLEANUP_REPORT_2026-07-27.md)
-- **2026-07-27**: 16 new cleanup scripts added to scripts/
 - **2026-07-25**: Moved top-level .md to docs/, added .gitignore rules
 - **2026-07-25**: Created this INDEX.md
 - **2026-07-25**: REPO_ROAST_AUDIT.md published
