@@ -422,3 +422,39 @@ This chat proves Ivan CAN express vulnerability verbally when:
 - [ARA_NUNEZ_POLI.md](./ARA_NUNEZ_POLI.md) - Another balanced friendship
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - **Full collection of Ivan's psychological expressions from this chat**
 - [DEEP_EXTRACTION_REPORT.md](../../SOURCE_OF_TRUTH/DEEP_EXTRACTION_REPORT.md) - Complete extraction analysis
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `jonathan_verdun___wa_chat_595971922708_3654`
+**Tier**: tier1_deep
+**Last contact**: 23 days ago (THIS_MONTH)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 34,526 | Volume tier |
+| **Late-night ratio** (22-04h) | 24.8% | Rumination pattern |
+| **Ivan initiator ratio** | 32.3% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 27.2% | Engagement pattern |
+| **Peak hour** | 18h | When contact is most active |
+| **Peak day** | Wednesday | Weekly cycle |
+| **Max message streak** | 75 days | Engagement intensity |
+| **Median response time** | 20s | Responsiveness |
+
+### Clinical Interpretation
+
+- **Below-baseline late-night** (24.8%): This relationship doesn't trigger Ivan's night-mode as much as baseline.
+- **They chase Ivan** (32.3%): Ivan receives more than initiates. Possible avoidance OR being pursued OR passive partner.
+- **They start 72.8% of conversations**: They carry the relational load.
+- **Moderate streak** (75 days): Solid engagement period.
+- **Fast responder** (20s median): High availability.
+- **Recent** (23d): Recently active.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap

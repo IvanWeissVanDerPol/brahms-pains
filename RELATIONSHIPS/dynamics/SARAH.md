@@ -410,3 +410,38 @@ Moving from unreciprocated service (Laura) to reciprocal kink (Sarah) shows grow
 **Last Updated:** January 31, 2026  
 **Status:** Preliminary Analysis - Audio Transcription Pending  
 **Priority:** High - Largest new data source
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `Sarah_S_Neon_Furry_B-Day_Party`
+**Tier**: tier4_groups
+**Last contact**: 7 days ago (THIS_WEEK)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 2,838 | Volume tier |
+| **Late-night ratio** (22-04h) | 43.2% | Rumination pattern |
+| **Ivan initiator ratio** | 1.8% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 0.0% | Engagement pattern |
+| **Peak hour** | 21h | When contact is most active |
+| **Peak day** | Tuesday | Weekly cycle |
+| **Max message streak** | 17 days | Engagement intensity |
+| **Median response time** | 13s | Responsiveness |
+
+### Clinical Interpretation
+
+- **Moderate late-night pattern** (43.2%): Higher than 32% baseline; this relationship pulls Ivan into night-mode more than average.
+- **They chase Ivan** (1.8%): Ivan receives more than initiates. Possible avoidance OR being pursued OR passive partner.
+- **They start 100.0% of conversations**: They carry the relational load.
+- **Fast responder** (13s median): High availability.
+- **Active** (7d): Currently in conversation.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap

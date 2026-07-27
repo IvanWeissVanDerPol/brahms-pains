@@ -442,3 +442,38 @@ The bot channel is not silent about the human Mike — it edits his site, plans 
 
 - Human Mike / Miki / Nyx — masajista, kinesio student, birthday Jan 28, chatname coincidentally "Nyx" — is the subject of THIS file.
 - Bot Nyx / openclaw — Ivan's WhatsApp-bridged agent — is the subject of THIS APPENDIX ONLY. If a future tier1 chat is again labeled with p4569 or JID 595981324569, it will still be the bot channel; do not merge its message log into the human Mike's psychological profile.
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `Cloud_Nyx`
+**Tier**: other_lid
+**Last contact**: 21 days ago (THIS_MONTH)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 3,539 | Volume tier |
+| **Late-night ratio** (22-04h) | 52.6% | Rumination pattern |
+| **Ivan initiator ratio** | 14.8% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 56.0% | Engagement pattern |
+| **Peak hour** | 23h | When contact is most active |
+| **Peak day** | Saturday | Weekly cycle |
+| **Max message streak** | 8 days | Engagement intensity |
+| **Median response time** | 18s | Responsiveness |
+
+### Clinical Interpretation
+
+- **Dispositional late-night pattern** (52.6%): Ivan's contact with this person is heavily late-night. Suggests rumination or co-regulation at night.
+- **They chase Ivan** (14.8%): Ivan receives more than initiates. Possible avoidance OR being pursued OR passive partner.
+- **Conversation starts balanced** (56.0%): Reciprocal conversation initiation.
+- **Fast responder** (18s median): High availability.
+- **Recent** (21d): Recently active.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap

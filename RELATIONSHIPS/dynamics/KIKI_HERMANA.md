@@ -154,3 +154,38 @@ Kiki is a node in four active Weiss family group chats. Coordination frequently 
 5. **Kiki's engineering track future.** She's technically competent (RustDesk install, syllabus feedback, requirements gathering with clients). If IAE track completes, she becomes an aerospace engineer, not a business-services generalist. That will pull her away from paragu-ai unless the business becomes worth staying for. Ivan hasn't articulated a plan around this.
 6. **Boundary permeability.** Ivan shares production `root` credentials, kink links, and adult contacts with her. The relationship is one of the healthiest in his top-10, but its lack of any protective filter also means there is no fallback if it fractures. No documented boundary tests to reference.
 7. **Her own romantic/emotional life.** Almost invisible in Ivan's outgoing register — he does not ask about her partners, therapy, or internal state as often as she asks about his. The relationship is caretaker-shaped even when reciprocation happens. Worth naming.
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `sister_kyrian_kiki___wa_chat_595985724135_111`
+**Tier**: tier1_deep
+**Last contact**: 7 days ago (THIS_WEEK)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 7,838 | Volume tier |
+| **Late-night ratio** (22-04h) | 37.0% | Rumination pattern |
+| **Ivan initiator ratio** | 49.1% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 40.0% | Engagement pattern |
+| **Peak hour** | 19h | When contact is most active |
+| **Peak day** | Friday | Weekly cycle |
+| **Max message streak** | 10 days | Engagement intensity |
+| **Median response time** | 40s | Responsiveness |
+
+### Clinical Interpretation
+
+- **Moderate late-night pattern** (37.0%): Higher than 32% baseline; this relationship pulls Ivan into night-mode more than average.
+- **Balanced** (49.1%): Reciprocal engagement. Healthy attachment indicator.
+- **Conversation starts balanced** (40.0%): Reciprocal conversation initiation.
+- **Fast responder** (40s median): High availability.
+- **Active** (7d): Currently in conversation.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap

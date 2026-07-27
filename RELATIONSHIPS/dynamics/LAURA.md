@@ -440,3 +440,38 @@ Regex counts across all texts (rough, single-file scan):
 
 6. **The "Comparison to Other Relationships" table row for Laura says `Care Received: Minimal`.** The post-breakup pattern (Sept 2025 health check-ins with concrete medical advice) suggests Laura *can* extend care once the relational stakes are lower. This does not invalidate the fistula-incident wound, but it complicates the model of her as globally incapable of care — the incapacity appears situationally specific to being-his-partner + her-mother-in-crisis, not a stable trait.
 
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `laura____wa_chat_595976538689_3231`
+**Tier**: tier1_deep
+**Last contact**: 17 days ago (THIS_MONTH)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 23,105 | Volume tier |
+| **Late-night ratio** (22-04h) | 39.6% | Rumination pattern |
+| **Ivan initiator ratio** | 51.1% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 46.5% | Engagement pattern |
+| **Peak hour** | 3h | When contact is most active |
+| **Peak day** | Saturday | Weekly cycle |
+| **Max message streak** | 145 days | Engagement intensity |
+| **Median response time** | 1.3min | Responsiveness |
+
+### Clinical Interpretation
+
+- **Moderate late-night pattern** (39.6%): Higher than 32% baseline; this relationship pulls Ivan into night-mode more than average.
+- **Balanced** (51.1%): Reciprocal engagement. Healthy attachment indicator.
+- **Conversation starts balanced** (46.5%): Reciprocal conversation initiation.
+- **Long streak** (145 days): Indicates intense engagement period. Could be honeymoon OR crisis-bonding.
+- **Recent** (17d): Recently active.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap

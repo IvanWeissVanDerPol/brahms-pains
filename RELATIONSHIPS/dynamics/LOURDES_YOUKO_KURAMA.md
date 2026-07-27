@@ -380,3 +380,38 @@ Lourdes represents Ivan's capacity for physical intimacy without emotional vulne
 ### New signal not in existing profile
 
 Lourdes is now studying psychology (4° año, clinical/humanistic orientation) and pastes drafted psychological reports of herself into the chat for Ivan to react to. **The relationship has mutated into a mirror**: she is professionalizing the language of her own dysfunction while Ivan feeds her clinical framings of her outside relationships. Both use ChatGPT-generated psychological analyses of each other and of third parties as a shared genre. This is a new dynamic post-2024 not captured anywhere in the existing document.
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `05__lourdes_youko_kurama___wa_chat_595981791823_1683`
+**Tier**: tier1_deep
+**Last contact**: 7 days ago (THIS_WEEK)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 16,905 | Volume tier |
+| **Late-night ratio** (22-04h) | 35.3% | Rumination pattern |
+| **Ivan initiator ratio** | 50.3% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 46.0% | Engagement pattern |
+| **Peak hour** | 20h | When contact is most active |
+| **Peak day** | Monday | Weekly cycle |
+| **Max message streak** | 55 days | Engagement intensity |
+| **Median response time** | 1.5min | Responsiveness |
+
+### Clinical Interpretation
+
+- **Moderate late-night pattern** (35.3%): Higher than 32% baseline; this relationship pulls Ivan into night-mode more than average.
+- **Balanced** (50.3%): Reciprocal engagement. Healthy attachment indicator.
+- **Conversation starts balanced** (46.0%): Reciprocal conversation initiation.
+- **Moderate streak** (55 days): Solid engagement period.
+- **Active** (7d): Currently in conversation.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap

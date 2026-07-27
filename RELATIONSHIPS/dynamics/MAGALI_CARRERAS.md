@@ -433,3 +433,39 @@ Maga articulating an external read of Ivan's partner-behavior: "360 boyfriend, d
 ### Trajectory summary
 
 Academic caretaker → dormant colleague-of-life → **mutual adult confidant with unusually low defenses**. The 2025-2026 traffic is the first period in the corpus where Ivan is *not* primarily performing service — he is receiving support (HIV disclosure), asking for input (partner spec), and disclosing sexuality freely (BDSM, kuki). The Fixer / Mask framing from the earlier sections is accurate for 2020-2022 but should not be extended to the current phase without qualification.
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `magali_carreras_amiga_fpuna____wa_chat_595981225272_62`
+**Tier**: tier1_deep
+**Last contact**: 12 days ago (THIS_MONTH)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 28,457 | Volume tier |
+| **Late-night ratio** (22-04h) | 39.9% | Rumination pattern |
+| **Ivan initiator ratio** | 52.7% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 44.5% | Engagement pattern |
+| **Peak hour** | 23h | When contact is most active |
+| **Peak day** | Wednesday | Weekly cycle |
+| **Max message streak** | 42 days | Engagement intensity |
+| **Median response time** | 21s | Responsiveness |
+
+### Clinical Interpretation
+
+- **Moderate late-night pattern** (39.9%): Higher than 32% baseline; this relationship pulls Ivan into night-mode more than average.
+- **Balanced** (52.7%): Reciprocal engagement. Healthy attachment indicator.
+- **Conversation starts balanced** (44.5%): Reciprocal conversation initiation.
+- **Moderate streak** (42 days): Solid engagement period.
+- **Fast responder** (21s median): High availability.
+- **Recent** (12d): Recently active.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap

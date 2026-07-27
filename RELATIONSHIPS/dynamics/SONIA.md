@@ -164,3 +164,37 @@ Sonia Edith Weiss López (Mom) ─── married to ─── John van der Pol (
 ```
 
 **Sonia's maiden name**: Weiss López. Per Ivan, Toni Weiss (the previous "Dad" assignment) is actually her brother and Ivan's uncle.
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `mom_sonia_weiss___wa_chat_595982515138_64`
+**Tier**: tier1_deep
+**Last contact**: 8 days ago (THIS_MONTH)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 11,305 | Volume tier |
+| **Late-night ratio** (22-04h) | 29.7% | Rumination pattern |
+| **Ivan initiator ratio** | 50.3% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 34.7% | Engagement pattern |
+| **Peak hour** | 23h | When contact is most active |
+| **Peak day** | Tuesday | Weekly cycle |
+| **Max message streak** | 21 days | Engagement intensity |
+| **Median response time** | 1.2min | Responsiveness |
+
+### Clinical Interpretation
+
+- **Below-baseline late-night** (29.7%): This relationship doesn't trigger Ivan's night-mode as much as baseline.
+- **Balanced** (50.3%): Reciprocal engagement. Healthy attachment indicator.
+- **They start 65.3% of conversations**: They carry the relational load.
+- **Recent** (8d): Recently active.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap

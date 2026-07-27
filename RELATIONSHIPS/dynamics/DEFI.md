@@ -374,3 +374,37 @@ This wisdom about "can't force someone to change" applies to Ivan himself - he k
 - [HOW_KINK_FUNCTIONS.md](../../KINK_AND_INTIMACY/permission_structures/HOW_KINK_FUNCTIONS.md) - Permission structure context
 - [JONATAN_VERDUN.md](./JONATAN_VERDUN.md) - Where Ivan's breakup processing voice notes are
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's psychological expressions from voice notes
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Source chat**: `fidabel_poli____wa_chat_595984933862_1330`
+**Tier**: tier2_core
+**Last contact**: 39 days ago (THIS_QUARTER)
+
+### Communication Patterns
+
+| Metric | Value | Clinical Reading |
+|--------|-------|------------------|
+| **Total messages** | 2,877 | Volume tier |
+| **Late-night ratio** (22-04h) | 44.3% | Rumination pattern |
+| **Ivan initiator ratio** | 50.4% | Pursuit/withdrawal |
+| **Ivan starts conversations** | 33.2% | Engagement pattern |
+| **Peak hour** | 23h | When contact is most active |
+| **Peak day** | Friday | Weekly cycle |
+| **Max message streak** | 8 days | Engagement intensity |
+| **Median response time** | 1.1min | Responsiveness |
+
+### Clinical Interpretation
+
+- **Moderate late-night pattern** (44.3%): Higher than 32% baseline; this relationship pulls Ivan into night-mode more than average.
+- **Balanced** (50.4%): Reciprocal engagement. Healthy attachment indicator.
+- **They start 66.8% of conversations**: They carry the relational load.
+- **Cooling** (39d): May be drifting.
+
+### Cross-Reference
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `_ANALYSIS/initiator_analysis.json` — Conversation patterns
+- `_ANALYSIS/recency_heatmap.json` — Recency heatmap
