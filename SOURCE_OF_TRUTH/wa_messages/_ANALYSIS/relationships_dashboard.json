@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T14:46:15.696534",
+ "generated_at": "2026-07-27T15:21:48.224170",
  "weights": {
   "volume": 0.15,
   "recency": 0.15,
@@ -15,7 +15,7 @@
  "tier_counts": {
   "CLOSE": 12,
   "ACTIVE": 17,
-  "WARM": 18,
+  "WARM": 17,
   "DORMANT": 3
  },
  "scored": [
@@ -1304,39 +1304,6 @@
     "emoji": 20,
     "sentiment": 51.7,
     "activity": 60
-   }
-  },
-  {
-   "jid": "595984409200",
-   "name": "Estudio Medieval",
-   "tier": "WARM",
-   "total_msgs": 58,
-   "stats": {
-    "total": 58,
-    "ivan_total": 28,
-    "them_total": 30,
-    "days_since_last": 637,
-    "avg_ivan_reply": 584.3333333333334,
-    "avg_them_reply": 248.7,
-    "audio_ratio": 0.06896551724137931,
-    "longest_streak": 1,
-    "span_days": 249,
-    "sentiment_ivan": 1.0,
-    "sentiment_them": 0.0,
-    "emoji_density": 0.017241379310344827
-   },
-   "score": 44.2,
-   "breakdown": {
-    "volume": 26.5,
-    "recency": 5,
-    "reciprocity": 96.6,
-    "latency": 70,
-    "streak": 5,
-    "longevity": 60,
-    "audio": 60,
-    "emoji": 20,
-    "sentiment": 75.0,
-    "activity": 30
    }
   },
   {

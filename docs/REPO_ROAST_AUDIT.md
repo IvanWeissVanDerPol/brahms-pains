@@ -6,7 +6,7 @@
 
 ## The Roast (Harsh Truth)
 
-Your repo is **2.0GB, 368 .md files, 2475 .json files, 89 .py scripts, 251 contact profiles, 1,571 directories** — and it shows the symptoms of:
+Your repo is **3.5GB, ~390 .md files, ~2700 .json files, 83 .py scripts, 386 contact profiles, ~2,500 directories** — and it shows the symptoms of:
 1. **AI-agent-overproduction**: 89 Python scripts, 16 of them in `_legacy/` and many duplicates
 2. **Naming chaos**: `tier1_deep`, `tier2_core`, `tier3_extended`, `tier4_groups`, `untiered_personal`, `_dropped`, `other_lid`, `circles` — 8 categories for chat folders, some empty
 3. **Voice-note transcript duplication**: Same chat has 3 different name patterns:
@@ -15,7 +15,7 @@ Your repo is **2.0GB, 368 .md files, 2475 .json files, 89 .py scripts, 251 conta
    - `chat_595976538689_3231` (numbered)
 4. **3 places do the same thing**: `scripts/`, `src/`, `src/scripts/` — overlapping
 5. **Top-level clutter**: `IPIP-NEO-120-Ivan.xlsx`, `MMPI2-Ivan.xlsx`, `PSYCHOLOGICAL_ANALYSIS_20HATS.*` (md+html), `MAIN_FRIENDS.md`, `CONSISTENCY_AUDIT.md`, `REPOSITORY_INCONSISTENCY_REPORT.md` — all should be in `docs/`
-6. **251 profile stubs**: Many of them are auto-generated garbage, only ~20 are real profiles with depth
+6. **386 contact profiles** (34 deep + 218 stubs + 134 curated/archived): Many of them are auto-generated, only ~34 are real profiles with depth
 7. **Hidden config files**: `.omo/`, `.opencode/`, `.hermes/` — agent state, not source
 8. **No clear entry point**: README is 8KB, but where do you start? `index.html`? A specific profile? The hub?
 
@@ -75,16 +75,17 @@ wa_messages/
 ├── _ANALYSIS/          ← 30+ JSON dashboards
 ├── _conversations/     ← ???? (empty? what's it for?)
 ├── _dropped/           ← 643 chats
-├── circles/            ← ???? (Google circles?)
-├── other_lid/          ← 10 chats
-├── tier1_deep/         ← 12 chats (close)
-├── tier2_core/         ← 31 chats
-├── tier3_extended/     ← 63 chats
-├── tier4_groups/       ← 42 chats
-└── untiered_personal/  ← 153 chats
+| `SOURCE_OF_TRUTH/wa_messages/` | ~500M | Chats | 951 chat directories (100% named) |
+├── _dropped/           ← 267 chats (low-signal)
+├── _newsletters/       ← 7 broadcast channels (NEW 2026-07-27)
+├── tier1_deep/         ← 11 chats (close)
+├── tier2_core/         ← 75 chats
+├── tier3_extended/     ← 119 chats
+├── tier4_groups/       ← 158 chats
+└── untiered_personal/  ← 304 chats (all named as of 2026-07-27)
 ```
 
-**Question**: Why 8 categories? Why is `_conversations/` and `circles/` here? Is `_dropped` a real category or a graveyard?
+**Resolution (2026-07-27)**: 9 categories now (added `_newsletters`). `_conversations/` consolidated (was 75, now 0 — moved to proper tiers). `circles/` was merged into `_dropped` in earlier cleanup.
 
 ### 4. **251 profile stubs of variable quality**
 
