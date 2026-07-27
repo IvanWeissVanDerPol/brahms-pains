@@ -1,0 +1,5499 @@
+{
+ "generated_at": "2026-07-27T17:26:51.151009",
+ "total_chats_analyzed": 549,
+ "audio_heavy_count": 81,
+ "text_heavy_count": 306,
+ "balanced_count": 4,
+ "per_chat": {
+  "sister_kyrian_kiki___wa_chat_595985724135_111": {
+   "tier": "tier1_deep",
+   "total_msgs": 7838,
+   "voice_notes": 552,
+   "text_msgs": 6731,
+   "media_msgs": 555,
+   "voice_pct": 0.07,
+   "text_pct": 0.859,
+   "audio_intensity": 5.5
+  },
+  "06__p4569___wa_chat_595981324569_1092": {
+   "tier": "tier1_deep",
+   "total_msgs": 663,
+   "voice_notes": 1,
+   "text_msgs": 659,
+   "media_msgs": 3,
+   "voice_pct": 0.002,
+   "text_pct": 0.994,
+   "audio_intensity": 0.0
+  },
+  "magali_carreras_amiga_fpuna____wa_chat_595981225272_62": {
+   "tier": "tier1_deep",
+   "total_msgs": 28457,
+   "voice_notes": 3175,
+   "text_msgs": 23376,
+   "media_msgs": 1906,
+   "voice_pct": 0.112,
+   "text_pct": 0.821,
+   "audio_intensity": 31.8
+  },
+  "02__p8816___wa_chat_595983008816_9253": {
+   "tier": "tier1_deep",
+   "total_msgs": 325,
+   "voice_notes": 0,
+   "text_msgs": 325,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Grandpa_Jan_Van_Der_Pol": {
+   "tier": "tier1_deep",
+   "total_msgs": 60,
+   "voice_notes": 0,
+   "text_msgs": 1,
+   "media_msgs": 59,
+   "voice_pct": 0.0,
+   "text_pct": 0.017,
+   "audio_intensity": 0
+  },
+  "05__lourdes_youko_kurama___wa_chat_595981791823_1683": {
+   "tier": "tier1_deep",
+   "total_msgs": 16905,
+   "voice_notes": 2261,
+   "text_msgs": 13448,
+   "media_msgs": 1196,
+   "voice_pct": 0.134,
+   "text_pct": 0.796,
+   "audio_intensity": 22.6
+  },
+  "jonathan_verdun___wa_chat_595971922708_3654": {
+   "tier": "tier1_deep",
+   "total_msgs": 34526,
+   "voice_notes": 1674,
+   "text_msgs": 31593,
+   "media_msgs": 1259,
+   "voice_pct": 0.048,
+   "text_pct": 0.915,
+   "audio_intensity": 16.7
+  },
+  "laura____wa_chat_595976538689_3231": {
+   "tier": "tier1_deep",
+   "total_msgs": 23105,
+   "voice_notes": 2921,
+   "text_msgs": 18777,
+   "media_msgs": 1407,
+   "voice_pct": 0.126,
+   "text_pct": 0.813,
+   "audio_intensity": 29.2
+  },
+  "11__gabriella_gp___wa_export_2026": {
+   "tier": "tier1_deep",
+   "total_msgs": 5971,
+   "voice_notes": 1114,
+   "text_msgs": 4495,
+   "media_msgs": 362,
+   "voice_pct": 0.187,
+   "text_pct": 0.753,
+   "audio_intensity": 11.1
+  },
+  "10__alejandro_cabral___wa_chat_595972130867_49": {
+   "tier": "tier1_deep",
+   "total_msgs": 23000,
+   "voice_notes": 991,
+   "text_msgs": 19379,
+   "media_msgs": 2630,
+   "voice_pct": 0.043,
+   "text_pct": 0.843,
+   "audio_intensity": 9.9
+  },
+  "mom_sonia_weiss___wa_chat_595982515138_64": {
+   "tier": "tier1_deep",
+   "total_msgs": 11305,
+   "voice_notes": 1727,
+   "text_msgs": 8318,
+   "media_msgs": 1260,
+   "voice_pct": 0.153,
+   "text_pct": 0.736,
+   "audio_intensity": 17.3
+  },
+  "qa_impostor_friend___wa_chat_595981258488_3525": {
+   "tier": "tier2_core",
+   "total_msgs": 1327,
+   "voice_notes": 98,
+   "text_msgs": 1179,
+   "media_msgs": 50,
+   "voice_pct": 0.074,
+   "text_pct": 0.888,
+   "audio_intensity": 1.0
+  },
+  "Profe_Gcc": {
+   "tier": "tier2_core",
+   "total_msgs": 194,
+   "voice_notes": 17,
+   "text_msgs": 171,
+   "media_msgs": 6,
+   "voice_pct": 0.088,
+   "text_pct": 0.881,
+   "audio_intensity": 0.2
+  },
+  "Mark_Lorey": {
+   "tier": "tier2_core",
+   "total_msgs": 471,
+   "voice_notes": 111,
+   "text_msgs": 318,
+   "media_msgs": 42,
+   "voice_pct": 0.236,
+   "text_pct": 0.675,
+   "audio_intensity": 1.1
+  },
+  "Nathaly_Schinini": {
+   "tier": "tier2_core",
+   "total_msgs": 366,
+   "voice_notes": 13,
+   "text_msgs": 335,
+   "media_msgs": 18,
+   "voice_pct": 0.036,
+   "text_pct": 0.915,
+   "audio_intensity": 0.1
+  },
+  "Génesis": {
+   "tier": "tier2_core",
+   "total_msgs": 1100,
+   "voice_notes": 66,
+   "text_msgs": 996,
+   "media_msgs": 38,
+   "voice_pct": 0.06,
+   "text_pct": 0.905,
+   "audio_intensity": 0.7
+  },
+  "dad_john_van_der_pol___wa_chat_595986138387_1265": {
+   "tier": "tier2_core",
+   "total_msgs": 1864,
+   "voice_notes": 38,
+   "text_msgs": 1739,
+   "media_msgs": 87,
+   "voice_pct": 0.02,
+   "text_pct": 0.933,
+   "audio_intensity": 0.4
+  },
+  "fran____wa_chat_595986805654_1271": {
+   "tier": "tier2_core",
+   "total_msgs": 7392,
+   "voice_notes": 718,
+   "text_msgs": 6223,
+   "media_msgs": 451,
+   "voice_pct": 0.097,
+   "text_pct": 0.842,
+   "audio_intensity": 7.2
+  },
+  "Ester": {
+   "tier": "tier2_core",
+   "total_msgs": 20,
+   "voice_notes": 4,
+   "text_msgs": 16,
+   "media_msgs": 0,
+   "voice_pct": 0.2,
+   "text_pct": 0.8,
+   "audio_intensity": 0.0
+  },
+  "Hospital_Bautista": {
+   "tier": "tier2_core",
+   "total_msgs": 82,
+   "voice_notes": 0,
+   "text_msgs": 74,
+   "media_msgs": 8,
+   "voice_pct": 0.0,
+   "text_pct": 0.902,
+   "audio_intensity": 0
+  },
+  "Adrian": {
+   "tier": "tier2_core",
+   "total_msgs": 206,
+   "voice_notes": 21,
+   "text_msgs": 179,
+   "media_msgs": 6,
+   "voice_pct": 0.102,
+   "text_pct": 0.869,
+   "audio_intensity": 0.2
+  },
+  "Don_Cangrejo_Poli": {
+   "tier": "tier2_core",
+   "total_msgs": 642,
+   "voice_notes": 17,
+   "text_msgs": 594,
+   "media_msgs": 31,
+   "voice_pct": 0.026,
+   "text_pct": 0.925,
+   "audio_intensity": 0.2
+  },
+  "matias_winter____wa_chat_595984690946_3704": {
+   "tier": "tier2_core",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 18,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "22__cesar_poli___wa_chat_595991470829_106": {
+   "tier": "tier2_core",
+   "total_msgs": 3157,
+   "voice_notes": 126,
+   "text_msgs": 2800,
+   "media_msgs": 231,
+   "voice_pct": 0.04,
+   "text_pct": 0.887,
+   "audio_intensity": 1.3
+  },
+  "Enrique_Sanchez": {
+   "tier": "tier2_core",
+   "total_msgs": 753,
+   "voice_notes": 18,
+   "text_msgs": 710,
+   "media_msgs": 25,
+   "voice_pct": 0.024,
+   "text_pct": 0.943,
+   "audio_intensity": 0.2
+  },
+  "Cliente_3d_Edgar_Fpuna": {
+   "tier": "tier2_core",
+   "total_msgs": 1420,
+   "voice_notes": 74,
+   "text_msgs": 1162,
+   "media_msgs": 184,
+   "voice_pct": 0.052,
+   "text_pct": 0.818,
+   "audio_intensity": 0.7
+  },
+  "Mathias_Barrios": {
+   "tier": "tier2_core",
+   "total_msgs": 1468,
+   "voice_notes": 28,
+   "text_msgs": 1399,
+   "media_msgs": 41,
+   "voice_pct": 0.019,
+   "text_pct": 0.953,
+   "audio_intensity": 0.3
+  },
+  "guitar_friend___wa_chat_595985725871_86": {
+   "tier": "tier2_core",
+   "total_msgs": 4121,
+   "voice_notes": 316,
+   "text_msgs": 3233,
+   "media_msgs": 572,
+   "voice_pct": 0.077,
+   "text_pct": 0.785,
+   "audio_intensity": 3.2
+  },
+  "Consultorio_Duerksen": {
+   "tier": "tier2_core",
+   "total_msgs": 191,
+   "voice_notes": 0,
+   "text_msgs": 154,
+   "media_msgs": 37,
+   "voice_pct": 0.0,
+   "text_pct": 0.806,
+   "audio_intensity": 0
+  },
+  "23__friend_uwu___wa_chat_595985340001_2439": {
+   "tier": "tier2_core",
+   "total_msgs": 4098,
+   "voice_notes": 278,
+   "text_msgs": 3500,
+   "media_msgs": 320,
+   "voice_pct": 0.068,
+   "text_pct": 0.854,
+   "audio_intensity": 2.8
+  },
+  "30__kansas_springbreak___wa_chat_595972209763_2943": {
+   "tier": "tier2_core",
+   "total_msgs": 1171,
+   "voice_notes": 35,
+   "text_msgs": 1065,
+   "media_msgs": 71,
+   "voice_pct": 0.03,
+   "text_pct": 0.909,
+   "audio_intensity": 0.3
+  },
+  "Gerold_Manders": {
+   "tier": "tier2_core",
+   "total_msgs": 139,
+   "voice_notes": 1,
+   "text_msgs": 120,
+   "media_msgs": 18,
+   "voice_pct": 0.007,
+   "text_pct": 0.863,
+   "audio_intensity": 0.0
+  },
+  "Bianca_MM": {
+   "tier": "tier2_core",
+   "total_msgs": 612,
+   "voice_notes": 16,
+   "text_msgs": 576,
+   "media_msgs": 20,
+   "voice_pct": 0.026,
+   "text_pct": 0.941,
+   "audio_intensity": 0.2
+  },
+  "Javier_Vecino": {
+   "tier": "tier2_core",
+   "total_msgs": 466,
+   "voice_notes": 44,
+   "text_msgs": 383,
+   "media_msgs": 39,
+   "voice_pct": 0.094,
+   "text_pct": 0.822,
+   "audio_intensity": 0.4
+  },
+  "27__lic_sanni_lalla___wa_chat_595986418879_1688": {
+   "tier": "tier2_core",
+   "total_msgs": 896,
+   "voice_notes": 61,
+   "text_msgs": 700,
+   "media_msgs": 135,
+   "voice_pct": 0.068,
+   "text_pct": 0.781,
+   "audio_intensity": 0.6
+  },
+  "Jose_S": {
+   "tier": "tier2_core",
+   "total_msgs": 52,
+   "voice_notes": 8,
+   "text_msgs": 43,
+   "media_msgs": 1,
+   "voice_pct": 0.154,
+   "text_pct": 0.827,
+   "audio_intensity": 0.1
+  },
+  "cami_maidana____wa_chat_595982510082_1723": {
+   "tier": "tier2_core",
+   "total_msgs": 1432,
+   "voice_notes": 81,
+   "text_msgs": 1284,
+   "media_msgs": 67,
+   "voice_pct": 0.057,
+   "text_pct": 0.897,
+   "audio_intensity": 0.8
+  },
+  "junior_nazi____wa_chat_595984160109_1257": {
+   "tier": "tier2_core",
+   "total_msgs": 2697,
+   "voice_notes": 90,
+   "text_msgs": 2245,
+   "media_msgs": 362,
+   "voice_pct": 0.033,
+   "text_pct": 0.832,
+   "audio_intensity": 0.9
+  },
+  "duckba": {
+   "tier": "tier2_core",
+   "total_msgs": 101,
+   "voice_notes": 0,
+   "text_msgs": 98,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.97,
+   "audio_intensity": 0
+  },
+  "38__friend_arrival___wa_chat_595986464184_1811": {
+   "tier": "tier2_core",
+   "total_msgs": 1392,
+   "voice_notes": 60,
+   "text_msgs": 1255,
+   "media_msgs": 77,
+   "voice_pct": 0.043,
+   "text_pct": 0.902,
+   "audio_intensity": 0.6
+  },
+  "34__friend_simple___wa_chat_595973572212_1994": {
+   "tier": "tier2_core",
+   "total_msgs": 2236,
+   "voice_notes": 46,
+   "text_msgs": 1945,
+   "media_msgs": 245,
+   "voice_pct": 0.021,
+   "text_pct": 0.87,
+   "audio_intensity": 0.5
+  },
+  "Prima_Mikaela_Weiss": {
+   "tier": "tier2_core",
+   "total_msgs": 272,
+   "voice_notes": 94,
+   "text_msgs": 166,
+   "media_msgs": 12,
+   "voice_pct": 0.346,
+   "text_pct": 0.61,
+   "audio_intensity": 0.9
+  },
+  "35__friend_photos___wa_chat_595986868241_10607": {
+   "tier": "tier2_core",
+   "total_msgs": 726,
+   "voice_notes": 63,
+   "text_msgs": 583,
+   "media_msgs": 80,
+   "voice_pct": 0.087,
+   "text_pct": 0.803,
+   "audio_intensity": 0.6
+  },
+  "Camilo_Amarilla": {
+   "tier": "tier2_core",
+   "total_msgs": 218,
+   "voice_notes": 2,
+   "text_msgs": 182,
+   "media_msgs": 34,
+   "voice_pct": 0.009,
+   "text_pct": 0.835,
+   "audio_intensity": 0.0
+  },
+  "Jessica_Chena": {
+   "tier": "tier2_core",
+   "total_msgs": 589,
+   "voice_notes": 24,
+   "text_msgs": 522,
+   "media_msgs": 43,
+   "voice_pct": 0.041,
+   "text_pct": 0.886,
+   "audio_intensity": 0.2
+  },
+  "sister_luana_weiss___wa_chat_595985725366_99": {
+   "tier": "tier2_core",
+   "total_msgs": 2788,
+   "voice_notes": 424,
+   "text_msgs": 1824,
+   "media_msgs": 540,
+   "voice_pct": 0.152,
+   "text_pct": 0.654,
+   "audio_intensity": 4.2
+  },
+  "ara_nunez_poli____wa_chat_595981868718_92": {
+   "tier": "tier2_core",
+   "total_msgs": 3985,
+   "voice_notes": 230,
+   "text_msgs": 3563,
+   "media_msgs": 192,
+   "voice_pct": 0.058,
+   "text_pct": 0.894,
+   "audio_intensity": 2.3
+  },
+  "14__friend_brasilia___wa_chat_595983822921_11297": {
+   "tier": "tier2_core",
+   "total_msgs": 3898,
+   "voice_notes": 136,
+   "text_msgs": 3364,
+   "media_msgs": 398,
+   "voice_pct": 0.035,
+   "text_pct": 0.863,
+   "audio_intensity": 1.4
+  },
+  "Alejandro_Maciel_mentormate": {
+   "tier": "tier2_core",
+   "total_msgs": 92,
+   "voice_notes": 9,
+   "text_msgs": 80,
+   "media_msgs": 3,
+   "voice_pct": 0.098,
+   "text_pct": 0.87,
+   "audio_intensity": 0.1
+  },
+  "René_Pols_Poli": {
+   "tier": "tier2_core",
+   "total_msgs": 343,
+   "voice_notes": 14,
+   "text_msgs": 290,
+   "media_msgs": 39,
+   "voice_pct": 0.041,
+   "text_pct": 0.845,
+   "audio_intensity": 0.1
+  },
+  "fidabel_poli____wa_chat_595984933862_1330": {
+   "tier": "tier2_core",
+   "total_msgs": 2877,
+   "voice_notes": 105,
+   "text_msgs": 2599,
+   "media_msgs": 173,
+   "voice_pct": 0.036,
+   "text_pct": 0.903,
+   "audio_intensity": 1.1
+  },
+  "Migue": {
+   "tier": "tier2_core",
+   "total_msgs": 148,
+   "voice_notes": 10,
+   "text_msgs": 128,
+   "media_msgs": 10,
+   "voice_pct": 0.068,
+   "text_pct": 0.865,
+   "audio_intensity": 0.1
+  },
+  "Ideline_Brisa_3": {
+   "tier": "tier2_core",
+   "total_msgs": 1202,
+   "voice_notes": 20,
+   "text_msgs": 1006,
+   "media_msgs": 176,
+   "voice_pct": 0.017,
+   "text_pct": 0.837,
+   "audio_intensity": 0.2
+  },
+  "Mat": {
+   "tier": "tier2_core",
+   "total_msgs": 541,
+   "voice_notes": 5,
+   "text_msgs": 458,
+   "media_msgs": 78,
+   "voice_pct": 0.009,
+   "text_pct": 0.847,
+   "audio_intensity": 0.1
+  },
+  "Joaquina_Ex": {
+   "tier": "tier2_core",
+   "total_msgs": 940,
+   "voice_notes": 80,
+   "text_msgs": 830,
+   "media_msgs": 30,
+   "voice_pct": 0.085,
+   "text_pct": 0.883,
+   "audio_intensity": 0.8
+  },
+  "antono_insfran_compan____wa_chat_595984241789_1849": {
+   "tier": "tier2_core",
+   "total_msgs": 38,
+   "voice_notes": 0,
+   "text_msgs": 37,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.974,
+   "audio_intensity": 0
+  },
+  "Natalia_Cruz": {
+   "tier": "tier2_core",
+   "total_msgs": 217,
+   "voice_notes": 18,
+   "text_msgs": 192,
+   "media_msgs": 7,
+   "voice_pct": 0.083,
+   "text_pct": 0.885,
+   "audio_intensity": 0.2
+  },
+  "33__kiki_adjacent___wa_chat_595993553949_12779": {
+   "tier": "tier2_core",
+   "total_msgs": 2525,
+   "voice_notes": 121,
+   "text_msgs": 2306,
+   "media_msgs": 98,
+   "voice_pct": 0.048,
+   "text_pct": 0.913,
+   "audio_intensity": 1.2
+  },
+  "Juanra_Ferreira": {
+   "tier": "tier2_core",
+   "total_msgs": 1096,
+   "voice_notes": 13,
+   "text_msgs": 398,
+   "media_msgs": 685,
+   "voice_pct": 0.012,
+   "text_pct": 0.363,
+   "audio_intensity": 0.1
+  },
+  "25__sexshop_companion___wa_chat_595976569739_2083": {
+   "tier": "tier2_core",
+   "total_msgs": 1128,
+   "voice_notes": 47,
+   "text_msgs": 1015,
+   "media_msgs": 66,
+   "voice_pct": 0.042,
+   "text_pct": 0.9,
+   "audio_intensity": 0.5
+  },
+  "Shwarma": {
+   "tier": "tier2_core",
+   "total_msgs": 62,
+   "voice_notes": 0,
+   "text_msgs": 57,
+   "media_msgs": 5,
+   "voice_pct": 0.0,
+   "text_pct": 0.919,
+   "audio_intensity": 0
+  },
+  "Camila_Pintora": {
+   "tier": "tier2_core",
+   "total_msgs": 525,
+   "voice_notes": 21,
+   "text_msgs": 489,
+   "media_msgs": 15,
+   "voice_pct": 0.04,
+   "text_pct": 0.931,
+   "audio_intensity": 0.2
+  },
+  "28__lilian_riveros___wa_chat_595983111686_3524": {
+   "tier": "tier2_core",
+   "total_msgs": 604,
+   "voice_notes": 19,
+   "text_msgs": 551,
+   "media_msgs": 34,
+   "voice_pct": 0.031,
+   "text_pct": 0.912,
+   "audio_intensity": 0.2
+  },
+  "Marco_Poli": {
+   "tier": "tier2_core",
+   "total_msgs": 467,
+   "voice_notes": 20,
+   "text_msgs": 419,
+   "media_msgs": 28,
+   "voice_pct": 0.043,
+   "text_pct": 0.897,
+   "audio_intensity": 0.2
+  },
+  "daisy____wa_chat_595981459382_4380": {
+   "tier": "tier2_core",
+   "total_msgs": 327,
+   "voice_notes": 9,
+   "text_msgs": 301,
+   "media_msgs": 17,
+   "voice_pct": 0.028,
+   "text_pct": 0.92,
+   "audio_intensity": 0.1
+  },
+  "benja": {
+   "tier": "tier2_core",
+   "total_msgs": 537,
+   "voice_notes": 47,
+   "text_msgs": 467,
+   "media_msgs": 23,
+   "voice_pct": 0.088,
+   "text_pct": 0.87,
+   "audio_intensity": 0.5
+  },
+  "Lucas_Germán": {
+   "tier": "tier2_core",
+   "total_msgs": 409,
+   "voice_notes": 6,
+   "text_msgs": 299,
+   "media_msgs": 104,
+   "voice_pct": 0.015,
+   "text_pct": 0.731,
+   "audio_intensity": 0.1
+  },
+  "Maga": {
+   "tier": "tier2_core",
+   "total_msgs": 722,
+   "voice_notes": 47,
+   "text_msgs": 650,
+   "media_msgs": 25,
+   "voice_pct": 0.065,
+   "text_pct": 0.9,
+   "audio_intensity": 0.5
+  },
+  "Magali_Dealer": {
+   "tier": "tier2_core",
+   "total_msgs": 1293,
+   "voice_notes": 38,
+   "text_msgs": 1190,
+   "media_msgs": 65,
+   "voice_pct": 0.029,
+   "text_pct": 0.92,
+   "audio_intensity": 0.4
+  },
+  "lucia_diaz____wa_chat_595991549029_1956": {
+   "tier": "tier2_core",
+   "total_msgs": 5155,
+   "voice_notes": 240,
+   "text_msgs": 4589,
+   "media_msgs": 326,
+   "voice_pct": 0.047,
+   "text_pct": 0.89,
+   "audio_intensity": 2.4
+  },
+  "Guillermo_Paiva": {
+   "tier": "tier2_core",
+   "total_msgs": 97,
+   "voice_notes": 4,
+   "text_msgs": 89,
+   "media_msgs": 4,
+   "voice_pct": 0.041,
+   "text_pct": 0.918,
+   "audio_intensity": 0.0
+  },
+  "Anna_Rodas_van_der_Pol": {
+   "tier": "tier2_core",
+   "total_msgs": 453,
+   "voice_notes": 12,
+   "text_msgs": 377,
+   "media_msgs": 64,
+   "voice_pct": 0.026,
+   "text_pct": 0.832,
+   "audio_intensity": 0.1
+  },
+  "Alexander_van_der_Pol": {
+   "tier": "tier3_extended",
+   "total_msgs": 38,
+   "voice_notes": 0,
+   "text_msgs": 33,
+   "media_msgs": 5,
+   "voice_pct": 0.0,
+   "text_pct": 0.868,
+   "audio_intensity": 0
+  },
+  "Sebastián_Aguilera": {
+   "tier": "tier2_core",
+   "total_msgs": 247,
+   "voice_notes": 16,
+   "text_msgs": 210,
+   "media_msgs": 21,
+   "voice_pct": 0.065,
+   "text_pct": 0.85,
+   "audio_intensity": 0.2
+  },
+  "Lazzerini_Pizzs": {
+   "tier": "tier2_core",
+   "total_msgs": 331,
+   "voice_notes": 2,
+   "text_msgs": 312,
+   "media_msgs": 17,
+   "voice_pct": 0.006,
+   "text_pct": 0.943,
+   "audio_intensity": 0.0
+  },
+  "José_Villalba_Lugo": {
+   "tier": "tier2_core",
+   "total_msgs": 113,
+   "voice_notes": 5,
+   "text_msgs": 97,
+   "media_msgs": 11,
+   "voice_pct": 0.044,
+   "text_pct": 0.858,
+   "audio_intensity": 0.1
+  },
+  "40__victor_urgent___wa_chat_595981473912_1762": {
+   "tier": "tier2_core",
+   "total_msgs": 19,
+   "voice_notes": 1,
+   "text_msgs": 15,
+   "media_msgs": 3,
+   "voice_pct": 0.053,
+   "text_pct": 0.789,
+   "audio_intensity": 0.0
+  },
+  "Natasha": {
+   "tier": "tier2_core",
+   "total_msgs": 140,
+   "voice_notes": 3,
+   "text_msgs": 92,
+   "media_msgs": 45,
+   "voice_pct": 0.021,
+   "text_pct": 0.657,
+   "audio_intensity": 0.0
+  },
+  "adri____wa_chat_595985249907_9628": {
+   "tier": "tier2_core",
+   "total_msgs": 2399,
+   "voice_notes": 152,
+   "text_msgs": 1967,
+   "media_msgs": 280,
+   "voice_pct": 0.063,
+   "text_pct": 0.82,
+   "audio_intensity": 1.5
+  },
+  "Eros_Dios_Del_Sexo": {
+   "tier": "tier2_core",
+   "total_msgs": 447,
+   "voice_notes": 17,
+   "text_msgs": 409,
+   "media_msgs": 21,
+   "voice_pct": 0.038,
+   "text_pct": 0.915,
+   "audio_intensity": 0.2
+  },
+  "emilio_poli____wa_chat_595981925772_1253": {
+   "tier": "tier2_core",
+   "total_msgs": 4230,
+   "voice_notes": 185,
+   "text_msgs": 3787,
+   "media_msgs": 258,
+   "voice_pct": 0.044,
+   "text_pct": 0.895,
+   "audio_intensity": 1.9
+  },
+  "uncle_antonio_toni_lopez_weiss___wa_chat_15055778339_2872": {
+   "tier": "tier2_core",
+   "total_msgs": 598,
+   "voice_notes": 36,
+   "text_msgs": 438,
+   "media_msgs": 124,
+   "voice_pct": 0.06,
+   "text_pct": 0.732,
+   "audio_intensity": 0.4
+  },
+  "maia____wa_chat_595994341668_1955": {
+   "tier": "tier2_core",
+   "total_msgs": 1667,
+   "voice_notes": 60,
+   "text_msgs": 1564,
+   "media_msgs": 43,
+   "voice_pct": 0.036,
+   "text_pct": 0.938,
+   "audio_intensity": 0.6
+  },
+  "Grido_Ingavi": {
+   "tier": "tier2_core",
+   "total_msgs": 89,
+   "voice_notes": 1,
+   "text_msgs": 85,
+   "media_msgs": 3,
+   "voice_pct": 0.011,
+   "text_pct": 0.955,
+   "audio_intensity": 0.0
+  },
+  "16__friend_alvaro___wa_chat_595962291837_9625": {
+   "tier": "tier2_core",
+   "total_msgs": 4269,
+   "voice_notes": 637,
+   "text_msgs": 3387,
+   "media_msgs": 245,
+   "voice_pct": 0.149,
+   "text_pct": 0.793,
+   "audio_intensity": 6.4
+  },
+  "Nara_Mongelós": {
+   "tier": "tier3_extended",
+   "total_msgs": 61,
+   "voice_notes": 1,
+   "text_msgs": 58,
+   "media_msgs": 2,
+   "voice_pct": 0.016,
+   "text_pct": 0.951,
+   "audio_intensity": 0.0
+  },
+  "Alejandra": {
+   "tier": "tier3_extended",
+   "total_msgs": 165,
+   "voice_notes": 0,
+   "text_msgs": 153,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.927,
+   "audio_intensity": 0
+  },
+  "Ferrex": {
+   "tier": "tier3_extended",
+   "total_msgs": 29,
+   "voice_notes": 2,
+   "text_msgs": 27,
+   "media_msgs": 0,
+   "voice_pct": 0.069,
+   "text_pct": 0.931,
+   "audio_intensity": 0.0
+  },
+  "Noe_Ortiz": {
+   "tier": "tier3_extended",
+   "total_msgs": 51,
+   "voice_notes": 0,
+   "text_msgs": 49,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.961,
+   "audio_intensity": 0
+  },
+  "Gomeria_Ingavi_Criss": {
+   "tier": "tier3_extended",
+   "total_msgs": 42,
+   "voice_notes": 7,
+   "text_msgs": 27,
+   "media_msgs": 8,
+   "voice_pct": 0.167,
+   "text_pct": 0.643,
+   "audio_intensity": 0.1
+  },
+  "Héctor_Gonzales_IEN": {
+   "tier": "tier3_extended",
+   "total_msgs": 80,
+   "voice_notes": 3,
+   "text_msgs": 71,
+   "media_msgs": 6,
+   "voice_pct": 0.037,
+   "text_pct": 0.887,
+   "audio_intensity": 0.0
+  },
+  "Bold_Adventures_Paraguay": {
+   "tier": "tier3_extended",
+   "total_msgs": 29,
+   "voice_notes": 0,
+   "text_msgs": 29,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "063__p1732___wa_chat_595985951732_1722": {
+   "tier": "tier3_extended",
+   "total_msgs": 650,
+   "voice_notes": 42,
+   "text_msgs": 589,
+   "media_msgs": 19,
+   "voice_pct": 0.065,
+   "text_pct": 0.906,
+   "audio_intensity": 0.4
+  },
+  "Patiño": {
+   "tier": "tier3_extended",
+   "total_msgs": 20,
+   "voice_notes": 0,
+   "text_msgs": 18,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.9,
+   "audio_intensity": 0
+  },
+  "075__p0258___wa_chat_595983240258_3008": {
+   "tier": "tier3_extended",
+   "total_msgs": 353,
+   "voice_notes": 0,
+   "text_msgs": 342,
+   "media_msgs": 11,
+   "voice_pct": 0.0,
+   "text_pct": 0.969,
+   "audio_intensity": 0
+  },
+  "Botica_Magistral": {
+   "tier": "tier3_extended",
+   "total_msgs": 19,
+   "voice_notes": 0,
+   "text_msgs": 16,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.842,
+   "audio_intensity": 0
+  },
+  "Dra_Wilma": {
+   "tier": "tier3_extended",
+   "total_msgs": 35,
+   "voice_notes": 2,
+   "text_msgs": 29,
+   "media_msgs": 4,
+   "voice_pct": 0.057,
+   "text_pct": 0.829,
+   "audio_intensity": 0.0
+  },
+  "071__gerardo_ramos___wa_chat_595982783951_6901": {
+   "tier": "tier3_extended",
+   "total_msgs": 136,
+   "voice_notes": 8,
+   "text_msgs": 112,
+   "media_msgs": 16,
+   "voice_pct": 0.059,
+   "text_pct": 0.824,
+   "audio_intensity": 0.1
+  },
+  "Vet_Cerca_De_Weisshoyse": {
+   "tier": "tier3_extended",
+   "total_msgs": 73,
+   "voice_notes": 0,
+   "text_msgs": 64,
+   "media_msgs": 9,
+   "voice_pct": 0.0,
+   "text_pct": 0.877,
+   "audio_intensity": 0
+  },
+  "Luis_Gilberto_Salinas": {
+   "tier": "tier3_extended",
+   "total_msgs": 43,
+   "voice_notes": 0,
+   "text_msgs": 42,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.977,
+   "audio_intensity": 0
+  },
+  "Devon_Robinson": {
+   "tier": "tier3_extended",
+   "total_msgs": 52,
+   "voice_notes": 0,
+   "text_msgs": 40,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.769,
+   "audio_intensity": 0
+  },
+  "Bacon_Burgers": {
+   "tier": "tier3_extended",
+   "total_msgs": 65,
+   "voice_notes": 0,
+   "text_msgs": 65,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "086__p1410___wa_chat_595984401410_4438": {
+   "tier": "tier3_extended",
+   "total_msgs": 55,
+   "voice_notes": 0,
+   "text_msgs": 55,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Jacque": {
+   "tier": "tier3_extended",
+   "total_msgs": 55,
+   "voice_notes": 0,
+   "text_msgs": 55,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "084__p6193___wa_chat_595991506193_3099": {
+   "tier": "tier3_extended",
+   "total_msgs": 243,
+   "voice_notes": 17,
+   "text_msgs": 212,
+   "media_msgs": 14,
+   "voice_pct": 0.07,
+   "text_pct": 0.872,
+   "audio_intensity": 0.2
+  },
+  "Buco_Bogado_Poli": {
+   "tier": "tier3_extended",
+   "total_msgs": 54,
+   "voice_notes": 0,
+   "text_msgs": 52,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.963,
+   "audio_intensity": 0
+  },
+  "Vet_Cerca_De_Casa_Dra_Mirna_Espinola": {
+   "tier": "tier3_extended",
+   "total_msgs": 77,
+   "voice_notes": 17,
+   "text_msgs": 50,
+   "media_msgs": 10,
+   "voice_pct": 0.221,
+   "text_pct": 0.649,
+   "audio_intensity": 0.2
+  },
+  "094__p9300___wa_chat_595984729300_9919": {
+   "tier": "tier3_extended",
+   "total_msgs": 146,
+   "voice_notes": 0,
+   "text_msgs": 139,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.952,
+   "audio_intensity": 0
+  },
+  "elias____wa_chat_595985383004_10373": {
+   "tier": "tier3_extended",
+   "total_msgs": 40,
+   "voice_notes": 0,
+   "text_msgs": 39,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.975,
+   "audio_intensity": 0
+  },
+  "Sushi": {
+   "tier": "tier3_extended",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Ogr": {
+   "tier": "tier3_extended",
+   "total_msgs": 63,
+   "voice_notes": 11,
+   "text_msgs": 50,
+   "media_msgs": 2,
+   "voice_pct": 0.175,
+   "text_pct": 0.794,
+   "audio_intensity": 0.1
+  },
+  "Guille_Pamplona": {
+   "tier": "tier3_extended",
+   "total_msgs": 85,
+   "voice_notes": 1,
+   "text_msgs": 82,
+   "media_msgs": 2,
+   "voice_pct": 0.012,
+   "text_pct": 0.965,
+   "audio_intensity": 0.0
+  },
+  "070__p9265___wa_chat_595976409265_2838": {
+   "tier": "tier3_extended",
+   "total_msgs": 367,
+   "voice_notes": 52,
+   "text_msgs": 299,
+   "media_msgs": 16,
+   "voice_pct": 0.142,
+   "text_pct": 0.815,
+   "audio_intensity": 0.5
+  },
+  "juan____wa_chat_50230574090_10146": {
+   "tier": "tier3_extended",
+   "total_msgs": 91,
+   "voice_notes": 0,
+   "text_msgs": 88,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.967,
+   "audio_intensity": 0
+  },
+  "Jaden": {
+   "tier": "tier3_extended",
+   "total_msgs": 22,
+   "voice_notes": 2,
+   "text_msgs": 20,
+   "media_msgs": 0,
+   "voice_pct": 0.091,
+   "text_pct": 0.909,
+   "audio_intensity": 0.0
+  },
+  "Pet_Planet": {
+   "tier": "tier3_extended",
+   "total_msgs": 43,
+   "voice_notes": 0,
+   "text_msgs": 36,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.837,
+   "audio_intensity": 0
+  },
+  "067__p7353___wa_chat_595973757353_1731": {
+   "tier": "tier3_extended",
+   "total_msgs": 819,
+   "voice_notes": 22,
+   "text_msgs": 777,
+   "media_msgs": 20,
+   "voice_pct": 0.027,
+   "text_pct": 0.949,
+   "audio_intensity": 0.2
+  },
+  "Lomiteria_Liz_fdo": {
+   "tier": "tier3_extended",
+   "total_msgs": 19,
+   "voice_notes": 0,
+   "text_msgs": 16,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.842,
+   "audio_intensity": 0
+  },
+  "Taberna_La_Trocha": {
+   "tier": "tier3_extended",
+   "total_msgs": 28,
+   "voice_notes": 0,
+   "text_msgs": 25,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.893,
+   "audio_intensity": 0
+  },
+  "hugo_mentormate___wa_chat_595981656962_3522": {
+   "tier": "tier3_extended",
+   "total_msgs": 179,
+   "voice_notes": 3,
+   "text_msgs": 164,
+   "media_msgs": 12,
+   "voice_pct": 0.017,
+   "text_pct": 0.916,
+   "audio_intensity": 0.0
+  },
+  "057__p3241___wa_chat_595982223241_11521": {
+   "tier": "tier3_extended",
+   "total_msgs": 738,
+   "voice_notes": 41,
+   "text_msgs": 621,
+   "media_msgs": 76,
+   "voice_pct": 0.056,
+   "text_pct": 0.841,
+   "audio_intensity": 0.4
+  },
+  "Veterinaria_Vida_Animal": {
+   "tier": "tier3_extended",
+   "total_msgs": 21,
+   "voice_notes": 0,
+   "text_msgs": 19,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.905,
+   "audio_intensity": 0
+  },
+  "Secretaria_Virginia_Poli": {
+   "tier": "tier3_extended",
+   "total_msgs": 95,
+   "voice_notes": 6,
+   "text_msgs": 84,
+   "media_msgs": 5,
+   "voice_pct": 0.063,
+   "text_pct": 0.884,
+   "audio_intensity": 0.1
+  },
+  "089__p5974___wa_chat_595982925974_9881": {
+   "tier": "tier3_extended",
+   "total_msgs": 50,
+   "voice_notes": 0,
+   "text_msgs": 49,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.98,
+   "audio_intensity": 0
+  },
+  "Carlos_Oviedo": {
+   "tier": "tier3_extended",
+   "total_msgs": 79,
+   "voice_notes": 1,
+   "text_msgs": 70,
+   "media_msgs": 8,
+   "voice_pct": 0.013,
+   "text_pct": 0.886,
+   "audio_intensity": 0.0
+  },
+  "mario_gueyraud____wa_chat_595991705424_1202": {
+   "tier": "tier3_extended",
+   "total_msgs": 703,
+   "voice_notes": 29,
+   "text_msgs": 653,
+   "media_msgs": 21,
+   "voice_pct": 0.041,
+   "text_pct": 0.929,
+   "audio_intensity": 0.3
+  },
+  "Tury": {
+   "tier": "tier3_extended",
+   "total_msgs": 66,
+   "voice_notes": 3,
+   "text_msgs": 61,
+   "media_msgs": 2,
+   "voice_pct": 0.045,
+   "text_pct": 0.924,
+   "audio_intensity": 0.0
+  },
+  "Belén_Fratts_Officina": {
+   "tier": "tier3_extended",
+   "total_msgs": 84,
+   "voice_notes": 1,
+   "text_msgs": 77,
+   "media_msgs": 6,
+   "voice_pct": 0.012,
+   "text_pct": 0.917,
+   "audio_intensity": 0.0
+  },
+  "Ana_Esposa_De_Sander": {
+   "tier": "tier3_extended",
+   "total_msgs": 42,
+   "voice_notes": 0,
+   "text_msgs": 33,
+   "media_msgs": 9,
+   "voice_pct": 0.0,
+   "text_pct": 0.786,
+   "audio_intensity": 0
+  },
+  "Mymba_Roga": {
+   "tier": "tier3_extended",
+   "total_msgs": 69,
+   "voice_notes": 6,
+   "text_msgs": 59,
+   "media_msgs": 4,
+   "voice_pct": 0.087,
+   "text_pct": 0.855,
+   "audio_intensity": 0.1
+  },
+  "Diego_Emanuel_Duarte": {
+   "tier": "tier3_extended",
+   "total_msgs": 41,
+   "voice_notes": 1,
+   "text_msgs": 40,
+   "media_msgs": 0,
+   "voice_pct": 0.024,
+   "text_pct": 0.976,
+   "audio_intensity": 0.0
+  },
+  "Facebook_Cerdo": {
+   "tier": "tier3_extended",
+   "total_msgs": 25,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.84,
+   "audio_intensity": 0
+  },
+  "piter_lesme_poli____wa_chat_595972835716_1244": {
+   "tier": "tier3_extended",
+   "total_msgs": 629,
+   "voice_notes": 30,
+   "text_msgs": 553,
+   "media_msgs": 46,
+   "voice_pct": 0.048,
+   "text_pct": 0.879,
+   "audio_intensity": 0.3
+  },
+  "Gibir_Banco_De_Semen": {
+   "tier": "tier3_extended",
+   "total_msgs": 114,
+   "voice_notes": 0,
+   "text_msgs": 102,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.895,
+   "audio_intensity": 0
+  },
+  "078__p9447___wa_chat_595981459447_11190": {
+   "tier": "tier3_extended",
+   "total_msgs": 166,
+   "voice_notes": 1,
+   "text_msgs": 140,
+   "media_msgs": 25,
+   "voice_pct": 0.006,
+   "text_pct": 0.843,
+   "audio_intensity": 0.0
+  },
+  "099__p9143___wa_chat_595984689143_4130": {
+   "tier": "tier3_extended",
+   "total_msgs": 126,
+   "voice_notes": 1,
+   "text_msgs": 123,
+   "media_msgs": 2,
+   "voice_pct": 0.008,
+   "text_pct": 0.976,
+   "audio_intensity": 0.0
+  },
+  "unknown_atyra___wa_chat_595991700814_4652": {
+   "tier": "tier3_extended",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.909,
+   "audio_intensity": 0
+  },
+  "Raúl_Wichita": {
+   "tier": "tier3_extended",
+   "total_msgs": 65,
+   "voice_notes": 8,
+   "text_msgs": 52,
+   "media_msgs": 5,
+   "voice_pct": 0.123,
+   "text_pct": 0.8,
+   "audio_intensity": 0.1
+  },
+  "Plub": {
+   "tier": "tier3_extended",
+   "total_msgs": 29,
+   "voice_notes": 0,
+   "text_msgs": 28,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.966,
+   "audio_intensity": 0
+  },
+  "Profe_Diseño_De_Compil": {
+   "tier": "tier3_extended",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 12,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.923,
+   "audio_intensity": 0
+  },
+  "097__lid_854912___wa_lid_118262125854912_15538": {
+   "tier": "tier3_extended",
+   "total_msgs": 5060,
+   "voice_notes": 943,
+   "text_msgs": 3795,
+   "media_msgs": 322,
+   "voice_pct": 0.186,
+   "text_pct": 0.75,
+   "audio_intensity": 9.4
+  },
+  "grandma_riet_van_der_pol___wa_chat_31612495139_98": {
+   "tier": "tier3_extended",
+   "total_msgs": 277,
+   "voice_notes": 16,
+   "text_msgs": 86,
+   "media_msgs": 175,
+   "voice_pct": 0.058,
+   "text_pct": 0.31,
+   "audio_intensity": 0.2
+  },
+  "059__álvaro_claro___wa_chat_595994442444_9596": {
+   "tier": "tier3_extended",
+   "total_msgs": 361,
+   "voice_notes": 20,
+   "text_msgs": 305,
+   "media_msgs": 36,
+   "voice_pct": 0.055,
+   "text_pct": 0.845,
+   "audio_intensity": 0.2
+  },
+  "Wiliam_Gr": {
+   "tier": "tier3_extended",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 9,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.75,
+   "audio_intensity": 0
+  },
+  "Estudio_Medieval": {
+   "tier": "tier3_extended",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Carlos_Urdapilleta": {
+   "tier": "tier3_extended",
+   "total_msgs": 17,
+   "voice_notes": 0,
+   "text_msgs": 13,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.765,
+   "audio_intensity": 0
+  },
+  "088__p8658___wa_chat_595971758658_9805": {
+   "tier": "tier3_extended",
+   "total_msgs": 74,
+   "voice_notes": 3,
+   "text_msgs": 68,
+   "media_msgs": 3,
+   "voice_pct": 0.041,
+   "text_pct": 0.919,
+   "audio_intensity": 0.0
+  },
+  "Tasha": {
+   "tier": "tier3_extended",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.909,
+   "audio_intensity": 0
+  },
+  "Rosario_Ruiz": {
+   "tier": "tier3_extended",
+   "total_msgs": 86,
+   "voice_notes": 2,
+   "text_msgs": 84,
+   "media_msgs": 0,
+   "voice_pct": 0.023,
+   "text_pct": 0.977,
+   "audio_intensity": 0.0
+  },
+  "Brenda_Poli": {
+   "tier": "tier3_extended",
+   "total_msgs": 20,
+   "voice_notes": 2,
+   "text_msgs": 15,
+   "media_msgs": 3,
+   "voice_pct": 0.1,
+   "text_pct": 0.75,
+   "audio_intensity": 0.0
+  },
+  "047__ueno_comprobante___wa_chat_595985909813_11354": {
+   "tier": "tier3_extended",
+   "total_msgs": 39,
+   "voice_notes": 1,
+   "text_msgs": 38,
+   "media_msgs": 0,
+   "voice_pct": 0.026,
+   "text_pct": 0.974,
+   "audio_intensity": 0.0
+  },
+  "Belén_Jara": {
+   "tier": "tier3_extended",
+   "total_msgs": 26,
+   "voice_notes": 0,
+   "text_msgs": 25,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.962,
+   "audio_intensity": 0
+  },
+  "053__p3709___wa_chat_31634463709_11777": {
+   "tier": "tier3_extended",
+   "total_msgs": 776,
+   "voice_notes": 52,
+   "text_msgs": 657,
+   "media_msgs": 67,
+   "voice_pct": 0.067,
+   "text_pct": 0.847,
+   "audio_intensity": 0.5
+  },
+  "Cliente_3d_Óscar_Rafa": {
+   "tier": "tier3_extended",
+   "total_msgs": 706,
+   "voice_notes": 0,
+   "text_msgs": 361,
+   "media_msgs": 345,
+   "voice_pct": 0.0,
+   "text_pct": 0.511,
+   "audio_intensity": 0
+  },
+  "Diego_Duarte": {
+   "tier": "tier3_extended",
+   "total_msgs": 15,
+   "voice_notes": 0,
+   "text_msgs": 14,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.933,
+   "audio_intensity": 0
+  },
+  "Michi_CarameloAle_Góm": {
+   "tier": "tier3_extended",
+   "total_msgs": 90,
+   "voice_notes": 0,
+   "text_msgs": 88,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.978,
+   "audio_intensity": 0
+  },
+  "Antonio_Franch": {
+   "tier": "tier3_extended",
+   "total_msgs": 87,
+   "voice_notes": 0,
+   "text_msgs": 80,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.92,
+   "audio_intensity": 0
+  },
+  "Bacon_Villa_Morra": {
+   "tier": "tier3_extended",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 14,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.875,
+   "audio_intensity": 0
+  },
+  "Lomito": {
+   "tier": "tier3_extended",
+   "total_msgs": 44,
+   "voice_notes": 0,
+   "text_msgs": 41,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.932,
+   "audio_intensity": 0
+  },
+  "093__p2272___wa_chat_595981262272_1550": {
+   "tier": "tier3_extended",
+   "total_msgs": 166,
+   "voice_notes": 2,
+   "text_msgs": 157,
+   "media_msgs": 7,
+   "voice_pct": 0.012,
+   "text_pct": 0.946,
+   "audio_intensity": 0.0
+  },
+  "085__p5157___wa_chat_595981725157_11979": {
+   "tier": "tier3_extended",
+   "total_msgs": 193,
+   "voice_notes": 40,
+   "text_msgs": 142,
+   "media_msgs": 11,
+   "voice_pct": 0.207,
+   "text_pct": 0.736,
+   "audio_intensity": 0.4
+  },
+  "096__p0870___wa_chat_595981990870_2079": {
+   "tier": "tier3_extended",
+   "total_msgs": 23,
+   "voice_notes": 1,
+   "text_msgs": 20,
+   "media_msgs": 2,
+   "voice_pct": 0.043,
+   "text_pct": 0.87,
+   "audio_intensity": 0.0
+  },
+  "Soledad_Amiga_Fpuna": {
+   "tier": "tier3_extended",
+   "total_msgs": 21,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Lucas_Bogarin_W": {
+   "tier": "tier3_extended",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.909,
+   "audio_intensity": 0
+  },
+  "yanny": {
+   "tier": "tier3_extended",
+   "total_msgs": 37,
+   "voice_notes": 1,
+   "text_msgs": 33,
+   "media_msgs": 3,
+   "voice_pct": 0.027,
+   "text_pct": 0.892,
+   "audio_intensity": 0.0
+  },
+  "Marlon_Miranda": {
+   "tier": "tier3_extended",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 13,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Mama_Cultiva": {
+   "tier": "tier3_extended",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "073__paloma___wa_chat_59899144505_2396": {
+   "tier": "tier3_extended",
+   "total_msgs": 237,
+   "voice_notes": 10,
+   "text_msgs": 204,
+   "media_msgs": 23,
+   "voice_pct": 0.042,
+   "text_pct": 0.861,
+   "audio_intensity": 0.1
+  },
+  "Printobook": {
+   "tier": "tier3_extended",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 9,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.75,
+   "audio_intensity": 0
+  },
+  "Jessi_Alarcon_Poli": {
+   "tier": "tier3_extended",
+   "total_msgs": 15,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Tsi": {
+   "tier": "tier3_extended",
+   "total_msgs": 16,
+   "voice_notes": 2,
+   "text_msgs": 13,
+   "media_msgs": 1,
+   "voice_pct": 0.125,
+   "text_pct": 0.812,
+   "audio_intensity": 0.0
+  },
+  "Jose_Jsrdinero": {
+   "tier": "tier3_extended",
+   "total_msgs": 49,
+   "voice_notes": 3,
+   "text_msgs": 43,
+   "media_msgs": 3,
+   "voice_pct": 0.061,
+   "text_pct": 0.878,
+   "audio_intensity": 0.0
+  },
+  "Primo_Gabriel": {
+   "tier": "tier3_extended",
+   "total_msgs": 117,
+   "voice_notes": 1,
+   "text_msgs": 115,
+   "media_msgs": 1,
+   "voice_pct": 0.009,
+   "text_pct": 0.983,
+   "audio_intensity": 0.0
+  },
+  "051__p5809___wa_chat_595985435809_11371": {
+   "tier": "tier3_extended",
+   "total_msgs": 919,
+   "voice_notes": 60,
+   "text_msgs": 819,
+   "media_msgs": 40,
+   "voice_pct": 0.065,
+   "text_pct": 0.891,
+   "audio_intensity": 0.6
+  },
+  "Foneca": {
+   "tier": "tier3_extended",
+   "total_msgs": 135,
+   "voice_notes": 3,
+   "text_msgs": 107,
+   "media_msgs": 25,
+   "voice_pct": 0.022,
+   "text_pct": 0.793,
+   "audio_intensity": 0.0
+  },
+  "FARMATOTAL_-_Suc_Avda_Ingavi_Avda_Ingavi": {
+   "tier": "tier3_extended",
+   "total_msgs": 89,
+   "voice_notes": 0,
+   "text_msgs": 84,
+   "media_msgs": 5,
+   "voice_pct": 0.0,
+   "text_pct": 0.944,
+   "audio_intensity": 0
+  },
+  "Alexander_Cañete": {
+   "tier": "tier3_extended",
+   "total_msgs": 196,
+   "voice_notes": 19,
+   "text_msgs": 175,
+   "media_msgs": 2,
+   "voice_pct": 0.097,
+   "text_pct": 0.893,
+   "audio_intensity": 0.2
+  },
+  "Pausanti_Burger": {
+   "tier": "tier3_extended",
+   "total_msgs": 104,
+   "voice_notes": 0,
+   "text_msgs": 97,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.933,
+   "audio_intensity": 0
+  },
+  "Helado_Quatro_D": {
+   "tier": "tier3_extended",
+   "total_msgs": 17,
+   "voice_notes": 0,
+   "text_msgs": 16,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.941,
+   "audio_intensity": 0
+  },
+  "Luissushi": {
+   "tier": "tier3_extended",
+   "total_msgs": 23,
+   "voice_notes": 0,
+   "text_msgs": 19,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.826,
+   "audio_intensity": 0
+  },
+  "081__p7370___wa_chat_595983727370_1926": {
+   "tier": "tier3_extended",
+   "total_msgs": 465,
+   "voice_notes": 6,
+   "text_msgs": 437,
+   "media_msgs": 22,
+   "voice_pct": 0.013,
+   "text_pct": 0.94,
+   "audio_intensity": 0.1
+  },
+  "Despensa_Esquina": {
+   "tier": "tier3_extended",
+   "total_msgs": 39,
+   "voice_notes": 0,
+   "text_msgs": 39,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Stoic_Finch_-_Latam": {
+   "tier": "tier4_groups",
+   "total_msgs": 12036,
+   "voice_notes": 177,
+   "text_msgs": 10794,
+   "media_msgs": 1065,
+   "voice_pct": 0.015,
+   "text_pct": 0.897,
+   "audio_intensity": 1.8
+  },
+  "Group_Putivuelta_La_Sersfina": {
+   "tier": "tier4_groups",
+   "total_msgs": 34,
+   "voice_notes": 0,
+   "text_msgs": 31,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.912,
+   "audio_intensity": 0
+  },
+  "Iin_-_Fpuna_-_Gral": {
+   "tier": "tier4_groups",
+   "total_msgs": 734,
+   "voice_notes": 0,
+   "text_msgs": 645,
+   "media_msgs": 89,
+   "voice_pct": 0.0,
+   "text_pct": 0.879,
+   "audio_intensity": 0
+  },
+  "Group_Geodata": {
+   "tier": "tier4_groups",
+   "total_msgs": 564,
+   "voice_notes": 0,
+   "text_msgs": 564,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_𝐀𝐍𝐔𝐍𝐂𝐈𝐎𝐒": {
+   "tier": "tier4_groups",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.833,
+   "audio_intensity": 0
+  },
+  "Group_Embs_Utp": {
+   "tier": "tier4_groups",
+   "total_msgs": 42,
+   "voice_notes": 0,
+   "text_msgs": 2,
+   "media_msgs": 40,
+   "voice_pct": 0.0,
+   "text_pct": 0.048,
+   "audio_intensity": 0
+  },
+  "Group_Agentic_Workflows": {
+   "tier": "tier4_groups",
+   "total_msgs": 76,
+   "voice_notes": 0,
+   "text_msgs": 76,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Pasen_Las_Fotos": {
+   "tier": "tier4_groups",
+   "total_msgs": 29646,
+   "voice_notes": 91,
+   "text_msgs": 27321,
+   "media_msgs": 2234,
+   "voice_pct": 0.003,
+   "text_pct": 0.922,
+   "audio_intensity": 0.9
+  },
+  "Amigos_De_Las_Locuras_Swinger": {
+   "tier": "tier4_groups",
+   "total_msgs": 16834,
+   "voice_notes": 255,
+   "text_msgs": 15353,
+   "media_msgs": 1226,
+   "voice_pct": 0.015,
+   "text_pct": 0.912,
+   "audio_intensity": 2.5
+  },
+  "Group_Quantoz": {
+   "tier": "tier4_groups",
+   "total_msgs": 82,
+   "voice_notes": 0,
+   "text_msgs": 82,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Casa_Stuff": {
+   "tier": "tier4_groups",
+   "total_msgs": 128,
+   "voice_notes": 0,
+   "text_msgs": 108,
+   "media_msgs": 20,
+   "voice_pct": 0.0,
+   "text_pct": 0.844,
+   "audio_intensity": 0
+  },
+  "Good_Omens_Py": {
+   "tier": "tier4_groups",
+   "total_msgs": 795,
+   "voice_notes": 0,
+   "text_msgs": 760,
+   "media_msgs": 35,
+   "voice_pct": 0.0,
+   "text_pct": 0.956,
+   "audio_intensity": 0
+  },
+  "Group_Ci_24_Voluntarios": {
+   "tier": "tier4_groups",
+   "total_msgs": 261,
+   "voice_notes": 0,
+   "text_msgs": 249,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.954,
+   "audio_intensity": 0
+  },
+  "Group_Baby_Shower_02": {
+   "tier": "tier4_groups",
+   "total_msgs": 177,
+   "voice_notes": 0,
+   "text_msgs": 162,
+   "media_msgs": 15,
+   "voice_pct": 0.0,
+   "text_pct": 0.915,
+   "audio_intensity": 0
+  },
+  "Group_Compiladores_Sin_Profe": {
+   "tier": "tier4_groups",
+   "total_msgs": 311,
+   "voice_notes": 1,
+   "text_msgs": 277,
+   "media_msgs": 33,
+   "voice_pct": 0.003,
+   "text_pct": 0.891,
+   "audio_intensity": 0.0
+  },
+  "Group_Quiz_Mm": {
+   "tier": "tier4_groups",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 0,
+   "media_msgs": 10,
+   "voice_pct": 0.0,
+   "text_pct": 0.0,
+   "audio_intensity": 0
+  },
+  "Grupo_De_Pizza_Gratis": {
+   "tier": "tier4_groups",
+   "total_msgs": 1254,
+   "voice_notes": 5,
+   "text_msgs": 1192,
+   "media_msgs": 57,
+   "voice_pct": 0.004,
+   "text_pct": 0.951,
+   "audio_intensity": 0.1
+  },
+  "Group_Taller_Ia": {
+   "tier": "tier4_groups",
+   "total_msgs": 99,
+   "voice_notes": 0,
+   "text_msgs": 91,
+   "media_msgs": 8,
+   "voice_pct": 0.0,
+   "text_pct": 0.919,
+   "audio_intensity": 0
+  },
+  "Jojo_Gym": {
+   "tier": "tier4_groups",
+   "total_msgs": 1596,
+   "voice_notes": 29,
+   "text_msgs": 1453,
+   "media_msgs": 114,
+   "voice_pct": 0.018,
+   "text_pct": 0.91,
+   "audio_intensity": 0.3
+  },
+  "Group_Ieeextreme_-_Interesados_Una": {
+   "tier": "tier4_groups",
+   "total_msgs": 414,
+   "voice_notes": 0,
+   "text_msgs": 350,
+   "media_msgs": 64,
+   "voice_pct": 0.0,
+   "text_pct": 0.845,
+   "audio_intensity": 0
+  },
+  "Group_Wsu_Fpuna_Meet": {
+   "tier": "tier4_groups",
+   "total_msgs": 41,
+   "voice_notes": 0,
+   "text_msgs": 40,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.976,
+   "audio_intensity": 0
+  },
+  "Group_Workshop_Desarrolla_Tu_Portafolio_Web_Con_Astro": {
+   "tier": "tier4_groups",
+   "total_msgs": 43,
+   "voice_notes": 0,
+   "text_msgs": 42,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.977,
+   "audio_intensity": 0
+  },
+  "Group_The_Story_Begins": {
+   "tier": "tier4_groups",
+   "total_msgs": 551,
+   "voice_notes": 0,
+   "text_msgs": 551,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Primos_Weiss": {
+   "tier": "tier4_groups",
+   "total_msgs": 2175,
+   "voice_notes": 49,
+   "text_msgs": 1821,
+   "media_msgs": 305,
+   "voice_pct": 0.023,
+   "text_pct": 0.837,
+   "audio_intensity": 0.5
+  },
+  "Iin_Fpuna_019": {
+   "tier": "tier4_groups",
+   "total_msgs": 32635,
+   "voice_notes": 119,
+   "text_msgs": 30876,
+   "media_msgs": 1640,
+   "voice_pct": 0.004,
+   "text_pct": 0.946,
+   "audio_intensity": 1.2
+  },
+  "Group_Club_De_Robótica_De_La_Fp-Una": {
+   "tier": "tier4_groups",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 8,
+   "media_msgs": 6,
+   "voice_pct": 0.0,
+   "text_pct": 0.571,
+   "audio_intensity": 0
+  },
+  "Group_Superspuma": {
+   "tier": "tier4_groups",
+   "total_msgs": 255,
+   "voice_notes": 0,
+   "text_msgs": 253,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.992,
+   "audio_intensity": 0
+  },
+  "Group_Gallinas_Oviedo": {
+   "tier": "tier4_groups",
+   "total_msgs": 179,
+   "voice_notes": 3,
+   "text_msgs": 164,
+   "media_msgs": 12,
+   "voice_pct": 0.017,
+   "text_pct": 0.916,
+   "audio_intensity": 0.0
+  },
+  "Group_Nyx_Consultancy": {
+   "tier": "tier4_groups",
+   "total_msgs": 148,
+   "voice_notes": 0,
+   "text_msgs": 147,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.993,
+   "audio_intensity": 0
+  },
+  "Group_Ciberseguridad_Grupo": {
+   "tier": "tier4_groups",
+   "total_msgs": 21,
+   "voice_notes": 0,
+   "text_msgs": 20,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.952,
+   "audio_intensity": 0
+  },
+  "Group_Ia_Grupo_De_Trabajo": {
+   "tier": "tier4_groups",
+   "total_msgs": 456,
+   "voice_notes": 0,
+   "text_msgs": 443,
+   "media_msgs": 13,
+   "voice_pct": 0.0,
+   "text_pct": 0.971,
+   "audio_intensity": 0
+  },
+  "Saquenme_De_Latinoamerica": {
+   "tier": "tier4_groups",
+   "total_msgs": 2274,
+   "voice_notes": 45,
+   "text_msgs": 2087,
+   "media_msgs": 142,
+   "voice_pct": 0.02,
+   "text_pct": 0.918,
+   "audio_intensity": 0.5
+  },
+  "Group_Cybergameslatam_-_Ieee_Untels": {
+   "tier": "tier4_groups",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.714,
+   "audio_intensity": 0
+  },
+  "Group_Mentees_Minieeextreme": {
+   "tier": "tier4_groups",
+   "total_msgs": 167,
+   "voice_notes": 0,
+   "text_msgs": 137,
+   "media_msgs": 30,
+   "voice_pct": 0.0,
+   "text_pct": 0.82,
+   "audio_intensity": 0
+  },
+  "Iin_Fpuna_2015-2021": {
+   "tier": "tier4_groups",
+   "total_msgs": 11447,
+   "voice_notes": 1,
+   "text_msgs": 10845,
+   "media_msgs": 601,
+   "voice_pct": 0.0,
+   "text_pct": 0.947,
+   "audio_intensity": 0.0
+  },
+  "Group_Vete": {
+   "tier": "tier4_groups",
+   "total_msgs": 15,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Excursion_Bdsm_Ytu": {
+   "tier": "tier4_groups",
+   "total_msgs": 78,
+   "voice_notes": 0,
+   "text_msgs": 59,
+   "media_msgs": 19,
+   "voice_pct": 0.0,
+   "text_pct": 0.756,
+   "audio_intensity": 0
+  },
+  "Group_Latam_-_Trabajos_Remotos": {
+   "tier": "tier4_groups",
+   "total_msgs": 128,
+   "voice_notes": 0,
+   "text_msgs": 63,
+   "media_msgs": 65,
+   "voice_pct": 0.0,
+   "text_pct": 0.492,
+   "audio_intensity": 0
+  },
+  "Ml_2023-1": {
+   "tier": "tier4_groups",
+   "total_msgs": 1298,
+   "voice_notes": 4,
+   "text_msgs": 1270,
+   "media_msgs": 24,
+   "voice_pct": 0.003,
+   "text_pct": 0.978,
+   "audio_intensity": 0.0
+  },
+  "Group_Forest_Park": {
+   "tier": "tier4_groups",
+   "total_msgs": 429,
+   "voice_notes": 0,
+   "text_msgs": 424,
+   "media_msgs": 5,
+   "voice_pct": 0.0,
+   "text_pct": 0.988,
+   "audio_intensity": 0
+  },
+  "Group_Agenda": {
+   "tier": "tier4_groups",
+   "total_msgs": 951,
+   "voice_notes": 38,
+   "text_msgs": 311,
+   "media_msgs": 602,
+   "voice_pct": 0.04,
+   "text_pct": 0.327,
+   "audio_intensity": 0.4
+  },
+  "Cdr_Fp_Una": {
+   "tier": "tier4_groups",
+   "total_msgs": 3370,
+   "voice_notes": 3,
+   "text_msgs": 2874,
+   "media_msgs": 493,
+   "voice_pct": 0.001,
+   "text_pct": 0.853,
+   "audio_intensity": 0.0
+  },
+  "Group_Minixtreme_Program_Py": {
+   "tier": "tier4_groups",
+   "total_msgs": 146,
+   "voice_notes": 0,
+   "text_msgs": 142,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.973,
+   "audio_intensity": 0
+  },
+  "Group_Ieeextreme_18_0_Paraguay": {
+   "tier": "tier4_groups",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 0,
+   "media_msgs": 10,
+   "voice_pct": 0.0,
+   "text_pct": 0.0,
+   "audio_intensity": 0
+  },
+  "Group_Cumple_De_Maga": {
+   "tier": "tier4_groups",
+   "total_msgs": 44,
+   "voice_notes": 0,
+   "text_msgs": 32,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.727,
+   "audio_intensity": 0
+  },
+  "Group_Mamados_Club": {
+   "tier": "tier4_groups",
+   "total_msgs": 24,
+   "voice_notes": 1,
+   "text_msgs": 12,
+   "media_msgs": 11,
+   "voice_pct": 0.042,
+   "text_pct": 0.5,
+   "audio_intensity": 0.0
+  },
+  "Wpg_Team": {
+   "tier": "tier4_groups",
+   "total_msgs": 2044,
+   "voice_notes": 1,
+   "text_msgs": 1859,
+   "media_msgs": 184,
+   "voice_pct": 0.0,
+   "text_pct": 0.909,
+   "audio_intensity": 0.0
+  },
+  "Group_Rockabar": {
+   "tier": "tier4_groups",
+   "total_msgs": 142,
+   "voice_notes": 0,
+   "text_msgs": 142,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Iin_Fpuna_2019_-_2025": {
+   "tier": "tier4_groups",
+   "total_msgs": 9197,
+   "voice_notes": 10,
+   "text_msgs": 8388,
+   "media_msgs": 799,
+   "voice_pct": 0.001,
+   "text_pct": 0.912,
+   "audio_intensity": 0.1
+  },
+  "Group_Ejercicios_Compi": {
+   "tier": "tier4_groups",
+   "total_msgs": 198,
+   "voice_notes": 0,
+   "text_msgs": 164,
+   "media_msgs": 34,
+   "voice_pct": 0.0,
+   "text_pct": 0.828,
+   "audio_intensity": 0
+  },
+  "Group_Dayah_Litworks": {
+   "tier": "tier4_groups",
+   "total_msgs": 426,
+   "voice_notes": 0,
+   "text_msgs": 423,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.993,
+   "audio_intensity": 0
+  },
+  "Group_Bd2_Iin": {
+   "tier": "tier4_groups",
+   "total_msgs": 515,
+   "voice_notes": 6,
+   "text_msgs": 479,
+   "media_msgs": 30,
+   "voice_pct": 0.012,
+   "text_pct": 0.93,
+   "audio_intensity": 0.1
+  },
+  "Group_Casa_Weiss_Internal": {
+   "tier": "tier4_groups",
+   "total_msgs": 24,
+   "voice_notes": 0,
+   "text_msgs": 23,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.958,
+   "audio_intensity": 0
+  },
+  "Group_Taller_De_Introducción_Qa_Instructores": {
+   "tier": "tier4_groups",
+   "total_msgs": 128,
+   "voice_notes": 2,
+   "text_msgs": 121,
+   "media_msgs": 5,
+   "voice_pct": 0.016,
+   "text_pct": 0.945,
+   "audio_intensity": 0.0
+  },
+  "Group_Luca_Montanaro": {
+   "tier": "tier4_groups",
+   "total_msgs": 50,
+   "voice_notes": 0,
+   "text_msgs": 50,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Iinformaciones_De_La_Carrera": {
+   "tier": "tier4_groups",
+   "total_msgs": 916,
+   "voice_notes": 0,
+   "text_msgs": 465,
+   "media_msgs": 451,
+   "voice_pct": 0.0,
+   "text_pct": 0.508,
+   "audio_intensity": 0
+  },
+  "Group_Bolsa_De_Trabajo_Iin": {
+   "tier": "tier4_groups",
+   "total_msgs": 495,
+   "voice_notes": 0,
+   "text_msgs": 235,
+   "media_msgs": 260,
+   "voice_pct": 0.0,
+   "text_pct": 0.475,
+   "audio_intensity": 0
+  },
+  "Group_Solstein": {
+   "tier": "tier4_groups",
+   "total_msgs": 35,
+   "voice_notes": 0,
+   "text_msgs": 35,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Compiladores": {
+   "tier": "tier4_groups",
+   "total_msgs": 161,
+   "voice_notes": 0,
+   "text_msgs": 144,
+   "media_msgs": 17,
+   "voice_pct": 0.0,
+   "text_pct": 0.894,
+   "audio_intensity": 0
+  },
+  "Groep_Is3": {
+   "tier": "tier4_groups",
+   "total_msgs": 1044,
+   "voice_notes": 3,
+   "text_msgs": 1010,
+   "media_msgs": 31,
+   "voice_pct": 0.003,
+   "text_pct": 0.967,
+   "audio_intensity": 0.0
+  },
+  "Group_Front_Sin_Profe": {
+   "tier": "tier4_groups",
+   "total_msgs": 298,
+   "voice_notes": 0,
+   "text_msgs": 275,
+   "media_msgs": 23,
+   "voice_pct": 0.0,
+   "text_pct": 0.923,
+   "audio_intensity": 0
+  },
+  "Ai_Whisperers": {
+   "tier": "tier4_groups",
+   "total_msgs": 2425,
+   "voice_notes": 43,
+   "text_msgs": 2265,
+   "media_msgs": 117,
+   "voice_pct": 0.018,
+   "text_pct": 0.934,
+   "audio_intensity": 0.4
+  },
+  "Group_Repair_Cafe_Page": {
+   "tier": "tier4_groups",
+   "total_msgs": 90,
+   "voice_notes": 0,
+   "text_msgs": 87,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.967,
+   "audio_intensity": 0
+  },
+  "Group_A29B_Grupo_De_Trabajo": {
+   "tier": "tier4_groups",
+   "total_msgs": 30,
+   "voice_notes": 0,
+   "text_msgs": 26,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.867,
+   "audio_intensity": 0
+  },
+  "Gcc_2023": {
+   "tier": "tier4_groups",
+   "total_msgs": 605,
+   "voice_notes": 0,
+   "text_msgs": 573,
+   "media_msgs": 32,
+   "voice_pct": 0.0,
+   "text_pct": 0.947,
+   "audio_intensity": 0
+  },
+  "𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥": {
+   "tier": "tier4_groups",
+   "total_msgs": 835,
+   "voice_notes": 5,
+   "text_msgs": 782,
+   "media_msgs": 48,
+   "voice_pct": 0.006,
+   "text_pct": 0.937,
+   "audio_intensity": 0.1
+  },
+  "Give_Back_Program_-_Cpk": {
+   "tier": "tier4_groups",
+   "total_msgs": 987,
+   "voice_notes": 9,
+   "text_msgs": 763,
+   "media_msgs": 215,
+   "voice_pct": 0.009,
+   "text_pct": 0.773,
+   "audio_intensity": 0.1
+  },
+  "Group_Nico": {
+   "tier": "tier4_groups",
+   "total_msgs": 432,
+   "voice_notes": 0,
+   "text_msgs": 432,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Shitpoliposting": {
+   "tier": "tier4_groups",
+   "total_msgs": 7518,
+   "voice_notes": 7,
+   "text_msgs": 6598,
+   "media_msgs": 913,
+   "voice_pct": 0.001,
+   "text_pct": 0.878,
+   "audio_intensity": 0.1
+  },
+  "El_Viajero": {
+   "tier": "other_lid",
+   "total_msgs": 336,
+   "voice_notes": 82,
+   "text_msgs": 184,
+   "media_msgs": 70,
+   "voice_pct": 0.244,
+   "text_pct": 0.548,
+   "audio_intensity": 0.8
+  },
+  "Group_Oz": {
+   "tier": "tier4_groups",
+   "total_msgs": 103,
+   "voice_notes": 0,
+   "text_msgs": 103,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Funhouse": {
+   "tier": "tier4_groups",
+   "total_msgs": 1742,
+   "voice_notes": 30,
+   "text_msgs": 1442,
+   "media_msgs": 270,
+   "voice_pct": 0.017,
+   "text_pct": 0.828,
+   "audio_intensity": 0.3
+  },
+  "Group_Jottaink": {
+   "tier": "tier4_groups",
+   "total_msgs": 68,
+   "voice_notes": 0,
+   "text_msgs": 68,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Emergentes": {
+   "tier": "tier4_groups",
+   "total_msgs": 381,
+   "voice_notes": 0,
+   "text_msgs": 373,
+   "media_msgs": 8,
+   "voice_pct": 0.0,
+   "text_pct": 0.979,
+   "audio_intensity": 0
+  },
+  "Agi_Is_Cumming": {
+   "tier": "tier4_groups",
+   "total_msgs": 2783,
+   "voice_notes": 3,
+   "text_msgs": 2090,
+   "media_msgs": 690,
+   "voice_pct": 0.001,
+   "text_pct": 0.751,
+   "audio_intensity": 0.0
+  },
+  "Group_Bombas_De_Semillas": {
+   "tier": "tier4_groups",
+   "total_msgs": 26,
+   "voice_notes": 0,
+   "text_msgs": 6,
+   "media_msgs": 20,
+   "voice_pct": 0.0,
+   "text_pct": 0.231,
+   "audio_intensity": 0
+  },
+  "Qe_Meriendita": {
+   "tier": "tier4_groups",
+   "total_msgs": 1343,
+   "voice_notes": 2,
+   "text_msgs": 1168,
+   "media_msgs": 173,
+   "voice_pct": 0.001,
+   "text_pct": 0.87,
+   "audio_intensity": 0.0
+  },
+  "Dentista_Gabi": {
+   "tier": "tier4_groups",
+   "total_msgs": 1113,
+   "voice_notes": 2,
+   "text_msgs": 1111,
+   "media_msgs": 0,
+   "voice_pct": 0.002,
+   "text_pct": 0.998,
+   "audio_intensity": 0.0
+  },
+  "Ci2023_-_Voluntarios_General": {
+   "tier": "tier4_groups",
+   "total_msgs": 585,
+   "voice_notes": 0,
+   "text_msgs": 559,
+   "media_msgs": 26,
+   "voice_pct": 0.0,
+   "text_pct": 0.956,
+   "audio_intensity": 0
+  },
+  "Group_Somos_Gay": {
+   "tier": "tier4_groups",
+   "total_msgs": 391,
+   "voice_notes": 0,
+   "text_msgs": 391,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Ml_Grupo": {
+   "tier": "tier4_groups",
+   "total_msgs": 358,
+   "voice_notes": 0,
+   "text_msgs": 342,
+   "media_msgs": 16,
+   "voice_pct": 0.0,
+   "text_pct": 0.955,
+   "audio_intensity": 0
+  },
+  "Group_Nudo": {
+   "tier": "tier4_groups",
+   "total_msgs": 269,
+   "voice_notes": 0,
+   "text_msgs": 269,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_México_City": {
+   "tier": "tier4_groups",
+   "total_msgs": 194,
+   "voice_notes": 1,
+   "text_msgs": 119,
+   "media_msgs": 74,
+   "voice_pct": 0.005,
+   "text_pct": 0.613,
+   "audio_intensity": 0.0
+  },
+  "Group_Introducción_Al_Aseguramiento_De_La_Calidad_Y_Automatización": {
+   "tier": "tier4_groups",
+   "total_msgs": 105,
+   "voice_notes": 0,
+   "text_msgs": 103,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.981,
+   "audio_intensity": 0
+  },
+  "Group_Bd2": {
+   "tier": "tier4_groups",
+   "total_msgs": 236,
+   "voice_notes": 0,
+   "text_msgs": 220,
+   "media_msgs": 16,
+   "voice_pct": 0.0,
+   "text_pct": 0.932,
+   "audio_intensity": 0
+  },
+  "Group_Instructores_Coordinadores_Apoyo_Talleres_De_Verano": {
+   "tier": "tier4_groups",
+   "total_msgs": 26,
+   "voice_notes": 0,
+   "text_msgs": 25,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.962,
+   "audio_intensity": 0
+  },
+  "Group_Nexa-Paraguay": {
+   "tier": "tier4_groups",
+   "total_msgs": 991,
+   "voice_notes": 3,
+   "text_msgs": 974,
+   "media_msgs": 14,
+   "voice_pct": 0.003,
+   "text_pct": 0.983,
+   "audio_intensity": 0.0
+  },
+  "Group_Pierced_Charm": {
+   "tier": "tier4_groups",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Team_Isabelle_Mm": {
+   "tier": "tier4_groups",
+   "total_msgs": 1033,
+   "voice_notes": 1,
+   "text_msgs": 1019,
+   "media_msgs": 13,
+   "voice_pct": 0.001,
+   "text_pct": 0.986,
+   "audio_intensity": 0.0
+  },
+  "Familie_Van_Der_Pol": {
+   "tier": "tier4_groups",
+   "total_msgs": 2248,
+   "voice_notes": 23,
+   "text_msgs": 1324,
+   "media_msgs": 901,
+   "voice_pct": 0.01,
+   "text_pct": 0.589,
+   "audio_intensity": 0.2
+  },
+  "Nasa_Space_Apps_Ieee_Computer_Society": {
+   "tier": "tier4_groups",
+   "total_msgs": 696,
+   "voice_notes": 2,
+   "text_msgs": 634,
+   "media_msgs": 60,
+   "voice_pct": 0.003,
+   "text_pct": 0.911,
+   "audio_intensity": 0.0
+  },
+  "Vacantes_Optech_V": {
+   "tier": "tier4_groups",
+   "total_msgs": 2795,
+   "voice_notes": 0,
+   "text_msgs": 1724,
+   "media_msgs": 1071,
+   "voice_pct": 0.0,
+   "text_pct": 0.617,
+   "audio_intensity": 0
+  },
+  "Group_Emergentes_Grupo": {
+   "tier": "tier4_groups",
+   "total_msgs": 95,
+   "voice_notes": 0,
+   "text_msgs": 93,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.979,
+   "audio_intensity": 0
+  },
+  "Group_Tsuki": {
+   "tier": "tier4_groups",
+   "total_msgs": 338,
+   "voice_notes": 0,
+   "text_msgs": 338,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Ternary_Presentation": {
+   "tier": "tier4_groups",
+   "total_msgs": 32,
+   "voice_notes": 0,
+   "text_msgs": 29,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.906,
+   "audio_intensity": 0
+  },
+  "Info_Startups": {
+   "tier": "tier4_groups",
+   "total_msgs": 1723,
+   "voice_notes": 4,
+   "text_msgs": 1555,
+   "media_msgs": 164,
+   "voice_pct": 0.002,
+   "text_pct": 0.902,
+   "audio_intensity": 0.0
+  },
+  "Maskarada_-_Club_De_Azote": {
+   "tier": "tier4_groups",
+   "total_msgs": 2986,
+   "voice_notes": 19,
+   "text_msgs": 2606,
+   "media_msgs": 361,
+   "voice_pct": 0.006,
+   "text_pct": 0.873,
+   "audio_intensity": 0.2
+  },
+  "Cum_A_Secas": {
+   "tier": "tier4_groups",
+   "total_msgs": 846,
+   "voice_notes": 6,
+   "text_msgs": 690,
+   "media_msgs": 150,
+   "voice_pct": 0.007,
+   "text_pct": 0.816,
+   "audio_intensity": 0.1
+  },
+  "Ieee_Cs_Una_Sbc_2025": {
+   "tier": "tier4_groups",
+   "total_msgs": 2472,
+   "voice_notes": 0,
+   "text_msgs": 2008,
+   "media_msgs": 464,
+   "voice_pct": 0.0,
+   "text_pct": 0.812,
+   "audio_intensity": 0
+  },
+  "Group_Backend_Sin_Profe": {
+   "tier": "tier4_groups",
+   "total_msgs": 229,
+   "voice_notes": 0,
+   "text_msgs": 217,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.948,
+   "audio_intensity": 0
+  },
+  "Group_Qe_Yguazu_Falls_Trip": {
+   "tier": "tier4_groups",
+   "total_msgs": 520,
+   "voice_notes": 0,
+   "text_msgs": 461,
+   "media_msgs": 59,
+   "voice_pct": 0.0,
+   "text_pct": 0.887,
+   "audio_intensity": 0
+  },
+  "Group_Sheldon_S_Dreams": {
+   "tier": "tier4_groups",
+   "total_msgs": 107,
+   "voice_notes": 3,
+   "text_msgs": 104,
+   "media_msgs": 0,
+   "voice_pct": 0.028,
+   "text_pct": 0.972,
+   "audio_intensity": 0.0
+  },
+  "Group_30Vgs": {
+   "tier": "tier4_groups",
+   "total_msgs": 250,
+   "voice_notes": 0,
+   "text_msgs": 250,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Villa_Mayor": {
+   "tier": "tier4_groups",
+   "total_msgs": 95,
+   "voice_notes": 0,
+   "text_msgs": 95,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Mi_Pumple_30_05_No_Le_Hagan_Caso_A_Ale": {
+   "tier": "tier4_groups",
+   "total_msgs": 80,
+   "voice_notes": 0,
+   "text_msgs": 73,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.912,
+   "audio_intensity": 0
+  },
+  "Group_Becas_Erasmus_Fpuna": {
+   "tier": "tier4_groups",
+   "total_msgs": 98,
+   "voice_notes": 6,
+   "text_msgs": 85,
+   "media_msgs": 7,
+   "voice_pct": 0.061,
+   "text_pct": 0.867,
+   "audio_intensity": 0.1
+  },
+  "Group_Organización_Ci24": {
+   "tier": "tier4_groups",
+   "total_msgs": 355,
+   "voice_notes": 6,
+   "text_msgs": 330,
+   "media_msgs": 19,
+   "voice_pct": 0.017,
+   "text_pct": 0.93,
+   "audio_intensity": 0.1
+  },
+  "Lan_Party_11_02": {
+   "tier": "tier4_groups",
+   "total_msgs": 700,
+   "voice_notes": 1,
+   "text_msgs": 593,
+   "media_msgs": 106,
+   "voice_pct": 0.001,
+   "text_pct": 0.847,
+   "audio_intensity": 0.0
+  },
+  "Club_De_Info_Gral": {
+   "tier": "tier4_groups",
+   "total_msgs": 6588,
+   "voice_notes": 6,
+   "text_msgs": 6167,
+   "media_msgs": 415,
+   "voice_pct": 0.001,
+   "text_pct": 0.936,
+   "audio_intensity": 0.1
+  },
+  "Group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐇𝐢𝐬𝐩𝐚𝐧𝐨𝐡𝐚𝐛𝐥𝐚𝐧𝐭𝐞": {
+   "tier": "tier4_groups",
+   "total_msgs": 64,
+   "voice_notes": 0,
+   "text_msgs": 38,
+   "media_msgs": 26,
+   "voice_pct": 0.0,
+   "text_pct": 0.594,
+   "audio_intensity": 0
+  },
+  "Group_Mi_Cumple_Sábado": {
+   "tier": "tier4_groups",
+   "total_msgs": 81,
+   "voice_notes": 0,
+   "text_msgs": 65,
+   "media_msgs": 16,
+   "voice_pct": 0.0,
+   "text_pct": 0.802,
+   "audio_intensity": 0
+  },
+  "Group_Unnamed": {
+   "tier": "tier4_groups",
+   "total_msgs": 195,
+   "voice_notes": 7,
+   "text_msgs": 161,
+   "media_msgs": 27,
+   "voice_pct": 0.036,
+   "text_pct": 0.826,
+   "audio_intensity": 0.1
+  },
+  "Group_Comité_De_Cursos_Charlas_-_Cs": {
+   "tier": "tier4_groups",
+   "total_msgs": 505,
+   "voice_notes": 1,
+   "text_msgs": 484,
+   "media_msgs": 20,
+   "voice_pct": 0.002,
+   "text_pct": 0.958,
+   "audio_intensity": 0.0
+  },
+  "Group_Goldenvisa": {
+   "tier": "tier4_groups",
+   "total_msgs": 531,
+   "voice_notes": 0,
+   "text_msgs": 530,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.998,
+   "audio_intensity": 0
+  },
+  "Group_Dan": {
+   "tier": "tier4_groups",
+   "total_msgs": 134,
+   "voice_notes": 5,
+   "text_msgs": 128,
+   "media_msgs": 1,
+   "voice_pct": 0.037,
+   "text_pct": 0.955,
+   "audio_intensity": 0.1
+  },
+  "Group_Ia_Organización": {
+   "tier": "tier4_groups",
+   "total_msgs": 141,
+   "voice_notes": 0,
+   "text_msgs": 137,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.972,
+   "audio_intensity": 0
+  },
+  "Group_Cosas_De_Casa": {
+   "tier": "tier4_groups",
+   "total_msgs": 121,
+   "voice_notes": 1,
+   "text_msgs": 110,
+   "media_msgs": 10,
+   "voice_pct": 0.008,
+   "text_pct": 0.909,
+   "audio_intensity": 0.0
+  },
+  "Group_Istqb_Brave_And_Courageous": {
+   "tier": "tier4_groups",
+   "total_msgs": 129,
+   "voice_notes": 0,
+   "text_msgs": 123,
+   "media_msgs": 6,
+   "voice_pct": 0.0,
+   "text_pct": 0.953,
+   "audio_intensity": 0
+  },
+  "Group_Rach": {
+   "tier": "tier4_groups",
+   "total_msgs": 908,
+   "voice_notes": 0,
+   "text_msgs": 904,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.996,
+   "audio_intensity": 0
+  },
+  "Group_Este_Grupo_Se_Autodestruirá_En_20Min": {
+   "tier": "tier4_groups",
+   "total_msgs": 157,
+   "voice_notes": 1,
+   "text_msgs": 151,
+   "media_msgs": 5,
+   "voice_pct": 0.006,
+   "text_pct": 0.962,
+   "audio_intensity": 0.0
+  },
+  "Group_Iin_Gaming_Club": {
+   "tier": "tier4_groups",
+   "total_msgs": 143,
+   "voice_notes": 0,
+   "text_msgs": 119,
+   "media_msgs": 24,
+   "voice_pct": 0.0,
+   "text_pct": 0.832,
+   "audio_intensity": 0
+  },
+  "Group_Is3_Sin_Profes": {
+   "tier": "tier4_groups",
+   "total_msgs": 72,
+   "voice_notes": 0,
+   "text_msgs": 69,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.958,
+   "audio_intensity": 0
+  },
+  "Group_Samber_Atyra": {
+   "tier": "tier4_groups",
+   "total_msgs": 198,
+   "voice_notes": 1,
+   "text_msgs": 176,
+   "media_msgs": 21,
+   "voice_pct": 0.005,
+   "text_pct": 0.889,
+   "audio_intensity": 0.0
+  },
+  "Group_La_Cumbre_Trip": {
+   "tier": "tier4_groups",
+   "total_msgs": 291,
+   "voice_notes": 0,
+   "text_msgs": 0,
+   "media_msgs": 291,
+   "voice_pct": 0.0,
+   "text_pct": 0.0,
+   "audio_intensity": 0
+  },
+  "Group_Los_Más_Paraguayos_-_Solo_Amigos_Permitidos": {
+   "tier": "tier4_groups",
+   "total_msgs": 236,
+   "voice_notes": 0,
+   "text_msgs": 168,
+   "media_msgs": 68,
+   "voice_pct": 0.0,
+   "text_pct": 0.712,
+   "audio_intensity": 0
+  },
+  "Py_Testing_Community": {
+   "tier": "tier4_groups",
+   "total_msgs": 2056,
+   "voice_notes": 2,
+   "text_msgs": 1714,
+   "media_msgs": 340,
+   "voice_pct": 0.001,
+   "text_pct": 0.834,
+   "audio_intensity": 0.0
+  },
+  "Group_D_D": {
+   "tier": "tier4_groups",
+   "total_msgs": 178,
+   "voice_notes": 0,
+   "text_msgs": 160,
+   "media_msgs": 18,
+   "voice_pct": 0.0,
+   "text_pct": 0.899,
+   "audio_intensity": 0
+  },
+  "Group_Fpuna_Ciberseguridad": {
+   "tier": "tier4_groups",
+   "total_msgs": 239,
+   "voice_notes": 0,
+   "text_msgs": 233,
+   "media_msgs": 6,
+   "voice_pct": 0.0,
+   "text_pct": 0.975,
+   "audio_intensity": 0
+  },
+  "Sarah_S_Neon_Furry_B-Day_Party": {
+   "tier": "tier4_groups",
+   "total_msgs": 2838,
+   "voice_notes": 8,
+   "text_msgs": 2698,
+   "media_msgs": 132,
+   "voice_pct": 0.003,
+   "text_pct": 0.951,
+   "audio_intensity": 0.1
+  },
+  "Group_Reina_Copas": {
+   "tier": "tier4_groups",
+   "total_msgs": 179,
+   "voice_notes": 0,
+   "text_msgs": 178,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.994,
+   "audio_intensity": 0
+  },
+  "Ieeextreme_17_0_-_Student_Branch_Una": {
+   "tier": "tier4_groups",
+   "total_msgs": 1107,
+   "voice_notes": 5,
+   "text_msgs": 1036,
+   "media_msgs": 66,
+   "voice_pct": 0.005,
+   "text_pct": 0.936,
+   "audio_intensity": 0.1
+  },
+  "Group_Ai_Forsonia": {
+   "tier": "tier4_groups",
+   "total_msgs": 60,
+   "voice_notes": 0,
+   "text_msgs": 55,
+   "media_msgs": 5,
+   "voice_pct": 0.0,
+   "text_pct": 0.917,
+   "audio_intensity": 0
+  },
+  "Group_Gruponpara_Invitarse_A_Casa_Y_Hacercelas_Facil": {
+   "tier": "tier4_groups",
+   "total_msgs": 20,
+   "voice_notes": 0,
+   "text_msgs": 19,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.95,
+   "audio_intensity": 0
+  },
+  "Group_Wsu_Becal-Cpk_Spring": {
+   "tier": "tier4_groups",
+   "total_msgs": 634,
+   "voice_notes": 0,
+   "text_msgs": 454,
+   "media_msgs": 180,
+   "voice_pct": 0.0,
+   "text_pct": 0.716,
+   "audio_intensity": 0
+  },
+  "Group_Talleres_De_Verano_2026-_Organizacion": {
+   "tier": "tier4_groups",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 9,
+   "media_msgs": 9,
+   "voice_pct": 0.0,
+   "text_pct": 0.5,
+   "audio_intensity": 0
+  },
+  "Group_Cuarteto_El_15": {
+   "tier": "tier4_groups",
+   "total_msgs": 235,
+   "voice_notes": 1,
+   "text_msgs": 220,
+   "media_msgs": 14,
+   "voice_pct": 0.004,
+   "text_pct": 0.936,
+   "audio_intensity": 0.0
+  },
+  "Group_La_Casa": {
+   "tier": "tier4_groups",
+   "total_msgs": 187,
+   "voice_notes": 8,
+   "text_msgs": 148,
+   "media_msgs": 31,
+   "voice_pct": 0.043,
+   "text_pct": 0.791,
+   "audio_intensity": 0.1
+  },
+  "Group_Abogado": {
+   "tier": "tier4_groups",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Qué_Hacer_Durante_Mi_Carrera_Para_Dirigirme_A_Donde_Me_Inter": {
+   "tier": "tier4_groups",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 8,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.667,
+   "audio_intensity": 0
+  },
+  "Group_Test_De_Hermes": {
+   "tier": "tier4_groups",
+   "total_msgs": 68,
+   "voice_notes": 0,
+   "text_msgs": 68,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_El_27_Varela_Invita_En_Su_Casa": {
+   "tier": "tier4_groups",
+   "total_msgs": 24,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.875,
+   "audio_intensity": 0
+  },
+  "Group_Is3": {
+   "tier": "tier4_groups",
+   "total_msgs": 265,
+   "voice_notes": 5,
+   "text_msgs": 240,
+   "media_msgs": 20,
+   "voice_pct": 0.019,
+   "text_pct": 0.906,
+   "audio_intensity": 0.1
+  },
+  "Group_Copias": {
+   "tier": "tier4_groups",
+   "total_msgs": 22,
+   "voice_notes": 0,
+   "text_msgs": 18,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.818,
+   "audio_intensity": 0
+  },
+  "Group_Talleres_De_Invierno_Iin_-_Lcik": {
+   "tier": "tier4_groups",
+   "total_msgs": 45,
+   "voice_notes": 0,
+   "text_msgs": 20,
+   "media_msgs": 25,
+   "voice_pct": 0.0,
+   "text_pct": 0.444,
+   "audio_intensity": 0
+  },
+  "Group_Organización_Py_Testing": {
+   "tier": "tier4_groups",
+   "total_msgs": 212,
+   "voice_notes": 1,
+   "text_msgs": 208,
+   "media_msgs": 3,
+   "voice_pct": 0.005,
+   "text_pct": 0.981,
+   "audio_intensity": 0.0
+  },
+  "Group_Ideas_De_Proyectos_Info": {
+   "tier": "tier4_groups",
+   "total_msgs": 48,
+   "voice_notes": 0,
+   "text_msgs": 47,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.979,
+   "audio_intensity": 0
+  },
+  "Group_Nsac_Asunción_2023_-_Participantes": {
+   "tier": "tier4_groups",
+   "total_msgs": 132,
+   "voice_notes": 0,
+   "text_msgs": 129,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.977,
+   "audio_intensity": 0
+  },
+  "Group_Serafina": {
+   "tier": "tier4_groups",
+   "total_msgs": 381,
+   "voice_notes": 0,
+   "text_msgs": 381,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Group_Saskias_Coffe_Ahop": {
+   "tier": "tier4_groups",
+   "total_msgs": 294,
+   "voice_notes": 0,
+   "text_msgs": 293,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.997,
+   "audio_intensity": 0
+  },
+  "Group_Meetings": {
+   "tier": "tier4_groups",
+   "total_msgs": 114,
+   "voice_notes": 1,
+   "text_msgs": 104,
+   "media_msgs": 9,
+   "voice_pct": 0.009,
+   "text_pct": 0.912,
+   "audio_intensity": 0.0
+  },
+  "Prestamo_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 31,
+   "voice_notes": 2,
+   "text_msgs": 28,
+   "media_msgs": 1,
+   "voice_pct": 0.065,
+   "text_pct": 0.903,
+   "audio_intensity": 0.0
+  },
+  "Hola_Te_Ayudo": {
+   "tier": "untiered_personal",
+   "total_msgs": 21,
+   "voice_notes": 0,
+   "text_msgs": 19,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.905,
+   "audio_intensity": 0
+  },
+  "Hola_Buenas_Noches": {
+   "tier": "untiered_personal",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 12,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Nro_Ale_Request": {
+   "tier": "untiered_personal",
+   "total_msgs": 33,
+   "voice_notes": 7,
+   "text_msgs": 21,
+   "media_msgs": 5,
+   "voice_pct": 0.212,
+   "text_pct": 0.636,
+   "audio_intensity": 0.1
+  },
+  "Buenas_Lid_927": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Consult_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 78,
+   "voice_notes": 0,
+   "text_msgs": 71,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.91,
+   "audio_intensity": 0
+  },
+  "Encantado_Conocerte": {
+   "tier": "untiered_personal",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Photo_Sender": {
+   "tier": "untiered_personal",
+   "total_msgs": 80,
+   "voice_notes": 2,
+   "text_msgs": 56,
+   "media_msgs": 22,
+   "voice_pct": 0.025,
+   "text_pct": 0.7,
+   "audio_intensity": 0.0
+  },
+  "Buenas_595981701701": {
+   "tier": "untiered_personal",
+   "total_msgs": 38,
+   "voice_notes": 0,
+   "text_msgs": 37,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.974,
+   "audio_intensity": 0
+  },
+  "Vasectomia_Query_2": {
+   "tier": "untiered_personal",
+   "total_msgs": 26,
+   "voice_notes": 0,
+   "text_msgs": 26,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Like_This_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 17,
+   "voice_notes": 0,
+   "text_msgs": 3,
+   "media_msgs": 14,
+   "voice_pct": 0.0,
+   "text_pct": 0.176,
+   "audio_intensity": 0
+  },
+  "Regalo_Coordinacion": {
+   "tier": "untiered_personal",
+   "total_msgs": 45,
+   "voice_notes": 1,
+   "text_msgs": 43,
+   "media_msgs": 1,
+   "voice_pct": 0.022,
+   "text_pct": 0.956,
+   "audio_intensity": 0.0
+  },
+  "Fernando_Norte_Single_Bi": {
+   "tier": "untiered_personal",
+   "total_msgs": 19,
+   "voice_notes": 0,
+   "text_msgs": 17,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.895,
+   "audio_intensity": 0
+  },
+  "Hola_Que_Tal_595": {
+   "tier": "untiered_personal",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Remeras_Disenos_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 6,
+   "media_msgs": 10,
+   "voice_pct": 0.0,
+   "text_pct": 0.375,
+   "audio_intensity": 0
+  },
+  "Holiiis_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 27,
+   "voice_notes": 3,
+   "text_msgs": 24,
+   "media_msgs": 0,
+   "voice_pct": 0.111,
+   "text_pct": 0.889,
+   "audio_intensity": 0.0
+  },
+  "Profe_Curso_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 49,
+   "voice_notes": 1,
+   "text_msgs": 47,
+   "media_msgs": 1,
+   "voice_pct": 0.02,
+   "text_pct": 0.959,
+   "audio_intensity": 0.0
+  },
+  "Estimado_Ivan_Inconveniente": {
+   "tier": "untiered_personal",
+   "total_msgs": 15,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Romina_Tupi_Electro": {
+   "tier": "untiered_personal",
+   "total_msgs": 21,
+   "voice_notes": 0,
+   "text_msgs": 18,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.857,
+   "audio_intensity": 0
+  },
+  "121__p4600___wa_chat_595971444600_9680": {
+   "tier": "untiered_personal",
+   "total_msgs": 30,
+   "voice_notes": 0,
+   "text_msgs": 24,
+   "media_msgs": 6,
+   "voice_pct": 0.0,
+   "text_pct": 0.8,
+   "audio_intensity": 0
+  },
+  "Pharmacy_Medical_Advice": {
+   "tier": "untiered_personal",
+   "total_msgs": 50,
+   "voice_notes": 2,
+   "text_msgs": 45,
+   "media_msgs": 3,
+   "voice_pct": 0.04,
+   "text_pct": 0.9,
+   "audio_intensity": 0.0
+  },
+  "Hello_More_Info_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 7,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.7,
+   "audio_intensity": 0
+  },
+  "Hola_Que_Tal_180": {
+   "tier": "untiered_personal",
+   "total_msgs": 99,
+   "voice_notes": 0,
+   "text_msgs": 74,
+   "media_msgs": 25,
+   "voice_pct": 0.0,
+   "text_pct": 0.747,
+   "audio_intensity": 0
+  },
+  "Olga_Referral": {
+   "tier": "untiered_personal",
+   "total_msgs": 20,
+   "voice_notes": 6,
+   "text_msgs": 14,
+   "media_msgs": 0,
+   "voice_pct": 0.3,
+   "text_pct": 0.7,
+   "audio_intensity": 0.1
+  },
+  "Alonso_Motivus": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 3,
+   "media_msgs": 8,
+   "voice_pct": 0.0,
+   "text_pct": 0.273,
+   "audio_intensity": 0
+  },
+  "Pedido_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 36,
+   "voice_notes": 0,
+   "text_msgs": 33,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.917,
+   "audio_intensity": 0
+  },
+  "118__p0431___wa_chat_595971200431_11186": {
+   "tier": "untiered_personal",
+   "total_msgs": 15,
+   "voice_notes": 1,
+   "text_msgs": 14,
+   "media_msgs": 0,
+   "voice_pct": 0.067,
+   "text_pct": 0.933,
+   "audio_intensity": 0.0
+  },
+  "Nudo_Cliente_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 332,
+   "voice_notes": 12,
+   "text_msgs": 304,
+   "media_msgs": 16,
+   "voice_pct": 0.036,
+   "text_pct": 0.916,
+   "audio_intensity": 0.1
+  },
+  "Mail_IT_Alizanza": {
+   "tier": "untiered_personal",
+   "total_msgs": 25,
+   "voice_notes": 0,
+   "text_msgs": 25,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Adri_Referral_Quote": {
+   "tier": "untiered_personal",
+   "total_msgs": 54,
+   "voice_notes": 0,
+   "text_msgs": 48,
+   "media_msgs": 6,
+   "voice_pct": 0.0,
+   "text_pct": 0.889,
+   "audio_intensity": 0
+  },
+  "Bueno_Dia_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 23,
+   "voice_notes": 0,
+   "text_msgs": 23,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Oli_Grindr_Brazil": {
+   "tier": "untiered_personal",
+   "total_msgs": 113,
+   "voice_notes": 0,
+   "text_msgs": 109,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.965,
+   "audio_intensity": 0
+  },
+  "200__p4464___wa_chat_595985124464_11430": {
+   "tier": "untiered_personal",
+   "total_msgs": 72,
+   "voice_notes": 22,
+   "text_msgs": 47,
+   "media_msgs": 3,
+   "voice_pct": 0.306,
+   "text_pct": 0.653,
+   "audio_intensity": 0.2
+  },
+  "Combos_Fruit_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 22,
+   "voice_notes": 0,
+   "text_msgs": 18,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.818,
+   "audio_intensity": 0
+  },
+  "El_Alquimista_Grower": {
+   "tier": "untiered_personal",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 18,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Neko_Friend_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 103,
+   "voice_notes": 23,
+   "text_msgs": 75,
+   "media_msgs": 5,
+   "voice_pct": 0.223,
+   "text_pct": 0.728,
+   "audio_intensity": 0.2
+  },
+  "How_Re_You_AI_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 13,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "253__p4473___wa_chat_59895614473_11939": {
+   "tier": "untiered_personal",
+   "total_msgs": 32,
+   "voice_notes": 0,
+   "text_msgs": 30,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.938,
+   "audio_intensity": 0
+  },
+  "Discord_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 262,
+   "voice_notes": 7,
+   "text_msgs": 248,
+   "media_msgs": 7,
+   "voice_pct": 0.027,
+   "text_pct": 0.947,
+   "audio_intensity": 0.1
+  },
+  "Uwuwu_Cute_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 60,
+   "voice_notes": 2,
+   "text_msgs": 33,
+   "media_msgs": 25,
+   "voice_pct": 0.033,
+   "text_pct": 0.55,
+   "audio_intensity": 0.0
+  },
+  "OT_19507_Tech": {
+   "tier": "untiered_personal",
+   "total_msgs": 64,
+   "voice_notes": 0,
+   "text_msgs": 57,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.891,
+   "audio_intensity": 0
+  },
+  "213__p9488___wa_chat_595986159488_9270": {
+   "tier": "untiered_personal",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 13,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Buen_Dia_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.917,
+   "audio_intensity": 0
+  },
+  "Saffi_Farra": {
+   "tier": "untiered_personal",
+   "total_msgs": 39,
+   "voice_notes": 0,
+   "text_msgs": 39,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Buenas_Lid_126": {
+   "tier": "untiered_personal",
+   "total_msgs": 24,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.875,
+   "audio_intensity": 0
+  },
+  "Buenas_Tardes_591": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 14,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Argentina_Uwuwu": {
+   "tier": "untiered_personal",
+   "total_msgs": 71,
+   "voice_notes": 4,
+   "text_msgs": 57,
+   "media_msgs": 10,
+   "voice_pct": 0.056,
+   "text_pct": 0.803,
+   "audio_intensity": 0.0
+  },
+  "Koi_Delivery_La": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 13,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.929,
+   "audio_intensity": 0
+  },
+  "Credit_Spam_4": {
+   "tier": "untiered_personal",
+   "total_msgs": 202,
+   "voice_notes": 0,
+   "text_msgs": 202,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Sole_Laptop_Help": {
+   "tier": "untiered_personal",
+   "total_msgs": 23,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.913,
+   "audio_intensity": 0
+  },
+  "Masterdom_Jose_Angelo": {
+   "tier": "untiered_personal",
+   "total_msgs": 49,
+   "voice_notes": 6,
+   "text_msgs": 37,
+   "media_msgs": 6,
+   "voice_pct": 0.122,
+   "text_pct": 0.755,
+   "audio_intensity": 0.1
+  },
+  "Thijs_Dutch_Guy_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 194,
+   "voice_notes": 7,
+   "text_msgs": 120,
+   "media_msgs": 67,
+   "voice_pct": 0.036,
+   "text_pct": 0.619,
+   "audio_intensity": 0.1
+  },
+  "Saul_Goodman_Page": {
+   "tier": "untiered_personal",
+   "total_msgs": 37,
+   "voice_notes": 5,
+   "text_msgs": 29,
+   "media_msgs": 3,
+   "voice_pct": 0.135,
+   "text_pct": 0.784,
+   "audio_intensity": 0.1
+  },
+  "220__p4623___wa_chat_595986554623_9543": {
+   "tier": "untiered_personal",
+   "total_msgs": 42,
+   "voice_notes": 0,
+   "text_msgs": 41,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.976,
+   "audio_intensity": 0
+  },
+  "Que_Tal_Bro": {
+   "tier": "untiered_personal",
+   "total_msgs": 15,
+   "voice_notes": 1,
+   "text_msgs": 13,
+   "media_msgs": 1,
+   "voice_pct": 0.067,
+   "text_pct": 0.867,
+   "audio_intensity": 0.0
+  },
+  "Repo_BD2_Interesado": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Ivan_25_Self_Intro": {
+   "tier": "untiered_personal",
+   "total_msgs": 22,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.955,
+   "audio_intensity": 0
+  },
+  "Buenos_Dias_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.833,
+   "audio_intensity": 0
+  },
+  "Yo_Quiero_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 15,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "235__p6040___wa_chat_595992036040_11693": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.909,
+   "audio_intensity": 0
+  },
+  "Amanda_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 20,
+   "voice_notes": 0,
+   "text_msgs": 20,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Buenas_Tardes_Ivan": {
+   "tier": "untiered_personal",
+   "total_msgs": 46,
+   "voice_notes": 2,
+   "text_msgs": 41,
+   "media_msgs": 3,
+   "voice_pct": 0.043,
+   "text_pct": 0.891,
+   "audio_intensity": 0.0
+  },
+  "Tamara_Tienda_Movil": {
+   "tier": "untiered_personal",
+   "total_msgs": 34,
+   "voice_notes": 0,
+   "text_msgs": 30,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.882,
+   "audio_intensity": 0
+  },
+  "ETA_Coordinator": {
+   "tier": "untiered_personal",
+   "total_msgs": 28,
+   "voice_notes": 3,
+   "text_msgs": 25,
+   "media_msgs": 0,
+   "voice_pct": 0.107,
+   "text_pct": 0.893,
+   "audio_intensity": 0.0
+  },
+  "Jose_Balcarse": {
+   "tier": "untiered_personal",
+   "total_msgs": 43,
+   "voice_notes": 0,
+   "text_msgs": 40,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.93,
+   "audio_intensity": 0
+  },
+  "Hola_Ivan_Que_Tal": {
+   "tier": "untiered_personal",
+   "total_msgs": 43,
+   "voice_notes": 1,
+   "text_msgs": 42,
+   "media_msgs": 0,
+   "voice_pct": 0.023,
+   "text_pct": 0.977,
+   "audio_intensity": 0.0
+  },
+  "Gemini_Sharer": {
+   "tier": "untiered_personal",
+   "total_msgs": 208,
+   "voice_notes": 7,
+   "text_msgs": 183,
+   "media_msgs": 18,
+   "voice_pct": 0.034,
+   "text_pct": 0.88,
+   "audio_intensity": 0.1
+  },
+  "122__p4131___wa_chat_595971524131_2150": {
+   "tier": "untiered_personal",
+   "total_msgs": 42,
+   "voice_notes": 0,
+   "text_msgs": 42,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Che_Varea_Grill": {
+   "tier": "untiered_personal",
+   "total_msgs": 30,
+   "voice_notes": 0,
+   "text_msgs": 28,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.933,
+   "audio_intensity": 0
+  },
+  "La_Luna_Es_Mia_Tienda": {
+   "tier": "untiered_personal",
+   "total_msgs": 31,
+   "voice_notes": 0,
+   "text_msgs": 19,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.613,
+   "audio_intensity": 0
+  },
+  "After_Talentoso": {
+   "tier": "untiered_personal",
+   "total_msgs": 22,
+   "voice_notes": 0,
+   "text_msgs": 8,
+   "media_msgs": 14,
+   "voice_pct": 0.0,
+   "text_pct": 0.364,
+   "audio_intensity": 0
+  },
+  "Vasectomia_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 46,
+   "voice_notes": 0,
+   "text_msgs": 42,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.913,
+   "audio_intensity": 0
+  },
+  "En_Verdad_Te_Gustaria": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 14,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.875,
+   "audio_intensity": 0
+  },
+  "Hola_Bro": {
+   "tier": "untiered_personal",
+   "total_msgs": 25,
+   "voice_notes": 0,
+   "text_msgs": 25,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Asistencia_Viajero_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 9,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.9,
+   "audio_intensity": 0
+  },
+  "Isopropilico_precios": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 16,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Vine_Con_Mama": {
+   "tier": "untiered_personal",
+   "total_msgs": 35,
+   "voice_notes": 7,
+   "text_msgs": 26,
+   "media_msgs": 2,
+   "voice_pct": 0.2,
+   "text_pct": 0.743,
+   "audio_intensity": 0.1
+  },
+  "148__p7023___wa_chat_595976777023_2027": {
+   "tier": "untiered_personal",
+   "total_msgs": 33,
+   "voice_notes": 0,
+   "text_msgs": 33,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Soy_Solo_Short": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.938,
+   "audio_intensity": 0
+  },
+  "Holis_Como_Estas": {
+   "tier": "untiered_personal",
+   "total_msgs": 22,
+   "voice_notes": 0,
+   "text_msgs": 22,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Sara": {
+   "tier": "untiered_personal",
+   "total_msgs": 66,
+   "voice_notes": 0,
+   "text_msgs": 60,
+   "media_msgs": 6,
+   "voice_pct": 0.0,
+   "text_pct": 0.909,
+   "audio_intensity": 0
+  },
+  "Buenas_Amigo_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "San_Lorenzo_25": {
+   "tier": "untiered_personal",
+   "total_msgs": 39,
+   "voice_notes": 1,
+   "text_msgs": 36,
+   "media_msgs": 2,
+   "voice_pct": 0.026,
+   "text_pct": 0.923,
+   "audio_intensity": 0.0
+  },
+  "BDSM_Femdom_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 95,
+   "voice_notes": 0,
+   "text_msgs": 76,
+   "media_msgs": 19,
+   "voice_pct": 0.0,
+   "text_pct": 0.8,
+   "audio_intensity": 0
+  },
+  "Photos_Sender_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 4,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.25,
+   "audio_intensity": 0
+  },
+  "Weissvanderpol_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 34,
+   "voice_notes": 0,
+   "text_msgs": 33,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.971,
+   "audio_intensity": 0
+  },
+  "Jesus_Cami_Maidana_Referral": {
+   "tier": "untiered_personal",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.833,
+   "audio_intensity": 0
+  },
+  "Jose_Insfran_Weiss": {
+   "tier": "untiered_personal",
+   "total_msgs": 23,
+   "voice_notes": 0,
+   "text_msgs": 22,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.957,
+   "audio_intensity": 0
+  },
+  "Dolly_Sabanas": {
+   "tier": "untiered_personal",
+   "total_msgs": 29,
+   "voice_notes": 0,
+   "text_msgs": 28,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.966,
+   "audio_intensity": 0
+  },
+  "Haciendo_Solo_Tambien": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 16,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "TikTok_Sharer": {
+   "tier": "untiered_personal",
+   "total_msgs": 109,
+   "voice_notes": 12,
+   "text_msgs": 83,
+   "media_msgs": 14,
+   "voice_pct": 0.11,
+   "text_pct": 0.761,
+   "audio_intensity": 0.1
+  },
+  "Luis_Vargas_Woden": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 14,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.875,
+   "audio_intensity": 0
+  },
+  "Taller_Invierno_Ivan": {
+   "tier": "untiered_personal",
+   "total_msgs": 20,
+   "voice_notes": 4,
+   "text_msgs": 16,
+   "media_msgs": 0,
+   "voice_pct": 0.2,
+   "text_pct": 0.8,
+   "audio_intensity": 0.0
+  },
+  "Pagopar_Mariana": {
+   "tier": "untiered_personal",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 18,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "184__p0224___wa_chat_595983800224_9916": {
+   "tier": "untiered_personal",
+   "total_msgs": 32,
+   "voice_notes": 0,
+   "text_msgs": 31,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.969,
+   "audio_intensity": 0
+  },
+  "FPUNA_Estudiante": {
+   "tier": "untiered_personal",
+   "total_msgs": 33,
+   "voice_notes": 0,
+   "text_msgs": 27,
+   "media_msgs": 6,
+   "voice_pct": 0.0,
+   "text_pct": 0.818,
+   "audio_intensity": 0
+  },
+  "Alejandra_Queretaro": {
+   "tier": "untiered_personal",
+   "total_msgs": 161,
+   "voice_notes": 0,
+   "text_msgs": 157,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.975,
+   "audio_intensity": 0
+  },
+  "138__p4744___wa_chat_595972994744_4768": {
+   "tier": "untiered_personal",
+   "total_msgs": 30,
+   "voice_notes": 2,
+   "text_msgs": 28,
+   "media_msgs": 0,
+   "voice_pct": 0.067,
+   "text_pct": 0.933,
+   "audio_intensity": 0.0
+  },
+  "Podes_Reenviar": {
+   "tier": "untiered_personal",
+   "total_msgs": 33,
+   "voice_notes": 6,
+   "text_msgs": 25,
+   "media_msgs": 2,
+   "voice_pct": 0.182,
+   "text_pct": 0.758,
+   "audio_intensity": 0.1
+  },
+  "Profe_Pre_Clase_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 12,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.923,
+   "audio_intensity": 0
+  },
+  "179__p0080___wa_chat_595983220080_2162": {
+   "tier": "untiered_personal",
+   "total_msgs": 30,
+   "voice_notes": 0,
+   "text_msgs": 27,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.9,
+   "audio_intensity": 0
+  },
+  "Holaaaa_637": {
+   "tier": "untiered_personal",
+   "total_msgs": 44,
+   "voice_notes": 3,
+   "text_msgs": 40,
+   "media_msgs": 1,
+   "voice_pct": 0.068,
+   "text_pct": 0.909,
+   "audio_intensity": 0.0
+  },
+  "BD2_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 23,
+   "voice_notes": 0,
+   "text_msgs": 23,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Dealer_Galletitas_Buyer": {
+   "tier": "untiered_personal",
+   "total_msgs": 283,
+   "voice_notes": 59,
+   "text_msgs": 205,
+   "media_msgs": 19,
+   "voice_pct": 0.208,
+   "text_pct": 0.724,
+   "audio_intensity": 0.6
+  },
+  "Tigo_Bot_Liza": {
+   "tier": "untiered_personal",
+   "total_msgs": 24,
+   "voice_notes": 0,
+   "text_msgs": 19,
+   "media_msgs": 5,
+   "voice_pct": 0.0,
+   "text_pct": 0.792,
+   "audio_intensity": 0
+  },
+  "Kunu_u": {
+   "tier": "untiered_personal",
+   "total_msgs": 98,
+   "voice_notes": 9,
+   "text_msgs": 84,
+   "media_msgs": 5,
+   "voice_pct": 0.092,
+   "text_pct": 0.857,
+   "audio_intensity": 0.1
+  },
+  "Remera_Lila_Talla_M_G": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "OpenCode_Wall_AI": {
+   "tier": "untiered_personal",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.833,
+   "audio_intensity": 0
+  },
+  "Edificio_Brasilia": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.938,
+   "audio_intensity": 0
+  },
+  "202__p3897___wa_chat_595985343897_7621": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 1,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.091,
+   "text_pct": 0.909,
+   "audio_intensity": 0.0
+  },
+  "WSP_Assist_00E9E00": {
+   "tier": "untiered_personal",
+   "total_msgs": 17,
+   "voice_notes": 0,
+   "text_msgs": 17,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Sarah_Bum_Referral": {
+   "tier": "untiered_personal",
+   "total_msgs": 62,
+   "voice_notes": 0,
+   "text_msgs": 62,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Fabricio_Mendoza_AIESEC": {
+   "tier": "untiered_personal",
+   "total_msgs": 28,
+   "voice_notes": 0,
+   "text_msgs": 28,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Buenas_168p6355": {
+   "tier": "untiered_personal",
+   "total_msgs": 29,
+   "voice_notes": 0,
+   "text_msgs": 22,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.759,
+   "audio_intensity": 0
+  },
+  "Skokka_Melik_Ad": {
+   "tier": "untiered_personal",
+   "total_msgs": 47,
+   "voice_notes": 0,
+   "text_msgs": 44,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.936,
+   "audio_intensity": 0
+  },
+  "Credit_Spam_2": {
+   "tier": "untiered_personal",
+   "total_msgs": 325,
+   "voice_notes": 0,
+   "text_msgs": 325,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Holaaa_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 12,
+   "voice_notes": 1,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.083,
+   "text_pct": 0.917,
+   "audio_intensity": 0.0
+  },
+  "Que_Tal_Lid_94": {
+   "tier": "untiered_personal",
+   "total_msgs": 100,
+   "voice_notes": 0,
+   "text_msgs": 98,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.98,
+   "audio_intensity": 0
+  },
+  "252__p2888___wa_chat_595994922888_5114": {
+   "tier": "untiered_personal",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 8,
+   "media_msgs": 5,
+   "voice_pct": 0.0,
+   "text_pct": 0.615,
+   "audio_intensity": 0
+  },
+  "Oreja_Transversal_Piercing": {
+   "tier": "untiered_personal",
+   "total_msgs": 32,
+   "voice_notes": 2,
+   "text_msgs": 29,
+   "media_msgs": 1,
+   "voice_pct": 0.062,
+   "text_pct": 0.906,
+   "audio_intensity": 0.0
+  },
+  "Cami_Amigo": {
+   "tier": "untiered_personal",
+   "total_msgs": 164,
+   "voice_notes": 0,
+   "text_msgs": 164,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "192__p1244___wa_chat_595984731244_10265": {
+   "tier": "untiered_personal",
+   "total_msgs": 70,
+   "voice_notes": 5,
+   "text_msgs": 59,
+   "media_msgs": 6,
+   "voice_pct": 0.071,
+   "text_pct": 0.843,
+   "audio_intensity": 0.1
+  },
+  "Angel_Gamarra_CS": {
+   "tier": "untiered_personal",
+   "total_msgs": 59,
+   "voice_notes": 0,
+   "text_msgs": 55,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.932,
+   "audio_intensity": 0
+  },
+  "Peider_QA_Support": {
+   "tier": "untiered_personal",
+   "total_msgs": 111,
+   "voice_notes": 5,
+   "text_msgs": 104,
+   "media_msgs": 2,
+   "voice_pct": 0.045,
+   "text_pct": 0.937,
+   "audio_intensity": 0.1
+  },
+  "Solo_San_Lorenzo_25": {
+   "tier": "untiered_personal",
+   "total_msgs": 31,
+   "voice_notes": 0,
+   "text_msgs": 30,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.968,
+   "audio_intensity": 0
+  },
+  "Que_Tal_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 15,
+   "voice_notes": 1,
+   "text_msgs": 13,
+   "media_msgs": 1,
+   "voice_pct": 0.067,
+   "text_pct": 0.867,
+   "audio_intensity": 0.0
+  },
+  "216__p6810___wa_chat_595986186810_232": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Doc_Mod_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 17,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.944,
+   "audio_intensity": 0
+  },
+  "Buenas_Tardes_585": {
+   "tier": "untiered_personal",
+   "total_msgs": 12,
+   "voice_notes": 1,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.083,
+   "text_pct": 0.917,
+   "audio_intensity": 0.0
+  },
+  "Buenas_584": {
+   "tier": "untiered_personal",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 13,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Coffeecatpy_Insta": {
+   "tier": "untiered_personal",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 12,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.923,
+   "audio_intensity": 0
+  },
+  "241__p3433___wa_chat_595992443433_4763": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 14,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Reimar_Cintos": {
+   "tier": "untiered_personal",
+   "total_msgs": 51,
+   "voice_notes": 0,
+   "text_msgs": 40,
+   "media_msgs": 11,
+   "voice_pct": 0.0,
+   "text_pct": 0.784,
+   "audio_intensity": 0
+  },
+  "Don_Juan_Web": {
+   "tier": "untiered_personal",
+   "total_msgs": 53,
+   "voice_notes": 0,
+   "text_msgs": 51,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.962,
+   "audio_intensity": 0
+  },
+  "Credit_Spam_3": {
+   "tier": "untiered_personal",
+   "total_msgs": 238,
+   "voice_notes": 0,
+   "text_msgs": 238,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Anna_Referral": {
+   "tier": "untiered_personal",
+   "total_msgs": 196,
+   "voice_notes": 2,
+   "text_msgs": 192,
+   "media_msgs": 2,
+   "voice_pct": 0.01,
+   "text_pct": 0.98,
+   "audio_intensity": 0.0
+  },
+  "Chill_Spanish_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 514,
+   "voice_notes": 9,
+   "text_msgs": 489,
+   "media_msgs": 16,
+   "voice_pct": 0.018,
+   "text_pct": 0.951,
+   "audio_intensity": 0.1
+  },
+  "Wow_Foto_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 20,
+   "voice_notes": 0,
+   "text_msgs": 20,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Hola_Ivan_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 158,
+   "voice_notes": 0,
+   "text_msgs": 149,
+   "media_msgs": 9,
+   "voice_pct": 0.0,
+   "text_pct": 0.943,
+   "audio_intensity": 0
+  },
+  "Piercing_Buyer": {
+   "tier": "untiered_personal",
+   "total_msgs": 257,
+   "voice_notes": 9,
+   "text_msgs": 230,
+   "media_msgs": 18,
+   "voice_pct": 0.035,
+   "text_pct": 0.895,
+   "audio_intensity": 0.1
+  },
+  "Saskia_Close_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 144,
+   "voice_notes": 9,
+   "text_msgs": 118,
+   "media_msgs": 17,
+   "voice_pct": 0.062,
+   "text_pct": 0.819,
+   "audio_intensity": 0.1
+  },
+  "175__p0360___wa_chat_595982810360_6527": {
+   "tier": "untiered_personal",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Como_Lo_Que_Vos_Sabes": {
+   "tier": "untiered_personal",
+   "total_msgs": 13,
+   "voice_notes": 0,
+   "text_msgs": 12,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.923,
+   "audio_intensity": 0
+  },
+  "Cerri": {
+   "tier": "untiered_personal",
+   "total_msgs": 91,
+   "voice_notes": 1,
+   "text_msgs": 80,
+   "media_msgs": 10,
+   "voice_pct": 0.011,
+   "text_pct": 0.879,
+   "audio_intensity": 0.0
+  },
+  "Hola_Buenos_Dias": {
+   "tier": "untiered_personal",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 12,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Frutika_Delivery": {
+   "tier": "untiered_personal",
+   "total_msgs": 48,
+   "voice_notes": 0,
+   "text_msgs": 45,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.938,
+   "audio_intensity": 0
+  },
+  "239__p9449___wa_chat_595992379449_9561": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 3,
+   "text_msgs": 8,
+   "media_msgs": 0,
+   "voice_pct": 0.273,
+   "text_pct": 0.727,
+   "audio_intensity": 0.0
+  },
+  "INSIGNIA_07_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 36,
+   "voice_notes": 0,
+   "text_msgs": 35,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.972,
+   "audio_intensity": 0
+  },
+  "Poke_Sushi_Delivery_2": {
+   "tier": "untiered_personal",
+   "total_msgs": 19,
+   "voice_notes": 0,
+   "text_msgs": 19,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Hi_Yeah_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 14,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Spray_Pimienta_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 38,
+   "voice_notes": 1,
+   "text_msgs": 37,
+   "media_msgs": 0,
+   "voice_pct": 0.026,
+   "text_pct": 0.974,
+   "audio_intensity": 0.0
+  },
+  "Nataly_Stoner_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 102,
+   "voice_notes": 5,
+   "text_msgs": 96,
+   "media_msgs": 1,
+   "voice_pct": 0.049,
+   "text_pct": 0.941,
+   "audio_intensity": 0.1
+  },
+  "223__p0030___wa_chat_595986850030_6817": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 1,
+   "text_msgs": 11,
+   "media_msgs": 2,
+   "voice_pct": 0.071,
+   "text_pct": 0.786,
+   "audio_intensity": 0.0
+  },
+  "Temu_AliExpress_Pedidos": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Yissel_Montiel_Aspiradora": {
+   "tier": "untiered_personal",
+   "total_msgs": 128,
+   "voice_notes": 23,
+   "text_msgs": 93,
+   "media_msgs": 12,
+   "voice_pct": 0.18,
+   "text_pct": 0.727,
+   "audio_intensity": 0.2
+  },
+  "Grafimark_Francisco": {
+   "tier": "untiered_personal",
+   "total_msgs": 19,
+   "voice_notes": 1,
+   "text_msgs": 18,
+   "media_msgs": 0,
+   "voice_pct": 0.053,
+   "text_pct": 0.947,
+   "audio_intensity": 0.0
+  },
+  "Luz_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 171,
+   "voice_notes": 0,
+   "text_msgs": 161,
+   "media_msgs": 10,
+   "voice_pct": 0.0,
+   "text_pct": 0.942,
+   "audio_intensity": 0
+  },
+  "Raul_Hermano_Roger": {
+   "tier": "untiered_personal",
+   "total_msgs": 89,
+   "voice_notes": 0,
+   "text_msgs": 89,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Mas_Info_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 21,
+   "voice_notes": 0,
+   "text_msgs": 19,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.905,
+   "audio_intensity": 0
+  },
+  "Piercing_Aftercare_Buyer": {
+   "tier": "untiered_personal",
+   "total_msgs": 45,
+   "voice_notes": 3,
+   "text_msgs": 31,
+   "media_msgs": 11,
+   "voice_pct": 0.067,
+   "text_pct": 0.689,
+   "audio_intensity": 0.0
+  },
+  "Tinder_Match": {
+   "tier": "untiered_personal",
+   "total_msgs": 27,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 12,
+   "voice_pct": 0.0,
+   "text_pct": 0.556,
+   "audio_intensity": 0
+  },
+  "Holaaa_224": {
+   "tier": "untiered_personal",
+   "total_msgs": 83,
+   "voice_notes": 7,
+   "text_msgs": 70,
+   "media_msgs": 6,
+   "voice_pct": 0.084,
+   "text_pct": 0.843,
+   "audio_intensity": 0.1
+  },
+  "Me_Dejaste_Tu_Numero": {
+   "tier": "untiered_personal",
+   "total_msgs": 45,
+   "voice_notes": 0,
+   "text_msgs": 42,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.933,
+   "audio_intensity": 0
+  },
+  "Que_Tal_196p8527": {
+   "tier": "untiered_personal",
+   "total_msgs": 25,
+   "voice_notes": 0,
+   "text_msgs": 24,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.96,
+   "audio_intensity": 0
+  },
+  "Test_Automation_Experience": {
+   "tier": "untiered_personal",
+   "total_msgs": 21,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Delivery_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 58,
+   "voice_notes": 4,
+   "text_msgs": 44,
+   "media_msgs": 10,
+   "voice_pct": 0.069,
+   "text_pct": 0.759,
+   "audio_intensity": 0.0
+  },
+  "Ivan_Weiss_IIN_Colbes": {
+   "tier": "untiered_personal",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 18,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "IA_Agentic_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 14,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Cesar": {
+   "tier": "untiered_personal",
+   "total_msgs": 84,
+   "voice_notes": 6,
+   "text_msgs": 65,
+   "media_msgs": 13,
+   "voice_pct": 0.071,
+   "text_pct": 0.774,
+   "audio_intensity": 0.1
+  },
+  "Mi_Loco": {
+   "tier": "untiered_personal",
+   "total_msgs": 22,
+   "voice_notes": 10,
+   "text_msgs": 12,
+   "media_msgs": 0,
+   "voice_pct": 0.455,
+   "text_pct": 0.545,
+   "audio_intensity": 0.1
+  },
+  "Kiki_Referral_Wes": {
+   "tier": "untiered_personal",
+   "total_msgs": 91,
+   "voice_notes": 2,
+   "text_msgs": 39,
+   "media_msgs": 50,
+   "voice_pct": 0.022,
+   "text_pct": 0.429,
+   "audio_intensity": 0.0
+  },
+  "Textura_Goma_Print": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 16,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "TAGG_Gerente_RRHH": {
+   "tier": "untiered_personal",
+   "total_msgs": 11,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Isaac_Monchis_Pedido": {
+   "tier": "untiered_personal",
+   "total_msgs": 17,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 7,
+   "voice_pct": 0.0,
+   "text_pct": 0.588,
+   "audio_intensity": 0
+  },
+  "Canada_Flight_Ref": {
+   "tier": "untiered_personal",
+   "total_msgs": 62,
+   "voice_notes": 0,
+   "text_msgs": 60,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.968,
+   "audio_intensity": 0
+  },
+  "Grindr_Contact": {
+   "tier": "untiered_personal",
+   "total_msgs": 15,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Mario_Asado": {
+   "tier": "untiered_personal",
+   "total_msgs": 22,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.955,
+   "audio_intensity": 0
+  },
+  "111__p0198___wa_chat_595961100198_1354": {
+   "tier": "untiered_personal",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 10,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "De_Donde_Sos_Amigo": {
+   "tier": "untiered_personal",
+   "total_msgs": 46,
+   "voice_notes": 0,
+   "text_msgs": 45,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.978,
+   "audio_intensity": 0
+  },
+  "Me_Escribiste_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 12,
+   "voice_notes": 0,
+   "text_msgs": 11,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.917,
+   "audio_intensity": 0
+  },
+  "Uber_Crashea_Casa": {
+   "tier": "untiered_personal",
+   "total_msgs": 38,
+   "voice_notes": 2,
+   "text_msgs": 34,
+   "media_msgs": 2,
+   "voice_pct": 0.053,
+   "text_pct": 0.895,
+   "audio_intensity": 0.0
+  },
+  "199__p7697___wa_chat_595984917697_2941": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 1,
+   "text_msgs": 13,
+   "media_msgs": 0,
+   "voice_pct": 0.071,
+   "text_pct": 0.929,
+   "audio_intensity": 0.0
+  },
+  "Soy_Solo_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 26,
+   "voice_notes": 0,
+   "text_msgs": 25,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.962,
+   "audio_intensity": 0
+  },
+  "Delivery_Hasta_Acá": {
+   "tier": "untiered_personal",
+   "total_msgs": 25,
+   "voice_notes": 0,
+   "text_msgs": 22,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.88,
+   "audio_intensity": 0
+  },
+  "Kink_Castigos_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 281,
+   "voice_notes": 17,
+   "text_msgs": 253,
+   "media_msgs": 11,
+   "voice_pct": 0.06,
+   "text_pct": 0.9,
+   "audio_intensity": 0.2
+  },
+  "Hola_nnn_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 223,
+   "voice_notes": 13,
+   "text_msgs": 200,
+   "media_msgs": 10,
+   "voice_pct": 0.058,
+   "text_pct": 0.897,
+   "audio_intensity": 0.1
+  },
+  "Google_Maps_Interest": {
+   "tier": "untiered_personal",
+   "total_msgs": 27,
+   "voice_notes": 0,
+   "text_msgs": 27,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Skokka_Luana_Ad": {
+   "tier": "untiered_personal",
+   "total_msgs": 19,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 4,
+   "voice_pct": 0.0,
+   "text_pct": 0.789,
+   "audio_intensity": 0
+  },
+  "Opciones_Llevar_Compartir": {
+   "tier": "untiered_personal",
+   "total_msgs": 10,
+   "voice_notes": 0,
+   "text_msgs": 7,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.7,
+   "audio_intensity": 0
+  },
+  "Sol_Visuar_Ecommerce": {
+   "tier": "untiered_personal",
+   "total_msgs": 28,
+   "voice_notes": 0,
+   "text_msgs": 23,
+   "media_msgs": 5,
+   "voice_pct": 0.0,
+   "text_pct": 0.821,
+   "audio_intensity": 0
+  },
+  "139__p3000___wa_chat_595973603000_9873": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 13,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.929,
+   "audio_intensity": 0
+  },
+  "243__p9480___wa_chat_595992749480_10506": {
+   "tier": "untiered_personal",
+   "total_msgs": 32,
+   "voice_notes": 0,
+   "text_msgs": 30,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.938,
+   "audio_intensity": 0
+  },
+  "Hola_Que_Tal_564": {
+   "tier": "untiered_personal",
+   "total_msgs": 35,
+   "voice_notes": 0,
+   "text_msgs": 35,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Image_Spam_Reply_Loop": {
+   "tier": "untiered_personal",
+   "total_msgs": 23,
+   "voice_notes": 0,
+   "text_msgs": 1,
+   "media_msgs": 22,
+   "voice_pct": 0.0,
+   "text_pct": 0.043,
+   "audio_intensity": 0
+  },
+  "Sivling_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 125,
+   "voice_notes": 11,
+   "text_msgs": 106,
+   "media_msgs": 8,
+   "voice_pct": 0.088,
+   "text_pct": 0.848,
+   "audio_intensity": 0.1
+  },
+  "johana_candidate___wa_chat_595971179825_3698": {
+   "tier": "untiered_personal",
+   "total_msgs": 39,
+   "voice_notes": 0,
+   "text_msgs": 36,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.923,
+   "audio_intensity": 0
+  },
+  "IA_Startup_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 38,
+   "voice_notes": 0,
+   "text_msgs": 38,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Menu_Pass": {
+   "tier": "untiered_personal",
+   "total_msgs": 18,
+   "voice_notes": 0,
+   "text_msgs": 15,
+   "media_msgs": 3,
+   "voice_pct": 0.0,
+   "text_pct": 0.833,
+   "audio_intensity": 0
+  },
+  "Consulta_Agenda": {
+   "tier": "untiered_personal",
+   "total_msgs": 44,
+   "voice_notes": 0,
+   "text_msgs": 43,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.977,
+   "audio_intensity": 0
+  },
+  "Castracion_Perras_Vet": {
+   "tier": "untiered_personal",
+   "total_msgs": 14,
+   "voice_notes": 0,
+   "text_msgs": 12,
+   "media_msgs": 2,
+   "voice_pct": 0.0,
+   "text_pct": 0.857,
+   "audio_intensity": 0
+  },
+  "CI_Number_Request": {
+   "tier": "untiered_personal",
+   "total_msgs": 38,
+   "voice_notes": 0,
+   "text_msgs": 38,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Entradas_Query": {
+   "tier": "untiered_personal",
+   "total_msgs": 22,
+   "voice_notes": 0,
+   "text_msgs": 21,
+   "media_msgs": 1,
+   "voice_pct": 0.0,
+   "text_pct": 0.955,
+   "audio_intensity": 0
+  },
+  "Hello_Uwuw": {
+   "tier": "untiered_personal",
+   "total_msgs": 26,
+   "voice_notes": 0,
+   "text_msgs": 26,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Augusto_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 19,
+   "voice_notes": 1,
+   "text_msgs": 18,
+   "media_msgs": 0,
+   "voice_pct": 0.053,
+   "text_pct": 0.947,
+   "audio_intensity": 0.0
+  },
+  "Que_Tal_Amigo": {
+   "tier": "untiered_personal",
+   "total_msgs": 16,
+   "voice_notes": 0,
+   "text_msgs": 16,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Ferrex_Pinedo": {
+   "tier": "untiered_personal",
+   "total_msgs": 46,
+   "voice_notes": 0,
+   "text_msgs": 37,
+   "media_msgs": 9,
+   "voice_pct": 0.0,
+   "text_pct": 0.804,
+   "audio_intensity": 0
+  },
+  "182__p5779___wa_chat_595983435779_11525": {
+   "tier": "untiered_personal",
+   "total_msgs": 13,
+   "voice_notes": 1,
+   "text_msgs": 11,
+   "media_msgs": 1,
+   "voice_pct": 0.077,
+   "text_pct": 0.846,
+   "audio_intensity": 0.0
+  },
+  "Credit_Spam_1": {
+   "tier": "untiered_personal",
+   "total_msgs": 364,
+   "voice_notes": 0,
+   "text_msgs": 364,
+   "media_msgs": 0,
+   "voice_pct": 0.0,
+   "text_pct": 1.0,
+   "audio_intensity": 0
+  },
+  "Thais": {
+   "tier": "other_lid",
+   "total_msgs": 3825,
+   "voice_notes": 364,
+   "text_msgs": 3213,
+   "media_msgs": 248,
+   "voice_pct": 0.095,
+   "text_pct": 0.84,
+   "audio_intensity": 3.6
+  },
+  "OpenClaw_User": {
+   "tier": "other_lid",
+   "total_msgs": 814,
+   "voice_notes": 18,
+   "text_msgs": 765,
+   "media_msgs": 31,
+   "voice_pct": 0.022,
+   "text_pct": 0.94,
+   "audio_intensity": 0.2
+  },
+  "Foodie_Friend": {
+   "tier": "other_lid",
+   "total_msgs": 578,
+   "voice_notes": 26,
+   "text_msgs": 523,
+   "media_msgs": 29,
+   "voice_pct": 0.045,
+   "text_pct": 0.905,
+   "audio_intensity": 0.3
+  },
+  "Cloud_Nyx": {
+   "tier": "other_lid",
+   "total_msgs": 3539,
+   "voice_notes": 11,
+   "text_msgs": 3445,
+   "media_msgs": 83,
+   "voice_pct": 0.003,
+   "text_pct": 0.973,
+   "audio_intensity": 0.1
+  },
+  "Kinesiologo": {
+   "tier": "other_lid",
+   "total_msgs": 2151,
+   "voice_notes": 107,
+   "text_msgs": 1906,
+   "media_msgs": 138,
+   "voice_pct": 0.05,
+   "text_pct": 0.886,
+   "audio_intensity": 1.1
+  },
+  "Dan": {
+   "tier": "other_lid",
+   "total_msgs": 2588,
+   "voice_notes": 251,
+   "text_msgs": 2146,
+   "media_msgs": 191,
+   "voice_pct": 0.097,
+   "text_pct": 0.829,
+   "audio_intensity": 2.5
+  },
+  "AI_QA_Ing_Info": {
+   "tier": "other_lid",
+   "total_msgs": 83,
+   "voice_notes": 5,
+   "text_msgs": 78,
+   "media_msgs": 0,
+   "voice_pct": 0.06,
+   "text_pct": 0.94,
+   "audio_intensity": 0.1
+  },
+  "Somosgay": {
+   "tier": "other_lid",
+   "total_msgs": 15598,
+   "voice_notes": 881,
+   "text_msgs": 13985,
+   "media_msgs": 732,
+   "voice_pct": 0.056,
+   "text_pct": 0.897,
+   "audio_intensity": 8.8
+  },
+  "Kink_Artist": {
+   "tier": "other_lid",
+   "total_msgs": 1210,
+   "voice_notes": 78,
+   "text_msgs": 1021,
+   "media_msgs": 111,
+   "voice_pct": 0.064,
+   "text_pct": 0.844,
+   "audio_intensity": 0.8
+  }
+ }
+}
