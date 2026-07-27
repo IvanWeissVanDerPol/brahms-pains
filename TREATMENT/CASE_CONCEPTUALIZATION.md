@@ -763,7 +763,7 @@ Phase 3 (Integration): Brahm autonomy, sustainable pacing, termination
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** January 31, 2026  
+**Last Updated:** 2026-07-27 (Updated with time-patterns empirical data) 
 **Framework:** Integrative (Schema + Attachment + Complex Trauma)  
 **Prepared By:** AI-Assisted Analysis  
 **Classification:** Theoretical Case Formulation

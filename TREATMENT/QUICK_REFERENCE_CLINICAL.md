@@ -299,5 +299,5 @@
 > **Remember:** Ivan has high insight and genuine capacity for change. The work is hard but the prognosis is good. He wants to integrate Brahm. Your job is to hold space for both.
 
 **Document Version:** 1.0  
-**Last Updated:** January 31, 2026  
+**Last Updated:** 2026-07-27 (Updated with time-patterns empirical data) 
 **Next Review:** After 3 sessions

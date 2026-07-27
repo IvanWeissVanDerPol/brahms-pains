@@ -1,7 +1,8 @@
 # Relationship History Timeline
 
-> **Purpose:** Track relationship patterns over time  
+> **Purpose:** Track relationship patterns over time
 > **Key Patterns:** Partner selection, communication failures, what works
+> **Last Updated:** 2026-07-27 (added empirical patterns from time-patterns analysis)
 
 ---
 
