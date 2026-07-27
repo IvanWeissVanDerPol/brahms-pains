@@ -3,6 +3,7 @@
 > **Purpose:** Comprehensive psychological documentation and self-understanding, plus WhatsApp corpus analysis
 > **Active period:** Jan 2026 → present
 > **Status:** Living document, ongoing analysis
+> **Last updated:** 2026-07-27 (cleanup complete — 100% naming coverage)
 
 ---
 
@@ -19,6 +20,7 @@
 | **Looking for analysis** | [docs/](./docs/) |
 | **Want the deep psychological analysis** | [docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md](./docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md) |
 | **Repo health check** | [docs/REPO_ROAST_AUDIT.md](./docs/REPO_ROAST_AUDIT.md) |
+| **Latest cleanup report** | [docs/CLEANUP_REPORT_2026-07-27.md](./docs/CLEANUP_REPORT_2026-07-27.md) |
 
 ---
 
@@ -37,7 +39,9 @@ psycology/
 │   ├── MAIN_FRIENDS.md                # 7 main friends verified
 │   ├── CONSISTENCY_AUDIT.md           # Identity corrections
 │   ├── REPO_ROAST_AUDIT.md            # Repo structure audit
-│   └── REPOSITORY_INCONSISTENCY_REPORT.md
+│   ├── CLEANUP_REPORT_2026-07-27.md   # ⭐ Latest cleanup session report
+│   ├── REPOSITORY_INCONSISTENCY_REPORT.md
+│   └── identity-corrections/          # Per-topic correction workflows
 │
 ├── CORE_PSYCHOLOGY/                   # ⭐ Clinical material
 │   ├── wounds/                        # 4 core wounds
@@ -71,22 +75,22 @@ psycology/
 │   └── history/
 │
 ├── SOURCE_OF_TRUTH/                   # ⭐ The actual data
-│   ├── wa_messages/                   # 948 WhatsApp chats
+│   ├── wa_messages/                   # ⭐ 951 chats (100% named)
 │   │   ├── _ANALYSIS/                 # 📊 All dashboards (start here)
 │   │   ├── _TIERS.md                  # Tier system explanation
-│   │   ├── tier1_deep/                # 13 closest
-│   │   ├── tier2_core/                # 32
-│   │   ├── tier3_extended/            # 63
-│   │   ├── tier4_groups/              # 42
-│   │   ├── untiered_personal/         # 153
-│   │   ├── other_lid/                 # 10
-│   │   ├── circles/                   # 6
-│   │   ├── _dropped/                  # 643
-│   │   └── _conversations/            # 75 (incl. Gaby WA export)
-│   ├── voice_note_transcripts/        # 20,733 transcripts (95.3h audio)
+│   │   ├── tier1_deep/                # 11 closest (152k msgs)
+│   │   ├── tier2_core/                # 75 (89k msgs)
+│   │   ├── tier3_extended/            # 119 (18k msgs)
+│   │   ├── tier4_groups/              # 158 groups (200k msgs)
+│   │   ├── untiered_personal/         # 304 personal 1-1 (12k msgs)
+│   │   ├── other_lid/                 # 10 LID chats (31k msgs)
+│   │   ├── _dropped/                  # 267 low-signal (2k msgs)
+│   │   ├── _newsletters/              # 7 broadcast channels (2k msgs)
+│   │   └── _conversations/            # Legacy conversation exports
+│   ├── voice_note_transcripts/        # ⭐ 267 folders (100% named)
 │   │   ├── _README.md                 # Folder naming convention
 │   │   ├── Laura/                     # 7 named top contacts
-│   │   └── chat_*/lid_*/group_*/      # 248 numbered
+│   │   ├── chat_*/lid_*/group_*/      # 0 numbered (all renamed)
 │   ├── NOTABLE_QUOTES.md              # 1.1MB of quotes
 │   ├── DEEP_EXTRACTION_REPORT.md      # 392KB
 │   └── ARCHIVE_QUESTIONNAIRE_V1/      # Original questionnaire
@@ -94,7 +98,7 @@ psycology/
 ├── media/                             # Audio + visual assets (1.5GB)
 │   └── audio/                         # 200+ chat directories
 │
-├── scripts/                           # 43 analysis Python scripts
+├── scripts/                           # 83 analysis Python scripts
 ├── src/                               # Source code (legacy)
 ├── config/                            # Static config
 ├── tests/                             # Tests
@@ -108,6 +112,7 @@ psycology/
 3. **For browsing data** → [SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html](./SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html)
 4. **For understanding the repo** → [INDEX.md](./INDEX.md)
 5. **For health checks** → [docs/REPO_ROAST_AUDIT.md](./docs/REPO_ROAST_AUDIT.md)
+6. **For latest cleanup details** → [docs/CLEANUP_REPORT_2026-07-27.md](./docs/CLEANUP_REPORT_2026-07-27.md)
 
 ---
 
@@ -115,14 +120,15 @@ psycology/
 
 | Source | Volume | Status |
 |--------|--------|--------|
-| WhatsApp chats | 948 directories | 235,404 messages |
-| Voice notes | 16,111 .opus files | 95.3 hours |
-| Transcripts | 20,733 | 1.4M words |
-| Named contacts | 216 (vCard-verified) | 12 CLOSE, 61 ACTIVE |
-| Profile analyses | 34 deep + 218 stubs | Curated |
-| Family members | 9 (in tree) | All verified |
-| Voice-note time | 23:00-02:00 peak | Late-night rumination pattern |
-| Top voice-note contact | Laura 🐷 | 2,915 notes (191k words) |
+| **WhatsApp chats** | **951 directories (100% named)** | 505,926 messages |
+| **Voice notes** | 16,111 .opus files | 95.3 hours |
+| **Transcripts** | 17,783 | 1.4M words |
+| **VNT folders** | **267 (100% named)** | All descriptive |
+| **Named contacts** | 216 (vCard-verified) | 12 CLOSE, 61 ACTIVE |
+| **Profile analyses** | 386 (34 deep + 218 stubs + 134 archived/curated) | Curated |
+| **Family members** | 9 (in tree) | All verified |
+| **Voice-note time** | 23:00-02:00 peak | Late-night rumination pattern |
+| **Top voice-note contact** | Laura 🐷 | 2,915 notes (191k words) |
 
 ---
 
@@ -132,6 +138,20 @@ psycology/
 - **"Mommy sexy / kido" dynamic** — physical affection without romance
 - **Sonia actively encouraging intimacy** with Gaby
 - **Ometz Dental project** — `ometzdental.com` live
+
+## 🔧 Recent Cleanup (2026-07-27)
+
+- ✅ **100% VNT naming coverage** (0 numbered folders)
+- ✅ **100% wa_messages naming coverage** (951/951)
+- ✅ Created `_newsletters` tier (7 broadcasts separated)
+- ✅ 196 chats rescued from `_dropped` to proper tiers
+- ✅ 70 contacts promoted tier3 → tier2
+- ✅ 3 tier1 spam chats moved to `_dropped` (Ivan Credimarket rage-text)
+- ✅ 100+ VNT folders renamed with descriptive names
+- ✅ 300+ untiered_personal chats given identity names
+- ✅ Major identities discovered: Yissel Montiel, Dr. Demián Glujovsky, Oli (Grindr), Peider (QA), Saskia_Close_Friend
+
+See [docs/CLEANUP_REPORT_2026-07-27.md](./docs/CLEANUP_REPORT_2026-07-27.md) for full details.
 
 ## 🔒 Privacy & PHI
 
@@ -146,12 +166,15 @@ These are now gitignored for **future commits** but exist in the working tree. *
 
 ## 🗓️ Last Updates
 
-- 2026-07-25: Repo reorganization (top-level cleanup, INDEX.md, READMEs)
-- 2026-07-25: 218 stub profiles archived to `_stubs/`
-- 2026-07-25: PSYCOLOGICAL_ANALYSIS_20HATS published
-- 2026-07-23: Voice note analysis (95.3h audio, 1.4M words)
-- 2026-07-23: Family tree + identity corrections
-- 2026-07-23: Relationship dashboard (216 contacts scored)
+- **2026-07-27**: 100% naming coverage on wa_messages + VNT folders (951 + 267)
+- **2026-07-27**: Cleanup report published (CLEANUP_REPORT_2026-07-27.md)
+- **2026-07-27**: 16 new cleanup scripts added to scripts/
+- **2026-07-25**: Repo reorganization (top-level cleanup, INDEX.md, READMEs)
+- **2026-07-25**: 218 stub profiles archived to `_stubs/`
+- **2026-07-25**: PSYCOLOGICAL_ANALYSIS_20HATS published
+- **2026-07-23**: Voice note analysis (95.3h audio, 1.4M words)
+- **2026-07-23**: Family tree + identity corrections
+- **2026-07-23**: Relationship dashboard (216 contacts scored)
 
 ---
 
