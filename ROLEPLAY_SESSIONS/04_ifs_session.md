@@ -4,7 +4,14 @@
 >
 > **Patient:** Ivan (returning patient, week 12 of treatment)
 >
+> **Last Updated:** 2026-07-27 (IFS mapping of time-patterns data)
+>
 > **Pre-session prep:** Sebastián has been briefed on Ivan's documented sub-persona system: **Ivan** (operator), **Brahm** (sub/inner-child, per `KINK_AND_INTIMACY/permission_structures/HOW_KINK_FUNCTIONS.md`), **Nyx** (kink persona), **Neko** (community pet name), **The Fixer** (defense), **The Mask** (defense), **The Firewall** (defense), **The Freeze** (defense). He has noted `CORE_PSYCHOLOGY/defense_mechanisms/` is the source for the four defenses; the kink personas come from `KINK_AND_INTIMACY/`.
+>
+> **NEW (2026-07-27):** Time-patterns analysis reveals Ivan's **bimodal initiator pattern** (10+ contacts >70% Ivan, 200+ contacts <30% Ivan). Sebastián will map this to parts:
+> - **High-initiator contacts** (Grandma Riet 81.9%, BDSM 69.5%): Driven by **The Fixer** + **Brahm** (pursuit mode)
+> - **Low-initiator contacts** (Sarah 1.8%, lurker groups 0%): Driven by **The Mask** + **The Firewall** (passive mode)
+> - **Balanced contacts** (Mom 50.3%, Kiki 49.1%): Self-energy emerging
 >
 > **Theoretical orientation:** IFS (Richard Schwartz) holds that the psyche is naturally multiple; "parts" carry burdens; "Self" is the wise core that can relate to parts with curiosity and compassion. Healing happens when parts are witnessed by Self and release their extreme roles.
 
@@ -173,3 +180,69 @@ When Neko is exiled from family contexts, Ivan's Mask+Fixer combination kicks in
 - **Critical follow-up**: Next session, ask Ivan about his relationship with his mother in the context of parts. The Firewall is family-specific; it needs separate exploration.
 - **Burden tracking**: The parts work can re-traumatize if parts feel "discovered" without consent. Sebastián should explicitly thank Ivan-y-la-3AM and Neko for showing up. **Gratitude is part of the protocol.**
 - **Self-energy cultivation**: Outside sessions, encourage Ivan to access Self through activities that are intrinsically Self-led (meditation, slow walks, time with his body). Noticing which activities bring him into Self will help him identify protective vs. authentic activities.
+
+---
+
+## NEW (2026-07-27): IFS Mapping of Time-Patterns Data
+
+Sebastián integrates the time-patterns analysis into Ivan's parts map:
+
+### New Parts Identified
+
+#### Part: **Ivan-y-la-3AM** (the late-night-self)
+
+This is a **time-specific part** that emerges only between 22:00 and 04:00. The data shows:
+- 32% of all messages happen at this time
+- Ivan's initiator ratio INCREASES at night (pursuit mode)
+- Voice notes cluster here (peak 23:00-02:00)
+
+**IFS hypothesis**: "Ivan-y-la-3AM" is a part that:
+- Is more vulnerable than daytime-Ivan
+- Has less Mask/Firewall defense (guards down)
+- Wants things daytime-Ivan won't admit wanting
+- Disappears by morning (lost memory)
+
+#### Part: **Ivan-en-grupo** (the lurker)
+
+This is a **context-specific part** that emerges only in group contexts. The data shows:
+- 14 group chats where Ivan initiates 0%
+- 200+ group chats where Ivan is <30% initiator
+- Contrast: >70% initiator with family/intimate
+
+**IFS hypothesis**: "Ivan-en-grupo" is a part that:
+- Avoids social risk
+- Reads more than posts
+- Protects from "Pesado" activation
+- Is adaptive in groups but limits contribution
+
+### Updated Parts Map
+
+| Part | Activation Context | Initiator Ratio |
+|------|-------------------|----------------:|
+| **The Operator** (daytime Ivan) | Work, achievement | varies |
+| **The Fixer** | Family obligation contexts | >80% |
+| **Brahm** | Kink, intimate play | >65% |
+| **Ivan-y-la-3AM** (NEW) | Late night | >70% |
+| **Ivan-en-grupo** (NEW) | Group chats | <5% |
+| **The Mask** | Daytime social | passive |
+| **The Firewall** | Family context | selective |
+| **The Freeze** | Threat situations | shutdown |
+
+### Clinical Implication
+
+Ivan has **at least 8 distinct parts**, of which 2 are **time/context-specific**. This is consistent with high-functioning multiplicity. The clinical work is:
+1. **Identify which part is "in"** during specific moments
+2. **Build Self-energy** to relate to parts from observer position
+3. **Unburden extreme roles** (e.g., Ivan-en-grupo doesn't need to be 0% — could relax to 5-10%)
+
+### Updated Homework
+
+- **Track parts by time/context**: When Ivan notices a behavior, ask "Which part is this?"
+- **Late-night experiments**: Try one conscious action at 1 AM (a text, a journal entry) and observe the part that emerges
+- **Group experiments**: Choose one group, post one substantive comment this week, notice what comes up
+
+### See Also
+
+- `_ANALYSIS/time_patterns.json` — full data
+- `TREATMENT/CLINICAL_SUMMARY.md` — Time-Patterns Analysis
+- `CORE_PSYCHOLOGY/defense_mechanisms/` — defense parts map

@@ -1,9 +1,10 @@
 # TREATMENT ROADMAP: Phase-by-Phase Intervention Plan
 
-> **Patient:** Ivan, 28M, Dutch-Paraguayan  
-> **Duration:** 18 months (3 phases × 6 months)  
-> **Approach:** Integrative, Trauma-Informed, Strengths-Based  
+> **Patient:** Ivan, 28M, Dutch-Paraguayan
+> **Duration:** 18 months (3 phases × 6 months)
+> **Approach:** Integrative, Trauma-Informed, Strengths-Based
 > **Primary Modalities:** Schema Therapy + ACT + Somatic + Attachment-Based
+> **Last Updated:** 2026-07-27 (added empirical baselines + new metrics)
 
 ---
 
@@ -737,7 +738,89 @@ _________________________________
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** January 31, 2026  
-**Review Schedule:** Monthly during treatment  
-**Prepared By:** AI-Assisted Analysis  
+**Last Updated:** January 31, 2026 (Updated 2026-07-27 with empirical baselines)
+**Review Schedule:** Monthly during treatment
+**Prepared By:** AI-Assisted Analysis
 **Classification:** Clinical Treatment Plan
+
+---
+
+## NEW (2026-07-27): Empirical Baselines & Data-Driven Modifications
+
+**Source**: `_ANALYSIS/time_patterns.json` (501,819 messages, 675 chats analyzed)
+
+### Empirical Baselines Added to Each Phase
+
+#### Phase 1 (Months 1-3): Add Late-Night Sleep Hygiene
+
+**New specific target**: Reduce late-night messaging from 32% baseline → <20% by end of Phase 1.
+
+**Why**: 32% is pathologically high. Combined with 17,783 voice notes, Ivan's cognition is heavily verbal/temporal — likely contributing to sleep disruption and rumination.
+
+**Specific interventions:**
+- Sleep diary (track bedtime, wake, mid-sleep messaging events)
+- Wind-down ritual: No messaging 22:00-04:00 (replaced by journaling/meditation)
+- Somatic alternatives: Body scan, breath work, progressive muscle relaxation
+- "Cognitive offload" exercise: Write thoughts to journal before bed vs. messaging them
+
+**Homework additions:**
+- Track late-night messages weekly
+- Identify which relationships Ivan defaults to late-night
+- Set "Do Not Disturb" hours and report on impact
+
+#### Phase 2 (Months 4-9): Add Initiator Asymmetry Work
+
+**New specific target**: Identify 3 relationships where Ivan's >70% initiator ratio creates burden → bring to balanced 45-55%.
+
+**Why**: Ivan's bimodal initiator pattern (10+ at >70%, 200+ at <30%) suggests **selective attachment activation** that may not be conscious. Bringing this into awareness is a Phase 2 goal.
+
+**Specific interventions:**
+- Per-contact initiator ratio review (use time_patterns.json)
+- Identify "Ivan pursues" contacts (Grandma Riet, BDSM) — explore role
+- Identify "Ivan pursued" contacts (Sarah, Dayah) — explore comfort with being pursued
+- Identify "lurker" groups (14 at 0%) — distinguish silence vs. avoidance
+
+**Homework additions:**
+- For one high-initiator contact, intentionally wait 48h before responding
+- For one low-initiator contact, initiate once and observe response
+- Journal: "What came up when I changed my pattern?"
+
+#### Phase 3 (Months 10-18): Add Lurker-to-Engaged Conversion
+
+**New specific target**: Convert 3 of 14 lurker groups (0% Ivan initiator) to engaged participation (5%+).
+
+**Why**: Lurker pattern may be healthy selective engagement OR avoidance. Phase 3 work tests this.
+
+**Specific interventions:**
+- Review 14 lurker groups, categorize (work/social/family)
+- For work groups: try one substantive post per month
+- For social groups: try one reaction/comment per week
+- For family groups: try sharing one update
+
+**Clinical question**: If Ivan CAN participate but doesn't, what does the avoidance protect?
+
+### Cross-Phase Integration: Voice Note Reduction
+
+**Goal**: Reduce voice notes from current pattern (peak 23:00-02:00) toward daytime processing.
+
+**Why**: Voice notes are Ivan's primary emotional processing tool. 17,783 transcripts = ~30/day average. Late-night voice notes suggest using recording as a sleep-displacement behavior.
+
+**Specific interventions:**
+- Phase 1: Notice timing of voice notes (track 1 week)
+- Phase 2: Experiment with daytime voice notes for emotional processing
+- Phase 3: Reduce late-night voice notes by 50%
+
+### Data Refresh Schedule
+
+| Frequency | Action | Tool |
+|-----------|--------|------|
+| Monthly | Re-run time-patterns analysis | `scripts/analyze_time_patterns.py` |
+| Quarterly | Review initiator asymmetry | `_ANALYSIS/time_patterns.json` |
+| Semi-annually | Full re-analysis | All scripts |
+
+### See Also
+
+- `PROGRESS_TRACKING.md` — Metrics 9, 10, 11 (new empirical baselines)
+- `CLINICAL_SUMMARY.md` — Updated with time-patterns analysis
+- `_ANALYSIS/time_patterns.json` — Source data
+- `docs/ANALYSIS_PLAN_2026-07-27.md` — 23 additional future analyses

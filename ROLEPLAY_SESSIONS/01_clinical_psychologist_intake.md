@@ -6,7 +6,15 @@
 >
 > **Session:** First intake, week 1 of treatment
 >
-> **Pre-session prep:** Therapist has read `PSYCHOLOGICAL_ANALYSIS_20HATS.md`, `TREATMENT/CLINICAL_SUMMARY.md`, `CORE_PSYCHOLOGY/wounds/EVIDENCE_LEDGER.md`, the Fixer/Mask/Firewall defense files, and 3 relationship profiles (Mike, Nico, Mom-Sonia). She has noted 3 priority threads to introduce: the Fixer-Mask cluster, the 81% Magali drop, and the AI-journaling practice.
+> **Last Updated:** 2026-07-27 (time-patterns analysis added to pre-session prep)
+>
+> **Pre-session prep:** Therapist has read `PSYCHOLOGICAL_ANALYSIS_20HATS.md`, `TREATMENT/CLINICAL_SUMMARY.md`, `CORE_PSYCHOLOGY/wounds/EVIDENCE_LEDGER.md`, the Fixer/Mask/Firewall defense files, and **34** relationship profiles (up from 3 in original). She has noted **NEW** priority threads to introduce based on 2026-07-27 time-patterns analysis:
+> 1. **The Fixer-Mask cluster** (original)
+> 2. **The 81% Magali drop** (original)
+> 3. **The AI-journaling practice** (original)
+> 4. **NEW: Late-night rumination pattern** (32% of all messages 22:00-04:00)
+> 5. **NEW: Initiator asymmetry** (bimodal pattern, 10+ at >70%, 200+ at <30%)
+> 6. **NEW: Lurker profile** (14 group chats at 0% Ivan initiator)
 >
 > **Theoretical orientation:** Dr. Marecos believes Ivan's defensive architecture is **adaptive and worth respecting**, not pathological. Her intake is designed to **invite without dismantling**.
 
@@ -126,4 +134,40 @@ His own phrase "permission slip para ser blando" identifies the dynamic more cle
 - The moment of silence when I asked "quién te autoriza a tener necesidades" suggests this question will recur as a structural frame throughout treatment.
 - I noticed him reaching for "Tengo un AI bot que me ayuda" early in the clinic description. **This is the parasocial substitution pattern** flagged in Hat 29 — he reaches for AI as a co-regulator before reaching for human help. Worth tracking.
 - For session 2: explore the "Pesado" wound specifically. Have the wound file (`01_PESADO_LABEL.md`) ready to walk through with him.
-- Boundary note: I will NOT read the full 20-hat analysis to him in session. That would be a **parasocial substitution by the therapist** — using his data as a substitute for his voice. Keep data on my side; his words in the room.
+- Boundary note: I will NOT read the full 20-hat analysis to him in session. That would be a **parasocial substitution by the therapist** — using his data as a substitute for his voice. Keep data on my side; let Ivan's words drive.
+
+---
+
+## NEW (2026-07-27): Updated Hypotheses from Time-Patterns Data
+
+After intake, Dr. Marecos reviews `_ANALYSIS/time_patterns.json` and adds 3 new hypotheses:
+
+### Hypothesis 4: Late-night availability is dispositional
+
+Ivan's 32% late-night messaging baseline suggests rumination patterns that pre-date any relationship. This is NOT a problem to fix in Phase 1 — it's a **window into Ivan's cognitive-emotional cycle**.
+
+**Clinical hypothesis**: Ivan may use late-night messaging as a **displacement activity** — substituting connection for sleep. The 17,783 voice notes (peak 23:00-02:00) compound this.
+
+**Therapist's clinical question for week 2**: "What do you think is keeping you up at night? Is it that you're trying to reach someone, or trying to reach yourself?"
+
+### Hypothesis 5: Initiator asymmetry signals selective attachment
+
+Ivan's bimodal initiator ratio (>70% in 10+ contacts, <30% in 200+) suggests he doesn't drift — he **selectively activates**. The 70%+ cluster represents hyperactivated attachment (Grandma Riet, BDSM play); the <30% cluster represents him as the pursued object.
+
+**Clinical hypothesis**: Ivan's selectivity is **defensive** — he pursues where pursuit is obligation/family, but avoids initiating where rejection feels possible. This is consistent with the "Pesado" wound.
+
+**Therapist's clinical question for week 4**: "Notice when you're about to message someone. Is there a felt permission, or an impulse?"
+
+### Hypothesis 6: Lurker profile in groups is healthy selectivity, not avoidance
+
+Ivan's 0% initiator pattern in 14 group chats (Ci2023_Voluntarios, Group_Baby_Shower, etc.) is statistically distinct from his >70% pattern with family. The distinction: **groups are obligation-free, family is obligation-heavy**.
+
+**Clinical hypothesis**: Ivan's lurker pattern is **adaptive** — he gets information without the social risk of participation. This protects him from "Pesado" activation.
+
+**Therapist's clinical question for week 8**: "What would happen if you commented on the volunteer chat? What are you protecting by staying silent?"
+
+### Updated Treatment Plan
+
+These new hypotheses extend the original 3 hypotheses. The empirical baselines (Late-Night, Initiator Asymmetry, Lurker Profile) are added to `PROGRESS_TRACKING.md` as Metrics 9, 10, 11.
+
+**No clinical urgency**: These patterns are interesting but not pathological. Phase 1 work continues on the Fixer-Mask-Firewall cluster; new hypotheses can be addressed in Phase 2 (Initiator Asymmetry) and Phase 3 (Lurker Profile conversion).

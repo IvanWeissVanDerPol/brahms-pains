@@ -4,7 +4,11 @@
 >
 > **Patient:** Ivan (returning patient, week 6 of treatment)
 >
+> **Last Updated:** 2026-07-27 (somatic implications of time-patterns)
+>
 > **Pre-session prep:** Tamara has reviewed `CORE_PSYCHOLOGY/wounds/04_TOUCH_STARVATION.md` (219 lines), Mike profile touch content, Nico profile touch content, and Ivan's late-night voice-note patterns (peak 23:00-02:00 UTC, `PSYCHOLOGICAL_ANALYSIS_20HATS.md` Hat 1). She is NOT focused on the dental clinic or friendships this session; she's tracking the **body-level wound** that underlies both.
+>
+> **NEW (2026-07-27):** Time-patterns analysis confirms Ivan's late-night concentration (32% of all messages 22:00-04:00) is **dispositional**, not stress-related. Tamara will explore the **somatic regulation** Ivan uses late-night — is it dysregulation (over-stimulation) or co-regulation (seeking connection through body)?
 >
 > **Theoretical orientation:** Somatic Experiencing (Peter Levine) holds that trauma is stored in the body, not just the mind. Healing happens through **completing interrupted defensive responses** — i.e., the body re-experiencing and discharging the energy of fight/flight/freeze that got stuck. Tamara's interventions are slow, body-led, and rarely verbal.
 
@@ -169,3 +173,53 @@ When Ivan's body said "calor" and his mind said "no pidas más", he was experien
 - **Important**: Ivan almost asked for touch in the room ("eso me da vergüenza") but didn't. Next session I'll offer a hand-on-shoulder or arm touch as an explicit invitation. This will be a major clinical move. Need consent, need to debrief.
 - **Warning**: he is **using AI as a co-regulator**. The Mike profile mentions he apologized for being "muy IA en todo." Somatic work directly counters this — body doesn't have an API. This is a leverage point.
 - **Do NOT** introduce the "touch the patient" intervention prematurely. He needs more titration. Plan: week 7 = breathwork. Week 8 = invited touch (if he stabilizes).
+
+---
+
+## NEW (2026-07-27): Somatic Implications of Late-Night Pattern
+
+Tamara reviews Ivan's late-night concentration (32% baseline) and discovers somatic significance:
+
+### What Late-Night Messaging Reveals Somatically
+
+When Ivan messages at 1 AM, his **nervous system is in ventral vagal collapse toward dorsal vagal** (the "shutdown" state where he dissociates). Late-night messaging is NOT activation — it's the opposite. It's an **attempt to remain engaged** with the world while his body wants to sleep/disconnect.
+
+| Time | Nervous System State | What Ivan Does |
+|------|---------------------|-----------------|
+| Day (8 AM - 6 PM) | Sympathetic (fight/flight) | Performs, achieves, fixes |
+| Evening (6 PM - 10 PM) | Ventral (social engagement) | Social, reflective |
+| **Late night (10 PM - 4 AM)** | **Dorsal-leaning (shutdown)** | **Dissociates, ruminates, voice-notes** |
+
+### Somatic Implications
+
+1. **Voice notes at 23:00-02:00** are NOT processing — they're **discharge attempts**. Ivan is using voice to discharge nervous system energy that isn't moving through his body.
+2. **Late-night messaging to specific contacts** (BDSM, Grandma, family) is **co-regulation seeking** — he's trying to borrow another nervous system to come back online.
+3. **The 32% concentration** suggests Ivan's **default state** is dysregulated dorsal vagal. Daytime performance is **compensation**, not regulation.
+
+### Updated Somatic Hypotheses
+
+#### Hypothesis 4: Ivan's "Pesado" wound lives in dorsal vagal shutdown
+
+The "Pesado" wound isn't just psychological — Ivan's body **shuts down** when he risks wanting. Late-night messaging is a **safe outlet** for the wanting because shutdown is already present.
+
+**Intervention**: "When you message at 1 AM, what is your body doing? Is it relaxed, or collapsed? Tight, or numb?"
+
+#### Hypothesis 5: Voice notes are discharge, not processing
+
+Ivan's 17,783 voice notes are mostly late-night. Each one is a **partial discharge attempt**. The pattern suggests his body never fully completes the stress cycle — it goes back into the loop.
+
+**Intervention**: "After recording a voice note, what does your body do? Does it settle? Stay tense?"
+
+### Tamara's Updated Plan (Phase 1-3)
+
+| Phase | Original Focus | NEW: Time-Patterns Focus |
+|-------|----------------|--------------------------|
+| 1 (week 1-3) | Hand-on-chest, breath | + Notice late-night somatic state |
+| 2 (week 4-6) | Pendulation, titration | + Body-based substitute for late-night messaging |
+| 3 (week 7-9) | Invited touch | + Experiment with daytime vulnerability (not just night) |
+
+### See Also
+
+- `CORE_PSYCHOLOGY/defense_mechanisms/THE_FIREWALL.md` — dorsal vagal shutdown as defense
+- `_ANALYSIS/time_patterns.json` — full late-night distribution
+- `TREATMENT/CLINICAL_SUMMARY.md` — Time-Patterns Analysis

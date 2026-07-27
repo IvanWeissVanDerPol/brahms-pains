@@ -4,7 +4,11 @@
 >
 > **Patient:** Ivan (returning patient, week 8 of treatment)
 >
+> **Last Updated:** 2026-07-27 (time-patterns data informs existential inquiry)
+>
 > **Pre-session prep:** Dr. Rojas has noted Ivan's achievement-orientation (`PSYCHOLOGICAL_ANALYSIS_20HATS.md` Hat 1, Hat 11, Hat 32) and the contradiction between high output and recurring late-night rumination. He will focus this session on the meaning Ivan derives from the dental-clinic launch, with the goal of surfacing what the clinic **is for**, not just what it **does**.
+>
+> **NEW (2026-07-27):** Time-patterns analysis shows Ivan's **late-night rumination pattern** is dispositional (32% of all messages 22:00-04:00), not a response to specific stress. Dr. Rojas will explore the **meaning** Ivan finds in late-night connection vs. daytime connection — is it authentic? Performative? Coping?
 >
 > **Theoretical orientation:** Existential therapy holds that suffering arises when meaning collapses, not when circumstances are bad. Dr. Rojas's interventions aim to **recover authorship** of meaning rather than reduce symptoms.
 
@@ -160,4 +164,53 @@ Frankl: when life feels meaningless, people often throw themselves into activity
 - The list intervention worked. He looked at the page like he was seeing himself for the first time.
 - I want to introduce the **Frankl quote** next session: "When we are no longer able to change a situation, we are challenged to change ourselves." This is the entry to the attitudinal dimension.
 - **Caution**: Ivan is at risk of building me into a new authority figure. I am older, male, in a paternal role. Need to be careful about re-enacting the John dynamic. Use silence more. Ask more open questions. Don't fill his voids.
-- For session 9: I want to introduce the concept of "the dentist who heals himself" — i.e., the dentist-as-symbol. He is fixing others' teeth but his own "dental" pain (the wound) needs care. This is rich existential material.
+- For session 9: I want to introduce the concept of "the dentist who heals himself" — i.e., the dentist-as-symbol. He is fixing others' teeth but his own "dental" pain (the wound) needs care. This is the existential pivot point.
+
+---
+
+## NEW (2026-07-27): Existential Time-Patterns Inquiry
+
+Dr. Rojas reviews Ivan's late-night pattern (32% baseline) and adds a new dimension to the inquiry:
+
+### Existential Question: What does night mean to Ivan?
+
+Day = performance. Night = processing.
+
+Ivan's data shows:
+- 32% of messages sent 22:00-04:00
+- Late-night concentration across ALL relationship types
+- Voice notes peak 23:00-02:00 (compounds the pattern)
+- Initiator asymmetry higher at night (Ivan reaches MORE at night)
+
+**Existential hypothesis**: Night is where Ivan allows himself to want. Daytime is constrained by "the Mask" — he performs competence, helpfulness, distance. Night is when the performing stops and the wanting emerges.
+
+### Updated Existential Frame
+
+| Time | Mode | What Ivan shows |
+|------|------|-----------------|
+| Day | Performance | Engineer, Fixer, competence |
+| Evening | Transition | softer, more reflective |
+| **Night** | **Wanting** | **Brahm, vulnerable, attachment-seeking** |
+| Late night | Process | rumination, voice notes, repair |
+
+**Therapist's note**: This validates the **permission structure** Ivan finds in kink contexts — kink often happens at night, where he's already allowed to want. The clinical work is: **bring daytime permission closer to nighttime permission**.
+
+### Updated Hypotheses
+
+#### Hypothesis 4: Nighttime wanting is real; daytime wanting needs permission
+
+If Ivan can want freely at 1 AM but cannot at 1 PM, the clinical work is permission — not wanting itself.
+
+**Intervention for next session**: "What would it take to feel as free to want at 1 PM as at 1 AM?"
+
+#### Hypothesis 5: Initiator asymmetry as existential choice
+
+Ivan's bimodal pattern (pursue vs. be pursued) is existential — he's choosing **where to put his meaning**. Family = obligation = 81% initiation. Sarah = pleasure = 1.8% initiation.
+
+**Intervention**: "Where do you put your meaning? Does that choice serve you, or the wound?"
+
+### See Also
+
+- `_ANALYSIS/time_patterns.json` — full data
+- `TREATMENT/CLINICAL_SUMMARY.md` — Time-Patterns Analysis section
+- `CORE_PSYCHOLOGY/attachment_patterns/ATTACHMENT_OVERVIEW.md` — Empirical Validation section
