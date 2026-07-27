@@ -27,10 +27,10 @@ Your repo is **3.5GB, ~390 .md files, ~2700 .json files, 83 .py scripts, 386 con
 
 | Area | Files | Size | Status |
 |------|-------|------|--------|
-| `SOURCE_OF_TRUTH/wa_messages/` | 384M | Chats | 948 chat directories |
+| `SOURCE_OF_TRUTH/wa_messages/` | ~500M | Chats | 951 chat directories (100% named) |
 | `SOURCE_OF_TRUTH/voice_note_transcripts/` | 52M | Transcripts | 186 directories |
 | `media/audio/` | ~1.5GB | Voice notes | 200+ directories |
-| `RELATIONSHIPS/dynamics/` | 251 files | Contact profiles | 20 deep, 231 stubs |
+| `RELATIONSHIPS/dynamics/` | 386 files | Contact profiles | 34 deep, 218 stubs, 134 curated |
 | `scripts/` | 43 files | Analysis | Mix of useful + legacy |
 | `src/` | 34 .py files | Source code | Overlaps with scripts/ |
 | `CORE_PSYCHOLOGY/` | 9 files | Wounds/defenses | ✅ well-organized |
@@ -68,46 +68,73 @@ SOURCE_OF_TRUTH/voice_note_transcripts/
 └── _wa_chat_thais_ivan_msgs/                           ← old-style
 ```
 
-### 3. **WA messages tier system is broken**
+### 3. **WA messages tier system** — RESOLVED 2026-07-27
 
-```
+```python
+# Pre-cleanup (Jan 2026):
+# wa_messages/
+# ├── _ANALYSIS/          ← 30+ JSON dashboards
+# ├── _conversations/     ← 75 chats (legacy)
+# ├── _dropped/           ← 643 chats (too many wrongly-dropped)
+# ├── circles/            ← 6 chats (legacy)
+# ├── other_lid/          ← 10 chats
+# ├── tier1_deep/         ← 13 chats
+# ├── tier2_core/         ← 32 chats
+# ├── tier3_extended/     ← 63 chats
+# ├── tier4_groups/       ← 42 chats
+# └── untiered_personal/  ← 153 chats
+
+# Post-cleanup (2026-07-27):
 wa_messages/
-├── _ANALYSIS/          ← 30+ JSON dashboards
-├── _conversations/     ← ???? (empty? what's it for?)
-├── _dropped/           ← 643 chats
-| `SOURCE_OF_TRUTH/wa_messages/` | ~500M | Chats | 951 chat directories (100% named) |
-├── _dropped/           ← 267 chats (low-signal)
-├── _newsletters/       ← 7 broadcast channels (NEW 2026-07-27)
+├── _ANALYSIS/          ← 30+ JSON dashboards (rebuilt)
+├── _dropped/           ← 267 chats (low-signal only)
+├── _newsletters/       ← 7 broadcast channels (NEW)
 ├── tier1_deep/         ← 11 chats (close)
 ├── tier2_core/         ← 75 chats
 ├── tier3_extended/     ← 119 chats
 ├── tier4_groups/       ← 158 chats
-└── untiered_personal/  ← 304 chats (all named as of 2026-07-27)
+├── untiered_personal/  ← 304 chats (100% named)
+└── other_lid/          ← 10 chats
 ```
 
-**Resolution (2026-07-27)**: 9 categories now (added `_newsletters`). `_conversations/` consolidated (was 75, now 0 — moved to proper tiers). `circles/` was merged into `_dropped` in earlier cleanup.
+**Resolution (2026-07-27)**: 9 categories now (added `_newsletters`). `_conversations/` consolidated (was 75, now 0 — moved to proper tiers). `circles/` merged into `_dropped` in earlier cleanup.
 
-### 4. **251 profile stubs of variable quality**
+### 4. **Contact profile quality** — RESOLVED 2026-07-27
 
-- ~20 deep profiles (Magali, Laura, Nico, Sarah, Ale, Kiki, Gaby, etc.)
-- ~230 auto-generated stubs with placeholder data
+```python
+# Pre-cleanup:
+# - ~20 deep profiles (Magali, Laura, Nico, Sarah, Ale, Kiki, Gaby, etc.)
+# - ~230 auto-generated stubs with placeholder data
+# Total: 251 profiles
 
-**The problem**: 230 stubs are noise. They make finding real profiles harder.
-
-### 5. **Top-level .md files are not organized**
-
-```
-/MAIN_FRIENDS.md
-/CONSISTENCY_AUDIT.md
-/PSYCHOLOGICAL_ANALYSIS_20HATS.md
-/PSYCHOLOGICAL_ANALYSIS_20HATS.html
-/README.md
-/REPOSITORY_INCONSISTENCY_REPORT.md
+# Post-cleanup:
+# - 34 deep profiles (curated, real depth)
+# - 218 auto-generated stubs (in _stubs/)
+# - 134 additional curated/archived
+# Total: 386 profiles
 ```
 
-These belong in `docs/` or `ANALYSIS/`, not at root.
+**Resolution**: All 386 profiles organized. Stubs moved to `_stubs/` subdirectory. Curated/archived profiles in separate locations.
 
-### 6. **No top-level `index.html` to navigate the dashboards**
+### 5. **Top-level .md files** — RESOLVED 2026-07-25
+
+```python
+# Pre-cleanup (Jan 2026):
+# /MAIN_FRIENDS.md
+# /CONSISTENCY_AUDIT.md
+# /PSYCHOLOGICAL_ANALYSIS_20HATS.md
+# /PSYCHOLOGICAL_ANALYSIS_20HATS.html
+# /README.md
+# /REPOSITORY_INCONSISTENCY_REPORT.md
+
+# Post-cleanup (2026-07-25):
+# All moved to docs/
+# Plus new docs/CLEANUP_REPORT_2026-07-27.md
+```
+
+These now belong in `docs/`, not at root.
+
+### 6. **Top-level `index.html` to navigate the dashboards** — EXISTS
 
 You have:
 - `voice_notes_dashboard.html`

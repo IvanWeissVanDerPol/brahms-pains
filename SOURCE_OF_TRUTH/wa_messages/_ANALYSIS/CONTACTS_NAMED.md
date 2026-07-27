@@ -1,16 +1,18 @@
-# WhatsApp Contact Names — Resolved (91 contacts)
+# WhatsApp Contact Names — Resolved (216 contacts)
 
-> **Last updated:** 2026-07-23  
-> **Total named:** 92 contacts · Phonebook-verified: 64 (via vCard import) · Content-verified: 36 (via group/chat analysis)  
-> **Source:** Phonebook comes from iPhone native export (`Mica Weiss and 256 other contacts.vcf`, 257 cards). Content verification is from the WhatsApp chat analysis.  
+> **Last updated:** 2026-07-27
+> **Total named:** 216 contacts · Phonebook-verified: ~250 (via vCard import) · Content-verified: 36+ (via group/chat analysis)
+> **Source:** Phonebook comes from iPhone native export (`Mica Weiss and 256 other contacts.vcf`, 257 cards). Content verification is ongoing.
 > 
 > **Confidence tiers:**  
 > - 🟢 **VERIFIED_PHONEBOOK** — From Ivan's own phonebook export (highest quality; this is how Ivan saves them)  
-> - ✅ **VERIFIED / VERIFIED_SELF_INTRO / VERIFIED_CONTEXT** — From chat content (self-intro, 'this is X', or clear behavioral match)  
+> - ✅ **VERIFIED / VERIFIED_SELF_INTRO / VERIFIED_CONTEXT** — From chat content (self-intro, 'this is X', or clear behavioral patterns)  
 > - 🟠 **HIGH** — Probable name from strong group evidence  
 > - 🟡 **MEDIUM** — Tentative; cross-reference with phonebook pending  
 > - ⚪ **LOW** — Very tentative  
 > - ⚠️ **VCARD_GENERIC** — vCard name is generic ('Cliente 3d X', 'Vecina', 'Anónimo X'); identity not yet resolved  
+> 
+> **Naming coverage (2026-07-27):** 100% of wa_messages directories (951/951)
 
 ## 👨‍👩‍👧‍👦 Family contact list (per Ivan, 2026-07-23)
 
