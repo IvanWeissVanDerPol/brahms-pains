@@ -124,7 +124,7 @@ psycology/
 | **Voice notes** | 16,111 .opus files | 95.3 hours |
 | **Transcripts** | 17,783 | 1.4M words |
 | **VNT folders** | **267 (100% named)** | All descriptive |
-| **Named contacts** | 216 (vCard-verified) | 12 CLOSE, 61 ACTIVE |
+| **Named contacts** | 216 (vCard-verified) | 12 CLOSE, 17 ACTIVE |
 | **Profile analyses** | 386 (34 deep + 218 stubs + 134 archived/curated) | Curated |
 | **Family members** | 9 (in tree) | All verified |
 | **Voice-note time** | 23:00-02:00 peak | Late-night rumination pattern |

@@ -103,7 +103,7 @@ All served from `SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/`:
 | **Analysis Hub** | `index.html` | Start here — links all dashboards |
 | **Voice Notes** | `voice_notes_dashboard.html` | 17k+ voice notes analyzed |
 | **Transcript Search** | `transcript_search.html` | Search across 1.4M words |
-| **Relationships** | `relationships_dashboard.html` | 216 contacts scored 0-100 |
+| **Relationships** | `relationships_dashboard.html` | 216 contacts scored 0-100 (rebuilt 2026-07-27) |
 | **Family Tree** | `family_tree.html` | 9 family members + relationships |
 | **Mood Timeline** | `mood_timeline.html` | Sentiment over time per contact |
 | **Clusters** | `clusters.html` | Social network communities |
