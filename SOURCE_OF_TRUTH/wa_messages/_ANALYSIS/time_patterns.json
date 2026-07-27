@@ -1,0 +1,6151 @@
+{
+ "generated_at": "2026-07-27T15:45:57.659834",
+ "total_chats_analyzed": 675,
+ "total_messages_analyzed": 501819,
+ "by_hour_overall": {
+  "16": 33154,
+  "18": 34908,
+  "21": 32159,
+  "6": 5276,
+  "1": 25537,
+  "22": 31792,
+  "17": 34479,
+  "0": 29280,
+  "12": 12903,
+  "13": 21329,
+  "20": 34182,
+  "19": 34916,
+  "2": 23046,
+  "3": 18472,
+  "4": 12097,
+  "23": 32554,
+  "5": 7630,
+  "7": 2744,
+  "8": 2249,
+  "11": 7152,
+  "14": 27277,
+  "15": 32084,
+  "9": 2517,
+  "10": 4082
+ },
+ "by_dow_overall": {
+  "Saturday": 62245,
+  "Monday": 78781,
+  "Wednesday": 78409,
+  "Thursday": 73985,
+  "Sunday": 51808,
+  "Tuesday": 80801,
+  "Friday": 75790
+ },
+ "by_hour_ivan_overall": {
+  "16": 9634,
+  "18": 9955,
+  "21": 10291,
+  "6": 2247,
+  "1": 8039,
+  "22": 9918,
+  "0": 8685,
+  "13": 5285,
+  "20": 11167,
+  "19": 10857,
+  "3": 6597,
+  "12": 3144,
+  "2": 7643,
+  "5": 3204,
+  "11": 1855,
+  "17": 10096,
+  "23": 10634,
+  "15": 9044,
+  "14": 7119,
+  "4": 4652,
+  "9": 606,
+  "8": 630,
+  "10": 1014,
+  "7": 970
+ },
+ "by_hour_them_overall": {
+  "18": 24953,
+  "21": 21868,
+  "1": 17498,
+  "17": 24383,
+  "0": 20595,
+  "12": 9759,
+  "20": 23015,
+  "19": 24059,
+  "2": 15403,
+  "4": 7445,
+  "13": 16044,
+  "16": 23520,
+  "3": 11875,
+  "23": 21920,
+  "7": 1774,
+  "8": 1619,
+  "14": 20158,
+  "22": 21874,
+  "15": 23040,
+  "11": 5297,
+  "9": 1911,
+  "10": 3068,
+  "5": 4426,
+  "6": 3029
+ },
+ "per_contact": {
+  "sister_kyrian_kiki___wa_chat_595985724135_111": {
+   "total_msgs": 7838,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.37,
+   "ivan_ratio": 0.491,
+   "ivan_msgs": 3852,
+   "them_msgs": 3986
+  },
+  "06__p4569___wa_chat_595981324569_1092": {
+   "total_msgs": 663,
+   "peak_hour": 1,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.502,
+   "ivan_ratio": 1.0,
+   "ivan_msgs": 663,
+   "them_msgs": 0
+  },
+  "magali_carreras_amiga_fpuna____wa_chat_595981225272_62": {
+   "total_msgs": 28457,
+   "peak_hour": 23,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.399,
+   "ivan_ratio": 0.527,
+   "ivan_msgs": 15005,
+   "them_msgs": 13452
+  },
+  "02__p8816___wa_chat_595983008816_9253": {
+   "total_msgs": 325,
+   "peak_hour": 20,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.975,
+   "ivan_msgs": 317,
+   "them_msgs": 8
+  },
+  "Grandpa_Jan_Van_Der_Pol": {
+   "total_msgs": 60,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.983,
+   "ivan_msgs": 59,
+   "them_msgs": 1
+  },
+  "05__lourdes_youko_kurama___wa_chat_595981791823_1683": {
+   "total_msgs": 16905,
+   "peak_hour": 20,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.353,
+   "ivan_ratio": 0.503,
+   "ivan_msgs": 8497,
+   "them_msgs": 8408
+  },
+  "jonathan_verdun___wa_chat_595971922708_3654": {
+   "total_msgs": 34526,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.248,
+   "ivan_ratio": 0.323,
+   "ivan_msgs": 11167,
+   "them_msgs": 23359
+  },
+  "laura____wa_chat_595976538689_3231": {
+   "total_msgs": 23105,
+   "peak_hour": 3,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.396,
+   "ivan_ratio": 0.511,
+   "ivan_msgs": 11801,
+   "them_msgs": 11304
+  },
+  "11__gabriella_gp___wa_export_2026": {
+   "total_msgs": 5985,
+   "peak_hour": 17,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.154,
+   "ivan_ratio": 0.481,
+   "ivan_msgs": 2878,
+   "them_msgs": 3107
+  },
+  "10__alejandro_cabral___wa_chat_595972130867_49": {
+   "total_msgs": 23000,
+   "peak_hour": 16,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.335,
+   "ivan_ratio": 0.467,
+   "ivan_msgs": 10751,
+   "them_msgs": 12249
+  },
+  "mom_sonia_weiss___wa_chat_595982515138_64": {
+   "total_msgs": 11305,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.297,
+   "ivan_ratio": 0.503,
+   "ivan_msgs": 5687,
+   "them_msgs": 5618
+  },
+  "qa_impostor_friend___wa_chat_595981258488_3525": {
+   "total_msgs": 1327,
+   "peak_hour": 16,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.324,
+   "ivan_ratio": 0.46,
+   "ivan_msgs": 611,
+   "them_msgs": 716
+  },
+  "Profe_Gcc": {
+   "total_msgs": 194,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.392,
+   "ivan_ratio": 0.526,
+   "ivan_msgs": 102,
+   "them_msgs": 92
+  },
+  "Mark_Lorey": {
+   "total_msgs": 471,
+   "peak_hour": 18,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.163,
+   "ivan_ratio": 0.622,
+   "ivan_msgs": 293,
+   "them_msgs": 178
+  },
+  "Nathaly_Schinini": {
+   "total_msgs": 366,
+   "peak_hour": 18,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.396,
+   "ivan_ratio": 0.579,
+   "ivan_msgs": 212,
+   "them_msgs": 154
+  },
+  "Génesis": {
+   "total_msgs": 1100,
+   "peak_hour": 23,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.748,
+   "ivan_ratio": 0.443,
+   "ivan_msgs": 487,
+   "them_msgs": 613
+  },
+  "dad_john_van_der_pol___wa_chat_595986138387_1265": {
+   "total_msgs": 1864,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.273,
+   "ivan_ratio": 0.375,
+   "ivan_msgs": 699,
+   "them_msgs": 1165
+  },
+  "fran____wa_chat_595986805654_1271": {
+   "total_msgs": 7392,
+   "peak_hour": 23,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.363,
+   "ivan_ratio": 0.469,
+   "ivan_msgs": 3464,
+   "them_msgs": 3928
+  },
+  "Ester": {
+   "total_msgs": 20,
+   "peak_hour": 12,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.1,
+   "ivan_ratio": 0.45,
+   "ivan_msgs": 9,
+   "them_msgs": 11
+  },
+  "Hospital_Bautista": {
+   "total_msgs": 82,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.28,
+   "ivan_ratio": 0.573,
+   "ivan_msgs": 47,
+   "them_msgs": 35
+  },
+  "Adrian": {
+   "total_msgs": 206,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.248,
+   "ivan_ratio": 0.597,
+   "ivan_msgs": 123,
+   "them_msgs": 83
+  },
+  "Don_Cangrejo_Poli": {
+   "total_msgs": 642,
+   "peak_hour": 2,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.366,
+   "ivan_ratio": 0.516,
+   "ivan_msgs": 331,
+   "them_msgs": 311
+  },
+  "matias_winter____wa_chat_595984690946_3704": {
+   "total_msgs": 18,
+   "peak_hour": 18,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.167,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 6,
+   "them_msgs": 12
+  },
+  "22__cesar_poli___wa_chat_595991470829_106": {
+   "total_msgs": 3157,
+   "peak_hour": 22,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.314,
+   "ivan_ratio": 0.537,
+   "ivan_msgs": 1695,
+   "them_msgs": 1462
+  },
+  "Enrique_Sanchez": {
+   "total_msgs": 753,
+   "peak_hour": 15,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.246,
+   "ivan_ratio": 0.55,
+   "ivan_msgs": 414,
+   "them_msgs": 339
+  },
+  "Cliente_3d_Edgar_Fpuna": {
+   "total_msgs": 1420,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.375,
+   "ivan_ratio": 0.521,
+   "ivan_msgs": 740,
+   "them_msgs": 680
+  },
+  "Mathias_Barrios": {
+   "total_msgs": 1468,
+   "peak_hour": 23,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.45,
+   "ivan_ratio": 0.537,
+   "ivan_msgs": 788,
+   "them_msgs": 680
+  },
+  "guitar_friend___wa_chat_595985725871_86": {
+   "total_msgs": 4121,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.31,
+   "ivan_ratio": 0.49,
+   "ivan_msgs": 2018,
+   "them_msgs": 2103
+  },
+  "Consultorio_Duerksen": {
+   "total_msgs": 191,
+   "peak_hour": 5,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.115,
+   "ivan_ratio": 0.586,
+   "ivan_msgs": 112,
+   "them_msgs": 79
+  },
+  "23__friend_uwu___wa_chat_595985340001_2439": {
+   "total_msgs": 4098,
+   "peak_hour": 19,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.334,
+   "ivan_ratio": 0.402,
+   "ivan_msgs": 1649,
+   "them_msgs": 2449
+  },
+  "30__kansas_springbreak___wa_chat_595972209763_2943": {
+   "total_msgs": 1171,
+   "peak_hour": 4,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.354,
+   "ivan_ratio": 0.436,
+   "ivan_msgs": 510,
+   "them_msgs": 661
+  },
+  "Gerold_Manders": {
+   "total_msgs": 139,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.194,
+   "ivan_ratio": 0.576,
+   "ivan_msgs": 80,
+   "them_msgs": 59
+  },
+  "Bianca_MM": {
+   "total_msgs": 612,
+   "peak_hour": 18,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.129,
+   "ivan_ratio": 0.533,
+   "ivan_msgs": 326,
+   "them_msgs": 286
+  },
+  "Javier_Vecino": {
+   "total_msgs": 466,
+   "peak_hour": 21,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.2,
+   "ivan_ratio": 0.418,
+   "ivan_msgs": 195,
+   "them_msgs": 271
+  },
+  "27__lic_sanni_lalla___wa_chat_595986418879_1688": {
+   "total_msgs": 896,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.273,
+   "ivan_ratio": 0.665,
+   "ivan_msgs": 596,
+   "them_msgs": 300
+  },
+  "Jose_S": {
+   "total_msgs": 52,
+   "peak_hour": 20,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.096,
+   "ivan_ratio": 0.423,
+   "ivan_msgs": 22,
+   "them_msgs": 30
+  },
+  "cami_maidana____wa_chat_595982510082_1723": {
+   "total_msgs": 1432,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.332,
+   "ivan_ratio": 0.499,
+   "ivan_msgs": 715,
+   "them_msgs": 717
+  },
+  "junior_nazi____wa_chat_595984160109_1257": {
+   "total_msgs": 2697,
+   "peak_hour": 18,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.273,
+   "ivan_ratio": 0.52,
+   "ivan_msgs": 1402,
+   "them_msgs": 1295
+  },
+  "duckba": {
+   "total_msgs": 101,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.168,
+   "ivan_ratio": 0.475,
+   "ivan_msgs": 48,
+   "them_msgs": 53
+  },
+  "38__friend_arrival___wa_chat_595986464184_1811": {
+   "total_msgs": 1392,
+   "peak_hour": 13,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.236,
+   "ivan_ratio": 0.48,
+   "ivan_msgs": 668,
+   "them_msgs": 724
+  },
+  "34__friend_simple___wa_chat_595973572212_1994": {
+   "total_msgs": 2236,
+   "peak_hour": 2,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.37,
+   "ivan_ratio": 0.552,
+   "ivan_msgs": 1234,
+   "them_msgs": 1002
+  },
+  "Prima_Mikaela_Weiss": {
+   "total_msgs": 272,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.32,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 136,
+   "them_msgs": 136
+  },
+  "35__friend_photos___wa_chat_595986868241_10607": {
+   "total_msgs": 726,
+   "peak_hour": 15,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.277,
+   "ivan_ratio": 0.442,
+   "ivan_msgs": 321,
+   "them_msgs": 405
+  },
+  "Camilo_Amarilla": {
+   "total_msgs": 218,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.138,
+   "ivan_ratio": 0.491,
+   "ivan_msgs": 107,
+   "them_msgs": 111
+  },
+  "Jessica_Chena": {
+   "total_msgs": 589,
+   "peak_hour": 1,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.465,
+   "ivan_ratio": 0.574,
+   "ivan_msgs": 338,
+   "them_msgs": 251
+  },
+  "sister_luana_weiss___wa_chat_595985725366_99": {
+   "total_msgs": 2788,
+   "peak_hour": 17,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.384,
+   "ivan_ratio": 0.598,
+   "ivan_msgs": 1668,
+   "them_msgs": 1120
+  },
+  "ara_nunez_poli____wa_chat_595981868718_92": {
+   "total_msgs": 3985,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.279,
+   "ivan_ratio": 0.564,
+   "ivan_msgs": 2249,
+   "them_msgs": 1736
+  },
+  "14__friend_brasilia___wa_chat_595983822921_11297": {
+   "total_msgs": 3898,
+   "peak_hour": 23,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.428,
+   "ivan_ratio": 0.549,
+   "ivan_msgs": 2139,
+   "them_msgs": 1759
+  },
+  "Alejandro_Maciel_mentormate": {
+   "total_msgs": 92,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.652,
+   "ivan_ratio": 0.457,
+   "ivan_msgs": 42,
+   "them_msgs": 50
+  },
+  "René_Pols_Poli": {
+   "total_msgs": 343,
+   "peak_hour": 17,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.42,
+   "ivan_ratio": 0.708,
+   "ivan_msgs": 243,
+   "them_msgs": 100
+  },
+  "fidabel_poli____wa_chat_595984933862_1330": {
+   "total_msgs": 2877,
+   "peak_hour": 23,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.443,
+   "ivan_ratio": 0.504,
+   "ivan_msgs": 1450,
+   "them_msgs": 1427
+  },
+  "Migue": {
+   "total_msgs": 148,
+   "peak_hour": 14,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.196,
+   "ivan_ratio": 0.412,
+   "ivan_msgs": 61,
+   "them_msgs": 87
+  },
+  "Ideline_Brisa_3": {
+   "total_msgs": 1202,
+   "peak_hour": 0,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.425,
+   "ivan_ratio": 0.504,
+   "ivan_msgs": 606,
+   "them_msgs": 596
+  },
+  "Mat": {
+   "total_msgs": 541,
+   "peak_hour": 20,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.431,
+   "ivan_ratio": 0.562,
+   "ivan_msgs": 304,
+   "them_msgs": 237
+  },
+  "Joaquina_Ex": {
+   "total_msgs": 940,
+   "peak_hour": 13,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.266,
+   "ivan_ratio": 0.478,
+   "ivan_msgs": 449,
+   "them_msgs": 491
+  },
+  "antono_insfran_compan____wa_chat_595984241789_1849": {
+   "total_msgs": 38,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.105,
+   "ivan_ratio": 0.447,
+   "ivan_msgs": 17,
+   "them_msgs": 21
+  },
+  "Natalia_Cruz": {
+   "total_msgs": 217,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.415,
+   "ivan_ratio": 0.585,
+   "ivan_msgs": 127,
+   "them_msgs": 90
+  },
+  "33__kiki_adjacent___wa_chat_595993553949_12779": {
+   "total_msgs": 2525,
+   "peak_hour": 21,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.319,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 1263,
+   "them_msgs": 1262
+  },
+  "Juanra_Ferreira": {
+   "total_msgs": 1096,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.224,
+   "ivan_ratio": 0.47,
+   "ivan_msgs": 515,
+   "them_msgs": 581
+  },
+  "25__sexshop_companion___wa_chat_595976569739_2083": {
+   "total_msgs": 1128,
+   "peak_hour": 16,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.288,
+   "ivan_ratio": 0.54,
+   "ivan_msgs": 609,
+   "them_msgs": 519
+  },
+  "Shwarma": {
+   "total_msgs": 62,
+   "peak_hour": 23,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.758,
+   "ivan_ratio": 0.565,
+   "ivan_msgs": 35,
+   "them_msgs": 27
+  },
+  "Camila_Pintora": {
+   "total_msgs": 525,
+   "peak_hour": 0,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.507,
+   "ivan_ratio": 0.467,
+   "ivan_msgs": 245,
+   "them_msgs": 280
+  },
+  "28__lilian_riveros___wa_chat_595983111686_3524": {
+   "total_msgs": 604,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.29,
+   "ivan_ratio": 0.513,
+   "ivan_msgs": 310,
+   "them_msgs": 294
+  },
+  "Marco_Poli": {
+   "total_msgs": 467,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.236,
+   "ivan_ratio": 0.475,
+   "ivan_msgs": 222,
+   "them_msgs": 245
+  },
+  "daisy____wa_chat_595981459382_4380": {
+   "total_msgs": 327,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.315,
+   "ivan_ratio": 0.547,
+   "ivan_msgs": 179,
+   "them_msgs": 148
+  },
+  "benja": {
+   "total_msgs": 537,
+   "peak_hour": 22,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.399,
+   "ivan_ratio": 0.471,
+   "ivan_msgs": 253,
+   "them_msgs": 284
+  },
+  "Lucas_Germán": {
+   "total_msgs": 409,
+   "peak_hour": 3,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.474,
+   "ivan_ratio": 0.538,
+   "ivan_msgs": 220,
+   "them_msgs": 189
+  },
+  "Maga": {
+   "total_msgs": 722,
+   "peak_hour": 23,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.389,
+   "ivan_ratio": 0.409,
+   "ivan_msgs": 295,
+   "them_msgs": 427
+  },
+  "Magali_Dealer": {
+   "total_msgs": 1293,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.367,
+   "ivan_ratio": 0.466,
+   "ivan_msgs": 603,
+   "them_msgs": 690
+  },
+  "lucia_diaz____wa_chat_595991549029_1956": {
+   "total_msgs": 5155,
+   "peak_hour": 19,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.295,
+   "ivan_ratio": 0.418,
+   "ivan_msgs": 2153,
+   "them_msgs": 3002
+  },
+  "p_dropped_3___wa_chat_595984708142_2041": {
+   "total_msgs": 6,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "Guillermo_Paiva": {
+   "total_msgs": 97,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.351,
+   "ivan_ratio": 0.598,
+   "ivan_msgs": 58,
+   "them_msgs": 39
+  },
+  "Anna_Rodas_van_der_Pol": {
+   "total_msgs": 453,
+   "peak_hour": 13,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.223,
+   "ivan_ratio": 0.34,
+   "ivan_msgs": 154,
+   "them_msgs": 299
+  },
+  "Alexander_van_der_Pol": {
+   "total_msgs": 150,
+   "peak_hour": 16,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.267,
+   "ivan_ratio": 0.44,
+   "ivan_msgs": 66,
+   "them_msgs": 84
+  },
+  "Sebastián_Aguilera": {
+   "total_msgs": 247,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.235,
+   "ivan_ratio": 0.522,
+   "ivan_msgs": 129,
+   "them_msgs": 118
+  },
+  "Lazzerini_Pizzs": {
+   "total_msgs": 331,
+   "peak_hour": 0,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.915,
+   "ivan_ratio": 0.468,
+   "ivan_msgs": 155,
+   "them_msgs": 176
+  },
+  "José_Villalba_Lugo": {
+   "total_msgs": 113,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.327,
+   "ivan_ratio": 0.46,
+   "ivan_msgs": 52,
+   "them_msgs": 61
+  },
+  "40__victor_urgent___wa_chat_595981473912_1762": {
+   "total_msgs": 19,
+   "peak_hour": 11,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.684,
+   "ivan_msgs": 13,
+   "them_msgs": 6
+  },
+  "Natasha": {
+   "total_msgs": 140,
+   "peak_hour": 17,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.564,
+   "ivan_ratio": 0.55,
+   "ivan_msgs": 77,
+   "them_msgs": 63
+  },
+  "adri____wa_chat_595985249907_9628": {
+   "total_msgs": 2399,
+   "peak_hour": 0,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.366,
+   "ivan_ratio": 0.535,
+   "ivan_msgs": 1283,
+   "them_msgs": 1116
+  },
+  "Eros_Dios_Del_Sexo": {
+   "total_msgs": 447,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.51,
+   "ivan_ratio": 0.474,
+   "ivan_msgs": 212,
+   "them_msgs": 235
+  },
+  "emilio_poli____wa_chat_595981925772_1253": {
+   "total_msgs": 4230,
+   "peak_hour": 23,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.297,
+   "ivan_ratio": 0.544,
+   "ivan_msgs": 2300,
+   "them_msgs": 1930
+  },
+  "uncle_antonio_toni_lopez_weiss___wa_chat_15055778339_2872": {
+   "total_msgs": 598,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.443,
+   "ivan_ratio": 0.525,
+   "ivan_msgs": 314,
+   "them_msgs": 284
+  },
+  "maia____wa_chat_595994341668_1955": {
+   "total_msgs": 1667,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.382,
+   "ivan_ratio": 0.489,
+   "ivan_msgs": 815,
+   "them_msgs": 852
+  },
+  "Grido_Ingavi": {
+   "total_msgs": 89,
+   "peak_hour": 1,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.652,
+   "ivan_ratio": 0.573,
+   "ivan_msgs": 51,
+   "them_msgs": 38
+  },
+  "16__friend_alvaro___wa_chat_595962291837_9625": {
+   "total_msgs": 4269,
+   "peak_hour": 17,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.257,
+   "ivan_ratio": 0.519,
+   "ivan_msgs": 2215,
+   "them_msgs": 2054
+  },
+  "Nara_Mongelós": {
+   "total_msgs": 61,
+   "peak_hour": 20,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.082,
+   "ivan_ratio": 0.459,
+   "ivan_msgs": 28,
+   "them_msgs": 33
+  },
+  "Alejandra": {
+   "total_msgs": 165,
+   "peak_hour": 23,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.412,
+   "ivan_ratio": 0.424,
+   "ivan_msgs": 70,
+   "them_msgs": 95
+  },
+  "Ferrex": {
+   "total_msgs": 29,
+   "peak_hour": 1,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.828,
+   "ivan_ratio": 0.414,
+   "ivan_msgs": 12,
+   "them_msgs": 17
+  },
+  "Noe_Ortiz": {
+   "total_msgs": 51,
+   "peak_hour": 13,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.471,
+   "ivan_msgs": 24,
+   "them_msgs": 27
+  },
+  "Gomeria_Ingavi_Criss": {
+   "total_msgs": 42,
+   "peak_hour": 13,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.667,
+   "ivan_msgs": 28,
+   "them_msgs": 14
+  },
+  "fer_cuevas____wa_chat_595991469087_4649": {
+   "total_msgs": 5,
+   "peak_hour": 1,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.2,
+   "ivan_msgs": 1,
+   "them_msgs": 4
+  },
+  "Héctor_Gonzales_IEN": {
+   "total_msgs": 80,
+   "peak_hour": 2,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.388,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 40,
+   "them_msgs": 40
+  },
+  "Carli_Weiss": {
+   "total_msgs": 7,
+   "peak_hour": 16,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.286,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 2,
+   "them_msgs": 5
+  },
+  "Bold_Adventures_Paraguay": {
+   "total_msgs": 29,
+   "peak_hour": 18,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.034,
+   "ivan_ratio": 0.621,
+   "ivan_msgs": 18,
+   "them_msgs": 11
+  },
+  "063__p1732___wa_chat_595985951732_1722": {
+   "total_msgs": 650,
+   "peak_hour": 13,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.008,
+   "ivan_ratio": 0.417,
+   "ivan_msgs": 271,
+   "them_msgs": 379
+  },
+  "Patiño": {
+   "total_msgs": 20,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 10,
+   "them_msgs": 10
+  },
+  "075__p0258___wa_chat_595983240258_3008": {
+   "total_msgs": 353,
+   "peak_hour": 0,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.657,
+   "ivan_ratio": 0.323,
+   "ivan_msgs": 114,
+   "them_msgs": 239
+  },
+  "Botica_Magistral": {
+   "total_msgs": 19,
+   "peak_hour": 19,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.053,
+   "ivan_ratio": 0.474,
+   "ivan_msgs": 9,
+   "them_msgs": 10
+  },
+  "asado_Ingavi": {
+   "total_msgs": 5,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.8,
+   "ivan_msgs": 4,
+   "them_msgs": 1
+  },
+  "Dra_Wilma": {
+   "total_msgs": 35,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.314,
+   "ivan_ratio": 0.629,
+   "ivan_msgs": 22,
+   "them_msgs": 13
+  },
+  "sakurajapanfood": {
+   "total_msgs": 8,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.25,
+   "ivan_msgs": 2,
+   "them_msgs": 6
+  },
+  "071__gerardo_ramos___wa_chat_595982783951_6901": {
+   "total_msgs": 136,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.147,
+   "ivan_ratio": 0.61,
+   "ivan_msgs": 83,
+   "them_msgs": 53
+  },
+  "Vet_Cerca_De_Weisshoyse": {
+   "total_msgs": 73,
+   "peak_hour": 14,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.397,
+   "ivan_msgs": 29,
+   "them_msgs": 44
+  },
+  "Luis_Gilberto_Salinas": {
+   "total_msgs": 43,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.326,
+   "ivan_msgs": 14,
+   "them_msgs": 29
+  },
+  "Devon_Robinson": {
+   "total_msgs": 52,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.154,
+   "ivan_ratio": 0.673,
+   "ivan_msgs": 35,
+   "them_msgs": 17
+  },
+  "Kunu_U": {
+   "total_msgs": 7,
+   "peak_hour": 17,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 4,
+   "them_msgs": 3
+  },
+  "Bacon_Burgers": {
+   "total_msgs": 65,
+   "peak_hour": 15,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.308,
+   "ivan_ratio": 0.508,
+   "ivan_msgs": 33,
+   "them_msgs": 32
+  },
+  "086__p1410___wa_chat_595984401410_4438": {
+   "total_msgs": 55,
+   "peak_hour": 20,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.182,
+   "ivan_ratio": 0.636,
+   "ivan_msgs": 35,
+   "them_msgs": 20
+  },
+  "Jacque": {
+   "total_msgs": 55,
+   "peak_hour": 13,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.164,
+   "ivan_ratio": 0.291,
+   "ivan_msgs": 16,
+   "them_msgs": 39
+  },
+  "084__p6193___wa_chat_595991506193_3099": {
+   "total_msgs": 243,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.292,
+   "ivan_ratio": 0.457,
+   "ivan_msgs": 111,
+   "them_msgs": 132
+  },
+  "Buco_Bogado_Poli": {
+   "total_msgs": 54,
+   "peak_hour": 18,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.315,
+   "ivan_ratio": 0.537,
+   "ivan_msgs": 29,
+   "them_msgs": 25
+  },
+  "Vet_Cerca_De_Casa_Dra_Mirna_Espinola": {
+   "total_msgs": 77,
+   "peak_hour": 17,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.013,
+   "ivan_ratio": 0.597,
+   "ivan_msgs": 46,
+   "them_msgs": 31
+  },
+  "Fiorella_Flecha": {
+   "total_msgs": 6,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.167,
+   "ivan_msgs": 1,
+   "them_msgs": 5
+  },
+  "094__p9300___wa_chat_595984729300_9919": {
+   "total_msgs": 146,
+   "peak_hour": 14,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.637,
+   "ivan_msgs": 93,
+   "them_msgs": 53
+  },
+  "elias____wa_chat_595985383004_10373": {
+   "total_msgs": 40,
+   "peak_hour": 15,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.625,
+   "ivan_msgs": 25,
+   "them_msgs": 15
+  },
+  "Sushi": {
+   "total_msgs": 10,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 6,
+   "them_msgs": 4
+  },
+  "Ogr": {
+   "total_msgs": 63,
+   "peak_hour": 5,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.302,
+   "ivan_ratio": 0.27,
+   "ivan_msgs": 17,
+   "them_msgs": 46
+  },
+  "Guille_Pamplona": {
+   "total_msgs": 85,
+   "peak_hour": 0,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.6,
+   "ivan_ratio": 0.588,
+   "ivan_msgs": 50,
+   "them_msgs": 35
+  },
+  "070__p9265___wa_chat_595976409265_2838": {
+   "total_msgs": 367,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.253,
+   "ivan_ratio": 0.466,
+   "ivan_msgs": 171,
+   "them_msgs": 196
+  },
+  "Selva_Office": {
+   "total_msgs": 9,
+   "peak_hour": 22,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 3,
+   "them_msgs": 6
+  },
+  "juan____wa_chat_50230574090_10146": {
+   "total_msgs": 91,
+   "peak_hour": 22,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.462,
+   "ivan_ratio": 0.451,
+   "ivan_msgs": 41,
+   "them_msgs": 50
+  },
+  "Jaden": {
+   "total_msgs": 22,
+   "peak_hour": 2,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.5,
+   "ivan_ratio": 0.591,
+   "ivan_msgs": 13,
+   "them_msgs": 9
+  },
+  "Profe_Lima_Base_De_Datos_2": {
+   "total_msgs": 8,
+   "peak_hour": 1,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.875,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 4,
+   "them_msgs": 4
+  },
+  "Pet_Planet": {
+   "total_msgs": 43,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.465,
+   "ivan_msgs": 20,
+   "them_msgs": 23
+  },
+  "067__p7353___wa_chat_595973757353_1731": {
+   "total_msgs": 819,
+   "peak_hour": 15,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.481,
+   "ivan_ratio": 0.388,
+   "ivan_msgs": 318,
+   "them_msgs": 501
+  },
+  "Lomiteria_Liz_fdo": {
+   "total_msgs": 19,
+   "peak_hour": 1,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.632,
+   "ivan_msgs": 12,
+   "them_msgs": 7
+  },
+  "Taberna_La_Trocha": {
+   "total_msgs": 28,
+   "peak_hour": 1,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.964,
+   "ivan_ratio": 0.536,
+   "ivan_msgs": 15,
+   "them_msgs": 13
+  },
+  "hugo_mentormate___wa_chat_595981656962_3522": {
+   "total_msgs": 179,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.196,
+   "ivan_ratio": 0.408,
+   "ivan_msgs": 73,
+   "them_msgs": 106
+  },
+  "Laura_Cabral": {
+   "total_msgs": 6,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "057__p3241___wa_chat_595982223241_11521": {
+   "total_msgs": 738,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.428,
+   "ivan_ratio": 0.496,
+   "ivan_msgs": 366,
+   "them_msgs": 372
+  },
+  "Veterinaria_Vida_Animal": {
+   "total_msgs": 21,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.381,
+   "ivan_msgs": 8,
+   "them_msgs": 13
+  },
+  "Magali_Amarilla_LinkedIn": {
+   "total_msgs": 6,
+   "peak_hour": 12,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.167,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 3,
+   "them_msgs": 3
+  },
+  "Secretaria_Virginia_Poli": {
+   "total_msgs": 95,
+   "peak_hour": 17,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.411,
+   "ivan_msgs": 39,
+   "them_msgs": 56
+  },
+  "Emo_Poli": {
+   "total_msgs": 5,
+   "peak_hour": 18,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 2,
+   "them_msgs": 3
+  },
+  "089__p5974___wa_chat_595982925974_9881": {
+   "total_msgs": 50,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.02,
+   "ivan_ratio": 0.3,
+   "ivan_msgs": 15,
+   "them_msgs": 35
+  },
+  "Carlos_Oviedo": {
+   "total_msgs": 79,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.063,
+   "ivan_ratio": 0.367,
+   "ivan_msgs": 29,
+   "them_msgs": 50
+  },
+  "mario_gueyraud____wa_chat_595991705424_1202": {
+   "total_msgs": 703,
+   "peak_hour": 0,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.6,
+   "ivan_ratio": 0.495,
+   "ivan_msgs": 348,
+   "them_msgs": 355
+  },
+  "Tury": {
+   "total_msgs": 66,
+   "peak_hour": 22,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.652,
+   "ivan_ratio": 0.455,
+   "ivan_msgs": 30,
+   "them_msgs": 36
+  },
+  "Adoptame_Py": {
+   "total_msgs": 5,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 2,
+   "them_msgs": 3
+  },
+  "Belén_Fratts_Officina": {
+   "total_msgs": 84,
+   "peak_hour": 13,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.179,
+   "ivan_ratio": 0.452,
+   "ivan_msgs": 38,
+   "them_msgs": 46
+  },
+  "Ana_Esposa_De_Sander": {
+   "total_msgs": 42,
+   "peak_hour": 3,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.548,
+   "ivan_ratio": 0.381,
+   "ivan_msgs": 16,
+   "them_msgs": 26
+  },
+  "Mymba_Roga": {
+   "total_msgs": 69,
+   "peak_hour": 21,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.101,
+   "ivan_ratio": 0.551,
+   "ivan_msgs": 38,
+   "them_msgs": 31
+  },
+  "Diego_Emanuel_Duarte": {
+   "total_msgs": 41,
+   "peak_hour": 22,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.585,
+   "ivan_ratio": 0.439,
+   "ivan_msgs": 18,
+   "them_msgs": 23
+  },
+  "Facebook_Cerdo": {
+   "total_msgs": 25,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.48,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 10,
+   "them_msgs": 15
+  },
+  "Joana_Poli": {
+   "total_msgs": 7,
+   "peak_hour": 1,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 2,
+   "them_msgs": 5
+  },
+  "piter_lesme_poli____wa_chat_595972835716_1244": {
+   "total_msgs": 629,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.251,
+   "ivan_ratio": 0.553,
+   "ivan_msgs": 348,
+   "them_msgs": 281
+  },
+  "Gibir_Banco_De_Semen": {
+   "total_msgs": 114,
+   "peak_hour": 22,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.412,
+   "ivan_ratio": 0.544,
+   "ivan_msgs": 62,
+   "them_msgs": 52
+  },
+  "078__p9447___wa_chat_595981459447_11190": {
+   "total_msgs": 166,
+   "peak_hour": 13,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.289,
+   "ivan_ratio": 0.53,
+   "ivan_msgs": 88,
+   "them_msgs": 78
+  },
+  "099__p9143___wa_chat_595984689143_4130": {
+   "total_msgs": 126,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.024,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 54,
+   "them_msgs": 72
+  },
+  "unknown_atyra___wa_chat_595991700814_4652": {
+   "total_msgs": 11,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.364,
+   "ivan_msgs": 4,
+   "them_msgs": 7
+  },
+  "Raúl_Wichita": {
+   "total_msgs": 65,
+   "peak_hour": 20,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.031,
+   "ivan_ratio": 0.554,
+   "ivan_msgs": 36,
+   "them_msgs": 29
+  },
+  "Limitaría_Cerca_De_Cas": {
+   "total_msgs": 3,
+   "peak_hour": 7,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.667,
+   "ivan_msgs": 2,
+   "them_msgs": 1
+  },
+  "Plub": {
+   "total_msgs": 29,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.483,
+   "ivan_msgs": 14,
+   "them_msgs": 15
+  },
+  "Profe_Diseño_De_Compil": {
+   "total_msgs": 13,
+   "peak_hour": 17,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.385,
+   "ivan_ratio": 0.615,
+   "ivan_msgs": 8,
+   "them_msgs": 5
+  },
+  "097__lid_854912___wa_lid_118262125854912_15538": {
+   "total_msgs": 5060,
+   "peak_hour": 18,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.171,
+   "ivan_ratio": 0.488,
+   "ivan_msgs": 2469,
+   "them_msgs": 2591
+  },
+  "grandma_riet_van_der_pol___wa_chat_31612495139_98": {
+   "total_msgs": 277,
+   "peak_hour": 20,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.404,
+   "ivan_ratio": 0.819,
+   "ivan_msgs": 227,
+   "them_msgs": 50
+  },
+  "059__álvaro_claro___wa_chat_595994442444_9596": {
+   "total_msgs": 361,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.421,
+   "ivan_ratio": 0.554,
+   "ivan_msgs": 200,
+   "them_msgs": 161
+  },
+  "Wiliam_Gr": {
+   "total_msgs": 12,
+   "peak_hour": 2,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.833,
+   "ivan_ratio": 0.667,
+   "ivan_msgs": 8,
+   "them_msgs": 4
+  },
+  "Estudio_Medieval": {
+   "total_msgs": 11,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.091,
+   "ivan_ratio": 0.455,
+   "ivan_msgs": 5,
+   "them_msgs": 6
+  },
+  "Paulista_Grill": {
+   "total_msgs": 6,
+   "peak_hour": 0,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "Laura_Troche": {
+   "total_msgs": 8,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.25,
+   "ivan_ratio": 0.625,
+   "ivan_msgs": 5,
+   "them_msgs": 3
+  },
+  "Sebastian_Moreno_Wise_Nuevo": {
+   "total_msgs": 7,
+   "peak_hour": 16,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 2,
+   "them_msgs": 5
+  },
+  "Carlos_Urdapilleta": {
+   "total_msgs": 17,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.471,
+   "ivan_ratio": 0.471,
+   "ivan_msgs": 8,
+   "them_msgs": 9
+  },
+  "088__p8658___wa_chat_595971758658_9805": {
+   "total_msgs": 74,
+   "peak_hour": 23,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.649,
+   "ivan_ratio": 0.608,
+   "ivan_msgs": 45,
+   "them_msgs": 29
+  },
+  "Tasha": {
+   "total_msgs": 11,
+   "peak_hour": 16,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.727,
+   "ivan_msgs": 8,
+   "them_msgs": 3
+  },
+  "Rosario_Ruiz": {
+   "total_msgs": 86,
+   "peak_hour": 18,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.663,
+   "ivan_ratio": 0.523,
+   "ivan_msgs": 45,
+   "them_msgs": 41
+  },
+  "Carlos_Bernal": {
+   "total_msgs": 5,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.8,
+   "ivan_msgs": 4,
+   "them_msgs": 1
+  },
+  "Brenda_Poli": {
+   "total_msgs": 20,
+   "peak_hour": 21,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.25,
+   "ivan_ratio": 0.75,
+   "ivan_msgs": 15,
+   "them_msgs": 5
+  },
+  "047__ueno_comprobante___wa_chat_595985909813_11354": {
+   "total_msgs": 39,
+   "peak_hour": 19,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.59,
+   "ivan_msgs": 23,
+   "them_msgs": 16
+  },
+  "Belén_Jara": {
+   "total_msgs": 26,
+   "peak_hour": 13,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.269,
+   "ivan_ratio": 0.346,
+   "ivan_msgs": 9,
+   "them_msgs": 17
+  },
+  "053__p3709___wa_chat_31634463709_11777": {
+   "total_msgs": 776,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.046,
+   "ivan_ratio": 0.495,
+   "ivan_msgs": 384,
+   "them_msgs": 392
+  },
+  "Cliente_3d_Óscar_Rafa": {
+   "total_msgs": 706,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.271,
+   "ivan_ratio": 0.041,
+   "ivan_msgs": 29,
+   "them_msgs": 677
+  },
+  "Diego_Duarte": {
+   "total_msgs": 15,
+   "peak_hour": 16,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.333,
+   "ivan_ratio": 0.467,
+   "ivan_msgs": 7,
+   "them_msgs": 8
+  },
+  "Michi_CarameloAle_Góm": {
+   "total_msgs": 90,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.233,
+   "ivan_ratio": 0.444,
+   "ivan_msgs": 40,
+   "them_msgs": 50
+  },
+  "Antonio_Franch": {
+   "total_msgs": 87,
+   "peak_hour": 16,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.437,
+   "ivan_ratio": 0.678,
+   "ivan_msgs": 59,
+   "them_msgs": 28
+  },
+  "Bacon_Villa_Morra": {
+   "total_msgs": 16,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.312,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 8,
+   "them_msgs": 8
+  },
+  "Lomito": {
+   "total_msgs": 44,
+   "peak_hour": 2,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.545,
+   "ivan_msgs": 24,
+   "them_msgs": 20
+  },
+  "093__p2272___wa_chat_595981262272_1550": {
+   "total_msgs": 166,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.157,
+   "ivan_ratio": 0.446,
+   "ivan_msgs": 74,
+   "them_msgs": 92
+  },
+  "085__p5157___wa_chat_595981725157_11979": {
+   "total_msgs": 193,
+   "peak_hour": 23,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.87,
+   "ivan_ratio": 0.358,
+   "ivan_msgs": 69,
+   "them_msgs": 124
+  },
+  "096__p0870___wa_chat_595981990870_2079": {
+   "total_msgs": 23,
+   "peak_hour": 17,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.696,
+   "ivan_msgs": 16,
+   "them_msgs": 7
+  },
+  "Soledad_Amiga_Fpuna": {
+   "total_msgs": 21,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.524,
+   "ivan_msgs": 11,
+   "them_msgs": 10
+  },
+  "Lucas_Bogarin_W": {
+   "total_msgs": 11,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.545,
+   "ivan_msgs": 6,
+   "them_msgs": 5
+  },
+  "yanny": {
+   "total_msgs": 37,
+   "peak_hour": 15,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.027,
+   "ivan_ratio": 0.595,
+   "ivan_msgs": 22,
+   "them_msgs": 15
+  },
+  "Marlon_Miranda": {
+   "total_msgs": 13,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.385,
+   "ivan_ratio": 0.462,
+   "ivan_msgs": 6,
+   "them_msgs": 7
+  },
+  "Mama_Cultiva": {
+   "total_msgs": 11,
+   "peak_hour": 11,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.364,
+   "ivan_msgs": 4,
+   "them_msgs": 7
+  },
+  "073__paloma___wa_chat_59899144505_2396": {
+   "total_msgs": 237,
+   "peak_hour": 12,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.122,
+   "ivan_ratio": 0.473,
+   "ivan_msgs": 112,
+   "them_msgs": 125
+  },
+  "Printobook": {
+   "total_msgs": 12,
+   "peak_hour": 15,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.083,
+   "ivan_ratio": 0.417,
+   "ivan_msgs": 5,
+   "them_msgs": 7
+  },
+  "Jessi_Alarcon_Poli": {
+   "total_msgs": 15,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.467,
+   "ivan_msgs": 7,
+   "them_msgs": 8
+  },
+  "Tsi": {
+   "total_msgs": 16,
+   "peak_hour": 12,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.688,
+   "ivan_msgs": 11,
+   "them_msgs": 5
+  },
+  "Jose_Jsrdinero": {
+   "total_msgs": 49,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.286,
+   "ivan_ratio": 0.449,
+   "ivan_msgs": 22,
+   "them_msgs": 27
+  },
+  "Primo_Gabriel": {
+   "total_msgs": 117,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.889,
+   "ivan_ratio": 0.393,
+   "ivan_msgs": 46,
+   "them_msgs": 71
+  },
+  "051__p5809___wa_chat_595985435809_11371": {
+   "total_msgs": 919,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.25,
+   "ivan_ratio": 0.431,
+   "ivan_msgs": 396,
+   "them_msgs": 523
+  },
+  "Foneca": {
+   "total_msgs": 135,
+   "peak_hour": 15,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.526,
+   "ivan_ratio": 0.548,
+   "ivan_msgs": 74,
+   "them_msgs": 61
+  },
+  "FARMATOTAL_-_Suc_Avda_Ingavi_Avda_Ingavi": {
+   "total_msgs": 89,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.528,
+   "ivan_msgs": 47,
+   "them_msgs": 42
+  },
+  "p_dropped_4___wa_chat_595972124230_2295": {
+   "total_msgs": 3,
+   "peak_hour": 0,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 1,
+   "them_msgs": 2
+  },
+  "Alexander_Cañete": {
+   "total_msgs": 196,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.276,
+   "ivan_ratio": 0.316,
+   "ivan_msgs": 62,
+   "them_msgs": 134
+  },
+  "luis_godoy_dure": {
+   "total_msgs": 8,
+   "peak_hour": 23,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 4,
+   "them_msgs": 4
+  },
+  "Pausanti_Burger": {
+   "total_msgs": 104,
+   "peak_hour": 23,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.635,
+   "ivan_ratio": 0.462,
+   "ivan_msgs": 48,
+   "them_msgs": 56
+  },
+  "Helado_Quatro_D": {
+   "total_msgs": 17,
+   "peak_hour": 21,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.588,
+   "ivan_msgs": 10,
+   "them_msgs": 7
+  },
+  "Luissushi": {
+   "total_msgs": 23,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.13,
+   "ivan_ratio": 0.478,
+   "ivan_msgs": 11,
+   "them_msgs": 12
+  },
+  "Oktana": {
+   "total_msgs": 6,
+   "peak_hour": 16,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.167,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "081__p7370___wa_chat_595983727370_1926": {
+   "total_msgs": 465,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.372,
+   "ivan_ratio": 0.411,
+   "ivan_msgs": 191,
+   "them_msgs": 274
+  },
+  "Despensa_Esquina": {
+   "total_msgs": 39,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.462,
+   "ivan_msgs": 18,
+   "them_msgs": 21
+  },
+  "Stoic_Finch_-_Latam": {
+   "total_msgs": 12036,
+   "peak_hour": 14,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.185,
+   "ivan_ratio": 0.075,
+   "ivan_msgs": 904,
+   "them_msgs": 11132
+  },
+  "Group_Putivuelta_La_Sersfina": {
+   "total_msgs": 34,
+   "peak_hour": 16,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.353,
+   "ivan_msgs": 12,
+   "them_msgs": 22
+  },
+  "Iin_-_Fpuna_-_Gral": {
+   "total_msgs": 734,
+   "peak_hour": 17,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.14,
+   "ivan_ratio": 0.019,
+   "ivan_msgs": 14,
+   "them_msgs": 720
+  },
+  "Group_Geodata": {
+   "total_msgs": 564,
+   "peak_hour": 18,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.016,
+   "ivan_ratio": 0.043,
+   "ivan_msgs": 24,
+   "them_msgs": 540
+  },
+  "Group_𝐀𝐍𝐔𝐍𝐂𝐈𝐎𝐒": {
+   "total_msgs": 12,
+   "peak_hour": 7,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 12
+  },
+  "Group_Embs_Utp": {
+   "total_msgs": 42,
+   "peak_hour": 4,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.381,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 42
+  },
+  "Group_Comedy_El_Gato": {
+   "total_msgs": 8,
+   "peak_hour": 6,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.375,
+   "ivan_msgs": 3,
+   "them_msgs": 5
+  },
+  "Group_Agentic_Workflows": {
+   "total_msgs": 76,
+   "peak_hour": 21,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.118,
+   "ivan_msgs": 9,
+   "them_msgs": 67
+  },
+  "Pasen_Las_Fotos": {
+   "total_msgs": 29646,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.33,
+   "ivan_ratio": 0.092,
+   "ivan_msgs": 2731,
+   "them_msgs": 26915
+  },
+  "Amigos_De_Las_Locuras_Swinger": {
+   "total_msgs": 16834,
+   "peak_hour": 22,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.321,
+   "ivan_ratio": 0.002,
+   "ivan_msgs": 38,
+   "them_msgs": 16796
+  },
+  "Group_Quantoz": {
+   "total_msgs": 82,
+   "peak_hour": 0,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.024,
+   "ivan_msgs": 2,
+   "them_msgs": 80
+  },
+  "Group_Casa_Stuff": {
+   "total_msgs": 128,
+   "peak_hour": 15,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.047,
+   "ivan_ratio": 0.445,
+   "ivan_msgs": 57,
+   "them_msgs": 71
+  },
+  "Good_Omens_Py": {
+   "total_msgs": 795,
+   "peak_hour": 1,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.414,
+   "ivan_ratio": 0.001,
+   "ivan_msgs": 1,
+   "them_msgs": 794
+  },
+  "Group_Ci_24_Voluntarios": {
+   "total_msgs": 261,
+   "peak_hour": 2,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.429,
+   "ivan_ratio": 0.027,
+   "ivan_msgs": 7,
+   "them_msgs": 254
+  },
+  "Group_Baby_Shower_02": {
+   "total_msgs": 177,
+   "peak_hour": 14,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.102,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 177
+  },
+  "Group_Compiladores_Sin_Profe": {
+   "total_msgs": 311,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.219,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 311
+  },
+  "Group_Quiz_Mm": {
+   "total_msgs": 10,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 1.0,
+   "ivan_msgs": 10,
+   "them_msgs": 0
+  },
+  "Grupo_De_Pizza_Gratis": {
+   "total_msgs": 1254,
+   "peak_hour": 0,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.452,
+   "ivan_ratio": 0.018,
+   "ivan_msgs": 23,
+   "them_msgs": 1231
+  },
+  "Group_Taller_Ia": {
+   "total_msgs": 99,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.465,
+   "ivan_ratio": 0.485,
+   "ivan_msgs": 48,
+   "them_msgs": 51
+  },
+  "Jojo_Gym": {
+   "total_msgs": 1596,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.207,
+   "ivan_ratio": 0.275,
+   "ivan_msgs": 439,
+   "them_msgs": 1157
+  },
+  "Group_Ieeextreme_-_Interesados_Una": {
+   "total_msgs": 414,
+   "peak_hour": 16,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.384,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 414
+  },
+  "Group_Wsu_Fpuna_Meet": {
+   "total_msgs": 41,
+   "peak_hour": 16,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.317,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 41
+  },
+  "Group_Workshop_Desarrolla_Tu_Portafolio_Web_Con_Astro": {
+   "total_msgs": 43,
+   "peak_hour": 23,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.767,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 43
+  },
+  "Group_The_Story_Begins": {
+   "total_msgs": 551,
+   "peak_hour": 5,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.338,
+   "ivan_ratio": 0.018,
+   "ivan_msgs": 10,
+   "them_msgs": 541
+  },
+  "Primos_Weiss": {
+   "total_msgs": 2175,
+   "peak_hour": 20,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.239,
+   "ivan_ratio": 0.069,
+   "ivan_msgs": 150,
+   "them_msgs": 2025
+  },
+  "Iin_Fpuna_019": {
+   "total_msgs": 32635,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.338,
+   "ivan_ratio": 0.022,
+   "ivan_msgs": 704,
+   "them_msgs": 31931
+  },
+  "Group_Club_De_Robótica_De_La_Fp-Una": {
+   "total_msgs": 14,
+   "peak_hour": 13,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.143,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 14
+  },
+  "Group_Superspuma": {
+   "total_msgs": 255,
+   "peak_hour": 1,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.635,
+   "ivan_ratio": 0.098,
+   "ivan_msgs": 25,
+   "them_msgs": 230
+  },
+  "Group_Gallinas_Oviedo": {
+   "total_msgs": 179,
+   "peak_hour": 20,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.095,
+   "ivan_ratio": 0.196,
+   "ivan_msgs": 35,
+   "them_msgs": 144
+  },
+  "Group_Nyx_Consultancy": {
+   "total_msgs": 148,
+   "peak_hour": 1,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.892,
+   "ivan_ratio": 0.622,
+   "ivan_msgs": 92,
+   "them_msgs": 56
+  },
+  "Group_Ciberseguridad_Grupo": {
+   "total_msgs": 21,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.571,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 6,
+   "them_msgs": 15
+  },
+  "Group_Ia_Grupo_De_Trabajo": {
+   "total_msgs": 456,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.232,
+   "ivan_ratio": 0.007,
+   "ivan_msgs": 3,
+   "them_msgs": 453
+  },
+  "Saquenme_De_Latinoamerica": {
+   "total_msgs": 2274,
+   "peak_hour": 22,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.497,
+   "ivan_ratio": 0.277,
+   "ivan_msgs": 630,
+   "them_msgs": 1644
+  },
+  "Group_Cybergameslatam_-_Ieee_Untels": {
+   "total_msgs": 14,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.714,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 14
+  },
+  "Group_Mentees_Minieeextreme": {
+   "total_msgs": 167,
+   "peak_hour": 1,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.545,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 167
+  },
+  "Iin_Fpuna_2015-2021": {
+   "total_msgs": 11447,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.284,
+   "ivan_ratio": 0.002,
+   "ivan_msgs": 22,
+   "them_msgs": 11425
+  },
+  "Group_Vete": {
+   "total_msgs": 15,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.133,
+   "ivan_msgs": 2,
+   "them_msgs": 13
+  },
+  "Group_Excursion_Bdsm_Ytu": {
+   "total_msgs": 78,
+   "peak_hour": 23,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.885,
+   "ivan_ratio": 0.372,
+   "ivan_msgs": 29,
+   "them_msgs": 49
+  },
+  "Group_Latam_-_Trabajos_Remotos": {
+   "total_msgs": 128,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.375,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 128
+  },
+  "Ml_2023-1": {
+   "total_msgs": 1298,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.196,
+   "ivan_ratio": 0.008,
+   "ivan_msgs": 11,
+   "them_msgs": 1287
+  },
+  "Group_Forest_Park": {
+   "total_msgs": 429,
+   "peak_hour": 20,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.252,
+   "ivan_ratio": 0.119,
+   "ivan_msgs": 51,
+   "them_msgs": 378
+  },
+  "Group_Agenda": {
+   "total_msgs": 951,
+   "peak_hour": 6,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.211,
+   "ivan_ratio": 0.977,
+   "ivan_msgs": 929,
+   "them_msgs": 22
+  },
+  "Cdr_Fp_Una": {
+   "total_msgs": 3370,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.298,
+   "ivan_ratio": 0.001,
+   "ivan_msgs": 4,
+   "them_msgs": 3366
+  },
+  "Group_Minixtreme_Program_Py": {
+   "total_msgs": 146,
+   "peak_hour": 0,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.486,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 146
+  },
+  "Group_Ieeextreme_18_0_Paraguay": {
+   "total_msgs": 10,
+   "peak_hour": 2,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.8,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 10
+  },
+  "Group_Cumple_De_Maga": {
+   "total_msgs": 44,
+   "peak_hour": 2,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.659,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 44
+  },
+  "Group_Mamados_Club": {
+   "total_msgs": 24,
+   "peak_hour": 3,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.708,
+   "ivan_ratio": 0.208,
+   "ivan_msgs": 5,
+   "them_msgs": 19
+  },
+  "Wpg_Team": {
+   "total_msgs": 2044,
+   "peak_hour": 12,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.085,
+   "ivan_ratio": 0.028,
+   "ivan_msgs": 58,
+   "them_msgs": 1986
+  },
+  "Group_Rockabar": {
+   "total_msgs": 142,
+   "peak_hour": 2,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.979,
+   "ivan_ratio": 0.035,
+   "ivan_msgs": 5,
+   "them_msgs": 137
+  },
+  "Iin_Fpuna_2019_-_2025": {
+   "total_msgs": 9197,
+   "peak_hour": 0,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.335,
+   "ivan_ratio": 0.003,
+   "ivan_msgs": 32,
+   "them_msgs": 9165
+  },
+  "Group_Ejercicios_Compi": {
+   "total_msgs": 198,
+   "peak_hour": 0,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.237,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 198
+  },
+  "Group_Dayah_Litworks": {
+   "total_msgs": 426,
+   "peak_hour": 3,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.777,
+   "ivan_ratio": 0.077,
+   "ivan_msgs": 33,
+   "them_msgs": 393
+  },
+  "Group_Bd2_Iin": {
+   "total_msgs": 515,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.163,
+   "ivan_ratio": 0.002,
+   "ivan_msgs": 1,
+   "them_msgs": 514
+  },
+  "Group_Casa_Weiss_Internal": {
+   "total_msgs": 24,
+   "peak_hour": 22,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.583,
+   "ivan_ratio": 0.208,
+   "ivan_msgs": 5,
+   "them_msgs": 19
+  },
+  "Group_Taller_De_Introducción_Qa_Instructores": {
+   "total_msgs": 128,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.633,
+   "ivan_ratio": 0.336,
+   "ivan_msgs": 43,
+   "them_msgs": 85
+  },
+  "Group_Luca_Montanaro": {
+   "total_msgs": 50,
+   "peak_hour": 7,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.06,
+   "ivan_msgs": 3,
+   "them_msgs": 47
+  },
+  "Group_Iinformaciones_De_La_Carrera": {
+   "total_msgs": 916,
+   "peak_hour": 15,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.253,
+   "ivan_ratio": 0.001,
+   "ivan_msgs": 1,
+   "them_msgs": 915
+  },
+  "Group_Bolsa_De_Trabajo_Iin": {
+   "total_msgs": 495,
+   "peak_hour": 13,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.265,
+   "ivan_ratio": 0.012,
+   "ivan_msgs": 6,
+   "them_msgs": 489
+  },
+  "Group_Solstein": {
+   "total_msgs": 35,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.229,
+   "ivan_msgs": 8,
+   "them_msgs": 27
+  },
+  "Group_Compiladores": {
+   "total_msgs": 161,
+   "peak_hour": 22,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.46,
+   "ivan_ratio": 0.012,
+   "ivan_msgs": 2,
+   "them_msgs": 159
+  },
+  "Groep_Is3": {
+   "total_msgs": 1044,
+   "peak_hour": 18,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.271,
+   "ivan_ratio": 0.179,
+   "ivan_msgs": 187,
+   "them_msgs": 857
+  },
+  "Group_Front_Sin_Profe": {
+   "total_msgs": 298,
+   "peak_hour": 16,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.198,
+   "ivan_ratio": 0.037,
+   "ivan_msgs": 11,
+   "them_msgs": 287
+  },
+  "Ai_Whisperers": {
+   "total_msgs": 2425,
+   "peak_hour": 20,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.216,
+   "ivan_ratio": 0.275,
+   "ivan_msgs": 667,
+   "them_msgs": 1758
+  },
+  "Group_Repair_Cafe_Page": {
+   "total_msgs": 90,
+   "peak_hour": 19,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.011,
+   "ivan_msgs": 1,
+   "them_msgs": 89
+  },
+  "Group_A29B_Grupo_De_Trabajo": {
+   "total_msgs": 30,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 30
+  },
+  "Gcc_2023": {
+   "total_msgs": 605,
+   "peak_hour": 18,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.264,
+   "ivan_ratio": 0.012,
+   "ivan_msgs": 7,
+   "them_msgs": 598
+  },
+  "𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥": {
+   "total_msgs": 835,
+   "peak_hour": 9,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.243,
+   "ivan_ratio": 0.01,
+   "ivan_msgs": 8,
+   "them_msgs": 827
+  },
+  "Give_Back_Program_-_Cpk": {
+   "total_msgs": 987,
+   "peak_hour": 14,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.223,
+   "ivan_ratio": 0.006,
+   "ivan_msgs": 6,
+   "them_msgs": 981
+  },
+  "Group_Nico": {
+   "total_msgs": 432,
+   "peak_hour": 1,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.924,
+   "ivan_ratio": 0.127,
+   "ivan_msgs": 55,
+   "them_msgs": 377
+  },
+  "Shitpoliposting": {
+   "total_msgs": 7518,
+   "peak_hour": 16,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.31,
+   "ivan_ratio": 0.001,
+   "ivan_msgs": 5,
+   "them_msgs": 7513
+  },
+  "El_Viajero": {
+   "total_msgs": 1383,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.187,
+   "ivan_ratio": 0.156,
+   "ivan_msgs": 216,
+   "them_msgs": 1167
+  },
+  "Group_Oz": {
+   "total_msgs": 103,
+   "peak_hour": 21,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.485,
+   "ivan_ratio": 0.184,
+   "ivan_msgs": 19,
+   "them_msgs": 84
+  },
+  "Funhouse": {
+   "total_msgs": 1742,
+   "peak_hour": 20,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.254,
+   "ivan_ratio": 0.307,
+   "ivan_msgs": 534,
+   "them_msgs": 1208
+  },
+  "Group_Jottaink": {
+   "total_msgs": 68,
+   "peak_hour": 14,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.162,
+   "ivan_msgs": 11,
+   "them_msgs": 57
+  },
+  "Group_Emergentes": {
+   "total_msgs": 381,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.241,
+   "ivan_ratio": 0.018,
+   "ivan_msgs": 7,
+   "them_msgs": 374
+  },
+  "Agi_Is_Cumming": {
+   "total_msgs": 2783,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.219,
+   "ivan_ratio": 0.077,
+   "ivan_msgs": 213,
+   "them_msgs": 2570
+  },
+  "Group_Juntada": {
+   "total_msgs": 9,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.222,
+   "ivan_ratio": 0.222,
+   "ivan_msgs": 2,
+   "them_msgs": 7
+  },
+  "Group_Bombas_De_Semillas": {
+   "total_msgs": 26,
+   "peak_hour": 13,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.038,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 26
+  },
+  "Qe_Meriendita": {
+   "total_msgs": 1343,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.278,
+   "ivan_ratio": 0.048,
+   "ivan_msgs": 65,
+   "them_msgs": 1278
+  },
+  "Dentista_Gabi": {
+   "total_msgs": 1113,
+   "peak_hour": 1,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.5,
+   "ivan_ratio": 0.07,
+   "ivan_msgs": 78,
+   "them_msgs": 1035
+  },
+  "Ci2023_-_Voluntarios_General": {
+   "total_msgs": 585,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.226,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 585
+  },
+  "Group_Somos_Gay": {
+   "total_msgs": 391,
+   "peak_hour": 13,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.018,
+   "ivan_msgs": 7,
+   "them_msgs": 384
+  },
+  "Group_Ml_Grupo": {
+   "total_msgs": 358,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.346,
+   "ivan_ratio": 0.472,
+   "ivan_msgs": 169,
+   "them_msgs": 189
+  },
+  "Group_Nudo": {
+   "total_msgs": 269,
+   "peak_hour": 2,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.874,
+   "ivan_ratio": 0.152,
+   "ivan_msgs": 41,
+   "them_msgs": 228
+  },
+  "Group_Cursos_De_Invierno": {
+   "total_msgs": 7,
+   "peak_hour": 14,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.286,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 7
+  },
+  "Group_México_City": {
+   "total_msgs": 194,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.454,
+   "ivan_ratio": 0.041,
+   "ivan_msgs": 8,
+   "them_msgs": 186
+  },
+  "Group_Pasa_Manos_Verde": {
+   "total_msgs": 9,
+   "peak_hour": 19,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.222,
+   "ivan_ratio": 0.778,
+   "ivan_msgs": 7,
+   "them_msgs": 2
+  },
+  "Group_Introducción_Al_Aseguramiento_De_La_Calidad_Y_Automatización": {
+   "total_msgs": 105,
+   "peak_hour": 12,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.029,
+   "ivan_ratio": 0.133,
+   "ivan_msgs": 14,
+   "them_msgs": 91
+  },
+  "Group_Bd2": {
+   "total_msgs": 236,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.309,
+   "ivan_ratio": 0.021,
+   "ivan_msgs": 5,
+   "them_msgs": 231
+  },
+  "Group_Instructores_Coordinadores_Apoyo_Talleres_De_Verano": {
+   "total_msgs": 26,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.154,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 26
+  },
+  "Group_Nexa-Paraguay": {
+   "total_msgs": 991,
+   "peak_hour": 20,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.203,
+   "ivan_ratio": 0.115,
+   "ivan_msgs": 114,
+   "them_msgs": 877
+  },
+  "Group_Pierced_Charm": {
+   "total_msgs": 10,
+   "peak_hour": 18,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.1,
+   "ivan_msgs": 1,
+   "them_msgs": 9
+  },
+  "Team_Isabelle_Mm": {
+   "total_msgs": 1033,
+   "peak_hour": 18,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.082,
+   "ivan_ratio": 0.003,
+   "ivan_msgs": 3,
+   "them_msgs": 1030
+  },
+  "Group_Powerpoint_Powe_Apps_Para_Canadá": {
+   "total_msgs": 8,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.75,
+   "ivan_msgs": 6,
+   "them_msgs": 2
+  },
+  "Familie_Van_Der_Pol": {
+   "total_msgs": 2248,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.121,
+   "ivan_ratio": 0.006,
+   "ivan_msgs": 13,
+   "them_msgs": 2235
+  },
+  "Nasa_Space_Apps_Ieee_Computer_Society": {
+   "total_msgs": 696,
+   "peak_hour": 18,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.293,
+   "ivan_ratio": 0.07,
+   "ivan_msgs": 49,
+   "them_msgs": 647
+  },
+  "Vacantes_Optech_V": {
+   "total_msgs": 2795,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.012,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 2795
+  },
+  "Group_Apuesta": {
+   "total_msgs": 6,
+   "peak_hour": 16,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 6
+  },
+  "Group_Emergentes_Grupo": {
+   "total_msgs": 95,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.274,
+   "ivan_ratio": 0.474,
+   "ivan_msgs": 45,
+   "them_msgs": 50
+  },
+  "Group_Tsuki": {
+   "total_msgs": 338,
+   "peak_hour": 23,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.071,
+   "ivan_msgs": 24,
+   "them_msgs": 314
+  },
+  "Group_Ternary_Presentation": {
+   "total_msgs": 32,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.625,
+   "ivan_msgs": 20,
+   "them_msgs": 12
+  },
+  "Info_Startups": {
+   "total_msgs": 1723,
+   "peak_hour": 14,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.135,
+   "ivan_ratio": 0.011,
+   "ivan_msgs": 19,
+   "them_msgs": 1704
+  },
+  "Maskarada_-_Club_De_Azote": {
+   "total_msgs": 2986,
+   "peak_hour": 17,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.292,
+   "ivan_ratio": 0.033,
+   "ivan_msgs": 99,
+   "them_msgs": 2887
+  },
+  "Cum_A_Secas": {
+   "total_msgs": 846,
+   "peak_hour": 16,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.105,
+   "ivan_ratio": 0.035,
+   "ivan_msgs": 30,
+   "them_msgs": 816
+  },
+  "Ieee_Cs_Una_Sbc_2025": {
+   "total_msgs": 2472,
+   "peak_hour": 2,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.375,
+   "ivan_ratio": 0.004,
+   "ivan_msgs": 10,
+   "them_msgs": 2462
+  },
+  "Group_Backend_Sin_Profe": {
+   "total_msgs": 229,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.275,
+   "ivan_ratio": 0.048,
+   "ivan_msgs": 11,
+   "them_msgs": 218
+  },
+  "Group_Qe_Yguazu_Falls_Trip": {
+   "total_msgs": 520,
+   "peak_hour": 13,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.119,
+   "ivan_ratio": 0.008,
+   "ivan_msgs": 4,
+   "them_msgs": 516
+  },
+  "Group_Sheldon_S_Dreams": {
+   "total_msgs": 107,
+   "peak_hour": 3,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.542,
+   "ivan_ratio": 0.364,
+   "ivan_msgs": 39,
+   "them_msgs": 68
+  },
+  "Group_30Vgs": {
+   "total_msgs": 250,
+   "peak_hour": 3,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.696,
+   "ivan_ratio": 0.068,
+   "ivan_msgs": 17,
+   "them_msgs": 233
+  },
+  "Group_Villa_Mayor": {
+   "total_msgs": 95,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.011,
+   "ivan_msgs": 1,
+   "them_msgs": 94
+  },
+  "Group_Mi_Pumple_30_05_No_Le_Hagan_Caso_A_Ale": {
+   "total_msgs": 80,
+   "peak_hour": 23,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.725,
+   "ivan_ratio": 0.163,
+   "ivan_msgs": 13,
+   "them_msgs": 67
+  },
+  "Group_Becas_Erasmus_Fpuna": {
+   "total_msgs": 98,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.224,
+   "ivan_msgs": 22,
+   "them_msgs": 76
+  },
+  "Group_Organización_Ci24": {
+   "total_msgs": 355,
+   "peak_hour": 18,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.194,
+   "ivan_ratio": 0.003,
+   "ivan_msgs": 1,
+   "them_msgs": 354
+  },
+  "Lan_Party_11_02": {
+   "total_msgs": 700,
+   "peak_hour": 16,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.25,
+   "ivan_ratio": 0.05,
+   "ivan_msgs": 35,
+   "them_msgs": 665
+  },
+  "Club_De_Info_Gral": {
+   "total_msgs": 6588,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.229,
+   "ivan_ratio": 0.001,
+   "ivan_msgs": 4,
+   "them_msgs": 6584
+  },
+  "Group_𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐇𝐢𝐬𝐩𝐚𝐧𝐨𝐡𝐚𝐛𝐥𝐚𝐧𝐭𝐞": {
+   "total_msgs": 64,
+   "peak_hour": 7,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 64
+  },
+  "Group_Mi_Cumple_Sábado": {
+   "total_msgs": 81,
+   "peak_hour": 21,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.444,
+   "ivan_ratio": 0.012,
+   "ivan_msgs": 1,
+   "them_msgs": 80
+  },
+  "Group_Unnamed": {
+   "total_msgs": 195,
+   "peak_hour": 1,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.359,
+   "ivan_msgs": 70,
+   "them_msgs": 125
+  },
+  "Group_Comité_De_Cursos_Charlas_-_Cs": {
+   "total_msgs": 505,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.493,
+   "ivan_ratio": 0.002,
+   "ivan_msgs": 1,
+   "them_msgs": 504
+  },
+  "Group_Goldenvisa": {
+   "total_msgs": 531,
+   "peak_hour": 17,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.041,
+   "ivan_ratio": 0.049,
+   "ivan_msgs": 26,
+   "them_msgs": 505
+  },
+  "Group_Dan": {
+   "total_msgs": 134,
+   "peak_hour": 5,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.366,
+   "ivan_ratio": 0.306,
+   "ivan_msgs": 41,
+   "them_msgs": 93
+  },
+  "Group_Ia_Organización": {
+   "total_msgs": 141,
+   "peak_hour": 20,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.319,
+   "ivan_ratio": 0.199,
+   "ivan_msgs": 28,
+   "them_msgs": 113
+  },
+  "Group_Cosas_De_Casa": {
+   "total_msgs": 121,
+   "peak_hour": 18,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.05,
+   "ivan_ratio": 0.595,
+   "ivan_msgs": 72,
+   "them_msgs": 49
+  },
+  "Group_Istqb_Brave_And_Courageous": {
+   "total_msgs": 129,
+   "peak_hour": 17,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.341,
+   "ivan_ratio": 0.054,
+   "ivan_msgs": 7,
+   "them_msgs": 122
+  },
+  "Group_Rach": {
+   "total_msgs": 908,
+   "peak_hour": 4,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.186,
+   "ivan_ratio": 0.094,
+   "ivan_msgs": 85,
+   "them_msgs": 823
+  },
+  "Group_Este_Grupo_Se_Autodestruirá_En_20Min": {
+   "total_msgs": 157,
+   "peak_hour": 0,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.637,
+   "ivan_ratio": 0.178,
+   "ivan_msgs": 28,
+   "them_msgs": 129
+  },
+  "Group_Iin_Gaming_Club": {
+   "total_msgs": 143,
+   "peak_hour": 22,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.448,
+   "ivan_ratio": 0.161,
+   "ivan_msgs": 23,
+   "them_msgs": 120
+  },
+  "Group_Is3_Sin_Profes": {
+   "total_msgs": 72,
+   "peak_hour": 1,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.361,
+   "ivan_ratio": 0.014,
+   "ivan_msgs": 1,
+   "them_msgs": 71
+  },
+  "Group_Samber_Atyra": {
+   "total_msgs": 198,
+   "peak_hour": 16,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.071,
+   "ivan_ratio": 0.045,
+   "ivan_msgs": 9,
+   "them_msgs": 189
+  },
+  "Group_La_Cumbre_Trip": {
+   "total_msgs": 291,
+   "peak_hour": 18,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 291
+  },
+  "Group_Los_Más_Paraguayos_-_Solo_Amigos_Permitidos": {
+   "total_msgs": 236,
+   "peak_hour": 0,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.445,
+   "ivan_ratio": 0.013,
+   "ivan_msgs": 3,
+   "them_msgs": 233
+  },
+  "Py_Testing_Community": {
+   "total_msgs": 2056,
+   "peak_hour": 18,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.119,
+   "ivan_ratio": 0.022,
+   "ivan_msgs": 46,
+   "them_msgs": 2010
+  },
+  "Group_D_D": {
+   "total_msgs": 178,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.348,
+   "ivan_ratio": 0.337,
+   "ivan_msgs": 60,
+   "them_msgs": 118
+  },
+  "Group_Fpuna_Ciberseguridad": {
+   "total_msgs": 239,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.285,
+   "ivan_ratio": 0.004,
+   "ivan_msgs": 1,
+   "them_msgs": 238
+  },
+  "Sarah_S_Neon_Furry_B-Day_Party": {
+   "total_msgs": 2838,
+   "peak_hour": 21,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.432,
+   "ivan_ratio": 0.018,
+   "ivan_msgs": 50,
+   "them_msgs": 2788
+  },
+  "Group_Reina_Copas": {
+   "total_msgs": 179,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.184,
+   "ivan_msgs": 33,
+   "them_msgs": 146
+  },
+  "Ieeextreme_17_0_-_Student_Branch_Una": {
+   "total_msgs": 1107,
+   "peak_hour": 0,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.458,
+   "ivan_ratio": 0.005,
+   "ivan_msgs": 6,
+   "them_msgs": 1101
+  },
+  "Group_Ai_Forsonia": {
+   "total_msgs": 60,
+   "peak_hour": 20,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.017,
+   "ivan_ratio": 0.283,
+   "ivan_msgs": 17,
+   "them_msgs": 43
+  },
+  "Group_Gruponpara_Invitarse_A_Casa_Y_Hacercelas_Facil": {
+   "total_msgs": 20,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 20
+  },
+  "Group_Wsu_Becal-Cpk_Spring": {
+   "total_msgs": 634,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.312,
+   "ivan_ratio": 0.016,
+   "ivan_msgs": 10,
+   "them_msgs": 624
+  },
+  "Group_Talleres_De_Verano_2026-_Organizacion": {
+   "total_msgs": 18,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.333,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 18
+  },
+  "Group_Cuarteto_El_15": {
+   "total_msgs": 235,
+   "peak_hour": 12,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.374,
+   "ivan_ratio": 0.047,
+   "ivan_msgs": 11,
+   "them_msgs": 224
+  },
+  "Group_La_Casa": {
+   "total_msgs": 187,
+   "peak_hour": 0,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.449,
+   "ivan_ratio": 0.246,
+   "ivan_msgs": 46,
+   "them_msgs": 141
+  },
+  "Group_Abogado": {
+   "total_msgs": 10,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.2,
+   "ivan_msgs": 2,
+   "them_msgs": 8
+  },
+  "Group_Qué_Hacer_Durante_Mi_Carrera_Para_Dirigirme_A_Donde_Me_Inter": {
+   "total_msgs": 12,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.917,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 12
+  },
+  "Group_Test_De_Hermes": {
+   "total_msgs": 68,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.162,
+   "ivan_ratio": 0.221,
+   "ivan_msgs": 15,
+   "them_msgs": 53
+  },
+  "Group_El_27_Varela_Invita_En_Su_Casa": {
+   "total_msgs": 24,
+   "peak_hour": 1,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 24
+  },
+  "Group_Is3": {
+   "total_msgs": 265,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.404,
+   "ivan_ratio": 0.272,
+   "ivan_msgs": 72,
+   "them_msgs": 193
+  },
+  "Group_Copias": {
+   "total_msgs": 22,
+   "peak_hour": 16,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.045,
+   "ivan_msgs": 1,
+   "them_msgs": 21
+  },
+  "Group_Talleres_De_Invierno_Iin_-_Lcik": {
+   "total_msgs": 45,
+   "peak_hour": 20,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.022,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 45
+  },
+  "Group_Organización_Py_Testing": {
+   "total_msgs": 212,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.099,
+   "ivan_ratio": 0.019,
+   "ivan_msgs": 4,
+   "them_msgs": 208
+  },
+  "Group_Ideas_De_Proyectos_Info": {
+   "total_msgs": 48,
+   "peak_hour": 17,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.417,
+   "ivan_msgs": 20,
+   "them_msgs": 28
+  },
+  "Group_Nsac_Asunción_2023_-_Participantes": {
+   "total_msgs": 132,
+   "peak_hour": 0,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.379,
+   "ivan_ratio": 0.015,
+   "ivan_msgs": 2,
+   "them_msgs": 130
+  },
+  "Group_Serafina": {
+   "total_msgs": 381,
+   "peak_hour": 4,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.675,
+   "ivan_ratio": 0.021,
+   "ivan_msgs": 8,
+   "them_msgs": 373
+  },
+  "Group_Saskias_Coffe_Ahop": {
+   "total_msgs": 294,
+   "peak_hour": 2,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.857,
+   "ivan_ratio": 0.194,
+   "ivan_msgs": 57,
+   "them_msgs": 237
+  },
+  "Group_Meetings": {
+   "total_msgs": 114,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.175,
+   "ivan_ratio": 0.316,
+   "ivan_msgs": 36,
+   "them_msgs": 78
+  },
+  "Prestamo_Query": {
+   "total_msgs": 31,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.645,
+   "ivan_msgs": 20,
+   "them_msgs": 11
+  },
+  "Hola_Te_Ayudo": {
+   "total_msgs": 21,
+   "peak_hour": 0,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 9,
+   "them_msgs": 12
+  },
+  "Hola_Buenas_Noches": {
+   "total_msgs": 12,
+   "peak_hour": 3,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.583,
+   "ivan_ratio": 0.25,
+   "ivan_msgs": 3,
+   "them_msgs": 9
+  },
+  "Nro_Ale_Request": {
+   "total_msgs": 33,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.303,
+   "ivan_ratio": 0.455,
+   "ivan_msgs": 15,
+   "them_msgs": 18
+  },
+  "Buenas_Lid_927": {
+   "total_msgs": 11,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.364,
+   "ivan_msgs": 4,
+   "them_msgs": 7
+  },
+  "Consult_Query": {
+   "total_msgs": 78,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.269,
+   "ivan_ratio": 0.474,
+   "ivan_msgs": 37,
+   "them_msgs": 41
+  },
+  "Manuel_Cruz_Alexander_Coworker": {
+   "total_msgs": 5,
+   "peak_hour": 19,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "Encantado_Conocerte": {
+   "total_msgs": 10,
+   "peak_hour": 16,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.3,
+   "ivan_msgs": 3,
+   "them_msgs": 7
+  },
+  "Photo_Sender": {
+   "total_msgs": 80,
+   "peak_hour": 18,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.3,
+   "ivan_msgs": 24,
+   "them_msgs": 56
+  },
+  "Buenas_595981701701": {
+   "total_msgs": 38,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 19,
+   "them_msgs": 19
+  },
+  "Vasectomia_Query_2": {
+   "total_msgs": 26,
+   "peak_hour": 15,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.423,
+   "ivan_msgs": 11,
+   "them_msgs": 15
+  },
+  "Laviejaholanda_Muebles_Vintage": {
+   "total_msgs": 8,
+   "peak_hour": 13,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.625,
+   "ivan_msgs": 5,
+   "them_msgs": 3
+  },
+  "Like_This_Chat": {
+   "total_msgs": 17,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.824,
+   "ivan_msgs": 14,
+   "them_msgs": 3
+  },
+  "Regalo_Coordinacion": {
+   "total_msgs": 45,
+   "peak_hour": 0,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.889,
+   "ivan_ratio": 0.244,
+   "ivan_msgs": 11,
+   "them_msgs": 34
+  },
+  "Doctor_Visit_Query": {
+   "total_msgs": 7,
+   "peak_hour": 17,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.714,
+   "ivan_msgs": 5,
+   "them_msgs": 2
+  },
+  "Fernando_Norte_Single_Bi": {
+   "total_msgs": 19,
+   "peak_hour": 2,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.474,
+   "ivan_msgs": 9,
+   "them_msgs": 10
+  },
+  "Hola_Que_Tal_595": {
+   "total_msgs": 10,
+   "peak_hour": 22,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.3,
+   "ivan_msgs": 3,
+   "them_msgs": 7
+  },
+  "Remeras_Disenos_Query": {
+   "total_msgs": 16,
+   "peak_hour": 20,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.938,
+   "ivan_msgs": 15,
+   "them_msgs": 1
+  },
+  "Holiiis_Chat": {
+   "total_msgs": 27,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 9,
+   "them_msgs": 18
+  },
+  "Profe_Curso_Query": {
+   "total_msgs": 49,
+   "peak_hour": 19,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 28,
+   "them_msgs": 21
+  },
+  "Estimado_Ivan_Inconveniente": {
+   "total_msgs": 15,
+   "peak_hour": 3,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.933,
+   "ivan_ratio": 0.533,
+   "ivan_msgs": 8,
+   "them_msgs": 7
+  },
+  "Romina_Tupi_Electro": {
+   "total_msgs": 21,
+   "peak_hour": 17,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.476,
+   "ivan_msgs": 10,
+   "them_msgs": 11
+  },
+  "121__p4600___wa_chat_595971444600_9680": {
+   "total_msgs": 30,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.167,
+   "ivan_ratio": 0.567,
+   "ivan_msgs": 17,
+   "them_msgs": 13
+  },
+  "Pharmacy_Medical_Advice": {
+   "total_msgs": 50,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.46,
+   "ivan_msgs": 23,
+   "them_msgs": 27
+  },
+  "Hello_More_Info_Query": {
+   "total_msgs": 10,
+   "peak_hour": 16,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.1,
+   "ivan_msgs": 1,
+   "them_msgs": 9
+  },
+  "Hola_Que_Tal_180": {
+   "total_msgs": 99,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.081,
+   "ivan_ratio": 0.434,
+   "ivan_msgs": 43,
+   "them_msgs": 56
+  },
+  "Olga_Referral": {
+   "total_msgs": 20,
+   "peak_hour": 14,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.25,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 12,
+   "them_msgs": 8
+  },
+  "Alonso_Motivus": {
+   "total_msgs": 11,
+   "peak_hour": 21,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.818,
+   "ivan_msgs": 9,
+   "them_msgs": 2
+  },
+  "Numero_Equivocado_Frank": {
+   "total_msgs": 4,
+   "peak_hour": 13,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 2,
+   "them_msgs": 2
+  },
+  "Irritacion_Piel_Huevos_Query": {
+   "total_msgs": 7,
+   "peak_hour": 13,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 2,
+   "them_msgs": 5
+  },
+  "Vos_Con_Lau_Query": {
+   "total_msgs": 7,
+   "peak_hour": 18,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 2,
+   "them_msgs": 5
+  },
+  "Pedido_Query": {
+   "total_msgs": 36,
+   "peak_hour": 3,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.306,
+   "ivan_msgs": 11,
+   "them_msgs": 25
+  },
+  "118__p0431___wa_chat_595971200431_11186": {
+   "total_msgs": 15,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.333,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 5,
+   "them_msgs": 10
+  },
+  "Poke_Sushi_Ubicacion": {
+   "total_msgs": 7,
+   "peak_hour": 22,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 4,
+   "them_msgs": 3
+  },
+  "Doing_Something_Query": {
+   "total_msgs": 7,
+   "peak_hour": 2,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.857,
+   "ivan_msgs": 6,
+   "them_msgs": 1
+  },
+  "Nudo_Cliente_Chat": {
+   "total_msgs": 332,
+   "peak_hour": 2,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.41,
+   "ivan_ratio": 0.461,
+   "ivan_msgs": 153,
+   "them_msgs": 179
+  },
+  "Sorry_No_Hay": {
+   "total_msgs": 4,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 2,
+   "them_msgs": 2
+  },
+  "Mail_IT_Alizanza": {
+   "total_msgs": 25,
+   "peak_hour": 13,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.48,
+   "ivan_msgs": 12,
+   "them_msgs": 13
+  },
+  "Esta_El_Profe": {
+   "total_msgs": 6,
+   "peak_hour": 23,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.167,
+   "ivan_msgs": 1,
+   "them_msgs": 5
+  },
+  "Adri_Referral_Quote": {
+   "total_msgs": 54,
+   "peak_hour": 3,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.352,
+   "ivan_ratio": 0.63,
+   "ivan_msgs": 34,
+   "them_msgs": 20
+  },
+  "Bueno_Dia_Chat": {
+   "total_msgs": 23,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.174,
+   "ivan_msgs": 4,
+   "them_msgs": 19
+  },
+  "Oli_Grindr_Brazil": {
+   "total_msgs": 113,
+   "peak_hour": 6,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.097,
+   "ivan_ratio": 0.451,
+   "ivan_msgs": 51,
+   "them_msgs": 62
+  },
+  "200__p4464___wa_chat_595985124464_11430": {
+   "total_msgs": 72,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.014,
+   "ivan_ratio": 0.514,
+   "ivan_msgs": 37,
+   "them_msgs": 35
+  },
+  "Maria_Riveros_Bristol": {
+   "total_msgs": 9,
+   "peak_hour": 21,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 9
+  },
+  "Hola_Chat_596": {
+   "total_msgs": 5,
+   "peak_hour": 1,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.8,
+   "ivan_ratio": 0.8,
+   "ivan_msgs": 4,
+   "them_msgs": 1
+  },
+  "Combos_Fruit_Query": {
+   "total_msgs": 22,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.136,
+   "ivan_ratio": 0.455,
+   "ivan_msgs": 10,
+   "them_msgs": 12
+  },
+  "El_Alquimista_Grower": {
+   "total_msgs": 18,
+   "peak_hour": 16,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.556,
+   "ivan_msgs": 10,
+   "them_msgs": 8
+  },
+  "Neko_Friend_Chat": {
+   "total_msgs": 103,
+   "peak_hour": 20,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.534,
+   "ivan_ratio": 0.505,
+   "ivan_msgs": 52,
+   "them_msgs": 51
+  },
+  "How_Re_You_AI_Friend": {
+   "total_msgs": 13,
+   "peak_hour": 10,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.385,
+   "ivan_msgs": 5,
+   "them_msgs": 8
+  },
+  "253__p4473___wa_chat_59895614473_11939": {
+   "total_msgs": 32,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.562,
+   "ivan_msgs": 18,
+   "them_msgs": 14
+  },
+  "Dr_Demian_Glujovsky": {
+   "total_msgs": 6,
+   "peak_hour": 17,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.333,
+   "ivan_ratio": 0.167,
+   "ivan_msgs": 1,
+   "them_msgs": 5
+  },
+  "Discord_Friend": {
+   "total_msgs": 262,
+   "peak_hour": 15,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.015,
+   "ivan_ratio": 0.538,
+   "ivan_msgs": 141,
+   "them_msgs": 121
+  },
+  "Uwuwu_Cute_Friend": {
+   "total_msgs": 60,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.017,
+   "ivan_ratio": 0.35,
+   "ivan_msgs": 21,
+   "them_msgs": 39
+  },
+  "OT_19507_Tech": {
+   "total_msgs": 64,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.438,
+   "ivan_msgs": 28,
+   "them_msgs": 36
+  },
+  "Hugo_Calcumath": {
+   "total_msgs": 7,
+   "peak_hour": 21,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 2,
+   "them_msgs": 5
+  },
+  "213__p9488___wa_chat_595986159488_9270": {
+   "total_msgs": 13,
+   "peak_hour": 11,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.385,
+   "ivan_msgs": 5,
+   "them_msgs": 8
+  },
+  "Buen_Dia_Chat": {
+   "total_msgs": 12,
+   "peak_hour": 16,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.417,
+   "ivan_msgs": 5,
+   "them_msgs": 7
+  },
+  "Kate_Money_Question": {
+   "total_msgs": 5,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "Saffi_Farra": {
+   "total_msgs": 39,
+   "peak_hour": 20,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.205,
+   "ivan_ratio": 0.205,
+   "ivan_msgs": 8,
+   "them_msgs": 31
+  },
+  "Nissei_Salesperson": {
+   "total_msgs": 9,
+   "peak_hour": 11,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.556,
+   "ivan_msgs": 5,
+   "them_msgs": 4
+  },
+  "Buenas_Lid_126": {
+   "total_msgs": 24,
+   "peak_hour": 4,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.458,
+   "ivan_msgs": 11,
+   "them_msgs": 13
+  },
+  "Buenas_Tardes_591": {
+   "total_msgs": 14,
+   "peak_hour": 16,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 6,
+   "them_msgs": 8
+  },
+  "Argentina_Uwuwu": {
+   "total_msgs": 71,
+   "peak_hour": 16,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.338,
+   "ivan_ratio": 0.423,
+   "ivan_msgs": 30,
+   "them_msgs": 41
+  },
+  "Koi_Delivery_La": {
+   "total_msgs": 14,
+   "peak_hour": 1,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 8,
+   "them_msgs": 6
+  },
+  "Credit_Spam_4": {
+   "total_msgs": 202,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.995,
+   "ivan_msgs": 201,
+   "them_msgs": 1
+  },
+  "Sole_Laptop_Help": {
+   "total_msgs": 23,
+   "peak_hour": 16,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.652,
+   "ivan_msgs": 15,
+   "them_msgs": 8
+  },
+  "Masterdom_Jose_Angelo": {
+   "total_msgs": 49,
+   "peak_hour": 4,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.347,
+   "ivan_msgs": 17,
+   "them_msgs": 32
+  },
+  "Thijs_Dutch_Guy_Chat": {
+   "total_msgs": 194,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.619,
+   "ivan_ratio": 0.474,
+   "ivan_msgs": 92,
+   "them_msgs": 102
+  },
+  "Saul_Goodman_Page": {
+   "total_msgs": 37,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.514,
+   "ivan_msgs": 19,
+   "them_msgs": 18
+  },
+  "Hola_Por_Donde": {
+   "total_msgs": 9,
+   "peak_hour": 22,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.556,
+   "ivan_msgs": 5,
+   "them_msgs": 4
+  },
+  "220__p4623___wa_chat_595986554623_9543": {
+   "total_msgs": 42,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.405,
+   "ivan_ratio": 0.452,
+   "ivan_msgs": 19,
+   "them_msgs": 23
+  },
+  "Que_Tal_Bro": {
+   "total_msgs": 15,
+   "peak_hour": 16,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 5,
+   "them_msgs": 10
+  },
+  "Repo_BD2_Interesado": {
+   "total_msgs": 11,
+   "peak_hour": 23,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.545,
+   "ivan_msgs": 6,
+   "them_msgs": 5
+  },
+  "Ivan_25_Self_Intro": {
+   "total_msgs": 22,
+   "peak_hour": 1,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.409,
+   "ivan_msgs": 9,
+   "them_msgs": 13
+  },
+  "More_Info_Query_2": {
+   "total_msgs": 5,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "Buenos_Dias_Chat": {
+   "total_msgs": 18,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.167,
+   "ivan_msgs": 3,
+   "them_msgs": 15
+  },
+  "Hola_Chat_597": {
+   "total_msgs": 5,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 1.0,
+   "ivan_msgs": 5,
+   "them_msgs": 0
+  },
+  "Suno_Music_Share": {
+   "total_msgs": 6,
+   "peak_hour": 22,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 1.0,
+   "ivan_msgs": 6,
+   "them_msgs": 0
+  },
+  "Yo_Quiero_Chat": {
+   "total_msgs": 15,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 5,
+   "them_msgs": 10
+  },
+  "Te_Llame_Recien": {
+   "total_msgs": 5,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.8,
+   "ivan_msgs": 4,
+   "them_msgs": 1
+  },
+  "Lorena_Meet_Offer": {
+   "total_msgs": 6,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "235__p6040___wa_chat_595992036040_11693": {
+   "total_msgs": 11,
+   "peak_hour": 8,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.636,
+   "ivan_msgs": 7,
+   "them_msgs": 4
+  },
+  "Amanda_Chat": {
+   "total_msgs": 20,
+   "peak_hour": 0,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.7,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 8,
+   "them_msgs": 12
+  },
+  "Multijuegos_VB_Jenga": {
+   "total_msgs": 6,
+   "peak_hour": 0,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 3,
+   "them_msgs": 3
+  },
+  "Buenas_Tardes_Ivan": {
+   "total_msgs": 46,
+   "peak_hour": 22,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.957,
+   "ivan_ratio": 0.391,
+   "ivan_msgs": 18,
+   "them_msgs": 28
+  },
+  "Casa_Cuanto_Pasan": {
+   "total_msgs": 8,
+   "peak_hour": 19,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.375,
+   "ivan_ratio": 0.875,
+   "ivan_msgs": 7,
+   "them_msgs": 1
+  },
+  "Tamara_Tienda_Movil": {
+   "total_msgs": 34,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.529,
+   "ivan_msgs": 18,
+   "them_msgs": 16
+  },
+  "Monchis_Driver_3": {
+   "total_msgs": 5,
+   "peak_hour": 17,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.4,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 5
+  },
+  "ETA_Coordinator": {
+   "total_msgs": 28,
+   "peak_hour": 4,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.071,
+   "ivan_ratio": 0.393,
+   "ivan_msgs": 11,
+   "them_msgs": 17
+  },
+  "Jose_Balcarse": {
+   "total_msgs": 43,
+   "peak_hour": 17,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.465,
+   "ivan_msgs": 20,
+   "them_msgs": 23
+  },
+  "Hola_Ivan_Que_Tal": {
+   "total_msgs": 43,
+   "peak_hour": 12,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.07,
+   "ivan_ratio": 0.465,
+   "ivan_msgs": 20,
+   "them_msgs": 23
+  },
+  "Que_Tal_Weiss": {
+   "total_msgs": 7,
+   "peak_hour": 17,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 3,
+   "them_msgs": 4
+  },
+  "Gemini_Sharer": {
+   "total_msgs": 208,
+   "peak_hour": 15,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.26,
+   "ivan_ratio": 0.591,
+   "ivan_msgs": 123,
+   "them_msgs": 85
+  },
+  "122__p4131___wa_chat_595971524131_2150": {
+   "total_msgs": 42,
+   "peak_hour": 22,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.643,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 18,
+   "them_msgs": 24
+  },
+  "Che_Varea_Grill": {
+   "total_msgs": 30,
+   "peak_hour": 3,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.567,
+   "ivan_ratio": 0.533,
+   "ivan_msgs": 16,
+   "them_msgs": 14
+  },
+  "Medical_Reports_Bot": {
+   "total_msgs": 5,
+   "peak_hour": 12,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.8,
+   "ivan_msgs": 4,
+   "them_msgs": 1
+  },
+  "Alejandro_Chat": {
+   "total_msgs": 9,
+   "peak_hour": 11,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 3,
+   "them_msgs": 6
+  },
+  "La_Luna_Es_Mia_Tienda": {
+   "total_msgs": 31,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.129,
+   "ivan_ratio": 0.452,
+   "ivan_msgs": 14,
+   "them_msgs": 17
+  },
+  "After_Talentoso": {
+   "total_msgs": 22,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.136,
+   "ivan_ratio": 0.045,
+   "ivan_msgs": 1,
+   "them_msgs": 21
+  },
+  "Vasectomia_Query": {
+   "total_msgs": 46,
+   "peak_hour": 16,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.587,
+   "ivan_msgs": 27,
+   "them_msgs": 19
+  },
+  "En_Verdad_Te_Gustaria": {
+   "total_msgs": 16,
+   "peak_hour": 21,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.625,
+   "ivan_msgs": 10,
+   "them_msgs": 6
+  },
+  "Richard_Alicia_Kannekens_Referral": {
+   "total_msgs": 7,
+   "peak_hour": 14,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 3,
+   "them_msgs": 4
+  },
+  "Compra_Minima_Query": {
+   "total_msgs": 6,
+   "peak_hour": 12,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 3,
+   "them_msgs": 3
+  },
+  "Sole_Laptop_Tech_Support": {
+   "total_msgs": 8,
+   "peak_hour": 16,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.625,
+   "ivan_msgs": 5,
+   "them_msgs": 3
+  },
+  "Hola_Bro": {
+   "total_msgs": 25,
+   "peak_hour": 23,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.84,
+   "ivan_ratio": 0.64,
+   "ivan_msgs": 16,
+   "them_msgs": 9
+  },
+  "Zonaroja_Anuncio_Query": {
+   "total_msgs": 8,
+   "peak_hour": 11,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 4,
+   "them_msgs": 4
+  },
+  "Pausanti_Delivery": {
+   "total_msgs": 5,
+   "peak_hour": 0,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.6,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 5
+  },
+  "Entrevista_Medio_Query": {
+   "total_msgs": 5,
+   "peak_hour": 17,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "Asistencia_Viajero_Query": {
+   "total_msgs": 10,
+   "peak_hour": 5,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 6,
+   "them_msgs": 4
+  },
+  "Reforestacion_Drones_Video": {
+   "total_msgs": 9,
+   "peak_hour": 20,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.222,
+   "ivan_msgs": 2,
+   "them_msgs": 7
+  },
+  "Hola_Buen_Dia_Chat": {
+   "total_msgs": 6,
+   "peak_hour": 11,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "Isopropilico_precios": {
+   "total_msgs": 16,
+   "peak_hour": 17,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.375,
+   "ivan_msgs": 6,
+   "them_msgs": 10
+  },
+  "Vine_Con_Mama": {
+   "total_msgs": 35,
+   "peak_hour": 22,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.343,
+   "ivan_ratio": 0.457,
+   "ivan_msgs": 16,
+   "them_msgs": 19
+  },
+  "Jeweler_Grindr": {
+   "total_msgs": 8,
+   "peak_hour": 18,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.375,
+   "ivan_msgs": 3,
+   "them_msgs": 5
+  },
+  "Piercing_Titaneo_Disenos": {
+   "total_msgs": 8,
+   "peak_hour": 21,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 4,
+   "them_msgs": 4
+  },
+  "148__p7023___wa_chat_595976777023_2027": {
+   "total_msgs": 33,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.455,
+   "ivan_ratio": 0.576,
+   "ivan_msgs": 19,
+   "them_msgs": 14
+  },
+  "Hola_Ivan_595": {
+   "total_msgs": 6,
+   "peak_hour": 1,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 6
+  },
+  "Soy_Solo_Short": {
+   "total_msgs": 16,
+   "peak_hour": 20,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.688,
+   "ivan_msgs": 11,
+   "them_msgs": 5
+  },
+  "Confirmacion_Final_Query": {
+   "total_msgs": 7,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 4,
+   "them_msgs": 3
+  },
+  "Holis_Como_Estas": {
+   "total_msgs": 22,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.182,
+   "ivan_ratio": 0.455,
+   "ivan_msgs": 10,
+   "them_msgs": 12
+  },
+  "Sara": {
+   "total_msgs": 66,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.182,
+   "ivan_ratio": 0.439,
+   "ivan_msgs": 29,
+   "them_msgs": 37
+  },
+  "Buenas_Amigo_Chat": {
+   "total_msgs": 10,
+   "peak_hour": 22,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.7,
+   "ivan_ratio": 0.3,
+   "ivan_msgs": 3,
+   "them_msgs": 7
+  },
+  "San_Lorenzo_25": {
+   "total_msgs": 39,
+   "peak_hour": 0,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.821,
+   "ivan_ratio": 0.59,
+   "ivan_msgs": 23,
+   "them_msgs": 16
+  },
+  "BDSM_Femdom_Chat": {
+   "total_msgs": 95,
+   "peak_hour": 11,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.379,
+   "ivan_ratio": 0.695,
+   "ivan_msgs": 66,
+   "them_msgs": 29
+  },
+  "Photos_Sender_Friend": {
+   "total_msgs": 16,
+   "peak_hour": 4,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.062,
+   "ivan_msgs": 1,
+   "them_msgs": 15
+  },
+  "Weissvanderpol_Chat": {
+   "total_msgs": 34,
+   "peak_hour": 17,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.559,
+   "ivan_msgs": 19,
+   "them_msgs": 15
+  },
+  "Jesus_Cami_Maidana_Referral": {
+   "total_msgs": 12,
+   "peak_hour": 22,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.75,
+   "ivan_ratio": 0.583,
+   "ivan_msgs": 7,
+   "them_msgs": 5
+  },
+  "Jose_Insfran_Weiss": {
+   "total_msgs": 23,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.478,
+   "ivan_msgs": 11,
+   "them_msgs": 12
+  },
+  "Vacantes_Share": {
+   "total_msgs": 5,
+   "peak_hour": 6,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 2,
+   "them_msgs": 3
+  },
+  "Eliana_Assertia_Solutions": {
+   "total_msgs": 5,
+   "peak_hour": 20,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.2,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "Dolly_Sabanas": {
+   "total_msgs": 29,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.034,
+   "ivan_ratio": 0.552,
+   "ivan_msgs": 16,
+   "them_msgs": 13
+  },
+  "CI_Number_Request_2": {
+   "total_msgs": 7,
+   "peak_hour": 18,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 4,
+   "them_msgs": 3
+  },
+  "Haciendo_Solo_Tambien": {
+   "total_msgs": 16,
+   "peak_hour": 1,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.625,
+   "ivan_msgs": 10,
+   "them_msgs": 6
+  },
+  "El_Alquimista_Colegiales_AR": {
+   "total_msgs": 7,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 2,
+   "them_msgs": 5
+  },
+  "TikTok_Sharer": {
+   "total_msgs": 109,
+   "peak_hour": 4,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.028,
+   "ivan_ratio": 0.55,
+   "ivan_msgs": 60,
+   "them_msgs": 49
+  },
+  "Luis_Vargas_Woden": {
+   "total_msgs": 16,
+   "peak_hour": 15,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.562,
+   "ivan_msgs": 9,
+   "them_msgs": 7
+  },
+  "Taller_Invierno_Ivan": {
+   "total_msgs": 20,
+   "peak_hour": 16,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.3,
+   "ivan_msgs": 6,
+   "them_msgs": 14
+  },
+  "Pagopar_Mariana": {
+   "total_msgs": 18,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.556,
+   "ivan_msgs": 10,
+   "them_msgs": 8
+  },
+  "De_Donde_Sos_Query": {
+   "total_msgs": 7,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 4,
+   "them_msgs": 3
+  },
+  "184__p0224___wa_chat_595983800224_9916": {
+   "total_msgs": 32,
+   "peak_hour": 22,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.562,
+   "ivan_ratio": 0.25,
+   "ivan_msgs": 8,
+   "them_msgs": 24
+  },
+  "FPUNA_Estudiante": {
+   "total_msgs": 33,
+   "peak_hour": 14,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.667,
+   "ivan_msgs": 22,
+   "them_msgs": 11
+  },
+  "CV_Github_Recruit_2": {
+   "total_msgs": 4,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 2,
+   "them_msgs": 2
+  },
+  "Alejandra_Queretaro": {
+   "total_msgs": 161,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.534,
+   "ivan_msgs": 86,
+   "them_msgs": 75
+  },
+  "138__p4744___wa_chat_595972994744_4768": {
+   "total_msgs": 30,
+   "peak_hour": 1,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.533,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 10,
+   "them_msgs": 20
+  },
+  "Podes_Reenviar": {
+   "total_msgs": 33,
+   "peak_hour": 23,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.394,
+   "ivan_msgs": 13,
+   "them_msgs": 20
+  },
+  "Profe_Pre_Clase_Query": {
+   "total_msgs": 13,
+   "peak_hour": 21,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.462,
+   "ivan_ratio": 0.615,
+   "ivan_msgs": 8,
+   "them_msgs": 5
+  },
+  "Estoy_Para_La_No": {
+   "total_msgs": 8,
+   "peak_hour": 3,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.875,
+   "ivan_msgs": 7,
+   "them_msgs": 1
+  },
+  "Lara_Number_Referral": {
+   "total_msgs": 9,
+   "peak_hour": 23,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.444,
+   "ivan_msgs": 4,
+   "them_msgs": 5
+  },
+  "179__p0080___wa_chat_595983220080_2162": {
+   "total_msgs": 30,
+   "peak_hour": 17,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.033,
+   "ivan_ratio": 0.533,
+   "ivan_msgs": 16,
+   "them_msgs": 14
+  },
+  "Jessi_69dotcom_Photos": {
+   "total_msgs": 5,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.2,
+   "ivan_msgs": 1,
+   "them_msgs": 4
+  },
+  "Holaaaa_637": {
+   "total_msgs": 44,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.455,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 22,
+   "them_msgs": 22
+  },
+  "BD2_Query": {
+   "total_msgs": 23,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.087,
+   "ivan_ratio": 0.522,
+   "ivan_msgs": 12,
+   "them_msgs": 11
+  },
+  "Dealer_Galletitas_Buyer": {
+   "total_msgs": 283,
+   "peak_hour": 18,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.385,
+   "ivan_ratio": 0.558,
+   "ivan_msgs": 158,
+   "them_msgs": 125
+  },
+  "Tigo_Bot_Liza": {
+   "total_msgs": 24,
+   "peak_hour": 21,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.208,
+   "ivan_ratio": 0.167,
+   "ivan_msgs": 4,
+   "them_msgs": 20
+  },
+  "Kunu_u": {
+   "total_msgs": 98,
+   "peak_hour": 14,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.031,
+   "ivan_ratio": 0.49,
+   "ivan_msgs": 48,
+   "them_msgs": 50
+  },
+  "Remera_Lila_Talla_M_G": {
+   "total_msgs": 11,
+   "peak_hour": 17,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.545,
+   "ivan_msgs": 6,
+   "them_msgs": 5
+  },
+  "No_Broncas_Agencia": {
+   "total_msgs": 5,
+   "peak_hour": 17,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "OpenCode_Wall_AI": {
+   "total_msgs": 18,
+   "peak_hour": 22,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.556,
+   "ivan_msgs": 10,
+   "them_msgs": 8
+  },
+  "Edificio_Brasilia": {
+   "total_msgs": 16,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 8,
+   "them_msgs": 8
+  },
+  "Messages_Query": {
+   "total_msgs": 7,
+   "peak_hour": 18,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 3,
+   "them_msgs": 4
+  },
+  "202__p3897___wa_chat_595985343897_7621": {
+   "total_msgs": 11,
+   "peak_hour": 12,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.273,
+   "ivan_ratio": 0.455,
+   "ivan_msgs": 5,
+   "them_msgs": 6
+  },
+  "WSP_Assist_00E9E00": {
+   "total_msgs": 17,
+   "peak_hour": 2,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.471,
+   "ivan_ratio": 0.353,
+   "ivan_msgs": 6,
+   "them_msgs": 11
+  },
+  "Ivan_Self_Intro_Chat": {
+   "total_msgs": 7,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.857,
+   "ivan_msgs": 6,
+   "them_msgs": 1
+  },
+  "Es_Mio_Solo_Que_No_Fui": {
+   "total_msgs": 5,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.2,
+   "ivan_msgs": 1,
+   "them_msgs": 4
+  },
+  "Sarah_Bum_Referral": {
+   "total_msgs": 62,
+   "peak_hour": 0,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.645,
+   "ivan_ratio": 0.565,
+   "ivan_msgs": 35,
+   "them_msgs": 27
+  },
+  "Fabricio_Mendoza_AIESEC": {
+   "total_msgs": 28,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.286,
+   "ivan_ratio": 0.393,
+   "ivan_msgs": 11,
+   "them_msgs": 17
+  },
+  "Correo_Campus_TEMU": {
+   "total_msgs": 5,
+   "peak_hour": 17,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "Buenas_168p6355": {
+   "total_msgs": 29,
+   "peak_hour": 14,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.552,
+   "ivan_msgs": 16,
+   "them_msgs": 13
+  },
+  "Skokka_Melik_Ad": {
+   "total_msgs": 47,
+   "peak_hour": 9,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.213,
+   "ivan_ratio": 0.532,
+   "ivan_msgs": 25,
+   "them_msgs": 22
+  },
+  "Vasectomia_Viernes_13": {
+   "total_msgs": 5,
+   "peak_hour": 7,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.8,
+   "ivan_msgs": 4,
+   "them_msgs": 1
+  },
+  "Credit_Spam_2": {
+   "total_msgs": 325,
+   "peak_hour": 20,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.975,
+   "ivan_msgs": 317,
+   "them_msgs": 8
+  },
+  "Holaaa_Chat": {
+   "total_msgs": 12,
+   "peak_hour": 19,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.5,
+   "ivan_ratio": 0.25,
+   "ivan_msgs": 3,
+   "them_msgs": 9
+  },
+  "Que_Tal_Lid_94": {
+   "total_msgs": 100,
+   "peak_hour": 20,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.03,
+   "ivan_ratio": 0.29,
+   "ivan_msgs": 29,
+   "them_msgs": 71
+  },
+  "252__p2888___wa_chat_595994922888_5114": {
+   "total_msgs": 13,
+   "peak_hour": 4,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.231,
+   "ivan_msgs": 3,
+   "them_msgs": 10
+  },
+  "Oreja_Transversal_Piercing": {
+   "total_msgs": 32,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.312,
+   "ivan_ratio": 0.469,
+   "ivan_msgs": 15,
+   "them_msgs": 17
+  },
+  "Pedido_Arribo_Query": {
+   "total_msgs": 7,
+   "peak_hour": 12,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.714,
+   "ivan_msgs": 5,
+   "them_msgs": 2
+  },
+  "Cami_Amigo": {
+   "total_msgs": 164,
+   "peak_hour": 21,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.665,
+   "ivan_msgs": 109,
+   "them_msgs": 55
+  },
+  "Image_Only_Chat": {
+   "total_msgs": 7,
+   "peak_hour": 12,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 1.0,
+   "ivan_msgs": 7,
+   "them_msgs": 0
+  },
+  "Kinda_Random_IA_Stuff": {
+   "total_msgs": 6,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "192__p1244___wa_chat_595984731244_10265": {
+   "total_msgs": 70,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.086,
+   "ivan_ratio": 0.529,
+   "ivan_msgs": 37,
+   "them_msgs": 33
+  },
+  "Hola_Lid_130": {
+   "total_msgs": 4,
+   "peak_hour": 16,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 2,
+   "them_msgs": 2
+  },
+  "Angel_Gamarra_CS": {
+   "total_msgs": 59,
+   "peak_hour": 15,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.458,
+   "ivan_msgs": 27,
+   "them_msgs": 32
+  },
+  "Peider_QA_Support": {
+   "total_msgs": 111,
+   "peak_hour": 21,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.225,
+   "ivan_ratio": 0.414,
+   "ivan_msgs": 46,
+   "them_msgs": 65
+  },
+  "Solo_San_Lorenzo_25": {
+   "total_msgs": 31,
+   "peak_hour": 20,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.452,
+   "ivan_msgs": 14,
+   "them_msgs": 17
+  },
+  "Que_Tal_Chat": {
+   "total_msgs": 15,
+   "peak_hour": 16,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.267,
+   "ivan_msgs": 4,
+   "them_msgs": 11
+  },
+  "Gustavo_QA_Practica": {
+   "total_msgs": 7,
+   "peak_hour": 16,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.714,
+   "ivan_msgs": 5,
+   "them_msgs": 2
+  },
+  "216__p6810___wa_chat_595986186810_232": {
+   "total_msgs": 11,
+   "peak_hour": 0,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.545,
+   "ivan_msgs": 6,
+   "them_msgs": 5
+  },
+  "Doc_Mod_Query": {
+   "total_msgs": 18,
+   "peak_hour": 21,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.444,
+   "ivan_msgs": 8,
+   "them_msgs": 10
+  },
+  "Buenas_Tardes_585": {
+   "total_msgs": 12,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.667,
+   "ivan_msgs": 8,
+   "them_msgs": 4
+  },
+  "Buenas_584": {
+   "total_msgs": 13,
+   "peak_hour": 1,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.077,
+   "ivan_msgs": 1,
+   "them_msgs": 12
+  },
+  "Coffeecatpy_Insta": {
+   "total_msgs": 13,
+   "peak_hour": 20,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.615,
+   "ivan_msgs": 8,
+   "them_msgs": 5
+  },
+  "241__p3433___wa_chat_595992443433_4763": {
+   "total_msgs": 14,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.071,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 7,
+   "them_msgs": 7
+  },
+  "Happy_Birthday_Uwuwu": {
+   "total_msgs": 5,
+   "peak_hour": 22,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.6,
+   "ivan_ratio": 0.8,
+   "ivan_msgs": 4,
+   "them_msgs": 1
+  },
+  "Reimar_Cintos": {
+   "total_msgs": 51,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.471,
+   "ivan_msgs": 24,
+   "them_msgs": 27
+  },
+  "Hoka_Lid_266": {
+   "total_msgs": 5,
+   "peak_hour": 23,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "Don_Juan_Web": {
+   "total_msgs": 53,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.434,
+   "ivan_msgs": 23,
+   "them_msgs": 30
+  },
+  "Credit_Spam_3": {
+   "total_msgs": 238,
+   "peak_hour": 16,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.996,
+   "ivan_msgs": 237,
+   "them_msgs": 1
+  },
+  "Anna_Referral": {
+   "total_msgs": 196,
+   "peak_hour": 16,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.464,
+   "ivan_msgs": 91,
+   "them_msgs": 105
+  },
+  "Chill_Spanish_Friend": {
+   "total_msgs": 514,
+   "peak_hour": 2,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.86,
+   "ivan_ratio": 0.442,
+   "ivan_msgs": 227,
+   "them_msgs": 287
+  },
+  "Wow_Foto_Chat": {
+   "total_msgs": 20,
+   "peak_hour": 11,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 10,
+   "them_msgs": 10
+  },
+  "Hola_583": {
+   "total_msgs": 6,
+   "peak_hour": 17,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 3,
+   "them_msgs": 3
+  },
+  "Hola_Ivan_Chat": {
+   "total_msgs": 158,
+   "peak_hour": 18,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.063,
+   "ivan_ratio": 0.582,
+   "ivan_msgs": 92,
+   "them_msgs": 66
+  },
+  "Chatbot_Interior_Webinar": {
+   "total_msgs": 5,
+   "peak_hour": 16,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.0,
+   "ivan_msgs": 0,
+   "them_msgs": 5
+  },
+  "Piercing_Buyer": {
+   "total_msgs": 257,
+   "peak_hour": 2,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.401,
+   "ivan_ratio": 0.58,
+   "ivan_msgs": 149,
+   "them_msgs": 108
+  },
+  "CV_Github_Recruitment": {
+   "total_msgs": 6,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 3,
+   "them_msgs": 3
+  },
+  "Saskia_Close_Friend": {
+   "total_msgs": 144,
+   "peak_hour": 20,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.438,
+   "ivan_ratio": 0.34,
+   "ivan_msgs": 49,
+   "them_msgs": 95
+  },
+  "175__p0360___wa_chat_595982810360_6527": {
+   "total_msgs": 10,
+   "peak_hour": 4,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 4,
+   "them_msgs": 6
+  },
+  "Como_Lo_Que_Vos_Sabes": {
+   "total_msgs": 13,
+   "peak_hour": 20,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.692,
+   "ivan_msgs": 9,
+   "them_msgs": 4
+  },
+  "Esperando_Gran_Dia": {
+   "total_msgs": 4,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 2,
+   "them_msgs": 2
+  },
+  "Cerri": {
+   "total_msgs": 91,
+   "peak_hour": 22,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.527,
+   "ivan_ratio": 0.473,
+   "ivan_msgs": 43,
+   "them_msgs": 48
+  },
+  "Hola_Buenos_Dias": {
+   "total_msgs": 12,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.25,
+   "ivan_msgs": 3,
+   "them_msgs": 9
+  },
+  "Frutika_Delivery": {
+   "total_msgs": 48,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.375,
+   "ivan_msgs": 18,
+   "them_msgs": 30
+  },
+  "239__p9449___wa_chat_595992379449_9561": {
+   "total_msgs": 11,
+   "peak_hour": 4,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.091,
+   "ivan_ratio": 0.636,
+   "ivan_msgs": 7,
+   "them_msgs": 4
+  },
+  "INSIGNIA_07_Query": {
+   "total_msgs": 36,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.111,
+   "ivan_ratio": 0.417,
+   "ivan_msgs": 15,
+   "them_msgs": 21
+  },
+  "Poke_Sushi_Delivery_2": {
+   "total_msgs": 19,
+   "peak_hour": 1,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.895,
+   "ivan_ratio": 0.474,
+   "ivan_msgs": 9,
+   "them_msgs": 10
+  },
+  "Hi_Yeah_Chat": {
+   "total_msgs": 14,
+   "peak_hour": 17,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 8,
+   "them_msgs": 6
+  },
+  "Spray_Pimienta_Query": {
+   "total_msgs": 38,
+   "peak_hour": 2,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.763,
+   "ivan_ratio": 0.447,
+   "ivan_msgs": 17,
+   "them_msgs": 21
+  },
+  "Nataly_Stoner_Friend": {
+   "total_msgs": 102,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.441,
+   "ivan_msgs": 45,
+   "them_msgs": 57
+  },
+  "223__p0030___wa_chat_595986850030_6817": {
+   "total_msgs": 14,
+   "peak_hour": 19,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 7,
+   "them_msgs": 7
+  },
+  "Buenas_Lid_894": {
+   "total_msgs": 5,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 2,
+   "them_msgs": 3
+  },
+  "Sarah_Sin_Fines_Lucro": {
+   "total_msgs": 7,
+   "peak_hour": 13,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 4,
+   "them_msgs": 3
+  },
+  "Temu_AliExpress_Pedidos": {
+   "total_msgs": 11,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.636,
+   "ivan_msgs": 7,
+   "them_msgs": 4
+  },
+  "Gift_Delivery_Ubi": {
+   "total_msgs": 6,
+   "peak_hour": 15,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.167,
+   "ivan_msgs": 1,
+   "them_msgs": 5
+  },
+  "Yissel_Montiel_Aspiradora": {
+   "total_msgs": 128,
+   "peak_hour": 15,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.117,
+   "ivan_ratio": 0.477,
+   "ivan_msgs": 61,
+   "them_msgs": 67
+  },
+  "Grafimark_Francisco": {
+   "total_msgs": 19,
+   "peak_hour": 18,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.632,
+   "ivan_msgs": 12,
+   "them_msgs": 7
+  },
+  "Podcast_Query": {
+   "total_msgs": 6,
+   "peak_hour": 1,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.833,
+   "ivan_ratio": 0.833,
+   "ivan_msgs": 5,
+   "them_msgs": 1
+  },
+  "Luz_Query": {
+   "total_msgs": 171,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.018,
+   "ivan_ratio": 0.52,
+   "ivan_msgs": 89,
+   "them_msgs": 82
+  },
+  "Raul_Hermano_Roger": {
+   "total_msgs": 89,
+   "peak_hour": 16,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.584,
+   "ivan_msgs": 52,
+   "them_msgs": 37
+  },
+  "Mas_Info_Query": {
+   "total_msgs": 21,
+   "peak_hour": 19,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.667,
+   "ivan_msgs": 14,
+   "them_msgs": 7
+  },
+  "Recepcion_Imagenes": {
+   "total_msgs": 7,
+   "peak_hour": 14,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 4,
+   "them_msgs": 3
+  },
+  "Piercing_Aftercare_Buyer": {
+   "total_msgs": 45,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.444,
+   "ivan_msgs": 20,
+   "them_msgs": 25
+  },
+  "Pasaron_Tu_Numero": {
+   "total_msgs": 9,
+   "peak_hour": 17,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.444,
+   "ivan_msgs": 4,
+   "them_msgs": 5
+  },
+  "Arirang_QR_Chat": {
+   "total_msgs": 7,
+   "peak_hour": 22,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 3,
+   "them_msgs": 4
+  },
+  "Tinder_Match": {
+   "total_msgs": 27,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.852,
+   "ivan_msgs": 23,
+   "them_msgs": 4
+  },
+  "Holaaa_224": {
+   "total_msgs": 83,
+   "peak_hour": 19,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.169,
+   "ivan_ratio": 0.614,
+   "ivan_msgs": 51,
+   "them_msgs": 32
+  },
+  "Me_Dejaste_Tu_Numero": {
+   "total_msgs": 45,
+   "peak_hour": 17,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.022,
+   "ivan_ratio": 0.378,
+   "ivan_msgs": 17,
+   "them_msgs": 28
+  },
+  "Que_Tal_196p8527": {
+   "total_msgs": 25,
+   "peak_hour": 11,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.56,
+   "ivan_msgs": 14,
+   "them_msgs": 11
+  },
+  "Test_Automation_Experience": {
+   "total_msgs": 21,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.619,
+   "ivan_msgs": 13,
+   "them_msgs": 8
+  },
+  "Delivery_Query": {
+   "total_msgs": 58,
+   "peak_hour": 18,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.483,
+   "ivan_msgs": 28,
+   "them_msgs": 30
+  },
+  "Ubicacion_Buenas_Noches": {
+   "total_msgs": 4,
+   "peak_hour": 1,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 2,
+   "them_msgs": 2
+  },
+  "Ivan_Weiss_IIN_Colbes": {
+   "total_msgs": 18,
+   "peak_hour": 19,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.611,
+   "ivan_msgs": 11,
+   "them_msgs": 7
+  },
+  "IA_Agentic_Friend": {
+   "total_msgs": 14,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 6,
+   "them_msgs": 8
+  },
+  "Buenas_Tardes_595": {
+   "total_msgs": 9,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.778,
+   "ivan_msgs": 7,
+   "them_msgs": 2
+  },
+  "Cesar": {
+   "total_msgs": 84,
+   "peak_hour": 22,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.464,
+   "ivan_ratio": 0.619,
+   "ivan_msgs": 52,
+   "them_msgs": 32
+  },
+  "Mi_Loco": {
+   "total_msgs": 22,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.182,
+   "ivan_msgs": 4,
+   "them_msgs": 18
+  },
+  "Brosco_Empresas_Query": {
+   "total_msgs": 6,
+   "peak_hour": 21,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 3,
+   "them_msgs": 3
+  },
+  "Kiki_Referral_Wes": {
+   "total_msgs": 91,
+   "peak_hour": 19,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.297,
+   "ivan_ratio": 0.286,
+   "ivan_msgs": 26,
+   "them_msgs": 65
+  },
+  "Textura_Goma_Print": {
+   "total_msgs": 16,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 8,
+   "them_msgs": 8
+  },
+  "TAGG_Gerente_RRHH": {
+   "total_msgs": 11,
+   "peak_hour": 13,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.455,
+   "ivan_msgs": 5,
+   "them_msgs": 6
+  },
+  "United_Airlines_Number_Query": {
+   "total_msgs": 7,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.714,
+   "ivan_msgs": 5,
+   "them_msgs": 2
+  },
+  "Isaac_Monchis_Pedido": {
+   "total_msgs": 17,
+   "peak_hour": 0,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.412,
+   "ivan_msgs": 7,
+   "them_msgs": 10
+  },
+  "Canada_Flight_Ref": {
+   "total_msgs": 62,
+   "peak_hour": 20,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.097,
+   "ivan_ratio": 0.435,
+   "ivan_msgs": 27,
+   "them_msgs": 35
+  },
+  "Grindr_Contact": {
+   "total_msgs": 15,
+   "peak_hour": 9,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.133,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 6,
+   "them_msgs": 9
+  },
+  "Sin_Reserva_Tienda": {
+   "total_msgs": 9,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.556,
+   "ivan_msgs": 5,
+   "them_msgs": 4
+  },
+  "Mario_Asado": {
+   "total_msgs": 22,
+   "peak_hour": 19,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.318,
+   "ivan_msgs": 7,
+   "them_msgs": 15
+  },
+  "111__p0198___wa_chat_595961100198_1354": {
+   "total_msgs": 10,
+   "peak_hour": 0,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.3,
+   "ivan_msgs": 3,
+   "them_msgs": 7
+  },
+  "De_Donde_Sos_Amigo": {
+   "total_msgs": 46,
+   "peak_hour": 5,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.022,
+   "ivan_ratio": 0.696,
+   "ivan_msgs": 32,
+   "them_msgs": 14
+  },
+  "Me_Escribiste_Query": {
+   "total_msgs": 12,
+   "peak_hour": 14,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.083,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 6,
+   "them_msgs": 6
+  },
+  "More_Info_English_Query": {
+   "total_msgs": 9,
+   "peak_hour": 22,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.778,
+   "ivan_ratio": 0.444,
+   "ivan_msgs": 4,
+   "them_msgs": 5
+  },
+  "Uber_Crashea_Casa": {
+   "total_msgs": 38,
+   "peak_hour": 22,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.711,
+   "ivan_ratio": 0.526,
+   "ivan_msgs": 20,
+   "them_msgs": 18
+  },
+  "199__p7697___wa_chat_595984917697_2941": {
+   "total_msgs": 14,
+   "peak_hour": 22,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.643,
+   "ivan_ratio": 0.214,
+   "ivan_msgs": 3,
+   "them_msgs": 11
+  },
+  "Hot_Photos_Vi": {
+   "total_msgs": 5,
+   "peak_hour": 16,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 2,
+   "them_msgs": 3
+  },
+  "Soy_Solo_Chat": {
+   "total_msgs": 26,
+   "peak_hour": 1,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.538,
+   "ivan_ratio": 0.577,
+   "ivan_msgs": 15,
+   "them_msgs": 11
+  },
+  "Delivery_Hasta_Acá": {
+   "total_msgs": 25,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.48,
+   "ivan_ratio": 0.48,
+   "ivan_msgs": 12,
+   "them_msgs": 13
+  },
+  "Kink_Castigos_Friend": {
+   "total_msgs": 281,
+   "peak_hour": 21,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.117,
+   "ivan_ratio": 0.577,
+   "ivan_msgs": 162,
+   "them_msgs": 119
+  },
+  "Hola_nnn_Friend": {
+   "total_msgs": 223,
+   "peak_hour": 23,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.583,
+   "ivan_ratio": 0.484,
+   "ivan_msgs": 108,
+   "them_msgs": 115
+  },
+  "Google_Maps_Interest": {
+   "total_msgs": 27,
+   "peak_hour": 18,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.444,
+   "ivan_msgs": 12,
+   "them_msgs": 15
+  },
+  "Skokka_Luana_Ad": {
+   "total_msgs": 19,
+   "peak_hour": 4,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.579,
+   "ivan_msgs": 11,
+   "them_msgs": 8
+  },
+  "Opciones_Llevar_Compartir": {
+   "total_msgs": 10,
+   "peak_hour": 17,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.3,
+   "ivan_msgs": 3,
+   "them_msgs": 7
+  },
+  "Sol_Visuar_Ecommerce": {
+   "total_msgs": 28,
+   "peak_hour": 11,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 12,
+   "them_msgs": 16
+  },
+  "Cafeteria_1M_Query": {
+   "total_msgs": 5,
+   "peak_hour": 15,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.4,
+   "ivan_msgs": 2,
+   "them_msgs": 3
+  },
+  "Delivery_San_Lorenzo": {
+   "total_msgs": 7,
+   "peak_hour": 16,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 3,
+   "them_msgs": 4
+  },
+  "Metxmorfosis_Chat": {
+   "total_msgs": 6,
+   "peak_hour": 2,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.833,
+   "ivan_ratio": 0.833,
+   "ivan_msgs": 5,
+   "them_msgs": 1
+  },
+  "Qtal_Amigo_Chat": {
+   "total_msgs": 5,
+   "peak_hour": 23,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.6,
+   "ivan_msgs": 3,
+   "them_msgs": 2
+  },
+  "Haupeiii_Chat": {
+   "total_msgs": 6,
+   "peak_hour": 0,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.667,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "139__p3000___wa_chat_595973603000_9873": {
+   "total_msgs": 14,
+   "peak_hour": 17,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.643,
+   "ivan_msgs": 9,
+   "them_msgs": 5
+  },
+  "243__p9480___wa_chat_595992749480_10506": {
+   "total_msgs": 32,
+   "peak_hour": 23,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.562,
+   "ivan_msgs": 18,
+   "them_msgs": 14
+  },
+  "Es_Ale_Number": {
+   "total_msgs": 7,
+   "peak_hour": 20,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 4,
+   "them_msgs": 3
+  },
+  "Hola_Que_Tal_564": {
+   "total_msgs": 35,
+   "peak_hour": 21,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.057,
+   "ivan_ratio": 0.514,
+   "ivan_msgs": 18,
+   "them_msgs": 17
+  },
+  "Estufa_Ubi_Query": {
+   "total_msgs": 8,
+   "peak_hour": 20,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.375,
+   "ivan_msgs": 3,
+   "them_msgs": 5
+  },
+  "Cunada_De_Laura": {
+   "total_msgs": 7,
+   "peak_hour": 20,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.429,
+   "ivan_msgs": 3,
+   "them_msgs": 4
+  },
+  "Image_Spam_Reply_Loop": {
+   "total_msgs": 23,
+   "peak_hour": 17,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.957,
+   "ivan_msgs": 22,
+   "them_msgs": 1
+  },
+  "Buenos_Dias_595": {
+   "total_msgs": 9,
+   "peak_hour": 13,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 3,
+   "them_msgs": 6
+  },
+  "Monchis_Driver": {
+   "total_msgs": 8,
+   "peak_hour": 23,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 4,
+   "them_msgs": 4
+  },
+  "App_Experience_Consulta": {
+   "total_msgs": 6,
+   "peak_hour": 13,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 2,
+   "them_msgs": 4
+  },
+  "Sivling_Chat": {
+   "total_msgs": 125,
+   "peak_hour": 21,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.328,
+   "ivan_ratio": 0.456,
+   "ivan_msgs": 57,
+   "them_msgs": 68
+  },
+  "Te_Veo_Chat": {
+   "total_msgs": 8,
+   "peak_hour": 23,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 4,
+   "them_msgs": 4
+  },
+  "johana_candidate___wa_chat_595971179825_3698": {
+   "total_msgs": 39,
+   "peak_hour": 2,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 0.513,
+   "ivan_ratio": 0.462,
+   "ivan_msgs": 18,
+   "them_msgs": 21
+  },
+  "IA_Startup_Query": {
+   "total_msgs": 38,
+   "peak_hour": 23,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.895,
+   "ivan_ratio": 0.395,
+   "ivan_msgs": 15,
+   "them_msgs": 23
+  },
+  "Menu_Pass": {
+   "total_msgs": 18,
+   "peak_hour": 1,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.556,
+   "ivan_msgs": 10,
+   "them_msgs": 8
+  },
+  "Consulta_Agenda": {
+   "total_msgs": 44,
+   "peak_hour": 9,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.477,
+   "ivan_msgs": 21,
+   "them_msgs": 23
+  },
+  "Digital_Evolution_Bot": {
+   "total_msgs": 4,
+   "peak_hour": 14,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 2,
+   "them_msgs": 2
+  },
+  "Itau_UY_Bot": {
+   "total_msgs": 9,
+   "peak_hour": 0,
+   "peak_dow": "Sunday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.333,
+   "ivan_msgs": 3,
+   "them_msgs": 6
+  },
+  "Castracion_Perras_Vet": {
+   "total_msgs": 14,
+   "peak_hour": 14,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.571,
+   "ivan_msgs": 8,
+   "them_msgs": 6
+  },
+  "CI_Number_Request": {
+   "total_msgs": 38,
+   "peak_hour": 22,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.474,
+   "ivan_ratio": 0.526,
+   "ivan_msgs": 20,
+   "them_msgs": 18
+  },
+  "Monchis_Driver_2": {
+   "total_msgs": 6,
+   "peak_hour": 16,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.333,
+   "ivan_ratio": 0.167,
+   "ivan_msgs": 1,
+   "them_msgs": 5
+  },
+  "Entradas_Query": {
+   "total_msgs": 22,
+   "peak_hour": 21,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.409,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 11,
+   "them_msgs": 11
+  },
+  "Hello_Uwuw": {
+   "total_msgs": 26,
+   "peak_hour": 2,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.538,
+   "ivan_msgs": 14,
+   "them_msgs": 12
+  },
+  "Augusto_Chat": {
+   "total_msgs": 19,
+   "peak_hour": 1,
+   "peak_dow": "Monday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.526,
+   "ivan_msgs": 10,
+   "them_msgs": 9
+  },
+  "Que_Tal_Amigo": {
+   "total_msgs": 16,
+   "peak_hour": 23,
+   "peak_dow": "Friday",
+   "late_night_ratio": 1.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 8,
+   "them_msgs": 8
+  },
+  "Ferrex_Pinedo": {
+   "total_msgs": 46,
+   "peak_hour": 14,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.435,
+   "ivan_msgs": 20,
+   "them_msgs": 26
+  },
+  "182__p5779___wa_chat_595983435779_11525": {
+   "total_msgs": 13,
+   "peak_hour": 12,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.769,
+   "ivan_msgs": 10,
+   "them_msgs": 3
+  },
+  "Credit_Spam_1": {
+   "total_msgs": 364,
+   "peak_hour": 13,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.997,
+   "ivan_msgs": 363,
+   "them_msgs": 1
+  },
+  "Buenas_Lid_929": {
+   "total_msgs": 8,
+   "peak_hour": 15,
+   "peak_dow": "Wednesday",
+   "late_night_ratio": 0.0,
+   "ivan_ratio": 0.5,
+   "ivan_msgs": 4,
+   "them_msgs": 4
+  },
+  "Thais": {
+   "total_msgs": 3825,
+   "peak_hour": 2,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.427,
+   "ivan_ratio": 0.427,
+   "ivan_msgs": 1634,
+   "them_msgs": 2191
+  },
+  "OpenClaw_User": {
+   "total_msgs": 814,
+   "peak_hour": 1,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.727,
+   "ivan_ratio": 0.502,
+   "ivan_msgs": 409,
+   "them_msgs": 405
+  },
+  "Foodie_Friend": {
+   "total_msgs": 578,
+   "peak_hour": 0,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.356,
+   "ivan_ratio": 0.503,
+   "ivan_msgs": 291,
+   "them_msgs": 287
+  },
+  "Cloud_Nyx": {
+   "total_msgs": 3539,
+   "peak_hour": 23,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.526,
+   "ivan_ratio": 0.148,
+   "ivan_msgs": 525,
+   "them_msgs": 3014
+  },
+  "Kinesiologo": {
+   "total_msgs": 2151,
+   "peak_hour": 0,
+   "peak_dow": "Thursday",
+   "late_night_ratio": 0.449,
+   "ivan_ratio": 0.531,
+   "ivan_msgs": 1143,
+   "them_msgs": 1008
+  },
+  "Dan": {
+   "total_msgs": 2588,
+   "peak_hour": 17,
+   "peak_dow": "Saturday",
+   "late_night_ratio": 0.349,
+   "ivan_ratio": 0.49,
+   "ivan_msgs": 1268,
+   "them_msgs": 1320
+  },
+  "AI_QA_Ing_Info": {
+   "total_msgs": 83,
+   "peak_hour": 22,
+   "peak_dow": "Monday",
+   "late_night_ratio": 0.747,
+   "ivan_ratio": 0.434,
+   "ivan_msgs": 36,
+   "them_msgs": 47
+  },
+  "Somosgay": {
+   "total_msgs": 15598,
+   "peak_hour": 23,
+   "peak_dow": "Tuesday",
+   "late_night_ratio": 0.429,
+   "ivan_ratio": 0.409,
+   "ivan_msgs": 6379,
+   "them_msgs": 9219
+  },
+  "Kink_Artist": {
+   "total_msgs": 1210,
+   "peak_hour": 4,
+   "peak_dow": "Friday",
+   "late_night_ratio": 0.168,
+   "ivan_ratio": 0.446,
+   "ivan_msgs": 540,
+   "them_msgs": 670
+  }
+ }
+}
