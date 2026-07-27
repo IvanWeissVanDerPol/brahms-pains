@@ -1,8 +1,9 @@
 # PROGRESS TRACKING: Measurable Treatment Outcomes
 
-> **Patient:** Ivan, 28M  
-> **Purpose:** Quantifiable progress monitoring across treatment phases  
+> **Patient:** Ivan, 28M
+> **Purpose:** Quantifiable progress monitoring across treatment phases
 > **Method:** Baseline → Target → Tracking → Review
+> **Last Updated:** 2026-07-27 (added empirical baselines from time-patterns analysis)
 
 ---
 
@@ -722,7 +723,88 @@ _________________________________
 ---
 
 **Document Version:** 1.0  
-**Last Updated:** January 31, 2026  
-**Next Review:** Monthly  
-**Prepared By:** AI-Assisted Analysis  
+**Last Updated:** January 31, 2026 (Updated 2026-07-27 with empirical baselines)
+**Next Review:** Monthly
+**Prepared By:** AI-Assisted Analysis
 **Classification:** Clinical Progress Monitoring
+
+---
+
+## NEW (2026-07-27): Empirical Baseline Metrics from Time-Patterns Analysis
+
+**Source**: `SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/time_patterns.json`
+
+### 9. Late-Night Messaging Pattern (New Metric)
+
+**Definition:** Percentage of messages sent between 22:00 and 04:00.
+
+**Baseline (Pre-Treatment, 2026-07-27):**
+- Overall: **32.0%** of all messages (160,494 / 501,819)
+- 66 chats >50% late-night (Lomito, Group_Tsuki, Group_Rockabar, etc.)
+- 14 chats are 100% late-night (BDSM_Femdom_Chat was 69.5%)
+
+**Tracking Goal:**
+- Reduce to <20% over 6 months (sleep hygiene + somatic alternatives)
+- Reduce to <10% over 12 months (treat rumination)
+- Maintain emotional availability without burning late-night energy
+
+**Measurement Method:**
+```
+Monthly Analysis:
+- Re-run scripts/analyze_time_patterns.py
+- Extract late_night_ratio per tier
+- Compare to previous month
+- Flag chats >70% late-night for clinical review
+```
+
+### 10. Initiator Asymmetry Index (New Metric)
+
+**Definition:** Ratio of messages Ivan initiated vs. them initiated.
+
+**Baseline (Pre-Treatment, 2026-07-27):**
+| Relationship Type | Ivan's Initiation | Pattern |
+|------------------|------------------:|---------|
+| Mom Sonia | 50.3% | Balanced (healthy) |
+| Kiki | 49.1% | Balanced (healthy) |
+| Grandma Riet | 81.9% | Ivan chases |
+| BDSM_Femdom_Chat | 69.5% | Ivan pursues |
+| Sarah | 1.8% | They chase Ivan |
+| Lurker Groups | 0% | Ivan silent |
+| Total distribution | Mixed | Selective engagement |
+
+**Tracking Goal:**
+- Identify relationships where Ivan's initiation ratio is >70% (asymmetric burden)
+- Identify relationships where initiation drops >20% (potential withdrawal)
+- Increase balanced reciprocal contacts (45-55% target)
+
+**Measurement Method:**
+```
+Monthly Analysis:
+- Per-contact Ivan_ratio from time_patterns.json
+- Flag changes >10% from baseline
+- Flag new relationships showing asymmetric patterns
+```
+
+### 11. Lurker Profile in Groups (New Metric)
+
+**Definition:** Number of group chats where Ivan initiates 0% of messages.
+
+**Baseline (Pre-Treatment, 2026-07-27):**
+- 14 group chats with 0% Ivan initiation
+- Examples: Group_Embs_Utp (42 msgs, 0% Ivan), Group_Baby_Shower_02 (177 msgs, 0%), Ci2023_Voluntarios_General (585 msgs, 0%)
+
+**Tracking Goal:**
+- Distinguish voluntary silence (healthy) from avoidance (problematic)
+- Track work-related groups separately from social groups
+
+**Clinical Question**: Is Ivan's silence in these groups:
+- (a) Healthy selective engagement (he gets info, doesn't need to participate)
+- (b) Avoidance of commitment or social risk
+- (c) Practical time-management (too busy)
+
+---
+
+**See Also**:
+- `_ANALYSIS/time_patterns.json` — Full empirical data
+- `scripts/analyze_time_patterns.py` — Regeneration script
+- `docs/ANALYSIS_PLAN_2026-07-27.md` — 23 additional future metrics

@@ -2,7 +2,7 @@
 
 > **Who Is This For:** Partners, Doms/subs, close intimates  
 > **Purpose:** Understanding how Ivan works so you can connect better  
-> **Last Updated:** January 2026
+> **Last Updated:** 2026-07-27 (updated with time-patterns analysis and 34-profile insights)
 
 ---
 
@@ -322,3 +322,40 @@ These are Ivan's actual words from when he was processing a difficult breakup. T
 > *"I accepted that I would never be good enough"*
 
 This is what you're healing. Every time you show up, every time you notice him, every time you respond with warmth instead of criticism - you're proving this wrong.
+
+---
+
+## NEW (2026-07-27): Communication Patterns from Data Analysis
+
+**Data**: 501,819 messages analyzed across 675 chats.
+
+### Ivan's Initiator Pattern
+
+Ivan's initiator ratio (how often he messages first) tells you how much he's investing:
+
+| His Initiator Ratio | What it Means |
+|---:|---|
+| **>70%** | He's pursuing — needs reassurance, anxious, or obligation-driven |
+| **45-55%** | Balanced — healthy reciprocal dynamic (Mom Sonia, Kiki) |
+| **<30%** | You (or group) is pursuing him — Ivan passive recipient |
+
+**What this means for partners**: If you're noticing Ivan is rarely initiating, ASK HIM what changed. For Ivan, low initiative is often a signal of emotional withdrawal, not busyness.
+
+### Late-Night Pattern
+
+**32% of all Ivan's messages are between 22:00 and 04:00.**
+
+This is HIGH for any contact. If you're connecting with him at night:
+- He's likely in **rumination mode** (working through something)
+- He may be **avoiding sleep** to stay connected
+- **Don't assume a midnight text = emergency**, but DO check in periodically on what he's processing
+
+If you receive a 2 AM message from Ivan, it's not necessarily distress — it might just be how he processes. But if it FEELS off, ask.
+
+### Lurker Profile in Groups
+
+Ivan initiates 0% of messages in 14 group chats. **This is not introversion** — it's selective engagement. He's reading but not commenting.
+
+If you two are in a group together and he goes quiet, **don't interpret group silence as relationship silence**. Ivan separates group and intimate contexts.
+
+---

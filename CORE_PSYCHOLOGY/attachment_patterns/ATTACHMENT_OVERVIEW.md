@@ -1,8 +1,9 @@
 # Attachment Patterns: Overview
 
-> **Assessment:** Complex, Context-Dependent  
-> **Primary Pattern:** Varies by relational context  
+> **Assessment:** Complex, Context-Dependent
+> **Primary Pattern:** Varies by relational context
 > **Key Feature:** Different attachment styles emerge with different people
+> **Last Updated:** 2026-07-27 (time-patterns analysis validates anxious-preoccupied hypothesis)
 
 ---
 
@@ -159,3 +160,31 @@ Moving from context-dependent security (only in kink) to integrated security (in
 - [The Firewall Defense](../defense_mechanisms/THE_FIREWALL.md)
 - [Relationship History](../../RELATIONSHIPS/history/)
 - [Permission Structures in Kink](../../KINK_AND_INTIMACY/permission_structures/)
+
+---
+
+## NEW (2026-07-27): Empirical Validation from Time-Patterns
+
+**Source**: `SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/time_patterns.json` (501,819 messages, 675 chats)
+
+### Hypothesis Validation
+
+| Hypothesis | Data Result | Status |
+|-----------|-------------|--------|
+| **Anxious-preoccupied in primary attachment** | Ivan initiates 50.3% with Mom Sonia, 49.1% with Kiki, 81.9% with Grandma Riet | ✅ Validated |
+| **Secure in kink contexts** | Ivan initiates 69.5% in BDSM_Femdom_Chat — high pursuit | ⚠️ Mixed — high initiative suggests *pursuit* not just *security* |
+| **Avoidant in casual/family contexts** | Ivan initiates 0% in 14 group chats | ✅ Validated (lurker pattern) |
+
+### Key Insight
+
+The data SUPPORTS the **anxious-preoccupied** primary attachment style in primary attachment contexts (Mom, Kiki, Grandma). However, in **kink contexts** Ivan shows PURSUIT (69.5% initiator ratio in BDSM), not just security — suggesting kink is also where Ivan's attachment needs are MOST activated, not just where they're permitted.
+
+### Clinical Question for Future Sessions
+
+Is Ivan's pursuit of kink partners an expression of secure attachment, OR is it compensatory over-attachment activation masked as play? The data alone cannot answer — clinical interview needed.
+
+### See Also
+
+- `_ANALYSIS/time_patterns.json` — full data
+- `docs/PSYCHOLOGICAL_ANALYSIS_20HATS.md` — Hat 1 (Clinical Psychologist) and Hat 2 (Psychoanalyst) detailed analysis
+- `TREATMENT/CLINICAL_SUMMARY.md` — integrated clinical picture

@@ -2,7 +2,7 @@
 
 > **Purpose:** Documented patterns that repeat across relationships  
 > **Goal:** Awareness enables choice  
-> **Last Updated:** January 2026 (11-profile analysis integrated)
+> **Last Updated:** 2026-07-27 (34-profile analysis integrated, time-patterns analysis complete)
 
 ---
 
@@ -292,3 +292,57 @@ Ivan recognized the Laura-Mother parallel ("Probably recreated the same dynamic"
 - [Treatment Goals](../../TREATMENT/goals/)
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Full breakup processing quotes
 - [Parental Dynamics](../../CORE_PSYCHOLOGY/wounds/03_PARENTAL_DYNAMICS.md) - Family origin wounds
+
+---
+
+## NEW (2026-07-27): Empirical Pattern Validation
+
+**Source**: `SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/time_patterns.json`
+
+### Pattern Validation Results
+
+| Pattern (Documented) | Empirical Result | Validates? |
+|---------------------|------------------|------------|
+| **Pattern 6: Passive Initiation** | Ivan initiates 0% in 14 group chats; <2% in Sarah chats; <8% in Dayah | ✅ STRONGLY VALIDATED |
+| **Pattern 4: Service as Primary Expression** | Ivan initiates 81.9% with Grandma Riet, 69.5% in BDSM — pursuit of caretaking | ✅ VALIDATED |
+| **Pattern 7: Selecting Unavailable Partners** | Ivan's initiator ratio varies wildly — suggests selectivity based on partner's availability | ⚠️ PARTIAL — needs qualitative check |
+| **Pattern 8: Killing Feelings** | Late-night concentration (32%) suggests rumination dominates over reflection | ⚠️ NEEDS CHECK — killing feelings vs. rumination may be different patterns |
+
+### NEW Pattern Discovered: Late-Night Dispositional Pattern
+
+**Pattern**: Late-night messaging (22:00-04:00) is dispositional, not relationship-specific.
+
+**Evidence**: 32% of all Ivan's messages (160,494 of 501,819) are sent late-night. This is consistent across:
+- Intimate partners
+- Family
+- Kink contacts
+- Work groups (Group_Quantoz 100%, Group_Tsuki 100%)
+- Even delivery chats (Lomito 100%)
+
+**Clinical Implication**: The pattern is not about specific relationships — it's about how Ivan's cognition/emotion cycles work. He processes by being "on" at night.
+
+**Counter-pattern**: 14 group chats where Ivan is 0% initiator + low late-night concentration suggest **selective cognitive load** — he preserves late-night capacity for relationships that matter to him.
+
+### NEW Pattern Discovered: Initiator Asymmetry Signature
+
+**Pattern**: Ivan's initiator ratio is bimodal, not random.
+
+**Evidence**: Distribution shows clusters:
+- **>70% Ivan** (10+ contacts): Family contracts, BDSM play, Grandma
+- **45-55% Ivan** (12 contacts): Healthy reciprocal (Mom, Kiki)
+- **<30% Ivan** (200+ chats): They chase Ivan (Sarah, Dayah, lurker groups)
+
+**Clinical Implication**: Ivan doesn't drift randomly between high/low initiative — he has **selective attachment activation**. The 70%+ cluster represents hyperactivated attachment; the <30% cluster represents him as the "object of pursuit."
+
+### What This Means for Therapy
+
+1. **Pattern 6 (Passive Initiation)** is REAL but not the whole story. Ivan IS passive in groups, but actively pursues in family/intimate contexts.
+2. **Pattern 4 (Service)** is supported by data. Ivan's high initiative ratio in caretaking relationships (Grandma, BDSM) IS the data signature.
+3. **NEW**: Add **late-night patterns** as a focus area for sleep hygiene and somatic alternatives.
+4. **NEW**: Add **initiator asymmetry** as a metric for relationship health.
+
+### See Also
+
+- `_ANALYSIS/time_patterns.json` — Full data
+- `CORE_PSYCHOLOGY/attachment_patterns/ATTACHMENT_OVERVIEW.md` — empirical validation
+- `TREATMENT/PROGRESS_TRACKING.md` — new metrics (Late-Night Pattern, Initiator Asymmetry Index, Lurker Profile)

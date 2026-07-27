@@ -3,7 +3,7 @@
 > **Status:** Not in crisis - seeking growth and integration  
 > **Motivation:** High intrinsic motivation  
 > **Prognosis:** Good with appropriate therapeutic engagement  
-> **Last Updated:** January 2026 (11-profile analysis integrated)
+> **Last Updated:** 2026-07-27 (34-profile analysis integrated, time-patterns analysis complete)
 
 ---
 
@@ -284,7 +284,7 @@ Ivan is actively using AI ("Antigravity") to create a "mega context" document. T
 - [Core Wounds](../../CORE_PSYCHOLOGY/wounds/)
 - [Defense Mechanisms](../../CORE_PSYCHOLOGY/defense_mechanisms/)
 - [Quick Reference for Clinicians](../../QUICK_REFERENCE/FOR_CLINICIANS.md)
-- [Communication Patterns Analysis](../../SOURCE_OF_TRUTH/COMMUNICATION_PATTERNS_ANALYSIS.md) - Full 11-profile synthesis
+- [Communication Patterns Analysis](../../SOURCE_OF_TRUTH/COMMUNICATION_PATTERNS_ANALYSIS.md) - Full 34-profile synthesis (updated 2026-07-27)
 - [Laura Profile](../../RELATIONSHIPS/dynamics/LAURA.md) - Fistula Incident evidence
 - [Cookie Profile](../../RELATIONSHIPS/dynamics/COOKIE.md) - "Ivan CAN ask" evidence
 - [Identified Patterns](../../RELATIONSHIPS/patterns/IDENTIFIED_PATTERNS.md)

@@ -3,7 +3,7 @@
 > **Subject:** Ivan, 28, Male  
 > **Status:** Not in crisis - seeking growth  
 > **Prognosis:** Good with appropriate engagement  
-> **Last Updated:** January 2026 (11-profile analysis integrated)
+> **Last Updated:** 2026-07-27 (34-profile analysis integrated, time-patterns analysis complete)
 
 ---
 
@@ -275,7 +275,7 @@ These quotes come from Ivan's breakup processing with a male friend. They are **
 
 ## Key Questions to Explore
 
-From the 11-profile analysis:
+From the 34-profile analysis (2026-07-27):
 
 1. What would have happened if Ivan had asked for care directly during the fistula?
 2. Why did The Fixer prevent him from leaving Laura when he knew he should?
@@ -293,7 +293,44 @@ From the 11-profile analysis:
 **Key Evidence:**
 - [Laura Profile](../RELATIONSHIPS/dynamics/LAURA.md) - Fistula Incident, pattern recreation
 - [Cookie Profile](../RELATIONSHIPS/dynamics/COOKIE.md) - Evidence Ivan CAN ask
-- [Communication Patterns Analysis](../SOURCE_OF_TRUTH/COMMUNICATION_PATTERNS_ANALYSIS.md) - Full 11-profile synthesis
+- [Communication Patterns Analysis](../SOURCE_OF_TRUTH/COMMUNICATION_PATTERNS_ANALYSIS.md) - Full 34-profile synthesis (updated 2026-07-27)
+
+---
+
+## NEW (2026-07-27): Time-Patterns Clinical Insights
+
+**Data**: 501,819 messages across 675 chats, analyzed for hour-of-day + initiator ratios.
+
+### Three Patterns to Watch in Session
+
+1. **Late-Night Availability Pattern (32% of messages 22:00-04:00)**
+   - This is dispositional, not relationship-specific
+   - Ivan is "on call" cognitively/emotionally for late-night contact
+   - **Watch for**: Boundary erosion, decision fatigue, rumination loops
+   - **Counter**: Encourage sleep hygiene, somatic wind-down rituals
+
+2. **Initiator Asymmetry Pattern**
+   - Ivan initiates >70% in: Grandma Riet (81.9%), family contracts, BDSM play
+   - Ivan initiates <30% in: Sarah (1.8%), Dayah (7.7%), lurker groups
+   - **Watch for**: Effort asymmetry = relationship imbalance; could be pursuit-withdrawal OR healthy specialty
+   - **Counter**: Map each relationship to identify which side Ivan is "working for"
+
+3. **Lurker Profile in Groups (0% initiator in 14 groups)**
+   - Ci2023_Voluntarios, Group_Baby_Shower, Group_Compiladores_Sin_Profe — Ivan silent observer
+   - Contrast: Initiator in family (81.9% grandma)
+   - **Watch for**: Selective engagement — Ivan opts out when no obligation/interest
+   - **Counter**: Distinguish voluntary silence (healthy) from avoidance (work-related risk)
+
+### Quick Reference for Late-Night Conversations
+
+If patient reports distress at night, ask:
+- "What were you doing when you messaged at 1 AM?"
+- "Is this conversation typical for you, or unusual?"
+- "What were you avoiding by being awake?"
+
+The data shows late-night is Ivan's DEFAULT mode, not an exception.
+
+---
 
 **Reference:**
 - [Core Wounds](../CORE_PSYCHOLOGY/wounds/)

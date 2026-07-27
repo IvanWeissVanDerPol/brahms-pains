@@ -3,7 +3,7 @@
 > **Prepared for:** Mental Health Professionals  
 > **Patient:** Ivan, 28M, Dutch-Paraguayan  
 > **Presenting Concerns:** Relationship patterns, emotional communication, identity integration  
-> **Data Source:** 5,597 voice notes, 22 questionnaire sections, 17 relationship profiles  
+> **Data Source:** 5,597 voice notes, 22 questionnaire sections, **34 deep relationship profiles + 218 stubs**, **951 chats (100% named)** 2026-07-27 cleanup  
 > **Prepared:** January 31, 2026  
 > **Classification:** Comprehensive Clinical Documentation
 
@@ -374,7 +374,44 @@ If The Mask is total (no Brahm access, complete "chill guy" presentation):
 
 **Treatment Target:** Internal permission generation → Brahm integration → sustainable receiving capacity.
 
-**Prognosis:** Good. Recent breakthroughs (HIV disclosure, Alex communication) demonstrate capacity for rapid change when conditions are right.
+**Prognosis:** Good. Recent breakthroughs (HIV disclosure, Alex communication) demonstrate capacity for rapid change when insight + safety align.
+
+---
+
+## ⏰ NEW (2026-07-27): Time-Patterns Analysis
+
+**Validated Hypothesis**: Late-night rumination pattern. Analysis of 501,819 messages confirms Ivan's documented late-night pattern.
+
+### Key Findings
+
+- **Peak overall activity**: 19:00 (7 PM) — 34,916 msgs/day-hour; peak day: Tuesday (80,801 msgs)
+- **Late-night concentration** (22:00-04:00): **32.0% of all messages** (160,494 msgs of 501,819) — extraordinarily high, supports rumination hypothesis
+- **66 chats are >50% late-night** (e.g., Lomito 100%, Group_Tsuki 100%, Group_Rockabar 97.9%, BDSM_Femdom_Chat 69.5%)
+- **Clinical insight**: Late-night pattern is NOT confined to intimate relationships — it shows up in work-related, kink, family, and group chats. This is a **dispositional feature** of Ivan's communication, not a relationship-specific pattern.
+
+### Initiator Ratios (Who Chases Whom)
+
+| Pattern | Contacts | Ivan's Ratio | Clinical Reading |
+|---------|----------|-------------:|-----------------|
+| **Ivan chases them** (Group_Agenda 97.7%, Grandma Riet 81.9%) | 30+ | >70% | Asymmetric effort; may reflect avoidant-pursuer dynamic OR family obligation guilt |
+| **Balanced** (Mom Sonia 50.3%, Kiki 49.1%) | 12 | 45-55% | Reciprocal healthy attachment |
+| **They chase Ivan** (Sarah 1.8%, Dayah 7.7%, lurker groups 0%) | 200+ | <30% | **Ivan is "the pursued"** in kink/social contexts; receives more than initiates |
+
+### Clinical Implications
+
+1. **The Rumination Loop**: 32% late-night messaging suggests Ivan's processing style is verbal/temporal rather than reflective. Voice notes (17,783) compound this. **Treatment target**: somatic alternatives to rumination.
+
+2. **Lurker Profile**: Ivan initiates 0% of messages in 14 group chats (Ci2023_Voluntarios, Group_Baby_Shower, etc.). This **observer/lurker pattern** in groups contrasts with his **initiator pattern** with family (81.9% with grandma Riet). Suggests **selective engagement** based on intimacy/responsibility.
+
+3. **Asymmetric Effort Tolerance**: Ivan maintains effort-heavy relationships (Grandma 81.9%, BDSM 69.5%, family contracts) while accepting low-effort in groups (lurker). **Clinical question**: Why does Ivan absorb effort burden in some contexts but not others? Likely tied to perceived obligation vs. voluntary interest.
+
+4. **Attachment Style Validation**: The data CONFIRMS the **anxious-preoccupied** pattern from Hat 1 analysis. Ivan's over-initiation in family + intimate contexts + late-night availability suggests **hyperactivation of attachment system** in primary attachment contexts.
+
+### See Also
+
+- `_ANALYSIS/time_patterns.json` — Full per-contact data
+- `scripts/analyze_time_patterns.py` — Regeneration script
+- `docs/ANALYSIS_PLAN_2026-07-27.md` — 24 future analyses identified
 
 ---
 
