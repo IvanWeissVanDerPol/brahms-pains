@@ -296,3 +296,40 @@ For comparison with Ivan's vulnerable voice note expressions (July 2025 breakup 
 - [LUCIA_DIAZ.md](./LUCIA_DIAZ.md) - Similar Kansas exchange context
 - [ARA_NUNEZ_POLI.md](./ARA_NUNEZ_POLI.md) - Another balanced friendship
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's psychological expressions from voice notes
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 2,404
+**Chats analyzed**: 2
+**Last contact**: 214d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 42.5% | ABOVE baseline (32%) |
+| Peak hour | 0h | |
+| Peak day | Sunday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 50.4% | Balanced |
+| Ivan starts conv | 98 | |
+| They start conv | 94 | |
+| Ivan initiator % | 51.0% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 8d |
+| Avg voice % | 1.7% |
+
+### Clinical Inquiries
+
+- What does the late-night pattern (42.5%) mean to you?

@@ -221,3 +221,40 @@ Ivan: "Podes llevar los HIV meds? Plz" -> Alej: "de una uwu 👍". Then 2026-07-
 | "Has Ivan been vulnerable with Alejandro?" (Missing Data #4) | Yes — 2021-05-31 breakup consult, family comparisons, HIV logistics, kink identity. Full vulnerability documented | **RESOLVED — YES** |
 | "Does Alejandro appear in voice notes with other friends?" (Missing Data #5) | Direct evidence: 931 outbound voice notes TO Alejandro. Alej is Ivan's #1 voice-note recipient in this corpus | **RESOLVED — YES, as recipient** |
 | Fixer LOW hypothesis | **STRONGLY CONFIRMED** — 2021-05-31 is Ivan being counseled by Alej, not the reverse. Alej also fixes Ivan practically (couriering meds). Reciprocal care, not asymmetric service | **CONFIRM** |
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 46,000
+**Chats analyzed**: 2
+**Last contact**: 7d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 33.5% | baseline |
+| Peak hour | 16h | |
+| Peak day | Friday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 46.7% | Balanced |
+| Ivan starts conv | 1,540 | |
+| They start conv | 1,558 | |
+| Ivan initiator % | 49.7% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 30d |
+| Avg voice % | 4.3% |
+
+### Clinical Inquiries
+
+(none)

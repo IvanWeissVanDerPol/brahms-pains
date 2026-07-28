@@ -287,3 +287,40 @@ The voice notes from this chat are primarily logistical/academic. The psychologi
 - [The Fixer Defense](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_FIXER.md)
 - [Lucía Díaz Profile](./LUCIA_DIAZ.md) - Another balanced friendship for comparison
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's psychological expressions (primarily from Jonatan chat)
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 3,985
+**Chats analyzed**: 1
+**Last contact**: 105d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 27.9% | baseline |
+| Peak hour | 18h | |
+| Peak day | Wednesday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 56.4% | Balanced |
+| Ivan starts conv | 132 | |
+| They start conv | 100 | |
+| Ivan initiator % | 56.9% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 7d |
+| Avg voice % | 5.8% |
+
+### Clinical Inquiries
+
+(none)

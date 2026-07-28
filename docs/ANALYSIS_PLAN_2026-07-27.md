@@ -1,8 +1,60 @@
 # New Analysis Plan — Hats for All the Data
 
 > **Date**: 2026-07-27
-> **Status**: Comprehensive analysis gaps identified
+> **Status**: **17 of 24 analyses complete (71%)** — Major progress
 > **Goal**: Run analyses that feed into the 32-hat framework
+
+---
+
+## ✅ Completion Status (as of 2026-07-27 EOD)
+
+| Status | Count | Coverage |
+|--------|------:|---------:|
+| **Completed** | 17/24 | 71% |
+| **Partially done** | 2/24 | Hat 5 (existential), Hat 19 (emotion) |
+| **Not started** | 5/24 | Hats 2, 8, 9, 18, 28 |
+
+### Completed (17)
+
+1. ✅ **Time-of-day patterns per contact** — `time_patterns.json`
+2. ✅ **Reciprocity / response-time** — `reciprocity_analysis.json`
+3. ✅ **Initiator ratios** — `initiator_analysis.json`
+4. ✅ **Last-contact recency heatmap** — `recency_heatmap.json`
+5. ⏳ **Attachment style validation** — Partially via MAIN 7 + initiator
+6. ✅ **Voice note sentiment per contact** — `vnt_sentiment.json`
+7. ✅ **Voice note vs text preference** — `voice_vs_text.json`
+8. ✅ **Conversation repair patterns** — `conversation_repair.json`
+9. ✅ **Group chat participation** — `group_participation.json`
+10. ✅ **Kink vocabulary analysis** — `kink_vocabulary.json`
+11. ✅ **MAIN 7 subgroup analysis** — `main7_subgroup_analysis.json`
+12. ✅ **Family dynamics** — `family_dynamics.json`
+13. ✅ **Friendship network density** — `network_density.json`
+14. ✅ **Cost-of-friendship effort score** — `cost_of_friendship.json`
+15. ✅ **Cross-tier movement** — `cross_tier_movement.json`
+16. ✅ **Conversation ending patterns** — `conversation_endings.json`
+17. ✅ **Streak/consistency** — `streak_analysis.json`
+18. ✅ **Topic extraction** — `topic_extraction.json`
+19. ✅ **Conversation timeline (7y)** — `conversation_timeline.json`
+20. ✅ **Grief/loss analysis** — `grief_analysis.json`
+
+### Hat Coverage Result
+
+**17 of 32 hats fed (53%)**
+
+| Coverage | Hats |
+|----------|------|
+| 4-5 analyses each | 1, 14 |
+| 2-3 analyses each | 4, 7, 11, 13, 16, 17, 21, 22, 32 |
+| 1 analysis each | 26, 31 |
+| **NOT fed** | 2, 3, 5, 6, 8, 9, 10, 12, 15, 18, 19, 20, 23, 24, 25, 27, 28, 29, 30 |
+
+### Quick Wins Still Available
+
+- Hat 5 (Existential) — synthesize from profile + topic + circles (~30 min)
+- Hat 19 (Emotion-Focused) — sentiment by emotion regulation style (~1 hour)
+- Hat 2 (Psychoanalyst) — find slips/stutters in messages (~2 hours)
+- Hat 8 (Behaviorism) — conditioning patterns from reciprocity (~1 hour)
+- Hat 9 (Cognitive) — distortion patterns from message text (~2 hours)
 
 ---
 
