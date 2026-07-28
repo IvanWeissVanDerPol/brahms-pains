@@ -241,3 +241,41 @@ For comparison with Ivan's vulnerable voice note expressions (July 2025 breakup 
 - [The Mask Defense](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_MASK.md)
 - [Relationship Timeline](../history/RELATIONSHIP_TIMELINE.md)
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's psychological expressions from voice notes
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 940
+**Chats analyzed**: 1
+**Tier(s)**: tier2_core
+**Last contact**: 1193d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 26.6% | baseline |
+| Peak hour | 13h | |
+| Peak day | Friday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 47.8% | Balanced |
+| Ivan starts conv | 14 | |
+| They start conv | 24 | |
+| Ivan initiator % | 36.8% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 3d |
+| Avg voice % | 8.5% |
+
+### Clinical Inquiries
+
+- **Abandoned (1193d)**: Grief signal - over a year silent

@@ -47,3 +47,41 @@ me pasasron un flyer de trabajo para repartir
 ---
 
 *Stub generated 2026-07-23. Replace this content with real analysis once chat is reviewed.*
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 24,849
+**Chats analyzed**: 22
+**Tier(s)**: other_lid, tier2_core, tier4_groups, untiered_personal
+**Last contact**: 7d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 33.4% | baseline |
+| Peak hour | 16h | |
+| Peak day | Thursday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 48.2% | Balanced |
+| Ivan starts conv | 825 | |
+| They start conv | 957 | |
+| Ivan initiator % | 46.3% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 27d |
+| Avg voice % | 7.0% |
+
+### Clinical Inquiries
+
+- (no notable clinical signals)

@@ -48,3 +48,41 @@ Voy a estar por sanlo para poder ir a rendir :(
 ---
 
 *Stub generated 2026-07-23. Replace this content with real analysis once chat is reviewed.*
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 612
+**Chats analyzed**: 1
+**Tier(s)**: tier2_core
+**Last contact**: 14d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 12.9% | below baseline |
+| Peak hour | 18h | |
+| Peak day | Friday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 53.3% | Balanced |
+| Ivan starts conv | 24 | |
+| They start conv | 23 | |
+| Ivan initiator % | 51.1% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 2d |
+| Avg voice % | 2.6% |
+
+### Clinical Inquiries
+
+- **Text-only (2.6%)**: Distance modality

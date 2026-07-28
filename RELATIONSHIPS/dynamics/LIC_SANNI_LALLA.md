@@ -57,3 +57,41 @@ Y me di cuenta de que cuando me g
 ---
 
 *Stub generated 2026-07-23. Replace this content with real analysis once chat is reviewed.*
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 896
+**Chats analyzed**: 1
+**Tier(s)**: tier2_core
+**Last contact**: 20d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 27.3% | baseline |
+| Peak hour | 21h | |
+| Peak day | Monday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 66.5% | Ivan chases |
+| Ivan starts conv | 75 | |
+| They start conv | 130 | |
+| Ivan initiator % | 36.6% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 7d |
+| Avg voice % | 6.8% |
+
+### Clinical Inquiries
+
+- (no notable clinical signals)

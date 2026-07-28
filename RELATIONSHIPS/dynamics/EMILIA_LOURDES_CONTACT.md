@@ -53,3 +53,42 @@ Como te paso?
 ---
 
 *Stub generated 2026-07-23. Replace this content with real analysis once chat is reviewed.*
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 16,920
+**Chats analyzed**: 2
+**Tier(s)**: tier1_deep, untiered_personal
+**Last contact**: 7d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 35.3% | baseline |
+| Peak hour | 20h | |
+| Peak day | Monday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 50.3% | Balanced |
+| Ivan starts conv | 361 | |
+| They start conv | 424 | |
+| Ivan initiator % | 46.0% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 55d |
+| Avg voice % | 13.4% |
+
+### Clinical Inquiries
+
+- **Above-baseline late-night (35.3%)**: Slightly elevated compared to Ivan's 32% baseline
+- **Moderate streak (55d)**: Notable period of sustained contact

@@ -49,3 +49,42 @@ Estoy con Mill cosas que hacer jajaja
 ---
 
 *Stub generated 2026-07-23. Replace this content with real analysis once chat is reviewed.*
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 1,100
+**Chats analyzed**: 1
+**Tier(s)**: tier2_core
+**Last contact**: 980d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 74.8% | ABOVE baseline (32%) |
+| Peak hour | 23h | |
+| Peak day | Wednesday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 44.3% | Balanced |
+| Ivan starts conv | 30 | |
+| They start conv | 26 | |
+| Ivan initiator % | 53.6% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 6d |
+| Avg voice % | 6.0% |
+
+### Clinical Inquiries
+
+- **HIGH late-night (74.8%)**: This contact is heavily active in Ivan's vulnerability window
+- **Abandoned (980d)**: Grief signal - over a year silent

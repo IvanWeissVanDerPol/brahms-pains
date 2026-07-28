@@ -45,3 +45,41 @@
 ---
 
 *Stub generated 2026-07-23. Replace this content with real analysis once chat is reviewed.*
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 24,044
+**Chats analyzed**: 15
+**Tier(s)**: tier2_core, tier3_extended, tier4_groups
+**Last contact**: 32d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 31.8% | baseline |
+| Peak hour | 2h | |
+| Peak day | Wednesday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 37.2% | Balanced |
+| Ivan starts conv | 744 | |
+| They start conv | 1,034 | |
+| Ivan initiator % | 41.8% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 186d |
+| Avg voice % | 3.1% |
+
+### Clinical Inquiries
+
+- **Long streak (186d)**: Sustained intense engagement

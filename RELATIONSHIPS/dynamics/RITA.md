@@ -231,3 +231,43 @@ This relationship is analyzed through text chat only. For comparison with Ivan's
 - [The Fixer Defense](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_FIXER.md)
 - [Kink Psychology](../../KINK_AND_INTIMACY/permission_structures/HOW_KINK_FUNCTIONS.md)
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's psychological expressions from voice notes
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 7
+**Chats analyzed**: 1
+**Tier(s)**: untiered_personal
+**Last contact**: 874d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 0.0% | below baseline |
+| Peak hour | 13h | |
+| Peak day | Tuesday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 28.6% | They chase Ivan |
+| Ivan starts conv | 1 | |
+| They start conv | 0 | |
+| Ivan initiator % | 100.0% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 1d |
+| Avg voice % | 0.0% |
+
+### Clinical Inquiries
+
+- **Ivan passive (28.6%)**: They carry most of the relational load
+- **Abandoned (874d)**: Grief signal - over a year silent
+- **Text-only (0.0%)**: Distance modality

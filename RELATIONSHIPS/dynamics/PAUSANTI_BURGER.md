@@ -51,3 +51,43 @@ TODO: anything else Ivan has shared or knows about this person.
 - Self-intro analysis: pending
 - Group context: pending
 - Behavioral signals: pending
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 104
+**Chats analyzed**: 1
+**Tier(s)**: tier3_extended
+**Last contact**: 432d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 63.5% | ABOVE baseline (32%) |
+| Peak hour | 23h | |
+| Peak day | Wednesday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 46.2% | Balanced |
+| Ivan starts conv | 7 | |
+| They start conv | 0 | |
+| Ivan initiator % | 100.0% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 2d |
+| Avg voice % | 0.0% |
+
+### Clinical Inquiries
+
+- **HIGH late-night (63.5%)**: This contact is heavily active in Ivan's vulnerability window
+- **Abandoned (432d)**: Grief signal - over a year silent
+- **Text-only (0.0%)**: Distance modality

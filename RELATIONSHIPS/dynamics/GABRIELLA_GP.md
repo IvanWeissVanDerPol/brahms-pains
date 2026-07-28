@@ -109,3 +109,42 @@ Gaby is **not a romantic partner** but **definitely not just a client**. The rel
 3. **Sexual-tension** (in jokes, with Sonia's encouragement) — unresolved
 
 When Ivan is overtired/clinic-stressed, Gaby needs emotional care, not more strategic work. The signal "no me siento bien de verdad" + "me desespera que no te das cuenta" suggests **Gaby is asking for emotional attunement**, not sex.
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 5,985
+**Chats analyzed**: 1
+**Tier(s)**: tier1_deep
+**Last contact**: 4d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 15.4% | below baseline |
+| Peak hour | 17h | |
+| Peak day | Monday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 48.1% | Balanced |
+| Ivan starts conv | 17 | |
+| They start conv | 38 | |
+| Ivan initiator % | 30.9% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 26d |
+| Avg voice % | 18.7% |
+
+### Clinical Inquiries
+
+- **Currently active (4d)**: Recent contact
+- **Voice-heavy (18.7%)**: Voice is primary modality

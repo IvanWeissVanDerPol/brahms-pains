@@ -273,3 +273,41 @@ For comparison with Ivan's vulnerable voice note expressions (July 2025 breakup 
 - [The Fixer Defense](../../CORE_PSYCHOLOGY/defense_mechanisms/THE_FIXER.md)
 - [Ideline Brisa Profile](./IDELINE_BRISA.md) - Another Kansas exchange friend
 - [CURATED_QUOTES.md](../../SOURCE_OF_TRUTH/CURATED_QUOTES.md) - Ivan's psychological expressions from voice notes
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 5,155
+**Chats analyzed**: 1
+**Tier(s)**: tier2_core
+**Last contact**: 12d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 29.5% | baseline |
+| Peak hour | 19h | |
+| Peak day | Monday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 41.8% | Balanced |
+| Ivan starts conv | 133 | |
+| They start conv | 206 | |
+| Ivan initiator % | 39.2% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 13d |
+| Avg voice % | 4.7% |
+
+### Clinical Inquiries
+
+- (no notable clinical signals)

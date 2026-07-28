@@ -93,3 +93,41 @@ Once you answer, the correction can be applied atomically via a `chore/resolve-a
 ## Auditor: Erebus
 **Audit date:** 2026-07-25
 **Audit source:** `docs/identity-corrections/AUDIT_2026_07_25.md`
+
+
+---
+
+## 📊 NEW (2026-07-27): Empirical Profile Data
+
+**Total messages**: 2,328
+**Chats analyzed**: 5
+**Tier(s)**: other_lid, untiered_personal
+**Last contact**: 7d ago
+
+### Time Patterns
+
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Late-night ratio (22:00-04:00) | 36.3% | baseline |
+| Peak hour | 20h | |
+| Peak day | Tuesday | |
+
+### Initiator Dynamics
+
+| Metric | Value | Pattern |
+|--------|------:|---------|
+| Ivan initiator ratio | 48.3% | Balanced |
+| Ivan starts conv | 31 | |
+| They start conv | 33 | |
+| Ivan initiator % | 48.4% | |
+
+### Engagement Metrics
+
+| Metric | Value |
+|--------|------:|
+| Max streak (consecutive days) | 7d |
+| Avg voice % | 4.8% |
+
+### Clinical Inquiries
+
+- **Above-baseline late-night (36.3%)**: Slightly elevated compared to Ivan's 32% baseline
