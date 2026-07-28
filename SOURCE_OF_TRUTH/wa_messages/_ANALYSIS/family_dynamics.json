@@ -1,0 +1,258 @@
+{
+ "generated_at": "2026-07-28T13:48:35.471176",
+ "total_family_members": 18,
+ "abandoned_count": 4,
+ "per_member": {
+  "Mom": {
+   "matches": [
+    {
+     "chat": "mom_sonia_weiss___wa_chat_595982515138_64",
+     "tier": "tier1_deep",
+     "total_msgs": 11305,
+     "last_contact_days": 9
+    }
+   ],
+   "lifetime_msgs": 11305,
+   "last_contact": 9,
+   "tier": "tier1_deep",
+   "is_abandoned": false
+  },
+  "Dad": {
+   "matches": [
+    {
+     "chat": "dad_john_van_der_pol___wa_chat_595986138387_1265",
+     "tier": "tier2_core",
+     "total_msgs": 1864,
+     "last_contact_days": 17
+    }
+   ],
+   "lifetime_msgs": 1864,
+   "last_contact": 17,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Sister (Kiki)": {
+   "matches": [
+    {
+     "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+     "tier": "tier1_deep",
+     "total_msgs": 7838,
+     "last_contact_days": 8
+    },
+    {
+     "chat": "33__kiki_adjacent___wa_chat_595993553949_12779",
+     "tier": "tier2_core",
+     "total_msgs": 2525,
+     "last_contact_days": 8
+    }
+   ],
+   "lifetime_msgs": 10363,
+   "last_contact": 8,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Sister (Luana)": {
+   "matches": [
+    {
+     "chat": "sister_luana_weiss___wa_chat_595985725366_99",
+     "tier": "tier2_core",
+     "total_msgs": 2788,
+     "last_contact_days": 19
+    }
+   ],
+   "lifetime_msgs": 2788,
+   "last_contact": 19,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Grandma (Riet)": {
+   "matches": [
+    {
+     "chat": "grandma_riet_van_der_pol___wa_chat_31612495139_98",
+     "tier": "tier3_extended",
+     "total_msgs": 277,
+     "last_contact_days": 200
+    }
+   ],
+   "lifetime_msgs": 277,
+   "last_contact": 200,
+   "tier": "tier3_extended",
+   "is_abandoned": false
+  },
+  "Grandpa (Jan)": {
+   "matches": [
+    {
+     "chat": "Grandpa_Jan_Van_Der_Pol",
+     "tier": "tier1_deep",
+     "total_msgs": 60,
+     "last_contact_days": 629
+    }
+   ],
+   "lifetime_msgs": 60,
+   "last_contact": 629,
+   "tier": "tier1_deep",
+   "is_abandoned": true
+  },
+  "Uncle (Toni)": {
+   "matches": [],
+   "lifetime_msgs": 0,
+   "last_contact": null,
+   "tier": "unknown",
+   "is_abandoned": false
+  },
+  "Uncle (Gerold)": {
+   "matches": [
+    {
+     "chat": "Gerold_Manders",
+     "tier": "tier2_core",
+     "total_msgs": 139,
+     "last_contact_days": 81
+    }
+   ],
+   "lifetime_msgs": 139,
+   "last_contact": 81,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Cousin (Prima Mikaela)": {
+   "matches": [
+    {
+     "chat": "Prima_Mikaela_Weiss",
+     "tier": "tier2_core",
+     "total_msgs": 272,
+     "last_contact_days": 1001
+    }
+   ],
+   "lifetime_msgs": 272,
+   "last_contact": 1001,
+   "tier": "tier2_core",
+   "is_abandoned": true
+  },
+  "Cousin (Primo Gabriel)": {
+   "matches": [
+    {
+     "chat": "Primo_Gabriel",
+     "tier": "tier3_extended",
+     "total_msgs": 117,
+     "last_contact_days": 181
+    }
+   ],
+   "lifetime_msgs": 117,
+   "last_contact": 181,
+   "tier": "tier3_extended",
+   "is_abandoned": false
+  },
+  "Poli Family (Cesar)": {
+   "matches": [
+    {
+     "chat": "22__cesar_poli___wa_chat_595991470829_106",
+     "tier": "tier2_core",
+     "total_msgs": 3157,
+     "last_contact_days": 123
+    }
+   ],
+   "lifetime_msgs": 3157,
+   "last_contact": 123,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Poli Family (Emilio)": {
+   "matches": [
+    {
+     "chat": "emilio_poli____wa_chat_595981925772_1253",
+     "tier": "tier2_core",
+     "total_msgs": 4230,
+     "last_contact_days": 33
+    }
+   ],
+   "lifetime_msgs": 4230,
+   "last_contact": 33,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Poli Family (Ara)": {
+   "matches": [
+    {
+     "chat": "ara_nunez_poli____wa_chat_595981868718_92",
+     "tier": "tier2_core",
+     "total_msgs": 3985,
+     "last_contact_days": 106
+    }
+   ],
+   "lifetime_msgs": 3985,
+   "last_contact": 106,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Poli Family (René)": {
+   "matches": [
+    {
+     "chat": "René_Pols_Poli",
+     "tier": "tier2_core",
+     "total_msgs": 343,
+     "last_contact_days": 232
+    }
+   ],
+   "lifetime_msgs": 343,
+   "last_contact": 232,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Poli Family (Don_Cangrejo)": {
+   "matches": [
+    {
+     "chat": "Don_Cangrejo_Poli",
+     "tier": "tier2_core",
+     "total_msgs": 642,
+     "last_contact_days": 727
+    }
+   ],
+   "lifetime_msgs": 642,
+   "last_contact": 727,
+   "tier": "tier2_core",
+   "is_abandoned": true
+  },
+  "Poli Family (Marco)": {
+   "matches": [
+    {
+     "chat": "Marco_Poli",
+     "tier": "tier2_core",
+     "total_msgs": 467,
+     "last_contact_days": 381
+    }
+   ],
+   "lifetime_msgs": 467,
+   "last_contact": 381,
+   "tier": "tier2_core",
+   "is_abandoned": true
+  },
+  "Poli Family (Fidabel/Defi)": {
+   "matches": [
+    {
+     "chat": "fidabel_poli____wa_chat_595984933862_1330",
+     "tier": "tier2_core",
+     "total_msgs": 2877,
+     "last_contact_days": 40
+    }
+   ],
+   "lifetime_msgs": 2877,
+   "last_contact": 40,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  },
+  "Poli Family (Liliana)": {
+   "matches": [
+    {
+     "chat": "28__lilian_riveros___wa_chat_595983111686_3524",
+     "tier": "tier2_core",
+     "total_msgs": 604,
+     "last_contact_days": 54
+    }
+   ],
+   "lifetime_msgs": 604,
+   "last_contact": 54,
+   "tier": "tier2_core",
+   "is_abandoned": false
+  }
+ }
+}

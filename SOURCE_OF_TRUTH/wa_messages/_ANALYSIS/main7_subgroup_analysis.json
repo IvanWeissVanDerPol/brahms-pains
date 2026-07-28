@@ -1,0 +1,506 @@
+{
+ "generated_at": "2026-07-28T13:48:29.246544",
+ "main_friends_analyzed": 12,
+ "data_sources_used": 8,
+ "profiles": {
+  "Ale": {
+   "name": "Ale",
+   "matches": [
+    {
+     "chat": "10__alejandro_cabral___wa_chat_595972130867_49",
+     "tier": "tier1_deep",
+     "total_msgs": 23000,
+     "late_night_ratio": 0.335,
+     "ivan_ratio": 0.467,
+     "ivan_starts": 770,
+     "them_starts": 779,
+     "max_streak": 30,
+     "median_response": 22000,
+     "days_since": 7,
+     "voice_pct": 0.043,
+     "peak_hour": 16,
+     "peak_dow": "Friday"
+    }
+   ],
+   "lifetime_msgs": 23000,
+   "last_contact": 7,
+   "tier": "tier1_deep",
+   "data": {
+    "total_msgs": 23000,
+    "avg_late_night_ratio": 0.335,
+    "avg_ivan_ratio": 0.467,
+    "total_ivan_starts": 770,
+    "total_them_starts": 779,
+    "ivan_initiator_pct": 0.497,
+    "avg_voice_pct": 0.043,
+    "max_streak_days": 30,
+    "last_contact_days": 7,
+    "tier": "tier1_deep"
+   },
+   "interpretations": [
+    "Above-baseline late-night (33.5%)",
+    "Balanced (46.7%)",
+    "Currently active (7d)",
+    "Text-only (4.3%) - distance modality"
+   ]
+  },
+  "Kiki": {
+   "name": "Kiki",
+   "matches": [
+    {
+     "chat": "sister_kyrian_kiki___wa_chat_595985724135_111",
+     "tier": "tier1_deep",
+     "total_msgs": 7838,
+     "late_night_ratio": 0.37,
+     "ivan_ratio": 0.491,
+     "ivan_starts": 317,
+     "them_starts": 476,
+     "max_streak": 10,
+     "median_response": 40295,
+     "days_since": 7,
+     "voice_pct": 0.07,
+     "peak_hour": 19,
+     "peak_dow": "Friday"
+    }
+   ],
+   "lifetime_msgs": 7838,
+   "last_contact": 7,
+   "tier": "tier1_deep",
+   "data": {
+    "total_msgs": 7838,
+    "avg_late_night_ratio": 0.37,
+    "avg_ivan_ratio": 0.491,
+    "total_ivan_starts": 317,
+    "total_them_starts": 476,
+    "ivan_initiator_pct": 0.4,
+    "avg_voice_pct": 0.07,
+    "max_streak_days": 10,
+    "last_contact_days": 7,
+    "tier": "tier1_deep"
+   },
+   "interpretations": [
+    "Above-baseline late-night (37.0%)",
+    "Balanced (49.1%)",
+    "Currently active (7d)"
+   ]
+  },
+  "Magali": {
+   "name": "Magali",
+   "matches": [
+    {
+     "chat": "magali_carreras_amiga_fpuna____wa_chat_595981225272_62",
+     "tier": "tier1_deep",
+     "total_msgs": 28457,
+     "late_night_ratio": 0.399,
+     "ivan_ratio": 0.527,
+     "ivan_starts": 311,
+     "them_starts": 388,
+     "max_streak": 42,
+     "median_response": 20847,
+     "days_since": 12,
+     "voice_pct": 0.112,
+     "peak_hour": 23,
+     "peak_dow": "Wednesday"
+    }
+   ],
+   "lifetime_msgs": 28457,
+   "last_contact": 12,
+   "tier": "tier1_deep",
+   "data": {
+    "total_msgs": 28457,
+    "avg_late_night_ratio": 0.399,
+    "avg_ivan_ratio": 0.527,
+    "total_ivan_starts": 311,
+    "total_them_starts": 388,
+    "ivan_initiator_pct": 0.445,
+    "avg_voice_pct": 0.112,
+    "max_streak_days": 42,
+    "last_contact_days": 12,
+    "tier": "tier1_deep"
+   },
+   "interpretations": [
+    "Above-baseline late-night (39.9%)",
+    "Balanced (52.7%)",
+    "Moderate streak (42d)",
+    "Currently active (12d)"
+   ]
+  },
+  "Laura": {
+   "name": "Laura",
+   "matches": [
+    {
+     "chat": "laura____wa_chat_595976538689_3231",
+     "tier": "tier1_deep",
+     "total_msgs": 23105,
+     "late_night_ratio": 0.396,
+     "ivan_ratio": 0.511,
+     "ivan_starts": 451,
+     "them_starts": 519,
+     "max_streak": 145,
+     "median_response": 76800,
+     "days_since": 17,
+     "voice_pct": 0.126,
+     "peak_hour": 3,
+     "peak_dow": "Saturday"
+    }
+   ],
+   "lifetime_msgs": 23105,
+   "last_contact": 17,
+   "tier": "tier1_deep",
+   "data": {
+    "total_msgs": 23105,
+    "avg_late_night_ratio": 0.396,
+    "avg_ivan_ratio": 0.511,
+    "total_ivan_starts": 451,
+    "total_them_starts": 519,
+    "ivan_initiator_pct": 0.465,
+    "avg_voice_pct": 0.126,
+    "max_streak_days": 145,
+    "last_contact_days": 17,
+    "tier": "tier1_deep"
+   },
+   "interpretations": [
+    "Above-baseline late-night (39.6%)",
+    "Balanced (51.1%)",
+    "Long streak (145d) - honeymoon/crisis-bonding"
+   ]
+  },
+  "Jonatan": {
+   "name": "Jonatan",
+   "matches": [
+    {
+     "chat": "jonathan_verdun___wa_chat_595971922708_3654",
+     "tier": "tier1_deep",
+     "total_msgs": 34526,
+     "late_night_ratio": 0.248,
+     "ivan_ratio": 0.323,
+     "ivan_starts": 141,
+     "them_starts": 377,
+     "max_streak": 75,
+     "median_response": 19957,
+     "days_since": 23,
+     "voice_pct": 0.048,
+     "peak_hour": 18,
+     "peak_dow": "Wednesday"
+    }
+   ],
+   "lifetime_msgs": 34526,
+   "last_contact": 23,
+   "tier": "tier1_deep",
+   "data": {
+    "total_msgs": 34526,
+    "avg_late_night_ratio": 0.248,
+    "avg_ivan_ratio": 0.323,
+    "total_ivan_starts": 141,
+    "total_them_starts": 377,
+    "ivan_initiator_pct": 0.272,
+    "avg_voice_pct": 0.048,
+    "max_streak_days": 75,
+    "last_contact_days": 23,
+    "tier": "tier1_deep"
+   },
+   "interpretations": [
+    "They chase Ivan (32.3%)",
+    "Moderate streak (75d)",
+    "Text-only (4.8%) - distance modality"
+   ]
+  },
+  "Lourdes": {
+   "name": "Lourdes",
+   "matches": [
+    {
+     "chat": "05__lourdes_youko_kurama___wa_chat_595981791823_1683",
+     "tier": "tier1_deep",
+     "total_msgs": 16905,
+     "late_night_ratio": 0.353,
+     "ivan_ratio": 0.503,
+     "ivan_starts": 360,
+     "them_starts": 422,
+     "max_streak": 55,
+     "median_response": 92733,
+     "days_since": 7,
+     "voice_pct": 0.134,
+     "peak_hour": 20,
+     "peak_dow": "Monday"
+    }
+   ],
+   "lifetime_msgs": 16905,
+   "last_contact": 7,
+   "tier": "tier1_deep",
+   "data": {
+    "total_msgs": 16905,
+    "avg_late_night_ratio": 0.353,
+    "avg_ivan_ratio": 0.503,
+    "total_ivan_starts": 360,
+    "total_them_starts": 422,
+    "ivan_initiator_pct": 0.46,
+    "avg_voice_pct": 0.134,
+    "max_streak_days": 55,
+    "last_contact_days": 7,
+    "tier": "tier1_deep"
+   },
+   "interpretations": [
+    "Above-baseline late-night (35.3%)",
+    "Balanced (50.3%)",
+    "Moderate streak (55d)",
+    "Currently active (7d)"
+   ]
+  },
+  "Sonia (Mom)": {
+   "name": "Sonia (Mom)",
+   "matches": [
+    {
+     "chat": "mom_sonia_weiss___wa_chat_595982515138_64",
+     "tier": "tier1_deep",
+     "total_msgs": 11305,
+     "late_night_ratio": 0.297,
+     "ivan_ratio": 0.503,
+     "ivan_starts": 410,
+     "them_starts": 771,
+     "max_streak": 21,
+     "median_response": 72327,
+     "days_since": 8,
+     "voice_pct": 0.153,
+     "peak_hour": 23,
+     "peak_dow": "Tuesday"
+    }
+   ],
+   "lifetime_msgs": 11305,
+   "last_contact": 8,
+   "tier": "tier1_deep",
+   "data": {
+    "total_msgs": 11305,
+    "avg_late_night_ratio": 0.297,
+    "avg_ivan_ratio": 0.503,
+    "total_ivan_starts": 410,
+    "total_them_starts": 771,
+    "ivan_initiator_pct": 0.347,
+    "avg_voice_pct": 0.153,
+    "max_streak_days": 21,
+    "last_contact_days": 8,
+    "tier": "tier1_deep"
+   },
+   "interpretations": [
+    "Balanced (50.3%)",
+    "Currently active (8d)",
+    "Voice-heavy (15.3%) - intimacy modality"
+   ]
+  },
+  "Nico": {
+   "name": "Nico",
+   "matches": [
+    {
+     "chat": "Cloud_Nyx",
+     "tier": "other_lid",
+     "total_msgs": 3539,
+     "late_night_ratio": 0.526,
+     "ivan_ratio": 0.148,
+     "ivan_starts": 42,
+     "them_starts": 33,
+     "max_streak": 8,
+     "median_response": 18289,
+     "days_since": 21,
+     "voice_pct": 0.003,
+     "peak_hour": 23,
+     "peak_dow": "Saturday"
+    }
+   ],
+   "lifetime_msgs": 3539,
+   "last_contact": 21,
+   "tier": "other_lid",
+   "data": {
+    "total_msgs": 3539,
+    "avg_late_night_ratio": 0.526,
+    "avg_ivan_ratio": 0.148,
+    "total_ivan_starts": 42,
+    "total_them_starts": 33,
+    "ivan_initiator_pct": 0.56,
+    "avg_voice_pct": 0.003,
+    "max_streak_days": 8,
+    "last_contact_days": 21,
+    "tier": "other_lid"
+   },
+   "interpretations": [
+    "High late-night (52.6%) - rumination indicator",
+    "They chase Ivan (14.8%)",
+    "Text-only (0.3%) - distance modality"
+   ]
+  },
+  "Gaby": {
+   "name": "Gaby",
+   "matches": [
+    {
+     "chat": "11__gabriella_gp___wa_export_2026",
+     "tier": "tier1_deep",
+     "total_msgs": 5985,
+     "late_night_ratio": 0.154,
+     "ivan_ratio": 0.481,
+     "ivan_starts": 17,
+     "them_starts": 38,
+     "max_streak": 26,
+     "median_response": 60000,
+     "days_since": 4,
+     "voice_pct": 0.187,
+     "peak_hour": 17,
+     "peak_dow": "Monday"
+    }
+   ],
+   "lifetime_msgs": 5985,
+   "last_contact": 4,
+   "tier": "tier1_deep",
+   "data": {
+    "total_msgs": 5985,
+    "avg_late_night_ratio": 0.154,
+    "avg_ivan_ratio": 0.481,
+    "total_ivan_starts": 17,
+    "total_them_starts": 38,
+    "ivan_initiator_pct": 0.309,
+    "avg_voice_pct": 0.187,
+    "max_streak_days": 26,
+    "last_contact_days": 4,
+    "tier": "tier1_deep"
+   },
+   "interpretations": [
+    "Balanced (48.1%)",
+    "Currently active (4d)",
+    "Voice-heavy (18.7%) - intimacy modality"
+   ]
+  },
+  "Sarah": {
+   "name": "Sarah",
+   "matches": [
+    {
+     "chat": "Sarah_S_Neon_Furry_B-Day_Party",
+     "tier": "tier4_groups",
+     "total_msgs": 2838,
+     "late_night_ratio": 0.432,
+     "ivan_ratio": 0.018,
+     "ivan_starts": 0,
+     "them_starts": 51,
+     "max_streak": 17,
+     "median_response": 13000,
+     "days_since": 7,
+     "voice_pct": 0.003,
+     "peak_hour": 21,
+     "peak_dow": "Tuesday"
+    },
+    {
+     "chat": "Sarah_Bum_Referral",
+     "tier": "untiered_personal",
+     "total_msgs": 62,
+     "late_night_ratio": 0.645,
+     "ivan_ratio": 0.565,
+     "ivan_starts": 1,
+     "them_starts": 1,
+     "max_streak": 2,
+     "median_response": 6000,
+     "days_since": 48,
+     "voice_pct": 0.0,
+     "peak_hour": 0,
+     "peak_dow": "Tuesday"
+    }
+   ],
+   "lifetime_msgs": 2900,
+   "last_contact": 7,
+   "tier": "untiered_personal",
+   "data": {
+    "total_msgs": 2900,
+    "avg_late_night_ratio": 0.437,
+    "avg_ivan_ratio": 0.03,
+    "total_ivan_starts": 1,
+    "total_them_starts": 52,
+    "ivan_initiator_pct": 0.019,
+    "avg_voice_pct": 0.003,
+    "max_streak_days": 17,
+    "last_contact_days": 7,
+    "tier": "untiered_personal"
+   },
+   "interpretations": [
+    "High late-night (43.7%) - rumination indicator",
+    "They chase Ivan (3.0%)",
+    "Currently active (7d)",
+    "Text-only (0.3%) - distance modality"
+   ]
+  },
+  "Nathaly": {
+   "name": "Nathaly",
+   "matches": [
+    {
+     "chat": "Nathaly_Schinini",
+     "tier": "tier2_core",
+     "total_msgs": 366,
+     "late_night_ratio": 0.396,
+     "ivan_ratio": 0.579,
+     "ivan_starts": 36,
+     "them_starts": 12,
+     "max_streak": 2,
+     "median_response": 41936,
+     "days_since": 41,
+     "voice_pct": 0.036,
+     "peak_hour": 18,
+     "peak_dow": "Friday"
+    }
+   ],
+   "lifetime_msgs": 366,
+   "last_contact": 41,
+   "tier": "tier2_core",
+   "data": {
+    "total_msgs": 366,
+    "avg_late_night_ratio": 0.396,
+    "avg_ivan_ratio": 0.579,
+    "total_ivan_starts": 36,
+    "total_them_starts": 12,
+    "ivan_initiator_pct": 0.75,
+    "avg_voice_pct": 0.036,
+    "max_streak_days": 2,
+    "last_contact_days": 41,
+    "tier": "tier2_core"
+   },
+   "interpretations": [
+    "Above-baseline late-night (39.6%)",
+    "Balanced (57.9%)",
+    "Text-only (3.6%) - distance modality"
+   ]
+  },
+  "Dayah": {
+   "name": "Dayah",
+   "matches": [
+    {
+     "chat": "Group_Dayah_Litworks",
+     "tier": "tier4_groups",
+     "total_msgs": 426,
+     "late_night_ratio": 0.777,
+     "ivan_ratio": 0.077,
+     "ivan_starts": 1,
+     "them_starts": 4,
+     "max_streak": 2,
+     "median_response": 8158,
+     "days_since": 84,
+     "voice_pct": 0.0,
+     "peak_hour": 3,
+     "peak_dow": "Monday"
+    }
+   ],
+   "lifetime_msgs": 426,
+   "last_contact": 84,
+   "tier": "tier4_groups",
+   "data": {
+    "total_msgs": 426,
+    "avg_late_night_ratio": 0.777,
+    "avg_ivan_ratio": 0.077,
+    "total_ivan_starts": 1,
+    "total_them_starts": 4,
+    "ivan_initiator_pct": 0.2,
+    "avg_voice_pct": 0.0,
+    "max_streak_days": 2,
+    "last_contact_days": 84,
+    "tier": "tier4_groups"
+   },
+   "interpretations": [
+    "High late-night (77.7%) - rumination indicator",
+    "They chase Ivan (7.7%)",
+    "Text-only (0.0%) - distance modality"
+   ]
+  }
+ }
+}

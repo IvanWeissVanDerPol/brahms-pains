@@ -1,0 +1,74 @@
+{
+ "generated_at": "2026-07-28T13:48:21.973107",
+ "total_kink_chats": 6,
+ "per_chat": {
+  "Kink_Artist": {
+   "tier": "other_lid",
+   "total_msgs": 1210,
+   "total_kink_words": 41,
+   "kink_density": 0.034,
+   "by_category": {
+    "sub_dynamics": 10,
+    "dom_dynamics": 15,
+    "scenes_activities": 4,
+    "psychological": 6,
+    "protocols": 4,
+    "physical_sensation": 2
+   }
+  },
+  "BDSM_Femdom_Chat": {
+   "tier": "untiered_personal",
+   "total_msgs": 95,
+   "total_kink_words": 3,
+   "kink_density": 0.032,
+   "by_category": {
+    "scenes_activities": 2,
+    "dom_dynamics": 1
+   }
+  },
+  "Group_Excursion_Bdsm_Ytu": {
+   "tier": "tier4_groups",
+   "total_msgs": 78,
+   "total_kink_words": 0,
+   "kink_density": 0.0,
+   "by_category": {}
+  },
+  "Piercing_Aftercare_Buyer": {
+   "tier": "untiered_personal",
+   "total_msgs": 45,
+   "total_kink_words": 0,
+   "kink_density": 0.0,
+   "by_category": {}
+  },
+  "Kink_Castigos_Friend": {
+   "tier": "untiered_personal",
+   "total_msgs": 281,
+   "total_kink_words": 15,
+   "kink_density": 0.053,
+   "by_category": {
+    "dom_dynamics": 7,
+    "psychological": 1,
+    "scenes_activities": 4,
+    "sub_dynamics": 3
+   }
+  },
+  "Masterdom_Jose_Angelo": {
+   "tier": "untiered_personal",
+   "total_msgs": 49,
+   "total_kink_words": 2,
+   "kink_density": 0.041,
+   "by_category": {
+    "protocols": 1,
+    "psychological": 1
+   }
+  }
+ },
+ "lexicon_categories": [
+  "dom_dynamics",
+  "sub_dynamics",
+  "scenes_activities",
+  "protocols",
+  "physical_sensation",
+  "psychological"
+ ]
+}
