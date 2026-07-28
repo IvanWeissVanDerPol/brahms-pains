@@ -1,0 +1,6541 @@
+{
+ "generated_at": "2026-07-28T15:36:20.290493",
+ "total_chats_analyzed": 220,
+ "topic_distribution": {
+  "ai_tech": 51,
+  "food": 31,
+  "work_projects": 36,
+  "intimacy_romance": 10,
+  "dental_clinic": 4,
+  "family": 14,
+  "school_study": 39,
+  "exercise_gym": 7,
+  "money_finance": 12,
+  "kink_bdsm": 6,
+  "social_events": 9,
+  "kink_kinky": 1
+ },
+ "per_chat": {
+  "sister_kyrian_kiki___wa_chat_595985724135_111": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 6817,
+   "topic_counts": {
+    "family": 186,
+    "money_finance": 48,
+    "school_study": 59,
+    "work_projects": 225,
+    "food": 53,
+    "social_events": 19,
+    "psychology_therapy": 6,
+    "exercise_gym": 18,
+    "music_art": 8,
+    "kink_kinky": 10,
+    "intimacy_romance": 17,
+    "kink_bdsm": 10,
+    "ai_tech": 273,
+    "dental_clinic": 40
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.04,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     273
+    ],
+    [
+     "work_projects",
+     225
+    ],
+    [
+     "family",
+     186
+    ]
+   ]
+  },
+  "06__p4569___wa_chat_595981324569_1092": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 659,
+   "topic_counts": {
+    "ai_tech": 390,
+    "school_study": 12,
+    "work_projects": 47,
+    "social_events": 7,
+    "psychology_therapy": 11,
+    "exercise_gym": 1,
+    "dental_clinic": 4,
+    "family": 7,
+    "intimacy_romance": 2,
+    "kink_bdsm": 19
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.5918,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     390
+    ],
+    [
+     "work_projects",
+     47
+    ],
+    [
+     "kink_bdsm",
+     19
+    ]
+   ]
+  },
+  "magali_carreras_amiga_fpuna____wa_chat_595981225272_62": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 23592,
+   "topic_counts": {
+    "exercise_gym": 65,
+    "food": 308,
+    "kink_kinky": 67,
+    "school_study": 199,
+    "work_projects": 163,
+    "music_art": 24,
+    "family": 100,
+    "intimacy_romance": 136,
+    "social_events": 43,
+    "kink_bdsm": 40,
+    "money_finance": 46,
+    "dental_clinic": 34,
+    "ai_tech": 68,
+    "psychology_therapy": 29
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0131,
+   "top_3_topics": [
+    [
+     "food",
+     308
+    ],
+    [
+     "school_study",
+     199
+    ],
+    [
+     "work_projects",
+     163
+    ]
+   ]
+  },
+  "02__p8816___wa_chat_595983008816_9253": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 325,
+   "topic_counts": {
+    "work_projects": 328
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 1.0092,
+   "top_3_topics": [
+    [
+     "work_projects",
+     328
+    ]
+   ]
+  },
+  "05__lourdes_youko_kurama___wa_chat_595981791823_1683": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 13817,
+   "topic_counts": {
+    "exercise_gym": 36,
+    "family": 53,
+    "intimacy_romance": 150,
+    "kink_bdsm": 43,
+    "music_art": 12,
+    "kink_kinky": 42,
+    "psychology_therapy": 78,
+    "school_study": 137,
+    "work_projects": 137,
+    "ai_tech": 40,
+    "food": 150,
+    "social_events": 31,
+    "dental_clinic": 42,
+    "money_finance": 16
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.0109,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     150
+    ],
+    [
+     "food",
+     150
+    ],
+    [
+     "school_study",
+     137
+    ]
+   ]
+  },
+  "jonathan_verdun___wa_chat_595971922708_3654": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 32376,
+   "topic_counts": {
+    "work_projects": 298,
+    "psychology_therapy": 27,
+    "money_finance": 353,
+    "food": 97,
+    "exercise_gym": 83,
+    "music_art": 53,
+    "kink_bdsm": 134,
+    "ai_tech": 1378,
+    "intimacy_romance": 146,
+    "school_study": 177,
+    "kink_kinky": 47,
+    "family": 306,
+    "social_events": 27,
+    "dental_clinic": 3
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0426,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     1378
+    ],
+    [
+     "money_finance",
+     353
+    ],
+    [
+     "family",
+     306
+    ]
+   ]
+  },
+  "laura____wa_chat_595976538689_3231": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 18969,
+   "topic_counts": {
+    "intimacy_romance": 786,
+    "psychology_therapy": 15,
+    "food": 361,
+    "work_projects": 165,
+    "school_study": 159,
+    "kink_kinky": 114,
+    "exercise_gym": 68,
+    "social_events": 68,
+    "music_art": 7,
+    "ai_tech": 29,
+    "money_finance": 30,
+    "family": 109,
+    "kink_bdsm": 13,
+    "dental_clinic": 5
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.0414,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     786
+    ],
+    [
+     "food",
+     361
+    ],
+    [
+     "work_projects",
+     165
+    ]
+   ]
+  },
+  "11__gabriella_gp___wa_export_2026": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 4451,
+   "topic_counts": {
+    "ai_tech": 69,
+    "intimacy_romance": 63,
+    "school_study": 21,
+    "dental_clinic": 187,
+    "work_projects": 62,
+    "exercise_gym": 16,
+    "money_finance": 16,
+    "social_events": 13,
+    "family": 55,
+    "kink_kinky": 39,
+    "food": 55,
+    "music_art": 12,
+    "kink_bdsm": 53,
+    "psychology_therapy": 2
+   },
+   "primary_topic": "dental_clinic",
+   "primary_density": 0.042,
+   "top_3_topics": [
+    [
+     "dental_clinic",
+     187
+    ],
+    [
+     "ai_tech",
+     69
+    ],
+    [
+     "intimacy_romance",
+     63
+    ]
+   ]
+  },
+  "10__alejandro_cabral___wa_chat_595972130867_49": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 19751,
+   "topic_counts": {
+    "family": 45,
+    "music_art": 28,
+    "work_projects": 105,
+    "social_events": 25,
+    "school_study": 80,
+    "kink_bdsm": 22,
+    "kink_kinky": 12,
+    "food": 202,
+    "intimacy_romance": 93,
+    "psychology_therapy": 15,
+    "money_finance": 26,
+    "exercise_gym": 112,
+    "ai_tech": 289,
+    "dental_clinic": 3
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0146,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     289
+    ],
+    [
+     "food",
+     202
+    ],
+    [
+     "exercise_gym",
+     112
+    ]
+   ]
+  },
+  "mom_sonia_weiss___wa_chat_595982515138_64": {
+   "tier": "tier1_deep",
+   "total_text_msgs": 8439,
+   "topic_counts": {
+    "family": 157,
+    "work_projects": 96,
+    "ai_tech": 42,
+    "intimacy_romance": 32,
+    "food": 96,
+    "school_study": 45,
+    "music_art": 9,
+    "money_finance": 67,
+    "exercise_gym": 6,
+    "dental_clinic": 21,
+    "social_events": 25,
+    "kink_kinky": 17,
+    "kink_bdsm": 14,
+    "psychology_therapy": 5
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0186,
+   "top_3_topics": [
+    [
+     "family",
+     157
+    ],
+    [
+     "work_projects",
+     96
+    ],
+    [
+     "food",
+     96
+    ]
+   ]
+  },
+  "qa_impostor_friend___wa_chat_595981258488_3525": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1195,
+   "topic_counts": {
+    "exercise_gym": 2,
+    "kink_bdsm": 1,
+    "school_study": 27,
+    "intimacy_romance": 5,
+    "ai_tech": 13,
+    "family": 2,
+    "work_projects": 29,
+    "money_finance": 16,
+    "food": 1,
+    "kink_kinky": 1,
+    "social_events": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0243,
+   "top_3_topics": [
+    [
+     "work_projects",
+     29
+    ],
+    [
+     "school_study",
+     27
+    ],
+    [
+     "money_finance",
+     16
+    ]
+   ]
+  },
+  "Profe_Gcc": {
+   "tier": "tier2_core",
+   "total_text_msgs": 172,
+   "topic_counts": {
+    "dental_clinic": 1,
+    "money_finance": 3,
+    "ai_tech": 18,
+    "school_study": 5,
+    "work_projects": 7
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.1047,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     18
+    ],
+    [
+     "work_projects",
+     7
+    ],
+    [
+     "school_study",
+     5
+    ]
+   ]
+  },
+  "Mark_Lorey": {
+   "tier": "tier2_core",
+   "total_text_msgs": 327,
+   "topic_counts": {
+    "work_projects": 3,
+    "intimacy_romance": 7,
+    "food": 14,
+    "exercise_gym": 2
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0428,
+   "top_3_topics": [
+    [
+     "food",
+     14
+    ],
+    [
+     "intimacy_romance",
+     7
+    ],
+    [
+     "work_projects",
+     3
+    ]
+   ]
+  },
+  "Nathaly_Schinini": {
+   "tier": "tier2_core",
+   "total_text_msgs": 337,
+   "topic_counts": {
+    "food": 4,
+    "kink_kinky": 1,
+    "ai_tech": 1,
+    "money_finance": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0119,
+   "top_3_topics": [
+    [
+     "food",
+     4
+    ],
+    [
+     "kink_kinky",
+     1
+    ],
+    [
+     "ai_tech",
+     1
+    ]
+   ]
+  },
+  "Génesis": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1015,
+   "topic_counts": {
+    "school_study": 3,
+    "intimacy_romance": 5,
+    "work_projects": 10,
+    "kink_kinky": 1,
+    "exercise_gym": 1,
+    "kink_bdsm": 1,
+    "food": 6,
+    "social_events": 3,
+    "family": 3
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0099,
+   "top_3_topics": [
+    [
+     "work_projects",
+     10
+    ],
+    [
+     "food",
+     6
+    ],
+    [
+     "intimacy_romance",
+     5
+    ]
+   ]
+  },
+  "dad_john_van_der_pol___wa_chat_595986138387_1265": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1751,
+   "topic_counts": {
+    "work_projects": 57,
+    "family": 21,
+    "kink_bdsm": 8,
+    "intimacy_romance": 4,
+    "music_art": 9,
+    "ai_tech": 203,
+    "money_finance": 6,
+    "dental_clinic": 4,
+    "food": 3,
+    "school_study": 17,
+    "exercise_gym": 2,
+    "social_events": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.1159,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     203
+    ],
+    [
+     "work_projects",
+     57
+    ],
+    [
+     "family",
+     21
+    ]
+   ]
+  },
+  "fran____wa_chat_595986805654_1271": {
+   "tier": "tier2_core",
+   "total_text_msgs": 6273,
+   "topic_counts": {
+    "family": 42,
+    "kink_bdsm": 12,
+    "food": 54,
+    "intimacy_romance": 26,
+    "school_study": 42,
+    "kink_kinky": 13,
+    "exercise_gym": 37,
+    "social_events": 21,
+    "money_finance": 24,
+    "psychology_therapy": 18,
+    "work_projects": 71,
+    "ai_tech": 32,
+    "dental_clinic": 8,
+    "music_art": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0113,
+   "top_3_topics": [
+    [
+     "work_projects",
+     71
+    ],
+    [
+     "food",
+     54
+    ],
+    [
+     "family",
+     42
+    ]
+   ]
+  },
+  "Adrian": {
+   "tier": "tier2_core",
+   "total_text_msgs": 181,
+   "topic_counts": {
+    "kink_bdsm": 5,
+    "dental_clinic": 13,
+    "ai_tech": 13,
+    "work_projects": 5,
+    "school_study": 1,
+    "intimacy_romance": 1,
+    "money_finance": 1
+   },
+   "primary_topic": "dental_clinic",
+   "primary_density": 0.0718,
+   "top_3_topics": [
+    [
+     "dental_clinic",
+     13
+    ],
+    [
+     "ai_tech",
+     13
+    ],
+    [
+     "kink_bdsm",
+     5
+    ]
+   ]
+  },
+  "Don_Cangrejo_Poli": {
+   "tier": "tier2_core",
+   "total_text_msgs": 602,
+   "topic_counts": {
+    "social_events": 1,
+    "food": 2,
+    "intimacy_romance": 2,
+    "work_projects": 5,
+    "ai_tech": 7,
+    "school_study": 12,
+    "exercise_gym": 2,
+    "kink_kinky": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0199,
+   "top_3_topics": [
+    [
+     "school_study",
+     12
+    ],
+    [
+     "ai_tech",
+     7
+    ],
+    [
+     "work_projects",
+     5
+    ]
+   ]
+  },
+  "22__cesar_poli___wa_chat_595991470829_106": {
+   "tier": "tier2_core",
+   "total_text_msgs": 2836,
+   "topic_counts": {
+    "family": 12,
+    "school_study": 14,
+    "intimacy_romance": 4,
+    "food": 37,
+    "ai_tech": 7,
+    "social_events": 4,
+    "kink_kinky": 1,
+    "work_projects": 10,
+    "exercise_gym": 40,
+    "money_finance": 7,
+    "music_art": 10,
+    "psychology_therapy": 2,
+    "kink_bdsm": 4
+   },
+   "primary_topic": "exercise_gym",
+   "primary_density": 0.0141,
+   "top_3_topics": [
+    [
+     "exercise_gym",
+     40
+    ],
+    [
+     "food",
+     37
+    ],
+    [
+     "school_study",
+     14
+    ]
+   ]
+  },
+  "Enrique_Sanchez": {
+   "tier": "tier2_core",
+   "total_text_msgs": 720,
+   "topic_counts": {
+    "social_events": 1,
+    "food": 4,
+    "work_projects": 16,
+    "school_study": 5,
+    "exercise_gym": 1,
+    "money_finance": 4,
+    "family": 2,
+    "kink_bdsm": 2,
+    "intimacy_romance": 1,
+    "ai_tech": 2
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0222,
+   "top_3_topics": [
+    [
+     "work_projects",
+     16
+    ],
+    [
+     "school_study",
+     5
+    ],
+    [
+     "food",
+     4
+    ]
+   ]
+  },
+  "Cliente_3d_Edgar_Fpuna": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1166,
+   "topic_counts": {
+    "work_projects": 5,
+    "school_study": 8,
+    "food": 4,
+    "exercise_gym": 1,
+    "ai_tech": 1,
+    "kink_bdsm": 1,
+    "social_events": 2,
+    "money_finance": 5
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0069,
+   "top_3_topics": [
+    [
+     "school_study",
+     8
+    ],
+    [
+     "work_projects",
+     5
+    ],
+    [
+     "money_finance",
+     5
+    ]
+   ]
+  },
+  "Mathias_Barrios": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1402,
+   "topic_counts": {
+    "exercise_gym": 6,
+    "food": 16,
+    "kink_bdsm": 1,
+    "music_art": 1,
+    "social_events": 2,
+    "school_study": 7,
+    "money_finance": 2,
+    "work_projects": 6,
+    "kink_kinky": 1,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0114,
+   "top_3_topics": [
+    [
+     "food",
+     16
+    ],
+    [
+     "school_study",
+     7
+    ],
+    [
+     "exercise_gym",
+     6
+    ]
+   ]
+  },
+  "guitar_friend___wa_chat_595985725871_86": {
+   "tier": "tier2_core",
+   "total_text_msgs": 3265,
+   "topic_counts": {
+    "family": 36,
+    "food": 20,
+    "school_study": 14,
+    "exercise_gym": 10,
+    "intimacy_romance": 3,
+    "social_events": 14,
+    "music_art": 6,
+    "ai_tech": 7,
+    "kink_kinky": 7,
+    "psychology_therapy": 1,
+    "kink_bdsm": 5,
+    "work_projects": 13,
+    "money_finance": 8
+   },
+   "primary_topic": "family",
+   "primary_density": 0.011,
+   "top_3_topics": [
+    [
+     "family",
+     36
+    ],
+    [
+     "food",
+     20
+    ],
+    [
+     "school_study",
+     14
+    ]
+   ]
+  },
+  "Consultorio_Duerksen": {
+   "tier": "tier2_core",
+   "total_text_msgs": 157,
+   "topic_counts": {
+    "dental_clinic": 17,
+    "school_study": 1,
+    "family": 1
+   },
+   "primary_topic": "dental_clinic",
+   "primary_density": 0.1083,
+   "top_3_topics": [
+    [
+     "dental_clinic",
+     17
+    ],
+    [
+     "school_study",
+     1
+    ],
+    [
+     "family",
+     1
+    ]
+   ]
+  },
+  "23__friend_uwu___wa_chat_595985340001_2439": {
+   "tier": "tier2_core",
+   "total_text_msgs": 3540,
+   "topic_counts": {
+    "work_projects": 19,
+    "intimacy_romance": 4,
+    "kink_kinky": 14,
+    "family": 16,
+    "food": 34,
+    "social_events": 6,
+    "money_finance": 16,
+    "kink_bdsm": 1,
+    "exercise_gym": 1,
+    "ai_tech": 7,
+    "school_study": 4,
+    "music_art": 2
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0096,
+   "top_3_topics": [
+    [
+     "food",
+     34
+    ],
+    [
+     "work_projects",
+     19
+    ],
+    [
+     "family",
+     16
+    ]
+   ]
+  },
+  "30__kansas_springbreak___wa_chat_595972209763_2943": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1080,
+   "topic_counts": {
+    "intimacy_romance": 27,
+    "kink_bdsm": 26,
+    "kink_kinky": 19,
+    "money_finance": 12,
+    "ai_tech": 6,
+    "work_projects": 14,
+    "family": 2,
+    "psychology_therapy": 14,
+    "dental_clinic": 7,
+    "social_events": 2,
+    "exercise_gym": 7,
+    "school_study": 1,
+    "music_art": 2,
+    "food": 2
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.025,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     27
+    ],
+    [
+     "kink_bdsm",
+     26
+    ],
+    [
+     "kink_kinky",
+     19
+    ]
+   ]
+  },
+  "Gerold_Manders": {
+   "tier": "tier2_core",
+   "total_text_msgs": 128,
+   "topic_counts": {
+    "money_finance": 1,
+    "ai_tech": 17,
+    "family": 1,
+    "kink_bdsm": 2,
+    "work_projects": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.1328,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     17
+    ],
+    [
+     "kink_bdsm",
+     2
+    ],
+    [
+     "work_projects",
+     2
+    ]
+   ]
+  },
+  "Bianca_MM": {
+   "tier": "tier2_core",
+   "total_text_msgs": 584,
+   "topic_counts": {
+    "social_events": 5,
+    "school_study": 10,
+    "food": 1,
+    "work_projects": 15,
+    "ai_tech": 17,
+    "money_finance": 1,
+    "family": 3,
+    "psychology_therapy": 3,
+    "kink_kinky": 1,
+    "kink_bdsm": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0291,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     17
+    ],
+    [
+     "work_projects",
+     15
+    ],
+    [
+     "school_study",
+     10
+    ]
+   ]
+  },
+  "Javier_Vecino": {
+   "tier": "tier2_core",
+   "total_text_msgs": 387,
+   "topic_counts": {
+    "intimacy_romance": 2,
+    "school_study": 3,
+    "food": 4,
+    "exercise_gym": 1,
+    "kink_kinky": 2,
+    "work_projects": 3,
+    "ai_tech": 3,
+    "social_events": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0103,
+   "top_3_topics": [
+    [
+     "food",
+     4
+    ],
+    [
+     "school_study",
+     3
+    ],
+    [
+     "work_projects",
+     3
+    ]
+   ]
+  },
+  "27__lic_sanni_lalla___wa_chat_595986418879_1688": {
+   "tier": "tier2_core",
+   "total_text_msgs": 705,
+   "topic_counts": {
+    "psychology_therapy": 6,
+    "school_study": 6,
+    "food": 14,
+    "social_events": 10,
+    "exercise_gym": 2,
+    "work_projects": 10,
+    "intimacy_romance": 15,
+    "ai_tech": 2,
+    "money_finance": 4,
+    "kink_kinky": 1,
+    "dental_clinic": 11,
+    "kink_bdsm": 2,
+    "family": 1
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.0213,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     15
+    ],
+    [
+     "food",
+     14
+    ],
+    [
+     "dental_clinic",
+     11
+    ]
+   ]
+  },
+  "cami_maidana____wa_chat_595982510082_1723": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1296,
+   "topic_counts": {
+    "work_projects": 38,
+    "school_study": 21,
+    "food": 10,
+    "exercise_gym": 6,
+    "psychology_therapy": 6,
+    "social_events": 3,
+    "ai_tech": 6,
+    "intimacy_romance": 6,
+    "kink_kinky": 3,
+    "family": 4,
+    "money_finance": 4,
+    "kink_bdsm": 2
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0293,
+   "top_3_topics": [
+    [
+     "work_projects",
+     38
+    ],
+    [
+     "school_study",
+     21
+    ],
+    [
+     "food",
+     10
+    ]
+   ]
+  },
+  "junior_nazi____wa_chat_595984160109_1257": {
+   "tier": "tier2_core",
+   "total_text_msgs": 2281,
+   "topic_counts": {
+    "school_study": 13,
+    "food": 15,
+    "exercise_gym": 10,
+    "intimacy_romance": 6,
+    "kink_kinky": 5,
+    "psychology_therapy": 7,
+    "family": 3,
+    "money_finance": 3,
+    "work_projects": 8,
+    "social_events": 6,
+    "music_art": 2,
+    "ai_tech": 11,
+    "kink_bdsm": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0066,
+   "top_3_topics": [
+    [
+     "food",
+     15
+    ],
+    [
+     "school_study",
+     13
+    ],
+    [
+     "ai_tech",
+     11
+    ]
+   ]
+  },
+  "38__friend_arrival___wa_chat_595986464184_1811": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1283,
+   "topic_counts": {
+    "intimacy_romance": 17,
+    "food": 23,
+    "work_projects": 11,
+    "school_study": 9,
+    "kink_kinky": 7,
+    "social_events": 3,
+    "kink_bdsm": 1,
+    "family": 6
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0179,
+   "top_3_topics": [
+    [
+     "food",
+     23
+    ],
+    [
+     "intimacy_romance",
+     17
+    ],
+    [
+     "work_projects",
+     11
+    ]
+   ]
+  },
+  "34__friend_simple___wa_chat_595973572212_1994": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1958,
+   "topic_counts": {
+    "exercise_gym": 10,
+    "food": 21,
+    "work_projects": 26,
+    "social_events": 5,
+    "school_study": 5,
+    "money_finance": 7,
+    "ai_tech": 9,
+    "intimacy_romance": 6,
+    "kink_bdsm": 3,
+    "music_art": 4,
+    "kink_kinky": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0133,
+   "top_3_topics": [
+    [
+     "work_projects",
+     26
+    ],
+    [
+     "food",
+     21
+    ],
+    [
+     "exercise_gym",
+     10
+    ]
+   ]
+  },
+  "35__friend_photos___wa_chat_595986868241_10607": {
+   "tier": "tier2_core",
+   "total_text_msgs": 596,
+   "topic_counts": {
+    "kink_kinky": 7,
+    "music_art": 7,
+    "dental_clinic": 4,
+    "ai_tech": 23,
+    "work_projects": 37,
+    "intimacy_romance": 8,
+    "school_study": 4,
+    "money_finance": 2,
+    "kink_bdsm": 1,
+    "family": 3,
+    "food": 4,
+    "social_events": 2
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0621,
+   "top_3_topics": [
+    [
+     "work_projects",
+     37
+    ],
+    [
+     "ai_tech",
+     23
+    ],
+    [
+     "intimacy_romance",
+     8
+    ]
+   ]
+  },
+  "Camilo_Amarilla": {
+   "tier": "tier2_core",
+   "total_text_msgs": 187,
+   "topic_counts": {
+    "money_finance": 5,
+    "school_study": 1
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0267,
+   "top_3_topics": [
+    [
+     "money_finance",
+     5
+    ],
+    [
+     "school_study",
+     1
+    ]
+   ]
+  },
+  "Jessica_Chena": {
+   "tier": "tier2_core",
+   "total_text_msgs": 523,
+   "topic_counts": {
+    "social_events": 5,
+    "work_projects": 5,
+    "school_study": 6,
+    "ai_tech": 1,
+    "dental_clinic": 1,
+    "food": 7,
+    "intimacy_romance": 2,
+    "kink_bdsm": 3,
+    "money_finance": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0134,
+   "top_3_topics": [
+    [
+     "food",
+     7
+    ],
+    [
+     "school_study",
+     6
+    ],
+    [
+     "social_events",
+     5
+    ]
+   ]
+  },
+  "sister_luana_weiss___wa_chat_595985725366_99": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1866,
+   "topic_counts": {
+    "family": 43,
+    "intimacy_romance": 4,
+    "food": 29,
+    "money_finance": 4,
+    "school_study": 10,
+    "social_events": 9,
+    "ai_tech": 25,
+    "exercise_gym": 5,
+    "music_art": 3,
+    "work_projects": 9
+   },
+   "primary_topic": "family",
+   "primary_density": 0.023,
+   "top_3_topics": [
+    [
+     "family",
+     43
+    ],
+    [
+     "food",
+     29
+    ],
+    [
+     "ai_tech",
+     25
+    ]
+   ]
+  },
+  "ara_nunez_poli____wa_chat_595981868718_92": {
+   "tier": "tier2_core",
+   "total_text_msgs": 3594,
+   "topic_counts": {
+    "music_art": 8,
+    "exercise_gym": 7,
+    "school_study": 32,
+    "food": 46,
+    "intimacy_romance": 15,
+    "work_projects": 29,
+    "social_events": 9,
+    "ai_tech": 9,
+    "money_finance": 10,
+    "family": 8,
+    "kink_kinky": 5,
+    "psychology_therapy": 3,
+    "kink_bdsm": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0128,
+   "top_3_topics": [
+    [
+     "food",
+     46
+    ],
+    [
+     "school_study",
+     32
+    ],
+    [
+     "work_projects",
+     29
+    ]
+   ]
+  },
+  "14__friend_brasilia___wa_chat_595983822921_11297": {
+   "tier": "tier2_core",
+   "total_text_msgs": 3436,
+   "topic_counts": {
+    "music_art": 8,
+    "intimacy_romance": 32,
+    "kink_bdsm": 55,
+    "work_projects": 63,
+    "food": 25,
+    "school_study": 16,
+    "money_finance": 11,
+    "kink_kinky": 18,
+    "ai_tech": 274,
+    "exercise_gym": 5,
+    "family": 19,
+    "social_events": 10,
+    "dental_clinic": 1,
+    "psychology_therapy": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0797,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     274
+    ],
+    [
+     "work_projects",
+     63
+    ],
+    [
+     "kink_bdsm",
+     55
+    ]
+   ]
+  },
+  "René_Pols_Poli": {
+   "tier": "tier2_core",
+   "total_text_msgs": 296,
+   "topic_counts": {
+    "school_study": 2,
+    "food": 3,
+    "money_finance": 4,
+    "work_projects": 1,
+    "intimacy_romance": 2
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0135,
+   "top_3_topics": [
+    [
+     "money_finance",
+     4
+    ],
+    [
+     "food",
+     3
+    ],
+    [
+     "school_study",
+     2
+    ]
+   ]
+  },
+  "fidabel_poli____wa_chat_595984933862_1330": {
+   "tier": "tier2_core",
+   "total_text_msgs": 2649,
+   "topic_counts": {
+    "school_study": 17,
+    "exercise_gym": 43,
+    "social_events": 10,
+    "food": 32,
+    "ai_tech": 15,
+    "family": 1,
+    "music_art": 1,
+    "work_projects": 12,
+    "kink_kinky": 2,
+    "money_finance": 7,
+    "intimacy_romance": 3,
+    "psychology_therapy": 4,
+    "kink_bdsm": 4
+   },
+   "primary_topic": "exercise_gym",
+   "primary_density": 0.0162,
+   "top_3_topics": [
+    [
+     "exercise_gym",
+     43
+    ],
+    [
+     "food",
+     32
+    ],
+    [
+     "school_study",
+     17
+    ]
+   ]
+  },
+  "Migue": {
+   "tier": "tier2_core",
+   "total_text_msgs": 130,
+   "topic_counts": {
+    "kink_bdsm": 1,
+    "ai_tech": 1,
+    "money_finance": 1,
+    "work_projects": 3
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0231,
+   "top_3_topics": [
+    [
+     "work_projects",
+     3
+    ],
+    [
+     "kink_bdsm",
+     1
+    ],
+    [
+     "ai_tech",
+     1
+    ]
+   ]
+  },
+  "Ideline_Brisa_3": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1022,
+   "topic_counts": {
+    "exercise_gym": 6,
+    "food": 1,
+    "intimacy_romance": 6,
+    "kink_bdsm": 3,
+    "social_events": 1,
+    "money_finance": 3,
+    "work_projects": 5,
+    "ai_tech": 3
+   },
+   "primary_topic": "exercise_gym",
+   "primary_density": 0.0059,
+   "top_3_topics": [
+    [
+     "exercise_gym",
+     6
+    ],
+    [
+     "intimacy_romance",
+     6
+    ],
+    [
+     "work_projects",
+     5
+    ]
+   ]
+  },
+  "Mat": {
+   "tier": "tier2_core",
+   "total_text_msgs": 478,
+   "topic_counts": {
+    "food": 12,
+    "exercise_gym": 2,
+    "music_art": 3,
+    "money_finance": 1,
+    "intimacy_romance": 3,
+    "social_events": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0251,
+   "top_3_topics": [
+    [
+     "food",
+     12
+    ],
+    [
+     "music_art",
+     3
+    ],
+    [
+     "intimacy_romance",
+     3
+    ]
+   ]
+  },
+  "Joaquina_Ex": {
+   "tier": "tier2_core",
+   "total_text_msgs": 839,
+   "topic_counts": {
+    "school_study": 2,
+    "work_projects": 4,
+    "kink_bdsm": 3,
+    "family": 13,
+    "exercise_gym": 1,
+    "social_events": 1,
+    "food": 3,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0155,
+   "top_3_topics": [
+    [
+     "family",
+     13
+    ],
+    [
+     "work_projects",
+     4
+    ],
+    [
+     "kink_bdsm",
+     3
+    ]
+   ]
+  },
+  "Natalia_Cruz": {
+   "tier": "tier2_core",
+   "total_text_msgs": 193,
+   "topic_counts": {
+    "work_projects": 10,
+    "ai_tech": 2,
+    "school_study": 1,
+    "kink_bdsm": 1,
+    "money_finance": 2,
+    "exercise_gym": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0518,
+   "top_3_topics": [
+    [
+     "work_projects",
+     10
+    ],
+    [
+     "ai_tech",
+     2
+    ],
+    [
+     "money_finance",
+     2
+    ]
+   ]
+  },
+  "33__kiki_adjacent___wa_chat_595993553949_12779": {
+   "tier": "tier2_core",
+   "total_text_msgs": 2318,
+   "topic_counts": {
+    "family": 20,
+    "money_finance": 5,
+    "work_projects": 4,
+    "kink_bdsm": 4,
+    "music_art": 5,
+    "social_events": 5,
+    "intimacy_romance": 15,
+    "food": 16,
+    "kink_kinky": 4,
+    "school_study": 2,
+    "psychology_therapy": 1,
+    "ai_tech": 4
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0086,
+   "top_3_topics": [
+    [
+     "family",
+     20
+    ],
+    [
+     "food",
+     16
+    ],
+    [
+     "intimacy_romance",
+     15
+    ]
+   ]
+  },
+  "Juanra_Ferreira": {
+   "tier": "tier2_core",
+   "total_text_msgs": 404,
+   "topic_counts": {
+    "kink_bdsm": 2,
+    "kink_kinky": 4,
+    "intimacy_romance": 4,
+    "ai_tech": 10,
+    "work_projects": 3,
+    "exercise_gym": 1,
+    "music_art": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0248,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     10
+    ],
+    [
+     "kink_kinky",
+     4
+    ],
+    [
+     "intimacy_romance",
+     4
+    ]
+   ]
+  },
+  "25__sexshop_companion___wa_chat_595976569739_2083": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1027,
+   "topic_counts": {
+    "money_finance": 14,
+    "kink_bdsm": 16,
+    "work_projects": 11,
+    "school_study": 10,
+    "intimacy_romance": 8,
+    "ai_tech": 7,
+    "kink_kinky": 5,
+    "social_events": 6,
+    "exercise_gym": 1,
+    "family": 3,
+    "food": 6,
+    "dental_clinic": 1
+   },
+   "primary_topic": "kink_bdsm",
+   "primary_density": 0.0156,
+   "top_3_topics": [
+    [
+     "kink_bdsm",
+     16
+    ],
+    [
+     "money_finance",
+     14
+    ],
+    [
+     "work_projects",
+     11
+    ]
+   ]
+  },
+  "Camila_Pintora": {
+   "tier": "tier2_core",
+   "total_text_msgs": 492,
+   "topic_counts": {
+    "kink_bdsm": 4,
+    "music_art": 8,
+    "ai_tech": 9,
+    "work_projects": 5,
+    "kink_kinky": 2,
+    "food": 5,
+    "social_events": 3,
+    "intimacy_romance": 2,
+    "school_study": 3,
+    "money_finance": 3
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0183,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     9
+    ],
+    [
+     "music_art",
+     8
+    ],
+    [
+     "work_projects",
+     5
+    ]
+   ]
+  },
+  "28__lilian_riveros___wa_chat_595983111686_3524": {
+   "tier": "tier2_core",
+   "total_text_msgs": 561,
+   "topic_counts": {
+    "social_events": 8,
+    "ai_tech": 45,
+    "school_study": 10,
+    "work_projects": 64,
+    "intimacy_romance": 5,
+    "music_art": 3,
+    "exercise_gym": 3,
+    "food": 4,
+    "money_finance": 3,
+    "kink_kinky": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.1141,
+   "top_3_topics": [
+    [
+     "work_projects",
+     64
+    ],
+    [
+     "ai_tech",
+     45
+    ],
+    [
+     "school_study",
+     10
+    ]
+   ]
+  },
+  "Marco_Poli": {
+   "tier": "tier2_core",
+   "total_text_msgs": 420,
+   "topic_counts": {
+    "family": 1,
+    "work_projects": 7,
+    "school_study": 10,
+    "food": 5,
+    "kink_bdsm": 1,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0238,
+   "top_3_topics": [
+    [
+     "school_study",
+     10
+    ],
+    [
+     "work_projects",
+     7
+    ],
+    [
+     "food",
+     5
+    ]
+   ]
+  },
+  "daisy____wa_chat_595981459382_4380": {
+   "tier": "tier2_core",
+   "total_text_msgs": 304,
+   "topic_counts": {
+    "social_events": 1,
+    "food": 8,
+    "money_finance": 1,
+    "school_study": 3,
+    "family": 6,
+    "work_projects": 26,
+    "ai_tech": 27
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0888,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     27
+    ],
+    [
+     "work_projects",
+     26
+    ],
+    [
+     "food",
+     8
+    ]
+   ]
+  },
+  "benja": {
+   "tier": "tier2_core",
+   "total_text_msgs": 470,
+   "topic_counts": {
+    "money_finance": 10,
+    "work_projects": 1,
+    "kink_bdsm": 8,
+    "music_art": 3,
+    "social_events": 3,
+    "ai_tech": 3,
+    "school_study": 1,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0213,
+   "top_3_topics": [
+    [
+     "money_finance",
+     10
+    ],
+    [
+     "kink_bdsm",
+     8
+    ],
+    [
+     "music_art",
+     3
+    ]
+   ]
+  },
+  "Lucas_Germán": {
+   "tier": "tier2_core",
+   "total_text_msgs": 301,
+   "topic_counts": {
+    "ai_tech": 1,
+    "money_finance": 3,
+    "exercise_gym": 1,
+    "intimacy_romance": 2,
+    "kink_bdsm": 3,
+    "social_events": 1,
+    "family": 1
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.01,
+   "top_3_topics": [
+    [
+     "money_finance",
+     3
+    ],
+    [
+     "kink_bdsm",
+     3
+    ],
+    [
+     "intimacy_romance",
+     2
+    ]
+   ]
+  },
+  "Maga": {
+   "tier": "tier2_core",
+   "total_text_msgs": 653,
+   "topic_counts": {
+    "kink_bdsm": 9,
+    "kink_kinky": 2,
+    "social_events": 5,
+    "intimacy_romance": 2,
+    "work_projects": 2,
+    "music_art": 1,
+    "food": 5,
+    "dental_clinic": 1,
+    "family": 3
+   },
+   "primary_topic": "kink_bdsm",
+   "primary_density": 0.0138,
+   "top_3_topics": [
+    [
+     "kink_bdsm",
+     9
+    ],
+    [
+     "social_events",
+     5
+    ],
+    [
+     "food",
+     5
+    ]
+   ]
+  },
+  "Magali_Dealer": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1197,
+   "topic_counts": {
+    "money_finance": 10,
+    "exercise_gym": 1,
+    "intimacy_romance": 8,
+    "food": 3,
+    "work_projects": 2,
+    "school_study": 4,
+    "kink_kinky": 1
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0084,
+   "top_3_topics": [
+    [
+     "money_finance",
+     10
+    ],
+    [
+     "intimacy_romance",
+     8
+    ],
+    [
+     "school_study",
+     4
+    ]
+   ]
+  },
+  "lucia_diaz____wa_chat_595991549029_1956": {
+   "tier": "tier2_core",
+   "total_text_msgs": 4642,
+   "topic_counts": {
+    "exercise_gym": 6,
+    "money_finance": 4,
+    "intimacy_romance": 49,
+    "work_projects": 46,
+    "school_study": 17,
+    "food": 60,
+    "ai_tech": 20,
+    "kink_kinky": 24,
+    "family": 26,
+    "music_art": 4,
+    "social_events": 10,
+    "kink_bdsm": 13,
+    "psychology_therapy": 3,
+    "dental_clinic": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0129,
+   "top_3_topics": [
+    [
+     "food",
+     60
+    ],
+    [
+     "intimacy_romance",
+     49
+    ],
+    [
+     "work_projects",
+     46
+    ]
+   ]
+  },
+  "Anna_Rodas_van_der_Pol": {
+   "tier": "tier2_core",
+   "total_text_msgs": 387,
+   "topic_counts": {
+    "intimacy_romance": 6,
+    "food": 1,
+    "social_events": 1,
+    "ai_tech": 3,
+    "work_projects": 2,
+    "money_finance": 3,
+    "kink_kinky": 1,
+    "kink_bdsm": 3,
+    "family": 1
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.0155,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     6
+    ],
+    [
+     "ai_tech",
+     3
+    ],
+    [
+     "money_finance",
+     3
+    ]
+   ]
+  },
+  "Alexander_van_der_Pol": {
+   "tier": "tier2_core",
+   "total_text_msgs": 104,
+   "topic_counts": {
+    "food": 6,
+    "school_study": 1,
+    "family": 5,
+    "social_events": 1,
+    "work_projects": 3,
+    "money_finance": 1,
+    "ai_tech": 2
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0577,
+   "top_3_topics": [
+    [
+     "food",
+     6
+    ],
+    [
+     "family",
+     5
+    ],
+    [
+     "work_projects",
+     3
+    ]
+   ]
+  },
+  "Sebastián_Aguilera": {
+   "tier": "tier2_core",
+   "total_text_msgs": 214,
+   "topic_counts": {
+    "money_finance": 2,
+    "exercise_gym": 2,
+    "school_study": 23,
+    "work_projects": 8,
+    "intimacy_romance": 1,
+    "ai_tech": 1,
+    "kink_bdsm": 2,
+    "social_events": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.1075,
+   "top_3_topics": [
+    [
+     "school_study",
+     23
+    ],
+    [
+     "work_projects",
+     8
+    ],
+    [
+     "money_finance",
+     2
+    ]
+   ]
+  },
+  "Lazzerini_Pizzs": {
+   "tier": "tier2_core",
+   "total_text_msgs": 313,
+   "topic_counts": {
+    "food": 26,
+    "social_events": 1,
+    "money_finance": 2,
+    "ai_tech": 1,
+    "school_study": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0831,
+   "top_3_topics": [
+    [
+     "food",
+     26
+    ],
+    [
+     "money_finance",
+     2
+    ],
+    [
+     "social_events",
+     1
+    ]
+   ]
+  },
+  "adri____wa_chat_595985249907_9628": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1995,
+   "topic_counts": {
+    "food": 31,
+    "ai_tech": 10,
+    "money_finance": 9,
+    "intimacy_romance": 17,
+    "family": 18,
+    "social_events": 10,
+    "school_study": 6,
+    "kink_kinky": 14,
+    "work_projects": 17,
+    "music_art": 12,
+    "psychology_therapy": 4,
+    "exercise_gym": 7,
+    "kink_bdsm": 6
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0155,
+   "top_3_topics": [
+    [
+     "food",
+     31
+    ],
+    [
+     "family",
+     18
+    ],
+    [
+     "intimacy_romance",
+     17
+    ]
+   ]
+  },
+  "Eros_Dios_Del_Sexo": {
+   "tier": "tier2_core",
+   "total_text_msgs": 412,
+   "topic_counts": {
+    "school_study": 1,
+    "kink_bdsm": 3,
+    "intimacy_romance": 2,
+    "social_events": 2,
+    "exercise_gym": 2,
+    "food": 2
+   },
+   "primary_topic": "kink_bdsm",
+   "primary_density": 0.0073,
+   "top_3_topics": [
+    [
+     "kink_bdsm",
+     3
+    ],
+    [
+     "intimacy_romance",
+     2
+    ],
+    [
+     "social_events",
+     2
+    ]
+   ]
+  },
+  "emilio_poli____wa_chat_595981925772_1253": {
+   "tier": "tier2_core",
+   "total_text_msgs": 3863,
+   "topic_counts": {
+    "music_art": 8,
+    "social_events": 11,
+    "work_projects": 94,
+    "ai_tech": 116,
+    "intimacy_romance": 15,
+    "exercise_gym": 9,
+    "money_finance": 14,
+    "family": 9,
+    "kink_kinky": 4,
+    "school_study": 18,
+    "food": 38,
+    "dental_clinic": 2,
+    "kink_bdsm": 6,
+    "psychology_therapy": 6
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.03,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     116
+    ],
+    [
+     "work_projects",
+     94
+    ],
+    [
+     "food",
+     38
+    ]
+   ]
+  },
+  "uncle_antonio_toni_lopez_weiss___wa_chat_15055778339_2872": {
+   "tier": "tier2_core",
+   "total_text_msgs": 485,
+   "topic_counts": {
+    "school_study": 8,
+    "ai_tech": 38,
+    "work_projects": 12,
+    "music_art": 17,
+    "psychology_therapy": 2,
+    "kink_bdsm": 22,
+    "social_events": 2,
+    "intimacy_romance": 7,
+    "dental_clinic": 1,
+    "family": 3,
+    "food": 1,
+    "money_finance": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0784,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     38
+    ],
+    [
+     "kink_bdsm",
+     22
+    ],
+    [
+     "music_art",
+     17
+    ]
+   ]
+  },
+  "maia____wa_chat_595994341668_1955": {
+   "tier": "tier2_core",
+   "total_text_msgs": 1572,
+   "topic_counts": {
+    "money_finance": 9,
+    "exercise_gym": 7,
+    "kink_kinky": 3,
+    "social_events": 5,
+    "food": 20,
+    "work_projects": 19,
+    "school_study": 13,
+    "intimacy_romance": 6,
+    "music_art": 1,
+    "kink_bdsm": 2,
+    "ai_tech": 8
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0127,
+   "top_3_topics": [
+    [
+     "food",
+     20
+    ],
+    [
+     "work_projects",
+     19
+    ],
+    [
+     "school_study",
+     13
+    ]
+   ]
+  },
+  "16__friend_alvaro___wa_chat_595962291837_9625": {
+   "tier": "tier2_core",
+   "total_text_msgs": 3431,
+   "topic_counts": {
+    "social_events": 16,
+    "kink_kinky": 10,
+    "kink_bdsm": 14,
+    "intimacy_romance": 32,
+    "money_finance": 16,
+    "food": 23,
+    "school_study": 9,
+    "music_art": 8,
+    "family": 38,
+    "work_projects": 13,
+    "ai_tech": 3,
+    "psychology_therapy": 6,
+    "dental_clinic": 2,
+    "exercise_gym": 2
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0111,
+   "top_3_topics": [
+    [
+     "family",
+     38
+    ],
+    [
+     "intimacy_romance",
+     32
+    ],
+    [
+     "food",
+     23
+    ]
+   ]
+  },
+  "Alejandra": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 156,
+   "topic_counts": {
+    "intimacy_romance": 1,
+    "school_study": 4,
+    "ai_tech": 2
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0256,
+   "top_3_topics": [
+    [
+     "school_study",
+     4
+    ],
+    [
+     "ai_tech",
+     2
+    ],
+    [
+     "intimacy_romance",
+     1
+    ]
+   ]
+  },
+  "063__p1732___wa_chat_595985951732_1722": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 601,
+   "topic_counts": {
+    "school_study": 7,
+    "food": 2,
+    "exercise_gym": 4,
+    "intimacy_romance": 2,
+    "work_projects": 2,
+    "social_events": 1,
+    "ai_tech": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0116,
+   "top_3_topics": [
+    [
+     "school_study",
+     7
+    ],
+    [
+     "exercise_gym",
+     4
+    ],
+    [
+     "food",
+     2
+    ]
+   ]
+  },
+  "075__p0258___wa_chat_595983240258_3008": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 346,
+   "topic_counts": {
+    "social_events": 2,
+    "kink_kinky": 2,
+    "money_finance": 1,
+    "intimacy_romance": 4,
+    "school_study": 2,
+    "work_projects": 2,
+    "exercise_gym": 1
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.0116,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     4
+    ],
+    [
+     "social_events",
+     2
+    ],
+    [
+     "kink_kinky",
+     2
+    ]
+   ]
+  },
+  "071__gerardo_ramos___wa_chat_595982783951_6901": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 120,
+   "topic_counts": {
+    "school_study": 3,
+    "food": 1,
+    "kink_kinky": 1,
+    "work_projects": 7,
+    "ai_tech": 21
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.175,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     21
+    ],
+    [
+     "work_projects",
+     7
+    ],
+    [
+     "school_study",
+     3
+    ]
+   ]
+  },
+  "084__p6193___wa_chat_595991506193_3099": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 215,
+   "topic_counts": {
+    "work_projects": 1,
+    "food": 6,
+    "money_finance": 5,
+    "family": 1,
+    "school_study": 3,
+    "social_events": 1,
+    "ai_tech": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0279,
+   "top_3_topics": [
+    [
+     "food",
+     6
+    ],
+    [
+     "money_finance",
+     5
+    ],
+    [
+     "school_study",
+     3
+    ]
+   ]
+  },
+  "070__p9265___wa_chat_595976409265_2838": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 302,
+   "topic_counts": {
+    "family": 11,
+    "kink_bdsm": 2,
+    "work_projects": 1,
+    "food": 2,
+    "social_events": 2,
+    "money_finance": 2,
+    "intimacy_romance": 1,
+    "kink_kinky": 1,
+    "music_art": 1
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0364,
+   "top_3_topics": [
+    [
+     "family",
+     11
+    ],
+    [
+     "kink_bdsm",
+     2
+    ],
+    [
+     "food",
+     2
+    ]
+   ]
+  },
+  "067__p7353___wa_chat_595973757353_1731": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 778,
+   "topic_counts": {
+    "family": 3,
+    "work_projects": 10,
+    "exercise_gym": 17,
+    "money_finance": 2,
+    "food": 8,
+    "social_events": 2,
+    "psychology_therapy": 1,
+    "kink_kinky": 1,
+    "school_study": 3,
+    "ai_tech": 6,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "exercise_gym",
+   "primary_density": 0.0219,
+   "top_3_topics": [
+    [
+     "exercise_gym",
+     17
+    ],
+    [
+     "work_projects",
+     10
+    ],
+    [
+     "food",
+     8
+    ]
+   ]
+  },
+  "hugo_mentormate___wa_chat_595981656962_3522": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 169,
+   "topic_counts": {
+    "school_study": 3,
+    "social_events": 2,
+    "intimacy_romance": 2,
+    "ai_tech": 4,
+    "music_art": 1,
+    "work_projects": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0237,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     4
+    ],
+    [
+     "school_study",
+     3
+    ],
+    [
+     "social_events",
+     2
+    ]
+   ]
+  },
+  "057__p3241___wa_chat_595982223241_11521": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 627,
+   "topic_counts": {
+    "social_events": 1,
+    "kink_kinky": 8,
+    "school_study": 4,
+    "work_projects": 1,
+    "music_art": 5,
+    "psychology_therapy": 2,
+    "family": 9,
+    "ai_tech": 3,
+    "money_finance": 2,
+    "kink_bdsm": 8
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0144,
+   "top_3_topics": [
+    [
+     "family",
+     9
+    ],
+    [
+     "kink_kinky",
+     8
+    ],
+    [
+     "kink_bdsm",
+     8
+    ]
+   ]
+  },
+  "mario_gueyraud____wa_chat_595991705424_1202": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 657,
+   "topic_counts": {
+    "music_art": 1,
+    "exercise_gym": 4,
+    "work_projects": 12,
+    "school_study": 10,
+    "intimacy_romance": 1,
+    "social_events": 3,
+    "ai_tech": 1,
+    "money_finance": 4
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0183,
+   "top_3_topics": [
+    [
+     "work_projects",
+     12
+    ],
+    [
+     "school_study",
+     10
+    ],
+    [
+     "exercise_gym",
+     4
+    ]
+   ]
+  },
+  "piter_lesme_poli____wa_chat_595972835716_1244": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 558,
+   "topic_counts": {
+    "social_events": 2,
+    "exercise_gym": 12,
+    "family": 3,
+    "school_study": 3,
+    "psychology_therapy": 1,
+    "kink_kinky": 1,
+    "food": 5,
+    "work_projects": 4,
+    "money_finance": 2
+   },
+   "primary_topic": "exercise_gym",
+   "primary_density": 0.0215,
+   "top_3_topics": [
+    [
+     "exercise_gym",
+     12
+    ],
+    [
+     "food",
+     5
+    ],
+    [
+     "work_projects",
+     4
+    ]
+   ]
+  },
+  "Gibir_Banco_De_Semen": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 103,
+   "topic_counts": {
+    "social_events": 1,
+    "money_finance": 7,
+    "work_projects": 2
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.068,
+   "top_3_topics": [
+    [
+     "money_finance",
+     7
+    ],
+    [
+     "work_projects",
+     2
+    ],
+    [
+     "social_events",
+     1
+    ]
+   ]
+  },
+  "078__p9447___wa_chat_595981459447_11190": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 144,
+   "topic_counts": {
+    "work_projects": 2,
+    "money_finance": 9,
+    "family": 1,
+    "school_study": 1
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0625,
+   "top_3_topics": [
+    [
+     "money_finance",
+     9
+    ],
+    [
+     "work_projects",
+     2
+    ],
+    [
+     "family",
+     1
+    ]
+   ]
+  },
+  "099__p9143___wa_chat_595984689143_4130": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 125,
+   "topic_counts": {
+    "school_study": 3,
+    "work_projects": 5,
+    "ai_tech": 1,
+    "kink_bdsm": 1,
+    "kink_kinky": 1,
+    "social_events": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.04,
+   "top_3_topics": [
+    [
+     "work_projects",
+     5
+    ],
+    [
+     "school_study",
+     3
+    ],
+    [
+     "ai_tech",
+     1
+    ]
+   ]
+  },
+  "097__lid_854912___wa_lid_118262125854912_15538": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 3867,
+   "topic_counts": {
+    "ai_tech": 63,
+    "intimacy_romance": 62,
+    "school_study": 21,
+    "dental_clinic": 184,
+    "work_projects": 61,
+    "exercise_gym": 15,
+    "money_finance": 14,
+    "social_events": 11,
+    "family": 49,
+    "kink_kinky": 39,
+    "food": 46,
+    "music_art": 7,
+    "kink_bdsm": 53,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "dental_clinic",
+   "primary_density": 0.0476,
+   "top_3_topics": [
+    [
+     "dental_clinic",
+     184
+    ],
+    [
+     "ai_tech",
+     63
+    ],
+    [
+     "intimacy_romance",
+     62
+    ]
+   ]
+  },
+  "059__álvaro_claro___wa_chat_595994442444_9596": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 308,
+   "topic_counts": {
+    "intimacy_romance": 2,
+    "family": 4,
+    "food": 4,
+    "work_projects": 6,
+    "exercise_gym": 2
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0195,
+   "top_3_topics": [
+    [
+     "work_projects",
+     6
+    ],
+    [
+     "family",
+     4
+    ],
+    [
+     "food",
+     4
+    ]
+   ]
+  },
+  "053__p3709___wa_chat_31634463709_11777": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 665,
+   "topic_counts": {
+    "food": 2,
+    "family": 13,
+    "ai_tech": 3,
+    "intimacy_romance": 1,
+    "money_finance": 1,
+    "kink_kinky": 1,
+    "psychology_therapy": 1,
+    "kink_bdsm": 2,
+    "music_art": 3,
+    "work_projects": 4,
+    "school_study": 1
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0195,
+   "top_3_topics": [
+    [
+     "family",
+     13
+    ],
+    [
+     "work_projects",
+     4
+    ],
+    [
+     "ai_tech",
+     3
+    ]
+   ]
+  },
+  "Cliente_3d_Óscar_Rafa": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 363,
+   "topic_counts": {
+    "school_study": 3,
+    "ai_tech": 5,
+    "work_projects": 22,
+    "kink_bdsm": 2,
+    "money_finance": 8
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0606,
+   "top_3_topics": [
+    [
+     "work_projects",
+     22
+    ],
+    [
+     "money_finance",
+     8
+    ],
+    [
+     "ai_tech",
+     5
+    ]
+   ]
+  },
+  "093__p2272___wa_chat_595981262272_1550": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 161,
+   "topic_counts": {
+    "school_study": 4,
+    "dental_clinic": 2,
+    "work_projects": 2
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0248,
+   "top_3_topics": [
+    [
+     "school_study",
+     4
+    ],
+    [
+     "dental_clinic",
+     2
+    ],
+    [
+     "work_projects",
+     2
+    ]
+   ]
+  },
+  "085__p5157___wa_chat_595981725157_11979": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 142,
+   "topic_counts": {
+    "exercise_gym": 2,
+    "work_projects": 4,
+    "intimacy_romance": 2,
+    "kink_kinky": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0282,
+   "top_3_topics": [
+    [
+     "work_projects",
+     4
+    ],
+    [
+     "exercise_gym",
+     2
+    ],
+    [
+     "intimacy_romance",
+     2
+    ]
+   ]
+  },
+  "073__paloma___wa_chat_59899144505_2396": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 205,
+   "topic_counts": {
+    "food": 4,
+    "work_projects": 7,
+    "kink_kinky": 2,
+    "money_finance": 1,
+    "school_study": 1,
+    "social_events": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0341,
+   "top_3_topics": [
+    [
+     "work_projects",
+     7
+    ],
+    [
+     "food",
+     4
+    ],
+    [
+     "kink_kinky",
+     2
+    ]
+   ]
+  },
+  "Primo_Gabriel": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 116,
+   "topic_counts": {
+    "social_events": 1,
+    "work_projects": 1,
+    "money_finance": 4,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0345,
+   "top_3_topics": [
+    [
+     "money_finance",
+     4
+    ],
+    [
+     "social_events",
+     1
+    ],
+    [
+     "work_projects",
+     1
+    ]
+   ]
+  },
+  "051__p5809___wa_chat_595985435809_11371": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 826,
+   "topic_counts": {
+    "family": 17,
+    "intimacy_romance": 4,
+    "music_art": 2,
+    "work_projects": 10,
+    "food": 13,
+    "school_study": 2,
+    "exercise_gym": 2,
+    "psychology_therapy": 1,
+    "kink_kinky": 2,
+    "kink_bdsm": 3
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0206,
+   "top_3_topics": [
+    [
+     "family",
+     17
+    ],
+    [
+     "food",
+     13
+    ],
+    [
+     "work_projects",
+     10
+    ]
+   ]
+  },
+  "Foneca": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 108,
+   "topic_counts": {
+    "school_study": 7,
+    "kink_kinky": 2,
+    "social_events": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0648,
+   "top_3_topics": [
+    [
+     "school_study",
+     7
+    ],
+    [
+     "kink_kinky",
+     2
+    ],
+    [
+     "social_events",
+     1
+    ]
+   ]
+  },
+  "Alexander_Cañete": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 175,
+   "topic_counts": {
+    "work_projects": 2,
+    "food": 2,
+    "money_finance": 1,
+    "school_study": 2,
+    "social_events": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0114,
+   "top_3_topics": [
+    [
+     "work_projects",
+     2
+    ],
+    [
+     "food",
+     2
+    ],
+    [
+     "school_study",
+     2
+    ]
+   ]
+  },
+  "081__p7370___wa_chat_595983727370_1926": {
+   "tier": "tier3_extended",
+   "total_text_msgs": 451,
+   "topic_counts": {
+    "intimacy_romance": 5,
+    "work_projects": 13,
+    "food": 18,
+    "kink_kinky": 2,
+    "exercise_gym": 2,
+    "school_study": 17,
+    "family": 1,
+    "social_events": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0399,
+   "top_3_topics": [
+    [
+     "food",
+     18
+    ],
+    [
+     "school_study",
+     17
+    ],
+    [
+     "work_projects",
+     13
+    ]
+   ]
+  },
+  "Stoic_Finch_-_Latam": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 11231,
+   "topic_counts": {
+    "social_events": 27,
+    "school_study": 64,
+    "money_finance": 224,
+    "exercise_gym": 37,
+    "work_projects": 53,
+    "kink_kinky": 5,
+    "food": 81,
+    "ai_tech": 37,
+    "family": 11,
+    "intimacy_romance": 18,
+    "music_art": 11,
+    "psychology_therapy": 4,
+    "dental_clinic": 1
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0199,
+   "top_3_topics": [
+    [
+     "money_finance",
+     224
+    ],
+    [
+     "food",
+     81
+    ],
+    [
+     "school_study",
+     64
+    ]
+   ]
+  },
+  "Iin_-_Fpuna_-_Gral": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 667,
+   "topic_counts": {
+    "work_projects": 23,
+    "money_finance": 3,
+    "social_events": 5,
+    "school_study": 12,
+    "ai_tech": 10,
+    "food": 2,
+    "family": 1,
+    "music_art": 1,
+    "kink_kinky": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0345,
+   "top_3_topics": [
+    [
+     "work_projects",
+     23
+    ],
+    [
+     "school_study",
+     12
+    ],
+    [
+     "ai_tech",
+     10
+    ]
+   ]
+  },
+  "Group_Geodata": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 564,
+   "topic_counts": {
+    "ai_tech": 75,
+    "work_projects": 49,
+    "money_finance": 1,
+    "school_study": 29,
+    "kink_kinky": 1,
+    "exercise_gym": 1,
+    "music_art": 4,
+    "kink_bdsm": 15
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.133,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     75
+    ],
+    [
+     "work_projects",
+     49
+    ],
+    [
+     "school_study",
+     29
+    ]
+   ]
+  },
+  "Pasen_Las_Fotos": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 27876,
+   "topic_counts": {
+    "family": 49,
+    "exercise_gym": 54,
+    "intimacy_romance": 73,
+    "school_study": 288,
+    "food": 259,
+    "money_finance": 29,
+    "music_art": 15,
+    "social_events": 94,
+    "kink_kinky": 24,
+    "work_projects": 88,
+    "psychology_therapy": 29,
+    "kink_bdsm": 7,
+    "ai_tech": 39
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0103,
+   "top_3_topics": [
+    [
+     "school_study",
+     288
+    ],
+    [
+     "food",
+     259
+    ],
+    [
+     "social_events",
+     94
+    ]
+   ]
+  },
+  "Amigos_De_Las_Locuras_Swinger": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 15497,
+   "topic_counts": {
+    "intimacy_romance": 698,
+    "kink_kinky": 17,
+    "social_events": 34,
+    "family": 27,
+    "work_projects": 13,
+    "ai_tech": 26,
+    "food": 75,
+    "money_finance": 6,
+    "school_study": 15,
+    "music_art": 6,
+    "kink_bdsm": 1,
+    "dental_clinic": 1
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.045,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     698
+    ],
+    [
+     "food",
+     75
+    ],
+    [
+     "social_events",
+     34
+    ]
+   ]
+  },
+  "Good_Omens_Py": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 777,
+   "topic_counts": {
+    "kink_kinky": 4,
+    "intimacy_romance": 10,
+    "school_study": 25,
+    "exercise_gym": 1,
+    "food": 6,
+    "psychology_therapy": 1,
+    "kink_bdsm": 1,
+    "money_finance": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0322,
+   "top_3_topics": [
+    [
+     "school_study",
+     25
+    ],
+    [
+     "intimacy_romance",
+     10
+    ],
+    [
+     "food",
+     6
+    ]
+   ]
+  },
+  "Group_Baby_Shower_02": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 165,
+   "topic_counts": {
+    "school_study": 3,
+    "social_events": 8,
+    "food": 1,
+    "money_finance": 2,
+    "kink_kinky": 1,
+    "exercise_gym": 1
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0485,
+   "top_3_topics": [
+    [
+     "social_events",
+     8
+    ],
+    [
+     "school_study",
+     3
+    ],
+    [
+     "money_finance",
+     2
+    ]
+   ]
+  },
+  "Group_Compiladores_Sin_Profe": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 287,
+   "topic_counts": {
+    "school_study": 14,
+    "exercise_gym": 7,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0488,
+   "top_3_topics": [
+    [
+     "school_study",
+     14
+    ],
+    [
+     "exercise_gym",
+     7
+    ],
+    [
+     "intimacy_romance",
+     1
+    ]
+   ]
+  },
+  "Grupo_De_Pizza_Gratis": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1210,
+   "topic_counts": {
+    "school_study": 21,
+    "intimacy_romance": 2,
+    "exercise_gym": 1,
+    "kink_kinky": 5,
+    "food": 8,
+    "work_projects": 4,
+    "money_finance": 3,
+    "social_events": 2,
+    "ai_tech": 5
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0174,
+   "top_3_topics": [
+    [
+     "school_study",
+     21
+    ],
+    [
+     "food",
+     8
+    ],
+    [
+     "kink_kinky",
+     5
+    ]
+   ]
+  },
+  "Jojo_Gym": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1482,
+   "topic_counts": {
+    "exercise_gym": 66,
+    "work_projects": 5,
+    "school_study": 8,
+    "food": 13,
+    "intimacy_romance": 2,
+    "social_events": 5,
+    "family": 4,
+    "money_finance": 1,
+    "kink_kinky": 2
+   },
+   "primary_topic": "exercise_gym",
+   "primary_density": 0.0445,
+   "top_3_topics": [
+    [
+     "exercise_gym",
+     66
+    ],
+    [
+     "food",
+     13
+    ],
+    [
+     "school_study",
+     8
+    ]
+   ]
+  },
+  "Group_Ieeextreme_-_Interesados_Una": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 367,
+   "topic_counts": {
+    "school_study": 8,
+    "social_events": 3,
+    "food": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0218,
+   "top_3_topics": [
+    [
+     "school_study",
+     8
+    ],
+    [
+     "social_events",
+     3
+    ],
+    [
+     "food",
+     1
+    ]
+   ]
+  },
+  "Group_The_Story_Begins": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 551,
+   "topic_counts": {
+    "ai_tech": 117,
+    "work_projects": 11,
+    "money_finance": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.2123,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     117
+    ],
+    [
+     "work_projects",
+     11
+    ],
+    [
+     "money_finance",
+     1
+    ]
+   ]
+  },
+  "Primos_Weiss": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1887,
+   "topic_counts": {
+    "kink_kinky": 7,
+    "social_events": 8,
+    "school_study": 5,
+    "family": 33,
+    "intimacy_romance": 9,
+    "work_projects": 7,
+    "money_finance": 12,
+    "exercise_gym": 1,
+    "food": 20,
+    "ai_tech": 1,
+    "psychology_therapy": 4,
+    "kink_bdsm": 4,
+    "music_art": 4
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0175,
+   "top_3_topics": [
+    [
+     "family",
+     33
+    ],
+    [
+     "food",
+     20
+    ],
+    [
+     "money_finance",
+     12
+    ]
+   ]
+  },
+  "Iin_Fpuna_019": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 31396,
+   "topic_counts": {
+    "school_study": 817,
+    "exercise_gym": 85,
+    "intimacy_romance": 51,
+    "family": 24,
+    "social_events": 366,
+    "money_finance": 82,
+    "work_projects": 114,
+    "food": 45,
+    "kink_kinky": 28,
+    "psychology_therapy": 6,
+    "kink_bdsm": 6,
+    "music_art": 7,
+    "ai_tech": 23
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.026,
+   "top_3_topics": [
+    [
+     "school_study",
+     817
+    ],
+    [
+     "social_events",
+     366
+    ],
+    [
+     "work_projects",
+     114
+    ]
+   ]
+  },
+  "Group_Superspuma": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 253,
+   "topic_counts": {
+    "ai_tech": 169,
+    "work_projects": 95,
+    "kink_bdsm": 17,
+    "school_study": 14,
+    "music_art": 2,
+    "intimacy_romance": 7,
+    "money_finance": 14,
+    "dental_clinic": 4,
+    "family": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.668,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     169
+    ],
+    [
+     "work_projects",
+     95
+    ],
+    [
+     "kink_bdsm",
+     17
+    ]
+   ]
+  },
+  "Group_Gallinas_Oviedo": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 169,
+   "topic_counts": {
+    "kink_bdsm": 1,
+    "ai_tech": 145,
+    "food": 3,
+    "money_finance": 7,
+    "work_projects": 30,
+    "exercise_gym": 1,
+    "school_study": 6
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.858,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     145
+    ],
+    [
+     "work_projects",
+     30
+    ],
+    [
+     "money_finance",
+     7
+    ]
+   ]
+  },
+  "Group_Nyx_Consultancy": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 147,
+   "topic_counts": {
+    "work_projects": 3,
+    "family": 7,
+    "intimacy_romance": 23,
+    "kink_bdsm": 8,
+    "music_art": 1,
+    "psychology_therapy": 5,
+    "social_events": 12,
+    "school_study": 7,
+    "food": 3,
+    "kink_kinky": 1,
+    "ai_tech": 3
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.1565,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     23
+    ],
+    [
+     "social_events",
+     12
+    ],
+    [
+     "kink_bdsm",
+     8
+    ]
+   ]
+  },
+  "Group_Ia_Grupo_De_Trabajo": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 444,
+   "topic_counts": {
+    "school_study": 14,
+    "work_projects": 8,
+    "intimacy_romance": 1,
+    "social_events": 1,
+    "ai_tech": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0315,
+   "top_3_topics": [
+    [
+     "school_study",
+     14
+    ],
+    [
+     "work_projects",
+     8
+    ],
+    [
+     "intimacy_romance",
+     1
+    ]
+   ]
+  },
+  "Saquenme_De_Latinoamerica": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 2128,
+   "topic_counts": {
+    "school_study": 32,
+    "ai_tech": 1,
+    "food": 2,
+    "work_projects": 2,
+    "money_finance": 1,
+    "family": 1,
+    "intimacy_romance": 2,
+    "social_events": 7,
+    "psychology_therapy": 1,
+    "music_art": 1,
+    "exercise_gym": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.015,
+   "top_3_topics": [
+    [
+     "school_study",
+     32
+    ],
+    [
+     "social_events",
+     7
+    ],
+    [
+     "food",
+     2
+    ]
+   ]
+  },
+  "Group_Mentees_Minieeextreme": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 153,
+   "topic_counts": {
+    "work_projects": 1,
+    "social_events": 9,
+    "school_study": 3
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0588,
+   "top_3_topics": [
+    [
+     "social_events",
+     9
+    ],
+    [
+     "school_study",
+     3
+    ],
+    [
+     "work_projects",
+     1
+    ]
+   ]
+  },
+  "Iin_Fpuna_2015-2021": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 11048,
+   "topic_counts": {
+    "school_study": 426,
+    "work_projects": 58,
+    "food": 26,
+    "ai_tech": 34,
+    "social_events": 33,
+    "money_finance": 42,
+    "intimacy_romance": 28,
+    "kink_kinky": 8,
+    "family": 9,
+    "exercise_gym": 15,
+    "kink_bdsm": 5,
+    "music_art": 2,
+    "psychology_therapy": 3
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0386,
+   "top_3_topics": [
+    [
+     "school_study",
+     426
+    ],
+    [
+     "work_projects",
+     58
+    ],
+    [
+     "money_finance",
+     42
+    ]
+   ]
+  },
+  "Ml_2023-1": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1279,
+   "topic_counts": {
+    "school_study": 75,
+    "social_events": 2,
+    "work_projects": 6,
+    "ai_tech": 6
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0586,
+   "top_3_topics": [
+    [
+     "school_study",
+     75
+    ],
+    [
+     "work_projects",
+     6
+    ],
+    [
+     "ai_tech",
+     6
+    ]
+   ]
+  },
+  "Group_Forest_Park": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 425,
+   "topic_counts": {
+    "ai_tech": 113,
+    "family": 14,
+    "work_projects": 39,
+    "money_finance": 3,
+    "school_study": 11,
+    "social_events": 2,
+    "kink_bdsm": 10,
+    "dental_clinic": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.2659,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     113
+    ],
+    [
+     "work_projects",
+     39
+    ],
+    [
+     "family",
+     14
+    ]
+   ]
+  },
+  "Group_Agenda": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 320,
+   "topic_counts": {
+    "exercise_gym": 1,
+    "money_finance": 15,
+    "kink_bdsm": 5,
+    "intimacy_romance": 7,
+    "work_projects": 9,
+    "social_events": 2,
+    "music_art": 4,
+    "school_study": 11,
+    "dental_clinic": 1,
+    "food": 10,
+    "family": 2,
+    "psychology_therapy": 1,
+    "ai_tech": 7
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0469,
+   "top_3_topics": [
+    [
+     "money_finance",
+     15
+    ],
+    [
+     "school_study",
+     11
+    ],
+    [
+     "food",
+     10
+    ]
+   ]
+  },
+  "Cdr_Fp_Una": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 2950,
+   "topic_counts": {
+    "school_study": 32,
+    "work_projects": 69,
+    "food": 7,
+    "ai_tech": 91,
+    "money_finance": 1,
+    "kink_bdsm": 9,
+    "dental_clinic": 1,
+    "exercise_gym": 3,
+    "social_events": 10,
+    "kink_kinky": 1,
+    "intimacy_romance": 5,
+    "family": 1,
+    "music_art": 4
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0308,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     91
+    ],
+    [
+     "work_projects",
+     69
+    ],
+    [
+     "school_study",
+     32
+    ]
+   ]
+  },
+  "Group_Minixtreme_Program_Py": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 145,
+   "topic_counts": {
+    "social_events": 3,
+    "school_study": 2
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0207,
+   "top_3_topics": [
+    [
+     "social_events",
+     3
+    ],
+    [
+     "school_study",
+     2
+    ]
+   ]
+  },
+  "Wpg_Team": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1890,
+   "topic_counts": {
+    "family": 6,
+    "kink_kinky": 2,
+    "ai_tech": 3,
+    "money_finance": 3,
+    "work_projects": 5,
+    "food": 17,
+    "intimacy_romance": 4,
+    "school_study": 7,
+    "social_events": 12,
+    "exercise_gym": 4,
+    "psychology_therapy": 2,
+    "kink_bdsm": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.009,
+   "top_3_topics": [
+    [
+     "food",
+     17
+    ],
+    [
+     "social_events",
+     12
+    ],
+    [
+     "school_study",
+     7
+    ]
+   ]
+  },
+  "Group_Rockabar": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 142,
+   "topic_counts": {
+    "kink_bdsm": 1,
+    "ai_tech": 103,
+    "work_projects": 109,
+    "music_art": 42,
+    "food": 2,
+    "school_study": 5
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.7676,
+   "top_3_topics": [
+    [
+     "work_projects",
+     109
+    ],
+    [
+     "ai_tech",
+     103
+    ],
+    [
+     "music_art",
+     42
+    ]
+   ]
+  },
+  "Iin_Fpuna_2019_-_2025": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 8750,
+   "topic_counts": {
+    "school_study": 357,
+    "exercise_gym": 10,
+    "kink_kinky": 12,
+    "work_projects": 106,
+    "psychology_therapy": 6,
+    "intimacy_romance": 44,
+    "family": 13,
+    "food": 25,
+    "social_events": 46,
+    "money_finance": 44,
+    "kink_bdsm": 13,
+    "music_art": 4,
+    "ai_tech": 26,
+    "dental_clinic": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0408,
+   "top_3_topics": [
+    [
+     "school_study",
+     357
+    ],
+    [
+     "work_projects",
+     106
+    ],
+    [
+     "social_events",
+     46
+    ]
+   ]
+  },
+  "Group_Ejercicios_Compi": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 175,
+   "topic_counts": {
+    "exercise_gym": 4,
+    "school_study": 3
+   },
+   "primary_topic": "exercise_gym",
+   "primary_density": 0.0229,
+   "top_3_topics": [
+    [
+     "exercise_gym",
+     4
+    ],
+    [
+     "school_study",
+     3
+    ]
+   ]
+  },
+  "Group_Dayah_Litworks": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 423,
+   "topic_counts": {
+    "ai_tech": 767,
+    "work_projects": 197,
+    "school_study": 12,
+    "kink_bdsm": 2,
+    "music_art": 4,
+    "intimacy_romance": 3,
+    "money_finance": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 1.8132,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     767
+    ],
+    [
+     "work_projects",
+     197
+    ],
+    [
+     "school_study",
+     12
+    ]
+   ]
+  },
+  "Group_Bd2_Iin": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 490,
+   "topic_counts": {
+    "school_study": 33,
+    "work_projects": 2,
+    "food": 2
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0673,
+   "top_3_topics": [
+    [
+     "school_study",
+     33
+    ],
+    [
+     "work_projects",
+     2
+    ],
+    [
+     "food",
+     2
+    ]
+   ]
+  },
+  "Group_Taller_De_Introducción_Qa_Instructores": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 123,
+   "topic_counts": {
+    "school_study": 16,
+    "ai_tech": 1,
+    "intimacy_romance": 1,
+    "kink_kinky": 1,
+    "work_projects": 2,
+    "social_events": 2
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.1301,
+   "top_3_topics": [
+    [
+     "school_study",
+     16
+    ],
+    [
+     "work_projects",
+     2
+    ],
+    [
+     "social_events",
+     2
+    ]
+   ]
+  },
+  "Group_Iinformaciones_De_La_Carrera": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 783,
+   "topic_counts": {
+    "school_study": 169,
+    "work_projects": 35,
+    "social_events": 40,
+    "intimacy_romance": 4,
+    "money_finance": 3,
+    "kink_bdsm": 1,
+    "food": 7,
+    "ai_tech": 19,
+    "family": 8,
+    "exercise_gym": 2
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.2158,
+   "top_3_topics": [
+    [
+     "school_study",
+     169
+    ],
+    [
+     "social_events",
+     40
+    ],
+    [
+     "work_projects",
+     35
+    ]
+   ]
+  },
+  "Group_Bolsa_De_Trabajo_Iin": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 286,
+   "topic_counts": {
+    "work_projects": 24,
+    "dental_clinic": 2,
+    "social_events": 3,
+    "money_finance": 1,
+    "school_study": 4,
+    "ai_tech": 7,
+    "food": 2
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0839,
+   "top_3_topics": [
+    [
+     "work_projects",
+     24
+    ],
+    [
+     "ai_tech",
+     7
+    ],
+    [
+     "school_study",
+     4
+    ]
+   ]
+  },
+  "Group_Compiladores": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 148,
+   "topic_counts": {
+    "school_study": 29,
+    "money_finance": 2,
+    "work_projects": 2,
+    "exercise_gym": 1,
+    "social_events": 1,
+    "food": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.1959,
+   "top_3_topics": [
+    [
+     "school_study",
+     29
+    ],
+    [
+     "money_finance",
+     2
+    ],
+    [
+     "work_projects",
+     2
+    ]
+   ]
+  },
+  "Groep_Is3": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1023,
+   "topic_counts": {
+    "school_study": 13,
+    "work_projects": 26,
+    "social_events": 2,
+    "money_finance": 1,
+    "intimacy_romance": 1,
+    "exercise_gym": 3,
+    "food": 2,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0254,
+   "top_3_topics": [
+    [
+     "work_projects",
+     26
+    ],
+    [
+     "school_study",
+     13
+    ],
+    [
+     "exercise_gym",
+     3
+    ]
+   ]
+  },
+  "Group_Front_Sin_Profe": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 279,
+   "topic_counts": {
+    "money_finance": 1,
+    "school_study": 12
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.043,
+   "top_3_topics": [
+    [
+     "school_study",
+     12
+    ],
+    [
+     "money_finance",
+     1
+    ]
+   ]
+  },
+  "Ai_Whisperers": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 2333,
+   "topic_counts": {
+    "ai_tech": 1357,
+    "work_projects": 178,
+    "family": 35,
+    "school_study": 29,
+    "money_finance": 13,
+    "exercise_gym": 2,
+    "intimacy_romance": 8,
+    "social_events": 7,
+    "kink_bdsm": 40,
+    "kink_kinky": 2,
+    "food": 1,
+    "dental_clinic": 4,
+    "music_art": 6,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.5817,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     1357
+    ],
+    [
+     "work_projects",
+     178
+    ],
+    [
+     "kink_bdsm",
+     40
+    ]
+   ]
+  },
+  "Gcc_2023": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 578,
+   "topic_counts": {
+    "work_projects": 6,
+    "school_study": 35,
+    "kink_kinky": 1,
+    "intimacy_romance": 3,
+    "social_events": 2,
+    "food": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0606,
+   "top_3_topics": [
+    [
+     "school_study",
+     35
+    ],
+    [
+     "work_projects",
+     6
+    ],
+    [
+     "intimacy_romance",
+     3
+    ]
+   ]
+  },
+  "𝐏𝐢𝐯𝐢𝐆𝐚𝐦𝐞𝐬_𝐆𝐞𝐧𝐞𝐫𝐚𝐥": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 790,
+   "topic_counts": {
+    "exercise_gym": 3,
+    "music_art": 1,
+    "kink_bdsm": 1,
+    "school_study": 3,
+    "money_finance": 2,
+    "intimacy_romance": 1,
+    "ai_tech": 4,
+    "dental_clinic": 3,
+    "psychology_therapy": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0051,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     4
+    ],
+    [
+     "exercise_gym",
+     3
+    ],
+    [
+     "school_study",
+     3
+    ]
+   ]
+  },
+  "Give_Back_Program_-_Cpk": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 822,
+   "topic_counts": {
+    "social_events": 33,
+    "intimacy_romance": 23,
+    "work_projects": 15,
+    "food": 7,
+    "school_study": 18,
+    "money_finance": 7,
+    "music_art": 3,
+    "dental_clinic": 1,
+    "kink_kinky": 2
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0401,
+   "top_3_topics": [
+    [
+     "social_events",
+     33
+    ],
+    [
+     "intimacy_romance",
+     23
+    ],
+    [
+     "school_study",
+     18
+    ]
+   ]
+  },
+  "Group_Nico": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 432,
+   "topic_counts": {
+    "ai_tech": 393,
+    "work_projects": 67,
+    "music_art": 1,
+    "school_study": 1,
+    "kink_bdsm": 12
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.9097,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     393
+    ],
+    [
+     "work_projects",
+     67
+    ],
+    [
+     "kink_bdsm",
+     12
+    ]
+   ]
+  },
+  "Shitpoliposting": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 6841,
+   "topic_counts": {
+    "ai_tech": 57,
+    "intimacy_romance": 31,
+    "kink_bdsm": 6,
+    "family": 20,
+    "school_study": 173,
+    "kink_kinky": 7,
+    "money_finance": 29,
+    "work_projects": 48,
+    "social_events": 12,
+    "music_art": 10,
+    "food": 39,
+    "psychology_therapy": 5,
+    "exercise_gym": 3,
+    "dental_clinic": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0253,
+   "top_3_topics": [
+    [
+     "school_study",
+     173
+    ],
+    [
+     "ai_tech",
+     57
+    ],
+    [
+     "work_projects",
+     48
+    ]
+   ]
+  },
+  "El_Viajero": {
+   "tier": "other_lid",
+   "total_text_msgs": 192,
+   "topic_counts": {
+    "ai_tech": 22,
+    "work_projects": 18,
+    "school_study": 1,
+    "family": 3,
+    "social_events": 1,
+    "intimacy_romance": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.1146,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     22
+    ],
+    [
+     "work_projects",
+     18
+    ],
+    [
+     "family",
+     3
+    ]
+   ]
+  },
+  "Group_Oz": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 103,
+   "topic_counts": {
+    "ai_tech": 77,
+    "work_projects": 17,
+    "music_art": 4,
+    "money_finance": 1,
+    "kink_kinky": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.7476,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     77
+    ],
+    [
+     "work_projects",
+     17
+    ],
+    [
+     "music_art",
+     4
+    ]
+   ]
+  },
+  "Funhouse": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1490,
+   "topic_counts": {
+    "kink_kinky": 16,
+    "family": 7,
+    "food": 23,
+    "social_events": 12,
+    "kink_bdsm": 10,
+    "ai_tech": 4,
+    "psychology_therapy": 2,
+    "work_projects": 6,
+    "school_study": 8,
+    "money_finance": 9,
+    "music_art": 2,
+    "intimacy_romance": 7,
+    "exercise_gym": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0154,
+   "top_3_topics": [
+    [
+     "food",
+     23
+    ],
+    [
+     "kink_kinky",
+     16
+    ],
+    [
+     "social_events",
+     12
+    ]
+   ]
+  },
+  "Group_Emergentes": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 376,
+   "topic_counts": {
+    "school_study": 37,
+    "work_projects": 5,
+    "psychology_therapy": 2,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0984,
+   "top_3_topics": [
+    [
+     "school_study",
+     37
+    ],
+    [
+     "work_projects",
+     5
+    ],
+    [
+     "psychology_therapy",
+     2
+    ]
+   ]
+  },
+  "Agi_Is_Cumming": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 2200,
+   "topic_counts": {
+    "food": 14,
+    "social_events": 10,
+    "family": 6,
+    "work_projects": 19,
+    "school_study": 6,
+    "money_finance": 10,
+    "kink_kinky": 2,
+    "ai_tech": 35,
+    "music_art": 4,
+    "psychology_therapy": 1,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0159,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     35
+    ],
+    [
+     "work_projects",
+     19
+    ],
+    [
+     "food",
+     14
+    ]
+   ]
+  },
+  "Qe_Meriendita": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1206,
+   "topic_counts": {
+    "food": 40,
+    "school_study": 9,
+    "social_events": 18,
+    "intimacy_romance": 6,
+    "money_finance": 3,
+    "ai_tech": 1,
+    "exercise_gym": 1,
+    "work_projects": 9,
+    "kink_kinky": 2,
+    "kink_bdsm": 4
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0332,
+   "top_3_topics": [
+    [
+     "food",
+     40
+    ],
+    [
+     "social_events",
+     18
+    ],
+    [
+     "school_study",
+     9
+    ]
+   ]
+  },
+  "Dentista_Gabi": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1111,
+   "topic_counts": {
+    "dental_clinic": 327,
+    "ai_tech": 420,
+    "family": 51,
+    "work_projects": 438,
+    "music_art": 14,
+    "kink_bdsm": 21,
+    "school_study": 37,
+    "money_finance": 1,
+    "social_events": 2,
+    "exercise_gym": 1,
+    "psychology_therapy": 2,
+    "intimacy_romance": 2
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.3942,
+   "top_3_topics": [
+    [
+     "work_projects",
+     438
+    ],
+    [
+     "ai_tech",
+     420
+    ],
+    [
+     "dental_clinic",
+     327
+    ]
+   ]
+  },
+  "Ci2023_-_Voluntarios_General": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 574,
+   "topic_counts": {
+    "work_projects": 5,
+    "school_study": 2,
+    "social_events": 5,
+    "food": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0087,
+   "top_3_topics": [
+    [
+     "work_projects",
+     5
+    ],
+    [
+     "social_events",
+     5
+    ],
+    [
+     "school_study",
+     2
+    ]
+   ]
+  },
+  "Group_Somos_Gay": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 391,
+   "topic_counts": {
+    "dental_clinic": 43,
+    "work_projects": 71,
+    "kink_bdsm": 14,
+    "music_art": 1,
+    "ai_tech": 152,
+    "family": 15,
+    "money_finance": 2,
+    "school_study": 13,
+    "social_events": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.3887,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     152
+    ],
+    [
+     "work_projects",
+     71
+    ],
+    [
+     "dental_clinic",
+     43
+    ]
+   ]
+  },
+  "Group_Ml_Grupo": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 347,
+   "topic_counts": {
+    "school_study": 8,
+    "food": 2,
+    "ai_tech": 6,
+    "work_projects": 1,
+    "intimacy_romance": 1,
+    "exercise_gym": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0231,
+   "top_3_topics": [
+    [
+     "school_study",
+     8
+    ],
+    [
+     "ai_tech",
+     6
+    ],
+    [
+     "food",
+     2
+    ]
+   ]
+  },
+  "Group_Nudo": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 269,
+   "topic_counts": {
+    "ai_tech": 273,
+    "work_projects": 115,
+    "kink_bdsm": 3,
+    "music_art": 4,
+    "kink_kinky": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 1.0149,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     273
+    ],
+    [
+     "work_projects",
+     115
+    ],
+    [
+     "music_art",
+     4
+    ]
+   ]
+  },
+  "Group_México_City": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 139,
+   "topic_counts": {
+    "food": 12,
+    "school_study": 1,
+    "social_events": 1,
+    "intimacy_romance": 2
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0863,
+   "top_3_topics": [
+    [
+     "food",
+     12
+    ],
+    [
+     "intimacy_romance",
+     2
+    ],
+    [
+     "school_study",
+     1
+    ]
+   ]
+  },
+  "Group_Bd2": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 225,
+   "topic_counts": {
+    "school_study": 28,
+    "exercise_gym": 1,
+    "work_projects": 3,
+    "social_events": 7
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.1244,
+   "top_3_topics": [
+    [
+     "school_study",
+     28
+    ],
+    [
+     "social_events",
+     7
+    ],
+    [
+     "work_projects",
+     3
+    ]
+   ]
+  },
+  "Group_Nexa-Paraguay": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 983,
+   "topic_counts": {
+    "ai_tech": 386,
+    "work_projects": 242,
+    "kink_bdsm": 12,
+    "family": 62,
+    "money_finance": 6,
+    "intimacy_romance": 2,
+    "school_study": 8,
+    "music_art": 1,
+    "social_events": 1,
+    "kink_kinky": 1,
+    "dental_clinic": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.3927,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     386
+    ],
+    [
+     "work_projects",
+     242
+    ],
+    [
+     "family",
+     62
+    ]
+   ]
+  },
+  "Team_Isabelle_Mm": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1025,
+   "topic_counts": {
+    "food": 8,
+    "social_events": 4,
+    "work_projects": 18,
+    "school_study": 13,
+    "exercise_gym": 7
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0176,
+   "top_3_topics": [
+    [
+     "work_projects",
+     18
+    ],
+    [
+     "school_study",
+     13
+    ],
+    [
+     "food",
+     8
+    ]
+   ]
+  },
+  "Familie_Van_Der_Pol": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1466,
+   "topic_counts": {
+    "social_events": 9,
+    "ai_tech": 3,
+    "family": 53,
+    "intimacy_romance": 4,
+    "food": 2
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0362,
+   "top_3_topics": [
+    [
+     "family",
+     53
+    ],
+    [
+     "social_events",
+     9
+    ],
+    [
+     "intimacy_romance",
+     4
+    ]
+   ]
+  },
+  "Nasa_Space_Apps_Ieee_Computer_Society": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 661,
+   "topic_counts": {
+    "school_study": 9,
+    "social_events": 2,
+    "work_projects": 16,
+    "food": 8,
+    "psychology_therapy": 1,
+    "intimacy_romance": 2,
+    "ai_tech": 2,
+    "family": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0242,
+   "top_3_topics": [
+    [
+     "work_projects",
+     16
+    ],
+    [
+     "school_study",
+     9
+    ],
+    [
+     "food",
+     8
+    ]
+   ]
+  },
+  "Vacantes_Optech_V": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1724,
+   "topic_counts": {
+    "work_projects": 460,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.2668,
+   "top_3_topics": [
+    [
+     "work_projects",
+     460
+    ],
+    [
+     "intimacy_romance",
+     1
+    ]
+   ]
+  },
+  "Group_Tsuki": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 338,
+   "topic_counts": {
+    "ai_tech": 42,
+    "food": 6,
+    "kink_kinky": 8,
+    "work_projects": 27,
+    "kink_bdsm": 5,
+    "money_finance": 2,
+    "music_art": 2,
+    "school_study": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.1243,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     42
+    ],
+    [
+     "work_projects",
+     27
+    ],
+    [
+     "kink_kinky",
+     8
+    ]
+   ]
+  },
+  "Info_Startups": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1648,
+   "topic_counts": {
+    "ai_tech": 95,
+    "social_events": 35,
+    "school_study": 26,
+    "work_projects": 48,
+    "exercise_gym": 2,
+    "money_finance": 49,
+    "kink_kinky": 6,
+    "kink_bdsm": 5,
+    "intimacy_romance": 12,
+    "food": 5,
+    "family": 2,
+    "music_art": 7,
+    "dental_clinic": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0576,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     95
+    ],
+    [
+     "money_finance",
+     49
+    ],
+    [
+     "work_projects",
+     48
+    ]
+   ]
+  },
+  "Maskarada_-_Club_De_Azote": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 2661,
+   "topic_counts": {
+    "kink_bdsm": 26,
+    "music_art": 2,
+    "work_projects": 9,
+    "ai_tech": 2,
+    "exercise_gym": 3,
+    "kink_kinky": 17,
+    "school_study": 10,
+    "social_events": 30,
+    "money_finance": 3,
+    "family": 9,
+    "intimacy_romance": 17,
+    "food": 20,
+    "dental_clinic": 2,
+    "psychology_therapy": 2
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0113,
+   "top_3_topics": [
+    [
+     "social_events",
+     30
+    ],
+    [
+     "kink_bdsm",
+     26
+    ],
+    [
+     "food",
+     20
+    ]
+   ]
+  },
+  "Cum_A_Secas": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 704,
+   "topic_counts": {
+    "intimacy_romance": 12,
+    "kink_bdsm": 1,
+    "food": 9,
+    "money_finance": 2,
+    "social_events": 2,
+    "kink_kinky": 3,
+    "family": 1
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.017,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     12
+    ],
+    [
+     "food",
+     9
+    ],
+    [
+     "kink_kinky",
+     3
+    ]
+   ]
+  },
+  "Ieee_Cs_Una_Sbc_2025": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 2251,
+   "topic_counts": {
+    "food": 70,
+    "school_study": 221,
+    "social_events": 70,
+    "work_projects": 59,
+    "music_art": 6,
+    "intimacy_romance": 20,
+    "exercise_gym": 2,
+    "ai_tech": 11,
+    "kink_kinky": 4,
+    "money_finance": 5,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0982,
+   "top_3_topics": [
+    [
+     "school_study",
+     221
+    ],
+    [
+     "food",
+     70
+    ],
+    [
+     "social_events",
+     70
+    ]
+   ]
+  },
+  "Group_Backend_Sin_Profe": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 224,
+   "topic_counts": {
+    "work_projects": 4,
+    "school_study": 6
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0268,
+   "top_3_topics": [
+    [
+     "school_study",
+     6
+    ],
+    [
+     "work_projects",
+     4
+    ]
+   ]
+  },
+  "Group_Qe_Yguazu_Falls_Trip": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 469,
+   "topic_counts": {
+    "intimacy_romance": 1,
+    "money_finance": 4,
+    "social_events": 1,
+    "music_art": 1
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0085,
+   "top_3_topics": [
+    [
+     "money_finance",
+     4
+    ],
+    [
+     "intimacy_romance",
+     1
+    ],
+    [
+     "social_events",
+     1
+    ]
+   ]
+  },
+  "Group_Sheldon_S_Dreams": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 104,
+   "topic_counts": {
+    "family": 4,
+    "kink_bdsm": 2,
+    "kink_kinky": 1,
+    "school_study": 1
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0385,
+   "top_3_topics": [
+    [
+     "family",
+     4
+    ],
+    [
+     "kink_bdsm",
+     2
+    ],
+    [
+     "kink_kinky",
+     1
+    ]
+   ]
+  },
+  "Group_30Vgs": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 250,
+   "topic_counts": {
+    "ai_tech": 169,
+    "work_projects": 13,
+    "social_events": 2,
+    "kink_bdsm": 2,
+    "music_art": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.676,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     169
+    ],
+    [
+     "work_projects",
+     13
+    ],
+    [
+     "social_events",
+     2
+    ]
+   ]
+  },
+  "Group_Organización_Ci24": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 332,
+   "topic_counts": {
+    "school_study": 5,
+    "social_events": 3,
+    "money_finance": 2
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0151,
+   "top_3_topics": [
+    [
+     "school_study",
+     5
+    ],
+    [
+     "social_events",
+     3
+    ],
+    [
+     "money_finance",
+     2
+    ]
+   ]
+  },
+  "Lan_Party_11_02": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 618,
+   "topic_counts": {
+    "food": 5,
+    "social_events": 2,
+    "school_study": 6,
+    "money_finance": 3,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0097,
+   "top_3_topics": [
+    [
+     "school_study",
+     6
+    ],
+    [
+     "food",
+     5
+    ],
+    [
+     "money_finance",
+     3
+    ]
+   ]
+  },
+  "Club_De_Info_Gral": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 6356,
+   "topic_counts": {
+    "kink_kinky": 12,
+    "money_finance": 110,
+    "work_projects": 120,
+    "intimacy_romance": 14,
+    "kink_bdsm": 10,
+    "ai_tech": 54,
+    "food": 13,
+    "school_study": 41,
+    "music_art": 3,
+    "family": 10,
+    "social_events": 16,
+    "psychology_therapy": 4,
+    "exercise_gym": 15,
+    "dental_clinic": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0189,
+   "top_3_topics": [
+    [
+     "work_projects",
+     120
+    ],
+    [
+     "money_finance",
+     110
+    ],
+    [
+     "ai_tech",
+     54
+    ]
+   ]
+  },
+  "Group_Unnamed": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 162,
+   "topic_counts": {
+    "kink_kinky": 17,
+    "kink_bdsm": 4
+   },
+   "primary_topic": "kink_kinky",
+   "primary_density": 0.1049,
+   "top_3_topics": [
+    [
+     "kink_kinky",
+     17
+    ],
+    [
+     "kink_bdsm",
+     4
+    ]
+   ]
+  },
+  "Group_Comité_De_Cursos_Charlas_-_Cs": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 490,
+   "topic_counts": {
+    "school_study": 11,
+    "work_projects": 10,
+    "social_events": 3,
+    "food": 2
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0224,
+   "top_3_topics": [
+    [
+     "school_study",
+     11
+    ],
+    [
+     "work_projects",
+     10
+    ],
+    [
+     "social_events",
+     3
+    ]
+   ]
+  },
+  "Group_Goldenvisa": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 530,
+   "topic_counts": {
+    "ai_tech": 371,
+    "work_projects": 87,
+    "music_art": 5,
+    "school_study": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.7,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     371
+    ],
+    [
+     "work_projects",
+     87
+    ],
+    [
+     "music_art",
+     5
+    ]
+   ]
+  },
+  "Group_Dan": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 129,
+   "topic_counts": {
+    "dental_clinic": 1,
+    "work_projects": 15,
+    "social_events": 1,
+    "money_finance": 2,
+    "ai_tech": 63,
+    "kink_kinky": 2,
+    "kink_bdsm": 3,
+    "exercise_gym": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.4884,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     63
+    ],
+    [
+     "work_projects",
+     15
+    ],
+    [
+     "kink_bdsm",
+     3
+    ]
+   ]
+  },
+  "Group_Ia_Organización": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 139,
+   "topic_counts": {
+    "family": 3,
+    "school_study": 14,
+    "ai_tech": 2
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.1007,
+   "top_3_topics": [
+    [
+     "school_study",
+     14
+    ],
+    [
+     "family",
+     3
+    ],
+    [
+     "ai_tech",
+     2
+    ]
+   ]
+  },
+  "Group_Cosas_De_Casa": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 110,
+   "topic_counts": {
+    "exercise_gym": 1,
+    "food": 2,
+    "school_study": 1,
+    "work_projects": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0182,
+   "top_3_topics": [
+    [
+     "food",
+     2
+    ],
+    [
+     "exercise_gym",
+     1
+    ],
+    [
+     "school_study",
+     1
+    ]
+   ]
+  },
+  "Group_Rach": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 904,
+   "topic_counts": {
+    "work_projects": 175,
+    "kink_bdsm": 34,
+    "money_finance": 2,
+    "ai_tech": 706,
+    "food": 2,
+    "dental_clinic": 3,
+    "exercise_gym": 1,
+    "music_art": 5,
+    "school_study": 4,
+    "social_events": 4,
+    "intimacy_romance": 2,
+    "kink_kinky": 9
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.781,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     706
+    ],
+    [
+     "work_projects",
+     175
+    ],
+    [
+     "kink_bdsm",
+     34
+    ]
+   ]
+  },
+  "Group_Este_Grupo_Se_Autodestruirá_En_20Min": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 152,
+   "topic_counts": {
+    "food": 5
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0329,
+   "top_3_topics": [
+    [
+     "food",
+     5
+    ]
+   ]
+  },
+  "Group_Samber_Atyra": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 179,
+   "topic_counts": {
+    "food": 9,
+    "intimacy_romance": 2,
+    "school_study": 2,
+    "social_events": 1,
+    "money_finance": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0503,
+   "top_3_topics": [
+    [
+     "food",
+     9
+    ],
+    [
+     "intimacy_romance",
+     2
+    ],
+    [
+     "school_study",
+     2
+    ]
+   ]
+  },
+  "Group_Los_Más_Paraguayos_-_Solo_Amigos_Permitidos": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 170,
+   "topic_counts": {
+    "family": 2,
+    "music_art": 2,
+    "intimacy_romance": 2,
+    "social_events": 1
+   },
+   "primary_topic": "family",
+   "primary_density": 0.0118,
+   "top_3_topics": [
+    [
+     "family",
+     2
+    ],
+    [
+     "music_art",
+     2
+    ],
+    [
+     "intimacy_romance",
+     2
+    ]
+   ]
+  },
+  "Py_Testing_Community": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1835,
+   "topic_counts": {
+    "social_events": 57,
+    "money_finance": 17,
+    "ai_tech": 19,
+    "work_projects": 59,
+    "school_study": 26,
+    "kink_bdsm": 2,
+    "food": 3,
+    "intimacy_romance": 3,
+    "psychology_therapy": 1,
+    "kink_kinky": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0322,
+   "top_3_topics": [
+    [
+     "work_projects",
+     59
+    ],
+    [
+     "social_events",
+     57
+    ],
+    [
+     "school_study",
+     26
+    ]
+   ]
+  },
+  "Group_Fpuna_Ciberseguridad": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 235,
+   "topic_counts": {
+    "school_study": 24,
+    "kink_kinky": 2,
+    "social_events": 9,
+    "work_projects": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.1021,
+   "top_3_topics": [
+    [
+     "school_study",
+     24
+    ],
+    [
+     "social_events",
+     9
+    ],
+    [
+     "kink_kinky",
+     2
+    ]
+   ]
+  },
+  "Sarah_S_Neon_Furry_B-Day_Party": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 2761,
+   "topic_counts": {
+    "family": 12,
+    "kink_bdsm": 4,
+    "work_projects": 5,
+    "intimacy_romance": 22,
+    "social_events": 26,
+    "kink_kinky": 10,
+    "money_finance": 5,
+    "music_art": 9,
+    "school_study": 1,
+    "food": 16,
+    "ai_tech": 1,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0094,
+   "top_3_topics": [
+    [
+     "social_events",
+     26
+    ],
+    [
+     "intimacy_romance",
+     22
+    ],
+    [
+     "food",
+     16
+    ]
+   ]
+  },
+  "Group_Reina_Copas": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 178,
+   "topic_counts": {
+    "ai_tech": 27,
+    "work_projects": 22,
+    "kink_kinky": 2,
+    "money_finance": 2,
+    "school_study": 3,
+    "kink_bdsm": 3
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.1517,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     27
+    ],
+    [
+     "work_projects",
+     22
+    ],
+    [
+     "school_study",
+     3
+    ]
+   ]
+  },
+  "Ieeextreme_17_0_-_Student_Branch_Una": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 1060,
+   "topic_counts": {
+    "money_finance": 1,
+    "intimacy_romance": 1,
+    "social_events": 17,
+    "school_study": 19,
+    "food": 1,
+    "work_projects": 8,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0179,
+   "top_3_topics": [
+    [
+     "school_study",
+     19
+    ],
+    [
+     "social_events",
+     17
+    ],
+    [
+     "work_projects",
+     8
+    ]
+   ]
+  },
+  "Group_Wsu_Becal-Cpk_Spring": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 495,
+   "topic_counts": {
+    "money_finance": 4,
+    "intimacy_romance": 6,
+    "ai_tech": 3,
+    "dental_clinic": 1,
+    "work_projects": 2,
+    "social_events": 11,
+    "food": 1,
+    "school_study": 1
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0222,
+   "top_3_topics": [
+    [
+     "social_events",
+     11
+    ],
+    [
+     "intimacy_romance",
+     6
+    ],
+    [
+     "money_finance",
+     4
+    ]
+   ]
+  },
+  "Group_Cuarteto_El_15": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 223,
+   "topic_counts": {
+    "school_study": 3,
+    "money_finance": 1,
+    "kink_kinky": 1,
+    "exercise_gym": 3,
+    "social_events": 1,
+    "family": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0135,
+   "top_3_topics": [
+    [
+     "school_study",
+     3
+    ],
+    [
+     "exercise_gym",
+     3
+    ],
+    [
+     "money_finance",
+     1
+    ]
+   ]
+  },
+  "Group_La_Casa": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 155,
+   "topic_counts": {
+    "school_study": 1,
+    "food": 3,
+    "kink_bdsm": 1,
+    "family": 2,
+    "work_projects": 2,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0194,
+   "top_3_topics": [
+    [
+     "food",
+     3
+    ],
+    [
+     "family",
+     2
+    ],
+    [
+     "work_projects",
+     2
+    ]
+   ]
+  },
+  "Group_Is3": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 243,
+   "topic_counts": {
+    "ai_tech": 2,
+    "school_study": 23,
+    "work_projects": 18,
+    "exercise_gym": 1
+   },
+   "primary_topic": "school_study",
+   "primary_density": 0.0947,
+   "top_3_topics": [
+    [
+     "school_study",
+     23
+    ],
+    [
+     "work_projects",
+     18
+    ],
+    [
+     "ai_tech",
+     2
+    ]
+   ]
+  },
+  "Group_Organización_Py_Testing": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 209,
+   "topic_counts": {
+    "work_projects": 8,
+    "ai_tech": 3,
+    "social_events": 18,
+    "school_study": 3,
+    "food": 1,
+    "intimacy_romance": 1
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0861,
+   "top_3_topics": [
+    [
+     "social_events",
+     18
+    ],
+    [
+     "work_projects",
+     8
+    ],
+    [
+     "ai_tech",
+     3
+    ]
+   ]
+  },
+  "Group_Nsac_Asunción_2023_-_Participantes": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 130,
+   "topic_counts": {
+    "social_events": 6,
+    "school_study": 4,
+    "intimacy_romance": 1,
+    "work_projects": 1
+   },
+   "primary_topic": "social_events",
+   "primary_density": 0.0462,
+   "top_3_topics": [
+    [
+     "social_events",
+     6
+    ],
+    [
+     "school_study",
+     4
+    ],
+    [
+     "intimacy_romance",
+     1
+    ]
+   ]
+  },
+  "Group_Serafina": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 381,
+   "topic_counts": {
+    "ai_tech": 125,
+    "work_projects": 102,
+    "dental_clinic": 3,
+    "family": 15,
+    "money_finance": 8,
+    "music_art": 3,
+    "school_study": 19,
+    "kink_bdsm": 3,
+    "intimacy_romance": 1,
+    "psychology_therapy": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.3281,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     125
+    ],
+    [
+     "work_projects",
+     102
+    ],
+    [
+     "school_study",
+     19
+    ]
+   ]
+  },
+  "Group_Saskias_Coffe_Ahop": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 293,
+   "topic_counts": {
+    "ai_tech": 196,
+    "kink_bdsm": 7,
+    "money_finance": 2,
+    "dental_clinic": 6,
+    "work_projects": 44,
+    "music_art": 3,
+    "school_study": 3
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.6689,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     196
+    ],
+    [
+     "work_projects",
+     44
+    ],
+    [
+     "kink_bdsm",
+     7
+    ]
+   ]
+  },
+  "Group_Meetings": {
+   "tier": "tier4_groups",
+   "total_text_msgs": 110,
+   "topic_counts": {
+    "family": 3,
+    "money_finance": 1,
+    "ai_tech": 10,
+    "work_projects": 2,
+    "school_study": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0909,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     10
+    ],
+    [
+     "family",
+     3
+    ],
+    [
+     "work_projects",
+     2
+    ]
+   ]
+  },
+  "Nudo_Cliente_Chat": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 304,
+   "topic_counts": {
+    "ai_tech": 5,
+    "work_projects": 5,
+    "school_study": 2,
+    "money_finance": 1,
+    "music_art": 3,
+    "food": 1,
+    "social_events": 1,
+    "kink_bdsm": 3,
+    "kink_kinky": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0164,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     5
+    ],
+    [
+     "work_projects",
+     5
+    ],
+    [
+     "music_art",
+     3
+    ]
+   ]
+  },
+  "Oli_Grindr_Brazil": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 110,
+   "topic_counts": {
+    "money_finance": 1,
+    "food": 5,
+    "social_events": 1,
+    "work_projects": 1
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0455,
+   "top_3_topics": [
+    [
+     "food",
+     5
+    ],
+    [
+     "money_finance",
+     1
+    ],
+    [
+     "social_events",
+     1
+    ]
+   ]
+  },
+  "Discord_Friend": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 252,
+   "topic_counts": {
+    "work_projects": 7,
+    "ai_tech": 25,
+    "school_study": 3,
+    "intimacy_romance": 3,
+    "exercise_gym": 3,
+    "money_finance": 1,
+    "family": 2,
+    "kink_bdsm": 1,
+    "kink_kinky": 1,
+    "music_art": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0992,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     25
+    ],
+    [
+     "work_projects",
+     7
+    ],
+    [
+     "school_study",
+     3
+    ]
+   ]
+  },
+  "Credit_Spam_4": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 202,
+   "topic_counts": {
+    "work_projects": 205
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 1.0149,
+   "top_3_topics": [
+    [
+     "work_projects",
+     205
+    ]
+   ]
+  },
+  "Thijs_Dutch_Guy_Chat": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 128,
+   "topic_counts": {
+    "intimacy_romance": 2,
+    "money_finance": 3,
+    "ai_tech": 4,
+    "work_projects": 1,
+    "kink_bdsm": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0312,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     4
+    ],
+    [
+     "money_finance",
+     3
+    ],
+    [
+     "intimacy_romance",
+     2
+    ]
+   ]
+  },
+  "Gemini_Sharer": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 190,
+   "topic_counts": {
+    "ai_tech": 11,
+    "music_art": 2,
+    "intimacy_romance": 3,
+    "money_finance": 2,
+    "food": 1,
+    "kink_bdsm": 2,
+    "work_projects": 2,
+    "kink_kinky": 2,
+    "social_events": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0579,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     11
+    ],
+    [
+     "intimacy_romance",
+     3
+    ],
+    [
+     "music_art",
+     2
+    ]
+   ]
+  },
+  "Alejandra_Queretaro": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 157,
+   "topic_counts": {
+    "exercise_gym": 1,
+    "money_finance": 2,
+    "social_events": 2
+   },
+   "primary_topic": "money_finance",
+   "primary_density": 0.0127,
+   "top_3_topics": [
+    [
+     "money_finance",
+     2
+    ],
+    [
+     "social_events",
+     2
+    ],
+    [
+     "exercise_gym",
+     1
+    ]
+   ]
+  },
+  "Dealer_Galletitas_Buyer": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 209,
+   "topic_counts": {
+    "ai_tech": 7,
+    "work_projects": 5,
+    "money_finance": 1,
+    "food": 3,
+    "family": 3,
+    "intimacy_romance": 2,
+    "kink_kinky": 1,
+    "school_study": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0335,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     7
+    ],
+    [
+     "work_projects",
+     5
+    ],
+    [
+     "food",
+     3
+    ]
+   ]
+  },
+  "Credit_Spam_2": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 325,
+   "topic_counts": {
+    "work_projects": 328
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 1.0092,
+   "top_3_topics": [
+    [
+     "work_projects",
+     328
+    ]
+   ]
+  },
+  "Cami_Amigo": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 164,
+   "topic_counts": {
+    "work_projects": 4,
+    "intimacy_romance": 1,
+    "ai_tech": 2,
+    "money_finance": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0244,
+   "top_3_topics": [
+    [
+     "work_projects",
+     4
+    ],
+    [
+     "ai_tech",
+     2
+    ],
+    [
+     "intimacy_romance",
+     1
+    ]
+   ]
+  },
+  "Credit_Spam_3": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 238,
+   "topic_counts": {
+    "work_projects": 237
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.9958,
+   "top_3_topics": [
+    [
+     "work_projects",
+     237
+    ]
+   ]
+  },
+  "Anna_Referral": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 193,
+   "topic_counts": {
+    "work_projects": 4,
+    "family": 2,
+    "intimacy_romance": 1,
+    "kink_bdsm": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0207,
+   "top_3_topics": [
+    [
+     "work_projects",
+     4
+    ],
+    [
+     "family",
+     2
+    ],
+    [
+     "intimacy_romance",
+     1
+    ]
+   ]
+  },
+  "Chill_Spanish_Friend": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 494,
+   "topic_counts": {
+    "work_projects": 3,
+    "kink_kinky": 11,
+    "ai_tech": 6,
+    "food": 5,
+    "exercise_gym": 1,
+    "intimacy_romance": 15,
+    "kink_bdsm": 16,
+    "social_events": 1,
+    "family": 1,
+    "school_study": 1
+   },
+   "primary_topic": "kink_bdsm",
+   "primary_density": 0.0324,
+   "top_3_topics": [
+    [
+     "kink_bdsm",
+     16
+    ],
+    [
+     "intimacy_romance",
+     15
+    ],
+    [
+     "kink_kinky",
+     11
+    ]
+   ]
+  },
+  "Hola_Ivan_Chat": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 150,
+   "topic_counts": {
+    "ai_tech": 9,
+    "exercise_gym": 3,
+    "work_projects": 5,
+    "social_events": 1,
+    "school_study": 2,
+    "kink_kinky": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.06,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     9
+    ],
+    [
+     "work_projects",
+     5
+    ],
+    [
+     "exercise_gym",
+     3
+    ]
+   ]
+  },
+  "Piercing_Buyer": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 233,
+   "topic_counts": {
+    "work_projects": 4,
+    "school_study": 2,
+    "kink_kinky": 2,
+    "ai_tech": 1
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 0.0172,
+   "top_3_topics": [
+    [
+     "work_projects",
+     4
+    ],
+    [
+     "school_study",
+     2
+    ],
+    [
+     "kink_kinky",
+     2
+    ]
+   ]
+  },
+  "Kink_Castigos_Friend": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 257,
+   "topic_counts": {
+    "kink_kinky": 3,
+    "intimacy_romance": 6,
+    "kink_bdsm": 8,
+    "ai_tech": 2,
+    "work_projects": 2,
+    "school_study": 1,
+    "social_events": 1
+   },
+   "primary_topic": "kink_bdsm",
+   "primary_density": 0.0311,
+   "top_3_topics": [
+    [
+     "kink_bdsm",
+     8
+    ],
+    [
+     "intimacy_romance",
+     6
+    ],
+    [
+     "kink_kinky",
+     3
+    ]
+   ]
+  },
+  "Sivling_Chat": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 106,
+   "topic_counts": {
+    "family": 1,
+    "money_finance": 2,
+    "ai_tech": 4,
+    "work_projects": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0377,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     4
+    ],
+    [
+     "money_finance",
+     2
+    ],
+    [
+     "family",
+     1
+    ]
+   ]
+  },
+  "Credit_Spam_1": {
+   "tier": "untiered_personal",
+   "total_text_msgs": 364,
+   "topic_counts": {
+    "work_projects": 376
+   },
+   "primary_topic": "work_projects",
+   "primary_density": 1.033,
+   "top_3_topics": [
+    [
+     "work_projects",
+     376
+    ]
+   ]
+  },
+  "Thais": {
+   "tier": "other_lid",
+   "total_text_msgs": 3299,
+   "topic_counts": {
+    "kink_kinky": 44,
+    "intimacy_romance": 27,
+    "kink_bdsm": 35,
+    "school_study": 8,
+    "exercise_gym": 1,
+    "food": 49,
+    "family": 8,
+    "social_events": 26,
+    "ai_tech": 16,
+    "work_projects": 22,
+    "music_art": 5,
+    "money_finance": 5,
+    "psychology_therapy": 3
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0149,
+   "top_3_topics": [
+    [
+     "food",
+     49
+    ],
+    [
+     "kink_kinky",
+     44
+    ],
+    [
+     "kink_bdsm",
+     35
+    ]
+   ]
+  },
+  "OpenClaw_User": {
+   "tier": "other_lid",
+   "total_text_msgs": 780,
+   "topic_counts": {
+    "ai_tech": 33,
+    "work_projects": 19,
+    "intimacy_romance": 3,
+    "food": 3,
+    "money_finance": 17,
+    "kink_bdsm": 1,
+    "dental_clinic": 7,
+    "exercise_gym": 2
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.0423,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     33
+    ],
+    [
+     "work_projects",
+     19
+    ],
+    [
+     "money_finance",
+     17
+    ]
+   ]
+  },
+  "Foodie_Friend": {
+   "tier": "other_lid",
+   "total_text_msgs": 530,
+   "topic_counts": {
+    "food": 9,
+    "music_art": 1,
+    "kink_bdsm": 3,
+    "intimacy_romance": 4,
+    "work_projects": 5,
+    "money_finance": 1,
+    "school_study": 1,
+    "exercise_gym": 1,
+    "social_events": 2,
+    "kink_kinky": 1,
+    "family": 1,
+    "ai_tech": 2
+   },
+   "primary_topic": "food",
+   "primary_density": 0.017,
+   "top_3_topics": [
+    [
+     "food",
+     9
+    ],
+    [
+     "work_projects",
+     5
+    ],
+    [
+     "intimacy_romance",
+     4
+    ]
+   ]
+  },
+  "Cloud_Nyx": {
+   "tier": "other_lid",
+   "total_text_msgs": 3469,
+   "topic_counts": {
+    "ai_tech": 3050,
+    "psychology_therapy": 5,
+    "work_projects": 1003,
+    "school_study": 37,
+    "kink_bdsm": 35,
+    "exercise_gym": 3,
+    "dental_clinic": 7,
+    "family": 32,
+    "money_finance": 2,
+    "kink_kinky": 4,
+    "music_art": 25,
+    "intimacy_romance": 1,
+    "social_events": 3,
+    "food": 1
+   },
+   "primary_topic": "ai_tech",
+   "primary_density": 0.8792,
+   "top_3_topics": [
+    [
+     "ai_tech",
+     3050
+    ],
+    [
+     "work_projects",
+     1003
+    ],
+    [
+     "school_study",
+     37
+    ]
+   ]
+  },
+  "Kinesiologo": {
+   "tier": "other_lid",
+   "total_text_msgs": 1925,
+   "topic_counts": {
+    "psychology_therapy": 1,
+    "work_projects": 5,
+    "school_study": 10,
+    "money_finance": 7,
+    "food": 36,
+    "intimacy_romance": 10,
+    "ai_tech": 18,
+    "dental_clinic": 3,
+    "family": 18,
+    "exercise_gym": 3,
+    "social_events": 9,
+    "kink_kinky": 4,
+    "kink_bdsm": 7
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0187,
+   "top_3_topics": [
+    [
+     "food",
+     36
+    ],
+    [
+     "ai_tech",
+     18
+    ],
+    [
+     "family",
+     18
+    ]
+   ]
+  },
+  "Dan": {
+   "tier": "other_lid",
+   "total_text_msgs": 2157,
+   "topic_counts": {
+    "work_projects": 17,
+    "kink_bdsm": 15,
+    "kink_kinky": 14,
+    "intimacy_romance": 18,
+    "psychology_therapy": 5,
+    "social_events": 11,
+    "music_art": 6,
+    "school_study": 5,
+    "money_finance": 4,
+    "food": 14,
+    "ai_tech": 15,
+    "family": 2
+   },
+   "primary_topic": "intimacy_romance",
+   "primary_density": 0.0083,
+   "top_3_topics": [
+    [
+     "intimacy_romance",
+     18
+    ],
+    [
+     "work_projects",
+     17
+    ],
+    [
+     "kink_bdsm",
+     15
+    ]
+   ]
+  },
+  "Somosgay": {
+   "tier": "other_lid",
+   "total_text_msgs": 14149,
+   "topic_counts": {
+    "dental_clinic": 4,
+    "intimacy_romance": 121,
+    "kink_kinky": 58,
+    "food": 135,
+    "kink_bdsm": 119,
+    "exercise_gym": 18,
+    "music_art": 27,
+    "school_study": 51,
+    "family": 56,
+    "work_projects": 60,
+    "ai_tech": 96,
+    "social_events": 28,
+    "psychology_therapy": 7,
+    "money_finance": 27
+   },
+   "primary_topic": "food",
+   "primary_density": 0.0095,
+   "top_3_topics": [
+    [
+     "food",
+     135
+    ],
+    [
+     "intimacy_romance",
+     121
+    ],
+    [
+     "kink_bdsm",
+     119
+    ]
+   ]
+  },
+  "Kink_Artist": {
+   "tier": "other_lid",
+   "total_text_msgs": 1030,
+   "topic_counts": {
+    "kink_kinky": 7,
+    "family": 3,
+    "money_finance": 8,
+    "kink_bdsm": 20,
+    "intimacy_romance": 10,
+    "food": 6,
+    "music_art": 10,
+    "exercise_gym": 3,
+    "work_projects": 4,
+    "school_study": 4,
+    "ai_tech": 1,
+    "social_events": 2
+   },
+   "primary_topic": "kink_bdsm",
+   "primary_density": 0.0194,
+   "top_3_topics": [
+    [
+     "kink_bdsm",
+     20
+    ],
+    [
+     "intimacy_romance",
+     10
+    ],
+    [
+     "music_art",
+     10
+    ]
+   ]
+  }
+ }
+}
