@@ -1,0 +1,209 @@
+{
+ "generated_at": "2026-07-28T15:31:01.649610",
+ "total_contacts_in_network": 2063,
+ "total_edges": 184718,
+ "top_connected_contacts": [
+  {
+   "jid": "595986805654@s.whatsapp.net",
+   "name": "?",
+   "degree": 835
+  },
+  {
+   "jid": "595991470829@s.whatsapp.net",
+   "name": "?",
+   "degree": 817
+  },
+  {
+   "jid": "595991830352@s.whatsapp.net",
+   "name": "?",
+   "degree": 793
+  },
+  {
+   "jid": "595971378035@s.whatsapp.net",
+   "name": "?",
+   "degree": 773
+  },
+  {
+   "jid": "243267115475066@lid",
+   "name": "?",
+   "degree": 763
+  },
+  {
+   "jid": "267709841420395@lid",
+   "name": "?",
+   "degree": 757
+  },
+  {
+   "jid": "595982510082@s.whatsapp.net",
+   "name": "?",
+   "degree": 741
+  },
+  {
+   "jid": "595984708142@s.whatsapp.net",
+   "name": "?",
+   "degree": 728
+  },
+  {
+   "jid": "595972411806@s.whatsapp.net",
+   "name": "?",
+   "degree": 720
+  },
+  {
+   "jid": "99127912325375@lid",
+   "name": "?",
+   "degree": 715
+  },
+  {
+   "jid": "241153874129094@lid",
+   "name": "?",
+   "degree": 686
+  },
+  {
+   "jid": "57032988176419@lid",
+   "name": "?",
+   "degree": 680
+  },
+  {
+   "jid": "595981996906@s.whatsapp.net",
+   "name": "?",
+   "degree": 670
+  },
+  {
+   "jid": "595981868718@s.whatsapp.net",
+   "name": "?",
+   "degree": 666
+  },
+  {
+   "jid": "595972130867@s.whatsapp.net",
+   "name": "?",
+   "degree": 659
+  },
+  {
+   "jid": "595984690946@s.whatsapp.net",
+   "name": "?",
+   "degree": 656
+  },
+  {
+   "jid": "595984113102@s.whatsapp.net",
+   "name": "?",
+   "degree": 654
+  },
+  {
+   "jid": "595981925772@s.whatsapp.net",
+   "name": "?",
+   "degree": 651
+  },
+  {
+   "jid": "595984933862@s.whatsapp.net",
+   "name": "?",
+   "degree": 647
+  },
+  {
+   "jid": "595982684027@s.whatsapp.net",
+   "name": "?",
+   "degree": 647
+  }
+ ],
+ "top_edges": [
+  {
+   "jid_a": "595981868718@s.whatsapp.net",
+   "jid_b": "595981925772@s.whatsapp.net",
+   "shared_groups": 14
+  },
+  {
+   "jid_a": "595972130867@s.whatsapp.net",
+   "jid_b": "595984160109@s.whatsapp.net",
+   "shared_groups": 13
+  },
+  {
+   "jid_a": "595972130867@s.whatsapp.net",
+   "jid_b": "595986805654@s.whatsapp.net",
+   "shared_groups": 12
+  },
+  {
+   "jid_a": "595984160109@s.whatsapp.net",
+   "jid_b": "595986805654@s.whatsapp.net",
+   "shared_groups": 12
+  },
+  {
+   "jid_a": "595971378035@s.whatsapp.net",
+   "jid_b": "595982510082@s.whatsapp.net",
+   "shared_groups": 10
+  },
+  {
+   "jid_a": "595971163429@s.whatsapp.net",
+   "jid_b": "595981868718@s.whatsapp.net",
+   "shared_groups": 10
+  },
+  {
+   "jid_a": "595971163429@s.whatsapp.net",
+   "jid_b": "595982510082@s.whatsapp.net",
+   "shared_groups": 10
+  },
+  {
+   "jid_a": "595982510082@s.whatsapp.net",
+   "jid_b": "595986805654@s.whatsapp.net",
+   "shared_groups": 10
+  },
+  {
+   "jid_a": "595981996906@s.whatsapp.net",
+   "jid_b": "595982510082@s.whatsapp.net",
+   "shared_groups": 9
+  },
+  {
+   "jid_a": "595981996906@s.whatsapp.net",
+   "jid_b": "595984328174@s.whatsapp.net",
+   "shared_groups": 9
+  },
+  {
+   "jid_a": "595982510082@s.whatsapp.net",
+   "jid_b": "595984328174@s.whatsapp.net",
+   "shared_groups": 9
+  },
+  {
+   "jid_a": "595981868718@s.whatsapp.net",
+   "jid_b": "595986186281@s.whatsapp.net",
+   "shared_groups": 9
+  },
+  {
+   "jid_a": "595981925772@s.whatsapp.net",
+   "jid_b": "595991470829@s.whatsapp.net",
+   "shared_groups": 9
+  },
+  {
+   "jid_a": "595971163429@s.whatsapp.net",
+   "jid_b": "595981925772@s.whatsapp.net",
+   "shared_groups": 9
+  },
+  {
+   "jid_a": "595971163429@s.whatsapp.net",
+   "jid_b": "595984247717@s.whatsapp.net",
+   "shared_groups": 9
+  },
+  {
+   "jid_a": "595983738040@s.whatsapp.net",
+   "jid_b": "595986805654@s.whatsapp.net",
+   "shared_groups": 9
+  },
+  {
+   "jid_a": "595971378035@s.whatsapp.net",
+   "jid_b": "595971668064@s.whatsapp.net",
+   "shared_groups": 8
+  },
+  {
+   "jid_a": "595971378035@s.whatsapp.net",
+   "jid_b": "595981996906@s.whatsapp.net",
+   "shared_groups": 8
+  },
+  {
+   "jid_a": "595971378035@s.whatsapp.net",
+   "jid_b": "595991470829@s.whatsapp.net",
+   "shared_groups": 8
+  },
+  {
+   "jid_a": "595971668064@s.whatsapp.net",
+   "jid_b": "595982510082@s.whatsapp.net",
+   "shared_groups": 8
+  }
+ ]
+}
