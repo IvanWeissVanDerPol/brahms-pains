@@ -231,3 +231,10 @@ whisper_*.out
 # Move these to private or encrypt
 IPIP-NEO-120-Ivan.xlsx
 MMPI2-Ivan.xlsx
+
+# FP-UNA research corpus - keep metadata + JSON, drop heavy raw HTML snapshots
+SOURCE_OF_TRUTH/fpuna_research/raw_html_snapshots/
+# But keep the file index
+!SOURCE_OF_TRUTH/fpuna_research/raw_html_snapshots/
+!SOURCE_OF_TRUTH/fpuna_research/raw_html_snapshots/**/
+!SOURCE_OF_TRUTH/fpuna_research/RAW_FILE_INDEX.txt
