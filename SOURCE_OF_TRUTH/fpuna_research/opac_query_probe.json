@@ -1,0 +1,65 @@
+{
+  "probed_at": "2026-07-29",
+  "probes": [
+    {
+      "tag": "FPUNA",
+      "q": "FPUNA",
+      "url": "https://www.cnc.una.py/opac/search?q=FPUNA&limit=20&offset=0",
+      "status": 200,
+      "ms": 3689,
+      "bytes": 106629,
+      "result_divs": 29,
+      "opac_links": 0
+    },
+    {
+      "tag": "FACEN",
+      "q": "FACEN",
+      "url": "https://www.cnc.una.py/opac/search?q=FACEN&limit=20&offset=0",
+      "status": 200,
+      "ms": 5894,
+      "bytes": 107218,
+      "result_divs": 34,
+      "opac_links": 0
+    },
+    {
+      "tag": "FADA",
+      "q": "FADA",
+      "url": "https://www.cnc.una.py/opac/search?q=FADA&limit=20&offset=0",
+      "status": 200,
+      "ms": 4551,
+      "bytes": 107012,
+      "result_divs": 31,
+      "opac_links": 0
+    },
+    {
+      "tag": "FACSO",
+      "q": "FACSO",
+      "url": "https://www.cnc.una.py/opac/search?q=FACSO&limit=20&offset=0",
+      "status": 200,
+      "ms": 3369,
+      "bytes": 104097,
+      "result_divs": 37,
+      "opac_links": 0
+    },
+    {
+      "tag": "ING",
+      "q": "ING",
+      "url": "https://www.cnc.una.py/opac/search?q=ING&limit=20&offset=0",
+      "status": 200,
+      "ms": 11169,
+      "bytes": 111850,
+      "result_divs": 41,
+      "opac_links": 0
+    },
+    {
+      "tag": "ODONTO",
+      "q": "odontologia",
+      "url": "https://www.cnc.una.py/opac/search?q=odontologia&limit=20&offset=0",
+      "status": 200,
+      "ms": 3183,
+      "bytes": 107358,
+      "result_divs": 33,
+      "opac_links": 0
+    }
+  ]
+}

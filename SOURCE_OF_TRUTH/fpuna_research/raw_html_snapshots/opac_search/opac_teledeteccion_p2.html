@@ -1,0 +1,3055 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!-- TEMPLATE FILE: opac-results.tt -->
+
+
+
+
+
+
+
+
+
+<html lang="es-ES" class="no-js">
+<head>
+
+<title
+    >Results of search for &#39;teledeteccion&#39; &rsaquo; Catálogo de Universidad Nacional de Asunción</title
+>
+<meta name="robots" content="noindex" />
+<link type="text/css" rel="stylesheet" href="/opac-tmpl/lib/Chocolat/css/chocolat_25.1101000.css">
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Koha" />
+<!-- leave this for stats -->
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="csrf-token" content="b0f2f8216f7bec45bf64190b27ada845c386eb04,52a24ef77860b4c6561d751a338db3162d1b1930,1785353593" />
+
+
+<link rel="shortcut icon" href="/opac-tmpl/bootstrap/images/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="/opac-tmpl/bootstrap/images/favicon.ico" type="image/x-icon" />
+
+ 
+ 
+ 
+
+
+ <link type="text/css" rel="stylesheet" href="/opac-tmpl/bootstrap/css/opac_25.1101000.css">
+
+
+ 
+ 
+ <link rel="stylesheet" type="text/css" href="/opac-tmpl/bootstrap/css/custom/opac-una.css" />
+ 
+
+
+
+ <link media="print" type="text/css" href="/opac-tmpl/bootstrap/css/print_25.1101000.css" rel="stylesheet">
+
+
+ <!-- prettier-ignore-start -->
+ <style>/* ═══════════════════════════════════════════════════════════════
+   TEMA OPAC UNA — VARIABLES DE INSTITUCIÓN
+   ───────────────────────────────────────────────────────────────
+   Para adaptar este tema a otra biblioteca:
+     1. Copiar opac-una.css al servidor destino.
+     2. Ajustar SOLO las variables de este bloque.
+     3. El resto del tema se adapta automáticamente.
+   ═══════════════════════════════════════════════════════════════ */
+
+:root {
+  /* ── PALETA PRINCIPAL ─────────────────────────────────────────
+     Cambiar estos 5 valores para adaptar el tema a otra institución.
+     Ejemplo para tema azul universitario:
+       --color-primario: #1a4d8f;
+       --color-oscuro:   #123a6e;
+       --color-fondo-nav:#0d2b52; */
+  --rojo-principal: #9d2424;
+  --rojo-oscuro:   #7d1b1b;
+  --negro:         #090c10;
+  --texto:         #474444;
+  --gris-fondo:    #fafafa;
+
+  /* ── VISIBILIDAD DE FUNCIONES DE KOHA ─────────────────────────
+     Valores: none = oculto | flex = visible en línea | block = visible en bloque
+
+     Cambiar según lo que esté habilitado en Administración → Preferencias:
+       --vis-login:   flex   → si opacuserlogin    = Allow
+       --vis-carrito: flex   → si opacbookbag      = 1
+       --vis-listas:  flex   → si virtualshelves   = 1
+
+     En esta instalación (UNA) todo está centralizado y sin login público,
+     por eso los tres están en none. */
+  --vis-login:   none;
+  --vis-carrito: none;
+  --vis-listas:  none;
+}
+
+/* Eliminar tooltip "Su carrito está vacío" aunque la var esté en none */
+#cartDetails { display: none !important; }
+ 
+
+/* === MEJORA UX FICHA DETALLE (autores / orientadores) — INICIO === */:root{color-scheme:light;--r-soft:rgba(125,27,27,.04);--r-tint:rgba(125,27,27,.07);--r-line:rgba(125,27,27,.18);--r-line-strong:rgba(125,27,27,.32);--verde-disp:#1f6238;--verde-line:rgba(31,98,56,.32);--verde-soft:rgba(31,98,56,.06);--shadow-card:0 1px 2px rgba(71,68,68,.04),0 2px 8px rgba(71,68,68,.055);--shadow-lift:0 4px 14px rgba(125,27,27,.12);--radius-sm:.4rem;--radius-md:.7rem;--radius-lg:1rem;--radius-pill:999px;--ease-out:cubic-bezier(.16,.84,.44,1)}body#opac-detail #catalogue_detail_biblio #content_type,body#opac-detail #catalogue_detail_biblio .results_summary.type,body#opac-detail #catalogue_detail_biblio .results_summary.diss_note{display:none !important}body#opac-detail{overflow-x:hidden;overflow-x:clip}body#opac-detail #opac-main-search.mastheadsearch{margin-bottom:0 !important;padding:.5rem .75rem !important;border-radius:.55rem !important}body#opac-detail #opac-main-search .form-select,body#opac-detail #opac-main-search .form-control,body#opac-detail #opac-main-search #searchsubmit{min-height:2.35rem !important}body#opac-detail .main{padding-top:0 !important}body#opac-detail .main>.container-fluid{width:100%;max-width:74rem;margin-right:auto;margin-left:auto}@media (min-width:1400px){body#opac-detail .main>.container-fluid{max-width:82rem}}body#opac-detail .main>.container-fluid>.row{justify-content:center}body#opac-detail .detalle-contenido-ux{flex:0 0 100%;width:100%;max-width:100%}body#opac-detail #moresearches{display:none !important}body#opac-detail #breadcrumbs{display:none !important}body#opac-detail #catalogue_detail_biblio .bookcover--vacia-ux{display:none !important}body#opac-detail #catalogue_detail_biblio .metadata-resumida-ux__origen{display:none !important}body#opac-detail .detalle-utilidades-ux{display:flex;align-items:center;justify-content:space-between;gap:.6rem;margin:0 0 .35rem;padding:.15rem 0 .35rem;border-bottom:1px solid rgba(71,68,68,.1)}body#opac-detail .detalle-utilidades-ux #views,body#opac-detail .detalle-utilidades-ux #action{display:flex !important;align-items:center;flex-wrap:wrap;gap:.2rem;margin:0 !important;padding:0 !important}body#opac-detail .detalle-utilidades-ux #action{justify-content:flex-end;list-style:none}body#opac-detail .detalle-utilidades-ux #action>li{margin:0 !important;padding:0 !important}body#opac-detail .detalle-utilidades-ux .view,body#opac-detail .detalle-utilidades-ux .btn-link{min-height:2rem;margin:0 !important;padding:.34rem .5rem !important;border:0 !important;border-radius:.35rem !important;background:transparent !important;box-shadow:none !important;color:var(--texto) !important;font-size:.7rem !important;line-height:1.2 !important;text-decoration:none !important}body#opac-detail .detalle-utilidades-ux .current-view,body#opac-detail .detalle-utilidades-ux .btn-link:hover{background:rgba(125,27,27,.055) !important;color:var(--rojo-oscuro) !important}body#opac-detail .detalle-utilidades-ux .btn-link:focus-visible{outline:2px solid rgba(125,27,27,.4);outline-offset:1px}body#opac-detail #bibliodescriptions{width:100%;margin-top:1rem}body#opac-detail #catalogue_detail_biblio .results_summary.subjects{display:grid !important;grid-template-columns:auto minmax(0,1fr);gap:.65rem;align-items:center;max-width:100%;padding:.5rem 0 !important;overflow:hidden;white-space:nowrap}body#opac-detail #catalogue_detail_biblio .results_summary.subjects>.label{align-self:stretch;display:inline-flex;align-items:center;padding-right:.55rem;border-right:1px solid rgba(125,27,27,.16);color:var(--rojo-oscuro) !important;font-size:.69rem !important;letter-spacing:.065em !important}body#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list{display:flex !important;align-items:center;gap:.35rem;min-width:0;margin:0 !important;padding:.1rem .1rem .15rem 0 !important;overflow-x:auto;overflow-y:hidden;list-style:none;scroll-padding-inline:.15rem;scroll-snap-type:x proximity;scrollbar-color:rgba(125,27,27,.28) transparent;scrollbar-width:thin;-webkit-overflow-scrolling:touch}body#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list>li{flex:0 0 auto;display:inline-flex !important;align-items:center;margin:0 !important;padding:0 !important;scroll-snap-align:start;white-space:nowrap}body#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list>li::after{content:none !important}body#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list>li + li::before{content:none !important}body#opac-detail #catalogue_detail_biblio .results_summary.subjects .subjects-context{color:var(--texto);font-size:.68rem;font-weight:700;letter-spacing:.015em}body#opac-detail #catalogue_detail_biblio .results_summary.subjects a{display:inline-flex !important;align-items:center;min-height:1.85rem;margin:0 !important;padding:.25rem .65rem !important;border:1px solid var(--r-line) !important;border-radius:var(--radius-pill) !important;background:var(--r-soft) !important;box-shadow:none !important;color:var(--rojo-oscuro) !important;font-size:.7rem !important;font-weight:500 !important;letter-spacing:.008em;line-height:1.2 !important;text-decoration:none !important;transition:background-color .18s var(--ease-out),border-color .18s var(--ease-out),color .18s var(--ease-out) !important}body#opac-detail #catalogue_detail_biblio .results_summary.subjects a:hover{background:var(--r-tint) !important;border-color:var(--r-line-strong) !important;box-shadow:none !important;color:var(--rojo-oscuro) !important;text-decoration:none !important}body#opac-detail #catalogue_detail_biblio .results_summary.subjects a:focus-visible{outline:2px solid rgba(125,27,27,.45);outline-offset:2px}#opac-detail .titulo-ficha-ux{position:relative;width:100%;min-width:0;margin-bottom:.9rem;padding:.65rem .5rem .9rem;border-bottom:1px solid rgba(125,27,27,.18);background:transparent;box-shadow:none}#opac-detail .titulo-ficha-ux h1.title{width:100%;max-width:none;margin:0 !important;padding:0 !important;border:0 !important;color:var(--rojo-oscuro) !important;font-size:2rem;line-height:1.22 !important;text-align:center;white-space:nowrap}#opac-detail .titulo-ficha-ux h1.title.titulo-ficha-ux__titulo--multilinea{font-size:clamp(1.15rem,1.8vw,1.45rem) !important;overflow-wrap:anywhere;text-wrap:balance;white-space:normal}#opac-detail .titulo-ficha-ux__meta{display:flex;flex-wrap:wrap;justify-content:center;gap:.3rem 0;list-style:none;margin:.55rem 0 0;padding:0;color:var(--texto);font-size:.76rem;line-height:1.3}#opac-detail .titulo-ficha-ux__meta>li{display:inline-flex;align-items:center;margin:0;padding:0}#opac-detail .titulo-ficha-ux__meta>li + li::before{content:"·";margin:0 .45rem;color:rgba(125,27,27,.4);font-weight:700}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__prefijo{color:var(--rojo-oscuro);font-weight:700}#opac-detail .titulo-ficha-ux__meta>li + li.titulo-ficha-ux__signatura::before{content:none}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__signatura{flex-basis:100%;justify-content:center;align-items:baseline;gap:.65rem;margin:.6rem auto 0;padding:.42rem 1.1rem .5rem;border:1.5px solid var(--r-line-strong);border-radius:var(--radius-sm);background:linear-gradient(to bottom,rgba(125,27,27,.085),rgba(125,27,27,.035));color:var(--rojo-oscuro);box-shadow:0 1px 3px rgba(125,27,27,.1),inset 0 1px 0 rgba(255,255,255,.5)}#opac-detail .titulo-ficha-ux__signatura-label{font-size:.62rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;opacity:.72}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__signatura .signatura-valor{margin:0;padding:.04rem .4rem;border-radius:.3rem;background:rgba(125,27,27,.08);color:var(--rojo-oscuro);font-family:ui-monospace,"SF Mono",Menlo,Consolas,"Courier New",monospace;font-size:1.45rem;font-weight:700;letter-spacing:.06em}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__isbn{font-variant-numeric:tabular-nums}#opac-detail .titulo-ficha-ux__disponibilidad{display:inline-flex;align-items:center;justify-content:center;width:max-content;min-height:1.85rem;margin:0;padding:.22rem .8rem .25rem;border:1px solid var(--verde-line);border-radius:var(--radius-pill);background:var(--verde-soft);color:var(--verde-disp);font-size:.73rem;font-weight:700;line-height:1.2;text-decoration:none;transition:background-color .2s var(--ease-out),border-color .2s var(--ease-out),transform .2s var(--ease-out),box-shadow .2s var(--ease-out)}#opac-detail .titulo-ficha-ux__disponibilidad::before{width:.5rem;height:.5rem;margin-right:.5rem;border-radius:50%;background:#2f8a50;box-shadow:0 0 0 3px rgba(47,138,80,.18);content:""}#opac-detail .titulo-ficha-ux__disponibilidad:hover{background:rgba(31,98,56,.12);border-color:rgba(31,98,56,.45);color:#163f24;text-decoration:none;transform:translateY(-1px);box-shadow:0 3px 10px rgba(31,98,56,.15)}#opac-detail .titulo-ficha-ux__disponibilidad:focus-visible{outline:3px solid rgba(36,112,65,.35);outline-offset:2px}#opac-detail .responsables-ux{min-width:0;margin:0 0 1rem;padding:.2rem 0 0;background:transparent}#opac-detail .responsables-ux__titulo{margin:0 0 .15rem;color:var(--texto);font-size:.74rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}#opac-detail .responsables-ux__orden{margin:0 0 .65rem;color:rgba(71,68,68,.72);font-size:.72rem;font-style:normal;line-height:1.35}#opac-detail .responsables-ux__grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(20rem,100%),1fr));gap:1rem 1.5rem;align-items:start}#opac-detail .responsables-ux__grupo{min-width:0;padding:.5rem .7rem .65rem;border:1px solid var(--r-line);border-radius:var(--radius-md);background:linear-gradient(to bottom,var(--r-tint),var(--r-soft));box-shadow:var(--shadow-card);transition:border-color .2s var(--ease-out),box-shadow .2s var(--ease-out)}#opac-detail .responsables-ux__grupo:hover{border-color:var(--r-line-strong)}#opac-detail .responsables-ux__grupo-titulo{display:inline-flex;align-items:center;margin:0 0 .55rem;padding:.26rem .7rem;border:1px solid rgba(125,27,27,.28);border-radius:1rem;background:#fff;color:var(--rojo-oscuro);font-size:.7rem;font-weight:700;letter-spacing:.075em;text-transform:uppercase}#opac-detail .responsables-ux__lista{display:flex;flex-direction:row;flex-wrap:wrap;gap:.45rem;list-style:none;margin:0;padding:.1rem 0 .35rem}#opac-detail .responsables-ux__lista>li{display:flex;flex:0 1 auto;min-width:0;margin:0;padding:0}#opac-detail .responsables-ux__lista>li::after{content:none !important}#opac-detail .responsables-ux__lista a{display:flex;align-items:center;width:auto;min-height:3.4rem;padding:.55rem .95rem;border:1px solid var(--r-line);border-radius:var(--radius-pill);background:#fff;box-shadow:var(--shadow-card);color:var(--texto);font-size:.92rem;font-style:normal;font-weight:500;line-height:1.35;text-decoration:none;transition:border-color .2s var(--ease-out),background-color .2s var(--ease-out),color .2s var(--ease-out),transform .2s var(--ease-out),box-shadow .2s var(--ease-out)}#opac-detail .responsables-ux__lista [property="name"]{display:block;min-width:0;max-width:100%;line-height:1.35;white-space:nowrap}#opac-detail .responsables-ux__lista a:hover{background:var(--r-tint);border-color:var(--r-line-strong);color:var(--rojo-oscuro);text-decoration:none;transform:translateY(-1px);box-shadow:var(--shadow-lift)}#opac-detail .responsables-ux__lista a:focus-visible{outline:3px solid rgba(157,36,36,.28);outline-offset:-3px}@media (max-width:991px){#opac-detail .titulo-ficha-ux{padding:.6rem .35rem .8rem}#opac-detail .titulo-ficha-ux h1.title{font-size:clamp(1.35rem,3vw,1.7rem);overflow-wrap:anywhere;text-wrap:balance;white-space:normal}}@media (hover:none){#opac-detail .responsables-ux__lista a,#opac-detail .titulo-ficha-ux__disponibilidad,#opac-detail #shelfbrowser td.browse-prev a,#opac-detail #shelfbrowser td.browse-next a{min-height:44px}body#opac-detail #catalogue_detail_biblio .results_summary.subjects a{min-height:2.25rem}}@media (max-width:768px){#opac-detail #catalogue_detail_biblio .bookcover{max-width:11rem;margin:0 auto .75rem}#opac-detail #catalogue_detail_biblio .bookcover img,#opac-detail #catalogue_detail_biblio .bookcover canvas,#opac-detail #catalogue_detail_biblio .bookcover .cover-image{max-width:100%;height:auto}}@media (max-width:480px){#opac-detail #catalogue_detail_biblio .bookcover{max-width:9rem}}@media (max-width:575px){body#opac-detail .main>.container-fluid{padding-right:max(8px,env(safe-area-inset-right)) !important;padding-left:max(8px,env(safe-area-inset-left)) !important}body#opac-detail #opac-main-search.mastheadsearch{padding:.4rem .5rem !important}body#opac-detail .detalle-utilidades-ux{align-items:stretch;flex-direction:column;gap:.25rem}body#opac-detail .detalle-utilidades-ux #views,body#opac-detail .detalle-utilidades-ux #action{justify-content:center}body#opac-detail .detalle-utilidades-ux .view,body#opac-detail .detalle-utilidades-ux .btn-link{min-height:2.75rem;padding:.55rem .6rem !important}#opac-detail .titulo-ficha-ux{margin-bottom:.7rem;padding:.5rem .25rem .7rem}#opac-detail .titulo-ficha-ux h1.title{font-size:1.25rem;line-height:1.25 !important}#opac-detail .titulo-ficha-ux__meta{margin-top:.45rem;font-size:.7rem}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__signatura{margin-top:.35rem;padding:.3rem .7rem .35rem;gap:.4rem}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__signatura .signatura-valor{font-size:1.2rem}#opac-detail .titulo-ficha-ux__disponibilidad{min-height:2rem;font-size:.7rem}#opac-detail .responsables-ux{margin-bottom:.85rem;padding:.1rem 0 0}#opac-detail .responsables-ux__titulo{margin-bottom:.12rem;font-size:.72rem}#opac-detail .responsables-ux__orden{margin-bottom:.55rem;font-size:.69rem}#opac-detail .responsables-ux__grid{grid-template-columns:1fr;gap:.6rem}#opac-detail .responsables-ux__grupo{padding:.45rem .6rem .55rem;border-radius:.6rem}#opac-detail .responsables-ux__grupo-titulo{margin-bottom:.4rem;padding:.22rem .55rem;font-size:.64rem}#opac-detail .responsables-ux__lista{gap:.35rem;padding-bottom:.15rem}#opac-detail .responsables-ux__lista>li{max-width:100%}#opac-detail .responsables-ux__lista a{min-height:44px;padding:.45rem .75rem;font-size:.85rem;line-height:1.25;border-radius:1.4rem}#opac-detail .responsables-ux__lista [property="name"]{white-space:normal;overflow-wrap:anywhere}body#opac-detail #catalogue_detail_biblio .results_summary.subjects{grid-template-columns:1fr;gap:.4rem;white-space:normal}body#opac-detail #catalogue_detail_biblio .results_summary.subjects>.label{align-self:auto;padding-right:.4rem;padding-bottom:.25rem;border-right:0;border-bottom:1px solid rgba(125,27,27,.12);font-size:.66rem !important}body#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list{flex-wrap:wrap;overflow-x:visible;white-space:normal}body#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list>li{white-space:normal}body#opac-detail #catalogue_detail_biblio .results_summary.subjects a{min-height:2rem;padding:.3rem .05rem !important;font-size:.66rem !important;white-space:normal}}@media (max-width:430px){#opac-detail .titulo-ficha-ux{padding:.45rem .15rem .65rem}#opac-detail .titulo-ficha-ux h1.title{font-size:1.12rem;line-height:1.22 !important}#opac-detail .titulo-ficha-ux__meta{gap:.25rem 0;font-size:.68rem}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__signatura{margin-top:.3rem;padding:.28rem .65rem .32rem;gap:.35rem}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__signatura .signatura-valor{font-size:1.12rem}#opac-detail .responsables-ux{margin-bottom:.7rem}#opac-detail .responsables-ux__grupo{padding:.4rem .55rem .5rem;border-radius:.55rem}#opac-detail .responsables-ux__grupo-titulo{margin-bottom:.35rem;padding:.2rem .5rem;font-size:.62rem;letter-spacing:.06em}#opac-detail .responsables-ux__lista{gap:.3rem}#opac-detail .responsables-ux__lista a{min-height:44px;padding:.4rem .65rem;font-size:.82rem;line-height:1.25;border-radius:1.3rem}body#opac-detail #holdingst tbody tr{padding:.45rem .65rem !important;border-radius:.55rem !important}body#opac-detail #holdingst tbody td{padding:.42rem 0 !important;font-size:.85rem !important}body#opac-detail #holdingst tbody td.call_no{font-size:1rem !important;padding-bottom:.5rem !important}body#opac-detail #holdingst tbody td::before{font-size:.66rem}body#opac-detail .detalle-utilidades-ux .view,body#opac-detail .detalle-utilidades-ux .btn-link{min-height:2.5rem;padding:.45rem .55rem !important;font-size:.72rem !important}body#opac-detail #catalogue_detail_biblio .results_summary.subjects a{min-height:1.9rem;padding:.28rem .15rem !important;font-size:.65rem !important}}@media (max-width:393px){#opac-detail .titulo-ficha-ux{padding:.5rem .2rem .7rem}#opac-detail .titulo-ficha-ux h1.title{font-size:1.05rem}#opac-detail .responsables-ux__lista{gap:.28rem}#opac-detail .responsables-ux__lista a{padding:.38rem .55rem;font-size:.8rem;border-radius:1.25rem}}@media (max-width:360px){#opac-detail .titulo-ficha-ux h1.title{font-size:1rem}#opac-detail .responsables-ux__titulo,#opac-detail .responsables-ux__grupo-titulo{letter-spacing:.035em}}@media (orientation:landscape) and (max-height:500px){#opac-detail .titulo-ficha-ux{margin-bottom:.55rem;padding-top:.55rem;padding-bottom:.6rem}#opac-detail .titulo-ficha-ux h1.title{font-size:clamp(1.05rem,2.2vw,1.35rem) !important}#opac-detail .titulo-ficha-ux__meta{margin-top:.25rem;gap:.15rem 0}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__signatura{margin-top:.2rem;padding:.2rem .6rem .25rem}#opac-detail .titulo-ficha-ux__meta>.titulo-ficha-ux__signatura .signatura-valor{font-size:1.05rem}#opac-detail .responsables-ux{margin-bottom:.55rem;padding-top:.1rem}#opac-detail .responsables-ux__grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:.55rem .85rem}#opac-detail .responsables-ux__grupo{padding:.35rem .55rem .45rem}#opac-detail .responsables-ux__lista a{min-height:40px;padding:.35rem .7rem;font-size:.82rem}#opac-detail #catalogue_detail_biblio .bookcover{max-width:7rem;margin-bottom:.5rem}}@media (prefers-reduced-motion:reduce){#opac-detail .responsables-ux__lista a{transition:none}}#opac-detail #holdingst a.browse_callno,#opac-detail #holdingst a.shelfbrowser_open,#opac-detail #holdingst a[href*="shelfbrowser"],#opac-detail #holdingst .browse_shelf a,#opac-detail a.openBrowser{display:inline-flex;align-items:center;margin:0 0 0 .4rem;padding:.14rem .5rem .18rem;border:1px solid var(--r-line);border-radius:var(--radius-pill);background:var(--r-soft);color:var(--rojo-oscuro);font-size:.68rem;font-weight:600;letter-spacing:.015em;text-decoration:none;text-transform:none;white-space:nowrap;vertical-align:middle;transition:background-color .15s var(--ease-out),border-color .15s var(--ease-out),color .15s var(--ease-out)}#opac-detail #holdingst a.browse_callno:hover,#opac-detail #holdingst a.shelfbrowser_open:hover,#opac-detail #holdingst a[href*="shelfbrowser"]:hover,#opac-detail #holdingst .browse_shelf a:hover,#opac-detail a.openBrowser:hover{background:var(--r-tint);border-color:var(--r-line-strong);color:var(--rojo-oscuro);text-decoration:none}@media (max-width:575px){#opac-detail #holdingst a.browse_callno,#opac-detail #holdingst a.shelfbrowser_open,#opac-detail #holdingst a[href*="shelfbrowser"],#opac-detail #holdingst .browse_shelf a,#opac-detail a.openBrowser{margin-left:.3rem;padding:.12rem .42rem .15rem;font-size:.62rem}}#opac-detail #holdingst td.call_no{color:var(--rojo-oscuro);font-family:ui-monospace,"SF Mono",Menlo,Consolas,"Courier New",monospace;font-size:1.02rem;font-weight:700;letter-spacing:.03em;font-variant-numeric:tabular-nums}#opac-detail #holdingst tr.ux-disponible td.status{color:#1a7d3c;font-weight:600}#opac-detail #holdingst td.status .item-status.available{color:#1a7d3c;font-weight:600}#opac-detail #holdingst{border-collapse:separate;border-spacing:0}#opac-detail #holdingst thead th{position:sticky;top:0;z-index:2;background:linear-gradient(to bottom,#fff,rgba(125,27,27,.03));border-bottom:2px solid var(--r-line);font-size:.76rem;letter-spacing:.04em;text-transform:uppercase;color:var(--rojo-oscuro)}#opac-detail #holdingst tbody tr{transition:background-color .15s var(--ease-out)}#opac-detail #holdingst tbody tr:nth-child(even){background-color:rgba(125,27,27,.015)}#opac-detail #holdingst tbody tr:hover{background-color:var(--r-tint)}#opac-detail #holdingst tbody tr.ux-disponible{box-shadow:inset 3px 0 0 #2f8a50}#opac-detail #catalogue_detail_biblio .bookcover{overflow:hidden;border-radius:var(--radius-md);background:#fff;box-shadow:var(--shadow-card);transition:transform .35s var(--ease-out),box-shadow .35s var(--ease-out)}#opac-detail #catalogue_detail_biblio .bookcover:hover{transform:translateY(-2px);box-shadow:var(--shadow-lift)}#opac-detail #catalogue_detail_biblio .bookcover img,#opac-detail #catalogue_detail_biblio .bookcover canvas,#opac-detail #catalogue_detail_biblio .bookcover .cover-image{display:block;width:100%;height:auto;transition:transform .55s var(--ease-out)}#opac-detail #catalogue_detail_biblio .bookcover:hover img,#opac-detail #catalogue_detail_biblio .bookcover:hover canvas,#opac-detail #catalogue_detail_biblio .bookcover:hover .cover-image{transform:scale(1.035)}@media (max-width:768px),(orientation:landscape) and (max-height:500px) and (max-width:1024px){body#opac-detail #holdings_panel,body#opac-detail #holdings-tab-panel,body#opac-detail #holdings .table-responsive,body#opac-detail #holdingst_wrapper,body#opac-detail #holdingst_wrapper .dt-layout-row,body#opac-detail #holdingst_wrapper .dt-layout-cell,body#opac-detail #holdingst_wrapper .dataTables_scroll,body#opac-detail #holdingst_wrapper .dataTables_scrollHead,body#opac-detail #holdingst_wrapper .dataTables_scrollBody,body#opac-detail .holdingst-wrapper,body#opac-detail .holdingst-table-wrapper{box-sizing:border-box !important;width:100% !important;max-width:100% !important;min-width:0 !important;overflow-x:hidden !important;overflow-x:clip !important}body#opac-detail #holdingst{box-sizing:border-box !important;display:block !important;width:100% !important;max-width:100% !important;min-width:0 !important;margin:0 !important;border:0 !important;border-radius:0 !important;background:transparent !important;box-shadow:none !important}body#opac-detail #holdingst thead{display:none !important}body#opac-detail #holdingst tbody{box-sizing:border-box !important;display:grid !important;width:100% !important;max-width:100% !important;min-width:0 !important;gap:.75rem;padding-bottom:max(.25rem,env(safe-area-inset-bottom))}body#opac-detail #holdingst tbody tr{box-sizing:border-box !important;display:block !important;width:100% !important;max-width:100% !important;min-width:0 !important;margin:0 !important;padding:.65rem .85rem !important;border:1px solid var(--r-line);border-radius:var(--radius-md) !important;background:#fff !important;box-shadow:var(--shadow-card);transition:border-color .2s var(--ease-out),box-shadow .2s var(--ease-out)}body#opac-detail #holdingst tbody td{box-sizing:border-box !important;display:grid !important;width:100% !important;max-width:100% !important;min-width:0 !important;grid-template-columns:minmax(6.75rem,38%) minmax(0,1fr);gap:.35rem .75rem;align-items:start;padding:.38rem 0 !important;border:0 !important;border-bottom:1px solid rgba(71,68,68,.08) !important;color:var(--texto) !important;font-size:.875rem !important;line-height:1.35;text-align:left !important;white-space:normal !important;word-break:normal;overflow-wrap:anywhere}body#opac-detail #holdingst colgroup{display:none !important}body#opac-detail #holdingst [style*="width"]{max-width:100% !important;min-width:0 !important}body#opac-detail #holdingst tbody td:last-child{border-bottom:0 !important}body#opac-detail #holdingst tbody td::before{content:attr(data-label);text-align:left;color:var(--rojo-oscuro);font-size:.72rem;font-weight:700;letter-spacing:.025em;line-height:1.35;text-transform:uppercase}body#opac-detail #holdingst tbody td:empty{display:none !important}body#opac-detail #holdingst tbody td a{display:inline-flex;align-items:center;max-width:100%;min-height:44px;min-width:0;overflow-wrap:anywhere}body#opac-detail #holdingst tbody td.call_no{color:var(--rojo-oscuro) !important;font-weight:700 !important;font-size:1rem !important;font-variant-numeric:tabular-nums;padding-top:.15rem !important;padding-bottom:.5rem !important;border-bottom:1.5px solid rgba(125,27,27,.15) !important;margin-bottom:.15rem}body#opac-detail #holdingst tbody td.call_no::before{color:var(--rojo-oscuro);font-size:.68rem;opacity:.85}body#opac-detail #holdingst tbody tr.ux-disponible{border-color:rgba(42,140,90,.28) !important;border-left:4px solid #2f8a50 !important;padding-left:calc(.85rem - 3px) !important;box-shadow:0 2px 10px rgba(42,140,90,.08) !important}body#opac-detail #holdingst tbody td.status,body#opac-detail #holdingst tbody td.status .item-status{text-align:left !important}body#opac-detail #holdingst tbody tr.ux-disponible td.status{display:none !important}body#opac-detail #holdingst tbody td.barcode,body#opac-detail #holdingst tbody td.materials,body#opac-detail #holdingst tbody td.copynumber,body#opac-detail #holdingst tbody td.volinfo,body#opac-detail #holdingst tbody td.itemnotes_nonpublic,body#opac-detail #holdingst tbody td.due_date,body#opac-detail #holdingst tbody td.checkout_date,body#opac-detail #holdingst tbody td.coded_location_qualifier,body#opac-detail #holdingst tbody td.url,body#opac-detail #holdingst tbody td.priority,body#opac-detail #holdingst tbody td.checked_out,body#opac-detail #holdingst tbody td.checkin_on,body#opac-detail #holdingst tbody td.lastseen{display:none !important}}@media (max-width:480px){body#opac-detail #holdingst tbody td.itype,body#opac-detail #holdingst tbody td.itemnotes,body#opac-detail #holdingst tbody td.notes,body#opac-detail #holdingst tbody td.publicnote,body#opac-detail #holdingst tbody td.public_note,body#opac-detail #holdingst tbody td.itemnumber,body#opac-detail #holdingst tbody td.enumchron{display:none !important}}@media (max-width:480px){body#opac-detail #holdingst tbody tr{padding:.5rem .75rem !important}body#opac-detail #holdingst tbody td{grid-template-columns:minmax(0,1fr);gap:.12rem;padding:.48rem 0 !important;font-size:.875rem !important}body#opac-detail #holdingst tbody td::before{font-size:.7rem;letter-spacing:.02em}body#opac-detail #holdingst tbody td a{width:fit-content}body#opac-detail #holdingst tbody td.status{font-size:.925rem !important}body#opac-detail #holdingst tbody td.call_no{font-size:1.05rem !important;padding-bottom:.55rem !important}}#opac-detail #shelfbrowser{overflow-x:auto;overflow-y:hidden;padding:.35rem 0 .55rem;scroll-snap-type:x proximity;scrollbar-width:thin;-webkit-overflow-scrolling:touch}#opac-detail #shelfbrowser table{width:auto;margin:.35rem auto;border-collapse:separate;border-spacing:.55rem 0;table-layout:auto;background:transparent}#opac-detail #shelfbrowser th,#opac-detail #shelfbrowser td{border:0;background:transparent}#opac-detail #shelfbrowser td.top{width:8rem;min-width:8rem;max-width:8rem;vertical-align:top;padding:.6rem .45rem .65rem;border:1px solid rgba(125,27,27,.14);border-radius:.65rem;background:#fff;scroll-snap-align:start;text-align:center;white-space:normal;word-break:normal;overflow-wrap:break-word;font-size:.72rem;line-height:1.3;box-shadow:0 1px 2px rgba(71,68,68,.04);transition:border-color .15s ease,box-shadow .15s ease,transform .15s ease}#opac-detail #shelfbrowser td.top:hover{border-color:rgba(125,27,27,.38);box-shadow:0 3px 10px rgba(125,27,27,.1);transform:translateY(-1px)}#opac-detail #shelfbrowser td.top.currentitem{border-color:var(--rojo-oscuro);background:rgba(125,27,27,.035);box-shadow:0 2px 8px rgba(125,27,27,.14)}#opac-detail #shelfbrowser td.top a{display:block;word-break:normal;overflow-wrap:break-word;hyphens:auto;color:var(--texto);text-decoration:none}#opac-detail #shelfbrowser td.top a:hover{color:var(--rojo-oscuro);text-decoration:underline;text-underline-offset:2px}#opac-detail #shelfbrowser td.top img{max-width:100%;height:auto;margin:0 auto .3rem;border-radius:.25rem}#opac-detail #shelfbrowser td.browse-prev,#opac-detail #shelfbrowser td.browse-next{vertical-align:middle;padding:0 .3rem}#opac-detail #shelfbrowser td.browse-prev a,#opac-detail #shelfbrowser td.browse-next a{display:inline-flex;align-items:center;justify-content:center;min-width:2.5rem;min-height:2.5rem;border-radius:50%;background:rgba(125,27,27,.08);color:var(--rojo-oscuro);font-weight:700;text-decoration:none;transition:background-color .15s ease,color .15s ease}#opac-detail #shelfbrowser td.browse-prev a:hover,#opac-detail #shelfbrowser td.browse-next a:hover{background:var(--rojo-oscuro);color:#fff}#opac-detail #shelfbrowser .close_shelf,#opac-detail #shelfbrowser .close_shelf:hover,#opac-detail #shelfbrowser .close_shelf:focus-visible{color:var(--rojo-principal);font-weight:600}#opac-detail #shelfbrowser .close_shelf:hover{text-decoration:underline}@media (max-width:768px){#opac-detail #shelfbrowser td.top{width:7rem;min-width:7rem;max-width:7rem;padding:.5rem .35rem .55rem;font-size:.7rem}}@media (max-width:575px){#opac-detail #shelfbrowser table{border-spacing:.4rem 0}#opac-detail #shelfbrowser td.top{width:6.25rem;min-width:6.25rem;max-width:6.25rem;padding:.45rem .3rem .5rem;font-size:.68rem;border-radius:.55rem}#opac-detail #shelfbrowser td.browse-prev a,#opac-detail #shelfbrowser td.browse-next a{min-width:2.25rem;min-height:2.25rem}}@media (max-width:430px){#opac-detail #shelfbrowser td.top{width:5.5rem;min-width:5.5rem;max-width:5.5rem;padding:.4rem .25rem .45rem;font-size:.64rem;line-height:1.25}}@media (prefers-reduced-motion:no-preference){#opac-detail .titulo-ficha-ux,#opac-detail .responsables-ux,#opac-detail #catalogue_detail_biblio .results_summary.subjects,#opac-detail #holdings_panel{animation:opac-fade-in .35s var(--ease-out) both}#opac-detail .responsables-ux{animation-delay:.04s}#opac-detail #catalogue_detail_biblio .results_summary.subjects{animation-delay:.08s}#opac-detail #holdings_panel{animation-delay:.12s}}@keyframes opac-fade-in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}#opac-detail .responsables-ux__lista,#opac-detail #shelfbrowser,#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list{scrollbar-color:var(--r-line-strong) transparent;scrollbar-width:thin}#opac-detail .responsables-ux__lista::-webkit-scrollbar,#opac-detail #shelfbrowser::-webkit-scrollbar,#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list::-webkit-scrollbar{height:6px}#opac-detail .responsables-ux__lista::-webkit-scrollbar-track,#opac-detail #shelfbrowser::-webkit-scrollbar-track,#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list::-webkit-scrollbar-track{background:transparent}#opac-detail .responsables-ux__lista::-webkit-scrollbar-thumb,#opac-detail #shelfbrowser::-webkit-scrollbar-thumb,#opac-detail #catalogue_detail_biblio .results_summary.subjects>.resource_list::-webkit-scrollbar-thumb{background:var(--r-line-strong);border-radius:999px}#opac-detail a:focus-visible,#opac-detail button:focus-visible,#opac-detail [role="button"]:focus-visible{outline:2px solid rgba(125,27,27,.55);outline-offset:2px;box-shadow:0 0 0 5px rgba(125,27,27,.12)}#opac-detail .titulo-ficha-ux h1.title{letter-spacing:-.012em}#opac-detail .titulo-ficha-ux__meta{gap:.45rem 0;margin-top:.65rem;font-size:.78rem}#opac-detail{scroll-behavior:smooth}#opac-detail #holdings_panel{scroll-margin-top:1rem}/* === MEJORA UX FICHA DETALLE — FIN === */ 
+</style>
+ <!-- prettier-ignore-end -->
+
+
+
+
+ <link href="https://koha.cnc.una.py/cgi-bin/koha/opac-search.pl?format=opensearchdescription" rel="search" title="Buscar Universidad Nacional de Asunción" type="application/opensearchdescription+xml" />
+ <link rel="unapi-server" type="application/xml" title="unAPI" href="https://koha.cnc.una.py/cgi-bin/koha/unapi" />
+
+
+<script>
+    var Koha = {};
+    function _(s) { return s } // dummy function for gettext
+    const is_logged_in = false
+</script>
+
+ <script src="/opac-tmpl/bootstrap/es-ES/js/locale_data_25.1101000.js"></script>
+
+<script src="/opac-tmpl/bootstrap/js/Gettext_25.1101000.js"></script>
+<script src="/opac-tmpl/bootstrap/js/i18n_25.1101000.js"></script>
+
+<link type="text/css" href="/opac-tmpl/lib/fontawesome/css/fontawesome.min_25.1101000.css" rel="stylesheet">
+<link rel="stylesheet" href="/opac-tmpl/lib/fontawesome/css/brands.min_25.1101000.css" type="text/css">
+<link type="text/css" href="/opac-tmpl/lib/fontawesome/css/solid.min_25.1101000.css" rel="stylesheet">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="https://koha.cnc.una.py/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&count=50&sort_by=acqdate_dsc&format=rss" rel="alternate" title="Universidad Nacional de Asunción Buscar en fuente RSS" type="application/rss+xml" />
+</head>
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+<body ID="results" class="branch-default scrollto" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<button id="scrolltocontent">Saltar al contenido principal</button>
+<!-- prettier-ignore-start -->
+<!-- closed in opac-bottom.inc -->
+<div id="wrapper">
+<!-- prettier-ignore-end -->
+<header id="header-region" class="noprint">
+ <nav class="navbar navbar-expand">
+ <div id="logo">
+ <a class="navbar-brand" href="/cgi-bin/koha/opac-main.pl">
+ <img src="https://www.una.py/wp-content/uploads/2021/09/una_logotipo_letras_blancas.png"
+                     alt="Universidad Nacional de Asunción"
+                     class="una-logo-nav"
+                     onerror="this.src='/opac-tmpl/bootstrap/images/logo-una-blanco.png'">
+ </a>
+ </div>
+ <ul class="una-nav-links" aria-label="Navegación principal">
+ <li><a href="/cgi-bin/koha/opac-main.pl"><i class="fa fa-home" aria-hidden="true"></i> Inicio</a></li>
+ <li><a href="/cgi-bin/koha/opac-search.pl"><i class="fa fa-search" aria-hidden="true"></i> Búsqueda avanzada</a></li>
+ <li><a href="/cgi-bin/koha/opac-library.pl"><i class="fa fa-university" aria-hidden="true"></i> Bibliotecas</a></li>
+ </ul>
+ 
+ 
+ <ul id="cart-list-nav" class="navbar-nav">
+ 
+ <li role="presentation" class="divider-vertical"></li>
+ 
+ 
+ </ul>
+ <!-- / .navbar-nav -->
+ 
+ 
+ </nav>
+ <!-- /navbar -->
+
+ 
+</header>
+<!-- / header-region -->
+
+
+ <div class="container-fluid">
+ 
+ <div class="row">
+ <div class="col">
+ <div id="opac-main-search" class="mastheadsearch">
+ 
+ <form name="searchform" method="get" action="/cgi-bin/koha/opac-search.pl" id="searchform">
+ <div class="row gx-2">
+ <div class="col-sm-auto order-2 order-sm-2">
+ <label for="masthead_search" class="visually-hidden">Buscar en el catálogo por:</label>
+ <select name="idx" id="masthead_search" class="form-select">
+ 
+ <option value="" data-placeholder="Buscar en el catálogo">Catálogo de biblioteca</option>
+ 
+ 
+ <option value="ti" data-placeholder="Buscar en el catálogo por título">Título</option>
+ 
+ 
+ <option value="au" data-placeholder="Buscar en el catálogo por autor">Autor</option>
+ 
+ 
+ <option value="su" data-placeholder="Buscar en el catálogo por tema">Tema</option>
+ 
+ 
+ <option value="nb" data-placeholder="Buscar en el catálogo por ISBN">ISBN</option>
+ 
+ 
+ <option value="ns" data-placeholder="Buscar en el catálogo por ISSN">ISSN</option>
+ 
+ 
+ <option value="se" data-placeholder="Buscar en el catálogo por serie">Series</option>
+ 
+ 
+ 
+ <option value="callnum" data-placeholder="Buscar en el catálogo por signatura">Signatura topográfica</option>
+ 
+ 
+ </select>
+ </div>
+ <!-- /.col-sm-auto -->
+
+ <div class="col order-4 order-sm-3">
+ 
+ <label for="translControl1" class="visually-hidden">Buscar en el cat&aacute;logo</label>
+ <input type="text" class="transl1 form-control" id="translControl1" name="q" value="teledeteccion" placeholder="Buscar en el cat&aacute;logo" /><span id="translControl"></span>
+ 
+ </div>
+ <!-- /.col -->
+
+ 
+ <div class="col-sm col-md-3 col-lg-2 order-3 order-sm-4">
+ <label for="select_library" class="visually-hidden">Buscar el catálogo en:</label>
+ <select name="limit" id="select_library" class="form-select">
+ <option value="">Todas las bibliotecas</option>
+
+ 
+ <optgroup label="Bibliotecas">
+ 
+ 
+ <option value="branch:DGICT">Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica</option>
+ 
+ 
+ 
+ <option value="branch:FIL">Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía</option>
+ 
+ 
+ 
+ <option value="branch:BC">Biblioteca Central de la Universidad Nacional de Asunción</option>
+ 
+ 
+ 
+ <option value="branch:BCT">Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado</option>
+ 
+ 
+ 
+ <option value="branch:FORA">Biblioteca de Ingeniería Forestal</option>
+ 
+ 
+ 
+ <option value="branch:DESCP">Biblioteca de la Escuela de Ciencias Sociales y Políticas</option>
+ 
+ 
+ 
+ <option value="branch:ARQ">Biblioteca de la Facultad de Arquitectura, Diseño y Arte</option>
+ 
+ 
+ 
+ <option value="branch:AGRO">Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)</option>
+ 
+ 
+ 
+ <option value="branch:CAAZP">Biblioteca de la Facultad de Ciencias Agrarias, Filial Caazapá</option>
+ 
+ 
+ 
+ <option value="branch:AGRC">Biblioteca de la Facultad de Ciencias Agrarias, Filial Chaco</option>
+ 
+ 
+ 
+ <option value="branch:CAPJC">Biblioteca de la Facultad de Ciencias Agrarias, Filial Pedro Juan Caballero</option>
+ 
+ 
+ 
+ <option value="branch:CASPY">Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú</option>
+ 
+ 
+ 
+ <option value="branch:CASR">Biblioteca de la Facultad de Ciencias Agrarias, Filial Santa Rosa</option>
+ 
+ 
+ 
+ <option value="branch:MED">Biblioteca de la Facultad de Ciencias Médicas</option>
+ 
+ 
+ 
+ <option value="branch:QUI">Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)</option>
+ 
+ 
+ 
+ <option value="branch:QGY">Biblioteca de la Facultad de Ciencias Químicas, Guayaibí</option>
+ 
+ 
+ 
+ <option value="branch:FACSO">Biblioteca de la Facultad de Ciencias Sociales</option>
+ 
+ 
+ 
+ <option value="branch:IAB">Biblioteca de la Facultad de Enfermería y Obstetricia</option>
+ 
+ 
+ 
+ <option value="branch:ING">Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)</option>
+ 
+ 
+ 
+ <option value="branch:BFIA">Biblioteca de la Facultad de Ingeniería. Filial Ayolas</option>
+ 
+ 
+ 
+ <option value="branch:ODO">Biblioteca de la Facultad de Odontología</option>
+ 
+ 
+ 
+ <option value="branch:REC">Biblioteca de Postgrado Rectorado - Asunción</option>
+ 
+ 
+ 
+ <option value="branch:IICS">Biblioteca del Instituto de Investigaciones en Ciencias de la Salud</option>
+ 
+ 
+ 
+ <option value="branch:ISA">Biblioteca del Instituto Superior de Arte Dra. Olga Blinder-FADA</option>
+ 
+ 
+ 
+ <option value="branch:DCSBA">Biblioteca DER Benjamín Aceval</option>
+ 
+ 
+ 
+ <option value="branch:DCSC">Biblioteca DER Caacupé</option>
+ 
+ 
+ 
+ <option value="branch:DCSCA">Biblioteca DER Caaguazú</option>
+ 
+ 
+ 
+ <option value="branch:DER">Biblioteca DER Central</option>
+ 
+ 
+ 
+ <option value="branch:DCSCO">Biblioteca DER Coronel Oviedo</option>
+ 
+ 
+ 
+ <option value="branch:DCSPJ">Biblioteca DER Pedro Juan Caballero</option>
+ 
+ 
+ 
+ <option value="branch:DCSQ">Biblioteca DER Quiindy</option>
+ 
+ 
+ 
+ <option value="branch:DCSSE">Biblioteca DER San Estanislao</option>
+ 
+ 
+ 
+ <option value="branch:DCSSJ">Biblioteca DER San Juan Bautista</option>
+ 
+ 
+ 
+ <option value="branch:DCSSP">Biblioteca DER San Pedro</option>
+ 
+ 
+ 
+ <option value="branch:FACEN">Biblioteca e Internet FACEN</option>
+ 
+ 
+ 
+ <option value="branch:ECO">Biblioteca FCE - Prof. Thomas E. Cunningham</option>
+ 
+ 
+ 
+ <option value="branch:CVCA">Biblioteca FCV Caazapá</option>
+ 
+ 
+ 
+ <option value="branch:CVCON">Biblioteca FCV Concepción - Prof. Dr. José Colmán López</option>
+ 
+ 
+ 
+ <option value="branch:VETSE">Biblioteca FCV San Estanislao</option>
+ 
+ 
+ 
+ <option value="branch:CVSJB">Biblioteca FCV San Juan Bautista</option>
+ 
+ 
+ 
+ <option value="branch:VET">Biblioteca FCV San Lorenzo - Prof. Dr. C. Arsenio Vasconsellos</option>
+ 
+ 
+ 
+ <option value="branch:POL">Biblioteca FPUNA (Centro de Información y Cultura)</option>
+ 
+ 
+ 
+ <option value="branch:POLCO">Biblioteca FPUNA Coronel Oviedo</option>
+ 
+ 
+ 
+ <option value="branch:ISL">Biblioteca Instituto Superior de Lenguas</option>
+ 
+ 
+ </optgroup>
+ <optgroup label="Grupos">
+ 
+ 
+ <option value="multibranchlimit:1">UNA – Universidad Nacional de Asunción</option>
+ 
+ 
+ </optgroup>
+ 
+ </select>
+ <!-- /#select_library -->
+ </div>
+ <!-- /.col-sm-auto -->
+ 
+
+ <div class="order-5 col-sm-auto">
+ <button aria-label="Buscar" class="btn btn-primary" id="searchsubmit" title="Buscar" type="submit">
+ <i class="fa fa-search" aria-hidden="true"></i>
+ </button>
+ </div>
+ </div>
+ <!-- /.form-row -->
+ <input type="hidden" name="weight_search" value="1" />
+ </form>
+  </div
+                    ><!-- /#opac-main-search -->
+ </div>
+ <!-- /.col -->
+ </div>
+ <!-- /.row -->
+ 
+
+ <div class="row">
+ <ul class="nav" id="moresearches">
+ <li class="nav-item">
+ <a href="/cgi-bin/koha/opac-search.pl">Búsqueda avanzada</a>
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="nav-item">
+ <a id="library_page" href="/cgi-bin/koha/opac-library.pl">
+ 
+ <span>Bibliotecas</span>
+ 
+ </a>
+ </li>
+ 
+ 
+ 
+
+ </ul>
+ <!-- /.nav#moresearches -->
+ </div>
+ <!-- /.row -->
+ </div>
+ <!-- /.container-fluid -->
+
+
+
+
+
+
+
+<main class="main">
+ 
+ <nav id="breadcrumbs" aria-label="Breadcrumb" class="breadcrumbs">
+ <ol class="breadcrumb">
+ 
+ 
+ 
+ 
+ <li class="breadcrumb-item"> 
+ <a href="/cgi-bin/koha/opac-main.pl" title="Inicio">Inicio</a>
+  </li>
+ 
+
+ <li class="breadcrumb-item"> 
+ <a href="/cgi-bin/koha/opac-search.pl">Búsqueda avanzada</a>
+  </li>
+ 
+
+ 
+ 
+ 
+ <li class="breadcrumb-item active">
+ <a aria-current="page" aria-disabled="true" tabindex="-1"> 
+ 
+ <span title="Ha buscado para 'kw,wrdl: teledeteccion'">Resultados de búsqueda para 'teledeteccion', página 2 de 20</span
+                    >
+ 
+  </a>
+ </li>
+ 
+ </ol>
+ </nav>
+
+
+ 
+
+ <div class="container-fluid">
+ <div class="row">
+ 
+ <div class="col-lg-2">
+ <div id="facetcontainer">
+ <!-- FACETS START -->
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div id="search-facets">
+ <h2><a href="#" class="menu-collapse-toggle" aria-expanded="false">Refinar su búsqueda</a></h2>
+ <ul class="menu-collapse">
+ 
+ <li id="availability_facet"
+                ><h3 id="facet-availability">Disponibilidad</h3>
+ <ul>
+ 
+ <li><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;limit=available">Limitar a registros con ítems disponibles</a></li>
+ 
+ </ul>
+ 
+ </li>
+
+ 
+ 
+ <li id="au_id">
+ 
+ <h3 id="facet-authors">Autores</h3>
+ 
+ <ul>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=au:Juan%20Jos%C3%A9%20Bonnin%20Acosta" title="Juan José Bonnin Acosta">Juan José Bonnin Aco...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=au:Larissa%20Karina%20Rejalaga%20Noguera" title="Larissa Karina Rejalaga Noguera">Larissa Karina Rejal...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=au:Lucia%20Janet%20Villalba%20Mar%C3%ADn" title="Lucia Janet Villalba Marín">Lucia Janet Villalba...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=au:Luc%C3%ADa%20Janet%20Villalba%20Mar%C3%ADn" title="Lucía Janet Villalba Marín">Lucía Janet Villalba...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=au:Sergio%20Manuel%20Chamorro%20D%C3%ADaz" title="Sergio Manuel Chamorro Díaz">Sergio Manuel Chamor...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ </ul>
+ </li>
+ 
+ 
+ 
+ <li id="holdingbranch_id">
+ 
+ <h3 id="facet-holding-libraries">Bibliotecas depositarias</h3>
+ 
+ <ul>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=holdingbranch:BCT" title="BCT">Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=holdingbranch:AGRO" title="AGRO">Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=holdingbranch:ING" title="ING">Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=holdingbranch:FACEN" title="FACEN">Biblioteca e Internet FACEN</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=holdingbranch:POL" title="POL">Biblioteca FPUNA (Centro de Información y Cultura)</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ </ul>
+ </li>
+ 
+ 
+ 
+ <li id="itype_id">
+ 
+ <h3 id="facet-itemtypes">Tipos de ítem</h3>
+ 
+ <ul>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=itype:BK" title="BK">Libros</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=itype:MU" title="MU">Música</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=itype:TES" title="TES">Tesis</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ </ul>
+ </li>
+ 
+ 
+ 
+ <li id="location_id">
+ 
+ <h3 id="facet-locations">Ubicaciones</h3>
+ 
+ <ul>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=location:GEN" title="GEN">Colección general</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ </ul>
+ </li>
+ 
+ 
+ 
+ <li id="se_id">
+ 
+ <h3 id="facet-series">Series</h3>
+ 
+ <ul>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=se:%C3%81rea%20Bosque%20y%20Biodiversidad" title="Área Bosque y Biodiversidad">Área Bosque y Biodiv...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=se:%C3%81rea%20de%20Ingenier%C3%ADa%20Agr%C3%ADcola" title="Área de Ingeniería Agrícola">Área de Ingeniería A...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=se:Colecci%C3%B3n%20ingenier%C3%ADa%20del%20medioambiente" title="Colección ingeniería del medioambiente">Colección ingeniería...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=se:Magister%20Scientae%20en%20Ciencias%20del%20Suelo%20y%20Ordenamiento%20Territorial" title="Magister Scientae en Ciencias del Suelo y Ordenamiento Territorial">Magister Scientae en...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=se:Monograf%C3%ADas%20y%20tratado%20Ger" title="Monografías y tratado Ger">Monografías y tratad...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ </ul>
+ </li>
+ 
+ 
+ 
+ <li id="su-to_id">
+ 
+ <h3 id="facet-topics">Temas</h3>
+ 
+ <ul>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=su-to:SENSORES%20REMOTOS" title="SENSORES REMOTOS">SENSORES REMOTOS</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=su-to:TELEDETECCION" title="TELEDETECCION">TELEDETECCION</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=su-to:TESIS%20Y%20DISERTACIONES%20ACADEMICAS" title="TESIS Y DISERTACIONES ACADEMICAS">TESIS Y DISERTACIONE...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=su-to:TESIS%20Y%20DISERTACIONES%20ACADEMICAS%20-%20PARAGUAY" title="TESIS Y DISERTACIONES ACADEMICAS - PARAGUAY">TESIS Y DISERTACIONE...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ 
+ 
+ 
+ 
+ <li class="" style="">
+ 
+ 
+ <span class="facet-label"><a href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&amp;sort_by=relevance&amp;count=10&limit=su-to:TRABAJOS%20DE%20FIN%20DE%20GRADO" title="TRABAJOS DE FIN DE GRADO">TRABAJOS DE FIN DE G...</a></span>
+ 
+ 
+ </li>
+ 
+ 
+ </ul>
+ </li>
+ 
+ 
+ </ul>
+ </div>
+ <!-- / #search-facets -->
+
+ 
+
+
+ <!-- FACETS END -->
+ </div>
+ </div>
+ 
+
+ 
+ 
+ 
+ 
+ <div class="col-lg-10 maincontent">
+ 
+ 
+ <h1 id="numresults">
+ Su búsqueda retornó 197 resultados. <a aria-label="Suscribirse a esta búsqueda" class="btn btn-link rsssearchlink noprint" href="https://koha.cnc.una.py/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&count=50&sort_by=acqdate_dsc&format=rss">
+ <i aria-hidden="true" class="fa fa-rss rsssearchicon" title="Suscribirse a esta búsqueda"></i>
+ </a>
+ </h1>
+ 
+ 
+ 
+
+ <div id="userresults">
+ 
+
+ 
+ 
+ 
+ 
+
+ <!-- Search Results Table -->
+ 
+ <div class="searchresults">
+ <form action="/cgi-bin/koha/opac-search.pl" method="get" name="bookbag_form" id="bookbag_form">
+ <legend class="sr-only">Ordenar</legend>
+ 
+ 
+ <input type="hidden" name="idx" value="kw" />
+ 
+ <input type="hidden" name="q" value="teledeteccion" />
+ 
+ 
+ 
+
+ <div id="floating" class="sticky">
+ <div id="toolbar" class="toolbar row align-items-center">
+ <div id="top-pages" class="col"> 
+
+ <nav aria-label="Paginación de resultados de la búsqueda" class="noprint">
+ 
+ <ul class="pagination pagination-sm">
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la primera página" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&sort_by=relevance&count=10"><i class="fa fa-fw fa-angle-double-left" aria-hidden="true"></i> Primero</a
+                    >
+ </li>
+ <li class="page-item">
+ <a aria-label="Ir a la página anterior" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=0&sort_by=relevance&count=10">
+ <i class="fa fa-fw fa-angle-left" aria-hidden="true"></i> Previo</a
+                    >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 1" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=0&sort_by=relevance&count=10">1</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item active" aria-current="active">
+ <a aria-current="true" aria-label="Página actual: Página 2" class="page-link" href="#">2</a>
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 3" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=20&sort_by=relevance&count=10">3</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 4" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=30&sort_by=relevance&count=10">4</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 5" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=40&sort_by=relevance&count=10">5</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 6" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=50&sort_by=relevance&count=10">6</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 7" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=60&sort_by=relevance&count=10">7</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 8" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=70&sort_by=relevance&count=10">8</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 9" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=80&sort_by=relevance&count=10">9</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 10" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=90&sort_by=relevance&count=10">10</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página siguiente" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=20&sort_by=relevance&count=10">Siguiente <i class="fa fa-fw fa-angle-right" aria-hidden="true"></i
+                    ></a>
+ </li>
+ <li class="page-item">
+ <a aria-label="Ir a la última página" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=190&sort_by=relevance&count=10">Último <i class="fa fa-fw fa-angle-double-right" aria-hidden="true"></i
+                    ></a>
+ </li>
+ 
+ </ul>
+ </nav>
+
+ </div>
+ 
+ <div class="sort_by col-sm-auto">
+ <label for="sort_by">Ordenar resultados por:</label>
+ <label for="sort_by" class="sr-only">Ordenar por:</label>
+ <select id="sort_by" class="resort form-select form-select-sm" name="sort_by">
+ <option value="relevance">Relevancia</option>
+<optgroup label="Popularidad">
+ 
+ <option value="popularity_dsc">Popularidad (mayor a menor)</option>
+ 
+ 
+ <option value="popularity_asc">Popularidad (menor a mayor)</option>
+ 
+</optgroup>
+<optgroup label="Autor">
+ 
+ <option value="author_az">Autor (A-Z)</option>
+ 
+ 
+ <option value="author_za">Autor (Z-A)</option>
+ 
+</optgroup>
+<optgroup label="Signatura topográfica">
+ 
+ <option value="call_number_asc">Signatura topográfica (0-9 a A-Z)</option>
+ 
+ 
+ <option value="call_number_dsc">Signatura topográfica (Z-A a 9-0)</option>
+ 
+</optgroup>
+<optgroup label="Fechas">
+ 
+ <option value="pubdate_dsc">Publicación/Fecha de Copyright: Nuevos a viejos</option>
+ 
+ 
+ <option value="pubdate_asc">Publicación/Fecha de Copyright: Viejos a nuevos</option>
+ 
+ 
+ <option value="acqdate_dsc">Fecha de adquisición: Nuevos a viejos</option>
+ 
+ 
+ <option value="acqdate_asc">Fecha de adquisición: Viejos a nuevos</option>
+ 
+</optgroup>
+<optgroup label="Título">
+ 
+ <option value="title_az">Título (A-Z)</option>
+ 
+ 
+ <option value="title_za">Título (Z-A)</option>
+ 
+</optgroup>
+
+ </select>
+
+ 
+ </div>
+ <!-- /.sort_by -->
+ <div id="sortsubmit" class="sort_by col-auto">
+ <input class="btn btn-primary btn-sm clearfix" type="submit" value="Ir" />
+ </div>
+ <!-- /.sort_by -->
+ 
+ </div>
+ <!-- / #toolbar -->
+
+ <div class="selections-toolbar toolbar noprint">
+ 
+
+ <div class="check_control">
+ <!-- checkall, clearall are now needed for placehold -->
+ <span class="clearall">
+ <a id="CheckAll" class="btn btn-link btn-sm" href="#">Seleccionar todo</a>
+ </span>
+ <span class="checkall">
+ <a id="CheckNone" class="btn btn-link btn-sm" href="#">Limpiar todo</a>
+ </span>
+ </div>
+
+ <div class="links">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ </div>
+ <!-- / .links -->
+ 
+</div>
+<!-- / .selections-toolbar -->
+
+ </div>
+ <!-- /#floating -->
+
+ <!-- TABLE RESULTS START -->
+ <table class="table table-striped" role="presentation">
+ <span class="sr-only">Resultados</span>
+
+ <!-- Actual Search Results -->
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 11.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_153709" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=153709" class="title">Estimación de área de riego por pivote central mediante teledetección para el Departamento de Caazapá período 2018-2020 </a><span class="byAuthor">por</span> <ul class="author resource_list">
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Aquino%20Caballero%2C%20Noelia%22">Aquino Caballero, Noelia<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Rub%C3%A9n%20Franco%20Ibars%22">Rubén Franco Ibars<span class="relatorcode"> [orientador]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Lucia%20Janet%20Villalba%20Mar%C3%ADn%22">Lucia Janet Villalba Marín<span class="relatorcode"> [orientador]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Sergio%20Manuel%20Chamorro%20D%C3%ADaz%22">Sergio Manuel Chamorro Díaz<span class="relatorcode"> [orientador]</span></a></li>
+</ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"></span> </div><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">Facultad de Ciencias Agrarias, UNA Universidad Nacional de Asunción</span></span> <span property="date" class="rda264_date">2023</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Tesis. </div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">631.587</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 12.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_153941" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=153941" class="title">Estimación de la evapotranspiración en base a herramientas de teledetección en la ciudad de San Lorenzo, Departamento Central, Paraguay </a><span class="byAuthor">por</span> <ul class="author resource_list">
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Vera%20Aquino%2C%20Jorge%20Rafael%22">Vera Aquino, Jorge Rafael<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Mar%C3%ADa%20Soledad%20Amoa%20B%C3%A1ez%22">María Soledad Amoa Báez<span class="relatorcode"> [orientador]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22%C3%81ngela%20Ramona%20Mancuello%20Sandoval%22">Ángela Ramona Mancuello Sandoval<span class="relatorcode"> [orientador]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Sergio%20Manuel%20Chamorro%20D%C3%ADz%22">Sergio Manuel Chamorro Díz<span class="relatorcode"> [orientador]</span></a></li>
+</ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"></span> </div><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">Facultad de Ciencias Agrarias, UNA Universidad Nacional de Asunción</span></span> <span property="date" class="rda264_date">2021</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Tesis. </div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">551.572</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 13.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_155942" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=155942" class="title">Evaluación del cumplimiento de la Ley 4241/10 aplicando teledetección en la Microcuenca del Arroyo Ndun Cué, Distrito de Yhú, Departamento de Caaguazú, Paraguay </a><span class="byAuthor">por</span> <ul class="author resource_list">
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Ojeda%20Jara%2C%20Liz%20Adriana%22">Ojeda Jara, Liz Adriana<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Lucia%20Janet%20Villalba%20Marin%22">Lucia Janet Villalba Marin<span class="relatorcode"> [orientador]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Carlos%20Eliseo%20Enciso%20Villalba%22">Carlos Eliseo Enciso Villalba<span class="relatorcode"> [orientador]</span></a></li>
+</ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"></span> </div><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">CIAMB</span></span> <span property="date" class="rda264_date">2015</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Tesis. </div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">333.917</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 14.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_209880" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=209880" class="title">Identificación de la potencial ubicación de su sistema de capacitación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México </a><span class="byAuthor">por</span> <ul class="author resource_list"><li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22M%C3%A9ndez%20Gonz%C3%A1lez%2C%20Eliana%20Ver%C3%B3nica%22">Méndez González, Eliana Verónica</a></li></ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"></span> </div><span class="results_summary rda264"><span class="label">Editor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">FADA-UNA</span></span> <span property="date" class="rda264_date">2024</span></span><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca de la Facultad de Arquitectura, Diseño y Arte</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">PAR/T/628.14</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 15.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_264464" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=264464" class="title">Implementación de un sistema de teledetección en los puestos de distribución de energía eléctrica para mejorar su servicio </a><span class="byAuthor">por</span> <ul class="author resource_list">
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Araujo%20Bobadilla%2C%20Fernando%20Diosnel%22">Araujo Bobadilla, Fernando Diosnel<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22P%C3%A9rez%20Minck%2C%20Jorge%20Ricardo%22">Pérez Minck, Jorge Ricardo<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Carlos%20Mar%C3%ADa%20Daniel%20Penayo%20Mart%C3%AD%20Oscar%20Machuca%20Gonz%C3%A1lez%22">Carlos María Daniel Penayo Martí Oscar Machuca González<span class="relatorcode"> [orientador]</span></a></li>
+</ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"></span> </div><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">Universidad Nacional de Asunción</span></span> <span property="date" class="rda264_date">2017</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Tesis. </div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">621.3191</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 16.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_267496" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=267496" class="title">Identificación de la potencial ubicación de un sistema de captación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México </a><span class="byAuthor">por</span> <ul class="author resource_list">
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22M%C3%A9ndez%20Gonz%C3%A1lez%2C%20Eliana%20Ver%C3%B3nica%22">Méndez González, Eliana Verónica<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Evelyn%20Madelaire%20Megumi%20Yamanaka%22">Evelyn Madelaire Megumi Yamanaka<span class="relatorcode"> [orientador]</span></a></li>
+</ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"></span> </div><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">Universidad Nacional de Asunción</span></span> <span property="date" class="rda264_date">2024</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Tesis. </div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">628.21</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 17.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_512122" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=512122" class="title">Identificación de la potencial ubicación de su sistema de capacitación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México </a><span class="byAuthor">por</span> <ul class="author resource_list"><li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22M%C3%A9ndez%20Gonz%C3%A1lez%2C%20Eliana%20Ver%C3%B3nica%22">Méndez González, Eliana Verónica<span class="relatorcode"> [autor]</span></a></li></ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"><span class="label">; Forma literaria: </span>
+ No es ficción </span> </div><span class="results_summary languages"><span class="language"><span class="label">Idioma: </span><span class="lang_code-spa">Español</span><span class="separator"> </span></span></span><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">FADA-UNA</span></span> <span property="date" class="rda264_date">2024</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Tesis. </div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca de la Facultad de Arquitectura, Diseño y Arte</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">PAR/T/628.14 MENi</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 18.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_613808" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=613808" class="title">Estimación de área de riego por pivote central mediante teledetección para el Departamento de Caazapá periodo 2018/2020 </a><span class="byAuthor">por</span> <ul class="author resource_list">
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Aquino%20Caballero%2C%20Noelia%22">Aquino Caballero, Noelia<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Sergio%20Chamorro%20Lucia%20Villalba%20Rub%C3%A9n%20Franco%22">Sergio Chamorro Lucia Villalba Rubén Franco<span class="relatorcode"> [orientador]</span></a></li>
+</ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"><span class="label">; Forma literaria: </span>
+ No es ficción </span> </div><span class="results_summary languages"><span class="language"><span class="label">Idioma: </span><span class="lang_code-spa">Español</span><span class="separator"> </span></span></span><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">Universidad Nacional de Asunción</span></span> <span property="date" class="rda264_date">2023</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Trabajo de fin de grado. </div><div class="results_summary online_resources">
+<span class="label">Recursos en línea: </span><ul class="resource_list"><li><a href="http://sdi.cnc.una.py/catbib/documentos/tesis/20212.pdf">Acceso en linea</a></li></ul>
+</div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">631.587 Aq56e</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 19.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_612475" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=612475" class="title">Identificación de la potencial ubicación de un sistema de captación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México </a><span class="byAuthor">por</span> <ul class="author resource_list">
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22M%C3%A9ndez%20Gonz%C3%A1lez%2C%20Eliana%20Ver%C3%B3nica%22">Méndez González, Eliana Verónica<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Evelyn%20Madelaire%22">Evelyn Madelaire<span class="relatorcode"> [orientador]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Megumi%20Yamanaka%22">Megumi Yamanaka<span class="relatorcode"> [orientador]</span></a></li>
+</ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"><span class="label">; Forma literaria: </span>
+ No es ficción </span> </div><span class="results_summary languages"><span class="language"><span class="label">Idioma: </span><span class="lang_code-spa">Español</span><span class="separator"> </span></span></span><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">Universidad Nacional de Asunción</span></span> <span property="date" class="rda264_date">2024</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Trabajo de fin de grado. </div><div class="results_summary online_resources">
+<span class="label">Recursos en línea: </span><ul class="resource_list"><li><a href="http://sdi.cnc.una.py/catbib/documentos/tesis/18879.pdf">Acceso en linea</a></li></ul>
+</div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">628.21 M522i</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ <tr>
+ 
+ 
+ 
+ 
+ <td class="selectcol">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </td>
+
+ 
+ <td class="numcol">
+ 
+ 20.
+ 
+ </td>
+
+ 
+ 
+ 
+ <td class="bibliocol">
+ 
+ <div id="title_summary_605909" class="title_summary">
+ 
+
+<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=605909" class="title">Implementación de un sistema de teledetección en los puestos de distribución de energía eléctrica para mejorar su servicio </a><span class="byAuthor">por</span> <ul class="author resource_list">
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Araujo%20Bobadilla%2C%20Fernando%20Diosnel%22">Araujo Bobadilla, Fernando Diosnel<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22P%C3%A9rez%20Minck%2C%20Jorge%20Ricardo%22">Pérez Minck, Jorge Ricardo<span class="relatorcode"> [autor]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Carlos%20Mar%C3%ADa%20Daniel%20Penayo%20Mart%C3%AD%22">Carlos María Daniel Penayo Martí<span class="relatorcode"> [orientador]</span></a></li>
+<li><a href="/cgi-bin/koha/opac-search.pl?q=au:%22Oscar%20Machuca%20Gonz%C3%A1lez%22">Oscar Machuca González<span class="relatorcode"> [orientador]</span></a></li>
+</ul><div class="results_summary type">
+<span class="results_material_type"><span class="label">Tipo de material: </span><img src="/opac-tmpl/lib/famfamfam/BK.png" alt="" class="materialtype mt_icon_BK"> Texto</span><span class="results_format"><span class="label">; Formato: </span>
+ impreso </span><span class="results_contents_literary"><span class="label">; Forma literaria: </span>
+ No es ficción </span> </div><span class="results_summary languages"><span class="language"><span class="label">Idioma: </span><span class="lang_code-spa">Español</span><span class="separator"> </span></span></span><span class="results_summary rda264"><span class="label">Productor: </span><span class="rda264_place" property="location">San Lorenzo</span> <span property="rda264_name" typeof="Organization"><span property="name" class="rda264_name">Universidad Nacional de Asunción</span></span> <span property="date" class="rda264_date">2017</span></span><div class="results_summary diss_note">
+<span class="label">Nota de disertación: </span>Trabajo de fin de grado. </div><div class="results_summary online_resources">
+<span class="label">Recursos en línea: </span><ul class="resource_list"><li><a href="http://sdi.cnc.una.py/catbib/documentos/tesis/12313.pdf">Acceso en linea</a></li></ul>
+</div><div class="results_summary availability">
+<span class="label">Disponibilidad: </span><span class="available reallyavailable"><span class="AvailabilityLabel"><strong>Ítems disponibles para préstamo: </strong></span><span class="ItemSummary"><span class="available"><span class="ItemBranch">Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado</span> (1)<span class="CallNumberAndLabel"><span class="LabelCallNumber">Signatura topográfica: </span><span class="CallNumber">621.3191</span></span>. </span></span></span>
+</div>
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ <div class="actions-menu noprint">
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+</div>
+
+ </div>
+ </td>
+ </tr>
+ 
+ </table>
+ </form>
+ <!-- / #bookbag_form -->
+
+ <form id="hold_form" name="hold_form" method="get" action="/cgi-bin/koha/opac-reserve.pl">
+ <!-- The value will be set by holdBiblioNums() in basket.js -->
+ <input id="hold_form_biblios" type="hidden" name="biblionumbers" value="" />
+ </form>
+ </div>
+ <!-- / .searchresults -->
+
+ <div id="bottom-pages">
+
+ <nav aria-label="Paginación de resultados de la búsqueda" class="noprint">
+ 
+ <ul class="pagination pagination-sm">
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la primera página" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&sort_by=relevance&count=10"><i class="fa fa-fw fa-angle-double-left" aria-hidden="true"></i> Primero</a
+                    >
+ </li>
+ <li class="page-item">
+ <a aria-label="Ir a la página anterior" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=0&sort_by=relevance&count=10">
+ <i class="fa fa-fw fa-angle-left" aria-hidden="true"></i> Previo</a
+                    >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 1" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=0&sort_by=relevance&count=10">1</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item active" aria-current="active">
+ <a aria-current="true" aria-label="Página actual: Página 2" class="page-link" href="#">2</a>
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 3" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=20&sort_by=relevance&count=10">3</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 4" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=30&sort_by=relevance&count=10">4</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 5" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=40&sort_by=relevance&count=10">5</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 6" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=50&sort_by=relevance&count=10">6</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 7" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=60&sort_by=relevance&count=10">7</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 8" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=70&sort_by=relevance&count=10">8</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 9" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=80&sort_by=relevance&count=10">9</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página 10" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=90&sort_by=relevance&count=10">10</a
+                        >
+ </li>
+ 
+ 
+ 
+ <li class="page-item">
+ <a aria-label="Ir a la página siguiente" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=20&sort_by=relevance&count=10">Siguiente <i class="fa fa-fw fa-angle-right" aria-hidden="true"></i
+                    ></a>
+ </li>
+ <li class="page-item">
+ <a aria-label="Ir a la última página" class="page-link" href="/cgi-bin/koha/opac-search.pl?idx=kw&q=teledeteccion&offset=190&sort_by=relevance&count=10">Último <i class="fa fa-fw fa-angle-double-right" aria-hidden="true"></i
+                    ></a>
+ </li>
+ 
+ </ul>
+ </nav>
+
+</div>
+ 
+
+ 
+ 
+ </div>
+ <!-- / #userresults -->
+ </div>
+ <!-- /.span10/12 -->
+ </div>
+ <!-- / .row -->
+ </div>
+ <!-- / .container-fluid --> </main
+><!-- / .main -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ <div class="container-fluid">
+ <div class="row">
+ <div class="col"> 
+ 
+ <div id="opaccredits">
+ 
+ <div class="es-ES_item">
+ 
+ <div class="es-ES_body"><footer class="una-footer">
+  <div class="una-footer-inner">
+    <p>&copy; 2026 Universidad Nacional de Asunci&oacute;n &nbsp;|&nbsp;
+      <a href="mailto:mvillalba@cnc.una.py" title="Moises Villalba Silvero - mvillalba@cnc.una.py">Desarrollado</a>
+      en el <a href="https://cnc.una.py" target="_blank" rel="noopener" title="Centro Nacional de Computaci&oacute;n">CNC</a>
+      para toda la <a href="https://www.una.py/" target="_blank" rel="noopener" title="Universidad Nacional de Asunci&oacute;n">UNA</a>
+      y el p&uacute;blico en general
+    </p>
+  </div>
+</footer></div>
+ </div>
+ 
+ </div>
+ 
+ </div>
+ </div>
+ </div>
+ 
+ <!-- prettier-ignore-start -->
+ </div> <!-- / #wrapper in masthead.inc -->
+ <!-- prettier-ignore-end -->
+
+ 
+ <footer id="changelanguage" class="navbar navbar-expand navbar-light bg-light noprint">
+ <div class="container-fluid">
+ <div class="collapse navbar-collapse">
+ 
+ 
+
+ <div class="navbar-nav flex-grow-1">
+ 
+
+ 
+ </div>
+ 
+ <div class="navbar-nav">
+ <a id="koha_url" class="nav-link koha_url" href="https://koha-community.org">
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+ <path
+                                        fill="currentColor"
+                                        d="M7.394.75c.82-.45 1.75-.72 2.69-.75.5.015.99.1 1.45.27.92.35 1.68 1.05 2.15 1.9.53.865.76 1.875.87 2.875.25 3.315-.98 6.635-3.07 9.18-.825.82-1.835 1.52-3 1.735-.96.135-2-.07-2.775-.675-.48-.365-.67-1-.63-1.575.425.6 1.12 1.015 1.86 1.035.675.03 1.35-.275 1.8-.765.75-.825.835-2.21.12-3.08-.325-.375-.7-.715-1.15-.95-.44-.265-.95-.38-1.46-.45-.93-.06-1.9.11-2.72.57a3.22 3.22 0 0 0-1.565 2.15c-.2.7-.125 1.43-.05 2.14-.31-.81-.43-1.67-.5-2.53v-.64c.12-3.13 1.43-6.2 3.53-8.515.725-.75 1.53-1.43 2.45-1.92Zm0 0"
+                                        style="stroke-width:.500008"
+                                    />
+ </svg>
+ <span class="koha_url_text">Provisto por Koha</span>
+ </a>
+ </div>
+ 
+ </div>
+ <!-- /.collapse.navbar-collapse -->
+ </div>
+ <!-- /.container-fluid -->
+ </footer>
+ <!-- / #changelanguage -->
+ 
+
+
+
+
+<!-- CookieConsentedJS code that may run -->
+
+
+<!-- JavaScript includes -->
+<script src="/opac-tmpl/lib/jquery/jquery-3.6.0.min_25.1101000.js"></script>
+<script src="/opac-tmpl/lib/jquery/jquery-migrate-3.3.2.min_25.1101000.js"></script>
+<script src="/opac-tmpl/lib/bootstrap/js/bootstrap.bundle.min_25.1101000.js"></script>
+<script src="/opac-tmpl/lib/fontfaceobserver/fontfaceobserver.min_25.1101000.js"></script>
+<script src="/opac-tmpl/lib/enquire/enquire.min_25.1101000.js"></script>
+<script>
+    let logged_in_user_id = "";
+</script>
+<script src="/opac-tmpl/bootstrap/js/global_25.1101000.js"></script>
+<script src="/opac-tmpl/bootstrap/js/form-submit_25.1101000.js" type="module"></script>
+
+<script>
+    
+        var query_desc = "kw,wrdl: teledeteccion";
+        var querystring = "teledeteccion";
+        var query_cgi = "idx=kw&amp;q=teledeteccion";
+    
+
+    
+    $(".print-large").on("click",function(){
+        window.print();
+        return false;
+    });
+    $(".addtoshelf").on("click",function(e){
+        e.preventDefault();
+        Dopop( this.href );
+    });
+    $("body").on("click", ".addtocart", function(e){
+        e.preventDefault();
+        var biblionumber = $(this).data("biblionumber");
+        addRecord( biblionumber );
+    });
+    $("body").on("click", ".cartRemove", function(e){
+        e.preventDefault();
+        var biblionumber = $(this).data("biblionumber");
+        delSingleRecord( biblionumber );
+    });
+</script>
+
+ <script>
+        var readCookie;
+    </script>
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/opac-tmpl/lib/js-cookie/js.cookie-3.0.1.min_25.1101000.js"></script>
+<script src="/opac-tmpl/bootstrap/js/show-password-toggle_25.1101000.js"></script>
+<script>
+    $(document).ready(function () {
+        if ($("#searchsubmit").length) {
+            $(document).on("click", "#searchsubmit", function (e) {
+                Cookies.remove("form_serialized", { path: "/" });
+                Cookies.remove("form_serialized_limits", { path: "/" });
+                Cookies.remove("search_path_code", { path: "/" });
+            });
+        }
+    });
+</script>
+
+
+
+
+<script src="/opac-tmpl/lib/dayjs/dayjs.min_25.1101000.js"></script>
+<script src="/opac-tmpl/lib/dayjs/plugin/timezone_25.1101000.js"></script>
+<script src="/opac-tmpl/lib/dayjs/plugin/utc_25.1101000.js"></script>
+<script>
+    dayjs.extend(window.dayjs_plugin_utc);
+    dayjs.extend(window.dayjs_plugin_timezone);
+</script>
+<!-- js-date-format.inc -->
+<script>
+    (function() {
+        var def_date_format = 'metric';
+        var def_time_format = '24hr';
+        var def_tz = 'America/Asuncion';
+
+        var get_date_pattern = function(format) {
+            var date_pattern = 'YYYY-MM-DD';
+            if(format == 'us') date_pattern = 'MM/DD/YYYY';
+            if(format == 'metric') date_pattern = 'DD/MM/YYYY';
+            if(format == 'dmydot') date_pattern = 'DD.MM.YYYY';
+            return date_pattern;
+        };
+
+        var get_time_pattern = function(format) {
+            var time_pattern = 'HH:mm';
+            if(format == '12hr') time_pattern = 'hh:mm a';
+            return time_pattern;
+        };
+
+        /*
+         * A JS equivalent of the KohaDates TT Plugin. Passed an rfc3339 formatted date string,
+         * or JS Date, the function will return a date string formatted as per the koha instance config.
+         * Optionally accepts a dateformat parameter to allow override of the configured output format
+         * as well as a 'withtime' boolean denoting whether to include time or not in the output string.
+         */
+        window.$date = function(value, options) {
+            if(!value) return '';
+            var tz = (options&&options.tz)||def_tz;
+            var m = dayjs(value);
+            if ( ! value.match(/^\d{4}-\d{2}-\d{2}$/ ) ) {
+                m = m.tz(tz);
+            }
+
+            var dateformat = (options&&options.dateformat)||def_date_format;
+            var withtime = (options&&options.withtime)||false;
+
+            if(dateformat=='rfc3339' && withtime) return m.format();
+
+            var timeformat = (options&&options.timeformat)||def_time_format;
+            var date_pattern = get_date_pattern(dateformat);
+            var time_pattern = !withtime?'':' '+get_time_pattern(timeformat);
+
+            return m.format(date_pattern+time_pattern);
+        }
+
+        window.$datetime = function(value, options) {
+            options = options||{};
+            options.withtime = true;
+            return $date(value, options);
+        };
+
+        window.$time = function(value, options) {
+            if(!value) return '';
+            var tz = (options&&options.tz)||def_tz;
+            var m = dayjs(value);
+            if(tz) m = m.tz(tz);
+
+            var dateformat = (options&&options.dateformat);
+            var timeformat = (dateformat=='rfc3339'&&'24hr')||(options&&options.timeformat)||def_time_format;
+
+            return m.format(get_time_pattern(timeformat)+(dateformat=='rfc3339'?':ss'+(!m.isUTC()?'Z':''):''))+(dateformat=='rfc3339' && m.isUTC()?'Z':'');
+        }
+
+    })();
+</script>
+<!-- / js-date-format.inc -->
+
+
+<script>
+    (function () {
+        /**
+         * Format the biblio response from a Koha RESTful API request.
+         * @param  {Object}  biblio  The biblio json object as returned from the Koha RESTful API
+         * @param  {Object}  config  A configuration object
+         *                           Valid keys are: `link`
+         * @return {string}          The formatted HTML string
+         */
+        window.$biblio_to_html = function (biblio, config) {
+            if (biblio === undefined) {
+                return ""; // empty string for no biblio
+            }
+
+            var title = '<span class="biblio-title">';
+            if (biblio.title != null && biblio.title != "") {
+                title += escape_str(biblio.title);
+            } else {
+                title += _("Sin título");
+            }
+            title += "</span>";
+
+            // add subtitle
+            if (biblio.subtitle != null && biblio.subtitle != "") {
+                title += ' <span class="biblio-subtitle">' + escape_str(biblio.subtitle) + "</span>";
+            }
+
+            // set title as link
+            if (config && config.link) {
+                if (config.link === "marcdetail") {
+                    title = '<a href="/cgi-bin/koha/opac-MARCdetail.pl?biblionumber=' + encodeURIComponent(biblio.biblio_id) + '" class="title">' + title + "</a>";
+                } else if (config.link === "labeled_marc") {
+                    title = '<a href="/cgi-bin/koha/opac-labeledMARCdetail.pl?biblionumber=' + encodeURIComponent(biblio.biblio_id) + '" class="title">' + title + "</a>";
+                } else if (config.link === "isbd") {
+                    title = '<a href="/cgi-bin/koha/opac-ISBDdetail.pl?biblionumber=' + encodeURIComponent(biblio.biblio_id) + '" class="title">' + title + "</a>";
+                } else {
+                    title = '<a href="/cgi-bin/koha/opac-detail.pl?biblionumber=' + encodeURIComponent(biblio.biblio_id) + '" class="title">' + title + "</a>";
+                }
+            }
+
+            // add medium
+            if (biblio.medium != null && biblio.medium != "") {
+                title += ' <span class="biblio-medium">' + escape_str(biblio.medium) + "</span>";
+            }
+
+            // add part numbers/names
+            let part_numbers = typeof biblio.part_number === "string" ? biblio.part_number.split("|") : [];
+            let part_names = typeof biblio.part_name === "string" ? biblio.part_name.split("|") : [];
+            let i = 0;
+            while (part_numbers[i] || part_names[i]) {
+                if (part_numbers[i]) {
+                    title += ' <span class="part-number">' + escape_str(part_numbers[i]) + "</span>";
+                }
+                if (part_names[i]) {
+                    title += ' <span class="part-name">' + escape_str(part_names[i]) + "</span>";
+                }
+                i++;
+            }
+
+            return title;
+        };
+    })();
+</script>
+
+
+ 
+ 
+ <script src="/opac-tmpl/bootstrap/js/authtoresults_25.1101000.js"></script>
+ 
+ 
+ <script src="/opac-tmpl/lib/Chocolat/js/chocolat_25.1101000.js"></script>
+ 
+ <script>
+        const loggedinusername = 0;
+        const opacbookbag = 0;
+        const virtualshelves = 0;
+    </script>
+ <script src="/opac-tmpl/bootstrap/js/results-list_25.1101000.js"></script>
+ <script src="/opac-tmpl/bootstrap/js/cover_images_25.1101000.js"></script>
+ <script>
+        
+
+
+
+        let counter_wait = 0;
+        function wait_for_images(cb){
+
+            var loaded = 1;
+            counter_wait++;
+
+            
+
+            
+
+            
+
+            if (!loaded && counter_wait < 50) {// Do not wait more than 5 seconds
+                window.setTimeout(function(){wait_for_images(cb);}, 100);
+            } else {
+                if (counter_wait >= 50 ) {
+                }
+                cb();
+            }
+        }
+
+        $(window).load(function() {
+            wait_for_images(verify_cover_images);
+        });
+
+        $(document).ready(function(){
+
+            $(".moretoggle").click(function(e){
+                e.preventDefault();
+                $(this).siblings(".collapsible-facet").toggle();
+                $(this).siblings(".moretoggle").toggle();
+                $(this).toggle();
+            });
+
+            
+
+            $(".br-readonly a").on("click", function(e){
+                e.preventDefault();
+            });
+
+            $('.resort').change(function() {
+                $('#bookbag_form').submit();
+            });
+
+            $('#results_per_page').change(function() {
+                $('#bookbag_form').submit();
+            });
+
+            
+                
+                
+                
+            
+
+            
+            
+            
+            
+
+            
+
+            $("input.newtag").on('keydown', function(e){
+                if (e.keyCode == 13) { e.preventDefault(); }
+            });
+        });
+    </script>
+
+
+ <script>
+        $(document).ready(function(){
+
+  /* === PLACEHOLDER EN ESPANOL === */
+  $("input[name=q]").attr("placeholder", "Buscar en el catalogo...");
+
+  /* === BOTON VOLVER ARRIBA === */
+  $("body").append('<button id="scroll-top" title="Volver arriba" aria-label="Volver arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></button>');
+  $(window).on("scroll.una", function() {
+    $("#scroll-top").toggleClass("visible", $(this).scrollTop() > 320);
+  });
+  $(document).on("click", "#scroll-top", function() {
+    $("html, body").animate({ scrollTop: 0 }, 480);
+  });
+
+  /* === ANIMACION CONTADORES DE ESTADISTICAS === */
+  function animateCount($el, target) {
+    var duration = 1500, steps = 60, step = 0;
+    var timer = setInterval(function() {
+      step++;
+      var eased = 1 - Math.pow(1 - step / steps, 3);
+      $el.text(Math.round(eased * target).toLocaleString("es-PY"));
+      if (step >= steps) { $el.text(target.toLocaleString("es-PY")); clearInterval(timer); }
+    }, duration / steps);
+  }
+  $(".stat-num[data-val]").each(function() {
+    var $el = $(this), target = parseInt($el.data("val"), 10);
+    setTimeout(function() { animateCount($el, target); }, 300);
+  });
+
+});
+
+/* === MEJORA UX FICHA DETALLE (autores / orientadores) — INICIO === */
+!function(){"use strict";function e(e,t,r){var a=document.createElement(e);return t&&(a.className=t),r&&(a.textContent=r),a}function t(e){var t=e.trim().toLowerCase();return t.normalize?t.normalize("NFD").replace(/[\u0300-\u036f]/g,""):t}var r={authors:/(?:^|\s)(?:aut|autor(?:a|as|es)?|author(?:s)?|creator(?:s)?)(?=$|\s)/,supervisors:new RegExp("(?:^|\\s)(?:(?:co(?:-|\\s)?)?(?:orient(?:ador(?:a|as|es|ees|/a)?|acion(?:es)?)?|tutor(?:a|as|es|/a)?|asesor(?:a|as|es|/a)?)|dgs|degree supervisor|(?:thesis|dissertation) (?:advisor|supervisor)|director(?:a|as|es|/a)? (?:de la |del )?(?:tesis|(?:trabajo|proyecto)(?: final| de fin)? de grado)|(?:profesor(?:a|as|es)?|docente) guia|consejer(?:o|a) academico)(?=$|\\s)"),translators:/(?:^|\s)(?:trl|(?:co(?:-|\s)?)?(?:traductor(?:a|as|es)?|translator(?:s)?|traduccion))(?=$|\s)/};function a(e,a){var o=t(e).replace(/[\[\](){}]/g," ").replace(/\s*\/\s*/g,"/").replace(/\s*-\s*/g,"-").replace(/[.,;:]+/g," ").replace(/\s+/g," ").trim();return r.translators.test(o)?"translators":r.supervisors.test(o)?"supervisors":r.authors.test(o)||!o&&a?"authors":"contributors"}var o="undefined"!=typeof Intl&&Intl.Collator?new Intl.Collator("es",{sensitivity:"base",numeric:!0}):null;function l(e,r){function a(e){var t=e.querySelector('[property="name"]');return t?t.textContent.trim():e.textContent.trim()}var l=a(e),i=a(r);return o?o.compare(l,i):t(l).localeCompare(t(i))}function i(e,t){return Array.prototype.find.call(e.children,(function(e){return e.matches(t)}))||null}function n(e){var t=e.trim().toLocaleLowerCase("es");return t?t.charAt(0).toLocaleUpperCase("es")+t.slice(1):""}function s(){var e=document.getElementById("holdingst");if(e){var t={};Array.prototype.forEach.call(e.querySelectorAll("thead th"),(function(e){var r=e.textContent.trim();e.classList.forEach((function(e){e&&!/^sorting/.test(e)&&(t[e]=r)}))}));var r=Array.prototype.map.call(e.querySelectorAll("thead th"),(function(e){return e.textContent.trim()}));a(),window.jQuery&&jQuery.fn.dataTable&&jQuery.fn.dataTable.isDataTable(e)&&jQuery(e).on("draw.dt",a)}function a(){Array.prototype.forEach.call(e.querySelectorAll("tbody tr"),(function(e){Array.prototype.forEach.call(e.children,(function(e,a){var o=function(e,a){var o=null;return e.classList.forEach((function(e){!o&&t[e]&&(o=t[e])})),o||r[a]||""}(e,a);o&&e.setAttribute("data-label",o)}));var a=e.querySelector(".item-status.available, .available");e.classList.toggle("ux-disponible",!!a)}))}}function u(){if("opac-detail"===document.body.id){var r=document.getElementById("catalogue_detail_biblio"),o=r&&r.querySelector(".record");if(o){var u,c=i(o,"h1.title"),d=r.closest(".row");!function(t){var r=t.closest(".col-lg-9"),a=document.getElementById("views"),o=document.getElementById("action");if(r&&(a||o)){r.classList.add("detalle-contenido-ux");var l=e("nav","detalle-utilidades-ux");l.setAttribute("aria-label","Herramientas del registro"),a&&l.appendChild(a),o&&l.appendChild(o),r.insertBefore(l,t),["citeModal","exportModal_"].forEach((function(e){var t=document.getElementById(e);t&&r.appendChild(t)}));var i=document.getElementById("ulactioncontainer");if(i&&!i.textContent.trim()){var n=i.closest(".col-lg-3");n&&n.remove()}}}(r),function(e){var t=e.querySelector(".bookcover");t&&!t.querySelector("img, canvas, .cover-image")&&t.classList.add("bookcover--vacia-ux")}(r),(u=document.querySelector("body#opac-detail #breadcrumbs .breadcrumb-item.active"))&&(u.textContent="Ficha bibliográfica"),s();var p=o.querySelector(".results_summary.subjects");if(p){var m=i(p,".label");m&&(m.textContent="Temas");var f=i(p,".resource_list");f&&(f.setAttribute("aria-label","Temas de la obra"),function(r){var a=Array.prototype.slice.call(r.querySelectorAll("li a"));if(!(a.length<2||r.querySelector(".subjects-context"))){for(var o=a.map((function(e){return e.textContent.trim()})),l=o.map((function(e){return e.split(/\s+/)})),i=Math.min.apply(null,l.map((function(e){return e.length}))),s=0,u=0;u<i;u+=1){var c=t(l[0][u]).replace(/^[^a-z0-9]+|[^a-z0-9]+$/g,""),d=l.every((function(e){return t(e[u]).replace(/^[^a-z0-9]+|[^a-z0-9]+$/g,"")===c}));if(!c||!d)break;s=u+1}for(var p=/^(de|del|la|las|el|los|en|con|para|por|y)$/;s&&p.test(t(l[0][s-1]));s-=1);var m=l[0].slice(0,s).join(" ");if(!(s<3||m.length<15)){var f=e("li","subjects-context",n(m));f.setAttribute("aria-hidden","true"),r.insertBefore(f,r.firstChild),a.forEach((function(e,t){var r=o[t],a=l[t].slice(s).join(" ").replace(/^[\s\-–—:;,]+/,"");a=a.replace(/^CON\s+(?:ENFASIS|ÉNFASIS|ORIENTACION|ORIENTACIÓN)\s+EN\s+/i,"").trim(),e.textContent=n(a),e.title=r,e.setAttribute("aria-label","Tema: "+r)}))}}}(f))}if(c&&d&&!d.querySelector(".titulo-ficha-ux")){var y=e("div","col-12 titulo-ficha-ux");y.appendChild(c),d.insertBefore(y,d.firstChild),function(r,a){var o=r.querySelector(".results_summary.genre"),l=r.querySelector(".results_summary.diss_note"),i=document.querySelector("#holdingst .itypetext")||r.querySelector(".results_summary.itemtype a")||r.querySelector(".results_summary.itemtype"),s=(o?o.textContent:"")+" "+(l?l.textContent:"")+" "+(i?i.textContent:""),u=/tesis/.test(t(s)),c=/libro/.test(t(s)),d=e("ul","titulo-ficha-ux__meta");function p(t,r){var a=t&&t.trim();a&&d.appendChild(e("li",r||"",a))}if(d.setAttribute("aria-label","Datos principales del material"),u||c){var m=r.querySelector(".results_summary.rda264, .results_summary.publisher"),f=m&&m.querySelector('[property="name"], .publisher_name'),y=m&&m.querySelector(".rda264_date, .publisher_date, [property='datePublished']"),h=r.querySelector(".results_summary.languages [class*='lang_code-']"),b=r.querySelector(".results_summary.description [property='description']"),v=b&&b.textContent.trim(),g=r.querySelector(".results_summary.edition"),x=g&&g.querySelector("[property='bookEdition']"),C=r.querySelector(".results_summary.isbn"),_=C&&C.querySelector("[property='isbn']");p(u?"Tesis":"Libro","titulo-ficha-ux__prefijo"),p(f&&f.textContent),p(y&&y.textContent),u?(p(h&&h.textContent),p(v&&/^\d+$/.test(v)?v+" páginas":v)):(p(x&&x.textContent),p(_&&"ISBN "+_.textContent,"titulo-ficha-ux__isbn")),[m,u?o:null,u?b:null,c?g:null,c?C:null].forEach((function(e){e&&e.classList.add("metadata-resumida-ux__origen")}));var S=r.querySelector(".results_summary.languages");u&&S&&S.classList.add("metadata-resumida-ux__origen")}else p(i?n(i.textContent.trim()):"","titulo-ficha-ux__prefijo");var q=Array.prototype.slice.call(document.querySelectorAll("#holdingst tbody tr")),A=q.filter((function(e){return e.querySelector(".item-status.available")})),E=A.length?A:q,w="";E.some((function(e){var t=e.querySelector(".call_no")||e.querySelector("td.itemcallnumber, td.callnumber, td[class*='callnum']");if(!t)for(var r=e.querySelectorAll("td"),a=0;a<r.length;a++)if(/call|signatura/i.test(r[a].className||"")){t=r[a];break}return w=t?t.textContent.trim():"",Boolean(w)}));var I=w.replace(/\s*\([^)]*\)/g,"").replace(/[()]/g,"").replace(/\s+/g," ").trim();if(p(I&&"Signatura topográfica "+I,"titulo-ficha-ux__signatura"),I){var L=d.lastChild;if(L){L.textContent="",L.appendChild(e("span","titulo-ficha-ux__signatura-label","Signatura topográfica"));var B=I.match(/^(.*?)([A-ZÁÉÍÓÚÑ]{2,}[A-Za-z0-9.]*)(.*)$/);B&&B[2]?(B[1]&&L.appendChild(document.createTextNode(B[1])),L.appendChild(e("span","signatura-valor",B[2])),B[3]&&L.appendChild(document.createTextNode(B[3]))):L.appendChild(e("span","signatura-valor",I))}}var j=A.length,z=document.getElementById("holdings-tab");if(j&&z){var N=e("li","titulo-ficha-ux__meta-accion"),T=e("a","titulo-ficha-ux__disponibilidad",1===j?"1 ejemplar disponible":j+" ejemplares disponibles");T.href="#holdings_panel",T.addEventListener("click",(function(e){e.preventDefault(),z.click(),requestAnimationFrame((function(){var e=window.matchMedia&&window.matchMedia("(prefers-reduced-motion: reduce)").matches;document.getElementById("bibliodescriptions").scrollIntoView({behavior:e?"auto":"smooth",block:"start"})}))})),N.appendChild(T),d.appendChild(N)}d.children.length&&a.appendChild(d)}(o,y);var h=0;function q(){var e=Math.round(y.getBoundingClientRect().width);if(e&&e!==h&&(h=e,c.classList.remove("titulo-ficha-ux__titulo--multilinea"),c.style.fontSize="",!(e<=991))){for(var t=14,r=32,a=t;r-t>.5;){var o=(t+r)/2;c.style.fontSize=o+"px",c.scrollWidth<=c.clientWidth?(a=o,t=o):r=o}c.style.fontSize=a+"px",c.scrollWidth>c.clientWidth&&(c.style.fontSize="",c.classList.add("titulo-ficha-ux__titulo--multilinea"))}}requestAnimationFrame(q),"ResizeObserver"in window?new ResizeObserver(q).observe(y):window.addEventListener("resize",q,{passive:!0})}if(!i(o,".responsables-ux")){var b=Array.prototype.filter.call(o.querySelectorAll(".results_summary.author"),(function(e){return e.querySelector("ul.resource_list > li")}));if(b.length){var v={authors:[],supervisors:[],translators:[],contributors:[]};b.forEach((function(e){var r=Boolean(e.querySelector(".byAuthor"))||/^por\b/.test(t(e.textContent));e.querySelectorAll("ul.resource_list > li").forEach((function(e){var t=e.querySelector(".relatorcode"),o=t?t.textContent.replace(/[\[\]]/g,"").trim():"",l=a(o,r),i=o?o.charAt(0).toUpperCase()+o.slice(1):"authors"===l?"Autor":"supervisors"===l?"Orientador":"Colaborador";o||"translators"!==l||(i="Traductor");var n=e.querySelector("a"),s=e.querySelector('[property="name"]');n&&s&&n.setAttribute("aria-label",s.textContent.trim()+". Rol: "+i),t&&t.remove(),v[l].push(e)}))}));var g=e("section","responsables-ux"),x=e("h2","responsables-ux__titulo","Personas responsables"),C=e("p","responsables-ux__orden","Orden alfabético según el nombre mostrado"),_=e("div","responsables-ux__grid");g.setAttribute("aria-labelledby","responsables-ux-titulo"),g.setAttribute("aria-describedby","responsables-ux-orden"),x.id="responsables-ux-titulo",C.id="responsables-ux-orden",S("authors","Autoría"),S("supervisors","Orientaciones"),S("translators","Traducción"),S("contributors","Colaboración"),g.appendChild(x),g.appendChild(C),g.appendChild(_),o.insertBefore(g,o.firstChild),b.forEach((function(e){e.remove()}))}}}}function S(t,r){if(v[t].length){var a="responsables-ux-"+t,o=e("div","responsables-ux__grupo"),i=e("h3","responsables-ux__grupo-titulo",r),n=e("ul","responsables-ux__lista");i.id=a,n.setAttribute("aria-labelledby",a),v[t].sort(l),v[t].forEach((function(e){n.appendChild(e)})),o.appendChild(i),o.appendChild(n),_.appendChild(o)}}}"loading"===document.readyState?document.addEventListener("DOMContentLoaded",u,{once:!0}):u()}();
+/* === MEJORA UX FICHA DETALLE — FIN === */
+
+    </script>
+
+
+
+
+
+
+</body>
+<!-- prettier-ignore-start -->
+</html>
+<!-- prettier-ignore-end -->
+
+
