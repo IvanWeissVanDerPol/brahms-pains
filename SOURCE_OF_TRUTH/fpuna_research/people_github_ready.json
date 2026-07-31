@@ -1,0 +1,4283 @@
+[
+ {
+  "name": "Peralta Samaniego, Federico Daniel",
+  "total": 21,
+  "as_author": 17,
+  "as_orientador": 4,
+  "years": [
+   "2006",
+   "2011",
+   "2016",
+   "2017",
+   "2019",
+   "2020",
+   "2021",
+   "2023",
+   "2024",
+   "2026"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Federico Daniel Peralta Samaniego",
+   "Peralta Samaniego Federico Daniel",
+   "Daniel Peralta Samaniego",
+   "peralta samaniego",
+   "daniel"
+  ]
+ },
+ {
+  "name": "Britez González, Guillermo Luis",
+  "total": 19,
+  "as_author": 16,
+  "as_orientador": 3,
+  "years": [
+   "2012",
+   "2017",
+   "2018",
+   "2019",
+   "2021",
+   "2023",
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Guillermo Luis Britez González",
+   "Britez González Guillermo Luis",
+   "Luis Britez González",
+   "britez gonzález",
+   "luis"
+  ]
+ },
+ {
+  "name": "Martínez Chamorro, Víctor Manuel",
+  "total": 17,
+  "as_author": 15,
+  "as_orientador": 2,
+  "years": [
+   "2006",
+   "2009",
+   "2014",
+   "2018",
+   "2019",
+   "2021",
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Víctor Manuel Martínez Chamorro",
+   "Martínez Chamorro Víctor Manuel",
+   "Manuel Martínez Chamorro",
+   "martínez chamorro",
+   "manuel"
+  ]
+ },
+ {
+  "name": "Coronel de Nicola, Carlos Javier",
+  "total": 15,
+  "as_author": 15,
+  "as_orientador": 0,
+  "years": [
+   "2010",
+   "2014",
+   "2015",
+   "2017",
+   "2018",
+   "2020",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carlos Javier Coronel de Nicola",
+   "Coronel de Nicola Carlos Javier",
+   "Javier Coronel de Nicola",
+   "coronel de nicola",
+   "javier"
+  ]
+ },
+ {
+  "name": "Yegros Z., Santiago A",
+  "total": 15,
+  "as_author": 13,
+  "as_orientador": 2,
+  "years": [
+   "2009",
+   "2013",
+   "2017",
+   "2018",
+   "2019"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Santiago A Yegros Z.",
+   "Yegros Z. Santiago A",
+   "A Yegros Z.",
+   "yegros z.",
+   "a"
+  ]
+ },
+ {
+  "name": "Ramirez Fernandez, Guadalupe Elizabeth",
+  "total": 14,
+  "as_author": 14,
+  "as_orientador": 0,
+  "years": [
+   "2011",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2022",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Guadalupe Elizabeth Ramirez Fernandez",
+   "Ramirez Fernandez Guadalupe Elizabeth",
+   "Elizabeth Ramirez Fernandez",
+   "ramirez fernandez",
+   "elizabeth"
+  ]
+ },
+ {
+  "name": "Comparatore Franco, Leonardo David",
+  "total": 13,
+  "as_author": 13,
+  "as_orientador": 0,
+  "years": [
+   "2016",
+   "2017",
+   "2021",
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Leonardo David Comparatore Franco",
+   "Comparatore Franco Leonardo David",
+   "David Comparatore Franco",
+   "comparatore franco",
+   "david"
+  ]
+ },
+ {
+  "name": "Barboza Giménez, Oscar Alberto",
+  "total": 13,
+  "as_author": 13,
+  "as_orientador": 0,
+  "years": [
+   "2011",
+   "2014",
+   "2017",
+   "2018",
+   "2021",
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Oscar Alberto Barboza Giménez",
+   "Barboza Giménez Oscar Alberto",
+   "Alberto Barboza Giménez",
+   "barboza giménez",
+   "alberto"
+  ]
+ },
+ {
+  "name": "Vera González, Juan Carlos",
+  "total": 12,
+  "as_author": 10,
+  "as_orientador": 2,
+  "years": [
+   "2005",
+   "2017",
+   "2020",
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Juan Carlos Vera González",
+   "Vera González Juan Carlos",
+   "Carlos Vera González",
+   "vera gonzález",
+   "carlos"
+  ]
+ },
+ {
+  "name": "Kadomatsu Hemosa, Maridian José",
+  "total": 12,
+  "as_author": 11,
+  "as_orientador": 1,
+  "years": [
+   "2000",
+   "2011",
+   "2014",
+   "2015",
+   "2017",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Maridian José Kadomatsu Hemosa",
+   "Kadomatsu Hemosa Maridian José",
+   "José Kadomatsu Hemosa",
+   "kadomatsu hemosa",
+   "josé"
+  ]
+ },
+ {
+  "name": "Samudio Bobadilla, Pedro Andrés",
+  "total": 11,
+  "as_author": 11,
+  "as_orientador": 0,
+  "years": [
+   "2008",
+   "2009",
+   "2014",
+   "2017",
+   "2018",
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Pedro Andrés Samudio Bobadilla",
+   "Samudio Bobadilla Pedro Andrés",
+   "Andrés Samudio Bobadilla",
+   "samudio bobadilla",
+   "andrés"
+  ]
+ },
+ {
+  "name": "Vera Aquino, Jorge Rafael",
+  "total": 9,
+  "as_author": 9,
+  "as_orientador": 0,
+  "years": [
+   "2013",
+   "2019",
+   "2021",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Jorge Rafael Vera Aquino",
+   "Vera Aquino Jorge Rafael",
+   "Rafael Vera Aquino",
+   "vera aquino",
+   "rafael"
+  ]
+ },
+ {
+  "name": "Lezcano Romero, Miguel Angel María",
+  "total": 9,
+  "as_author": 9,
+  "as_orientador": 0,
+  "years": [
+   "2012",
+   "2015",
+   "2017",
+   "2020",
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Miguel Angel María Lezcano Romero",
+   "Lezcano Romero Miguel Angel María",
+   "María Lezcano Romero",
+   "lezcano romero",
+   "maría"
+  ]
+ },
+ {
+  "name": "Benedetti Martínez, Matias Sebastián",
+  "total": 8,
+  "as_author": 8,
+  "as_orientador": 0,
+  "years": [
+   "2017",
+   "2020",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Matias Sebastián Benedetti Martínez",
+   "Benedetti Martínez Matias Sebastián",
+   "Sebastián Benedetti Martínez",
+   "benedetti martínez",
+   "sebastián"
+  ]
+ },
+ {
+  "name": "Gonz{alez de la Gracia, Rodrigo Antonio",
+  "total": 8,
+  "as_author": 8,
+  "as_orientador": 0,
+  "years": [
+   "2004",
+   "2015",
+   "2018",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Rodrigo Antonio Gonz{alez de la Gracia",
+   "Gonz{alez de la Gracia Rodrigo Antonio",
+   "Antonio Gonz{alez de la Gracia",
+   "gonz{alez de la gracia",
+   "antonio"
+  ]
+ },
+ {
+  "name": "Raúl Igmar Gregor Recalde",
+  "total": 8,
+  "as_author": 0,
+  "as_orientador": 8,
+  "years": [
+   "2015",
+   "2016",
+   "2017",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Raúl Recalde",
+   "Recalde Raúl",
+   "recalde",
+   "raúl"
+  ]
+ },
+ {
+  "name": "Riquelme Rodas, Carlos Miguel",
+  "total": 7,
+  "as_author": 7,
+  "as_orientador": 0,
+  "years": [
+   "2023",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carlos Miguel Riquelme Rodas",
+   "Riquelme Rodas Carlos Miguel",
+   "Miguel Riquelme Rodas",
+   "riquelme rodas",
+   "miguel"
+  ]
+ },
+ {
+  "name": "Oporto Rodas, Julia Lucía",
+  "total": 7,
+  "as_author": 7,
+  "as_orientador": 0,
+  "years": [
+   "2010",
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Julia Lucía Oporto Rodas",
+   "Oporto Rodas Julia Lucía",
+   "Lucía Oporto Rodas",
+   "oporto rodas",
+   "lucía"
+  ]
+ },
+ {
+  "name": "Oviedo Osorio, Carlos Fernando",
+  "total": 7,
+  "as_author": 7,
+  "as_orientador": 0,
+  "years": [
+   "2006",
+   "2011",
+   "2012",
+   "2017",
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carlos Fernando Oviedo Osorio",
+   "Oviedo Osorio Carlos Fernando",
+   "Fernando Oviedo Osorio",
+   "oviedo osorio",
+   "fernando"
+  ]
+ },
+ {
+  "name": "Martínez Martínez, Elvia Patricia",
+  "total": 7,
+  "as_author": 7,
+  "as_orientador": 0,
+  "years": [
+   "2016",
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Elvia Patricia Martínez Martínez",
+   "Martínez Martínez Elvia Patricia",
+   "Patricia Martínez Martínez",
+   "martínez martínez",
+   "patricia"
+  ]
+ },
+ {
+  "name": "Diego Pinto Roa",
+  "total": 7,
+  "as_author": 0,
+  "as_orientador": 7,
+  "years": [
+   "2015",
+   "2017",
+   "2018",
+   "2019",
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Diego Roa",
+   "Roa Diego",
+   "roa",
+   "diego"
+  ]
+ },
+ {
+  "name": "Moré Rodriguez, Luis Guillermo",
+  "total": 7,
+  "as_author": 7,
+  "as_orientador": 0,
+  "years": [
+   "2017",
+   "2023",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Luis Guillermo Moré Rodriguez",
+   "Moré Rodriguez Luis Guillermo",
+   "Guillermo Moré Rodriguez",
+   "moré rodriguez",
+   "guillermo"
+  ]
+ },
+ {
+  "name": "Sergio Manuel Chamorro Díaz",
+  "total": 7,
+  "as_author": 0,
+  "as_orientador": 7,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Sergio Díaz",
+   "Díaz Sergio",
+   "díaz",
+   "sergio"
+  ]
+ },
+ {
+  "name": "Garcete González, Alberto Gabriel",
+  "total": 6,
+  "as_author": 2,
+  "as_orientador": 4,
+  "years": [
+   "2018",
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Alberto Gabriel Garcete González",
+   "Garcete González Alberto Gabriel",
+   "Gabriel Garcete González",
+   "garcete gonzález",
+   "gabriel"
+  ]
+ },
+ {
+  "name": "María Soledad Ayala Rodríguez",
+  "total": 6,
+  "as_author": 0,
+  "as_orientador": 6,
+  "years": [
+   "2010",
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "María Rodríguez",
+   "Rodríguez María",
+   "rodríguez",
+   "maría"
+  ]
+ },
+ {
+  "name": "Juan Carlos Cristaldo",
+  "total": 6,
+  "as_author": 0,
+  "as_orientador": 6,
+  "years": [
+   "2019",
+   "2021",
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Juan Cristaldo",
+   "Cristaldo Juan",
+   "cristaldo",
+   "juan"
+  ]
+ },
+ {
+  "name": "Saldívar Bernal, María Belén",
+  "total": 6,
+  "as_author": 6,
+  "as_orientador": 0,
+  "years": [
+   "2021",
+   "2022",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "María Belén Saldívar Bernal",
+   "Saldívar Bernal María Belén",
+   "Belén Saldívar Bernal",
+   "saldívar bernal",
+   "belén"
+  ]
+ },
+ {
+  "name": "Bueno Knoop, Ricardo Enrique",
+  "total": 6,
+  "as_author": 6,
+  "as_orientador": 0,
+  "years": [
+   "2015",
+   "2018",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Ricardo Enrique Bueno Knoop",
+   "Bueno Knoop Ricardo Enrique",
+   "Enrique Bueno Knoop",
+   "bueno knoop",
+   "enrique"
+  ]
+ },
+ {
+  "name": "Fernández Valdez, Romina C",
+  "total": 6,
+  "as_author": 6,
+  "as_orientador": 0,
+  "years": [
+   "2003",
+   "2005",
+   "2015"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Romina C Fernández Valdez",
+   "Fernández Valdez Romina C",
+   "C Fernández Valdez",
+   "fernández valdez",
+   "c"
+  ]
+ },
+ {
+  "name": "Morales Ferreira, Eduardo Ramón",
+  "total": 6,
+  "as_author": 4,
+  "as_orientador": 2,
+  "years": [
+   "2010",
+   "2017",
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Eduardo Ramón Morales Ferreira",
+   "Morales Ferreira Eduardo Ramón",
+   "Ramón Morales Ferreira",
+   "morales ferreira",
+   "ramón"
+  ]
+ },
+ {
+  "name": "Páez Domínguez, Marcelo Emilio",
+  "total": 6,
+  "as_author": 5,
+  "as_orientador": 1,
+  "years": [
+   "2000",
+   "2012",
+   "2017",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Marcelo Emilio Páez Domínguez",
+   "Páez Domínguez Marcelo Emilio",
+   "Emilio Páez Domínguez",
+   "páez domínguez",
+   "emilio"
+  ]
+ },
+ {
+  "name": "Pampliega Rojas, Ricardo Alfredo",
+  "total": 6,
+  "as_author": 6,
+  "as_orientador": 0,
+  "years": [
+   "2012",
+   "2014",
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Ricardo Alfredo Pampliega Rojas",
+   "Pampliega Rojas Ricardo Alfredo",
+   "Alfredo Pampliega Rojas",
+   "pampliega rojas",
+   "alfredo"
+  ]
+ },
+ {
+  "name": "Jorge Esteban Rodas Benítez",
+  "total": 6,
+  "as_author": 0,
+  "as_orientador": 6,
+  "years": [
+   "2015",
+   "2016",
+   "2017",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Jorge Benítez",
+   "Benítez Jorge",
+   "benítez",
+   "jorge"
+  ]
+ },
+ {
+  "name": "Vallejos Caballero, Carlos Ariel",
+  "total": 6,
+  "as_author": 6,
+  "as_orientador": 0,
+  "years": [
+   "2020",
+   "2026"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carlos Ariel Vallejos Caballero",
+   "Vallejos Caballero Carlos Ariel",
+   "Ariel Vallejos Caballero",
+   "vallejos caballero",
+   "ariel"
+  ]
+ },
+ {
+  "name": "Giménez Gasca, Leticia Carolina",
+  "total": 6,
+  "as_author": 6,
+  "as_orientador": 0,
+  "years": [
+   "2000",
+   "2017",
+   "2021",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Leticia Carolina Giménez Gasca",
+   "Giménez Gasca Leticia Carolina",
+   "Carolina Giménez Gasca",
+   "giménez gasca",
+   "carolina"
+  ]
+ },
+ {
+  "name": "César Yegros",
+  "total": 6,
+  "as_author": 0,
+  "as_orientador": 6,
+  "years": [
+   "2016",
+   "2017",
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "César Yegros",
+   "Yegros César",
+   "yegros",
+   "césar"
+  ]
+ },
+ {
+  "name": "Juan Talavera",
+  "total": 5,
+  "as_author": 0,
+  "as_orientador": 5,
+  "years": [
+   "2017",
+   "2020"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Juan Talavera",
+   "Talavera Juan",
+   "talavera",
+   "juan"
+  ]
+ },
+ {
+  "name": "Christian Von Lücken",
+  "total": 5,
+  "as_author": 0,
+  "as_orientador": 5,
+  "years": [
+   "2023",
+   "2026"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Christian Lücken",
+   "Lücken Christian",
+   "lücken",
+   "christian"
+  ]
+ },
+ {
+  "name": "Mirta Morán",
+  "total": 5,
+  "as_author": 0,
+  "as_orientador": 5,
+  "years": [
+   "2015",
+   "2016",
+   "2020"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Mirta Morán",
+   "Morán Mirta",
+   "morán",
+   "mirta"
+  ]
+ },
+ {
+  "name": "García Florentín, Anthony Francisco",
+  "total": 5,
+  "as_author": 5,
+  "as_orientador": 0,
+  "years": [
+   "2005",
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Anthony Francisco García Florentín",
+   "García Florentín Anthony Francisco",
+   "Francisco García Florentín",
+   "garcía florentín",
+   "francisco"
+  ]
+ },
+ {
+  "name": "Fretes Arce, Carlos Ezequiel",
+  "total": 5,
+  "as_author": 5,
+  "as_orientador": 0,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carlos Ezequiel Fretes Arce",
+   "Fretes Arce Carlos Ezequiel",
+   "Ezequiel Fretes Arce",
+   "fretes arce",
+   "ezequiel"
+  ]
+ },
+ {
+  "name": "Vega Achar, Angel Gustavo",
+  "total": 5,
+  "as_author": 5,
+  "as_orientador": 0,
+  "years": [
+   "2003",
+   "2015",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Angel Gustavo Vega Achar",
+   "Vega Achar Angel Gustavo",
+   "Gustavo Vega Achar",
+   "vega achar",
+   "gustavo"
+  ]
+ },
+ {
+  "name": "Ivette. Quintana Noguera, Andrea",
+  "total": 5,
+  "as_author": 5,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Andrea Ivette. Quintana Noguera",
+   "Ivette. Quintana Noguera Andrea",
+   "Andrea Ivette. Quintana Noguera",
+   "ivette. quintana noguera",
+   "andrea"
+  ]
+ },
+ {
+  "name": "Juan Pane",
+  "total": 5,
+  "as_author": 0,
+  "as_orientador": 5,
+  "years": [
+   "2016",
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Juan Pane",
+   "Pane Juan",
+   "pane",
+   "juan"
+  ]
+ },
+ {
+  "name": "Saucedo A., Fernando R",
+  "total": 5,
+  "as_author": 4,
+  "as_orientador": 1,
+  "years": [
+   "2015",
+   "2017",
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Fernando R Saucedo A.",
+   "Saucedo A. Fernando R",
+   "R Saucedo A.",
+   "saucedo a.",
+   "r"
+  ]
+ },
+ {
+  "name": "Horacio Legal Ayala",
+  "total": 5,
+  "as_author": 0,
+  "as_orientador": 5,
+  "years": [
+   "2012",
+   "2014",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Horacio Ayala",
+   "Ayala Horacio",
+   "ayala",
+   "horacio"
+  ]
+ },
+ {
+  "name": "Lucia Janet Villalba Marín",
+  "total": 5,
+  "as_author": 0,
+  "as_orientador": 5,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Lucia Marín",
+   "Marín Lucia",
+   "marín",
+   "lucia"
+  ]
+ },
+ {
+  "name": "Arzamendia Maldonado, Alfredo Eduardo",
+  "total": 5,
+  "as_author": 5,
+  "as_orientador": 0,
+  "years": [
+   "2016",
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Alfredo Eduardo Arzamendia Maldonado",
+   "Arzamendia Maldonado Alfredo Eduardo",
+   "Eduardo Arzamendia Maldonado",
+   "arzamendia maldonado",
+   "eduardo"
+  ]
+ },
+ {
+  "name": "Cantero Torres, María Laura",
+  "total": 5,
+  "as_author": 5,
+  "as_orientador": 0,
+  "years": [
+   "2017",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "María Laura Cantero Torres",
+   "Cantero Torres María Laura",
+   "Laura Cantero Torres",
+   "cantero torres",
+   "laura"
+  ]
+ },
+ {
+  "name": "Quiñonez González",
+  "total": 4,
+  "as_author": 0,
+  "as_orientador": 4,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Quiñonez González",
+   "González Quiñonez",
+   "gonzález",
+   "quiñonez"
+  ]
+ },
+ {
+  "name": "Toledo Cabral, Mirtha Letizia",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2010"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Mirtha Letizia Toledo Cabral",
+   "Toledo Cabral Mirtha Letizia",
+   "Letizia Toledo Cabral",
+   "toledo cabral",
+   "letizia"
+  ]
+ },
+ {
+  "name": "Nidia Maria. Genes Oviedo, Noemi Soledad",
+  "total": 4,
+  "as_author": 1,
+  "as_orientador": 3,
+  "years": [
+   "2023",
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Noemi Soledad Nidia Maria. Genes Oviedo",
+   "Nidia Maria. Genes Oviedo Noemi Soledad",
+   "Soledad Nidia Maria. Genes Oviedo",
+   "nidia maria. genes oviedo",
+   "soledad"
+  ]
+ },
+ {
+  "name": "Mendoza Barrientos, Juan Angel",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2014",
+   "2017",
+   "2019"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Juan Angel Mendoza Barrientos",
+   "Mendoza Barrientos Juan Angel",
+   "Angel Mendoza Barrientos",
+   "mendoza barrientos",
+   "angel"
+  ]
+ },
+ {
+  "name": "Guillermo González",
+  "total": 4,
+  "as_author": 0,
+  "as_orientador": 4,
+  "years": [
+   "2016",
+   "2019"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Guillermo González",
+   "González Guillermo",
+   "gonzález",
+   "guillermo"
+  ]
+ },
+ {
+  "name": "Godoy Liseras, Edgar Rubén",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2018",
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Edgar Rubén Godoy Liseras",
+   "Godoy Liseras Edgar Rubén",
+   "Rubén Godoy Liseras",
+   "godoy liseras",
+   "rubén"
+  ]
+ },
+ {
+  "name": "Acosta Sanabria, María Mercedes",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "1975",
+   "2012",
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "María Mercedes Acosta Sanabria",
+   "Acosta Sanabria María Mercedes",
+   "Mercedes Acosta Sanabria",
+   "acosta sanabria",
+   "mercedes"
+  ]
+ },
+ {
+  "name": "Valiente Villaba, María Magdalena",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2012",
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "María Magdalena Valiente Villaba",
+   "Valiente Villaba María Magdalena",
+   "Magdalena Valiente Villaba",
+   "valiente villaba",
+   "magdalena"
+  ]
+ },
+ {
+  "name": "Bareiro Paniagua, Laura Raquel",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2013",
+   "2015"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Laura Raquel Bareiro Paniagua",
+   "Bareiro Paniagua Laura Raquel",
+   "Raquel Bareiro Paniagua",
+   "bareiro paniagua",
+   "raquel"
+  ]
+ },
+ {
+  "name": "Diaz Arzamendia, Fabio Gonzalo",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2006",
+   "2023",
+   "2026"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Fabio Gonzalo Diaz Arzamendia",
+   "Diaz Arzamendia Fabio Gonzalo",
+   "Gonzalo Diaz Arzamendia",
+   "diaz arzamendia",
+   "gonzalo"
+  ]
+ },
+ {
+  "name": "Lucas Frutos",
+  "total": 4,
+  "as_author": 0,
+  "as_orientador": 4,
+  "years": [
+   "2020",
+   "2023",
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Lucas Frutos",
+   "Frutos Lucas",
+   "frutos",
+   "lucas"
+  ]
+ },
+ {
+  "name": "Segalés Espinosa, Antonio Ricardo",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2016",
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Antonio Ricardo Segalés Espinosa",
+   "Segalés Espinosa Antonio Ricardo",
+   "Ricardo Segalés Espinosa",
+   "segalés espinosa",
+   "ricardo"
+  ]
+ },
+ {
+  "name": "Leitmann Ramirez, Alexander Nicolás",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2004",
+   "2006",
+   "2011",
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Alexander Nicolás Leitmann Ramirez",
+   "Leitmann Ramirez Alexander Nicolás",
+   "Nicolás Leitmann Ramirez",
+   "leitmann ramirez",
+   "nicolás"
+  ]
+ },
+ {
+  "name": "González Fleitas, Dionisio Santiago",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2018",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Dionisio Santiago González Fleitas",
+   "González Fleitas Dionisio Santiago",
+   "Santiago González Fleitas",
+   "gonzález fleitas",
+   "santiago"
+  ]
+ },
+ {
+  "name": "Vera, Roque",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Roque Vera",
+   "Vera Roque",
+   "Roque Vera",
+   "vera",
+   "roque"
+  ]
+ },
+ {
+  "name": "Diego Pedro Pinto Roa",
+  "total": 4,
+  "as_author": 0,
+  "as_orientador": 4,
+  "years": [
+   "2015",
+   "2016",
+   "2017",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Diego Roa",
+   "Roa Diego",
+   "roa",
+   "diego"
+  ]
+ },
+ {
+  "name": "Brizuela, Angel D",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "1996",
+   "2009",
+   "2014"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Angel D Brizuela",
+   "Brizuela Angel D",
+   "D Brizuela",
+   "brizuela",
+   "d"
+  ]
+ },
+ {
+  "name": "Duarte, Marcio",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Marcio Duarte",
+   "Duarte Marcio",
+   "Marcio Duarte",
+   "duarte",
+   "marcio"
+  ]
+ },
+ {
+  "name": "Aquino Caballero, Noelia",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Noelia Aquino Caballero",
+   "Aquino Caballero Noelia",
+   "Noelia Aquino Caballero",
+   "aquino caballero",
+   "noelia"
+  ]
+ },
+ {
+  "name": "Herrera Ramírez, Hugo Arístides",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2022"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Hugo Arístides Herrera Ramírez",
+   "Herrera Ramírez Hugo Arístides",
+   "Arístides Herrera Ramírez",
+   "herrera ramírez",
+   "arístides"
+  ]
+ },
+ {
+  "name": "Garcete Diarte, Marshia Alicce",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2022"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Marshia Alicce Garcete Diarte",
+   "Garcete Diarte Marshia Alicce",
+   "Alicce Garcete Diarte",
+   "garcete diarte",
+   "alicce"
+  ]
+ },
+ {
+  "name": "Centurión, María Fernanda",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2022"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "María Fernanda Centurión",
+   "Centurión María Fernanda",
+   "Fernanda Centurión",
+   "centurión",
+   "fernanda"
+  ]
+ },
+ {
+  "name": "Gómez, Diego",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Diego Gómez",
+   "Gómez Diego",
+   "Diego Gómez",
+   "gómez",
+   "diego"
+  ]
+ },
+ {
+  "name": "Fleitas de Candia, Virginia Stella",
+  "total": 4,
+  "as_author": 4,
+  "as_orientador": 0,
+  "years": [
+   "2018"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Virginia Stella Fleitas de Candia",
+   "Fleitas de Candia Virginia Stella",
+   "Stella Fleitas de Candia",
+   "fleitas de candia",
+   "stella"
+  ]
+ },
+ {
+  "name": "Ayala Rodríguez",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2023",
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Ayala Rodríguez",
+   "Rodríguez Ayala",
+   "rodríguez",
+   "ayala"
+  ]
+ },
+ {
+  "name": "Ojeda Oviedo, Cristhian Antolin",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Cristhian Antolin Ojeda Oviedo",
+   "Ojeda Oviedo Cristhian Antolin",
+   "Antolin Ojeda Oviedo",
+   "ojeda oviedo",
+   "antolin"
+  ]
+ },
+ {
+  "name": "Recalde Carballo, Luciano Benjamín",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2010",
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Luciano Benjamín Recalde Carballo",
+   "Recalde Carballo Luciano Benjamín",
+   "Benjamín Recalde Carballo",
+   "recalde carballo",
+   "benjamín"
+  ]
+ },
+ {
+  "name": "Marcos Villagra",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2024",
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Marcos Villagra",
+   "Villagra Marcos",
+   "villagra",
+   "marcos"
+  ]
+ },
+ {
+  "name": "Von Lucken Martinez",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2023",
+   "2026"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Von Martinez",
+   "Martinez Von",
+   "martinez",
+   "von"
+  ]
+ },
+ {
+  "name": "Vargas García, Santiago Dionisio",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Santiago Dionisio Vargas García",
+   "Vargas García Santiago Dionisio",
+   "Dionisio Vargas García",
+   "vargas garcía",
+   "dionisio"
+  ]
+ },
+ {
+  "name": "Diego Stalder",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2018",
+   "2021",
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Diego Stalder",
+   "Stalder Diego",
+   "stalder",
+   "diego"
+  ]
+ },
+ {
+  "name": "Ramírez Torales, Diego Cristóbal",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2005",
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Diego Cristóbal Ramírez Torales",
+   "Ramírez Torales Diego Cristóbal",
+   "Cristóbal Ramírez Torales",
+   "ramírez torales",
+   "cristóbal"
+  ]
+ },
+ {
+  "name": "Leguizamón Correa, Deysi Natalia",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Deysi Natalia Leguizamón Correa",
+   "Leguizamón Correa Deysi Natalia",
+   "Natalia Leguizamón Correa",
+   "leguizamón correa",
+   "natalia"
+  ]
+ },
+ {
+  "name": "Alderete Benitez. Delsi Giovanni. Díaz Arzamendia, Fabio Gonzalo. Muller Maldonado, Michelle",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Alderete Michelle",
+   "Michelle Alderete",
+   "michelle",
+   "alderete"
+  ]
+ },
+ {
+  "name": "Christian Emilio Schaerer Serra",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2015",
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Christian Serra",
+   "Serra Christian",
+   "serra",
+   "christian"
+  ]
+ },
+ {
+  "name": "Horacio Andrés Legal Ayala",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2012",
+   "2016",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Horacio Ayala",
+   "Ayala Horacio",
+   "ayala",
+   "horacio"
+  ]
+ },
+ {
+  "name": "González Cardozo, Clara Lucia",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Clara Lucia González Cardozo",
+   "González Cardozo Clara Lucia",
+   "Lucia González Cardozo",
+   "gonzález cardozo",
+   "lucia"
+  ]
+ },
+ {
+  "name": "Acuña Veloso, Lorena Celeste",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2012"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Lorena Celeste Acuña Veloso",
+   "Acuña Veloso Lorena Celeste",
+   "Celeste Acuña Veloso",
+   "acuña veloso",
+   "celeste"
+  ]
+ },
+ {
+  "name": "José Quinto Paredes Fernández",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "José Fernández",
+   "Fernández José",
+   "fernández",
+   "josé"
+  ]
+ },
+ {
+  "name": "Mario Ramón Miño Zavala",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Mario Zavala",
+   "Zavala Mario",
+   "zavala",
+   "mario"
+  ]
+ },
+ {
+  "name": "Diego Fermín Palacios Riquelme",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2015",
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Diego Riquelme",
+   "Riquelme Diego",
+   "riquelme",
+   "diego"
+  ]
+ },
+ {
+  "name": "Fernández Martínez, Sergio",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2007",
+   "2017",
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Sergio Fernández Martínez",
+   "Fernández Martínez Sergio",
+   "Sergio Fernández Martínez",
+   "fernández martínez",
+   "sergio"
+  ]
+ },
+ {
+  "name": "Carless, Jennifer",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [],
+  "is_advisor": false,
+  "github_aliases": [
+   "Jennifer Carless",
+   "Carless Jennifer",
+   "Jennifer Carless",
+   "carless",
+   "jennifer"
+  ]
+ },
+ {
+  "name": "Enrique",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2022",
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Enrique"
+  ]
+ },
+ {
+  "name": "Ríos González, Richard Germán",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2014",
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Richard Germán Ríos González",
+   "Ríos González Richard Germán",
+   "Germán Ríos González",
+   "ríos gonzález",
+   "germán"
+  ]
+ },
+ {
+  "name": "Giménez Alvarez, Denis Amilcar",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2021",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Denis Amilcar Giménez Alvarez",
+   "Giménez Alvarez Denis Amilcar",
+   "Amilcar Giménez Alvarez",
+   "giménez alvarez",
+   "amilcar"
+  ]
+ },
+ {
+  "name": "Pries Giesbrecht, Rendy",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Rendy Pries Giesbrecht",
+   "Pries Giesbrecht Rendy",
+   "Rendy Pries Giesbrecht",
+   "pries giesbrecht",
+   "rendy"
+  ]
+ },
+ {
+  "name": "Bogado, Francisco J",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "1996",
+   "2004",
+   "2005"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Francisco J Bogado",
+   "Bogado Francisco J",
+   "J Bogado",
+   "bogado",
+   "j"
+  ]
+ },
+ {
+  "name": "Millet Bello, Enrique Nahuel",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Enrique Nahuel Millet Bello",
+   "Millet Bello Enrique Nahuel",
+   "Nahuel Millet Bello",
+   "millet bello",
+   "nahuel"
+  ]
+ },
+ {
+  "name": "Frutos Olmedo",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2023",
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Frutos Olmedo",
+   "Olmedo Frutos",
+   "olmedo",
+   "frutos"
+  ]
+ },
+ {
+  "name": "Lucas Teótimo",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2023",
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Lucas Teótimo",
+   "Teótimo Lucas",
+   "teótimo",
+   "lucas"
+  ]
+ },
+ {
+  "name": "Alvarenga Coronel, Oswald Rodrigo",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2012",
+   "2026"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Oswald Rodrigo Alvarenga Coronel",
+   "Alvarenga Coronel Oswald Rodrigo",
+   "Rodrigo Alvarenga Coronel",
+   "alvarenga coronel",
+   "rodrigo"
+  ]
+ },
+ {
+  "name": "María García Díaz",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2015",
+   "2019"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "María Díaz",
+   "Díaz María",
+   "díaz",
+   "maría"
+  ]
+ },
+ {
+  "name": "Ozuna Q., Humberto F",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "1999",
+   "2015"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Humberto F Ozuna Q.",
+   "Ozuna Q. Humberto F",
+   "F Ozuna Q.",
+   "ozuna q.",
+   "f"
+  ]
+ },
+ {
+  "name": "José Luis Vázquez",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2014",
+   "2017",
+   "2019"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "José Vázquez",
+   "Vázquez José",
+   "vázquez",
+   "josé"
+  ]
+ },
+ {
+  "name": "Monges Olmedo, Mario Roberto",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2012"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Mario Roberto Monges Olmedo",
+   "Monges Olmedo Mario Roberto",
+   "Roberto Monges Olmedo",
+   "monges olmedo",
+   "roberto"
+  ]
+ },
+ {
+  "name": "Ayala Albertini Valdovino, Luis Pablo",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2003",
+   "2012",
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Luis Pablo Ayala Albertini Valdovino",
+   "Ayala Albertini Valdovino Luis Pablo",
+   "Pablo Ayala Albertini Valdovino",
+   "ayala albertini valdovino",
+   "pablo"
+  ]
+ },
+ {
+  "name": "Arguello Alcaraz, Valeria Monserrat",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2018",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Valeria Monserrat Arguello Alcaraz",
+   "Arguello Alcaraz Valeria Monserrat",
+   "Monserrat Arguello Alcaraz",
+   "arguello alcaraz",
+   "monserrat"
+  ]
+ },
+ {
+  "name": "Rubén Franco Ibars",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Rubén Ibars",
+   "Ibars Rubén",
+   "ibars",
+   "rubén"
+  ]
+ },
+ {
+  "name": "Suzuki Shimakawa, Oscar Ken",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Oscar Ken Suzuki Shimakawa",
+   "Suzuki Shimakawa Oscar Ken",
+   "Ken Suzuki Shimakawa",
+   "suzuki shimakawa",
+   "ken"
+  ]
+ },
+ {
+  "name": "José Núñez",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2017",
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "José Núñez",
+   "Núñez José",
+   "núñez",
+   "josé"
+  ]
+ },
+ {
+  "name": "Balbuena Duarte, Diego César",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2017",
+   "2021",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Diego César Balbuena Duarte",
+   "Balbuena Duarte Diego César",
+   "César Balbuena Duarte",
+   "balbuena duarte",
+   "césar"
+  ]
+ },
+ {
+  "name": "Diego P",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2020",
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Diego P",
+   "P Diego",
+   "p",
+   "diego"
+  ]
+ },
+ {
+  "name": "Maldonado Cabrera, Walter Alejandro",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2011",
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Walter Alejandro Maldonado Cabrera",
+   "Maldonado Cabrera Walter Alejandro",
+   "Alejandro Maldonado Cabrera",
+   "maldonado cabrera",
+   "alejandro"
+  ]
+ },
+ {
+  "name": "Diego P. Pinto Roa",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2019",
+   "2020"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Diego Roa",
+   "Roa Diego",
+   "roa",
+   "diego"
+  ]
+ },
+ {
+  "name": "Vivian Fatecha",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Vivian Fatecha",
+   "Fatecha Vivian",
+   "fatecha",
+   "vivian"
+  ]
+ },
+ {
+  "name": "Lisnichuk Lechenuk, Katrina",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2019"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Katrina Lisnichuk Lechenuk",
+   "Lisnichuk Lechenuk Katrina",
+   "Katrina Lisnichuk Lechenuk",
+   "lisnichuk lechenuk",
+   "katrina"
+  ]
+ },
+ {
+  "name": "Ayala Espinoza, Tyra María Karolyna",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Tyra María Karolyna Ayala Espinoza",
+   "Ayala Espinoza Tyra María Karolyna",
+   "Karolyna Ayala Espinoza",
+   "ayala espinoza",
+   "karolyna"
+  ]
+ },
+ {
+  "name": "Ojeda Jara, Liz Adriana",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Liz Adriana Ojeda Jara",
+   "Ojeda Jara Liz Adriana",
+   "Adriana Ojeda Jara",
+   "ojeda jara",
+   "adriana"
+  ]
+ },
+ {
+  "name": "María Soledad Amoa Báez",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "María Báez",
+   "Báez María",
+   "báez",
+   "maría"
+  ]
+ },
+ {
+  "name": "Ángela Ramona Mancuello Sandoval",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Ángela Sandoval",
+   "Sandoval Ángela",
+   "sandoval",
+   "ángela"
+  ]
+ },
+ {
+  "name": "Sergio Manuel Chamorro Díz",
+  "total": 3,
+  "as_author": 0,
+  "as_orientador": 3,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Sergio Díz",
+   "Díz Sergio",
+   "díz",
+   "sergio"
+  ]
+ },
+ {
+  "name": "Méndez González, Eliana Verónica",
+  "total": 3,
+  "as_author": 3,
+  "as_orientador": 0,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Eliana Verónica Méndez González",
+   "Méndez González Eliana Verónica",
+   "Verónica Méndez González",
+   "méndez gonzález",
+   "verónica"
+  ]
+ },
+ {
+  "name": "Samudio Villalba, Ricardo Arturo",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Ricardo Arturo Samudio Villalba",
+   "Samudio Villalba Ricardo Arturo",
+   "Arturo Samudio Villalba",
+   "samudio villalba",
+   "arturo"
+  ]
+ },
+ {
+  "name": "Takeuchi Hayashida, Ariel Yutaka",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Ariel Yutaka Takeuchi Hayashida",
+   "Takeuchi Hayashida Ariel Yutaka",
+   "Yutaka Takeuchi Hayashida",
+   "takeuchi hayashida",
+   "yutaka"
+  ]
+ },
+ {
+  "name": "Mariana",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Mariana"
+  ]
+ },
+ {
+  "name": "Cáceres Ruiz Díaz",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Cáceres Díaz",
+   "Díaz Cáceres",
+   "díaz",
+   "cáceres"
+  ]
+ },
+ {
+  "name": "Gabriel",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Gabriel"
+  ]
+ },
+ {
+  "name": "Duarte Zaracho",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Duarte Zaracho",
+   "Zaracho Duarte",
+   "zaracho",
+   "duarte"
+  ]
+ },
+ {
+  "name": "Gómez Añazco",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Gómez Añazco",
+   "Añazco Gómez",
+   "añazco",
+   "gómez"
+  ]
+ },
+ {
+  "name": "Ever Arnaldo",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Ever Arnaldo",
+   "Arnaldo Ever",
+   "arnaldo",
+   "ever"
+  ]
+ },
+ {
+  "name": "Arnaldo",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Arnaldo"
+  ]
+ },
+ {
+  "name": "Sofía Stete Borba",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2010"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Sofía Borba",
+   "Borba Sofía",
+   "borba",
+   "sofía"
+  ]
+ },
+ {
+  "name": "Wilma Garcete",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2010"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Wilma Garcete",
+   "Garcete Wilma",
+   "garcete",
+   "wilma"
+  ]
+ },
+ {
+  "name": "Rojas de Bracho, Amalia Alberta",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Amalia Alberta Rojas de Bracho",
+   "Rojas de Bracho Amalia Alberta",
+   "Alberta Rojas de Bracho",
+   "rojas de bracho",
+   "alberta"
+  ]
+ },
+ {
+  "name": "Ernesto Lazaga",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Ernesto Lazaga",
+   "Lazaga Ernesto",
+   "lazaga",
+   "ernesto"
+  ]
+ },
+ {
+  "name": "Julio Manuel Paciello Coronel",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Julio Coronel",
+   "Coronel Julio",
+   "coronel",
+   "julio"
+  ]
+ },
+ {
+  "name": "Carlos Segovia",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carlos Segovia",
+   "Segovia Carlos",
+   "segovia",
+   "carlos"
+  ]
+ },
+ {
+  "name": "Figueredo, Rubén Figueredo",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Rubén Figueredo Figueredo",
+   "Figueredo Rubén Figueredo",
+   "Figueredo Figueredo",
+   "figueredo",
+   "figueredo"
+  ]
+ },
+ {
+  "name": "Paciello Coronel",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Paciello Coronel",
+   "Coronel Paciello",
+   "coronel",
+   "paciello"
+  ]
+ },
+ {
+  "name": "McDaniel Jr., Carl",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carl McDaniel Jr.",
+   "McDaniel Jr. Carl",
+   "Carl McDaniel Jr.",
+   "mcdaniel jr.",
+   "carl"
+  ]
+ },
+ {
+  "name": "Galeano Bate, Santiago Lorenzo",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2018"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Santiago Lorenzo Galeano Bate",
+   "Galeano Bate Santiago Lorenzo",
+   "Lorenzo Galeano Bate",
+   "galeano bate",
+   "lorenzo"
+  ]
+ },
+ {
+  "name": "Botta Solano López, Magdalena del Rocio",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2013",
+   "2022"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Magdalena del Rocio Botta Solano López",
+   "Botta Solano López Magdalena del Rocio",
+   "Rocio Botta Solano López",
+   "botta solano lópez",
+   "rocio"
+  ]
+ },
+ {
+  "name": "Marín Báez, Rossana Gabriela",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2015",
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Rossana Gabriela Marín Báez",
+   "Marín Báez Rossana Gabriela",
+   "Gabriela Marín Báez",
+   "marín báez",
+   "gabriela"
+  ]
+ },
+ {
+  "name": "Morinigo Paredes, Joel",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Joel Morinigo Paredes",
+   "Morinigo Paredes Joel",
+   "Joel Morinigo Paredes",
+   "morinigo paredes",
+   "joel"
+  ]
+ },
+ {
+  "name": "Meza Ramírez, Jorge Moisés",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2012",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Jorge Moisés Meza Ramírez",
+   "Meza Ramírez Jorge Moisés",
+   "Moisés Meza Ramírez",
+   "meza ramírez",
+   "moisés"
+  ]
+ },
+ {
+  "name": "Meza F., Edgar I",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Edgar I Meza F.",
+   "Meza F. Edgar I",
+   "I Meza F.",
+   "meza f.",
+   "i"
+  ]
+ },
+ {
+  "name": "Fernández C., Joni",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Joni Fernández C.",
+   "Fernández C. Joni",
+   "Joni Fernández C.",
+   "fernández c.",
+   "joni"
+  ]
+ },
+ {
+  "name": "Benjamín Barán Cegla",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2009",
+   "2016"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Benjamín Cegla",
+   "Cegla Benjamín",
+   "cegla",
+   "benjamín"
+  ]
+ },
+ {
+  "name": "Joaquín Lima",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2016",
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Joaquín Lima",
+   "Lima Joaquín",
+   "lima",
+   "joaquín"
+  ]
+ },
+ {
+  "name": "Von Lucken Martínez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Von Martínez",
+   "Martínez Von",
+   "martínez",
+   "von"
+  ]
+ },
+ {
+  "name": "Christian Dabiel",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Christian Dabiel",
+   "Dabiel Christian",
+   "dabiel",
+   "christian"
+  ]
+ },
+ {
+  "name": "Christian",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Christian"
+  ]
+ },
+ {
+  "name": "Von Lücken",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Von Lücken",
+   "Lücken Von",
+   "lücken",
+   "von"
+  ]
+ },
+ {
+  "name": "Aquino Cantero, Edith Karina",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Edith Karina Aquino Cantero",
+   "Aquino Cantero Edith Karina",
+   "Karina Aquino Cantero",
+   "aquino cantero",
+   "karina"
+  ]
+ },
+ {
+  "name": "Lizza A. Salgueiro Toledo",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Lizza Toledo",
+   "Toledo Lizza",
+   "toledo",
+   "lizza"
+  ]
+ },
+ {
+  "name": "José L. Vázquez Noguera",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "José Noguera",
+   "Noguera José",
+   "noguera",
+   "josé"
+  ]
+ },
+ {
+  "name": "Alderete Benítez, Delsi Giovanni",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Delsi Giovanni Alderete Benítez",
+   "Alderete Benítez Delsi Giovanni",
+   "Giovanni Alderete Benítez",
+   "alderete benítez",
+   "giovanni"
+  ]
+ },
+ {
+  "name": "Maria Soledad Ayala Rodríguez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Maria Rodríguez",
+   "Rodríguez Maria",
+   "rodríguez",
+   "maria"
+  ]
+ },
+ {
+  "name": "Benjamín Barán",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Benjamín Barán",
+   "Barán Benjamín",
+   "barán",
+   "benjamín"
+  ]
+ },
+ {
+  "name": "Luciana Dalila Coronel Chávez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2020"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Luciana Chávez",
+   "Chávez Luciana",
+   "chávez",
+   "luciana"
+  ]
+ },
+ {
+  "name": "César Duarte",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2020"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "César Duarte",
+   "Duarte César",
+   "duarte",
+   "césar"
+  ]
+ },
+ {
+  "name": "Silva Ferreira, Orlando Raúl",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2019"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Orlando Raúl Silva Ferreira",
+   "Silva Ferreira Orlando Raúl",
+   "Raúl Silva Ferreira",
+   "silva ferreira",
+   "raúl"
+  ]
+ },
+ {
+  "name": "Luciana Dalila Coronel",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2019"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Luciana Coronel",
+   "Coronel Luciana",
+   "coronel",
+   "luciana"
+  ]
+ },
+ {
+  "name": "Reinaldo López Colmán",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2019"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Reinaldo Colmán",
+   "Colmán Reinaldo",
+   "colmán",
+   "reinaldo"
+  ]
+ },
+ {
+  "name": "Mili Saito",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2012"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Mili Saito",
+   "Saito Mili",
+   "saito",
+   "mili"
+  ]
+ },
+ {
+  "name": "César Gustavo Duarte Fioro",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2012"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "César Fioro",
+   "Fioro César",
+   "fioro",
+   "césar"
+  ]
+ },
+ {
+  "name": "Mario Miño José Quinto",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Mario Quinto",
+   "Quinto Mario",
+   "quinto",
+   "mario"
+  ]
+ },
+ {
+  "name": "Hassan Segovia, Eduardo Kedhi",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Eduardo Kedhi Hassan Segovia",
+   "Hassan Segovia Eduardo Kedhi",
+   "Kedhi Hassan Segovia",
+   "hassan segovia",
+   "kedhi"
+  ]
+ },
+ {
+  "name": "Rivarola B., Alcides",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2013",
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Alcides Rivarola B.",
+   "Rivarola B. Alcides",
+   "Alcides Rivarola B.",
+   "rivarola b.",
+   "alcides"
+  ]
+ },
+ {
+  "name": "Arturo",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Arturo"
+  ]
+ },
+ {
+  "name": "Gon´zalez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Gon´zalez"
+  ]
+ },
+ {
+  "name": "Richard",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Richard"
+  ]
+ },
+ {
+  "name": "Ríos",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Ríos"
+  ]
+ },
+ {
+  "name": "Prado Sandoval, Antonella Virginia",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Antonella Virginia Prado Sandoval",
+   "Prado Sandoval Antonella Virginia",
+   "Virginia Prado Sandoval",
+   "prado sandoval",
+   "virginia"
+  ]
+ },
+ {
+  "name": "González Osorio",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "González Osorio",
+   "Osorio González",
+   "osorio",
+   "gonzález"
+  ]
+ },
+ {
+  "name": "Buzarquis",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Buzarquis"
+  ]
+ },
+ {
+  "name": "Félix",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Félix"
+  ]
+ },
+ {
+  "name": "Fernández",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Fernández"
+  ]
+ },
+ {
+  "name": "Villagra",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2024",
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Villagra"
+  ]
+ },
+ {
+  "name": "Galeano Mareco, Eudelio Dionel",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2008",
+   "2009"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Eudelio Dionel Galeano Mareco",
+   "Galeano Mareco Eudelio Dionel",
+   "Dionel Galeano Mareco",
+   "galeano mareco",
+   "dionel"
+  ]
+ },
+ {
+  "name": "Samudio Ortega, Pedro Ignacio",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2008",
+   "2009"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Pedro Ignacio Samudio Ortega",
+   "Samudio Ortega Pedro Ignacio",
+   "Ignacio Samudio Ortega",
+   "samudio ortega",
+   "ignacio"
+  ]
+ },
+ {
+  "name": "Federico Ferreira",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017",
+   "2020"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Federico Ferreira",
+   "Ferreira Federico",
+   "ferreira",
+   "federico"
+  ]
+ },
+ {
+  "name": "Carlos María Montero Volpe",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Carlos Volpe",
+   "Volpe Carlos",
+   "volpe",
+   "carlos"
+  ]
+ },
+ {
+  "name": "Barrios Insfran, Arnaldo Amado",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2009"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Arnaldo Amado Barrios Insfran",
+   "Barrios Insfran Arnaldo Amado",
+   "Amado Barrios Insfran",
+   "barrios insfran",
+   "amado"
+  ]
+ },
+ {
+  "name": "Torres Núñez, Herminio",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2009"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Herminio Torres Núñez",
+   "Torres Núñez Herminio",
+   "Herminio Torres Núñez",
+   "torres núñez",
+   "herminio"
+  ]
+ },
+ {
+  "name": "José Gutiérrez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "José Gutiérrez",
+   "Gutiérrez José",
+   "gutiérrez",
+   "josé"
+  ]
+ },
+ {
+  "name": "Giménez Centurión, Fernando Emanuel",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2024",
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Fernando Emanuel Giménez Centurión",
+   "Giménez Centurión Fernando Emanuel",
+   "Emanuel Giménez Centurión",
+   "giménez centurión",
+   "emanuel"
+  ]
+ },
+ {
+  "name": "Hector Corvalan",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Hector Corvalan",
+   "Corvalan Hector",
+   "corvalan",
+   "hector"
+  ]
+ },
+ {
+  "name": "Ruben A. Franco Ibars",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Ruben Ibars",
+   "Ibars Ruben",
+   "ibars",
+   "ruben"
+  ]
+ },
+ {
+  "name": "Sergio Chamorro",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2021",
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Sergio Chamorro",
+   "Chamorro Sergio",
+   "chamorro",
+   "sergio"
+  ]
+ },
+ {
+  "name": "Paez Caputo, Micaela Victorina",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2025"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Micaela Victorina Paez Caputo",
+   "Paez Caputo Micaela Victorina",
+   "Victorina Paez Caputo",
+   "paez caputo",
+   "victorina"
+  ]
+ },
+ {
+  "name": "Vázquez Fernández, Sergio Ismael",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2018",
+   "2024"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Sergio Ismael Vázquez Fernández",
+   "Vázquez Fernández Sergio Ismael",
+   "Ismael Vázquez Fernández",
+   "vázquez fernández",
+   "ismael"
+  ]
+ },
+ {
+  "name": "Dominguez Mínguez, Tomás",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2020",
+   "2021"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Tomás Dominguez Mínguez",
+   "Dominguez Mínguez Tomás",
+   "Tomás Dominguez Mínguez",
+   "dominguez mínguez",
+   "tomás"
+  ]
+ },
+ {
+  "name": "Candy Santacruz",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2025"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Candy Santacruz",
+   "Santacruz Candy",
+   "santacruz",
+   "candy"
+  ]
+ },
+ {
+  "name": "Guillermo J. González Rodas",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Guillermo Rodas",
+   "Rodas Guillermo",
+   "rodas",
+   "guillermo"
+  ]
+ },
+ {
+  "name": "Juan Ignacio Pane Fernandez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Juan Fernandez",
+   "Fernandez Juan",
+   "fernandez",
+   "juan"
+  ]
+ },
+ {
+  "name": "Guillermo Jacobo González Rodas",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Guillermo Rodas",
+   "Rodas Guillermo",
+   "rodas",
+   "guillermo"
+  ]
+ },
+ {
+  "name": "Ozuna Loncharich, Carlos Buenaventura",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carlos Buenaventura Ozuna Loncharich",
+   "Ozuna Loncharich Carlos Buenaventura",
+   "Buenaventura Ozuna Loncharich",
+   "ozuna loncharich",
+   "buenaventura"
+  ]
+ },
+ {
+  "name": "Valdez Sarubbi, Oscar Bartolome",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Oscar Bartolome Valdez Sarubbi",
+   "Valdez Sarubbi Oscar Bartolome",
+   "Bartolome Valdez Sarubbi",
+   "valdez sarubbi",
+   "bartolome"
+  ]
+ },
+ {
+  "name": "Bernal Fernández, Johathan Darío",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Johathan Darío Bernal Fernández",
+   "Bernal Fernández Johathan Darío",
+   "Darío Bernal Fernández",
+   "bernal fernández",
+   "darío"
+  ]
+ },
+ {
+  "name": "Monges",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Monges"
+  ]
+ },
+ {
+  "name": "Ahrens Rodríguez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Ahrens Rodríguez",
+   "Rodríguez Ahrens",
+   "rodríguez",
+   "ahrens"
+  ]
+ },
+ {
+  "name": "Carlos Núñez Castillo",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2019"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Carlos Castillo",
+   "Castillo Carlos",
+   "castillo",
+   "carlos"
+  ]
+ },
+ {
+  "name": "Miguel García Torres",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2019"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Miguel Torres",
+   "Torres Miguel",
+   "torres",
+   "miguel"
+  ]
+ },
+ {
+  "name": "Christian E. Schaerer",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2011",
+   "2012"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Christian Schaerer",
+   "Schaerer Christian",
+   "schaerer",
+   "christian"
+  ]
+ },
+ {
+  "name": "Arteta Gómez, Adolfo Aníbal",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2007",
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Adolfo Aníbal Arteta Gómez",
+   "Arteta Gómez Adolfo Aníbal",
+   "Aníbal Arteta Gómez",
+   "arteta gómez",
+   "aníbal"
+  ]
+ },
+ {
+  "name": "Orilla, Lawrence S",
+  "total": 2,
+  "as_author": 1,
+  "as_orientador": 1,
+  "years": [
+   "2012"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Lawrence S Orilla",
+   "Orilla Lawrence S",
+   "S Orilla",
+   "orilla",
+   "s"
+  ]
+ },
+ {
+  "name": "Christian von Lücken",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Christian Lücken",
+   "Lücken Christian",
+   "lücken",
+   "christian"
+  ]
+ },
+ {
+  "name": "Antonieta Rojas de Arias",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Antonieta Arias",
+   "Arias Antonieta",
+   "arias",
+   "antonieta"
+  ]
+ },
+ {
+  "name": "Santiago Gómez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Santiago Gómez",
+   "Gómez Santiago",
+   "gómez",
+   "santiago"
+  ]
+ },
+ {
+  "name": "Christian Schaerer",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Christian Schaerer",
+   "Schaerer Christian",
+   "schaerer",
+   "christian"
+  ]
+ },
+ {
+  "name": "Acosta Florentín, Mateo Sebastian",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2017",
+   "2018"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Mateo Sebastian Acosta Florentín",
+   "Acosta Florentín Mateo Sebastian",
+   "Sebastian Acosta Florentín",
+   "acosta florentín",
+   "sebastian"
+  ]
+ },
+ {
+  "name": "Ozuna Q, Humberto T",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "1999"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Humberto T Ozuna Q",
+   "Ozuna Q Humberto T",
+   "T Ozuna Q",
+   "ozuna q",
+   "t"
+  ]
+ },
+ {
+  "name": "Coronel Sotelo, Adriana Desireé",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2018"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Adriana Desireé Coronel Sotelo",
+   "Coronel Sotelo Adriana Desireé",
+   "Desireé Coronel Sotelo",
+   "coronel sotelo",
+   "desireé"
+  ]
+ },
+ {
+  "name": "Morel, Héctor",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Héctor Morel",
+   "Morel Héctor",
+   "Héctor Morel",
+   "morel",
+   "héctor"
+  ]
+ },
+ {
+  "name": "Riveros, Cilo",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Cilo Riveros",
+   "Riveros Cilo",
+   "Cilo Riveros",
+   "riveros",
+   "cilo"
+  ]
+ },
+ {
+  "name": "José Luís Vázquez Noguera",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2016",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "José Noguera",
+   "Noguera José",
+   "noguera",
+   "josé"
+  ]
+ },
+ {
+  "name": "Danzov Ferreira, María Luján",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "María Luján Danzov Ferreira",
+   "Danzov Ferreira María Luján",
+   "Luján Danzov Ferreira",
+   "danzov ferreira",
+   "luján"
+  ]
+ },
+ {
+  "name": "Rubén Alcídes Franco Ibars",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Rubén Ibars",
+   "Ibars Rubén",
+   "ibars",
+   "rubén"
+  ]
+ },
+ {
+  "name": "Vera y Aragón Villamayor, Carlos Alexander",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2015",
+   "2023"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Carlos Alexander Vera y Aragón Villamayor",
+   "Vera y Aragón Villamayor Carlos Alexander",
+   "Alexander Vera y Aragón Villamayor",
+   "vera y aragón villamayor",
+   "alexander"
+  ]
+ },
+ {
+  "name": "Maidana Benítez, Luis Victor",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2003",
+   "2019"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Luis Victor Maidana Benítez",
+   "Maidana Benítez Luis Victor",
+   "Victor Maidana Benítez",
+   "maidana benítez",
+   "victor"
+  ]
+ },
+ {
+  "name": "Lisnichuk Lechenuk, Yohanna",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Yohanna Lisnichuk Lechenuk",
+   "Lisnichuk Lechenuk Yohanna",
+   "Yohanna Lisnichuk Lechenuk",
+   "lisnichuk lechenuk",
+   "yohanna"
+  ]
+ },
+ {
+  "name": "Julio Palacio",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Julio Palacio",
+   "Palacio Julio",
+   "palacio",
+   "julio"
+  ]
+ },
+ {
+  "name": "Román Orzuza, Claudia Lorena",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Claudia Lorena Román Orzuza",
+   "Román Orzuza Claudia Lorena",
+   "Lorena Román Orzuza",
+   "román orzuza",
+   "lorena"
+  ]
+ },
+ {
+  "name": "Mosqueira Céspedes, Pablo Cecilio",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Pablo Cecilio Mosqueira Céspedes",
+   "Mosqueira Céspedes Pablo Cecilio",
+   "Cecilio Mosqueira Céspedes",
+   "mosqueira céspedes",
+   "cecilio"
+  ]
+ },
+ {
+  "name": "Miki Saito",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2014",
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Miki Saito",
+   "Saito Miki",
+   "saito",
+   "miki"
+  ]
+ },
+ {
+  "name": "Pinto-Roa",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2023"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Pinto-Roa"
+  ]
+ },
+ {
+  "name": "Agûero Osorio, Liliana Beatriz",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2018"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Liliana Beatriz Agûero Osorio",
+   "Agûero Osorio Liliana Beatriz",
+   "Beatriz Agûero Osorio",
+   "agûero osorio",
+   "beatriz"
+  ]
+ },
+ {
+  "name": "Enrique Dávalos",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017",
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Enrique Dávalos",
+   "Dávalos Enrique",
+   "dávalos",
+   "enrique"
+  ]
+ },
+ {
+  "name": "Godoy Achón, Ramiro Fabián",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2013",
+   "2016"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Ramiro Fabián Godoy Achón",
+   "Godoy Achón Ramiro Fabián",
+   "Fabián Godoy Achón",
+   "godoy achón",
+   "fabián"
+  ]
+ },
+ {
+  "name": "Isabel Alicia",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2022"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Isabel Alicia",
+   "Alicia Isabel",
+   "alicia",
+   "isabel"
+  ]
+ },
+ {
+  "name": "Giménez de Raidán",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2022"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Giménez Raidán",
+   "Raidán Giménez",
+   "raidán",
+   "giménez"
+  ]
+ },
+ {
+  "name": "Juan Carlos Ahrens",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2016"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Juan Ahrens",
+   "Ahrens Juan",
+   "ahrens",
+   "juan"
+  ]
+ },
+ {
+  "name": "Isabel Giménez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2022"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Isabel Giménez",
+   "Giménez Isabel",
+   "giménez",
+   "isabel"
+  ]
+ },
+ {
+  "name": "Lucia Janet Villalba Marin",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Lucia Marin",
+   "Marin Lucia",
+   "marin",
+   "lucia"
+  ]
+ },
+ {
+  "name": "Carlos Eliseo Enciso Villalba",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Carlos Villalba",
+   "Villalba Carlos",
+   "villalba",
+   "carlos"
+  ]
+ },
+ {
+  "name": "Araujo Bobadilla, Fernando Diosnel",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Fernando Diosnel Araujo Bobadilla",
+   "Araujo Bobadilla Fernando Diosnel",
+   "Diosnel Araujo Bobadilla",
+   "araujo bobadilla",
+   "diosnel"
+  ]
+ },
+ {
+  "name": "Oscar Machuca González",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017",
+   "2021"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Oscar González",
+   "González Oscar",
+   "gonzález",
+   "oscar"
+  ]
+ },
+ {
+  "name": "Vega Aquino, Liduvina Marina",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2015"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Liduvina Marina Vega Aquino",
+   "Vega Aquino Liduvina Marina",
+   "Marina Vega Aquino",
+   "vega aquino",
+   "marina"
+  ]
+ },
+ {
+  "name": "González Martínez, Jessica Ros Mary",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2019"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Jessica Ros Mary González Martínez",
+   "González Martínez Jessica Ros Mary",
+   "Mary González Martínez",
+   "gonzález martínez",
+   "mary"
+  ]
+ },
+ {
+  "name": "Caballero Morilla, David Domingo",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2008",
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "David Domingo Caballero Morilla",
+   "Caballero Morilla David Domingo",
+   "Domingo Caballero Morilla",
+   "caballero morilla",
+   "domingo"
+  ]
+ },
+ {
+  "name": "Luis Emilio Dietrich",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2014"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Luis Dietrich",
+   "Dietrich Luis",
+   "dietrich",
+   "luis"
+  ]
+ },
+ {
+  "name": "Luis Hernando Acha",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2014"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Luis Acha",
+   "Acha Luis",
+   "acha",
+   "luis"
+  ]
+ },
+ {
+  "name": "Sergio Ramón Toledo Gallardo",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Sergio Gallardo",
+   "Gallardo Sergio",
+   "gallardo",
+   "sergio"
+  ]
+ },
+ {
+  "name": "Marcos Esteban Rivera Abarca",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Marcos Abarca",
+   "Abarca Marcos",
+   "abarca",
+   "marcos"
+  ]
+ },
+ {
+  "name": "Gaete Ruiz, Jessica Alejandra",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2020"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Jessica Alejandra Gaete Ruiz",
+   "Gaete Ruiz Jessica Alejandra",
+   "Alejandra Gaete Ruiz",
+   "gaete ruiz",
+   "alejandra"
+  ]
+ },
+ {
+  "name": "Juan José Ocampos Becker",
+  "total": 2,
+  "as_author": 2,
+  "as_orientador": 0,
+  "years": [
+   "2017"
+  ],
+  "is_advisor": false,
+  "github_aliases": [
+   "Juan Becker",
+   "Becker Juan",
+   "becker",
+   "juan"
+  ]
+ },
+ {
+  "name": "Antonio Hernández Fernández",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Antonio Fernández",
+   "Fernández Antonio",
+   "fernández",
+   "antonio"
+  ]
+ },
+ {
+  "name": "Carmen Delia Varela Báez",
+  "total": 2,
+  "as_author": 0,
+  "as_orientador": 2,
+  "years": [
+   "2018"
+  ],
+  "is_advisor": true,
+  "github_aliases": [
+   "Carmen Báez",
+   "Báez Carmen",
+   "báez",
+   "carmen"
+  ]
+ }
+]
