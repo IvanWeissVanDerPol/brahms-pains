@@ -259,3 +259,6 @@ MEDICAL/**/_extracted/
 
 # MRI analysis previews (Erebus analysis) — keep these in git
 !MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/previews_per_level/*.png
+
+# MRI analysis annotated images (Erebus per-finding) — keep these in git
+!MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/annotated/*.png
