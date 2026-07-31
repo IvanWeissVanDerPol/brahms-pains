@@ -243,3 +243,9 @@ SOURCE_OF_TRUTH/fpuna_research/raw_html_snapshots/
 coverage.json
 .coverage
 htmlcov/
+# Medical images are personal PHI — keep in repo but gitignore large previews
+MEDICAL/*/previews/*.png
+MEDICAL/*/previews/*.jpg
+MEDICAL/**/*.dcm
+!MEDICAL/*/previews/00_montage*.png
+!MEDICAL/*/previews/06_annotated*.png
