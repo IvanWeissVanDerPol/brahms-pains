@@ -11,8 +11,11 @@
 | File | Purpose | Size |
 |------|---------|------|
 | `EXTERNAL_BASELINE_v1.md` | P1/P2/P3 vs LATAM/SciELO/HF/Paraguayan gov competitors + datasets | 17.7 KB |
+| `scielo_arxiv_paraguay_papers.json` | 21 papers across SciELO IICS, CONICET, ResearchGate, arxiv, FCM-UNA | 13.7 KB |
 | `latam_baseline_v1.json` | P3 jopara papers + depression methods + UdelaR theses + ecosystem | 11 KB |
-| `paraguay_hf_datasets.json` | somosnlp-hackathon-2026/paraguay-cultural-alignment + 50 other datasets | 10 KB |
+| `paraguay_datasets_paraguay.json` | HF + Zenodo + Gov agencies + Geospatial comprehensive catalog | 7.2 KB |
+| `paraguay_huggingface_datasets.json` | somosnlp-2026 + Spaces + Ecosystem orgs + search-result counts | 5.7 KB |
+| `paraguay_osint_links.json` | 14 UNA faculties + 20 FP-UNA groups + Gov agencies + clinical partners | 8.9 KB |
 
 ## Cross-Corpus Synthesis (NEW this session)
 
