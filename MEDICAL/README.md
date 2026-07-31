@@ -9,6 +9,7 @@
 | Folder | Date | Type | Modality | Status |
 |---|---|---|---|---|
 | `XRAY_2025-10-31_LATERAL_CHEST/` | 2025-10-31 11:02:34 | Lateral chest X-ray | DX (Digital Radiography) | Analyzed, see analysis/ |
+| `MRI_2026-07-22_LUMBAR_PELVIS/` | 2026-07-22 14:25:27 | Lumbar spine + bony pelvis MRI (1029 slices, 22 series) | MR (1.5T GE Signa Voyager) | Analyzed, see analysis/ |
 
 ## What to add (in priority order)
 
