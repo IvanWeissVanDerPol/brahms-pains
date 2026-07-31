@@ -8,9 +8,9 @@ Schema:
 - authors: <a href="...au:X" class="colaboradores"><span property="name">NAME</span> <span class="relatorcode"> [autor]</span></a>
 - orientadores: <a href="...au:X" class="colaboradores"><span property="name">NAME</span> <span class="relatorcode"> [orientador]</span></a>
 - year: extracted from "Productor: ... 2025"
-- branch: items table column "Biblioteca actual"
-- callnumber: items table column "Signatura topográfica"
-- subjects: <span property="name">TOPIC</span> within subjects block
+- branch: items table column "Biblioteca actual" (cell 2 in data row, NOT header)
+- callnumber: items table column "Signatura topográfica" (cell 6)
+- subjects: from Tema(s): block
 - diss_note: <Nota de disertación:>...</span>
 """
 import json, re, urllib.request, urllib.error, time
@@ -43,7 +43,7 @@ print(f"Loaded {len(records)} records")
 if CKPT.exists():
     ckpt = json.load(open(CKPT))
     done = set(ckpt["done"])
-    enriched = {r["bibnum"]: r for r in ckpt["enriched"]}
+    enriched = {r["bibnum"]: r for r in ckpt["enriched"] if isinstance(r, dict) and r.get("bibnum")}
     print(f"Resumed: {len(done)} done, {len(enriched)} enriched")
 else:
     done = set()
@@ -54,6 +54,12 @@ URL_BASE = "https://koha.cnc.una.py/cgi-bin/koha/opac-detail.pl?biblionumber={}"
 CONTRIB_RE = re.compile(r'<a[^>]*href="/cgi-bin/koha/opac-search\.pl\?[^"]*q=au:%22([^"]+?)%22[^"]*"[^>]*class="colaboradores"[^>]*>(.*?)</a>', re.DOTALL)
 NAME_RE = re.compile(r'<span[^>]*property="name"[^>]*>([^<]+)</span>')
 RELATOR_RE = re.compile(r'<span[^>]*class="relatorcode"[^>]*>\s*\[([^\]]+)\]')
+LIB_PATTERNS = ['Biblioteca FPUNA', 'Biblioteca FACEN', 'Biblioteca FADA', 'Biblioteca FACSO',
+                'Biblioteca de Filosofía', 'Biblioteca de Agrarias', 'Biblioteca de Veterinaria',
+                'Biblioteca de Medicina', 'Biblioteca de Odontología', 'Biblioteca de Derecho',
+                'Biblioteca de Enfermería', 'Biblioteca de Ciencias Económicas',
+                'Biblioteca de Ciencias Químicas', 'Biblioteca de la Facultad de Ingeniería',
+                'Biblioteca IICS', 'Biblioteca ISA']
 
 def parse_detail(html, bibnum):
     rec = {"bibnum": bibnum}
@@ -61,6 +67,10 @@ def parse_detail(html, bibnum):
     title = re.search(r'<h1[^>]*class="title"[^>]*>(.*?)</h1>', html, re.DOTALL)
     if title:
         rec["title"] = re.sub(r'<[^>]+>', ' ', title.group(1)).strip()
+    if not rec.get("title"):
+        t = re.search(r'<title[^>]*>Detalles para (.*?)</title>', html, re.DOTALL)
+        if t:
+            rec["title"] = t.group(1).strip()
     # Authors and orientadores
     authors = []
     orientadores = []
@@ -71,7 +81,7 @@ def parse_detail(html, bibnum):
         name = name_m.group(1).strip()
         rel_m = RELATOR_RE.search(inner)
         role = rel_m.group(1).strip() if rel_m else "autor"
-        if "orientador" in role.lower() or "tutor" in role.lower():
+        if "orientador" in role.lower() or "tutor" in role.lower() or "director" in role.lower():
             orientadores.append({"au_id": au_id, "name": name, "role": role})
         else:
             authors.append({"au_id": au_id, "name": name, "role": role})
@@ -81,27 +91,33 @@ def parse_detail(html, bibnum):
     year = re.search(r'Productor:.*?(\d{4})', html, re.DOTALL)
     if year:
         rec["year"] = year.group(1)
-    # DC.dateIssued
     di = re.search(r'dateIssued[^"]*">?(\d{4})', html)
-    if di:
+    if di and not rec.get("year"):
         rec["year"] = di.group(1)
-    # Branch from items table
+    # Branch from items table (skip header rows)
     item_tbl = re.search(r'<table[^>]*>.*?</table>', html, re.DOTALL)
     if item_tbl:
-        row = re.search(r'<tr[^>]*>(.*?)</tr>', item_tbl.group(0), re.DOTALL)
-        if row:
-            cells = re.findall(r'<td[^>]*>(.*?)</td>', row.group(1), re.DOTALL)
+        rows = re.findall(r'<tr[^>]*>(.*?)</tr>', item_tbl.group(0), re.DOTALL)
+        data_rows = [r for r in rows if re.search(r'<td', r)]
+        for row in data_rows:
+            cells = re.findall(r'<td[^>]*>(.*?)</td>', row, re.DOTALL)
             if len(cells) >= 7:
-                cbranch = re.sub(r'<[^>]+>', ' ', cells[2]).strip() if len(cells) > 2 else None
-                cloc = re.sub(r'<[^>]+>', ' ', cells[3]).strip() if len(cells) > 3 else None
-                ccoll = re.sub(r'<[^>]+>', ' ', cells[4]).strip() if len(cells) > 4 else None
-                ccn = re.sub(r'<[^>]+>', ' ', cells[6]).strip() if len(cells) > 6 else None
-                if cbranch: rec["branch"] = cbranch
-                if cloc: rec["location"] = cloc
-                if ccoll: rec["collection"] = ccoll
-                if ccn: rec["callnumber"] = ccn
-    # Subjects — anything tagged with role "subject" or "Topic"
-    # The block <span class="results_summary subjects h3">Tema(s): ...</span>
+                cbranch = re.sub(r'<[^>]+>', ' ', cells[2]).strip()
+                cloc = re.sub(r'<[^>]+>', ' ', cells[3]).strip()
+                ccoll = re.sub(r'<[^>]+>', ' ', cells[4]).strip()
+                ccn = re.sub(r'<[^>]+>', ' ', cells[6]).strip()
+                if cbranch and cbranch.strip() and cbranch != ' ': rec["branch"] = cbranch
+                if cloc and cloc.strip() and cloc != ' ': rec["location"] = cloc
+                if ccoll and ccoll.strip() and ccoll != ' ': rec["collection"] = ccoll
+                if ccn and ccn.strip() and ccn != ' ': rec["callnumber"] = ccn
+                break
+    # Fallback: Biblioteca text
+    if not rec.get("branch"):
+        for lib in LIB_PATTERNS:
+            if lib in html:
+                rec["branch"] = lib
+                break
+    # Subjects
     subj_block = re.search(r'<span[^>]*class="results_summary subjects[^"]*"[^>]*>(.*?)</span>', html, re.DOTALL)
     if subj_block:
         subj = re.findall(r'<a[^>]*property="name"[^>]*>([^<]+)</a>', subj_block.group(1))

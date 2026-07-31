@@ -1,16 +1,23 @@
 {
  "done": [
   267264,
+  645635,
   621062,
   271374,
+  546321,
   152089,
   642587,
   516125,
   639520,
+  645665,
+  284707,
   182309,
   262693,
   276010,
+  264238,
   605747,
+  543796,
+  608822,
   622135,
   182839,
   182841,
@@ -20,6 +27,8 @@
   290369,
   269890,
   519237,
+  641605,
+  182855,
   263242,
   183886,
   337488,
@@ -28,21 +37,28 @@
   233061,
   193126,
   641127,
+  626791,
   642153,
   193133,
+  184946,
   284789,
   605818,
+  611453,
   186496,
   193154,
+  626821,
   250507,
+  611470,
   237201,
   641682,
   183957,
   264342,
+  641685,
   284832,
   611490,
   194211,
   545444,
+  641703,
   641710,
   249518,
   266927,
@@ -54,6 +70,7 @@
   149708,
   269012,
   273623,
+  271576,
   143579,
   262875,
   268512,
@@ -64,6 +81,7 @@
   609014,
   183545,
   278266,
+  605948,
   446720,
   192260,
   640776,
@@ -77,8 +95,11 @@
   188701,
   183072,
   248096,
+  632607,
   184099,
+  183074,
   210726,
+  248615,
   137513,
   142121,
   188716,
@@ -87,32 +108,52 @@
   635184,
   268593,
   500530,
+  183091,
   276276,
+  270131,
   241462,
+  625973,
   183098,
+  610106,
   513852,
   638269,
+  625983,
   182081,
   609601,
+  268616,
   606030,
   606033,
+  609618,
   182613,
   612694,
+  327510,
   626008,
+  268633,
+  612702,
   267104,
   256353,
   182628,
+  251237,
   184679,
   182639,
+  327541,
   273786,
   264571,
   182656,
   246657,
   182658,
   251778,
+  183168,
+  271749,
+  247682,
+  270725,
   182667,
   246158,
+  641935,
+  251283,
   270740,
+  612757,
+  242069,
   641945,
   279963,
   641947,
@@ -121,6 +162,7 @@
   337824,
   654242,
   302498,
+  608675,
   246189,
   182704,
   182197,
@@ -130,7 +172,10 @@
   640959,
   182209,
   182210,
+  267200,
   182213,
+  566725,
+  637902,
   182223,
   182224,
   251857,
@@ -138,16 +183,21 @@
   274388,
   189396,
   642516,
+  547286,
   159704,
   642520,
   192989,
   182752,
+  626144,
   251363,
+  543718,
   548330,
   612843,
   503274,
   519149,
+  186862,
   189426,
+  267254,
   185338,
   642043
  ],
@@ -191,12 +241,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "IEL0168",
+   "callnumber": "IEL0168\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 183072,
@@ -237,12 +288,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "IE0265",
+   "callnumber": "IE0265\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 183098,
@@ -278,12 +330,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "IEO265",
+   "callnumber": "IEO265\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 185338,
@@ -319,12 +372,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "027",
+   "callnumber": "027\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 642153,
@@ -365,12 +419,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "IEL0168",
+   "callnumber": "IEL0168\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 641710,
@@ -411,12 +466,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "IE0265",
+   "callnumber": "IE0265\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 641682,
@@ -452,12 +508,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "IEO265",
+   "callnumber": "IEO265\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 264633,
@@ -483,12 +540,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "651.53",
+   "callnumber": "651.53\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 268593,
@@ -514,12 +572,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "621.381",
+   "callnumber": "621.381\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 611490,
@@ -550,13 +609,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "621.381 L967r",
+   "callnumber": "621.381 L967r\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/17894.pdf",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
    ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/tesis/17894.pdf"
    ]
@@ -595,12 +655,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "027 M484o",
+   "callnumber": "027 M484o\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 605747,
@@ -631,13 +692,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "651.53",
+   "callnumber": "651.53\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12151.pdf",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
    ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/tesis/12151.pdf"
    ]
@@ -666,12 +728,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA Coronel Oviedo",
-   "callnumber": "LCIK06, ..",
+   "callnumber": "LCIK06\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA Coronel Oviedo\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 446720,
@@ -685,12 +748,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA Coronel Oviedo",
-   "callnumber": "LCIK27, ..",
+   "callnumber": "LCIK27\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA Coronel Oviedo\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 642587,
@@ -716,19 +780,20 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "LCI99",
+   "callnumber": "LCI99\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "FPUNA"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 182081,
    "title": "Hotel Casino San Bernardino",
    "year": "2012",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "LGH255",
+   "callnumber": "LGH255\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -738,14 +803,15 @@
      "name": "Lezcano Meaurio, Vanina Elizabeth",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182197,
    "title": "Roma : ayer, hoy",
    "year": "2003",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0694",
+   "callnumber": "I0694\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -755,14 +821,15 @@
      "name": "Pereira Ayala, Zunilda Ignacia",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182207,
    "title": "Historia Naval del Paraguay",
    "year": "2000",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0561",
+   "callnumber": "I0561\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -772,14 +839,15 @@
      "name": "Izquierdo, César Alberto",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182209,
    "title": "Syswork comunicaciones PC/AS400",
    "year": "2002",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0640",
+   "callnumber": "I0640\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -789,14 +857,15 @@
      "name": "Caballero Grance, Jorge Alberto",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182210,
    "title": "Virtual tutor",
    "year": "2001",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0569",
+   "callnumber": "I0569\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -806,14 +875,15 @@
      "name": "Colmán Irala, Edgar A",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182213,
    "title": "Astro Tutor",
    "year": "2000",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0490",
+   "callnumber": "I0490\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -823,14 +893,15 @@
      "name": "Robles, Jorge Luis / Duré, Víctor",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182223,
    "title": "\"UsWORLD - Mapamundi\"",
    "year": "1996",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0184",
+   "callnumber": "I0184\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -840,14 +911,15 @@
      "name": "Ramos Gimenez, Miguel Angel",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182224,
    "title": "Sistema de gestión académica \"Scholar\"",
    "year": "2007",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "P0052",
+   "callnumber": "P0052\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -857,14 +929,15 @@
      "name": "Kulman, Felicito Hermosa",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182309,
    "title": "Sibaris Bistró",
    "year": "2021",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "LGH203",
+   "callnumber": "LGH203\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -874,14 +947,15 @@
      "name": "Cabrera González, Carmen",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182628,
    "title": "Bautistas en el Paraguay",
    "year": "2002",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0625",
+   "callnumber": "I0625\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -891,14 +965,15 @@
      "name": "Sozko, Pablo",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182639,
    "title": "Planner",
    "year": "1995",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0020",
+   "callnumber": "I0020\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -908,14 +983,15 @@
      "name": "Colmán Barbosa, Dalila",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182656,
    "title": "Sistema de estatuto",
    "year": "2002",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0626",
+   "callnumber": "I0626\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -925,14 +1001,15 @@
      "name": "Cabrera, Celia",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182658,
    "title": "Sistema de cuentos infantiles SCI",
    "year": "2002",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "I0634",
+   "callnumber": "I0634\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -942,14 +1019,15 @@
      "name": "Carballo Valdez, Rogelia Elizabeth",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 182667,
    "title": "Sistema gerenciador de pedidos \"S.G.P.\"",
    "year": "2008",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "P0072",
+   "callnumber": "P0072\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -959,14 +1037,15 @@
      "name": "Martínez Acevedo, Edgar Wilfrido",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 183200,
    "title": "Sistema de gestion academica ACASYS",
    "year": "2022",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "LCIK253",
+   "callnumber": "LCIK253\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "FPUNA"
    ],
@@ -976,14 +1055,15 @@
      "name": "Facultad Politécnica",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 247873,
    "title": "Actividad larvicida de extractos de cuatro especies vegetales sobre aedes aegypti",
    "year": "2021",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "9/21",
+   "callnumber": "9/21\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "aedes_aegypti"
    ],
@@ -993,14 +1073,15 @@
      "name": "Ojeda Oviedo,Cristhian Antolin",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 249518,
    "title": "Determinación de la efectividad del uso de productos naturales en insecticidas de espirales contra mosquitos de la especie aedes aegypti",
    "year": "2010",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "18/10",
+   "callnumber": "18/10\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "aedes_aegypti"
    ],
@@ -1010,34 +1091,37 @@
      "name": "Irala Peña, Liz Marlene",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 273623,
    "title": "Safety assessment of trangenic organisms en the Environment volume 8 OECD consensus document of the biology of mosquito aedes aegypti",
    "year": "2018",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "614.87",
+   "callnumber": "614.87\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "aedes_aegypti"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 518411,
    "title": "Safety assessment of trangenic organisms en the Environment volume 8 OECD consensus document of the biology of mosquito aedes aegypti",
    "year": "2018",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "614.87 Saf",
+   "callnumber": "614.87 Saf\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "aedes_aegypti"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 245487,
    "title": "Manual de normas técnicas y operativas para el control del Aedes Aegypti en Paraguay",
    "year": "2002",
    "branch_text": "Biblioteca de la Facultad de Ciencias Médicas",
-   "callnumber": "DONA / 614.4 /",
+   "callnumber": "DONA / 614.4 /\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "aedes_aegypti"
    ],
@@ -1047,7 +1131,8 @@
      "name": "Paraguay. Ministerio de Salud Pública y Bienestar Social. Servicio Nacional de Erradicación del Paludismo - SENEPA -",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Médicas"
   },
   {
    "bibnum": 264342,
@@ -1073,12 +1158,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "614.48",
+   "callnumber": "614.48\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 267104,
@@ -1099,12 +1185,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "616.921",
+   "callnumber": "616.921\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 270740,
@@ -1125,19 +1212,20 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "633.898",
+   "callnumber": "633.898\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 274153,
    "title": "Evaluacion de la Resistencia de temefos en larvas de Aedes Aegypti procedentes del municipio de Fernando de la Mora - Zona sur",
    "year": "2022",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "616.921",
+   "callnumber": "616.921\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "aedes_aegypti"
    ],
@@ -1147,14 +1235,15 @@
      "name": "Valle Albrecht, Lidia Arami",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 274388,
    "title": "Actividad larvicida del extracto etanólico de Dysphania ambrosioides (L) \"Ka'are\" Mosyakin &amp; Clemants sobre larvas de Aedes aegypti (L)",
    "year": "2018",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "616.921",
+   "callnumber": "616.921\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "aedes_aegypti"
    ],
@@ -1164,7 +1253,8 @@
      "name": "Britos Molinas, Milena Beatríz",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 519237,
@@ -1178,12 +1268,13 @@
     }
    ],
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "616.921 D389e",
+   "callnumber": "616.921 D389e\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 518446,
@@ -1197,12 +1288,13 @@
     }
    ],
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "616.921 B829a, ..",
+   "callnumber": "616.921 B829a\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 547102,
@@ -1215,13 +1307,14 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "9/21 M",
+   "callnumber": "9/21 M\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
    ],
-   "title": "Actividad larvicida de extractos de cuatro especies vegetales sobre aedes aegypti  Cristhian Antolin Ojeda Oviedo"
+   "title": "Actividad larvicida de extractos de cuatro especies vegetales sobre aedes aegypti  Cristhian Antolin Ojeda Oviedo",
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 545444,
@@ -1234,13 +1327,14 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "18/10 IQ",
+   "callnumber": "18/10 IQ\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
    ],
-   "title": "Determinación de la efectividad del uso de productos naturales en insecticidas de espirales contra mosquitos de la especie aedes aegypti  Liz Marlene Irala Peña"
+   "title": "Determinación de la efectividad del uso de productos naturales en insecticidas de espirales contra mosquitos de la especie aedes aegypti  Liz Marlene Irala Peña",
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 548330,
@@ -1253,13 +1347,14 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "668.651 C117b",
+   "callnumber": "668.651 C117b\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
    ],
-   "title": "Bioensayos en laboratorio de pinturas insecticidas con propoxur y transflutrina sobre poblaciones de Aedes Aegypti de un municipio del departamento central, paraguay  Liz karina Cabrera Espinola"
+   "title": "Bioensayos en laboratorio de pinturas insecticidas con propoxur y transflutrina sobre poblaciones de Aedes Aegypti de un municipio del departamento central, paraguay  Liz karina Cabrera Espinola",
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)\n  \n \n\n \n  Referencia"
   },
   {
    "bibnum": 612843,
@@ -1280,13 +1375,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "616.921 R638p",
+   "callnumber": "616.921 R638p\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/19247.pdf",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
    ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/tesis/19247.pdf"
    ]
@@ -1320,12 +1416,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "633.898 Oj2a",
+   "callnumber": "633.898 Oj2a\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 606030,
@@ -1351,13 +1448,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "614.48",
+   "callnumber": "614.48\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12434.pdf",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "aedes_aegypti"
    ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/tesis/12434.pdf"
    ]
@@ -1377,12 +1475,13 @@
    "tags": [
     "aedes_aegypti"
    ],
-   "title": "Evalaución por bioensayo de pinturas con insecticidas microencapsulados frente a cepas de mosquitos aedes aegypti del departamento central, paraguay  Hanahi Benegas Ujiie"
+   "title": "Evalaución por bioensayo de pinturas con insecticidas microencapsulados frente a cepas de mosquitos aedes aegypti del departamento central, paraguay  Hanahi Benegas Ujiie",
+   "branch": "Biblioteca FPUNA"
   },
   {
    "bibnum": 337588,
    "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
-   "callnumber": "FP/02/08 Proy. Inve",
+   "callnumber": "FP/02/08 Proy. Inve\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "aedes_aegypti"
    ],
@@ -1393,7 +1492,8 @@
      "name": "Armoa Cañete, Jorge Concepcion",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica"
   },
   {
    "bibnum": 183886,
@@ -1414,12 +1514,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "II0174",
+   "callnumber": "II0174\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "big_data"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 641127,
@@ -1440,18 +1541,19 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "II0174",
+   "callnumber": "II0174\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "big_data"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 242079,
    "year": "2018",
    "branch_text": "Biblioteca de la Facultad de Ciencias Médicas",
-   "callnumber": "170.202",
+   "callnumber": "170.202\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "big_data"
    ],
@@ -1462,7 +1564,8 @@
      "name": "Alvarenga,Noelia Beatriz",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Médicas"
   },
   {
    "bibnum": 184099,
@@ -1488,21 +1591,22 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "II0154",
+   "callnumber": "II0154\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "big_data",
     "tesis_informatica",
     "tesis_telecomunicaciones"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 273197,
    "title": "En las entrañas del Big data: una aproximación a la estadistica",
    "year": "2019",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "519.53",
+   "callnumber": "519.53\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "big_data"
    ],
@@ -1512,7 +1616,8 @@
      "name": "Lahoz - Beltra, Rafael",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 519149,
@@ -1526,10 +1631,11 @@
     }
    ],
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "519.53 L184e",
+   "callnumber": "519.53 L184e\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "big_data"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 640776,
@@ -1555,12 +1661,13 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "II0154",
+   "callnumber": "II0154\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "big_data"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 271374,
@@ -1586,12 +1693,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "621.382",
+   "callnumber": "621.382\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "big_data"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 609014,
@@ -1617,13 +1725,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "621.382 Sos71d",
+   "callnumber": "621.382 Sos71d\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/15418.pdf",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "big_data"
    ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/tesis/15418.pdf"
    ]
@@ -1652,13 +1761,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "621.382",
+   "callnumber": "621.382\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "big_data",
     "tesis_telecomunicaciones"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 606033,
@@ -1684,13 +1794,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "621.382",
+   "callnumber": "621.382\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12437.pdf",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "big_data"
    ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/tesis/12437.pdf"
    ]
@@ -1699,7 +1810,7 @@
    "bibnum": 183957,
    "year": "2016",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "658.83",
+   "callnumber": "658.83\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "big_data"
    ],
@@ -1710,13 +1821,14 @@
      "name": "McDaniel, Carl / Gates, Roger",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 279963,
    "year": "2016",
    "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
-   "callnumber": "658.83",
+   "callnumber": "658.83\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "big_data"
    ],
@@ -1727,7 +1839,8 @@
      "name": "McDaniel Jr., Carl",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción"
   },
   {
    "bibnum": 503274,
@@ -1741,10 +1854,11 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ciencias Sociales",
-   "callnumber": "100 W831E, ..",
+   "callnumber": "100 W831E\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "big_data"
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Sociales\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 571480,
@@ -1757,11 +1871,12 @@
     }
    ],
    "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
-   "callnumber": "658.83 M459i, ..",
+   "callnumber": "658.83 M459i\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "big_data"
    ],
-   "title": "Investigación de mercados  Roger Gates; traducido por Enrique C. Mercado González ; revisado por María de los Angeles Ramos Solano"
+   "title": "Investigación de mercados  Roger Gates; traducido por Enrique C. Mercado González ; revisado por María de los Angeles Ramos Solano",
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 640954,
@@ -1779,17 +1894,18 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "658.83 M141",
+   "callnumber": "658.83 M141\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "big_data"
    ],
-   "title": "Investigación de mercados  traducción Enrique C. Mercado González, revisión técnica María de los ángeles Ramos Solano"
+   "title": "Investigación de mercados  traducción Enrique C. Mercado González, revisión técnica María de los ángeles Ramos Solano",
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 182752,
    "year": "2024",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "II0219",
+   "callnumber": "II0219\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "blockchain"
    ],
@@ -1800,7 +1916,8 @@
      "name": "Benítez Caballero, Laura Mabel; Acuña Cantero, Juan José",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 642114,
@@ -1818,11 +1935,12 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "II0219",
+   "callnumber": "II0219\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "blockchain"
    ],
-   "title": "Certificados académicos seguros utilizando tecnología basada en Blockchain  Orentadores: Von Lucken Martínez, Christian Daniel; Riveros Valdez, Lilian"
+   "title": "Certificados académicos seguros utilizando tecnología basada en Blockchain  Orentadores: Von Lucken Martínez, Christian Daniel; Riveros Valdez, Lilian",
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 622135,
@@ -1840,35 +1958,38 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
-   "callnumber": "526 D133c",
+   "callnumber": "526 D133c\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 278266,
    "title": "Geodesia y cartografía : revista de geodesia y cartografía",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "526.1",
+   "callnumber": "526.1\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 513852,
    "title": "Geodesia y cartografía : revista de geodesia y cartografía",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "526.1 G29g",
+   "callnumber": "526.1 G29g\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 143579,
    "title": "Apuntes cartografía forestal",
    "year": "1980",
    "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
-   "callnumber": "634.90222",
+   "callnumber": "634.90222\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -1878,14 +1999,15 @@
      "name": "Luna Lugo, Anibal",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 137513,
    "title": "Apuntes cartografía forestal",
    "year": "1980",
    "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
-   "callnumber": "634.90222",
+   "callnumber": "634.90222\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -1895,13 +2017,14 @@
      "name": "Luna Lugo, Anibal",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 159704,
    "title": "Prácticas de cartografía",
    "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
-   "callnumber": "526",
+   "callnumber": "526\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -1911,14 +2034,15 @@
      "name": "Torcal Saing, Luisa/Pardo García, Elena",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 189396,
    "title": "Cartografía digital desarrollo de software interno",
    "year": "1992",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "623.710285425",
+   "callnumber": "623.710285425\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -1928,14 +2052,15 @@
      "name": "Mena Berrios, Juan",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 276010,
    "title": "Atlas Paraguay: cartografía didáctica",
    "year": "2000",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "912.892",
+   "callnumber": "912.892\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -1945,13 +2070,14 @@
      "name": "Ferreira M., Hernán",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 139548,
    "title": "Prácticas de cartografía",
    "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
-   "callnumber": "526",
+   "callnumber": "526\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -1961,14 +2087,15 @@
      "name": "Torcal Saing, Luisa/Pardo García, Elena",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 142121,
    "title": "Laboratorio de cartografía",
    "year": "1988",
    "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
-   "callnumber": "912.09",
+   "callnumber": "912.09\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -1978,7 +2105,8 @@
      "name": "Estrada Espinoza de los Monteros, José M",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 149708,
@@ -1999,19 +2127,20 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
-   "callnumber": "634.9618",
+   "callnumber": "634.9618\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "cartografia"
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 152089,
    "title": "Modelos y cartografía de estimaciones climáticas termopluviométricas para la España Peninsular",
    "year": "1999",
    "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
-   "callnumber": "551.6",
+   "callnumber": "551.6\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -2021,14 +2150,15 @@
      "name": "Sánchez Palomares, O./F. Sánchez Serrano/Ma. P. Carretero Carrero",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 210726,
    "title": "Atlas urbano de José Domingo Ocampos y Juan E. O'Leary, metodología de Mapeo con sistemas de aeronaves pilotadas a distancia. Contribuciones a la cartografía del Paraguay con Software libre",
    "year": "2023",
    "branch_text": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte",
-   "callnumber": "PAR/T/001.642 5",
+   "callnumber": "PAR/T/001.642 5\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia",
     "software_libre"
@@ -2039,7 +2169,8 @@
      "name": "Oporto Rodas, Julia Lucía",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte"
   },
   {
    "bibnum": 255772,
@@ -2060,12 +2191,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "526",
+   "callnumber": "526\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "cartografia"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 256353,
@@ -2079,19 +2211,20 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "526",
+   "callnumber": "526\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "cartografia"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 262331,
    "title": "Densificación de puntos de control terrestre como base para la cartografía catastral",
    "year": "2002",
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "526.3",
+   "callnumber": "526.3\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -2101,7 +2234,8 @@
      "name": "Velaztiqui Cáceres, Lilian",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 269012,
@@ -2127,18 +2261,19 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "526",
+   "callnumber": "526\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "cartografia"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 284789,
    "year": "1999",
    "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
-   "callnumber": "551.646",
+   "callnumber": "551.646\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -2149,14 +2284,15 @@
      "name": "Sánchez Palomares, O",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción"
   },
   {
    "bibnum": 284832,
    "title": "Prácticas de topografía, cartografía, fotogrametria",
    "year": "1989",
    "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
-   "callnumber": "526.9",
+   "callnumber": "526.9\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
@@ -2166,23 +2302,25 @@
      "name": "Valdés Doménech, Francisco",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción"
   },
   {
    "bibnum": 290369,
    "year": "1987",
    "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
-   "callnumber": "526",
+   "callnumber": "526\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "cartografia"
    ],
-   "title": "Elementos de cartografia  Arthur H. Robinson; Raudall D. Sale; Jael L. Morrison; edición española de Josep Rabella i Vives y Josep Panareda i Clopés"
+   "title": "Elementos de cartografia  Arthur H. Robinson; Raudall D. Sale; Jael L. Morrison; edición española de Josep Rabella i Vives y Josep Panareda i Clopés",
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción"
   },
   {
    "bibnum": 233061,
    "year": "1990",
    "branch_text": "Biblioteca FCV San Lorenzo - Prof. Dr. C. Arsenio Vasconsellos",
-   "callnumber": "616.9363",
+   "callnumber": "616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2193,24 +2331,26 @@
      "name": "IICS",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FCV San Lorenzo - Prof. Dr. C. Arsenio Vasconsellos"
   },
   {
    "bibnum": 241462,
    "title": "Enfermedad de chagas",
    "year": "1996",
    "branch_text": "Biblioteca de la Facultad de Ciencias Médicas",
-   "callnumber": "616.936 3",
+   "callnumber": "616.936 3\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Médicas"
   },
   {
    "bibnum": 276276,
    "title": "Chagas disease in Paraguay",
    "year": "1996",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "616.9363",
+   "callnumber": "616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2220,7 +2360,8 @@
      "name": "Rojas de Arias, Antonieta",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 516125,
@@ -2234,13 +2375,14 @@
    ],
    "tags": [
     "chagas"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA"
   },
   {
    "bibnum": 337824,
    "title": "Evaluación de un sistema localmente sustentable de diagnóstico de Chagas congénito en dos regiones endémicas para la enfermedad de Chagas en el Paraguay",
    "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
-   "callnumber": "IICS/01/96 Proy. Inve",
+   "callnumber": "IICS/01/96 Proy. Inve\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2250,7 +2392,8 @@
      "name": "Russomando, Graciela",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica"
   },
   {
    "bibnum": 269890,
@@ -2271,18 +2414,19 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "616.9363",
+   "callnumber": "616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "chagas"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 152336,
    "year": "1994",
    "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
-   "callnumber": "IICA616.9363",
+   "callnumber": "IICA616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2293,24 +2437,26 @@
      "name": "Organización Paramericana de la Salud",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 237201,
    "year": "2013",
    "branch_text": "Biblioteca FCV San Lorenzo - Prof. Dr. C. Arsenio Vasconsellos",
-   "callnumber": "RBPV/PP/EXT/64",
+   "callnumber": "RBPV/PP/EXT/64\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
-   "title": "Canine visceral leishmaniasis and Chagas disease among dogs in Araguaína, Tocantins brazilian journal of veterinary parasitology  Arielle Nunes Morais, Marlos Goncalves Sousa, Kuciana Regina Meireles, Norivla Kesper, Eufrosina S."
+   "title": "Canine visceral leishmaniasis and Chagas disease among dogs in Araguaína, Tocantins brazilian journal of veterinary parasitology  Arielle Nunes Morais, Marlos Goncalves Sousa, Kuciana Regina Meireles, Norivla Kesper, Eufrosina S.",
+   "branch": "Biblioteca FCV San Lorenzo - Prof. Dr. C. Arsenio Vasconsellos"
   },
   {
    "bibnum": 246158,
    "title": "Tratamiento etiológico de la enfermedad de chagas con nifurtimox y benznidazol",
    "year": "2007",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "13/07",
+   "callnumber": "13/07\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2320,14 +2466,15 @@
      "name": "Medina, M",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 246189,
    "title": "Congreso paraguayo de Medicina Interna (1°), 1°Simposium Nacional sobre la Enfermedad de Chagas",
    "year": "1994",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "616.026 892",
+   "callnumber": "616.026 892\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2337,14 +2484,15 @@
      "name": "Instituto de Investigaciones en Ciencias de la Salud",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 246657,
    "title": "Chagas disease in Paraguay",
    "year": "1996",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "616.936 3 892",
+   "callnumber": "616.936 3 892\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2354,14 +2502,15 @@
      "name": "Rojas de Arias, Antonieta",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 248096,
    "title": "Tendencia de la seroprevalencia de la enfermedad de chagas en embarazadasdel Paraguay durante el periodo 2014-2019",
    "year": "2020",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "25/20",
+   "callnumber": "25/20\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2371,14 +2520,15 @@
      "name": "Villalba Meza, Mirian Mercedes",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 250507,
    "title": "Seroprevalencia de la enfermedad de chagas en la comunidad indígena Pesempoó,Chaco,Paraguay",
    "year": "2008",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "18/08",
+   "callnumber": "18/08\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2388,13 +2538,14 @@
      "name": "Goertzen, S",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 251363,
    "year": "2002",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "616.9363",
+   "callnumber": "616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2405,13 +2556,14 @@
      "name": "Silveira, Antonio Carlos",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 251778,
    "year": "1990",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "616.936 1 892",
+   "callnumber": "616.936 1 892\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2422,14 +2574,15 @@
      "name": "Rosner, J. M",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 251857,
    "title": "Proyecto IICS JICA ENFERMEDAD DE CHAGAS Y OTRAS ENRERMEDADES INFECCIOSA",
    "year": "1992",
    "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
-   "callnumber": "616.936 3 892",
+   "callnumber": "616.936 3 892\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2439,7 +2592,8 @@
      "name": "Instituto de Investigación en Ciencias de la Salud",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
   },
   {
    "bibnum": 261911,
@@ -2460,12 +2614,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "616.9363",
+   "callnumber": "616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "chagas"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 262693,
@@ -2486,12 +2641,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "616.9363",
+   "callnumber": "616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "chagas"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 262875,
@@ -2512,19 +2668,20 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "616.9363",
+   "callnumber": "616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "chagas"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 263242,
    "title": "Inmunodiagnóstico de la enfermedad de chagas congénita",
    "year": "1977",
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "616.9363",
+   "callnumber": "616.9363\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "chagas"
    ],
@@ -2534,14 +2691,15 @@
      "name": "Canese Krivoshein, Jorge",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 182613,
    "title": "Ciberseguridad manual práctico",
    "year": "2021",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005. 8",
+   "callnumber": "005. 8\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad"
    ],
@@ -2551,7 +2709,8 @@
      "name": "Ortega Candel, José Manuel",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 642043,
@@ -2565,16 +2724,17 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005. 8 Or77c, ..",
+   "callnumber": "005. 8 Or77c\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 182841,
    "year": "2021",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.8",
+   "callnumber": "005.8\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad"
    ],
@@ -2585,14 +2745,15 @@
      "name": "Sevillano Jaén, Fernando",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 267264,
    "title": "Modelo de implementación de ciberseguridad para internet de las cosas IoT en el sector marítimo",
    "year": "2023",
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "005.8",
+   "callnumber": "005.8\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad",
     "iot"
@@ -2603,7 +2764,8 @@
      "name": "Morinigo Paredes, Joel",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 612694,
@@ -2617,13 +2779,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "005.8 M825m",
+   "callnumber": "005.8 M825m\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "ciberseguridad",
     "iot"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 641947,
@@ -2636,31 +2799,34 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.8 Sev84c, ..",
+   "callnumber": "005.8 Sev84c\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad"
    ],
-   "title": "Ciberseguridad industrial  Rodriguez Usallan , Antonio -"
+   "title": "Ciberseguridad industrial  Rodriguez Usallan , Antonio -",
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 186496,
    "title": "Ciberseguridad, retos y amenazas a la seguridad nacional en el ciberespacio",
    "year": "2011",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.8",
+   "callnumber": "005.8\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 638269,
    "title": "Ciberseguridad, retos y amenazas a la seguridad nacional en el ciberespacio",
    "year": "2011",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.8 C482c",
+   "callnumber": "005.8 C482c\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 626642,
@@ -2674,12 +2840,13 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
-   "callnumber": "T2317, ..",
+   "callnumber": "T2317\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "ciberseguridad"
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 642520,
@@ -2693,17 +2860,18 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005. 8 M455c",
+   "callnumber": "005. 8 M455c\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 182839,
    "title": "Criptografía esencial",
    "year": "2021",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.82",
+   "callnumber": "005.82\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad",
     "criptografia"
@@ -2714,7 +2882,8 @@
      "name": "Gonzalez Vasco, Maria Isabel",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 641945,
@@ -2728,18 +2897,19 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.82 G643c",
+   "callnumber": "005.82 G643c\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciberseguridad",
     "criptografia"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 302498,
    "title": "Identificación de un modelo económico de ganadería sostenible y climaticamente inteligente en la ciudad de Filadelfia, Chaco Paraguayo. Periodo 2005-2025",
    "year": "2017",
    "branch_text": "Biblioteca FCE - Prof. Thomas E. Cunningham",
-   "callnumber": "T1298",
+   "callnumber": "T1298\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "ciudad_inteligente"
    ],
@@ -2749,7 +2919,8 @@
      "name": "Meza Cabañas, Valeria Steffi",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FCE - Prof. Thomas E. Cunningham"
   },
   {
    "bibnum": 626008,
@@ -2768,12 +2939,13 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
-   "callnumber": "T2041",
+   "callnumber": "T2041\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "ciudad_inteligente"
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 642516,
@@ -2787,17 +2959,18 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "530. 12 P622c",
+   "callnumber": "530. 12 P622c\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "computacion_cuantica"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 183545,
    "title": "Introducción a la computación cuántica para ingenieros",
    "year": "2012",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "530.12",
+   "callnumber": "530.12\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "computacion_cuantica"
    ],
@@ -2807,7 +2980,8 @@
      "name": "Terán Pérez, David Moisés",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 640959,
@@ -2821,15 +2995,16 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "530.12 T27i",
+   "callnumber": "530.12 T27i\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "computacion_cuantica"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 337488,
    "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
-   "callnumber": "FP/04/10 Proy. Inve",
+   "callnumber": "FP/04/10 Proy. Inve\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "computacion_cuantica"
    ],
@@ -2840,7 +3015,8 @@
      "name": "Barán Cegla, Benjamín",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica"
   },
   {
    "bibnum": 500530,
@@ -2853,12 +3029,13 @@
     }
    ],
    "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
-   "callnumber": "FP/04/10",
+   "callnumber": "FP/04/10\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/478.pdf",
    "tags": [
     "computacion_cuantica"
    ],
    "title": "Computación Cuántica: un enfoque introductorio. Véase además titulo original en contrato \"Arquitectura LNN para computadores cuánticos\".  Nanashara Fernández; Norma Cardozo",
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica\n  \n \n\n \n  Referencia",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/478.pdf"
    ]
@@ -2887,12 +3064,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "001.64",
+   "callnumber": "001.64\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "computacion_cuantica"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 268512,
@@ -2913,12 +3091,13 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "001.64",
+   "callnumber": "001.64\n \n \n ( Navegar estantería (Abre debajo)  )",
    "diss_note": "Tesis.",
    "is_thesis": true,
    "tags": [
     "computacion_cuantica"
-   ]
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
   },
   {
    "bibnum": 611552,
@@ -2939,13 +3118,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "001.64 B862e",
+   "callnumber": "001.64 B862e\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/17956.pdf",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "computacion_cuantica"
    ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/tesis/17956.pdf"
    ]
@@ -2979,13 +3159,14 @@
     }
    ],
    "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
-   "callnumber": "001.64",
+   "callnumber": "001.64\n \n \n ( Navegar estantería (Abre debajo)  )",
    "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12222.pdf",
    "diss_note": "Trabajo de fin de grado.",
    "is_thesis": true,
    "tags": [
     "computacion_cuantica"
    ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
    "online_resources": [
     "http://sdi.cnc.una.py/catbib/documentos/tesis/12222.pdf"
    ]
@@ -2995,7 +3176,7 @@
    "title": "Números interior e criptografía RSA",
    "year": "2005",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "512.7",
+   "callnumber": "512.7\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3005,14 +3186,15 @@
      "name": "Coutinho, S.C",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 275540,
    "title": "Números Inteiros e criptografía RSA",
    "year": "2005",
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "512.7",
+   "callnumber": "512.7\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3022,7 +3204,8 @@
      "name": "Coutinho, S. C",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN"
   },
   {
    "bibnum": 517808,
@@ -3036,10 +3219,11 @@
     }
    ],
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "512.7 C837m",
+   "callnumber": "512.7 C837m\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 516883,
@@ -3053,10 +3237,11 @@
     }
    ],
    "branch_text": "Biblioteca e Internet FACEN",
-   "callnumber": "512.7 C837n",
+   "callnumber": "512.7 C837n\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
-   ]
+   ],
+   "branch": "Biblioteca e Internet FACEN\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 621062,
@@ -3070,17 +3255,18 @@
     }
    ],
    "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
-   "callnumber": "512.7 C837n, ..",
+   "callnumber": "512.7 C837n\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
-   ]
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 189632,
    "title": "Seguridad para comunicaciones inalámbricas redes, protocolos, criptografía y soluciones",
    "year": "2003",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "621.382",
+   "callnumber": "621.382\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3090,17 +3276,19 @@
      "name": "Nichols, Randall K. / Lekkas, Panos C",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 193126,
    "year": "1989",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "004",
+   "callnumber": "004\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
-   "title": "Enciclopedia práctica de la informática aplicada criptografía, la ocultación de mensajes y el ordenador  Ricardo Español Crespo, dir."
+   "title": "Enciclopedia práctica de la informática aplicada criptografía, la ocultación de mensajes y el ordenador  Ricardo Español Crespo, dir.",
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 635184,
@@ -3119,17 +3307,18 @@
     }
    ],
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "621.382 N517s, ..",
+   "callnumber": "621.382 N517s\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
   },
   {
    "bibnum": 194211,
    "title": "Controles Internos para Sistemas de Computación",
    "year": "1978",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.82",
+   "callnumber": "005.82\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3139,14 +3328,15 @@
      "name": "Fitzgerald, Jerry",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 183865,
    "title": "Seguridad informática",
    "year": "2013",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.8",
+   "callnumber": "005.8\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia",
     "seguridad_informatica"
@@ -3157,14 +3347,15 @@
      "name": "Roa Buendia, José Fabián",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 184679,
    "title": "Qué es la seguridad informática",
    "year": "2014",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "Sede Villarrica005.8",
+   "callnumber": "Sede Villarrica005.8\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia",
     "seguridad_informatica"
@@ -3175,14 +3366,15 @@
      "name": "Scolnik, Hugo D",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 188701,
    "title": "System reliability and integrity invited papers",
    "year": "1978",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "658.505",
+   "callnumber": "658.505\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3192,14 +3384,15 @@
      "name": "Infotech International",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 188716,
    "title": "System reliability and integrity analysis and bibliography",
    "year": "1978",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "658.505",
+   "callnumber": "658.505\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3209,14 +3402,15 @@
      "name": "Infotech International",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 189426,
    "title": "Fundamentos de comunicación de datos",
    "year": "1981",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "004.6",
+   "callnumber": "004.6\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3226,13 +3420,14 @@
      "name": "Fitzgerald, Jerry / Eason, Tom S",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 192753,
    "title": "Anais Do XIV Congreso Nacional de Informática",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "004",
+   "callnumber": "004\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3242,14 +3437,15 @@
      "name": "Socedade dos Usuários de Computadores e Equipamentos Subsidiarios",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 192989,
    "title": "Cryptography and Data Security",
    "year": "1982",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.82",
+   "callnumber": "005.82\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
@@ -3259,34 +3455,37 @@
      "name": "Robling Denning, Dorothy Elizabeth",
      "role": "autor"
     }
-   ]
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 193133,
    "year": "2002",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.8",
+   "callnumber": "005.8\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
-   "title": "PKI - infraestructura de claves públicas la mejor tecnología para implementar y administrar la seguridad electrónica de su negocio  Andrew Nash... [et al.]"
+   "title": "PKI - infraestructura de claves públicas la mejor tecnología para implementar y administrar la seguridad electrónica de su negocio  Andrew Nash... [et al.]",
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 193154,
    "year": "2001",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "005.82",
+   "callnumber": "005.82\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "criptografia"
    ],
-   "title": "Técnicas criptográficas de protección de datos  Amparo Fúster Sabater... [et al.]"
+   "title": "Técnicas criptográficas de protección de datos  Amparo Fúster Sabater... [et al.]",
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
   },
   {
    "bibnum": 192260,
    "title": "Study on the problems of accessibility and dissemination of data for science and technology",
    "year": "1986",
    "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
-   "callnumber": "025.524",
+   "callnumber": "025.524\n \n \n ( Navegar estantería (Abre debajo)  )",
    "tags": [
     "data_science"
    ],
@@ -3296,7 +3495,1294 @@
      "name": "UNESCO",
      "role": "autor"
     }
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 632607,
+   "title": "Study on the problems of accessibility and dissemination of data for science and technology",
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "025.524 Stu92s\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "data_science"
+   ],
+   "authors": [
+    {
+     "au_id": "UNESCO",
+     "name": "UNESCO",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 182855,
+   "title": "Machine Learning y Deep Learning",
+   "year": "2020",
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "005.133\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "deep_learning",
+    "machine_learning"
+   ],
+   "authors": [
+    {
+     "au_id": "Bobadilla%20Sancho%2C%20Jes%C3%BAs",
+     "name": "Bobadilla Sancho, Jesús",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 641935,
+   "title": "Machine Learning y Deep Learning",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Bobadilla%20Sancho%2C%20Jes%C3%BAs",
+     "name": "Bobadilla Sancho, Jesús",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "005.133 B663m\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "deep_learning",
+    "machine_learning"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 264238,
+   "title": "Clasificación automática de código fuente : un enfoque basado en Deep Learning",
+   "year": "2017",
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "005.13\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "deep_learning"
+   ],
+   "authors": [
+    {
+     "au_id": "Reyes%20Ca%C3%B1ete%2C%20Julio%20Daniel%20%3B%20Ram%C3%ADrez%20Torales%2C%20Diego%20Crist%C3%B3bal",
+     "name": "Reyes Cañete, Julio Daniel ; Ramírez Torales, Diego Cristóbal",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 267254,
+   "title": "Segmentación y seguimiento de muones utilizando técnicas de deep learning para el experimento connie",
+   "year": "2023",
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "530\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "deep_learning"
+   ],
+   "authors": [
+    {
+     "au_id": "Aquino%20Cantero%2C%20Edith%20Karina%20%3B%20Silva%20Gines%2C%20Carlos%20Alberto",
+     "name": "Aquino Cantero, Edith Karina ; Silva Gines, Carlos Alberto",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 183074,
+   "title": "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Learning",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Ver%C3%B3n%2C%20Jos%C3%A9%20Luis",
+     "name": "Benítez Verón, José Luis",
+     "role": "autor"
+    },
+    {
+     "au_id": "Murto%20Gonz%C3%A1lez%2C%20Jos%C3%A9%20Manuel",
+     "name": "Murto González, José Manuel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Christian%20Daniel",
+     "name": "Christian Daniel",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Von%20Lucken%20Mart%C3%ADnez",
+     "name": "Von Lucken Martínez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0202\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 183091,
+   "title": "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Learning",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Ver%C3%B3n%2C%20Jos%C3%A9%20Luis",
+     "name": "Benítez Verón, José Luis",
+     "role": "autor"
+    },
+    {
+     "au_id": "Murto%20Gonz%C3%A1lez%2C%20Jose%20Manuel",
+     "name": "Murto González, Jose Manuel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Christian%20Dabiel",
+     "name": "Christian Dabiel",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Von%20Lucken%20Martinez",
+     "name": "Von Lucken Martinez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IIO202\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 183168,
+   "title": "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robótico virtual utilizando técnicas de deep learning.",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Lena%20Cadenasso%2C%20Sebasti%C3%A1n",
+     "name": "Lena Cadenasso, Sebastián",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Christian",
+     "name": "Christian",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Von%20L%C3%BCcken",
+     "name": "Von Lücken",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0191\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 267200,
+   "title": "Diseño de un modelo de deep learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Aguilar%20Velazco%2C%20Silvio%20Jos%C3%A9",
+     "name": "Aguilar Velazco, Silvio José",
+     "role": "autor"
+    },
+    {
+     "au_id": "Vargas%20Garc%C3%ADa%2C%20Santiago%20Dionisio",
+     "name": "Vargas García, Santiago Dionisio",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20Stalder%20Carlos%20Sauer%20F%C3%A9lix%20Morales",
+     "name": "Diego Stalder Carlos Sauer Félix Morales",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "005.13\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning",
+    "transformer"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 268616,
+   "title": "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robótico virtual utilizando técnicas de deep learning",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Lena%20Cadenasso%2C%20Sebasti%C3%A1n",
+     "name": "Lena Cadenasso, Sebastián",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Christian%20Von%20L%C3%BCcken",
+     "name": "Christian Von Lücken",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "629.892\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 268633,
+   "title": "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante deep learning",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Ver%C3%B3n%2C%20Jos%C3%A9%20Luis",
+     "name": "Benítez Verón, José Luis",
+     "role": "autor"
+    },
+    {
+     "au_id": "Murto%20Gonz%C3%A1lez%2C%20Jos%C3%A9%20Manuel",
+     "name": "Murto González, José Manuel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Christian%20Von%20L%C3%BCcken",
+     "name": "Christian Von Lücken",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "004.0151\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 270131,
+   "title": "Deep learning aplicado a la identificación de muones del experimento CONNIE",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Bernal%20Sigala%2C%20Javier%20Alberto",
+     "name": "Bernal Sigala, Javier Alberto",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20Stalder%20Jorge%20Molina",
+     "name": "Diego Stalder Jorge Molina",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "005.13\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 271576,
+   "title": "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de deep learning",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Lezcano%20Romero%2C%20Miguel%20Angel%20Mar%C3%ADa",
+     "name": "Lezcano Romero, Miguel Angel María",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mirta%20Mor%C3%A1n",
+     "name": "Mirta Morán",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "618.19\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 271749,
+   "title": "Utilización de deep learning y software de simulación de movilidad urbana para la predicción de variables del tráfico en la zona de Ybera - San Lorenzo",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Mart%C3%ADnez%20Mart%C3%ADnez%2C%20Elvia%20Patricia",
+     "name": "Martínez Martínez, Elvia Patricia",
+     "role": "autor"
+    },
+    {
+     "au_id": "Gamarra%2C%20Walter%20Guillermo%20Daniel",
+     "name": "Gamarra, Walter Guillermo Daniel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Derlis%20Gregor%20Kevin%20Cikel%20Jos%C3%A9%20Colber%20Aurora%20N%C3%BA%C3%B1ez",
+     "name": "Derlis Gregor Kevin Cikel José Colber Aurora Núñez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "001.535\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 612757,
+   "title": "Diseño de un modelo de deep learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Aguilar%20Velazco%2C%20Silvio%20Jos%C3%A9",
+     "name": "Aguilar Velazco, Silvio José",
+     "role": "autor"
+    },
+    {
+     "au_id": "Vargas%20Garc%C3%ADa%2C%20Santiago%20Dionisio",
+     "name": "Vargas García, Santiago Dionisio",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20Stalder",
+     "name": "Diego Stalder",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Carlos%20Sauer",
+     "name": "Carlos Sauer",
+     "role": "orientador"
+    },
+    {
+     "au_id": "F%C3%A9lix%20Morales",
+     "name": "Félix Morales",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "005.13 Ag93d\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning",
+    "transformer"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 612702,
+   "title": "Segmentación y seguimiento de muones utilizando técnicas de deep learning para el experimento connie",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Aquino%20Cantero%2C%20Edith%20Karina",
+     "name": "Aquino Cantero, Edith Karina",
+     "role": "autor"
+    },
+    {
+     "au_id": "Silva%20Gines%2C%20Carlos%20Alberto",
+     "name": "Silva Gines, Carlos Alberto",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "530 Aq56s\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 611470,
+   "title": "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robótico virtual utilizando técnicas de deep learning",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Lena%20Cadenasso%2C%20Sebasti%C3%A1n",
+     "name": "Lena Cadenasso, Sebastián",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Christian%20Von%20L%C3%BCcken",
+     "name": "Christian Von Lücken",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "629.892 L545u\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/17874.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/17874.pdf"
    ]
+  },
+  {
+   "bibnum": 611453,
+   "title": "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante deep learning",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Ver%C3%B3n%2C%20Jos%C3%A9%20Luis",
+     "name": "Benítez Verón, José Luis",
+     "role": "autor"
+    },
+    {
+     "au_id": "Murto%20Gonz%C3%A1lez%2C%20Jos%C3%A9%20Manuel",
+     "name": "Murto González, José Manuel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Christian%20Von%20L%C3%BCcken",
+     "name": "Christian Von Lücken",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "004.0151 B437c\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/17857.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/17857.pdf"
+   ]
+  },
+  {
+   "bibnum": 610106,
+   "title": "Deep learning aplicado a la identificación de muones del experimento CONNIE",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Bernal%20Sigala%2C%20Javier%20Alberto",
+     "name": "Bernal Sigala, Javier Alberto",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20Stalder",
+     "name": "Diego Stalder",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jorge%20Molina",
+     "name": "Jorge Molina",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "005.13 B456d\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/16510.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/16510.pdf"
+   ]
+  },
+  {
+   "bibnum": 608822,
+   "title": "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de deep learning",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Lezcano%20Romero%2C%20Miguel%20Angel%20Mar%C3%ADa",
+     "name": "Lezcano Romero, Miguel Angel María",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mirta%20Mor%C3%A1n",
+     "name": "Mirta Morán",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "618.19 L599d\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/15226.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/15226.pdf"
+   ]
+  },
+  {
+   "bibnum": 608675,
+   "title": "Utilización de deep learning y software de simulación de movilidad urbana para la predicción de variables del tráfico en la zona de Ybera - San Lorenzo",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Mart%C3%ADnez%20Mart%C3%ADnez%2C%20Elvia%20Patricia",
+     "name": "Martínez Martínez, Elvia Patricia",
+     "role": "autor"
+    },
+    {
+     "au_id": "Gamarra%2C%20Walter%20Guillermo%20Daniel",
+     "name": "Gamarra, Walter Guillermo Daniel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Derlis%20Gregor",
+     "name": "Derlis Gregor",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Kevin%20Cikel",
+     "name": "Kevin Cikel",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jos%C3%A9%20Colber",
+     "name": "José Colber",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Aurora%20N%C3%BA%C3%B1ez",
+     "name": "Aurora Núñez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "001.535 M366u\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/15079.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/15079.pdf"
+   ]
+  },
+  {
+   "bibnum": 605948,
+   "title": "Clasificación automática de código fuente : un enfoque basado en Deep Learning",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Reyes%20Ca%C3%B1ete%2C%20Julio%20Daniel",
+     "name": "Reyes Cañete, Julio Daniel",
+     "role": "autor"
+    },
+    {
+     "au_id": "Ram%C3%ADrez%20Torales%2C%20Diego%20Crist%C3%B3bal",
+     "name": "Ramírez Torales, Diego Cristóbal",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "005.13\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12352.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/12352.pdf"
+   ]
+  },
+  {
+   "bibnum": 625983,
+   "title": "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de Deep Learning",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Lezcano%20Romero%2C%20Miguel%20Angel%20Mar%C3%ADa",
+     "name": "Lezcano Romero, Miguel Angel María",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T2034\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 626791,
+   "title": "Segmentación y seguimiento de muones utilizando técnicas de Deep Learning para el experimento CONNIE",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Aquino%20Cantero%2C%20Edith%20Karina",
+     "name": "Aquino Cantero, Edith Karina",
+     "role": "autor"
+    },
+    {
+     "au_id": "Silva%20Gines%2C%20Carlos%20Alberto",
+     "name": "Silva Gines, Carlos Alberto",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T2384\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 626144,
+   "title": "Deep learning aplicado a la identificación de muones del experimento CONNIE",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Bernal%20Sigala%2C%20Javier%20Alberto",
+     "name": "Bernal Sigala, Javier Alberto",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T2131\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 625973,
+   "title": "Utilización de Deep Learning y software de simulación de movilidad urbana para la predicción de variables del tráfico en la zona de Ybera - San Lorenzo",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Mart%C3%ADnez%20Mart%C3%ADnez%2C%20Elvia%20Patricia",
+     "name": "Martínez Martínez, Elvia Patricia",
+     "role": "autor"
+    },
+    {
+     "au_id": "Gamarra%2C%20Walter%20Guillermo%20Daniel",
+     "name": "Gamarra, Walter Guillermo Daniel",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T2024\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 641703,
+   "title": "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Learning",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Ver%C3%B3n%2C%20Jos%C3%A9%20Luis",
+     "name": "Benítez Verón, José Luis",
+     "role": "autor"
+    },
+    {
+     "au_id": "Murto%20Gonz%C3%A1lez%2C%20Jos%C3%A9%20Manuel",
+     "name": "Murto González, José Manuel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Von%20Lucken%20Mart%C3%ADnez",
+     "name": "Von Lucken Martínez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Christian%20Daniel",
+     "name": "Christian Daniel",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0202\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 641685,
+   "title": "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Learning",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Ver%C3%B3n%2C%20Jos%C3%A9%20Luis",
+     "name": "Benítez Verón, José Luis",
+     "role": "autor"
+    },
+    {
+     "au_id": "Murto%20Gonz%C3%A1lez%2C%20Jose%20Manuel",
+     "name": "Murto González, Jose Manuel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Von%20Lucken%20Martinez",
+     "name": "Von Lucken Martinez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Christian%20Dabiel",
+     "name": "Christian Dabiel",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IIO202\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 641605,
+   "title": "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robótico virtual utilizando técnicas de deep learning.",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Lena%20Cadenasso%2C%20Sebasti%C3%A1n",
+     "name": "Lena Cadenasso, Sebastián",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Von%20L%C3%BCcken",
+     "name": "Von Lücken",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Christian",
+     "name": "Christian",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0191\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 626821,
+   "title": "Diseño de un modelo de Deep Learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Aguilar%20Velazco%2C%20Silvio%20Jos%C3%A9",
+     "name": "Aguilar Velazco, Silvio José",
+     "role": "autor"
+    },
+    {
+     "au_id": "Vargas%20Garc%C3%ADa%2C%20Santiago%20Dionisio",
+     "name": "Vargas García, Santiago Dionisio",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T2414\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning",
+    "transformer"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 184946,
+   "title": "Clasificación automática de código fuente un enfoque basado en Deep Learning",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Reyes%20Ca%C3%B1ete%2C%20Julio%20Daniel",
+     "name": "Reyes Cañete, Julio Daniel",
+     "role": "autor"
+    },
+    {
+     "au_id": "Ram%C3%ADrez%20Torales%2C%20Diego%20Crist%C3%B3bal",
+     "name": "Ramírez Torales, Diego Cristóbal",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Julio%20Paciello",
+     "name": "Julio Paciello",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0112\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "deep_learning",
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 186862,
+   "title": "Dengue",
+   "year": "2002",
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "I0632\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "Dure%20Cardozo%2C%20Karem%20Liz",
+     "name": "Dure Cardozo, Karem Liz",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 637902,
+   "title": "Dengue",
+   "year": "2002",
+   "authors": [
+    {
+     "au_id": "Dure%20Cardozo%2C%20Karem%20Liz",
+     "name": "Dure Cardozo, Karem Liz",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "I0632\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "dengue"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 327541,
+   "title": "Dengue guías para la atención de enfermos en la Región de las Américas: gestión",
+   "year": "2016",
+   "branch_text": "Biblioteca de la Facultad de Enfermería y Obstetricia",
+   "callnumber": "616.921\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "Organizaci%C3%B3n%20Panamericana%20de%20la%20Salud",
+     "name": "Organización Panamericana de la Salud",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Enfermería y Obstetricia"
+  },
+  {
+   "bibnum": 645635,
+   "title": "Dengue guías para la atención de enfermos en la Región de las Américas: gestión",
+   "year": "2016",
+   "branch_text": "Biblioteca de la Facultad de Enfermería y Obstetricia",
+   "callnumber": "616.921 ORG\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "Organizaci%C3%B3n%20Panamericana%20de%20la%20Salud",
+     "name": "Organización Panamericana de la Salud",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Enfermería y Obstetricia\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 284707,
+   "title": "Dengue y dengue hemorrágico en las Américas guías para su prevención y control",
+   "year": "2002",
+   "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
+   "callnumber": "614.571\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "Organizaci%C3%B3n%20Panamericana%20de%20la%20Salud",
+     "name": "Organización Panamericana de la Salud",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción"
+  },
+  {
+   "bibnum": 327510,
+   "year": "1995",
+   "branch_text": "Biblioteca de la Facultad de Enfermería y Obstetricia",
+   "callnumber": "616.921\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "title": "Dengue y dengue hemorrágico en las Américas guías para su prevención y control  Organización Panamericana de la Salud",
+   "authors": [
+    {
+     "au_id": "Organizaci%C3%B3n%20Panamericana%20de%20la%20Salud",
+     "name": "Organización Panamericana de la Salud",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Enfermería y Obstetricia"
+  },
+  {
+   "bibnum": 566725,
+   "title": "Dengue y dengue hemorrágico en las Américas guías para su prevención y control",
+   "year": "2002",
+   "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
+   "callnumber": "614.571 Or14d\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "Organizaci%C3%B3n%20Panamericana%20de%20la%20Salud",
+     "name": "Organización Panamericana de la Salud",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 645665,
+   "branch_text": "Biblioteca de la Facultad de Enfermería y Obstetricia",
+   "callnumber": "616.921 OR68d\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "title": "Dengue y dengue hemorrágico en las Américas guías para su prevención y control  Organización Panamericana de la Salud",
+   "authors": [
+    {
+     "au_id": "Organizaci%C3%B3n%20Panamericana%20de%20la%20Salud",
+     "name": "Organización Panamericana de la Salud",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Enfermería y Obstetricia\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 247682,
+   "title": "Caracterización de infecciones por el virus del dengue en pacientes con sospecha clínica y evaluación de marcadores de gravedad de dengue,Paraguay(2018-2020)",
+   "year": "2021",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "22/21\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "Bernal%20Vera%2CCynthia%20Magdalena",
+     "name": "Bernal Vera,Cynthia Magdalena",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 248615,
+   "title": "Detección de los virus del dengue, chikungunya y zica mediante RT - PCR en tiempo real (rRT - PCR) en pacientes con sospecha clínica de dengue que acudieron al Hospital de clínicas en el 2016",
+   "year": "2018",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "19/18\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "Cantero%20Ram%C3%ADrez%2C%20C%C3%A9sar%20Andr%C3%A9s",
+     "name": "Cantero Ramírez, César Andrés",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 251237,
+   "title": "Evaluación preliminar de la eficacia de la prueba NS1 e IgG/IgM dengue duo para la detección temprana de dengue en niños mediante comparación con parámetros hematológicos en pacientes pediátricos con",
+   "year": "2013",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "19/13\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "G%C3%B3mez%2C%20A.",
+     "name": "Gómez, A",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 251283,
+   "title": "Dengue y dengue hemorrágico en las Américas gu¡as para su prevenci¢n y control",
+   "year": "1995",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "616\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "OPS",
+     "name": "OPS",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 547286,
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Bernal%20Vera%2CCynthia%20Magdalena",
+     "name": "Bernal Vera,Cynthia Magdalena",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "22/21 M\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "dengue"
+   ],
+   "title": "Caracterización de infecciones por el virus del dengue en pacientes con sospecha clínica y evaluación de marcadores de gravedad de dengue,Paraguay(2018-2020)  Cynthia Magdalena Bernal Vera",
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 546321,
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Cantero%20Ram%C3%ADrez%2C%20C%C3%A9sar%20Andr%C3%A9s",
+     "name": "Cantero Ramírez, César Andrés",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "19/18 B\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "dengue"
+   ],
+   "title": "Detección de los virus del dengue, chikungunya y zica mediante RT - PCR en tiempo real (rRT - PCR) en pacientes con sospecha clínica de dengue que acudieron al Hospital de clínicas en el 2016  César Andrés Cantero Ramírez",
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 543796,
+   "year": "2013",
+   "authors": [
+    {
+     "au_id": "G%C3%B3mez%2C%20A.",
+     "name": "Gómez, A",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "19/13 PB\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "title": "Evaluación preliminar de la eficacia de la prueba NS1 e IgG/IgM dengue duo para la detección temprana de dengue en niños mediante comparación con parámetros hematológicos en pacientes pediátricos con  A. Gómez",
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 543718,
+   "title": "Dengue y dengue hemorrágico en las  Américas guías para su prevención y control",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "616 O68d\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "OPS",
+     "name": "OPS",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)\n  \n \n\n \n  Referencia"
+  },
+  {
+   "bibnum": 242069,
+   "title": "Dengue,aspectos clinicos,epidemiológicos y laboratoriales",
+   "year": "2008",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Médicas",
+   "callnumber": "616.921\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "dengue"
+   ],
+   "authors": [
+    {
+     "au_id": "Taboada%20Ojeda%2C%20Aurelia",
+     "name": "Taboada Ojeda, Aurelia",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Médicas"
+  },
+  {
+   "bibnum": 270725,
+   "title": "Caracterización de infecciones por el virus del dengue en pacientes con sospecha clínica y evaluación de marcadores de gravedad de dengue, Paraguay (2018-2020)",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Bernal%20Vera%2C%20Cynthia%20Magdalena",
+     "name": "Bernal Vera, Cynthia Magdalena",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "F%C3%A1tima%20Cardozo%20Jesse%20Waggoner%20Patricia%20Langjahr",
+     "name": "Fátima Cardozo Jesse Waggoner Patricia Langjahr",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "616.921\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "dengue"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 609618,
+   "title": "Caracterización de infecciones por el virus del dengue en pacientes con sospecha clínica y evaluación de marcadores de gravedad de dengue, Paraguay (2018-2020)",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Bernal%20Vera%2C%20Cynthia%20Magdalena",
+     "name": "Bernal Vera, Cynthia Magdalena",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "F%C3%A1tima%20Cardozo",
+     "name": "Fátima Cardozo",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jesse%20Waggoner",
+     "name": "Jesse Waggoner",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Patricia%20Langjahr",
+     "name": "Patricia Langjahr",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "616.921 B456c\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "dengue"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general"
   }
  ]
 }
