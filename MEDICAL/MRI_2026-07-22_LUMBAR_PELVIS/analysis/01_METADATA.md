@@ -29,10 +29,10 @@ Extract:  /root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/scans/
 | MagneticFieldStrength | `1.5 T` (T) |
 | InstitutionName | `Centro Medico Bautista` |
 | PatientPosition | `FFS` (Feet-First Supine) |
-| AccessionNumber | **empty** |
-| ReferringPhysicianName | **empty** |
+| AccessionNumber | **519328** *(visible on the CD label — DICOM header field is empty but the PACS/EMR has it)* |
+| ReferringPhysicianName | **empty in DICOM header** *(ask Bautista for the order form)* |
 
-> **No radiologist's report appears to have been produced.** Same problem as the October X-ray: order form lacked clinical indication + referring physician, so there's no one to bill for a read and no one to assign it to. The PDF/CD the hospital gave you is almost certainly the raw DICOM dump without a report. **You need to ask Bautista specifically for the radiologist's written report on this study** — it is the most important deliverable from this exam.
+> **No radiologist's report appears to have been produced.** Same problem as the October X-ray: order form lacked clinical indication + referring physician in the DICOM header, so there's no documented clinical question for the radiologist to answer. The PDF/CD the hospital gave you is almost certainly the raw DICOM dump without a report. **You need to ask Bautista specifically for the radiologist's written report on this study** — it is the most important deliverable from this exam. Use accession 519328 when you request it from radiology.
 
 ## 22 Series — at a glance
 
