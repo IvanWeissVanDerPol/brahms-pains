@@ -10,9 +10,20 @@
     "language": "Spanish (Paraguayan)",
     "license": "Academic/research use (derived from public sources)",
     "configs": {
-      "sft": {"train": 2700, "validation": 300, "total": 3000},
-      "dpo": {"train": 1500, "validation": 200, "test": 300, "total": 2000},
-      "full": {"train": 5000}
+      "sft": {
+        "train": 2700,
+        "validation": 300,
+        "total": 3000
+      },
+      "dpo": {
+        "train": 1500,
+        "validation": 200,
+        "test": 300,
+        "total": 2000
+      },
+      "full": {
+        "train": 5000
+      }
     },
     "fields": {
       "prompt": "Response from another LLM that serves as baseline text",
@@ -106,11 +117,31 @@
   },
   "indico_una_conferences": {
     "fetched": [
-      {"event_id": 2, "title": "XVII JJI 2023", "contributions": 2},
-      {"event_id": 7, "title": "IV Congreso Internacionalización 2024", "contributions": 108},
-      {"event_id": 18, "title": "Coloquio Paraguayo de Matemática 2025", "contributions": 28},
-      {"event_id": 19, "title": "VII Foro Investigación FACSO 2025", "contributions": 5},
-      {"event_id": 20, "title": "VII Simposio Química 2025", "contributions": 6}
+      {
+        "event_id": 2,
+        "title": "XVII JJI 2023",
+        "contributions": 2
+      },
+      {
+        "event_id": 7,
+        "title": "IV Congreso Internacionalización 2024",
+        "contributions": 108
+      },
+      {
+        "event_id": 18,
+        "title": "Coloquio Paraguayo de Matemática 2025",
+        "contributions": 28
+      },
+      {
+        "event_id": 19,
+        "title": "VII Foro Investigación FACSO 2025",
+        "contributions": 5
+      },
+      {
+        "event_id": 20,
+        "title": "VII Simposio Química 2025",
+        "contributions": 6
+      }
     ],
     "next_action": "Each contribution requires individual page fetch for paper title + abstract"
   },
@@ -118,8 +149,8 @@
     "P3 Jopara MH": {
       "hf_datasets": "somosnlp-hackathon-2026/paraguay-cultural-alignment (10K rows, 127 dl/month)",
       "ecosystem": "#Somos600M, #HackathonSomosNLP 2026",
-      "competition": "Díaz 2025 LLM for Guarani-Jopara + Cognitive Computation 2023 Guarani BERT",
-      "novelty_assessment": "DEFENSIBLE — clinical/depression framing + Telegram-specific corpus + Ivan's psychology training differentiates from HuggingFace baselines"
+      "competition": "Díaz 2025 LLM for Guarani-Jopara + Cognitive Computation 2023 Guarani BERT + Mombeu (2026 SomosNLP) + sahiavos/somosnlp-hackathon-2026/paraguay-cultural-alignment",
+      "novelty_assessment": "DEFENSIBLE — clinical/depression + Telegram + Ivan's psychology training differentiates from these HuggingFace baselines. P3 should formally engage with Mombeu + Diaz 2025 as direct comparators."
     },
     "P1 GeoData v2": {
       "data": "Geofabrik Paraguay OSM extract (150 MB daily-update)",
@@ -139,5 +170,80 @@
     "Harvest individual Indico event 7 contributions (108 papers)",
     "Mine CONACYT + PRONII researcher database",
     "Reach out to Torales/Barrios at FCM-UNA for clinical validation collaboration"
-  ]
+  ],
+  "additional_findings": {
+    "spaces": [
+      {
+        "name": "Mombeu",
+        "url": "https://huggingface.co/somosnlp-hackathon-2026/mombeu",
+        "description": "Generate Spanish answers enriched with Guaraní culture. Post-trained model on Paraguay cultural alignment.",
+        "p_relevance": "P3",
+        "p_relevance_score": 100,
+        "owner": "somosnlp-hackathon-2026"
+      },
+      {
+        "name": "Chaskiayuda",
+        "url": "https://huggingface.co/somosnlp-hackathon-2026/chaskiayuda",
+        "description": "Post-trained DPO LLM for humanitarian navigation (Spanish).",
+        "p_relevance": "Other",
+        "p_relevance_score": 50
+      }
+    ],
+    "models_from_2026_org": [
+      {
+        "type": "Text Generation",
+        "params": "2B",
+        "updated": "14 days ago",
+        "downloads": 187,
+        "note": "Possibly the Mombeu model"
+      },
+      {
+        "type": "Translation",
+        "params": "1B",
+        "updated": "11 days ago",
+        "downloads": 52
+      },
+      {
+        "type": "Text Generation",
+        "params": "0.4B",
+        "updated": "14 days ago",
+        "downloads": 78
+      },
+      {
+        "type": "Text Generation",
+        "params": "1B",
+        "updated": "14 days ago",
+        "downloads": 160
+      }
+    ],
+    "other_paraguayan_apps": [
+      {
+        "name": "Pohã Ñemuhá",
+        "url": "https://www.paraguaymipais.com/sucesos/aplicacion-reune-saberes-ancestrales-de-medicina-natural-de-paraguay/",
+        "description": "Aplicación paraguaya que reúne saberes ancestrales de medicina natural (revaloriza consumo de plantas medicinales). En guaraní: 'vendedora de remedios'.",
+        "p_relevance": "P3",
+        "p_relevance_score": 60,
+        "p_relevance_explanation": "Cultural-preservation app — demonstrates active Paraguayan interest in Spanish/Guaraní cultural tech"
+      }
+    ],
+    "somosnlp_orgs": {
+      "2026": "https://huggingface.co/organizations/somosnlp-hackathon-2026 — 93 team members, active in 2026 (June-July)",
+      "2025": "https://huggingface.co/organizations/somosnlp-hackathon-2025 — 2025 was bigger, 1.06k recent activity",
+      "main": "https://huggingface.co/somosnlp — community org"
+    },
+    "corpus_spanish_collection": {
+      "url": "https://huggingface.co/collections/somosnlp/corpus-spanish",
+      "last_updated": "Feb 4, 2025",
+      "subcollections": [
+        "Corpus: Evaluation datasets for ES & LATAM",
+        "Corpus: Instructions in Spanish and related languages",
+        "Corpus: Co-official languages in Spanish-speaking countries",
+        "Corpus audio: Spanish & variants",
+        "Creación de corpus en comunidad",
+        "Corpus donados | Campaña de recolección #Somos600M"
+      ],
+      "p_relevance": "P3",
+      "p_relevance_explanation": "Curated source for all Spanish-language LATAM NLP datasets"
+    }
+  }
 }
