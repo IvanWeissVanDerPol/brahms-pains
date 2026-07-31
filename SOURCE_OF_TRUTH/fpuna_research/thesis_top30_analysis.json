@@ -1,0 +1,1607 @@
+{
+  "generated_at": "2026-07-30",
+  "scope": "Deep analysis of the top 30 thesis ideas for Iván at UNA Paraguay",
+  "n_ideas_analyzed": 30,
+  "score_range": [
+    8.58,
+    9.0
+  ],
+  "ideas": [
+    {
+      "rank": 1,
+      "id": "P0010",
+      "title": "Tava-i: Multi-modal AI for collaborative OSM mapping in Paraguay (citizen cartography GPT-4 + satellite CV)",
+      "score": 9.0,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 9,
+        "method_alignment": 9,
+        "novelty": 8,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FADA",
+      "advisor": {
+        "id": "A09",
+        "name": "Juan Carlos Cristaldo",
+        "faculty": "FADA",
+        "group": "CIDi FADA",
+        "expertise": [
+          "cartography",
+          "openstreetmap",
+          "FAIR data"
+        ],
+        "orcid": "0000-0001-6966-8787",
+        "email": "jcristaldo@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M50",
+        "name": "Multimodal fusion (text + image)",
+        "category": "ML"
+      },
+      "problem": {
+        "code": "P16",
+        "name": "Participatory cartography (citizen mapping)",
+        "category": "geo",
+        "faculties": [
+          "FADA",
+          "FP-UNA"
+        ]
+      },
+      "data_sources": [
+        "Geofabrik Paraguay OSM extract (150 MB, daily)",
+        "Public Sentinel-2 satellite imagery",
+        "Landsat 8/9 Paraguay scenes (free)",
+        "Sentinel-1 SAR (radar) Paraguay"
+      ],
+      "data_source_codes": [
+        "D01",
+        "D25",
+        "D85",
+        "D86"
+      ],
+      "rationale": "Tava-i = Guarani for 'play/explore'. Direct continuation of Cristaldo 1M polygons work.",
+      "source": "paraguayan-crafted (not from cartesian product)"
+    },
+    {
+      "rank": 2,
+      "id": "P0012",
+      "title": "Yvy: Indigenous community territory mapping with participatory cartography + GPT-4 enrichment",
+      "score": 8.83,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FADA",
+      "advisor": {
+        "id": "A09",
+        "name": "Juan Carlos Cristaldo",
+        "faculty": "FADA",
+        "group": "CIDi FADA",
+        "expertise": [
+          "cartography",
+          "openstreetmap",
+          "FAIR data"
+        ],
+        "orcid": "0000-0001-6966-8787",
+        "email": "jcristaldo@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M02",
+        "name": "LLM prompting (GPT-4/Claude/Llama)",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P21",
+        "name": "Indigenous territory mapping",
+        "category": "geo",
+        "faculties": [
+          "FFIL",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "Geofabrik Paraguay OSM extract (150 MB, daily)",
+        "OpenStreetMap changesets Paraguay"
+      ],
+      "data_source_codes": [
+        "D01",
+        "D43"
+      ],
+      "rationale": "Yvy = Guarani for 'land/earth'. Indigenous territory thesis.",
+      "source": "paraguayan-crafted (not from cartesian product)"
+    },
+    {
+      "rank": 3,
+      "id": "P0085",
+      "title": "Yvykui: Road damage detection from MOPC drone imagery (YOLO v8 + MOPC Paraguay)",
+      "score": 8.83,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M16",
+        "name": "Object detection (YOLO/Detectron2)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P60",
+        "name": "Garbage/waste route optimization",
+        "category": "environment",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "MOPC (Ministry of Public Works) infrastructure data",
+        "Public Sentinel-2 satellite imagery"
+      ],
+      "data_source_codes": [
+        "D50",
+        "D25"
+      ],
+      "rationale": "Yvykui = 'soil-crack/pothole'. Road damage detection - Horacio's CV expertise.",
+      "source": "paraguayan-crafted (not from cartesian product)"
+    },
+    {
+      "rank": 4,
+      "id": "P0011",
+      "title": "Yvytu: Multi-temporal satellite CV for Chaco deforestation alert system",
+      "score": 8.67,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 9,
+        "method_alignment": 8,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FADA",
+      "advisor": {
+        "id": "A09",
+        "name": "Juan Carlos Cristaldo",
+        "faculty": "FADA",
+        "group": "CIDi FADA",
+        "expertise": [
+          "cartography",
+          "openstreetmap",
+          "FAIR data"
+        ],
+        "orcid": "0000-0001-6966-8787",
+        "email": "jcristaldo@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M17",
+        "name": "Image segmentation (U-Net/Mask R-CNN)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P18",
+        "name": "Deforestation monitoring (Chaco)",
+        "category": "geo",
+        "faculties": [
+          "FCA",
+          "FP-UNA"
+        ]
+      },
+      "data_sources": [
+        "Landsat 8/9 Paraguay scenes (free)",
+        "Sentinel-1 SAR (radar) Paraguay",
+        "MADES environmental (deforestation, climate)"
+      ],
+      "data_source_codes": [
+        "D85",
+        "D86",
+        "D07"
+      ],
+      "rationale": "Yvytu = Guarani for 'wind'. Multi-temporal segmentation for environmental monitoring.",
+      "source": "paraguayan-crafted (not from cartesian product)"
+    },
+    {
+      "rank": 5,
+      "id": "P0075",
+      "title": "Neeambota: Fake news detector in Paraguayan Spanish Twitter/X (BERT fine-tuned)",
+      "score": 8.67,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 8
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A11",
+        "name": "Juan Pane",
+        "faculty": "FP-UNA",
+        "group": "(NLP)",
+        "expertise": [
+          "NLP",
+          "sentiment analysis"
+        ],
+        "orcid": "",
+        "email": "",
+        "github": "juanpane"
+      },
+      "method": {
+        "code": "M09",
+        "name": "Sentiment / emotion classification",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P04",
+        "name": "Cancer detection/early warning",
+        "category": "health",
+        "faculties": [
+          "FCM",
+          "FACV"
+        ]
+      },
+      "data_sources": [
+        "Twitter/X public Spanish dataset",
+        "somosnlp-hackathon-2026/paraguay-cultural-alignment (10K rows, 127 dl/mo)"
+      ],
+      "data_source_codes": [
+        "D22",
+        "D17"
+      ],
+      "rationale": "Neeambota = 'language-truth'. Misinformation detection.",
+      "source": "paraguayan-crafted (not from cartesian product)"
+    },
+    {
+      "rank": 6,
+      "id": "P0100",
+      "title": "Yvyra: Carbon-credit verification (satellite CV + Paraguay farms)",
+      "score": 8.67,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7,
+        "method_alignment": 9,
+        "novelty": 8,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FCA",
+      "advisor": {
+        "id": "A09",
+        "name": "Juan Carlos Cristaldo",
+        "faculty": "FADA",
+        "group": "CIDi FADA",
+        "expertise": [
+          "cartography",
+          "openstreetmap",
+          "FAIR data"
+        ],
+        "orcid": "0000-0001-6966-8787",
+        "email": "jcristaldo@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M18",
+        "name": "Spectral image analysis (satellite)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P45",
+        "name": "Climate change impact on agriculture",
+        "category": "agriculture",
+        "faculties": [
+          "FCA"
+        ]
+      },
+      "data_sources": [
+        "MADES environmental (deforestation, climate)",
+        "Landsat 8/9 Paraguay scenes (free)",
+        "Sentinel-1 SAR (radar) Paraguay"
+      ],
+      "data_source_codes": [
+        "D07",
+        "D85",
+        "D86"
+      ],
+      "rationale": "Yvyra = 'wood/tree'. Carbon credits uses Cristaldo's geospatial expertise.",
+      "source": "paraguayan-crafted (not from cartesian product)"
+    },
+    {
+      "rank": 7,
+      "id": "I0079",
+      "title": "Transformer fine-tuning (BERT/GPT) for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M01",
+        "name": "Transformer fine-tuning (BERT/GPT)",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 8,
+      "id": "I0181",
+      "title": "LLM prompting (GPT-4/Claude/Llama) for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M02",
+        "name": "LLM prompting (GPT-4/Claude/Llama)",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 9,
+      "id": "I0283",
+      "title": "RAG system for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M03",
+        "name": "RAG system",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 10,
+      "id": "I0385",
+      "title": "Multi-agent LLM system for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M04",
+        "name": "Multi-agent LLM system",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 11,
+      "id": "I0487",
+      "title": "Speech-to-text (Whisper) for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M05",
+        "name": "Speech-to-text (Whisper)",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 12,
+      "id": "I0589",
+      "title": "Text-to-speech (TTS) for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M06",
+        "name": "Text-to-speech (TTS)",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 13,
+      "id": "I0691",
+      "title": "Named entity recognition for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M07",
+        "name": "Named entity recognition",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 14,
+      "id": "I0793",
+      "title": "Topic modeling (LDA/BERTopic) for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M08",
+        "name": "Topic modeling (LDA/BERTopic)",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 15,
+      "id": "I0895",
+      "title": "Sentiment / emotion classification for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M09",
+        "name": "Sentiment / emotion classification",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 16,
+      "id": "I0997",
+      "title": "Machine translation for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M10",
+        "name": "Machine translation",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 17,
+      "id": "I1099",
+      "title": "Question answering system for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M11",
+        "name": "Question answering system",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 18,
+      "id": "I1201",
+      "title": "Summarization for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M12",
+        "name": "Summarization",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 19,
+      "id": "I1303",
+      "title": "Argument mining for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M13",
+        "name": "Argument mining",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 20,
+      "id": "I1405",
+      "title": "Low-resource language modeling for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M14",
+        "name": "Low-resource language modeling",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 21,
+      "id": "I1438",
+      "title": "Computer vision (CNN/ResNet) for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M15",
+        "name": "Computer vision (CNN/ResNet)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 22,
+      "id": "I1463",
+      "title": "Object detection (YOLO/Detectron2) for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M16",
+        "name": "Object detection (YOLO/Detectron2)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 23,
+      "id": "I1488",
+      "title": "Image segmentation (U-Net/Mask R-CNN) for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M17",
+        "name": "Image segmentation (U-Net/Mask R-CNN)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 24,
+      "id": "I1513",
+      "title": "Spectral image analysis (satellite) for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M18",
+        "name": "Spectral image analysis (satellite)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 25,
+      "id": "I1538",
+      "title": "Optical character recognition (OCR) for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M19",
+        "name": "Optical character recognition (OCR)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 26,
+      "id": "I1563",
+      "title": "Face recognition for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M20",
+        "name": "Face recognition",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 27,
+      "id": "I1588",
+      "title": "Facial expression / emotion for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M21",
+        "name": "Facial expression / emotion",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 28,
+      "id": "I1613",
+      "title": "Pose estimation for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M22",
+        "name": "Pose estimation",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 29,
+      "id": "I1638",
+      "title": "Image generation (diffusion/GAN) for Building footprint extraction (satellite) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 7,
+        "advisor_activity": 10,
+        "publication_potential": 9
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A02",
+        "name": "Horacio Andrés Legal Ayala",
+        "faculty": "FP-UNA",
+        "group": "GPDI",
+        "expertise": [
+          "Computer vision",
+          "OCR",
+          "satellite"
+        ],
+        "orcid": "",
+        "email": "hlegal@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M23",
+        "name": "Image generation (diffusion/GAN)",
+        "category": "CV"
+      },
+      "problem": {
+        "code": "P19",
+        "name": "Building footprint extraction (satellite)",
+        "category": "geo",
+        "faculties": [
+          "FP-UNA",
+          "FADA"
+        ]
+      },
+      "data_sources": [
+        "D01",
+        "D07",
+        "D08",
+        "D25",
+        "D26"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    },
+    {
+      "rank": 30,
+      "id": "I4552",
+      "title": "Chatbot (RAG-based) for Cyberbullying detection (Paraguayan schools) at FP-UNA",
+      "score": 8.58,
+      "score_dimensions": {
+        "faculty_match": 9,
+        "data_availability": 7.5,
+        "method_alignment": 9,
+        "novelty": 9,
+        "advisor_activity": 10,
+        "publication_potential": 7
+      },
+      "faculty": "FP-UNA",
+      "advisor": {
+        "id": "A01",
+        "name": "Christian Von Lücken",
+        "faculty": "FP-UNA",
+        "group": "A y O",
+        "expertise": [
+          "MOEA",
+          "NLP",
+          "CV"
+        ],
+        "orcid": "",
+        "email": "clucken@pol.una.py",
+        "github": ""
+      },
+      "method": {
+        "code": "M47",
+        "name": "Chatbot (RAG-based)",
+        "category": "NLP"
+      },
+      "problem": {
+        "code": "P44",
+        "name": "Cyberbullying detection (Paraguayan schools)",
+        "category": "social",
+        "faculties": [
+          "FP-UNA",
+          "FACSO"
+        ]
+      },
+      "data_sources": [
+        "D03",
+        "D04",
+        "D06",
+        "D22",
+        "D23"
+      ],
+      "data_source_codes": [],
+      "rationale": "",
+      "source": "cartesian"
+    }
+  ]
+}
