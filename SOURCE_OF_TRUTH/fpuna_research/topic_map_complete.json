@@ -1,0 +1,1769 @@
+{
+ "Energía/ANDE": [
+  [
+   182704,
+   "Diseño y automatización de circuitos eléctricos para el sistema de bombeo de una red de alcantarillado propuesto para la gestión de efluentes en la FPUNA",
+   "2025"
+  ],
+  [
+   642153,
+   "Diseño y automatización de circuitos eléctricos para el sistema de bombeo de una red de alcantarillado propuesto para la gestión de efluentes en la FPUNA",
+   "2025"
+  ],
+  [
+   626008,
+   "Implementación de una infraestructura de medición avanzada (AMI) y compensación reactiva en puestos de distribución de nergía eléctrica",
+   "2020"
+  ],
+  [
+   267200,
+   "Diseño de un modelo de deep learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "2023"
+  ],
+  [
+   612757,
+   "Diseño de un modelo de deep learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "2023"
+  ],
+  [
+   626821,
+   "Diseño de un modelo de Deep Learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "2023"
+  ],
+  [
+   184219,
+   "Propuesta para el mejoramiento de la eficiencia energética de residencias unifamiliares mediante la aplicación de la domótica y la energía solar",
+   "2019"
+  ],
+  [
+   640640,
+   "Propuesta para el mejoramiento de la eficiencia energética de residencias unifamiliares mediante la aplicación de la domótica y la energía solar",
+   "2019"
+  ],
+  [
+   292508,
+   "Energía renovable guía de alternativas ecológicas",
+   "1995"
+  ],
+  [
+   558803,
+   "Energía renovable guía de alternativas ecológicas",
+   null
+  ],
+  [
+   279632,
+   "Fachadas con energía renovable",
+   "2017"
+  ],
+  [
+   571810,
+   "Fachadas con energía renovable",
+   "2017"
+  ],
+  [
+   278831,
+   "Energía renovable: guía de alternativas ecológicas",
+   "1995"
+  ],
+  [
+   513257,
+   "Energía renovable: guía de alternativas ecológicas",
+   null
+  ],
+  [
+   624623,
+   "Evaluación de potenciales de energía renovable en Paraguay, estudio de cuatro casos",
+   "2013"
+  ],
+  [
+   163856,
+   "Biocombustibles utilización de los aceites vegetales como energía renovable",
+   "1996"
+  ],
+  [
+   588469,
+   "Biocombustibles utilización de los aceites vegetales como energía renovable",
+   null
+  ],
+  [
+   183034,
+   "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Paraguayo, utilizando una metodología de múltiples criterios",
+   "2024"
+  ],
+  [
+   641744,
+   "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Paraguayo, utilizando una metodología de múltiples criterios",
+   "2024"
+  ],
+  [
+   167334,
+   "Biocombustibles utilización de los aceites vegetales como energía renovable",
+   "1996"
+  ],
+  [
+   182928,
+   "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimiento de una localidad ailada - reserva tres gigantes - Bahía negra - Chaco Paraguayo",
+   "2024"
+  ],
+  [
+   641860,
+   "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimiento de una localidad ailada - reserva tres gigantes - Bahía negra - Chaco Paraguayo",
+   "2024"
+  ],
+  [
+   271611,
+   "Tecnología geomática aplicada al cálculo del volumen de sedimentos depositados en el canal piloto de la presa lateral derecha de la central Hidroeléctrica Yacyreta",
+   "2020"
+  ],
+  [
+   608788,
+   "Tecnología geomática aplicada al cálculo del volumen de sedimentos depositados en el canal piloto de la presa lateral derecha de la central Hidroeléctrica Yacyreta",
+   "2020"
+  ],
+  [
+   626035,
+   "Tecnología geomática aplicada al cálculo del volumen de sedimentos depositados en el canal piloto de la presa lateral derecha de la central Hidroeléctrica Yacyreta",
+   "2020"
+  ],
+  [
+   624608,
+   "Automatización de despacho horario de potencia eléctrica en el sistema interconectado nacional de Paraguay",
+   "2014"
+  ],
+  [
+   642678,
+   "Sistema de monitoreo del consumo eléctrico residencial mediante aplicación móvil con ESP32 e internet de las cosas (IoT)",
+   "2025"
+  ],
+  [
+   614513,
+   "Sistema de monitoreo del consumo eléctrico residencial mediante aplicación móvil con ESP32 e internet de las cosas (IoT)",
+   "2025"
+  ],
+  [
+   625586,
+   "Comercialización del excedente energético de Paraguay en el mercado eléctrico brasileño bajo incertidumbre: modelado predictivo y cálculo de rentabilidad",
+   "2019"
+  ],
+  [
+   627178,
+   "Control predictivo basado en inteligencia artificial aplicado a sistemas de conversión de energía AC-AC",
+   "2025"
+  ],
+  [
+   185352,
+   "Metodología para estimación de demanda eléctrica a corto plazo de una subestación utilizando redes neuronales artificiales",
+   "2015"
+  ],
+  [
+   264618,
+   "Metodología para la estimación de demanda eléctrica a corto plazo de una subestación utilizando redes neuronales artificiales",
+   "2015"
+  ],
+  [
+   209880,
+   "Identificación de la potencial ubicación de su sistema de capacitación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "2024"
+  ],
+  [
+   264464,
+   "Implementación de un sistema de teledetección en los puestos de distribución de energía eléctrica para mejorar su servicio",
+   "2017"
+  ],
+  [
+   267496,
+   "Identificación de la potencial ubicación de un sistema de captación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "2024"
+  ],
+  [
+   512122,
+   "Identificación de la potencial ubicación de su sistema de capacitación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "2024"
+  ],
+  [
+   612475,
+   "Identificación de la potencial ubicación de un sistema de captación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "2024"
+  ],
+  [
+   605909,
+   "Implementación de un sistema de teledetección en los puestos de distribución de energía eléctrica para mejorar su servicio",
+   "2017"
+  ],
+  [
+   605017,
+   "Análisis de eficiencia de celdas puente-H basadas en técnología mosfet de carburo de silicio para aplicaciones en filtros activos de potencia",
+   "2017"
+  ],
+  [
+   605016,
+   "Análisis de algoritmos de control predictivo con frecuencia fija aplicado a convertidores de potencia",
+   "2017"
+  ],
+  [
+   605010,
+   "Control predictivo basado en frecuencia fija aplicado al accionamiento eléctrico de cinco fases",
+   "2015"
+  ],
+  [
+   636990,
+   "Sistemas de energía para telecomunicaciones",
+   "1996"
+  ],
+  [
+   311356,
+   "La calidad académica del trabajo final de grado en relación a la formación del docente tutor en la Facultad de Filosofía de la Universidad Nacional de Asunción. Doctorado en Educación Nº 31 - ( TUTOR : Prof. Dr. Antonio Hernández Fernández )",
+   "2018"
+  ],
+  [
+   415874,
+   "La calidad académica del trabajo final de grado en relación a la formación del docente tutor en la Facultad de Filosofía de la Universidad Nacional de Asunción. Doctorado en Educación Nº 31 - ( TUTOR : Prof. Dr. Antonio Hernández Fernández )",
+   "2018"
+  ]
+ ],
+ "IoT": [
+  [
+   446661,
+   "Sistema Gerenciador de Control de Circulación y Préstamos para Biblioteca BiblioSystem",
+   "2004"
+  ],
+  [
+   267264,
+   "Modelo de implementación de ciberseguridad para internet de las cosas IoT en el sector marítimo",
+   "2023"
+  ],
+  [
+   612694,
+   "Modelo de implementación de ciberseguridad para internet de las cosas IoT en el sector marítimo",
+   "2023"
+  ],
+  [
+   626642,
+   "Modelo de implementación de ciberseguridad para internet de las cosas IoT en el sectro marítimo",
+   "2023"
+  ],
+  [
+   501093,
+   "Control de condiciones en salas limpias utilizando un enfoque IoT e Inteligencia artificial",
+   "2022"
+  ],
+  [
+   146006,
+   "Eficiencia del sensor capacitivo 12C RS485 de bajo costo en conjunto con sistema IOT en la medición de humedad",
+   "2023"
+  ],
+  [
+   153349,
+   "Eficiencia del sensor capacitivo 12C RS485 de bajo costo en conjunto con sistema IOT en la medición de humedad",
+   "2023"
+  ],
+  [
+   182107,
+   "Desarrollo de aplicaciones IoT en la nube para Arduino y ESP8266",
+   "2020"
+  ],
+  [
+   182631,
+   "Alexa Desarrollo de aplicacions IOT para arduino y ESP8266",
+   "2021"
+  ],
+  [
+   267211,
+   "Sistema de optimización de riego en invernadero hidropónico aplicando técnicas de IoT",
+   "2023"
+  ],
+  [
+   336911,
+   "Control de condiciones en salas limpias utilizando un enfoque IoT e Inteligencia artificial",
+   null
+  ],
+  [
+   613653,
+   "Eficiencia del sensor capacitivo I2C RS485 de bajo costo en conjunto con sistema IOT en la medición de humedad",
+   "2023"
+  ],
+  [
+   612743,
+   "Sistema de optimización de riego en invernadero hidropónico aplicando técnicas de IoT",
+   "2023"
+  ],
+  [
+   642678,
+   "Sistema de monitoreo del consumo eléctrico residencial mediante aplicación móvil con ESP32 e internet de las cosas (IoT)",
+   "2025"
+  ],
+  [
+   642656,
+   "Sistema de monitoreo y control de humedad del suelo de cultivos de plántulas de tomate en invernadero aplicando tecnología IOT",
+   "2025"
+  ],
+  [
+   642047,
+   "Alexa Desarrollo de aplicacions IOT para arduino y ESP8266",
+   "2021"
+  ],
+  [
+   642046,
+   "Desarrollo de aplicaciones IoT en la nube para Arduino y ESP8266",
+   "2020"
+  ],
+  [
+   614537,
+   "Sistema de monitoreo y control de humedad del suelo de cultivos de plántulas de tomate en invernadero aplicando tecnología IOT",
+   "2025"
+  ],
+  [
+   614513,
+   "Sistema de monitoreo del consumo eléctrico residencial mediante aplicación móvil con ESP32 e internet de las cosas (IoT)",
+   "2025"
+  ],
+  [
+   626946,
+   "Diseño de un sistema autónomo para el monitoreo de pozos profundos del tipo IoT",
+   "2024"
+  ],
+  [
+   185537,
+   "Utilización del sensor kinect con herramientas open source para el desarrollo de juegos educativos para niños en edad pre-escolar",
+   "2015"
+  ],
+  [
+   264740,
+   "Utilización del sensor kinect con herramientas open source para el desarrollo de juegos educativos para niños en edad pre-escolar",
+   "2015"
+  ],
+  [
+   605647,
+   "Utilización del sensor kinect con herramientas open source para el desarrollo de juegos educativos para niños en edad pre-escolar",
+   "2015"
+  ],
+  [
+   639269,
+   "Utilización del sensor kinect con herramientas open source para el desarrollo de juegos educativos para niños en edad pre-escolar",
+   "2015"
+  ],
+  [
+   183381,
+   "Software libre KOHA optimización de su implementación en la Biblioteca y Centro de Información Cultural Dr. César Romeo Acosta del Banco Central del Paraguay",
+   "2022"
+  ],
+  [
+   641394,
+   "Software libre KOHA optimización de su implementación en la Biblioteca y Centro de Información Cultural Dr. César Romeo Acosta del Banco Central del Paraguay",
+   "2022"
+  ],
+  [
+   268658,
+   "Software libre KOHA: optimización de su implementación en la biblioteca y centro de información cultural Dr. César Romeo Acosta del Banco Central del Paraguay",
+   "2022"
+  ],
+  [
+   611434,
+   "Software libre KOHA: optimización de su implementación en la biblioteca y centro de información cultural Dr. César Romeo Acosta del Banco Central del Paraguay",
+   "2022"
+  ],
+  [
+   605880,
+   "Dispositivo y software para rehabilitación perceptiva orientado a paciente con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "2016"
+  ],
+  [
+   184745,
+   "Dispositivo y software para rehabilitación perceptiva orientado a pacientes con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "2016"
+  ],
+  [
+   640101,
+   "Dispositivo y software para rehabilitación perceptiva orientado a pacientes con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "2016"
+  ]
+ ],
+ "Cartografía/GIS": [
+  [
+   264342,
+   "Optimización de la vigilancia y control de criaderos del aedes aegypti utilizando computación móvil y sistemas de información geográfica",
+   "2019"
+  ],
+  [
+   606030,
+   "Optimización de la vigilancia y control de criaderos del aedes aegypti utilizando computación móvil y sistemas de información geográfica",
+   "2019"
+  ],
+  [
+   622135,
+   "Cartografía",
+   null
+  ],
+  [
+   278266,
+   "Geodesia y cartografía : revista de geodesia y cartografía",
+   null
+  ],
+  [
+   513852,
+   "Geodesia y cartografía : revista de geodesia y cartografía",
+   null
+  ],
+  [
+   143579,
+   "Apuntes cartografía forestal",
+   "1980"
+  ],
+  [
+   137513,
+   "Apuntes cartografía forestal",
+   "1980"
+  ],
+  [
+   159704,
+   "Prácticas de cartografía",
+   null
+  ],
+  [
+   189396,
+   "Cartografía digital desarrollo de software interno",
+   "1992"
+  ],
+  [
+   276010,
+   "Atlas Paraguay: cartografía didáctica",
+   "2000"
+  ],
+  [
+   139548,
+   "Prácticas de cartografía",
+   null
+  ],
+  [
+   142121,
+   "Laboratorio de cartografía",
+   "1988"
+  ],
+  [
+   149708,
+   "Cartografía de áreas quemadas mediante imágenes satelitales de mediana resolución espacial, en la zona norte de la Región Oriental del Paraguay",
+   "2009"
+  ],
+  [
+   152089,
+   "Modelos y cartografía de estimaciones climáticas termopluviométricas para la España Peninsular",
+   "1999"
+  ],
+  [
+   210726,
+   "Atlas urbano de José Domingo Ocampos y Juan E. O'Leary, metodología de Mapeo con sistemas de aeronaves pilotadas a distancia. Contribuciones a la cartografía del Paraguay con Software libre",
+   "2023"
+  ],
+  [
+   255772,
+   "Superando la brecha cartográfica : metodologías de mapeo in situ y cartografía analítica para comunidades en áreas informales (caso Chacarita Alta)",
+   "2019"
+  ],
+  [
+   256353,
+   "Actualización de la cartografía digital general, de la superficie construida dentro del Campus Universitario de San Lorenzo, entre los años 2005 a 2010 : caso de estudio Facultad de Arquitectura, Dise",
+   "2012"
+  ],
+  [
+   262331,
+   "Densificación de puntos de control terrestre como base para la cartografía catastral",
+   "2002"
+  ],
+  [
+   269012,
+   "Cartografía de áreas vulnerables a incendios forestales en el parque nacional Caazapá empleando modelos combustibles",
+   "2022"
+  ],
+  [
+   284832,
+   "Prácticas de topografía, cartografía, fotogrametria",
+   "1989"
+  ],
+  [
+   609104,
+   "Asignación de recursos en redes virtuales. Aplicaciones con énfasis en redes ópticas",
+   "2018"
+  ],
+  [
+   503308,
+   "DISCURSO SOBRE EL ORIGEN DE LA DESIGUALDAD ENTRE LOS HOMBRES EDICIÓN DE EDUARDO MAURA Y CLARA NAVARRO",
+   "2014"
+  ],
+  [
+   185098,
+   "Registración de imágenes médicas multimodales basada en información mutua usando optimización extrema",
+   "2012"
+  ],
+  [
+   624517,
+   "Registro geométrico de figuras deformables",
+   "2015"
+  ],
+  [
+   624964,
+   "Análisis espacial de la isla de calor urbana en el área metropolitana de Asunción mediante teledetección y SIG",
+   "2017"
+  ],
+  [
+   185356,
+   "Estimación del desplazamiento de contaminantes mediante modelo de redes neuronales artificiales y sistemas de información geográfica aplicados al Acuífero Patiño",
+   "2016"
+  ],
+  [
+   639486,
+   "Estimación del desplazamiento de contaminantes mediante modelo de redes neuronales artificiales y sistemas de información geográfica aplicados al Acuífero Patiño",
+   "2016"
+  ],
+  [
+   183093,
+   "Algoritmo Genético aplicado al problema de enrutamiento y asignación de tasa de baudios, código de corrección de errores, nivel de modulación y espectro en redes ópticas elásticas.",
+   "2023"
+  ],
+  [
+   183116,
+   "Enrutamiento, multidifusión y asignación de nivel de modulación y espectro en redes ópticas elásticas un enfoque basado en algoritmos genéticos",
+   "2023"
+  ],
+  [
+   183805,
+   "Enrutamiento y asignación de espectro en redes ópticas elásticas con tráfico variable utilizando algoritmo de colonia de abejas",
+   "2021"
+  ],
+  [
+   184006,
+   "Enfoques de solución basadas en algoritmo de evolución diferencial y programación matemática para el problema de enrutamiento, asignación de espectro y código en redes ópticas elásticas",
+   "2020"
+  ],
+  [
+   184012,
+   "Aprendizaje reforzado aplicado al enrutamiento y asignación de espectro en redes ópticas elásticas",
+   "2020"
+  ],
+  [
+   184161,
+   "Enrutamineto, nivel de modulación y asignación de espectro en redes ópticas elásticas - enfoques basados en técnicas ILP y algoritmos géneticos",
+   "2019"
+  ],
+  [
+   184756,
+   "Enrutamiento, nivel de modulación y asignación de espectro en redes ópticas elásticas : una comapración entre enfoques de solución basados en ILP",
+   "2018"
+  ],
+  [
+   267593,
+   "Atlas urbano de José Domingo Ocampos y Juan E. O'Leary, metodología de mapeo con sistemas de aeronaves pilotadas a distancia. Contribuciones a la cartografía del Paraguay con software libre",
+   "2023"
+  ],
+  [
+   612383,
+   "Atlas urbano de José Domingo Ocampos y Juan E. O'Leary, metodología de mapeo con sistemas de aeronaves pilotadas a distancia. Contribuciones a la cartografía del Paraguay con software libre",
+   "2023"
+  ],
+  [
+   211906,
+   "Contribuciones desde el centro de investigación, desarrollo e innovación a la cartografía del Paraguay basada en el uso de Software libre con énfasis en la producción del Atlas de los municipios de Ju Atlas urbano Py-Juan Eulogio Estigarribia y Doctor Juan Manuel Frutos|",
+   "2021"
+  ],
+  [
+   510070,
+   "Contribuciones desde el centro de investigación, desarrollo e innovación a la cartografía del Paraguay basada en el uso de Software libre con énfasis en la producción del Atlas de los municipios de Ju Atlas urbano Py-Juan Eulogio Estigarribia y Doctor Juan Manuel Frutos|",
+   "2021"
+  ],
+  [
+   271492,
+   "Contribuciones desde el centro de investigación, desarrollo e innovación a la cartografía del Paraguay basada en el uso de software libre con énfasis en la producción del atlas de los municipios ...",
+   "2021"
+  ],
+  [
+   512914,
+   "Atlas urbano de la ciudad de Guairá y metodología para la postproducción de cartografía con herramientas de software libre atlas urbano de Saltos del Guairá - Guairá",
+   "2024"
+  ],
+  [
+   511269,
+   "Atlas urbano de José Domingo Ocampos y Juan E. O'Leary, metodología de Mapeo con sistemas de aeronaves pilotadas a distancia. Contribuciones a la cartografía del Paraguay con Software libre",
+   "2023"
+  ],
+  [
+   608897,
+   "Contribuciones desde el centro de investigación, desarrollo e innovación a la cartografía del Paraguay basada en el uso de software libre con énfasis en la producción del atlas de los municipios ...",
+   "2021"
+  ],
+  [
+   209880,
+   "Identificación de la potencial ubicación de su sistema de capacitación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "2024"
+  ],
+  [
+   267496,
+   "Identificación de la potencial ubicación de un sistema de captación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "2024"
+  ],
+  [
+   512122,
+   "Identificación de la potencial ubicación de su sistema de capacitación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "2024"
+  ],
+  [
+   612475,
+   "Identificación de la potencial ubicación de un sistema de captación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "2024"
+  ],
+  [
+   265795,
+   "Sistema de información geográfica orientado a ubicación de pacientes para prevención : tratamiento de enfermedades y mercadeo",
+   "2004"
+  ],
+  [
+   604377,
+   "Sistema de información geográfica orientado a ubicación de pacientes para prevención : tratamiento de enfermedades y mercadeo",
+   "2004"
+  ]
+ ],
+ "Big Data": [
+  [
+   183886,
+   "Data Lake : un caso de estudio de una arquitectura de análisis de Big Data aplicando a contrataciones públicas",
+   "2021"
+  ],
+  [
+   641127,
+   "Data Lake : un caso de estudio de una arquitectura de análisis de Big Data aplicando a contrataciones públicas",
+   "2021"
+  ],
+  [
+   184099,
+   "Detección de anomalías en telecomunicaciones basada en una arquietectura Big Data",
+   "2020"
+  ],
+  [
+   273197,
+   "En las entrañas del Big data: una aproximación a la estadistica",
+   "2019"
+  ],
+  [
+   519149,
+   "En las entrañas del Big data: una aproximación a la estadistica",
+   "2019"
+  ],
+  [
+   640776,
+   "Detección de anomalías en telecomunicaciones basada en una arquietectura Big Data",
+   "2020"
+  ],
+  [
+   271374,
+   "Data Lake: un caso de estudio de una arquitectura de análisis de Big Data aplicado a contrataciones públicas",
+   "2021"
+  ],
+  [
+   609014,
+   "Data Lake: un caso de estudio de una arquitectura de análisis de Big Data aplicado a contrataciones públicas",
+   "2021"
+  ],
+  [
+   266927,
+   "Detección de anomalías en telecomunicaciones basada en una arquitectura big data",
+   "2020"
+  ],
+  [
+   606033,
+   "Detección de anomalías en telecomunicaciones basada en una arquitectura big data",
+   "2020"
+  ]
+ ],
+ "Educación": [
+  [
+   276010,
+   "Atlas Paraguay: cartografía didáctica",
+   "2000"
+  ],
+  [
+   512710,
+   "Educación superior]",
+   null
+  ],
+  [
+   291165,
+   "Educación superior",
+   "1992"
+  ],
+  [
+   560161,
+   "Educación superior",
+   null
+  ],
+  [
+   284959,
+   "Educación Superior nuevos curriculos para los nuevos tiempos",
+   "2007"
+  ],
+  [
+   566478,
+   "Educación Superior nuevos curriculos para los nuevos tiempos",
+   "2007"
+  ],
+  [
+   164206,
+   "Educación ambiental en la educación superior consideraciones teóricas y metodológicas",
+   "2015"
+  ],
+  [
+   145147,
+   "Un sistema de educación superior para el Paraguay democrático",
+   null
+  ],
+  [
+   164421,
+   "Nueva ley de Educación Superior evalución de propuestas y sugerencia de principales criterios y lineamientos a incorporar.",
+   "2006"
+  ],
+  [
+   283956,
+   "Competencias en la educación superior políticas hacia la calidad",
+   "2007"
+  ],
+  [
+   284943,
+   "Los sistemas de educación superior en los paises del Mercosur elementos fundamentales y bases para su integración",
+   "1992"
+  ],
+  [
+   285034,
+   "Informe sobre la educación superior en América Latina y el Caribe 2000-2005 la metamorfosis de la educación superior",
+   "2006"
+  ],
+  [
+   328195,
+   "Competencias en la educación superior políticas hacia la calidad",
+   "2006"
+  ],
+  [
+   567500,
+   "Competencias en la educación superior políticas hacia la calidad",
+   "2007"
+  ],
+  [
+   566403,
+   "Informe sobre la educación superior en América Latina y el Caribe 2000-2005 la metamorfosis de la educación superior",
+   "2000"
+  ],
+  [
+   586534,
+   "Nueva ley de Educación Superior evalución de propuestas y sugerencia de principales criterios y lineamientos a incorporar.",
+   "2006"
+  ],
+  [
+   614424,
+   "Mejora de pronósticos del nivel del río Paraguay con técnicas avanzadas de aprendizaje profundo y adición de variables exógenas",
+   "2025"
+  ],
+  [
+   264699,
+   "Categorización de sentimientos en jopara : técnicas basadas en léxico y en aprendizaje de máquina para una mezcla de lenguas",
+   "2014"
+  ],
+  [
+   192751,
+   "Memorias, XXV Conferencia Latinoamericana de Informática - CLEI VI concurso CLEI-UNESCO de tesis de Maestría, VII congreso Iberoamericano de Educación Superior en Computación, VI Congreso Internacional de Tecnologías y Aplicaciones Informaticas, X Panel Nacional d",
+   "1999"
+  ],
+  [
+   632123,
+   "Memorias, XXV Conferencia Latinoamericana de Informática - CLEI VI concurso CLEI-UNESCO de tesis de Maestría, VII congreso Iberoamericano de Educación Superior en Computación, VI Congreso Internacional de Tecnologías y Aplicaciones Informaticas, X Panel Nacional d",
+   null
+  ],
+  [
+   605706,
+   "Categorización de sentimientos en jopara : técnicas basadas en léxico y en aprendizaje de máquina para una mezcla de lenguas",
+   "2014"
+  ],
+  [
+   183804,
+   "Estrategia de disparo para el proceso de desfragmentación en redes ópticas elásticas, utilizando técnicas de aprendizaje automático",
+   "2021"
+  ],
+  [
+   184012,
+   "Aprendizaje reforzado aplicado al enrutamiento y asignación de espectro en redes ópticas elásticas",
+   "2020"
+  ],
+  [
+   264235,
+   "Mecanismo robótico articulado didáctico para el laboratorio de robótica de la FP-UNA",
+   "2021"
+  ],
+  [
+   326563,
+   "Educación para la salud en salud mental",
+   "2021"
+  ],
+  [
+   311356,
+   "La calidad académica del trabajo final de grado en relación a la formación del docente tutor en la Facultad de Filosofía de la Universidad Nacional de Asunción. Doctorado en Educación Nº 31 - ( TUTOR : Prof. Dr. Antonio Hernández Fernández )",
+   "2018"
+  ],
+  [
+   415874,
+   "La calidad académica del trabajo final de grado en relación a la formación del docente tutor en la Facultad de Filosofía de la Universidad Nacional de Asunción. Doctorado en Educación Nº 31 - ( TUTOR : Prof. Dr. Antonio Hernández Fernández )",
+   "2018"
+  ]
+ ],
+ "Salud/Medicina": [
+  [
+   337824,
+   "Evaluación de un sistema localmente sustentable de diagnóstico de Chagas congénito en dos regiones endémicas para la enfermedad de Chagas en el Paraguay",
+   null
+  ],
+  [
+   269890,
+   "Desempeño de las pruebas serológicas hemoaglutinación e inmunofluorescencia indirecta como herramienta en el diagnóstico de la enfermedad de chagas",
+   "2022"
+  ],
+  [
+   263242,
+   "Inmunodiagnóstico de la enfermedad de chagas congénita",
+   "1977"
+  ],
+  [
+   271576,
+   "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de deep learning",
+   "2020"
+  ],
+  [
+   608822,
+   "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de deep learning",
+   "2020"
+  ],
+  [
+   625983,
+   "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de Deep Learning",
+   "2020"
+  ],
+  [
+   247682,
+   "Caracterización de infecciones por el virus del dengue en pacientes con sospecha clínica y evaluación de marcadores de gravedad de dengue,Paraguay(2018-2020)",
+   "2021"
+  ],
+  [
+   248615,
+   "Detección de los virus del dengue, chikungunya y zica mediante RT - PCR en tiempo real (rRT - PCR) en pacientes con sospecha clínica de dengue que acudieron al Hospital de clínicas en el 2016",
+   "2018"
+  ],
+  [
+   251237,
+   "Evaluación preliminar de la eficacia de la prueba NS1 e IgG/IgM dengue duo para la detección temprana de dengue en niños mediante comparación con parámetros hematológicos en pacientes pediátricos con",
+   "2013"
+  ],
+  [
+   270725,
+   "Caracterización de infecciones por el virus del dengue en pacientes con sospecha clínica y evaluación de marcadores de gravedad de dengue, Paraguay (2018-2020)",
+   "2021"
+  ],
+  [
+   609618,
+   "Caracterización de infecciones por el virus del dengue en pacientes con sospecha clínica y evaluación de marcadores de gravedad de dengue, Paraguay (2018-2020)",
+   "2021"
+  ],
+  [
+   185532,
+   "Diagnóstico de lesiones melanocíticas asistido por computadora basado en el método ABCD",
+   "2015"
+  ],
+  [
+   264730,
+   "Diagnóstico de lesiones melanocíticos asistido por computadora basado en el método ABCD",
+   "2015"
+  ],
+  [
+   605659,
+   "Diagnóstico de lesiones melanocíticos asistido por computadora basado en el método ABCD",
+   "2015"
+  ],
+  [
+   639273,
+   "Diagnóstico de lesiones melanocíticas asistido por computadora basado en el método ABCD",
+   "2015"
+  ],
+  [
+   627247,
+   "Aplicación de inteligencia artificial para el diagnóstico y mantenimiento predictivo en sistemas fotovoltaicos",
+   "2026"
+  ],
+  [
+   251779,
+   "Investigación en Ciencias de la Salud en el Paraguay",
+   "1996"
+  ],
+  [
+   263304,
+   "Situación de la vigilancia, investigación y control de riesgos y daños en salud pública, Paraguay 2007",
+   "2007"
+  ],
+  [
+   185098,
+   "Registración de imágenes médicas multimodales basada en información mutua usando optimización extrema",
+   "2012"
+  ],
+  [
+   264463,
+   "Desarollo de interfaz por comando de voz para pacientes con déficit motor severo",
+   "2017"
+  ],
+  [
+   605916,
+   "Desarollo de interfaz por comando de voz para pacientes con déficit motor severo",
+   "2017"
+  ],
+  [
+   300268,
+   "Salud",
+   null
+  ],
+  [
+   326563,
+   "Educación para la salud en salud mental",
+   "2021"
+  ],
+  [
+   144250,
+   "Condición de los servicios de salud pública del Centro de Salud Distrital Piribebuy, Cordillera",
+   "2010"
+  ],
+  [
+   234812,
+   "Salud animal en las Américas 1983 : documentos de la III reunión interamericana de salud animal a nivel ministerial",
+   "1984"
+  ],
+  [
+   234814,
+   "Salud animal en las Américas, 1980 : los animales en la vida del hombre : documentos de la I reunión interamericana de salud animal a nivel ministerial",
+   "1981"
+  ],
+  [
+   235322,
+   "Nuestro planeta, muestra salud : informe de la Comisión de Salud y Medio Ambiente de la OMS / OPS",
+   "1993"
+  ],
+  [
+   238807,
+   "Salud y seguridad de los trabajadores del sector salud : manual para gerentes y administradores",
+   "2005"
+  ],
+  [
+   251966,
+   "Desarrollo y fortalecimiento de los sistemas locales de salud en la transformación de los sistemas Nacionales de Salud Programa marcos de atención para los sistemas locales de salud en las Américas",
+   "1992"
+  ],
+  [
+   255292,
+   "Condición de los servicios de salud pública del Centro de Salud Distrital, Piribebuy, Cordillera",
+   "2010"
+  ],
+  [
+   263004,
+   "Accesibilidad de pobladores a servicios de salud, Unidad de Salud de la Familia, Posta Ybycuá, Asentamiento Caacupemí - Capiatá, 2014",
+   "2014"
+  ],
+  [
+   263235,
+   "Involucramiento del personal profesional de enfermería del área de salud pública en relación a la aplicación de los elementos de la renovación de la Atención Primaria de Salud, Paraguay 2007",
+   "2007"
+  ],
+  [
+   263305,
+   "Actividades realizadas por el equipo de salud en las unidades de salud familiar, XI Región Sanitaria, 2011",
+   "2011"
+  ],
+  [
+   263918,
+   "Percepción de usuarios sobre atención brindada por los profesionales de salud, Unidad de Salud Familiar, barrio Santa Rosa, Guajayvi, 2013",
+   "2014"
+  ],
+  [
+   265795,
+   "Sistema de información geográfica orientado a ubicación de pacientes para prevención : tratamiento de enfermedades y mercadeo",
+   "2004"
+  ],
+  [
+   266172,
+   "Monitoreo remoto de pacientes vía GSM",
+   "2011"
+  ],
+  [
+   604377,
+   "Sistema de información geográfica orientado a ubicación de pacientes para prevención : tratamiento de enfermedades y mercadeo",
+   "2004"
+  ],
+  [
+   603901,
+   "Monitoreo remoto de pacientes vía GSM",
+   "2011"
+  ],
+  [
+   265302,
+   "Diseño de una red de telecomunicaciones para múltiples aplicaciones en salud pública",
+   "2016"
+  ],
+  [
+   614413,
+   "Modelos matemáticos de crecimiento tumoral",
+   "2025"
+  ],
+  [
+   605880,
+   "Dispositivo y software para rehabilitación perceptiva orientado a paciente con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "2016"
+  ],
+  [
+   184745,
+   "Dispositivo y software para rehabilitación perceptiva orientado a pacientes con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "2016"
+  ],
+  [
+   520543,
+   "Modelos Matematicos de crecimeinto tumoral",
+   "2025"
+  ],
+  [
+   640101,
+   "Dispositivo y software para rehabilitación perceptiva orientado a pacientes con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "2016"
+  ],
+  [
+   605595,
+   "Proyecto de gestión de tecnología hospitalaria mediante la implementación de un departamento de ingeniería clínica",
+   "2011"
+  ],
+  [
+   418043,
+   "Actitudes y comportamientos relacionados con salud bucal en soldados de la brigada aerotransportada de la fuerza aerea paraguaya en el año 2023",
+   "2023"
+  ]
+ ],
+ "Ciberseguridad": [
+  [
+   182613,
+   "Ciberseguridad manual práctico",
+   "2021"
+  ],
+  [
+   642043,
+   "Ciberseguridad manual práctico",
+   "2021"
+  ],
+  [
+   267264,
+   "Modelo de implementación de ciberseguridad para internet de las cosas IoT en el sector marítimo",
+   "2023"
+  ],
+  [
+   612694,
+   "Modelo de implementación de ciberseguridad para internet de las cosas IoT en el sector marítimo",
+   "2023"
+  ],
+  [
+   186496,
+   "Ciberseguridad, retos y amenazas a la seguridad nacional en el ciberespacio",
+   "2011"
+  ],
+  [
+   638269,
+   "Ciberseguridad, retos y amenazas a la seguridad nacional en el ciberespacio",
+   "2011"
+  ],
+  [
+   626642,
+   "Modelo de implementación de ciberseguridad para internet de las cosas IoT en el sectro marítimo",
+   "2023"
+  ],
+  [
+   642520,
+   "CyberCeo una visión estratégica de ciberseguridad",
+   "2023"
+  ],
+  [
+   183865,
+   "Seguridad informática",
+   "2013"
+  ],
+  [
+   184679,
+   "Qué es la seguridad informática",
+   "2014"
+  ],
+  [
+   182913,
+   "Seguridad Informática",
+   "2020"
+  ],
+  [
+   640938,
+   "Seguridad informática",
+   "2013"
+  ],
+  [
+   182386,
+   "Seguridad informática",
+   "1997"
+  ],
+  [
+   631833,
+   "Seguridad informática",
+   null
+  ],
+  [
+   641870,
+   "Seguridad Informática",
+   "2020"
+  ],
+  [
+   183013,
+   "97 cosas que todo profesional de la seguridad informática debería saber",
+   "2022"
+  ],
+  [
+   185896,
+   "Auditoría de seguridad informática",
+   "2013"
+  ],
+  [
+   638904,
+   "Auditoría de seguridad informática",
+   "2013"
+  ],
+  [
+   641761,
+   "97 cosas que todo profesional de la seguridad informática debería saber",
+   "2022"
+  ],
+  [
+   640161,
+   "Qué es la seguridad informática",
+   "2014"
+  ]
+ ],
+ "Agricultura": [
+  [
+   302498,
+   "Identificación de un modelo económico de ganadería sostenible y climaticamente inteligente en la ciudad de Filadelfia, Chaco Paraguayo. Periodo 2005-2025",
+   "2017"
+  ],
+  [
+   139046,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   154080,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   591936,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   268019,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   611997,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   266987,
+   "Usos de drone en el sector agropecuario",
+   "2018"
+  ],
+  [
+   303705,
+   "El biogas a partir de residuos de ganado porcino, como energia alternativa renovable en los establecimientos ganaderos, su impacto y aporte en la economía paraguaya.",
+   "2012"
+  ],
+  [
+   150788,
+   "Análisis de la investigación ganadera en dos formaciones ecológicas del Paraguay",
+   "1983"
+  ],
+  [
+   165218,
+   "Cultivo e investigación del trigo en el Paraguay y posibilidades de promoción del cultivo informe de una gira (8-24.2.1974)",
+   "1974"
+  ],
+  [
+   145472,
+   "Análisis de la investigación ganadera en dos formaciones ecológicas del Paraguay",
+   "1983"
+  ],
+  [
+   642656,
+   "Sistema de monitoreo y control de humedad del suelo de cultivos de plántulas de tomate en invernadero aplicando tecnología IOT",
+   "2025"
+  ],
+  [
+   614537,
+   "Sistema de monitoreo y control de humedad del suelo de cultivos de plántulas de tomate en invernadero aplicando tecnología IOT",
+   "2025"
+  ]
+ ],
+ "Deep Learning": [
+  [
+   182855,
+   "Machine Learning y Deep Learning",
+   "2020"
+  ],
+  [
+   641935,
+   "Machine Learning y Deep Learning",
+   "2020"
+  ],
+  [
+   264238,
+   "Clasificación automática de código fuente : un enfoque basado en Deep Learning",
+   "2017"
+  ],
+  [
+   267254,
+   "Segmentación y seguimiento de muones utilizando técnicas de deep learning para el experimento connie",
+   "2023"
+  ],
+  [
+   183074,
+   "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Learning",
+   "2023"
+  ],
+  [
+   183091,
+   "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Learning",
+   "2023"
+  ],
+  [
+   183168,
+   "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robótico virtual utilizando técnicas de deep learning.",
+   "2023"
+  ],
+  [
+   267200,
+   "Diseño de un modelo de deep learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "2023"
+  ],
+  [
+   268616,
+   "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robótico virtual utilizando técnicas de deep learning",
+   "2023"
+  ],
+  [
+   268633,
+   "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante deep learning",
+   "2023"
+  ],
+  [
+   270131,
+   "Deep learning aplicado a la identificación de muones del experimento CONNIE",
+   "2021"
+  ],
+  [
+   271576,
+   "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de deep learning",
+   "2020"
+  ],
+  [
+   271749,
+   "Utilización de deep learning y software de simulación de movilidad urbana para la predicción de variables del tráfico en la zona de Ybera - San Lorenzo",
+   "2020"
+  ],
+  [
+   612757,
+   "Diseño de un modelo de deep learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "2023"
+  ],
+  [
+   612702,
+   "Segmentación y seguimiento de muones utilizando técnicas de deep learning para el experimento connie",
+   "2023"
+  ],
+  [
+   611470,
+   "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robótico virtual utilizando técnicas de deep learning",
+   "2023"
+  ],
+  [
+   611453,
+   "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante deep learning",
+   "2023"
+  ],
+  [
+   610106,
+   "Deep learning aplicado a la identificación de muones del experimento CONNIE",
+   "2021"
+  ],
+  [
+   608822,
+   "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de deep learning",
+   "2020"
+  ],
+  [
+   608675,
+   "Utilización de deep learning y software de simulación de movilidad urbana para la predicción de variables del tráfico en la zona de Ybera - San Lorenzo",
+   "2020"
+  ],
+  [
+   605948,
+   "Clasificación automática de código fuente : un enfoque basado en Deep Learning",
+   "2017"
+  ],
+  [
+   625983,
+   "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos de Deep Learning",
+   "2020"
+  ],
+  [
+   626791,
+   "Segmentación y seguimiento de muones utilizando técnicas de Deep Learning para el experimento CONNIE",
+   "2023"
+  ],
+  [
+   626144,
+   "Deep learning aplicado a la identificación de muones del experimento CONNIE",
+   "2021"
+  ],
+  [
+   625973,
+   "Utilización de Deep Learning y software de simulación de movilidad urbana para la predicción de variables del tráfico en la zona de Ybera - San Lorenzo",
+   "2020"
+  ],
+  [
+   641703,
+   "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Learning",
+   "2023"
+  ],
+  [
+   641685,
+   "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Learning",
+   "2023"
+  ],
+  [
+   641605,
+   "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robótico virtual utilizando técnicas de deep learning.",
+   "2023"
+  ],
+  [
+   626821,
+   "Diseño de un modelo de Deep Learning basado en la arquitectura temporal fusion transformer para la predicción horaria a corto plazo de la demanda eléctrica nacional",
+   "2023"
+  ],
+  [
+   184946,
+   "Clasificación automática de código fuente un enfoque basado en Deep Learning",
+   "2017"
+  ],
+  [
+   396355,
+   "Investigación sobre niños, niñas y adolescentes privados de libertad en el Paraguay",
+   null
+  ],
+  [
+   271297,
+   "Modelado de red neuronal artificial (RNA) en molienda de cemento, para su optimización del control y calidad en blaine",
+   "2018"
+  ],
+  [
+   609085,
+   "Modelado de red neuronal artificial (RNA) en molienda de cemento, para su optimización del control y calidad en blaine",
+   "2018"
+  ],
+  [
+   642609,
+   "Clasificación de la severidad del glaucoma en imágenes de fondo de ojo mediante modelos ensamblados en arquitecturas transformer",
+   "2025"
+  ],
+  [
+   614435,
+   "Clasificación de la severidad del glaucoma en imágenes de fondo de ojo mediante modelos ensamblados en arquitecturas transformer",
+   "2025"
+  ]
+ ],
+ "Machine Learning": [
+  [
+   182855,
+   "Machine Learning y Deep Learning",
+   "2020"
+  ],
+  [
+   641935,
+   "Machine Learning y Deep Learning",
+   "2020"
+  ],
+  [
+   264288,
+   "Detección de perfiles falsos en redes sociales. Un enfoque basado en técnicas de Machine Learning",
+   "2020"
+  ],
+  [
+   268521,
+   "Pronóstico de la demanda en empresas retail : técnica basada en business intelligence y machine learning",
+   "2018"
+  ],
+  [
+   268546,
+   "Planificación de capacidad de acceso de red asistida por machine learning, para mitigar el desacople tráfico/ingresos de un operador móvil",
+   "2023"
+  ],
+  [
+   611544,
+   "Pronóstico de la demanda en empresas retail : técnica basada en business intelligence y machine learning",
+   "2018"
+  ],
+  [
+   611519,
+   "Planificación de capacidad de acceso de red asistida por machine learning, para mitigar el desacople tráfico/ingresos de un operador móvil",
+   "2023"
+  ],
+  [
+   606078,
+   "Detección de perfiles falsos en redes sociales. Un enfoque basado en técnicas de Machine Learning",
+   "2020"
+  ],
+  [
+   183078,
+   "Planificación de capacidad de acceso de red asistida por machine learning, para mitigar el desacople tráfico/ingresos de un operador móvil",
+   "2023"
+  ],
+  [
+   184216,
+   "Evaluación del QoE en redes móviles utilizando modelos ensamblados de Machine Learning",
+   "2019"
+  ],
+  [
+   264286,
+   "Evaluación del QoE en redes móviles utilizando modelos ensamblados de Machine Learning",
+   "2019"
+  ],
+  [
+   264691,
+   "Monitorización y evaluación de la calidad de la experiencia para servicios de datos móviles : un enfoque basado en Machine Learning",
+   "2015"
+  ],
+  [
+   606066,
+   "Evaluación del QoE en redes móviles utilizando modelos ensamblados de Machine Learning",
+   "2019"
+  ],
+  [
+   605717,
+   "Monitorización y evaluación de la calidad de la experiencia para servicios de datos móviles : un enfoque basado en Machine Learning",
+   "2015"
+  ],
+  [
+   627180,
+   "Detección de fallas en equipos rotativos mediante la combinación de técnicas espectrales y análisis modal con machine learning",
+   "2025"
+  ],
+  [
+   641698,
+   "Planificación de capacidad de acceso de red asistida por machine learning, para mitigar el desacople tráfico/ingresos de un operador móvil",
+   "2023"
+  ],
+  [
+   183804,
+   "Estrategia de disparo para el proceso de desfragmentación en redes ópticas elásticas, utilizando técnicas de aprendizaje automático",
+   "2021"
+  ]
+ ],
+ "Visión por Computador": [
+  [
+   267254,
+   "Segmentación y seguimiento de muones utilizando técnicas de deep learning para el experimento connie",
+   "2023"
+  ],
+  [
+   612702,
+   "Segmentación y seguimiento de muones utilizando técnicas de deep learning para el experimento connie",
+   "2023"
+  ],
+  [
+   626791,
+   "Segmentación y seguimiento de muones utilizando técnicas de Deep Learning para el experimento CONNIE",
+   "2023"
+  ],
+  [
+   185084,
+   "Segmentación de melanoma basado en métodos de binarización",
+   "2014"
+  ],
+  [
+   269970,
+   "Procesamiento digital de imagen - OCR",
+   "1999"
+  ],
+  [
+   620937,
+   "Procesamiento digital de imagen - OCR",
+   "1999"
+  ],
+  [
+   604487,
+   "Procesamiento digital de imagen - OCR",
+   "1999"
+  ],
+  [
+   294858,
+   "La imagen y el ordenador ensayo sobre la imaginería informática",
+   "1986"
+  ],
+  [
+   556354,
+   "La imagen y el ordenador ensayo sobre la imaginería informática",
+   null
+  ],
+  [
+   264406,
+   "Análisis de la calidad de imagen en un contexto multiobjetivo basado en el SMPSO-CLAHE",
+   "2018"
+  ],
+  [
+   418040,
+   "Alteración de la calidad diagnóstica utilizando algoritmos de realce de imagen en radigrafías digitalizadas",
+   "2023"
+  ],
+  [
+   605976,
+   "Análisis de la calidad de imagen en un contexto multiobjetivo basado en el SMPSO-CLAHE",
+   "2018"
+  ]
+ ],
+ "Robótica/Drones": [
+  [
+   271685,
+   "Sistema de guía de múltiples drones de superficie acuática utilizando información dinámica",
+   "2019"
+  ],
+  [
+   626561,
+   "Meteorología básica para drones",
+   "2018"
+  ],
+  [
+   653842,
+   "Guerra de drones política tecnología y cambio social en los nuevos conflictos",
+   "2014"
+  ],
+  [
+   139046,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   154080,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   591936,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   265037,
+   "Desarrollo de algirtmos de división de polígonos orientados a la colaboración intencional de drones autónomos en fotogrametría",
+   "2018"
+  ],
+  [
+   268019,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   611997,
+   "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados (drones) en las explotaciones agropecuarias",
+   "2021"
+  ],
+  [
+   608726,
+   "Sistema de guía de múltiples drones de superficie acuática utilizando información dinámica",
+   "2019"
+  ],
+  [
+   605207,
+   "Desarrollo de algirtmos de división de polígonos orientados a la colaboración intencional de drones autónomos en fotogrametría",
+   "2018"
+  ],
+  [
+   625870,
+   "Sistema de guía de múltiples drones de superficie acuática utilizando información dinámica",
+   "2019"
+  ],
+  [
+   625436,
+   "Desarrollo de algoritmos de división de polígonos orientados a la colaboración intencional de drones autónomos en fotogrametría",
+   "2018"
+  ],
+  [
+   266987,
+   "Usos de drone en el sector agropecuario",
+   "2018"
+  ],
+  [
+   185639,
+   "Robótica control de robots manipuladores",
+   "2011"
+  ],
+  [
+   189829,
+   "Robótica manipuladores y robots móviles",
+   "2007"
+  ],
+  [
+   639164,
+   "Robótica control de robots manipuladores",
+   "2011"
+  ],
+  [
+   634982,
+   "Robótica manipuladores y robots móviles",
+   "2007"
+  ],
+  [
+   623280,
+   "Robótica control de robots manipuladores",
+   "2011"
+  ],
+  [
+   188240,
+   "Curso de robotica",
+   "1985"
+  ],
+  [
+   242261,
+   "La Instrumentaciuon Quirurgica ante la Cirugia Robotica-Robot Da Vinci",
+   "2019"
+  ]
+ ],
+ "Psicología": [
+  [
+   284943,
+   "Los sistemas de educación superior en los paises del Mercosur elementos fundamentales y bases para su integración",
+   "1992"
+  ],
+  [
+   151991,
+   "Retorno socio-económico de la inversión en investigación agrícola \"Campo experimental de Domingo Robledo\". Departamento de Itapúa, República del Paraguay",
+   "1984"
+  ],
+  [
+   614462,
+   "Análisis de sentimiento y predicción de publicaciones gubernamentales en redes sociales en el Paraguay: aplicación de técnicas de procesamiento de lenguaje natural para facilitar la toma de ...",
+   "2026"
+  ],
+  [
+   642693,
+   "Análisis de sentimiento y predicción de publicaciones gubernamentales en redes sociales en el Paraguay aplicación de técnicas de procesamiento de lenguaje natural para facilitar la toma de decisiones estratégica en la comunicación institucional",
+   "2026"
+  ],
+  [
+   294910,
+   "Inteligencia experimental en computadoras",
+   "1988"
+  ],
+  [
+   326563,
+   "Educación para la salud en salud mental",
+   "2021"
+  ],
+  [
+   311997,
+   "Salario emocional y motivación laboral en colaboradores de RRHH de una empresa de telecomunicaciones. Psicología Laboral Nº : 256 ( TUTOR : Prof. Lic. Antonio Samaniego Pinho )",
+   "2020"
+  ],
+  [
+   415282,
+   "Salario emocional y motivación laboral en colaboradores de RRHH de una empresa de telecomunicaciones. Psicología Laboral Nº : 256 ( TUTOR : Prof. Lic. Antonio Samaniego Pinho )",
+   "2020"
+  ],
+  [
+   416317,
+   "Relación entre satisfacción por el teletrabajo y retención laboral en colaboradores de la cede central de una empresa de telecomunicaciones. Psicología. Laboral Nº 340 - ( TUTOR : Prof.. Mgtr. Antonio Samaniego Pinho )",
+   "2024"
+  ]
+ ],
+ "Blockchain": [
+  [
+   642616,
+   "Desarrollo de un sistema de monitorización y alertas en tiempo real para la detección de eventos críticos en la red ethereum",
+   "2025"
+  ],
+  [
+   614433,
+   "Desarrollo de un sistema de monitorización y alertas en tiempo real para la detección de eventos críticos en la red ethereum",
+   "2025"
+  ]
+ ],
+ "NLP/PLN": [
+  [
+   185190,
+   "Identificación temprana automatizada de asuntos transversales en requerimientos de software, aplicando técnicas de análisis de lenguaje natural y redes neuronales",
+   "2016"
+  ],
+  [
+   185191,
+   "Optimización e integración de componentes morfosintácticos de procesamiento del lenguaje natural en español avances hacia la interoperabilidad",
+   "2016"
+  ],
+  [
+   639630,
+   "Optimización e integración de componentes morfosintácticos de procesamiento del lenguaje natural en español avances hacia la interoperabilidad",
+   "2016"
+  ],
+  [
+   264544,
+   "Optimización e integración de componentes morfosintácticos de procesamiento del lenguaje natural en español : avances hacia la interoperabilidad",
+   "2016"
+  ],
+  [
+   264550,
+   "Identificación temprana automatizada de asuntos transversales en requerimientos de software, aplicando técnicas de análisis de lenguaje natural y redes neuronales",
+   "2016"
+  ],
+  [
+   605842,
+   "Optimización e integración de componentes morfosintácticos de procesamiento del lenguaje natural en español : avances hacia la interoperabilidad",
+   "2016"
+  ],
+  [
+   605838,
+   "Identificación temprana automatizada de asuntos transversales en requerimientos de software, aplicando técnicas de análisis de lenguaje natural y redes neuronales",
+   "2016"
+  ],
+  [
+   614462,
+   "Análisis de sentimiento y predicción de publicaciones gubernamentales en redes sociales en el Paraguay: aplicación de técnicas de procesamiento de lenguaje natural para facilitar la toma de ...",
+   "2026"
+  ],
+  [
+   639629,
+   "Identificación temprana automatizada de asuntos transversales en requerimientos de software, aplicando técnicas de análisis de lenguaje natural y redes neuronales",
+   "2016"
+  ],
+  [
+   642693,
+   "Análisis de sentimiento y predicción de publicaciones gubernamentales en redes sociales en el Paraguay aplicación de técnicas de procesamiento de lenguaje natural para facilitar la toma de decisiones estratégica en la comunicación institucional",
+   "2026"
+  ]
+ ],
+ "Jopara": [
+  [
+   264699,
+   "Categorización de sentimientos en jopara : técnicas basadas en léxico y en aprendizaje de máquina para una mezcla de lenguas",
+   "2014"
+  ],
+  [
+   605706,
+   "Categorización de sentimientos en jopara : técnicas basadas en léxico y en aprendizaje de máquina para una mezcla de lenguas",
+   "2014"
+  ]
+ ]
+}
