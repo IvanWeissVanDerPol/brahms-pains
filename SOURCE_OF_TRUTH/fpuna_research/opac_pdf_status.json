@@ -1,7 +1,0 @@
-{
-  "checked_at": "2026-07-29",
-  "urls_inspected": 102,
-  "urls_returned_PDF": 0,
-  "urls_returned_Koha_error": 102,
-  "note": "All `Recursos en l\u00ednea` URLs in OPAC return HTTP 404 (Koha error page). The catalog's `online` flag is metadata-only \u2014 actual access requires either (a) direct library visit, (b) inter-library loan via biblioteca.una.py, or (c) phone/email request to advisor. NOT a recoverable online endpoint."
-}
