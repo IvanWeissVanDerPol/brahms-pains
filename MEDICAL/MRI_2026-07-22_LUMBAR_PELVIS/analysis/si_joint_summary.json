@@ -1,0 +1,11 @@
+{
+  "right_mean_t2_water": 0.21874141505309877,
+  "left_mean_t2_water": 0.2217395779965735,
+  "right_minus_left_t2": -0.0029981629434747414,
+  "right_mean_t1": 0.20321325879756022,
+  "left_mean_t1": 0.20780922186041914,
+  "right_minus_left_t1": -0.004595963062858921,
+  "slices_right_brighter_count": 3,
+  "total_slices": 46,
+  "interpretation": ""
+}

@@ -249,3 +249,13 @@ MEDICAL/*/previews/*.jpg
 MEDICAL/**/*.dcm
 !MEDICAL/*/previews/00_montage*.png
 !MEDICAL/*/previews/06_annotated*.png
+scans_organized/
+
+# MRI analysis derived artifacts
+
+# MRI analysis - derived artifacts (not source code/previews)
+MEDICAL/**/analysis/volumes/
+MEDICAL/**/_extracted/
+
+# MRI analysis previews (Erebus analysis) — keep these in git
+!MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/previews_per_level/*.png

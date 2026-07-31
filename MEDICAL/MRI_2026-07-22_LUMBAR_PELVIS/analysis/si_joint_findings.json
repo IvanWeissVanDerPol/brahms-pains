@@ -1,0 +1,18 @@
+{
+  "coronal_slice": 23,
+  "coronal_loc_mm": -16.51589775,
+  "patient_right_side": "IMAGE LEFT",
+  "patient_left_side": "IMAGE RIGHT",
+  "left_ilium_T1": 0.384532518374245,
+  "right_ilium_T1": 0.3882687947929919,
+  "left_sacrum_T1": 0.3912824216273798,
+  "right_sacrum_T1": 0.4048040723574706,
+  "left_ilium_T2_water": 0.4109425548165181,
+  "right_ilium_T2_water": 0.3393000763837479,
+  "left_sacrum_T2_water": 0.42016591031615536,
+  "right_sacrum_T2_water": 0.36217387071635837,
+  "asym_ilium_T1": 0.003736276418746909,
+  "asym_sacrum_T1": 0.013521650730090817,
+  "asym_ilium_T2_water": 0.07164247843277022,
+  "asym_sacrum_T2_water": 0.057992039599796985
+}
