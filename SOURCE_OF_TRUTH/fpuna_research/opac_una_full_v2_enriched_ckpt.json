@@ -1,8 +1,10 @@
 {
  "done": [
   622593,
+  614413,
   163856,
   614424,
+  139292,
   516125,
   612383,
   614433,
@@ -13,6 +15,8 @@
   288816,
   630838,
   622647,
+  614458,
+  311356,
   573501,
   614462,
   507967,
@@ -20,6 +24,7 @@
   247873,
   145472,
   251966,
+  636990,
   264267,
   571480,
   264286,
@@ -27,10 +32,16 @@
   634982,
   641127,
   626791,
+  153709,
+  264304,
   614513,
   182386,
   284789,
+  510070,
+  512122,
+  612475,
   186496,
+  522370,
   186499,
   624772,
   626821,
@@ -40,22 +51,31 @@
   624794,
   284832,
   184488,
+  522426,
   262331,
   639164,
+  522428,
   139454,
   567487,
+  522427,
   446661,
+  639176,
   630986,
   149708,
   567500,
   264396,
   630988,
   264406,
+  604377,
   143579,
   268512,
+  415971,
+  133350,
   268521,
   192751,
   192753,
+  592114,
+  260343,
   418040,
   446720,
   626946,
@@ -67,6 +87,7 @@
   264463,
   641298,
   624915,
+  264464,
   184599,
   184600,
   186650,
@@ -78,6 +99,7 @@
   182559,
   186658,
   639269,
+  155942,
   137513,
   639273,
   188716,
@@ -85,7 +107,9 @@
   278831,
   635184,
   268593,
+  299315,
   612661,
+  192824,
   635199,
   624962,
   624964,
@@ -93,6 +117,7 @@
   268616,
   182613,
   612694,
+  153941,
   268633,
   631129,
   291165,
@@ -100,15 +125,19 @@
   264542,
   264544,
   256353,
+  520543,
   182628,
   264550,
   184679,
   182631,
   285034,
+  620909,
   164206,
   182639,
+  641394,
   625011,
   184691,
+  268658,
   264571,
   612735,
   182656,
@@ -117,7 +146,10 @@
   612743,
   620937,
   182667,
+  328076,
+  328077,
   246158,
+  414093,
   162192,
   270740,
   612757,
@@ -128,13 +160,17 @@
   571810,
   608675,
   571809,
+  186786,
+  184745,
   264618,
   246189,
   184750,
   182704,
   184756,
   151991,
+  184759,
   264633,
+  627129,
   416196,
   264656,
   264661,
@@ -156,8 +192,8 @@
   264691,
   182772,
   264699,
-  639486,
   623102,
+  639486,
   193024,
   645635,
   328195,
@@ -172,15 +208,20 @@
   182805,
   152089,
   264730,
+  623133,
   639520,
   645665,
   264740,
   262693,
   186918,
+  524841,
+  303661,
   627247,
+  182834,
   608822,
   182839,
   182841,
+  416317,
   330303,
   641605,
   164421,
@@ -196,12 +237,18 @@
   193133,
   193137,
   184946,
+  184948,
+  184950,
   193145,
   643706,
+  184956,
   264831,
   182913,
   193154,
   641667,
+  608897,
+  184965,
+  184966,
   592521,
   592522,
   250507,
@@ -209,10 +256,14 @@
   639630,
   182928,
   641682,
+  279187,
   641685,
+  604832,
+  248480,
   641698,
   545444,
   641703,
+  500392,
   615082,
   572075,
   641710,
@@ -220,18 +271,22 @@
   623280,
   604853,
   588469,
+  311997,
   512710,
   182985,
   641744,
   604881,
   592595,
   269012,
+  623319,
   262875,
   639710,
+  248543,
   641761,
   608997,
   183013,
   266987,
+  604911,
   609014,
   183034,
   576250,
@@ -241,9 +296,11 @@
   185089,
   185091,
   625411,
+  183043,
   185098,
   152336,
   516883,
+  414489,
   625436,
   185116,
   183072,
@@ -261,8 +318,11 @@
   609083,
   279356,
   609085,
+  604987,
+  609091,
   641860,
   609093,
+  144199,
   183116,
   265037,
   183118,
@@ -270,6 +330,13 @@
   609104,
   146256,
   641870,
+  605011,
+  605010,
+  605014,
+  185174,
+  605016,
+  605017,
+  605018,
   164700,
   263004,
   605023,
@@ -288,9 +355,11 @@
   639887,
   637841,
   265104,
+  512914,
   641945,
   641947,
   639901,
+  617373,
   500639,
   183200,
   654242,
@@ -303,6 +372,7 @@
   625586,
   267200,
   271297,
+  211906,
   641991,
   271304,
   271306,
@@ -313,6 +383,7 @@
   267219,
   189396,
   209878,
+  209880,
   189413,
   543718,
   619498,
@@ -328,6 +399,7 @@
   642046,
   642047,
   267264,
+  629763,
   185352,
   265225,
   185356,
@@ -343,7 +415,10 @@
   560161,
   336930,
   631841,
+  265253,
   267308,
+  146476,
+  265265,
   543796,
   642111,
   642114,
@@ -355,13 +430,23 @@
   279631,
   279632,
   279633,
+  328786,
   275540,
   183381,
+  265302,
+  595036,
+  640101,
   642153,
+  611434,
+  414831,
   642168,
   580732,
   611453,
+  169087,
   566403,
+  271492,
+  582789,
+  265350,
   263304,
   263305,
   611470,
@@ -372,7 +457,9 @@
   640160,
   640161,
   611490,
+  337058,
   638117,
+  312486,
   265383,
   189610,
   189612,
@@ -380,27 +467,37 @@
   611519,
   189632,
   185537,
+  337092,
   265413,
   238792,
+  500941,
   625870,
   566478,
+  380111,
+  582863,
   273623,
   271576,
   611544,
   238807,
+  265435,
   611552,
+  267496,
   513257,
   183529,
   300268,
+  500973,
   183545,
   271611,
   244994,
   150788,
+  501000,
   613653,
   556311,
+  185630,
   605474,
   193828,
   234789,
+  511269,
   144679,
   185639,
   234793,
@@ -416,29 +513,37 @@
   609601,
   556354,
   271685,
+  279877,
   267593,
+  253261,
   283982,
   556366,
   609618,
   265554,
   501076,
+  277845,
   626008,
   165218,
   251237,
   501093,
   626035,
   273786,
+  597376,
   605569,
   271749,
   189829,
   626055,
   163218,
   251283,
+  605589,
   279963,
+  605595,
   302498,
   183715,
   265637,
   167334,
+  605612,
+  613808,
   193969,
   193971,
   566725,
@@ -458,14 +563,21 @@
   138751,
   605699,
   605706,
+  257546,
   503308,
   546321,
   605717,
+  243221,
+  312858,
   642587,
+  652833,
+  183846,
   185896,
   185897,
   276010,
   151084,
+  599596,
+  415282,
   605747,
   622135,
   642616,
@@ -473,18 +585,22 @@
   290369,
   269890,
   194115,
+  265795,
   183886,
   337488,
   183891,
   642656,
   233061,
   638568,
+  605807,
+  185969,
   642678,
   605818,
   185981,
   640640,
   642693,
   185994,
+  183948,
   605838,
   265872,
   237201,
@@ -497,33 +613,47 @@
   611997,
   624290,
   194211,
+  183972,
+  304811,
+  612013,
   249518,
+  140973,
   517808,
   337588,
   329399,
+  605880,
   233147,
+  140987,
   233149,
   265920,
+  188096,
+  184004,
   605894,
   184006,
   184012,
   558803,
+  605909,
   626392,
+  337624,
   605916,
   509663,
+  268000,
   274153,
   263918,
   245487,
   268019,
+  593651,
   159481,
   278266,
   145147,
   605948,
   184059,
+  603901,
   640771,
   192260,
   153349,
   265988,
+  630535,
   640776,
   446223,
   261911,
@@ -538,6 +668,7 @@
   210726,
   139046,
   184104,
+  593708,
   186157,
   186158,
   270131,
@@ -557,19 +688,31 @@
   182107,
   184161,
   604006,
+  638826,
   186219,
+  182123,
+  606061,
   266097,
   606066,
   327541,
+  194426,
+  636795,
+  194428,
   606078,
   626561,
   251778,
   247682,
   251779,
   624517,
+  294790,
+  184203,
+  313231,
+  593812,
   184216,
+  640922,
   184219,
   266141,
+  274334,
   294815,
   337824,
   266145,
@@ -579,6 +722,7 @@
   638904,
   640954,
   622522,
+  266172,
   266173,
   182207,
   640959,
@@ -592,13 +736,19 @@
   251857,
   626642,
   274388,
+  186325,
   294870,
   159704,
   626649,
+  311256,
   624608,
+  184288,
+  266210,
+  329704,
   624623,
   184307,
   161780,
+  243701,
   294910
  ],
  "enriched": [
@@ -14669,6 +14819,3975 @@
     "software_libre"
    ],
    "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 641394,
+   "title": "Software libre KOHA optimización de su implementación en la Biblioteca y Centro de Información Cultural Dr. César Romeo Acosta del Banco Central del Paraguay",
+   "year": "2022",
+   "authors": [
+    {
+     "au_id": "Herrera%20Ram%C3%ADrez%2C%20Hugo%20Ar%C3%ADstides",
+     "name": "Herrera Ramírez, Hugo Arístides",
+     "role": "autor"
+    },
+    {
+     "au_id": "Centuri%C3%B3n%2C%20Mar%C3%ADa%20Fernanda",
+     "name": "Centurión, María Fernanda",
+     "role": "autor"
+    },
+    {
+     "au_id": "Garcete%20Diarte%2C%20Marshia%20Alicce",
+     "name": "Garcete Diarte, Marshia Alicce",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Gim%C3%A9nez%20de%20Raid%C3%A1n",
+     "name": "Giménez de Raidán",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Isabel%20Alicia",
+     "name": "Isabel Alicia",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "LCI79\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 211906,
+   "title": "Contribuciones desde el centro de investigación, desarrollo e innovación a la cartografía del Paraguay basada en el uso de Software libre con énfasis en la producción del Atlas de los municipios de Ju Atlas urbano Py-Juan Eulogio Estigarribia y Doctor Juan Manuel Frutos|",
+   "year": "2021",
+   "branch_text": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte",
+   "callnumber": "PAR/T/001.642 5\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "software_libre"
+   ],
+   "authors": [
+    {
+     "au_id": "Ayala%20Espinoza%2C%20Tyra%20Mar%C3%ADa%20Karolyna",
+     "name": "Ayala Espinoza, Tyra María Karolyna",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte"
+  },
+  {
+   "bibnum": 510070,
+   "title": "Contribuciones desde el centro de investigación, desarrollo e innovación a la cartografía del Paraguay basada en el uso de Software libre con énfasis en la producción del Atlas de los municipios de Ju Atlas urbano Py-Juan Eulogio Estigarribia y Doctor Juan Manuel Frutos|",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Ayala%20Espinoza%2C%20Tyra%20Mar%C3%ADa%20Karolyna",
+     "name": "Ayala Espinoza, Tyra María Karolyna",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte",
+   "callnumber": "PAR/T/001.642 5 AYAc\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 265350,
+   "title": "Proyecto modelo de un sistema de telefonía NGN para la Facultad de Ingeniería, con servidores de software libre y alta disponibilidad",
+   "year": "2016",
+   "authors": [
+    {
+     "au_id": "Fretes%20Esquivel%2C%20David",
+     "name": "Fretes Esquivel, David",
+     "role": "autor"
+    },
+    {
+     "au_id": "Pozzo%20Ayala%2C%20Oscar%20Eduardo",
+     "name": "Pozzo Ayala, Oscar Eduardo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Juan%20Carlos%20Ahrens",
+     "name": "Juan Carlos Ahrens",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.385\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 268658,
+   "title": "Software libre KOHA: optimización de su implementación en la biblioteca y centro de información cultural Dr. César Romeo Acosta del Banco Central del Paraguay",
+   "year": "2022",
+   "authors": [
+    {
+     "au_id": "Herrera%20Ram%C3%ADrez%2C%20Hugo%20Ar%C3%ADstides",
+     "name": "Herrera Ramírez, Hugo Arístides",
+     "role": "autor"
+    },
+    {
+     "au_id": "Garcete%20Diarte%2C%20Marshia%20Alicce",
+     "name": "Garcete Diarte, Marshia Alicce",
+     "role": "autor"
+    },
+    {
+     "au_id": "Centuri%C3%B3n%2C%20Mar%C3%ADa%20Fernanda",
+     "name": "Centurión, María Fernanda",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Isabel%20Gim%C3%A9nez",
+     "name": "Isabel Giménez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "025.04\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 271492,
+   "title": "Contribuciones desde el centro de investigación, desarrollo e innovación a la cartografía del Paraguay basada en el uso de software libre con énfasis en la producción del atlas de los municipios ...",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Ayala%20Espinoza%2C%20Tyra%20Mar%C3%ADa%20Karolyna",
+     "name": "Ayala Espinoza, Tyra María Karolyna",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Juan%20Carlos%20Cristaldo",
+     "name": "Juan Carlos Cristaldo",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "711.5\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 512914,
+   "title": "Atlas urbano de la ciudad de Guairá y metodología para la postproducción de cartografía con herramientas de software libre atlas urbano de Saltos del Guairá - Guairá",
+   "year": "2024",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Chaparro%2C%20Fernando%20Isidro",
+     "name": "Benítez Chaparro, Fernando Isidro",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte",
+   "callnumber": "PAR/T/711 BENa\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 511269,
+   "title": "Atlas urbano de José Domingo Ocampos y Juan E. O'Leary, metodología de Mapeo con sistemas de aeronaves pilotadas a distancia. Contribuciones a la cartografía del Paraguay con Software libre",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Oporto%20Rodas%2C%20Julia%20Luc%C3%ADa",
+     "name": "Oporto Rodas, Julia Lucía",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte",
+   "callnumber": "PAR/T/001.642 5 OPOa\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 595036,
+   "title": "Guía metodológica de mapeo participativo con software libre en el marco del proyecto de investigación Prociencia 437 Infraestructura y transformaciones territoriales en Paraguay 1960-2014",
+   "year": "2019",
+   "authors": [
+    {
+     "au_id": "Lisnichuk%20Lechenuk%2C%20Katrina",
+     "name": "Lisnichuk Lechenuk, Katrina",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Juan%20Carlos%20Cristaldo",
+     "name": "Juan Carlos Cristaldo",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "526\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/1440.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/1440.pdf"
+   ]
+  },
+  {
+   "bibnum": 611434,
+   "title": "Software libre KOHA: optimización de su implementación en la biblioteca y centro de información cultural Dr. César Romeo Acosta del Banco Central del Paraguay",
+   "year": "2022",
+   "authors": [
+    {
+     "au_id": "Herrera%20Ram%C3%ADrez%2C%20Hugo%20Ar%C3%ADstides",
+     "name": "Herrera Ramírez, Hugo Arístides",
+     "role": "autor"
+    },
+    {
+     "au_id": "Centuri%C3%B3n%2C%20Mar%C3%ADa%20Fernanda",
+     "name": "Centurión, María Fernanda",
+     "role": "autor"
+    },
+    {
+     "au_id": "Garcete%20Diarte%2C%20Marshia%20Alicce",
+     "name": "Garcete Diarte, Marshia Alicce",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Isabel%20Gim%C3%A9nez",
+     "name": "Isabel Giménez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "025.04 H433s\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/17838.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/17838.pdf"
+   ]
+  },
+  {
+   "bibnum": 608897,
+   "title": "Contribuciones desde el centro de investigación, desarrollo e innovación a la cartografía del Paraguay basada en el uso de software libre con énfasis en la producción del atlas de los municipios ...",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Ayala%20Espinoza%2C%20Tyra%20Mar%C3%ADa%20Karolyna",
+     "name": "Ayala Espinoza, Tyra María Karolyna",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Juan%20Carlos%20Cristaldo",
+     "name": "Juan Carlos Cristaldo",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "711.5 Ay14c\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/15301.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/15301.pdf"
+   ]
+  },
+  {
+   "bibnum": 604911,
+   "title": "Proyecto modelo  de un sistema de telefonía NGN para la Facultad de Ingeniería, con servidores de software libre y alta disponibilidad",
+   "year": "2016",
+   "authors": [
+    {
+     "au_id": "Fretes%20Esquivel%2C%20David",
+     "name": "Fretes Esquivel, David",
+     "role": "autor"
+    },
+    {
+     "au_id": "Pozzo%20Ayala%2C%20Oscar%20Eduardo",
+     "name": "Pozzo Ayala, Oscar Eduardo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Juan%20Carlos%20Ahrens",
+     "name": "Juan Carlos Ahrens",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.385\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11315.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "software_libre"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11315.pdf"
+   ]
+  },
+  {
+   "bibnum": 133350,
+   "title": "Fundamentos de teledetección espacial",
+   "year": "1990",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "F621.3678\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "authors": [
+    {
+     "au_id": "Chuvieco%2C%20Emilio",
+     "name": "Chuvieco, Emilio",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 140987,
+   "title": "Fundamentos de teledetección espacial",
+   "year": "1990",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "F621.3678\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "authors": [
+    {
+     "au_id": "Chuvieco%2C%20Emilio",
+     "name": "Chuvieco, Emilio",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 185969,
+   "title": "Fundamentos de teledetección espacial",
+   "year": "2000",
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "621.3678\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "authors": [
+    {
+     "au_id": "Chuvieco%2C%20Emilio",
+     "name": "Chuvieco, Emilio",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 253261,
+   "title": "Evaluación del cumplimiento de la ley 4241/10 aplicando teledetección en la microcuenca del Arroyo Ndun Cué, distrito de Yhú, Departamento de Caaguazú, Paraguay",
+   "year": "2015",
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "333.917\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "authors": [
+    {
+     "au_id": "Ojeda%20Jara%2C%20Liz%20Adriana",
+     "name": "Ojeda Jara, Liz Adriana",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 268000,
+   "title": "Estimación de la evapotranspiración en base a herramientas de teledetección en la ciudad de San Lorenzo, Departamento Central, Paraguay",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Vera%20Aquino%2C%20Jorge%20Rafael",
+     "name": "Vera Aquino, Jorge Rafael",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Sergio%20Chamorro%20%C3%81ngela%20Mancuello%20Mar%C3%ADa%20Armoa",
+     "name": "Sergio Chamorro Ángela Mancuello María Armoa",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "551.572\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 380111,
+   "title": "Fundamentos de teledetección espacial",
+   "authors": [
+    {
+     "au_id": "Chuvieco%2C%20Emilio",
+     "name": "Chuvieco, Emilio",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú",
+   "callnumber": "621.3678 Ch477f\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 582863,
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "621.3678 P166p\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "title": "Paisaje, teledetección y SIG conceptos y aplicaciones  Isabel Otero Pastor, coordinadora",
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 582789,
+   "title": "Fundamentos de teledetección espacial",
+   "authors": [
+    {
+     "au_id": "Chuvieco%2C%20Emilio",
+     "name": "Chuvieco, Emilio",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "F621.3678 Ch477f\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 638826,
+   "title": "Fundamentos de teledetección espacial",
+   "year": "2000",
+   "authors": [
+    {
+     "au_id": "Chuvieco%2C%20Emilio",
+     "name": "Chuvieco, Emilio",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "621.3678 C477f\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 144199,
+   "title": "Evaluación del cumplimiento de la Ley 4241/10 aplicando teledetección en la Microcuenca del Arroyo Ndun Cué, Distrito de Yhú, Departamento de Caaguazú, Paraguay",
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "Ojeda%20Jara%2C%20Liz%20Adriana",
+     "name": "Ojeda Jara, Liz Adriana",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Lucia%20Janet%20Villalba%20Marin",
+     "name": "Lucia Janet Villalba Marin",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Carlos%20Eliseo%20Enciso%20Villalba",
+     "name": "Carlos Eliseo Enciso Villalba",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "333.917\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 153709,
+   "title": "Estimación de área de riego por pivote central mediante teledetección para el Departamento de Caazapá período 2018-2020",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Aquino%20Caballero%2C%20Noelia",
+     "name": "Aquino Caballero, Noelia",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Rub%C3%A9n%20Franco%20Ibars",
+     "name": "Rubén Franco Ibars",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Lucia%20Janet%20Villalba%20Mar%C3%ADn",
+     "name": "Lucia Janet Villalba Marín",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Sergio%20Manuel%20Chamorro%20D%C3%ADaz",
+     "name": "Sergio Manuel Chamorro Díaz",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "631.587\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 153941,
+   "title": "Estimación de la evapotranspiración en base a herramientas de teledetección en la ciudad de San Lorenzo, Departamento Central, Paraguay",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Vera%20Aquino%2C%20Jorge%20Rafael",
+     "name": "Vera Aquino, Jorge Rafael",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mar%C3%ADa%20Soledad%20Amoa%20B%C3%A1ez",
+     "name": "María Soledad Amoa Báez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "%C3%81ngela%20Ramona%20Mancuello%20Sandoval",
+     "name": "Ángela Ramona Mancuello Sandoval",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Sergio%20Manuel%20Chamorro%20D%C3%ADz",
+     "name": "Sergio Manuel Chamorro Díz",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "551.572\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 155942,
+   "title": "Evaluación del cumplimiento de la Ley 4241/10 aplicando teledetección en la Microcuenca del Arroyo Ndun Cué, Distrito de Yhú, Departamento de Caaguazú, Paraguay",
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "Ojeda%20Jara%2C%20Liz%20Adriana",
+     "name": "Ojeda Jara, Liz Adriana",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Lucia%20Janet%20Villalba%20Marin",
+     "name": "Lucia Janet Villalba Marin",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Carlos%20Eliseo%20Enciso%20Villalba",
+     "name": "Carlos Eliseo Enciso Villalba",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "333.917\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 209880,
+   "title": "Identificación de la potencial ubicación de su sistema de capacitación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "year": "2024",
+   "branch_text": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte",
+   "callnumber": "PAR/T/628.14\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "authors": [
+    {
+     "au_id": "M%C3%A9ndez%20Gonz%C3%A1lez%2C%20Eliana%20Ver%C3%B3nica",
+     "name": "Méndez González, Eliana Verónica",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte"
+  },
+  {
+   "bibnum": 264464,
+   "title": "Implementación de un sistema de teledetección en los puestos de distribución de energía eléctrica para mejorar su servicio",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Araujo%20Bobadilla%2C%20Fernando%20Diosnel",
+     "name": "Araujo Bobadilla, Fernando Diosnel",
+     "role": "autor"
+    },
+    {
+     "au_id": "P%C3%A9rez%20Minck%2C%20Jorge%20Ricardo",
+     "name": "Pérez Minck, Jorge Ricardo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Carlos%20Mar%C3%ADa%20Daniel%20Penayo%20Mart%C3%AD%20Oscar%20Machuca%20Gonz%C3%A1lez",
+     "name": "Carlos María Daniel Penayo Martí Oscar Machuca González",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.3191\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 267496,
+   "title": "Identificación de la potencial ubicación de un sistema de captación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "year": "2024",
+   "authors": [
+    {
+     "au_id": "M%C3%A9ndez%20Gonz%C3%A1lez%2C%20Eliana%20Ver%C3%B3nica",
+     "name": "Méndez González, Eliana Verónica",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Evelyn%20Madelaire%20Megumi%20Yamanaka",
+     "name": "Evelyn Madelaire Megumi Yamanaka",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "628.21\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 512122,
+   "title": "Identificación de la potencial ubicación de su sistema de capacitación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "year": "2024",
+   "authors": [
+    {
+     "au_id": "M%C3%A9ndez%20Gonz%C3%A1lez%2C%20Eliana%20Ver%C3%B3nica",
+     "name": "Méndez González, Eliana Verónica",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte",
+   "callnumber": "PAR/T/628.14 MENi\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Arquitectura, Diseño y Arte\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 613808,
+   "title": "Estimación de área de riego por pivote central mediante teledetección para el Departamento de Caazapá periodo 2018/2020",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Aquino%20Caballero%2C%20Noelia",
+     "name": "Aquino Caballero, Noelia",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Sergio%20Chamorro%20Lucia%20Villalba%20Rub%C3%A9n%20Franco",
+     "name": "Sergio Chamorro Lucia Villalba Rubén Franco",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "631.587 Aq56e\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/20212.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/20212.pdf"
+   ]
+  },
+  {
+   "bibnum": 612475,
+   "title": "Identificación de la potencial ubicación de un sistema de captación de aguas pluviales mediante teledetección y sistema de información geográfica en Matehuala, México",
+   "year": "2024",
+   "authors": [
+    {
+     "au_id": "M%C3%A9ndez%20Gonz%C3%A1lez%2C%20Eliana%20Ver%C3%B3nica",
+     "name": "Méndez González, Eliana Verónica",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Evelyn%20Madelaire",
+     "name": "Evelyn Madelaire",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Megumi%20Yamanaka",
+     "name": "Megumi Yamanaka",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "628.21 M522i\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/18879.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/18879.pdf"
+   ]
+  },
+  {
+   "bibnum": 605909,
+   "title": "Implementación de un sistema de teledetección en los puestos de distribución de energía eléctrica para mejorar su servicio",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Araujo%20Bobadilla%2C%20Fernando%20Diosnel",
+     "name": "Araujo Bobadilla, Fernando Diosnel",
+     "role": "autor"
+    },
+    {
+     "au_id": "P%C3%A9rez%20Minck%2C%20Jorge%20Ricardo",
+     "name": "Pérez Minck, Jorge Ricardo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Carlos%20Mar%C3%ADa%20Daniel%20Penayo%20Mart%C3%AD",
+     "name": "Carlos María Daniel Penayo Martí",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Oscar%20Machuca%20Gonz%C3%A1lez",
+     "name": "Oscar Machuca González",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.3191\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12313.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/12313.pdf"
+   ]
+  },
+  {
+   "bibnum": 617373,
+   "title": "Fotogrametría proyectiva : procesamiento de imágene digitales, métodos de teledetección.",
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "526.982 C939f\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 146476,
+   "title": "Estimación de la evapotranspiración en base a herramientas de teledetección en la ciudad de San Lorenzo, Departamento Central, Paraguay",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Vera%20Aquino%2C%20Jorge%20Rafael",
+     "name": "Vera Aquino, Jorge Rafael",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mar%C3%ADa%20Soledad%20Amoa%20B%C3%A1ez",
+     "name": "María Soledad Amoa Báez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "%C3%81ngela%20Ramona%20Mancuello%20Sandoval",
+     "name": "Ángela Ramona Mancuello Sandoval",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Sergio%20Manuel%20Chamorro%20D%C3%ADz",
+     "name": "Sergio Manuel Chamorro Díz",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "551.572\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 265265,
+   "title": "Análisis espacial de la isla de calor urbana en el área metropolitana de Asunción mediante teledetección y S16",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Silva%20M%C3%A9ndez%2C%20Juan%20Carlos",
+     "name": "Silva Méndez, Juan Carlos",
+     "role": "autor"
+    },
+    {
+     "au_id": "Arzamendia%20Maldonado%2C%20Alfredo%20Eduardo",
+     "name": "Arzamendia Maldonado, Alfredo Eduardo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Marc%20Delgado%20Regina%20Le%C3%B3n%20Pablo%20Ben%C3%ADtez%20Federico%20Ferreira%20Jorge%20Rodas",
+     "name": "Marc Delgado Regina León Pablo Benítez Federico Ferreira Jorge Rodas",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "551.525\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 592114,
+   "title": "Estimación de la evapotranspiración en base a herramientas de teledetección en la ciudad de San Lorenzo, Departamento Central, Paraguay",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Vera%20Aquino%2C%20Jorge%20Rafael",
+     "name": "Vera Aquino, Jorge Rafael",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Sergio%20Manuel%20Chamorro%20D%C3%ADz",
+     "name": "Sergio Manuel Chamorro Díz",
+     "role": "orientador"
+    },
+    {
+     "au_id": "%C3%81ngela%20Ramona%20Mancuello%20Sandoval",
+     "name": "Ángela Ramona Mancuello Sandoval",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Mar%C3%ADa%20Soledad%20Amoa%20B%C3%A1ez",
+     "name": "María Soledad Amoa Báez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "551.572 V58e\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 612013,
+   "title": "Estimación de la evapotranspiración en base a herramientas de teledetección en la ciudad de San Lorenzo, Departamento Central, Paraguay",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Vera%20Aquino%2C%20Jorge%20Rafael",
+     "name": "Vera Aquino, Jorge Rafael",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Sergio%20Chamorro",
+     "name": "Sergio Chamorro",
+     "role": "orientador"
+    },
+    {
+     "au_id": "%C3%81ngela%20Mancuello",
+     "name": "Ángela Mancuello",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Mar%C3%ADa%20Armoa",
+     "name": "María Armoa",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "551.572 V58e\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/18417.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/18417.pdf"
+   ]
+  },
+  {
+   "bibnum": 604987,
+   "title": "Análisis espacial de la isla de calor urbana en el área metropolitana de Asunción mediante teledetección y S16",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Silva%20M%C3%A9ndez%2C%20Juan%20Carlos",
+     "name": "Silva Méndez, Juan Carlos",
+     "role": "autor"
+    },
+    {
+     "au_id": "Arzamendia%20Maldonado%2C%20Alfredo%20Eduardo",
+     "name": "Arzamendia Maldonado, Alfredo Eduardo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Marc%20Delgado",
+     "name": "Marc Delgado",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Regina%20Le%C3%B3n",
+     "name": "Regina León",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Pablo%20Ben%C3%ADtez",
+     "name": "Pablo Benítez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Federico%20Ferreira",
+     "name": "Federico Ferreira",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jorge%20Rodas",
+     "name": "Jorge Rodas",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "551.525\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11391.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11391.pdf"
+   ]
+  },
+  {
+   "bibnum": 597376,
+   "title": "Evaluación del cumplimiento de la ley 4241/10 aplicando teledetección en la microcuenca del Arroyo Ndun Cué, distrito de Yhú, Departamento de Caaguazú, Paraguay",
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "Ojeda%20Jara%2C%20Liz%20Adriana",
+     "name": "Ojeda Jara, Liz Adriana",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "333.917\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/3780.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "teledeteccion"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/3780.pdf"
+   ]
+  },
+  {
+   "bibnum": 260343,
+   "title": "Telemedicina en Paraguay: estudio de factibilidad económica para su implementación en el Departamento de Cordillera",
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "Vega%20Aquino%2C%20Liduvina%20Marina",
+     "name": "Vega Aquino, Liduvina Marina",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Leonel%20Coro%C3%B1a%20Trevi%C3%B1o%20Mar%C3%ADa%20Graciela%20Bernal%20de%20Macchi",
+     "name": "Leonel Coroña Treviño María Graciela Bernal de Macchi",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "614\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 599596,
+   "title": "Telemedicina en Paraguay: estudio de factibilidad económica para su implementación en el Departamento de Cordillera",
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "Vega%20Aquino%2C%20Liduvina%20Marina",
+     "name": "Vega Aquino, Liduvina Marina",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Leonel%20Coro%C3%B1a%20Trevi%C3%B1o",
+     "name": "Leonel Coroña Treviño",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Mar%C3%ADa%20Graciela%20Bernal%20de%20Macchi",
+     "name": "María Graciela Bernal de Macchi",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "614\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/6000.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/6000.pdf"
+   ]
+  },
+  {
+   "bibnum": 303661,
+   "title": "Telemedicina en Paraguay. Estudio de factibilidad económica para su implementación en el departamento de Cordillera.",
+   "year": "2015",
+   "branch_text": "Biblioteca FCE - Prof. Thomas E. Cunningham",
+   "callnumber": "T331\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "authors": [
+    {
+     "au_id": "Vega%20Aquino%2C%20Liduvina%20Marina",
+     "name": "Vega Aquino, Liduvina Marina",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FCE - Prof. Thomas E. Cunningham"
+  },
+  {
+   "bibnum": 311256,
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "L%C3%B3pez%20Portillo%2C%20Adolfo%20Daniel.",
+     "name": "López Portillo, Adolfo Daniel",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "00000\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Estudio de la telemedicina como una de las herramientas de las nuevas tecnologías de la información y de la comunicación, TIC's para la prestación de servicios médicos en pandemia. Mayo 2021. Ciencias de la Comunicación Nº : 643 ( TUTORA : Prof. Lic. Haydeé Galeano )  Adolfo Daniel López Portillo; José Guadalupe Benítez Aquino.",
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía"
+  },
+  {
+   "bibnum": 415971,
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "L%C3%B3pez%20Portillo%2C%20Adolfo%20Daniel.",
+     "name": "López Portillo, Adolfo Daniel",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "00000 L959e\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Estudio de la telemedicina como una de las herramientas de las nuevas tecnologías de la información y de la comunicación, TIC's para la prestación de servicios médicos en pandemia. Mayo 2021. Ciencias de la Comunicación  Nº : 643  ( TUTORA : Prof. Lic. Haydeé Galeano )  Adolfo Daniel López Portillo; José Guadalupe Benítez Aquino.",
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 627129,
+   "title": "Diseño de un nuevo dispositivo portátil de bajo costo para monitoreo cardíaco con almacenamiento en la nube y aplicación móvil",
+   "year": "2025",
+   "authors": [
+    {
+     "au_id": "Torales%20Trinidad%2C%20Pablino%20Abel",
+     "name": "Torales Trinidad, Pablino Abel",
+     "role": "autor"
+    },
+    {
+     "au_id": "Oliveri%20Mart%C3%ADnez%2C%20Carlos%20Enmanuel",
+     "name": "Oliveri Martínez, Carlos Enmanuel",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T2642\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 264304,
+   "title": "Tesakua: Sistema CAD-PACS web para la retinopatía diabética",
+   "year": "2019",
+   "authors": [
+    {
+     "au_id": "Gonz%C3%A1lez%20Mart%C3%ADnez%2C%20Jessica%20Ros%20Mary",
+     "name": "González Martínez, Jessica Ros Mary",
+     "role": "autor"
+    },
+    {
+     "au_id": "Oru%C3%A9%20Aranda%2C%20Sof%C3%ADa%20Elizabeth",
+     "name": "Orué Aranda, Sofía Elizabeth",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20P.%20Pinto%20Roa%20Jos%C3%A9%20Luis%20V%C3%A1zquez",
+     "name": "Diego P. Pinto Roa José Luis Vázquez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "617.73\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 265795,
+   "title": "Sistema de información geográfica orientado a ubicación de pacientes para prevención : tratamiento de enfermedades y mercadeo",
+   "year": "2004",
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "001.64\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "authors": [
+    {
+     "au_id": "Gavil%C3%A1n%20Estigarribia%2C%20Antonio%20%3B%20Franco%20Isasi%2C%20Alberto%20Nicol%C3%A1s",
+     "name": "Gavilán Estigarribia, Antonio ; Franco Isasi, Alberto Nicolás",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 266172,
+   "title": "Monitoreo remoto de pacientes vía GSM",
+   "year": "2011",
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "001.64\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "authors": [
+    {
+     "au_id": "Campos%20Alsina%2C%20Luis%20Anibal%20%3B%20Gonz%C3%A1lez%20Iliou%2C%20Sergio%20Alejandro",
+     "name": "Campos Alsina, Luis Anibal ; González Iliou, Sergio Alejandro",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 328786,
+   "year": "2011",
+   "branch_text": "Biblioteca de la Facultad de Enfermería y Obstetricia",
+   "callnumber": "614.452\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Enfermería y seguridad de los pacientes  María Cristina Cometto...[et. al]",
+   "authors": [
+    {
+     "au_id": "Organizaci%C3%B3n%20Panamericana%20de%20la%20Salud",
+     "name": "Organización Panamericana de la Salud",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Enfermería y Obstetricia"
+  },
+  {
+   "bibnum": 329704,
+   "year": "2008",
+   "branch_text": "Biblioteca de la Facultad de Enfermería y Obstetricia",
+   "callnumber": "610.73\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Fundamentos de enfermería conceptos, proceso y prácticas  Audrey Berman...[et al]",
+   "branch": "Biblioteca de la Facultad de Enfermería y Obstetricia"
+  },
+  {
+   "bibnum": 604377,
+   "title": "Sistema de información geográfica orientado a ubicación de pacientes para prevención : tratamiento de enfermedades y mercadeo",
+   "year": "2004",
+   "authors": [
+    {
+     "au_id": "Gavil%C3%A1n%20Estigarribia%2C%20Antonio",
+     "name": "Gavilán Estigarribia, Antonio",
+     "role": "autor"
+    },
+    {
+     "au_id": "Franco%20Isasi%2C%20Alberto%20Nicol%C3%A1s",
+     "name": "Franco Isasi, Alberto Nicolás",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "001.64\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/10781.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/10781.pdf"
+   ]
+  },
+  {
+   "bibnum": 603901,
+   "title": "Monitoreo remoto de pacientes vía GSM",
+   "year": "2011",
+   "authors": [
+    {
+     "au_id": "Campos%20Alsina%2C%20Luis%20Anibal",
+     "name": "Campos Alsina, Luis Anibal",
+     "role": "autor"
+    },
+    {
+     "au_id": "Gonz%C3%A1lez%20Iliou%2C%20Sergio%20Alejandro",
+     "name": "González Iliou, Sergio Alejandro",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "001.64\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/10305.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/10305.pdf"
+   ]
+  },
+  {
+   "bibnum": 265302,
+   "title": "Diseño de una red de telecomunicaciones para múltiples aplicaciones en salud pública",
+   "year": "2016",
+   "authors": [
+    {
+     "au_id": "Amarilla%20Villalba%2C%20Ricardo%20Daniel",
+     "name": "Amarilla Villalba, Ricardo Daniel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mirta%20Mor%C3%A1n",
+     "name": "Mirta Morán",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.385\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina",
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 328076,
+   "year": "2013",
+   "branch_text": "Biblioteca de la Facultad de Enfermería y Obstetricia",
+   "callnumber": "610.73\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Fundamentos de enfermería conceptos, proceso y práctica  Shirlee Snyder",
+   "authors": [
+    {
+     "au_id": "Berman%2C%20Audrey%20J.",
+     "name": "Berman, Audrey J",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Enfermería y Obstetricia"
+  },
+  {
+   "bibnum": 328077,
+   "year": "2013",
+   "branch_text": "Biblioteca de la Facultad de Enfermería y Obstetricia",
+   "callnumber": "610.73\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Fundamentos de enfermería conceptos, proceso y práctica  Shirlee Snyder",
+   "authors": [
+    {
+     "au_id": "Berman%2C%20Audrey%20J.",
+     "name": "Berman, Audrey J",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Enfermería y Obstetricia"
+  },
+  {
+   "bibnum": 337624,
+   "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
+   "callnumber": "FI/05/08 Proy. Inve\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Red de Sensores Inalámbricos para aplicaciones en medicinas y en deportes.  Ramon Duarte; Edgar Fariña",
+   "authors": [
+    {
+     "au_id": "Almeida%2C%20Carlos%20Domingo",
+     "name": "Almeida, Carlos Domingo",
+     "role": "autor"
+    }
+   ],
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica"
+  },
+  {
+   "bibnum": 501000,
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Torales%2C%20Julio%20C%C3%A9sar",
+     "name": "Torales, Julio César",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
+   "callnumber": "FCM/02/2021\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Niveles de satisfacción con telepsiquiatría en el hospital de clìnicas en el marco de la pandemia de COVID-19: una visiòn desde los pacientes y psiquiatras  Jorge Villalba, Andrés Bogado, Marcelo O´higgins, Ivàn Barrios",
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 500392,
+   "year": "2008",
+   "authors": [
+    {
+     "au_id": "Almeida%2C%20Carlos%20Domingo",
+     "name": "Almeida, Carlos Domingo",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
+   "callnumber": "FI/05/08\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/340.pdf",
+   "tags": [
+    "telemedicina"
+   ],
+   "title": "Red de Sensores Inalámbricos para aplicaciones en medicinas y en deportes.  Ramon Duarte; Edgar Fariña",
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica\n  \n \n\n \n  Referencia",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/340.pdf"
+   ]
+  },
+  {
+   "bibnum": 606061,
+   "title": "Tesakua: Sistema CAD-PACS web para la retinopatía diabética",
+   "year": "2019",
+   "authors": [
+    {
+     "au_id": "Gonz%C3%A1lez%20Mart%C3%ADnez%2C%20Jessica%20Ros%20Mary",
+     "name": "González Martínez, Jessica Ros Mary",
+     "role": "autor"
+    },
+    {
+     "au_id": "Oru%C3%A9%20Aranda%2C%20Sof%C3%ADa%20Elizabeth",
+     "name": "Orué Aranda, Sofía Elizabeth",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20P.%20Pinto%20Roa",
+     "name": "Diego P. Pinto Roa",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jos%C3%A9%20Luis%20V%C3%A1zquez",
+     "name": "José Luis Vázquez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "617.73\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12465.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "telemedicina"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/12465.pdf"
+   ]
+  },
+  {
+   "bibnum": 614413,
+   "title": "Modelos matemáticos de crecimiento tumoral",
+   "year": "2025",
+   "authors": [
+    {
+     "au_id": "Gonz%C3%A1lez%20De%20La%20Gracia%2C%20Rodrigo%20Antonio",
+     "name": "González De La Gracia, Rodrigo Antonio",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Germ%C3%A1n%20Torres",
+     "name": "Germán Torres",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "511.8 G589m\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/20817.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/20817.pdf"
+   ]
+  },
+  {
+   "bibnum": 605880,
+   "title": "Dispositivo y software para rehabilitación perceptiva orientado a paciente con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "year": "2016",
+   "authors": [
+    {
+     "au_id": "Garc%C3%ADa%20Florent%C3%ADn%2C%20Anthony%20Francisco",
+     "name": "García Florentín, Anthony Francisco",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "C%C3%A9sar%20Yegros",
+     "name": "César Yegros",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "617.89\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12284.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/12284.pdf"
+   ]
+  },
+  {
+   "bibnum": 184745,
+   "title": "Dispositivo y software para rehabilitación perceptiva orientado a pacientes con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "year": "2016",
+   "authors": [
+    {
+     "au_id": "Garc%C3%ADa%20Florent%C3%ADn%2C%20Anthony%20Francisco",
+     "name": "García Florentín, Anthony Francisco",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "C%C3%A9sar%20Yegros",
+     "name": "César Yegros",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "M032\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 265435,
+   "title": "Propuesta de implementación de un sistema de almacenamiento de imágenes tomográficas",
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Enciso%2C%20Leonardo%20Antonio",
+     "name": "Benítez Enciso, Leonardo Antonio",
+     "role": "autor"
+    },
+    {
+     "au_id": "Jara%20G%C3%B3mez%2C%20Oscar%20Gustavo",
+     "name": "Jara Gómez, Oscar Gustavo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mirta%20Mor%C3%A1n",
+     "name": "Mirta Morán",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "610.28\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 520543,
+   "title": "Modelos Matematicos de crecimeinto tumoral",
+   "year": "2025",
+   "authors": [
+    {
+     "au_id": "Gonz%7Balez%20de%20la%20Gracia%2C%20Rodrigo%20Antonio",
+     "name": "Gonz{alez de la Gracia, Rodrigo Antonio",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca e Internet FACEN",
+   "callnumber": "511.8 G589m\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca e Internet FACEN\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 605612,
+   "title": "Monitor de parámetros de ventilación mecánica",
+   "year": "2012",
+   "authors": [
+    {
+     "au_id": "Llano%20Brull%2C%20Fernando",
+     "name": "Llano Brull, Fernando",
+     "role": "autor"
+    },
+    {
+     "au_id": "Gim%C3%A9nez%20Grance%2C%20Alberto%20Rodrigo",
+     "name": "Giménez Grance, Alberto Rodrigo",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "610.28\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12016.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/12016.pdf"
+   ]
+  },
+  {
+   "bibnum": 605589,
+   "title": "Monitor de relajación neuromuscular en anestesia",
+   "year": "2010",
+   "authors": [
+    {
+     "au_id": "Vera%20L%C3%B3pez%2C%20Edgar%20Daniel%20Ram%C3%B3n",
+     "name": "Vera López, Edgar Daniel Ramón",
+     "role": "autor"
+    },
+    {
+     "au_id": "Carrera%20Gim%C3%A9nez%2C%20Marciano%20Javier",
+     "name": "Carrera Giménez, Marciano Javier",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "617.96\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11993.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11993.pdf"
+   ]
+  },
+  {
+   "bibnum": 604832,
+   "title": "Propuesta de implementación de un sistema de almacenamiento de imágenes tomográficas",
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "Ben%C3%ADtez%20Enciso%2C%20Leonardo%20Antonio",
+     "name": "Benítez Enciso, Leonardo Antonio",
+     "role": "autor"
+    },
+    {
+     "au_id": "Jara%20G%C3%B3mez%2C%20Oscar%20Gustavo",
+     "name": "Jara Gómez, Oscar Gustavo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mirta%20Mor%C3%A1n",
+     "name": "Mirta Morán",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "610.28\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11236.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11236.pdf"
+   ]
+  },
+  {
+   "bibnum": 640101,
+   "title": "Dispositivo y software para rehabilitación perceptiva orientado a pacientes con pérdida auditiva neurosensorial equipados con prótesis auditivas",
+   "year": "2016",
+   "authors": [
+    {
+     "au_id": "Garc%C3%ADa%20Florent%C3%ADn%2C%20Anthony%20Francisco",
+     "name": "García Florentín, Anthony Francisco",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "C%C3%A9sar%20Yegros",
+     "name": "César Yegros",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "M032\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 609091,
+   "title": "Valoración de aplicaciones online como elementos de rehabilitación post accidente cerebro-vascular",
+   "year": "2016",
+   "authors": [
+    {
+     "au_id": "Godoy%20Ach%C3%B3n%2C%20Ramiro%20Fabi%C3%A1n",
+     "name": "Godoy Achón, Ramiro Fabián",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Joel%20C.%20Perry",
+     "name": "Joel C. Perry",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "618.81 G548v\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/15495.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/15495.pdf"
+   ]
+  },
+  {
+   "bibnum": 605595,
+   "title": "Proyecto de gestión de tecnología hospitalaria mediante la implementación de un departamento de ingeniería clínica",
+   "year": "2011",
+   "authors": [
+    {
+     "au_id": "Ortigoza%20Escobar%2C%20Juan%20Nicol%C3%A1s",
+     "name": "Ortigoza Escobar, Juan Nicolás",
+     "role": "autor"
+    },
+    {
+     "au_id": "Mor%C3%A1n%20Maldonado%2C%20Mirta%20Mar%C3%ADa%20Elo%C3%ADsa",
+     "name": "Morán Maldonado, Mirta María Eloísa",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "610.28\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11999.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_biomedica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11999.pdf"
+   ]
+  },
+  {
+   "bibnum": 183972,
+   "title": "Prototipo de silla de ruedad con elevador basado en sistema de tijeras para personas con discapacidad de miembros inferiores",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Duarte%20Acosta%2C%20Rocio%20Carolina",
+     "name": "Duarte Acosta, Rocio Carolina",
+     "role": "autor"
+    },
+    {
+     "au_id": "B%C3%A1erz%20Fretes%2C%20Mar%C3%ADa%20Mercedes",
+     "name": "Báerz Fretes, María Mercedes",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Vivian%20Fatecha",
+     "name": "Vivian Fatecha",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jos%C3%A9%20N%C3%BA%C3%B1ez",
+     "name": "José Núñez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "C%C3%A9sar%20Yegros",
+     "name": "César Yegros",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IE0216\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 185630,
+   "title": "Captura y monitorización electrónica de los parámetros principales de la carga física en el entrenamiento deportivo",
+   "year": "2014",
+   "authors": [
+    {
+     "au_id": "Cantero%20Lugo%2C%20Aldo%20Germ%C3%A1n",
+     "name": "Cantero Lugo, Aldo Germán",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Luis%20Emilio%20Dietrich",
+     "name": "Luis Emilio Dietrich",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Luis%20Hernando%20Acha",
+     "name": "Luis Hernando Acha",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IE0101\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 186325,
+   "title": "Uroflujómetro miccional",
+   "year": "2012",
+   "authors": [
+    {
+     "au_id": "P%C3%A1ez%20Dom%C3%ADnguez%2C%20Marcelo%20Emilio",
+     "name": "Páez Domínguez, Marcelo Emilio",
+     "role": "autor"
+    },
+    {
+     "au_id": "Valiente%20Villaba%2C%20Mar%C3%ADa%20Magdalena",
+     "name": "Valiente Villaba, María Magdalena",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Iv%C3%A1n%20Lusich%C3%AD",
+     "name": "Iván Lusichí",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IE0045\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 186786,
+   "title": "Acceso a la información mediante bluetooth",
+   "year": "2010",
+   "authors": [
+    {
+     "au_id": "L%C3%B3pez%20Moscarda%2C%20Pablo%20Vidal",
+     "name": "López Moscarda, Pablo Vidal",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Gustavo%20Duarte",
+     "name": "Gustavo Duarte",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IE0028\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 188096,
+   "title": "Medidor de energia para desfibriladores monofásicos",
+   "year": "2006",
+   "authors": [
+    {
+     "au_id": "L%C3%B3pez%20Arguello%2C%20Ever%20Daniel",
+     "name": "López Arguello, Ever Daniel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Juan%20Antonio%20Su%C3%A1rez",
+     "name": "Juan Antonio Suárez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IE0013\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 243221,
+   "title": "Estudio por medio de la microscopía electrónica de barrios de las variantes morfológicas eritrocitarias en individuos sanos pertenecientes a diferentes grupos etarios",
+   "year": "2005",
+   "authors": [
+    {
+     "au_id": "Noldin%20C%C3%A1ceres%2C%20Christian",
+     "name": "Noldin Cáceres, Christian",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Médicas",
+   "callnumber": "616.0758\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Médicas"
+  },
+  {
+   "bibnum": 605807,
+   "title": "Desarrollo de interfaz electrónica entre el brazalete Myo y prótesis de miembro superior en 3D",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Acosta%20Florent%C3%ADn%2C%20Mateo%20Sebastian",
+     "name": "Acosta Florentín, Mateo Sebastian",
+     "role": "autor"
+    },
+    {
+     "au_id": "Mongel%C3%B3s%20Wollmeister%2C%20Juan%20Jos%C3%A9",
+     "name": "Mongelós Wollmeister, Juan José",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Lucas%20Te%C3%B3timo%20Frutos%20Olmedo",
+     "name": "Lucas Teótimo Frutos Olmedo",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Gary%20Serv%C3%ADn",
+     "name": "Gary Servín",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.381\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/12211.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/12211.pdf"
+   ]
+  },
+  {
+   "bibnum": 623319,
+   "title": "Diseño e implementación de sistemas de comunicación para gestión y control remoto de equipos de medición electrónica",
+   "year": "2012",
+   "authors": [
+    {
+     "au_id": "Valiente%20P%C3%A9rez%2C%20Federico",
+     "name": "Valiente Pérez, Federico",
+     "role": "autor"
+    },
+    {
+     "au_id": "Miers%20Rom%C3%A1n%2C%20Eder%20Roberto",
+     "name": "Miers Román, Eder Roberto",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T1274\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 620909,
+   "title": "Introducción de conmutación electrónica en el Paraguay",
+   "year": "1980",
+   "authors": [
+    {
+     "au_id": "Ort%C3%ADz%20Calcena%2C%20Gilberto",
+     "name": "Ortíz Calcena, Gilberto",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T882\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 640922,
+   "title": "Prototipo de silla de ruedad con elevador basado en sistema de tijeras para personas con discapacidad de miembros inferiores",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Duarte%20Acosta%2C%20Rocio%20Carolina",
+     "name": "Duarte Acosta, Rocio Carolina",
+     "role": "autor"
+    },
+    {
+     "au_id": "B%C3%A1erz%20Fretes%2C%20Mar%C3%ADa%20Mercedes",
+     "name": "Báerz Fretes, María Mercedes",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "C%C3%A9sar%20Yegros",
+     "name": "César Yegros",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jos%C3%A9%20N%C3%BA%C3%B1ez",
+     "name": "José Núñez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Vivian%20Fatecha",
+     "name": "Vivian Fatecha",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IE0216\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 639176,
+   "title": "Captura y monitorización electrónica de los parámetros principales de la carga física en el entrenamiento  deportivo",
+   "year": "2014",
+   "authors": [
+    {
+     "au_id": "Cantero%20Lugo%2C%20Aldo%20Germ%C3%A1n",
+     "name": "Cantero Lugo, Aldo Germán",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Luis%20Hernando%20Acha",
+     "name": "Luis Hernando Acha",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Luis%20Emilio%20Dietrich",
+     "name": "Luis Emilio Dietrich",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IE0101\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 183846,
+   "title": "Implementación de sistema de telemedición para el control de nivel de producto en tanques",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Benitez%20Albarez%2C%20M%C3%B3nica%20Catalina",
+     "name": "Benitez Albarez, Mónica Catalina",
+     "role": "autor"
+    },
+    {
+     "au_id": "Aquino%20Chav%C3%A9z%2C%20Marcelo%20Amilcar",
+     "name": "Aquino Chavéz, Marcelo Amilcar",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mar%C3%ADa%20Soledad%20Ayala%20R",
+     "name": "María Soledad Ayala R",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Oscar%20Machuca%20Gonz%C3%A1lez",
+     "name": "Oscar Machuca González",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Carlos%20Mar%C3%ADa%20Penayo%20Mart%C3%AD",
+     "name": "Carlos María Penayo Martí",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "IEL0225\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 593708,
+   "title": "Propuesta de mecanismos para el trabajo en I+D entre las empresas paraguayas y los investigadores de electrónica de la UNA",
+   "year": "2014",
+   "authors": [
+    {
+     "au_id": "Penayo%20Riveros%2C%20Miguel%20Angel",
+     "name": "Penayo Riveros, Miguel Angel",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Miki%20Saito",
+     "name": "Miki Saito",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "658.4063\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/112.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/112.pdf"
+   ]
+  },
+  {
+   "bibnum": 593651,
+   "title": "Tiempo de permanencia e inversión económica para la formación de estudiante de la carrera de ingeniería en Electrónica de la Facultad Politécnica de la Universidad Nacional de Asunción, periodo 2002-2",
+   "year": "2010",
+   "authors": [
+    {
+     "au_id": "Acosta%20Fern%C3%A1ndez%2C%20Nubia%20Griscelda",
+     "name": "Acosta Fernández, Nubia Griscelda",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "C%C3%A9sar%20Gustavo%20Duarte%20Fiorio",
+     "name": "César Gustavo Duarte Fiorio",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Mar%C3%ADa%20Soledad%20Ayala%20Rodr%C3%ADguez",
+     "name": "María Soledad Ayala Rodríguez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "378.38\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/55.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/55.pdf"
+   ]
+  },
+  {
+   "bibnum": 605018,
+   "title": "Evaluación del control predictivo basado en el modelo aplicado a compensadores estáticos utilizando convertidores multiniveles puente-H en cascada",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Comparatore%20Franco%2C%20Leonardo%20David",
+     "name": "Comparatore Franco, Leonardo David",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Ra%C3%BAl%20Igmar%20Gregor%20Recalde",
+     "name": "Raúl Igmar Gregor Recalde",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jorge%20Esteban%20Rodas%20Ben%C3%ADtez",
+     "name": "Jorge Esteban Rodas Benítez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.381\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11422.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11422.pdf"
+   ]
+  },
+  {
+   "bibnum": 605017,
+   "title": "Análisis de eficiencia de celdas puente-H basadas en técnología mosfet de carburo de silicio para aplicaciones en filtros activos de potencia",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Pacher%20Vega%2C%20Julio%20C%C3%A9sar",
+     "name": "Pacher Vega, Julio César",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Ra%C3%BAl%20Igmar%20Gregor%20Recalde",
+     "name": "Raúl Igmar Gregor Recalde",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jorge%20Esteban%20Rodas%20Ben%C3%ADtez",
+     "name": "Jorge Esteban Rodas Benítez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.381\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11421.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11421.pdf"
+   ]
+  },
+  {
+   "bibnum": 605016,
+   "title": "Análisis de algoritmos de control predictivo con frecuencia fija aplicado a convertidores de potencia",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Gavil%C3%A1n%20Amarilla%2C%20Federico%20Jos%C3%A9",
+     "name": "Gavilán Amarilla, Federico José",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Ra%C3%BAl%20Igmar%20Gregor%20Recalde",
+     "name": "Raúl Igmar Gregor Recalde",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Sergio%20Ram%C3%B3n%20Toledo%20Gallardo",
+     "name": "Sergio Ramón Toledo Gallardo",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Marcos%20Esteban%20Rivera%20Abarca",
+     "name": "Marcos Esteban Rivera Abarca",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.381\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11420.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11420.pdf"
+   ]
+  },
+  {
+   "bibnum": 605014,
+   "title": "Estrategias de control predictivo de convertidores matriciales para aplicación en microrredes",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Caballero%20Morilla%2C%20David%20Domingo",
+     "name": "Caballero Morilla, David Domingo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Sergio%20Ram%C3%B3n%20Toledo%20Gallardo",
+     "name": "Sergio Ramón Toledo Gallardo",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Ra%C3%BAl%20Igmar%20Gregor%20Recalde",
+     "name": "Raúl Igmar Gregor Recalde",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Marcos%20Esteban%20Rivera%20Abarca",
+     "name": "Marcos Esteban Rivera Abarca",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.381\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11418.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11418.pdf"
+   ]
+  },
+  {
+   "bibnum": 605011,
+   "title": "Análisis de algoritmos de control predictivo basado en el modelo aplicado al accionamiento hexafásico",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Ayala%20Silva%2C%20Magno%20El%C3%ADas",
+     "name": "Ayala Silva, Magno Elías",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Ra%C3%BAl%20Igmar%20Gregor%20Recalde",
+     "name": "Raúl Igmar Gregor Recalde",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jorge%20Esteban%20Rodas%20Ben%C3%ADtez",
+     "name": "Jorge Esteban Rodas Benítez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Jes%C3%BAs%20Doval-Gandoy",
+     "name": "Jesús Doval-Gandoy",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.31042\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11415.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11415.pdf"
+   ]
+  },
+  {
+   "bibnum": 605010,
+   "title": "Control predictivo basado en frecuencia fija aplicado al accionamiento eléctrico de cinco fases",
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "Gonz%C3%A1lez%20Barrios%2C%20Osvaldo%20Juli%C3%A1n",
+     "name": "González Barrios, Osvaldo Julián",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Jorge%20Esteban%20Rodas%20Ben%C3%ADtez",
+     "name": "Jorge Esteban Rodas Benítez",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Ra%C3%BAl%20Igmar%20Gregor%20Recalde",
+     "name": "Raúl Igmar Gregor Recalde",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Mario%20Javier%20Dur%C3%A1n",
+     "name": "Mario Javier Durán",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Ignacio%20Gonz%C3%A1lez%20Prieto",
+     "name": "Ignacio González Prieto",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.31042\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/11414.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_electronica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/11414.pdf"
+   ]
+  },
+  {
+   "bibnum": 593812,
+   "title": "Factores que inciden en la deserción en la carrera de ingeniería informática de la Facultad Politécnica de la Universidad Nacional de Asunción, periodo 2011 - 2015",
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Ag%C3%BCero%20de%20Le%C3%B3n%2C%20Juli%C3%A1n%20Alberto",
+     "name": "Agüero de León, Julián Alberto",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20Pintos",
+     "name": "Diego Pintos",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "378.169\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/216.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/216.pdf"
+   ]
+  },
+  {
+   "bibnum": 182123,
+   "title": "CodeQuest: un fragmework basado en gamificacion y analisis estadistico",
+   "year": "2023",
+   "authors": [
+    {
+     "au_id": "Marcos%20A.%20Rivas%20Ojeda%20Mauricio%20M.%20Gonzalez%20Morra",
+     "name": "Marcos A. Rivas Ojeda Mauricio M. Gonzalez Morra",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "M.%20Sc.%20Luis%20Gilberto%20Salinas",
+     "name": "M. Sc. Luis Gilberto Salinas",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0192\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 182834,
+   "title": "Aplicación de Low-Rank Adaptación en Clasificación múltiple de Retinopatía diabética",
+   "year": "2024",
+   "authors": [
+    {
+     "au_id": "Ferreira%20Caballero%2C%20%C3%80ngel%20Sebasti%C3%A1n",
+     "name": "Ferreira Caballero, Àngel Sebastián",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20Pedro",
+     "name": "Diego Pedro",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Pinto%20Roa",
+     "name": "Pinto Roa",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II208\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 183043,
+   "title": "Evaluación del sesempeño de PCA con dispersión espectral.",
+   "year": "2024",
+   "authors": [
+    {
+     "au_id": "Bueno%20Knoop%2C%20Ricardo%20Enrique",
+     "name": "Bueno Knoop, Ricardo Enrique",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Marcos%20Daniel",
+     "name": "Marcos Daniel",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Villagra",
+     "name": "Villagra",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0204\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 183948,
+   "title": "Protección multicast en redes WDM un enfoque basado en algoritmos evolutivos de muchos objetivos",
+   "year": "2021",
+   "authors": [
+    {
+     "au_id": "Lugo%20Villar%2C%20Rodrigo%20Alicio",
+     "name": "Lugo Villar, Rodrigo Alicio",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20Pinto%20Roa",
+     "name": "Diego Pinto Roa",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0171\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184004,
+   "title": "Modelo de predicción de ventas basado en mineria de datos",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Cabrera%20Lezcano%2C%20Teresa%20Dejesus",
+     "name": "Cabrera Lezcano, Teresa Dejesus",
+     "role": "autor"
+    },
+    {
+     "au_id": "Vel%C3%A1zquez%20%C3%81lvarez%2C%20Rodrigo%20Juan%20Arsenio",
+     "name": "Velázquez Álvarez, Rodrigo Juan Arsenio",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Daniel%20Romero",
+     "name": "Daniel Romero",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0168\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184203,
+   "title": "Complejidad computacional de problemas de empaquetamiento con trominós",
+   "year": "2019",
+   "authors": [
+    {
+     "au_id": "Akagi%20Fukushima%2C%20Javier%20Tadashi",
+     "name": "Akagi Fukushima, Javier Tadashi",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Marcos%20Daniel%20Villagra",
+     "name": "Marcos Daniel Villagra",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0142\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184288,
+   "title": "Análisis exploratorio de datos públicos categóricos usando agrupación",
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Vierci%20Codas%2C%20Mar%C3%ADa%20Beatriz",
+     "name": "Vierci Codas, María Beatriz",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Prof.%20Dr.%20Gustavo%20Gim%C3%A9nez%20Lugo",
+     "name": "Prof. Dr. Gustavo Giménez Lugo",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0132\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184759,
+   "title": "Problema de la diversidad máxima, un enfoque multi-objetivo",
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Vera%20Esconar%2C%20Katherine%20Dahiana",
+     "name": "Vera Esconar, Katherine Dahiana",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Fabio%20L%C3%B3pez-Pires",
+     "name": "Fabio López-Pires",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Benjamin%20Bar%C3%A1n",
+     "name": "Benjamin Barán",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0119\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184948,
+   "title": "VONE - Sim : un simulador de redes EON para el problema VONE",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Rivarola%20B.%2C%20Alcides",
+     "name": "Rivarola B., Alcides",
+     "role": "autor"
+    },
+    {
+     "au_id": "Saucedo%20A.%2C%20Fernando%20R.",
+     "name": "Saucedo A., Fernando R",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Enrique%20D%C3%A1valos",
+     "name": "Enrique Dávalos",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0107\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184950,
+   "title": "Reconocimeinto de actividades humanas con un enfoque colaborativo",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Gim%C3%A9nez%2C%20Alberto",
+     "name": "Giménez, Alberto",
+     "role": "autor"
+    },
+    {
+     "au_id": "Yegros%20Z.%2C%20Santiago%20A.",
+     "name": "Yegros Z., Santiago A",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Juan%20Talavera",
+     "name": "Juan Talavera",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Joaqu%C3%ADn%20Lima",
+     "name": "Joaquín Lima",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0110\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184956,
+   "title": "Templado simulado para problemas de muchos objetivos",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Morales%20Ferreira%2C%20Eduardo%20Ram%C3%B3n",
+     "name": "Morales Ferreira, Eduardo Ramón",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Benjam%C3%ADn%20Bar%C3%A1n",
+     "name": "Benjamín Barán",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0111\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184965,
+   "title": "OCS-WAF : un web application firewall basado en anomalías con clasificadores ONE-CLASS SVN",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Epp%2C%20Nico",
+     "name": "Epp, Nico",
+     "role": "autor"
+    },
+    {
+     "au_id": "Funk%2C%20Ralf",
+     "name": "Funk, Ralf",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Cristian%20Cappo",
+     "name": "Cristian Cappo",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0103\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 184966,
+   "title": "Estudio de algortimos de desfragmentación del espectro en redes ópticas elásticas",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Fern%C3%A1ndez%20Mart%C3%ADnez%2C%20Sergio",
+     "name": "Fernández Martínez, Sergio",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Diego%20Pinto%20Roa",
+     "name": "Diego Pinto Roa",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0104\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 185174,
+   "title": "Automatización de pruebas para formularios de aplicaciones web dinámicas",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Gim%C3%A9nez%2C%20Miguel%20Angel",
+     "name": "Giménez, Miguel Angel",
+     "role": "autor"
+    },
+    {
+     "au_id": "Espinola%2C%20Alberto",
+     "name": "Espinola, Alberto",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Juan%20Pane",
+     "name": "Juan Pane",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "II0094\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_informatica"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 629763,
+   "year": "2004",
+   "authors": [
+    {
+     "au_id": "Chavarr%C3%ADa%20Olarte%2C%20Marcela",
+     "name": "Chavarría Olarte, Marcela",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca FCV Caazapá",
+   "callnumber": "CA001.42 Cha39t\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "title": "Tesis elaboración y presentación  Marbella Villalobos Pérez",
+   "branch": "Biblioteca FCV Caazapá\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 194426,
+   "title": "La tesis y trabajo de tesis recomendaciones metodológicas para la elaboración de los trabajos de tesis",
+   "year": "2006",
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Garc%C3%ADa%20Cordoba%2C%20Fernando",
+     "name": "García Cordoba, Fernando",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 194428,
+   "title": "La tesis y trabajo de tesis recomendaciones metodoógicas para la elaboración de los trabajos de tesis",
+   "year": "2006",
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Garc%C3%ADa%20Cordoba%2C%20Fernando",
+     "name": "García Cordoba, Fernando",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 248543,
+   "title": "La tesis y el trabajo de tesis recomendaciones metodológicas para la elaboración de los trabajos de tesis",
+   "year": "2015",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Garc%C3%ADa%20C%C3%B3rdoba%2C%20Fernando",
+     "name": "García Córdoba, Fernando",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 630535,
+   "title": "La tesis y trabajo de tesis recomendaciones metodoógicas para la elaboración de los trabajos de tesis",
+   "year": "2006",
+   "authors": [
+    {
+     "au_id": "Garc%C3%ADa%20Cordoba%2C%20Fernando",
+     "name": "García Cordoba, Fernando",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "001.42 G165t\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 243701,
+   "title": "Cómo hacer una tesis",
+   "year": "2010",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Médicas",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Mercado%2C%20Salvador",
+     "name": "Mercado, Salvador",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Médicas"
+  },
+  {
+   "bibnum": 299315,
+   "title": "Cómo hacer una tesis",
+   "year": "1991",
+   "branch_text": "Biblioteca FCE - Prof. Thomas E. Cunningham",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Mercado%20H.%2C%20Salvador",
+     "name": "Mercado H., Salvador",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FCE - Prof. Thomas E. Cunningham"
+  },
+  {
+   "bibnum": 139292,
+   "title": "Tesis doctorales y trabajos de investigación científica",
+   "year": "1994",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "001.4\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Sierra%20Bravo%2C%20Restituto",
+     "name": "Sierra Bravo, Restituto",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 140973,
+   "title": "Redacción técnica y científica de proyectos y tesis",
+   "year": "2001",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Yanosky%20F.%2C%20A.%20Alberto",
+     "name": "Yanosky F., A. Alberto",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 169087,
+   "title": "¿Como hacer tesis? guía para adiestramiento",
+   "year": "1997",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)",
+   "callnumber": "001.4\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Mercado%20H.%2C%20Salvador",
+     "name": "Mercado H., Salvador",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 192824,
+   "title": "Tesis presentadas a la Facultad de Derecho y Ciencias Sociales 1829-1960",
+   "year": "1979",
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "016.3\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Instituto%20Bibliotecol%C3%B3gico",
+     "name": "Instituto Bibliotecológico",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)"
+  },
+  {
+   "bibnum": 274334,
+   "title": "La tesis de Nancy",
+   "year": "1969",
+   "branch_text": "Biblioteca e Internet FACEN",
+   "callnumber": "863\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Sender%2C%20Ram%C3%B3n%20J.",
+     "name": "Sender, Ramón J",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca e Internet FACEN"
+  },
+  {
+   "bibnum": 277845,
+   "title": "Tesis doctorales y trabajos de investigación científica",
+   "year": "1994",
+   "branch_text": "Biblioteca e Internet FACEN",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Sierra%20Bravo%2C%20R.",
+     "name": "Sierra Bravo, R",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca e Internet FACEN"
+  },
+  {
+   "bibnum": 279187,
+   "title": "Cómo hacer una tesis",
+   "year": "1982",
+   "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Taborga%2C%20Huascar",
+     "name": "Taborga, Huascar",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción"
+  },
+  {
+   "bibnum": 279877,
+   "title": "¿Cómo hacer una tesis?",
+   "year": "2014",
+   "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Mercado%20H.%2C%20Salvador",
+     "name": "Mercado H., Salvador",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción"
+  },
+  {
+   "bibnum": 294790,
+   "title": "Cómo hacer una tesis? teoría, informes, memorias, seminarios de investigación y monofrafías",
+   "year": "1993",
+   "branch_text": "Biblioteca Central de la Universidad Nacional de Asunción",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Mercado%2C%20Salvador",
+     "name": "Mercado, Salvador",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca Central de la Universidad Nacional de Asunción"
+  },
+  {
+   "bibnum": 304811,
+   "title": "Cómo se hace una tesis",
+   "year": "1998",
+   "branch_text": "Biblioteca FCE - Prof. Thomas E. Cunningham",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "tesis"
+   ],
+   "authors": [
+    {
+     "au_id": "Eco%2C%20Umberto",
+     "name": "Eco, Umberto",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca FCE - Prof. Thomas E. Cunningham"
+  },
+  {
+   "bibnum": 522428,
+   "title": "Tesis de grado",
+   "authors": [
+    {
+     "au_id": "Chamorro%20Ben%C3%ADtez%2C%20Charely%20Belina",
+     "name": "Chamorro Benítez, Charely Belina",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú",
+   "tags": [
+    "tesis"
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú"
+  },
+  {
+   "bibnum": 522427,
+   "title": "Producción de plantines de cebolla (Allium cepa L.) en función al sistema de producción y tipos de sustrato",
+   "authors": [
+    {
+     "au_id": "Hermosilla%20Qui%C3%B1%C3%B3nez%2C%20Juan",
+     "name": "Hermosilla Quiñónez, Juan",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú",
+   "tags": [
+    "tesis"
+   ],
+   "orientadores": [
+    {
+     "au_id": "Ortiz%2C%20Wilber",
+     "name": "Ortiz, Wilber",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Gaona%2C%20Laura",
+     "name": "Gaona, Laura",
+     "role": "coorientadora"
+    },
+    {
+     "au_id": "Garc%C3%ADa%2C%20Mirian",
+     "name": "García, Mirian",
+     "role": "coorientadora"
+    }
+   ],
+   "year": "2023",
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú"
+  },
+  {
+   "bibnum": 522426,
+   "title": "Efecto de la aplicación de fertilizante a base de macronutrientes y micronutrientes sobre el rendimiento del poroto (Phaseolus vulgaris L.)",
+   "authors": [
+    {
+     "au_id": "B%C3%A1ez%20Mendieta%2C%20Yanina%20Fiorella",
+     "name": "Báez Mendieta, Yanina Fiorella",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú",
+   "tags": [
+    "tesis"
+   ],
+   "orientadores": [
+    {
+     "au_id": "Lezcano%2C%20Jos%C3%A9%20R.",
+     "name": "Lezcano, José R",
+     "role": "orientador"
+    },
+    {
+     "au_id": "Pav%C3%B3n%2C%20Cirila",
+     "name": "Pavón, Cirila",
+     "role": "coorientadora"
+    },
+    {
+     "au_id": "Ortiz%2C%20Wilber%20Nelson",
+     "name": "Ortiz, Wilber Nelson",
+     "role": "coorientador"
+    }
+   ],
+   "year": "2023",
+   "branch": "Biblioteca de la Facultad de Ciencias Agrarias, Filial San Pedro de Ykuamandyjú"
+  },
+  {
+   "bibnum": 313231,
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "G%C3%B3mez%2C%20Diego.",
+     "name": "Gómez, Diego",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "0000\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "title": "Estudio del Proceso de las Telecomunicaciones en el Paraguay desde la Radio hasta Internet. Periodismo Nº. 211  Diego Gómez; Milba Vázquez.",
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía"
+  },
+  {
+   "bibnum": 623133,
+   "title": "Estudio de impacto ambiental de un sitio de telecomunicaciones",
+   "year": "2011",
+   "authors": [
+    {
+     "au_id": "Zayas%20Serv%C3%ADn%2C%20Sergio%20Adri%C3%A1n",
+     "name": "Zayas Servín, Sergio Adrián",
+     "role": "autor"
+    },
+    {
+     "au_id": "Maldonado%20Cabrera%2C%20Walter%20Alejandro",
+     "name": "Maldonado Cabrera, Walter Alejandro",
+     "role": "autor"
+    },
+    {
+     "au_id": "Brusquetti%20Vera%2C%20Gustavo%20Jos%C3%A9",
+     "name": "Brusquetti Vera, Gustavo José",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)",
+   "callnumber": "T1236\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca de la Facultad de Ingeniería — Sede Central (San Lorenzo)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 652833,
+   "title": "Derecho de las telecomunicaciones régimen jurídico actual de los servicios de telecomunicaciones en la república del Paraguay y su problemática",
+   "year": "2009",
+   "authors": [
+    {
+     "au_id": "Ru%C3%ADz%20Paj%C3%B3n%2C%20Rub%C3%A9n%20Aldo",
+     "name": "Ruíz Pajón, Rubén Aldo",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca DER Central",
+   "callnumber": "Tesis R859d\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca DER Central\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 636990,
+   "title": "Sistemas de energía para telecomunicaciones",
+   "year": "1996",
+   "authors": [
+    {
+     "au_id": "Brizuela%2C%20Angel%20D.",
+     "name": "Brizuela, Angel D",
+     "role": "autor"
+    },
+    {
+     "au_id": "Bogado%2C%20Francisco%20J.",
+     "name": "Bogado, Francisco J",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "E0013\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 636795,
+   "title": "Bibliografía sobre matemáticas aplicada a telecomunicaciones",
+   "year": "1975",
+   "authors": [
+    {
+     "au_id": "Carreras%20de%20Roa%2C%20Mercedes",
+     "name": "Carreras de Roa, Mercedes",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca FPUNA (Centro de Información y Cultura)",
+   "callnumber": "510.16 C233b\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca FPUNA (Centro de Información y Cultura)\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 265253,
+   "title": "Diseño de una red de prestación de servicios IPV4/IPV6 para proveedores de telecomunicaciones",
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Alvarez%20N%C3%BA%C3%B1ez%2C%20C%C3%A9sar%20Augusto",
+     "name": "Alvarez Núñez, César Augusto",
+     "role": "autor"
+    },
+    {
+     "au_id": "Florent%C3%ADn%20C%C3%A1ceres%2C%20Diego%20Sebasti%C3%A1n",
+     "name": "Florentín Cáceres, Diego Sebastián",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Mirta%20Mor%C3%A1n%20Eudes%20Ben%C3%ADtez",
+     "name": "Mirta Morán Eudes Benítez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "621.382\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 311997,
+   "title": "Salario emocional y motivación laboral en colaboradores de RRHH de una empresa de telecomunicaciones. Psicología Laboral Nº : 256 ( TUTOR : Prof. Lic. Antonio Samaniego Pinho )",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Gaete%20Ruiz%2C%20Jessica%20Alejandra.",
+     "name": "Gaete Ruiz, Jessica Alejandra",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "00000\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía"
+  },
+  {
+   "bibnum": 312486,
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Juan%20Jos%C3%A9%20Ocampos%20Becker.",
+     "name": "Juan José Ocampos Becker",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "00000\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "title": "Exposición de los riesgos psicosociales en trabajadores de una empresa de telecomunicaciones según áreas de trabajo. Ps. Laboral Nº. 168 - ( TUTORA : Prof. Adriana Deligdisch )  Juan José Ocampos Becker; Giannina Paola Pineda Sánchez.",
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía"
+  },
+  {
+   "bibnum": 312858,
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "G%C3%B3mez%2C%20Diego.",
+     "name": "Gómez, Diego",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "0000\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "title": "Estudio del proceso de las telecomunicaciones en el Paraguay desde la Radio hasta Internet. Ciencias de la Comunicación Nº. 237 - ( TUTORA : Lic. Lourdes Aquino )  Diego Gómez; Milba Vazquez.",
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía"
+  },
+  {
+   "bibnum": 414093,
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "G%C3%B3mez%2C%20Diego.",
+     "name": "Gómez, Diego",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "0000 G529e\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "title": "Estudio del Proceso de las Telecomunicaciones en el Paraguay desde la Radio hasta Internet. Periodismo Nº. 211  Diego Gómez; Milba Vázquez.",
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía\n  \n \n\n \n  Referencia"
+  },
+  {
+   "bibnum": 414489,
+   "year": "2015",
+   "authors": [
+    {
+     "au_id": "G%C3%B3mez%2C%20Diego.",
+     "name": "Gómez, Diego",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "0000 G586e\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "title": "Estudio del proceso de las telecomunicaciones en el Paraguay desde la Radio hasta Internet. Ciencias de la Comunicación Nº. 237  -  ( TUTORA : Lic. Lourdes Aquino )  Diego Gómez; Milba Vazquez.",
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 414831,
+   "year": "2017",
+   "authors": [
+    {
+     "au_id": "Juan%20Jos%C3%A9%20Ocampos%20Becker.",
+     "name": "Juan José Ocampos Becker",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "00000 Oc12e\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "title": "Exposición de los riesgos psicosociales en trabajadores de una empresa de telecomunicaciones según áreas de trabajo. Ps. Laboral Nº. 168 - ( TUTORA : Prof. Adriana Deligdisch )  Juan José Ocampos Becker; Giannina Paola Pineda Sánchez.",
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía\n  \n \n\n \n  Referencia"
+  },
+  {
+   "bibnum": 415282,
+   "title": "Salario emocional y motivación laboral en colaboradores de RRHH de una empresa de telecomunicaciones. Psicología Laboral  Nº  :  256  ( TUTOR : Prof. Lic. Antonio Samaniego Pinho )",
+   "year": "2020",
+   "authors": [
+    {
+     "au_id": "Gaete%20Ruiz%2C%20Jessica%20Alejandra.",
+     "name": "Gaete Ruiz, Jessica Alejandra",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "00000 G119e\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 416317,
+   "title": "Relación entre satisfacción por el teletrabajo y retención laboral en colaboradores de la cede central de una empresa de telecomunicaciones. Psicología. Laboral  Nº  340 - ( TUTOR : Prof.. Mgtr. Antonio Samaniego Pinho )",
+   "year": "2024",
+   "authors": [
+    {
+     "au_id": "Cantero%20Torres%2C%20Mar%C3%ADa%20Laura.",
+     "name": "Cantero Torres, María Laura",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "00000 C167r\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía\n  \n \n\n \n  Colección general"
+  },
+  {
+   "bibnum": 522370,
+   "year": "2025",
+   "authors": [
+    {
+     "au_id": "Arguello%20Alcaraz%2C%20Valeria%20Monserrat.",
+     "name": "Arguello Alcaraz, Valeria Monserrat",
+     "role": "autor"
+    }
+   ],
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "title": "Inteligencia emocional y liderazgo en colaboradores de una empresa del rubro de telecomunicaciones de Asunción. Psicología Laboral Nº: 392 - ( TUTOR : Prof. José Luís Benítez Escobar )  Valeria Monserrat Arguello Alcaraz; Liz Pamela Mendoza Astorga.",
+   "branch": "Biblioteca FPUNA"
+  },
+  {
+   "bibnum": 524841,
+   "year": "2024",
+   "authors": [
+    {
+     "au_id": "Cantero%20Torres%2C%20Mar%C3%ADa%20Laura.",
+     "name": "Cantero Torres, María Laura",
+     "role": "autor"
+    }
+   ],
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "title": "Relación entre satisfacción por el teletrabajo y retención laboral en colaboradores de la sede central de una empresa de telecomunicaciones. Psicología Laboral Nº: 412 - ( TUTOR : Prof. Mgtr. Antonio Samaniego Pinho )  María Laura Cantero Torres.",
+   "branch": "Biblioteca FPUNA"
+  },
+  {
+   "bibnum": 614458,
+   "title": "Diseño de una red de transmisión con tecnología DWDM (dense wavelength division multiplexing) para la zona sur del país administrada por una empresa de telecomunicaciones",
+   "year": "2025",
+   "authors": [
+    {
+     "au_id": "Ag%C3%BCero%20Cardozo%2C%20Pablo%20Javier",
+     "name": "Agüero Cardozo, Pablo Javier",
+     "role": "autor"
+    },
+    {
+     "au_id": "V%C3%A1zquez%20Arroyos%2C%20Osvaldo",
+     "name": "Vázquez Arroyos, Osvaldo",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Gilberto%20Rivas",
+     "name": "Gilberto Rivas",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "20862 Ag92di\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/tesis/20862.pdf",
+   "diss_note": "Trabajo de fin de grado.",
+   "is_thesis": true,
+   "tags": [
+    "tesis_telecomunicaciones"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/tesis/20862.pdf"
+   ]
+  },
+  {
+   "bibnum": 266210,
+   "title": "La calidad académica del trabajo final de grado en relación a la formación del docente tutor la Facultad de la Filosofía de la Universidad Nacional de Asunción",
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Fleitas%20de%20Candia%2C%20Virginia%20Stella",
+     "name": "Fleitas de Candia, Virginia Stella",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Antonio%20Hern%C3%A1ndez%20Fern%C3%A1ndez",
+     "name": "Antonio Hernández Fernández",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "trabajo_final_grado"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 337092,
+   "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
+   "callnumber": "FCE/03/18 Monografía\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "trabajo_final_grado"
+   ],
+   "title": "Evaluación del rendimiento de los alumnos de la carrera de Administración de la FCE-UNA en el Trabajo Final de Grado. Véase además título modificado: \"Rendimiento de los Alumnos de la carrera de Administración de la Facultad de Ciencias Económicas de la Universidad Nacional de Asunción en el trabajo final de Grado.  Pablo Martínez",
+   "authors": [
+    {
+     "au_id": "Galeano%20Bate%2C%20Santiago%20Lorenzo",
+     "name": "Galeano Bate, Santiago Lorenzo",
+     "role": "autor"
+    }
+   ],
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica"
+  },
+  {
+   "bibnum": 500941,
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Galeano%20Bate%2C%20Santiago%20Lorenzo",
+     "name": "Galeano Bate, Santiago Lorenzo",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
+   "callnumber": "FCE/03/18\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/DGICT891.pdf",
+   "tags": [
+    "trabajo_final_grado"
+   ],
+   "title": "Evaluación del rendimiento de los alumnos de la carrera de Administración de la FCE-UNA en el Trabajo Final de Grado. Véase además título modificado: \"Rendimiento de los Alumnos de la carrera de Administración de la Facultad de Ciencias Económicas de la Universidad Nacional de Asunción en el trabajo final de Grado.  Pablo Martínez",
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/DGICT891.pdf"
+   ]
+  },
+  {
+   "bibnum": 311356,
+   "title": "La calidad académica del trabajo final de grado en relación a la formación del docente tutor en la Facultad de Filosofía de la Universidad Nacional de Asunción. Doctorado en Educación Nº 31 - ( TUTOR : Prof. Dr. Antonio Hernández Fernández )",
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Fleitas%20de%20Candia%2C%20Virginia%20Stella.",
+     "name": "Fleitas de Candia, Virginia Stella",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Biblioteca \"Abraham Lincoln\" de la Facultad de Filosofía",
+   "callnumber": "00000\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "trabajo_final_grado"
+   ],
+   "branch": "Biblioteca &quot;Abraham Lincoln&quot; de la Facultad de Filosofía"
+  },
+  {
+   "bibnum": 248480,
+   "title": "Implementación de un curso orientado a la formación en método científico en la modalidad e-learning para tutores y co-tutores de trabajo final de grado de la Facultad de Ciencias Químicas-UN",
+   "year": "2018",
+   "branch_text": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)",
+   "callnumber": "2/18\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "trabajo_final_grado"
+   ],
+   "authors": [
+    {
+     "au_id": "Elizeche%20de%20Larr%C3%A9%2C%20A%C3%ADda%20Elizabeth",
+     "name": "Elizeche de Larré, Aída Elizabeth",
+     "role": "autor"
+    }
+   ],
+   "branch": "Biblioteca de la Facultad de Ciencias Químicas — Sede Central (San Lorenzo)"
+  },
+  {
+   "bibnum": 257546,
+   "title": "Implementación de un curso orientado a la formación en método científico en la modalidad E-Learning para Tutores y Co-Tutores de Trabajo Final de Grado en la Facultad de Ciencias Químicas-UNA",
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Elizeche%20de%20Larr%C3%A9%2C%20Aida%20Elizabeth",
+     "name": "Elizeche de Larré, Aida Elizabeth",
+     "role": "autor"
+    }
+   ],
+   "orientadores": [
+    {
+     "au_id": "Carmen%20Delia%20Varela%20B%C3%A1ez",
+     "name": "Carmen Delia Varela Báez",
+     "role": "orientador"
+    }
+   ],
+   "branch_text": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado",
+   "callnumber": "001.42\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "trabajo_final_grado"
+   ],
+   "branch": "Biblioteca Central. Trabajos de Fin de Grado y Tesis de Postgrado"
+  },
+  {
+   "bibnum": 337058,
+   "year": "2012",
+   "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
+   "callnumber": "FP/06/2018 Monografía\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "tags": [
+    "trabajo_final_grado"
+   ],
+   "title": "Análisis bibliométrico de la producción académica de las Facultades de la Universidad Nacional de Asunción. Trabajo Final de Grado y Tesis de Postgrado 2012-2017  Mirtha Villagra, Marta Barrios, Jazmín Coronel",
+   "authors": [
+    {
+     "au_id": "Sena%20Correa%2C%20Emilce",
+     "name": "Sena Correa, Emilce",
+     "role": "autor"
+    }
+   ],
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica"
+  },
+  {
+   "bibnum": 500973,
+   "year": "2018",
+   "authors": [
+    {
+     "au_id": "Sena%20Correa%2C%20Emilce",
+     "name": "Sena Correa, Emilce",
+     "role": "autor"
+    }
+   ],
+   "branch_text": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica",
+   "callnumber": "FP/06/2018\n \n \n ( Navegar estantería (Abre debajo)  )",
+   "online_url": "http://sdi.cnc.una.py/catbib/documentos/DGICT923.pdf",
+   "diss_note": "Tesis.",
+   "is_thesis": true,
+   "tags": [
+    "trabajo_final_grado"
+   ],
+   "title": "Análisis bibliométrico de la producción académica de las Facultades de la Universidad Nacional de Asunción. Trabajo Final de Grado y Tesis de Postgrado 2012-2017  Mirtha Villagra, Marta Barrios, Jazmín Coronel",
+   "branch": "Archivo de Investigación de la Dirección General de Investigación Científica y Tecnológica\n  \n \n\n \n  Colección general",
+   "online_resources": [
+    "http://sdi.cnc.una.py/catbib/documentos/DGICT923.pdf"
+   ]
   }
  ]
 }
