@@ -1,0 +1,351 @@
+{
+ "harvested_at": "2026-07-30",
+ "source": "https://www2.pol.una.py/?q=node/1071",
+ "n_theses": 20,
+ "theses": [
+  {
+   "anchor": "2015-algoritmos-indexacion-reconocimiento-fac",
+   "title": "name=\"2015-algoritmos-indexacion-reconocimiento-fac\"> Algoritmos de indexación basado en permutaciones orientado a reconocimiento facial",
+   "authors": [
+    "Gonzalez Britez",
+    "Liz Jarmila"
+   ],
+   "advisors": [
+    "Von Lucken",
+    "Christian Daniel"
+   ],
+   "abstract": "Los sistemas de reconocimiento facial que manejan bases de datos con miles de imágenes se enfrentan al problema de ralentización del proceso de búsqueda cuando por cada imagen de consulta se debe verificar cada objeto de la base de datos. A fin de aliviar la carga de estos sistemas y reducir el tiempo de respuesta se han desarrollado alternativas para reducir o eliminar la necesidad de la búsqueda exhaustiva de imágenes. Los métodos de indexación son una de estas alternativas. En este trabajo se presenta una nueva técnica de indexación basada en permutaciones que, en combinación con el algoritmo de Análisis de Componentes Principales, optimiza el almacenamiento de las imágenes y acelera el proceso al predecir la similitud entre los objetos. Para evaluar el método propuesto, denominado Emiap, éste se compara con técnicas representativas del estado del arte utilizando el conjunto de imágenes de la base de datos FERET. Los resultados experimentales obtenidos muestran que el método propuesto en este trabajo es competitivo con otras técnicas del estado de arte. Arquitectura en la nube para la interoperabilidad entre sistemas HCE aplicando FHIR y el enfoque de dos niveles AUTORES: López Estigarribia, Pablo José y Romero Riveros, Jesús María. ASESORES: Villalba, Cynthia; Vázquez Noguera, José Luis y Pinto Roa, Diego Pedro. RESUMEN: Muchos centros asistenciales continúan registrando los datos de la historia clínica en papel. Aquellos que cuentan con un sistema de Historia Clínica El",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-aplicacion-algoritmos-moaco-tsp",
+   "title": "name=\"2015-aplicacion-algoritmos-moaco-tsp\"> Aplicación de algoritmos MOACO al TSP many-objective AUTORES: Riveros Núñez, Prisciliano Francisco y Benítez Dietrich, Nestor Manuel. ASESORES: DSc. Baran Cegla, Benjamín y Paciello Coronel, Julio Manuel. RESUMEN: Los algoritmos de optimización basados en colonias de hormigas han sido exitosamente utilizados para resolver problemas que involucran 2 o 3 objetivos. La mayoría de las investigaciones realizadas con algoritmos evolutivos han mostrado que cuando se incrementa la cantidad de objetivos, estas técnicas pierden su potencial y consecuentemente sus resultados se deterioran significativamente. Este comportamiento también se presenta en los algoritmos de optimización de colonias de hormigas. En este trabajo se aborda el problema de la disminución de rendimiento que presentan los algoritmos de optimización basados en colonias de hormigas cuando resuelven problemas denominados many-objective. Como caso de prueba se optó por el popular Problema del Vendedor Viajante (TSP). En esta investigación se identificó la problemática existente en la asignación del cuándo se debe resolver problemas many-objective utilizando algoritmos MOACO. Este parámetro es sumamente importante en el ámbito de los algoritmos MOACO ya que es utilizado para guiar la búsqueda de soluciones en distintos lugares del espacio de soluciones posibles. Para solucionar esta problemática, este trabajo propone una nueva estrategia de asignación de la denominada Asignación base-p. Dicha técnica fue aplicada a un algoritmo MOACO y fue sometida a distintas pruebas experimentales sobre instancias generadas del TSP many-objective utilizando las métricas del Hipervolumen y Cobertura. La Asignación base-p fue comparada con algoritmos MOACO existentes y además, con el NSGA2 demostrándose que esta nueva estrategia calcula un mejor Hipervolumen cuando se resuelven problemas denominados many-objective. Como aporte principal, este trabajo recomienda la utilización de la técnica de Asignación base-p para resolver problemas many-objective utilizando algoritmos MOACO. Asignación de Redes Virtuales Infraestructuras Opticas con Traffic Grooming",
+   "authors": [
+    "Tileria Palacios",
+    "Marcos Daniel",
+    "Yu Villalba",
+    "Aloysius"
+   ],
+   "advisors": [
+    "Dávalos Giménez",
+    "Enrique Javier"
+   ],
+   "abstract": "Los algoritmos de optimización basados en colonias de hormigas han sido exitosamente utilizados para resolver problemas que involucran 2 o 3 objetivos. La mayoría de las investigaciones realizadas con algoritmos evolutivos han mostrado que cuando se incrementa la cantidad de objetivos, estas técnicas pierden su potencial y consecuentemente sus resultados se deterioran significativamente. Este comportamiento también se presenta en los algoritmos de optimización de colonias de hormigas. En este trabajo se aborda el problema de la disminución de rendimiento que presentan los algoritmos de optimización basados en colonias de hormigas cuando resuelven problemas denominados many-objective. Como caso de prueba se optó por el popular Problema del Vendedor Viajante (TSP). En esta investigación se identificó la problemática existente en la asignación del cuándo se debe resolver problemas many-objective utilizando algoritmos MOACO. Este parámetro es sumamente importante en el ámbito de los algoritmos MOACO ya que es utilizado para guiar la búsqueda de soluciones en distintos lugares del espacio de soluciones posibles. Para solucionar esta problemática, este trabajo propone una nueva estrategia de asignación de la denominada Asignación base-p. Dicha técnica fue aplicada a un algoritmo MOACO y fue sometida a distintas pruebas experimentales sobre instancias generadas del TSP many-objective utilizando las métricas del Hipervolumen y Cobertura. La Asignación base-p fue comparada con algori",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-aproximacion-colaborativa-transito-vehicular",
+   "title": "name=\"2015-aproximacion-colaborativa-transito-vehicular\"> Aproximación Colaborativa del Tránsito Vehicular Basada en Aplicaciones Móviles",
+   "authors": [
+    "Campuzano Romero",
+    "Alfredo Daniel",
+    "López Rojas",
+    "Rubén Darío"
+   ],
+   "advisors": [
+    "Lima Molinari",
+    "Joaquín Quinto"
+   ],
+   "abstract": "El creciente aumento del parque automotor en los países en vías de desarrollo representa un problema de difícil solución debido principalmente a que sus ciudades no cuentan con infraestructura vial bien planificada y tampoco con tecnología instalada para monitorear el estado del tráfico, lo cual dificulta el tránsito diario y deteriora la calidad de vida de los ciudadanos. Debido a esto se hace evidente la necesidad de re-colectar y analizar información sobre el tránsito de forma barata y sencilla pero a la vez efectiva. Aprovechando que la utilización de teléfonos móviles inteligentes, equipados con sensores GPS, está creciendo a un ritmo considerable surge la posibilidad de utilizar esta tecnología para obtener información acerca del tráfico vehicular de forma eficiente y que posteriormente sirva de apoyo para la optimización del mismo. En este trabajo se presentan detalles de implementación del sistema denominado Autotracks, que permite recolectar y procesar información del tránsito vehicular a través de dispositivos móviles para aproximar el estado del tráfico en tiempo real. Se utilizó un esquema de Floating Car Data en combinación con técnicas de detección de actividad para monitorear la ubicación de los vehículos en movimiento tomándose muestras de su recorrido. La trayectoria real de los vehículos por las calles de la ciudad es luego determinada mediante un proceso de Map Matching. Luego, para un período de tiempo dado, todas las trayectorias determinadas pueden ser",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-arquitectura-nube-hce-fhir",
+   "title": "name=\"2015-arquitectura-nube-hce-fhir\"> Arquitectura en la nube para la interoperabilidad entre sistemas HCE aplicando FHIR y el enfoque de dos niveles",
+   "authors": [
+    "López Estigarribia",
+    "Pablo José",
+    "Romero Riveros",
+    "Jesús María"
+   ],
+   "advisors": [
+    "Villalba",
+    "Cynthia",
+    "Vázquez Noguera",
+    "José Luis",
+    "Pinto Roa",
+    "Diego Pedro"
+   ],
+   "abstract": "Muchos centros asistenciales continúan registrando los datos de la historia clínica en papel. Aquellos que cuentan con un sistema de Historia Clínica Electrónica (HCE) generalmente no poseen ´ mecanismos de interoperabilidad, o bien existen implementaciones de manera ad-hoc entre sistemas. Las HCE utilizan diversos modelos de información y representación de datos, lo que dificulta ´ el intercambio de información. En consecuencia, la historia del ´ paciente se encuentra fragmentada y aislada en los distintos centros asistenciales en los cuales fue atendido. La propuesta de este trabajo consiste en una arquitectura para el intercambio de información centralizado en la nube mediante la integración de las Historias Clínicas Electrónicas del paciente en una HCE única y estandarizada. La información estar ´ a almacenada en ´ un repositorio de alta disponibilidad y los interesados podrán acceder a la HCE integrada del paciente realizando peticiones únicamente al sistema central, abstray endose de la cantidad de sistemas heterogéneos participantes. Se utilizar al enfoque de ´ dos niveles para el modelado de información en base al estándar FHIR de HL7. La arquitectura propuesta fue evaluada y comparada con otros trabajos relacionados a través de una adaptación´ del framework An Analysis Framework for Electronic Health Record Systems, consiguiendo puntaje ideal en la evaluación sobre ´ la búsqueda de la interoperabilidad entre sistemas HCE 2014 Sistema de Monitoreo en Tiempo Real Util",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-asignacion-redes-virtuales-grooming",
+   "title": "name=\"2015-asignacion-redes-virtuales-grooming\"> Asignación de Redes Virtuales Infraestructuras Opticas con Traffic Grooming",
+   "authors": [
+    "Tileria Palacios",
+    "Marcos Daniel",
+    "Yu Villalba",
+    "Aloysius"
+   ],
+   "advisors": [
+    "Dávalos Giménez",
+    "Enrique Javier"
+   ],
+   "abstract": "Las técnicas de Virtualización de redes pueden erradicar la resistencia a cambios net y estimular la aparición de nuevas arquitecturas de red y aplicaciones. La capacidad de soportar arquitecturas heterogéneas en un mismo sustrato físico provee flexibilidad, diversidad, facilita la administración y el mantenimiento de las redes. Las redes ópticas son sustratos ideales para el aprovisionamiento de servicios virtuales con requerimientos de gran ancho de banda. El problema de la asignación eficiente de redes virtuales en redes ptico es denominado VONE (Virtual Optical Network Embedding). En este trabajo se propone un algoritmo heur ́ısitico, denominado Sd-Mapping, para resolver el problema VONE utilizando la técnica de traffic grooming a fin de acomodar en una misma longitud de onda varias solicitudes de menor requerimiento que la capacidad de un canal ptico. El algoritmo propuesto es comparado con un algoritmo de referencia del estado del arte teniendo en cuenta las siguientes cuatro métricas a minimizar: Cantidad de longitudes de onda, Costo ponderado, Promedio de saltos físicos y Utilización de Grooming ports. Los resultados experimentales muestran que la propuesta es una alternativa válida ya que consiguió resultados prometedores en las métricas de Cantidad de longitudes de onda, Costo ponderado y Promedio de saltos físicos en tres topologías de prueba dominando en el sentido Pareto en la mayor ́ıa de las instancias consideradas al algoritmo del estado del arte. Además, se",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-diagnostico-lesiones-melanociticas-abcd",
+   "title": "name=\"2015-diagnostico-lesiones-melanociticas-abcd\"> Diagnóstico de Lesiones Melanocíticas Asistido por Computadora Basado en el Método ABCD",
+   "authors": [
+    "Leguizamón Correa",
+    "Deisy Natalia",
+    "Bareiro Paniagua",
+    "Laura Raquel"
+   ],
+   "advisors": [
+    "Pinto Roa",
+    "Diego Pedro",
+    "Vázquez Noguera",
+    "José Luis",
+    "Salgueiro Toledo",
+    "Lizza Amada"
+   ],
+   "abstract": "La presencia de lesiones melanocíticas en la piel se hace cada vez más común, prana detección se vuelve vital para la toma de decisión en cuanto al tratamiento que se debe seguir. Existen dos tipos de lesiones melanocíticas, las benignas y las malignas. Las lesiones malignas se denominan Melanoma el cual es un cáncer de piel producido por el crecimiento descontrolado de los melanocitos atípicos (células que acumulan pigmento). La propagación de los melanocitos por todo el cuerpo lo convierte en el cáncer de piel más letal. En las últimas décadas el diagnóstico asistido por computadora es utilizado para asistir a los profesionales médicos, sin embargo, aún no existe una herramienta mundialmente aceptada para el diagnóstico del melanoma, lo que constituye un área de constantes desafíos. Por este motivo, en este trabajo se propone una herramienta que proporcione soporte al diagnóstico de esta herramienta está compuesta por 4 módulos: Preprocesamiento, Segmentación, Extracción de Características y Clasificación. La entrada como dato inicial al sistema es la imagen dermatoscópica, que fueron tomadas por un instrumento con un sistema de amplificación de la imagen llamado dermatoscopio. El Preprocesamiento consiste en la eliminación de pelos en la imagen. La segmentación consiste en aislar el objeto de inter ́es, la lesión. La extracción de características se realiza con la ayuda de un método muy utilizado por los dermatólogos en la inspección visual, el ABCD, que consiste en el es",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-juegos-serios-apoyo-formacion-profesionales",
+   "title": "name=\"2015-juegos-serios-apoyo-formacion-profesionales\"> Juegos serios como apoyo a la formación de profesionales: Una aplicación al área de enfermería",
+   "authors": [
+    "González Leguizamón",
+    "Mirta Beatriz",
+    "Volpe Torres",
+    "Arturo Pedro Enrique"
+   ],
+   "advisors": [
+    "Abente Lahaye",
+    "Martin"
+   ],
+   "abstract": "Este trabajo describe el uso de las Tecnologías de la información y la comunicación (TIC) en el proceso de aprendizaje, especialmente en forma de juegos serios como área de investigación. Se da una breve reseña de la inclusión de las tecnologías en la educación, desde su uso tradicional como proveedor de información hasta su rol actual en la construcción de conocimiento. Se describen las principales características y áreas de aplicación de los juegos serios como herramienta educativa. Se introduce a los juegos serios como solución tecnológica a las problemáticas del área de enfermería, las problemáticas y los detalles de la solución en forma de juego serio también son Finalmente, se detallan las metodologías utilizadas para evaluar la solución y los resultados obtenidos más importantes. Estos resultados junto con la experiencia de desarrollar la solución permiten obtener conclusiones relacionadas al diseño, implementación y evaluación de juegos serios orientados a la educación, así como también identificar posibles trabajos futuros Keywords—Juegos serios, simulación, enfermería, educación, aprendizaje, tecnologías de la información y la educación. Monitorización y evaluación de la calidad de la experiencia para servicios de datos móviles: un enfoque basado en Machine Learning” AUTORES: Quiñonez, Brenda Romina Lujan y Fernández Cabral, Luis Fernando. ASESORES: Pinto Roa, Diego Pedro; Núñez Castillo, Carlos Heriberto y García Díaz, María Elena. RESUMEN: En la actualidad, se ex",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-monitorizacion-evaluacion-machine-learning",
+   "title": "name=\"2015-monitorizacion-evaluacion-machine-learning\"> Monitorización y evaluación de la calidad de la experiencia para servicios de datos móviles: un enfoque basado en Machine Learning”",
+   "authors": [
+    "Quiñonez",
+    "Brenda Romina Lujan",
+    "Fernández Cabral",
+    "Luis Fernando"
+   ],
+   "advisors": [
+    "Pinto Roa",
+    "Diego Pedro",
+    "Núñez Castillo",
+    "Carlos Heriberto",
+    "García Díaz",
+    "María Elena"
+   ],
+   "abstract": "En la actualidad, se experimenta un importante aumento en el tráfico de datos a través de las redes móviles. Cuando existe gran cantidad de datos intercambiados, uno de los principales desafíos a afrontar es la degradación de la calidad percibida por los usuarios de los servicios móviles. Desde el punto de vista de los operadores, la calidad de la experiencia (QoE) juega un rol importante en el modelo de negocio, ya que es un factor clave de éxito para el posicionamiento de las empresas de telecomunicaciones y la lealtad de los usuarios. Este hecho ha llevado a los operadores de redes móviles y a la comunidad científica a desarrollar métodos y estrategias que permitan medir el QoE. Muchos estudios se han centrado en identificar la relación entre los parámetros de la calidad de servicio (QoS) y la percepción del usuario. Algunos se han enfocado en identificar la relación entre QoE y QoS para un tipo de tráfico determinado, mientras que otros han tratado de definir un modelo genérico que establezca una relación entre ambos conceptos. Este trabajo se enfoca en el establecimiento de un modelo de monitoreo y evaluación de QoE considerando parámetros a nivel de red, dispositivo y aplicación para dos contextos de uso habituales: navegación web y video streaming. Para este fin, se desarrollaron una plataforma de transmisión de datos móviles y una aplicación Android que se utilizan en el proceso de recolección de datos. Los datos obtenidos se emplean como entrada de distintos algorit",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-prediccion-series-temporales",
+   "title": "name=\"2015-prediccion-series-temporales\"> Predicción de Series Temporales a Corto Plazo Utilizando un Enfoque Cooperativo Competitivo Multiobjetivo",
+   "authors": [
+    "Avalos Godoy",
+    "Manuel Alejandro",
+    "Ferreira Duarte",
+    "Arturo Ramón"
+   ],
+   "advisors": [
+    "Von Lucken",
+    "Christian Daniel"
+   ],
+   "abstract": "Este trabajo presenta un nuevo modelo para entrenar redes neuronales con funciones de base radial para realizar predicciones de series temporales a corto plazo por medio de una red neuronal. El entrenamiento se realiza en dos fases. En la primera fase se entrenan los pesos asociados a las funciones de base radial (RBF), y en la segunda fase, se utiliza un modelo evolutivo que se basa en un algoritmo evolutivo cooperativo competitivo multiobjetivo para determinar los parámetros con que cuenta cada nodo de la red RBF. La propuesta presentada en este trabajo ha sido incluída dentro de la herramienta de minería de datos WEKA [Hall et al. (2013)]. El modelo se ha aplicado a problemas reales de predicción de series temporales y los resultados obtenidos por el modelo propuesto son mejores a los de un modelo de entrenamiento evolutivo cooperativo competitivo mono-objetivo propuesto en [Pérez-Godoy et al. (2010)]. Igualmente, provee mejores resultados que varios de los métodos de predicción del estado del arte incluídos en WEKA. Diagnóstico de Lesiones Melanocíticas Asistido por Computadora Basado en el Método ABCD AUTORES: Leguizamón Correa, Deisy Natalia y Bareiro Paniagua, Laura Raquel. ASESORES: Pinto Roa, Diego Pedro; Vázquez Noguera, José Luis y Salgueiro Toledo, Lizza Amada. RESUMEN: La presencia de lesiones melanocíticas en la piel se hace cada vez más común, prana detección se vuelve vital para la toma de decisión en cuanto al tratamiento que se debe seguir. Existen dos tipo",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-proteccion-basada-en-qos-colonia-hormigas",
+   "title": "name=\"2015-proteccion-basada-en-qos-colonia-hormigas\"> Protección basada en calidad de servicio (QoS) para conexiones en redes Ópticas WDM aplicando Optimización multi-objetivo basada en Colonia de Hormigas",
+   "authors": [
+    "Núñez Zymanscki",
+    "Tania Belén",
+    "Ayala Zarza",
+    "Víctor Arnaldo"
+   ],
+   "advisors": [
+    "Abente Lahaye",
+    "Martin"
+   ],
+   "abstract": "El presente trabajo resuelve el problema de ruteo y asignación de longitudes de onda (RWA, Routing and Wavelength Assignment), teniendo en cuenta el tipo o calidad de servicio (Quality of Service, QoS) solicitado por el cliente. Se presenta una modificación al algoritmo MOACS (Multi-Objective Ant Colony System), Obteniendo resultados prometedores en comparación a la propuesta MOACS original. Se realizó además una implementación con Programación Lineal Entera Mixta (Mixed Integer Linear Programming, MILP) para validad el modelo propuesto. Juegos serios como apoyo a la formación de profesionales: Una aplicación al área de enfermería AUTORES: González Leguizamón, Mirta Beatriz y Volpe Torres, Arturo Pedro Enrique. ASESOR: Abente Lahaye, Martin. RESUMEN: Este trabajo describe el uso de las Tecnologías de la información y la comunicación (TIC) en el proceso de aprendizaje, especialmente en forma de juegos serios como área de investigación. Se da una breve reseña de la inclusión de las tecnologías en la educación, desde su uso tradicional como proveedor de información hasta su rol actual en la construcción de conocimiento. Se describen las principales características y áreas de aplicación de los juegos serios como herramienta educativa. Se introduce a los juegos serios como solución tecnológica a las problemáticas del área de enfermería, las problemáticas y los detalles de la solución en forma de juego serio también son Finalmente, se detallan las metodologías utilizadas para eval",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-sistemas-infogeogr-mensajes-ussd",
+   "title": "name=\"2015-sistemas-infogeogr-mensajes-ussd\"> Sistema de Información Geográfica en Tiempo Real basado en Mensajes USSD para Identificación de Zonas de Riesgo Epidemiológico",
+   "authors": [
+    "Talavera Maldonado",
+    "Julia Ysabel",
+    "Ochoa Araya",
+    "Silvia Nathalia del Carmen"
+   ],
+   "advisors": [
+    "Paciello Coronel",
+    "Julio Manuel"
+   ],
+   "abstract": "La identificación de zonas de riesgo epidemiológico constituye uno de los principales problemas en salud pública, motivo por el cual se necesitan estrategias que permitan administrar adecuadamente la información y así facilitar el diseño de acciones de control y prevención de enfermedades en las zonas afectadas. El presente trabajo propone un modelo para agilizar el proceso de recolección de datos geográficos de casos sospechosos o confirmados de enfermedades, utilizando la tecnología móvil Unstructured Supplementary Service Data (USSD), atendiendo su amplia adopción incluso en países en desarrollo como es el caso del Paraguay. A partir de los datos enviados por los suscriptores a través de sus dispositivos móviles, se podrán visualizar en tiempo real potenciales zonas de riesgo epidemiológico en un Geographic Information Systems (GIS), de manera a que dicha información sirva como herramienta de soporte para la toma de decisiones. Durante las pruebas realizadas con el prototipo del modelo se lograron obtener mapas de riesgo de enfermedades por departamento y distrito, que permitieron realizar un estudio comparativo del modelo propuesto contra el modelo convencional utilizado actualmente por la Dirección General de Vigilancia de la Salud (DGVS), donde se pudieron observar las fortalezas del modelo propuesto, entre las que se destacan el alcance poblacional, la disponibilidad de la información en tiempo real, calidad del producto, e interoperabilidad. Como principal aporte de",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-utilizacion-kinect-opensource",
+   "title": "name=\"2015-utilizacion-kinect-opensource\"> Utilización del Sensor Kinect con Herramientas Open Source para el Desarrollo de Juegos Educativos para Niños en edad Pre-escolar",
+   "authors": [
+    "Fernández Valdez",
+    "Romina Celeste"
+   ],
+   "advisors": [
+    "Von Lucken",
+    "Christian Daniel"
+   ],
+   "abstract": "El sensor Kinect es un dispositivo que permite la interacción humano-computador a través de movimientos de las manos, brazos y el cuerpo entero sin necesidad de controloes o marcas. Fue lanzado en noviembre del 2010 como un accesorio de la consola Xbox 360 de Microsoft, y forma parte de un conjunto de tecnologías basadas en detección de movimiento que aparecieron durante la séptima generación de consolas de videojuegos. Aunque originalmente el Kinect fue diseñado para su uso con la consola Xbox 360, poco después de su lanzamiento aparecieron drivers y herramientas de programación que permiten utilizar este dispositivo como una PC. En la actualidad existen muchos trabajos y aplicaciones que explotan la tecnología del sensor Kinect fuera del mercado de los videojuegos, en áreas tales como la robótica y la medicina. Los dispositivos como el sensor Kinect tienen un gran potencial en el área de la educación, ya que el uso de tecnologías en el aula se considera un incentivo para captar la atención de los estudiantes. Particularmente, en la educación pre-escolar es común el uso de juegos como método de enseñanza. También durante la edad pre-escolar los niños desarrollan la coordinación mano-ojo una habilidad que puede ejercitarse con el uso de tecnologías como la del Kinect. En este trabajo se desarrolló un prototipo que utiliza el Kinect como dispositivo de entrada y que implementa juegos dirigidos a niños en edad pre-escolar. El mismo se puso a prueba en un centro educativo para",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2015-virtualizacion-redes-datos-multiobjetivos",
+   "title": "name=\"2015-virtualizacion-redes-datos-multiobjetivos\"> Virtualización de Redes de Datos. Un enfoque Multi-Objetivo",
+   "authors": [
+    "Aceval Sosa",
+    "Cristian Rodrigo",
+    "Franco Benegas",
+    "Víctor Ricardo"
+   ],
+   "advisors": [
+    "Dávalos Giménez",
+    "Enrique Javier"
+   ],
+   "abstract": "El problema “Virtual Network Embedding” o VNE permite el establecimiento óptimo de redes virtuales independientes entre sí, utilizando recursos de una misma red de infraestructura o de sustrato. Por la complejidad del problema, las investigaciones anteriores se han centrado en el dise ̃no de algoritmos basados en la optimizaci ́on de un solo objetivo. Sin embargo, en este trabajo, presentamos el algoritmo multi-objetivo VNE-MO-ILP para la resoluci ́on del problema VNE en su versión dinámica. Los resultados de las evaluaciones, utilizando un simulador de red, son promisorios e indican resultados superiores o comparables a los algoritmos del estado del arte de este problema. Predicción de Series Temporales a Corto Plazo Utilizando un Enfoque Cooperativo Competitivo Multiobjetivo AUTORES: Avalos Godoy, Manuel Alejandro y Ferreira Duarte, Arturo Ramón. ASESOR: Von Lucken, Christian Daniel. RESUMEN: Este trabajo presenta un nuevo modelo para entrenar redes neuronales con funciones de base radial para realizar predicciones de series temporales a corto plazo por medio de una red neuronal. El entrenamiento se realiza en dos fases. En la primera fase se entrenan los pesos asociados a las funciones de base radial (RBF), y en la segunda fase, se utiliza un modelo evolutivo que se basa en un algoritmo evolutivo cooperativo competitivo multiobjetivo para determinar los parámetros con que cuenta cada nodo de la red RBF. La propuesta presentada en este trabajo ha sido incluída dentro de la",
+   "year": "2015",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2016-anomalias-webservices",
+   "title": "name=\"2016-anomalias-webservices\"> Detector de Anomalías orientada a aplicaciones web y web services",
+   "authors": [
+    "Giménez",
+    "José Darío"
+   ],
+   "advisors": [
+    "Cappo Araujo",
+    "Cristian Ramón"
+   ],
+   "abstract": "Las aplicaciones web se han convertido en los sistemas que más demanda tienen para ser desarrollados en la actualidad. Esto es debido a numerosas ventajas que poseen con respecto a los sistemas de “escritorio”. Debido a la utilización masiva de los sistemas web, estos se han convertido en uno de los principales objetivos de ciberataques, los cuales intentan identificar alguna vulnerabilidad para obtener información valiosa o dañar al sistema web. En este trabajo proponemos un detector de intrusión online basado en anomalías que implementa varios modelos de detección propuestos en la literatura. A diferencia de los detectores basados en firmas los basados en anomalías son capaces de detectar ataques para los cuales no existe aún un patrón definido. Nuestro detector incluye nuevos modelos de anomalías para las peticiones HTTP basadas en los formatos XML y JSON que usualmente son utilizados en aplicaciones basadas en web services y Asynchronous Javascript and XML (AJAX). También presentamos un framework para incluir y evaluar nuevos modelos en el detector. Las pruebas de detección y de tiempo de respuesta mostraron resultados auspiciosos y competitivos con respecto a otros detectores. Utilización del Sensor Kinect con Herramientas Open Source para el Desarrollo de Juegos Educativos para Niños en edad Pre-escolar AUTOR: Fernández Valdez, Romina Celeste. ASESOR: Von Lucken, Christian Daniel. RESUMEN: El sensor Kinect es un dispositivo que permite la interacción humano-computador",
+   "year": "2016",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2016-carbono-imagenes-satelitales",
+   "title": "name=\"2016-carbono-imagenes-satelitales\"> Metodología para estimar pérdida de carbono a través de procesamiento de imágenes satelitales. Caso de uso Chaco Paraguayo",
+   "authors": [
+    "Vera Aquino",
+    "Santiago Smael"
+   ],
+   "advisors": [
+    "Legal Ayala",
+    "Horacio",
+    "Vázquez Noguera",
+    "José Luis"
+   ],
+   "abstract": "El cambio climático es un problema de carácter mundial, que engloba distintos factores ligadas a las actividades humanas. Los bosques constituyen un medio principal de conservación de carbono, donde la deforestación y degradación contribuyen al aumento de los Gases de efecto invernadero (GEI). En los últimos 50 años la explotación Forestal y el cambio en el uso de la tierra, produjo la pérdida del 90 % de los bosques en la región Oriental del Paraguay, generados por degradaciones y deforestaciones en los suelos con destino a una progresiva desertificación que atenta contra la biodiversidad y los sumideros de carbono. A diferencia de la región oriental, en el occidente o Chaco Paraguayo aplicar mecanismos de control ambiental implica elevados costo, por lo que el empleo de metodologías que ayuden a determinar zonas de riesgos disminuirá en cierta proporción los gastos en monitoreo. Esta investigación elabora una metodología práctica y dinámica para identificar focos de pérdidas de carbono forestal empleando procesamiento digital de imágenes satelitales. Una vez identificado focos de riesgos, permitirá fortalecer planes y estrategias en los controles, con acciones más óptimas y rigurosas en base a las estimaciones hechas. La metodología propuesta cuenta con dos procedimientos generales, donde las bandas infrarrojas cercanas y rojas de las imágenes satelitales para dos fechas, constituyen entradas En la generación de un mapa de perdida forestal (degradación y deforestación) con",
+   "year": "2016",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2016-enfoque-distribuido-circuitos-cuanticos-lnn",
+   "title": "name=\"2016-enfoque-distribuido-circuitos-cuanticos-lnn\"> Un enfoque distribuido para la conversión de circuitos cuánticos a la arquitectura LNN AUTORES: Fernández Caje, Joni y Meza romero, Edgar Inocencio. ASESORES: Baran Cegla, Benjamín y Lima Molinari, Joaquín Lima. RESUMEN: La computación cuántica ganó una sorpresiva preponderancia cuando Peter Shor [1] presentó en 1994 un algoritmo con la capacidad de quebrar en tiempo polinomial la seguridad del sistema de encriptado de Rivest, Shamir y Adleman (RSA) [2], muy utilizado en los certificados digitales y transacciones electrónicas hoy día, cuya demostración práctica se llevó a cabo en el 2001 por un grupo de IBM. 2015 Metodología para estimar pérdida de carbono a través de procesamiento de imágenes satelitales. Caso de uso Chaco Paraguayo",
+   "authors": [
+    "Vera Aquino",
+    "Santiago Smael"
+   ],
+   "advisors": [
+    "Baran Cegla",
+    "Benjamín",
+    "Lima Molinari",
+    "Joaquín Lima"
+   ],
+   "abstract": "La computación cuántica ganó una sorpresiva preponderancia cuando Peter Shor [1] presentó en 1994 un algoritmo con la capacidad de quebrar en tiempo polinomial la seguridad del sistema de encriptado de Rivest, Shamir y Adleman (RSA) [2], muy utilizado en los certificados digitales y transacciones electrónicas hoy día, cuya demostración práctica se llevó a cabo en el 2001 por un grupo de IBM. 2015 Metodología para estimar pérdida de carbono a través de procesamiento de imágenes satelitales. Caso de uso Chaco Paraguayo AUTOR: Vera Aquino, Santiago Smael. ASESORES: Legal Ayala, Horacio y Vázquez Noguera, José Luis. RESUMEN: El cambio climático es un problema de carácter mundial, que engloba distintos factores ligadas a las actividades humanas. Los bosques constituyen un medio principal de conservación de carbono, donde la deforestación y degradación contribuyen al aumento de los Gases de efecto invernadero (GEI). En los últimos 50 años la explotación Forestal y el cambio en el uso de la tierra, produjo la pérdida del 90 % de los bosques en la región Oriental del Paraguay, generados por degradaciones y deforestaciones en los suelos con destino a una progresiva desertificación que atenta contra la biodiversidad y los sumideros de carbono. A diferencia de la región oriental, en el occidente o Chaco Paraguayo aplicar mecanismos de control ambiental implica elevados costo, por lo que el empleo de metodologías que ayuden a determinar zonas de riesgos disminuirá en cierta proporción l",
+   "year": "2016",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2016-estimacion-desplazamiento-contaminantes",
+   "title": "name=\"2016-estimacion-desplazamiento-contaminantes\"> Estimación de Desplazamiento de Contaminantes Mediante Modelo de Redes Neuronales Artificiales",
+   "authors": [
+    "Román Orzuza",
+    "Claudia Lorena"
+   ],
+   "advisors": [
+    "González Codas",
+    "Guillermo Jacobo"
+   ],
+   "abstract": "La evaluación del rendimiento académico de los estudiantes es un tema de interés en cualquier institución educativa. Desafortunadamente, en algunos casos, el rendimiento de los estudiantes no es el esperado. En algunas asignaturas particulares, este patrón sobresale. Es decir, la mayoría de los estudiantes matriculados no aprueban la asignatura. Para identificar las características de los estudiantes que no aprueban ciertas asignaturas, se puede recurrir a los datos generados en los diferentes departamentos de una institución educativa. Debido al volumen de estos datos se hace indispensable y necesaria la utilización de tecnologías y disciplinas de la ciencia de la computación. Entre estas disciplinas se puede citar a las técnicas de Data Mining. En este trabajo de investigación, se pretende obtener modelos descriptivos que permitan identificar cuáles son algunas de las características de los estudiantes que no aprueban ciertas asigna",
+   "year": "2016",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2016-identificacion-caracteristicas-kdd",
+   "title": "name=\"2016-identificacion-caracteristicas-kdd\"> Identificación de Características de Estudiantes con Bajo Rendimiento Basado en KDD",
+   "authors": [
+    "Trinidad Candía",
+    "Ana Belén"
+   ],
+   "advisors": [
+    "Pinto Roa",
+    "Diego Pedro",
+    "Inchaustti Martínez",
+    "Wilfrido Félix Antonio"
+   ],
+   "abstract": "La evaluación del rendimiento académico de los estudiantes es un tema de interés en cualquier institución educativa. Desafortunadamente, en algunos casos, el rendimiento de los estudiantes no es el esperado. En algunas asignaturas particulares, este patrón sobresale. Es decir, la mayoría de los estudiantes matriculados no aprueban la asignatura. Para identificar las características de los estudiantes que no aprueban ciertas asignaturas, se puede recurrir a los datos generados en los diferentes departamentos de una institución educativa. Debido al volumen de estos datos se hace indispensable y necesaria la utilización de tecnologías y disciplinas de la ciencia de la computación. Entre estas disciplinas se puede citar a las técnicas de Data Mining. En este trabajo de investigación, se pretende obtener modelos descriptivos que permitan identificar cuáles son algunas de las características de los estudiantes que no aprueban ciertas asignaturas seleccionadas para el caso de estudio. Para llegar a esta finalidad, se propone seguir el proceso Knowledge Discovery in Databases. Par el caso de estudio, se seleccionaron asignaturas de la carrera de Ingeniería en Informática de la Facultad Politécnica de la Universidad Nacional de Asunción. Dichas asignaturas se caracterizan por un alto índice de reprobación y/o por una secuencia de correlativas que se extiende por varios semestres de la carrera. Como resultado se obtuvieron diferentes modelos descriptivos que proporcionan una idea de c",
+   "year": "2016",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2016-metodo-computacional-recuperacion",
+   "title": "name=\"2016-metodo-computacional-recuperacion\"> Método Computacional para la recuperación y Extracción Automática AUTORES: Benegas, Bianca Stefania y Palacios Romero, Claudia Noemi. ASESORES: Legal Ayala, Horacio y Vázquez Noguera, José Luis. RESUMEN: Algunos centros meteorológicos almacenan en sus instalaciones una gran cantidad de bandas de papel que contienen mediciones de presión atmosférica, temperatura, humedad y precipitación. Las mediciones meteorológicas se representan en forma de línea continúa trazada sobre una cartilla dividida en períodos de tiempo. Las bandas de papel corren peligro de perderse ya sea por el deterioro que sufren a causa del paso del tiempo, factores como la humedad o algún siniestro. La lectura y el registro de la información se realiza de forma manual y para ello se emplea una considerable cantidad de tiempo y esfuerzo. La recuperación de las bandas de papel permitirá contar con una base de datos de imágenes y la extracción automática permitirá obtener datos más precisos y frecuentes de las mediciones. Este trabajo propone un método computacional que consiste en el procesamiento digital y análisis de imágenes escaneadas aplicando un modelo matemático para el cálculo de las mediciones. Los métodos de binarización, operadores morfológicos y filtros fueron aplicados según sus métricas de desempeño (exactitud, precisión y tasa de error). La aplicación de estos procedimientos generó una curva representativa que fue introducida al modelo matemático y permitió calcular los valores de la medición en los horarios correspondientes. Los resultados arrojaron un promedio de error de 0,1676 hPa de presión y el tiempo promedio de procesamiento por banda es de 1,03 segundos. Un enfoque distribuido para la conversión de circuitos cuánticos a la arquitectura LNN AUTORES: Fernández Caje, Joni y Meza romero, Edgar Inocencio. ASESORES: Baran Cegla, Benjamín y Lima Molinari, Joaquín Lima. RESUMEN: La computación cuántica ganó una sorpresiva preponderancia cuando Peter Shor [1] presentó en 1994 un algoritmo con la capacidad de quebrar en tiempo polinomial la seguridad del sistema de encriptado de Rivest, Shamir y Adleman (RSA) [2], muy utilizado en los certificados digitales y transacciones electrónicas hoy día, cuya demostración práctica se llevó a cabo en el 2001 por un grupo de IBM. 2015 Metodología para estimar pérdida de carbono a través de procesamiento de imágenes satelitales. Caso de uso Chaco Paraguayo",
+   "authors": [
+    "Vera Aquino",
+    "Santiago Smael"
+   ],
+   "advisors": [
+    "Legal Ayala",
+    "Horacio",
+    "Vázquez Noguera",
+    "José Luis"
+   ],
+   "abstract": "Algunos centros meteorológicos almacenan en sus instalaciones una gran cantidad de bandas de papel que contienen mediciones de presión atmosférica, temperatura, humedad y precipitación. Las mediciones meteorológicas se representan en forma de línea continúa trazada sobre una cartilla dividida en períodos de tiempo. Las bandas de papel corren peligro de perderse ya sea por el deterioro que sufren a causa del paso del tiempo, factores como la humedad o algún siniestro. La lectura y el registro de la información se realiza de forma manual y para ello se emplea una considerable cantidad de tiempo y esfuerzo. La recuperación de las bandas de papel permitirá contar con una base de datos de imágenes y la extracción automática permitirá obtener datos más precisos y frecuentes de las mediciones. Este trabajo propone un método computacional que consiste en el procesamiento digital y análisis de imágenes escaneadas aplicando un modelo matemático para el cálculo de las mediciones. Los métodos de binarización, operadores morfológicos y filtros fueron aplicados según sus métricas de desempeño (exactitud, precisión y tasa de error). La aplicación de estos procedimientos generó una curva representativa que fue introducida al modelo matemático y permitió calcular los valores de la medición en los horarios correspondientes. Los resultados arrojaron un promedio de error de 0,1676 hPa de presión y el tiempo promedio de procesamiento por banda es de 1,03 segundos. Un enfoque distribuido para la",
+   "year": "2016",
+   "source": "www2.pol.una.py/?q=node/1071"
+  },
+  {
+   "anchor": "2016-reconocimiento-rostro-expr-faciales",
+   "title": "name=\"2016-reconocimiento-rostro-expr-faciales\" id=\"2016-reconocimiento-rostro-expr-faciales\"> Reconocimiento de rostro y expresiones faciales de dolor en ambientes inteligentes",
+   "authors": [
+    "Araujo Vert",
+    "Pablo Milciades",
+    "Martínez Alfonso",
+    "Lamia Elizabeth"
+   ],
+   "advisors": [
+    "Pinto Roa",
+    "Diego Pedro"
+   ],
+   "abstract": "La Inteligencia Ambiental es un área de la Computación que se dirige a tener espacios, tecnológicamente enriquecidos que apoyen a las personas en su vida diaria (Cook et al., 2009). Las principales características que se presentan en los sistemas de Inteligencia Ambiental son: poder detectar información del entorno, razonar con los datos acumulados y seleccionar las acciones a tomar con el fin de beneficiar a sus usuarios (Cook et al., 2009). Entre los campos de aplicación encontrados, destacan los siguientes: casas inteligentes, espacios de trabajo, entornos educativos y servicios de salud (Hospitales Inteligentes). Este último es el campo de aplicación donde se enfoca nuestro trabajo. Un Hospital Inteligente es aquel que funciona de modo más eficiente a la hora de combinar las diversas tecnologías a fin de mejorar la atención y la calidad del cuidado de pacientes. Nuestro trabajo apunta en particular al problema de monitoreo de pacientes intrahospitalarios en salas de recuperación en donde el estado de dolor extremo debe ser monitoreado constantemente para que el personal médico tome acciones inmediatas. A través de sistemas como el detector de rostro, reconocedor de rostros y el reconocedor de expresiones faciales, el monitoreo de pacientes a través de cámaras de vigilancias puede ser una realidad. Sin embargo no se ha encontrado en la literatura el desarrollo de una aplicación que considere los tres sistemas juntos para resolver esta problemática, es por eso que desarrol",
+   "year": "2016",
+   "source": "www2.pol.una.py/?q=node/1071"
+  }
+ ]
+}

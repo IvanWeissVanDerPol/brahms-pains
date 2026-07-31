@@ -1,0 +1,48 @@
+{
+ "harvested_at": "2026-07-30",
+ "source": "https://indico.una.py",
+ "events": [
+  {
+   "event_id": 2,
+   "title": "XVII Jornadas de Jóvenes Investigadores UNA  (19-21 de julio de 2023) · UNA - Congresos (Indico)",
+   "contrib_count": 2,
+   "url": "https://indico.una.py/event/2/"
+  },
+  {
+   "event_id": 7,
+   "title": "IV CONGRESO DE INTERNACIONALIZACIÓN DE LA EDUCACIÓN SUPERIOR  (25-27 de septiembre de 2024): Vista general · UNA - Congresos (Indico)",
+   "contrib_count": 108,
+   "url": "https://indico.una.py/event/7/"
+  },
+  {
+   "event_id": 18,
+   "title": "Coloquio Paraguayo de Matemática y Ciencias Afines  (13-15 de octubre de 2025): Vista general · UNA - Congresos (Indico)",
+   "contrib_count": 28,
+   "url": "https://indico.una.py/event/18/"
+  },
+  {
+   "event_id": 19,
+   "title": "VII Foro de Investigación FACSO I Seminario Internacional de Ciencias Sociales  (11-13 de noviembre de 2025): Vista general · UNA - Congresos (Indico)",
+   "contrib_count": 5,
+   "url": "https://indico.una.py/event/19/"
+  },
+  {
+   "event_id": 20,
+   "title": "VII Simposio de Química Inorgánica, Analítica, y Fisicoquímica QIAF 2025  (15-16 de octubre de 2025): Vista general · UNA - Congresos (Indico)",
+   "contrib_count": 6,
+   "url": "https://indico.una.py/event/20/"
+  },
+  {
+   "event_id": 21,
+   "title": "SOLABIMA 2026 - XIV Congreso de la Sociedad Latinoamericana de Biología Matemática  (5-9 de octubre de 2026): Vista general · UNA - Congresos (Indico)",
+   "contrib_count": 0,
+   "url": "https://indico.una.py/event/21/"
+  },
+  {
+   "event_id": 26,
+   "title": "XX Jornadas de Jóvenes Investigadores e Innovadores UNA  (21-23 de julio de 2026) · UNA - Congresos (Indico)",
+   "contrib_count": 0,
+   "url": "https://indico.una.py/event/26/"
+  }
+ ]
+}

@@ -1,0 +1,1645 @@
+{
+ "generated_at": "2026-07-30",
+ "source": "opac_una_full_v2_enriched_ckpt.json (488 enriched) + people_index.json (244 personas)",
+ "n_enriched_records": 588,
+ "n_people": 244,
+ "n_matches": 175,
+ "n_no_match": 181,
+ "top_advisors": [
+  {
+   "advisor": "Lucia Janet Villalba Marín",
+   "thesis_count_in_corpus": 4,
+   "recent_3y_count": 4,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Estimación de área de riego por pivot central en el Departamento de Canindeyú en el período 2018-202",
+    "Estimación de área de riego por pivote central mediante teledetección para el Departamento de Caazap",
+    "Estimación de área de riego por pivot central en el Departamento de Canindeyú en el período 2018-202",
+    "Estimación de área de riego por pivote central mediante teledetección para el Departamento de Caazap"
+   ],
+   "person_record": {
+    "name": "Lucia Janet Villalba Marín",
+    "as_author": 0,
+    "as_orientador": 5,
+    "thesis_count": 5,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Lucia Janet Villalba Marín"
+    ]
+   }
+  },
+  {
+   "advisor": "Marcos Villagra",
+   "thesis_count_in_corpus": 3,
+   "recent_3y_count": 3,
+   "years_active": [
+    2024,
+    2025
+   ],
+   "corpus_thesis_titles": [
+    "Evaluación del desempeño de PCA con dispersión espectral",
+    "Evaluación del desempeño de PCA con dispersión espectral",
+    "Desarrollo de un sistema de monitorización y alertas en tiempo real para la detección de eventos crí"
+   ],
+   "person_record": {
+    "name": "Villagra",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024",
+     "2025"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Villagra"
+    ]
+   }
+  },
+  {
+   "advisor": "Von Lucken Martinez",
+   "thesis_count_in_corpus": 3,
+   "recent_3y_count": 3,
+   "years_active": [
+    2023,
+    2026
+   ],
+   "corpus_thesis_titles": [
+    "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Lea",
+    "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Lea",
+    "Análisis de sentimiento y predicción de publicaciones gubernamentales en redes sociales en el Paragu"
+   ],
+   "person_record": {
+    "name": "Von Lucken Martinez",
+    "as_author": 0,
+    "as_orientador": 3,
+    "thesis_count": 3,
+    "is_advisor": true,
+    "years": [
+     "2023",
+     "2026"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Von Lucken Martinez"
+    ]
+   }
+  },
+  {
+   "advisor": "Lucas Teótimo",
+   "thesis_count_in_corpus": 3,
+   "recent_3y_count": 3,
+   "years_active": [
+    2023,
+    2025
+   ],
+   "corpus_thesis_titles": [
+    "Sistema de monitoreo y control de humedad del suelo de cultivos de plántulas de tomate en invernader",
+    "Planificación de capacidad de acceso de red asistida por machine learning, para mitigar el desacople",
+    "Planificación de capacidad de acceso de red asistida por machine learning, para mitigar el desacople"
+   ],
+   "person_record": {
+    "name": "Lucas Teótimo",
+    "as_author": 0,
+    "as_orientador": 3,
+    "thesis_count": 3,
+    "is_advisor": true,
+    "years": [
+     "2023",
+     "2025"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Lucas Teótimo"
+    ]
+   }
+  },
+  {
+   "advisor": "Enrique",
+   "thesis_count_in_corpus": 3,
+   "recent_3y_count": 2,
+   "years_active": [
+    2022,
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien",
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien",
+    "Evaluación de Heurísticas para la desfragmentación reactiva de redes opticas elásticas con Tráfico U"
+   ],
+   "person_record": {
+    "name": "Enrique",
+    "as_author": 0,
+    "as_orientador": 3,
+    "thesis_count": 3,
+    "is_advisor": true,
+    "years": [
+     "2022",
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Enrique"
+    ]
+   }
+  },
+  {
+   "advisor": "Mariana",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2025
+   ],
+   "corpus_thesis_titles": [
+    "Diseño y automatización de circuitos eléctricos para el sistema de bombeo de una red de alcantarilla",
+    "Diseño y automatización de circuitos eléctricos para el sistema de bombeo de una red de alcantarilla"
+   ],
+   "person_record": {
+    "name": "Mariana",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2025"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Mariana"
+    ]
+   }
+  },
+  {
+   "advisor": "Gabriel",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2025
+   ],
+   "corpus_thesis_titles": [
+    "Diseño y automatización de circuitos eléctricos para el sistema de bombeo de una red de alcantarilla",
+    "Diseño y automatización de circuitos eléctricos para el sistema de bombeo de una red de alcantarilla"
+   ],
+   "person_record": {
+    "name": "Gabriel",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2025"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Gabriel"
+    ]
+   }
+  },
+  {
+   "advisor": "Duarte Zaracho",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2025
+   ],
+   "corpus_thesis_titles": [
+    "Diseño y automatización de circuitos eléctricos para el sistema de bombeo de una red de alcantarilla",
+    "Diseño y automatización de circuitos eléctricos para el sistema de bombeo de una red de alcantarilla"
+   ],
+   "person_record": {
+    "name": "Duarte Zaracho",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2025"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Duarte Zaracho"
+    ]
+   }
+  },
+  {
+   "advisor": "Gerardo Gabriel",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Restauración de la máquina para prototipado de circuitos impresos del laboratorio de mecatrónica de ",
+    "Restauración de la máquina para prototipado de circuitos impresos del laboratorio de mecatrónica de "
+   ],
+   "person_record": {
+    "name": "Gabriel",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2025"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Gabriel"
+    ]
+   }
+  },
+  {
+   "advisor": "Gómez Añazco",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Restauración de la máquina para prototipado de circuitos impresos del laboratorio de mecatrónica de ",
+    "Restauración de la máquina para prototipado de circuitos impresos del laboratorio de mecatrónica de "
+   ],
+   "person_record": {
+    "name": "Gómez Añazco",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Gómez Añazco"
+    ]
+   }
+  },
+  {
+   "advisor": "Ever Arnaldo",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Restauración de la máquina para prototipado de circuitos impresos del laboratorio de mecatrónica de ",
+    "Restauración de la máquina para prototipado de circuitos impresos del laboratorio de mecatrónica de "
+   ],
+   "person_record": {
+    "name": "Ever Arnaldo",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Ever Arnaldo"
+    ]
+   }
+  },
+  {
+   "advisor": "Gómez Añazco Gerardo Gabriel",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Restauración de la máquina para prototipado de circuitos impresos impresos del laboratorio de mecatr",
+    "Restauración de la máquina para prototipado de circuitos impresos impresos del laboratorio de mecatr"
+   ],
+   "person_record": {
+    "name": "Gabriel",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2025"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Gabriel"
+    ]
+   }
+  },
+  {
+   "advisor": "Arnaldo",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Restauración de la máquina para prototipado de circuitos impresos impresos del laboratorio de mecatr",
+    "Restauración de la máquina para prototipado de circuitos impresos impresos del laboratorio de mecatr"
+   ],
+   "person_record": {
+    "name": "Arnaldo",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Arnaldo"
+    ]
+   }
+  },
+  {
+   "advisor": "Christian Dabiel",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Lea",
+    "Construcción de un dataset de eucaliptos a partir de imágenes aéreas y su análisis mediante DEEP Lea"
+   ],
+   "person_record": {
+    "name": "Christian Dabiel",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Christian Dabiel"
+    ]
+   }
+  },
+  {
+   "advisor": "Christian",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robó",
+    "Utilización de realidad virtual para el entrenamiento de la inteligencia artificial de un brazo robó"
+   ],
+   "person_record": {
+    "name": "Christian",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Christian"
+    ]
+   }
+  },
+  {
+   "advisor": "Arturo",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Para",
+    "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Para"
+   ],
+   "person_record": {
+    "name": "Arturo",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Arturo"
+    ]
+   }
+  },
+  {
+   "advisor": "Gon´zalez",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Para",
+    "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Para"
+   ],
+   "person_record": {
+    "name": "Gon´zalez",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Gon´zalez"
+    ]
+   }
+  },
+  {
+   "advisor": "Richard",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Para",
+    "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Para"
+   ],
+   "person_record": {
+    "name": "Richard",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Richard"
+    ]
+   }
+  },
+  {
+   "advisor": "Ríos",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Para",
+    "Propuesta de generación de energía eléctrica renovable para la localidad de Bahía Negra - Chaco Para"
+   ],
+   "person_record": {
+    "name": "Ríos",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Ríos"
+    ]
+   }
+  },
+  {
+   "advisor": "González Osorio",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien",
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien"
+   ],
+   "person_record": {
+    "name": "González Osorio",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "González Osorio"
+    ]
+   }
+  },
+  {
+   "advisor": "Buzarquis",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien",
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien"
+   ],
+   "person_record": {
+    "name": "Buzarquis",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Buzarquis"
+    ]
+   }
+  },
+  {
+   "advisor": "Félix",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien",
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien"
+   ],
+   "person_record": {
+    "name": "Félix",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Félix"
+    ]
+   }
+  },
+  {
+   "advisor": "Fernández",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2024
+   ],
+   "corpus_thesis_titles": [
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien",
+    "Análisis de alternativas de generación de energía eléctrica de fuente renovable para el abastecimien"
+   ],
+   "person_record": {
+    "name": "Fernández",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2024"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Fernández"
+    ]
+   }
+  },
+  {
+   "advisor": "José Gutiérrez",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Comparativa de normas de cálculo estructural de madera aserrada, aplicación al Paraguay y optimizaci",
+    "Comparativa de normas de cálculo estructural de madera aserrada, aplicación al Paraguay y optimizaci"
+   ],
+   "person_record": {
+    "name": "José Gutiérrez",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "José Gutiérrez"
+    ]
+   }
+  },
+  {
+   "advisor": "Hector Corvalan",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Eficiencia del sensor capacitivo 12C RS485 de bajo costo en conjunto con sistema IOT en la medición ",
+    "Eficiencia del sensor capacitivo 12C RS485 de bajo costo en conjunto con sistema IOT en la medición "
+   ],
+   "person_record": {
+    "name": "Hector Corvalan",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Hector Corvalan"
+    ]
+   }
+  },
+  {
+   "advisor": "Candy Santacruz",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2025
+   ],
+   "corpus_thesis_titles": [
+    "Sistema de monitoreo y control de humedad del suelo de cultivos de plántulas de tomate en invernader",
+    "Sistema de monitoreo del consumo eléctrico residencial mediante aplicación móvil con ESP32 e interne"
+   ],
+   "person_record": {
+    "name": "Candy Santacruz",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2025"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Candy Santacruz"
+    ]
+   }
+  },
+  {
+   "advisor": "Monges",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Planificación de capacidad de acceso de red asistida por machine learning, para mitigar el desacople",
+    "Planificación de capacidad de acceso de red asistida por machine learning, para mitigar el desacople"
+   ],
+   "person_record": {
+    "name": "Monges",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Monges"
+    ]
+   }
+  },
+  {
+   "advisor": "Rubén Alcídes Franco Ibars",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Estimación de área de riego por pivot central en el Departamento de Canindeyú en el período 2018-202",
+    "Estimación de área de riego por pivot central en el Departamento de Canindeyú en el período 2018-202"
+   ],
+   "person_record": {
+    "name": "Rubén Alcídes Franco Ibars",
+    "as_author": 0,
+    "as_orientador": 7,
+    "thesis_count": 7,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 3,
+    "variants": [
+     "Ruben A. Franco Ibars",
+     "Rubén Alcídes Franco Ibars",
+     "Rubén Franco Ibars"
+    ]
+   }
+  },
+  {
+   "advisor": "Pinto-Roa",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 2,
+   "years_active": [
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Enrutamiento, multidifusión y asignación de nivel de modulación y espectro en redes ópticas elástica",
+    "Incrustación y protección de árboles multi-difusión en redes ópticas virtuales basada en algoritmos "
+   ],
+   "person_record": {
+    "name": "Pinto-Roa",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Pinto-Roa"
+    ]
+   }
+  },
+  {
+   "advisor": "Juan Carlos Cristaldo",
+   "thesis_count_in_corpus": 3,
+   "recent_3y_count": 1,
+   "years_active": [
+    2019,
+    2023
+   ],
+   "corpus_thesis_titles": [
+    "Superando la brecha cartográfica : metodologías de mapeo in situ y cartografía analítica para comuni",
+    "Guía metodológica de mapeo participativo con software libre en el marco del proyecto de investigació",
+    "Atlas urbano de José Domingo Ocampos y Juan E. O'Leary, metodología de mapeo con sistemas de aeronav"
+   ],
+   "person_record": {
+    "name": "Juan Carlos Cristaldo",
+    "as_author": 0,
+    "as_orientador": 6,
+    "thesis_count": 6,
+    "is_advisor": true,
+    "years": [
+     "2019",
+     "2021",
+     "2023"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Juan Carlos Cristaldo"
+    ]
+   }
+  },
+  {
+   "advisor": "María Soledad Ayala Rodríguez",
+   "thesis_count_in_corpus": 5,
+   "recent_3y_count": 0,
+   "years_active": [
+    2010,
+    2021
+   ],
+   "corpus_thesis_titles": [
+    "Organización de la serie de resoluciones 1971-2008 y clasificación de los documentos del archivo de ",
+    "Organización de la serie de resoluciones 1971-2008 y clasificación de los documentos del archivo de ",
+    "Organización de la serie de resoluciones 1971-2008, y clasificación de los documentos del Archivo de",
+    "Organización física y preservación digital del archivo de gestión de los programas de maestría y doc",
+    "Organización física y preservación digital del archivo de gestión de los programas de maestría y doc"
+   ],
+   "person_record": {
+    "name": "María Soledad Ayala Rodríguez",
+    "as_author": 0,
+    "as_orientador": 14,
+    "thesis_count": 14,
+    "is_advisor": true,
+    "years": [
+     "2010",
+     "2018",
+     "2021",
+     "2023",
+     "2024"
+    ],
+    "variants_count": 5,
+    "variants": [
+     "Ahrens Rodríguez",
+     "Ayala Rodríguez",
+     "Luís Guillermo Moré Rodríguez",
+     "Maria Soledad Ayala Rodríguez",
+     "María Soledad Ayala Rodríguez"
+    ]
+   }
+  },
+  {
+   "advisor": "Juan Talavera",
+   "thesis_count_in_corpus": 4,
+   "recent_3y_count": 0,
+   "years_active": [
+    2020
+   ],
+   "corpus_thesis_titles": [
+    "Detección de anomalías en telecomunicaciones basada en una arquietectura Big Data",
+    "Detección de anomalías en telecomunicaciones basada en una arquietectura Big Data",
+    "Detección de anomalías en telecomunicaciones basada en una arquitectura big data",
+    "Detección de anomalías en telecomunicaciones basada en una arquitectura big data"
+   ],
+   "person_record": {
+    "name": "Juan Talavera",
+    "as_author": 0,
+    "as_orientador": 5,
+    "thesis_count": 5,
+    "is_advisor": true,
+    "years": [
+     "2017",
+     "2020"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Juan Talavera"
+    ]
+   }
+  },
+  {
+   "advisor": "Juan Pane",
+   "thesis_count_in_corpus": 4,
+   "recent_3y_count": 0,
+   "years_active": [
+    2016,
+    2017
+   ],
+   "corpus_thesis_titles": [
+    "Optimización e integración de componentes morfosintácticos de procesamiento del lenguaje natural en ",
+    "Optimización e integración de componentes morfosintácticos de procesamiento del lenguaje natural en ",
+    "Predicción de casos de dengue en el Paraguay utilizando redes neuronales artificiales",
+    "Predicción de casos de dengue en el Paraguay utilizando redes neuronales artificiales"
+   ],
+   "person_record": {
+    "name": "Juan Pane",
+    "as_author": 0,
+    "as_orientador": 5,
+    "thesis_count": 5,
+    "is_advisor": true,
+    "years": [
+     "2016",
+     "2017"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Juan Pane"
+    ]
+   }
+  },
+  {
+   "advisor": "Diego Pedro Pinto Roa",
+   "thesis_count_in_corpus": 4,
+   "recent_3y_count": 0,
+   "years_active": [
+    2015,
+    2016,
+    2017,
+    2018
+   ],
+   "corpus_thesis_titles": [
+    "Monitorización y evaluación de la calidad de la experiencia para servicios de datos móviles : un enf",
+    "Diseño de redes semi-robustas bajo incertidumbre de tráfico basado en algoritmos evolutivos multiobj",
+    "Mejora del contraste de imágenes a color utilizando un framework de optimización multiobjetivo",
+    "Análisis de la calidad de imagen en un contexto multiobjetivo basado en el SMPSO-CLAHE"
+   ],
+   "person_record": {
+    "name": "Diego Pedro Pinto Roa",
+    "as_author": 0,
+    "as_orientador": 15,
+    "thesis_count": 15,
+    "is_advisor": true,
+    "years": [
+     "2015",
+     "2016",
+     "2017",
+     "2018",
+     "2019",
+     "2020",
+     "2021",
+     "2024"
+    ],
+    "variants_count": 4,
+    "variants": [
+     "Diego P. Pinto Roa",
+     "Diego Pedro Pinto Roa",
+     "Diego Pinto Roa",
+     "Pinto Roa"
+    ]
+   }
+  },
+  {
+   "advisor": "José Quinto Paredes Fernández",
+   "thesis_count_in_corpus": 3,
+   "recent_3y_count": 0,
+   "years_active": [
+    2021
+   ],
+   "corpus_thesis_titles": [
+    "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados",
+    "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados",
+    "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados"
+   ],
+   "person_record": {
+    "name": "José Quinto Paredes Fernández",
+    "as_author": 0,
+    "as_orientador": 5,
+    "thesis_count": 5,
+    "is_advisor": true,
+    "years": [
+     "2018",
+     "2021"
+    ],
+    "variants_count": 2,
+    "variants": [
+     "Antonio Hernández Fernández",
+     "José Quinto Paredes Fernández"
+    ]
+   }
+  },
+  {
+   "advisor": "Mario Ramón Miño Zavala",
+   "thesis_count_in_corpus": 3,
+   "recent_3y_count": 0,
+   "years_active": [
+    2021
+   ],
+   "corpus_thesis_titles": [
+    "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados",
+    "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados",
+    "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados"
+   ],
+   "person_record": {
+    "name": "Mario Ramón Miño Zavala",
+    "as_author": 0,
+    "as_orientador": 3,
+    "thesis_count": 3,
+    "is_advisor": true,
+    "years": [
+     "2021"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Mario Ramón Miño Zavala"
+    ]
+   }
+  },
+  {
+   "advisor": "Diego Fermín Palacios Riquelme",
+   "thesis_count_in_corpus": 3,
+   "recent_3y_count": 0,
+   "years_active": [
+    2015,
+    2017
+   ],
+   "corpus_thesis_titles": [
+    "Diseño de un sistema de monitoreo ambiental para el Parque Nacional Ybycui a través del procesamient",
+    "Prototipo de sistema de control domótico aplicado a una vivienda por medio del reconocimiento de voz",
+    "Prototipo de sistema de control domótico aplicado a una vivienda por medio del reconocimiento de voz"
+   ],
+   "person_record": {
+    "name": "Diego Fermín Palacios Riquelme",
+    "as_author": 0,
+    "as_orientador": 3,
+    "thesis_count": 3,
+    "is_advisor": true,
+    "years": [
+     "2015",
+     "2017"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Diego Fermín Palacios Riquelme"
+    ]
+   }
+  },
+  {
+   "advisor": "Sofía Stete Borba",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2010
+   ],
+   "corpus_thesis_titles": [
+    "Organización de la serie de resoluciones 1971-2008 y clasificación de los documentos del archivo de ",
+    "Organización de la serie de resoluciones 1971-2008 y clasificación de los documentos del archivo de "
+   ],
+   "person_record": {
+    "name": "Sofía Stete Borba",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2010"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Sofía Stete Borba"
+    ]
+   }
+  },
+  {
+   "advisor": "Ernesto Lazaga",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2016
+   ],
+   "corpus_thesis_titles": [
+    "Prácticas de pobladores ante enfermedades producidas por aedes aegypti, barrio Ciudad Nueva, Paragua",
+    "Prácticas de pobladores ante enfermedades producidas por aedes aegypti, barrio Ciudad Nueva, Paragua"
+   ],
+   "person_record": {
+    "name": "Ernesto Lazaga",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2016"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Ernesto Lazaga"
+    ]
+   }
+  },
+  {
+   "advisor": "Benjamín Barán Cegla",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2009,
+    2016
+   ],
+   "corpus_thesis_titles": [
+    "&lt;Un&gt; enfoque distribuido para la conversión de circuitos cuánticos a la arquitectura LNN",
+    "Selección óptima de protección cíclica (p-Cycles) en redes ópticas WDM"
+   ],
+   "person_record": {
+    "name": "Benjamín Barán Cegla",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2009",
+     "2016"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Benjamín Barán Cegla"
+    ]
+   }
+  },
+  {
+   "advisor": "Mirta Morán",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2020
+   ],
+   "corpus_thesis_titles": [
+    "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos ",
+    "Detección temprana del cáncer de mamas con inteligencia artificial y técnicas basadas en algoritmos "
+   ],
+   "person_record": {
+    "name": "Mirta Morán",
+    "as_author": 0,
+    "as_orientador": 5,
+    "thesis_count": 5,
+    "is_advisor": true,
+    "years": [
+     "2015",
+     "2016",
+     "2020"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Mirta Morán"
+    ]
+   }
+  },
+  {
+   "advisor": "Lizza A. Salgueiro Toledo",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2015
+   ],
+   "corpus_thesis_titles": [
+    "Diagnóstico de lesiones melanocíticas asistido por computadora basado en el método ABCD",
+    "Diagnóstico de lesiones melanocíticas asistido por computadora basado en el método ABCD"
+   ],
+   "person_record": {
+    "name": "Lizza A. Salgueiro Toledo",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2015"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Lizza A. Salgueiro Toledo"
+    ]
+   }
+  },
+  {
+   "advisor": "Luciana Dalila Coronel Chávez",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2020
+   ],
+   "corpus_thesis_titles": [
+    "Sistema de domótica de bajo costo basado en internet de las cosas",
+    "Sistema de domótica de bajo costo basado en internet de las cosas"
+   ],
+   "person_record": {
+    "name": "Luciana Dalila Coronel Chávez",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2020"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Luciana Dalila Coronel Chávez"
+    ]
+   }
+  },
+  {
+   "advisor": "César Duarte",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2020
+   ],
+   "corpus_thesis_titles": [
+    "Sistema de domótica de bajo costo basado en internet de las cosas",
+    "Sistema de domótica de bajo costo basado en internet de las cosas"
+   ],
+   "person_record": {
+    "name": "Duarte, Marcio",
+    "as_author": 4,
+    "as_orientador": 0,
+    "thesis_count": 4,
+    "is_advisor": false,
+    "years": [
+     "2017"
+    ],
+    "variants_count": 2,
+    "variants": [
+     "Duarte Marcio",
+     "Duarte, Marcio"
+    ]
+   }
+  },
+  {
+   "advisor": "Reinaldo López Colmán",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2019
+   ],
+   "corpus_thesis_titles": [
+    "Propuesta para el mejoramiento de la eficiencia energética de residencias unifamiliares mediante la ",
+    "Propuesta para el mejoramiento de la eficiencia energética de residencias unifamiliares mediante la "
+   ],
+   "person_record": {
+    "name": "Reinaldo López Colmán",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2019"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Reinaldo López Colmán"
+    ]
+   }
+  },
+  {
+   "advisor": "César Gustavo Duarte Fioro",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2012
+   ],
+   "corpus_thesis_titles": [
+    "Domótica Android",
+    "Domótica Android"
+   ],
+   "person_record": {
+    "name": "César Gustavo Duarte Fioro",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2012"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "César Gustavo Duarte Fioro"
+    ]
+   }
+  },
+  {
+   "advisor": "Raúl Igmar Gregor Recalde Jorge Esteban Rodas Benítez",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2016,
+    2018
+   ],
+   "corpus_thesis_titles": [
+    "Desarrollo de algirtmos de división de polígonos orientados a la colaboración intencional de drones ",
+    "Implementación de algoritmos de control digital aplicados a vehículos aéreos no tripulados"
+   ],
+   "person_record": {
+    "name": "Raúl Igmar Gregor Recalde Jorge Esteban Rodas Benítez",
+    "as_author": 0,
+    "as_orientador": 12,
+    "thesis_count": 12,
+    "is_advisor": true,
+    "years": [
+     "2010",
+     "2015",
+     "2016",
+     "2017",
+     "2018"
+    ],
+    "variants_count": 6,
+    "variants": [
+     "Clotilde Benítez",
+     "Eudes Benítez",
+     "Jorge Esteban Rodas Benítez",
+     "Mirta Morán Eudes Benítez",
+     "Pablo Benítez",
+     "Raúl Igmar Gregor Recalde Jorge Esteban Rodas Benítez"
+    ]
+   }
+  },
+  {
+   "advisor": "Mario Miño José Quinto",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2021
+   ],
+   "corpus_thesis_titles": [
+    "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados",
+    "Fotogrametría aérea en levantamientos topográficos mediante el uso de vehículos aéreos no tripulados"
+   ],
+   "person_record": {
+    "name": "Mario Miño José Quinto",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2021"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Mario Miño José Quinto"
+    ]
+   }
+  },
+  {
+   "advisor": "Raúl Igmar Gregor Recalde",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2016,
+    2018
+   ],
+   "corpus_thesis_titles": [
+    "Desarrollo de algirtmos de división de polígonos orientados a la colaboración intencional de drones ",
+    "Implementación de algoritmos de control digital aplicados a vehículos aéreos no tripulados"
+   ],
+   "person_record": {
+    "name": "Raúl Igmar Gregor Recalde",
+    "as_author": 0,
+    "as_orientador": 8,
+    "thesis_count": 8,
+    "is_advisor": true,
+    "years": [
+     "2015",
+     "2016",
+     "2017",
+     "2018"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Raúl Igmar Gregor Recalde"
+    ]
+   }
+  },
+  {
+   "advisor": "Juan Ignacio Pane Fernandez",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2016
+   ],
+   "corpus_thesis_titles": [
+    "Optimización e integración de componentes morfosintácticos de procesamiento del lenguaje natural en ",
+    "Optimización e integración de componentes morfosintácticos de procesamiento del lenguaje natural en "
+   ],
+   "person_record": {
+    "name": "Juan Ignacio Pane Fernandez",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2016"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Juan Ignacio Pane Fernandez"
+    ]
+   }
+  },
+  {
+   "advisor": "Miguel García Torres",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2019
+   ],
+   "corpus_thesis_titles": [
+    "Evaluación del QoE en redes móviles utilizando modelos ensamblados de Machine Learning",
+    "Evaluación del QoE en redes móviles utilizando modelos ensamblados de Machine Learning"
+   ],
+   "person_record": {
+    "name": "Miguel García Torres",
+    "as_author": 0,
+    "as_orientador": 3,
+    "thesis_count": 3,
+    "is_advisor": true,
+    "years": [
+     "2019",
+     "2025"
+    ],
+    "variants_count": 2,
+    "variants": [
+     "Germán Torres",
+     "Miguel García Torres"
+    ]
+   }
+  },
+  {
+   "advisor": "María José Fernández De Nestosa",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2015
+   ],
+   "corpus_thesis_titles": [
+    "Simulación numérica de la movilidad electroforética de encadenados tipo A y dí,eros superenrollados ",
+    "Simulación numérica de la electroforesis bidimensional en geles de agarosa de dimeros anudados y sup"
+   ],
+   "person_record": {
+    "name": "María José Fernández De Nestosa",
+    "as_author": 0,
+    "as_orientador": 3,
+    "thesis_count": 3,
+    "is_advisor": true,
+    "years": [
+     "2014",
+     "2015"
+    ],
+    "variants_count": 2,
+    "variants": [
+     "María José Fernández De Nestosa",
+     "María José Fernández de Nestosa"
+    ]
+   }
+  },
+  {
+   "advisor": "Christian von Lücken",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2015
+   ],
+   "corpus_thesis_titles": [
+    "Utilización del sensor kinect con herramientas open source para el desarrollo de juegos educativos p",
+    "Utilización del sensor kinect con herramientas open source para el desarrollo de juegos educativos p"
+   ],
+   "person_record": {
+    "name": "Christian von Lücken",
+    "as_author": 0,
+    "as_orientador": 9,
+    "thesis_count": 9,
+    "is_advisor": true,
+    "years": [
+     "2015",
+     "2023",
+     "2026"
+    ],
+    "variants_count": 3,
+    "variants": [
+     "Christian Von Lücken",
+     "Christian von Lücken",
+     "Von Lücken"
+    ]
+   }
+  },
+  {
+   "advisor": "Santiago Gómez",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2017
+   ],
+   "corpus_thesis_titles": [
+    "Diseño e implemetación de una solución integrada de recolección y análisis predictivo de datos open ",
+    "Diseño e implemetación de una solución integrada de recolección y análisis predictivo de datos open "
+   ],
+   "person_record": {
+    "name": "Gómez, Diego",
+    "as_author": 4,
+    "as_orientador": 0,
+    "thesis_count": 4,
+    "is_advisor": false,
+    "years": [
+     "2015"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Gómez, Diego"
+    ]
+   }
+  },
+  {
+   "advisor": "Rolando A. Rodríguez A",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2018
+   ],
+   "corpus_thesis_titles": [
+    "Modelado de red neuronal artificial (RNA) en molienda de cemento, para su optimización del control y",
+    "Modelado de red neuronal artificial (RNA) en molienda de cemento, para su optimización del control y"
+   ],
+   "person_record": {
+    "name": "Rolando A. Rodríguez A",
+    "as_author": 13,
+    "as_orientador": 2,
+    "thesis_count": 15,
+    "is_advisor": true,
+    "years": [
+     "2009",
+     "2013",
+     "2017",
+     "2018",
+     "2019"
+    ],
+    "variants_count": 8,
+    "variants": [
+     "Balbuena, Pedro A",
+     "Freeman, James A",
+     "Gómez, A",
+     "Mesquita, Jorge A",
+     "Mongelós, Luis A",
+     "Osorio, Guillermo A"
+    ]
+   }
+  },
+  {
+   "advisor": "Julio Palacio",
+   "thesis_count_in_corpus": 2,
+   "recent_3y_count": 0,
+   "years_active": [
+    2017
+   ],
+   "corpus_thesis_titles": [
+    "Predicción de casos de dengue en el Paraguay utilizando redes neuronales artificiales",
+    "Predicción de casos de dengue en el Paraguay utilizando redes neuronales artificiales"
+   ],
+   "person_record": {
+    "name": "Julio Palacio",
+    "as_author": 0,
+    "as_orientador": 2,
+    "thesis_count": 2,
+    "is_advisor": true,
+    "years": [
+     "2017"
+    ],
+    "variants_count": 1,
+    "variants": [
+     "Julio Palacio"
+    ]
+   }
+  }
+ ],
+ "no_match_list": [
+  {
+   "orientador_name": "Cáceres Ruiz Díaz",
+   "thesis_bibnum": 182704
+  },
+  {
+   "orientador_name": "Quiñonez González",
+   "thesis_bibnum": 183072
+  },
+  {
+   "orientador_name": "Quiñonez González",
+   "thesis_bibnum": 183098
+  },
+  {
+   "orientador_name": "Wilma Garcete",
+   "thesis_bibnum": 185338
+  },
+  {
+   "orientador_name": "Cáceres Ruiz Díaz",
+   "thesis_bibnum": 642153
+  },
+  {
+   "orientador_name": "Quiñonez González",
+   "thesis_bibnum": 641710
+  },
+  {
+   "orientador_name": "Quiñonez González",
+   "thesis_bibnum": 641682
+  },
+  {
+   "orientador_name": "Ever Quiñónez",
+   "thesis_bibnum": 611490
+  },
+  {
+   "orientador_name": "Wilma Garcete",
+   "thesis_bibnum": 639520
+  },
+  {
+   "orientador_name": "Wilma Mercedes Garcete",
+   "thesis_bibnum": 605747
+  },
+  {
+   "orientador_name": "Galeano",
+   "thesis_bibnum": 446661
+  },
+  {
+   "orientador_name": "Raúl Felipe",
+   "thesis_bibnum": 446661
+  },
+  {
+   "orientador_name": "Ayala Rodríguez",
+   "thesis_bibnum": 642587
+  },
+  {
+   "orientador_name": "María Soledad",
+   "thesis_bibnum": 642587
+  },
+  {
+   "orientador_name": "Guillermo González",
+   "thesis_bibnum": 264342
+  },
+  {
+   "orientador_name": "Nilsa González Britez",
+   "thesis_bibnum": 609601
+  },
+  {
+   "orientador_name": "Nelson Alvarenga",
+   "thesis_bibnum": 609601
+  },
+  {
+   "orientador_name": "Silvia Caballero",
+   "thesis_bibnum": 609601
+  },
+  {
+   "orientador_name": "Guillermo González",
+   "thesis_bibnum": 606030
+  },
+  {
+   "orientador_name": "Julio Manuel Paciello Coronel",
+   "thesis_bibnum": 183886
+  }
+ ]
+}
