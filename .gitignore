@@ -238,3 +238,8 @@ SOURCE_OF_TRUTH/fpuna_research/raw_html_snapshots/
 !SOURCE_OF_TRUTH/fpuna_research/raw_html_snapshots/
 !SOURCE_OF_TRUTH/fpuna_research/raw_html_snapshots/**/
 !SOURCE_OF_TRUTH/fpuna_research/RAW_FILE_INDEX.txt
+
+# Test coverage
+coverage.json
+.coverage
+htmlcov/

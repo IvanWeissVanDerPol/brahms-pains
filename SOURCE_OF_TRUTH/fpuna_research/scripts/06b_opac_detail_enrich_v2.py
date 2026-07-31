@@ -168,7 +168,7 @@ for bibnum in records:
         with_orient = sum(1 for r in enriched.values() if r.get("orientadores"))
         with_branch = sum(1 for r in enriched.values() if r.get("branch"))
         print(f"  done={len(done):>4d}/{len(records)}  in_batch={count:>3d}  {elapsed:>5.0f}s  {rate:.1f}/s  ETA {remaining/60:.1f}min  title={with_title} orient={with_orient} branch={with_branch}")
-    time.sleep(0.35)
+    time.sleep(0.2)
 
 json.dump({
     "harvested_at": "2026-07-29",
