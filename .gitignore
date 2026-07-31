@@ -254,11 +254,11 @@ scans_organized/
 # MRI analysis derived artifacts
 
 # MRI analysis - derived artifacts (not source code/previews)
-MEDICAL/**/analysis/volumes/
+MEDICAL/**/analysis/02_volumes/
 MEDICAL/**/_extracted/
 
 # MRI analysis previews (Erebus analysis) — keep these in git
-!MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/previews_per_level/*.png
+!MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/03_previews/*.png
 
 # MRI analysis annotated images (Erebus per-finding) — keep these in git
-!MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/annotated/*.png
+!MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/04_annotated/*.png
