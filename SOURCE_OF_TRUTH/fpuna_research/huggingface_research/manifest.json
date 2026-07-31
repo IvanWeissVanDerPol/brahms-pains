@@ -1,0 +1,34 @@
+{
+  "research_date": "2026-07-30",
+  "search_results": {
+    "paraguayan-spanish": {"models_count": 0, "note": "NO Paraguayan Spanish models exist"},
+    "guarani": {"models_count": 97, "task_dominance": "Automatic Speech Recognition (ASR), Aug 2024 cluster"},
+    "jopara": {"models_count": 66, "note": "Mostly text generation models with Jopara token support, Feb-Aug 2025"}
+  },
+  "key_findings": [
+    "There is NO pre-trained Paraguayan Spanish model on HuggingFace — P3 has to build from scratch OR fine-tune Spanish baseline",
+    "Guarani HAS 97 models but mostly ASR (speech-to-text), not text classification/sentiment",
+    "Jopara search returns 66 models but mostly large LMs (3B-8B parameters), not domain-specific"
+  ],
+  "p3_baseline_strategy": {
+    "approach_1": "Fine-tune pysentimiento/robertuito-sentiment-analysis (Spanish sentiment baseline) on Jopara/Spanish Paraguayan corpus",
+    "approach_2": "Use MarIA / BETO (Spanish BERT) + fine-tune on Paraguayan-specific data",
+    "approach_3": "Take an existing Guarani ASR encoder and fine-tune for text classification"
+  },
+  "candidates_to_investigate": [
+    "pysentimiento/robertuito-sentiment-analysis",
+    "pysentimiento/robertuito-hate-speech",
+    "PlanTL-GOB-ES/RoBERTalex",
+    "PlanTL-GOB-ES/RoBERTa-base-spanish-wwm-cased",
+    "PlanTL-GOB-ES/MarIA",
+    "dccuchile/bert-base-spanish-wwm-cased (BETO)",
+    "DeepPavlov/bert-base-multilingual-cased-sentence",
+    "xlm-roberta-large"
+  ],
+  "next_steps": [
+    "Download and test pysentimiento/robertuito on sample Spanish Paraguayan text",
+    "Check if any HuggingFace user has uploaded a Jopara dataset (datasets search)",
+    "Search for 'paraguayo' OR 'paraguayan' user uploads on HF",
+    "Check INPE / FIUNA publications for any associated model uploads"
+  ]
+}

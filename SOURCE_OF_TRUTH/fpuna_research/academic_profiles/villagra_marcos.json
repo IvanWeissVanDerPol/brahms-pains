@@ -1,0 +1,13 @@
+{
+  "research_date": "2026-07-30",
+  "name": "Marcos Villagra",
+  "google_scholar_paper_count": 7,
+  "topics": ["FPGA design", "Spectral graph theory", "Quantum algorithms", "Combinatorial optimization"],
+  "active_2020": "Yes — supervised FPGA thesis (UNMPCM DISPERSAS, 2020)",
+  "institution": "FP-UNA, NIDTEC research center",
+  "key_papers": ["Quantum Algorithms for Multiobjective Combinatorial Optimization (GG Fogel Lezcano, supervised by Villagra, FP-UNA 2017)"],
+  "co_researchers": ["JL Vázquez Noguera (NIDTEC)", "Pedro Céspedes (NIDTEC)"],
+  "evidence_score": "MEDIUM",
+  "p_relevance": "P2 (multi-objective optimization for grid) OR hardware specialist for P1 GeoData (spectral methods)",
+  "notes": "Lower publication count but NIDTEC-affiliated. Quantum + multi-objective optimization. Limited English-language profile. Mostly FP-UNA-internal work."
+}
