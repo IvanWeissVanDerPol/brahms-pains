@@ -6,13 +6,15 @@ Fix: detect vertebra VALLEYS by widening the threshold (vertebrae are MUCH darke
 than disc + CSF combined). Then narrow valleys to 6 (L1-S1). Disc peaks
 are between every consecutive pair.
 """
-import os, json
+
+import os
+import json
 import numpy as np
 from scipy import ndimage, signal
 from scipy.ndimage import gaussian_filter1d
-from skimage import exposure
 import matplotlib
-matplotlib.use('Agg')
+
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 VOL = "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes"
@@ -23,12 +25,12 @@ os.makedirs(PREVIEW_DIR, exist_ok=True)
 
 def load_vol(key):
     z = np.load(f"{VOL}/{key}.npz")
-    return z['vol'].astype(np.float32), z['slice_locs']
+    return z["vol"].astype(np.float32), z["slice_locs"]
 
 
-sag_t2, _ = load_vol('s3')
-sag_t1, _ = load_vol('s4')
-sag_stir, _ = load_vol('s5')
+sag_t2, _ = load_vol("s3")
+sag_t1, _ = load_vol("s4")
+sag_stir, _ = load_vol("s5")
 
 mid_z = sag_t2.shape[0] // 2
 mid_col = sag_t2.shape[2] // 2
@@ -45,10 +47,12 @@ t2_vb = sag_t2[mid_z, :, strip_start:strip_end].mean(axis=1)
 t1_vb = sag_t1[mid_z, :, strip_start:strip_end].mean(axis=1)
 stir_vb = sag_stir[mid_z, :, strip_start:strip_end].mean(axis=1)
 
+
 # Normalize
 def n01(a):
     lo, hi = np.percentile(a, [5, 95])
     return np.clip((a - lo) / (hi - lo + 1e-9), 0, 1)
+
 
 t2_vb_n = n01(t2_vb)
 t1_vb_n = n01(t1_vb)
@@ -79,7 +83,7 @@ print(f"Disc peaks detected (rows): {sorted(peaks.tolist())}")
 # Strategy: take the 6 vertebra valleys with the highest prominence (most clearly vertebral)
 # If we found more than 6, take the 6 most prominent.
 if len(valleys) > 6:
-    prom = props['prominences']
+    prom = props["prominences"]
     sorted_idx = np.argsort(prom)[::-1]
     valleys = valleys[sorted_idx[:6]]
     valleys = sorted(valleys.tolist())
@@ -91,22 +95,22 @@ peaks = sorted(peaks.tolist())
 # For each consecutive pair of vertebrae, find the disc peak in between
 disc_rows = []
 disc_levels = []
-labels = ['L1-L2', 'L2-L3', 'L3-L4', 'L4-L5', 'L5-S1']
+labels = ["L1-L2", "L2-L3", "L3-L4", "L4-L5", "L5-S1"]
 for i in range(len(valleys) - 1):
-    v1, v2 = valleys[i], valleys[i+1]
+    v1, v2 = valleys[i], valleys[i + 1]
     # Peak between
-    region = t2_sm[v1:v2+1]
+    region = t2_sm[v1 : v2 + 1]
     if len(region) < 3:
         continue
     local_peak = np.argmax(region) + v1
     # Also measure the band's height: consecutive rows where T2 > 0.5 within ±15 rows
     disc_rows.append(local_peak)
-    disc_levels.append(labels[i] if i < 5 else f'extra-disc-{i}')
+    disc_levels.append(labels[i] if i < 5 else f"extra-disc-{i}")
 
 # Also measure disc height (number of consecutive bright rows around the peak)
 disc_height_px = []
 for prow in disc_rows:
-    band = t2_sm[max(0, prow-20):prow+21]
+    band = t2_sm[max(0, prow - 20) : prow + 21]
     bright = (band > np.percentile(t2_sm, 70)).sum()
     disc_height_px.append(int(bright))
 
@@ -114,10 +118,12 @@ print(f"\nDisc rows: {disc_rows}")
 print(f"Disc heights (px, bright rows): {disc_height_px}")
 print(f"Levels: {disc_levels}")
 
+
 # Compute per-disc measurements (T2/T1/STIR mean + nucleus-vs-annulus differential)
 def normalize_3d(arr):
     lo, hi = np.percentile(arr, [1, 99])
     return np.clip((arr.astype(np.float32) - lo) / (hi - lo + 1e-9), 0, 1)
+
 
 sag_t2_n = normalize_3d(sag_t2)
 sag_t1_n = normalize_3d(sag_t1)
@@ -132,7 +138,7 @@ for i, (prow, level, h) in enumerate(zip(disc_rows, disc_levels, disc_height_px)
     cend = strip_end
     # Mid-nucleus (3x3 center) for bright CSF-like nucleus detection
     nucleus_r = slice(max(0, prow - 1), prow + 2)
-    nucleus_c = slice(strip_start + half_w//2 - 1, strip_start + half_w//2 + 2)
+    nucleus_c = slice(strip_start + half_w // 2 - 1, strip_start + half_w // 2 + 2)
     # Annulus (peripheral of disc, just below the endplate above)
     annulus_r = slice(max(0, prow - 7), prow - 3)
     annulus_c = slice(strip_start + 3, strip_end - 3)
@@ -145,7 +151,7 @@ for i, (prow, level, h) in enumerate(zip(disc_rows, disc_levels, disc_height_px)
     a_stir = sag_stir_n[mid_z, annulus_r, annulus_c].mean()
 
     # CSF reference: mean of the spinal canal at this slice
-    csf_t2 = sag_t2_n[mid_z, prow-5:prow+6, mid_col-30:mid_col+30].mean()
+    csf_t2 = sag_t2_n[mid_z, prow - 5 : prow + 6, mid_col - 30 : mid_col + 30].mean()
 
     # Pfirrmann proxy (I-V)
     # I: nucleus signal = CSF (homogeneous bright)
@@ -154,10 +160,14 @@ for i, (prow, level, h) in enumerate(zip(disc_rows, disc_levels, disc_height_px)
     # IV: nucleus dark gray, heterogeneous
     # V: nucleus black (collapsed disc)
     p_proxy = float(n_t2 / max(csf_t2, 0.05))
-    if p_proxy > 0.85: pf = 'I-II (bright, well-hydrated)'
-    elif p_proxy > 0.6: pf = 'III (intermediate, mild desiccation)'
-    elif p_proxy > 0.4: pf = 'IV (dark gray, advanced desiccation)'
-    else: pf = 'V (black, collapsed disc)'
+    if p_proxy > 0.85:
+        pf = "I-II (bright, well-hydrated)"
+    elif p_proxy > 0.6:
+        pf = "III (intermediate, mild desiccation)"
+    elif p_proxy > 0.4:
+        pf = "IV (dark gray, advanced desiccation)"
+    else:
+        pf = "V (black, collapsed disc)"
 
     # Modic candidate
     # Modic 1: T1 dark + T2 bright + STIR bright (edema/inflammation)
@@ -166,34 +176,38 @@ for i, (prow, level, h) in enumerate(zip(disc_rows, disc_levels, disc_height_px)
 
     modic = None
     if n_stir > 0.7 and n_t1 < 0.4:
-        modic = 'Modic 1 candidate (edema)'
+        modic = "Modic 1 candidate (edema)"
     elif n_t1 > 0.7 and n_stir < 0.4 and n_t2 < 0.7:
-        modic = 'Modic 2 candidate (fatty)'
+        modic = "Modic 2 candidate (fatty)"
 
-    disc_findings.append({
-        'level': level,
-        'row_center': int(prow),
-        'height_px': h,
-        'csf_t2_ref': float(csf_t2),
-        'nucleus': {'t2': float(n_t2), 't1': float(n_t1), 'stir': float(n_stir)},
-        'annulus': {'t2': float(a_t2), 't1': float(a_t1), 'stir': float(a_stir)},
-        'nucleus_to_csf_ratio': p_proxy,
-        'pfirrmann_proxy': pf,
-        'modic_candidate': modic,
-    })
+    disc_findings.append(
+        {
+            "level": level,
+            "row_center": int(prow),
+            "height_px": h,
+            "csf_t2_ref": float(csf_t2),
+            "nucleus": {"t2": float(n_t2), "t1": float(n_t1), "stir": float(n_stir)},
+            "annulus": {"t2": float(a_t2), "t1": float(a_t1), "stir": float(a_stir)},
+            "nucleus_to_csf_ratio": p_proxy,
+            "pfirrmann_proxy": pf,
+            "modic_candidate": modic,
+        }
+    )
 
 print("\n=== Per-disc PFIRRMANN + MODIC (mid-sagittal) ===")
 for f in disc_findings:
-    print(f"  {f['level']:<8}  N/C ratio={f['nucleus_to_csf_ratio']:.3f}  T2_n={f['nucleus']['t2']:.3f}  T1_n={f['nucleus']['t1']:.3f}  STIR_n={f['nucleus']['stir']:.3f}")
+    print(
+        f"  {f['level']:<8}  N/C ratio={f['nucleus_to_csf_ratio']:.3f}  T2_n={f['nucleus']['t2']:.3f}  T1_n={f['nucleus']['t1']:.3f}  STIR_n={f['nucleus']['stir']:.3f}"
+    )
     print(f"    → {f['pfirrmann_proxy']}    Modic: {f['modic_candidate'] or 'none'}")
 
-with open(f"{ANALYSIS}/sagittal_disc_findings_v2.json", 'w') as f:
+with open(f"{ANALYSIS}/sagittal_disc_findings_v2.json", "w") as f:
     json.dump(disc_findings, f, indent=2)
 print(f"\n  → Saved: {ANALYSIS}/sagittal_disc_findings_v2.json")
 
 # Per-vertebra hemangioma detection (scan whole vertebral body region)
 print("\n=== Per-vertebra HEMANGIOMA / marrow lesion scan ===")
-vertebra_labels = ['L1', 'L2', 'L3', 'L4', 'L5', 'S1']
+vertebra_labels = ["L1", "L2", "L3", "L4", "L5", "S1"]
 vertebra_findings = []
 for i, vrow in enumerate(valleys):
     # Use a 40x80 region centered on vertebra body
@@ -223,50 +237,67 @@ for i, vrow in enumerate(valleys):
     big_cluster = max(cluster_sizes) if cluster_sizes else 0
 
     hemangioma = (both_pct > 0.005) and (big_cluster > 8)
-    label = vertebra_labels[i] if i < len(vertebra_labels) else f'V{i+1}'
+    label = vertebra_labels[i] if i < len(vertebra_labels) else f"V{i+1}"
 
     vf = {
-        'vertebra': label,
-        'row_center': int(vrow),
-        't2_p99': float(t2_top),
-        't1_p99': float(t1_top),
-        'stir_p99': float(stir_top),
-        't1_t2_both_bright_pct': both_pct,
-        'biggest_bright_cluster_px': int(big_cluster),
-        'hemangioma_candidate': hemangioma,
-        't2_p1': float(np.percentile(region_t2, 1)),
-        't1_p1': float(np.percentile(region_t1, 1)),
-        'stir_p1': float(np.percentile(region_stir, 1)),
-        't2_mean': float(region_t2.mean()),
-        't1_mean': float(region_t1.mean()),
-        'stir_mean': float(region_stir.mean()),
+        "vertebra": label,
+        "row_center": int(vrow),
+        "t2_p99": float(t2_top),
+        "t1_p99": float(t1_top),
+        "stir_p99": float(stir_top),
+        "t1_t2_both_bright_pct": both_pct,
+        "biggest_bright_cluster_px": int(big_cluster),
+        "hemangioma_candidate": hemangioma,
+        "t2_p1": float(np.percentile(region_t2, 1)),
+        "t1_p1": float(np.percentile(region_t1, 1)),
+        "stir_p1": float(np.percentile(region_stir, 1)),
+        "t2_mean": float(region_t2.mean()),
+        "t1_mean": float(region_t1.mean()),
+        "stir_mean": float(region_stir.mean()),
     }
     vertebra_findings.append(vf)
-    flag = '🔴 HEMANGIOMA CANDIDATE' if hemangioma else ''
-    print(f"  {label:<4} (row {vrow}): T2_p99={t2_top:.3f} T1_p99={t1_top:.3f} STIR_p99={stir_top:.3f}  both_bright={both_pct*100:.2f}%  big_cluster={int(big_cluster)}px {flag}")
+    flag = "🔴 HEMANGIOMA CANDIDATE" if hemangioma else ""
+    print(
+        f"  {label:<4} (row {vrow}): T2_p99={t2_top:.3f} T1_p99={t1_top:.3f} STIR_p99={stir_top:.3f}  both_bright={both_pct*100:.2f}%  big_cluster={int(big_cluster)}px {flag}"
+    )
 
-with open(f"{ANALYSIS}/sagittal_vertebra_findings_v2.json", 'w') as f:
+with open(f"{ANALYSIS}/sagittal_vertebra_findings_v2.json", "w") as f:
     json.dump(vertebra_findings, f, indent=2)
 print(f"\n  → Saved: {ANALYSIS}/sagittal_vertebra_findings_v2.json")
 
 # Annotated mid-slice with CORRECTED labels
 fig, ax = plt.subplots(figsize=(14, 18))
-ax.imshow(sag_t2_n[mid_z], cmap='gray', aspect='auto')
+ax.imshow(sag_t2_n[mid_z], cmap="gray", aspect="auto")
 for v in valleys:
-    ax.axhline(v, color='red', alpha=0.5, linewidth=1.2, linestyle='--')
+    ax.axhline(v, color="red", alpha=0.5, linewidth=1.2, linestyle="--")
 for i, (p, level, label) in enumerate(zip(disc_rows, disc_levels, vertebra_labels[:-1])):
-    ax.axhline(p, color='lime', alpha=0.9, linewidth=2)
-    ax.text(sag_t2_n.shape[1] - 150, p, f'DISC {level}', color='lime',
-            fontsize=12, fontweight='bold',
-            bbox=dict(boxstyle='round,pad=0.3', facecolor='black', alpha=0.7))
+    ax.axhline(p, color="lime", alpha=0.9, linewidth=2)
+    ax.text(
+        sag_t2_n.shape[1] - 150,
+        p,
+        f"DISC {level}",
+        color="lime",
+        fontsize=12,
+        fontweight="bold",
+        bbox=dict(boxstyle="round,pad=0.3", facecolor="black", alpha=0.7),
+    )
 for i, v in enumerate(valleys):
-    label = vertebra_labels[i] if i < len(vertebra_labels) else f'V{i+1}'
-    ax.text(20, v, f'{label}', color='red',
-            fontsize=13, fontweight='bold',
-            bbox=dict(boxstyle='round,pad=0.3', facecolor='black', alpha=0.7))
-ax.set_title(f'Sag T2 mid-slice — corrected segmentation\nLumbar vertebrae (red) + discs (green), 26yo M', fontsize=14)
-ax.axis('off')
+    label = vertebra_labels[i] if i < len(vertebra_labels) else f"V{i+1}"
+    ax.text(
+        20,
+        v,
+        f"{label}",
+        color="red",
+        fontsize=13,
+        fontweight="bold",
+        bbox=dict(boxstyle="round,pad=0.3", facecolor="black", alpha=0.7),
+    )
+ax.set_title(
+    "Sag T2 mid-slice — corrected segmentation\nLumbar vertebrae (red) + discs (green), 26yo M",
+    fontsize=14,
+)
+ax.axis("off")
 plt.tight_layout()
-plt.savefig(f'{PREVIEW_DIR}/sagittal_t2_mid_corrected.png', dpi=120, bbox_inches='tight')
+plt.savefig(f"{PREVIEW_DIR}/sagittal_t2_mid_corrected.png", dpi=120, bbox_inches="tight")
 plt.close()
 print(f"\n  → Annotated: {PREVIEW_DIR}/sagittal_t2_mid_corrected.png")

@@ -9,12 +9,14 @@ Stage 3 — Comprehensive per-finding analysis.
    per ASAS/SPARCC criteria.
 4. Pelvis series (9,10,12,16,1000): bilateral fluid collections, asymmetry.
 """
-import os, json, sys
+
+import os
+import json
 import numpy as np
 from scipy import ndimage
-from skimage import morphology, filters, exposure, measure
 import matplotlib
-matplotlib.use('Agg')
+
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 VOL = "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes"
@@ -24,36 +26,43 @@ os.makedirs(PREVIEW_DIR, exist_ok=True)
 
 manifest = json.load(open(f"{VOL}/manifest.json"))
 
+
 def load_vol(key):
     z = np.load(f"{VOL}/{key}.npz")
-    return z['vol'], z['slice_locs']
+    return z["vol"], z["slice_locs"]
 
-print("="*70)
+
+print("=" * 70)
 print("ANALYSIS STAGE 3 — Per-finding measurements")
-print("="*70)
+print("=" * 70)
 
 # ============ A. LUMBAR SPINE — Sagittal analysis ============
 print("\n[A] LUMBAR SPINE — Sagittal series analysis")
-print("-"*70)
+print("-" * 70)
 
 # Series 3: Sag T2 frFSE — disc hydration (Pfirrmann), disc contour
 # Series 4: Sag T1 FSE — anatomy, marrow, hemangioma
 # Series 5: Sag T2 STIR — Modic type 1 (edema), active inflammation
 
-sag_t2_vol, sag_t2_locs = load_vol('s3')
-sag_t1_vol, sag_t1_locs = load_vol('s4')
-sag_stir_vol, sag_stir_locs = load_vol('s5')
+sag_t2_vol, sag_t2_locs = load_vol("s3")
+sag_t1_vol, sag_t1_locs = load_vol("s4")
+sag_stir_vol, sag_stir_locs = load_vol("s5")
 
 print(f"  Sag T2: {sag_t2_vol.shape}, locs [{sag_t2_locs[0]:.1f} .. {sag_t2_locs[-1]:.1f}] mm")
 print(f"  Sag T1: {sag_t1_vol.shape}, locs [{sag_t1_locs[0]:.1f} .. {sag_t1_locs[-1]:.1f}] mm")
-print(f"  Sag STIR: {sag_stir_vol.shape}, locs [{sag_stir_locs[0]:.1f} .. {sag_stir_locs[-1]:.1f}] mm")
+print(
+    f"  Sag STIR: {sag_stir_vol.shape}, locs [{sag_stir_locs[0]:.1f} .. {sag_stir_locs[-1]:.1f}] mm"
+)
+
 
 # Normalize each series to 0-1 (helps with visual comparison + thresholding)
 def percentile_norm(vol, lo=1, hi=99):
     lo_v, hi_v = np.percentile(vol, [lo, hi])
-    if hi_v <= lo_v: return vol
+    if hi_v <= lo_v:
+        return vol
     out = (vol.astype(np.float32) - lo_v) / (hi_v - lo_v)
     return np.clip(out, 0, 1)
+
 
 sag_t2_n = percentile_norm(sag_t2_vol)
 sag_t1_n = percentile_norm(sag_t1_vol)
@@ -66,17 +75,20 @@ sag_stir_n = percentile_norm(sag_stir_vol)
 # Save middle slice preview with annotation grid for each
 fig, axes = plt.subplots(3, 1, figsize=(20, 18))
 mid_idx = sag_t2_vol.shape[0] // 2
-axes[0].imshow(sag_t2_n[mid_idx], cmap='gray', aspect='auto')
-axes[0].set_title(f'Sag T2 frFSE — slice {mid_idx} (loc={sag_t2_locs[mid_idx]:.1f} mm)\nDisc hydration + herniation overview', fontsize=14)
-axes[0].axis('off')
-axes[1].imshow(sag_t1_n[mid_idx], cmap='gray', aspect='auto')
-axes[1].set_title(f'Sag T1 FSE — same slice\nAnatomy + marrow fat + Modic type 2', fontsize=14)
-axes[1].axis('off')
-axes[2].imshow(sag_stir_n[mid_idx], cmap='gray', aspect='auto')
-axes[2].set_title(f'Sag STIR — same slice\nModic type 1 (edema) + active inflammation', fontsize=14)
-axes[2].axis('off')
+axes[0].imshow(sag_t2_n[mid_idx], cmap="gray", aspect="auto")
+axes[0].set_title(
+    f"Sag T2 frFSE — slice {mid_idx} (loc={sag_t2_locs[mid_idx]:.1f} mm)\nDisc hydration + herniation overview",
+    fontsize=14,
+)
+axes[0].axis("off")
+axes[1].imshow(sag_t1_n[mid_idx], cmap="gray", aspect="auto")
+axes[1].set_title("Sag T1 FSE — same slice\nAnatomy + marrow fat + Modic type 2", fontsize=14)
+axes[1].axis("off")
+axes[2].imshow(sag_stir_n[mid_idx], cmap="gray", aspect="auto")
+axes[2].set_title("Sag STIR — same slice\nModic type 1 (edema) + active inflammation", fontsize=14)
+axes[2].axis("off")
 plt.tight_layout()
-plt.savefig(f'{PREVIEW_DIR}/sag_lumbar_3sequence_mid.png', dpi=120, bbox_inches='tight')
+plt.savefig(f"{PREVIEW_DIR}/sag_lumbar_3sequence_mid.png", dpi=120, bbox_inches="tight")
 plt.close()
 print(f"  → Saved sagittal 3-sequence preview: {PREVIEW_DIR}/sag_lumbar_3sequence_mid.png")
 
@@ -96,7 +108,7 @@ mid_col = sag_t2_vol.shape[2] // 2
 # Build midline 1D profile: per row, the average intensity in a centered horizontal strip
 strip_width = 20
 half = strip_width // 2
-midline_t2 = sag_t2_vol[:, :, mid_col-half:mid_col+half].mean(axis=2)
+midline_t2 = sag_t2_vol[:, :, mid_col - half : mid_col + half].mean(axis=2)
 
 # Identify the bright (disc) vs dark (vertebra) bands by simple threshold
 threshold = np.percentile(midline_t2, 60)
@@ -116,16 +128,16 @@ for d in disc_locations:
 
 # Save midline profile + segments
 fig, ax = plt.subplots(figsize=(16, 8))
-ax.imshow(sag_t2_n[:, :, mid_col-half:mid_col+half].mean(axis=2), cmap='gray', aspect='auto')
+ax.imshow(sag_t2_n[:, :, mid_col - half : mid_col + half].mean(axis=2), cmap="gray", aspect="auto")
 for d in disc_locations:
-    ax.axhline(y=d[0], color='red', linewidth=0.5, alpha=0.6)
-    ax.axhline(y=d[1], color='red', linewidth=0.5, alpha=0.6)
-    ax.axhline(y=d[2], color='yellow', linewidth=1.0, alpha=0.9)
-ax.set_title(f'Midline T2 profile with auto-detected disc bands (yellow=centers)', fontsize=14)
-ax.set_xlabel('L-R (column)')
-ax.set_ylabel('Slice index (z)')
+    ax.axhline(y=d[0], color="red", linewidth=0.5, alpha=0.6)
+    ax.axhline(y=d[1], color="red", linewidth=0.5, alpha=0.6)
+    ax.axhline(y=d[2], color="yellow", linewidth=1.0, alpha=0.9)
+ax.set_title("Midline T2 profile with auto-detected disc bands (yellow=centers)", fontsize=14)
+ax.set_xlabel("L-R (column)")
+ax.set_ylabel("Slice index (z)")
 plt.tight_layout()
-plt.savefig(f'{PREVIEW_DIR}/sag_t2_midline_disc_bands.png', dpi=120, bbox_inches='tight')
+plt.savefig(f"{PREVIEW_DIR}/sag_t2_midline_disc_bands.png", dpi=120, bbox_inches="tight")
 plt.close()
 print(f"  → Saved midline disc-band detection: {PREVIEW_DIR}/sag_t2_midline_disc_bands.png")
 

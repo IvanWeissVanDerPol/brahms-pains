@@ -3,7 +3,9 @@
 Stage 8 — Generate PDF-ready HTML version of the comprehensive report with all images embedded.
 Output: analysis/05_FINAL_REPORT.html (can be opened in browser + printed to PDF)
 """
-import os, base64
+
+import os
+import base64
 from pathlib import Path
 
 REPORT_DIR = "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis"
@@ -15,11 +17,11 @@ def image_to_data_url(path):
     p = Path(path)
     if not p.exists():
         return ""
-    suffix = p.suffix.lower().lstrip('.')
-    if suffix == 'jpg':
-        suffix = 'jpeg'
-    with open(path, 'rb') as f:
-        data = base64.b64encode(f.read()).decode('utf-8')
+    suffix = p.suffix.lower().lstrip(".")
+    if suffix == "jpg":
+        suffix = "jpeg"
+    with open(path, "rb") as f:
+        data = base64.b64encode(f.read()).decode("utf-8")
     return f"data:image/{suffix};base64,{data}"
 
 
@@ -855,15 +857,17 @@ REPEAT: This report is NOT a clinical diagnosis. It is AI-assisted pre-screening
 """
 
 # Substitute the image URLs
-HTML = HTML.replace('{img_f1}', img_f1)
-HTML = HTML.replace('{img_f2}', img_f2)
-HTML = HTML.replace('{img_f3}', img_f3)
-HTML = HTML.replace('{img_f4}', img_f4)
-HTML = HTML.replace('{img_f5}', img_f5)
-HTML = HTML.replace('{img_f6}', img_f6)
-HTML = HTML.replace('{img_montage}', img_montage)
+HTML = HTML.replace("{img_f1}", img_f1)
+HTML = HTML.replace("{img_f2}", img_f2)
+HTML = HTML.replace("{img_f3}", img_f3)
+HTML = HTML.replace("{img_f4}", img_f4)
+HTML = HTML.replace("{img_f5}", img_f5)
+HTML = HTML.replace("{img_f6}", img_f6)
+HTML = HTML.replace("{img_montage}", img_montage)
 
 out_path = f"{REPORT_DIR}/05_FINAL_REPORT.html"
-with open(out_path, 'w') as f:
+with open(out_path, "w") as f:
     f.write(HTML)
-print(f"Saved HTML report: {out_path} ({len(HTML):,} chars, {os.path.getsize(out_path)/1024:.0f} KB)")
+print(
+    f"Saved HTML report: {out_path} ({len(HTML):,} chars, {os.path.getsize(out_path)/1024:.0f} KB)"
+)
