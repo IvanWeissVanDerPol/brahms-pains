@@ -8,8 +8,14 @@
 
 | Folder | Date | Type | Modality | Status |
 |---|---|---|---|---|
-| `XRAY_2025-10-31_LATERAL_CHEST/` | 2025-10-31 11:02:34 | Lateral chest X-ray | DX (Digital Radiography) | Analyzed, see analysis/ |
-| `MRI_2026-07-22_LUMBAR_PELVIS/` | 2026-07-22 14:25:27 | Lumbar spine + bony pelvis MRI (1029 slices, 22 series) | MR (1.5T GE Signa Voyager) | Analyzed, see analysis/ |
+| `XRAY_2025-10-31_LATERAL_CHEST/` | 2025-10-31 11:02:34 | Lateral chest X-ray | DX (Digital Radiography) | Analyzed, see `analysis/` |
+| `MRI_2026-07-22_LUMBAR_PELVIS/` | 2026-07-22 14:25:27 | Lumbar spine + bony pelvis MRI (1029 slices, 22 series) | MR (1.5T GE Signa Voyager) | Analyzed, awaiting radiologist's official report — `analysis/07_followup/` |
+
+### Quick orientation
+
+- **MRI pack:** start with `MRI_2026-07-22_LUMBAR_PELVIS/README.md`, then `analysis/05_HONEST_REPORT.md`, then `analysis/06_DOCTOR_VISIT_PACK.md` for the next appointment
+- **MRI actionable:** drop your official radiologist report + ultrasound + labs into `MRI_2026-07-22_LUMBAR_PELVIS/analysis/07_followup/`
+- **X-ray pack:** see `XRAY_2025-10-31_LATERAL_CHEST/analysis/` (5 docs: metadata, observations, doctor pack, software/AI ideas, visualization)
 
 ## What to add (in priority order)
 
