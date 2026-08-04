@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Time-of-day patterns per contact (feeds Hat 1, 6, 22)."""
+
 from __future__ import annotations
 
 import json
@@ -11,6 +12,7 @@ REPO = Path(__file__).resolve().parent.parent
 WA = REPO / "SOURCE_OF_TRUTH/wa_messages"
 ANALYSIS = WA / "_ANALYSIS"
 
+
 def analyze_time_patterns():
     """For each contact, calculate hour-of-day distribution."""
     by_hour = defaultdict(lambda: Counter())
@@ -21,7 +23,14 @@ def analyze_time_patterns():
     total_chats = 0
     total_msgs = 0
 
-    tiers = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid"]
+    tiers = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+    ]
 
     for tier in tiers:
         d = WA / tier
@@ -99,7 +108,9 @@ def analyze_time_patterns():
         peak_dow = max(by_dow[chat].items(), key=lambda x: x[1])[0] if by_dow[chat] else None
 
         # Late night ratio (22:00-04:00)
-        late = sum(hours.get(h, 0) for h in range(22, 24)) + sum(hours.get(h, 0) for h in range(0, 4))
+        late = sum(hours.get(h, 0) for h in range(22, 24)) + sum(
+            hours.get(h, 0) for h in range(0, 4)
+        )
         total = sum(hours.values())
         late_ratio = late / total if total > 0 else 0
 
@@ -129,7 +140,7 @@ def analyze_time_patterns():
     print(f"Wrote {out.relative_to(REPO)}")
 
     # Print summary
-    print(f"\n=== Time patterns summary ===")
+    print("\n=== Time patterns summary ===")
     print(f"  Chats analyzed: {total_chats}")
     print(f"  Messages analyzed: {total_msgs:,}")
     print(f"\nPeak hour overall: {max(all_hours.items(), key=lambda x: x[1])}")
@@ -137,23 +148,21 @@ def analyze_time_patterns():
 
     # Top 10 late-night contacts
     late_sorted = sorted(
-        summary["per_contact"].items(),
-        key=lambda x: x[1]["late_night_ratio"],
-        reverse=True
+        summary["per_contact"].items(), key=lambda x: x[1]["late_night_ratio"], reverse=True
     )[:10]
-    print(f"\nTop 10 late-night contacts (22:00-04:00):")
+    print("\nTop 10 late-night contacts (22:00-04:00):")
     for chat, info in late_sorted:
         print(f"  {info['late_night_ratio']:.1%}  {chat[:40]:<40} ({info['total_msgs']} msgs)")
 
     # Top 10 Ivan-initiator contacts (Ivan chases them)
     ivan_sorted = sorted(
-        summary["per_contact"].items(),
-        key=lambda x: x[1]["ivan_ratio"],
-        reverse=True
+        summary["per_contact"].items(), key=lambda x: x[1]["ivan_ratio"], reverse=True
     )[:10]
-    print(f"\nTop 10 Ivan-initiator contacts (Ivan chases them):")
+    print("\nTop 10 Ivan-initiator contacts (Ivan chases them):")
     for chat, info in ivan_sorted:
-        print(f"  {info['ivan_ratio']:.1%}  Ivan/{info['ivan_msgs']}/{info['them_msgs']}  {chat[:30]}")
+        print(
+            f"  {info['ivan_ratio']:.1%}  Ivan/{info['ivan_msgs']}/{info['them_msgs']}  {chat[:30]}"
+        )
 
     return summary
 

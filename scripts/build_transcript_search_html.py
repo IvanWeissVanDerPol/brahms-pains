@@ -9,6 +9,7 @@ Features:
 - Highlight matches in text
 - Show snippet with context
 """
+
 from __future__ import annotations
 
 from pathlib import Path
@@ -16,7 +17,7 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 ANALYSIS = REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS"
 
-HTML = '''<!DOCTYPE html>
+HTML = """<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -226,7 +227,7 @@ loadIndex().then(search);
 </script>
 </body>
 </html>
-'''
+"""
 
 out = ANALYSIS / "transcript_search.html"
 out.write_text(HTML)

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Move wrongly-dropped chats to appropriate tiers."""
+
 from __future__ import annotations
 
 import json
@@ -13,16 +14,20 @@ ANALYSIS = REPO / "SOURCE_OF_TRUTH" / "wa_messages/_ANALYSIS"
 
 
 def safe_name(name: str) -> str:
-    if not name: return ""
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    if not name:
+        return ""
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
 def get_target_tier(score):
-    if score >= 70: return "tier1_deep"
-    if score >= 50: return "tier2_core"
-    if score >= 30: return "tier3_extended"
+    if score >= 70:
+        return "tier1_deep"
+    if score >= 50:
+        return "tier2_core"
+    if score >= 30:
+        return "tier3_extended"
     return None  # leave in _dropped
 
 
@@ -35,11 +40,13 @@ def main():
     moved = 0
     skipped = 0
     for d in sorted(dropped_dir.iterdir()):
-        if not d.is_dir(): continue
+        if not d.is_dir():
+            continue
 
         # Get JID
-        m = re.search(r'(\d{10,15})', d.name)
-        if not m: continue
+        m = re.search(r"(\d{10,15})", d.name)
+        if not m:
+            continue
         jid = m.group(1)
 
         info = jid_to_info.get(jid)
@@ -75,9 +82,9 @@ def main():
         target = WA / "tier1_deep" / "Grandpa_Jan_Van_Der_Pol"
         if not target.exists():
             shutil.move(str(g), str(target))
-            print(f"  MOVED: grandpa_jan_van_der_pol -> tier1_deep/Grandpa_Jan_Van_Der_Pol")
+            print("  MOVED: grandpa_jan_van_der_pol -> tier1_deep/Grandpa_Jan_Van_Der_Pol")
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Moved: {moved}")
     print(f"  Skipped: {skipped}")
 

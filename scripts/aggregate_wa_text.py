@@ -5,6 +5,7 @@ coalesce per date, and write transcripts.json in the shape extract_psychology ex
 Usage:
   aggregate_wa_text.py <path/to/WhatsApp Chat with X.txt> <output_dir>
 """
+
 import json
 import re
 import sys
@@ -66,13 +67,15 @@ def main():
     for date in sorted(per_day.keys()):
         msgs = per_day[date]
         text = "\n".join(msgs)
-        entries.append({
-            "file": f"{src.stem}__{date}.txt",
-            "date": date,
-            "text": text,
-            "duration": None,
-            "language": "es",
-        })
+        entries.append(
+            {
+                "file": f"{src.stem}__{date}.txt",
+                "date": date,
+                "text": text,
+                "duration": None,
+                "language": "es",
+            }
+        )
 
     out_path = out_dir / "transcripts.json"
     out_path.write_text(json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8")

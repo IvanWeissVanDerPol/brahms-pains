@@ -62,9 +62,7 @@ class TemporalAnalyzer:
 
     def add_event(self, date: str, chat: str, category: str, context: str):
         """Add a pattern occurrence to the timeline."""
-        self.timeline_data[date][chat].append(
-            {"category": category, "context": context}
-        )
+        self.timeline_data[date][chat].append({"category": category, "context": context})
 
     def analyze_weekly_patterns(self) -> dict:
         """Analyze patterns by week to detect escalations."""
@@ -178,9 +176,7 @@ class PredictiveAnalyzer:
 
         for i, date in enumerate(sorted_dates):
             daily_total = sum(
-                len(events)
-                for chats in temporal_data[date].values()
-                for events in [chats]
+                len(events) for chats in temporal_data[date].values() for events in [chats]
             )
 
             # High pattern day
@@ -253,9 +249,7 @@ class QuestionnaireIntegrator:
     """Integrate questionnaire responses with voice note analysis."""
 
     def __init__(self):
-        self.questionnaire_path = (
-            config.paths.source_of_truth / "QUESTIONNAIRE_FOR_IVAN"
-        )
+        self.questionnaire_path = config.paths.source_of_truth / "QUESTIONNAIRE_FOR_IVAN"
         self.responses = {}
 
     def load_questionnaire_responses(self) -> dict:
@@ -290,9 +284,7 @@ class QuestionnaireIntegrator:
 
         # Check for The Fixer
         if "pattern_validation" in questionnaire:
-            fixer_mentioned = any(
-                "fixer" in r.lower() for r in questionnaire["pattern_validation"]
-            )
+            fixer_mentioned = any("fixer" in r.lower() for r in questionnaire["pattern_validation"])
             fixer_evidence = sum(
                 1 for p in voice_patterns.values() if p.get("offering_help", 0) > 20
             )
@@ -302,29 +294,23 @@ class QuestionnaireIntegrator:
                     "pattern": "The Fixer",
                     "questionnaire_claimed": fixer_mentioned,
                     "voice_evidence_count": fixer_evidence,
-                    "consistency": "confirmed"
-                    if fixer_mentioned and fixer_evidence > 2
-                    else "partial",
+                    "consistency": (
+                        "confirmed" if fixer_mentioned and fixer_evidence > 2 else "partial"
+                    ),
                 }
             )
 
         # Check for communication issues
         if "knowing_acting_gap" in questionnaire:
-            comm_issues = any(
-                "comunic" in r.lower() for r in questionnaire["knowing_acting_gap"]
-            )
-            voice_comm = sum(
-                p.get("deflection_minimizing", 0) for p in voice_patterns.values()
-            )
+            comm_issues = any("comunic" in r.lower() for r in questionnaire["knowing_acting_gap"])
+            voice_comm = sum(p.get("deflection_minimizing", 0) for p in voice_patterns.values())
 
             cross_refs.append(
                 {
                     "pattern": "Communication Difficulty",
                     "questionnaire_claimed": comm_issues,
                     "voice_evidence": voice_comm,
-                    "consistency": "confirmed"
-                    if comm_issues and voice_comm > 50
-                    else "partial",
+                    "consistency": "confirmed" if comm_issues and voice_comm > 50 else "partial",
                 }
             )
 
@@ -455,18 +441,16 @@ def run_integrated_analysis():
         },
         "predictive_indicators": {
             "risk_assessments": risk_assessment,
-            "pattern_sequences": predictive.analyze_pattern_sequences(
-                temporal.timeline_data
-            ),
+            "pattern_sequences": predictive.analyze_pattern_sequences(temporal.timeline_data),
         },
         "questionnaire_integration": {
             "cross_references": cross_references,
-            "consistency_score": sum(
-                1 for c in cross_references if c["consistency"] == "confirmed"
-            )
-            / len(cross_references)
-            if cross_references
-            else 0,
+            "consistency_score": (
+                sum(1 for c in cross_references if c["consistency"] == "confirmed")
+                / len(cross_references)
+                if cross_references
+                else 0
+            ),
         },
         "summary": {
             "total_chats_analyzed": len(chat_data),
@@ -478,9 +462,11 @@ def run_integrated_analysis():
                     if any(f["severity"] == "high" for f in r["risk_factors"])
                 ]
             ),
-            "questionnaire_consistency": "high"
-            if all(c["consistency"] == "confirmed" for c in cross_references)
-            else "partial",
+            "questionnaire_consistency": (
+                "high"
+                if all(c["consistency"] == "confirmed" for c in cross_references)
+                else "partial"
+            ),
         },
     }
 
@@ -496,13 +482,9 @@ def run_integrated_analysis():
     logger.info("ANALYSIS SUMMARY")
     logger.info("=" * 60)
     logger.info(f"Chats analyzed: {report['summary']['total_chats_analyzed']}")
-    logger.info(
-        f"Escalation periods detected: {report['summary']['total_escalation_periods']}"
-    )
+    logger.info(f"Escalation periods detected: {report['summary']['total_escalation_periods']}")
     logger.info(f"High-risk chats: {report['summary']['high_risk_chats']}")
-    logger.info(
-        f"Questionnaire consistency: {report['summary']['questionnaire_consistency']}"
-    )
+    logger.info(f"Questionnaire consistency: {report['summary']['questionnaire_consistency']}")
 
     return report
 

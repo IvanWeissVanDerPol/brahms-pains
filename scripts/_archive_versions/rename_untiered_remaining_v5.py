@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Final rename pass for remaining 4+ msg untiered_personal."""
+
 from __future__ import annotations
 
-import json
 import shutil
 from pathlib import Path
 
@@ -14,16 +14,12 @@ def main():
     MANUAL_MAP = {
         # 60 msgs
         "Lid_264647361974519": "Lid_264647361974519",  # empty first msg
-
         # 23 msgs
         "Lid_116647134245016": "Lid_116647134245016",  # simple "Hola"
-
         # 16 msgs
         "Lid_2083797373166": "Lid_2083797373166",  # empty first msg
-
         # 7 msgs
         "Chat_595991851222": "Chat_595991851222",  # empty
-
         # 6 msgs - more identities
         "Lid_40570311434494": "Compra_Minima_Query",
         "Lid_159961812320427": "Kinda_Random_IA_Stuff",  # "kinda random, recorde que estabas kinda into IA stuff"
@@ -43,7 +39,6 @@ def main():
         "Chat_595962133580": "Gift_Delivery_Ubi",  # "entregarte el regalo"
         "Chat_5491161048979": "Dr_Demian_Glujovsky",  # "soy el Dr. Demián Glujovsky"
         "Chat_50257029309": "Lorena_Meet_Offer",  # "Hola Lorena, Estoy libre"
-
         # 5 msgs
         "Lid_89485660393604": "Buenas_Lid_894",
         "Lid_49074850025489": "Monchis_Driver_3",
@@ -69,7 +64,6 @@ def main():
         "Chat_359876591429": "Kate_Money_Question",  # "Hey it's Kate!"
         "Chat_34650513549": "Vacantes_Share",  # "compartiré todas las vacantes"
         "Chat_18492797199": "No_Broncas_Agencia",  # "no ando buscando broncas"
-
         # 4 msgs
         "Lid_130219130274040": "Hola_Lid_130",
         "Chat_62882162936422": "Esperando_Gran_Dia",
@@ -96,7 +90,7 @@ def main():
         print(f"  RENAMED: {old} -> {new}")
         renamed += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Renamed: {renamed}")
     print(f"  Skipped: {skipped}")
 

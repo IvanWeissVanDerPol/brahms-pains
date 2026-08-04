@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """MAIN 7 subgroup analysis - synthesize 8 JSON sources into per-friend profiles."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -63,25 +63,30 @@ def analyze_main7_subgroups():
                 vvt_info = vvt["per_chat"].get(chat_name, {})
 
                 if tp_info:
-                    profile["matches"].append({
-                        "chat": chat_name,
-                        "tier": rec_info.get("tier", "unknown"),
-                        "total_msgs": tp_info.get("total_msgs", 0),
-                        "late_night_ratio": tp_info.get("late_night_ratio", 0),
-                        "ivan_ratio": tp_info.get("ivan_ratio", 0),
-                        "ivan_starts": init_info.get("ivan_starts", 0),
-                        "them_starts": init_info.get("them_starts", 0),
-                        "max_streak": init_info.get("max_streak_days", 0),
-                        "median_response": init_info.get("median_response_time_ms", None),
-                        "days_since": rec_info.get("days_since_last", None),
-                        "voice_pct": vvt_info.get("voice_pct", 0),
-                        "peak_hour": tp_info.get("peak_hour", None),
-                        "peak_dow": tp_info.get("peak_dow", None),
-                    })
+                    profile["matches"].append(
+                        {
+                            "chat": chat_name,
+                            "tier": rec_info.get("tier", "unknown"),
+                            "total_msgs": tp_info.get("total_msgs", 0),
+                            "late_night_ratio": tp_info.get("late_night_ratio", 0),
+                            "ivan_ratio": tp_info.get("ivan_ratio", 0),
+                            "ivan_starts": init_info.get("ivan_starts", 0),
+                            "them_starts": init_info.get("them_starts", 0),
+                            "max_streak": init_info.get("max_streak_days", 0),
+                            "median_response": init_info.get("median_response_time_ms", None),
+                            "days_since": rec_info.get("days_since_last", None),
+                            "voice_pct": vvt_info.get("voice_pct", 0),
+                            "peak_hour": tp_info.get("peak_hour", None),
+                            "peak_dow": tp_info.get("peak_dow", None),
+                        }
+                    )
                     profile["lifetime_msgs"] += tp_info.get("total_msgs", 0)
 
                     if rec_info.get("days_since_last") is not None:
-                        if profile["last_contact"] is None or rec_info["days_since_last"] < profile["last_contact"]:
+                        if (
+                            profile["last_contact"] is None
+                            or rec_info["days_since_last"] < profile["last_contact"]
+                        ):
                             profile["last_contact"] = rec_info["days_since_last"]
                         profile["tier"] = rec_info.get("tier", "unknown")
 
@@ -89,11 +94,23 @@ def analyze_main7_subgroups():
         if profile["matches"]:
             # Calculate aggregate metrics
             total = profile["lifetime_msgs"]
-            avg_late = sum(m["late_night_ratio"] * m["total_msgs"] for m in profile["matches"]) / total if total > 0 else 0
-            avg_ivan = sum(m["ivan_ratio"] * m["total_msgs"] for m in profile["matches"]) / total if total > 0 else 0
+            avg_late = (
+                sum(m["late_night_ratio"] * m["total_msgs"] for m in profile["matches"]) / total
+                if total > 0
+                else 0
+            )
+            avg_ivan = (
+                sum(m["ivan_ratio"] * m["total_msgs"] for m in profile["matches"]) / total
+                if total > 0
+                else 0
+            )
             total_ivan_starts = sum(m["ivan_starts"] for m in profile["matches"])
             total_them_starts = sum(m["them_starts"] for m in profile["matches"])
-            avg_voice = sum(m["voice_pct"] * m["total_msgs"] for m in profile["matches"]) / total if total > 0 else 0
+            avg_voice = (
+                sum(m["voice_pct"] * m["total_msgs"] for m in profile["matches"]) / total
+                if total > 0
+                else 0
+            )
             max_streak = max((m["max_streak"] for m in profile["matches"]), default=0)
 
             profile["data"] = {
@@ -102,7 +119,11 @@ def analyze_main7_subgroups():
                 "avg_ivan_ratio": round(avg_ivan, 3),
                 "total_ivan_starts": total_ivan_starts,
                 "total_them_starts": total_them_starts,
-                "ivan_initiator_pct": round(total_ivan_starts / (total_ivan_starts + total_them_starts), 3) if (total_ivan_starts + total_them_starts) > 0 else 0,
+                "ivan_initiator_pct": (
+                    round(total_ivan_starts / (total_ivan_starts + total_them_starts), 3)
+                    if (total_ivan_starts + total_them_starts) > 0
+                    else 0
+                ),
                 "avg_voice_pct": round(avg_voice, 3),
                 "max_streak_days": max_streak,
                 "last_contact_days": profile["last_contact"],
@@ -155,7 +176,7 @@ def analyze_main7_subgroups():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== MAIN 7 + Kink Subgroup Analysis ===\n")
+    print("\n=== MAIN 7 + Kink Subgroup Analysis ===\n")
 
     # Sort by lifetime msgs
     sorted_profiles = sorted(profiles.items(), key=lambda x: -x[1]["lifetime_msgs"])
@@ -172,11 +193,13 @@ def analyze_main7_subgroups():
         print(f"  Last contact: {d['last_contact_days']}d ago")
         print(f"  Late-night: {d['avg_late_night_ratio']:.1%}")
         print(f"  Ivan initiator: {d['avg_ivan_ratio']:.1%}")
-        print(f"  Ivan starts conv: {d['total_ivan_starts']:,} / them {d['total_them_starts']:,} ({d['ivan_initiator_pct']:.1%})")
+        print(
+            f"  Ivan starts conv: {d['total_ivan_starts']:,} / them {d['total_them_starts']:,} ({d['ivan_initiator_pct']:.1%})"
+        )
         print(f"  Max streak: {d['max_streak_days']}d")
         print(f"  Voice%: {d['avg_voice_pct']:.1%}")
         print(f"  Chats: {len(profile['matches'])}")
-        print(f"  Clinical:")
+        print("  Clinical:")
         for i in profile["interpretations"]:
             print(f"    - {i}")
 

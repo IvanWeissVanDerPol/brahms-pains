@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Group chat participation analysis (Hat 14, 16)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict, Counter
+from collections import Counter
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -107,22 +108,24 @@ def analyze_group_participation():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Group Chat Participation ===")
+    print("\n=== Group Chat Participation ===")
     print(f"Total groups: {len(by_group)}")
-    print(f"\nCategory distribution:")
+    print("\nCategory distribution:")
     for cat, count in sorted(by_category.items(), key=lambda x: -x[1]):
         print(f"  {cat}: {count}")
 
-    print(f"\nTop 10 LURKER groups (Ivan = 0 msgs):")
+    print("\nTop 10 LURKER groups (Ivan = 0 msgs):")
     lurkers = [(c, info) for c, info in by_group.items() if info["category"] == "LURKER"]
     for c, info in sorted(lurkers, key=lambda x: -x[1]["total_msgs"])[:10]:
         print(f"  {info['total_msgs']:>5} msgs  {info['other_participants']:>3} others  {c[:35]}")
 
-    print(f"\nTop 10 ACTIVE groups (Ivan most engaged):")
+    print("\nTop 10 ACTIVE groups (Ivan most engaged):")
     active = [(c, info) for c, info in by_group.items() if info["category"] == "ACTIVE"]
     for c, info in sorted(active, key=lambda x: -x[1]["ivan_msgs"])[:10]:
-        print(f"  Ivan {info['ivan_msgs']:>5}/{info['total_msgs']:>5} ({info['ivan_ratio']:.1%})  "
-              f"{info['msgs_per_day']:.1f} m/day  {c[:30]}")
+        print(
+            f"  Ivan {info['ivan_msgs']:>5}/{info['total_msgs']:>5} ({info['ivan_ratio']:.1%})  "
+            f"{info['msgs_per_day']:.1f} m/day  {c[:30]}"
+        )
 
 
 if __name__ == "__main__":

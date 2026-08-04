@@ -3,6 +3,7 @@
 
 Outputs a JSON + a small HTML that loads the JSON lazily. ~50KB.
 """
+
 from __future__ import annotations
 
 import json
@@ -67,13 +68,15 @@ def main():
         p = MSG_BASE / e["tier"] / e["dirname"]
         stats = get_chat_stats(p)
         if stats:
-            contacts.append({
-                "jid": e["jid_user"],
-                "name": e["name"],
-                "tier": e["tier"],
-                "dir": e["dirname"],
-                **stats,
-            })
+            contacts.append(
+                {
+                    "jid": e["jid_user"],
+                    "name": e["name"],
+                    "tier": e["tier"],
+                    "dir": e["dirname"],
+                    **stats,
+                }
+            )
 
     # Sort by total messages
     contacts.sort(key=lambda c: -c["total"])

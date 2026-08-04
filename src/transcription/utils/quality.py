@@ -63,9 +63,7 @@ def check_quality(text: Optional[str]) -> QualityResult:
         return result
 
     # Check for Asian characters (Whisper hallucination in Spanish audio)
-    asian_chars = len(
-        re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text)
-    )
+    asian_chars = len(re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text))
     if asian_chars > config.quality.max_asian_chars:
         result.add_problem(
             "asian_chars",
@@ -139,18 +137,12 @@ def is_quality_transcript(text: Optional[str], min_words: Optional[int] = None) 
 
     # Quick checks for obvious problems
     # Asian characters
-    if (
-        len(re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text))
-        > 5
-    ):
+    if len(re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text)) > 5:
         return False
 
     # Vocabulary diversity
     unique_words = set(w.lower() for w in words)
-    if (
-        len(words) > 10
-        and len(unique_words) / len(words) < config.quality.min_unique_word_ratio
-    ):
+    if len(words) > 10 and len(unique_words) / len(words) < config.quality.min_unique_word_ratio:
         return False
 
     return True

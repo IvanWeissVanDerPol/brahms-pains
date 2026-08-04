@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Build transcript_analysis.html — voice notes dashboard."""
+
 from __future__ import annotations
 
 import json
@@ -11,7 +12,7 @@ ANALYSIS = REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS"
 data = json.loads((ANALYSIS / "transcript_analysis.json").read_text())
 chats = data["top_chats_by_volume"]
 
-HTML = f'''<!DOCTYPE html>
+HTML = f"""<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -102,24 +103,25 @@ HTML = f'''<!DOCTYPE html>
   
   <h2>🎭 Emotions detected (total markers)</h2>
   <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:8px;font-size:12px">
-'''
+"""
 
-for emotion, n in sorted(data['emotion_totals'].items(), key=lambda x: -x[1]):
-    pct = 100 * n / sum(data['emotion_totals'].values())
+for emotion, n in sorted(data["emotion_totals"].items(), key=lambda x: -x[1]):
+    pct = 100 * n / sum(data["emotion_totals"].values())
     bar_w = int(pct * 3)
     HTML += f'    <div style="background:var(--bg-1);border:1px solid var(--border);border-radius:4px;padding:8px 12px"><div style="color:var(--fg-3);font-size:10px;text-transform:uppercase">{emotion}</div><div style="font-size:18px;font-weight:500">{n:,}</div><div style="font-size:10px;color:var(--fg-3)">{pct:.1f}%</div></div>\n'
 
-HTML += '''
+HTML += """
   </div>
   
   <h2>🌍 Languages detected</h2>
   <div style="margin-top:8px;font-size:12px">
-'''
-for lang, n in sorted(data['languages'].items(), key=lambda x: -x[1])[:8]:
-    pct = 100 * n / data['total_transcripts']
+"""
+for lang, n in sorted(data["languages"].items(), key=lambda x: -x[1])[:8]:
+    pct = 100 * n / data["total_transcripts"]
     HTML += f'    <span style="display:inline-block;padding:4px 10px;margin:2px;background:var(--bg-1);border:1px solid var(--border);border-radius:4px"><strong>{lang}</strong> {n:,} ({pct:.1f}%)</span>\n'
 
-HTML += '''
+HTML += (
+    """
   </div>
   
   <h2>📊 Voice notes per chat (top 50 by volume)</h2>
@@ -139,12 +141,16 @@ HTML += '''
   
   <div class="footer">
     Method: faster-whisper small + small Spanish/English sentiment dictionaries + emotion keyword markers.<br>
-    Generated ''' + data["generated_at"][:19] + ''' UTC.
+    Generated """
+    + data["generated_at"][:19]
+    + """ UTC.
   </div>
 </div>
 
 <script>
-const DATA = ''' + json.dumps(chats, ensure_ascii=False) + ''';
+const DATA = """
+    + json.dumps(chats, ensure_ascii=False)
+    + """;
 
 let sortKey = "transcripts";
 let sortAsc = false;
@@ -200,7 +206,10 @@ render();
 </script>
 </body>
 </html>
-'''
+"""
+)
 
 (ANALYSIS / "voice_notes_dashboard.html").write_text(HTML)
-print(f"Wrote voice_notes_dashboard.html ({(ANALYSIS / 'voice_notes_dashboard.html').stat().st_size:,} bytes)")
+print(
+    f"Wrote voice_notes_dashboard.html ({(ANALYSIS / 'voice_notes_dashboard.html').stat().st_size:,} bytes)"
+)

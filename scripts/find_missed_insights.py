@@ -1,5 +1,4 @@
 import json
-import os
 from pathlib import Path
 from collections import Counter
 import re
@@ -71,9 +70,7 @@ def analyze_missed_insights():
     # Sort by word count
     missed_candidates.sort(key=lambda x: x["word_count"], reverse=True)
 
-    print(
-        "\n=== TOP 20 LONGEST TRANSCRIPTS WITHOUT FINDINGS (Potential Missed Stories) ==="
-    )
+    print("\n=== TOP 20 LONGEST TRANSCRIPTS WITHOUT FINDINGS (Potential Missed Stories) ===")
     for i, item in enumerate(missed_candidates[:20]):
         print(
             f"{i + 1}. [{item['chat']}] {item['file']} ({item['word_count']} words) - {item['date']}"

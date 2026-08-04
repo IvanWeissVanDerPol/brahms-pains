@@ -7,7 +7,6 @@ import gc
 import json
 import os
 import re
-from datetime import datetime
 from pathlib import Path
 
 # FFmpeg path
@@ -27,9 +26,7 @@ def check_quality(text: str) -> list[str]:
     """Check for quality issues."""
     problems = []
 
-    asian_chars = len(
-        re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text)
-    )
+    asian_chars = len(re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text))
     if asian_chars > 3:
         problems.append(f"asian_chars:{asian_chars}")
 
@@ -134,9 +131,7 @@ def main():
             old_problems = check_quality(old_text) if old_text else ["no_previous"]
 
             try:
-                r = model.transcribe(
-                    str(filepath), language="es", fp16=True, verbose=False
-                )
+                r = model.transcribe(str(filepath), language="es", fp16=True, verbose=False)
                 new_text = r["text"]
                 if isinstance(new_text, str):
                     new_text = new_text.strip()

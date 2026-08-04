@@ -11,6 +11,7 @@ Run from the repo root:
 Idempotent: existing symlinks with correct targets are left alone; broken
 or wrong-target symlinks are removed and re-created.
 """
+
 from __future__ import annotations
 
 import json
@@ -20,6 +21,7 @@ from collections import defaultdict
 from pathlib import Path
 
 import sys
+
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from triage_wa_chats import (
     ROOT,
@@ -109,8 +111,12 @@ def rebuild() -> int:
             if (link.name, current_target) in expected_in_circle:
                 continue
             # Stale or wrong — remove
-            subprocess.run(["git", "rm", "-f", str(link)],
-                           cwd="/root/psycology", capture_output=True, text=True)
+            subprocess.run(
+                ["git", "rm", "-f", str(link)],
+                cwd="/root/psycology",
+                capture_output=True,
+                text=True,
+            )
             removed += 1
 
     # Create missing
@@ -120,8 +126,9 @@ def rebuild() -> int:
         if link_path.exists() or link_path.is_symlink():
             continue
         os.symlink(target, link_path)
-        subprocess.run(["git", "add", str(link_path)],
-                       cwd="/root/psycology", capture_output=True, text=True)
+        subprocess.run(
+            ["git", "add", str(link_path)], cwd="/root/psycology", capture_output=True, text=True
+        )
         created += 1
 
     # Sanity check
@@ -141,7 +148,7 @@ def rebuild() -> int:
     print(f"Created: {created} new symlinks")
     print(f"Removed: {removed} stale symlinks")
     print(f"Broken after rebuild: {broken}")
-    print(f"\nCircle distribution:")
+    print("\nCircle distribution:")
     for c in CIRCLES:
         print(f"  {c}: {counts[c]}")
     return 0

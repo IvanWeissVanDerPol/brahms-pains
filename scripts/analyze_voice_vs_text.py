@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Voice note vs text preference per contact (Hat 7, 32)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -16,7 +16,14 @@ def analyze_voice_vs_text():
     """For each contact, calculate ratio of voice notes vs text messages."""
     by_chat = {}
 
-    tiers = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid"]
+    tiers = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+    ]
 
     for tier in tiers:
         d = WA / tier
@@ -107,24 +114,34 @@ def analyze_voice_vs_text():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Voice vs Text Preference ===")
+    print("\n=== Voice vs Text Preference ===")
     print(f"Total analyzed: {len(by_chat)}")
     print(f"Audio-heavy (>=50% voice): {len(audio_heavy)}")
     print(f"Text-heavy (>90% text): {len(text_heavy)}")
 
-    print(f"\nTop 15 audio-heavy contacts (most voice notes):")
+    print("\nTop 15 audio-heavy contacts (most voice notes):")
     for c, info in sorted(by_chat.items(), key=lambda x: -x[1]["voice_notes"])[:15]:
         if info["voice_notes"] > 0:
-            print(f"  {info['voice_notes']:>4} voice  {info['voice_pct']:>5.1%}  {info['tier']:<15}  {c[:35]}")
+            print(
+                f"  {info['voice_notes']:>4} voice  {info['voice_pct']:>5.1%}  {info['tier']:<15}  {c[:35]}"
+            )
 
-    print(f"\nTop 15 voice-preferred (highest voice%):")
+    print("\nTop 15 voice-preferred (highest voice%):")
     for c, info in audio_heavy[:15]:
-        print(f"  {info['voice_pct']:>5.1%} voice  {info['voice_notes']:>4} v / {info['text_msgs']:>4} t  {c[:35]}")
+        print(
+            f"  {info['voice_pct']:>5.1%} voice  {info['voice_notes']:>4} v / {info['text_msgs']:>4} t  {c[:35]}"
+        )
 
-    print(f"\nTop 10 text-only contacts (>95% text):")
-    text_only = [(c, info) for c, info in by_chat.items() if info["text_pct"] > 0.95 and info["total_msgs"] >= 50]
+    print("\nTop 10 text-only contacts (>95% text):")
+    text_only = [
+        (c, info)
+        for c, info in by_chat.items()
+        if info["text_pct"] > 0.95 and info["total_msgs"] >= 50
+    ]
     for c, info in sorted(text_only, key=lambda x: -x[1]["total_msgs"])[:10]:
-        print(f"  {info['text_pct']:>5.1%} text  {info['total_msgs']:>5} msgs  {info['tier']:<15}  {c[:30]}")
+        print(
+            f"  {info['text_pct']:>5.1%} text  {info['total_msgs']:>5} msgs  {info['tier']:<15}  {c[:30]}"
+        )
 
 
 if __name__ == "__main__":

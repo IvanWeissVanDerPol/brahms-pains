@@ -106,7 +106,7 @@ def retranscribe_severe_files():
                             )
                         elif new_quality.is_valid:
                             improved_count += 1
-                            logger.info(f"  ✓ FIXED: Now clean")
+                            logger.info("  ✓ FIXED: Now clean")
                         else:
                             still_bad_count += 1
                             logger.info(f"  ✗ STILL BAD: {new_quality.problems}")
@@ -121,9 +121,7 @@ def retranscribe_severe_files():
             still_bad_count += 1
 
     logger.info("\n" + "=" * 60)
-    logger.info(
-        f"SUMMARY: {improved_count} improved, {still_bad_count} still have issues"
-    )
+    logger.info(f"SUMMARY: {improved_count} improved, {still_bad_count} still have issues")
     logger.info("=" * 60)
 
     return improved_count, still_bad_count

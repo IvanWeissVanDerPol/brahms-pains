@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Topic/keyword extraction per chat (Hat 14, 17)."""
+
 from __future__ import annotations
 
 import json
 import re
 from pathlib import Path
-from collections import defaultdict, Counter
+from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -14,20 +15,141 @@ ANALYSIS = WA / "_ANALYSIS"
 
 # Topic indicators - Spanish + English
 TOPICS = {
-    "kink_bdsm": ["dom", "sub", "kink", "bdsm", "rigger", "rope", "shibari", "femdom", "play", "scene", "owner"],
-    "dental_clinic": ["dental", "dentist", "clinic", "paciente", "consultorio", "diente", "muela", "ortodoncia", "endodoncia"],
-    "ai_tech": ["ai", "ml", "llm", "model", "agent", "claude", "gpt", "anthropic", "openai", "hermes", "langchain"],
-    "family": ["mama", "papa", "momi", "daddy", "abuela", "abuelo", "primo", "tio", "polo", "kiki", "luana"],
-    "intimacy_romance": ["amor", "love", "te quiero", "cariño", "beso", "abrazo", "cari", "hermosa", "lindo", "precioso"],
-    "work_projects": ["proyecto", "project", "trabajo", "client", "cliente", "ometz", "paragu-ai", "sunstone"],
-    "school_study": ["examen", "final", "tarea", "profesor", "facultad", "universidad", "fpuna", "uca"],
+    "kink_bdsm": [
+        "dom",
+        "sub",
+        "kink",
+        "bdsm",
+        "rigger",
+        "rope",
+        "shibari",
+        "femdom",
+        "play",
+        "scene",
+        "owner",
+    ],
+    "dental_clinic": [
+        "dental",
+        "dentist",
+        "clinic",
+        "paciente",
+        "consultorio",
+        "diente",
+        "muela",
+        "ortodoncia",
+        "endodoncia",
+    ],
+    "ai_tech": [
+        "ai",
+        "ml",
+        "llm",
+        "model",
+        "agent",
+        "claude",
+        "gpt",
+        "anthropic",
+        "openai",
+        "hermes",
+        "langchain",
+    ],
+    "family": [
+        "mama",
+        "papa",
+        "momi",
+        "daddy",
+        "abuela",
+        "abuelo",
+        "primo",
+        "tio",
+        "polo",
+        "kiki",
+        "luana",
+    ],
+    "intimacy_romance": [
+        "amor",
+        "love",
+        "te quiero",
+        "cariño",
+        "beso",
+        "abrazo",
+        "cari",
+        "hermosa",
+        "lindo",
+        "precioso",
+    ],
+    "work_projects": [
+        "proyecto",
+        "project",
+        "trabajo",
+        "client",
+        "cliente",
+        "ometz",
+        "paragu-ai",
+        "sunstone",
+    ],
+    "school_study": [
+        "examen",
+        "final",
+        "tarea",
+        "profesor",
+        "facultad",
+        "universidad",
+        "fpuna",
+        "uca",
+    ],
     "exercise_gym": ["gym", "gimnasio", "ejercicio", "workout", "correr", "pesas", "cardio"],
-    "food": ["comida", "comer", "cena", "almuerzo", "desayuno", "pizza", "empanada", "asado", "comer", "cocinar"],
+    "food": [
+        "comida",
+        "comer",
+        "cena",
+        "almuerzo",
+        "desayuno",
+        "pizza",
+        "empanada",
+        "asado",
+        "comer",
+        "cocinar",
+    ],
     "kink_kinky": ["sumisa", "sumiso", "dueño", "dueña", "amo", "ama", "castigo", "recompensa"],
-    "psychology_therapy": ["terapia", "psicologo", "psicologa", "ansiedad", "depresion", "trauma", "ataque"],
-    "social_events": ["fiesta", "evento", "cumpleaños", "birthday", "reunion", "quedamos", "salimos"],
-    "money_finance": ["plata", "guarani", "guaranies", "dolares", "dolares", "money", "transferencia", "banco"],
-    "music_art": ["musica", "song", "rock", "bar", "tokio", "canción", "artista", "pintura", "pintar"],
+    "psychology_therapy": [
+        "terapia",
+        "psicologo",
+        "psicologa",
+        "ansiedad",
+        "depresion",
+        "trauma",
+        "ataque",
+    ],
+    "social_events": [
+        "fiesta",
+        "evento",
+        "cumpleaños",
+        "birthday",
+        "reunion",
+        "quedamos",
+        "salimos",
+    ],
+    "money_finance": [
+        "plata",
+        "guarani",
+        "guaranies",
+        "dolares",
+        "dolares",
+        "money",
+        "transferencia",
+        "banco",
+    ],
+    "music_art": [
+        "musica",
+        "song",
+        "rock",
+        "bar",
+        "tokio",
+        "canción",
+        "artista",
+        "pintura",
+        "pintar",
+    ],
 }
 
 
@@ -35,11 +157,18 @@ def analyze_topics():
     """Extract topic mentions per chat."""
     by_chat = {}
 
-    tiers = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid"]
+    tiers = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+    ]
 
     patterns = {}
     for topic, terms in TOPICS.items():
-        patterns[topic] = [re.compile(r'\b' + re.escape(t) + r'\b', re.IGNORECASE) for t in terms]
+        patterns[topic] = [re.compile(r"\b" + re.escape(t) + r"\b", re.IGNORECASE) for t in terms]
 
     for tier in tiers:
         d = WA / tier
@@ -113,9 +242,9 @@ def analyze_topics():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Topic Extraction Analysis ===")
+    print("\n=== Topic Extraction Analysis ===")
     print(f"Total analyzed: {len(by_chat)}")
-    print(f"\nTopic distribution:")
+    print("\nTopic distribution:")
     for topic, count in sorted(summary["topic_distribution"].items(), key=lambda x: -x[1]):
         print(f"  {topic:<25}: {count}")
 
@@ -123,7 +252,9 @@ def analyze_topics():
     for topic in ["kink_bdsm", "dental_clinic", "ai_tech", "family", "intimacy_romance"]:
         if topic in topic_groups:
             print(f"\nTop 5 {topic} chats:")
-            for c, info in sorted(topic_groups[topic], key=lambda x: -x[1]["topic_counts"][topic])[:5]:
+            for c, info in sorted(topic_groups[topic], key=lambda x: -x[1]["topic_counts"][topic])[
+                :5
+            ]:
                 print(f"  {info['topic_counts'][topic]:>3} mentions  {c[:40]}")
 
 

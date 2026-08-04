@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Streak/consistency analysis (Hat 1)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -16,7 +16,14 @@ def analyze_streaks():
     """Analyze longest consecutive daily activity streaks per chat."""
     by_chat = {}
 
-    tiers = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid"]
+    tiers = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+    ]
 
     for tier in tiers:
         d = WA / tier
@@ -63,7 +70,7 @@ def analyze_streaks():
             max_streak_end = sorted_days[0]
 
             for i in range(1, len(sorted_days)):
-                delta = (sorted_days[i] - sorted_days[i-1]).days
+                delta = (sorted_days[i] - sorted_days[i - 1]).days
                 if delta == 1:
                     current_streak += 1
                     if current_streak > max_streak:
@@ -106,14 +113,16 @@ def analyze_streaks():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Streak/Consistency Analysis ===")
+    print("\n=== Streak/Consistency Analysis ===")
     print(f"Total analyzed: {len(by_chat)}")
 
-    print(f"\nTop 25 longest streaks (most consistent engagement):")
+    print("\nTop 25 longest streaks (most consistent engagement):")
     for c, info in sorted(by_chat.items(), key=lambda x: -x[1]["max_streak_days"])[:25]:
         if info["max_streak_days"] > 30:
-            print(f"  {info['max_streak_days']:>4}d streak  {info['total_msgs']:>5} msgs  "
-                  f"Ivan {info['ivan_ratio']:.0%}  {c[:40]}")
+            print(
+                f"  {info['max_streak_days']:>4}d streak  {info['total_msgs']:>5} msgs  "
+                f"Ivan {info['ivan_ratio']:.0%}  {c[:40]}"
+            )
 
 
 if __name__ == "__main__":

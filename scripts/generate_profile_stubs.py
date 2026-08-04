@@ -16,17 +16,18 @@ USAGE:
     python3 scripts/generate_profile_stubs.py --dry-run
     python3 scripts/generate_profile_stubs.py --apply
 """
+
 from __future__ import annotations
 
 import argparse
 import json
 import re
-from collections import Counter
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
 MSG_BASE = REPO / "SOURCE_OF_TRUTH" / "wa_messages"
 PROFILE_DIR = REPO / "RELATIONSHIPS" / "dynamics"
+
 
 # Slugify
 def slugify(name):
@@ -69,17 +70,26 @@ def collect_named_chats(min_msgs=100):
                 continue
             jid = str(data.get("jid_user", ""))
             # Date range
-            dates = [m.get("ts_ms", 0) for m in data.get("messages", []) if isinstance(m, dict) and m.get("ts_ms")]
+            dates = [
+                m.get("ts_ms", 0)
+                for m in data.get("messages", [])
+                if isinstance(m, dict) and m.get("ts_ms")
+            ]
             if dates:
                 import datetime
-                first = datetime.datetime.fromtimestamp(min(dates)/1000).strftime("%Y-%m-%d")
-                last = datetime.datetime.fromtimestamp(max(dates)/1000).strftime("%Y-%m-%d")
+
+                first = datetime.datetime.fromtimestamp(min(dates) / 1000).strftime("%Y-%m-%d")
+                last = datetime.datetime.fromtimestamp(max(dates) / 1000).strftime("%Y-%m-%d")
             else:
                 first = last = "?"
             # Audio
-            audio_n = sum(1 for m in data.get("messages", []) if isinstance(m, dict) and m.get("type") == 2)
+            audio_n = sum(
+                1 for m in data.get("messages", []) if isinstance(m, dict) and m.get("type") == 2
+            )
             # Image
-            img_n = sum(1 for m in data.get("messages", []) if isinstance(m, dict) and m.get("type") == 1)
+            img_n = sum(
+                1 for m in data.get("messages", []) if isinstance(m, dict) and m.get("type") == 1
+            )
             # Content sample — first text msgs from each side
             them_sample = []
             ivan_sample = []
@@ -93,20 +103,22 @@ def collect_named_chats(min_msgs=100):
                             them_sample.append(m["text"][:140])
                     if len(them_sample) >= 3 and len(ivan_sample) >= 3:
                         break
-            out.append({
-                "name": nm,
-                "tier": tier,
-                "tier_depth": TIER_DEPTH[tier],
-                "jid": jid,
-                "msgs": n,
-                "audio": audio_n,
-                "images": img_n,
-                "first": first,
-                "last": last,
-                "them_sample": them_sample,
-                "ivan_sample": ivan_sample,
-                "chat_dir": str(d.relative_to(REPO)),
-            })
+            out.append(
+                {
+                    "name": nm,
+                    "tier": tier,
+                    "tier_depth": TIER_DEPTH[tier],
+                    "jid": jid,
+                    "msgs": n,
+                    "audio": audio_n,
+                    "images": img_n,
+                    "first": first,
+                    "last": last,
+                    "them_sample": them_sample,
+                    "ivan_sample": ivan_sample,
+                    "chat_dir": str(d.relative_to(REPO)),
+                }
+            )
     out.sort(key=lambda x: -x["msgs"])
     return out
 
@@ -208,23 +220,29 @@ def main():
         "595981225272",  # ami_school is actually Magali (use MAGALI_CARRERAS.md)
         "595982515138",  # gabriel_g_curuguaty (wrong provisional; is mom_sonia_weiss)
         "595986138387",  # John (is dad_john_van_der_pol, has SONIA.md)
-        "31612495139",   # Riet (is grandma_riet, has SONIA.md)
+        "31612495139",  # Riet (is grandma_riet, has SONIA.md)
         "595982850085",  # Mica (is cousin_mica, has KIKI_HERMANA.md references)
-        "15055778339",   # Toni (is uncle_antonio_toni, has SONIA.md)
+        "15055778339",  # Toni (is uncle_antonio_toni, has SONIA.md)
         "595985786571",  # Primo Gabriel (has KIKI_HERMANA.md refs)
         "595985855075",  # Gerold (uncle, has SONIA.md refs)
     }
     SKIP_PROVISIONAL_NAMES = {
-        "John", "Riet van der Pol", "Mica Weiss", "Toni Weiss",
-        "Primo Gabriel", "ami_school", "gabriel_g_curuguaty",
+        "John",
+        "Riet van der Pol",
+        "Mica Weiss",
+        "Toni Weiss",
+        "Primo Gabriel",
+        "ami_school",
+        "gabriel_g_curuguaty",
     }
     to_create = [
-        c for c in chats
+        c
+        for c in chats
         if needs_profile(c["name"], existing)
         and c["jid"] not in SKIP_JIDS
         and c["name"] not in SKIP_PROVISIONAL_NAMES
     ]
-    to_create = to_create[:args.limit]
+    to_create = to_create[: args.limit]
     print(f"Need profile stubs: {len(to_create)}")
 
     print()
@@ -233,16 +251,24 @@ def main():
     print("=" * 70)
     for c in to_create:
         s = slugify(c["name"])
-        print(f"  {s:<35}  msgs={c['msgs']:>6}  audio={c['audio']:>4}  tier={c['tier_depth']:<10}  jid={c['jid'][:14]}")
+        print(
+            f"  {s:<35}  msgs={c['msgs']:>6}  audio={c['audio']:>4}  tier={c['tier_depth']:<10}  jid={c['jid'][:14]}"
+        )
 
     if args.dry_run:
         # Save the list
         out = REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS" / "PROFILE_STUB_PROPOSALS.json"
-        out.write_text(json.dumps({
-            "generated_at": str(__import__('datetime').datetime.now()),
-            "total_proposed": len(to_create),
-            "stubs": to_create,
-        }, ensure_ascii=False, indent=2))
+        out.write_text(
+            json.dumps(
+                {
+                    "generated_at": str(__import__("datetime").datetime.now()),
+                    "total_proposed": len(to_create),
+                    "stubs": to_create,
+                },
+                ensure_ascii=False,
+                indent=2,
+            )
+        )
         print(f"\nWrote {out.relative_to(REPO)}")
         return
 

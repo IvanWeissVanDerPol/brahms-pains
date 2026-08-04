@@ -28,7 +28,6 @@ import sys
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
-from typing import Optional
 
 # Add src to path
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
@@ -37,7 +36,6 @@ from transcription import (
     config,
     get_model,
     transcribe_file,
-    clear_model_cache,
     save_transcripts,
     load_transcripts,
     get_already_transcribed,
@@ -105,9 +103,7 @@ def cmd_single(args: argparse.Namespace) -> int:
     # Summary
     errors = sum(1 for r in results if not r.get("success"))
     elapsed = (datetime.now() - start_time).total_seconds()
-    logger.info(
-        f"Complete: {len(results)} files in {elapsed / 60:.1f}m ({errors} errors)"
-    )
+    logger.info(f"Complete: {len(results)} files in {elapsed / 60:.1f}m ({errors} errors)")
 
     return 0 if errors == 0 else 1
 
@@ -128,9 +124,7 @@ def cmd_parallel(args: argparse.Namespace) -> int:
 
     # Filter if specified
     if args.chat:
-        all_chats = {
-            k: v for k, v in all_chats.items() if args.chat.lower() in k.lower()
-        }
+        all_chats = {k: v for k, v in all_chats.items() if args.chat.lower() in k.lower()}
 
     total_files = sum(len(f) for f in all_chats.values())
     logger.info(f"Found {total_files} files across {len(all_chats)} chats")
@@ -151,9 +145,7 @@ def cmd_parallel(args: argparse.Namespace) -> int:
         logger.info("All files already transcribed!")
         return 0
 
-    logger.info(
-        f"Processing {len(files_to_process)} files with {args.workers} workers..."
-    )
+    logger.info(f"Processing {len(files_to_process)} files with {args.workers} workers...")
 
     # Process with process pool
     results_by_chat: dict[str, list] = {chat: [] for chat in all_chats.keys()}
@@ -162,9 +154,7 @@ def cmd_parallel(args: argparse.Namespace) -> int:
     errors = 0
 
     # Prepare work items
-    work_items = [
-        (str(f), args.model, args.language, chat) for chat, f in files_to_process
-    ]
+    work_items = [(str(f), args.model, args.language, chat) for chat, f in files_to_process]
 
     def process_single(args_tuple):
         """Process a single file (for pool)."""
@@ -177,9 +167,7 @@ def cmd_parallel(args: argparse.Namespace) -> int:
         return chat_name, result
 
     with ProcessPoolExecutor(max_workers=args.workers) as executor:
-        future_to_item = {
-            executor.submit(process_single, item): item for item in work_items
-        }
+        future_to_item = {executor.submit(process_single, item): item for item in work_items}
 
         for future in as_completed(future_to_item):
             try:
@@ -195,11 +183,7 @@ def cmd_parallel(args: argparse.Namespace) -> int:
                 if completed % 50 == 0 or completed == len(files_to_process):
                     elapsed = (datetime.now() - start_time).total_seconds()
                     rate = completed / elapsed if elapsed > 0 else 0
-                    eta = (
-                        (len(files_to_process) - completed) / rate / 60
-                        if rate > 0
-                        else 0
-                    )
+                    eta = (len(files_to_process) - completed) / rate / 60 if rate > 0 else 0
                     logger.info(
                         f"Progress: {completed}/{len(files_to_process)} "
                         f"({100 * completed / len(files_to_process):.1f}%) | "
@@ -297,7 +281,6 @@ def cmd_resume(args: argparse.Namespace) -> int:
 def cmd_retranscribe(args: argparse.Namespace) -> int:
     """Re-transcribe low-quality files."""
     # Load quality issues
-    import json
 
     issues_file = config.paths.source_of_truth / "RETRANSCRIBE_LIST.txt"
 
@@ -390,7 +373,6 @@ def cmd_retranscribe(args: argparse.Namespace) -> int:
 def cmd_check(args: argparse.Namespace) -> int:
     """Check transcript quality."""
     import json
-    from collections import Counter
 
     issues = []
     total_checked = 0
@@ -493,9 +475,7 @@ def cmd_status(args: argparse.Namespace) -> int:
 
     # Print table
     print("\n" + "=" * 70)
-    print(
-        f"{'Chat':<25} {'Done':<8} {'Failed':<8} {'Total':<8} {'%':<8} {'Status':<10}"
-    )
+    print(f"{'Chat':<25} {'Done':<8} {'Failed':<8} {'Total':<8} {'%':<8} {'Status':<10}")
     print("=" * 70)
 
     for chat, s in sorted(status.items(), key=lambda x: x[1]["remaining"]):
@@ -513,9 +493,7 @@ def cmd_status(args: argparse.Namespace) -> int:
 
     print("=" * 70)
     overall_pct = 100 * total_done / total_files if total_files > 0 else 0
-    print(
-        f"{'TOTAL':<25} {total_done:<8} {'':<8} {total_files:<8} {overall_pct:>6.1f}%"
-    )
+    print(f"{'TOTAL':<25} {total_done:<8} {'':<8} {total_files:<8} {overall_pct:>6.1f}%")
     print("=" * 70 + "\n")
 
     return 0
@@ -549,9 +527,7 @@ Examples:
         choices=["tiny", "base", "small", "medium", "large", "turbo"],
         help="Whisper model to use (default: base)",
     )
-    common_parser.add_argument(
-        "--language", default="es", help="Language code (default: es)"
-    )
+    common_parser.add_argument("--language", default="es", help="Language code (default: es)")
 
     # Single command
     single_parser = subparsers.add_parser(
@@ -575,9 +551,7 @@ Examples:
     parallel_parser.add_argument("--chat", help="Process only specific chat")
 
     # All command
-    all_parser = subparsers.add_parser(
-        "all", parents=[common_parser], help="Process all chats"
-    )
+    all_parser = subparsers.add_parser("all", parents=[common_parser], help="Process all chats")
 
     # Resume command
     resume_parser = subparsers.add_parser(
@@ -589,9 +563,7 @@ Examples:
     retranscribe_parser = subparsers.add_parser(
         "retranscribe", help="Re-transcribe low-quality files with turbo model"
     )
-    retranscribe_parser.add_argument(
-        "--language", default="es", help="Language code (default: es)"
-    )
+    retranscribe_parser.add_argument("--language", default="es", help="Language code (default: es)")
 
     # Check command
     subparsers.add_parser("check", help="Check transcript quality")

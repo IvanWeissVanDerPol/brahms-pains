@@ -12,7 +12,6 @@ Usage:
 import argparse
 import json
 import os
-import sys
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
@@ -166,24 +165,20 @@ def main():
         "--model", default="base", choices=["tiny", "base", "small", "medium", "large"]
     )
     parser.add_argument("--language", default="es", help="Language code (default: es)")
-    parser.add_argument(
-        "--resume", action="store_true", help="Skip already transcribed files"
-    )
+    parser.add_argument("--resume", action="store_true", help="Skip already transcribed files")
     parser.add_argument("--chat", default=None, help="Process only specific chat")
     args = parser.parse_args()
 
-    print(f"=" * 60)
-    print(f"PARALLEL VOICE NOTE TRANSCRIPTION")
+    print("=" * 60)
+    print("PARALLEL VOICE NOTE TRANSCRIPTION")
     print(f"Workers: {args.workers} | Model: {args.model} | Language: {args.language}")
-    print(f"=" * 60)
+    print("=" * 60)
 
     # Get all voice notes
     all_notes = get_all_voice_notes()
 
     if args.chat:
-        all_notes = {
-            k: v for k, v in all_notes.items() if args.chat.lower() in k.lower()
-        }
+        all_notes = {k: v for k, v in all_notes.items() if args.chat.lower() in k.lower()}
 
     if not all_notes:
         print("No voice notes found!")
@@ -231,8 +226,7 @@ def main():
     with ProcessPoolExecutor(max_workers=args.workers) as executor:
         # Submit all tasks
         future_to_file = {
-            executor.submit(transcribe_single_file, item): item[0]
-            for item in work_items
+            executor.submit(transcribe_single_file, item): item[0] for item in work_items
         }
 
         # Process as they complete
@@ -266,7 +260,7 @@ def main():
                 errors += 1
 
     # Save results for each chat
-    print(f"\nSaving transcripts...")
+    print("\nSaving transcripts...")
     for chat_name in results_by_chat:
         # If resuming, merge with existing
         if args.resume:
@@ -282,7 +276,7 @@ def main():
     # Final summary
     elapsed = (datetime.now() - start_time).total_seconds()
     print(f"\n{'=' * 60}")
-    print(f"TRANSCRIPTION COMPLETE")
+    print("TRANSCRIPTION COMPLETE")
     print(f"{'=' * 60}")
     print(f"Total files: {completed}")
     print(f"Errors: {errors}")

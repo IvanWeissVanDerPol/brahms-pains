@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Last-contact recency heatmap (feeds Hat 1, 31)."""
+
 from __future__ import annotations
 
 import json
@@ -17,7 +18,16 @@ def analyze_recency():
     by_chat = {}
     by_tier = defaultdict(list)
 
-    tiers = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid", "_dropped", "_newsletters"]
+    tiers = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+        "_dropped",
+        "_newsletters",
+    ]
 
     for tier in tiers:
         d = WA / tier
@@ -100,30 +110,40 @@ def analyze_recency():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Recency Heatmap ===")
+    print("\n=== Recency Heatmap ===")
     print(f"Total: {len(by_chat)} chats")
 
-    print(f"\n{'Tier':<25} {'TODAY':>6} {'WEEK':>6} {'MONTH':>6} {'QTR':>6} {'HALF':>6} {'YEAR':>6} {'ABAND':>7}")
+    print(
+        f"\n{'Tier':<25} {'TODAY':>6} {'WEEK':>6} {'MONTH':>6} {'QTR':>6} {'HALF':>6} {'YEAR':>6} {'ABAND':>7}"
+    )
     for tier in tiers:
         if tier in heatmap:
             h = heatmap[tier]
             total = sum(h.values())
-            print(f"{tier:<25} {h.get('TODAY', 0):>6} {h.get('THIS_WEEK', 0):>6} {h.get('THIS_MONTH', 0):>6} {h.get('THIS_QUARTER', 0):>6} {h.get('HALF_YEAR', 0):>6} {h.get('THIS_YEAR', 0):>6} {h.get('ABANDONED', 0):>7}")
+            print(
+                f"{tier:<25} {h.get('TODAY', 0):>6} {h.get('THIS_WEEK', 0):>6} {h.get('THIS_MONTH', 0):>6} {h.get('THIS_QUARTER', 0):>6} {h.get('HALF_YEAR', 0):>6} {h.get('THIS_YEAR', 0):>6} {h.get('ABANDONED', 0):>7}"
+            )
 
     # Top 10 most abandoned tier1/tier2 contacts
     print("\n=== Top 10 most abandoned tier1/tier2 (potential grief signals) ===")
     sorted_by_days = sorted(
-        [(c, info) for c, info in by_chat.items() if info["tier"] in ("tier1_deep", "tier2_core") and info["total_msgs"] >= 50],
-        key=lambda x: -x[1]["days_since_last"]
+        [
+            (c, info)
+            for c, info in by_chat.items()
+            if info["tier"] in ("tier1_deep", "tier2_core") and info["total_msgs"] >= 50
+        ],
+        key=lambda x: -x[1]["days_since_last"],
     )[:10]
     for c, info in sorted_by_days:
-        print(f"  {info['days_since_last']:>5}d ago  {info['tier']:<12}  {info['total_msgs']:>5} msgs  {c[:35]}")
+        print(
+            f"  {info['days_since_last']:>5}d ago  {info['tier']:<12}  {info['total_msgs']:>5} msgs  {c[:35]}"
+        )
 
     # Top 10 freshest contacts
     print("\n=== Top 10 freshest contacts (most active) ===")
     sorted_fresh = sorted(
         [(c, info) for c, info in by_chat.items() if info["total_msgs"] >= 50],
-        key=lambda x: x[1]["days_since_last"]
+        key=lambda x: x[1]["days_since_last"],
     )[:10]
     for c, info in sorted_fresh:
         print(f"  {info['days_since_last']:>3}d ago  {info['tier']:<20}  {c[:35]}")

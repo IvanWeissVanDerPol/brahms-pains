@@ -1,15 +1,23 @@
 #!/usr/bin/env python3
 """Extract conversations from COMMITTED tier1/tier2 dirs (reads from git show)."""
-import json, subprocess
+
+import json
+import subprocess
 from pathlib import Path
 
 out_base = Path("SOURCE_OF_TRUTH/wa_messages/_conversations")
 out_base.mkdir(exist_ok=True)
 
+
 def get_committed_dirs(subpath):
-    r = subprocess.run(["git", "ls-tree", "--name-only", "HEAD", f"SOURCE_OF_TRUTH/wa_messages/{subpath}/"],
-        capture_output=True, text=True, cwd=Path(__file__).parent)
+    r = subprocess.run(
+        ["git", "ls-tree", "--name-only", "HEAD", f"SOURCE_OF_TRUTH/wa_messages/{subpath}/"],
+        capture_output=True,
+        text=True,
+        cwd=Path(__file__).parent,
+    )
     return [f for f in r.stdout.strip().split("\n") if f]
+
 
 tier1 = get_committed_dirs("tier1_deep")
 tier2 = get_committed_dirs("tier2_core")
@@ -22,8 +30,12 @@ for name in sorted(set(tier1 + tier2)):
         print(f"SKIP dup: {name}")
         continue
     seen[key] = name
-    r = subprocess.run(["git", "show", f"HEAD:SOURCE_OF_TRUTH/wa_messages/{tier}/{name}/messages.json"],
-        capture_output=True, text=True, cwd=Path(__file__).parent)
+    r = subprocess.run(
+        ["git", "show", f"HEAD:SOURCE_OF_TRUTH/wa_messages/{tier}/{name}/messages.json"],
+        capture_output=True,
+        text=True,
+        cwd=Path(__file__).parent,
+    )
     if r.returncode:
         print(f"ERROR: {name}")
         continue

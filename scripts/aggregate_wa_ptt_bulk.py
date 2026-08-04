@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Aggregate _wa_ptt_bulk/PTT-*.json into a single transcripts.json the extractor expects."""
+
 import json
 import re
 from pathlib import Path
@@ -25,13 +26,15 @@ for jf in sorted(BULK.glob("PTT-*.json")):
         continue
     m = DATE_RE.match(fname)
     date = f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else None
-    entries.append({
-        "file": fname,
-        "date": date,
-        "text": text,
-        "duration": data.get("duration"),
-        "language": data.get("language"),
-    })
+    entries.append(
+        {
+            "file": fname,
+            "date": date,
+            "text": text,
+            "duration": data.get("duration"),
+            "language": data.get("language"),
+        }
+    )
 
 OUT.write_text(json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8")
 print(f"Wrote {len(entries)} entries to {OUT} (skipped {skipped} unreadable)")

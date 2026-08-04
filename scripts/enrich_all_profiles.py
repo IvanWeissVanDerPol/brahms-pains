@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Enrich ALL unenriched top-level profiles with empirical data."""
+
 from __future__ import annotations
 
 import json
@@ -68,7 +69,7 @@ def get_metrics(profile_name):
     for p in patterns:
         search_patterns.add(p.lower())
         # Split into parts
-        parts = re.split(r'[_\s]+', p)
+        parts = re.split(r"[_\s]+", p)
         for part in parts:
             if len(part) > 3:  # Skip short parts
                 search_patterns.add(part.lower())
@@ -84,20 +85,22 @@ def get_metrics(profile_name):
             rec_info = rec["per_chat"].get(chat_name, {})
             vvt_info = vvt["per_chat"].get(chat_name, {})
 
-            matches.append({
-                "chat": chat_name,
-                "tier": rec_info.get("tier", "unknown"),
-                "total_msgs": info.get("total_msgs", 0),
-                "late_night_ratio": info.get("late_night_ratio", 0),
-                "ivan_ratio": info.get("ivan_ratio", 0),
-                "peak_hour": info.get("peak_hour"),
-                "peak_dow": info.get("peak_dow"),
-                "ivan_starts": init_info.get("ivan_starts", 0),
-                "them_starts": init_info.get("them_starts", 0),
-                "max_streak": init_info.get("max_streak_days", 0),
-                "days_since": rec_info.get("days_since_last"),
-                "voice_pct": vvt_info.get("voice_pct", 0),
-            })
+            matches.append(
+                {
+                    "chat": chat_name,
+                    "tier": rec_info.get("tier", "unknown"),
+                    "total_msgs": info.get("total_msgs", 0),
+                    "late_night_ratio": info.get("late_night_ratio", 0),
+                    "ivan_ratio": info.get("ivan_ratio", 0),
+                    "peak_hour": info.get("peak_hour"),
+                    "peak_dow": info.get("peak_dow"),
+                    "ivan_starts": init_info.get("ivan_starts", 0),
+                    "them_starts": init_info.get("them_starts", 0),
+                    "max_streak": init_info.get("max_streak_days", 0),
+                    "days_since": rec_info.get("days_since_last"),
+                    "voice_pct": vvt_info.get("voice_pct", 0),
+                }
+            )
 
     return matches
 
@@ -126,26 +129,38 @@ def enrich(profile_path):
     ivan_initiator_pct = total_ivan_starts / total_starts if total_starts > 0 else 0
     avg_voice = sum(m["voice_pct"] * m["total_msgs"] for m in matches) / total_msgs
     max_streak = max((m["max_streak"] for m in matches), default=0)
-    days_since = min((m["days_since"] for m in matches if m["days_since"] is not None), default=None)
+    days_since = min(
+        (m["days_since"] for m in matches if m["days_since"] is not None), default=None
+    )
     tiers = sorted(set(m["tier"] for m in matches))
 
     # Clinical interpretations
     inquiries = []
 
     if avg_late > 0.45:
-        inquiries.append(f"- **HIGH late-night ({avg_late:.1%})**: This contact is heavily active in Ivan's vulnerability window")
+        inquiries.append(
+            f"- **HIGH late-night ({avg_late:.1%})**: This contact is heavily active in Ivan's vulnerability window"
+        )
     elif avg_late > 0.35:
-        inquiries.append(f"- **Above-baseline late-night ({avg_late:.1%})**: Slightly elevated compared to Ivan's 32% baseline")
+        inquiries.append(
+            f"- **Above-baseline late-night ({avg_late:.1%})**: Slightly elevated compared to Ivan's 32% baseline"
+        )
 
     if avg_ivan > 0.7:
-        inquiries.append(f"- **Ivan chases ({avg_ivan:.1%})**: Ivan carries most of the relational load")
+        inquiries.append(
+            f"- **Ivan chases ({avg_ivan:.1%})**: Ivan carries most of the relational load"
+        )
     elif avg_ivan < 0.3:
-        inquiries.append(f"- **Ivan passive ({avg_ivan:.1%})**: They carry most of the relational load")
+        inquiries.append(
+            f"- **Ivan passive ({avg_ivan:.1%})**: They carry most of the relational load"
+        )
 
     if max_streak > 100:
         inquiries.append(f"- **Long streak ({max_streak}d)**: Sustained intense engagement")
     elif max_streak > 30:
-        inquiries.append(f"- **Moderate streak ({max_streak}d)**: Notable period of sustained contact")
+        inquiries.append(
+            f"- **Moderate streak ({max_streak}d)**: Notable period of sustained contact"
+        )
 
     if days_since and days_since > 365:
         inquiries.append(f"- **Abandoned ({days_since}d)**: Grief signal - over a year silent")

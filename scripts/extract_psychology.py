@@ -72,9 +72,7 @@ class PatternConfig:
             config_path: Path to JSON config file (default: config/psychological_patterns.json)
         """
         if config_path is None:
-            config_path = (
-                config.paths.project_root / "config" / "psychological_patterns.json"
-            )
+            config_path = config.paths.project_root / "config" / "psychological_patterns.json"
 
         self.config_path = config_path
         self.categories: dict[str, PatternCategory] = {}
@@ -101,9 +99,7 @@ class PatternConfig:
             self.high_value_categories = data.get("high_value_categories", [])
             self.settings = data.get("settings", {})
 
-            logger.info(
-                f"Loaded {len(self.categories)} pattern categories from {self.config_path}"
-            )
+            logger.info(f"Loaded {len(self.categories)} pattern categories from {self.config_path}")
 
         except (OSError, json.JSONDecodeError) as e:
             logger.error(f"Failed to load pattern config from {self.config_path}: {e}")
@@ -182,9 +178,7 @@ class PsychologicalExtractor:
 
         return dict(results)
 
-    def process_transcripts(
-        self, chat_name: str, transcripts: list[dict]
-    ) -> ExtractionResult:
+    def process_transcripts(self, chat_name: str, transcripts: list[dict]) -> ExtractionResult:
         """Process all transcripts for a chat.
 
         Args:
@@ -259,9 +253,7 @@ def generate_markdown_report(results: dict[str, ExtractionResult]) -> str:
 
     for chat_name, result in sorted(results.items()):
         # Get top 3 categories by finding count
-        sorted_cats = sorted(
-            result.findings.items(), key=lambda x: len(x[1]), reverse=True
-        )
+        sorted_cats = sorted(result.findings.items(), key=lambda x: len(x[1]), reverse=True)
         key_cats = [cat for cat, findings in sorted_cats if len(findings) >= 3][:3]
         key_cats_str = ", ".join(key_cats) if key_cats else "none"
 
@@ -277,9 +269,7 @@ def generate_markdown_report(results: dict[str, ExtractionResult]) -> str:
         lines.append("")
 
         if result.date_range:
-            lines.append(
-                f"**Date Range:** {result.date_range[0]} to {result.date_range[1]}"
-            )
+            lines.append(f"**Date Range:** {result.date_range[0]} to {result.date_range[1]}")
             lines.append("")
 
         if not result.findings:
@@ -296,9 +286,7 @@ def generate_markdown_report(results: dict[str, ExtractionResult]) -> str:
             if len(findings) < min_findings:
                 continue
 
-            lines.append(
-                f"### {category.replace('_', ' ').title()} ({len(findings)} occurrences)"
-            )
+            lines.append(f"### {category.replace('_', ' ').title()} ({len(findings)} occurrences)")
             lines.append("")
 
             # Show top examples
@@ -308,9 +296,7 @@ def generate_markdown_report(results: dict[str, ExtractionResult]) -> str:
                 lines.append("")
 
             if len(findings) > max_examples:
-                lines.append(
-                    f"*... and {len(findings) - max_examples} more occurrences*"
-                )
+                lines.append(f"*... and {len(findings) - max_examples} more occurrences*")
                 lines.append("")
 
         lines.append("---")
@@ -377,9 +363,7 @@ def main() -> int:
         all_results: dict[str, ExtractionResult] = {}
 
         if not config.paths.transcripts_output.exists():
-            logger.error(
-                f"Transcripts directory not found: {config.paths.transcripts_output}"
-            )
+            logger.error(f"Transcripts directory not found: {config.paths.transcripts_output}")
             return 1
 
         for chat_dir in sorted(config.paths.transcripts_output.iterdir()):
@@ -396,9 +380,7 @@ def main() -> int:
             try:
                 with open(json_path, "r", encoding="utf-8") as f:
                     transcripts = json.load(f)
-                    valid = [
-                        t for t in transcripts if t.get("text") and not t.get("error")
-                    ]
+                    valid = [t for t in transcripts if t.get("text") and not t.get("error")]
             except (OSError, json.JSONDecodeError) as e:
                 logger.error(f"Failed to load {chat_name}: {e}")
                 continue

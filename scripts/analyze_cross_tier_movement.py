@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Cross-tier movement analysis - did contacts move between tiers?"""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -65,18 +65,20 @@ def analyze_cross_tier_movement():
         # Infer old tier from peak activity
         current_tier = current_tiers.get(chat_name, "unknown")
 
-        movements.append({
-            "chat": chat_name,
-            "current_tier": current_tier,
-            "peak_year": peak_year,
-            "peak_msgs": peak_msgs,
-            "recent_year": recent_year,
-            "recent_msgs": recent_msgs,
-            "change_pct": round(change_pct, 3),
-            "years_since_peak": years_since_peak,
-            "direction": direction,
-            "lifetime_msgs": info["lifetime_msgs"],
-        })
+        movements.append(
+            {
+                "chat": chat_name,
+                "current_tier": current_tier,
+                "peak_year": peak_year,
+                "peak_msgs": peak_msgs,
+                "recent_year": recent_year,
+                "recent_msgs": recent_msgs,
+                "change_pct": round(change_pct, 3),
+                "years_since_peak": years_since_peak,
+                "direction": direction,
+                "lifetime_msgs": info["lifetime_msgs"],
+            }
+        )
 
     # Sort by change
     summary = {
@@ -96,26 +98,30 @@ def analyze_cross_tier_movement():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Cross-Tier Movement Analysis ===")
+    print("\n=== Cross-Tier Movement Analysis ===")
     print(f"Total chats analyzed: {len(movements)}")
 
-    print(f"\nDirection distribution:")
+    print("\nDirection distribution:")
     for direction, count in sorted(summary["by_direction"].items(), key=lambda x: -x[1]):
         print(f"  {direction}: {count}")
 
     # Top surging
-    print(f"\nTop 15 SURGING relationships:")
+    print("\nTop 15 SURGING relationships:")
     for m in sorted(movements, key=lambda x: -x["change_pct"])[:15]:
         if m["change_pct"] > 0:
-            print(f"  +{m['change_pct']:.0%}  {m['current_tier']:<15}  {m['recent_year']}  "
-                  f"{m['peak_year']}:{m['peak_msgs']} → {m['recent_year']}:{m['recent_msgs']}  {m['chat'][:30]}")
+            print(
+                f"  +{m['change_pct']:.0%}  {m['current_tier']:<15}  {m['recent_year']}  "
+                f"{m['peak_year']}:{m['peak_msgs']} → {m['recent_year']}:{m['recent_msgs']}  {m['chat'][:30]}"
+            )
 
     # Top falling
-    print(f"\nTop 15 FALLING_SHARPLY relationships:")
+    print("\nTop 15 FALLING_SHARPLY relationships:")
     for m in sorted(movements, key=lambda x: x["change_pct"])[:15]:
         if m["change_pct"] < -0.5:
-            print(f"  {m['change_pct']:.0%}  {m['current_tier']:<15}  peak {m['peak_year']} → "
-                  f"recent {m['recent_msgs']}  {m['chat'][:30]}")
+            print(
+                f"  {m['change_pct']:.0%}  {m['current_tier']:<15}  peak {m['peak_year']} → "
+                f"recent {m['recent_msgs']}  {m['chat'][:30]}"
+            )
 
 
 if __name__ == "__main__":

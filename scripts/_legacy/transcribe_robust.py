@@ -76,9 +76,7 @@ def print_status(status):
 
     print("=" * 60)
     overall_pct = 100 * total_done / total_files if total_files > 0 else 0
-    print(
-        f"{'TOTAL':<25} {total_done:<8} {'':<8} {total_files:<8} {overall_pct:>5.1f}%"
-    )
+    print(f"{'TOTAL':<25} {total_done:<8} {'':<8} {total_files:<8} {overall_pct:>5.1f}%")
     print("=" * 60 + "\n")
 
 
@@ -137,9 +135,7 @@ def run_transcription(chat_name: str, model: str, retry_failed: bool = True):
 def main():
     parser = argparse.ArgumentParser(description="Robust transcription for all chats")
     parser.add_argument("--model", default="medium", help="Whisper model")
-    parser.add_argument(
-        "--max-retries", type=int, default=3, help="Max retries per chat"
-    )
+    parser.add_argument("--max-retries", type=int, default=3, help="Max retries per chat")
     args = parser.parse_args()
 
     print(f"Starting robust transcription with model: {args.model}")

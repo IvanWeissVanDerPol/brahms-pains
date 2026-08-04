@@ -11,6 +11,7 @@ For each transcript, extract:
 
 Output: transcript_analysis.json
 """
+
 from __future__ import annotations
 
 import json
@@ -46,10 +47,11 @@ EMOTIONS = {
 def analyze_transcript(transcript: dict) -> dict:
     """Analyze one transcript entry."""
     text = transcript.get("text", "")
-    if not text: return {}
+    if not text:
+        return {}
 
     text_low = text.lower()
-    words = re.findall(r'\b[a-záéíóúñ]+\b', text_low)
+    words = re.findall(r"\b[a-záéíóúñ]+\b", text_low)
 
     pos_count = sum(1 for w in words if w in POS)
     neg_count = sum(1 for w in words if w in NEG)
@@ -113,13 +115,15 @@ def main():
     for t in valid:
         a = analyze_transcript(t)
         if a:
-            analyzed.append({
-                "file": t.get("file", "?"),
-                "duration": t.get("duration", 0) or 0,
-                "language": t.get("language", "?"),
-                "_chat": t.get("_chat", "unknown"),
-                **a,
-            })
+            analyzed.append(
+                {
+                    "file": t.get("file", "?"),
+                    "duration": t.get("duration", 0) or 0,
+                    "language": t.get("language", "?"),
+                    "_chat": t.get("_chat", "unknown"),
+                    **a,
+                }
+            )
 
     # === Aggregate stats ===
 
@@ -153,17 +157,19 @@ def main():
     print("Grouping by chat...")
     by_chat = defaultdict(list)
     for t in transcripts:
-        if not t.get("text"): continue  # Skip non-transcribed
+        if not t.get("text"):
+            continue  # Skip non-transcribed
         chat = t.get("_chat", "unknown")
         by_chat[chat].append(t)
 
     # Build chat_dir → JID/name mapping
     # Chat dirs may have suffixes like "chat_595982646114_5235" — extract JID-like prefix
     import re
+
     chat_to_jid = {}
     for chat_dir in by_chat.keys():
         # Try patterns
-        m = re.search(r'(?:chat|_wa_chat)_(\d{8,15})_', chat_dir)
+        m = re.search(r"(?:chat|_wa_chat)_(\d{8,15})_", chat_dir)
         if m:
             chat_to_jid[chat_dir] = m.group(1)
 
@@ -177,10 +183,9 @@ def main():
     for chat_dir, ts in by_chat.items():
         # Find matching analyzed entries (skip non-transcribed)
         file_set = {(t.get("file"), t.get("_chat")) for t in ts}
-        analyzed_for_chat = [
-            a for a in analyzed
-            if (a["file"], a.get("_chat")) in file_set
-        ] if False else []  # placeholder
+        analyzed_for_chat = (
+            [a for a in analyzed if (a["file"], a.get("_chat")) in file_set] if False else []
+        )  # placeholder
         # Simpler: filter analyzed by chat
         analyzed_for_chat = [a for a in analyzed if a.get("_chat") == chat_dir]
         if not analyzed_for_chat:
@@ -189,69 +194,87 @@ def main():
             for t in ts:
                 a = analyze_transcript(t)
                 if a:
-                    analyzed_for_chat.append({"file": t["file"], "duration": t.get("duration") or 0, "language": t.get("language", "?"), **a, "_chat": chat_dir})
+                    analyzed_for_chat.append(
+                        {
+                            "file": t["file"],
+                            "duration": t.get("duration") or 0,
+                            "language": t.get("language", "?"),
+                            **a,
+                            "_chat": chat_dir,
+                        }
+                    )
 
         total_w = sum(t["word_count"] for t in analyzed_for_chat)
         total_d = sum(t["duration"] for t in analyzed_for_chat)
-        avg_s = sum(t["sentiment_score"] for t in analyzed_for_chat) / max(1, len(analyzed_for_chat))
+        avg_s = sum(t["sentiment_score"] for t in analyzed_for_chat) / max(
+            1, len(analyzed_for_chat)
+        )
         pos_t = sum(t["pos_words"] for t in analyzed_for_chat)
         neg_t = sum(t["neg_words"] for t in analyzed_for_chat)
         lang_mode = Counter(t["language"] for t in analyzed_for_chat).most_common(1)
 
-        chat_stats.append({
-            "chat": chat_dir,
-            "name": chat_to_name.get(chat_dir, "?"),
-            "jid": chat_to_jid.get(chat_dir, "?"),
-            "transcripts": len(analyzed_for_chat),
-            "total_words": total_w,
-            "total_duration_s": round(total_d, 1),
-            "avg_sentiment": round(avg_s, 3),
-            "pos_words": pos_t,
-            "neg_words": neg_t,
-            "dominant_lang": lang_mode[0][0] if lang_mode else "?",
-        })
+        chat_stats.append(
+            {
+                "chat": chat_dir,
+                "name": chat_to_name.get(chat_dir, "?"),
+                "jid": chat_to_jid.get(chat_dir, "?"),
+                "transcripts": len(analyzed_for_chat),
+                "total_words": total_w,
+                "total_duration_s": round(total_d, 1),
+                "avg_sentiment": round(avg_s, 3),
+                "pos_words": pos_t,
+                "neg_words": neg_t,
+                "dominant_lang": lang_mode[0][0] if lang_mode else "?",
+            }
+        )
 
     chat_stats.sort(key=lambda c: -c["transcripts"])
 
     # === Most emotional contacts (more transcripts = more voice-note intimacy) ===
-    print(f"\n=== Aggregate stats ===")
+    print("\n=== Aggregate stats ===")
     print(f"Total transcripts: {len(analyzed)}")
     print(f"Total words spoken: {total_words:,} ({total_words / 1000:.1f}k)")
     print(f"Avg words per voice note: {avg_words:.1f}")
     print(f"Total audio duration: {total_duration / 3600:.1f} hours")
     print(f"Avg duration: {avg_duration:.1f} seconds")
 
-    print(f"\nSentiment:")
+    print("\nSentiment:")
     print(f"  Positive (>0.2): {pos_msgs} ({100*pos_msgs/len(analyzed):.1f}%)")
     print(f"  Neutral: {neutral_msgs} ({100*neutral_msgs/len(analyzed):.1f}%)")
     print(f"  Negative (<-0.2): {neg_msgs} ({100*neg_msgs/len(analyzed):.1f}%)")
     print(f"  Total pos words: {pos_total:,}")
     print(f"  Total neg words: {neg_total:,}")
 
-    print(f"\nEmotions detected (total markers):")
+    print("\nEmotions detected (total markers):")
     for e, n in emotion_totals.most_common():
         print(f"  {e:<10}  {n:,}")
 
-    print(f"\nLanguages detected:")
+    print("\nLanguages detected:")
     for lang, n in lang_counts.most_common(10):
         pct = 100 * n / len(analyzed)
         print(f"  {lang:<6}  {n:>5} ({pct:.1f}%)")
 
-    print(f"\nTop 10 most-voice-note-heavy chats:")
+    print("\nTop 10 most-voice-note-heavy chats:")
     for c in chat_stats[:10]:
-        print(f"  {c['chat'][:50]:<50}  {c['transcripts']:>4} voice notes, {c['total_words']:,} words")
+        print(
+            f"  {c['chat'][:50]:<50}  {c['transcripts']:>4} voice notes, {c['total_words']:,} words"
+        )
 
-    print(f"\nTop 10 most POSITIVE chats (by avg sentiment):")
+    print("\nTop 10 most POSITIVE chats (by avg sentiment):")
     pos_sorted = sorted(chat_stats, key=lambda c: -c["avg_sentiment"])[:10]
     for c in pos_sorted:
         if c["transcripts"] >= 5:  # only consider chats with 5+ voice notes
-            print(f"  {c['avg_sentiment']:+.2f}  {c['chat'][:50]:<50}  ({c['transcripts']} notes, {c['pos_words']}/{c['neg_words']} pos/neg)")
+            print(
+                f"  {c['avg_sentiment']:+.2f}  {c['chat'][:50]:<50}  ({c['transcripts']} notes, {c['pos_words']}/{c['neg_words']} pos/neg)"
+            )
 
-    print(f"\nTop 10 most NEGATIVE chats:")
+    print("\nTop 10 most NEGATIVE chats:")
     neg_sorted = [c for c in chat_stats if c["transcripts"] >= 5]
     neg_sorted.sort(key=lambda c: c["avg_sentiment"])
     for c in neg_sorted[:10]:
-        print(f"  {c['avg_sentiment']:+.2f}  {c['chat'][:50]:<50}  ({c['transcripts']} notes, {c['pos_words']}/{c['neg_words']} pos/neg)")
+        print(
+            f"  {c['avg_sentiment']:+.2f}  {c['chat'][:50]:<50}  ({c['transcripts']} notes, {c['pos_words']}/{c['neg_words']} pos/neg)"
+        )
 
     # Save
     out = {

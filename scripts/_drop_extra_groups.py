@@ -6,7 +6,9 @@ Reversible.
 Run:  python3 _drop_extra_groups.py            # dry run
       python3 _drop_extra_groups.py --yes      # execute
 """
-import sys, shutil
+
+import sys
+import shutil
 from pathlib import Path
 
 BASE = Path(__file__).parent

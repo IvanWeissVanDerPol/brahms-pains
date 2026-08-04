@@ -19,6 +19,7 @@ Output:
 
 Does NOT rename chat directories. Ivan must confirm before any rename.
 """
+
 from __future__ import annotations
 
 import json
@@ -38,8 +39,15 @@ ANALYSIS_DIR = MSG_BASE / "_ANALYSIS"
 NAMED_PICKLE = Path("/tmp/psycology_named_v2.pkl")
 
 # Tiers (in scan order)
-TIERS = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups",
-         "_dropped", "untiered_personal", "other_lid"]
+TIERS = [
+    "tier1_deep",
+    "tier2_core",
+    "tier3_extended",
+    "tier4_groups",
+    "_dropped",
+    "untiered_personal",
+    "other_lid",
+]
 
 # Priority JIDs (top 30 from analysis). Order matters — earlier = more value.
 PRIORITY_JIDS = [
@@ -80,27 +88,134 @@ PRIORITY_JIDS = list(dict.fromkeys(PRIORITY_JIDS))[:25]
 # Strict: capture 2-consonant+ common Spanish first names from a curated list
 COMMON_FIRST_NAMES = {
     # Female
-    "maria", "ana", "luisa", "carmen", "rosa", "marta", "laura", "sofia",
-    "isabel", "clara", "andrea", "paula", "elena", "susana", "silvia",
-    "natalia", "lucía", "lucia", "jimena", "ximena", "verónica", "veronica",
-    "lina", "micaela", "mikaela", "lorena", "camila", "valentina", "gabriela",
-    "magali", "lourdes", "lilian", "sandra", "karen", "katherine", "lucía",
-    "yamila", "renata", "estefani", "estefany", "milagros", "ayelén",
-    "victoria", "josefina", "alejandra", "constanza",
+    "maria",
+    "ana",
+    "luisa",
+    "carmen",
+    "rosa",
+    "marta",
+    "laura",
+    "sofia",
+    "isabel",
+    "clara",
+    "andrea",
+    "paula",
+    "elena",
+    "susana",
+    "silvia",
+    "natalia",
+    "lucía",
+    "lucia",
+    "jimena",
+    "ximena",
+    "verónica",
+    "veronica",
+    "lina",
+    "micaela",
+    "mikaela",
+    "lorena",
+    "camila",
+    "valentina",
+    "gabriela",
+    "magali",
+    "lourdes",
+    "lilian",
+    "sandra",
+    "karen",
+    "katherine",
+    "lucía",
+    "yamila",
+    "renata",
+    "estefani",
+    "estefany",
+    "milagros",
+    "ayelén",
+    "victoria",
+    "josefina",
+    "alejandra",
+    "constanza",
     # Male
-    "juan", "pedro", "josé", "carlos", "luis", "alejandro", "alvaro",
-    "ángel", "angel", "miguel", "sergio", "ricardo", "emilio", "sebastian",
-    "sebastián", "enrique", "andrés", "andres", "martin", "gabriel",
-    "rené", "rene", "lucas", "mateo", "nicolas", "tomás", "tomas", "braian",
-    "braian", "marcos", "mauricio", "jaime", "eduardo", "hugo", "oscar",
-    "osvaldo", "marcelo", "mathias", "jonathan", "federico", "francisco",
-    "tomas", "joaquin", "joaquín", "david", "rodrigo", "nicolas", "nicolás",
-    "raúl", "raul", "rafael", "ignacio", "federico", "ariel", "gustavo",
-    "leandro", "adolfo", "matías", "matias",
+    "juan",
+    "pedro",
+    "josé",
+    "carlos",
+    "luis",
+    "alejandro",
+    "alvaro",
+    "ángel",
+    "angel",
+    "miguel",
+    "sergio",
+    "ricardo",
+    "emilio",
+    "sebastian",
+    "sebastián",
+    "enrique",
+    "andrés",
+    "andres",
+    "martin",
+    "gabriel",
+    "rené",
+    "rene",
+    "lucas",
+    "mateo",
+    "nicolas",
+    "tomás",
+    "tomas",
+    "braian",
+    "braian",
+    "marcos",
+    "mauricio",
+    "jaime",
+    "eduardo",
+    "hugo",
+    "oscar",
+    "osvaldo",
+    "marcelo",
+    "mathias",
+    "jonathan",
+    "federico",
+    "francisco",
+    "tomas",
+    "joaquin",
+    "joaquín",
+    "david",
+    "rodrigo",
+    "nicolas",
+    "nicolás",
+    "raúl",
+    "raul",
+    "rafael",
+    "ignacio",
+    "federico",
+    "ariel",
+    "gustavo",
+    "leandro",
+    "adolfo",
+    "matías",
+    "matias",
     # Bilingual/unisex and English
-    "alex", "chris", "sam", "pat", "kelly", "daniel", "jack", "mike",
-    "george", "robert", "frank", "toni", "tyler", "allen", "denae",
-    "jackie", "lara", "nora", "susana", "valeria", "rebeca",
+    "alex",
+    "chris",
+    "sam",
+    "pat",
+    "kelly",
+    "daniel",
+    "jack",
+    "mike",
+    "george",
+    "robert",
+    "frank",
+    "toni",
+    "tyler",
+    "allen",
+    "denae",
+    "jackie",
+    "lara",
+    "nora",
+    "susana",
+    "valeria",
+    "rebeca",
 }
 # Sort by length DESC so longer matches win
 COMMON_FIRST_NAMES_SORTED = sorted(COMMON_FIRST_NAMES, key=lambda x: -len(x))
@@ -130,16 +245,89 @@ THIRD_PARTY_RE = re.compile(
 )
 # Common Spanish stop words we should ignore
 STOP_WORDS = {
-    "que", "qué", "quien", "quién", "como", "cómo", "donde", "dónde",
-    "cuando", "cuándo", "porque", "por", "para", "con", "sin", "una", "uno",
-    "unas", "unos", "del", "los", "las", "hay", "ser", "estar", "tener",
-    "yo", "tu", "tú", "el", "la", "lo", "es", "si", "sí", "no", "ya",
-    "te", "se", "me", "le", "les", "nos", "he", "ha", "ok", "más", "muy",
-    "tan", "ahí", "aquí", "esto", "esta", "este", "eso", "esa", "ese",
-    "bueno", "buena", "bien", "mal", "puede", "puedo", "mejor", "peor",
-    "siempre", "nunca", "mucho", "mucha", "algo", "nada", "todo", "todos",
-    "otra", "otro", "mismo", "misma", "aquel", "aquella", "ese", "esa",
-    "laura", "lucas",  # placeholder, will be replaced by first_names from NAMED
+    "que",
+    "qué",
+    "quien",
+    "quién",
+    "como",
+    "cómo",
+    "donde",
+    "dónde",
+    "cuando",
+    "cuándo",
+    "porque",
+    "por",
+    "para",
+    "con",
+    "sin",
+    "una",
+    "uno",
+    "unas",
+    "unos",
+    "del",
+    "los",
+    "las",
+    "hay",
+    "ser",
+    "estar",
+    "tener",
+    "yo",
+    "tu",
+    "tú",
+    "el",
+    "la",
+    "lo",
+    "es",
+    "si",
+    "sí",
+    "no",
+    "ya",
+    "te",
+    "se",
+    "me",
+    "le",
+    "les",
+    "nos",
+    "he",
+    "ha",
+    "ok",
+    "más",
+    "muy",
+    "tan",
+    "ahí",
+    "aquí",
+    "esto",
+    "esta",
+    "este",
+    "eso",
+    "esa",
+    "ese",
+    "bueno",
+    "buena",
+    "bien",
+    "mal",
+    "puede",
+    "puedo",
+    "mejor",
+    "peor",
+    "siempre",
+    "nunca",
+    "mucho",
+    "mucha",
+    "algo",
+    "nada",
+    "todo",
+    "todos",
+    "otra",
+    "otro",
+    "mismo",
+    "misma",
+    "aquel",
+    "aquella",
+    "ese",
+    "esa",
+    "laura",
+    "lucas",  # placeholder, will be replaced by first_names from NAMED
 }
 
 
@@ -151,6 +339,7 @@ STOP_WORDS = {
 def load_named() -> dict:
     """Load /tmp/psycology_named_v2.pkl — dict jid -> (name, conf, descr)."""
     import pickle
+
     if not NAMED_PICKLE.exists():
         return {}
     return pickle.load(open(NAMED_PICKLE, "rb"))
@@ -226,7 +415,9 @@ def extract_group_participants() -> dict[str, set[str]]:
             for m in chat.get("messages", []):
                 if not isinstance(m, dict):
                     continue
-                jid = m.get("sender_jid") or (m.get("from_me") and str(chat.get("jid_user"))) or None
+                jid = (
+                    m.get("sender_jid") or (m.get("from_me") and str(chat.get("jid_user"))) or None
+                )
                 if not jid:
                     continue
                 bare = jid.split("@", 1)[0] if "@" in jid else jid
@@ -393,7 +584,9 @@ def mine_one(jid: str, named: dict, first_names: set, group_data: dict) -> ChatM
         out.proposed_name = name
         out.confidence = "HIGH"
         score = 100
-        evidence.append(f"Self-intro pattern matched: '{name}' ({n} times) — high-confidence identity")
+        evidence.append(
+            f"Self-intro pattern matched: '{name}' ({n} times) — high-confidence identity"
+        )
 
     # If no self-intro, fall back to top name-mention
     elif name_top:
@@ -441,9 +634,9 @@ def mine_one(jid: str, named: dict, first_names: set, group_data: dict) -> ChatM
 
     # Third-party refs as supplementary signal
     if third_party:
-        evidence.append("Third-party references: " + ", ".join(
-            f"'{n}' (×{c})" for n, c in third_party[:5]
-        ))
+        evidence.append(
+            "Third-party references: " + ", ".join(f"'{n}' (×{c})" for n, c in third_party[:5])
+        )
 
     if not evidence:
         evidence.append("No name tokens, no self-intros, no co-member anchors. Need manual review.")
@@ -462,8 +655,12 @@ def write_markdown(results: list[ChatMining], out: Path):
     lines.append("# WhatsApp Contact Names — Round 2 Mining (Top 25)")
     lines.append("")
     lines.append(f"> **Generated:** {datetime.now(timezone.utc).isoformat()}  ")
-    lines.append("> **Source chats:** 25 priority unnamed 1-on-1 chats from `tier1_deep`, `tier2_core`, `tier3_extended`  ")
-    lines.append("> **Method:** Co-member inference + name-mention scan + self-intro regex (no LLM)  ")
+    lines.append(
+        "> **Source chats:** 25 priority unnamed 1-on-1 chats from `tier1_deep`, `tier2_core`, `tier3_extended`  "
+    )
+    lines.append(
+        "> **Method:** Co-member inference + name-mention scan + self-intro regex (no LLM)  "
+    )
     lines.append(">")
     lines.append("> **Confidence tiers:**  ")
     lines.append("> - **HIGH** = direct self-intro match (`soy Name`, `me llamo Name`, etc.)  ")
@@ -471,9 +668,13 @@ def write_markdown(results: list[ChatMining], out: Path):
     lines.append("> - **LOW** = name mentioned 3-9×, no other strong signal  ")
     lines.append("> - **NONE** = no signal above threshold; manual review required  ")
     lines.append("")
-    lines.append("> **⚠️ DO NOT AUTO-RENAME.** Open `verify`, mark ✅/❌, then re-run the rename commit.  ")
+    lines.append(
+        "> **⚠️ DO NOT AUTO-RENAME.** Open `verify`, mark ✅/❌, then re-run the rename commit.  "
+    )
     lines.append("")
-    lines.append("| # | JID | Tier | Msgs | Audio | Curr. label | Proposed | Conf | Co-member anchor | Evidence |")
+    lines.append(
+        "| # | JID | Tier | Msgs | Audio | Curr. label | Proposed | Conf | Co-member anchor | Evidence |"
+    )
     lines.append("|---:|-----|------|----:|-----:|---|---|------|----------|----------|")
 
     for i, r in enumerate(results, 1):
@@ -532,7 +733,7 @@ def main():
     print(f"Loaded NAMED: {len(named)} known contacts")
     print(f"First-name set: {len(first_names)} names")
 
-    print(f"\nBuilding group participants index...")
+    print("\nBuilding group participants index...")
     group_data = extract_group_participants()
     print(f"  {len(group_data)} groups with participants")
 
@@ -541,7 +742,13 @@ def main():
         # Skip if already named with HIGH+ confidence
         if jid in named:
             n, c, _ = named[jid]
-            if c in ("VERIFIED", "VERIFIED_PHONEBOOK", "VERIFIED_SELF_INTRO", "VERIFIED_CONTEXT", "HIGH"):
+            if c in (
+                "VERIFIED",
+                "VERIFIED_PHONEBOOK",
+                "VERIFIED_SELF_INTRO",
+                "VERIFIED_CONTEXT",
+                "HIGH",
+            ):
                 print(f"  ⏭  {jid} already named ({c}={n}) — skipping")
                 continue
 
@@ -550,22 +757,27 @@ def main():
             print(f"  ❓ {jid} — chat dir not found")
             continue
         results.append(r)
-        print(f"  {r.confidence:<6} {r.jid} → {r.proposed_name:<25} "
-              f"(mentions={[n for n, _ in r.name_mentions_top[:3]]})")
+        print(
+            f"  {r.confidence:<6} {r.jid} → {r.proposed_name:<25} "
+            f"(mentions={[n for n, _ in r.name_mentions_top[:3]]})"
+        )
 
     out_json = ANALYSIS_DIR / "name_mining_round2.json"
     out_md = ANALYSIS_DIR / "CONTACTS_NAMING_VERIFY.md"
     out_json.parent.mkdir(parents=True, exist_ok=True)
 
-    out_json.write_text(json.dumps(
-        {
-            "generated_at": datetime.now(timezone.utc).isoformat(),
-            "method": "co-member + name-mention + self-intro regex (no LLM)",
-            "priority_jids": PRIORITY_JIDS,
-            "results": [r.to_dict() for r in results],
-        },
-        ensure_ascii=False, indent=2,
-    ))
+    out_json.write_text(
+        json.dumps(
+            {
+                "generated_at": datetime.now(timezone.utc).isoformat(),
+                "method": "co-member + name-mention + self-intro regex (no LLM)",
+                "priority_jids": PRIORITY_JIDS,
+                "results": [r.to_dict() for r in results],
+            },
+            ensure_ascii=False,
+            indent=2,
+        )
+    )
     print(f"\nWrote {out_json}")
 
     write_markdown(results, out_md)
@@ -573,7 +785,7 @@ def main():
 
     # Quick summary
     by_conf = Counter(r.confidence for r in results)
-    print(f"\nSummary:")
+    print("\nSummary:")
     for c in ("HIGH", "MEDIUM", "LOW", "NONE"):
         print(f"  {c}: {by_conf.get(c, 0)}")
 

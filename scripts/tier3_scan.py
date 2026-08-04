@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-import json, os
+import json
+import os
 from pathlib import Path
 
 base = Path("SOURCE_OF_TRUTH/wa_messages/tier3_extended")
@@ -26,7 +27,9 @@ for d in dirs_batch:
         elif isinstance(data, dict):
             msgs = data.get("messages", data.get("data", []))
             if not msgs and "chat_id" in data:
-                print(f"{d}: METADATA_ONLY (chat_id={data.get('chat_id')}, subject={data.get('subject')})\n")
+                print(
+                    f"{d}: METADATA_ONLY (chat_id={data.get('chat_id')}, subject={data.get('subject')})\n"
+                )
                 continue
         else:
             print(f"{d}: UNKNOWN_FORMAT\n")

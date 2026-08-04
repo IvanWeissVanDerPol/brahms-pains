@@ -28,6 +28,7 @@ Tiers for the shortlist:
   Tier 3 (extended):      ranks 41-100 (up to 60)
   Tier 4 (context/groups): all group_active + kept group_lurker
 """
+
 import json
 from pathlib import Path
 from collections import Counter
@@ -68,7 +69,11 @@ for c in tri["chats"]:
         keep.append(c)
     elif cat == "group_active" and c["score"] >= KEEP_SCORE_GROUP_ACTIVE:
         keep.append(c)
-    elif cat == "group_lurker" and c["total_msgs"] >= LURKER_KEEP_MSGS and c["span_days"] >= LURKER_KEEP_SPAN_DAYS:
+    elif (
+        cat == "group_lurker"
+        and c["total_msgs"] >= LURKER_KEEP_MSGS
+        and c["span_days"] >= LURKER_KEEP_SPAN_DAYS
+    ):
         c["category"] = "group_lurker_context"  # marker for tier 4
         keep.append(c)
     else:
@@ -116,6 +121,7 @@ final = {
 }
 (BASE / "_final_classification.json").write_text(json.dumps(final, indent=2, ensure_ascii=False))
 
+
 # ---- 5. emit shortlist markdown ----
 def row(c, idx=None):
     prefix = f"{idx}. " if idx else "- "
@@ -128,10 +134,13 @@ def row(c, idx=None):
         f"score {c['score']:,.0f}"
     )
 
+
 lines = []
 lines.append("# WhatsApp corpus — psychology-analysis shortlist")
 lines.append("")
-lines.append(f"Generated from `_triage.json` (+ LID reclassification: {reclassified} chats moved into `personal_1on1`).")
+lines.append(
+    f"Generated from `_triage.json` (+ LID reclassification: {reclassified} chats moved into `personal_1on1`)."
+)
 lines.append("")
 lines.append(f"**Keep**: {len(keep)} chats — **Drop**: {len(drop)} chats.")
 lines.append("")
@@ -154,7 +163,9 @@ for i, c in enumerate(tier3, 41):
     lines.append(row(c, i))
 lines.append("")
 lines.append("## Tier 4 — group context (passive-observation)")
-lines.append("Ivan speaks little but is embedded. Value = social dynamics he was exposed to (family, cohort, friend circles).")
+lines.append(
+    "Ivan speaks little but is embedded. Value = social dynamics he was exposed to (family, cohort, friend circles)."
+)
 lines.append("")
 lines.append("### Active groups (Ivan participates)")
 for c in [g for g in group_keeps if g["category"] == "group_active"]:
@@ -170,11 +181,15 @@ drop_counts = Counter(c["category"] for c in drop)
 for cat, n in drop_counts.most_common():
     lines.append(f"- **{cat}**: {n} chats")
 lines.append("")
-lines.append("Drop list saved to `_final_classification.json` (`drop_slugs`). Chats are physically preserved until `_apply_drops.py` is run with explicit confirmation.")
+lines.append(
+    "Drop list saved to `_final_classification.json` (`drop_slugs`). Chats are physically preserved until `_apply_drops.py` is run with explicit confirmation."
+)
 lines.append("")
 
 (BASE / "_analysis_shortlist.md").write_text("\n".join(lines))
 
-print(f"KEEP={len(keep)}  DROP={len(drop)}  (reclassified {reclassified} LID chats to personal_1on1)")
+print(
+    f"KEEP={len(keep)}  DROP={len(drop)}  (reclassified {reclassified} LID chats to personal_1on1)"
+)
 print(f"Tiers: 1={len(tier1)} 2={len(tier2)} 3={len(tier3)} 4={len(tier4)}")
 print("Wrote _final_classification.json and _analysis_shortlist.md")

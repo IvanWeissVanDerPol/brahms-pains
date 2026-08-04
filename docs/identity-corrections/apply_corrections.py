@@ -8,15 +8,13 @@ USAGE:
     python3 docs/identity-corrections/apply_corrections.py --dry-run
     python3 docs/identity-corrections/apply_corrections.py --apply
 """
+
 from __future__ import annotations
 
 import argparse
 import json
 import re
-import shutil
 import subprocess
-import sys
-from datetime import datetime, timezone
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent
@@ -294,7 +292,9 @@ def _update_phonebook():
             log(f"phonebook: {n} → {u}")
 
     pb["contacts"] = contacts
-    pb["family_corrections_applied"] = "2026-07-23 per Ivan's questionnaire (docs/identity-corrections/ANSWERS.md)"
+    pb["family_corrections_applied"] = (
+        "2026-07-23 per Ivan's questionnaire (docs/identity-corrections/ANSWERS.md)"
+    )
     # Match master's indent style (1 space)
     f.write_text(json.dumps(pb, ensure_ascii=False, indent=1))
 
@@ -332,7 +332,7 @@ def _update_circles():
         # Find first H1 header and insert after
         m = re.search(r"^# .+?\n\n", text, re.MULTILINE)
         if m:
-            text = text[:m.end()] + family_update + text[m.end():]
+            text = text[: m.end()] + family_update + text[m.end() :]
     f.write_text(text)
 
 
@@ -346,8 +346,8 @@ def _rewrite_sonia_profile():
 
     # Correct the "Identity correction" header — fix Gerold → John, add full name
     text = text.replace(
-        "> **Identity correction (2026-07-20):** Prior mining tagged this contact as \"Sonia, unclear role / family associate.\" Full-chat analysis unambiguously reclassifies her as **Ivan's mother** — biological or functional; the evidence is family-of-origin, not friendship. She is partnered with **Gerold** (Ivan's father), co-parents **Luana Weiss** (Ivan's sister), was present at Ivan's birth (\"hace 23 años… un sábado llegaste a mi vida\"), and Ivan addresses her as both **\"Sonia\"** and **\"mamá\"** interchangeably. She refers to him as **\"mi hijo\"** throughout. This profile therefore documents the **primary maternal dynamic** — psychologically load-bearing and referenced (without being named) in `LAURA.md` as \"the same dynamic recreated with Laura.\"",
-        "> **Identity correction (2026-07-23):** Prior mining tagged this contact as \"Sonia, unclear role / family associate.\" Full-chat analysis (2026-07-20) reclassified her as **Ivan's mother**; verbal confirmation by Ivan (2026-07-23) confirms this. **Full name: Sonia Edith Weiss López.** She is partnered with **John van der Pol** (Ivan's dad, software dev for Netherlands) — NOT Gerold (who is John's adoptive brother / uncle). Co-parents **Luana Weiss** (Ivan's sister, age 24), **Saskia** (sister), and **Kyrian \"Kiki\"** (sister). Was present at Ivan's birth (\"hace 23 años… un sábado llegaste a mi vida\"), and Ivan addresses her as both **\"Sonia\"** and **\"mamá\"** interchangeably. She refers to him as **\"mi hijo\"** throughout. This profile documents the **primary maternal dynamic** — psychologically load-bearing and referenced (without being named) in `LAURA.md` as \"the same dynamic recreated with Laura.\""
+        '> **Identity correction (2026-07-20):** Prior mining tagged this contact as "Sonia, unclear role / family associate." Full-chat analysis unambiguously reclassifies her as **Ivan\'s mother** — biological or functional; the evidence is family-of-origin, not friendship. She is partnered with **Gerold** (Ivan\'s father), co-parents **Luana Weiss** (Ivan\'s sister), was present at Ivan\'s birth ("hace 23 años… un sábado llegaste a mi vida"), and Ivan addresses her as both **"Sonia"** and **"mamá"** interchangeably. She refers to him as **"mi hijo"** throughout. This profile therefore documents the **primary maternal dynamic** — psychologically load-bearing and referenced (without being named) in `LAURA.md` as "the same dynamic recreated with Laura."',
+        '> **Identity correction (2026-07-23):** Prior mining tagged this contact as "Sonia, unclear role / family associate." Full-chat analysis (2026-07-20) reclassified her as **Ivan\'s mother**; verbal confirmation by Ivan (2026-07-23) confirms this. **Full name: Sonia Edith Weiss López.** She is partnered with **John van der Pol** (Ivan\'s dad, software dev for Netherlands) — NOT Gerold (who is John\'s adoptive brother / uncle). Co-parents **Luana Weiss** (Ivan\'s sister, age 24), **Saskia** (sister), and **Kyrian "Kiki"** (sister). Was present at Ivan\'s birth ("hace 23 años… un sábado llegaste a mi vida"), and Ivan addresses her as both **"Sonia"** and **"mamá"** interchangeably. She refers to him as **"mi hijo"** throughout. This profile documents the **primary maternal dynamic** — psychologically load-bearing and referenced (without being named) in `LAURA.md` as "the same dynamic recreated with Laura."',
     )
 
     # Append a footnote at end
@@ -412,28 +412,56 @@ def _update_named_pickle():
         log("⚠️  pickle not found (skipping)")
         return
     import pickle
+
     named = pickle.load(open(p, "rb"))
 
     corrections = {
         # JID -> (new_name, new_conf, new_desc)
-        "595982515138": ("Sonia Edith Weiss López (Mom)", "VERIFIED",
-                         "Mom, married to John van der Pol. Chat was mislabeled as 'gabriel_g_curuguaty'."),
-        "595986138387": ("John van der Pol (Dad)", "VERIFIED_PHONEBOOK",
-                         "Dad. Software dev for Netherlands. vCard 'John' (no surname in FN — but Ivan confirms John van der Pol)."),
-        "31612495139":  ("Riet van der Pol (Grandma)", "VERIFIED_PHONEBOOK",
-                         "Grandma on dad's side, John's mother. Lives Netherlands. Was mislabeled as Mom."),
-        "595994459555": ("Jan van der Pol (Grandpa, deceased)", "VERIFIED_PHONEBOOK",
-                         "Grandpa, John's father. Deceased a few years back per Ivan."),
-        "15055778339":  ("Antonio Toni López Weiss (Uncle)", "VERIFIED_PHONEBOOK",
-                         "Uncle, Sonia's brother. Lives Santa Fe USA. Was mislabeled as Dad."),
-        "595982850085": ("Micaela Mica Weiss Coëhn (Cousin)", "VERIFIED_PHONEBOOK",
-                         "Cousin on Sonia's side. Same person as vCard 'Prima Mikaela Weiss'."),
-        "595985724135": ("Kyrian Kiki Weiss (Sister)", "VERIFIED",
-                         "Ivan's sister. Kiki = Kyrian, NOT Saskia (per Ivan 2026-07-23). All three sisters: Luana, Saskia, Kyrian."),
-        "595985725366": ("Luana Weiss (Sister, age 24)", "VERIFIED_PHONEBOOK",
-                         "Ivan's full sister."),
-        "595985786571": ("Gabriel Primo (Cousin, Sonia's side)", "VERIFIED_PHONEBOOK",
-                         "Cousin on Sonia's side."),
+        "595982515138": (
+            "Sonia Edith Weiss López (Mom)",
+            "VERIFIED",
+            "Mom, married to John van der Pol. Chat was mislabeled as 'gabriel_g_curuguaty'.",
+        ),
+        "595986138387": (
+            "John van der Pol (Dad)",
+            "VERIFIED_PHONEBOOK",
+            "Dad. Software dev for Netherlands. vCard 'John' (no surname in FN — but Ivan confirms John van der Pol).",
+        ),
+        "31612495139": (
+            "Riet van der Pol (Grandma)",
+            "VERIFIED_PHONEBOOK",
+            "Grandma on dad's side, John's mother. Lives Netherlands. Was mislabeled as Mom.",
+        ),
+        "595994459555": (
+            "Jan van der Pol (Grandpa, deceased)",
+            "VERIFIED_PHONEBOOK",
+            "Grandpa, John's father. Deceased a few years back per Ivan.",
+        ),
+        "15055778339": (
+            "Antonio Toni López Weiss (Uncle)",
+            "VERIFIED_PHONEBOOK",
+            "Uncle, Sonia's brother. Lives Santa Fe USA. Was mislabeled as Dad.",
+        ),
+        "595982850085": (
+            "Micaela Mica Weiss Coëhn (Cousin)",
+            "VERIFIED_PHONEBOOK",
+            "Cousin on Sonia's side. Same person as vCard 'Prima Mikaela Weiss'.",
+        ),
+        "595985724135": (
+            "Kyrian Kiki Weiss (Sister)",
+            "VERIFIED",
+            "Ivan's sister. Kiki = Kyrian, NOT Saskia (per Ivan 2026-07-23). All three sisters: Luana, Saskia, Kyrian.",
+        ),
+        "595985725366": (
+            "Luana Weiss (Sister, age 24)",
+            "VERIFIED_PHONEBOOK",
+            "Ivan's full sister.",
+        ),
+        "595985786571": (
+            "Gabriel Primo (Cousin, Sonia's side)",
+            "VERIFIED_PHONEBOOK",
+            "Cousin on Sonia's side.",
+        ),
     }
 
     for jid, (name, conf, desc) in corrections.items():

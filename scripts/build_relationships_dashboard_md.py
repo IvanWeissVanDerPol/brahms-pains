@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Build RELATIONSHIPS_DASHBOARD.md from the relationships_dashboard.json."""
+
 from __future__ import annotations
 
 import json
@@ -53,9 +54,7 @@ lines.append("| # | Score | Name | Tier | Msgs |")
 lines.append("|---|-------|------|------|------|")
 
 for i, c in enumerate(scored[:20], 1):
-    lines.append(
-        f"| {i} | {c['score']:.1f} | {c['name']} | {c['tier']} | {c['total_msgs']:,} |"
-    )
+    lines.append(f"| {i} | {c['score']:.1f} | {c['name']} | {c['tier']} | {c['total_msgs']:,} |")
 
 lines.append("")
 lines.append("---")

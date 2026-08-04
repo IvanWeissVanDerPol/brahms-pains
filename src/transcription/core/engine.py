@@ -126,9 +126,7 @@ def transcribe_file(
             quality_result = check_quality(text)
             if not quality_result.is_valid:
                 result["quality_issues"] = quality_result.problems
-                logger.warning(
-                    f"Quality issues in {file_path.name}: {quality_result.problems}"
-                )
+                logger.warning(f"Quality issues in {file_path.name}: {quality_result.problems}")
 
         logger.debug(f"Transcribed {file_path.name}: {len(text)} chars")
 

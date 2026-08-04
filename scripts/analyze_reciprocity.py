@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Reciprocity / response-time analysis (Hat 1, 14)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -16,8 +16,14 @@ def analyze_reciprocity():
     """Calculate response times and reciprocity per chat."""
     by_chat = {}
 
-    tiers = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups",
-             "untiered_personal", "other_lid"]
+    tiers = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+    ]
 
     for tier in tiers:
         d = WA / tier
@@ -117,36 +123,48 @@ def analyze_reciprocity():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Reciprocity / Response-Time Analysis ===")
+    print("\n=== Reciprocity / Response-Time Analysis ===")
     print(f"Total chats analyzed: {len(by_chat)}")
 
     # Fastest responders
-    print(f"\nTop 15 fastest Ivan responders:")
+    print("\nTop 15 fastest Ivan responders:")
     fast_ivan = sorted(
-        [(c, info) for c, info in by_chat.items()
-         if info["ivan_response_stats"] and info["ivan_response_stats"]["median_min"] > 0],
-        key=lambda x: x[1]["ivan_response_stats"]["median_min"]
+        [
+            (c, info)
+            for c, info in by_chat.items()
+            if info["ivan_response_stats"] and info["ivan_response_stats"]["median_min"] > 0
+        ],
+        key=lambda x: x[1]["ivan_response_stats"]["median_min"],
     )[:15]
     for c, info in fast_ivan:
         if info["ivan_response_stats"]:
-            print(f"  {info['ivan_response_stats']['median_min']:>5.1f}min  Ivan {info['total_msgs']:>5} msgs  {c[:40]}")
+            print(
+                f"  {info['ivan_response_stats']['median_min']:>5.1f}min  Ivan {info['total_msgs']:>5} msgs  {c[:40]}"
+            )
 
-    print(f"\nTop 15 fastest THEM responders (Ivan triggers quick replies):")
+    print("\nTop 15 fastest THEM responders (Ivan triggers quick replies):")
     fast_them = sorted(
-        [(c, info) for c, info in by_chat.items()
-         if info["them_response_stats"] and info["them_response_stats"]["median_min"] > 0],
-        key=lambda x: x[1]["them_response_stats"]["median_min"]
+        [
+            (c, info)
+            for c, info in by_chat.items()
+            if info["them_response_stats"] and info["them_response_stats"]["median_min"] > 0
+        ],
+        key=lambda x: x[1]["them_response_stats"]["median_min"],
     )[:15]
     for c, info in fast_them:
         if info["them_response_stats"]:
-            print(f"  {info['them_response_stats']['median_min']:>5.1f}min  {info['total_msgs']:>5} msgs  {c[:40]}")
+            print(
+                f"  {info['them_response_stats']['median_min']:>5.1f}min  {info['total_msgs']:>5} msgs  {c[:40]}"
+            )
 
-    print(f"\nTop 10 longest gaps in conversations:")
+    print("\nTop 10 longest gaps in conversations:")
     long_gaps = sorted(by_chat.items(), key=lambda x: -x[1]["longest_gap_min"])[:10]
     for c, info in long_gaps:
         if info["longest_gap_min"] > 0:
             days = info["longest_gap_min"] / (60 * 24)
-            print(f"  {days:>6.1f}d gap  {info['gap_count']:>3} gaps  {info['total_msgs']:>5} msgs  {c[:40]}")
+            print(
+                f"  {days:>6.1f}d gap  {info['gap_count']:>3} gaps  {info['total_msgs']:>5} msgs  {c[:40]}"
+            )
 
 
 if __name__ == "__main__":

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Promote tier3_extended contacts with score >= 50 to tier2_core."""
+
 from __future__ import annotations
 
 import json
@@ -13,9 +14,10 @@ ANALYSIS = REPO / "SOURCE_OF_TRUTH" / "wa_messages/_ANALYSIS"
 
 
 def safe_name(name: str) -> str:
-    if not name: return ""
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    if not name:
+        return ""
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
@@ -30,13 +32,16 @@ def main():
     promoted = 0
     skipped = 0
     for d in sorted(tier3.iterdir()):
-        if not d.is_dir(): continue
+        if not d.is_dir():
+            continue
 
-        m = re.search(r'(\d{10,15})', d.name)
-        if not m: continue
+        m = re.search(r"(\d{10,15})", d.name)
+        if not m:
+            continue
         jid = m.group(1)
         info = jid_to_info.get(jid)
-        if not info: continue
+        if not info:
+            continue
 
         score = info.get("score", 0)
         name = info.get("name", "?")
@@ -59,10 +64,12 @@ def main():
             continue
 
         shutil.move(str(d), str(target_path))
-        print(f"  PROMOTED: {d.name} -> {target_tier.name}/{target_name} (score {score:.1f}, {msgs} msgs)")
+        print(
+            f"  PROMOTED: {d.name} -> {target_tier.name}/{target_name} (score {score:.1f}, {msgs} msgs)"
+        )
         promoted += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Promoted: {promoted}")
     print(f"  Skipped: {skipped}")
 

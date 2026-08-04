@@ -4,7 +4,6 @@
 import argparse
 import json
 import os
-import sys
 from datetime import datetime
 from pathlib import Path
 
@@ -57,9 +56,7 @@ def main():
 
     for i, f in enumerate(files):
         try:
-            r = model.transcribe(
-                str(f), language=args.language, fp16=False, verbose=False
-            )
+            r = model.transcribe(str(f), language=args.language, fp16=False, verbose=False)
 
             # Parse date
             date = None

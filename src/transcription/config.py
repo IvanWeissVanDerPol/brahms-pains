@@ -32,18 +32,12 @@ class PathConfig:
 
     project_root: Path = field(default_factory=lambda: PROJECT_ROOT)
     transcripts_source: Path = field(
-        default_factory=lambda: PROJECT_ROOT
-        / "SOURCE_OF_TRUTH"
-        / "whatsapp transcripts"
+        default_factory=lambda: PROJECT_ROOT / "SOURCE_OF_TRUTH" / "whatsapp transcripts"
     )
     transcripts_output: Path = field(
-        default_factory=lambda: PROJECT_ROOT
-        / "SOURCE_OF_TRUTH"
-        / "voice_note_transcripts"
+        default_factory=lambda: PROJECT_ROOT / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
     )
-    source_of_truth: Path = field(
-        default_factory=lambda: PROJECT_ROOT / "SOURCE_OF_TRUTH"
-    )
+    source_of_truth: Path = field(default_factory=lambda: PROJECT_ROOT / "SOURCE_OF_TRUTH")
 
     def __post_init__(self) -> None:
         """Ensure all paths are Path objects."""
@@ -63,18 +57,10 @@ class PathConfig:
 class ModelConfig:
     """Whisper model configuration."""
 
-    default_model: str = field(
-        default_factory=lambda: os.getenv("TRANSCRIPTION_MODEL", "base")
-    )
-    default_language: str = field(
-        default_factory=lambda: os.getenv("TRANSCRIPTION_LANGUAGE", "es")
-    )
-    use_fp16: bool = field(
-        default_factory=lambda: os.getenv("USE_GPU", "false").lower() == "true"
-    )
-    max_workers: int = field(
-        default_factory=lambda: int(os.getenv("TRANSCRIPTION_WORKERS", "4"))
-    )
+    default_model: str = field(default_factory=lambda: os.getenv("TRANSCRIPTION_MODEL", "base"))
+    default_language: str = field(default_factory=lambda: os.getenv("TRANSCRIPTION_LANGUAGE", "es"))
+    use_fp16: bool = field(default_factory=lambda: os.getenv("USE_GPU", "false").lower() == "true")
+    max_workers: int = field(default_factory=lambda: int(os.getenv("TRANSCRIPTION_WORKERS", "4")))
 
 
 @dataclass(frozen=True)
@@ -82,13 +68,9 @@ class ProcessingConfig:
     """Processing and performance settings."""
 
     batch_size: int = field(default_factory=lambda: int(os.getenv("BATCH_SIZE", "50")))
-    save_interval: int = field(
-        default_factory=lambda: int(os.getenv("SAVE_INTERVAL", "10"))
-    )
+    save_interval: int = field(default_factory=lambda: int(os.getenv("SAVE_INTERVAL", "10")))
     max_retries: int = field(default_factory=lambda: int(os.getenv("MAX_RETRIES", "3")))
-    timeout_seconds: int = field(
-        default_factory=lambda: int(os.getenv("TIMEOUT_SECONDS", "300"))
-    )
+    timeout_seconds: int = field(default_factory=lambda: int(os.getenv("TIMEOUT_SECONDS", "300")))
 
 
 @dataclass(frozen=True)
@@ -96,18 +78,14 @@ class QualityConfig:
     """Quality control thresholds."""
 
     min_words: int = field(default_factory=lambda: int(os.getenv("MIN_WORDS", "3")))
-    max_asian_chars: int = field(
-        default_factory=lambda: int(os.getenv("MAX_ASIAN_CHARS", "3"))
-    )
+    max_asian_chars: int = field(default_factory=lambda: int(os.getenv("MAX_ASIAN_CHARS", "3")))
     min_unique_word_ratio: float = field(
         default_factory=lambda: float(os.getenv("MIN_UNIQUE_WORD_RATIO", "0.25"))
     )
     max_gibberish_clusters: int = field(
         default_factory=lambda: int(os.getenv("MAX_GIBBERISH_CLUSTERS", "3"))
     )
-    max_english_words: int = field(
-        default_factory=lambda: int(os.getenv("MAX_ENGLISH_WORDS", "8"))
-    )
+    max_english_words: int = field(default_factory=lambda: int(os.getenv("MAX_ENGLISH_WORDS", "8")))
 
 
 @dataclass(frozen=True)
@@ -150,15 +128,11 @@ class LoggingConfig:
     """Logging configuration."""
 
     level: str = field(default_factory=lambda: os.getenv("LOG_LEVEL", "INFO"))
-    format_string: str = field(
-        default="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-    )
+    format_string: str = field(default="%(asctime)s - %(name)s - %(levelname)s - %(message)s")
     file_logging: bool = field(
         default_factory=lambda: os.getenv("FILE_LOGGING", "true").lower() == "true"
     )
-    log_file: Path = field(
-        default_factory=lambda: PROJECT_ROOT / "logs" / "transcription.log"
-    )
+    log_file: Path = field(default_factory=lambda: PROJECT_ROOT / "logs" / "transcription.log")
 
     def __post_init__(self) -> None:
         """Ensure log directory exists."""

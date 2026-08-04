@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Kink vocabulary analysis (Hat 21, 26)."""
+
 from __future__ import annotations
 
 import json
 import re
 from pathlib import Path
-from collections import defaultdict, Counter
+from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -15,41 +16,140 @@ ANALYSIS = WA / "_ANALYSIS"
 # Kink vocabulary lexicon (Spanish + English)
 KINK_TERMS = {
     "dom_dynamics": [
-        "dom", "doms", "dominant", "dominatrix", "femdom", "owner", "master", "mistress",
-        "dueño", "dueña", "amo", "ama", "sumisa", "sumiso", "daddy", "mommy", "mami",
-        "papi", "jefe", "jefa", "handler"
+        "dom",
+        "doms",
+        "dominant",
+        "dominatrix",
+        "femdom",
+        "owner",
+        "master",
+        "mistress",
+        "dueño",
+        "dueña",
+        "amo",
+        "ama",
+        "sumisa",
+        "sumiso",
+        "daddy",
+        "mommy",
+        "mami",
+        "papi",
+        "jefe",
+        "jefa",
+        "handler",
     ],
     "sub_dynamics": [
-        "sub", "subs", "submissive", "pet", "puppy", "kitten", "kitty", "brat", "slave",
-        "bratty", "toy", "bottom", "service", "service-top"
+        "sub",
+        "subs",
+        "submissive",
+        "pet",
+        "puppy",
+        "kitten",
+        "kitty",
+        "brat",
+        "slave",
+        "bratty",
+        "toy",
+        "bottom",
+        "service",
+        "service-top",
     ],
     "scenes_activities": [
-        "scene", "scenes", "play", "session", "rope", "shibari", "rig", "rigger", "rigging",
-        "tie", "ties", "tie-up", "bondage", "cage", "cell", "worship", "service",
-        "whip", "spank", "spanking", "paddling", "flogging", "candle", "wax",
-        "edge", "edging", "denial", "orgasm", "control", "impact"
+        "scene",
+        "scenes",
+        "play",
+        "session",
+        "rope",
+        "shibari",
+        "rig",
+        "rigger",
+        "rigging",
+        "tie",
+        "ties",
+        "tie-up",
+        "bondage",
+        "cage",
+        "cell",
+        "worship",
+        "service",
+        "whip",
+        "spank",
+        "spanking",
+        "paddling",
+        "flogging",
+        "candle",
+        "wax",
+        "edge",
+        "edging",
+        "denial",
+        "orgasm",
+        "control",
+        "impact",
     ],
     "protocols": [
-        "protocol", "rules", "rule", "boundaries", "limits", "limits_check",
-        "safe_word", "safeword", "check_in", "aftercare", "scene_negotiation",
-        "negotiation", "consent", "dynamic", "d/s", "m/s", "ddlg", "mdlg",
-        "owner", "owned", "collared", "protocol"
+        "protocol",
+        "rules",
+        "rule",
+        "boundaries",
+        "limits",
+        "limits_check",
+        "safe_word",
+        "safeword",
+        "check_in",
+        "aftercare",
+        "scene_negotiation",
+        "negotiation",
+        "consent",
+        "dynamic",
+        "d/s",
+        "m/s",
+        "ddlg",
+        "mdlg",
+        "owner",
+        "owned",
+        "collared",
+        "protocol",
     ],
     "physical_sensation": [
-        "pain", "pleasure", "hurt", "sore", "marks", "bruises", "marks",
-        "intensity", "edge", "overwhelm", "sensation", "touch", "caress"
+        "pain",
+        "pleasure",
+        "hurt",
+        "sore",
+        "marks",
+        "bruises",
+        "marks",
+        "intensity",
+        "edge",
+        "overwhelm",
+        "sensation",
+        "touch",
+        "caress",
     ],
     "psychological": [
-        "headspace", "space", "drop", "subdrop", "topdrop", "aftercare",
-        "emotional", "trigger", "trauma", "processing", "kink", "kinky",
-        "fetish", "taboo", "shame", "permission", "brahm"
+        "headspace",
+        "space",
+        "drop",
+        "subdrop",
+        "topdrop",
+        "aftercare",
+        "emotional",
+        "trigger",
+        "trauma",
+        "processing",
+        "kink",
+        "kinky",
+        "fetish",
+        "taboo",
+        "shame",
+        "permission",
+        "brahm",
     ],
 }
 
 # Compile patterns
 PATTERNS = {}
 for category, terms in KINK_TERMS.items():
-    PATTERNS[category] = [re.compile(r'\b' + re.escape(t) + r'\b', re.IGNORECASE) for t in terms]
+    PATTERNS[category] = [re.compile(r"\b" + re.escape(t) + r"\b", re.IGNORECASE) for t in terms]
 
 
 def analyze_kink_vocab():
@@ -59,9 +159,25 @@ def analyze_kink_vocab():
     tiers = ["tier1_deep", "tier2_core", "tier3_extended", "untiered_personal", "other_lid"]
 
     # First identify potential kink chats
-    kink_keywords_total = ["BDSM", "femdom", "kink", "sub", "dom", "punishment", "rigger",
-                          "rope", "shibari", "fetish", "slave", "owner", "kitten", "puppy",
-                          "brat", "aftercare", "play"]
+    kink_keywords_total = [
+        "BDSM",
+        "femdom",
+        "kink",
+        "sub",
+        "dom",
+        "punishment",
+        "rigger",
+        "rope",
+        "shibari",
+        "fetish",
+        "slave",
+        "owner",
+        "kitten",
+        "puppy",
+        "brat",
+        "aftercare",
+        "play",
+    ]
 
     tier4 = WA / "tier4_groups"
 
@@ -150,7 +266,7 @@ def analyze_kink_vocab():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Kink Vocabulary Analysis ===")
+    print("\n=== Kink Vocabulary Analysis ===")
     print(f"Total kink chats analyzed: {len(by_chat)}")
 
     # Overall stats
@@ -162,13 +278,15 @@ def analyze_kink_vocab():
         print(f"Overall kink density: {total_kw / total_msgs:.3f}")
 
     # Top 15 kink-dense chats
-    print(f"\nTop 15 kink-dense chats:")
+    print("\nTop 15 kink-dense chats:")
     for c, info in sorted_chats[:15]:
-        print(f"  {info['kink_density']:.3f}  {info['total_kink_words']:>4} words  "
-              f"{info['tier']:<20}  {c[:30]}")
+        print(
+            f"  {info['kink_density']:.3f}  {info['total_kink_words']:>4} words  "
+            f"{info['tier']:<20}  {c[:30]}"
+        )
 
     # Category totals
-    print(f"\nCategory totals across all kink chats:")
+    print("\nCategory totals across all kink chats:")
     cat_totals = defaultdict(int)
     for c, info in by_chat.items():
         for cat, count in info["by_category"].items():

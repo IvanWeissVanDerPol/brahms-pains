@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Final VNT rename: use wa_messages dir prefix."""
+
 from __future__ import annotations
 
 import json
@@ -13,31 +14,41 @@ WA = REPO / "SOURCE_OF_TRUTH" / "wa_messages"
 
 
 def safe_name(name: str) -> str:
-    if not name: return ""
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    if not name:
+        return ""
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
 def is_clean(name: str) -> bool:
-    if not name or len(name) < 3: return False
-    if "=" in name: return False
-    if re.match(r'^[0-9A-F=]+$', name.replace("_", "")): return False
-    if re.search(r'_[A-Z]_[A-Z]?_?$', name):
+    if not name or len(name) < 3:
+        return False
+    if "=" in name:
+        return False
+    if re.match(r"^[0-9A-F=]+$", name.replace("_", "")):
+        return False
+    if re.search(r"_[A-Z]_[A-Z]?_?$", name):
         return False
     return True
 
 
 def main():
-    vcard = json.loads((REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/viewer_full_data.json").read_text())
-    jid_to_name = {c["jid"]: c["name"] for c in vcard["vcard_contacts"] if c.get("jid") and c.get("name")}
+    vcard = json.loads(
+        (REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/viewer_full_data.json").read_text()
+    )
+    jid_to_name = {
+        c["jid"]: c["name"] for c in vcard["vcard_contacts"] if c.get("jid") and c.get("name")
+    }
 
     # Get all numbered VNT
     numbered = []
     for d in VNT.iterdir():
-        if not d.is_dir(): continue
-        if d.name.startswith("_"): continue
-        m = re.match(r'^(chat|lid|group)_(\d{10,15})_\d+', d.name)
+        if not d.is_dir():
+            continue
+        if d.name.startswith("_"):
+            continue
+        m = re.match(r"^(chat|lid|group)_(\d{10,15})_\d+", d.name)
         if m:
             numbered.append((d.name, m.group(2)))
 
@@ -53,21 +64,32 @@ def main():
 
         # Find wa_messages dir
         wa_dir = None
-        for tier in ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid", "_dropped", "_conversations"]:
+        for tier in [
+            "tier1_deep",
+            "tier2_core",
+            "tier3_extended",
+            "tier4_groups",
+            "untiered_personal",
+            "other_lid",
+            "_dropped",
+            "_conversations",
+        ]:
             tier_dir = WA / tier
-            if not tier_dir.exists(): continue
+            if not tier_dir.exists():
+                continue
             for d in tier_dir.iterdir():
                 if d.is_dir() and jid in d.name:
                     wa_dir = d
                     break
-            if wa_dir: break
+            if wa_dir:
+                break
 
         if not wa_dir:
             skipped += 1
             continue
 
         # Extract canonical from prefix
-        m = re.match(r'^([a-z_0-9]+(?:_[a-z_0-9]+)*)___wa_', wa_dir.name)
+        m = re.match(r"^([a-z_0-9]+(?:_[a-z_0-9]+)*)___wa_", wa_dir.name)
         if not m:
             skipped += 1
             continue
@@ -75,12 +97,16 @@ def main():
 
         # Skip noise
         bad_slugs = ["p_dropped", "untiered_personal"]
-        if any(slug.startswith(b) for b in bad_slugs) or slug.startswith(("wa_", "chat_", "lid_", "group_")) or slug.isdigit():
+        if (
+            any(slug.startswith(b) for b in bad_slugs)
+            or slug.startswith(("wa_", "chat_", "lid_", "group_"))
+            or slug.isdigit()
+        ):
             skipped += 1
             continue
 
         # Strip numeric prefix like "30__"
-        slug = re.sub(r'^\d+__', '', slug)
+        slug = re.sub(r"^\d+__", "", slug)
         if not slug or slug.isdigit():
             skipped += 1
             continue
@@ -123,7 +149,7 @@ def main():
             print(f"  RENAMED: {folder} -> {title}")
         renamed += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Renamed: {renamed}")
     print(f"  Skipped: {skipped}")
 

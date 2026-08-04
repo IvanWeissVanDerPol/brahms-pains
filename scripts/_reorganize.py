@@ -21,14 +21,20 @@ Run:
   python3 _reorganize.py            # dry run
   python3 _reorganize.py --yes      # execute
 """
-import json, sys, re, shutil
+
+import json
+import sys
+import re
+import shutil
 from pathlib import Path
 from collections import Counter
 
 BASE = Path(__file__).parent
 FINAL = json.loads((BASE / "_final_classification.json").read_text())
 
-WAID_MAP_PATH = Path("/tmp/claude-1000/-home-ai-whisperers-paragu-ai-platform/3f2e0128-0eb5-4bd7-a38f-e6bee3d06e27/scratchpad/waid_to_name.json")
+WAID_MAP_PATH = Path(
+    "/tmp/claude-1000/-home-ai-whisperers-paragu-ai-platform/3f2e0128-0eb5-4bd7-a38f-e6bee3d06e27/scratchpad/waid_to_name.json"
+)
 WAID_MAP = json.loads(WAID_MAP_PATH.read_text()) if WAID_MAP_PATH.exists() else {}
 
 TIER_DIRS = {
@@ -47,6 +53,7 @@ TIER_START_RANK = {
     "tier3_extended": 41,
 }
 
+
 def slugify(text: str) -> str:
     if not text:
         return "unknown"
@@ -55,6 +62,7 @@ def slugify(text: str) -> str:
     s = re.sub(r"\s+", "_", s)
     s = re.sub(r"_+", "_", s).strip("_")
     return s[:60] or "unknown"
+
 
 def load_meta(dir_path: Path) -> dict:
     mj = dir_path / "messages.json"
@@ -69,6 +77,7 @@ def load_meta(dir_path: Path) -> dict:
         "jid_user": d.get("jid_user"),
         "jid_server": d.get("jid_server"),
     }
+
 
 def resolve_name(meta: dict) -> str:
     subject = meta.get("subject")
@@ -90,6 +99,7 @@ def resolve_name(meta: dict) -> str:
 
     return "unknown"
 
+
 def plan() -> list[dict]:
     keep_set = set(FINAL["keep_slugs"])
     all_dirs = [p for p in BASE.iterdir() if p.is_dir() and p.name.startswith("_wa_")]
@@ -104,9 +114,12 @@ def plan() -> list[dict]:
     tier3_set = set(tier3)
 
     rank_by_slug = {}
-    for i, s in enumerate(tier1, 1):     rank_by_slug[s] = i
-    for i, s in enumerate(tier2, 11):    rank_by_slug[s] = i
-    for i, s in enumerate(tier3, 41):    rank_by_slug[s] = i
+    for i, s in enumerate(tier1, 1):
+        rank_by_slug[s] = i
+    for i, s in enumerate(tier2, 11):
+        rank_by_slug[s] = i
+    for i, s in enumerate(tier3, 41):
+        rank_by_slug[s] = i
 
     triage = json.loads((BASE / "_triage.json").read_text())
     cat_by_slug = {c["slug"]: c["category"] for c in triage["chats"]}
@@ -145,20 +158,23 @@ def plan() -> list[dict]:
             new_name = f"{untiered_counter:03d}__{name}__{slug}"
 
         dest_dir = BASE / TIER_DIRS[bucket_key]
-        plan_rows.append({
-            "slug": slug,
-            "src": str(d.relative_to(BASE)),
-            "dest_dir": str(dest_dir.relative_to(BASE)),
-            "new_name": new_name,
-            "dest": str((dest_dir / new_name).relative_to(BASE)),
-            "bucket": bucket_key,
-            "name_source": (
-                "subject" if meta.get("subject") else
-                "vcf" if meta.get("jid_user") in WAID_MAP else
-                "phone_suffix"
-            ),
-        })
+        plan_rows.append(
+            {
+                "slug": slug,
+                "src": str(d.relative_to(BASE)),
+                "dest_dir": str(dest_dir.relative_to(BASE)),
+                "new_name": new_name,
+                "dest": str((dest_dir / new_name).relative_to(BASE)),
+                "bucket": bucket_key,
+                "name_source": (
+                    "subject"
+                    if meta.get("subject")
+                    else "vcf" if meta.get("jid_user") in WAID_MAP else "phone_suffix"
+                ),
+            }
+        )
     return plan_rows
+
 
 def main():
     rows = plan()
@@ -210,6 +226,7 @@ def main():
 
     (BASE / "_rename_manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False))
     print(f"\nMoved {moved} dirs, skipped {skipped}. Manifest -> _rename_manifest.json")
+
 
 if __name__ == "__main__":
     main()

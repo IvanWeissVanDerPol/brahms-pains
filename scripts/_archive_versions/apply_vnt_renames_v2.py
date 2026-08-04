@@ -1,19 +1,21 @@
 #!/usr/bin/env python3
 """Apply v3 renames - only vCard matches (highest confidence)."""
+
 from __future__ import annotations
 
 import json
 import shutil
 from pathlib import Path
-from collections import Counter
 
 REPO = Path(__file__).resolve().parent.parent
 VNT = REPO / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 
 
 def is_clean(name: str) -> bool:
-    if not name or len(name) < 4: return False
-    if "=" in name: return False
+    if not name or len(name) < 4:
+        return False
+    if "=" in name:
+        return False
     return True
 
 
@@ -49,7 +51,7 @@ def main():
         print(f"  RENAMED: {old} -> {new}")
         applied += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Applied: {applied}")
     print(f"  Skipped (target exists): {skipped_exists}")
     print(f"  Skipped (other): {skipped_other}")

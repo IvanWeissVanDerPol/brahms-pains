@@ -14,13 +14,12 @@ USAGE:
     python3 scripts/triage_dropped.py --dry-run
     python3 scripts/triage_dropped.py --apply
 """
+
 from __future__ import annotations
 
 import argparse
 import json
-import re
 import subprocess
-from collections import Counter, defaultdict
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -56,7 +55,11 @@ def is_group(jid: str) -> bool:
 
 def has_real_content(data) -> bool:
     """Check if chat has actual messages, not just system/service notifications."""
-    txt_msgs = sum(1 for m in data.get("messages", []) if isinstance(m, dict) and m.get("type") == 0 and m.get("text"))
+    txt_msgs = sum(
+        1
+        for m in data.get("messages", [])
+        if isinstance(m, dict) and m.get("type") == 0 and m.get("text")
+    )
     return txt_msgs >= 5
 
 
@@ -68,13 +71,19 @@ def score_for_promotion(data, n_msgs, jid):
     if is_group(jid):
         score += 20
     # Bonus for text content
-    txt_n = sum(1 for m in data.get("messages", []) if isinstance(m, dict) and m.get("type") == 0 and m.get("text"))
+    txt_n = sum(
+        1
+        for m in data.get("messages", [])
+        if isinstance(m, dict) and m.get("type") == 0 and m.get("text")
+    )
     if txt_n > 50:
         score += 10
     if txt_n > 500:
         score += 10
     # Bonus for media sharing
-    media_n = sum(1 for m in data.get("messages", []) if isinstance(m, dict) and m.get("type") in (1, 2, 3))
+    media_n = sum(
+        1 for m in data.get("messages", []) if isinstance(m, dict) and m.get("type") in (1, 2, 3)
+    )
     if media_n > 20:
         score += 5
     return min(100, score)
@@ -92,46 +101,59 @@ def main():
     print(f"Total _dropped chats: {len(chats)}")
 
     triage = {
-        "noise": [],     # → recommend DELETE or move to _noise/
-        "promote": [],   # → recommend MOVE to tier4_groups/ or other
-        "keep": [],      # → leave in _dropped for now
+        "noise": [],  # → recommend DELETE or move to _noise/
+        "promote": [],  # → recommend MOVE to tier4_groups/ or other
+        "keep": [],  # → leave in _dropped for now
     }
 
     for d, data, n, jid in chats:
         if not has_real_content(data) or n < 10:
-            triage["noise"].append({"dir": str(d.relative_to(REPO)), "msgs": n, "jid": jid, "reason": "<10 msgs or no text"})
+            triage["noise"].append(
+                {
+                    "dir": str(d.relative_to(REPO)),
+                    "msgs": n,
+                    "jid": jid,
+                    "reason": "<10 msgs or no text",
+                }
+            )
             continue
         score = score_for_promotion(data, n, jid)
         if score >= 50:
-            triage["promote"].append({
-                "dir": str(d.relative_to(REPO)),
-                "msgs": n,
-                "jid": jid,
-                "score": score,
-                "is_group": is_group(jid),
-            })
+            triage["promote"].append(
+                {
+                    "dir": str(d.relative_to(REPO)),
+                    "msgs": n,
+                    "jid": jid,
+                    "score": score,
+                    "is_group": is_group(jid),
+                }
+            )
         else:
-            triage["keep"].append({
-                "dir": str(d.relative_to(REPO)),
-                "msgs": n,
-                "jid": jid,
-                "score": score,
-            })
+            triage["keep"].append(
+                {
+                    "dir": str(d.relative_to(REPO)),
+                    "msgs": n,
+                    "jid": jid,
+                    "score": score,
+                }
+            )
 
     # Print summary
     print(f"\nNoise (<10 msgs or no text): {len(triage['noise'])}")
     print(f"Promote candidates (score ≥ 50): {len(triage['promote'])}")
     print(f"Keep in _dropped (low score): {len(triage['keep'])}")
 
-    print(f"\n=== Top 25 promote candidates ===")
+    print("\n=== Top 25 promote candidates ===")
     triage["promote"].sort(key=lambda x: -x["score"])
     for c in triage["promote"][:25]:
         kind = "GROUP" if c["is_group"] else "1-ON-1"
-        print(f"  [{c['score']:>3}] [{kind}] {c['dir'][:55]:<55}  msgs={c['msgs']:>6}  jid={c['jid'][:14]:<14}")
+        print(
+            f"  [{c['score']:>3}] [{kind}] {c['dir'][:55]:<55}  msgs={c['msgs']:>6}  jid={c['jid'][:14]:<14}"
+        )
 
     # Save triage report
     report = {
-        "generated_at": str(__import__('datetime').datetime.now()),
+        "generated_at": str(__import__("datetime").datetime.now()),
         "total_chats": len(chats),
         "noise_count": len(triage["noise"]),
         "promote_count": len(triage["promote"]),
@@ -171,7 +193,8 @@ def main():
                 continue
             subprocess.run(
                 ["git", "mv", str(old.relative_to(REPO)), str(new.relative_to(REPO))],
-                cwd=REPO, check=True,
+                cwd=REPO,
+                check=True,
             )
             print(f"  ✓ {c['dir']} → {new.relative_to(REPO)}")
 

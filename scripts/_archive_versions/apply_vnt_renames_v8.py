@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Final VNT rename - use first-message context for naming."""
+
 from __future__ import annotations
 
 import json
@@ -13,25 +14,31 @@ WA = REPO / "SOURCE_OF_TRUTH" / "wa_messages"
 
 
 def safe_name(name: str) -> str:
-    if not name: return ""
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    if not name:
+        return ""
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
 def is_clean(name: str) -> bool:
-    if not name or len(name) < 3 or len(name) > 25: return False
-    if "=" in name: return False
-    if re.match(r'^[0-9A-F=]+$', name.replace("_", "")): return False
+    if not name or len(name) < 3 or len(name) > 25:
+        return False
+    if "=" in name:
+        return False
+    if re.match(r"^[0-9A-F=]+$", name.replace("_", "")):
+        return False
     return True
 
 
 def main():
     numbered = []
     for d in VNT.iterdir():
-        if not d.is_dir(): continue
-        if d.name.startswith("_"): continue
-        if re.match(r'^(chat|lid|group)_', d.name):
+        if not d.is_dir():
+            continue
+        if d.name.startswith("_"):
+            continue
+        if re.match(r"^(chat|lid|group)_", d.name):
             numbered.append(d)
 
     # Manual mapping based on context
@@ -102,22 +109,27 @@ def main():
                                     dst_data.append(e)
                                     added += 1
                             if added > 0:
-                                dst_tf.write_text(json.dumps(dst_data, indent=1, ensure_ascii=False))
+                                dst_tf.write_text(
+                                    json.dumps(dst_data, indent=1, ensure_ascii=False)
+                                )
                                 print(f"  MERGED: {d.name} -> {target_name} (+{added})")
-                    except: pass
+                    except:
+                        pass
                 for f in d.iterdir():
-                    if f.name == "transcripts.json": continue
+                    if f.name == "transcripts.json":
+                        continue
                     dest = target / f.name
                     if not dest.exists():
                         shutil.move(str(f), str(dest))
                 try:
                     shutil.rmtree(d)
-                except: pass
+                except:
+                    pass
                 renamed += 1
         else:
             skipped += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Renamed: {renamed}")
     print(f"  Skipped: {skipped}")
 

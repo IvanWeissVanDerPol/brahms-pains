@@ -42,6 +42,7 @@ Emits:
 
 Read-only pass. Does not mutate any chat data.
 """
+
 from __future__ import annotations
 
 import json
@@ -57,32 +58,59 @@ LOW_SIGNAL_TOTAL = 10
 LOW_SIGNAL_MINE = 3
 
 # v2 thresholds (July 2026)
-GROUP_SHARED_FRIEND_THRESHOLD = 2     # ≥2 group co-memberships = likely friend
-GROUP_SHARED_SCORE_WEIGHT = 800       # weight per shared group in score
-HIDDEN_FRIEND_SCORE_FLOOR = 200       # minimum score for hidden friends
-JACCARD_CLUSTER_THRESHOLD = 0.3       # jaccard for circle clustering
+GROUP_SHARED_FRIEND_THRESHOLD = 2  # ≥2 group co-memberships = likely friend
+GROUP_SHARED_SCORE_WEIGHT = 800  # weight per shared group in score
+HIDDEN_FRIEND_SCORE_FLOOR = 200  # minimum score for hidden friends
+JACCARD_CLUSTER_THRESHOLD = 0.3  # jaccard for circle clustering
 
 # Circle indicator sets — keep in sync with circles/README.md
 CIRCLE_INDICATORS = {
     "inner_circle_casa_weiss": {
-        "Casa stuff", "Casa weiss (internal)", "cosas de casa",
-        "LA CASA 🏡", "Cuarteto el 15/06 ✨", "AGI is cumming",
-        "Apuesta", "D&D", "Funhouse🎉", "Jojo gym",
+        "Casa stuff",
+        "Casa weiss (internal)",
+        "cosas de casa",
+        "LA CASA 🏡",
+        "Cuarteto el 15/06 ✨",
+        "AGI is cumming",
+        "Apuesta",
+        "D&D",
+        "Funhouse🎉",
+        "Jojo gym",
     },
     "family_weiss_vdp": {
-        "Familie van der pol", "Primos Weiss ⚝", "Weiss Siblings", "Mansion weiss",
+        "Familie van der pol",
+        "Primos Weiss ⚝",
+        "Weiss Siblings",
+        "Mansion weiss",
     },
     "fpuna_cs_classmates": {
-        "IIN FPUNA 019", "IIN FPUNA 2015-2021", "IIN FPUNA 2019 - 2025 👨‍💻👩‍💻",
-        "IIN - FPUNA - GRAL", "Ingeniería En Informática", "Club de Info GRAL",
-        "ML 2023-1", "ML grupo", "GCC 2023", "Emergentes 2023", "Compiladores 2024",
-        "IS3 2024", "IS3 SIN PROFES", "BD2 IIN 2024", "FPUNA Ciberseguridad 2024",
-        "IEEE CS UNA SBC 2025 🖥🌐✨", "IEEEXtreme - Interesados UNA",
+        "IIN FPUNA 019",
+        "IIN FPUNA 2015-2021",
+        "IIN FPUNA 2019 - 2025 👨‍💻👩‍💻",
+        "IIN - FPUNA - GRAL",
+        "Ingeniería En Informática",
+        "Club de Info GRAL",
+        "ML 2023-1",
+        "ML grupo",
+        "GCC 2023",
+        "Emergentes 2023",
+        "Compiladores 2024",
+        "IS3 2024",
+        "IS3 SIN PROFES",
+        "BD2 IIN 2024",
+        "FPUNA Ciberseguridad 2024",
+        "IEEE CS UNA SBC 2025 🖥🌐✨",
+        "IEEEXtreme - Interesados UNA",
     },
     "pytesting_community": {
-        "Py Testing Community", "QE Meriendita!", "Baby Shower 02/03🐥",
-        "QE yguazu falls trip", "Samber +atyra", "Team Isabelle MM",
-        "ISTQB Brave and courageous", "Taller de Introducción QA [Instructores]",
+        "Py Testing Community",
+        "QE Meriendita!",
+        "Baby Shower 02/03🐥",
+        "QE yguazu falls trip",
+        "Samber +atyra",
+        "Team Isabelle MM",
+        "ISTQB Brave and courageous",
+        "Taller de Introducción QA [Instructores]",
         "Introducción al Aseguramiento de la Calidad y Automatización",
     },
 }
@@ -292,6 +320,7 @@ def _iso(ts_ms: int) -> str | None:
     if not ts_ms or ts_ms <= 0:
         return None
     from datetime import datetime, timezone
+
     return datetime.fromtimestamp(ts_ms / 1000, tz=timezone.utc).isoformat()
 
 
@@ -307,8 +336,13 @@ def discover_chat_dirs(root: Path) -> list[Path]:
     and `_ANALYSIS/` (analysis artifacts).
     """
     SKIP_TOP_DIRS = {
-        "_conversations", "circles", "_ANALYSIS", "_triage_report.md",
-        "_triage.json", "_triage_circles.json", "_manifest.json",
+        "_conversations",
+        "circles",
+        "_ANALYSIS",
+        "_triage_report.md",
+        "_triage.json",
+        "_triage_circles.json",
+        "_manifest.json",
     }
     out: list[Path] = []
     for entry in sorted(root.iterdir()):
@@ -423,17 +457,22 @@ def main() -> int:
         "groups_analyzed": len(group_participants),
         "categories": by_cat,
         "recommended_keep": [
-            m["slug"] for m in metrics
+            m["slug"]
+            for m in metrics
             if m["category"] in ("personal_1on1", "group_active", "hidden_friend")
             and m["score"] >= 500
         ],
         "recommended_drop": [
-            m["slug"] for m in metrics
-            if m["category"] in ("notification", "low_signal")
+            m["slug"] for m in metrics if m["category"] in ("notification", "low_signal")
         ],
         "hidden_friends_rescued": [
-            {"slug": m["slug"], "jid_user": m["jid_user"], "groups_shared": m["groups_shared_with_ivan"],
-             "total_msgs": m["total_msgs"], "circle": m.get("circle", "unknown")}
+            {
+                "slug": m["slug"],
+                "jid_user": m["jid_user"],
+                "groups_shared": m["groups_shared_with_ivan"],
+                "total_msgs": m["total_msgs"],
+                "circle": m.get("circle", "unknown"),
+            }
             for m in hidden_friends
         ],
         "chats": metrics,
@@ -457,8 +496,13 @@ def main() -> int:
     for m in metrics:
         if m.get("groups_shared_with_ivan", 0) >= GROUP_SHARED_FRIEND_THRESHOLD:
             circles_out["contacts_by_circle"][m.get("circle", "other_contacts")].append(
-                {"slug": m["slug"], "jid_user": m["jid_user"], "groups_shared": m["groups_shared_with_ivan"],
-                 "total_msgs": m["total_msgs"], "score": m["score"]}
+                {
+                    "slug": m["slug"],
+                    "jid_user": m["jid_user"],
+                    "groups_shared": m["groups_shared_with_ivan"],
+                    "total_msgs": m["total_msgs"],
+                    "score": m["score"],
+                }
             )
     circles_out["contacts_by_circle"] = dict(circles_out["contacts_by_circle"])
     (ROOT / "_triage_circles.json").write_text(
@@ -475,7 +519,9 @@ def main() -> int:
     lines.append("  treated as `hidden_friend` even if their 1-on-1 chat has few messages.")
     lines.append("- New score component: `groups_shared_with_ivan * 800`.")
     lines.append("- New category: `hidden_friend` (with score floor of 200 so they don't drop).")
-    lines.append("- Circle assignment output in `_triage_circles.json` and downstream symlinks in `circles/`.\n")
+    lines.append(
+        "- Circle assignment output in `_triage_circles.json` and downstream symlinks in `circles/`.\n"
+    )
 
     lines.append("## Category breakdown\n")
     lines.append("| Category | # chats | total msgs | my text chars |")
@@ -483,9 +529,15 @@ def main() -> int:
     for cat, d in sorted(by_cat.items(), key=lambda x: -x[1]["my_text_chars"]):
         lines.append(f"| {cat} | {d['count']} | {d['total_msgs']:,} | {d['my_text_chars']:,} |")
 
-    lines.append(f"\n**Recommended KEEP** (personal / active-group / hidden-friend, score ≥ 500): {len(out['recommended_keep'])} chats")
-    lines.append(f"**Recommended DROP** (notification / low-signal): {len(out['recommended_drop'])} chats")
-    lines.append(f"**🚨 Hidden friends RESCUED** (high group overlap, low 1-on-1 volume): {len(hidden_friends)} chats\n")
+    lines.append(
+        f"\n**Recommended KEEP** (personal / active-group / hidden-friend, score ≥ 500): {len(out['recommended_keep'])} chats"
+    )
+    lines.append(
+        f"**Recommended DROP** (notification / low-signal): {len(out['recommended_drop'])} chats"
+    )
+    lines.append(
+        f"**🚨 Hidden friends RESCUED** (high group overlap, low 1-on-1 volume): {len(hidden_friends)} chats\n"
+    )
 
     if hidden_friends:
         lines.append("### Hidden friends (rescued from `low_signal`)\n")
@@ -499,7 +551,9 @@ def main() -> int:
             )
 
     lines.append("\n## Top 50 chats by psychology signal\n")
-    lines.append("| # | slug | category | msgs | mine% | groups | audio | starred | long | my_chars | span_d | score |")
+    lines.append(
+        "| # | slug | category | msgs | mine% | groups | audio | starred | long | my_chars | span_d | score |"
+    )
     lines.append("|---:|---|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|")
     for i, m in enumerate(metrics[:50], 1):
         lines.append(
@@ -526,15 +580,18 @@ def main() -> int:
     print(f"  groups with participants: {len(group_participants)}")
     print("categories:")
     for cat, d in sorted(by_cat.items(), key=lambda x: -x[1]["count"]):
-        print(f"  {cat:<16} {d['count']:>4} chats, {d['total_msgs']:>8,} msgs, {d['my_text_chars']:>10,} my chars")
+        print(
+            f"  {cat:<16} {d['count']:>4} chats, {d['total_msgs']:>8,} msgs, {d['my_text_chars']:>10,} my chars"
+        )
     print(f"\n🚨 hidden_friends RESCUED: {len(hidden_friends)}")
     print(f"\nkeep recommended: {len(out['recommended_keep'])}")
     print(f"drop recommended: {len(out['recommended_drop'])}")
-    print(f"\nreports:")
+    print("\nreports:")
     print(f"  {ROOT / '_triage.json'}")
     print(f"  {ROOT / '_triage_report.md'}")
     print(f"  {ROOT / '_triage_circles.json'}")
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())

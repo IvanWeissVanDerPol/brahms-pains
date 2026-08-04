@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Conversation repair pattern detection (Hat 1, 4)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
 from collections import defaultdict
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 
 REPO = Path(__file__).resolve().parent.parent
 WA = REPO / "SOURCE_OF_TRUTH/wa_messages"
@@ -49,7 +50,7 @@ def detect_repair_patterns():
 
             # Find gaps > 7 days
             for i in range(1, len(valid_msgs)):
-                prev = valid_msgs[i-1]
+                prev = valid_msgs[i - 1]
                 curr = valid_msgs[i]
                 prev_ts = prev.get("ts_ms", 0)
                 curr_ts = curr.get("ts_ms", 0)
@@ -65,26 +66,46 @@ def detect_repair_patterns():
                     # Was the message after the gap from Ivan?
                     is_ivan_repair = curr.get("from_me", False)
 
-                    gaps_detected.append({
-                        "chat": chat_name,
-                        "tier": tier,
-                        "gap_days": round(gap_days, 1),
-                        "from_ivan": is_ivan_repair,
-                        "gap_start": datetime.fromtimestamp(prev_ts / 1000, tz=timezone.utc).isoformat(),
-                        "gap_end": datetime.fromtimestamp(curr_ts / 1000, tz=timezone.utc).isoformat(),
-                    })
-
-                    if is_ivan_repair:
-                        repair_events.append({
+                    gaps_detected.append(
+                        {
                             "chat": chat_name,
                             "tier": tier,
                             "gap_days": round(gap_days, 1),
-                            "gap_start": datetime.fromtimestamp(prev_ts / 1000, tz=timezone.utc).isoformat(),
-                            "gap_end": datetime.fromtimestamp(curr_ts / 1000, tz=timezone.utc).isoformat(),
-                        })
+                            "from_ivan": is_ivan_repair,
+                            "gap_start": datetime.fromtimestamp(
+                                prev_ts / 1000, tz=timezone.utc
+                            ).isoformat(),
+                            "gap_end": datetime.fromtimestamp(
+                                curr_ts / 1000, tz=timezone.utc
+                            ).isoformat(),
+                        }
+                    )
+
+                    if is_ivan_repair:
+                        repair_events.append(
+                            {
+                                "chat": chat_name,
+                                "tier": tier,
+                                "gap_days": round(gap_days, 1),
+                                "gap_start": datetime.fromtimestamp(
+                                    prev_ts / 1000, tz=timezone.utc
+                                ).isoformat(),
+                                "gap_end": datetime.fromtimestamp(
+                                    curr_ts / 1000, tz=timezone.utc
+                                ).isoformat(),
+                            }
+                        )
 
     # Calculate stats per chat
-    by_chat = defaultdict(lambda: {"total_gaps": 0, "ivan_repairs": 0, "them_repairs": 0, "max_gap": 0, "total_gap_days": 0})
+    by_chat = defaultdict(
+        lambda: {
+            "total_gaps": 0,
+            "ivan_repairs": 0,
+            "them_repairs": 0,
+            "max_gap": 0,
+            "total_gap_days": 0,
+        }
+    )
 
     for g in gaps_detected:
         chat = g["chat"]
@@ -119,27 +140,31 @@ def detect_repair_patterns():
     print(f"Wrote {out.relative_to(REPO)}")
 
     # Print findings
-    print(f"\n=== Conversation Repair Analysis ===")
+    print("\n=== Conversation Repair Analysis ===")
     print(f"Total gaps >7 days detected: {len(gaps_detected)}")
     print(f"Repair events (Ivan initiated after gap): {len(repair_events)}")
 
     # Top chats by total gaps
-    print(f"\n=== Top 15 chats by gap frequency ===")
+    print("\n=== Top 15 chats by gap frequency ===")
     sorted_chats = sorted(by_chat.items(), key=lambda x: -x[1]["total_gaps"])[:15]
     for chat, stats in sorted_chats:
-        print(f"  {stats['total_gaps']:>3} gaps  Ivan repair {stats['ivan_repair_ratio']:.1%}  "
-              f"Max gap {stats['max_gap']:.0f}d  {chat[:40]}")
+        print(
+            f"  {stats['total_gaps']:>3} gaps  Ivan repair {stats['ivan_repair_ratio']:.1%}  "
+            f"Max gap {stats['max_gap']:.0f}d  {chat[:40]}"
+        )
 
     # Top Ivan-repair chats (Ivan reaches out after silence)
-    print(f"\n=== Top 15 chats where Ivan repairs (reaches out after gap) ===")
+    print("\n=== Top 15 chats where Ivan repairs (reaches out after gap) ===")
     sorted_repairs = sorted(by_chat.items(), key=lambda x: -x[1]["ivan_repairs"])[:15]
     for chat, stats in sorted_repairs:
         if stats["ivan_repairs"] > 0:
-            print(f"  {stats['ivan_repairs']:>3} repairs / {stats['total_gaps']:>3} gaps  "
-                  f"({stats['ivan_repair_ratio']:.1%})  {chat[:35]}")
+            print(
+                f"  {stats['ivan_repairs']:>3} repairs / {stats['total_gaps']:>3} gaps  "
+                f"({stats['ivan_repair_ratio']:.1%})  {chat[:35]}"
+            )
 
     # Largest gaps
-    print(f"\n=== Top 15 largest single gaps ===")
+    print("\n=== Top 15 largest single gaps ===")
     largest = sorted(gaps_detected, key=lambda x: -x["gap_days"])[:15]
     for g in largest:
         direction = "Ivan →" if g["from_ivan"] else "← Them"

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Final VNT rename - handle hyphens and group_NAME_NNN pattern."""
+
 from __future__ import annotations
 
 import json
@@ -13,32 +14,53 @@ WA = REPO / "SOURCE_OF_TRUTH" / "wa_messages"
 
 
 def safe_name(name: str) -> str:
-    if not name: return ""
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    if not name:
+        return ""
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
 def main():
-    vcard = json.loads((REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/viewer_full_data.json").read_text())
-    jid_to_name = {c["jid"]: c["name"] for c in vcard["vcard_contacts"] if c.get("jid") and c.get("name")}
+    vcard = json.loads(
+        (REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/viewer_full_data.json").read_text()
+    )
+    jid_to_name = {
+        c["jid"]: c["name"] for c in vcard["vcard_contacts"] if c.get("jid") and c.get("name")
+    }
 
     # Get wa_messages JID -> canonical mapping
     jid_to_canonical = {}
-    for tier in ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid", "_dropped", "_conversations"]:
+    for tier in [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+        "_dropped",
+        "_conversations",
+    ]:
         tier_dir = WA / tier
-        if not tier_dir.exists(): continue
+        if not tier_dir.exists():
+            continue
         for d in tier_dir.iterdir():
-            if not d.is_dir(): continue
-            m = re.search(r'(\d{10,15})', d.name)
-            if not m: continue
+            if not d.is_dir():
+                continue
+            m = re.search(r"(\d{10,15})", d.name)
+            if not m:
+                continue
             jid = m.group(1)
-            if jid in jid_to_canonical: continue
+            if jid in jid_to_canonical:
+                continue
             # Try prefix
-            m2 = re.match(r'^([a-z_0-9]+(?:_[a-z_0-9]+)*)___wa_', d.name)
+            m2 = re.match(r"^([a-z_0-9]+(?:_[a-z_0-9]+)*)___wa_", d.name)
             if m2:
                 slug = m2.group(1)
-                if not re.match(r'^(p_dropped|untiered_personal|wa_|chat_|lid_|group_)', slug) and not slug.isdigit():
+                if (
+                    not re.match(r"^(p_dropped|untiered_personal|wa_|chat_|lid_|group_)", slug)
+                    and not slug.isdigit()
+                ):
                     jid_to_canonical[jid] = slug
 
     renamed = 0
@@ -47,14 +69,17 @@ def main():
     skipped = 0
 
     for d in sorted(VNT.iterdir()):
-        if not d.is_dir(): continue
-        if d.name.startswith("_"): continue
-        if not re.match(r'^(chat|lid|group)_', d.name): continue
+        if not d.is_dir():
+            continue
+        if d.name.startswith("_"):
+            continue
+        if not re.match(r"^(chat|lid|group)_", d.name):
+            continue
 
         target_name = None
 
         # Try pattern 1: chat_NNNNNN_NNN with vCard/wa_messages lookup
-        m = re.match(r'^(chat|lid)_(\d{10,15})_\d+$', d.name)
+        m = re.match(r"^(chat|lid)_(\d{10,15})_\d+$", d.name)
         if m:
             jid = m.group(2)
             if jid in jid_to_name:
@@ -67,7 +92,7 @@ def main():
 
         # Try pattern 2: group_NAME_NNN
         if not target_name:
-            m = re.match(r'^group_([a-záéíóúñ_-]+)_(\d+)$', d.name)
+            m = re.match(r"^group_([a-záéíóúñ_-]+)_(\d+)$", d.name)
             if m:
                 name_slug = m.group(1)
                 # Title case
@@ -76,7 +101,7 @@ def main():
 
         # Try pattern 3: chat_NAME_JIDIDX (rare)
         if not target_name:
-            m = re.match(r'^(chat|lid)_([a-z_]+)_(\d{10,15})_(\d+)$', d.name)
+            m = re.match(r"^(chat|lid)_([a-z_]+)_(\d{10,15})_(\d+)$", d.name)
             if m:
                 name_slug = m.group(2)
                 if name_slug not in ("p_dropped",):
@@ -114,10 +139,12 @@ def main():
                         merged += 1
                     else:
                         deleted += 1
-            except: pass
+            except:
+                pass
         else:
             for f in d.iterdir():
-                if f.name == "transcripts.json": continue
+                if f.name == "transcripts.json":
+                    continue
                 dest = target / f.name
                 if not dest.exists():
                     shutil.move(str(f), str(dest))
@@ -129,9 +156,10 @@ def main():
         # Remove src
         try:
             shutil.rmtree(d)
-        except: pass
+        except:
+            pass
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Renamed: {renamed}")
     print(f"  Merged: {merged}")
     print(f"  Deleted (dup): {deleted}")

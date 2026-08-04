@@ -6,9 +6,7 @@ import re
 from collections import Counter
 from pathlib import Path
 
-TRANSCRIPTS_DIR = (
-    Path(__file__).parent.parent / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
-)
+TRANSCRIPTS_DIR = Path(__file__).parent.parent / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 OUTPUT_DIR = Path(__file__).parent.parent / "SOURCE_OF_TRUTH"
 
 
@@ -17,9 +15,7 @@ def check_quality(text: str) -> list[str]:
     problems = []
 
     # 1. Asian characters (Korean, Chinese, Japanese) - Whisper hallucination
-    asian_chars = len(
-        re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text)
-    )
+    asian_chars = len(re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text))
     if asian_chars > 3:
         problems.append(f"asian_chars:{asian_chars}")
 
@@ -119,9 +115,7 @@ def main():
         problem_counts = Counter(all_problems)
 
         f.write("\n## Problem Types\n\n")
-        f.write(
-            "| Problem | Count | Description |\n|---------|-------|-------------|\n"
-        )
+        f.write("| Problem | Count | Description |\n|---------|-------|-------------|\n")
         descriptions = {
             "asian_chars": "Korean/Chinese/Japanese characters (Whisper hallucination)",
             "too_short": "Less than 3 words",
@@ -159,9 +153,7 @@ def main():
                 for i in worst:
                     f.write(f"#### {i['file']}\n")
                     f.write(f"Problems: {', '.join(i['problems'])}\n\n")
-                    f.write(
-                        f"> {i['text'][:400]}{'...' if len(i['text']) > 400 else ''}\n\n"
-                    )
+                    f.write(f"> {i['text'][:400]}{'...' if len(i['text']) > 400 else ''}\n\n")
 
             f.write("---\n\n")
 
@@ -169,7 +161,7 @@ def main():
     print(
         f"Found {len(issues)} with quality issues ({100 * len(issues) / max(total_checked, 1):.1f}%)"
     )
-    print(f"\nBy chat:")
+    print("\nBy chat:")
     for chat, count in by_chat.most_common():
         print(f"  {chat}: {count}")
     print(f"\nReport saved to: {output}")

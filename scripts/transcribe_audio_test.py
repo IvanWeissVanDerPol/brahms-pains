@@ -15,11 +15,10 @@ Exit code:
     0 = all checks passed
     non-zero = first failing check
 """
+
 from __future__ import annotations
 
 import argparse
-import os
-import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -33,7 +32,7 @@ try:
     from transcribe_audio import detect_backend, discover, MEDIA_DIR, TRANSCRIPT_DIR
 except ImportError as e:
     print(f"❌ Could not import transcribe_audio: {e}")
-    print(f"   ensure transcribe_audio.py is in the same directory as this test")
+    print("   ensure transcribe_audio.py is in the same directory as this test")
     sys.exit(2)
 
 
@@ -67,7 +66,7 @@ def check_discovery() -> tuple[int, list[Path]]:
     opus = list(MEDIA_DIR.rglob("*.opus"))
     print(f"   {len(opus):,} .opus files under {MEDIA_DIR}")
     if not opus:
-        print(f"❌ No .opus files to test on")
+        print("❌ No .opus files to test on")
         return 1, []
     sample = opus[:5]
     for o in sample:
@@ -107,8 +106,9 @@ def check_python_deps() -> int:
 
 def main() -> int:
     p = argparse.ArgumentParser(description=__doc__)
-    p.add_argument("--skip-transcribe", action="store_true",
-                   help="Skip the actual transcription call")
+    p.add_argument(
+        "--skip-transcribe", action="store_true", help="Skip the actual transcription call"
+    )
     args = p.parse_args()
 
     print("WHOAMI: transcribe_audio_test v0.1")
@@ -140,7 +140,9 @@ def main() -> int:
     print("Transcribing 1 file via --smoke-test...")
     proc = subprocess.run(
         [sys.executable, HERE / "transcribe_audio.py", "--smoke-test"],
-        capture_output=True, text=True, timeout=600,
+        capture_output=True,
+        text=True,
+        timeout=600,
     )
     print(proc.stdout)
     if proc.returncode != 0:

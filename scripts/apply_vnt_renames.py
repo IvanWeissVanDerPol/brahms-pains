@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Apply VNT folder renames safely — only confident matches."""
+
 from __future__ import annotations
 
 import json
 import re
 import shutil
-from collections import Counter
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -13,9 +13,10 @@ VNT = REPO / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 
 
 def safe_name(name: str) -> str:
-    if not name: return ""
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    if not name:
+        return ""
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
@@ -24,12 +25,12 @@ def is_clean(name: str) -> bool:
     if not name or len(name) < 4:
         return False
     # No hex artifacts
-    if re.match(r'^[0-9A-F=]+$', name.replace("_", "")):
+    if re.match(r"^[0-9A-F=]+$", name.replace("_", "")):
         return False
     if "=" in name:  # quoted-printable artifact
         return False
     # No truncation markers
-    if re.search(r'_[A-Z]_[A-Z]?_?$', name):
+    if re.search(r"_[A-Z]_[A-Z]?_?$", name):
         return False
     return True
 
@@ -76,7 +77,7 @@ def main():
         except Exception as e:
             print(f"  ERROR: {old}: {e}")
 
-    print(f"\n=== Done ===")
+    print("\n=== Done ===")
     print(f"  Applied: {applied}")
     print(f"  Skipped (target exists): {skipped_existing}")
 

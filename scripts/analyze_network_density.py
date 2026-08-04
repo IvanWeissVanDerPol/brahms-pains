@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Friendship network density analysis (Hat 14, 17)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict, Counter
+from collections import Counter
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -24,7 +25,11 @@ def analyze_network_density():
     jid_to_tier = {}
 
     # Also load phonebook.json for name resolution
-    phonebook = json.loads((ANALYSIS / "phonebook.json").read_text()) if (ANALYSIS / "phonebook.json").exists() else []
+    phonebook = (
+        json.loads((ANALYSIS / "phonebook.json").read_text())
+        if (ANALYSIS / "phonebook.json").exists()
+        else []
+    )
 
     # Build jid -> name from phonebook
     phonebook_jid_map = {}
@@ -70,7 +75,11 @@ def analyze_network_density():
                 if sender not in jid_to_name:
                     # Try phonebook lookup first
                     clean_jid = sender.replace("@s.whatsapp.net", "").replace("@c.us", "")
-                    jid_to_name[sender] = phonebook_jid_map.get(sender) or phonebook_jid_map.get(clean_jid) or chat_name
+                    jid_to_name[sender] = (
+                        phonebook_jid_map.get(sender)
+                        or phonebook_jid_map.get(clean_jid)
+                        or chat_name
+                    )
                     jid_to_tier[sender] = tier
 
     # Now check group participation - who is in groups together
@@ -143,15 +152,17 @@ def analyze_network_density():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Friendship Network Density ===")
+    print("\n=== Friendship Network Density ===")
     print(f"Total contacts in network: {n_contacts}")
     print(f"Total edges (shared groups): {n_edges}")
 
-    print(f"\nTop 20 most connected contacts:")
+    print("\nTop 20 most connected contacts:")
     for i, contact in enumerate(summary["top_connected_contacts"][:20], 1):
-        print(f"  {i:>3}. {contact['degree']:>3} edges  {contact['name']:<35} ({contact['jid'][:15]}...)")
+        print(
+            f"  {i:>3}. {contact['degree']:>3} edges  {contact['name']:<35} ({contact['jid'][:15]}...)"
+        )
 
-    print(f"\nTop 20 strongest edges (most shared groups):")
+    print("\nTop 20 strongest edges (most shared groups):")
     for i, edge in enumerate(summary["top_edges"][:20], 1):
         name_a = jid_to_name.get(edge["jid_a"], "?")
         name_b = jid_to_name.get(edge["jid_b"], "?")

@@ -8,12 +8,11 @@ file:// without a server.
 Usage:
     python3 scripts/build_viewer_payload.py
 """
+
 from __future__ import annotations
 
 import json
 import re
-import shutil
-from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -21,7 +20,11 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 # The worktree may not include the actual chat JSON (it has been gitignored
 # or simply not present in the worktree). Always read from the canonical
 # repo path so the generated viewer.html reflects real data.
-_CANONICAL = Path("/root/psycology") if Path("/root/psycology/SOURCE_OF_TRUTH/wa_messages/tier1_deep").exists() else REPO_ROOT
+_CANONICAL = (
+    Path("/root/psycology")
+    if Path("/root/psycology/SOURCE_OF_TRUTH/wa_messages/tier1_deep").exists()
+    else REPO_ROOT
+)
 MSG_BASE = _CANONICAL / "SOURCE_OF_TRUTH" / "wa_messages"
 ANALYSIS_DIR = REPO_ROOT / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS"
 TRANSCRIPT_BASE = _CANONICAL / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
@@ -30,11 +33,11 @@ NAMED_PICKLE = Path("/tmp/psycology_named_v2.pkl")
 
 # Pick one chat per tier — focus on closest, audio-rich chats
 TIER_PICKS = {
-    "tier1_deep": "magali_carreras",        # 595981225272
+    "tier1_deep": "magali_carreras",  # 595981225272
     "tier1_deep_2": "07__kiki_hermana___wa_chat_595985724135_111",  # kiki
-    "tier2_core": "18__luana_weiss___wa_chat_595985725366_99",      # luana
+    "tier2_core": "18__luana_weiss___wa_chat_595985725366_99",  # luana
     "tier2_core_2": "jonathan_verdun___wa_chat_595971922708_3654",  # jonatan
-    "tier3_extended": "094__p0156___wa_chat_595983380156_3701",     # any with audio
+    "tier3_extended": "094__p0156___wa_chat_595983380156_3701",  # any with audio
 }
 
 # Recent N messages to include per chat
@@ -54,6 +57,7 @@ def find_chat_dir(tier: str, hint: str) -> Path | None:
 
 def load_named() -> dict:
     import pickle
+
     if not NAMED_PICKLE.exists():
         return {}
     return pickle.load(open(NAMED_PICKLE, "rb"))
@@ -69,7 +73,9 @@ def load_chat_messages(chat_dir: Path) -> tuple[dict, list]:
     return meta, meta.get("messages", [])
 
 
-def find_audio_transcript(opus_filename: str, chat_slug: str, contact_name: str | None = None) -> dict | None:
+def find_audio_transcript(
+    opus_filename: str, chat_slug: str, contact_name: str | None = None
+) -> dict | None:
     """Find the transcript entry for an opus file (if any).
 
     Tries per-chat transcripts.json first, then per-contact transcripts,
@@ -84,7 +90,7 @@ def find_audio_transcript(opus_filename: str, chat_slug: str, contact_name: str 
     ]
     if contact_name:
         # Also try sanitized contact name
-        sanitized = re.sub(r'[^A-Za-z0-9_]+', '_', contact_name).strip('_')
+        sanitized = re.sub(r"[^A-Za-z0-9_]+", "_", contact_name).strip("_")
         candidates.append(TRANSCRIPT_BASE / sanitized / "transcripts.json")
         # Try exact case
         candidates.append(TRANSCRIPT_BASE / contact_name / "transcripts.json")
@@ -188,23 +194,27 @@ def serialize_chat(chat_dir: Path, named: dict) -> dict:
                 opus_filename = None
         if opus_filename:
             transcript = find_audio_transcript(opus_filename, chat_id_dir, name)
-        body_msgs.append({
-            "key_id": m.get("key_id"),
-            "ts_ms": m.get("ts_ms", 0),
-            "ts_iso": m.get("ts_iso", ""),
-            "from_me": m.get("from_me", False),
-            "type": m.get("type", 0),
-            "text": m.get("text") or "",
-            "media_path": media.get("path"),
-            "media_mime": media.get("mime"),
-            "duration_s": media.get("duration_s", 0),
-            "opus_filename": opus_filename,
-            "audio_url": chat_audio_path(opus_filename, chat_id_dir) if opus_filename else None,
-            "transcript_text": (transcript or {}).get("text", "") if transcript else None,
-            "transcript_segments": (transcript or {}).get("segments", []) if transcript else None,
-            "transcript_lang": (transcript or {}).get("language") if transcript else None,
-            "starred": m.get("starred", False),
-        })
+        body_msgs.append(
+            {
+                "key_id": m.get("key_id"),
+                "ts_ms": m.get("ts_ms", 0),
+                "ts_iso": m.get("ts_iso", ""),
+                "from_me": m.get("from_me", False),
+                "type": m.get("type", 0),
+                "text": m.get("text") or "",
+                "media_path": media.get("path"),
+                "media_mime": media.get("mime"),
+                "duration_s": media.get("duration_s", 0),
+                "opus_filename": opus_filename,
+                "audio_url": chat_audio_path(opus_filename, chat_id_dir) if opus_filename else None,
+                "transcript_text": (transcript or {}).get("text", "") if transcript else None,
+                "transcript_segments": (
+                    (transcript or {}).get("segments", []) if transcript else None
+                ),
+                "transcript_lang": (transcript or {}).get("language") if transcript else None,
+                "starred": m.get("starred", False),
+            }
+        )
 
     body_msgs.sort(key=lambda b: b["ts_ms"])
 
@@ -541,9 +551,17 @@ def main():
         ("tier1_deep", "magali_carreras___wa_chat_595981225272_62", "Magali Carreras"),
         ("tier1_deep", "mom_sonia_weiss___wa_chat_595982515138_64", "Sonia Weiss (Mom)"),
         ("tier1_deep", "sister_kyrian_kiki___wa_chat_595985724135_111", "Kyrian 'Kiki' (sister)"),
-        ("tier2_core", "dad_john_van_der_pol___wa_chat_595986138387_1265", "John van der Pol (Dad)"),
+        (
+            "tier2_core",
+            "dad_john_van_der_pol___wa_chat_595986138387_1265",
+            "John van der Pol (Dad)",
+        ),
         ("tier2_core", "sister_luana_weiss___wa_chat_595985725366_99", "Luana Weiss (sister)"),
-        ("tier3_extended", "grandma_riet_van_der_pol___wa_chat_31612495139_98", "Riet van der Pol (Grandma)"),
+        (
+            "tier3_extended",
+            "grandma_riet_van_der_pol___wa_chat_31612495139_98",
+            "Riet van der Pol (Grandma)",
+        ),
         # Tier3 — pick one with audio
         ("tier3_extended", None, None),  # search needed
     ]
@@ -560,13 +578,16 @@ def main():
             tier_dir = MSG_BASE / tier
             if tier_dir.exists():
                 candidates = [d for d in tier_dir.iterdir() if (d / "messages.json").exists()]
+
                 # Sort by audio count, take first with >5 audio
                 def audio_count(d):
                     try:
                         data = json.loads((d / "messages.json").read_text())
                         msgs = data.get("messages", [])
                         return sum(1 for m in msgs if isinstance(m, dict) and m.get("type") == 2)
-                    except: return 0
+                    except:
+                        return 0
+
                 candidates.sort(key=audio_count, reverse=True)
                 for c in candidates:
                     if audio_count(c) >= 30:
@@ -585,8 +606,10 @@ def main():
         with_tr = [m for m in audio_msgs if m["transcript_text"]]
         data_count["audio_total"] += len(audio_msgs)
         data_count["audio_with_tr"] += len(with_tr)
-        print(f"  ✅ {c['tier']}/{c['chat_id'][:60]} → {c['contact_name']}: "
-              f"{len(c['messages'])} msgs, {len(audio_msgs)} audio, {len(with_tr)} transcribed")
+        print(
+            f"  ✅ {c['tier']}/{c['chat_id'][:60]} → {c['contact_name']}: "
+            f"{len(c['messages'])} msgs, {len(audio_msgs)} audio, {len(with_tr)} transcribed"
+        )
 
     payload["transcripts_available"] = data_count["audio_with_tr"]
     payload["transcripts_missing"] = data_count["audio_total"] - data_count["audio_with_tr"]
@@ -599,8 +622,10 @@ def main():
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(html, encoding="utf-8")
     print(f"\nWrote {out.relative_to(REPO_ROOT)} ({out.stat().st_size:,} bytes)")
-    print(f"Total: 5 chats, {data_count['audio_total']} audio msgs, "
-          f"{data_count['audio_with_tr']} already transcribed")
+    print(
+        f"Total: 5 chats, {data_count['audio_total']} audio msgs, "
+        f"{data_count['audio_with_tr']} already transcribed"
+    )
 
 
 if __name__ == "__main__":

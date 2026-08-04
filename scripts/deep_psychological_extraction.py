@@ -226,9 +226,7 @@ def is_quality_transcript(text: str, min_words: int = 10) -> bool:
     return True
 
 
-def extract_context(
-    text: str, match_start: int, match_end: int, context_chars: int = 150
-) -> str:
+def extract_context(text: str, match_start: int, match_end: int, context_chars: int = 150) -> str:
     """Extract context around a match."""
     start = max(0, match_start - context_chars)
     end = min(len(text), match_end + context_chars)
@@ -321,9 +319,7 @@ def generate_comprehensive_report(all_results: dict) -> str:
     ]
 
     for chat_name, results in sorted(all_results.items()):
-        key_cats = [
-            cat for cat, findings in results["findings"].items() if len(findings) >= 3
-        ][:3]
+        key_cats = [cat for cat, findings in results["findings"].items() if len(findings) >= 3][:3]
         key_cats_str = ", ".join(key_cats) if key_cats else "none"
         lines.append(
             f"| {chat_name} | {results['total_files']} | {results['quality_files']} | {key_cats_str} |"
@@ -353,9 +349,7 @@ def generate_comprehensive_report(all_results: dict) -> str:
             if len(findings) < 2:  # Skip categories with too few findings
                 continue
 
-            lines.append(
-                f"### {category.replace('_', ' ').title()} ({len(findings)} occurrences)"
-            )
+            lines.append(f"### {category.replace('_', ' ').title()} ({len(findings)} occurrences)")
             lines.append("")
 
             # Show top 5 examples for each category
@@ -410,9 +404,7 @@ def main():
 
         # Print summary
         total_findings = sum(len(f) for f in results["findings"].values())
-        print(
-            f"    -> {results['quality_files']} quality transcripts, {total_findings} findings"
-        )
+        print(f"    -> {results['quality_files']} quality transcripts, {total_findings} findings")
 
     print()
     print("Generating comprehensive report...")

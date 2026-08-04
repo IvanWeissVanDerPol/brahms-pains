@@ -14,6 +14,7 @@ Slug rules (deterministic, safe for filesystems):
   s.whatsapp.net  -> _wa_chat_<phone>_<chat_id>
   broadcast/lid   -> _wa_other_<jid-slug>_<chat_id>
 """
+
 from __future__ import annotations
 
 import json
@@ -43,7 +44,9 @@ def iso(ts_ms: int | None) -> str | None:
     return datetime.fromtimestamp(ts_ms / 1000, tz=timezone.utc).isoformat()
 
 
-def chat_slug(chat_id: int, subject: str | None, jid_user: str | None, jid_server: str | None) -> str:
+def chat_slug(
+    chat_id: int, subject: str | None, jid_user: str | None, jid_server: str | None
+) -> str:
     if jid_server == "g.us":
         base = f"_wa_group_{slugify(subject or 'no_subject')}"
     elif jid_server == "s.whatsapp.net":
@@ -113,14 +116,17 @@ def main() -> int:
             slug = f"{slug}_dup{cid}"
         dup_check[slug] = cid
 
-        rows = con.execute("""
+        rows = con.execute(
+            """
             SELECT _id, timestamp, received_timestamp, from_me, sender_jid_row_id,
                    message_type, text_data, key_id, starred
             FROM message
             WHERE chat_row_id = ?
               AND message_type IN (0, 1, 2, 3)
             ORDER BY sort_id, _id
-        """, (cid,)).fetchall()
+        """,
+            (cid,),
+        ).fetchall()
 
         out_rows = []
         for r in rows:

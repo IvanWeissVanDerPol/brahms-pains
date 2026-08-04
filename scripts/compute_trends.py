@@ -9,10 +9,10 @@ For each contact, compute:
 
 Output: trends.json
 """
+
 from __future__ import annotations
 
 import json
-import re
 from collections import defaultdict
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -36,19 +36,19 @@ def analyze_trends(chat_dir: Path) -> dict:
     msgs = [m for m in data.get("messages", []) if isinstance(m, dict) and m.get("ts_iso")]
     if not msgs:
         return {}
-    
+
     # Monthly counts (last 24 months)
     monthly = defaultdict(int)
     for m in msgs:
         ym = m["ts_iso"][:7]  # YYYY-MM
         monthly[ym] += 1
-    
+
     # Recent windows
     # start_days_ago: how many days back the window STARTS
     # end_days_ago: how many days back the window ENDS (0 = today)
     def count_in_window(start_days_ago, end_days_ago=0):
         window_start = TODAY - timedelta(days=start_days_ago)  # older
-        window_end = TODAY - timedelta(days=end_days_ago)       # newer
+        window_end = TODAY - timedelta(days=end_days_ago)  # newer
         n = 0
         for m in msgs:
             try:
@@ -58,18 +58,18 @@ def analyze_trends(chat_dir: Path) -> dict:
             except Exception:
                 pass
         return n
-    
+
     # Last 30 days: 30 days ago to today
     last_30 = count_in_window(30, 0)
     # Previous 30 days: 60 days ago to 30 days ago
     prev_30 = count_in_window(60, 30)
     # Previous 60 days: 120 days ago to 60 days ago
     prev_60 = count_in_window(120, 60)
-    
+
     # Year-over-year comparison
     this_year = sum(1 for m in msgs if m["ts_iso"][:4] == "2026")
     last_year = sum(1 for m in msgs if m["ts_iso"][:4] == "2025")
-    
+
     # Trend direction: compare last 30 vs prev 30
     if prev_30 == 0 and last_30 > 0:
         trend = "NEW"  # Just started
@@ -85,22 +85,22 @@ def analyze_trends(chat_dir: Path) -> dict:
         trend = "COOLING"
     else:
         trend = "STABLE"
-    
+
     # Change ratio
     change_ratio = last_30 / max(1, prev_30)
-    
+
     # Days since last message
     try:
         last_dt = datetime.fromisoformat(msgs[-1]["ts_iso"][:19])
         days_since = (TODAY - last_dt).days
     except Exception:
         days_since = 9999
-    
+
     # Months sorted list
     months_sorted = sorted(monthly.items())
     # Last 12 months
     last_12 = months_sorted[-12:] if len(months_sorted) >= 12 else months_sorted
-    
+
     return {
         "monthly": dict(last_12),
         "last_30": last_30,
@@ -117,7 +117,7 @@ def analyze_trends(chat_dir: Path) -> dict:
 def main():
     data = json.loads((ANALYSIS / "viewer_full_data.json").read_text())
     contacts = data["vcard_contacts"]
-    
+
     print(f"Analyzing trends for {len(contacts)} contacts...")
     trends = []
     for c in contacts:
@@ -125,22 +125,33 @@ def main():
         t = analyze_trends(chat_dir)
         if not t:
             continue
-        trends.append({
-            "jid": c["jid"],
-            "name": c["name"],
-            "tier": c["tier"],
-            "total_msgs": c["total"],
-            **t,
-        })
-    
+        trends.append(
+            {
+                "jid": c["jid"],
+                "name": c["name"],
+                "tier": c["tier"],
+                "total_msgs": c["total"],
+                **t,
+            }
+        )
+
     # Sort by trend priority (NEW/RISING first)
-    TREND_ORDER = {"NEW": 0, "RISING": 1, "GROWING": 2, "STABLE": 3, "COOLING": 4, "FALLING": 5, "DORMANT": 6}
+    TREND_ORDER = {
+        "NEW": 0,
+        "RISING": 1,
+        "GROWING": 2,
+        "STABLE": 3,
+        "COOLING": 4,
+        "FALLING": 5,
+        "DORMANT": 6,
+    }
     trends.sort(key=lambda c: (TREND_ORDER.get(c["trend"], 99), -c["last_30"]))
-    
+
     # Counts
     from collections import Counter
+
     trend_counts = Counter(t["trend"] for t in trends)
-    
+
     # Save
     out = {
         "generated_at": datetime.now().isoformat(),
@@ -159,12 +170,16 @@ def main():
     print("=== Top 20 RISING/NEW (gaining engagement) ===")
     rising = [t for t in trends if t["trend"] in ("NEW", "RISING", "GROWING")][:20]
     for t in rising:
-        print(f"  {t['trend']:<8}  {t['last_30']:>3} last30 / {t['prev_30']:>3} prev30 ({t['change_ratio']}x)  {t['name'][:30]}")
+        print(
+            f"  {t['trend']:<8}  {t['last_30']:>3} last30 / {t['prev_30']:>3} prev30 ({t['change_ratio']}x)  {t['name'][:30]}"
+        )
     print()
     print("=== Top 20 FALLING/COOLING (losing engagement) ===")
     falling = [t for t in trends if t["trend"] in ("FALLING", "COOLING") and t["prev_30"] > 0][:20]
     for t in falling[:20]:
-        print(f"  {t['trend']:<8}  {t['last_30']:>3} last30 / {t['prev_30']:>3} prev30 ({t['change_ratio']}x)  {t['name'][:30]}")
+        print(
+            f"  {t['trend']:<8}  {t['last_30']:>3} last30 / {t['prev_30']:>3} prev30 ({t['change_ratio']}x)  {t['name'][:30]}"
+        )
 
 
 if __name__ == "__main__":

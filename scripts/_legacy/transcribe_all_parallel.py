@@ -72,10 +72,7 @@ def main():
     completed = 0
 
     with ProcessPoolExecutor(max_workers=args.max_workers) as executor:
-        futures = {
-            executor.submit(run_transcription, name, args.model): name
-            for name, _ in chats
-        }
+        futures = {executor.submit(run_transcription, name, args.model): name for name, _ in chats}
 
         for future in as_completed(futures):
             chat_name = futures[future]
@@ -93,9 +90,7 @@ def main():
 
             completed += 1
             elapsed = time.time() - start_time
-            print(
-                f"\nProgress: {completed}/{len(chats)} chats | Elapsed: {elapsed / 60:.1f}m"
-            )
+            print(f"\nProgress: {completed}/{len(chats)} chats | Elapsed: {elapsed / 60:.1f}m")
 
     print(f"\n{'=' * 60}")
     print(f"ALL DONE in {(time.time() - start_time) / 60:.1f} minutes")

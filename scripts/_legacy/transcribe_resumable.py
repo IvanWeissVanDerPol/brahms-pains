@@ -59,9 +59,7 @@ def save_progress(chat_name: str, results: dict):
     success = sum(1 for r in items if r.get("success"))
     with open(out_dir / "transcripts.md", "w", encoding="utf-8") as f:
         f.write(f"# Voice Notes: {chat_name}\n\n")
-        f.write(
-            f"> {success}/{len(items)} successful | {datetime.now():%Y-%m-%d %H:%M}\n\n---\n\n"
-        )
+        f.write(f"> {success}/{len(items)} successful | {datetime.now():%Y-%m-%d %H:%M}\n\n---\n\n")
         for date in sorted(by_date):
             f.write(f"## {date}\n\n")
             for r in sorted(by_date[date], key=lambda x: x["file"]):

@@ -14,6 +14,7 @@ Score = 0-100, weighted by:
 
 Output: relationships_dashboard.json + relationships_dashboard.html
 """
+
 from __future__ import annotations
 
 import json
@@ -78,8 +79,12 @@ def analyze_for_scoring(chat_dir: Path) -> dict:
         except Exception:
             pass
 
-    avg_ivan_reply = sum(response_times_ivan) / len(response_times_ivan) if response_times_ivan else 0
-    avg_them_reply = sum(response_times_them) / len(response_times_them) if response_times_them else 0
+    avg_ivan_reply = (
+        sum(response_times_ivan) / len(response_times_ivan) if response_times_ivan else 0
+    )
+    avg_them_reply = (
+        sum(response_times_them) / len(response_times_them) if response_times_them else 0
+    )
 
     # Audio count
     audio_count = sum(1 for m in msgs if m.get("type") == 2)
@@ -89,7 +94,8 @@ def analyze_for_scoring(chat_dir: Path) -> dict:
     daily = set()
     for m in msgs:
         d = m.get("ts_iso", "")[:10]
-        if d: daily.add(d)
+        if d:
+            daily.add(d)
     sorted_days = sorted(daily)
     longest_streak = 0
     cur = 0
@@ -126,19 +132,25 @@ terrible fatal feo fea asco dolor problema problemas angry sad tired hate upset"
         is_ivan = m.get("from_me")
         for w in text.split():
             if w in POS:
-                if is_ivan: pos_i += 1
-                else: pos_t += 1
+                if is_ivan:
+                    pos_i += 1
+                else:
+                    pos_t += 1
             elif w in NEG:
-                if is_ivan: neg_i += 1
-                else: neg_t += 1
+                if is_ivan:
+                    neg_i += 1
+                else:
+                    neg_t += 1
     s_i = (pos_i - neg_i) / max(1, pos_i + neg_i)
     s_t = (pos_t - neg_t) / max(1, pos_t + neg_t)
-    
+
     # Emoji density
     emoji_count = 0
     for m in msgs:
         if m.get("text"):
-            emoji_count += len(re.findall(r'[\U0001F300-\U0001F9FF\U00002600-\U000027BF]', m["text"]))
+            emoji_count += len(
+                re.findall(r"[\U0001F300-\U0001F9FF\U00002600-\U000027BF]", m["text"])
+            )
     emoji_density = emoji_count / total if total else 0
 
     return {
@@ -159,7 +171,7 @@ terrible fatal feo fea asco dolor problema problemas angry sad tired hate upset"
 
 def score_relationship(stats: dict) -> dict:
     """Compute 0-100 score with sub-scores per dimension.
-    
+
     Weights:
       - Volume (msg count)         15%
       - Recency (days since last)  15%
@@ -176,30 +188,37 @@ def score_relationship(stats: dict) -> dict:
         return {"score": 0, "breakdown": {}}
 
     breakdown = {}
-    
+
     # Volume: log-scaled (1 msg = 0, 1k = 30, 10k = 50, 50k = 65, 200k+ = 75)
     n = stats.get("total", 0)
     vol = min(75, 15 * math.log10(max(1, n)))
     breakdown["volume"] = round(vol, 1)
-    
+
     # Recency: 0-100, full score if active in last 7 days
     days = stats.get("days_since_last", 9999)
-    if days <= 1: recency = 100
-    elif days <= 7: recency = 90
-    elif days <= 30: recency = 70
-    elif days <= 90: recency = 50
-    elif days <= 180: recency = 30
-    elif days <= 365: recency = 15
-    else: recency = 5
+    if days <= 1:
+        recency = 100
+    elif days <= 7:
+        recency = 90
+    elif days <= 30:
+        recency = 70
+    elif days <= 90:
+        recency = 50
+    elif days <= 180:
+        recency = 30
+    elif days <= 365:
+        recency = 15
+    else:
+        recency = 5
     breakdown["recency"] = recency
-    
+
     # Reciprocity: how balanced Ivan↔them (0.5 = perfect balance, 0 or 1 = one-sided)
     total = stats.get("total", 1)
     ivan_ratio = stats.get("ivan_total", 0) / total
     balance = 1 - 2 * abs(ivan_ratio - 0.5)  # 1 = perfect, 0 = one-sided
     reciprocity = 100 * balance
     breakdown["reciprocity"] = round(reciprocity, 1)
-    
+
     # Response latency: faster = more engaged
     # Combine both sides (geometric mean)
     ivan_r = stats.get("avg_ivan_reply", 0)
@@ -207,12 +226,18 @@ def score_relationship(stats: dict) -> dict:
     if ivan_r > 0 and them_r > 0:
         # 60s = 100, 5min = 90, 30min = 70, 2h = 50, 12h = 25, 24h+ = 5
         def r_score(s):
-            if s <= 30: return 100
-            if s <= 300: return 90
-            if s <= 1800: return 70
-            if s <= 7200: return 50
-            if s <= 43200: return 25
+            if s <= 30:
+                return 100
+            if s <= 300:
+                return 90
+            if s <= 1800:
+                return 70
+            if s <= 7200:
+                return 50
+            if s <= 43200:
+                return 25
             return 5
+
         avg_r = (ivan_r + them_r) / 2
         latency = r_score(avg_r)
     elif ivan_r > 0 or them_r > 0:
@@ -220,64 +245,92 @@ def score_relationship(stats: dict) -> dict:
     else:
         latency = 0
     breakdown["latency"] = latency
-    
+
     # Streak intensity: long streaks = high engagement
     streak = stats.get("longest_streak", 0)
-    if streak <= 1: streak_score = 5
-    elif streak <= 7: streak_score = 30
-    elif streak <= 30: streak_score = 60
-    elif streak <= 90: streak_score = 80
-    else: streak_score = 100
+    if streak <= 1:
+        streak_score = 5
+    elif streak <= 7:
+        streak_score = 30
+    elif streak <= 30:
+        streak_score = 60
+    elif streak <= 90:
+        streak_score = 80
+    else:
+        streak_score = 100
     breakdown["streak"] = streak_score
-    
+
     # Longevity: years of contact
     span = stats.get("span_days", 0)
     years = span / 365
-    if years < 0.1: longevity = 5
-    elif years < 0.5: longevity = 30
-    elif years < 1: longevity = 60
-    elif years < 2: longevity = 80
-    elif years < 4: longevity = 95
-    else: longevity = 100
+    if years < 0.1:
+        longevity = 5
+    elif years < 0.5:
+        longevity = 30
+    elif years < 1:
+        longevity = 60
+    elif years < 2:
+        longevity = 80
+    elif years < 4:
+        longevity = 95
+    else:
+        longevity = 100
     breakdown["longevity"] = longevity
-    
+
     # Audio intimacy
     audio = stats.get("audio_ratio", 0)
-    if audio == 0: audio_score = 0
-    elif audio < 0.05: audio_score = 30
-    elif audio < 0.10: audio_score = 60
-    elif audio < 0.20: audio_score = 80
-    elif audio < 0.40: audio_score = 95
-    else: audio_score = 100
+    if audio == 0:
+        audio_score = 0
+    elif audio < 0.05:
+        audio_score = 30
+    elif audio < 0.10:
+        audio_score = 60
+    elif audio < 0.20:
+        audio_score = 80
+    elif audio < 0.40:
+        audio_score = 95
+    else:
+        audio_score = 100
     breakdown["audio"] = audio_score
-    
+
     # Emoji warmth
     emoji_d = stats.get("emoji_density", 0)
-    if emoji_d == 0: emoji_score = 0
-    elif emoji_d < 0.05: emoji_score = 20
-    elif emoji_d < 0.15: emoji_score = 50
-    elif emoji_d < 0.30: emoji_score = 75
-    elif emoji_d < 0.50: emoji_score = 90
-    else: emoji_score = 100
+    if emoji_d == 0:
+        emoji_score = 0
+    elif emoji_d < 0.05:
+        emoji_score = 20
+    elif emoji_d < 0.15:
+        emoji_score = 50
+    elif emoji_d < 0.30:
+        emoji_score = 75
+    elif emoji_d < 0.50:
+        emoji_score = 90
+    else:
+        emoji_score = 100
     breakdown["emoji"] = emoji_score
-    
+
     # Sentiment: avg of both sides, shifted to 0-100
     s_i = stats.get("sentiment_ivan", 0)
     s_t = stats.get("sentiment_them", 0)
     avg_sent = (s_i + s_t) / 2  # -1 to 1
     sentiment = 50 + 50 * avg_sent  # 0 to 100
     breakdown["sentiment"] = round(sentiment, 1)
-    
+
     # Span activity: msgs per day (density of contact)
     span = stats.get("span_days", 1) or 1
     msgs_per_day = n / span
-    if msgs_per_day < 0.1: activity = 5
-    elif msgs_per_day < 0.5: activity = 30
-    elif msgs_per_day < 2: activity = 60
-    elif msgs_per_day < 10: activity = 85
-    else: activity = 100
+    if msgs_per_day < 0.1:
+        activity = 5
+    elif msgs_per_day < 0.5:
+        activity = 30
+    elif msgs_per_day < 2:
+        activity = 60
+    elif msgs_per_day < 10:
+        activity = 85
+    else:
+        activity = 100
     breakdown["activity"] = activity
-    
+
     # Weighted total
     weights = {
         "volume": 0.15,
@@ -292,15 +345,21 @@ def score_relationship(stats: dict) -> dict:
         "activity": 0.05,
     }
     score = sum(breakdown[k] * weights[k] for k in breakdown)
-    
+
     # Tier
-    if score >= 80: tier = "INTIMATE"  # BFF, family, romantic
-    elif score >= 65: tier = "CLOSE"   # Best friends, mentors
-    elif score >= 50: tier = "ACTIVE"  # Regular friends
-    elif score >= 35: tier = "WARM"    # Occasional
-    elif score >= 20: tier = "DORMANT" # Inactive
-    else: tier = "COLD"
-    
+    if score >= 80:
+        tier = "INTIMATE"  # BFF, family, romantic
+    elif score >= 65:
+        tier = "CLOSE"  # Best friends, mentors
+    elif score >= 50:
+        tier = "ACTIVE"  # Regular friends
+    elif score >= 35:
+        tier = "WARM"  # Occasional
+    elif score >= 20:
+        tier = "DORMANT"  # Inactive
+    else:
+        tier = "COLD"
+
     return {
         "score": round(score, 1),
         "tier": tier,
@@ -320,28 +379,36 @@ def main():
         if not stats:
             continue
         score = score_relationship(stats)
-        scored.append({
-            "jid": c["jid"],
-            "name": c["name"],
-            "tier": c["tier"],
-            "total_msgs": c["total"],
-            "stats": stats,
-            **score,
-        })
+        scored.append(
+            {
+                "jid": c["jid"],
+                "name": c["name"],
+                "tier": c["tier"],
+                "total_msgs": c["total"],
+                "stats": stats,
+                **score,
+            }
+        )
 
     # Sort by score
     scored.sort(key=lambda x: -x["score"])
-    
+
     # Tier distribution
     tier_counts = Counter(c["tier"] for c in scored)
-    
+
     # Save
     out = {
         "generated_at": datetime.now().isoformat(),
         "weights": {
-            "volume": 0.15, "recency": 0.15, "reciprocity": 0.10,
-            "latency": 0.10, "streak": 0.10, "longevity": 0.10,
-            "audio": 0.08, "emoji": 0.05, "sentiment": 0.12,
+            "volume": 0.15,
+            "recency": 0.15,
+            "reciprocity": 0.10,
+            "latency": 0.10,
+            "streak": 0.10,
+            "longevity": 0.10,
+            "audio": 0.08,
+            "emoji": 0.05,
+            "sentiment": 0.12,
             "activity": 0.05,
         },
         "tier_counts": dict(tier_counts),
@@ -353,7 +420,9 @@ def main():
     print()
     print("=== Top 20 relationships by score ===")
     for c in scored[:20]:
-        print(f"  {c['score']:>5.1f}  {c['tier']:<8}  {c['name'][:30]:<30}  ({c['total_msgs']:>6,} msgs, last {c['stats']['days_since_last']}d)")
+        print(
+            f"  {c['score']:>5.1f}  {c['tier']:<8}  {c['name'][:30]:<30}  ({c['total_msgs']:>6,} msgs, last {c['stats']['days_since_last']}d)"
+        )
     print()
     print("=== Tier distribution ===")
     for tier, n in sorted(tier_counts.items(), key=lambda x: -x[1]):

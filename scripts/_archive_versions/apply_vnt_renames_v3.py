@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Apply v4 renames with strict quality filter."""
+
 from __future__ import annotations
 
 import json
@@ -12,20 +13,24 @@ VNT = REPO / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 
 
 def safe_name(name: str) -> str:
-    if not name: return ""
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    if not name:
+        return ""
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
 def is_clean(name: str) -> bool:
-    if not name or len(name) < 3 or len(name) > 25: return False
-    if "=" in name: return False
-    if re.match(r'^[0-9A-F=]+$', name.replace("_", "")): return False
+    if not name or len(name) < 3 or len(name) > 25:
+        return False
+    if "=" in name:
+        return False
+    if re.match(r"^[0-9A-F=]+$", name.replace("_", "")):
+        return False
     # Truncation indicators
     if name.endswith("_D") or name.endswith("_I") or name.endswith("_Y") or name.endswith("_M"):
         return False
-    if re.search(r'_[A-Z]_[A-Z]?_?$', name):
+    if re.search(r"_[A-Z]_[A-Z]?_?$", name):
         return False
     # Multi-word descriptions (likely sentences)
     if name.count("_") > 3:
@@ -34,14 +39,20 @@ def is_clean(name: str) -> bool:
 
 
 def main():
-    vcard = json.loads((REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/viewer_full_data.json").read_text())
-    jid_to_name = {c["jid"]: c["name"] for c in vcard["vcard_contacts"] if c.get("jid") and c.get("name")}
+    vcard = json.loads(
+        (REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/viewer_full_data.json").read_text()
+    )
+    jid_to_name = {
+        c["jid"]: c["name"] for c in vcard["vcard_contacts"] if c.get("jid") and c.get("name")
+    }
 
     vnt_remaining = []
     for d in VNT.iterdir():
-        if not d.is_dir(): continue
-        if d.name.startswith("_"): continue
-        m = re.match(r'^(chat|lid|group)_(\d{10,15})_\d+', d.name)
+        if not d.is_dir():
+            continue
+        if d.name.startswith("_"):
+            continue
+        m = re.match(r"^(chat|lid|group)_(\d{10,15})_\d+", d.name)
         if m:
             vnt_remaining.append((d.name, m.group(2)))
 
@@ -57,32 +68,38 @@ def main():
         # Check if name detection is possible
         # Just check if there's a clean name in the file name or messages
         vnt_dir = VNT / folder
-        if not vnt_dir.exists(): continue
+        if not vnt_dir.exists():
+            continue
         tf = vnt_dir / "transcripts.json"
-        if not tf.exists(): continue
+        if not tf.exists():
+            continue
 
         # Look for the simplest "soy X" with short name
         try:
             data = json.loads(tf.read_text())
-        except: continue
-        if not isinstance(data, list): continue
+        except:
+            continue
+        if not isinstance(data, list):
+            continue
 
         canonical = None
         for entry in data[:20]:
-            if not isinstance(entry, dict): continue
+            if not isinstance(entry, dict):
+                continue
             text = entry.get("text", "")
-            if not text: continue
+            if not text:
+                continue
             text_low = text.lower()
 
             # Look for "soy X" where X is 1-2 words
-            m = re.search(r'\bsoy ([a-záéíóúñ]{2,20})\b', text_low)
+            m = re.search(r"\bsoy ([a-záéíóúñ]{2,20})\b", text_low)
             if m:
                 candidate = m.group(1).strip().title()
                 if is_clean(candidate):
                     canonical = candidate
                     break
             # Also "me llamo X"
-            m = re.search(r'\bme llamo ([a-záéíóúñ]{2,20})\b', text_low)
+            m = re.search(r"\bme llamo ([a-záéíóúñ]{2,20})\b", text_low)
             if m:
                 candidate = m.group(1).strip().title()
                 if is_clean(candidate):
@@ -107,7 +124,7 @@ def main():
         print(f"  RENAMED: {folder} -> {safe}  ({canonical})")
         applied += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Applied: {applied}")
     print(f"  Skipped: {skipped}")
 

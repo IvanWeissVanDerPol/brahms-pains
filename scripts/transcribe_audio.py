@@ -35,6 +35,7 @@ Backend cost (per minute of audio):
     openai-cloud  $0.006/min  $0.36/hr of audio
     faster-whisper on CPU  $0 (you pay compute time)
 """
+
 from __future__ import annotations
 
 import argparse
@@ -46,11 +47,10 @@ import shutil
 import subprocess
 import sys
 import time
-from collections import Counter
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Callable, Iterable, Optional
+from typing import Callable, Optional
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Paths
@@ -125,8 +125,7 @@ def _openai_backend() -> Backend:
             "language": resp.language,
             "duration": getattr(resp, "duration", 0),
             "segments": [
-                {"start": s.start, "end": s.end, "text": s.text}
-                for s in (resp.segments or [])
+                {"start": s.start, "end": s.end, "text": s.text} for s in (resp.segments or [])
             ],
         }
 
@@ -146,9 +145,7 @@ def _faster_backend(model: str, cpu_threads: int = 4) -> Backend:
             "language": info.language,
             "language_probability": info.language_probability,
             "duration": info.duration,
-            "segments": [
-                {"start": s.start, "end": s.end, "text": s.text} for s in segments
-            ],
+            "segments": [{"start": s.start, "end": s.end, "text": s.text} for s in segments],
         }
 
     return Backend(name=f"faster-whisper({model})", transcribe_fn=_transcribe)
@@ -184,9 +181,17 @@ def _whisper_cpp_backend(model: str) -> Backend:
 
     def _transcribe(opus: Path) -> dict:
         out = subprocess.run(
-            [binary, "--model", str(model_path), "--file", str(opus),
-             "--output-json", "--no-prints"],
-            capture_output=True, text=True
+            [
+                binary,
+                "--model",
+                str(model_path),
+                "--file",
+                str(opus),
+                "--output-json",
+                "--no-prints",
+            ],
+            capture_output=True,
+            text=True,
         )
         if out.returncode != 0:
             raise RuntimeError(out.stderr)
@@ -228,7 +233,7 @@ def human_dir_for(audio_dirname: str) -> Path:
     """
     name = audio_dirname
     if name.startswith("_wa_"):
-        name = name[len("_wa_"):]  # remove leading _wa_
+        name = name[len("_wa_") :]  # remove leading _wa_
     return TRANSCRIPT_DIR / name
 
 
@@ -281,15 +286,17 @@ def write_outputs(opus: Path, info: dict) -> tuple[Path, Path]:
     else:
         arr = []
 
-    arr.append({
-        "file": opus.name,
-        "language": info.get("language"),
-        "language_probability": info.get("language_probability"),
-        "duration": info.get("duration"),
-        "transcribed_at": datetime.now(timezone.utc).isoformat(),
-        "segments": info.get("segments", []),
-        "text": info.get("text", ""),
-    })
+    arr.append(
+        {
+            "file": opus.name,
+            "language": info.get("language"),
+            "language_probability": info.get("language_probability"),
+            "duration": info.get("duration"),
+            "transcribed_at": datetime.now(timezone.utc).isoformat(),
+            "segments": info.get("segments", []),
+            "text": info.get("text", ""),
+        }
+    )
     jsn.write_text(json.dumps(arr, ensure_ascii=False, indent=1), encoding="utf-8")
     return txt, jsn
 
@@ -427,16 +434,30 @@ def transcribe_one(opus: Path, backend: Backend, retry: int = 1) -> tuple[bool, 
 
 
 def main() -> int:
-    p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    p = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
     p.add_argument("--workers", type=int, default=4, help="Parallel workers (default 4)")
     p.add_argument("--limit", type=int, default=None, help="Stop after N files")
     p.add_argument("--dry-run", action="store_true", help="Just list what would happen")
     p.add_argument("--smoke-test", action="store_true", help="Run on first 5 files end-to-end")
     p.add_argument("--ptt-id", type=str, default=None, help="Transcribe a single PTT by ID")
-    p.add_argument("--model", type=str, default="medium", help="Whisper model (tiny/base/small/medium/large-v3)")
-    p.add_argument("--backend", type=str, default=None, choices=["openai", "faster", "openai-whisper", "whisper-cpp"],
-                   help="Force backend (default: auto-detect)")
-    p.add_argument("--cpu-threads", type=int, default=4, help="CPU threads for faster-whisper (default 4)")
+    p.add_argument(
+        "--model",
+        type=str,
+        default="medium",
+        help="Whisper model (tiny/base/small/medium/large-v3)",
+    )
+    p.add_argument(
+        "--backend",
+        type=str,
+        default=None,
+        choices=["openai", "faster", "openai-whisper", "whisper-cpp"],
+        help="Force backend (default: auto-detect)",
+    )
+    p.add_argument(
+        "--cpu-threads", type=int, default=4, help="CPU threads for faster-whisper (default 4)"
+    )
     args = p.parse_args()
 
     # Smoke test mode
@@ -477,7 +498,9 @@ def main() -> int:
 
     # Real run
     backend = detect_backend(args.model, args.backend, args.cpu_threads)
-    print(f"Workers: {args.workers}, Backend: {backend.name}, Model: {args.model}, CPU threads: {args.cpu_threads}")
+    print(
+        f"Workers: {args.workers}, Backend: {backend.name}, Model: {args.model}, CPU threads: {args.cpu_threads}"
+    )
     print_banner(args, backend, todo)
     log(f"start workers={args.workers} backend={backend.name} count={len(todo)}")
 
@@ -547,7 +570,7 @@ def run_smoke_test(model: str, force_backend: Optional[str]) -> int:
         todo2 = discover(100)
         print(f"✅ Resumability: re-discovered {len(todo2)} (was {len(todo)}+ for limit 5)")
     else:
-        print(f"✅ Resumability: re-discover found 0 — clean state")
+        print("✅ Resumability: re-discover found 0 — clean state")
     print("\n✅ Smoke test passed.")
     return 0
 

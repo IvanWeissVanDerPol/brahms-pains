@@ -16,7 +16,6 @@ Outputs clean, curated quotes for MASTER_PROFILE.md
 
 import json
 import re
-from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
@@ -329,9 +328,7 @@ def main():
             if priority_chats and chat_name not in priority_chats:
                 continue
 
-            quotes = extract_quotes_for_category(
-                chat_transcripts, patterns, max_quotes=5
-            )
+            quotes = extract_quotes_for_category(chat_transcripts, patterns, max_quotes=5)
             if quotes:
                 category_quotes[chat_name] = quotes
                 print(f"    {chat_name}: {len(quotes)} quotes")

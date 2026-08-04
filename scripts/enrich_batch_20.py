@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Batch enrich 20 more profiles with empirical data."""
+
 from __future__ import annotations
 
 import json
@@ -51,19 +52,21 @@ def get_metrics(profile_name):
                 init_info = init["per_chat"].get(chat_name, {})
                 rec_info = rec["per_chat"].get(chat_name, {})
                 vvt_info = vvt["per_chat"].get(chat_name, {})
-                matches.append({
-                    "chat": chat_name,
-                    "total_msgs": info.get("total_msgs", 0),
-                    "late_night_ratio": info.get("late_night_ratio", 0),
-                    "ivan_ratio": info.get("ivan_ratio", 0),
-                    "peak_hour": info.get("peak_hour"),
-                    "peak_dow": info.get("peak_dow"),
-                    "ivan_starts": init_info.get("ivan_starts", 0),
-                    "them_starts": init_info.get("them_starts", 0),
-                    "max_streak": init_info.get("max_streak_days", 0),
-                    "days_since": rec_info.get("days_since_last"),
-                    "voice_pct": vvt_info.get("voice_pct", 0),
-                })
+                matches.append(
+                    {
+                        "chat": chat_name,
+                        "total_msgs": info.get("total_msgs", 0),
+                        "late_night_ratio": info.get("late_night_ratio", 0),
+                        "ivan_ratio": info.get("ivan_ratio", 0),
+                        "peak_hour": info.get("peak_hour"),
+                        "peak_dow": info.get("peak_dow"),
+                        "ivan_starts": init_info.get("ivan_starts", 0),
+                        "them_starts": init_info.get("them_starts", 0),
+                        "max_streak": init_info.get("max_streak_days", 0),
+                        "days_since": rec_info.get("days_since_last"),
+                        "voice_pct": vvt_info.get("voice_pct", 0),
+                    }
+                )
 
     return matches
 
@@ -87,10 +90,16 @@ def enrich(profile_path):
     avg_ivan = sum(m["ivan_ratio"] * m["total_msgs"] for m in matches) / total_msgs
     total_ivan_starts = sum(m["ivan_starts"] for m in matches)
     total_them_starts = sum(m["them_starts"] for m in matches)
-    ivan_initiator_pct = total_ivan_starts / (total_ivan_starts + total_them_starts) if (total_ivan_starts + total_them_starts) > 0 else 0
+    ivan_initiator_pct = (
+        total_ivan_starts / (total_ivan_starts + total_them_starts)
+        if (total_ivan_starts + total_them_starts) > 0
+        else 0
+    )
     avg_voice = sum(m["voice_pct"] * m["total_msgs"] for m in matches) / total_msgs
     max_streak = max((m["max_streak"] for m in matches), default=0)
-    days_since = min((m["days_since"] for m in matches if m["days_since"] is not None), default=None)
+    days_since = min(
+        (m["days_since"] for m in matches if m["days_since"] is not None), default=None
+    )
 
     inquiries = []
     if avg_late > 0.4:
@@ -98,7 +107,7 @@ def enrich(profile_path):
     if avg_ivan > 0.65:
         inquiries.append(f"- Why does Ivan initiate {avg_ivan:.1%} of conversations?")
     if avg_ivan < 0.35:
-        inquiries.append(f"- What draws them to initiate most conversations?")
+        inquiries.append("- What draws them to initiate most conversations?")
     if max_streak > 30:
         inquiries.append(f"- What was the {max_streak}-day streak about?")
     if avg_voice > 0.15:

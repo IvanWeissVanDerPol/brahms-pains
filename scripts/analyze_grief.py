@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Hat 31 - Grief & Loss analysis: abandoned high-volume contacts."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
 ANALYSIS = REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS"
@@ -19,38 +19,50 @@ def analyze_grief():
 
     abandoned = []
     for chat, info in rec["per_chat"].items():
-        if info["tier"] in ("tier1_deep", "tier2_core") and info["days_since_last"] > 365 and info["total_msgs"] >= 100:
+        if (
+            info["tier"] in ("tier1_deep", "tier2_core")
+            and info["days_since_last"] > 365
+            and info["total_msgs"] >= 100
+        ):
             # Get additional data
             tp_info = tp["per_contact"].get(chat, {})
             init_info = init["per_chat"].get(chat, {})
 
-            abandoned.append({
-                "chat": chat,
-                "tier": info["tier"],
-                "total_msgs": info["total_msgs"],
-                "days_since_last": info["days_since_last"],
-                "last_message_date": info["last_message_date"],
-                "late_night_ratio": tp_info.get("late_night_ratio", 0),
-                "ivan_ratio": tp_info.get("ivan_ratio", 0),
-                "ivan_start_ratio": init_info.get("ivan_start_ratio", 0),
-                "max_streak_days": init_info.get("max_streak_days", 0),
-            })
+            abandoned.append(
+                {
+                    "chat": chat,
+                    "tier": info["tier"],
+                    "total_msgs": info["total_msgs"],
+                    "days_since_last": info["days_since_last"],
+                    "last_message_date": info["last_message_date"],
+                    "late_night_ratio": tp_info.get("late_night_ratio", 0),
+                    "ivan_ratio": tp_info.get("ivan_ratio", 0),
+                    "ivan_start_ratio": init_info.get("ivan_start_ratio", 0),
+                    "max_streak_days": init_info.get("max_streak_days", 0),
+                }
+            )
 
     abandoned.sort(key=lambda x: -x["days_since_last"])
 
     # Categorize by contact type
-    family_keywords = ["mom", "dad", "kiki", "sister", "mama", "papa", "kyrian", "luana", "prima", "family", "poli"]
+    family_keywords = [
+        "mom",
+        "dad",
+        "kiki",
+        "sister",
+        "mama",
+        "papa",
+        "kyrian",
+        "luana",
+        "prima",
+        "family",
+        "poli",
+    ]
     work_keywords = ["cliente", "fpuna", "iin_", "exam", "trabajo", "voluntari", "ci24", "polo"]
     friend_keywords = ["amiga", "amigo", "swinger", "fria"]
     romantic_keywords = ["ex", "love", "love", "_n_"]
 
-    categorized = {
-        "family": [],
-        "work": [],
-        "friend": [],
-        "romantic": [],
-        "other": []
-    }
+    categorized = {"family": [], "work": [], "friend": [], "romantic": [], "other": []}
 
     for item in abandoned:
         chat_lower = item["chat"].lower()
@@ -79,28 +91,34 @@ def analyze_grief():
     print(f"Wrote {out.relative_to(REPO)}")
 
     # Print findings
-    print(f"\n=== Hat 31: Grief & Loss Analysis ===\n")
+    print("\n=== Hat 31: Grief & Loss Analysis ===\n")
     print(f"Total abandoned tier1/tier2: {len(abandoned)}")
-    print(f"By category:")
+    print("By category:")
     for k, v in categorized.items():
         if v:
             print(f"  {k}: {len(v)}")
 
-    print(f"\n=== ROMANTIC ABANDONMENTS (highest grief signal) ===")
+    print("\n=== ROMANTIC ABANDONMENTS (highest grief signal) ===")
     for item in categorized["romantic"]:
-        print(f"  {item['days_since_last']:>5}d ago  {item['tier']:<12}  {item['total_msgs']:>5} msgs  "
-              f"Late {item['late_night_ratio']:.1%} | Ivan {item['ivan_ratio']:.1%}  {item['chat'][:35]}")
+        print(
+            f"  {item['days_since_last']:>5}d ago  {item['tier']:<12}  {item['total_msgs']:>5} msgs  "
+            f"Late {item['late_night_ratio']:.1%} | Ivan {item['ivan_ratio']:.1%}  {item['chat'][:35]}"
+        )
 
-    print(f"\n=== FAMILY ABANDONMENTS ===")
+    print("\n=== FAMILY ABANDONMENTS ===")
     for item in categorized["family"]:
-        print(f"  {item['days_since_last']:>5}d ago  {item['tier']:<12}  {item['total_msgs']:>5} msgs  {item['chat'][:35]}")
+        print(
+            f"  {item['days_since_last']:>5}d ago  {item['tier']:<12}  {item['total_msgs']:>5} msgs  {item['chat'][:35]}"
+        )
 
-    print(f"\n=== FRIENDSHIP ABANDONMENTS ===")
+    print("\n=== FRIENDSHIP ABANDONMENTS ===")
     for item in categorized["friend"]:
-        print(f"  {item['days_since_last']:>5}d ago  {item['tier']:<12}  {item['total_msgs']:>5} msgs  {item['chat'][:35]}")
+        print(
+            f"  {item['days_since_last']:>5}d ago  {item['tier']:<12}  {item['total_msgs']:>5} msgs  {item['chat'][:35]}"
+        )
 
     # Compute clinical metrics
-    print(f"\n=== Clinical Metrics ===")
+    print("\n=== Clinical Metrics ===")
     total_msgs = sum(a["total_msgs"] for a in abandoned)
     total_streak_days = sum(a["max_streak_days"] for a in abandoned)
     avg_days_since = sum(a["days_since_last"] for a in abandoned) / len(abandoned)
@@ -111,7 +129,7 @@ def analyze_grief():
     print(f"  Longest abandonment: {max(a['days_since_last'] for a in abandoned)} days")
 
     # Identify closure patterns
-    print(f"\n=== Closure Patterns ===")
+    print("\n=== Closure Patterns ===")
     # Where Ivan initiated the abandonment (high Ivan ratio + abandonment)
     ivan_initiated = [a for a in abandoned if a["ivan_ratio"] > 0.55]
     them_initiated = [a for a in abandoned if a["ivan_ratio"] < 0.45]

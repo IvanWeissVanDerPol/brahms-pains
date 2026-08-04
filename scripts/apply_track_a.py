@@ -8,6 +8,7 @@ USAGE:
     python3 scripts/apply_track_a.py --dry-run
     python3 scripts/apply_track_a.py --apply
 """
+
 from __future__ import annotations
 
 import argparse
@@ -27,9 +28,9 @@ SKIP_JIDS = {
     "595991506193",  # "Soy kyrian"
     "595986138387",  # Dad John
     "595982515138",  # Mom Sonia
-    "31612495139",   # Grandma Riet
+    "31612495139",  # Grandma Riet
     "595994459555",  # Grandpa Jan (deceased)
-    "15055778339",   # Uncle Toni
+    "15055778339",  # Uncle Toni
     "595982850085",  # Cousin Mica
     "595985855075",  # Uncle Gerold
     "595994459555",  # Grandpa
@@ -96,16 +97,18 @@ def parse_verify():
         else:
             conf = "UNKNOWN"
 
-        rows.append({
-            "num": num,
-            "jid": jid,
-            "tier": tier,
-            "msgs": msgs,
-            "curr_label": curr_label,
-            "proposed": proposed,
-            "conf": conf,
-            "evidence": evidence,
-        })
+        rows.append(
+            {
+                "num": num,
+                "jid": jid,
+                "tier": tier,
+                "msgs": msgs,
+                "curr_label": curr_label,
+                "proposed": proposed,
+                "conf": conf,
+                "evidence": evidence,
+            }
+        )
     return rows
 
 
@@ -136,9 +139,21 @@ def main():
             continue
         # SAFETY: skip LOW-quality proposed names (surnames, services, common words)
         PROPOSED_BLOCKLIST = {
-            "weiss", "facebook", "twitter", "instagram", "tiktok",
-            "claro", "tigo", "personal", "trabajo", "oficina", "family",
-            "mom", "dad", "abuela", "abuelo",
+            "weiss",
+            "facebook",
+            "twitter",
+            "instagram",
+            "tiktok",
+            "claro",
+            "tigo",
+            "personal",
+            "trabajo",
+            "oficina",
+            "family",
+            "mom",
+            "dad",
+            "abuela",
+            "abuelo",
         }
         if r["proposed"].lower() in PROPOSED_BLOCKLIST:
             continue
@@ -195,13 +210,16 @@ def main():
         # git mv
         subprocess.run(
             ["git", "mv", str(old.relative_to(REPO)), str(new.relative_to(REPO))],
-            cwd=REPO, check=True,
+            cwd=REPO,
+            check=True,
         )
         # Update provisional name
         try:
             with open(new / "messages.json") as f:
                 data = json.load(f)
-            if "__provisional_name" not in data or not isinstance(data.get("__provisional_name"), dict):
+            if "__provisional_name" not in data or not isinstance(
+                data.get("__provisional_name"), dict
+            ):
                 data["__provisional_name"] = {}
             data["__provisional_name"]["name"] = proposed
             data["__provisional_name"]["source"] = "track-a-verify-2026-07-23"

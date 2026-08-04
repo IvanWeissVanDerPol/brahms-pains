@@ -25,9 +25,7 @@ def generate_integrated_markdown_report():
     analysis_path = config.paths.source_of_truth / "INTEGRATED_ANALYSIS.json"
 
     if not analysis_path.exists():
-        logger.error(
-            "No INTEGRATED_ANALYSIS.json found. Run integrated_analysis.py first."
-        )
+        logger.error("No INTEGRATED_ANALYSIS.json found. Run integrated_analysis.py first.")
         return None
 
     with open(analysis_path, "r", encoding="utf-8") as f:
@@ -66,9 +64,7 @@ def generate_integrated_markdown_report():
         week = esc["week"]
         total = esc["total_patterns"]
         # Top 3 categories
-        top_cats = sorted(esc["categories"].items(), key=lambda x: x[1], reverse=True)[
-            :3
-        ]
+        top_cats = sorted(esc["categories"].items(), key=lambda x: x[1], reverse=True)[:3]
         cats_str = ", ".join([f"{k}({v})" for k, v in top_cats])
         lines.append(f"| {week} | {total} | {cats_str} |")
 
@@ -87,9 +83,7 @@ def generate_integrated_markdown_report():
     )
 
     # Add relationship type comparisons
-    for rel_type, categories in data["cross_chat_analysis"][
-        "by_relationship_type"
-    ].items():
+    for rel_type, categories in data["cross_chat_analysis"]["by_relationship_type"].items():
         lines.extend(
             [
                 f"### {rel_type.replace('_', ' ').title()}",
@@ -99,9 +93,7 @@ def generate_integrated_markdown_report():
             ]
         )
 
-        for cat, stats in sorted(
-            categories.items(), key=lambda x: x[1]["avg"], reverse=True
-        )[:5]:
+        for cat, stats in sorted(categories.items(), key=lambda x: x[1]["avg"], reverse=True)[:5]:
             lines.append(
                 f"| {cat} | {stats['avg']:.1f} | {stats['min']}-{stats['max']} | {stats['count']} |"
             )
@@ -157,9 +149,7 @@ def generate_integrated_markdown_report():
     )
 
     for seq in data["predictive_indicators"]["pattern_sequences"][:5]:
-        lines.append(
-            f"- **{seq['date']}:** {seq['total_patterns']} patterns - {seq['warning']}"
-        )
+        lines.append(f"- **{seq['date']}:** {seq['total_patterns']} patterns - {seq['warning']}")
 
     lines.extend(
         [
@@ -182,12 +172,8 @@ def generate_integrated_markdown_report():
 
     for ref in data["questionnaire_integration"]["cross_references"]:
         claimed = "✓ Yes" if ref["questionnaire_claimed"] else "✗ No"
-        evidence = str(
-            ref.get("voice_evidence_count", ref.get("voice_evidence", "N/A"))
-        )
-        consistency = (
-            "✓ Confirmed" if ref["consistency"] == "confirmed" else "~ Partial"
-        )
+        evidence = str(ref.get("voice_evidence_count", ref.get("voice_evidence", "N/A")))
+        consistency = "✓ Confirmed" if ref["consistency"] == "confirmed" else "~ Partial"
         lines.append(f"| {ref['pattern']} | {claimed} | {evidence} | {consistency} |")
 
     lines.extend(

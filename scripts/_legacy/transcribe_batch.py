@@ -7,7 +7,6 @@ More memory efficient than full multiprocessing.
 import argparse
 import json
 import os
-import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
@@ -47,9 +46,7 @@ def transcribe_file(file_path: Path, model_name: str, language: str) -> dict:
     """Transcribe single file using shared model."""
     try:
         model = get_model(model_name)
-        result = model.transcribe(
-            str(file_path), language=language, fp16=False, verbose=False
-        )
+        result = model.transcribe(str(file_path), language=language, fp16=False, verbose=False)
 
         # Parse date from filename
         date = None
@@ -110,9 +107,7 @@ def save_results(chat_name: str, results: list):
             f.write("---\n\n")
 
 
-def process_chat(
-    chat_name: str, files: list, model_name: str, language: str, threads: int
-):
+def process_chat(chat_name: str, files: list, model_name: str, language: str, threads: int):
     """Process all files for one chat."""
     print(f"\n{'=' * 60}")
     print(f"Processing: {chat_name} ({len(files)} files)")
@@ -124,9 +119,7 @@ def process_chat(
 
     # Use threads for I/O parallelism (model is thread-safe for inference)
     with ThreadPoolExecutor(max_workers=threads) as executor:
-        futures = {
-            executor.submit(transcribe_file, f, model_name, language): f for f in files
-        }
+        futures = {executor.submit(transcribe_file, f, model_name, language): f for f in files}
 
         for future in as_completed(futures):
             result = future.result()
@@ -152,13 +145,9 @@ def process_chat(
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        "--model", default="tiny", choices=["tiny", "base", "small", "medium"]
-    )
+    parser.add_argument("--model", default="tiny", choices=["tiny", "base", "small", "medium"])
     parser.add_argument("--language", default="es")
-    parser.add_argument(
-        "--threads", type=int, default=4, help="Threads per chat (for I/O)"
-    )
+    parser.add_argument("--threads", type=int, default=4, help="Threads per chat (for I/O)")
     parser.add_argument("--chat", help="Process only specific chat")
     parser.add_argument(
         "--skip-done", action="store_true", help="Skip chats with existing transcripts"
@@ -188,9 +177,7 @@ def main():
     # Process each chat
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    for chat_name, files in sorted(
-        chats.items(), key=lambda x: len(x[1])
-    ):  # Smallest first
+    for chat_name, files in sorted(chats.items(), key=lambda x: len(x[1])):  # Smallest first
         # Skip if already done
         if args.skip_done:
             existing = OUTPUT_DIR / chat_name / "transcripts.json"
@@ -200,9 +187,7 @@ def main():
                         data = json.load(f)
                     success = sum(1 for d in data if d.get("success"))
                     if success >= len(files) * 0.9:  # 90% success = done
-                        print(
-                            f"\n[{chat_name}] Already done ({success}/{len(files)}), skipping"
-                        )
+                        print(f"\n[{chat_name}] Already done ({success}/{len(files)}), skipping")
                         continue
                 except Exception:
                     pass

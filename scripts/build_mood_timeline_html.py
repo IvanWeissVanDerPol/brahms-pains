@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Build mood_timeline.html — visual sentiment trajectory per contact."""
+
 from __future__ import annotations
 
 import json
@@ -11,7 +12,8 @@ ANALYSIS = REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS"
 data = json.loads((ANALYSIS / "mood_timelines.json").read_text())
 timelines = data["timelines"]
 
-HTML = '''<!DOCTYPE html>
+HTML = (
+    """<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -48,7 +50,9 @@ HTML = '''<!DOCTYPE html>
 <body>
 <div class="app">
   <h1>Psycology — Mood Timelines</h1>
-  <div class="meta">''' + f"{data['top_contacts_count']} contacts · " + '''sentiment = (positive - negative) words + emojis per month, normalized. Range: -1 (very negative) to +1 (very positive).</div>
+  <div class="meta">"""
+    + f"{data['top_contacts_count']} contacts · "
+    + """sentiment = (positive - negative) words + emojis per month, normalized. Range: -1 (very negative) to +1 (very positive).</div>
   
   <div class="controls">
     <input type="text" id="search" placeholder="filter contacts..." />
@@ -74,7 +78,9 @@ HTML = '''<!DOCTYPE html>
 </div>
 
 <script>
-const DATA = ''' + json.dumps(timelines, ensure_ascii=False) + ''';
+const DATA = """
+    + json.dumps(timelines, ensure_ascii=False)
+    + """;
 
 function scoreColor(s) {
   if (s > 0.1) return "#98c379";
@@ -157,7 +163,8 @@ render();
 </script>
 </body>
 </html>
-'''
+"""
+)
 
 out = ANALYSIS / "mood_timeline.html"
 out.write_text(HTML)

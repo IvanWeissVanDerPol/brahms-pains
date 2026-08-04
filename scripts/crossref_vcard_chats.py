@@ -4,6 +4,7 @@
 For each vCard phone number, check if it appears in any chat's message text.
 Also match vCard EMAIL fields against message text.
 """
+
 from __future__ import annotations
 import json
 import re
@@ -16,6 +17,7 @@ MSG_BASE = REPO / "SOURCE_OF_TRUTH" / "wa_messages"
 
 # Load vCard
 import sys
+
 sys.path.insert(0, "scripts")
 from match_vcard_chats_v2 import parse_vcard, phone_to_jid_candidates
 
@@ -40,6 +42,7 @@ for c in cards:
             jid_to_phones[jid].append(phone)
     # Also extract emails if present (not parsed by default, let's grep)
     # We'd need to modify parse_vcard but for now skip emails
+
 
 # Build per-phone text variations: 595985725366, +595 985 725366, 0985 725366, etc.
 def phone_variants(phone: str) -> list[str]:
@@ -67,7 +70,15 @@ def phone_variants(phone: str) -> list[str]:
 
 
 # Walk all chats and check for phone occurrences
-TIERS = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid", "_dropped"]
+TIERS = [
+    "tier1_deep",
+    "tier2_core",
+    "tier3_extended",
+    "tier4_groups",
+    "untiered_personal",
+    "other_lid",
+    "_dropped",
+]
 
 # Build phone -> jid lookup
 phone_to_jid = {}
@@ -89,13 +100,16 @@ new_matches = []
 scanned = 0
 for tier in TIERS:
     tier_dir = MSG_BASE / tier
-    if not tier_dir.exists(): continue
+    if not tier_dir.exists():
+        continue
     for d in tier_dir.iterdir():
-        if not (d / "messages.json").exists(): continue
+        if not (d / "messages.json").exists():
+            continue
         scanned += 1
         try:
             data = json.loads((d / "messages.json").read_text())
-        except: continue
+        except:
+            continue
         chat_jid = str(data.get("jid_user", ""))
         if chat_jid in matched_jids:
             continue  # Already matched
@@ -109,16 +123,18 @@ for tier in TIERS:
                 if variant in text and len(variant) >= 9:
                     # Found! Check if vcard_jid has its own chat (different JID)
                     if vcard_jid != chat_jid:
-                        new_matches.append({
-                            "vcard_jid": vcard_jid,
-                            "vcard_name": vcard_name,
-                            "vcard_phone_variant": variant,
-                            "found_in_chat_jid": chat_jid,
-                            "found_in_chat_dir": d.name,
-                            "found_in_tier": tier,
-                            "ts": m.get("ts_iso", "")[:10],
-                            "evidence": text[:200],
-                        })
+                        new_matches.append(
+                            {
+                                "vcard_jid": vcard_jid,
+                                "vcard_name": vcard_name,
+                                "vcard_phone_variant": variant,
+                                "found_in_chat_jid": chat_jid,
+                                "found_in_chat_dir": d.name,
+                                "found_in_tier": tier,
+                                "ts": m.get("ts_iso", "")[:10],
+                                "evidence": text[:200],
+                            }
+                        )
                     break  # one match per msg is enough
         if scanned % 200 == 0:
             print(f"  scanned {scanned}, matches so far: {len(new_matches)}")

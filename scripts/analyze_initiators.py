@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Initiator ratios analysis (feeds Hat 1, 4)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict, Counter
+from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -17,7 +18,14 @@ def analyze_initiators():
     by_chat = {}
     by_tier = defaultdict(list)
 
-    tiers = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "untiered_personal", "other_lid"]
+    tiers = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+    ]
 
     for tier in tiers:
         d = WA / tier
@@ -83,16 +91,20 @@ def analyze_initiators():
             for i, m in enumerate(msgs[1:], 1):
                 if not isinstance(m, dict):
                     continue
-                if i > 0 and isinstance(msgs[i-1], dict):
-                    prev = msgs[i-1]
-                    if prev.get("from_me") != m.get("from_me") and m.get("ts_ms") and prev.get("ts_ms"):
+                if i > 0 and isinstance(msgs[i - 1], dict):
+                    prev = msgs[i - 1]
+                    if (
+                        prev.get("from_me") != m.get("from_me")
+                        and m.get("ts_ms")
+                        and prev.get("ts_ms")
+                    ):
                         rt = m["ts_ms"] - prev["ts_ms"]
                         if 0 < rt < 24 * 3600 * 1000:  # within 24h
                             response_times.append(rt)
 
             if response_times:
                 avg_rt = sum(response_times) / len(response_times)
-                median_rt = sorted(response_times)[len(response_times)//2]
+                median_rt = sorted(response_times)[len(response_times) // 2]
             else:
                 avg_rt = median_rt = None
 
@@ -113,7 +125,7 @@ def analyze_initiators():
             current_streak = 1
             if days_sorted:
                 for i in range(1, len(days_sorted)):
-                    if (days_sorted[i] - days_sorted[i-1]).days == 1:
+                    if (days_sorted[i] - days_sorted[i - 1]).days == 1:
                         current_streak += 1
                     else:
                         max_streak = max(max_streak, current_streak)
@@ -157,45 +169,65 @@ def analyze_initiators():
     print(f"Wrote {out.relative_to(REPO)}")
 
     # Print summary
-    print(f"\n=== Initiator Analysis Summary ===")
+    print("\n=== Initiator Analysis Summary ===")
     print(f"Total chats: {len(by_chat)}")
     print(f"Total conversations: {sum(c['conversations'] for c in by_chat.values()):,}")
 
     # Top 10 Ivan-chases contacts
     ivan_chasers = sorted(
-        [(c, info) for c, info in by_chat.items() if info["total_msgs"] >= 50 and info["ivan_start_ratio"] > 0.7],
-        key=lambda x: -x[1]["ivan_start_ratio"]
+        [
+            (c, info)
+            for c, info in by_chat.items()
+            if info["total_msgs"] >= 50 and info["ivan_start_ratio"] > 0.7
+        ],
+        key=lambda x: -x[1]["ivan_start_ratio"],
     )[:15]
-    print(f"\nTop 15 Ivan-initiators (Ivan starts >70% of conversations):")
+    print("\nTop 15 Ivan-initiators (Ivan starts >70% of conversations):")
     for c, info in ivan_chasers:
-        print(f"  {info['ivan_start_ratio']:.1%}  Ivan {info['ivan_starts']}/{info['them_starts']} conv  {c[:35]}")
+        print(
+            f"  {info['ivan_start_ratio']:.1%}  Ivan {info['ivan_starts']}/{info['them_starts']} conv  {c[:35]}"
+        )
 
     # Top 10 they-chase
     them_chasers = sorted(
-        [(c, info) for c, info in by_chat.items() if info["total_msgs"] >= 50 and info["ivan_start_ratio"] < 0.3 and info["them_starts"] > 0],
-        key=lambda x: x[1]["ivan_start_ratio"]
+        [
+            (c, info)
+            for c, info in by_chat.items()
+            if info["total_msgs"] >= 50
+            and info["ivan_start_ratio"] < 0.3
+            and info["them_starts"] > 0
+        ],
+        key=lambda x: x[1]["ivan_start_ratio"],
     )[:15]
-    print(f"\nTop 15 they-initiators (Ivan starts <30%):")
+    print("\nTop 15 they-initiators (Ivan starts <30%):")
     for c, info in them_chasers:
-        print(f"  {info['ivan_start_ratio']:.1%}  Ivan {info['ivan_starts']}/{info['them_starts']} conv  {c[:35]}")
+        print(
+            f"  {info['ivan_start_ratio']:.1%}  Ivan {info['ivan_starts']}/{info['them_starts']} conv  {c[:35]}"
+        )
 
     # Top 10 fastest Ivan responses
     fast_responders = sorted(
-        [(c, info) for c, info in by_chat.items() if info["median_response_time_ms"] is not None and info["total_msgs"] >= 30],
-        key=lambda x: x[1]["median_response_time_ms"]
+        [
+            (c, info)
+            for c, info in by_chat.items()
+            if info["median_response_time_ms"] is not None and info["total_msgs"] >= 30
+        ],
+        key=lambda x: x[1]["median_response_time_ms"],
     )[:10]
-    print(f"\nTop 10 fastest responses (Ivan's median):")
+    print("\nTop 10 fastest responses (Ivan's median):")
     for c, info in fast_responders:
         rt = info["median_response_time_ms"] / 1000  # seconds
         rt_min = rt / 60
-        print(f"  {rt_min:.1f}min median  Ivan conv {info['ivan_starts']}/{info['them_starts']}  {c[:30]}")
+        print(
+            f"  {rt_min:.1f}min median  Ivan conv {info['ivan_starts']}/{info['them_starts']}  {c[:30]}"
+        )
 
     # Top 10 longest streaks
     streaks = sorted(
         [(c, info) for c, info in by_chat.items() if info["max_streak_days"] > 0],
-        key=lambda x: -x[1]["max_streak_days"]
+        key=lambda x: -x[1]["max_streak_days"],
     )[:10]
-    print(f"\nTop 10 longest message streaks:")
+    print("\nTop 10 longest message streaks:")
     for c, info in streaks:
         print(f"  {info['max_streak_days']:>4} days  {c[:35]}")
 

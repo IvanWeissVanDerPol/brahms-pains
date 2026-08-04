@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build a static SVG family tree visualization from profiles."""
+
 from __future__ import annotations
-import re
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -13,14 +13,16 @@ FAMILY = {
     "Sonia Edith Weiss López": {
         "role": "Mom",
         "generation": 1,
-        "x": 0, "y": 0,
+        "x": 0,
+        "y": 0,
         "tier": "mom",
         "profile": "SONIA_WEISS",
     },
     "John van der Pol": {
         "role": "Dad",
         "generation": 1,
-        "x": 1, "y": 0,
+        "x": 1,
+        "y": 0,
         "tier": "dad",
         "profile": "JOHN",
     },
@@ -28,14 +30,16 @@ FAMILY = {
     "Luana Weiss": {
         "role": "Sister (24)",
         "generation": 2,
-        "x": -3, "y": 1,
+        "x": -3,
+        "y": 1,
         "tier": "child",
         "profile": "LUANA",
     },
     "Saskia Weiss": {
         "role": "Sister",
         "generation": 2,
-        "x": -1, "y": 1,
+        "x": -1,
+        "y": 1,
         "tier": "child",
         "profile": "SASKIA",
         "uncertain": "No 1-on-1 chat in corpus",
@@ -43,14 +47,16 @@ FAMILY = {
     "Kyrian 'Kiki' Weiss": {
         "role": "Sister (a.k.a. Kiki)",
         "generation": 2,
-        "x": 1, "y": 1,
+        "x": 1,
+        "y": 1,
         "tier": "child",
         "profile": "KIKI_WEISS_HERMANA",
     },
     "Micaela 'Mica' Weiss Coëhn": {
         "role": "Cousin",
         "generation": 2,
-        "x": 3, "y": 1,
+        "x": 3,
+        "y": 1,
         "tier": "child",
         "profile": "PRIMA_MIKAELA_WEISS",
     },
@@ -58,14 +64,16 @@ FAMILY = {
     "Riet van der Pol": {
         "role": "Grandma",
         "generation": 0,
-        "x": 1, "y": -1,
+        "x": 1,
+        "y": -1,
         "tier": "grand",
         "profile": "RIET_VAN_DER_POL",
     },
     "Jan van der Pol": {
         "role": "Grandpa (deceased)",
         "generation": 0,
-        "x": 2, "y": -1,
+        "x": 2,
+        "y": -1,
         "tier": "grand",
         "profile": "JAN_VAN_DER_POL",
     },
@@ -73,14 +81,16 @@ FAMILY = {
     "Antonio 'Toni' López Weiss": {
         "role": "Uncle (USA)",
         "generation": 1,
-        "x": -4, "y": -1,
+        "x": -4,
+        "y": -1,
         "tier": "uncle",
         "profile": "TONI_WEISS",
     },
     "Gerold Manders": {
         "role": "Uncle (adoptive, dad's)",
         "generation": 1,
-        "x": 4, "y": -1,
+        "x": 4,
+        "y": -1,
         "tier": "uncle",
         "profile": "GEROLD_MANDERS",
     },
@@ -88,14 +98,16 @@ FAMILY = {
     "Anna Rodas van der Pol": {
         "role": "Family (van der Pol)",
         "generation": 1,
-        "x": 2, "y": 1,
+        "x": 2,
+        "y": 1,
         "tier": "extended",
         "profile": "ANNA_RODAS_VAN_DER_POL",
     },
     "Alexander van der Pol": {
         "role": "Family (van der Pol)",
         "generation": 1,
-        "x": 3, "y": 1,
+        "x": 3,
+        "y": 1,
         "tier": "extended",
         "profile": "ALEXANDER_VAN_DER_POL",
     },
@@ -107,15 +119,18 @@ NODE_H = 60
 COL_W = 260  # spacing between columns
 ROW_H = 100  # spacing between rows
 
+
 def gen_x(g, x):
     return 40 + x * COL_W
+
 
 def gen_y(y):
     return 40 + y * ROW_H
 
+
 def main():
     svg_parts = []
-    svg_parts.append(f'''<!DOCTYPE html>
+    svg_parts.append(f"""<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -160,43 +175,58 @@ def main():
 
 <div class="tree-container">
 <svg width="{40 + 7 * COL_W + NODE_W}" height="{40 + 3 * ROW_H + NODE_H}" xmlns="http://www.w3.org/2000/svg">
-''')
-    
+""")
+
     # Generation labels
     for y, label in [(-1, "Grandparents"), (0, "Parents"), (1, "Children"), (2, "Extended")]:
         if any(n["generation"] == y or (y == 0 and n["generation"] == 1) for n in FAMILY.values()):
             svg_parts.append(f'<text class="gen-label" x="20" y="{gen_y(y) + 30}">{label}</text>')
-    
+
     # Draw connectors (parent-child)
     def draw_connector(parent, child):
-        px = gen_x(parent["generation"] if "generation" in parent else parent.get("x", 0), parent["x"]) + NODE_W // 2
+        px = (
+            gen_x(
+                parent["generation"] if "generation" in parent else parent.get("x", 0), parent["x"]
+            )
+            + NODE_W // 2
+        )
         py = gen_y(parent["y"]) + NODE_H
-        cx = gen_x(child["generation"] if "generation" in child else child.get("x", 0), child["x"]) + NODE_W // 2
+        cx = (
+            gen_x(child["generation"] if "generation" in child else child.get("x", 0), child["x"])
+            + NODE_W // 2
+        )
         cy = gen_y(child["y"])
         if abs(px - cx) < 5:
             svg_parts.append(f'<line class="connector" x1="{px}" y1="{py}" x2="{cx}" y2="{cy}"/>')
         else:
             midy = (py + cy) // 2
-            svg_parts.append(f'<path class="connector" d="M {px} {py} L {px} {midy} L {cx} {midy} L {cx} {cy}"/>')
-    
+            svg_parts.append(
+                f'<path class="connector" d="M {px} {py} L {px} {midy} L {cx} {midy} L {cx} {cy}"/>'
+            )
+
     # Mom → all siblings
     mom = FAMILY["Sonia Edith Weiss López"]
     dad = FAMILY["John van der Pol"]
-    for child_name in ["Luana Weiss", "Saskia Weiss", "Kyrian 'Kiki' Weiss", "Micaela 'Mica' Weiss Coëhn"]:
+    for child_name in [
+        "Luana Weiss",
+        "Saskia Weiss",
+        "Kyrian 'Kiki' Weiss",
+        "Micaela 'Mica' Weiss Coëhn",
+    ]:
         draw_connector(mom, FAMILY[child_name])
         draw_connector(dad, FAMILY[child_name])
-    
+
     # Mom → her siblings (uncles)
     for uncle in ["Antonio 'Toni' López Weiss"]:
         draw_connector(mom, FAMILY[uncle])
     # Dad → his brothers
     for uncle in ["Gerold Manders"]:
         draw_connector(dad, FAMILY[uncle])
-    
+
     # Grandparents → Dad
     draw_connector(FAMILY["Riet van der Pol"], dad)
     draw_connector(FAMILY["Jan van der Pol"], dad)
-    
+
     # Draw nodes
     for name, info in FAMILY.items():
         x = gen_x(info["generation"], info["x"])
@@ -204,22 +234,22 @@ def main():
         tier = info["tier"]
         profile_path = info["profile"]
         uncertain = info.get("uncertain", "")
-        
+
         uncertain_y = 0
         if uncertain:
             uncertain_y = 12
             svg_parts.append(f'<text class="uncertain" x="{x}" y="{y + 50}">⚠ {uncertain}</text>')
-        
-        svg_parts.append(f'''<g class="node {tier}">
+
+        svg_parts.append(f"""<g class="node {tier}">
   <rect x="{x}" y="{y}" width="{NODE_W}" height="{NODE_H}" rx="4"/>
   <text x="{x + 10}" y="{y + 20}" font-weight="500">{name}</text>
   <text x="{x + 10}" y="{y + 36}" class="role">{info["role"]}</text>
   <text x="{x + 10}" y="{y + 56 - uncertain_y}" font-size="10"><a href="https://github.com/IvanWeissVanDerPol/psycology/blob/master/RELATIONSHIPS/dynamics/{profile_path}.md">→ profile</a></text>
-</g>''')
-    
+</g>""")
+
     # Footer notes
-    svg_parts.append('</svg></div>')
-    svg_parts.append('''
+    svg_parts.append("</svg></div>")
+    svg_parts.append("""
 <h2>Open questions / unresolved</h2>
 <ul style="font-size:13px;line-height:1.6">
   <li><strong>Saskia's brother (JID 595985725871)</strong>: vCard labels as "Saskia Weiss" but chat content shows the contact identifies as "Soy el hermano mayor de saskia". Either vCard is wrong or Ivan was wrong about "Saskia has no 1-on-1 chat". Awaiting Ivan.</li>
@@ -235,8 +265,8 @@ def main():
   <li><strong>Toni Weiss</strong> = uncle (mom's brother), NOT dad</li>
   <li><strong>John van der Pol</strong> = dad (not Toni as previously labeled)</li>
 </ul>
-</body></html>''')
-    
+</body></html>""")
+
     out = REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS" / "family_tree.html"
     out.write_text("\n".join(svg_parts))
     print(f"Wrote {out.relative_to(REPO)} ({out.stat().st_size:,} bytes)")

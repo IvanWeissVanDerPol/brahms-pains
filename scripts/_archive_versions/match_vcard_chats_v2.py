@@ -11,6 +11,7 @@ Usage:
     python3 scripts/match_vcard_chats_v2.py --vcf path/to/contacts.vcf --dry-run
     python3 scripts/match_vcard_chats_v2.py --vcf path/to/contacts.vcf --apply
 """
+
 from __future__ import annotations
 
 import argparse
@@ -104,7 +105,15 @@ def phone_to_jid_candidates(phone: str) -> list[str]:
 def find_chat_dirs():
     """Walk all tiers, return {jid: (tier, dir_path)}."""
     out = {}
-    TIERS = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "_dropped", "untiered_personal", "other_lid"]
+    TIERS = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "_dropped",
+        "untiered_personal",
+        "other_lid",
+    ]
     for tier in TIERS:
         td = MSG_BASE / tier
         if not td.exists():
@@ -132,7 +141,9 @@ def safe_name(name: str) -> str:
 
 
 def find_chat_suffix(dirname: str) -> str:
-    m = re.search(r"(__wa_chat_[^_]+_\d+|_wa_lid_[^_]+_\d+|__wa_group_[^_]+_\d+|_wa_group_[^_]+)$", dirname)
+    m = re.search(
+        r"(__wa_chat_[^_]+_\d+|_wa_lid_[^_]+_\d+|__wa_group_[^_]+_\d+|_wa_group_[^_]+)$", dirname
+    )
     if m:
         return m.group(1)
     return ""
@@ -183,20 +194,24 @@ def main():
         prov_name = prov.get("name", "") if isinstance(prov, dict) else ""
 
         if card:
-            matches.append({
-                "jid": jid,
-                "vcard_name": card["name"],
-                "provisional_name": prov_name,
-                "current_dir": str(d.relative_to(REPO)),
-                "tier": tier,
-            })
+            matches.append(
+                {
+                    "jid": jid,
+                    "vcard_name": card["name"],
+                    "provisional_name": prov_name,
+                    "current_dir": str(d.relative_to(REPO)),
+                    "tier": tier,
+                }
+            )
         else:
-            unmatched.append({
-                "jid": jid,
-                "provisional_name": prov_name,
-                "current_dir": str(d.relative_to(REPO)),
-                "tier": tier,
-            })
+            unmatched.append(
+                {
+                    "jid": jid,
+                    "provisional_name": prov_name,
+                    "current_dir": str(d.relative_to(REPO)),
+                    "tier": tier,
+                }
+            )
 
     print("=" * 70)
     print(f"MATCHED (vCard → chat): {len(matches)}")
@@ -211,14 +226,17 @@ def main():
     print()
     print("All renames:")
     for m in to_rename:
-        print(f"  {m['tier'][:14]:<14} JID={m['jid'][:14]:<14}  '{m['provisional_name'][:30]:<30}' → '{m['vcard_name'][:30]}'")
+        print(
+            f"  {m['tier'][:14]:<14} JID={m['jid'][:14]:<14}  '{m['provisional_name'][:30]:<30}' → '{m['vcard_name'][:30]}'"
+        )
 
     print()
     print("=" * 70)
     print(f"UNMATCHED (chat JID not in vCard): {len(unmatched)}")
     print("=" * 70)
-    print(f"By tier:")
+    print("By tier:")
     from collections import Counter
+
     by_tier = Counter()
     for u in unmatched:
         by_tier[u["tier"]] += 1
@@ -226,6 +244,7 @@ def main():
         print(f"  {tier}: {n}")
 
     import datetime
+
     out = {
         "generated_at": datetime.datetime.now().isoformat(),
         "vcf_path": str(args.vcf),
@@ -268,12 +287,15 @@ def main():
             continue
         subprocess.run(
             ["git", "mv", str(old.relative_to(REPO)), str(new.relative_to(REPO))],
-            cwd=REPO, check=True,
+            cwd=REPO,
+            check=True,
         )
         try:
             with open(new / "messages.json") as f:
                 data = json.load(f)
-            if "__provisional_name" not in data or not isinstance(data.get("__provisional_name"), dict):
+            if "__provisional_name" not in data or not isinstance(
+                data.get("__provisional_name"), dict
+            ):
                 data["__provisional_name"] = {}
             data["__provisional_name"]["name"] = m["vcard_name"]
             data["__provisional_name"]["source"] = "vcard-match-v2-2026-07-23"

@@ -16,6 +16,7 @@ Post-processes what extract_wa_txt_export.py produced:
 
 Idempotent: running twice yields the same file.
 """
+
 from __future__ import annotations
 
 import json
@@ -30,24 +31,55 @@ CHAT_DIR = Path(
 MSG_PATH = CHAT_DIR / "messages.json"
 
 EXT_TO_TYPE = {
-    "jpg": 1, "jpeg": 1, "png": 1, "webp": 1, "gif": 1,
-    "opus": 2, "m4a": 2, "aac": 2, "mp3": 2, "ogg": 2, "wav": 2,
-    "mp4": 3, "3gp": 3, "mov": 3, "mkv": 3,
-    "pdf": 7, "docx": 7, "doc": 7, "xlsx": 7, "xls": 7,
-    "vcf": 7, "txt": 7, "zip": 7, "md": 7,
+    "jpg": 1,
+    "jpeg": 1,
+    "png": 1,
+    "webp": 1,
+    "gif": 1,
+    "opus": 2,
+    "m4a": 2,
+    "aac": 2,
+    "mp3": 2,
+    "ogg": 2,
+    "wav": 2,
+    "mp4": 3,
+    "3gp": 3,
+    "mov": 3,
+    "mkv": 3,
+    "pdf": 7,
+    "docx": 7,
+    "doc": 7,
+    "xlsx": 7,
+    "xls": 7,
+    "vcf": 7,
+    "txt": 7,
+    "zip": 7,
+    "md": 7,
 }
 EXT_TO_MIME = {
-    "jpg": "image/jpeg", "jpeg": "image/jpeg", "png": "image/png",
-    "webp": "image/webp", "gif": "image/gif",
-    "opus": "audio/ogg; codecs=opus", "m4a": "audio/mp4",
-    "aac": "audio/aac", "mp3": "audio/mpeg", "ogg": "audio/ogg", "wav": "audio/wav",
-    "mp4": "video/mp4", "3gp": "video/3gpp", "mov": "video/quicktime", "mkv": "video/x-matroska",
+    "jpg": "image/jpeg",
+    "jpeg": "image/jpeg",
+    "png": "image/png",
+    "webp": "image/webp",
+    "gif": "image/gif",
+    "opus": "audio/ogg; codecs=opus",
+    "m4a": "audio/mp4",
+    "aac": "audio/aac",
+    "mp3": "audio/mpeg",
+    "ogg": "audio/ogg",
+    "wav": "audio/wav",
+    "mp4": "video/mp4",
+    "3gp": "video/3gpp",
+    "mov": "video/quicktime",
+    "mkv": "video/x-matroska",
     "pdf": "application/pdf",
     "docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
     "doc": "application/msword",
     "xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     "xls": "application/vnd.ms-excel",
-    "vcf": "text/vcard", "txt": "text/plain", "zip": "application/zip",
+    "vcf": "text/vcard",
+    "txt": "text/plain",
+    "zip": "application/zip",
     "md": "text/markdown",
 }
 
@@ -57,12 +89,12 @@ TYPE_SUBDIR = {1: "media/images", 2: "media/audio", 3: "media/videos", 7: "media
 # ATTACH_RE rejected (spaces in filename, or trailing dot before extension).
 # Each entry: id -> (recovered filename, exclusion_reason or None)
 STUB_RECOVERY = {
-    496:  ("Olga Piercings.vcf",                 "third-party contact PII"),
-    1336: ("DOC-20260628-WA0034.txt",            None),  # on-disk, keep
-    3052: ("5 contacts.vcf",                     "third-party contact PII"),
-    3240: ("Nicolas Duarte (GF es silvi).vcf",   "third-party contact PII"),
-    3611: ("Luaaa Bf Fer.vcf",                   "third-party contact PII"),
-    5745: ("DOC-20260722-WA0048.pdf",            "PHI: personal blood-lab results, not committed"),
+    496: ("Olga Piercings.vcf", "third-party contact PII"),
+    1336: ("DOC-20260628-WA0034.txt", None),  # on-disk, keep
+    3052: ("5 contacts.vcf", "third-party contact PII"),
+    3240: ("Nicolas Duarte (GF es silvi).vcf", "third-party contact PII"),
+    3611: ("Luaaa Bf Fer.vcf", "third-party contact PII"),
+    5745: ("DOC-20260722-WA0048.pdf", "PHI: personal blood-lab results, not committed"),
 }
 
 # vcf docs that WERE parsed (came in as type=7) — mark recorded_only
@@ -84,9 +116,14 @@ def route_media_path(fname: str, mtype: int) -> str:
 
 def scrub(msgs: list[dict]) -> dict:
     stats = {
-        "images_marked": 0, "videos_marked": 0, "audio_repathed": 0,
-        "docs_repathed": 0, "vcfs_excluded": 0,
-        "stubs_recovered": 0, "phi_excluded": 0, "jwt_scrubbed": 0,
+        "images_marked": 0,
+        "videos_marked": 0,
+        "audio_repathed": 0,
+        "docs_repathed": 0,
+        "vcfs_excluded": 0,
+        "stubs_recovered": 0,
+        "phi_excluded": 0,
+        "jwt_scrubbed": 0,
     }
     for m in msgs:
         mtype = m.get("type", 0)

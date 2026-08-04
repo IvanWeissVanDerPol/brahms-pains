@@ -1,0 +1,715 @@
+{
+  "s9": {
+    "series": 9,
+    "description": "Ax T1 FSE",
+    "bvalue": null,
+    "n_slices": 52,
+    "shape": [
+      52,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -272.4356689,
+    "slice_loc_max": 7.898543835,
+    "voxel": {
+      "pixel_mm_x": 0.9844,
+      "pixel_mm_y": 0.9844,
+      "slice_mm": 4.5,
+      "tr": 824.0,
+      "te": 8.248
+    },
+    "intensity": {
+      "min": 0,
+      "max": 12072,
+      "mean": 731.3679376748892,
+      "median": 3.0,
+      "p1": 0.0,
+      "p99": 5749.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s9.npz",
+    "file_size_mb": 9.36
+  },
+  "s15": {
+    "series": 15,
+    "description": "SAG T1 FSE",
+    "bvalue": null,
+    "n_slices": 67,
+    "shape": [
+      67,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -216.621582,
+    "slice_loc_max": 146.378418,
+    "voxel": {
+      "pixel_mm_x": 0.6563,
+      "pixel_mm_y": 0.6563,
+      "slice_mm": 4.5,
+      "tr": 683.0,
+      "te": 7.576
+    },
+    "intensity": {
+      "min": 0,
+      "max": 9160,
+      "mean": 1147.2945724601177,
+      "median": 20.0,
+      "p1": 0.0,
+      "p99": 5972.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s15.npz",
+    "file_size_mb": 17.81
+  },
+  "s6": {
+    "series": 6,
+    "description": "Ax T2 FSE",
+    "bvalue": null,
+    "n_slices": 25,
+    "shape": [
+      25,
+      1024,
+      1024
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -49.12470627,
+    "slice_loc_max": 107.5573578,
+    "voxel": {
+      "pixel_mm_x": 0.166,
+      "pixel_mm_y": 0.166,
+      "slice_mm": 4.0,
+      "tr": 3960.0,
+      "te": 98.784
+    },
+    "intensity": {
+      "min": 0,
+      "max": 2793,
+      "mean": 393.55892501831056,
+      "median": 246.0,
+      "p1": 0.0,
+      "p99": 1620.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s6.npz",
+    "file_size_mb": 27.15
+  },
+  "s1001": {
+    "series": 1001,
+    "description": "InPhase: Ax T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 52,
+    "shape": [
+      52,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -272.4356689,
+    "slice_loc_max": 7.898537159,
+    "voxel": {
+      "pixel_mm_x": 0.9844,
+      "pixel_mm_y": 0.9844,
+      "slice_mm": 4.5,
+      "tr": 4380.0,
+      "te": 100.48
+    },
+    "intensity": {
+      "min": 0,
+      "max": 6367,
+      "mean": 319.5535107392531,
+      "median": 3.0,
+      "p1": 0.0,
+      "p99": 3205.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s1001.npz",
+    "file_size_mb": 8.92
+  },
+  "s1601": {
+    "series": 1601,
+    "description": "InPhase: SAG T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 67,
+    "shape": [
+      67,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -216.621582,
+    "slice_loc_max": 146.378418,
+    "voxel": {
+      "pixel_mm_x": 0.6563,
+      "pixel_mm_y": 0.6563,
+      "slice_mm": 4.5,
+      "tr": 14572.0,
+      "te": 113.432
+    },
+    "intensity": {
+      "min": 0,
+      "max": 7536,
+      "mean": 472.24985771748555,
+      "median": 26.0,
+      "p1": 0.0,
+      "p99": 3392.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s1601.npz",
+    "file_size_mb": 17.48
+  },
+  "s5": {
+    "series": 5,
+    "description": "Sag T2 FSE STIR",
+    "bvalue": null,
+    "n_slices": 19,
+    "shape": [
+      19,
+      1024,
+      1024
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -67.73985291,
+    "slice_loc_max": 6.041101456,
+    "voxel": {
+      "pixel_mm_x": 0.3369,
+      "pixel_mm_y": 0.3369,
+      "slice_mm": 3.5,
+      "tr": 5743.0,
+      "te": 42.672
+    },
+    "intensity": {
+      "min": 0,
+      "max": 4382,
+      "mean": 297.2423233233,
+      "median": 8.0,
+      "p1": 0.0,
+      "p99": 2043.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s5.npz",
+    "file_size_mb": 15.72
+  },
+  "s7": {
+    "series": 7,
+    "description": "Ax T1 FSE",
+    "bvalue": null,
+    "n_slices": 25,
+    "shape": [
+      25,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -49.12469482,
+    "slice_loc_max": 107.5573578,
+    "voxel": {
+      "pixel_mm_x": 0.332,
+      "pixel_mm_y": 0.332,
+      "slice_mm": 4.0,
+      "tr": 662.0,
+      "te": 6.936
+    },
+    "intensity": {
+      "min": 0,
+      "max": 2590,
+      "mean": 574.1288745117188,
+      "median": 589.0,
+      "p1": 0.0,
+      "p99": 2034.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s7.npz",
+    "file_size_mb": 7.25
+  },
+  "s10": {
+    "series": 10,
+    "description": "WATER: Ax T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 52,
+    "shape": [
+      52,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -272.4356689,
+    "slice_loc_max": 7.898537159,
+    "voxel": {
+      "pixel_mm_x": 0.9844,
+      "pixel_mm_y": 0.9844,
+      "slice_mm": 4.5,
+      "tr": 4380.0,
+      "te": 100.48
+    },
+    "intensity": {
+      "min": 0,
+      "max": 3100,
+      "mean": 81.9549087377695,
+      "median": 1.0,
+      "p1": 0.0,
+      "p99": 947.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s10.npz",
+    "file_size_mb": 7.04
+  },
+  "s3": {
+    "series": 3,
+    "description": "Sag T2 frFSE",
+    "bvalue": null,
+    "n_slices": 19,
+    "shape": [
+      19,
+      1024,
+      1024
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -67.73986053,
+    "slice_loc_max": 6.041097164,
+    "voxel": {
+      "pixel_mm_x": 0.3369,
+      "pixel_mm_y": 0.3369,
+      "slice_mm": 3.5,
+      "tr": 5320.0,
+      "te": 121.8
+    },
+    "intensity": {
+      "min": 0,
+      "max": 5915,
+      "mean": 487.77905489269057,
+      "median": 12.0,
+      "p1": 0.0,
+      "p99": 3054.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s3.npz",
+    "file_size_mb": 17.18
+  },
+  "s1600": {
+    "series": 1600,
+    "description": "FAT: SAG T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 67,
+    "shape": [
+      67,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -216.621582,
+    "slice_loc_max": 146.378418,
+    "voxel": {
+      "pixel_mm_x": 0.6563,
+      "pixel_mm_y": 0.6563,
+      "slice_mm": 4.5,
+      "tr": 14572.0,
+      "te": 113.432
+    },
+    "intensity": {
+      "min": 0,
+      "max": 2924,
+      "mean": 181.40546969513395,
+      "median": 11.0,
+      "p1": 0.0,
+      "p99": 1664.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s1600.npz",
+    "file_size_mb": 14.64
+  },
+  "s13": {
+    "series": 13,
+    "description": "COR T1 FSE",
+    "bvalue": null,
+    "n_slices": 46,
+    "shape": [
+      46,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -142.9632263,
+    "slice_loc_max": 104.4337082,
+    "voxel": {
+      "pixel_mm_x": 0.7969,
+      "pixel_mm_y": 0.7969,
+      "slice_mm": 4.5,
+      "tr": 675.0,
+      "te": 7.48
+    },
+    "intensity": {
+      "min": 0,
+      "max": 12403,
+      "mean": 1364.1972753275995,
+      "median": 64.0,
+      "p1": 0.0,
+      "p99": 6837.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s13.npz",
+    "file_size_mb": 12.4
+  },
+  "s12": {
+    "series": 12,
+    "description": "Ax FSE STIR",
+    "bvalue": null,
+    "n_slices": 52,
+    "shape": [
+      52,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -272.4356689,
+    "slice_loc_max": 7.898537159,
+    "voxel": {
+      "pixel_mm_x": 0.9844,
+      "pixel_mm_y": 0.9844,
+      "slice_mm": 4.5,
+      "tr": 3862.0,
+      "te": 27.192
+    },
+    "intensity": {
+      "min": 0,
+      "max": 6346,
+      "mean": 181.71103741572455,
+      "median": 2.0,
+      "p1": 0.0,
+      "p99": 1609.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s12.npz",
+    "file_size_mb": 8.2
+  },
+  "s1000": {
+    "series": 1000,
+    "description": "FAT: Ax T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 52,
+    "shape": [
+      52,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -272.4356689,
+    "slice_loc_max": 7.898537159,
+    "voxel": {
+      "pixel_mm_x": 0.9844,
+      "pixel_mm_y": 0.9844,
+      "slice_mm": 4.5,
+      "tr": 4380.0,
+      "te": 100.48
+    },
+    "intensity": {
+      "min": 0,
+      "max": 3493,
+      "mean": 120.74031066894531,
+      "median": 1.0,
+      "p1": 0.0,
+      "p99": 1679.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s1000.npz",
+    "file_size_mb": 7.21
+  },
+  "s4": {
+    "series": 4,
+    "description": "Sag T1 FSE",
+    "bvalue": null,
+    "n_slices": 19,
+    "shape": [
+      19,
+      1024,
+      1024
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -67.73985291,
+    "slice_loc_max": 6.041101456,
+    "voxel": {
+      "pixel_mm_x": 0.3369,
+      "pixel_mm_y": 0.3369,
+      "slice_mm": 3.5,
+      "tr": 595.0,
+      "te": 7.672
+    },
+    "intensity": {
+      "min": 0,
+      "max": 5074,
+      "mean": 558.243111409639,
+      "median": 22.0,
+      "p1": 0.0,
+      "p99": 3042.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s4.npz",
+    "file_size_mb": 17.48
+  },
+  "s11_b50": {
+    "series": 11,
+    "description": "Ax DWI ALL b50-700",
+    "bvalue": 50.0,
+    "n_slices": 52,
+    "shape": [
+      52,
+      256,
+      256
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -272.4356689,
+    "slice_loc_max": 7.898537159,
+    "voxel": {
+      "pixel_mm_x": 1.6406,
+      "pixel_mm_y": 1.6406,
+      "slice_mm": 4.5,
+      "tr": 9543.0,
+      "te": 72.0
+    },
+    "intensity": {
+      "min": 0,
+      "max": 15772,
+      "mean": 166.1880105825571,
+      "median": 2.0,
+      "p1": 0.0,
+      "p99": 1537.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s11_b50.npz",
+    "file_size_mb": 2.18
+  },
+  "s11_b700": {
+    "series": 11,
+    "description": "Ax DWI ALL b50-700",
+    "bvalue": 700.0,
+    "n_slices": 52,
+    "shape": [
+      52,
+      256,
+      256
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -272.4356689,
+    "slice_loc_max": 7.898537159,
+    "voxel": {
+      "pixel_mm_x": 1.6406,
+      "pixel_mm_y": 1.6406,
+      "slice_mm": 4.5,
+      "tr": 9543.0,
+      "te": 72.0
+    },
+    "intensity": {
+      "min": 0,
+      "max": 4272,
+      "mean": 63.267609522892876,
+      "median": 2.0,
+      "p1": 0.0,
+      "p99": 537.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s11_b700.npz",
+    "file_size_mb": 1.89
+  },
+  "s14": {
+    "series": 14,
+    "description": "WATER: COR T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 46,
+    "shape": [
+      46,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -142.9633026,
+    "slice_loc_max": 104.4337082,
+    "voxel": {
+      "pixel_mm_x": 0.7969,
+      "pixel_mm_y": 0.7969,
+      "slice_mm": 4.5,
+      "tr": 5124.0,
+      "te": 107.52
+    },
+    "intensity": {
+      "min": 0,
+      "max": 4267,
+      "mean": 142.99380319014838,
+      "median": 17.0,
+      "p1": 0.0,
+      "p99": 1391.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s14.npz",
+    "file_size_mb": 9.42
+  },
+  "s16": {
+    "series": 16,
+    "description": "WATER: SAG T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 67,
+    "shape": [
+      67,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -216.621582,
+    "slice_loc_max": 146.378418,
+    "voxel": {
+      "pixel_mm_x": 0.6563,
+      "pixel_mm_y": 0.6563,
+      "slice_mm": 4.5,
+      "tr": 14572.0,
+      "te": 113.432
+    },
+    "intensity": {
+      "min": 0,
+      "max": 4747,
+      "mean": 120.10455920091316,
+      "median": 9.0,
+      "p1": 0.0,
+      "p99": 1422.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s16.npz",
+    "file_size_mb": 13.77
+  },
+  "s1401": {
+    "series": 1401,
+    "description": "InPhase: COR T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 46,
+    "shape": [
+      46,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -142.9633026,
+    "slice_loc_max": 104.4337082,
+    "voxel": {
+      "pixel_mm_x": 0.7969,
+      "pixel_mm_y": 0.7969,
+      "slice_mm": 4.5,
+      "tr": 5124.0,
+      "te": 107.52
+    },
+    "intensity": {
+      "min": 0,
+      "max": 6943,
+      "mean": 569.9617594843326,
+      "median": 49.0,
+      "p1": 0.0,
+      "p99": 3644.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s1401.npz",
+    "file_size_mb": 11.77
+  },
+  "s1400": {
+    "series": 1400,
+    "description": "FAT: COR T2 FSE Flex",
+    "bvalue": null,
+    "n_slices": 46,
+    "shape": [
+      46,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -142.9633026,
+    "slice_loc_max": 104.4337082,
+    "voxel": {
+      "pixel_mm_x": 0.7969,
+      "pixel_mm_y": 0.7969,
+      "slice_mm": 4.5,
+      "tr": 5124.0,
+      "te": 107.52
+    },
+    "intensity": {
+      "min": 0,
+      "max": 3254,
+      "mean": 217.41286153378695,
+      "median": 13.0,
+      "p1": 0.0,
+      "p99": 1796.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s1400.npz",
+    "file_size_mb": 9.86
+  },
+  "s2": {
+    "series": 2,
+    "description": "Cor T2 frFSE",
+    "bvalue": null,
+    "n_slices": 31,
+    "shape": [
+      31,
+      1024,
+      1024
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -136.9465027,
+    "slice_loc_max": 0.632786274,
+    "voxel": {
+      "pixel_mm_x": 0.332,
+      "pixel_mm_y": 0.332,
+      "slice_mm": 4.0,
+      "tr": 7517.0,
+      "te": 116.784
+    },
+    "intensity": {
+      "min": 0,
+      "max": 2886,
+      "mean": 389.66582039863835,
+      "median": 212.0,
+      "p1": 0.0,
+      "p99": 1537.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s2.npz",
+    "file_size_mb": 29.45
+  },
+  "s1150": {
+    "series": 1150,
+    "description": "ADC (10^-6 mm\u00b2/s)",
+    "bvalue": null,
+    "n_slices": 52,
+    "shape": [
+      52,
+      256,
+      256
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -272.4349976,
+    "slice_loc_max": 7.899185181,
+    "voxel": {
+      "pixel_mm_x": 1.640599966,
+      "pixel_mm_y": 1.640599966,
+      "slice_mm": 4.5,
+      "tr": 9543.0,
+      "te": 72.0
+    },
+    "intensity": {
+      "min": -1,
+      "max": 4094,
+      "mean": 486.7879221989558,
+      "median": -1.0,
+      "p1": -1.0,
+      "p99": 2627.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s1150.npz",
+    "file_size_mb": 1.85
+  },
+  "s8": {
+    "series": 8,
+    "description": "3-plane Localizer",
+    "bvalue": null,
+    "n_slices": 23,
+    "shape": [
+      23,
+      512,
+      512
+    ],
+    "dtype": "int16",
+    "slice_loc_min": -309.2000122,
+    "slice_loc_max": 17.0,
+    "voxel": {
+      "pixel_mm_x": 0.8594,
+      "pixel_mm_y": 0.8594,
+      "slice_mm": 10.0,
+      "tr": 1000.0,
+      "te": 83.013
+    },
+    "intensity": {
+      "min": 0,
+      "max": 7280,
+      "mean": 404.68086508046025,
+      "median": 96.0,
+      "p1": 0.0,
+      "p99": 2951.0
+    },
+    "file": "/root/psycology/MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/analysis/volumes/s8.npz",
+    "file_size_mb": 6.59
+  }
+}

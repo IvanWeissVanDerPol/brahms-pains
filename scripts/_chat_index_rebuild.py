@@ -19,7 +19,9 @@ Fast, deterministic, mirrors what's actually on disk.
 
 Run:  python3 _chat_index_rebuild.py
 """
-import json, re
+
+import json
+import re
 from pathlib import Path
 from collections import defaultdict
 
@@ -27,20 +29,30 @@ BASE = Path(__file__).parent
 OUT = BASE / "CHAT_INDEX.md"
 
 TIER_DIRS = [
-    ("tier1_deep",             BASE / "tier1_deep",             "Tier 1 — Deep dive (top 10 personal 1:1)"),
-    ("tier2_core",             BASE / "tier2_core",             "Tier 2 — Core corpus (ranks 11-40)"),
-    ("tier3_extended",         BASE / "tier3_extended",         "Tier 3 — Extended (ranks 41-100)"),
-    ("untiered_personal",      BASE / "untiered_personal",      "Untiered personal (rank 101+)"),
-    ("tier4_groups_active",    BASE / "tier4_groups" / "active", "Tier 4a — Groups (active, Ivan participates)"),
-    ("tier4_groups_lurker",    BASE / "tier4_groups" / "lurker", "Tier 4b — Groups (lurker, passive-observation)"),
-    ("other_lid",              BASE / "other_lid",              "Other — LID chats not in tiers"),
+    ("tier1_deep", BASE / "tier1_deep", "Tier 1 — Deep dive (top 10 personal 1:1)"),
+    ("tier2_core", BASE / "tier2_core", "Tier 2 — Core corpus (ranks 11-40)"),
+    ("tier3_extended", BASE / "tier3_extended", "Tier 3 — Extended (ranks 41-100)"),
+    ("untiered_personal", BASE / "untiered_personal", "Untiered personal (rank 101+)"),
+    (
+        "tier4_groups_active",
+        BASE / "tier4_groups" / "active",
+        "Tier 4a — Groups (active, Ivan participates)",
+    ),
+    (
+        "tier4_groups_lurker",
+        BASE / "tier4_groups" / "lurker",
+        "Tier 4b — Groups (lurker, passive-observation)",
+    ),
+    ("other_lid", BASE / "other_lid", "Other — LID chats not in tiers"),
 ]
 
 SLUG_RE = re.compile(r"(_wa_(?:chat|group|lid|other|other_newsletter)_.+)$")
 
+
 def extract_slug(folder_name: str) -> str | None:
     m = SLUG_RE.search(folder_name)
     return m.group(1) if m else None
+
 
 def parse_display_name(folder_name: str) -> str:
     # NN__name__slug  or  name__slug
@@ -59,9 +71,11 @@ def parse_display_name(folder_name: str) -> str:
         return pp[1] if len(pp) == 2 and pp[0].isdigit() else prefix
     return parts[0]
 
+
 def parse_rank(folder_name: str) -> int | None:
     m = re.match(r"^(\d+)__", folder_name)
     return int(m.group(1)) if m else None
+
 
 def fmt_stats(c: dict) -> str:
     return (
@@ -72,6 +86,7 @@ def fmt_stats(c: dict) -> str:
         f"{c['span_days']:.0f}d span · "
         f"score {c['score']:,.0f}"
     )
+
 
 def main():
     triage = json.loads((BASE / "_triage.json").read_text())
@@ -95,14 +110,16 @@ def main():
             if stats is None:
                 missing_stats.append(slug)
                 continue
-            buckets[key].append({
-                "folder": d.name,
-                "rel_path": str(d.relative_to(BASE)),
-                "display_name": parse_display_name(d.name),
-                "rank": parse_rank(d.name),
-                "slug": slug,
-                "stats": stats,
-            })
+            buckets[key].append(
+                {
+                    "folder": d.name,
+                    "rel_path": str(d.relative_to(BASE)),
+                    "display_name": parse_display_name(d.name),
+                    "rank": parse_rank(d.name),
+                    "slug": slug,
+                    "stats": stats,
+                }
+            )
 
     # sort inside each bucket
     for key, rows in buckets.items():
@@ -165,6 +182,7 @@ def main():
         print(f"  orphan dirs: {len(orphan_dirs)}")
     if missing_stats:
         print(f"  missing stats: {len(missing_stats)}")
+
 
 if __name__ == "__main__":
     main()

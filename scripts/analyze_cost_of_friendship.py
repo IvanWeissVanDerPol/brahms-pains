@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """Cost-of-friendship analysis (Hat 11, 14)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict, Counter
+from collections import Counter
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -89,30 +90,34 @@ def analyze_cost_of_friendship():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Cost of Friendship Analysis ===")
+    print("\n=== Cost of Friendship Analysis ===")
     print(f"Total relationships: {len(by_chat)}")
 
     # Category distribution
     cat_dist = Counter(c["cost_category"] for c in by_chat.values())
-    print(f"\nCost distribution:")
+    print("\nCost distribution:")
     for cat, count in sorted(cat_dist.items(), key=lambda x: -x[1]):
         print(f"  {cat}: {count}")
 
     # Top 15 highest cost
-    print(f"\nTop 15 HIGHEST cost relationships (Ivan's biggest investments):")
+    print("\nTop 15 HIGHEST cost relationships (Ivan's biggest investments):")
     sorted_chats = sorted(by_chat.items(), key=lambda x: -x[1]["total_cost"])[:15]
     for c, info in sorted_chats:
-        print(f"  {info['total_cost']:>5.1f} ({info['cost_category']:<10})  "
-              f"{info['ivan_initiative_pct']:>5.1%} init  "
-              f"{info['total_msgs']:>5} msgs  {c[:35]}")
+        print(
+            f"  {info['total_cost']:>5.1f} ({info['cost_category']:<10})  "
+            f"{info['ivan_initiative_pct']:>5.1%} init  "
+            f"{info['total_msgs']:>5} msgs  {c[:35]}"
+        )
 
     # Top 15 most cost-effective (low effort, high reward)
-    print(f"\nTop 15 LOW cost relationships:")
+    print("\nTop 15 LOW cost relationships:")
     sorted_chats = sorted(by_chat.items(), key=lambda x: x[1]["total_cost"])[:15]
     for c, info in sorted_chats:
-        print(f"  {info['total_cost']:>5.1f} ({info['cost_category']:<10})  "
-              f"{info['ivan_initiative_pct']:>5.1%} init  "
-              f"{info['total_msgs']:>5} msgs  {c[:35]}")
+        print(
+            f"  {info['total_cost']:>5.1f} ({info['cost_category']:<10})  "
+            f"{info['ivan_initiative_pct']:>5.1%} init  "
+            f"{info['total_msgs']:>5} msgs  {c[:35]}"
+        )
 
 
 if __name__ == "__main__":

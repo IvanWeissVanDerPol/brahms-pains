@@ -5,7 +5,10 @@ Move every chat listed in _final_classification.json's drop_slugs into
 Run with:  python3 _apply_drops.py --yes
 Without --yes it prints a dry-run summary and exits.
 """
-import json, sys, shutil
+
+import json
+import sys
+import shutil
 from pathlib import Path
 
 BASE = Path(__file__).parent
@@ -19,7 +22,9 @@ dry = "--yes" not in sys.argv
 existing = [s for s in drop_slugs if (BASE / s).is_dir()]
 missing = [s for s in drop_slugs if not (BASE / s).is_dir()]
 
-print(f"Drop list: {len(drop_slugs)}  |  present on disk: {len(existing)}  |  already-missing: {len(missing)}")
+print(
+    f"Drop list: {len(drop_slugs)}  |  present on disk: {len(existing)}  |  already-missing: {len(missing)}"
+)
 if dry:
     print("Dry-run. Pass --yes to actually move.")
     for s in existing[:5]:

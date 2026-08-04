@@ -19,6 +19,7 @@ Two-tier strategy:
 Writes a per-chat scrub log to _scrub_report.json at the root and
 mutates messages.json files atomically (.tmp + replace).
 """
+
 from __future__ import annotations
 
 import json
@@ -29,24 +30,33 @@ from pathlib import Path
 ROOT = Path("/home/ai-whisperers/psychology-integration/psycology/SOURCE_OF_TRUTH/wa_messages")
 
 NUKE_PATTERNS = {
-    "gcp_sa_pk":    re.compile(r"-----BEGIN (RSA |EC |OPENSSH |DSA |ENCRYPTED )?PRIVATE KEY-----"),
-    "gcp_sa_json":  re.compile(r'"type"\s*:\s*"service_account"'),
+    "gcp_sa_pk": re.compile(r"-----BEGIN (RSA |EC |OPENSSH |DSA |ENCRYPTED )?PRIVATE KEY-----"),
+    "gcp_sa_json": re.compile(r'"type"\s*:\s*"service_account"'),
 }
 
 LINE_PATTERNS = {
-    "aws_akid":     re.compile(r"\bAKIA[0-9A-Z]{16}\b"),
-    "aws_secret":   re.compile(r"aws(.{0,20})?(secret|key)[^\n]{0,10}['\"][A-Za-z0-9/+=]{40}['\"]", re.I),
-    "slack_token":  re.compile(r"\bxox[abpr]-[A-Za-z0-9-]{10,}"),
-    "github_pat":   re.compile(r"\bgh[pousr]_[A-Za-z0-9]{36,}\b"),
-    "openai_key":   re.compile(r"\bsk-(proj-)?[A-Za-z0-9_-]{20,}\b"),
-    "anthropic_key":re.compile(r"\bsk-ant-[A-Za-z0-9_-]{20,}\b"),
-    "stripe_key":   re.compile(r"\b(sk|pk|rk)_(live|test)_[A-Za-z0-9]{20,}\b"),
-    "google_api":   re.compile(r"\bAIza[0-9A-Za-z_-]{35}\b"),
-    "jwt":          re.compile(r"\beyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\b"),
+    "aws_akid": re.compile(r"\bAKIA[0-9A-Z]{16}\b"),
+    "aws_secret": re.compile(
+        r"aws(.{0,20})?(secret|key)[^\n]{0,10}['\"][A-Za-z0-9/+=]{40}['\"]", re.I
+    ),
+    "slack_token": re.compile(r"\bxox[abpr]-[A-Za-z0-9-]{10,}"),
+    "github_pat": re.compile(r"\bgh[pousr]_[A-Za-z0-9]{36,}\b"),
+    "openai_key": re.compile(r"\bsk-(proj-)?[A-Za-z0-9_-]{20,}\b"),
+    "anthropic_key": re.compile(r"\bsk-ant-[A-Za-z0-9_-]{20,}\b"),
+    "stripe_key": re.compile(r"\b(sk|pk|rk)_(live|test)_[A-Za-z0-9]{20,}\b"),
+    "google_api": re.compile(r"\bAIza[0-9A-Za-z_-]{35}\b"),
+    "jwt": re.compile(r"\beyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\b"),
     "telegram_bot": re.compile(r"\b\d{8,11}:[A-Za-z0-9_-]{35}\b"),
-    "db_url_creds": re.compile(r"\b(postgres|postgresql|mongodb|mongodb\+srv|mysql|redis)://[^:@\s/]+:[^@\s]+@"),
-    "generic_secret_kv": re.compile(r"\b(password|passwd|passphrase|api[_-]?key|secret|token|bearer|access_key|private_key|client_secret)\s*[:=]\s*['\"][^'\"\s]{16,}['\"]", re.I),
-    "unquoted_env_secret": re.compile(r"\b(API[_-]?KEY|SECRET|TOKEN|PASSWORD|PASSWD|PASSPHRASE|PRIVATE[_-]?KEY|ACCESS[_-]?KEY|CLIENT[_-]?SECRET|AUTH[_-]?TOKEN)\s*=\s*[A-Za-z0-9._+/=-]{16,}"),
+    "db_url_creds": re.compile(
+        r"\b(postgres|postgresql|mongodb|mongodb\+srv|mysql|redis)://[^:@\s/]+:[^@\s]+@"
+    ),
+    "generic_secret_kv": re.compile(
+        r"\b(password|passwd|passphrase|api[_-]?key|secret|token|bearer|access_key|private_key|client_secret)\s*[:=]\s*['\"][^'\"\s]{16,}['\"]",
+        re.I,
+    ),
+    "unquoted_env_secret": re.compile(
+        r"\b(API[_-]?KEY|SECRET|TOKEN|PASSWORD|PASSWD|PASSPHRASE|PRIVATE[_-]?KEY|ACCESS[_-]?KEY|CLIENT[_-]?SECRET|AUTH[_-]?TOKEN)\s*=\s*[A-Za-z0-9._+/=-]{16,}"
+    ),
     "env_bot_token": re.compile(r"\b[A-Z][A-Z_]*BOT[_-]?TOKEN\s*=\s*\S{16,}", re.I),
 }
 
@@ -107,11 +117,13 @@ def main() -> int:
             tmp.replace(messages_json)
             total_files_touched += 1
             total_msgs_scrubbed += touched
-            per_chat.append({
-                "chat": str(messages_json.relative_to(ROOT)),
-                "messages_scrubbed": touched,
-                "hits_by_pattern": chat_hits,
-            })
+            per_chat.append(
+                {
+                    "chat": str(messages_json.relative_to(ROOT)),
+                    "messages_scrubbed": touched,
+                    "hits_by_pattern": chat_hits,
+                }
+            )
 
     report = {
         "files_touched": total_files_touched,

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Properly curate profiles - move stubs to _stubs/ and dormant to _archive/."""
+
 from __future__ import annotations
 
 import json
@@ -18,7 +19,9 @@ ARCHIVE.mkdir(exist_ok=True)
 DELETABLE.mkdir(exist_ok=True)
 
 # Read the dashboard
-DASH = json.loads((REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/relationships_dashboard.json").read_text())
+DASH = json.loads(
+    (REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/relationships_dashboard.json").read_text()
+)
 JID_INFO = {c["jid"]: c for c in DASH["scored"]}
 
 # Rules:
@@ -27,14 +30,25 @@ JID_INFO = {c["jid"]: c for c in DASH["scored"]}
 # - Short (30-99): if score >= 35 OR family name OR active recently -> STAY
 #                    else -> _stubs/ or _archive/
 
-FAMILY_KEYWORDS = ["poli", "van_der_pol", "weiss", "hermana", "kiki", "lua", "kuki", "kiara", "saskia"]
+FAMILY_KEYWORDS = [
+    "poli",
+    "van_der_pol",
+    "weiss",
+    "hermana",
+    "kiki",
+    "lua",
+    "kuki",
+    "kiara",
+    "saskia",
+]
 DORMANT_DAYS = 365
 LOW_MSG_THRESHOLD = 50
 
 # Move 73 files in _archive/ back to top, then re-classify
 print("=== Step 1: Move _archive/ files back to top for re-evaluation ===")
 for p in ARCHIVE.glob("*.md"):
-    if p.name == "REVIEW.md": continue
+    if p.name == "REVIEW.md":
+        continue
     dest = PROFILE_DIR / p.name
     if dest.exists():
         print(f"  SKIP (target exists): {p.name}")
@@ -121,7 +135,7 @@ for p in top_files:
     # Keep at top
     kept_at_top += 1
 
-print(f"\n=== Summary ===")
+print("\n=== Summary ===")
 print(f"  Kept at top: {kept_at_top}")
 print(f"  Moved to _stubs/: {moved_to_stub}")
 print(f"  Moved to _archive/: {moved_to_archive}")

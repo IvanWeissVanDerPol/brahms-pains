@@ -10,11 +10,11 @@ For each query, find matching transcripts with:
 
 Output: transcript_search.html — single-page app with lazy-loaded JSON
 """
+
 from __future__ import annotations
 
 import json
 import re
-from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
@@ -23,12 +23,13 @@ ANALYSIS = REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS"
 TRANSCRIPT_BASE = REPO / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 
 # Extract date from PTT-YYYYMMDD-WAnnnn.opus filename
-DATE_RE = re.compile(r'PTT-(\d{4})(\d{2})(\d{2})-')
+DATE_RE = re.compile(r"PTT-(\d{4})(\d{2})(\d{2})-")
 
 
 def extract_date(filename: str) -> str | None:
     m = DATE_RE.search(filename)
-    if not m: return None
+    if not m:
+        return None
     try:
         y, mo, d = m.groups()
         return f"{y}-{mo}-{d}"
@@ -44,7 +45,8 @@ def main():
         file_count += 1
         try:
             arr = json.loads(f.read_text())
-            if not isinstance(arr, list): continue
+            if not isinstance(arr, list):
+                continue
             chat_dir = f.parent.name
             for entry in arr:
                 entry["_chat"] = chat_dir
@@ -63,7 +65,7 @@ def main():
     for t in valid:
         chat = t.get("_chat", "?")
         if chat not in chat_to_info:
-            m = re.search(r'(?:chat|_wa_chat)_(\d{8,15})_', chat)
+            m = re.search(r"(?:chat|_wa_chat)_(\d{8,15})_", chat)
             jid = m.group(1) if m else "?"
             chat_to_info[chat] = {
                 "jid": jid,
@@ -75,22 +77,25 @@ def main():
     search_entries = []
     for i, t in enumerate(valid):
         text = t.get("text", "").strip()
-        if not text: continue
+        if not text:
+            continue
         date = extract_date(t.get("file", ""))
         chat = t.get("_chat", "?")
         info = chat_to_info.get(chat, {"jid": "?", "name": "?"})
-        search_entries.append({
-            "id": i,
-            "file": t.get("file", "?"),
-            "text": text,
-            "text_low": text.lower(),
-            "language": t.get("language", "?"),
-            "duration": round(t.get("duration") or 0, 2),
-            "date": date,
-            "chat": chat,
-            "name": info["name"],
-            "jid": info["jid"],
-        })
+        search_entries.append(
+            {
+                "id": i,
+                "file": t.get("file", "?"),
+                "text": text,
+                "text_low": text.lower(),
+                "language": t.get("language", "?"),
+                "duration": round(t.get("duration") or 0, 2),
+                "date": date,
+                "chat": chat,
+                "name": info["name"],
+                "jid": info["jid"],
+            }
+        )
 
     print(f"Search corpus: {len(search_entries)} entries")
 
@@ -126,7 +131,8 @@ def main():
                 "name": e["name"],
                 "chat": e["chat"],
                 "jid": e["jid"],
-            } for e in search_entries
+            }
+            for e in search_entries
         ],
     }
     lean_path = ANALYSIS / "transcript_search_lean.json"

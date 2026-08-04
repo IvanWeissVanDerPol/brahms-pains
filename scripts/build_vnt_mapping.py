@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Build mapping from voice_note_transcripts folders to canonical contact names."""
+
 from __future__ import annotations
 
 import json
@@ -29,17 +30,30 @@ def main():
 
     # Load wa_messages metadata to find which JID belongs to which dir
     jid_to_dir = {}
-    for tier in ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups",
-                  "untiered_personal", "other_lid", "circles", "_dropped", "_conversations"]:
+    for tier in [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+        "circles",
+        "_dropped",
+        "_conversations",
+    ]:
         tier_dir = WA_MESSAGES / tier
-        if not tier_dir.exists(): continue
+        if not tier_dir.exists():
+            continue
         for d in tier_dir.iterdir():
-            if not d.is_dir(): continue
+            if not d.is_dir():
+                continue
             # Extract JID from dir name
-            m = re.search(r'(\d{10,15})', d.name)
-            if not m: continue
+            m = re.search(r"(\d{10,15})", d.name)
+            if not m:
+                continue
             jid = m.group(1)
-            if jid in jid_to_dir: continue  # take first
+            if jid in jid_to_dir:
+                continue  # take first
 
             # Get canonical name from messages.json
             mf = d / "messages.json"
@@ -53,11 +67,12 @@ def main():
                             if isinstance(m_msg, dict) and m_msg.get("text"):
                                 # Look for "soy X" pattern
                                 text = m_msg["text"].lower()
-                                intro = re.search(r'soy ([a-záéíóúñ ]{2,30})', text)
+                                intro = re.search(r"soy ([a-záéíóúñ ]{2,30})", text)
                                 if intro:
                                     sender_name = intro.group(1).strip()
                                     break
-                except: pass
+                except:
+                    pass
 
             jid_to_dir[jid] = {
                 "dir_name": d.name,
@@ -73,39 +88,53 @@ def main():
     # Walk all VNT folders
     mapping = []  # list of {folder, jid, canonical_name, tier, action}
     for d in VNT.iterdir():
-        if not d.is_dir(): continue
+        if not d.is_dir():
+            continue
         if d.name.startswith("_"):
             # special: _wa_ptt_bulk, _documents_ivan_voice, _w4b_unmapped
-            mapping.append({
-                "folder": d.name,
-                "jid": None,
-                "canonical_name": d.name,
-                "tier": "special",
-                "action": "skip",
-            })
+            mapping.append(
+                {
+                    "folder": d.name,
+                    "jid": None,
+                    "canonical_name": d.name,
+                    "tier": "special",
+                    "action": "skip",
+                }
+            )
             continue
-        if d.name in ["Laura", "Ara_Nunez_Poli", "Cookie", "Defi",
-                      "Jonatan_Verdun", "Lourdes_Youko_Kurama", "Magali_Carreras"]:
+        if d.name in [
+            "Laura",
+            "Ara_Nunez_Poli",
+            "Cookie",
+            "Defi",
+            "Jonatan_Verdun",
+            "Lourdes_Youko_Kurama",
+            "Magali_Carreras",
+        ]:
             # Already named correctly
-            mapping.append({
-                "folder": d.name,
-                "jid": None,
-                "canonical_name": d.name,
-                "tier": "named",
-                "action": "skip",
-            })
+            mapping.append(
+                {
+                    "folder": d.name,
+                    "jid": None,
+                    "canonical_name": d.name,
+                    "tier": "named",
+                    "action": "skip",
+                }
+            )
             continue
 
         # Extract JID from folder name
-        m = re.search(r'(\d{10,15})', d.name)
+        m = re.search(r"(\d{10,15})", d.name)
         if not m:
-            mapping.append({
-                "folder": d.name,
-                "jid": None,
-                "canonical_name": d.name,
-                "tier": "unknown",
-                "action": "skip",
-            })
+            mapping.append(
+                {
+                    "folder": d.name,
+                    "jid": None,
+                    "canonical_name": d.name,
+                    "tier": "unknown",
+                    "action": "skip",
+                }
+            )
             continue
 
         jid = m.group(1)
@@ -124,21 +153,23 @@ def main():
 
         if canonical:
             # Make safe filename
-            safe = re.sub(r'[^\w\s-]', '', canonical).strip()
-            safe = re.sub(r'\s+', '_', safe)
+            safe = re.sub(r"[^\w\s-]", "", canonical).strip()
+            safe = re.sub(r"\s+", "_", safe)
             action = "rename" if safe != d.name else "skip"
         else:
             safe = d.name
             action = "skip"
 
-        mapping.append({
-            "folder": d.name,
-            "jid": jid,
-            "canonical_name": canonical,
-            "safe_name": safe,
-            "tier": tier,
-            "action": action,
-        })
+        mapping.append(
+            {
+                "folder": d.name,
+                "jid": jid,
+                "canonical_name": canonical,
+                "safe_name": safe,
+                "tier": tier,
+                "action": action,
+            }
+        )
 
     # Stats
     by_action = defaultdict(int)
@@ -170,8 +201,10 @@ def main():
     print("\n=== Sample rename proposals (first 15) ===")
     for m in mapping:
         if m["action"] == "rename":
-            print(f"  {m['folder']} -> {m['safe_name']}  (JID {m['jid']}, tier {m['tier']}, name {m['canonical_name']})")
-            if len([x for x in mapping if x['action'] == 'rename']) > 15:
+            print(
+                f"  {m['folder']} -> {m['safe_name']}  (JID {m['jid']}, tier {m['tier']}, name {m['canonical_name']})"
+            )
+            if len([x for x in mapping if x["action"] == "rename"]) > 15:
                 break
 
 

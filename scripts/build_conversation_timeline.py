@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """Build complete conversation timeline + friend closeness history."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
 from collections import defaultdict, Counter
-from datetime import datetime, timedelta
-import statistics
+from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
 WA = REPO / "SOURCE_OF_TRUTH/wa_messages"
@@ -17,8 +17,16 @@ def build_timeline():
     """For each contact, build yearly timeline of closeness metrics."""
     by_chat_year = defaultdict(dict)
 
-    tiers = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups",
-             "untiered_personal", "other_lid", "_dropped", "_newsletters"]
+    tiers = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "untiered_personal",
+        "other_lid",
+        "_dropped",
+        "_newsletters",
+    ]
 
     # Aggregate per chat, per year
     for tier in tiers:
@@ -100,22 +108,26 @@ def build_timeline():
             engagement = b["msgs"] / b["days_active"] if b["days_active"] > 0 else 0
 
             # Closeness score: combines volume + consistency + reciprocity
-            closeness = (b["msgs"] * 0.4 +
-                        b["days_active"] * 1.0 +
-                        (1 - abs(ivan_ratio - 0.5)) * b["msgs"] * 0.3)
+            closeness = (
+                b["msgs"] * 0.4
+                + b["days_active"] * 1.0
+                + (1 - abs(ivan_ratio - 0.5)) * b["msgs"] * 0.3
+            )
 
-            chat_timeline.append({
-                "year": year,
-                "msgs": b["msgs"],
-                "ivan_msgs": b["ivan_msgs"],
-                "them_msgs": b["msgs"] - b["ivan_msgs"],
-                "days_active": b["days_active"],
-                "ivan_ratio": round(ivan_ratio, 3),
-                "engagement_per_day": round(engagement, 1),
-                "closeness_score": round(closeness, 1),
-                "first_message_ts": b["first_message"],
-                "last_message_ts": b["last_message"],
-            })
+            chat_timeline.append(
+                {
+                    "year": year,
+                    "msgs": b["msgs"],
+                    "ivan_msgs": b["ivan_msgs"],
+                    "them_msgs": b["msgs"] - b["ivan_msgs"],
+                    "days_active": b["days_active"],
+                    "ivan_ratio": round(ivan_ratio, 3),
+                    "engagement_per_day": round(engagement, 1),
+                    "closeness_score": round(closeness, 1),
+                    "first_message_ts": b["first_message"],
+                    "last_message_ts": b["last_message"],
+                }
+            )
 
         timelines[chat] = {
             "tier": tier_for_chat,
@@ -123,7 +135,9 @@ def build_timeline():
             "timeline": chat_timeline,
             "lifetime_msgs": sum(b["msgs"] for b in years.values()),
             "lifetime_years_active": len(all_years),
-            "peak_year": max(chat_timeline, key=lambda x: x["msgs"])["year"] if chat_timeline else None,
+            "peak_year": (
+                max(chat_timeline, key=lambda x: x["msgs"])["year"] if chat_timeline else None
+            ),
             "first_year": all_years[0] if all_years else None,
             "last_year": all_years[-1] if all_years else None,
         }
@@ -141,7 +155,7 @@ def build_timeline():
     print(f"Wrote {out.relative_to(REPO)}")
 
     # Print summary insights
-    print(f"\n=== Timeline Summary ===")
+    print("\n=== Timeline Summary ===")
     print(f"Total chats with timelines: {len(timelines)}")
 
     # By year totals
@@ -150,19 +164,21 @@ def build_timeline():
         for year_bucket in info["timeline"]:
             year_totals[year_bucket["year"]] += year_bucket["msgs"]
 
-    print(f"\nTotal messages by year:")
+    print("\nTotal messages by year:")
     for year in sorted(year_totals.keys()):
         print(f"  {year}: {year_totals[year]:>8,} msgs")
 
     # Top 15 chats by lifetime volume
-    print(f"\nTop 15 by lifetime volume:")
+    print("\nTop 15 by lifetime volume:")
     top = sorted(timelines.items(), key=lambda x: -x[1]["lifetime_msgs"])[:15]
     for c, info in top:
-        print(f"  {info['lifetime_msgs']:>7,} msgs  {info['lifetime_years_active']}y span  "
-              f"peak {info['peak_year']}  {c[:35]}")
+        print(
+            f"  {info['lifetime_msgs']:>7,} msgs  {info['lifetime_years_active']}y span  "
+            f"peak {info['peak_year']}  {c[:35]}"
+        )
 
     # Identify rising and falling relationships
-    print(f"\n=== Rising relationships (recent year > previous year, +30% growth) ===")
+    print("\n=== Rising relationships (recent year > previous year, +30% growth) ===")
     rising = []
     for c, info in timelines.items():
         if len(info["timeline"]) >= 2:
@@ -174,9 +190,11 @@ def build_timeline():
                     rising.append((c, info, growth))
 
     for c, info, g in sorted(rising, key=lambda x: -x[2])[:10]:
-        print(f"  +{g:.0%}  {info['timeline'][-2]['msgs']} -> {info['timeline'][-1]['msgs']} msgs  {c[:30]}")
+        print(
+            f"  +{g:.0%}  {info['timeline'][-2]['msgs']} -> {info['timeline'][-1]['msgs']} msgs  {c[:30]}"
+        )
 
-    print(f"\n=== Falling relationships (recent year < previous year, -30% drop) ===")
+    print("\n=== Falling relationships (recent year < previous year, -30% drop) ===")
     falling = []
     for c, info in timelines.items():
         if len(info["timeline"]) >= 2:
@@ -188,7 +206,9 @@ def build_timeline():
                     falling.append((c, info, change))
 
     for c, info, ch in sorted(falling, key=lambda x: x[2])[:10]:
-        print(f"  {ch:.0%}  {info['timeline'][-2]['msgs']} -> {info['timeline'][-1]['msgs']} msgs  {c[:30]}")
+        print(
+            f"  {ch:.0%}  {info['timeline'][-2]['msgs']} -> {info['timeline'][-1]['msgs']} msgs  {c[:30]}"
+        )
 
 
 if __name__ == "__main__":

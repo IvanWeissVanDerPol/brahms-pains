@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Aggregate documents__*.m4a.json Whisper outputs into transcripts.json."""
+
 import json
 import re
 from pathlib import Path
@@ -23,13 +24,15 @@ for jf in sorted(BULK.glob("documents__*.m4a.json")):
         continue
     m = DATE_RE.match(jf.name)
     date = f"{m.group(3)}-{m.group(1)}-{m.group(2)}" if m else None
-    entries.append({
-        "file": data.get("file", jf.stem),
-        "date": date,
-        "text": text,
-        "duration": data.get("duration"),
-        "language": data.get("language"),
-    })
+    entries.append(
+        {
+            "file": data.get("file", jf.stem),
+            "date": date,
+            "text": text,
+            "duration": data.get("duration"),
+            "language": data.get("language"),
+        }
+    )
 
 OUT.write_text(json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8")
 print(f"Wrote {len(entries)} entries to {OUT} (skipped {skipped})")

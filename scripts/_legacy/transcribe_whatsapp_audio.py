@@ -13,7 +13,6 @@ Usage:
     python transcribe_whatsapp_audio.py
 """
 
-import os
 import sys
 import json
 import logging
@@ -39,9 +38,7 @@ logger = logging.getLogger(__name__)
 
 
 class WhatsAppAudioTranscriber:
-    def __init__(
-        self, source_dir: str, output_dir: str = None, model_name: str = "base"
-    ):
+    def __init__(self, source_dir: str, output_dir: str = None, model_name: str = "base"):
         """
         Initialize the transcriber.
 
@@ -51,9 +48,7 @@ class WhatsAppAudioTranscriber:
             model_name: Whisper model to use (tiny, base, small, medium, large)
         """
         self.source_dir = Path(source_dir)
-        self.output_dir = (
-            Path(output_dir) if output_dir else self.source_dir / "transcriptions"
-        )
+        self.output_dir = Path(output_dir) if output_dir else self.source_dir / "transcriptions"
         self.model_name = model_name
         self.model = None
 
@@ -92,10 +87,7 @@ class WhatsAppAudioTranscriber:
 
         # Find all files with audio extensions
         for file_path in self.source_dir.rglob("*"):
-            if (
-                file_path.is_file()
-                and file_path.suffix.lower() in self.audio_extensions
-            ):
+            if file_path.is_file() and file_path.suffix.lower() in self.audio_extensions:
                 audio_files.append(file_path)
 
         # Sort files by name for consistent processing
@@ -131,17 +123,15 @@ class WhatsAppAudioTranscriber:
                 "file_path": str(audio_file.relative_to(self.source_dir)),
                 "file_size": audio_file.stat().st_size,
                 "transcription_date": datetime.now().isoformat(),
-                "duration": result.get("segments", [{}])[-1].get("end", 0)
-                if result.get("segments")
-                else 0,
+                "duration": (
+                    result.get("segments", [{}])[-1].get("end", 0) if result.get("segments") else 0
+                ),
                 "detected_language": result.get("language", "unknown"),
                 "text": result.get("text", "").strip(),
                 "segments": result.get("segments", []),
             }
 
-            logger.info(
-                f"Transcribed {audio_file.name} ({transcription['duration']:.1f}s)"
-            )
+            logger.info(f"Transcribed {audio_file.name} ({transcription['duration']:.1f}s)")
             return transcription
 
         except Exception as e:
@@ -218,17 +208,13 @@ class WhatsAppAudioTranscriber:
 
         with open(report_file, "w", encoding="utf-8") as f:
             f.write("# WhatsApp Audio Transcription Summary\n\n")
-            f.write(
-                f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n"
-            )
+            f.write(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
 
             f.write("## Statistics\n\n")
             f.write(f"- **Total Files:** {total_files}\n")
             f.write(f"- **Total Duration:** {total_duration / 60:.1f} minutes\n")
             f.write(f"- **Total Size:** {total_size / 1024 / 1024:.1f} MB\n")
-            f.write(
-                f"- **Average Duration:** {total_duration / total_files:.1f} seconds\n\n"
-            )
+            f.write(f"- **Average Duration:** {total_duration / total_files:.1f} seconds\n\n")
 
             f.write("## Languages Detected\n\n")
             for lang, count in sorted(languages.items()):
@@ -246,9 +232,7 @@ class WhatsAppAudioTranscriber:
 
         logger.info(f"Created summary report: {report_file}")
 
-    def transcribe_all(
-        self, formats: List[str] = ["txt", "json"], skip_existing: bool = True
-    ):
+    def transcribe_all(self, formats: List[str] = ["txt", "json"], skip_existing: bool = True):
         """
         Transcribe all audio files in the directory.
 
@@ -273,9 +257,7 @@ class WhatsAppAudioTranscriber:
             # Check if transcription already exists
             if skip_existing:
                 base_name = audio_file.stem
-                existing_files = [
-                    self.output_dir / f"{base_name}.{fmt}" for fmt in formats
-                ]
+                existing_files = [self.output_dir / f"{base_name}.{fmt}" for fmt in formats]
                 if any(f.exists() for f in existing_files):
                     logger.info(f"Skipping {audio_file.name} (already transcribed)")
                     continue
@@ -300,9 +282,7 @@ class WhatsAppAudioTranscriber:
 
 def main():
     """Main function."""
-    parser = argparse.ArgumentParser(
-        description="Transcribe WhatsApp audio files using Whisper"
-    )
+    parser = argparse.ArgumentParser(description="Transcribe WhatsApp audio files using Whisper")
     parser.add_argument("source_dir", help="Path to WhatsApp chat directory")
     parser.add_argument("--output-dir", help="Output directory for transcriptions")
     parser.add_argument(
@@ -318,9 +298,7 @@ def main():
         choices=["txt", "json", "srt"],
         help="Output formats to generate (default: txt json)",
     )
-    parser.add_argument(
-        "--force", action="store_true", help="Overwrite existing transcriptions"
-    )
+    parser.add_argument("--force", action="store_true", help="Overwrite existing transcriptions")
 
     args = parser.parse_args()
 

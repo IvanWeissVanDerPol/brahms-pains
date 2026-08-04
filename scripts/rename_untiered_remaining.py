@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Comprehensive identity-based rename for untiered_personal."""
+
 from __future__ import annotations
 
-import json
 import re
 import shutil
 from pathlib import Path
@@ -12,8 +12,8 @@ WA = REPO / "SOURCE_OF_TRUTH" / "wa_messages/untiered_personal"
 
 
 def safe_name(name: str) -> str:
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
@@ -24,21 +24,17 @@ def main():
         "Lid_170823767859295": "Kiki_Referral_Wes",  # "hi wes im ivan kiki passed me your whatsapp"
         "108__p9093___wa_chat_5215547629093_4393": "Cerri",  # "Soy Cerri"
         "Lid_58390113992826": "Raul_Hermano_Roger",  # "Habla Raul, El Hermano de Roger"
-
         # 80-89 msgs
         "cesar____wa_chat_595972104371_9036": "Cesar",  # already has prefix
         "Lid_55955521822873": "Photo_Sender",  # "Te envío las fotos donde salís"
-
         # 70-79 msgs
         "164__p0045___wa_chat_595981700045_3657": "Consult_Query",
-
         # 60-69 msgs
         "Lid_223446109839496": "Sara",  # "Hola! Sara soy"
         "226__p5034___wa_chat_595991715034_11083": "OT_19507_Tech",  # service order
         "Lid_180002230378511": "Sarah_Bum_Referral",  # "Me pasó tu bum Sarah"
         "140__p9007___wa_chat_595974419007_11192": "Canada_Flight_Ref",  # "Me pasaron este Numero para agendar mi vuelo a Canada"
         "Lid_264647361974519": "Lid_264647361974519",  # empty first msg, skip
-
         # 50-59 msgs
         "angel____wa_chat_595971102999_2992": "Angel_Gamarra_CS",  # "secretario del comité de cursos"
         "190__p9200___wa_chat_595984409200_4630": "Delivery_Query",
@@ -47,7 +43,6 @@ def main():
         "Lid_83477168951296": "Reimar_Cintos",  # "de Reimar comercial"
         "150__p3900___wa_chat_595981063900_11176": "Chat_150p3900",
         "Lid_242455349821600": "Masterdom_Jose_Angelo",  # "Soy Masterdom, Jose o Angelo"
-
         # 40-49 msgs
         "244__p3154___wa_chat_595992853154_2985": "Profe_Curso_Query",  # "puedo aun unirme como profe"
         "227__p7977___wa_chat_595991717977_12799": "Chat_227p7977",
@@ -59,7 +54,6 @@ def main():
         "Lid_104741417795691": "Piercing_Aftercare_Buyer",
         "Chat_595984682720": "Me_Dejaste_Tu_Numero",
         "Chat_595985219034": "Regalo_Coordinacion",
-
         # 30-39 msgs
         "Lid_76824231051438": "Hola_Ivan_Que_Tal",
         "Lid_105909749575890": "Jose_Balcarse",  # "Le saluda Jose Balcarse"
@@ -104,7 +98,7 @@ def main():
         print(f"  RENAMED: {old} -> {new}")
         renamed += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Renamed: {renamed}")
     print(f"  Skipped: {skipped}")
 

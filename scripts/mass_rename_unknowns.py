@@ -22,6 +22,7 @@ USAGE:
     python3 scripts/mass_rename_unknowns.py --dry-run
     python3 scripts/mass_rename_unknowns.py --apply
 """
+
 from __future__ import annotations
 
 import argparse
@@ -114,18 +115,42 @@ def find_chats(tiers):
             # Skip already well-named
             if nm and not nm.startswith("p") and not nm.startswith("__"):
                 # Skip family-role names
-                if any(role in nm.lower() for role in [
-                    "mom", "dad", "grandma", "grandpa", "uncle", "aunt",
-                    "sister", "cousin", "gabriel_g", "gabriel",
-                ]):
+                if any(
+                    role in nm.lower()
+                    for role in [
+                        "mom",
+                        "dad",
+                        "grandma",
+                        "grandpa",
+                        "uncle",
+                        "aunt",
+                        "sister",
+                        "cousin",
+                        "gabriel_g",
+                        "gabriel",
+                    ]
+                ):
                     continue
                 if nm not in ("",) and len(nm) > 4 and nm[0].isupper():
                     continue
             # SAFETY: also skip if dirname itself contains a known good name
             dlow = d.name.lower()
-            KNOWN_GOOD = ["magali", "lourdes", "jonatan", "jonathan", "alejandro",
-                          "laura_x", "cesar", "lilian", "victor", "hugo", "raff",
-                          "plub", "consultorio", "fpuna_alvaro"]
+            KNOWN_GOOD = [
+                "magali",
+                "lourdes",
+                "jonatan",
+                "jonathan",
+                "alejandro",
+                "laura_x",
+                "cesar",
+                "lilian",
+                "victor",
+                "hugo",
+                "raff",
+                "plub",
+                "consultorio",
+                "fpuna_alvaro",
+            ]
             if any(k in dlow for k in KNOWN_GOOD):
                 continue
             out.append((tier, d, data))
@@ -163,11 +188,15 @@ def signal_self_intro(data):
             for match in re.finditer(pat, text, re.IGNORECASE):
                 # Check for negation in the 5 words BEFORE the match
                 start = match.start()
-                prefix = text_lower[max(0, start - 30):start].split()[-5:]
+                prefix = text_lower[max(0, start - 30) : start].split()[-5:]
                 if any(neg in prefix for neg in NEG_WORDS):
                     continue  # Skip negations like "no me llamo"
                 name = match.group(1).lower()
-                if name in COMMON_FIRST_NAMES and name not in STOP_WORDS and name not in FAMILY_TERMS:
+                if (
+                    name in COMMON_FIRST_NAMES
+                    and name not in STOP_WORDS
+                    and name not in FAMILY_TERMS
+                ):
                     candidates[name] += 5  # Strong signal
     return candidates
 
@@ -265,10 +294,23 @@ def lookup_name(jid):
 def is_family_or_shortcut(name):
     """Filter out family-role names from co-member inference."""
     n = name.lower()
-    return any(role in n for role in [
-        "mom", "dad", "grandma", "grandpa", "uncle", "aunt",
-        "sister", "cousin", "kiki", "luana", "sonia", "john",
-    ])
+    return any(
+        role in n
+        for role in [
+            "mom",
+            "dad",
+            "grandma",
+            "grandpa",
+            "uncle",
+            "aunt",
+            "sister",
+            "cousin",
+            "kiki",
+            "luana",
+            "sonia",
+            "john",
+        ]
+    )
 
 
 def suggest_name(data, tier, dirname):
@@ -278,9 +320,12 @@ def suggest_name(data, tier, dirname):
     s3 = signal_co_member(tier, dirname, data)
 
     combined = defaultdict(float)
-    for d in s1: combined[d] += s1[d]
-    for d in s2: combined[d] += s2[d]
-    for d in s3: combined[d] += s3[d]
+    for d in s1:
+        combined[d] += s1[d]
+    for d in s2:
+        combined[d] += s2[d]
+    for d in s3:
+        combined[d] += s3[d]
 
     if not combined:
         return None, 0.0, {}
@@ -329,9 +374,12 @@ def main():
         s2 = signal_name_mentions(data)
         s3 = signal_co_member(tier, d, data)
         combined = defaultdict(float)
-        for k, v in s1.items(): combined[k] += v
-        for k, v in s2.items(): combined[k] += v
-        for k, v in s3.items(): combined[k] += v
+        for k, v in s1.items():
+            combined[k] += v
+        for k, v in s2.items():
+            combined[k] += v
+        for k, v in s3.items():
+            combined[k] += v
 
         # SAFETY: require self-intro OR multiple name mentions (not just co-member)
         if not combined:
@@ -357,18 +405,20 @@ def main():
             chat_suffix = f"wa_chat_{jid}_{0}"
         new_dir_name = f"{safe_dir_name(name)}__{chat_suffix}"
         new_dir = d.parent / new_dir_name
-        proposals.append({
-            "tier": tier,
-            "old_dir": str(d.relative_to(REPO)),
-            "new_dir": str(new_dir.relative_to(REPO)),
-            "jid": jid,
-            "msgs": n_msgs,
-            "suggested_name": name,
-            "score": score,
-            "self_intro": dict(s1),
-            "mentions": dict(s2),
-            "all_candidates": dict(sorted_cands[:5]),
-        })
+        proposals.append(
+            {
+                "tier": tier,
+                "old_dir": str(d.relative_to(REPO)),
+                "new_dir": str(new_dir.relative_to(REPO)),
+                "jid": jid,
+                "msgs": n_msgs,
+                "suggested_name": name,
+                "score": score,
+                "self_intro": dict(s1),
+                "mentions": dict(s2),
+                "all_candidates": dict(sorted_cands[:5]),
+            }
+        )
 
     # Sort by score descending
     proposals.sort(key=lambda x: -x["score"])
@@ -387,13 +437,21 @@ def main():
         print()
 
     if args.dry_run:
-        out_path = REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS" / "MASS_RENAME_PROPOSALS.json"
-        out_path.write_text(json.dumps({
-            "generated_at": str(__import__('datetime').datetime.now()),
-            "total_proposals": len(proposals),
-            "proposals": proposals,
-            "skipped": len(skipped),
-        }, ensure_ascii=False, indent=2))
+        out_path = (
+            REPO / "SOURCE_OF_TRUTH" / "wa_messages" / "_ANALYSIS" / "MASS_RENAME_PROPOSALS.json"
+        )
+        out_path.write_text(
+            json.dumps(
+                {
+                    "generated_at": str(__import__("datetime").datetime.now()),
+                    "total_proposals": len(proposals),
+                    "proposals": proposals,
+                    "skipped": len(skipped),
+                },
+                ensure_ascii=False,
+                indent=2,
+            )
+        )
         print(f"Wrote {out_path.relative_to(REPO)}")
         print(f"Skipped: {len(skipped)} chats (low signal)")
         return
@@ -411,6 +469,7 @@ def main():
     }
 
     import subprocess
+
     for p in proposals:
         # Skip open-question chats
         if p["jid"] in SKIP_JIDS:
@@ -427,13 +486,16 @@ def main():
         # git mv
         subprocess.run(
             ["git", "mv", str(old.relative_to(REPO)), str(new.relative_to(REPO))],
-            cwd=REPO, check=True,
+            cwd=REPO,
+            check=True,
         )
         # Update the messages.json with the new provisional name
         try:
             with open(new / "messages.json") as f:
                 data = json.load(f)
-            if "__provisional_name" not in data or not isinstance(data.get("__provisional_name"), dict):
+            if "__provisional_name" not in data or not isinstance(
+                data.get("__provisional_name"), dict
+            ):
                 data["__provisional_name"] = {}
             data["__provisional_name"]["name"] = p["suggested_name"]
             data["__provisional_name"]["source"] = "mass-rename-auto-2026-07-23"
@@ -442,7 +504,9 @@ def main():
                 json.dump(data, f, ensure_ascii=False, indent=1)
         except Exception as e:
             print(f"  ⚠️  could not update provisional name: {e}")
-        print(f"  ✓ {p['old_dir']} → {p['new_dir']} (name={p['suggested_name']}, score={p['score']:.1f})")
+        print(
+            f"  ✓ {p['old_dir']} → {p['new_dir']} (name={p['suggested_name']}, score={p['score']:.1f})"
+        )
 
 
 if __name__ == "__main__":

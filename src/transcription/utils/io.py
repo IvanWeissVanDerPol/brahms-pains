@@ -10,7 +10,6 @@ Provides standardized methods for:
 from __future__ import annotations
 
 import json
-import tempfile
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
@@ -115,9 +114,7 @@ def save_transcripts(
     return json_path, md_path
 
 
-def generate_markdown(
-    chat_name: str, transcripts: list[dict], output_dir: Path
-) -> Optional[Path]:
+def generate_markdown(chat_name: str, transcripts: list[dict], output_dir: Path) -> Optional[Path]:
     """Generate markdown report from transcripts.
 
     Args:

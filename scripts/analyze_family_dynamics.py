@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Family dynamics from message patterns (Hat 4, 13)."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from collections import defaultdict
 from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
@@ -47,7 +47,13 @@ def analyze_family_dynamics():
         }
 
         # Check all tier1, tier2, tier3, untiered_personal
-        for tier in ["tier1_deep", "tier2_core", "tier3_extended", "untiered_personal", "other_lid"]:
+        for tier in [
+            "tier1_deep",
+            "tier2_core",
+            "tier3_extended",
+            "untiered_personal",
+            "other_lid",
+        ]:
             d = WA / tier
             if not d.exists():
                 continue
@@ -107,32 +113,42 @@ def analyze_family_dynamics():
     out.write_text(json.dumps(summary, ensure_ascii=False, indent=1))
     print(f"Wrote {out.relative_to(REPO)}")
 
-    print(f"\n=== Family Dynamics ===")
+    print("\n=== Family Dynamics ===")
     print(f"Total family members: {len(by_family)}")
     print(f"Abandoned: {sum(1 for f in by_family.values() if f['is_abandoned'])}")
 
-    print(f"\nFamily members ranked by lifetime msgs:")
+    print("\nFamily members ranked by lifetime msgs:")
     for member, info in sorted(by_family.items(), key=lambda x: -x[1]["lifetime_msgs"]):
         status = "ABANDONED" if info["is_abandoned"] else "active"
         last = f"{info['last_contact']}d ago" if info["last_contact"] else "?"
         print(f"  {info['lifetime_msgs']:>5} msgs  {last:<12}  {status:<10}  {member}")
 
-    print(f"\n=== Abandoned family members (grief signal) ===")
+    print("\n=== Abandoned family members (grief signal) ===")
     for member, info in by_family.items():
         if info["is_abandoned"]:
             print(f"  {member}: {info['lifetime_msgs']} msgs, last {info['last_contact']}d ago")
 
     # Poli vs Weiss split
-    print(f"\n=== Poli vs Weiss side totals ===")
+    print("\n=== Poli vs Weiss side totals ===")
     poli = ["Poli Family", "Cousin (Prima Mikaela)", "Cousin (Primo Gabriel)"]
-    weiss = ["Mom", "Dad", "Sister (Kiki)", "Sister (Luana)", "Uncle (Toni)", "Uncle (Gerold)",
-             "Grandma (Riet)", "Grandpa (Jan)"]
+    weiss = [
+        "Mom",
+        "Dad",
+        "Sister (Kiki)",
+        "Sister (Luana)",
+        "Uncle (Toni)",
+        "Uncle (Gerold)",
+        "Grandma (Riet)",
+        "Grandpa (Jan)",
+    ]
 
     poli_msgs = sum(by_family[m]["lifetime_msgs"] for m in poli if m in by_family)
     weiss_msgs = sum(by_family[m]["lifetime_msgs"] for m in weiss if m in by_family)
 
     print(f"  Poli side: {poli_msgs:,} msgs ({len([m for m in poli if m in by_family])} members)")
-    print(f"  Weiss side: {weiss_msgs:,} msgs ({len([m for m in weiss if m in by_family])} members)")
+    print(
+        f"  Weiss side: {weiss_msgs:,} msgs ({len([m for m in weiss if m in by_family])} members)"
+    )
 
 
 if __name__ == "__main__":

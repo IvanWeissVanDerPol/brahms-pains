@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Build the relationships_dashboard.html — sortable visual table of all 216 contacts."""
+
 from __future__ import annotations
 
 import json
@@ -23,7 +24,8 @@ TIER_COLOR = {
 }
 
 # Build HTML
-HTML = '''<!DOCTYPE html>
+HTML = (
+    """<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -91,12 +93,24 @@ HTML = '''<!DOCTYPE html>
   </div>
   
   <div class="tier-summary">
-    <div class="tier-card tier-INTIMATE"><div class="tier-name">INTIMATE</div><div class="tier-count">''' + str(tier_counts.get("INTIMATE", 0)) + '''</div><div class="tier-desc">BFF, family, romantic</div></div>
-    <div class="tier-card tier-CLOSE"><div class="tier-name">CLOSE</div><div class="tier-count">''' + str(tier_counts.get("CLOSE", 0)) + '''</div><div class="tier-desc">best friends, mentors</div></div>
-    <div class="tier-card tier-ACTIVE"><div class="tier-name">ACTIVE</div><div class="tier-count">''' + str(tier_counts.get("ACTIVE", 0)) + '''</div><div class="tier-desc">regular friends</div></div>
-    <div class="tier-card tier-WARM"><div class="tier-name">WARM</div><div class="tier-count">''' + str(tier_counts.get("WARM", 0)) + '''</div><div class="tier-desc">occasional</div></div>
-    <div class="tier-card tier-DORMANT"><div class="tier-name">DORMANT</div><div class="tier-count">''' + str(tier_counts.get("DORMANT", 0)) + '''</div><div class="tier-desc">inactive</div></div>
-    <div class="tier-card tier-COLD"><div class="tier-name">COLD</div><div class="tier-count">''' + str(tier_counts.get("COLD", 0)) + '''</div><div class="tier-desc">stale or business</div></div>
+    <div class="tier-card tier-INTIMATE"><div class="tier-name">INTIMATE</div><div class="tier-count">"""
+    + str(tier_counts.get("INTIMATE", 0))
+    + """</div><div class="tier-desc">BFF, family, romantic</div></div>
+    <div class="tier-card tier-CLOSE"><div class="tier-name">CLOSE</div><div class="tier-count">"""
+    + str(tier_counts.get("CLOSE", 0))
+    + """</div><div class="tier-desc">best friends, mentors</div></div>
+    <div class="tier-card tier-ACTIVE"><div class="tier-name">ACTIVE</div><div class="tier-count">"""
+    + str(tier_counts.get("ACTIVE", 0))
+    + """</div><div class="tier-desc">regular friends</div></div>
+    <div class="tier-card tier-WARM"><div class="tier-name">WARM</div><div class="tier-count">"""
+    + str(tier_counts.get("WARM", 0))
+    + """</div><div class="tier-desc">occasional</div></div>
+    <div class="tier-card tier-DORMANT"><div class="tier-name">DORMANT</div><div class="tier-count">"""
+    + str(tier_counts.get("DORMANT", 0))
+    + """</div><div class="tier-desc">inactive</div></div>
+    <div class="tier-card tier-COLD"><div class="tier-name">COLD</div><div class="tier-count">"""
+    + str(tier_counts.get("COLD", 0))
+    + """</div><div class="tier-desc">stale or business</div></div>
   </div>
   
   <table id="tbl">
@@ -122,12 +136,16 @@ HTML = '''<!DOCTYPE html>
   <div class="footer">
     Score = volume(15) + recency(15) + sentiment(12) + reciprocity(10) + latency(10) + streak(10) + longevity(10) + audio(8) + emoji(5) + activity(5). 
     Each sub-score is 0-100. Total weighted average → tier. 
-    Generated ''' + data["generated_at"][:19] + ''' UTC.
+    Generated """
+    + data["generated_at"][:19]
+    + """ UTC.
   </div>
 </div>
 
 <script>
-const DATA = ''' + json.dumps(scored, ensure_ascii=False) + ''';
+const DATA = """
+    + json.dumps(scored, ensure_ascii=False)
+    + """;
 
 let sortKey = "score";
 let sortAsc = false;
@@ -151,7 +169,9 @@ function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[c]);
 }
 
-const TIER_COLORS = ''' + json.dumps(TIER_COLOR) + ''';
+const TIER_COLORS = """
+    + json.dumps(TIER_COLOR)
+    + """;
 
 function render() {
   const q = document.getElementById("search").value.toLowerCase();
@@ -212,7 +232,8 @@ render();
 </script>
 </body>
 </html>
-'''
+"""
+)
 
 out = ANALYSIS / "relationships_dashboard.html"
 out.write_text(HTML)

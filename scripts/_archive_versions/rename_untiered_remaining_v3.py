@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Final rename pass for remaining 10-29 msg untiered_personal."""
+
 from __future__ import annotations
 
-import json
-import re
 import shutil
 from pathlib import Path
 
@@ -33,7 +32,6 @@ def main():
         "Lid_6043606212799": "Solo_San_Lorenzo_25",  # "soy solo de 25 de san lorenz"
         "Lid_248085934555139": "La_Luna_Es_Mia_Tienda",
         "Lid_218051244990519": "Che_Varea_Grill",
-
         # 10-29 msgs
         "Lid_142344342999195": "ETA_Coordinator",
         "Lid_116647134245016": "Lid_116647134245016",
@@ -96,7 +94,7 @@ def main():
         print(f"  RENAMED: {old} -> {new}")
         renamed += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Renamed: {renamed}")
     print(f"  Skipped: {skipped}")
 

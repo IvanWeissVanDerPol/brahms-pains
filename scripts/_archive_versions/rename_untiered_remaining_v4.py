@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Rename remaining 7-9 msg untiered_personal chats."""
+
 from __future__ import annotations
 
-import json
 import shutil
 from pathlib import Path
 
@@ -14,13 +14,10 @@ def main():
     MANUAL_MAP = {
         # 60+ msgs
         "Lid_264647361974519": "Lid_264647361974519",  # Empty first msg - leave as-is
-
         # 23 msgs
         "Lid_116647134245016": "Lid_116647134245016",  # Empty first msg - leave as-is
-
         # 16 msgs
         "Lid_2083797373166": "Lid_2083797373166",  # Empty first msg - leave as-is
-
         # 7-9 msgs with identity
         "Chat_13135550002": "Messages_Query",
         "Chat_2347045635469": "Sarah_Sin_Fines_Lucro",  # "Sarah, Organización Sin Fines de Lucro"
@@ -92,7 +89,7 @@ def main():
         print(f"  RENAMED: {old} -> {new}")
         renamed += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Renamed: {renamed}")
     print(f"  Skipped: {skipped}")
 

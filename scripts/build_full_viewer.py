@@ -7,12 +7,11 @@ Self-contained HTML — runs file:// without a server.
 Usage:
     python3 scripts/build_full_viewer.py
 """
+
 from __future__ import annotations
 
 import html
 import json
-import re
-from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
 
@@ -81,7 +80,7 @@ def build_chat_section(jid: str, name: str, tier: str, dir_name: str) -> str:
         return f'<section class="chat"><h3>{html.escape(name)}</h3><p class="muted">no messages</p></section>'
 
     msg_html = "\n".join(format_msg(m) for m in msgs if format_msg(m))
-    return f'''<section class="chat" data-jid="{html.escape(jid)}" data-tier="{html.escape(tier)}">
+    return f"""<section class="chat" data-jid="{html.escape(jid)}" data-tier="{html.escape(tier)}">
   <header>
     <h3>{html.escape(name)}</h3>
     <span class="jid">{html.escape(jid)}</span>
@@ -91,7 +90,7 @@ def build_chat_section(jid: str, name: str, tier: str, dir_name: str) -> str:
   <div class="messages">
     {msg_html}
   </div>
-</section>'''
+</section>"""
 
 
 def main():
@@ -106,13 +105,17 @@ def main():
             print(f"  skip {e['name']}: {ex}")
 
     # Build not-saved contacts grouped
-    not_saved_html = '<section class="not-saved"><h2>Not Saved in vCard ({} chats)</h2><details><summary>show</summary><ul>'.format(len(not_saved["chats"]))
+    not_saved_html = '<section class="not-saved"><h2>Not Saved in vCard ({} chats)</h2><details><summary>show</summary><ul>'.format(
+        len(not_saved["chats"])
+    )
     for u in not_saved["chats"][:50]:  # Limit to first 50 to keep file size reasonable
         name = u.get("provisional_name") or "unknown"
         not_saved_html += f'<li>{html.escape(u["tier"])} — {html.escape(name)} — {html.escape(u["jid"][:18])}</li>'
     if len(not_saved["chats"]) > 50:
-        not_saved_html += f'<li>... and {len(not_saved["chats"]) - 50} more (see contacts_not_saved.json)</li>'
-    not_saved_html += '</ul></details></section>'
+        not_saved_html += (
+            f'<li>... and {len(not_saved["chats"]) - 50} more (see contacts_not_saved.json)</li>'
+        )
+    not_saved_html += "</ul></details></section>"
 
     # Build stats
     total_msgs = 0
@@ -122,7 +125,8 @@ def main():
             try:
                 data = json.loads((p / "messages.json").read_text())
                 total_msgs += len(data.get("messages", []))
-            except: pass
+            except:
+                pass
 
     stats = {
         "generated_at": datetime.now().isoformat(),
@@ -131,7 +135,7 @@ def main():
         "total_messages_embedded": sum(1 for s in sections if "msg text" in s or "msg audio" in s),
     }
 
-    html_doc = f'''<!DOCTYPE html>
+    html_doc = f"""<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -234,7 +238,7 @@ def main():
   }});
 </script>
 </body>
-</html>'''
+</html>"""
 
     out_path = ANALYSIS / "viewer_full.html"
     out_path.write_text(html_doc)

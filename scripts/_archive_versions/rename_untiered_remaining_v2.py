@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """Continue renaming remaining untiered_personal chats with identity."""
+
 from __future__ import annotations
 
-import json
-import re
 import shutil
 from pathlib import Path
 
@@ -50,7 +49,6 @@ def main():
         "Lid_196542485012495": "Olga_Referral",  # "Me pasó tu número Olga"
         "Chat_595991447905": "Wow_Foto_Chat",
         "247__p5246___wa_chat_595994445246_6538": "Taller_Invierno_Ivan",  # "taller de invierno de Introducción al a"
-
         # 10-19 msgs
         "Lid_83386857160841": "Fernando_Norte_Single_Bi",
         "Chat_595993390824": "Skokka_Luana_Ad",
@@ -94,7 +92,7 @@ def main():
         print(f"  RENAMED: {old} -> {new}")
         renamed += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Renamed: {renamed}")
     print(f"  Skipped: {skipped}")
 

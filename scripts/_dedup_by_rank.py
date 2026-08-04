@@ -15,7 +15,11 @@ This script uses the CURRENT _final_classification.json as the source of truth:
 Run:  python3 _dedup_by_rank.py            # dry run
       python3 _dedup_by_rank.py --yes      # execute
 """
-import json, re, sys, shutil
+
+import json
+import re
+import sys
+import shutil
 from pathlib import Path
 from collections import defaultdict
 
@@ -38,6 +42,7 @@ for i, s in enumerate(FINAL["tiers"]["tier3_extended"], 41):
 # untiered_personal has no explicit rank list; ranks assigned at reorganize
 # time as counter starting at 101. Don't dedup untiered by rank.
 
+
 def parse_folder(name: str):
     slug_m = SLUG_RE.search(name)
     rank_m = RANK_RE.match(name)
@@ -46,9 +51,10 @@ def parse_folder(name: str):
         int(rank_m.group(1)) if rank_m else None,
     )
 
+
 # ---- Walk disk, classify each folder ----
-keep: list[tuple[str, Path]] = []       # (reason, path)
-move: list[tuple[str, Path]] = []        # (reason, path)
+keep: list[tuple[str, Path]] = []  # (reason, path)
+move: list[tuple[str, Path]] = []  # (reason, path)
 by_slug_seen: dict[str, list[Path]] = defaultdict(list)
 
 for tier_name in TIER_DIRS:
@@ -86,7 +92,9 @@ warnings = []
 for slug, paths in by_slug_seen.items():
     kept_paths = [p for reason, p in keep if p in paths]
     if len(paths) > 1 and not kept_paths:
-        warnings.append(f"WARNING: slug {slug} has {len(paths)} dirs but NONE match current classification")
+        warnings.append(
+            f"WARNING: slug {slug} has {len(paths)} dirs but NONE match current classification"
+        )
 
 # ---- Report ----
 print(f"KEEP: {len(keep)}")
@@ -104,8 +112,11 @@ if warnings:
 # ---- Report slugs in classification that have NO surviving on-disk match ----
 missing = []
 for slug, (exp_tier, exp_rank) in expected.items():
-    kept_here = [p for reason, p in keep
-                 if p.parent.name == exp_tier and parse_folder(p.name) == (slug, exp_rank)]
+    kept_here = [
+        p
+        for reason, p in keep
+        if p.parent.name == exp_tier and parse_folder(p.name) == (slug, exp_rank)
+    ]
     if not kept_here:
         missing.append((exp_tier, exp_rank, slug))
 if missing:
@@ -138,11 +149,13 @@ for reason, p in move:
         skipped += 1
         continue
     shutil.move(str(p), str(dst))
-    manifest["moves"].append({
-        "from": str(p.relative_to(BASE)),
-        "to": str(dst.relative_to(BASE)),
-        "reason": reason,
-    })
+    manifest["moves"].append(
+        {
+            "from": str(p.relative_to(BASE)),
+            "to": str(dst.relative_to(BASE)),
+            "reason": reason,
+        }
+    )
     moved += 1
 
 (BASE / "_dedup_manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False))

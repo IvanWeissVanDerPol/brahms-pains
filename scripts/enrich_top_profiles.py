@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Enrich top 10 deep relationship profiles with new empirical data."""
+
 from __future__ import annotations
 
 import json
 from pathlib import Path
-from datetime import datetime
 
 REPO = Path(__file__).resolve().parent.parent
 ANALYSIS = REPO / "SOURCE_OF_TRUTH/wa_messages/_ANALYSIS"
@@ -93,13 +93,17 @@ PROFILE_MAP = [
 
 def fmt_min(ms):
     """Format milliseconds to minutes."""
-    if ms is None: return "—"
+    if ms is None:
+        return "—"
     s = ms / 1000
-    if s < 60: return f"{s:.0f}s"
+    if s < 60:
+        return f"{s:.0f}s"
     m = s / 60
-    if m < 60: return f"{m:.1f}min"
+    if m < 60:
+        return f"{m:.1f}min"
     h = m / 60
-    if h < 24: return f"{h:.1f}h"
+    if h < 24:
+        return f"{h:.1f}h"
     return f"{h/24:.1f}d"
 
 
@@ -113,14 +117,14 @@ def build_empirical_section(profile_name, chat_name):
     rec_info = rec["per_chat"].get(chat_name, {})
 
     lines = [
-        f"\n---\n",
-        f"\n## 📊 NEW (2026-07-27): Empirical Profile Data\n",
+        "\n---\n",
+        "\n## 📊 NEW (2026-07-27): Empirical Profile Data\n",
         f"\n**Source chat**: `{chat_name}`",
         f"\n**Tier**: {rec_info.get('tier', '?')}",
         f"\n**Last contact**: {rec_info.get('days_since_last', '?')} days ago ({rec_info.get('recency_category', '?')})",
-        f"\n\n### Communication Patterns\n",
-        f"\n| Metric | Value | Clinical Reading |",
-        f"\n|--------|-------|------------------|",
+        "\n\n### Communication Patterns\n",
+        "\n| Metric | Value | Clinical Reading |",
+        "\n|--------|-------|------------------|",
         f"\n| **Total messages** | {tp_info['total_msgs']:,} | Volume tier |",
         f"\n| **Late-night ratio** (22-04h) | {tp_info['late_night_ratio']:.1%} | Rumination pattern |",
         f"\n| **Ivan initiator ratio** | {tp_info['ivan_ratio']:.1%} | Pursuit/withdrawal |",
@@ -129,13 +133,13 @@ def build_empirical_section(profile_name, chat_name):
         f"\n| **Peak day** | {tp_info.get('peak_dow', '?')} | Weekly cycle |",
         f"\n| **Max message streak** | {init_info.get('max_streak_days', 0)} days | Engagement intensity |",
         f"\n| **Median response time** | {fmt_min(init_info.get('median_response_time_ms'))} | Responsiveness |",
-        f"\n\n### Clinical Interpretation\n",
+        "\n\n### Clinical Interpretation\n",
         f"\n{interpret_metrics(tp_info, init_info, rec_info)}",
-        f"\n\n### Cross-Reference\n",
-        f"\n- `_ANALYSIS/time_patterns.json` — Full per-contact data",
-        f"\n- `_ANALYSIS/initiator_analysis.json` — Conversation patterns",
-        f"\n- `_ANALYSIS/recency_heatmap.json` — Recency heatmap",
-        f"\n",
+        "\n\n### Cross-Reference\n",
+        "\n- `_ANALYSIS/time_patterns.json` — Full per-contact data",
+        "\n- `_ANALYSIS/initiator_analysis.json` — Conversation patterns",
+        "\n- `_ANALYSIS/recency_heatmap.json` — Recency heatmap",
+        "\n",
     ]
 
     return "".join(lines)
@@ -146,48 +150,70 @@ def interpret_metrics(tp_info, init_info, rec_info):
     interpretations = []
 
     # Late-night
-    late = tp_info['late_night_ratio']
+    late = tp_info["late_night_ratio"]
     if late > 0.5:
-        interpretations.append(f"- **Dispositional late-night pattern** ({late:.1%}): Ivan's contact with this person is heavily late-night. Suggests rumination or co-regulation at night.")
+        interpretations.append(
+            f"- **Dispositional late-night pattern** ({late:.1%}): Ivan's contact with this person is heavily late-night. Suggests rumination or co-regulation at night."
+        )
     elif late > 0.3:
-        interpretations.append(f"- **Moderate late-night pattern** ({late:.1%}): Higher than 32% baseline; this relationship pulls Ivan into night-mode more than average.")
+        interpretations.append(
+            f"- **Moderate late-night pattern** ({late:.1%}): Higher than 32% baseline; this relationship pulls Ivan into night-mode more than average."
+        )
     else:
-        interpretations.append(f"- **Below-baseline late-night** ({late:.1%}): This relationship doesn't trigger Ivan's night-mode as much as baseline.")
+        interpretations.append(
+            f"- **Below-baseline late-night** ({late:.1%}): This relationship doesn't trigger Ivan's night-mode as much as baseline."
+        )
 
     # Initiator ratio
-    ivr = tp_info['ivan_ratio']
+    ivr = tp_info["ivan_ratio"]
     if ivr > 0.65:
-        interpretations.append(f"- **Ivan chases** ({ivr:.1%}): Ivan initiates majority of messages. Possible pursuit-withdrawal OR caretaking dynamic.")
+        interpretations.append(
+            f"- **Ivan chases** ({ivr:.1%}): Ivan initiates majority of messages. Possible pursuit-withdrawal OR caretaking dynamic."
+        )
     elif ivr < 0.35:
-        interpretations.append(f"- **They chase Ivan** ({ivr:.1%}): Ivan receives more than initiates. Possible avoidance OR being pursued OR passive partner.")
+        interpretations.append(
+            f"- **They chase Ivan** ({ivr:.1%}): Ivan receives more than initiates. Possible avoidance OR being pursued OR passive partner."
+        )
     else:
-        interpretations.append(f"- **Balanced** ({ivr:.1%}): Reciprocal engagement. Healthy attachment indicator.")
+        interpretations.append(
+            f"- **Balanced** ({ivr:.1%}): Reciprocal engagement. Healthy attachment indicator."
+        )
 
     # Ivan start ratio (conversations)
-    start = init_info.get('ivan_start_ratio', 0)
+    start = init_info.get("ivan_start_ratio", 0)
     if start > 0.6:
-        interpretations.append(f"- **Ivan starts {start:.1%} of conversations**: Ivan carries the relational load.")
+        interpretations.append(
+            f"- **Ivan starts {start:.1%} of conversations**: Ivan carries the relational load."
+        )
     elif start < 0.4:
-        interpretations.append(f"- **They start {(1-start):.1%} of conversations**: They carry the relational load.")
+        interpretations.append(
+            f"- **They start {(1-start):.1%} of conversations**: They carry the relational load."
+        )
     else:
-        interpretations.append(f"- **Conversation starts balanced** ({start:.1%}): Reciprocal conversation initiation.")
+        interpretations.append(
+            f"- **Conversation starts balanced** ({start:.1%}): Reciprocal conversation initiation."
+        )
 
     # Streak
-    streak = init_info.get('max_streak_days', 0)
+    streak = init_info.get("max_streak_days", 0)
     if streak > 100:
-        interpretations.append(f"- **Long streak** ({streak} days): Indicates intense engagement period. Could be honeymoon OR crisis-bonding.")
+        interpretations.append(
+            f"- **Long streak** ({streak} days): Indicates intense engagement period. Could be honeymoon OR crisis-bonding."
+        )
     elif streak > 30:
         interpretations.append(f"- **Moderate streak** ({streak} days): Solid engagement period.")
 
     # Response time
-    rt = init_info.get('median_response_time_ms')
+    rt = init_info.get("median_response_time_ms")
     if rt and rt < 60000:
         interpretations.append(f"- **Fast responder** ({fmt_min(rt)} median): High availability.")
     elif rt and rt > 3600000:
-        interpretations.append(f"- **Slow responder** ({fmt_min(rt)} median): Possibly avoidant OR busy.")
+        interpretations.append(
+            f"- **Slow responder** ({fmt_min(rt)} median): Possibly avoidant OR busy."
+        )
 
     # Recency
-    days = rec_info.get('days_since_last', 0)
+    days = rec_info.get("days_since_last", 0)
     if days <= 7:
         interpretations.append(f"- **Active** ({days}d): Currently in conversation.")
     elif days <= 30:
@@ -197,7 +223,9 @@ def interpret_metrics(tp_info, init_info, rec_info):
     elif days <= 365:
         interpretations.append(f"- **Distant** ({days}d): Significantly disengaged.")
     else:
-        interpretations.append(f"- **Abandoned** ({days}d): No contact in over a year. May indicate grief, loss, or natural relationship end.")
+        interpretations.append(
+            f"- **Abandoned** ({days}d): No contact in over a year. May indicate grief, loss, or natural relationship end."
+        )
 
     return "\n".join(interpretations)
 

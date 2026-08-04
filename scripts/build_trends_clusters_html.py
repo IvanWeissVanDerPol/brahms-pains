@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Build a simple clusters.html + trends.html visualization."""
+
 from __future__ import annotations
 
 import json
@@ -16,7 +17,8 @@ trends_data = json.loads((ANALYSIS / "trends.json").read_text())
 # TRENDS HTML
 # =====================
 
-TRENDS_HTML = '''<!DOCTYPE html>
+TRENDS_HTML = (
+    """<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -69,13 +71,27 @@ TRENDS_HTML = '''<!DOCTYPE html>
   
   <h2>Trend distribution</h2>
   <div class="trend-summary">
-    <span class="trend-pill tr-NEW">NEW: ''' + str(trends_data["trend_counts"].get("NEW", 0)) + '''</span>
-    <span class="trend-pill tr-RISING">RISING: ''' + str(trends_data["trend_counts"].get("RISING", 0)) + '''</span>
-    <span class="trend-pill tr-GROWING">GROWING: ''' + str(trends_data["trend_counts"].get("GROWING", 0)) + '''</span>
-    <span class="trend-pill tr-STABLE">STABLE: ''' + str(trends_data["trend_counts"].get("STABLE", 0)) + '''</span>
-    <span class="trend-pill tr-COOLING">COOLING: ''' + str(trends_data["trend_counts"].get("COOLING", 0)) + '''</span>
-    <span class="trend-pill tr-FALLING">FALLING: ''' + str(trends_data["trend_counts"].get("FALLING", 0)) + '''</span>
-    <span class="trend-pill tr-DORMANT">DORMANT: ''' + str(trends_data["trend_counts"].get("DORMANT", 0)) + '''</span>
+    <span class="trend-pill tr-NEW">NEW: """
+    + str(trends_data["trend_counts"].get("NEW", 0))
+    + """</span>
+    <span class="trend-pill tr-RISING">RISING: """
+    + str(trends_data["trend_counts"].get("RISING", 0))
+    + """</span>
+    <span class="trend-pill tr-GROWING">GROWING: """
+    + str(trends_data["trend_counts"].get("GROWING", 0))
+    + """</span>
+    <span class="trend-pill tr-STABLE">STABLE: """
+    + str(trends_data["trend_counts"].get("STABLE", 0))
+    + """</span>
+    <span class="trend-pill tr-COOLING">COOLING: """
+    + str(trends_data["trend_counts"].get("COOLING", 0))
+    + """</span>
+    <span class="trend-pill tr-FALLING">FALLING: """
+    + str(trends_data["trend_counts"].get("FALLING", 0))
+    + """</span>
+    <span class="trend-pill tr-DORMANT">DORMANT: """
+    + str(trends_data["trend_counts"].get("DORMANT", 0))
+    + """</span>
   </div>
   
   <h2>🔥 Gaining engagement (NEW + RISING + GROWING)</h2>
@@ -105,12 +121,16 @@ TRENDS_HTML = '''<!DOCTYPE html>
     COOLING: 0.5x - 0.9x<br>
     FALLING: < 0.5x<br>
     DORMANT: 0 msgs in both periods<br>
-    Reference date: ''' + trends_data["reference_date"] + '''
+    Reference date: """
+    + trends_data["reference_date"]
+    + """
   </div>
 </div>
 
 <script>
-const DATA = ''' + json.dumps(trends_data["trends"], ensure_ascii=False) + ''';
+const DATA = """
+    + json.dumps(trends_data["trends"], ensure_ascii=False)
+    + """;
 let sortKey = "last_30";
 let sortAsc = false;
 
@@ -180,7 +200,8 @@ render();
 </script>
 </body>
 </html>
-'''
+"""
+)
 
 (ANALYSIS / "trends.html").write_text(TRENDS_HTML)
 print(f"Wrote trends.html ({(ANALYSIS / 'trends.html').stat().st_size:,} bytes)")
@@ -189,7 +210,8 @@ print(f"Wrote trends.html ({(ANALYSIS / 'trends.html').stat().st_size:,} bytes)"
 # CLUSTERS HTML
 # =====================
 
-CLUSTERS_HTML = '''<!DOCTYPE html>
+CLUSTERS_HTML = (
+    """<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -221,18 +243,31 @@ CLUSTERS_HTML = '''<!DOCTYPE html>
 <body>
 <div class="app">
   <h1>Psycology — Relationship Clusters</h1>
-  <div class="meta">Method: greedy community detection via name cross-references · Reference date: ''' + clusters_data["generated_at"][:10] + '''</div>
+  <div class="meta">Method: greedy community detection via name cross-references · Reference date: """
+    + clusters_data["generated_at"][:10]
+    + """</div>
   
   <div class="summary">
-    <div class="stat-card"><div class="stat-label">Total contacts</div><div class="stat-value">''' + str(clusters_data["total_contacts"]) + '''</div></div>
-    <div class="stat-card"><div class="stat-label">Edges</div><div class="stat-value">''' + str(clusters_data["total_edges"]) + '''</div></div>
-    <div class="stat-card"><div class="stat-label">Total clusters</div><div class="stat-value">''' + str(clusters_data["total_clusters"]) + '''</div></div>
-    <div class="stat-card"><div class="stat-label">Non-singleton</div><div class="stat-value">''' + str(clusters_data["non_singleton_clusters"]) + '''</div></div>
-    <div class="stat-card"><div class="stat-label">Largest cluster</div><div class="stat-value">''' + str(clusters_data["largest_cluster_size"]) + '''</div></div>
+    <div class="stat-card"><div class="stat-label">Total contacts</div><div class="stat-value">"""
+    + str(clusters_data["total_contacts"])
+    + """</div></div>
+    <div class="stat-card"><div class="stat-label">Edges</div><div class="stat-value">"""
+    + str(clusters_data["total_edges"])
+    + """</div></div>
+    <div class="stat-card"><div class="stat-label">Total clusters</div><div class="stat-value">"""
+    + str(clusters_data["total_clusters"])
+    + """</div></div>
+    <div class="stat-card"><div class="stat-label">Non-singleton</div><div class="stat-value">"""
+    + str(clusters_data["non_singleton_clusters"])
+    + """</div></div>
+    <div class="stat-card"><div class="stat-label">Largest cluster</div><div class="stat-value">"""
+    + str(clusters_data["largest_cluster_size"])
+    + """</div></div>
   </div>
   
   <h2>Top clusters (multi-member)</h2>
-''' + ''.join(f'''
+"""
+    + "".join(f"""
   <div class="cluster">
     <div class="cluster-header">
       <span class="cluster-id">Cluster #{c["cluster_id"]}</span>
@@ -242,27 +277,33 @@ CLUSTERS_HTML = '''<!DOCTYPE html>
       {''.join(f'<span class="member" title="{m["jid"]}">{m["name"]}</span>' for m in c["members"])}
     </div>
   </div>
-''' for c in clusters_data["clusters"] if c["size"] > 1) + '''
+""" for c in clusters_data["clusters"] if c["size"] > 1)
+    + """
   
   <h2>Strongest cross-reference edges</h2>
   <div class="edges-section">
-''' + ''.join(f'''
+"""
+    + "".join(f"""
     <div class="edge">
       <span>{e["a"]} ↔ {e["b"]}</span>
       <span class="edge-weight">{e["weight"]}x</span>
     </div>
-''' for e in clusters_data["edges"][:20]) + '''
+""" for e in clusters_data["edges"][:20])
+    + """
   </div>
   
   <div class="footer">
     Edges represent: number of times Ivan mentioned one contact while talking to another.
     Clusters: greedy union-find with merge threshold = 2 cross-refs.
-    ''' + str(clusters_data["singleton_clusters"]) + ''' singleton clusters (no cross-references with other contacts).
+    """
+    + str(clusters_data["singleton_clusters"])
+    + """ singleton clusters (no cross-references with other contacts).
   </div>
 </div>
 </body>
 </html>
-'''
+"""
+)
 
 (ANALYSIS / "clusters.html").write_text(CLUSTERS_HTML)
 print(f"Wrote clusters.html ({(ANALYSIS / 'clusters.html').stat().st_size:,} bytes)")

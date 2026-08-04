@@ -12,13 +12,13 @@ Usage:
     python3 scripts/match_vcard_chats.py --vcf path/to/contacts.vcf --dry-run
     python3 scripts/match_vcard_chats.py --vcf path/to/contacts.vcf --apply
 """
+
 from __future__ import annotations
 
 import argparse
 import json
 import re
 import subprocess
-from collections import Counter, defaultdict
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -87,7 +87,15 @@ def phone_to_jid_candidates(phone: str) -> list[str]:
 def find_chat_dirs():
     """Walk all tiers, return {jid: (tier, dir_path)}."""
     out = {}
-    TIERS = ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups", "_dropped", "untiered_personal", "other_lid"]
+    TIERS = [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "_dropped",
+        "untiered_personal",
+        "other_lid",
+    ]
     for tier in TIERS:
         td = MSG_BASE / tier
         if not td.exists():
@@ -118,7 +126,9 @@ def safe_name(name: str) -> str:
 
 def find_chat_suffix(dirname: str) -> str:
     """Extract the chat suffix from existing dir name like 'ami_school___wa_chat_595981225272_62'."""
-    m = re.search(r"(__wa_chat_[^_]+_\d+|_wa_lid_[^_]+_\d+|__wa_group_[^_]+_\d+|_wa_group_[^_]+)$", dirname)
+    m = re.search(
+        r"(__wa_chat_[^_]+_\d+|_wa_lid_[^_]+_\d+|__wa_group_[^_]+_\d+|_wa_group_[^_]+)$", dirname
+    )
     if m:
         return m.group(1)
     return ""
@@ -163,9 +173,27 @@ def main():
     # Match
     matches = []
     unmatched = []
-    family_role = {"mom", "dad", "grandma", "grandpa", "abuela", "abuelo",
-                   "uncle", "aunt", "tio", "tia", "cousin", "primo", "prima",
-                   "sister", "hermana", "hermano", "brother", "son", "daughter"}
+    family_role = {
+        "mom",
+        "dad",
+        "grandma",
+        "grandpa",
+        "abuela",
+        "abuelo",
+        "uncle",
+        "aunt",
+        "tio",
+        "tia",
+        "cousin",
+        "primo",
+        "prima",
+        "sister",
+        "hermana",
+        "hermano",
+        "brother",
+        "son",
+        "daughter",
+    }
 
     for jid, (tier, d) in sorted(chats.items(), key=lambda x: x[1][0]):
         card = jid_to_card.get(jid)
@@ -178,20 +206,24 @@ def main():
         prov_name = prov.get("name", "") if isinstance(prov, dict) else ""
 
         if card:
-            matches.append({
-                "jid": jid,
-                "vcard_name": card["name"],
-                "provisional_name": prov_name,
-                "current_dir": str(d.relative_to(REPO)),
-                "tier": tier,
-            })
+            matches.append(
+                {
+                    "jid": jid,
+                    "vcard_name": card["name"],
+                    "provisional_name": prov_name,
+                    "current_dir": str(d.relative_to(REPO)),
+                    "tier": tier,
+                }
+            )
         else:
-            unmatched.append({
-                "jid": jid,
-                "provisional_name": prov_name,
-                "current_dir": str(d.relative_to(REPO)),
-                "tier": tier,
-            })
+            unmatched.append(
+                {
+                    "jid": jid,
+                    "provisional_name": prov_name,
+                    "current_dir": str(d.relative_to(REPO)),
+                    "tier": tier,
+                }
+            )
 
     # Print
     print("=" * 70)
@@ -208,20 +240,24 @@ def main():
     print()
     print("First 50 renames:")
     for m in to_rename[:50]:
-        print(f"  {m['tier'][:14]:<14} JID={m['jid'][:14]:<14} '{m['provisional_name'][:25]:<25}' → '{m['vcard_name'][:25]}'")
+        print(
+            f"  {m['tier'][:14]:<14} JID={m['jid'][:14]:<14} '{m['provisional_name'][:25]:<25}' → '{m['vcard_name'][:25]}'"
+        )
 
     print()
     print("=" * 70)
     print(f"UNMATCHED (chat JID not in vCard): {len(unmatched)}")
     print("=" * 70)
     for u in unmatched[:20]:
-        print(f"  {u['tier'][:14]:<14} JID={u['jid'][:20]:<20}  prov='{u['provisional_name'][:30]}'")
+        print(
+            f"  {u['tier'][:14]:<14} JID={u['jid'][:20]:<20}  prov='{u['provisional_name'][:30]}'"
+        )
     if len(unmatched) > 20:
         print(f"  ... and {len(unmatched) - 20} more")
 
     # Save match report
     out = {
-        "generated_at": str(__import__('datetime').datetime.now()),
+        "generated_at": str(__import__("datetime").datetime.now()),
         "vcf_path": str(args.vcf),
         "total_vcard_contacts": len(cards),
         "total_chats": len(chats),
@@ -264,13 +300,16 @@ def main():
         # git mv
         subprocess.run(
             ["git", "mv", str(old.relative_to(REPO)), str(new.relative_to(REPO))],
-            cwd=REPO, check=True,
+            cwd=REPO,
+            check=True,
         )
         # Update provisional name in messages.json
         try:
             with open(new / "messages.json") as f:
                 data = json.load(f)
-            if "__provisional_name" not in data or not isinstance(data.get("__provisional_name"), dict):
+            if "__provisional_name" not in data or not isinstance(
+                data.get("__provisional_name"), dict
+            ):
                 data["__provisional_name"] = {}
             data["__provisional_name"]["name"] = m["vcard_name"]
             data["__provisional_name"]["source"] = "vcard-match-2026-07-23"

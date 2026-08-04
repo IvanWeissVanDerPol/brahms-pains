@@ -62,10 +62,7 @@ def analyze_defi_relationship(audio_files):
             insights["patterns"]["defi_responses"].append(f"  {file_name} - {keyword}")
 
         # Look for emotional vulnerability
-        if any(
-            keyword in text
-            for keyword in ["no pued", "me cago", "estoy mal", "mal", "pobre"]
-        ):
+        if any(keyword in text for keyword in ["no pued", "me cago", "estoy mal", "mal", "pobre"]):
             insights["patterns"]["emotional_vulnerability"].append(
                 f"  {file_name} - emotional disclosure"
             )
@@ -81,36 +78,25 @@ def analyze_defi_relationship(audio_files):
                 "aquí estoy",
             ]
         ):
-            insights["patterns"]["care_dynamics"].append(
-                f"  {file_name} - care offering/receiving"
-            )
+            insights["patterns"]["care_dynamics"].append(f"  {file_name} - care offering/receiving")
 
         # Look for Ivan asking for help
         if any(
-            keyword in text
-            for keyword in ["necesito", "por favor", "ayuda", "ayudame", "ayúdame"]
+            keyword in text for keyword in ["necesito", "por favor", "ayuda", "ayudame", "ayúdame"]
         ):
-            insights["patterns"]["care_dynamics"].append(
-                f"  {file_name} - Ivan needs help"
-            )
+            insights["patterns"]["care_dynamics"].append(f"  {file_name} - Ivan needs help")
 
         # Look for friendship support
         if any(
-            keyword in text
-            for keyword in ["amigos", "cariño", "fuerza", "confío", "te quiero"]
+            keyword in text for keyword in ["amigos", "cariño", "fuerza", "confío", "te quiero"]
         ):
             insights["patterns"]["friendship_support"].append(
                 f"  {file_name} - friendship expression"
             )
 
         # Check if this is about Laura breakup
-        if any(
-            keyword in text
-            for keyword in ["laura", "terminó", "rompimos", "relación", "sola"]
-        ):
-            insights["patterns"]["breakup_processing"].append(
-                f"  {file_name} - Laura breakup"
-            )
+        if any(keyword in text for keyword in ["laura", "terminó", "rompimos", "relación", "sola"]):
+            insights["patterns"]["breakup_processing"].append(f"  {file_name} - Laura breakup")
 
         # Look for The Fixer patterns
         if any(
@@ -125,9 +111,7 @@ def analyze_defi_relationship(audio_files):
                 "busco",
             ]
         ):
-            insights["patterns"]["care_dynamics"].append(
-                f"  {file_name} - The Fixer active"
-            )
+            insights["patterns"]["care_dynamics"].append(f"  {file_name} - The Fixer active")
 
     return insights
 

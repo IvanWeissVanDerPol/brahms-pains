@@ -40,6 +40,7 @@ block ("recorded_only": True, no file copied) unless --copy-all is passed.
 Audio (.opus/.m4a/.aac) is expected to be pre-copied to <chat_dir>/<media-subdir>/
 by the caller (this script does NOT copy media itself).
 """
+
 from __future__ import annotations
 
 import argparse
@@ -57,24 +58,54 @@ HEADER_RE = re.compile(
 ATTACH_RE = re.compile(r"^(?P<fname>\S+\.[A-Za-z0-9]{2,5})\s+\(file attached\)\s*$")
 
 EXT_TO_TYPE = {
-    "jpg": 1, "jpeg": 1, "png": 1, "webp": 1, "gif": 1,
-    "opus": 2, "m4a": 2, "aac": 2, "mp3": 2, "ogg": 2, "wav": 2,
-    "mp4": 3, "3gp": 3, "mov": 3, "mkv": 3,
-    "pdf": 7, "docx": 7, "doc": 7, "xlsx": 7, "xls": 7,
-    "vcf": 7, "txt": 7, "zip": 7,
+    "jpg": 1,
+    "jpeg": 1,
+    "png": 1,
+    "webp": 1,
+    "gif": 1,
+    "opus": 2,
+    "m4a": 2,
+    "aac": 2,
+    "mp3": 2,
+    "ogg": 2,
+    "wav": 2,
+    "mp4": 3,
+    "3gp": 3,
+    "mov": 3,
+    "mkv": 3,
+    "pdf": 7,
+    "docx": 7,
+    "doc": 7,
+    "xlsx": 7,
+    "xls": 7,
+    "vcf": 7,
+    "txt": 7,
+    "zip": 7,
 }
 EXT_TO_MIME = {
-    "jpg": "image/jpeg", "jpeg": "image/jpeg", "png": "image/png",
-    "webp": "image/webp", "gif": "image/gif",
-    "opus": "audio/ogg; codecs=opus", "m4a": "audio/mp4",
-    "aac": "audio/aac", "mp3": "audio/mpeg", "ogg": "audio/ogg", "wav": "audio/wav",
-    "mp4": "video/mp4", "3gp": "video/3gpp", "mov": "video/quicktime", "mkv": "video/x-matroska",
+    "jpg": "image/jpeg",
+    "jpeg": "image/jpeg",
+    "png": "image/png",
+    "webp": "image/webp",
+    "gif": "image/gif",
+    "opus": "audio/ogg; codecs=opus",
+    "m4a": "audio/mp4",
+    "aac": "audio/aac",
+    "mp3": "audio/mpeg",
+    "ogg": "audio/ogg",
+    "wav": "audio/wav",
+    "mp4": "video/mp4",
+    "3gp": "video/3gpp",
+    "mov": "video/quicktime",
+    "mkv": "video/x-matroska",
     "pdf": "application/pdf",
     "docx": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
     "doc": "application/msword",
     "xlsx": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     "xls": "application/vnd.ms-excel",
-    "vcf": "text/vcard", "txt": "text/plain", "zip": "application/zip",
+    "vcf": "text/vcard",
+    "txt": "text/plain",
+    "zip": "application/zip",
 }
 
 
@@ -97,6 +128,7 @@ def _tz_offset():
     # Paraguay is UTC-3 (fixed). We want UTC ms, so subtract -3h == add 3h wall→UTC.
     # Header timestamp is local → UTC = local + 3h.
     from datetime import timedelta
+
     return timedelta(hours=-3)
 
 
@@ -116,8 +148,9 @@ def classify_attachment(fname: str) -> tuple[int, str]:
     return EXT_TO_TYPE.get(ext, 7), EXT_TO_MIME.get(ext, "application/octet-stream")
 
 
-def build_messages(txt_path: Path, self_name: str,
-                   media_dir_rel: str, media_root: Path | None) -> list[dict]:
+def build_messages(
+    txt_path: Path, self_name: str, media_dir_rel: str, media_root: Path | None
+) -> list[dict]:
     out: list[dict] = []
     current: dict | None = None
     with open(txt_path, "r", encoding="utf-8") as f:
@@ -187,14 +220,32 @@ def build_messages(txt_path: Path, self_name: str,
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--export", required=True, help="Folder containing 'WhatsApp Chat with *.txt'")
-    ap.add_argument("--out-root", default="/home/ai-whisperers/psychology-integration/psycology/SOURCE_OF_TRUTH/wa_messages")
-    ap.add_argument("--tier", default="tier1_deep", choices=["tier1_deep", "tier2_core", "_dropped", "_conversations"])
+    ap.add_argument(
+        "--out-root",
+        default="/home/ai-whisperers/psychology-integration/psycology/SOURCE_OF_TRUTH/wa_messages",
+    )
+    ap.add_argument(
+        "--tier",
+        default="tier1_deep",
+        choices=["tier1_deep", "tier2_core", "_dropped", "_conversations"],
+    )
     ap.add_argument("--tier-prefix", required=True, help="e.g. '11__gabriella_gp___'")
     ap.add_argument("--slug", default="wa_export", help="Slug suffix after tier-prefix")
     ap.add_argument("--subject", required=True)
-    ap.add_argument("--self", dest="self_name", required=True, help="Display name used for your own messages in the export")
-    ap.add_argument("--media-subdir", default="media/audio", help="Relative subdir under chat_dir where audio is stored")
-    ap.add_argument("--media-source", default=None, help="Path where source media files live (for size lookup)")
+    ap.add_argument(
+        "--self",
+        dest="self_name",
+        required=True,
+        help="Display name used for your own messages in the export",
+    )
+    ap.add_argument(
+        "--media-subdir",
+        default="media/audio",
+        help="Relative subdir under chat_dir where audio is stored",
+    )
+    ap.add_argument(
+        "--media-source", default=None, help="Path where source media files live (for size lookup)"
+    )
     args = ap.parse_args()
 
     export_dir = Path(args.export)
@@ -214,8 +265,7 @@ def main() -> int:
     chat_dir.mkdir(parents=True, exist_ok=True)
 
     media_root = Path(args.media_source) if args.media_source else export_dir
-    messages = build_messages(txt_path, args.self_name,
-                              args.media_subdir, media_root)
+    messages = build_messages(txt_path, args.self_name, args.media_subdir, media_root)
 
     payload = {
         "chat_id": chat_id,
@@ -242,8 +292,10 @@ def main() -> int:
     kinds = {0: 0, 1: 0, 2: 0, 3: 0, 7: 0}
     for m in messages:
         kinds[m["type"]] = kinds.get(m["type"], 0) + 1
-    print(f"wrote {out_path} — {len(messages)} messages "
-          f"(text={kinds[0]} image={kinds[1]} audio={kinds[2]} video={kinds[3]} doc={kinds[7]})")
+    print(
+        f"wrote {out_path} — {len(messages)} messages "
+        f"(text={kinds[0]} image={kinds[1]} audio={kinds[2]} video={kinds[3]} doc={kinds[7]})"
+    )
     return 0
 
 

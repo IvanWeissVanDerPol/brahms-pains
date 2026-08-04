@@ -24,12 +24,12 @@ SAFETY:
     - All renames are validated (source must exist, target must not exist)
     - All file edits are diffs (uses git apply for review)
 """
+
 from __future__ import annotations
 
 import argparse
 import json
 import re
-import shutil
 import subprocess
 import sys
 from collections import defaultdict
@@ -102,12 +102,20 @@ def load_named() -> dict:
     if not p.exists():
         return {}
     import pickle
+
     return pickle.load(open(p, "rb"))
 
 
 def find_chat_dir(jid: str, named_jid=None) -> Path | None:
-    for tier in ["tier1_deep", "tier2_core", "tier3_extended", "tier4_groups",
-                 "_dropped", "untiered_personal", "other_lid"]:
+    for tier in [
+        "tier1_deep",
+        "tier2_core",
+        "tier3_extended",
+        "tier4_groups",
+        "_dropped",
+        "untiered_personal",
+        "other_lid",
+    ]:
         td = MSG_BASE / tier
         if not td.exists():
             continue
@@ -127,9 +135,9 @@ def find_chat_dir(jid: str, named_jid=None) -> Path | None:
 def build_rename_plan(answers: dict) -> dict:
     """Construct a plan keyed by current chat directory → new name + tier."""
     plan = {
-        "renames": [],          # list of (old_path, new_path, jid, reason)
+        "renames": [],  # list of (old_path, new_path, jid, reason)
         "identity_updates": [],  # list of (jid, key, value)
-        "phonebook_updates": [], # list of (name, updates)
+        "phonebook_updates": [],  # list of (name, updates)
         "profile_rewrites": [],  # list of (file_path, new_content)
     }
 
@@ -142,35 +150,45 @@ def build_rename_plan(answers: dict) -> dict:
     john_jid = "595986138387"
     john_chat = find_chat_dir(john_jid)
     if john_chat:
-        plan["renames"].append({
-            "old": john_chat,
-            "new": john_chat.parent / f"dad_john_van_der_pol___wa_chat_{john_jid}_{john_chat.name.split('_')[-1]}",
-            "jid": john_jid,
-            "reason": "John van der Pol = Dad (per Ivan)",
-        })
-        plan["identity_updates"].append({
-            "jid": john_jid,
-            "key": "name",
-            "old_value": "John",
-            "new_value": "John van der Pol (Dad)",
-        })
+        plan["renames"].append(
+            {
+                "old": john_chat,
+                "new": john_chat.parent
+                / f"dad_john_van_der_pol___wa_chat_{john_jid}_{john_chat.name.split('_')[-1]}",
+                "jid": john_jid,
+                "reason": "John van der Pol = Dad (per Ivan)",
+            }
+        )
+        plan["identity_updates"].append(
+            {
+                "jid": john_jid,
+                "key": "name",
+                "old_value": "John",
+                "new_value": "John van der Pol (Dad)",
+            }
+        )
 
     # ──── A3: Riet van der Pol ────
     riet_jid = "31612495139"
     riet_chat = find_chat_dir(riet_jid)
     if riet_chat:
-        plan["renames"].append({
-            "old": riet_chat,
-            "new": riet_chat.parent / f"grandma_riet_van_der_pol___wa_chat_{riet_jid}_{riet_chat.name.split('_')[-1]}",
-            "jid": riet_jid,
-            "reason": "Riet van der Pol = Grandma (per Ivan), not Mom",
-        })
-        plan["identity_updates"].append({
-            "jid": riet_jid,
-            "key": "role",
-            "old_value": "Mom (in CONTACTS_NAMED.md)",
-            "new_value": "Grandma (dad's side)",
-        })
+        plan["renames"].append(
+            {
+                "old": riet_chat,
+                "new": riet_chat.parent
+                / f"grandma_riet_van_der_pol___wa_chat_{riet_jid}_{riet_chat.name.split('_')[-1]}",
+                "jid": riet_jid,
+                "reason": "Riet van der Pol = Grandma (per Ivan), not Mom",
+            }
+        )
+        plan["identity_updates"].append(
+            {
+                "jid": riet_jid,
+                "key": "role",
+                "old_value": "Mom (in CONTACTS_NAMED.md)",
+                "new_value": "Grandma (dad's side)",
+            }
+        )
 
     # ──── A4: Gerold ────
     # Find his JID by searching for the most gerold-mentioning chat
@@ -186,12 +204,14 @@ def build_rename_plan(answers: dict) -> dict:
     toni_chat = find_chat_dir(toni_jid)
     if toni_chat:
         # Don't rename yet — Toni's role (A2.9 or C.1) determines the new name
-        plan["identity_updates"].append({
-            "jid": toni_jid,
-            "key": "role_pending",
-            "old_value": "Dad (in CONTACTS_NAMED.md)",
-            "new_value": "PENDING — see Section C of questionnaire",
-        })
+        plan["identity_updates"].append(
+            {
+                "jid": toni_jid,
+                "key": "role_pending",
+                "old_value": "Dad (in CONTACTS_NAMED.md)",
+                "new_value": "PENDING — see Section C of questionnaire",
+            }
+        )
 
     return plan
 
@@ -209,7 +229,7 @@ def dry_run(plan: dict):
     for r in plan["renames"]:
         old_rel = r["old"].relative_to(REPO)
         new_rel = r["new"].relative_to(REPO)
-        print(f"  RENAME:")
+        print("  RENAME:")
         print(f"    {old_rel}")
         print(f"  → {new_rel}")
         print(f"    reason: {r['reason']}")
@@ -255,7 +275,9 @@ def apply(plan: dict):
 
     # Identity metadata updates
     for u in plan["identity_updates"]:
-        log(f"identity update: {u['jid']} {u['key']}={u['new_value']} (still TODO: update contacts_named.md / phonebook.json)")
+        log(
+            f"identity update: {u['jid']} {u['key']}={u['new_value']} (still TODO: update contacts_named.md / phonebook.json)"
+        )
 
     log("\nDry-run output still — full apply + commit requires Ivan's full answers.")
 

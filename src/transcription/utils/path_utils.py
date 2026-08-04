@@ -7,7 +7,6 @@ from __future__ import annotations
 
 import re
 from dataclasses import dataclass
-from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
@@ -111,9 +110,7 @@ def find_chat_directory(base_dir: Path, chat_name: str) -> Optional[Path]:
     return None
 
 
-def get_audio_files(
-    directory: Path, extensions: Optional[set[str]] = None
-) -> list[Path]:
+def get_audio_files(directory: Path, extensions: Optional[set[str]] = None) -> list[Path]:
     """Get all audio files in a directory.
 
     Args:

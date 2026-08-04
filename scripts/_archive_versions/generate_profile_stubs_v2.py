@@ -7,6 +7,7 @@ Reads viewer_full_data.json and creates minimal profiles for contacts that:
 
 Each profile is a stub with TODO sections for the user to fill in.
 """
+
 from __future__ import annotations
 
 import json
@@ -62,7 +63,7 @@ def main():
         first = c["first"]
         last = c["last"]
 
-        content = f'''# {name}
+        content = f"""# {name}
 
 > **Auto-generated profile stub** ({now})
 > **Source:** vCard phonebook (full export 2026-07-23)
@@ -96,7 +97,7 @@ TODO: anything else Ivan has shared or knows about this person.
 - Self-intro analysis: pending
 - Group context: pending
 - Behavioral signals: pending
-'''
+"""
         out_path = PROFILE_DIR / f"{slug}.md"
         out_path.write_text(content)
         created += 1

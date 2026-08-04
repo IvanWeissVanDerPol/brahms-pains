@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Move wrongly-dropped groups back to tier4_groups."""
+
 from __future__ import annotations
 
 import json
@@ -12,9 +13,10 @@ WA = REPO / "SOURCE_OF_TRUTH" / "wa_messages"
 
 
 def safe_name(name: str) -> str:
-    if not name: return ""
-    s = re.sub(r'[^\w\s-]', '', name).strip()
-    s = re.sub(r'\s+', '_', s)
+    if not name:
+        return ""
+    s = re.sub(r"[^\w\s-]", "", name).strip()
+    s = re.sub(r"\s+", "_", s)
     return s
 
 
@@ -27,8 +29,10 @@ def main():
     skipped = 0
 
     for d in sorted(dropped.iterdir()):
-        if not d.is_dir(): continue
-        if not d.name.startswith("Group_"): continue
+        if not d.is_dir():
+            continue
+        if not d.name.startswith("Group_"):
+            continue
 
         # Check msg count
         mf = d / "messages.json"
@@ -37,7 +41,8 @@ def main():
             try:
                 data = json.loads(mf.read_text())
                 n = len(data.get("messages", []))
-            except: pass
+            except:
+                pass
 
         # Only move if has significant msgs
         if n < 5:
@@ -63,10 +68,12 @@ def main():
                         if added > 0:
                             dst_tf.write_text(json.dumps(dst_data, indent=1, ensure_ascii=False))
                             print(f"  MERGED: {d.name} (+{added} transcripts)")
-                except: pass
+                except:
+                    pass
             # Move media files
             for f in d.iterdir():
-                if f.name == "transcripts.json": continue
+                if f.name == "transcripts.json":
+                    continue
                 dest = target / f.name
                 if not dest.exists():
                     shutil.move(str(f), str(dest))
@@ -79,7 +86,7 @@ def main():
             print(f"  MOVED: {d.name} ({n} msgs)")
             moved += 1
 
-    print(f"\n=== Summary ===")
+    print("\n=== Summary ===")
     print(f"  Moved: {moved}")
     print(f"  Merged: {merged}")
     print(f"  Skipped: {skipped}")

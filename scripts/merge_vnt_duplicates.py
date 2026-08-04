@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Merge VNT duplicate folders safely."""
+
 from __future__ import annotations
 
 import json
 import shutil
-from collections import defaultdict
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -13,20 +13,26 @@ VNT = REPO / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 # Load all transcripts
 folder_data = {}
 for d in VNT.iterdir():
-    if not d.is_dir(): continue
-    if d.name.startswith("_"): continue
+    if not d.is_dir():
+        continue
+    if d.name.startswith("_"):
+        continue
     tf = d / "transcripts.json"
-    if not tf.exists(): continue
+    if not tf.exists():
+        continue
     try:
         data = json.loads(tf.read_text())
-    except: continue
-    if not isinstance(data, list): continue
+    except:
+        continue
+    if not isinstance(data, list):
+        continue
     files = {e.get("file") for e in data if isinstance(e, dict)}
     folder_data[d] = (files, data)
 
 
 def jaccard(a, b):
-    if not a or not b: return 0
+    if not a or not b:
+        return 0
     return len(a & b) / len(a | b)
 
 
@@ -35,9 +41,12 @@ processed = set()
 merges = []
 for d, (files, data) in folder_data.items():
     for other in list(folder_data.keys()):
-        if d == other: continue
-        if (d.name, other.name) in processed: continue
-        if (other.name, d.name) in processed: continue
+        if d == other:
+            continue
+        if (d.name, other.name) in processed:
+            continue
+        if (other.name, d.name) in processed:
+            continue
         other_files, _ = folder_data[other]
         sim = jaccard(files, other_files)
         if sim > 0.5:
@@ -75,7 +84,9 @@ def main():
                     added += 1
             if added > 0:
                 # Save merged
-                (primary / "transcripts.json").write_text(json.dumps(primary_data, indent=1, ensure_ascii=False))
+                (primary / "transcripts.json").write_text(
+                    json.dumps(primary_data, indent=1, ensure_ascii=False)
+                )
                 print(f"  MERGED: {secondary.name} -> {primary.name} (+{added} entries)")
             # Delete secondary
             shutil.rmtree(secondary)

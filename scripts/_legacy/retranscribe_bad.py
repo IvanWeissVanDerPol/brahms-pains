@@ -11,7 +11,6 @@ import argparse
 import json
 import os
 import re
-from datetime import datetime
 from pathlib import Path
 
 # FFmpeg path
@@ -31,9 +30,7 @@ def check_quality(text: str) -> list[str]:
     """Check for quality issues."""
     problems = []
 
-    asian_chars = len(
-        re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text)
-    )
+    asian_chars = len(re.findall(r"[\u4e00-\u9fff\u3040-\u309f\u30a0-\u30ff\uac00-\ud7af]", text))
     if asian_chars > 3:
         problems.append(f"asian_chars:{asian_chars}")
 
@@ -81,9 +78,7 @@ def load_issues(chat_filter: str | None = None) -> dict[str, list[str]]:
     return issues
 
 
-def retranscribe(
-    chat_name: str, files: list[str], model_name: str = "small", language: str = "es"
-):
+def retranscribe(chat_name: str, files: list[str], model_name: str = "small", language: str = "es"):
     """Re-transcribe specific files with better model."""
     import gc
     import torch
@@ -143,9 +138,7 @@ def retranscribe(
         try:
             # Use fp16 for GPU, but small/medium models need more VRAM
             use_fp16 = model_name in ("tiny", "base", "small")
-            r = model.transcribe(
-                str(filepath), language=language, fp16=use_fp16, verbose=False
-            )
+            r = model.transcribe(str(filepath), language=language, fp16=use_fp16, verbose=False)
             new_text = r["text"]
             if isinstance(new_text, str):
                 new_text = new_text.strip()
@@ -212,9 +205,7 @@ def main():
     parser = argparse.ArgumentParser(
         description="Re-transcribe problematic files with better model"
     )
-    parser.add_argument(
-        "--model", default="small", help="Whisper model: small, medium, large"
-    )
+    parser.add_argument("--model", default="small", help="Whisper model: small, medium, large")
     parser.add_argument("--chat", default=None, help="Filter to specific chat")
     parser.add_argument("--language", default="es", help="Language code")
     args = parser.parse_args()

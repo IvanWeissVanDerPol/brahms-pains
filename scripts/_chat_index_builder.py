@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Build CHAT_INDEX.md from WhatsApp chat exports."""
-import json, os, re, sys
+
+import json
+import re
+import sys
 from pathlib import Path
 from collections import defaultdict
 
@@ -18,11 +21,16 @@ low_signal = []
 
 for entry in triage:
     cat = entry.get("category", "")
-    if cat == "personal_1on1": personal_1on1.append(entry)
-    elif cat == "group_active": groups_active.append(entry)
-    elif cat == "group_lurker": groups_lurker.append(entry)
-    elif cat == "notification": notifications.append(entry)
-    elif cat == "low_signal": low_signal.append(entry)
+    if cat == "personal_1on1":
+        personal_1on1.append(entry)
+    elif cat == "group_active":
+        groups_active.append(entry)
+    elif cat == "group_lurker":
+        groups_lurker.append(entry)
+    elif cat == "notification":
+        notifications.append(entry)
+    elif cat == "low_signal":
+        low_signal.append(entry)
 
 personal_1on1.sort(key=lambda x: x.get("score", 0), reverse=True)
 groups_active.sort(key=lambda x: x.get("score", 0), reverse=True)
@@ -30,8 +38,11 @@ groups_lurker.sort(key=lambda x: x.get("score", 0), reverse=True)
 
 EPRINT = lambda s: print(s, file=sys.stderr)
 
-EPRINT(f"Personal 1on1: {len(personal_1on1)}, Groups active: {len(groups_active)}, Groups lurker: {len(groups_lurker)}")
+EPRINT(
+    f"Personal 1on1: {len(personal_1on1)}, Groups active: {len(groups_active)}, Groups lurker: {len(groups_lurker)}"
+)
 EPRINT(f"Notifications: {len(notifications)}, Low signal: {len(low_signal)}")
+
 
 def analyze_chat(slug, max_text_sample=150):
     folder = BASE / slug
@@ -47,12 +58,22 @@ def analyze_chat(slug, max_text_sample=150):
 
     result = {
         "total_msgs": len(msgs),
-        "text_msgs": 0, "voice_msgs": 0, "image_msgs": 0, "video_msgs": 0,
-        "my_msgs": 0, "my_chars": 0, "other_chars": 0,
-        "contact_candidates": [], "first_msgs": [], "last_msgs": [],
-        "has_erebus": False, "erebus_context": [],
-        "first_date": "", "last_date": "",
-        "me_sender": "", "sender_counts": {},
+        "text_msgs": 0,
+        "voice_msgs": 0,
+        "image_msgs": 0,
+        "video_msgs": 0,
+        "my_msgs": 0,
+        "my_chars": 0,
+        "other_chars": 0,
+        "contact_candidates": [],
+        "first_msgs": [],
+        "last_msgs": [],
+        "has_erebus": False,
+        "erebus_context": [],
+        "first_date": "",
+        "last_date": "",
+        "me_sender": "",
+        "sender_counts": {},
     }
 
     sender_counts = defaultdict(int)
@@ -81,11 +102,15 @@ def analyze_chat(slug, max_text_sample=150):
     if sender_counts:
         me_sender = max(sender_counts.items(), key=lambda x: x[1])[0]
         result["me_sender"] = me_sender
-        my_msgs_data = [m for m in msgs if (m.get("sender","") or m.get("author","")) == me_sender]
+        my_msgs_data = [
+            m for m in msgs if (m.get("sender", "") or m.get("author", "")) == me_sender
+        ]
         result["my_msgs"] = len(my_msgs_data)
-        result["my_chars"] = sum(len(m.get("text","") or "") for m in my_msgs_data)
-        other_msgs_data = [m for m in msgs if (m.get("sender","") or m.get("author","")) != me_sender]
-        result["other_chars"] = sum(len(m.get("text","") or "") for m in other_msgs_data)
+        result["my_chars"] = sum(len(m.get("text", "") or "") for m in my_msgs_data)
+        other_msgs_data = [
+            m for m in msgs if (m.get("sender", "") or m.get("author", "")) != me_sender
+        ]
+        result["other_chars"] = sum(len(m.get("text", "") or "") for m in other_msgs_data)
 
     # Dates
     if msgs:
@@ -93,13 +118,21 @@ def analyze_chat(slug, max_text_sample=150):
         result["last_date"] = msgs[-1].get("date", msgs[-1].get("timestamp", ""))
 
     # First/last text messages
-    text_msgs_full = [m for m in msgs if (m.get("text","") or "").strip()]
+    text_msgs_full = [m for m in msgs if (m.get("text", "") or "").strip()]
     result["first_msgs"] = [
-        {"sender": m.get("sender","") or m.get("author",""), "text": (m.get("text","") or "")[:300], "date": m.get("date", m.get("timestamp",""))}
+        {
+            "sender": m.get("sender", "") or m.get("author", ""),
+            "text": (m.get("text", "") or "")[:300],
+            "date": m.get("date", m.get("timestamp", "")),
+        }
         for m in text_msgs_full[:5]
     ]
     result["last_msgs"] = [
-        {"sender": m.get("sender","") or m.get("author",""), "text": (m.get("text","") or "")[:300], "date": m.get("date", m.get("timestamp",""))}
+        {
+            "sender": m.get("sender", "") or m.get("author", ""),
+            "text": (m.get("text", "") or "")[:300],
+            "date": m.get("date", m.get("timestamp", "")),
+        }
         for m in text_msgs_full[-5:]
     ]
 
@@ -118,21 +151,24 @@ def analyze_chat(slug, max_text_sample=150):
     name_hits = set()
     for sender, text in text_with_sender[:80]:
         for pat in [
-            r'(?:hola|holi|hey|buenas?)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})',
-            r'([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})\s+(?:cómo|como|qué|que) tal',
-            r'(?:querid[oa]|amig[oa]|flac[oa]|gord[oa]|bebé|bebe|amor|herman[oa])\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})',
-            r'([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})\s+(?:sos|sos re|eres|es muy)',
-            r'te\s+(?:quiero|amo|extraño)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})',
-            r'(?:buenas|buenos)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})',
+            r"(?:hola|holi|hey|buenas?)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})",
+            r"([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})\s+(?:cómo|como|qué|que) tal",
+            r"(?:querid[oa]|amig[oa]|flac[oa]|gord[oa]|bebé|bebe|amor|herman[oa])\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})",
+            r"([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})\s+(?:sos|sos re|eres|es muy)",
+            r"te\s+(?:quiero|amo|extraño)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})",
+            r"(?:buenas|buenos)\s+([A-ZÁÉÍÓÚÑ][a-záéíóúñ]{2,})",
         ]:
             for m in re.findall(pat, text, re.IGNORECASE):
                 if m and len(m) > 2 and len(m) < 25:
                     name_hits.add(m.strip())
 
     result["contact_candidates"] = list(name_hits)[:8]
-    result["sender_counts"] = dict(sorted(sender_counts.items(), key=lambda x: x[1], reverse=True)[:8])
+    result["sender_counts"] = dict(
+        sorted(sender_counts.items(), key=lambda x: x[1], reverse=True)[:8]
+    )
 
     return result
+
 
 # ======== ANALYZE TOP 30 PERSONAL ========
 EPRINT("Analyzing top 30 personal chats...")
@@ -147,7 +183,9 @@ for entry in personal_1on1[:30]:
         a["score"] = entry.get("score", 0)
         personal_analyses.append(a)
         if a["has_erebus"]:
-            erebus_chats.append({"slug": slug, "type": "personal_1on1", "context": a["erebus_context"]})
+            erebus_chats.append(
+                {"slug": slug, "type": "personal_1on1", "context": a["erebus_context"]}
+            )
 
 # ======== ANALYZE TOP 20 GROUPS ========
 EPRINT("Analyzing top 20 group chats...")
@@ -188,22 +226,32 @@ for entry in triage:
     if found:
         already = any(e["slug"] == slug for e in erebus_chats)
         if not already:
-            erebus_all.append({"slug": slug, "keywords": found, "category": entry.get("category",""), "score": entry.get("score",0)})
+            erebus_all.append(
+                {
+                    "slug": slug,
+                    "keywords": found,
+                    "category": entry.get("category", ""),
+                    "score": entry.get("score", 0),
+                }
+            )
 
 erebus_all.sort(key=lambda x: x["score"], reverse=True)
 
 # Combine
-all_erebus = erebus_chats + [{"slug": e["slug"], "type": e["category"], "context": e["keywords"]} for e in erebus_all]
+all_erebus = erebus_chats + [
+    {"slug": e["slug"], "type": e["category"], "context": e["keywords"]} for e in erebus_all
+]
 
 # ======== COMPUTE STATS ========
-total_msgs = sum(e.get("msgs",0) or e.get("total_messages",0) for e in triage)
-total_my_chars = sum(e.get("my_chars",0) or e.get("mine_chars",0) for e in triage)
+total_msgs = sum(e.get("msgs", 0) or e.get("total_messages", 0) for e in triage)
+total_my_chars = sum(e.get("my_chars", 0) or e.get("mine_chars", 0) for e in triage)
 
 # Top 10 by voice messages
 voice_rich = sorted(personal_1on1, key=lambda x: x.get("audio", 0), reverse=True)[:10]
 
 # Top 10 by text length
 text_heavy = sorted(personal_1on1, key=lambda x: x.get("my_chars", 0), reverse=True)[:10]
+
 
 # ======== GENERATE CATEGORIES ========
 def categorize_personal(a):
@@ -212,7 +260,7 @@ def categorize_personal(a):
     my_chars = a["my_chars"]
     voice = a["voice_msgs"]
     span = ""  # we'll use dates
-    
+
     if msgs < 20:
         return "DROP"
     if my_chars > 100000 and voice > 500:
@@ -226,6 +274,7 @@ def categorize_personal(a):
     if msgs > 100:
         return "MEDIUM"
     return "LOW"
+
 
 # Build output
 output = {
@@ -241,8 +290,14 @@ output = {
     "personal_analyses": [],
     "group_analyses": [],
     "erebus_chats": all_erebus,
-    "voice_rich": [{"slug": e["slug"], "audio": e.get("audio",0), "score": e.get("score",0)} for e in voice_rich],
-    "text_heavy": [{"slug": e["slug"], "my_chars": e.get("my_chars",0), "score": e.get("score",0)} for e in text_heavy],
+    "voice_rich": [
+        {"slug": e["slug"], "audio": e.get("audio", 0), "score": e.get("score", 0)}
+        for e in voice_rich
+    ],
+    "text_heavy": [
+        {"slug": e["slug"], "my_chars": e.get("my_chars", 0), "score": e.get("score", 0)}
+        for e in text_heavy
+    ],
     "relevance": {"HIGH": [], "MEDIUM": [], "LOW": [], "DROP": []},
 }
 
@@ -251,7 +306,14 @@ for pa in personal_analyses:
     # Strip large fields
     out_pa = {k: v for k, v in pa.items() if k not in ("first_msgs", "last_msgs", "sender_counts")}
     output["personal_analyses"].append(out_pa)
-    output["relevance"][cat].append({"slug": pa["slug"], "score": pa["score"], "msgs": pa["total_msgs"], "my_chars": pa["my_chars"]})
+    output["relevance"][cat].append(
+        {
+            "slug": pa["slug"],
+            "score": pa["score"],
+            "msgs": pa["total_msgs"],
+            "my_chars": pa["my_chars"],
+        }
+    )
 
 for ga in group_analyses:
     out_ga = {k: v for k, v in ga.items() if k not in ("first_msgs", "last_msgs", "sender_counts")}
@@ -259,12 +321,20 @@ for ga in group_analyses:
 
 # Include first/last msgs in a truncated form for report
 for pa in personal_analyses:
-    pa["_first_msgs_short"] = [{"s": m["sender"][:15], "t": m["text"][:150]} for m in pa["first_msgs"][:3]]
-    pa["_last_msgs_short"] = [{"s": m["sender"][:15], "t": m["text"][:150]} for m in pa["last_msgs"][-3:]]
+    pa["_first_msgs_short"] = [
+        {"s": m["sender"][:15], "t": m["text"][:150]} for m in pa["first_msgs"][:3]
+    ]
+    pa["_last_msgs_short"] = [
+        {"s": m["sender"][:15], "t": m["text"][:150]} for m in pa["last_msgs"][-3:]
+    ]
     pa["_sender_top3"] = list(pa["sender_counts"].items())[:3]
 for ga in group_analyses:
-    ga["_first_msgs_short"] = [{"s": m["sender"][:15], "t": m["text"][:150]} for m in ga["first_msgs"][:3]]
-    ga["_last_msgs_short"] = [{"s": m["sender"][:15], "t": m["text"][:150]} for m in ga["last_msgs"][-3:]]
+    ga["_first_msgs_short"] = [
+        {"s": m["sender"][:15], "t": m["text"][:150]} for m in ga["first_msgs"][:3]
+    ]
+    ga["_last_msgs_short"] = [
+        {"s": m["sender"][:15], "t": m["text"][:150]} for m in ga["last_msgs"][-3:]
+    ]
     ga["_sender_top5"] = list(ga["sender_counts"].items())[:5]
 
 # ======== WRITE JSON DATA ========
@@ -274,7 +344,11 @@ EPRINT(f"JSON data written to {json_path}")
 
 # ======== GENERATE MARKDOWN ========
 lines = []
-def L(s=""): lines.append(s)
+
+
+def L(s=""):
+    lines.append(s)
+
 
 L("# WhatsApp Chat Index for Psychological Analysis")
 L()
@@ -285,8 +359,8 @@ L()
 L("## 1. Executive Summary")
 L()
 s = output["stats"]
-L(f"| Metric | Value |")
-L(f"|--------|-------|")
+L("| Metric | Value |")
+L("|--------|-------|")
 L(f"| Total chats in corpus | {s['total_chats']} |")
 L(f"| Personal 1-on-1 | {s['personal_1on1']} |")
 L(f"| Active groups | {s['groups_active']} |")
@@ -300,8 +374,8 @@ L()
 rel = output["relevance"]
 L("### Relevance Breakdown (Top 30 Personal Chats)")
 L()
-L(f"| Category | Count | Description |")
-L(f"|----------|------:|-------------|")
+L("| Category | Count | Description |")
+L("|----------|------:|-------------|")
 L(f"| 🔴 HIGH | {len(rel['HIGH'])} | Close relationships, emotional depth |")
 L(f"| 🟡 MEDIUM | {len(rel['MEDIUM'])} | Friends, regular social |")
 L(f"| 🟢 LOW | {len(rel['LOW'])} | Professional, casual |")
@@ -340,7 +414,7 @@ for i, pa in enumerate(output["personal_analyses"], 1):
     slug = pa["slug"]
     phone = slug.split("_wa_chat_")[1].rsplit("_", 1)[0] if "_wa_chat_" in slug else slug
     score = pa.get("score", 0)
-    
+
     # Infer name
     name = "Unknown"
     if pa.get("contact_candidates"):
@@ -352,14 +426,14 @@ for i, pa in enumerate(output["personal_analyses"], 1):
             if s != me and s and not s.startswith("@"):
                 name = s[:20]
                 break
-    
+
     cat_display = categorize_personal(pa)
     emoji = {"HIGH": "🔴", "MEDIUM": "🟡", "LOW": "🟢", "DROP": "⚫"}.get(cat_display, "")
-    
+
     L(f"### {i}. {emoji} [{name}] `{phone[:15]}`")
     L()
-    L(f"| Field | Value |")
-    L(f"|-------|-------|")
+    L("| Field | Value |")
+    L("|-------|-------|")
     L(f"| Score | {score:,.0f} |")
     L(f"| Messages | {pa['total_msgs']:,} |")
     L(f"| My messages | {pa['my_msgs']:,} ({pa['my_chars']:,} chars) |")
@@ -367,21 +441,21 @@ for i, pa in enumerate(output["personal_analyses"], 1):
     L(f"| Images | {pa['image_msgs']:,} |")
     L(f"| Date range | {pa['first_date']} → {pa['last_date']} |")
     if pa.get("has_erebus"):
-        L(f"| ⚠️ Erebus | YES - exclude from psych analysis |")
+        L("| ⚠️ Erebus | YES - exclude from psych analysis |")
     L(f"| Relevance | **{cat_display}** |")
     L()
-    
+
     # Contact names
     if pa.get("contact_candidates"):
         L(f"**Inferred names:** {', '.join(pa['contact_candidates'][:5])}")
         L()
-    
+
     # Show last 3 messages for context
     if pa.get("_last_msgs_short"):
         L("<details><summary>Last messages (context)</summary>")
         L()
         for m in pa["_last_msgs_short"]:
-            who = "→ Me" if m["s"] == pa.get("me_sender","") else f"← Them"
+            who = "→ Me" if m["s"] == pa.get("me_sender", "") else "← Them"
             L(f"- *{who}*: {m['t']}")
         L()
         L("</details>")
@@ -398,13 +472,13 @@ L()
 for i, ga in enumerate(output["group_analyses"], 1):
     name = ga.get("group_name", ga["slug"])
     slug = ga["slug"]
-    
+
     cat_orig = ga.get("category_orig", "")
-    
+
     L(f"### {i}. {name}")
     L()
-    L(f"| Field | Value |")
-    L(f"|-------|-------|")
+    L("| Field | Value |")
+    L("|-------|-------|")
     L(f"| Score | {ga.get('score', 0):,.0f} |")
     L(f"| Category | {cat_orig} |")
     L(f"| Messages | {ga['total_msgs']:,} |")
@@ -412,9 +486,9 @@ for i, ga in enumerate(output["group_analyses"], 1):
     L(f"| Voice notes | {ga['voice_msgs']:,} |")
     L(f"| Members (top 5) | {', '.join(s[:12] for s,c in ga.get('_sender_top5', [])[:5])} |")
     if ga.get("has_erebus"):
-        L(f"| ⚠️ Erebus | YES |")
+        L("| ⚠️ Erebus | YES |")
     L()
-    
+
     if ga.get("_last_msgs_short"):
         L("<details><summary>Recent messages</summary>")
         L()
@@ -432,10 +506,12 @@ L()
 L("## 5. Relevance Categories")
 L()
 
-for cat_name, emoji, desc in [("HIGH", "🔴", "Close relationships, emotional depth"), 
-                               ("MEDIUM", "🟡", "Friends, regular social contact"),
-                               ("LOW", "🟢", "Professional, casual acquaintances"),
-                               ("DROP", "⚫", "Noise, insufficient data")]:
+for cat_name, emoji, desc in [
+    ("HIGH", "🔴", "Close relationships, emotional depth"),
+    ("MEDIUM", "🟡", "Friends, regular social contact"),
+    ("LOW", "🟢", "Professional, casual acquaintances"),
+    ("DROP", "⚫", "Noise, insufficient data"),
+]:
     items = output["relevance"].get(cat_name, [])
     L(f"### {emoji} {cat_name} — {desc} ({len(items)} chats)")
     L()
@@ -444,7 +520,9 @@ for cat_name, emoji, desc in [("HIGH", "🔴", "Close relationships, emotional d
         L("|---:|------|------:|-----:|---------:|")
         for j, item in enumerate(sorted(items, key=lambda x: x["score"], reverse=True), 1):
             slug_short = item["slug"].replace("_wa_chat_", "").replace("_wa_group_", "")
-            L(f"| {j} | `{slug_short}` | {item['score']:,.0f} | {item['msgs']:,} | {item.get('my_chars', 0):,} |")
+            L(
+                f"| {j} | `{slug_short}` | {item['score']:,.0f} | {item['msgs']:,} | {item.get('my_chars', 0):,} |"
+            )
     L()
 
 # ======== SECTION 6: STATISTICS ========
@@ -485,9 +563,13 @@ L()
 # Top 5 by combined signal
 top5 = sorted(output["personal_analyses"], key=lambda x: x.get("score", 0), reverse=True)[:5]
 for i, pa in enumerate(top5, 1):
-    name = pa.get("contact_candidates", ["Unknown"])[0] if pa.get("contact_candidates") else "Unknown"
-    L(f"{i}. **{name}** (`{pa['slug'].split('_wa_chat_')[1].rsplit('_',1)[0][:15]}`) — "
-      f"Score {pa['score']:,.0f}, {pa['total_msgs']:,} msgs, {pa['voice_msgs']:,} voice notes")
+    name = (
+        pa.get("contact_candidates", ["Unknown"])[0] if pa.get("contact_candidates") else "Unknown"
+    )
+    L(
+        f"{i}. **{name}** (`{pa['slug'].split('_wa_chat_')[1].rsplit('_',1)[0][:15]}`) — "
+        f"Score {pa['score']:,.0f}, {pa['total_msgs']:,} msgs, {pa['voice_msgs']:,} voice notes"
+    )
 L()
 
 L("### Chats to Definitely Skip")
