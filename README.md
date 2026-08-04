@@ -44,9 +44,9 @@
 | **Top voice-note contact** | Laura 🐷 | 2,915 notes (191k words) |
 | **Years analyzed** | 7 (2020-2026) | 505,926 messages total |
 
----
+| **HAT 27 Love-Language Analysis** | [CORE_PSYCHOLOGY/love_analysis/HAT_27_LOVE_LANGUAGE_ANALYSIS.md](./CORE_PSYCHOLOGY/love_analysis/HAT_27_LOVE_LANGUAGE_ANALYSIS.md) | 6,274 markers across 519 chats — how Ivan loves & the shadow of what he can't say |
 
-## 🧠 What's New (2026-07-27) — Empirical Analyses
+---
 
 **6 NEW empirical analyses run**, integrating ALL previous data into clinical insights:
 

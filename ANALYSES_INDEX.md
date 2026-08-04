@@ -31,8 +31,9 @@
 | **conversation_endings** | 189KB | 446 chats | 14, 22 | 07-27 20:25 |
 | **topic_extraction** | 108KB | 220 chats | 14, 17 | 07-27 20:30 |
 | **streak_analysis** | 89KB | 317 chats | 1 | 07-27 20:34 |
-| **mood_timelines** | 132KB | (8 contacts) | 1, 7 | 07-27 |
-| **clusters** | 7KB | 168 contacts | 14, 17 | 07-27 |
+| **mood_timelines** | 132KB | (8 contacts) | 1, 7 | 2026-07-27 |
+| **clusters** | 7KB | 168 contacts | 14, 17 | 2026-07-27 |
+| **love_language_analysis** ⭐ | 280KB | 519 chats / 6,274 markers | 1, 4, 7, 21, 27 | 2026-08-04 |
 
 ### Pre-existing (2026-07-23 cleanup)
 
@@ -79,8 +80,9 @@
 | **26** | Neuro/Clinical | 1 (kink_vocab) |
 | **31** | Grief | 1 (grief_analysis) |
 | **32** | Technostress | 2 analyses |
+| **27** | **Neurodivergence / Love Langs** | **1 (love_language_analysis)** ⭐ NEW |
 
-**Total: 17 of 32 hats fed (53%)**
+**Total: 18 of 32 hats fed (56%)**
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Who Is This For:** Partners, Doms/subs, close intimates  
 > **Purpose:** Understanding how Ivan works so you can connect better  
-> **Last Updated:** 2026-07-27 (updated with time-patterns analysis and 34-profile insights)
+> **Last Updated:** 2026-08-04 (added empirical love-language analysis — 6,274 markers across 519 chats)
 
 ---
 
@@ -55,6 +55,33 @@ This is his deepest wound in concrete form. What he needs most is someone who sh
 | Pulling him into your lap/arms | Direct physical invitation |
 
 **Key:** Hints don't work. Implications don't work. Be direct.
+
+---
+
+## 🆕 Empirical Love-Language Profile (2026-08-04, 6,274 markers)
+
+Scanned 117,283 of Ivan's outgoing messages + 249 voice-note transcripts across 519 personal chats. **Five findings that change how to love him:**
+
+| Finding | Number | Implication for you |
+|---------|-------:|---------------------|
+| **He LOVES by doing** | 696 acts-of-service markers | He'll build you a website, send you money, fix your code. That's love. **Say it back** — he won't say it first. |
+| **He LOVES by saying (lightly)** | 2,415 verbal-affection markers | "Linda", "guapo", "te quiero" — surface pet names. **He rarely says "te amo".** That gap is the wound, not the relationship. |
+| **He LOVES by repairing** | 875 repair markers (48.4% of conversation repairs initiated by him) | If he ruptures and chases you back, **that's his main love channel**. Don't mistake it for anxiety. |
+| **He LOVES by touching (only in permitted spaces)** | 1,642 touch markers, but only ~150 in family context | Family almost never gets touch-language. Kink contexts and Jonatan unlock it. **Build non-kink permission structures for touch vocabulary with him.** |
+| **He CANNOT love by declaring** | 39 shadow-language markers ("no me sale", "no sé expresar", "me cuesta") | When he says "no me sale", the love is there but the bridge to expression is broken. **Don't ask him to declare. Translate what he does into words for him.** |
+
+### The Asymmetry
+
+| How he LOVES you | How he NEEDS to be loved |
+|------------------|--------------------------|
+| Words (lightly) | Touch (deeply) |
+| Acts of service | Physical presence when sick |
+| Repair after rupture | Being held, not being left |
+| Building things for you | Comfort when vulnerable |
+
+**The fistula incident is the template.** When Ivan is sick, **be there. Touch him.** That is the love language he most needs. If you give him acts and he gives you words, you are both loving in your native tongue — and missing each other.
+
+**See the full analysis:** [CORE_PSYCHOLOGY/love_analysis/HAT_27_LOVE_LANGUAGE_ANALYSIS.md](../CORE_PSYCHOLOGY/love_analysis/HAT_27_LOVE_LANGUAGE_ANALYSIS.md) (6,274 markers, 9-contact breakdown, shadow-language analysis, full evidence base).
 
 ---
 
