@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Parse a WhatsApp text export, keep only Ivan's messages (sender=weissvanderpol),
+"""Parse a Messaging text export, keep only Ivan's messages (sender=weissvanderpol),
 coalesce per date, and write transcripts.json in the shape extract_psychology expects.
 
 Usage:
-  aggregate_wa_text.py <path/to/WhatsApp Chat with X.txt> <output_dir>
+  aggregate_wa_text.py <path/to/Messaging Chat with X.txt> <output_dir>
 """
 
 import json

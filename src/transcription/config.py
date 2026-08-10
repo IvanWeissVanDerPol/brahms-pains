@@ -32,7 +32,7 @@ class PathConfig:
 
     project_root: Path = field(default_factory=lambda: PROJECT_ROOT)
     transcripts_source: Path = field(
-        default_factory=lambda: PROJECT_ROOT / "SOURCE_OF_TRUTH" / "whatsapp transcripts"
+        default_factory=lambda: PROJECT_ROOT / "SOURCE_OF_TRUTH" / "messaging transcripts"
     )
     transcripts_output: Path = field(
         default_factory=lambda: PROJECT_ROOT / "SOURCE_OF_TRUTH" / "voice_note_transcripts"

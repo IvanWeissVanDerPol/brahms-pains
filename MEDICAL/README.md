@@ -48,7 +48,7 @@ MEDICAL/
 ## Cross-references with other parts of psycology repo
 
 - `TREATMENT/` — Ivan's clinical psychology notes. Imaging findings are referenced here when clinically relevant (e.g., back pain → MRI lumbar).
-- `RELATIONSHIPS/dynamics/HOSPITAL_BAUTISTA.md` — auto-generated WhatsApp profile for Bautista (mostly appointment confirmations).
+- `RELATIONSHIPS/dynamics/HOSPITAL_BAUTISTA.md` — auto-generated Messaging profile for Bautista (mostly appointment confirmations).
 
 ## Contact for analysis help
 

@@ -3,7 +3,7 @@
 > **Relationship Type:** Close Friend (Kink Community)  
 > **Duration:** Dec 2024 - Ongoing  
 > **Status:** Active, supportive friendship  
-> **Source:** WhatsApp chat (~900 messages, Dec 2024 - Aug 2025)  
+> **Source:** Messaging chat (~900 messages, Dec 2024 - Aug 2025)  
 > **Psychological Significance:** Contains Laura breakup disclosure + shows supportive friendship dynamic
 
 ---

@@ -1,7 +1,7 @@
 # Gaby (Dra. Gabriella González Pane) — Client + Friend
 
 > **Real name**: Dra. Gabriella González Pane
-> **Channel**: WhatsApp text export + 1,114 voice notes
+> **Channel**: Messaging text export + 1,114 voice notes
 > **Started**: 2026-05-31
 > **Last contact**: 2026-07-23 (today, active)
 > **Total messages**: 5,985 · Audio: 1,114 · Images: 308 · Videos: 54

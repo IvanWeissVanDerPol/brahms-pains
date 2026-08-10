@@ -9,7 +9,7 @@
 
 ## Relationship Overview
 
-Rita appears to be a romantic interest Ivan pursued during late 2022. They met in person first (possibly through mutual friends or an event), then continued connecting via WhatsApp. The relationship was in an early dating phase characterized by:
+Rita appears to be a romantic interest Ivan pursued during late 2022. They met in person first (possibly through mutual friends or an event), then continued connecting via Messaging. The relationship was in an early dating phase characterized by:
 - Coffee dates
 - Planning to watch series together (House of the Dragon, Chainsaw Man)
 - Ivan cooking for her

@@ -8,7 +8,7 @@
 
 ## The contradiction
 
-A single WhatsApp JID (`595991549029`) is referenced under TWO identities in the repo:
+A single Messaging JID (`595991549029`) is referenced under TWO identities in the repo:
 
 ### Identity A: "Ann" (kink community contact)
 - **Profile file**: `RELATIONSHIPS/dynamics/ANN_KINK.md` (47 lines, stub)

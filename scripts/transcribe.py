@@ -2,7 +2,7 @@
 """
 Unified Voice Note Transcription System
 
-A comprehensive CLI tool for transcribing WhatsApp voice notes with multiple modes:
+A comprehensive CLI tool for transcribing Messaging voice notes with multiple modes:
 - single: Process one chat
 - parallel: Process multiple chats with multiprocessing
 - all: Process all chats

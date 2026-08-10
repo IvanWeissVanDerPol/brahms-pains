@@ -9,7 +9,7 @@
 
 ## Why this questionnaire exists
 
-The current corpus (in master) has **multiple conflicting family assignments** because the vCard phonebook, the WhatsApp-based `SONIA.md` profile, and your verbal corrections don't agree. To prevent destructive renames, we need you to formally authoritatively settle every family relationship.
+The current corpus (in master) has **multiple conflicting family assignments** because the vCard phonebook, the Messaging-based `SONIA.md` profile, and your verbal corrections don't agree. To prevent destructive renames, we need you to formally authoritatively settle every family relationship.
 
 This is destructive work. The plan is:
 
@@ -39,7 +39,7 @@ For each person, fill in:
 
 - **vCard name:** ❌ (Sonia is NOT in the vCard)
 - **Phone number:** ❓ I don't have it yet
-- **WhatsApp JID:** ❓ I need to find the Sonia chat JID — likely the largest tier1 chat
+- **Messaging JID:** ❓ I need to find the Sonia chat JID — likely the largest tier1 chat
 
 You said: **"sonia is sonia weiss is mama"**
 
@@ -54,14 +54,14 @@ I need to confirm:
 | A1.5 | **Where does Sonia live** | _____ |
 | A1.6 | **Sonia's occupation** | _____ |
 | A1.7 | **Sonia's siblings** (names, including Gerold) | _____ |
-| A1.8 | **WhatsApp chat for Sonia** | I think it's a 11,305-msg tier1 chat. **Is the existing profile file `RELATIONSHIPS/dynamics/SONIA.md` referring to her?** [ ] Yes  [ ] No |
+| A1.8 | **Messaging chat for Sonia** | I think it's a 11,305-msg tier1 chat. **Is the existing profile file `RELATIONSHIPS/dynamics/SONIA.md` referring to her?** [ ] Yes  [ ] No |
 | A1.9 | **Anything to ADD to the existing SONIA.md profile** (your mom is a psychological corner of the corpus, this file is rich) | _____ |
 
 ### A2. John van der Pol (your Dad)
 
 - **vCard name:** "John" (just "John" — no surname)
 - **vCard phone:** +595 986 138387 (Paraguay)
-- **WhatsApp chat dir:** `tier2_core/32__john___wa_chat_595986138387_1265` (1,864 msgs, 2021-10 → 2026)
+- **Messaging chat dir:** `tier2_core/32__john___wa_chat_595986138387_1265` (1,864 msgs, 2021-10 → 2026)
 
 | # | Question | Answer |
 |---|----------|--------|
@@ -72,7 +72,7 @@ I need to confirm:
 | A2.5 | **Occupation** | _____ |
 | A2.6 | **John's relationship to Riet van der Pol** (the +31 Netherlands number) | [ ] Mother  [ ] Father  [ ] Other: _____ |
 | A2.7 | **John's siblings** (including Ony, etc.) | _____ |
-| A2.8 | **Does John have WhatsApp?** Is the 595986138387 chat with him, or with someone else named John? | [ ] Yes, that chat IS John  [ ] No — that chat is with someone else, and John's chat is JID: _____ |
+| A2.8 | **Does John have Messaging?** Is the 595986138387 chat with him, or with someone else named John? | [ ] Yes, that chat IS John  [ ] No — that chat is with someone else, and John's chat is JID: _____ |
 | A2.9 | **The Jan van der Pol vCard entry (+595) is also a relative?** | [ ] Yes — Jan is: _____  [ ] No — Jan is unrelated |
 | A2.10 | **Anything special to flag about your dad** (psychologically, work, anything) | _____ |
 
@@ -88,7 +88,7 @@ I need to confirm:
 | A3.2 | **Riet is John's mother?** | [ ] Yes  [ ] No — she's: _____ |
 | A3.3 | **Where does Riet live** | _____ |
 | A3.4 | **What language does Riet speak** (helps transcribe voice notes later) | _____ |
-| A3.5 | **Does Riet have WhatsApp?** | [ ] Yes — chat JID: _____  [ ] No  [ ] Don't know |
+| A3.5 | **Does Riet have Messaging?** | [ ] Yes — chat JID: _____  [ ] No  [ ] Don't know |
 
 ### A4. Gerold (Uncle)
 
@@ -100,7 +100,7 @@ I need to confirm:
 | A4.1 | **Confirm: Gerold = Uncle** | [ ] Yes — Sonia's brother  [ ] Yes — John's brother  [ ] Other: _____ |
 | A4.2 | **Gerold's full name** | _____ |
 | A4.3 | **Where does Gerold live** | _____ |
-| A4.4 | **Phone / WhatsApp** | _____ |
+| A4.4 | **Phone / Messaging** | _____ |
 | A4.5 | **Role** (what kind of uncle, anything distinctive) | _____ |
 
 ### A5. Ony (Uncle — which side?)
@@ -113,7 +113,7 @@ I need to confirm:
 | A5.2 | **Ony is Sonia's brother or John's brother?** | [ ] Sonia's  [ ] John's  [ ] Other: _____ |
 | A5.3 | **Ony's full name** | _____ |
 | A5.4 | **Where does Ony live** | _____ |
-| A5.5 | **Phone / WhatsApp** | _____ |
+| A5.5 | **Phone / Messaging** | _____ |
 | A5.6 | **Is Ony the same as Gerold?** (i.e. Gerold's nickname is Ony?) | [ ] Yes  [ ] No — they're different  [ ] Not sure |
 
 ---
@@ -123,7 +123,7 @@ I need to confirm:
 ### B1. Kiki (Saskia Weiss — already named)
 
 - **vCard name:** Kiki's entry was NOT in the vCard dump we have
-- **WhatsApp JID:** `595985724135` (already VERIFIED)
+- **Messaging JID:** `595985724135` (already VERIFIED)
 
 | # | Question | Answer |
 |---|----------|--------|
@@ -134,7 +134,7 @@ I need to confirm:
 ### B2. Luana Weiss (already named)
 
 - **vCard name:** Luana Weiss
-- **WhatsApp JID:** `595985725366` (already VERIFIED_PHONEBOOK)
+- **Messaging JID:** `595985725366` (already VERIFIED_PHONEBOOK)
 
 | # | Question | Answer |
 |---|----------|--------|
@@ -146,7 +146,7 @@ I need to confirm:
 
 - **vCard name:** "Mica Weiss"
 - **vCard phone:** +595
-- **WhatsApp JID:** `595982850085`
+- **Messaging JID:** `595982850085`
 
 | # | Question | Answer |
 |---|----------|--------|
@@ -157,7 +157,7 @@ I need to confirm:
 ### B4. Prima Mikaela Weiss
 
 - **vCard name:** "Prima Mikaela Weiss" (literally "cousin Mikaela Weiss")
-- **WhatsApp JID:** ❓ (not yet located)
+- **Messaging JID:** ❓ (not yet located)
 
 | # | Question | Answer |
 |---|----------|--------|
@@ -168,7 +168,7 @@ I need to confirm:
 ### B5. Primo Gabriel
 
 - **vCard name:** "Primo Gabriel"
-- **WhatsApp JID:** `595985786571`
+- **Messaging JID:** `595985786571`
 
 | # | Question | Answer |
 |---|----------|--------|
@@ -184,7 +184,7 @@ I need to confirm:
 |---|----------|--------|
 | C.1 | **Who is Toni Weiss?** (You said John van der Pol is Dad, not Toni) | [ ] Uncle  [ ] Cousin  [ ] Grandpa  [ ] Other: _____ |
 | C.2 | **Toni's relationship to you** | _____ |
-| C.3 | **Phone / WhatsApp** | +1 (USA), `Paragweiss@yahoo.com` (already known) |
+| C.3 | **Phone / Messaging** | +1 (USA), `Paragweiss@yahoo.com` (already known) |
 | C.4 | **Is Toni the same person as the current "tier2_core/Toni Weiss" chat (JID 15055778339)?** | [ ] Yes  [ ] No — that chat is someone else |
 
 ---
@@ -222,7 +222,7 @@ Target:
 
 ### Are there any family members you listed but I missed?
 
-| Name | Relationship | Phone / WhatsApp |
+| Name | Relationship | Phone / Messaging |
 |---|---|---|
 | _____ | _____ | _____ |
 | _____ | _____ | _____ |

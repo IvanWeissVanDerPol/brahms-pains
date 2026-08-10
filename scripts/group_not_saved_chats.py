@@ -18,7 +18,7 @@ chats = ns["chats"]
 # Business / customer keywords (Spanish - typical for Paraguay)
 BIZ = re.compile(
     r"\b(precio|cotiza[cs]i[oó]n|presupuesto|factura|cliente|cu[áa]nto\s+cuesta|"
-    r"whatsapp|envío|entrega|pago|transferencia|tigo|personal|claro|"
+    r"messaging|envío|entrega|pago|transferencia|tigo|personal|claro|"
     r"3d|imprimir|impresora|molde|figur|plastilina|resina|filamento|"
     r"pedido|orden|stock|disponible|tienda|oferta)\b",
     re.IGNORECASE,

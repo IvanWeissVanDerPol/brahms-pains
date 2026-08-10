@@ -1,4 +1,4 @@
-# WhatsApp Contacts — Circle View
+# Messaging Contacts — Circle View
 
 > **Generated:** July 22, 2026
 > **Method:** Group co-membership analysis on the WA corpus (msgstore-2026-07-20)
@@ -10,7 +10,7 @@
 > - `_ANALYSIS/CONTACT_CIRCLES.md` (full ranked list)
 > - `_triage_circles.json` (per-chat circle assignments)
 
-This directory provides a **friend-circle** view of every 1-on-1 WhatsApp chat in the corpus. Each subdir contains symlinks into the original tier dirs (`tier1_deep`, `tier2_core`, `tier3_extended`, `_dropped`, etc.) — so editing the chat metadata or messages in either view updates the same file.
+This directory provides a **friend-circle** view of every 1-on-1 Messaging chat in the corpus. Each subdir contains symlinks into the original tier dirs (`tier1_deep`, `tier2_core`, `tier3_extended`, `_dropped`, etc.) — so editing the chat metadata or messages in either view updates the same file.
 
 ## Circles
 

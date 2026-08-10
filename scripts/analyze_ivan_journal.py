@@ -81,7 +81,7 @@ WEBSITE_KEYWORDS = [
     "calendly",
     "agenda",
     "google calendar",
-    "whatsapp business",
+    "messaging business",
     "5 quick replies",
     "mensaje",
     "mensajes",

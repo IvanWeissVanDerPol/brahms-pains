@@ -1,6 +1,6 @@
 # Evidence Ledger — Defense Mechanisms
 
-> **Scope:** Patterns extracted from WhatsApp messages and voice-note transcripts.  
+> **Scope:** Patterns extracted from Messaging messages and voice-note transcripts.  
 > **Guardrail:** A defense is a functional adaptation, not a moral defect or a diagnosis.
 
 ## Corpus-level evidence
@@ -62,7 +62,7 @@ The Firewall appears to route different self-states to different people: compete
 
 **Interpretation**
 
-The data supports delayed expression and action after internal accumulation. “Freeze” should remain a hypothesis; WhatsApp cannot distinguish trauma shutdown from conflict avoidance, uncertainty, fatigue, or strategic delay.
+The data supports delayed expression and action after internal accumulation. “Freeze” should remain a hypothesis; Messaging cannot distinguish trauma shutdown from conflict avoidance, uncertainty, fatigue, or strategic delay.
 
 ## Defense chain supported by the corpus
 

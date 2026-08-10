@@ -46,7 +46,7 @@ Auto-extracted notable messages from the chat:
 
 - **[2023-08-03] Them** (1 emojis): Para renderizar? Y la verdad yo diría que onda uno de 27 full hd le deberia ir bien 🤔 si no es algo super pro lo que busca
 - **[2023-08-03] Them** (1 emojis): Pero si no quiere gastar demasiado, alguno IPS, de 27 y full hd le deberia funcionar 🤔
-- **[2023-06-11] Ivan** (0 emojis): Hola festejo mi cumple en casa el 17 de jun  A eso de las 8   El plan es hacer algo en la parrilla/ horno en el quincho Y tomar   Compramos alcohol / más comida del Pinedo si falta   Follow this link to join my WhatsApp group: https://chat.whatsapp.com/DOr9yOMWa0pLbSbxNHQPcN
+- **[2023-06-11] Ivan** (0 emojis): Hola festejo mi cumple en casa el 17 de jun  A eso de las 8   El plan es hacer algo en la parrilla/ horno en el quincho Y tomar   Compramos alcohol / más comida del Pinedo si falta   Follow this link to join my Messaging group: https://chat.messaging.com/DOr9yOMWa0pLbSbxNHQPcN
 - **[2022-04-24] Them** (0 emojis): No se si sigue en pie aun lo de hoy pero creo que a los demas les pareció bien lo del finde que viene,  yo para ese tampoco tengo drama si es que organizamos bien xD pero si hacen algo hoy, yo creo que f por mi parte
 - **[2023-11-12] Them** (0 emojis): Voy a descansar un rato, y mas tarde vuelvo a ver para dejar bien lo de fichas, capaz me duermo un rato,  mis cambios voy a subir mis cambios en la rama cuando me parezca que funcionan bien, y después hago el merge
 
@@ -55,7 +55,7 @@ Auto-extracted notable messages from the chat:
 
 - **[2023-08-03] Them** (1 emojis): Para renderizar? Y la verdad yo diría que onda uno de 27 full hd le deberia ir bien 🤔 si no es algo super pro lo que busca
 - **[2023-08-03] Them** (1 emojis): Pero si no quiere gastar demasiado, alguno IPS, de 27 y full hd le deberia funcionar 🤔
-- **[2023-06-11] Ivan** (0 emojis): Hola festejo mi cumple en casa el 17 de jun  A eso de las 8   El plan es hacer algo en la parrilla/ horno en el quincho Y tomar   Compramos alcohol / más comida del Pinedo si falta   Follow this link to join my WhatsApp group: https://chat.whatsapp.com/DOr9yOMWa0pLbSbxNHQPcN
+- **[2023-06-11] Ivan** (0 emojis): Hola festejo mi cumple en casa el 17 de jun  A eso de las 8   El plan es hacer algo en la parrilla/ horno en el quincho Y tomar   Compramos alcohol / más comida del Pinedo si falta   Follow this link to join my Messaging group: https://chat.messaging.com/DOr9yOMWa0pLbSbxNHQPcN
 - **[2022-04-24] Them** (0 emojis): No se si sigue en pie aun lo de hoy pero creo que a los demas les pareció bien lo del finde que viene,  yo para ese tampoco tengo drama si es que organizamos bien xD pero si hacen algo hoy, yo creo que f por mi parte
 - **[2023-11-12] Them** (0 emojis): Voy a descansar un rato, y mas tarde vuelvo a ver para dejar bien lo de fichas, capaz me duermo un rato,  mis cambios voy a subir mis cambios en la rama cuando me parezca que funcionan bien, y después hago el merge
 
@@ -64,7 +64,7 @@ Auto-extracted notable messages from the chat:
 
 - **[2023-08-03] Them** (1 emojis): Para renderizar? Y la verdad yo diría que onda uno de 27 full hd le deberia ir bien 🤔 si no es algo super pro lo que busca
 - **[2023-08-03] Them** (1 emojis): Pero si no quiere gastar demasiado, alguno IPS, de 27 y full hd le deberia funcionar 🤔
-- **[2023-06-11] Ivan** (0 emojis): Hola festejo mi cumple en casa el 17 de jun  A eso de las 8   El plan es hacer algo en la parrilla/ horno en el quincho Y tomar   Compramos alcohol / más comida del Pinedo si falta   Follow this link to join my WhatsApp group: https://chat.whatsapp.com/DOr9yOMWa0pLbSbxNHQPcN
+- **[2023-06-11] Ivan** (0 emojis): Hola festejo mi cumple en casa el 17 de jun  A eso de las 8   El plan es hacer algo en la parrilla/ horno en el quincho Y tomar   Compramos alcohol / más comida del Pinedo si falta   Follow this link to join my Messaging group: https://chat.messaging.com/DOr9yOMWa0pLbSbxNHQPcN
 - **[2022-04-24] Them** (0 emojis): No se si sigue en pie aun lo de hoy pero creo que a los demas les pareció bien lo del finde que viene,  yo para ese tampoco tengo drama si es que organizamos bien xD pero si hacen algo hoy, yo creo que f por mi parte
 - **[2023-11-12] Them** (0 emojis): Voy a descansar un rato, y mas tarde vuelvo a ver para dejar bien lo de fichas, capaz me duermo un rato,  mis cambios voy a subir mis cambios en la rama cuando me parezca que funcionan bien, y después hago el merge
 

@@ -1,7 +1,7 @@
 # Media Analysis Summary
 
 > **Analysis Date:** January 27, 2026  
-> **Source:** WhatsApp chat exports (11 relationships)  
+> **Source:** Messaging chat exports (11 relationships)  
 > **Status:** COMPLETE - Full Analysis Report
 
 ---

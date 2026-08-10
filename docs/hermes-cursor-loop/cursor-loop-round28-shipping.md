@@ -21,14 +21,14 @@ python3 scripts/wire-app.py Clau-Bellino   # Single app
 python3 scripts/wire-app.py --all          # All 18 brief-only apps
 ```
 
-Reads `WEBSITE_BRIEF.md`, extracts business info (name, phone, WhatsApp, colors), generates:
+Reads `WEBSITE_BRIEF.md`, extracts business info (name, phone, Messaging, colors), generates:
 - `site.json` with extracted business config
 - `package.json` with workspace deps
 - `tsconfig.json` extending `@paragu-ai-leads/config/tsconfig/nextjs`
 - `next.config.js`, `tailwind.config.js`, `postcss.config.js` extending shared
 - `src/app/globals.css` with brand colors from the brief
 - `src/app/layout.tsx` with `BusinessProvider`
-- `src/app/page.tsx` with `BottomNav`, `ShareWhatsApp`, `EmptyState`
+- `src/app/page.tsx` with `BottomNav`, `ShareMessaging`, `EmptyState`
 - `README.md` documenting what's TODO
 
 ### 2. Wired all 18 brief-only apps

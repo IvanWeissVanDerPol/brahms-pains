@@ -18,7 +18,7 @@
 | Component | Purpose | Before | After |
 |-----------|---------|--------|-------|
 | `BottomNav` | Mobile bottom navigation | 18× duplicates | 1 canonical |
-| `ShareWhatsApp` | WhatsApp share button | 18× duplicates | 1 canonical |
+| `ShareMessaging` | Messaging share button | 18× duplicates | 1 canonical |
 | `PromoCarousel` | Rotating promotions | 18× duplicates | 1 canonical |
 | `DarkModeToggle` | Light/dark mode | 18× duplicates | 1 canonical |
 | `EmptyState` | Empty list placeholder | 18× duplicates | 1 canonical |

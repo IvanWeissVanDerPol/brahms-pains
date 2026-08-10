@@ -1,6 +1,6 @@
 # Chat 11 — Gabriella González Pane (WA export)
 
-Source: `WhatsApp Chat with Gabriella González Pane (1)/` official WhatsApp text export
+Source: `Messaging Chat with Gabriella González Pane (1)/` official Messaging text export
 (2026‑07‑23), plus co‑located `PTT-*.opus` voice notes and `DOC-*` documents.
 Extracted with `scripts/extract_wa_txt_export.py`, then post‑processed with
 `scripts/scrub_and_fix_wa_export.py` (media path routing, third‑party PII exclusion,
@@ -82,7 +82,7 @@ The tail is Ivan's structured outputs:
   Director‑of‑scene script for Gaby to practice her meeting with Roque, with
   "Kiki" cast as emotional support. Written for Gemini voice mode.
 - **id=1338 / id=1340** (~20 k each, 2026‑06‑28/29) — verbatim transcripts of
-  audio Ivan sent about the Tigo chip / WhatsApp Business setup and the
+  audio Ivan sent about the Tigo chip / Messaging Business setup and the
   "Flo, tu Master To‑Do" audio (AI cuestionarios, audio‑friendly UX).
 
 These are the load‑bearing artifacts; treat them as documents, not chat.
@@ -173,7 +173,7 @@ byte, so downstream jobs can rely on hashes.
   → negative int, guaranteed disjoint from the SQLite positive `_id` space.
   Cross‑chat joins should key on `slug`, not `chat_id`.
 - `sender_jid` for text exports is the raw display name from the header, not a
-  phone JID. Any code that expects `@s.whatsapp.net` needs a guard.
+  phone JID. Any code that expects `@s.messaging.net` needs a guard.
 - `from_me` here is derived from `--self weissvanderpol`, matched
   case‑insensitively against the display name in the export header.
 - Timestamps in the export are Paraguay local (UTC‑3, fixed, no DST); the

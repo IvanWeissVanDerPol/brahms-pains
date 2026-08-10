@@ -3,7 +3,7 @@
 > **Relationship Type:** Friend (Kansas Exchange Program)  
 > **Duration:** January - March 2023 (~3 months intensive)  
 > **Status:** Inactive (post-exchange)  
-> **Source:** WhatsApp chat (1000+ messages during exchange)  
+> **Source:** Messaging chat (1000+ messages during exchange)  
 > **Psychological Significance:** Exchange period friendship - Ivan in new environment; shows Fixer pattern emerging quickly
 
 ---

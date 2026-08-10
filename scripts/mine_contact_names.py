@@ -421,7 +421,7 @@ def extract_group_participants() -> dict[str, set[str]]:
                 if not jid:
                     continue
                 bare = jid.split("@", 1)[0] if "@" in jid else jid
-                # Skip Ivan's own JID (the @s.whatsapp.net owner)
+                # Skip Ivan's own JID (the @s.messaging.net owner)
                 # We need to know Ivan's JID — for now allow all
                 out[slug].add(bare)
     return dict(out)
@@ -652,7 +652,7 @@ def mine_one(jid: str, named: dict, first_names: set, group_data: dict) -> ChatM
 
 def write_markdown(results: list[ChatMining], out: Path):
     lines = []
-    lines.append("# WhatsApp Contact Names — Round 2 Mining (Top 25)")
+    lines.append("# Messaging Contact Names — Round 2 Mining (Top 25)")
     lines.append("")
     lines.append(f"> **Generated:** {datetime.now(timezone.utc).isoformat()}  ")
     lines.append(
@@ -695,7 +695,7 @@ def write_markdown(results: list[ChatMining], out: Path):
     lines.append("")
     lines.append("## How to verify")
     lines.append("")
-    lines.append("1. Open WhatsApp on Ivan's phone")
+    lines.append("1. Open Messaging on Ivan's phone")
     lines.append("2. Search for each proposed name and check if the chat is saved with that name")
     lines.append("3. Mark each row ✅ (confirmed) / ❌ (wrong) / ❓ (need more data)")
     lines.append("4. Once confirmed, run the rename commit (Track A.2)")

@@ -200,7 +200,7 @@ RUNNING:
 - Local commit `c3efae2` exists, no remote configured (skipped)
 
 ### 5.4 Build A-2 datasets + A-3 alerts
-- `observability/alert_router.py` (A-3): Multi-channel alerts (telegram + whatsapp + log)
+- `observability/alert_router.py` (A-3): Multi-channel alerts (telegram + messaging + log)
 - `datasets/datasets.py` (A-2): Eval dataset registry with sample seed (3 examples)
 - Tested: dataset listing works, alert routing to log works
 
@@ -414,7 +414,7 @@ For now: ALL 8 realistic next steps from R46 are done. ✅
   - https://leads.paragu-ai.com/ops
   - Bearer: ops-4f7adb3d98a8d9a9e7a92cd1e6f0b8c1d3c4e5f6a7b8c9d0
 - WABA webhook:
-  - https://leads.paragu-ai.com/api/whatsapp-webhook
+  - https://leads.paragu-ai.com/api/messaging-webhook
   - Verify token: paragu-ai-r46-verify
 - Langfuse UI: http://127.0.0.1:3200
 

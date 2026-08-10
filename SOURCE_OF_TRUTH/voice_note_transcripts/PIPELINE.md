@@ -1,6 +1,6 @@
 # Whisper Pipeline — Quickstart
 
-Transcribes Ivan's WhatsApp voice notes (`.opus` files in `media/audio/`) into plain transcripts. The pipeline is **resumable**: every run skips already-transcribed files, so you can interrupt anytime.
+Transcribes Ivan's Messaging voice notes (`.opus` files in `media/audio/`) into plain transcripts. The pipeline is **resumable**: every run skips already-transcribed files, so you can interrupt anytime.
 
 ## What you get
 
@@ -107,7 +107,7 @@ Once transcripts are written, the conversation viewer (`viewer.html`) auto-picks
 ## FAQ
 
 **Q. Audio dir doesn't exist?**
-A. Means voice notes haven't been extracted yet. Run the WhatsApp extractor first.
+A. Means voice notes haven't been extracted yet. Run the Messaging extractor first.
 
 **Q. Failed file keeps failing?**
 A. The `.FAILED` marker prevents infinite retries. Delete the marker to retry; or run with `--retry-all`.

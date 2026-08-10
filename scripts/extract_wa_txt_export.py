@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Extract WhatsApp official "Export chat" .txt export into a payload
+"""Extract Messaging official "Export chat" .txt export into a payload
 schema-compatible with extract_wa_messages.py (SQLite extractor).
 
-Input:  a "WhatsApp Chat with <name>" folder containing:
-          - WhatsApp Chat with <name>.txt   (header lines + inline attachment stubs)
+Input:  a "Messaging Chat with <name>" folder containing:
+          - Messaging Chat with <name>.txt   (header lines + inline attachment stubs)
           - media files (PTT-*.opus, IMG-*, VID-*, DOC-*, etc.)
 Output: <OUT_ROOT>/<tier>/<slug>/messages.json  + optional media symlink info
         Same key fields as msgstore extractor: chat_id, slug, subject,
@@ -28,10 +28,10 @@ message_type mapping to match SQLite extractor:
 
 Usage:
   python3 extract_wa_txt_export.py \
-      --export "/path/to/WhatsApp Chat with X" \
+      --export "/path/to/Messaging Chat with X" \
       --tier tier1_deep \
       --tier-prefix "11__gabriella_gp___" \
-      --subject "WhatsApp export: Gabriella González Pane 2026-05..2026-07" \
+      --subject "Messaging export: Gabriella González Pane 2026-05..2026-07" \
       --self weissvanderpol \
       --media-subdir "media/audio"    # relative to chat dir; audio kept, others recorded metadata-only
 
@@ -219,7 +219,7 @@ def build_messages(
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--export", required=True, help="Folder containing 'WhatsApp Chat with *.txt'")
+    ap.add_argument("--export", required=True, help="Folder containing 'Messaging Chat with *.txt'")
     ap.add_argument(
         "--out-root",
         default="/home/ai-whisperers/psychology-integration/psycology/SOURCE_OF_TRUTH/wa_messages",
@@ -252,9 +252,9 @@ def main() -> int:
     if not export_dir.is_dir():
         print(f"missing export dir: {export_dir}", file=sys.stderr)
         return 1
-    txts = list(export_dir.glob("WhatsApp Chat with *.txt"))
+    txts = list(export_dir.glob("Messaging Chat with *.txt"))
     if not txts:
-        print(f"no 'WhatsApp Chat with *.txt' in {export_dir}", file=sys.stderr)
+        print(f"no 'Messaging Chat with *.txt' in {export_dir}", file=sys.stderr)
         return 1
     txt_path = txts[0]
 

@@ -18,7 +18,7 @@ echo ""
 
 # Use the unified CLI with parallel processing
 python src/transcribe.py parallel \
-    --chat "WhatsApp Chat with Sarah" \
+    --chat "Messaging Chat with Sarah" \
     --workers 4 \
     --model base \
     --language es

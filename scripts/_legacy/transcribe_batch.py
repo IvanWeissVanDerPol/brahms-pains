@@ -22,7 +22,7 @@ for p in FFMPEG_PATHS:
         break
 
 BASE_DIR = Path(__file__).parent.parent
-TRANSCRIPTS_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "whatsapp transcripts"
+TRANSCRIPTS_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "messaging transcripts"
 OUTPUT_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 
 # Single model instance with lock
