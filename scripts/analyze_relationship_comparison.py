@@ -16,6 +16,7 @@ import re
 import statistics as st
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
+from itertools import pairwise
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -30,14 +31,14 @@ REPLY_CAP_MIN = 360
 
 LEXICON = {
     "affection": r"\b(te quiero|love you|amor|besito|beso|abrazo|mimito|mimos|cuddle|hug|kiss"
-                 r"|cari(ñ|n)o|linda|hermosa|preciosa|bella|kido|mommy|mami)\b",
+    r"|cari(ñ|n)o|linda|hermosa|preciosa|bella|kido|mommy|mami)\b",
     "distress": r"\b(ansiedad|ansiosa|angustia|no puedo|no doy más|cansada|cansado|agotad"
-                r"|estres|estrés|llorar|lloro|triste|deprim|no dormí|no dormi|insomnio"
-                r"|miedo|pánico|panico|no me siento bien)\b",
+    r"|estres|estrés|llorar|lloro|triste|deprim|no dormí|no dormi|insomnio"
+    r"|miedo|pánico|panico|no me siento bien)\b",
     "boundary": r"\b(no soy|no voy a ser|no quiero|prefiero que no|límite|limite|no me gusta"
-                r"|no puedo dar|solo cuddles|no es lo que)\b",
+    r"|no puedo dar|solo cuddles|no es lo que)\b",
     "sexual": r"\b(coger|cogerle|sexo|sex|strap|pija|verga|culo|teta|caliente|horny|desnud"
-              r"|porn|orgasm|masturb|kink)\b",
+    r"|porn|orgasm|masturb|kink)\b",
 }
 COMPILED = {k: re.compile(v) for k, v in LEXICON.items()}
 
@@ -75,12 +76,12 @@ def analyse(path: Path, tier: str) -> dict | None:
 
     opens = Counter("ivan" if v[0]["from_me"] else "them" for v in days.values())
     breaks: Counter = Counter()
-    for a, b in zip(messages, messages[1:]):
+    for a, b in pairwise(messages):
         if (b["dt"] - a["dt"]).total_seconds() / 3600 > SILENCE_H:
             breaks["ivan" if b["from_me"] else "them"] += 1
 
     lats: dict = defaultdict(list)
-    for a, b in zip(messages, messages[1:]):
+    for a, b in pairwise(messages):
         if a["from_me"] != b["from_me"]:
             mins = (b["dt"] - a["dt"]).total_seconds() / 60
             if 0 <= mins <= REPLY_CAP_MIN:
@@ -119,7 +120,7 @@ def analyse(path: Path, tier: str) -> dict | None:
         "words_ivan": sum(len((m.get("text") or "").split()) for m in mine),
         "words_them": sum(len((m.get("text") or "").split()) for m in theirs),
         "late_night_pct": round(100 * late / len(messages), 1),
-        "peak_hour": max(hours, key=hours.get),
+        "peak_hour": max(hours, key=lambda k: hours[k]),
         **lex,
     }
 
