@@ -156,7 +156,7 @@ But no single entry point.
 
 - `_extract_conversations.py` — orphan script
 - `_tier3_scan.py` — orphan script
-- `whatsapp transcripts/` — typo dir, should be removed or properly named
+- `messaging transcripts/` — typo dir, should be removed or properly named
 
 ### 9. **`logs/` has transient state in git**
 
@@ -183,7 +183,7 @@ These are **clinical assessment data** in the public repo. They should be encryp
 2. **Move root .py orphan scripts** to `scripts/`
 3. **Create `docs/INDEX.md`** as entry point
 4. **Add `.omo/`, `.opencode/`, `*.pid` to `.gitignore`**
-5. **Archive `whatsapp transcripts/` folder** (or remove)
+5. **Archive `messaging transcripts/` folder** (or remove)
 6. **Move personal PHI to private** (or warn in README)
 
 ### Phase 2: Naming Consistency (next session)
@@ -228,7 +228,7 @@ The fix is **not "more analysis"**. The fix is **less analysis + more discipline
 
 ### A. **Right now (this session)** — Do these:
 1. Move top-level .md to `docs/`
-2. Add `.omo/`, `.opencode/`, `*.pid`, `whatsapp transcripts/` to `.gitignore`
+2. Add `.omo/`, `.opencode/`, `*.pid`, `messaging transcripts/` to `.gitignore`
 3. Create `INDEX.md` in root with all dashboards
 4. Move orphan scripts to `scripts/`
 

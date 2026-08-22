@@ -45,7 +45,7 @@ Auto-extracted notable messages from the chat:
 - **[2024-07-30] Ivan** (0 emojis): En base a que piden senior QA  Pero están mencionando más cosas de automation   Que específicamente buscan ?  Una persona para hacer el automation o más para hacer de guía y que otros escriban el automation     Que herramientas usan?  Mencionan varios  Pero estoy más familiarizado con selenium    Y 
 - **[2024-07-30] Them** (0 emojis): Hola Alex! Perdon que recien te responda jajaja estaba consultando para responderte Buscamos personas que tengan experiencía en conceptos de pruebas (ISTQB es importante porque da conceptos como los principios de pruebas, metodos de pruebas, segun lo que se requiera testear optimizando las pruebas a
 - **[2024-07-30] Ivan** (0 emojis): Okis  Te paso a vos la info para aplicar? O mando a alguna parte ?
-- **[2024-08-16] Them** (0 emojis): puedo pasar este numero de whatsapp asi se contactan contigo?
+- **[2024-08-16] Them** (0 emojis): puedo pasar este numero de messaging asi se contactan contigo?
 
 
 ## Notable messages (auto-extracted)
@@ -53,7 +53,7 @@ Auto-extracted notable messages from the chat:
 - **[2024-07-30] Ivan** (0 emojis): En base a que piden senior QA  Pero están mencionando más cosas de automation   Que específicamente buscan ?  Una persona para hacer el automation o más para hacer de guía y que otros escriban el automation     Que herramientas usan?  Mencionan varios  Pero estoy más familiarizado con selenium    Y 
 - **[2024-07-30] Them** (0 emojis): Hola Alex! Perdon que recien te responda jajaja estaba consultando para responderte Buscamos personas que tengan experiencía en conceptos de pruebas (ISTQB es importante porque da conceptos como los principios de pruebas, metodos de pruebas, segun lo que se requiera testear optimizando las pruebas a
 - **[2024-07-30] Ivan** (0 emojis): Okis  Te paso a vos la info para aplicar? O mando a alguna parte ?
-- **[2024-08-16] Them** (0 emojis): puedo pasar este numero de whatsapp asi se contactan contigo?
+- **[2024-08-16] Them** (0 emojis): puedo pasar este numero de messaging asi se contactan contigo?
 
 
 ## Notable messages (auto-extracted)
@@ -61,7 +61,7 @@ Auto-extracted notable messages from the chat:
 - **[2024-07-30] Ivan** (0 emojis): En base a que piden senior QA  Pero están mencionando más cosas de automation   Que específicamente buscan ?  Una persona para hacer el automation o más para hacer de guía y que otros escriban el automation     Que herramientas usan?  Mencionan varios  Pero estoy más familiarizado con selenium    Y 
 - **[2024-07-30] Them** (0 emojis): Hola Alex! Perdon que recien te responda jajaja estaba consultando para responderte Buscamos personas que tengan experiencía en conceptos de pruebas (ISTQB es importante porque da conceptos como los principios de pruebas, metodos de pruebas, segun lo que se requiera testear optimizando las pruebas a
 - **[2024-07-30] Ivan** (0 emojis): Okis  Te paso a vos la info para aplicar? O mando a alguna parte ?
-- **[2024-08-16] Them** (0 emojis): puedo pasar este numero de whatsapp asi se contactan contigo?
+- **[2024-08-16] Them** (0 emojis): puedo pasar este numero de messaging asi se contactan contigo?
 
 
 ## Notable messages (auto-extracted)

@@ -11,7 +11,7 @@
 
 ### Network Topology
 
-**Total contacts in network**: ~947 (whatsapp chats)
+**Total contacts in network**: ~947 (messaging chats)
 **Verified via vCard**: 216
 **Total messages exchanged**: 505,926
 

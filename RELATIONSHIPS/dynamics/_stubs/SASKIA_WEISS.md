@@ -75,7 +75,7 @@ Auto-extracted notable messages from the chat:
 
 - **[2023-10-31] Ivan** (6 emojis): Se pone música se Steven universe después en la sala  (?  Jsjsjsjjss  It's over isn't it ? Isn't it?  Isn't it over? 🕺🏻💃🏻🕺🏻
 - **[2024-04-04] Ivan** (0 emojis): # Página de Inicio ## Generales: - ¿Cuál es tu misión personal y profesional? - ¿Cómo describirías tu personalidad y cómo influye en tus pasiones? ## Detalladas: - ¿Qué te inspiró a fusionar tus intereses en biología y barismo con la cocina? - ¿Cómo esperas que tu página web te ayude a alcanzar tus 
-- **[2021-04-02] Ivan** (0 emojis): Me podes hacer un favor plis  Viste ese programa de sonia donde vos cargas las facturas  Sera que me podes pasar por WhatsApp? Y también un video de como cargas facturas 1 o 2 donde se vean todos los pasos Y esas.2 facturas?
+- **[2021-04-02] Ivan** (0 emojis): Me podes hacer un favor plis  Viste ese programa de sonia donde vos cargas las facturas  Sera que me podes pasar por Messaging? Y también un video de como cargas facturas 1 o 2 donde se vean todos los pasos Y esas.2 facturas?
 - **[2024-02-13] Ivan** (0 emojis): Vos pio tenés muchos recuerdos de hacer cosas fun y felices con nuestros viejos ?   Así onda cómo les ves a algunos compañeros pasar con sus viejos?
 
 
@@ -83,7 +83,7 @@ Auto-extracted notable messages from the chat:
 
 - **[2023-10-31] Ivan** (6 emojis): Se pone música se Steven universe después en la sala  (?  Jsjsjsjjss  It's over isn't it ? Isn't it?  Isn't it over? 🕺🏻💃🏻🕺🏻
 - **[2024-04-04] Ivan** (0 emojis): # Página de Inicio ## Generales: - ¿Cuál es tu misión personal y profesional? - ¿Cómo describirías tu personalidad y cómo influye en tus pasiones? ## Detalladas: - ¿Qué te inspiró a fusionar tus intereses en biología y barismo con la cocina? - ¿Cómo esperas que tu página web te ayude a alcanzar tus 
-- **[2021-04-02] Ivan** (0 emojis): Me podes hacer un favor plis  Viste ese programa de sonia donde vos cargas las facturas  Sera que me podes pasar por WhatsApp? Y también un video de como cargas facturas 1 o 2 donde se vean todos los pasos Y esas.2 facturas?
+- **[2021-04-02] Ivan** (0 emojis): Me podes hacer un favor plis  Viste ese programa de sonia donde vos cargas las facturas  Sera que me podes pasar por Messaging? Y también un video de como cargas facturas 1 o 2 donde se vean todos los pasos Y esas.2 facturas?
 - **[2024-02-13] Ivan** (0 emojis): Vos pio tenés muchos recuerdos de hacer cosas fun y felices con nuestros viejos ?   Así onda cómo les ves a algunos compañeros pasar con sus viejos?
 
 

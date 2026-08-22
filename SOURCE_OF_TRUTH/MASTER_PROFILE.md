@@ -53,7 +53,7 @@ The Engineer is "good at computer stuff" - but Brahm ("le duele todo adentro") c
 ### Linguistic Permission Markers
 
 **"uwu" as Verbal Collar:**
-Analysis of 13 WhatsApp conversations revealed "uwu/uwuwuw" functions as a linguistic permission structure:
+Analysis of 13 Messaging conversations revealed "uwu/uwuwuw" functions as a linguistic permission structure:
 - Used after offering help (softens potential "showing off")
 - Used when expressing affection (creates safe distance)
 - Used during romantic content (permission for vulnerability)

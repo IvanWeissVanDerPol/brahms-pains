@@ -2,7 +2,7 @@
 """In-place credential scrubber for SOURCE_OF_TRUTH/wa_messages/*.
 
 Ivan pasted .env files, API keystores, and service-account JSON into his
-own WhatsApp chats over the years. We keep the psychology-analytic value
+own Messaging chats over the years. We keep the psychology-analytic value
 of the surrounding conversational context; we do not commit the secrets.
 
 Two-tier strategy:

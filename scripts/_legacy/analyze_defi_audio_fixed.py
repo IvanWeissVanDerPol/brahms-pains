@@ -2,7 +2,7 @@
 """
 Fixed Python script to analyze Defi voice recordings for psychological insights.
 
-Usage: python analyze_defi_audio_fixed.py /path/to/whatsapp/transcripts/Defi/
+Usage: python analyze_defi_audio_fixed.py /path/to/messaging/transcripts/Defi/
 
 This script analyzes patterns in Defi's communications including:
 - Defi's responses to Ivan
@@ -130,7 +130,7 @@ def analyze_defi_relationship(audio_files):
 def main():
     import sys
     if len(sys.argv) < 2:
-        print("Usage: python analyze_defi_audio_fixed.py /path/to/whatsapp/transcripts/Defi/")
+        print("Usage: python analyze_defi_audio_fixed.py /path/to/messaging/transcripts/Defi/")
         return
     
     audio_path = Path(sys.argv[1])

@@ -4,7 +4,7 @@ This directory holds the **family-identity-correction workflow** for the psycolo
 
 ## Why this exists
 
-While building the WhatsApp contact circle analysis (PR #1, merged) and the vCard phonebook import (PR #1, merged), the corpus received incorrect family assignments based on:
+While building the Messaging contact circle analysis (PR #1, merged) and the vCard phonebook import (PR #1, merged), the corpus received incorrect family assignments based on:
 - `SONIA.md` profile (chat-derived analysis, said Sonia's partner = "Gerold", who was Ivan's dad)
 - vCard phonebook entry "Riet van der Pol" +31 — Ivan verbally confirmed this is Grandma (dad's side), not Mom
 - vCard entry "Toni Weiss" +1 — Ivan confirmed this is **not** Dad (the actual Dad is "John van der Pol" +595)

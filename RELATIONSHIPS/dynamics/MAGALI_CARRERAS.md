@@ -54,7 +54,7 @@ Key characteristics:
 ```
 10/10/20 - Ivan writes complete C code for vendedores exercise (30+ lines)
 10/11/20 - Ivan stays up past midnight fixing Magali's code
-10/13/20 - Live exam help session via WhatsApp
+10/13/20 - Live exam help session via Messaging
 2/12/21 - Multi-hour debugging session (9PM-midnight)
 2/28/21 - 2+ hours debugging date calculation program
 4/26/21 - Ivan does Magali's ENTIRE programming assignment while she's depressed
@@ -352,7 +352,7 @@ This is The Fixer at work in a non-romantic context, showing the pattern is stru
 
 ---
 
-## WhatsApp corpus signals (tier1_deep rank 01)
+## Messaging corpus signals (tier1_deep rank 01)
 
 Source: `SOURCE_OF_TRUTH/wa_messages/tier1_deep/01__p5272___wa_chat_595981225272_62/messages.json`
 (rank 01 = Ivan's most-engaged 1:1 chat).

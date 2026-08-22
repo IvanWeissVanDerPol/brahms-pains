@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extract WhatsApp text messages + audio metadata from decrypted msgstore.db
+"""Extract Messaging text messages + audio metadata from decrypted msgstore.db
 into psycology/SOURCE_OF_TRUTH/wa_messages/<chat_slug>/messages.json.
 
 Filters:
@@ -11,7 +11,7 @@ Skips:
 
 Slug rules (deterministic, safe for filesystems):
   g.us group      -> _wa_group_<subject-slug>_<chat_id>
-  s.whatsapp.net  -> _wa_chat_<phone>_<chat_id>
+  s.messaging.net  -> _wa_chat_<phone>_<chat_id>
   broadcast/lid   -> _wa_other_<jid-slug>_<chat_id>
 """
 
@@ -49,7 +49,7 @@ def chat_slug(
 ) -> str:
     if jid_server == "g.us":
         base = f"_wa_group_{slugify(subject or 'no_subject')}"
-    elif jid_server == "s.whatsapp.net":
+    elif jid_server == "s.messaging.net":
         base = f"_wa_chat_{slugify(jid_user or 'unknown')}"
     elif jid_server == "broadcast":
         base = f"_wa_broadcast_{slugify(jid_user or 'anon')}"

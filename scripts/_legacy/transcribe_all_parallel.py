@@ -15,7 +15,7 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent
-TRANSCRIPTS_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "whatsapp transcripts"
+TRANSCRIPTS_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "messaging transcripts"
 SCRIPTS_DIR = Path(__file__).parent
 
 

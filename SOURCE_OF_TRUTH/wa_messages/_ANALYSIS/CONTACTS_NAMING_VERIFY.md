@@ -1,4 +1,4 @@
-# WhatsApp Contact Names — Round 2 Mining (Top 25)
+# Messaging Contact Names — Round 2 Mining (Top 25)
 
 > **Generated:** 2026-07-23T05:07:59.178163+00:00  
 > **Source chats:** 25 priority unnamed 1-on-1 chats from `tier1_deep`, `tier2_core`, `tier3_extended`  
@@ -37,7 +37,7 @@
 
 ## How to verify
 
-1. Open WhatsApp on Ivan's phone
+1. Open Messaging on Ivan's phone
 2. Search for each proposed name and check if the chat is saved with that name
 3. Mark each row ✅ (confirmed) / ❌ (wrong) / ❓ (need more data)
 4. Once confirmed, run the rename commit (Track A.2)

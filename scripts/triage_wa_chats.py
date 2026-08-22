@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Score every WhatsApp chat for psychology-analysis value.
+"""Score every Messaging chat for psychology-analysis value.
 
 Per-chat metrics collected:
   - total_msgs, from_me_msgs, from_other_msgs, from_me_ratio
@@ -19,7 +19,7 @@ Categorization (heuristic):
   business/notification: broadcast, LID, or 1:1 with from_me_ratio < 5% and > 20 msgs
   group_lurker:          group where from_me_ratio < 10%
   group_active:          group where from_me_ratio >= 10%
-  personal_1on1:         s.whatsapp.net chat with from_me_ratio >= 10%
+  personal_1on1:         s.messaging.net chat with from_me_ratio >= 10%
   low_signal:            < 10 total messages OR < 3 msgs from Ivan
   hidden_friend:         1-on-1 with low volume BUT ≥2 group co-memberships
 
@@ -149,7 +149,7 @@ def compute_group_co_membership(
     of each group.
 
     Note: contact_jids are bare phone numbers (e.g. '595972130867') but group
-    participants are full JIDs (e.g. '595972130867@s.whatsapp.net'). We normalize
+    participants are full JIDs (e.g. '595972130867@s.messaging.net'). We normalize
     both sides to bare form for matching.
     """
     # Index group participants by bare jid
@@ -194,7 +194,7 @@ def classify(chat: dict[str, Any], m: dict[str, Any], groups_shared: int = 0) ->
 
     if total < LOW_SIGNAL_TOTAL or mine < LOW_SIGNAL_MINE:
         # v2: but if they share many groups with Ivan, treat as hidden_friend
-        if server == "s.whatsapp.net" and groups_shared >= GROUP_SHARED_FRIEND_THRESHOLD:
+        if server == "s.messaging.net" and groups_shared >= GROUP_SHARED_FRIEND_THRESHOLD:
             return "hidden_friend"
         return "low_signal"
 
@@ -202,7 +202,7 @@ def classify(chat: dict[str, Any], m: dict[str, Any], groups_shared: int = 0) ->
         return "notification"
 
     # 1:1 with almost no participation from Ivan = notification-shaped
-    if server == "s.whatsapp.net":
+    if server == "s.messaging.net":
         if ratio < 0.05 and total > 20:
             return "notification"
         # v2: 1-on-1 with low ratio but high group co-membership = hidden_friend
@@ -511,7 +511,7 @@ def main() -> int:
 
     # Human-readable report
     lines: list[str] = []
-    lines.append("# WhatsApp corpus triage — psychology-analysis relevance (v2)\n")
+    lines.append("# Messaging corpus triage — psychology-analysis relevance (v2)\n")
     lines.append(f"Total chats analyzed: **{len(metrics)}**\n")
     lines.append(f"Groups analyzed (with extracted participants): **{len(group_participants)}**\n")
     lines.append("\n## v2 changes (July 2026)\n")

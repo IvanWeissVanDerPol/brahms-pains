@@ -1,4 +1,4 @@
-# WhatsApp Messages — INDEX
+# Messaging Messages — INDEX
 
 > **Last updated**: 2026-07-27 (post-cleanup)
 > **Naming coverage**: 100% (951/951)

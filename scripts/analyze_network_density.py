@@ -43,7 +43,7 @@ def analyze_network_density():
         phones = entry.get("phones_normalized", []) + entry.get("phones_raw", [])
         for phone in phones:
             phonebook_jid_map[str(phone)] = name
-            phonebook_jid_map[str(phone) + "@s.whatsapp.net"] = name
+            phonebook_jid_map[str(phone) + "@s.messaging.net"] = name
             phonebook_jid_map[str(phone) + "@c.us"] = name
 
     for tier in ["tier1_deep", "tier2_core", "tier3_extended"]:
@@ -74,7 +74,7 @@ def analyze_network_density():
             for sender in senders:
                 if sender not in jid_to_name:
                     # Try phonebook lookup first
-                    clean_jid = sender.replace("@s.whatsapp.net", "").replace("@c.us", "")
+                    clean_jid = sender.replace("@s.messaging.net", "").replace("@c.us", "")
                     jid_to_name[sender] = (
                         phonebook_jid_map.get(sender)
                         or phonebook_jid_map.get(clean_jid)

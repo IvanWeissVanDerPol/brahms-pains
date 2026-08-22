@@ -15,7 +15,7 @@ os.environ["PATH"] = (
 )
 
 BASE_DIR = Path(__file__).parent.parent
-TRANSCRIPTS_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "whatsapp transcripts"
+TRANSCRIPTS_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "messaging transcripts"
 OUTPUT_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 
 

@@ -1,6 +1,6 @@
 # Ivan — Psychological Repository
 
-> **Purpose:** Comprehensive psychological documentation, self-understanding, and empirical WhatsApp corpus analysis
+> **Purpose:** Comprehensive psychological documentation, self-understanding, and empirical Messaging corpus analysis
 > **Patient:** Ivan Weiss Van der Pol, 28M, Dutch-Paraguayan, multilingual dentist
 > **Active period:** January 2026 → present
 > **Status:** Living document, ongoing analysis (32-hat framework)
@@ -33,7 +33,7 @@
 
 | Source | Volume | Status |
 |--------|--------|--------|
-| **WhatsApp chats** | **951 directories (100% named)** | 505,926 messages |
+| **Messaging chats** | **951 directories (100% named)** | 505,926 messages |
 | **Voice notes** | 16,111 .opus files | 95.3 hours |
 | **Transcripts** | 17,783 | 1.4M words |
 | **VNT folders** | **267 (100% named)** | All descriptive |
@@ -344,7 +344,7 @@ The repo is **evergreen** — every week it gets cleaner, deeper, and more usefu
 ⚠️ **WARNING**: This repo contains personal data:
 - `IPIP-NEO-120-Ivan.xlsx` — NEO-PI-R personality test (gitignored)
 - `MMPI2-Ivan.xlsx` — MMPI-2 clinical assessment (gitignored)
-- Real WhatsApp messages with full names and content
+- Real Messaging messages with full names and content
 
 These are gitignored for **future commits** but exist in the working tree. **Move to private repo or encrypt before publishing.**
 

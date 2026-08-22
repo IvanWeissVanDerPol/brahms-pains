@@ -136,7 +136,7 @@ def row(c, idx=None):
 
 
 lines = []
-lines.append("# WhatsApp corpus — psychology-analysis shortlist")
+lines.append("# Messaging corpus — psychology-analysis shortlist")
 lines.append("")
 lines.append(
     f"Generated from `_triage.json` (+ LID reclassification: {reclassified} chats moved into `personal_1on1`)."

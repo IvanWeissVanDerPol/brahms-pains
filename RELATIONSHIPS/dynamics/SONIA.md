@@ -4,7 +4,7 @@
 
 ## Overview
 
-Sonia is the person Ivan talks to most across the entire tier-1 WhatsApp corpus. She is his mother, business logistics partner, financial safety net, appointment coordinator, and — in her own voice — the person who "quedé flechada" the day he was born. The channel spans nearly six years of near-daily contact, ~50/50 message split, but with a heavy asymmetry in **medium**: Sonia sends 2.2× the audio Ivan does; Ivan sends longer texts. The dynamic is warm, dense, high-frequency, and — quietly — moralizing.
+Sonia is the person Ivan talks to most across the entire tier-1 Messaging corpus. She is his mother, business logistics partner, financial safety net, appointment coordinator, and — in her own voice — the person who "quedé flechada" the day he was born. The channel spans nearly six years of near-daily contact, ~50/50 message split, but with a heavy asymmetry in **medium**: Sonia sends 2.2× the audio Ivan does; Ivan sends longer texts. The dynamic is warm, dense, high-frequency, and — quietly — moralizing.
 
 She is the mother whose approval Ivan chases and whose criticism he cannot metabolize. Most exchanges are transactional on his side (favors, forms, laptops, rides, cash, appointments) and demonstrative on hers ("te amo", "mi hijo", "un besote"). Underneath that pattern sits an older layer: guilt-tripping via mortality ("yo y papá nos iremos"), boundary-tests dressed as concern ("ya sos mayor de edad"), and periodic empathy lectures. This is the template Laura would later inherit.
 
@@ -139,7 +139,7 @@ The audio ratio is the single clearest quantitative signature of the dynamic. So
 - **`DEFENSES/THE_MASK.md`** — The topical constraint (what Ivan discloses vs. withholds with Sonia) is the mask in its earliest observed form.
 
 ---
-*Analyzed 2026-07-20 from 11,305-message WhatsApp export, 2020-09-28 → 2026-07-19. Quotations are single-line excerpts, redacted where sensitive; full-message content is retained only in the source-of-truth JSON, not in this profile.*
+*Analyzed 2026-07-20 from 11,305-message Messaging export, 2020-09-28 → 2026-07-19. Quotations are single-line excerpts, redacted where sensitive; full-message content is retained only in the source-of-truth JSON, not in this profile.*
 
 
 ---

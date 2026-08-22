@@ -47,7 +47,7 @@ def analyze_voice_vs_text():
             chat_name = chat.name
 
             # Count voice notes vs text
-            # WhatsApp message types: 0=text, 1=image, 2=audio (PTT), 3=video, 4=contact, etc.
+            # Messaging message types: 0=text, 1=image, 2=audio (PTT), 3=video, 4=contact, etc.
             voice_notes = 0
             text_msgs = 0
             media_msgs = 0

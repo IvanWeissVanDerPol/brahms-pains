@@ -149,11 +149,11 @@ Ivan's healing path may involve recognizing that The Fixer is a STRATEGY, not an
 **Next Steps:** 
 - Request voice note mentions of Alejandro
 - Ask Ivan directly about this friendship's history
-- Look for Alejandro in existing WhatsApp transcripts
+- Look for Alejandro in existing Messaging transcripts
 
 ---
 
-## WhatsApp corpus signals (tier1_deep rank 10)
+## Messaging corpus signals (tier1_deep rank 10)
 
 **Source:** `SOURCE_OF_TRUTH/wa_messages/tier1_deep/10__alejandro_cabral___wa_chat_595972130867_49/messages.json`
 **Extracted:** 2026-07-20. Confidence upgrade: LOW -> HIGH on origin, firewall status, and communication mode.

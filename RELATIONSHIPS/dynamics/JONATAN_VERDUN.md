@@ -3,14 +3,14 @@
 > **Relationship Type:** Male Friendship (University/Tech Community)  
 > **Duration:** 2023 - Present (~2 years)  
 > **Status:** Active (infrequent contact)  
-> **Source:** WhatsApp chat (828+ messages) + **1,194 voice notes**  
+> **Source:** Messaging chat (828+ messages) + **1,194 voice notes**  
 > **Psychological Significance:** **CRITICAL** - This chat contains Ivan's breakup processing and most vulnerable psychological expressions
 
 ---
 
 ## ⚠️ CRITICAL: This Chat Contains Ivan's Voice
 
-**This relationship profile was originally based on WhatsApp text analysis only.** However, the **voice note transcripts reveal this chat is THE most psychologically significant in the entire repository.**
+**This relationship profile was originally based on Messaging text analysis only.** However, the **voice note transcripts reveal this chat is THE most psychologically significant in the entire repository.**
 
 ### Why This Chat Matters
 
@@ -330,7 +330,7 @@ Jonatan treats Ivan as a wise mentor. This role feels safe for Ivan - he can giv
 
 ### The Transformation of This Chat
 
-The WhatsApp text analysis above shows Ivan as "The Fixer" - constantly giving advice. But the **voice notes reveal the opposite dynamic**: Jonatan becomes the witness to Ivan's vulnerability.
+The Messaging text analysis above shows Ivan as "The Fixer" - constantly giving advice. But the **voice notes reveal the opposite dynamic**: Jonatan becomes the witness to Ivan's vulnerability.
 
 ### Key Psychological Revelations (Ivan's Own Words)
 

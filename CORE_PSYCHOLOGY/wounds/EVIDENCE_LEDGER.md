@@ -1,6 +1,6 @@
 # Evidence Ledger — Core Wounds
 
-> **Scope:** WhatsApp and voice-note evidence that supports or challenges existing wound formulations.  
+> **Scope:** Messaging and voice-note evidence that supports or challenges existing wound formulations.  
 > **Guardrail:** Early-childhood origin claims rely partly on self-report preserved in repository documents; the corpus cannot independently verify age, causality, or diagnosis.
 
 ## 1. “Pesado” / being too much
@@ -28,7 +28,7 @@ The strongest defensible claim is not “Ivan believes he should not exist.” I
 
 - `MASTER_PROFILE.md` summarizes: _“mi vieja nunca me escuchaba, mi viejo es siempre de mandar”_ (`PTT-20250729-WA0012.opus`).
 - Family remains central yet is described as receiving less emotional detail than selected friends, partners or the private voice journal.
-- The Firewall pattern is therefore supported behaviorally even when the exact childhood origin cannot be established from WhatsApp alone.
+- The Firewall pattern is therefore supported behaviorally even when the exact childhood origin cannot be established from Messaging alone.
 
 **Limit**
 

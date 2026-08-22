@@ -1,6 +1,6 @@
 # Evidence Ledger — Attachment Patterns
 
-> **Scope:** WhatsApp messages and voice-note transcripts only.  
+> **Scope:** Messaging messages and voice-note transcripts only.  
 > **Interpretive status:** Pattern hypotheses, not diagnoses. Quotes may contain Whisper errors; the file/date reference is the audit trail.
 
 ## Corpus-level anchors
@@ -24,7 +24,7 @@ Proximity does not equal emotional openness. The data supports a split between d
 **Counterevidence / limits**
 
 - High and recent family contact is a secure resource, not evidence of dysfunction by itself.
-- WhatsApp cannot establish childhood attachment classification or the internal quality of offline interactions.
+- Messaging cannot establish childhood attachment classification or the internal quality of offline interactions.
 
 ## Pattern 2 — Anxious edge around intimate need
 

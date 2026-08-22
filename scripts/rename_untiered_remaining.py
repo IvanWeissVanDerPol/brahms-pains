@@ -21,7 +21,7 @@ def main():
     # Manual mapping based on first-message context analysis
     MANUAL_MAP = {
         # 91-100 msgs
-        "Lid_170823767859295": "Kiki_Referral_Wes",  # "hi wes im ivan kiki passed me your whatsapp"
+        "Lid_170823767859295": "Kiki_Referral_Wes",  # "hi wes im ivan kiki passed me your messaging"
         "108__p9093___wa_chat_5215547629093_4393": "Cerri",  # "Soy Cerri"
         "Lid_58390113992826": "Raul_Hermano_Roger",  # "Habla Raul, El Hermano de Roger"
         # 80-89 msgs

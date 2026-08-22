@@ -22,7 +22,7 @@ Audio usage: 1.2% of all messages are voice notes
 Sentiment: Ivan -1.00 (very negative) (pos 0 / neg 1), them 0.00 (slightly negative) (pos 0 / neg 0)
 Mood trend: overall -0.50, recent -0.50, trend Δ +0.00 (0.00 (stable))
 
-**First message** (2022-08-13, Them): Uff, estaba almorzando ahora abro el WhatsApp
+**First message** (2022-08-13, Them): Uff, estaba almorzando ahora abro el Messaging
 
 **Last from Ivan** (2023-09-12): Xd
 

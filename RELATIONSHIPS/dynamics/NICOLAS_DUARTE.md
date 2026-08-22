@@ -3,7 +3,7 @@
 > **Relationship Type:** Kink Community Friend / Rigger / Dom  
 > **Duration:** August 2025 - Present  
 > **Status:** Active, Deepening  
-> **Source:** WhatsApp chat (537 lines)  
+> **Source:** Messaging chat (537 lines)  
 > **Psychological Significance:** CRITICAL - Permission structure enabling Brahm emergence. Evidence of receiving care.
 
 ---

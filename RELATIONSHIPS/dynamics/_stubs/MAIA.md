@@ -28,7 +28,7 @@ Mood trend: overall +0.20, recent -0.17, trend Δ -0.33 (-0.33 (cooling))
 
 **First message** (2023-01-14, Them): Me olvide mi billetera
 
-**Last from Ivan** (2026-05-10): tambien te puedo pasar un chat de whatsapp con mi asistente asi le das los detalles y contexto hablando nomas con el
+**Last from Ivan** (2026-05-10): tambien te puedo pasar un chat de messaging con mi asistente asi le das los detalles y contexto hablando nomas con el
 
 **Last from them** (2026-05-10): O estás haciendo de todo un poco nomas luego
 

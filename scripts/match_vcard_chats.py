@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Match vCard contacts to WhatsApp chats in psycology.
+"""Match vCard contacts to Messaging chats in psycology.
 
 Two outputs:
   1. Match table: vCard JID -> chat dir + suggested canonical name

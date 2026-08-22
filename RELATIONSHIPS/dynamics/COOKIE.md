@@ -3,7 +3,7 @@
 > **Relationship Type:** Friend (Kink/Social Community)  
 > **Duration:** 2025 - Present  
 > **Status:** Active  
-> **Source:** WhatsApp chat (194 lines, short but significant)  
+> **Source:** Messaging chat (194 lines, short but significant)  
 > **Psychological Significance:** RARE PATTERN - Ivan asking someone else for help
 
 ---

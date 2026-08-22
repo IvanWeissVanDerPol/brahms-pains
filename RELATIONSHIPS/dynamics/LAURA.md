@@ -3,7 +3,7 @@
 > **Relationship Type:** Romantic Partner (Most Significant Recent Relationship)  
 > **Duration:** November 2023 - August 2025 (~21 months)  
 > **Status:** Ended (Ivan initiated breakup)  
-> **Source:** WhatsApp chat (1.8MB, 20,000+ messages)  
+> **Source:** Messaging chat (1.8MB, 20,000+ messages)  
 > **Psychological Significance:** CRITICAL - Contains "The Fistula Incident" core wound evidence
 
 ---
@@ -24,7 +24,7 @@
 
 ## How They Met
 
-**Context:** Friend of a friend (Cerri's) despedida party. Laura reached out on WhatsApp noting they live close.
+**Context:** Friend of a friend (Cerri's) despedida party. Laura reached out on Messaging noting they live close.
 
 **First Messages (Nov 15, 2023):**
 > Laura: "Hola Ivan ! Laura soy, cerri me dijo que vas a su despedida y que vivís a la vuelta de dónde vivo"
@@ -355,9 +355,9 @@ The pattern: When Ivan was most vulnerable (sick, in pain, crying), Laura "gave 
 
 ---
 
-## WhatsApp corpus signals (tier1_deep rank 03)
+## Messaging corpus signals (tier1_deep rank 03)
 
-> **Source file:** `SOURCE_OF_TRUTH/wa_messages/tier1_deep/03__p8689___wa_chat_595976538689_3231/messages.json` (7.4 MB, chat 3231, JID `595976538689@s.whatsapp.net`)
+> **Source file:** `SOURCE_OF_TRUTH/wa_messages/tier1_deep/03__p8689___wa_chat_595976538689_3231/messages.json` (7.4 MB, chat 3231, JID `595976538689@s.messaging.net`)
 > Enrichment date: 2026-07-20. This section is derived directly from the raw msgstore dump — treat it as canonical over any earlier count.
 
 ### Communication stats
@@ -397,7 +397,7 @@ Regex counts across all texts (rough, single-file scan):
 | Cerdito / 🐷 motif | ~10 | Confirms the profile's "Laura 🐷" title — piggies were a running in-joke Ivan initiated |
 | Overt conflict language (`pelea`, `pichada`, `bronca`, `discuti`) | 42 | **Low.** Overt fights are rare in-thread — consistent with Ivan's PTT-20250730 quote that "nunca hubo así conflictos porque siempre estoy chill" |
 
-**Tone:** Overwhelmingly warm-domestic-logistical. Fights don't happen on WhatsApp; they show up as tone shifts and gaps, not as arguments. Sexual and kink content is openly discussed by both.
+**Tone:** Overwhelmingly warm-domestic-logistical. Fights don't happen on Messaging; they show up as tone shifts and gaps, not as arguments. Sexual and kink content is openly discussed by both.
 
 ### Notable dated exchanges (short quoted fragments)
 

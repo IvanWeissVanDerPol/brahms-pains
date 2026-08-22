@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build CHAT_INDEX.md from WhatsApp chat exports."""
+"""Build CHAT_INDEX.md from Messaging chat exports."""
 
 import json
 import re
@@ -350,7 +350,7 @@ def L(s=""):
     lines.append(s)
 
 
-L("# WhatsApp Chat Index for Psychological Analysis")
+L("# Messaging Chat Index for Psychological Analysis")
 L()
 L(f"*Generated: {__import__('datetime').datetime.now().strftime('%Y-%m-%d %H:%M')}*")
 L()
@@ -581,7 +581,7 @@ L()
 
 L("---")
 L()
-L("*End of WhatsApp Chat Index*")
+L("*End of Messaging Chat Index*")
 
 # Write markdown
 md_path = BASE / "CHAT_INDEX.md"

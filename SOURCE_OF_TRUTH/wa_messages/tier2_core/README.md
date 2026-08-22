@@ -1,6 +1,6 @@
 # tier2_core — Renamed & Assessed
 
-28 WhatsApp chats (ranks 13–40, dropped 11/12 as spam).
+28 Messaging chats (ranks 13–40, dropped 11/12 as spam).
 
 ## Renamed Dirs (2026-07-20)
 

@@ -13,7 +13,7 @@ from typing import Optional
 
 @dataclass(frozen=True)
 class ParsedFilename:
-    """Parsed components from a WhatsApp filename."""
+    """Parsed components from a Messaging filename."""
 
     original: str
     date: Optional[str] = None
@@ -22,7 +22,7 @@ class ParsedFilename:
 
 
 def parse_date_from_filename(filename: str) -> Optional[str]:
-    """Extract date from WhatsApp voice note filename.
+    """Extract date from Messaging voice note filename.
 
     Supports formats:
         - PTT-20240902-WA0017.opus -> 2024-09-02
@@ -55,7 +55,7 @@ def parse_date_from_filename(filename: str) -> Optional[str]:
 
 
 def parse_filename(filename: str) -> ParsedFilename:
-    """Parse a WhatsApp filename into components.
+    """Parse a Messaging filename into components.
 
     Args:
         filename: The filename to parse

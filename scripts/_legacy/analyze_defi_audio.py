@@ -2,7 +2,7 @@
 """
 Quick Analysis of Defi Voice Recordings for Psychological Insights
 
-Usage: python analyze_defi_audio.py /path/to/whatsapp/transcripts/Defi/
+Usage: python analyze_defi_audio.py /path/to/messaging/transcripts/Defi/
 """
 
 import os
@@ -120,7 +120,7 @@ def main():
     import sys
 
     if len(sys.argv) < 2:
-        print("Usage: python analyze_defi_audio.py /path/to/whatsapp/transcripts/Defi/")
+        print("Usage: python analyze_defi_audio.py /path/to/messaging/transcripts/Defi/")
         return
 
     audio_path = Path(sys.argv[1])

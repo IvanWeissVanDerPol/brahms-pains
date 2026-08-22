@@ -13,7 +13,7 @@
 | `tier3_extended/` | 119 | **Extended** — score 30-49, occasional contact |
 | `tier4_groups/` | 158 | **Group chats** (3+ people) |
 | `untiered_personal/` | 304 | **Personal but unscored** — 1-1 chats without contact info |
-| `other_lid/` | 10 | **Other LID-based chats** (newer WhatsApp format) |
+| `other_lid/` | 10 | **Other LID-based chats** (newer Messaging format) |
 | `_dropped/` | 267 | **Dropped** — too small, no signal, or merged |
 | `_newsletters/` | 7 | **Broadcast channels** (newsletters, channels) |
 | `_conversations/` | 0 | **Conversation exports** (moved to other tiers) |
@@ -64,7 +64,7 @@ Personal 1-1 chats without vCard info. **All named** as of 2026-07-27:
 - Referrals: Kiki_Referral_Wes, Sarah_Bum_Referral, Anna_Referral
 
 ### `other_lid/` — 10 chats, ~31k msgs
-LID-based chats with newer WhatsApp format. All named:
+LID-based chats with newer Messaging format. All named:
 - Thais (3,825 msgs), Dan (Somosgay), Kink_Artist, Kinesiólogo, Cloud_Nyx
 - El_Viajero, Foodie_Friend, OpenClaw_User, AI_QA_Ing_Info
 

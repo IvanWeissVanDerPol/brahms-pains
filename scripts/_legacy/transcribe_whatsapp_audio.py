@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-WhatsApp Audio Transcription Script using OpenAI Whisper
+Messaging Audio Transcription Script using OpenAI Whisper
 
-This script transcribes all audio files in a WhatsApp chat directory
+This script transcribes all audio files in a Messaging chat directory
 and saves the transcriptions in an organized format.
 
 Requirements:
@@ -10,7 +10,7 @@ Requirements:
 - ffmpeg must be installed on the system
 
 Usage:
-    python transcribe_whatsapp_audio.py
+    python transcribe_messaging_audio.py
 """
 
 import sys
@@ -37,13 +37,13 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-class WhatsAppAudioTranscriber:
+class MessagingAudioTranscriber:
     def __init__(self, source_dir: str, output_dir: str = None, model_name: str = "base"):
         """
         Initialize the transcriber.
 
         Args:
-            source_dir: Path to WhatsApp chat directory
+            source_dir: Path to Messaging chat directory
             output_dir: Path to output directory for transcriptions
             model_name: Whisper model to use (tiny, base, small, medium, large)
         """
@@ -207,7 +207,7 @@ class WhatsAppAudioTranscriber:
             languages[lang] = languages.get(lang, 0) + 1
 
         with open(report_file, "w", encoding="utf-8") as f:
-            f.write("# WhatsApp Audio Transcription Summary\n\n")
+            f.write("# Messaging Audio Transcription Summary\n\n")
             f.write(f"**Generated:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
 
             f.write("## Statistics\n\n")
@@ -282,8 +282,8 @@ class WhatsAppAudioTranscriber:
 
 def main():
     """Main function."""
-    parser = argparse.ArgumentParser(description="Transcribe WhatsApp audio files using Whisper")
-    parser.add_argument("source_dir", help="Path to WhatsApp chat directory")
+    parser = argparse.ArgumentParser(description="Transcribe Messaging audio files using Whisper")
+    parser.add_argument("source_dir", help="Path to Messaging chat directory")
     parser.add_argument("--output-dir", help="Output directory for transcriptions")
     parser.add_argument(
         "--model",
@@ -308,7 +308,7 @@ def main():
         sys.exit(1)
 
     # Create transcriber and run
-    transcriber = WhatsAppAudioTranscriber(
+    transcriber = MessagingAudioTranscriber(
         source_dir=args.source_dir, output_dir=args.output_dir, model_name=args.model
     )
 

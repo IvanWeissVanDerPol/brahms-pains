@@ -2,7 +2,7 @@
 """
 Voice Note Transcription Script for Ivan's Psychology Repository
 
-Uses OpenAI Whisper (local) to transcribe all WhatsApp voice notes.
+Uses OpenAI Whisper (local) to transcribe all Messaging voice notes.
 Outputs structured transcripts organized by relationship and date.
 
 Requirements:
@@ -49,7 +49,7 @@ except ImportError:
 
 # Configuration
 BASE_DIR = Path(__file__).parent.parent
-TRANSCRIPTS_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "whatsapp transcripts"
+TRANSCRIPTS_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "messaging transcripts"
 OUTPUT_DIR = BASE_DIR / "SOURCE_OF_TRUTH" / "voice_note_transcripts"
 
 
@@ -76,7 +76,7 @@ def get_voice_notes(chat_filter: Optional[str] = None) -> dict[str, list[Path]]:
 
 
 def parse_date_from_filename(filename: str) -> Optional[str]:
-    """Extract date from WhatsApp voice note filename.
+    """Extract date from Messaging voice note filename.
 
     Formats:
         PTT-20240902-WA0017.opus -> 2024-09-02
@@ -170,7 +170,7 @@ def save_transcripts(chat_name: str, transcripts: list[dict], output_dir: Path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Transcribe WhatsApp voice notes using local Whisper"
+        description="Transcribe Messaging voice notes using local Whisper"
     )
     parser.add_argument(
         "--model",

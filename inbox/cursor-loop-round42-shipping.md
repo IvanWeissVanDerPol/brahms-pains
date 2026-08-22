@@ -4,8 +4,8 @@
 ## Summary
 
 Autonomous execution of all 17 user-requested items across 3 phases. Started with **9/19 lead sites live** (R41) and ended with:
-- **19/19 sites live** with contact forms, WhatsApp CTAs, OpenGraph meta tags
-- **leads-api** deployed: 4 SQLite dbs, 30+ endpoints (leads, tenants, resellers, A/B testing, RAG, swarm, Stripe, WhatsApp)
+- **19/19 sites live** with contact forms, Messaging CTAs, OpenGraph meta tags
+- **leads-api** deployed: 4 SQLite dbs, 30+ endpoints (leads, tenants, resellers, A/B testing, RAG, swarm, Stripe, Messaging)
 - **8 ParaguAI business pages** on paragu-ai.com: pricing, onboarding, dashboard, pago, pago/exito
 - **3 repos committed + pushed**: paragu-ai-platform, ai-whisperers-ops-toolkit, hermes-config
 
@@ -13,8 +13,8 @@ Autonomous execution of all 17 user-requested items across 3 phases. Started wit
 
 ## Phase 1 — Conversion (6 items)
 
-### 1.1 WhatsApp click-to-chat with pre-filled message
-- 19 sites updated with dynamic WhatsApp messages including business name + city
+### 1.1 Messaging click-to-chat with pre-filled message
+- 19 sites updated with dynamic Messaging messages including business name + city
 - Format: `Hola! Quiero reservar un turno en ${site.businessName} (${site.city})`
 
 ### 1.2 Contact form backend — `leads-api`
@@ -26,7 +26,7 @@ Autonomous execution of all 17 user-requested items across 3 phases. Started wit
   - `GET /api/leads/:slug` — per-site leads
   - `GET /api/stats` — aggregate stats
   - `GET /health` — health check
-- **Features**: rate limiting (10 req/min), SQLite persistence, Kiki WhatsApp notification via CallMeBot
+- **Features**: rate limiting (10 req/min), SQLite persistence, Kiki Messaging notification via CallMeBot
 - **Deployment**: Docker Swarm with Traefik routing for `leads.paragu-ai.com` + `api.paragu-ai.com`
 - **Real captures**: 2 leads within 10 minutes of deploy
 
@@ -62,7 +62,7 @@ Autonomous execution of all 17 user-requested items across 3 phases. Started wit
 - New: `/precios` → `/precios.html` (9.9KB)
 - 3 plans: Lite (Gs. 1.5M), Pro (Gs. 2.5M), Empresarial (Gs. 5M+)
 - Comparison table + FAQ section
-- WhatsApp CTAs per plan
+- Messaging CTAs per plan
 
 ### 2.2 Stripe subscriptions integration
 - **File**: `leads-api/src/stripe.js` (11.1KB)
@@ -90,11 +90,11 @@ Autonomous execution of all 17 user-requested items across 3 phases. Started wit
 - Tables: leads by site, recent leads (with masking)
 - Auth: API key (`paragu-ai-dev-2026` for dev)
 
-### 2.5 WhatsApp Business API integration
-- **File**: `leads-api/src/whatsapp.js` (9.4KB)
-- Webhook verification: `GET /api/whatsapp-webhook` (returns challenge)
-- Inbound messages: `POST /api/whatsapp-webhook` with auto-reply
-- Conversation DB: `whatsapp.db` (SQLite)
+### 2.5 Messaging Business API integration
+- **File**: `leads-api/src/messaging.js` (9.4KB)
+- Webhook verification: `GET /api/messaging-webhook` (returns challenge)
+- Inbound messages: `POST /api/messaging-webhook` with auto-reply
+- Conversation DB: `messaging.db` (SQLite)
 - Auto-reply templates: greeting, pricing, sites, custom responses
 - **Mock mode**: works without credentials (logs messages to console)
 - **Real test**: verification returned `test123` correctly
@@ -202,7 +202,7 @@ hermes-config:            R36, R37, R38, R39, R40 shipping docs queued
 ## What the user needs to do
 
 1. **Set real Stripe keys** in `leads-api/.env` (currently 503)
-2. **Set WABA credentials** for WhatsApp Business API (currently mock mode)
+2. **Set WABA credentials** for Messaging Business API (currently mock mode)
 3. **Set `NEXT_PUBLIC_GA4_ID`** + `NEXT_PUBLIC_GSC_TOKEN` in 19 site envs
 4. **Top up fal.ai** for real photos (Phase 1.3 was blocked)
 5. **Run FINEXOS scripts** from R39/R40 (pending on user's Mac mini)

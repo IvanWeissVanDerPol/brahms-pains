@@ -63,7 +63,7 @@
 ### Data Available
 | Source | Volume | Status |
 |--------|-------:|--------|
-| WhatsApp chats | 951 | 100% named |
+| Messaging chats | 951 | 100% named |
 | Messages | 505,926 | Full text available |
 | Voice note transcripts | 17,783 | 1.4M words |
 | VNT folders | 267 | 100% named |

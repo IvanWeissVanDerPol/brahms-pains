@@ -23,7 +23,7 @@
 - Occupation: software dev for Netherlands
 - ✅ Riet is John's mother
 - ✅ Jan is married to Riet; Jan died a few years back (Jan = John's father)
-- John has WhatsApp on +595 986 138387 — that chat IS John
+- John has Messaging on +595 986 138387 — that chat IS John
 
 ### G3. Riet van der Pol
 

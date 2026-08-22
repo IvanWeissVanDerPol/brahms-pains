@@ -42,25 +42,25 @@ Auto-extracted notable messages from the chat:
 
 ## Notable messages (auto-extracted)
 
-- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por WhatsApp, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
+- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por Messaging, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
 - **[2023-06-27] Ivan** (0 emojis): Buenas  Conocen por si acaso algún lugar para llevar a castrar a mi perra por sanlorenzo?
 
 
 ## Notable messages (auto-extracted)
 
-- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por WhatsApp, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
+- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por Messaging, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
 - **[2023-06-27] Ivan** (0 emojis): Buenas  Conocen por si acaso algún lugar para llevar a castrar a mi perra por sanlorenzo?
 
 
 ## Notable messages (auto-extracted)
 
-- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por WhatsApp, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
+- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por Messaging, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
 - **[2023-06-27] Ivan** (0 emojis): Buenas  Conocen por si acaso algún lugar para llevar a castrar a mi perra por sanlorenzo?
 
 
 ## Notable messages (auto-extracted)
 
-- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por WhatsApp, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
+- **[2023-06-27] Them** (4 emojis): Gracias por contactarte con  *Dame Una Pata Paraguay* 🐾  Nos comunicamos únicamente por Messaging, en los siguientes horarios:   *Lunes a Viernes* *8:00 a 17:00 hs.*  *Sábados* *8:00 a 12:00 hs*.  Respondemos todos los mensajes por orden de llegada 🐶🐱  *¿Cómo podemos ayudarte?*  #adoptáNOcompres ♥️
 
 
 ## Notes

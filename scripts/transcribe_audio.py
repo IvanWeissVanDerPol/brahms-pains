@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Batch-transcribe 14,809 untranscribed WhatsApp voice notes (.opus) using Whisper.
+"""Batch-transcribe 14,809 untranscribed Messaging voice notes (.opus) using Whisper.
 
 Pipeline:
     media/audio/<chat_dir>/PTT-YYYYMMDD-WAnnnn.opus
