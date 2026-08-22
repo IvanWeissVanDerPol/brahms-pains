@@ -1,150 +1,194 @@
-# Gaby (Dra. Gabriella González Pane) — Client + Friend
+# Gaby (Dra. Gabriella González Pane) — Client → Close Friend
 
 > **Real name**: Dra. Gabriella González Pane
-> **Channel**: WhatsApp text export + 1,114 voice notes
-> **Started**: 2026-05-31
-> **Last contact**: 2026-07-23 (today, active)
-> **Total messages**: 5,985 · Audio: 1,114 · Images: 308 · Videos: 54
-> **Word count**: Ivan 41,026 / Gaby 15,373
-> **Days active**: 43 / 53 (~140 msgs/day)
-> **Status**: Active client + close friend
-
-## Identity
-
-- **Dentist**: 13 years of patient data, Asismed patient base
-- **Currently based**: working with Dr. Roque (partnership she's considering leaving)
-- **Considering**: opening her own practice in Luque, 9 office options already vetted
-- **Working brand name**: **Ometz Dental** (`ometzdental.com` already live)
-- **Sonia's relationship**: Calls Sonia "sonia" — Mom is actively in Gaby's life (showing her sex toys, treating her like family)
-
-## Two-layer Relationship
-
-### Layer 1: Business client
-- Ivan is running the **branding + strategic-repositioning project** for Ometz Dental
-- Key deliverables produced:
-  - `Dossier_Estrategico_Extendido_Gabriella_Gonzalez_Pane.docx`
-  - `ADN_Profesional_Dra_Gabriela_Gonzalez_Pane_EXTENDIDO.pdf`
-  - `validacion-cliente-dra-gp.md`
-  - `Prompt_Estrategia_Reunion_Roque.pdf`
-  - Gemini voice role-play script for her Roque meeting (37,529 chars!)
-  - Live site at `ometzdental.com/en`
-- **Status**: Strategic partnership — Ivan is helping her exit her current arrangement and launch independently
-
-### Layer 2: Personal friendship (affectionate)
-- **Dynamic**: "Mommy sexy" / "Kido" — Gaby plays older-mother-sexual to Ivan's "kido"
-- **Physical affection**: cuddles, hugs, kisses, massages — established and ongoing
-- **Gaby's stated boundary** (Jul 18): "no soy ni voy a ser eso de vínculos.. solo cuddles… hugs.. besitos.. mimitos… just your mommy sexy"
-- **Affection quotes**:
-  - "love you kido. allways"
-  - "me chupa 3 pedos tus vínculos" (approval of Ivan's other relationships)
-  - "yapiro tus vínculos" (I'm going to grab and squeeze your partners too)
-- **Sonia's role**: actively encouraging intimacy ("sonia me dijo eso.. vos tenes que cogerle")
-
-## Today's conversation (2026-07-23)
-
-The conversation transitioned from Ivan offering to visit (around 16:45-17:00), to Gaby being **stressed about the dental clinic launch** ("no dormí nada porque me da ansiedad este tema / mi cabeza no para"), to late-afternoon teasing about sex/intimacy, then to **Gaby being emotionally not OK** ("no me siento bien de verdad") and Ivan offering comfort.
-
-**Key moments**:
-- 17:18: "tengo muchas responsabilidades, soy adulta"
-- 17:30: "yo no soy dentista clásica babe… tengo miles de archivos de mis pctes. tb"
-- 17:51: Ivan mentions "Laura" — informs Gaby about Laura's HIV testing via Sonia
-- 17:59: "como dice sonia.. necesitas que te cojan a ver si dormís" (Sonia's joke)
-- 18:01: "Ponete el strap" (Ivan joking about strapon)
-- 18:02: "no me siento bien de verdad" (Gaby's emotional state)
-- 18:04: "sonia me dijo eso.. vos tenes que cogerle" (Sonia encouraging)
-- 18:08: "It's ok llorar uwuwuw" (Ivan comforting)
-- 18:14: "Onda con Lua y kuki no es tan hugs y cuddles como contigo y Nate" (Ivan comparing affection)
-- 18:15: "me desespera que no te das cuenta de nada.. o sos tan criatura" (Gaby frustrated with Ivan's obliviousness)
-
-## Signals
-
-| Signal | Reading |
-|--------|---------|
-| **Volume** | 5,985 msgs in 53 days = ~140 msgs/day (friendship level) |
-| **Audio** | 1,114 voice notes (~22/day) — deeply engaged |
-| **Sentiment** | Ivan +123, Gaby +80 (mutual positive) |
-| **Time pattern** | Heavy 17:00-20:00 (afternoon/evening) — primary contact hours |
-| **Active days** | Mon-Fri (1,382 / 1,184 / 960 / 863 / 679) > Sat-Sun (598 / 319) |
-| **Recent** | Today (2026-07-23) — full conversation flow |
-
-## Moment of vulnerability (today)
-
-- Gaby is **anxious about clinic launch** (responsibilities overwhelming)
-- **Doesn't want sex** ("no me siento bien de verdad") — needs emotional support
-- **Frustrated by Ivan's obliviousness** to her signals
-- **Comparing affection** to other relationships (Lua, Kuki, Nate)
-- **Sonia is using sex as a "fix"** ("necesitas que te cojan a ver si dormís") — classic deflection
-
-## What this tells us
-
-1. **Gaby is overloaded** — clinic launch + leaving Roque + 13 years of patient data
-2. **She needs emotional support**, not more advice about strategy
-3. **The "mommy-kido" dynamic** is a known comfort pattern — Ivan gets nurtured, Gaby provides nurturing
-4. **Sonia's involvement** is uniquely direct — encouraging explicit intimacy with a client
-5. **Signals are mixed** — Gaby wants intimacy but says no to sex; frustrated when Ivan doesn't notice
-6. **The "cogerle" imperative** is from Sonia, not Gaby — Sonia is being pushy
-
-## Files & references
-
-- Chat: `SOURCE_OF_TRUTH/wa_messages/tier1_deep/11__gabriella_gp___wa_export_2026/`
-- Brand: `ometzdental.com` (live)
-- Strategy docs: `media/docs/`
-- Nickname pattern: "GP", "Gaby", "mommy", "madre"
-- Her role: **dental clinic client (Ometz Dental) + close friend with physical affection**
-
-## Related contacts
-
-- **Sonia** (Mom) — actively encourages intimacy, treats Gaby like family
-- **Lua** (Luana) — friend of both Ivan and Gaby
-- **Nate** — friend mentioned in same group as Gaby
-- **Dr. Roque** — Gaby's current business partner she's considering leaving
-- **Kiki** — Ivan's sister, in same social circle
-- **Laura** — friend, just came up in conversation about HIV testing
-
-## Why this matters
-
-Gaby is **not a romantic partner** but **definitely not just a client**. The relationship has three distinct strands:
-1. **Strategic** (brand/business) — work
-2. **Affectionate** (cuddles/hugs) — comfort
-3. **Sexual-tension** (in jokes, with Sonia's encouragement) — unresolved
-
-When Ivan is overtired/clinic-stressed, Gaby needs emotional care, not more strategic work. The signal "no me siento bien de verdad" + "me desespera que no te das cuenta" suggests **Gaby is asking for emotional attunement**, not sex.
-
+> **Channel**: WhatsApp text export + 1,114 voice notes (untranscribed)
+> **Window**: 2026-05-31 → 2026-07-23 (53 days, 41 active) — no earlier history in corpus
+> **Total messages**: 5,985 · Audio 1,114 · Images 308 · Videos 54
+> **Word count (text)**: Ivan 40,863 / Gaby 16,337
+> **Status**: Active client + close friend, boundary explicitly stated
+> **Full analysis**: [docs/GABY_ANALYSIS_2026-08-22.md](../../docs/GABY_ANALYSIS_2026-08-22.md)
+> **Machine-readable**: `_ANALYSIS/gaby_relationship_analysis.json`
 
 ---
 
-## 📊 NEW (2026-07-27): Empirical Profile Data
+## ⚠️ Correction (2026-08-22)
 
-**Total messages**: 5,985
-**Chats analyzed**: 1
-**Tier(s)**: tier1_deep
-**Last contact**: 4d ago
+An earlier version of this profile recorded **"Ivan initiator ratio 48.1% — Balanced"**.
+That number was the *message share*, not initiation, and the conclusion drawn from it
+was wrong. Measured properly, **Gaby pursues and Ivan is pursued**:
 
-### Time Patterns
+| Measure | Ivan | Gaby |
+|---|---:|---:|
+| Opens the day | 12 / 41 — **29.3%** | **29 / 41 — 70.7%** |
+| Closes the day | 13 / 41 | 28 / 41 |
+| Breaks a silence >12h | 5 / 24 — **20.8%** | **19 / 24 — 79.2%** |
+| Message share *(old metric)* | 48.1% | 51.9% |
 
-| Metric | Value | Clinical |
-|--------|------:|----------|
-| Late-night ratio (22:00-04:00) | 15.4% | below baseline |
-| Peak hour | 17h | |
-| Peak day | Monday | |
+The same defect affects `analyze_initiators.py` corpus-wide — see
+`docs/GABY_ANALYSIS_2026-08-22.md §0`.
 
-### Initiator Dynamics
+The earlier framing of "mixed signals — wants intimacy but says no to sex" is also
+withdrawn. Gaby's signals are consistent across three separate statements; what
+changes over the window is only her *emphasis* (boundary language 7.1 → 18.4 per 1k).
 
-| Metric | Value | Pattern |
-|--------|------:|---------|
-| Ivan initiator ratio | 48.1% | Balanced |
-| Ivan starts conv | 17 | |
-| They start conv | 38 | |
-| Ivan initiator % | 30.9% | |
+---
 
-### Engagement Metrics
+## Identity
 
-| Metric | Value |
-|--------|------:|
-| Max streak (consecutive days) | 26d |
-| Avg voice % | 18.7% |
+- **Dentist**, 13 years of practice, Asismed patient base
+- Working with **Dr. Roque** — a partnership she moved to exit during this window
+- Opening independently in **Luque**; 9 office options triaged
+- Brand: **Ometz Dental**, `ometzdental.com` live since 2026-07-02
+- Instagram handle in site JSON (`@dragabriellagp`) was still a placeholder at 07-12
+- **Mobile number**: on file offline. **Deliberately not committed** — third-party
+  contact PII, same policy that dropped 8 `.vcf` files (`ANALYSIS.md §8`)
+- **No phone JID in the corpus**: this chat arrived as a text export, so it cannot be
+  joined to the SQLite chats on sender identity. Join on `slug`
 
-### Clinical Inquiries
+## Two channels
 
-- **Currently active (4d)**: Recent contact
-- **Voice-heavy (18.7%)**: Voice is primary modality
+| Channel | Volume | Gaby's share |
+|---|---:|---|
+| Private chat (`tier1_deep/11__gabriella_gp___wa_export_2026`) | 5,985 | 3,107 |
+| Working group (`tier4_groups/Dentista_Gabi`) | 1,113 | **19** |
+
+The working group is 91% Hermes-agent output (1,014 messages). Gaby speaks 19 times
+in 40 days in the group nominally running her business, while sending 3,107 messages
+privately over the same period.
+
+## Layer 1 — Business
+
+Ivan ran the branding and strategic-repositioning project for Ometz Dental. Deliverables:
+
+- `Dossier_Estrategico_Extendido_Gabriella_Gonzalez_Pane.docx`
+- `ADN_Profesional_Dra_Gabriela_Gonzalez_Pane_EXTENDIDO.pdf`
+- `validacion-cliente-dra-gp.md`
+- `Prompt_Estrategia_Reunion_Roque.pdf`
+- Gemini voice role-play script for the Roque meeting (37,529 chars, id 1308)
+- Live site at `ometzdental.com/en`
+
+**The work then vanished from the channel.** Business vocabulary fell from 9.6% of
+text messages (wk 06-01) to **0.5%** (wk 07-13) while weekly volume rose from 459 to
+1,979. The clinic launch remained her stated stressor in every distress message
+throughout — it simply stopped being what the channel was about.
+
+## Layer 2 — Personal
+
+- **Frame**: "mommy sexy" / "kido" — Gaby mothers, Ivan is mothered
+- **Physical affection**: cuddles, hugs, kisses, massages — established, ongoing
+- **Naming asymmetry**: Gaby says "kido" 56×, mother-framing 31×. **Ivan says "kido" 0×.**
+  She names the relationship; the frame is never returned
+- **Sonia** is unusually present — treats Gaby as family, and actively pushes for
+  sexual resolution (see Risk flags)
+
+### The boundary (2026-07-18, ids 4992–5013)
+
+> *"en mi vida voy a ser eso de vínculos.. solo cuddles… hugs.. besitos.. mimitos..
+> compartir hs de charla… yo no te quiero conocer mejor como un vínculo… sos mi kido"*
+
+with the reason given unprompted:
+
+> *"ya no quiero que me lastimen … ya pase mucho"*
+> *"por eso me pego a vos. porque para mí sos el chico que llegó a enseñarme que no sea
+> más tonta"*
+> *"confío mucho en vos no se porque… por eso me animo a mostrarte cosas mías.. que
+> nunca lo hice… jamás"*
+
+Read as a **trust declaration with a boundary attached**: be the safe person, teach
+me, do not convert this into a vínculo. Stated during the 01:00–03:00 cluster, with
+Gaby noting she was "muyy high" (ids 4993, 5012).
+
+## Signals
+
+| Signal | Value | Reading |
+|---|---|---|
+| Volume | 5,985 in 53 days (~113/day) | tier1 intensity reached faster than any other contact |
+| Voice | Gaby 796 / Ivan 318 | She speaks, he types — **none transcribed** |
+| Reply latency | both median 1.0 min | Mutual constant availability |
+| Initiation | Gaby 71% of day-opens | **Ivan is the pursued party** |
+| Late-night | 17.0% (vs Ivan's 32% baseline) | One of the few contacts that pulls him *out* of late-night |
+| Peak hours | 14h, 15h, 17h (local) | Daytime relationship… |
+| Secondary cluster | 01–03h (563 msgs) | …but intimacy is negotiated in its least sober hours |
+
+### Emotional load (per 1,000 text messages, first half → second half)
+
+| Marker | Ivan | Gaby |
+|---|---|---|
+| Distress | 9.8 → 2.8 | 22.3 → **30.1** |
+| Affection | 21.3 → 20.2 | 21.3 → **59.3** |
+| Boundary-setting | 4.1 → 0.9 | 7.1 → **18.4** |
+| Care offered | 2.5 → **0.9** | — |
+
+Gaby escalates on every emotional axis while Ivan's comforting language halves.
+
+## The attunement pattern (2026-07-23)
+
+```
+14:19  GABY  mi cabeza no para
+14:19  IVAN  Que área te preocupa? / Para verle de ayudarte con Hermes
+14:56  GABY  slashh NO entendes las putas indirectas
+15:01  IVAN  Ponete el strap
+15:02  GABY  nose como se hace.. yo solo quiero que me abraces.
+             no me siento bien de verdad
+15:02  IVAN  Sabes ya que los tipos tampoco saben usar jsjsjsjs
+15:08  IVAN  It's ok llorar uwuwuw
+15:11  IVAN  Lua y Nico estarían re happy de conocerte más y ser amis
+15:15  GABY  me desespera que no te das cuenta de nada.. o sos tan criatura
+```
+
+The clearest timestamped instance in the corpus of **"The Fixer"**
+(`CORE_PSYCHOLOGY/defense_mechanisms/`): a plainly worded request for physical
+comfort answered first with a joke, then with a solvable scope.
+
+## Risk flags
+
+1. **Boundary restated three times with rising emphasis** — the signature of a
+   boundary stated and not received, not of ambivalence.
+2. **Sonia applies cross-boundary pressure** — *"necesitas que te cojan a ver si
+   dormís"* (14:59), *"vos tenes que cogerle"* (15:04) — relayed by Gaby in the same
+   minutes as *"no me siento bien de verdad"* and *"falta todavía para eso"*.
+3. **Her distress rises as the project she hired Ivan for leaves the agenda.**
+4. **Intimacy negotiated while she is high**, in the 01–03h window.
+
+## What this is
+
+A **mutual-repair arrangement**, formed unusually fast.
+
+- **Gaby gets**: someone competent who takes her professional ambition seriously,
+  replies in a median of one minute, and whom she believes will not hurt her after
+  someone did — *"el chico que llegó a enseñarme que no sea más tonta"*.
+- **Ivan gets**: someone who mothers him, holds him in high regard, initiates 71% of
+  the time, and wants nothing transactional. Being pursued rather than pursuing —
+  rare in this corpus.
+
+Not a client. Not a romance. The single unresolved thread: **she asked for physical
+comfort without sex, consistently and in plain words, and the record shows that
+request answered with strategy or with sexual joking.**
+
+## The thread across both channels
+
+In the working group, Gaby's 19 messages are near-identical in function — all aimed
+at the Hermes agent:
+
+> *"talk to me like a human.. im gabi"* · *"soy gabi."* · *"soy gabi.. creo que soy la
+> única weird que quiere hablarte contexto human being"* · *"no. solo déjalo así.. soy
+> gabi.. hay solo una gabi.. haceme caso a mi ahora."*
+
+She asserts *"soy gabi"* three times to an agent that will not register her as a
+particular person — structurally the same move she makes three times to Ivan. **The
+consistent ask, in both channels, is to be recognised as a specific human being with
+a specific frame.**
+
+## Caveats
+
+1. **~13h of voice, none transcribed** (10.2h hers). Her channel is voice; Ivan's is
+   text. Every metric here reads the relationship through his medium.
+2. **Record ends 2026-07-23.** Whether the boundary held is not in this data.
+3. **No history before 2026-05-31** exists for this contact anywhere in the corpus.
+
+## Related contacts
+
+- **Sonia** (Mom) — treats Gaby as family; pushes for sexual resolution
+- **Kiki** — in the working group (2 messages)
+- **Lua (Luana)**, **Nate**, **Nico** — social circle Ivan proposes she join
+- **Dr. Roque** — the partnership she exited
