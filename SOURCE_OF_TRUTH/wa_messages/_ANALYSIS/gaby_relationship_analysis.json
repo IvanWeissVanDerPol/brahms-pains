@@ -1,0 +1,277 @@
+{
+  "generated_at_utc": "2026-08-22T06:40:38.266524+00:00",
+  "source": "SOURCE_OF_TRUTH/wa_messages/tier1_deep/11__gabriella_gp___wa_export_2026/messages.json",
+  "volume": {
+    "total": 5985,
+    "ivan": 2878,
+    "gaby": 3107,
+    "by_type": {
+      "ivan_text": 2310,
+      "gaby_text": 2185,
+      "gaby_image": 105,
+      "ivan_image": 203,
+      "gaby_doc": 3,
+      "ivan_audio": 318,
+      "gaby_audio": 796,
+      "gaby_video": 18,
+      "ivan_video": 36,
+      "ivan_doc": 11
+    },
+    "text_words": {
+      "ivan": 40863,
+      "gaby": 16337
+    },
+    "first": "2026-05-31T21:58:00+00:00",
+    "last": "2026-07-23T18:18:00+00:00"
+  },
+  "initiation": {
+    "active_days": 41,
+    "day_opens": {
+      "ivan": 12,
+      "gaby": 29
+    },
+    "day_closes": {
+      "ivan": 13,
+      "gaby": 28
+    },
+    "silence_breaks": {
+      "gaby": 19,
+      "ivan": 5
+    },
+    "ivan_open_share": 0.293,
+    "ivan_break_share": 0.208,
+    "message_share_ivan": 0.481
+  },
+  "reply_latency": {
+    "gaby_replies": {
+      "n": 1387,
+      "median_min": 1.0,
+      "pct_under_2min": 71.4
+    },
+    "ivan_replies": {
+      "n": 1382,
+      "median_min": 1.0,
+      "pct_under_2min": 78.1
+    }
+  },
+  "lexicon_per_1k": {
+    "business": {
+      "ivan": {
+        "hits": 56,
+        "per_1k": 24.5,
+        "first_half_per_1k": 39.8,
+        "second_half_per_1k": 7.4
+      },
+      "gaby": {
+        "hits": 48,
+        "per_1k": 22.2,
+        "first_half_per_1k": 42.2,
+        "second_half_per_1k": 5.9
+      }
+    },
+    "affection": {
+      "ivan": {
+        "hits": 48,
+        "per_1k": 21.0,
+        "first_half_per_1k": 21.5,
+        "second_half_per_1k": 20.4
+      },
+      "gaby": {
+        "hits": 92,
+        "per_1k": 42.5,
+        "first_half_per_1k": 21.6,
+        "second_half_per_1k": 59.6
+      }
+    },
+    "sexual": {
+      "ivan": {
+        "hits": 34,
+        "per_1k": 14.9,
+        "first_half_per_1k": 14.1,
+        "second_half_per_1k": 15.7
+      },
+      "gaby": {
+        "hits": 16,
+        "per_1k": 7.4,
+        "first_half_per_1k": 7.2,
+        "second_half_per_1k": 7.6
+      }
+    },
+    "distress": {
+      "ivan": {
+        "hits": 10,
+        "per_1k": 4.4,
+        "first_half_per_1k": 5.8,
+        "second_half_per_1k": 2.8
+      },
+      "gaby": {
+        "hits": 51,
+        "per_1k": 23.6,
+        "first_half_per_1k": 20.6,
+        "second_half_per_1k": 26.0
+      }
+    },
+    "care_offer": {
+      "ivan": {
+        "hits": 4,
+        "per_1k": 1.7,
+        "first_half_per_1k": 2.5,
+        "second_half_per_1k": 0.9
+      },
+      "gaby": {
+        "hits": 0,
+        "per_1k": 0.0,
+        "first_half_per_1k": 0.0,
+        "second_half_per_1k": 0.0
+      }
+    },
+    "boundary": {
+      "ivan": {
+        "hits": 6,
+        "per_1k": 2.6,
+        "first_half_per_1k": 4.1,
+        "second_half_per_1k": 0.9
+      },
+      "gaby": {
+        "hits": 29,
+        "per_1k": 13.4,
+        "first_half_per_1k": 7.2,
+        "second_half_per_1k": 18.5
+      }
+    },
+    "_split_at": "2026-07-11T03:31:00-03:00"
+  },
+  "weekly_arc": [
+    {
+      "week": "2026-05-25",
+      "ivan": 23,
+      "gaby": 22,
+      "total": 45,
+      "voice": 0,
+      "business_pct": 9.8
+    },
+    {
+      "week": "2026-06-01",
+      "ivan": 204,
+      "gaby": 255,
+      "total": 459,
+      "voice": 32,
+      "business_pct": 9.6
+    },
+    {
+      "week": "2026-06-08",
+      "ivan": 45,
+      "gaby": 53,
+      "total": 98,
+      "voice": 11,
+      "business_pct": 13.1
+    },
+    {
+      "week": "2026-06-15",
+      "ivan": 267,
+      "gaby": 221,
+      "total": 488,
+      "voice": 69,
+      "business_pct": 3.3
+    },
+    {
+      "week": "2026-06-22",
+      "ivan": 143,
+      "gaby": 107,
+      "total": 250,
+      "voice": 71,
+      "business_pct": 6.2
+    },
+    {
+      "week": "2026-06-29",
+      "ivan": 323,
+      "gaby": 310,
+      "total": 633,
+      "voice": 169,
+      "business_pct": 1.0
+    },
+    {
+      "week": "2026-07-06",
+      "ivan": 633,
+      "gaby": 604,
+      "total": 1237,
+      "voice": 241,
+      "business_pct": 1.1
+    },
+    {
+      "week": "2026-07-13",
+      "ivan": 917,
+      "gaby": 1062,
+      "total": 1979,
+      "voice": 341,
+      "business_pct": 0.5
+    },
+    {
+      "week": "2026-07-20",
+      "ivan": 323,
+      "gaby": 473,
+      "total": 796,
+      "voice": 180,
+      "business_pct": 1.2
+    }
+  ],
+  "hours_local": {
+    "by_hour": {
+      "0": 69,
+      "1": 154,
+      "2": 270,
+      "3": 139,
+      "4": 23,
+      "5": 3,
+      "6": 4,
+      "7": 3,
+      "9": 4,
+      "11": 202,
+      "12": 488,
+      "13": 419,
+      "14": 873,
+      "15": 754,
+      "16": 614,
+      "17": 710,
+      "18": 402,
+      "19": 111,
+      "20": 199,
+      "21": 159,
+      "22": 122,
+      "23": 263
+    },
+    "peak_hour": 14,
+    "late_night_pct": 17.0
+  },
+  "voice_notes": {
+    "ivan": {
+      "count": 318,
+      "bytes": 32392877,
+      "est_hours_at_24kbps": 3.0,
+      "transcribed": 0
+    },
+    "gaby": {
+      "count": 796,
+      "bytes": 109762880,
+      "est_hours_at_24kbps": 10.2,
+      "transcribed": 0
+    }
+  },
+  "working_group": {
+    "total": 1113,
+    "first": "2026-06-02T11:54:16.593000+00:00",
+    "last": "2026-07-12T16:53:41+00:00",
+    "by_sender": {
+      "154288881946676@lid": 1014,
+      "ivan": 78,
+      "118262125854912@lid": 19,
+      "143576646291519@lid": 2
+    },
+    "note": "154288881946676@lid is the Hermes agent; 118262125854912@lid is Gaby; 143576646291519@lid is Kiki."
+  },
+  "caveats": [
+    "Voice notes are not transcribed; Gaby's channel is voice-heavy, so every text-derived metric here under-weights her.",
+    "Window ends 2026-07-23 and does not cover the following month.",
+    "Text exports carry no phone JID, so this chat cannot be joined to the SQLite corpus on sender identity — join on slug."
+  ]
+}
