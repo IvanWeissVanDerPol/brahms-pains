@@ -47,9 +47,10 @@ Ivan reaches out after long gaps most often with these:
 - **sister_luana**: 43.2% (Ivan actively maintains sister)
 - **sister_kyrian_kiki**: 36.2% (Ivan less active — kiki often initiates)
 
-### MAIN 7 Repairs
+### Current Active Anchor Repairs (2026)
 - **Nathaly_Schinini**: 90.5% — Ivan reaches out after gaps 90% of time
-- **Magali**: 48.8% — balanced
+- **Fran**: 55.8% — balanced, 7y sustained
+- **Gaby**: 30.9% — Ivan passive, they initiate (NEW 2026)
 - **Kiki**: 36.2% — she often initiates
 
 ### Family-of-Origin Repairs (Poli side)

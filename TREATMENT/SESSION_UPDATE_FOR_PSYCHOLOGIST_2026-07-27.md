@@ -56,17 +56,17 @@ Ivan doesn't drift — he bimodally pursues OR is passively pursued.
 
 #### 3. Friendship Lifecycle Pattern
 Main close friendships last 2-3 years before declining.
-- 2020-2021: Magali peak
-- 2022-2023: Ale peak
-- 2024-2025: Laura peak
-- 2026: Jonatan + Kink trio (Gaby/Nico/Sarah)
+- 2020-2021: Fran emerging
+- 2022-2023: Fran + Kiki + family peak
+- 2024-2025: Fran sustained
+- 2026: Concurrent anchors (Fran/Gaby/Thais/Lucia/Somosgay/Cloud_Nyx)
 - **Kiki is the ONLY constant** (7-year steady)
 - **Clinical question**: Why does Ivan cycle through main friends? Trauma? Idealization? Attachment avoidance?
 
 #### 4. Kink Era 2026
 Three new intimate/kink partners started within months of each other.
 - **Gaby** (5,985 msgs), **Nico/Nyx** (3,539), **Sarah** (2,838)
-- **Clinical question**: What is the kink era fulfilling? Avoiding Laura grief? Seeking permission structure for wanting?
+- **Clinical question**: What is the kink era fulfilling? Permission structure for wanting? Concurrent anchor pattern shift?
 
 #### 5. Volunteer Burnout Signal
 Multiple Ci24 volunteer groups dropped to 0% activity in 2026.
@@ -80,14 +80,14 @@ Multiple Ci24 volunteer groups dropped to 0% activity in 2026.
 
 ### Top 3 to Address
 
-1. **Laura -99% drop + 145-day streak (39.6% late-night)**
-   - Breakup clearly complete in 2026
-   - But active rumination in time patterns
-   - Open: "What feelings come up when Laura's name appears?"
-   - Watch for: residual idealization, anger, grief
+1. **Gaby outlier velocity (146 msgs/day)** — highest of any current contact, intimate friend
+   - 5,985 msgs in 53 days, 18.7% voice (very high voice modality)
+   - Open: "What makes Gaby stand out in your current relationships?"
+   - Watch for: idealization, dependency, emotional bandwidth
 
 2. **Kink Era 2026**
-   - 3 new intimate partners in one year
+   - 4 new intimate partners active concurrently (Gaby/Nico/Thais/Sarah)
+   - Modality split: Gaby = voice/warm, Nico/Sarah = text/kink
    - All currently active (Gaby 5.9k msgs in 6 months)
    - Open: "What drew you to each of these three? What's different from Laura?"
    - Watch for: replacement patterns, FOMO, attachment overload
@@ -99,13 +99,7 @@ Multiple Ci24 volunteer groups dropped to 0% activity in 2026.
 
 ### Secondary Topics
 
-4. **Jonatan replacement question** — 15-17k msgs/year, similar volume to Laura's peak
-   - Is Jonatan a healthy friendship or a Laura replacement?
-
-5. **Magali resurgence** — 2,454 msgs in 2025 after 2023 drop
-   - What's reviving this? What does it mean?
-
-6. **Gaby specifically** — Ometz Dental client + close friend (5.9k msgs)
+5. **Gaby specifically** — Ometz Dental client + close friend (5.9k msgs)
    - Boundary issues? Professional/personal overlap?
 
 ---
@@ -117,13 +111,13 @@ Ivan tends to have **one main close friend at a time** — sequential, not paral
 
 | Period | Main Friend | Volume Pattern |
 |--------|-------------|----------------|
-| 2020-2021 | Magali | 14k peak → cooling |
-| 2022-2023 | Ale | 10k peak → stabilized |
-| 2024-2025 | Laura | 13k peak → breakup |
-| 2025-2026 | Jonatan | 17k peak → sustained |
-| 2026-2026 | Kink trio | 11k+ across 3 contacts |
+| 2020-2021 | Fran emerging | sustained baseline |
+| 2022-2023 | Fran + Kiki | family/community peak |
+| 2024-2025 | Fran sustained | stable anchor |
+| 2025-2026 | Fran + concurrent anchors | current pattern |
+| 2026-2026 | Kink era (Gaby/Nico/Thais/Sarah) | 11k+ across 4 contacts |
 
-**Clinical reading**: Ivan doesn't maintain parallel deep friendships — he cycles through them. This may relate to:
+**Clinical reading** (updated 2026-08-22): Ivan's pattern shifted in 2026 — he now maintains concurrent anchors (Fran/Gaby/Thais/Lucia/Somosgay) rather than cycling through sequential main friends. This may relate to:
 - Limited emotional bandwidth
 - Idealization/devaluation pattern
 - Avoidant attachment under stress
@@ -163,7 +157,7 @@ Ivan tends to have **one main close friend at a time** — sequential, not paral
 
 Ivan's 32% late-night concentration appears across ALL contexts:
 - Family (Mom 29.7%, Kiki 37.0%)
-- Friends (Jonatan 24.8%, Lourdes 35.3%)
+- Friends (Fran 16.8%, Lucia 16.2%, Kiki Adjacent 18.5%)
 - Kink (BDSM_Femdom_Chat 69.5%)
 - Work groups (100% in some)
 - Even delivery chats (Lomito 100%)
@@ -198,8 +192,8 @@ Ivan's main friendships peak for 2-3 years, then decline. Possible reasons:
 Longest message streaks (>100 days consecutive):
 - Amigos_De_Las_Locuras_Swinger: 319 days
 - Shitpoliposting: 186 days
-- Laura: 145 days
-- Jonatan: 75 days
+- Fran: 75 days
+- Kiki: 10 days
 - Vacantes_Optech: 67 days
 
 **Reading**: Ivan's "honeymoon periods" are intense (100+ day streaks). This is consistent with **idealization pattern**.
@@ -246,14 +240,13 @@ Longest message streaks (>100 days consecutive):
 - "What do you find yourself doing at 1 AM?"
 - "When you can't sleep, what comes up?"
 
-### Laura Inquiry
-- "How are you feeling about Laura?"
-- "When you think about her, what comes up?"
-- "Is the 39% late-night messaging about her, or about other things?"
+### Anchor / Concurrent Pattern Inquiry (Updated Priority)
+- "How is your relationship with Fran/Lucia/Gaby evolving?"
+- "Why concurrent anchors vs sequential anchoring?"
+- "What makes Fran different from the other anchors?"
 
 ### Kink Era Inquiry
-- "Tell me about Gaby, Nico, Sarah — what drew you to each?"
-- "How is this different from Laura?"
+- "Tell me about Gaby, Nico, Thais, Sarah — what drew you to each?"
 - "What role does kink play for you right now?"
 
 ### Volunteer Inquiry
@@ -281,7 +274,7 @@ Longest message streaks (>100 days consecutive):
 ### NEW 2026-07-27
 - `RELATIONSHIPS/CONVERSATION_TIMELINE_2026-07-27.md` — Full timeline analysis
 - `RELATIONSHIPS/dynamics/EMPIRICAL_SUMMARY_2026-07-27.md` — Top 10 profile summary
-- `RELATIONSHIPS/dynamics/{LAURA, MIKE_NYX, MAGALI, LOURDES, JONATAN, SONIA, DEFI, KIKI, NICOLAS, SARAH}.md` — Per-profile empirical sections
+- `RELATIONSHIPS/dynamics/{GABRIELLA_GP, FRAN, THAIS, CLOUD_NYX, LUCIA_DIAZ, KIKI_ADJACENT, NICOLAS_DUARTE, SARA_KEKW, MOM_SONIA_WEISS, KIKI_WEISS_HERMANA}.md` — Per-profile empirical sections
 - `ROLEPLAY_SESSIONS/0{1,2,3,4}_*.md` — All updated with new hypotheses
 
 ### Raw Data
@@ -325,10 +318,10 @@ Longest message streaks (>100 days consecutive):
 
 ### For Next Session
 
-1. **Open with Laura inquiry** — she was the main focus for 2+ years, the 99% drop is dramatic
-2. **Ask about kink era** — 3 new partners in months is unusual, may signal avoidance or genuine exploration
+1. **Open with Gaby/anchor inquiry** — current concurrent anchor pattern (Fran/Gaby/Thais/Lucia/Somosgay) represents a 2026 shift from 2021-2025 sequential anchoring
+2. **Ask about kink era** — 4 new partners in months is unusual, may signal avoidance or genuine exploration
 3. **Check on volunteer burnout** — Ci24 ending may relate to identity questions
-4. **Explore friendship lifecycle** — Ivan's pattern of cycling through main friends is therapeutically interesting
+4. **Explore concurrent anchor pattern** — Ivan's shift from sequential to concurrent main relationships is therapeutically interesting
 
 ### For Phase 2 (Initiator Asymmetry Work)
 
@@ -350,8 +343,8 @@ Longest message streaks (>100 days consecutive):
 - **Voice notes**: 17,783 transcripts (95.3 hours)
 - **Tier distribution**: 11/75/119/158 (t1/t2/t3/t4)
 - **Late-night concentration**: 32% baseline
-- **Main 7 friends**: Kuki, Ale, Sarah, Nico, Dayah, Gaby (current MAIN 7); Magali in flux
-- **Kink era contacts**: 3 (Gaby/Nico/Sarah)
+- **Main friends**: Fran, Gaby, Thais, Lucia, Somosgay, Cloud Nyx, Kiki Adjacent (current concurrent anchors); Mom Sonia + Kiki (family anchors)
+- **Kink era contacts**: 4 (Gaby/Nico/Thais/Sarah)
 - **Abandoned tier1/tier2**: 13
 - **Longest streak**: 319 days (Amigos_De_Las_Locuras_Swinger)
 

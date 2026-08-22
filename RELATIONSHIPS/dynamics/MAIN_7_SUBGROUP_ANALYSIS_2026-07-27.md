@@ -1,7 +1,7 @@
-# MAIN 7 + Kink Era Subgroup Analysis
+# Current Active Relationships + Kink Era Subgroup Analysis
 
-> **Generated:** 2026-07-27
-> **Source:** Synthesized from 8 analysis files (time_patterns, initiator, recency, timeline, vnt_sentiment, voice_vs_text, grief, repair)
+> **Updated:** 2026-08-22 (refreshed)
+> **Source:** Synthesized from 8 analysis files (time_patterns, initiator, recency, timeline, vnt_sentiment, voice_vs_text, grief, repair) + 2026-08-22 Gaby/corpus comparison
 > **For:** Ivan's psychologist — comprehensive friend-by-friend synthesis
 > **Hat coverage:** 1, 4, 21, 22, 31
 
@@ -9,24 +9,24 @@
 
 ## 📊 Per-Friend Synthesis (12 contacts)
 
-### 1. **Ale** (Alejandro Cabral Poli) - Lifelong #1
+### Current Active Personal Friends
+
+### 1. **Fran** — Long-time Friend (Stable)
 | Metric | Value | Clinical |
 |--------|------:|----------|
-| Lifetime | 23,000+ msgs | Sustained |
-| Last contact | 7d ago | Currently active |
-| Late-night | ~10% | Below baseline (32%) |
-| Ivan initiator | ~25% | They chase Ivan |
-| Ivan starts conv | ~250 / ~750 | Reciprocal |
-| Max streak | ? | |
-| Voice% | 4.3% | Text-only |
+| Lifetime | 7,392 msgs | 7y span |
+| Last contact | 2026-07-13 | Active |
+| Late-night | ~16.8% | Below baseline |
+| Ivan initiator | ~50% | Balanced |
+| Velocity | 19.6/day | Sustained |
 
-**Pattern**: Lifelong best friend. Below-baseline late-night. Ivan receives more than initiates.
+**Pattern**: 7-year sustained friendship. Below-baseline late-night. Reciprocal engagement. Current most-stable non-family friend.
 
-### 2. **Kiki (Sister)** - The Constant
+### 2. **Kiki (Sister)** — The Constant
 | Metric | Value | Clinical |
 |--------|------:|----------|
 | Lifetime | 7,838 msgs | 7y stable |
-| Last contact | 7d ago | Currently active |
+| Last contact | 2026-07-20 | Currently active |
 | Late-night | 37.0% | Slightly above baseline |
 | Ivan initiator | 49.1% | Balanced |
 | Ivan starts conv | 317 / 476 (40%) | Reciprocal |
@@ -35,101 +35,60 @@
 
 **Pattern**: 7-year steady. ONLY constant relationship. Slightly above-baseline late-night (sister dynamics).
 
-### 3. **Magali** - Best Friend Era 2021
+### 3. **Gaby (Dr. Gabriella)** — NEW 2026 Intimate Friend
 | Metric | Value | Clinical |
 |--------|------:|----------|
-| Lifetime | 28,457 msgs | Peak 2021 |
-| Last contact | 12d ago | Currently active |
-| Late-night | 39.9% | Above baseline |
-| Ivan initiator | 52.7% | Balanced |
-| Ivan starts conv | 311 / 388 (44.5%) | Reciprocal |
-| Max streak | 42d | Long honeymoon |
-| Voice% | 11.2% | High voice |
+| Lifetime | 5,985 msgs | NEW 2026 |
+| Last contact | 2026-07-23 | Very active |
+| Late-night | 15.4% | Below baseline |
+| Ivan initiator | 48.1% | Balanced |
+| Ivan starts conv | 17 / 38 (30.9%) | They initiate more |
+| Max streak | 26d | |
+| Voice% | **18.7%** | VERY HIGH voice |
+| Velocity | **146.0/day** | Highest of any current contact |
 
-**Pattern**: Documented 81% engagement drop (now reversing). Longest peak streak was 42 days in 2021.
+**Pattern**: NEW 2026. Below-baseline late-night (15.4%). **Very high voice (18.7%)** — voice = intimacy modality for Gaby. Sonia encouraging.
 
-### 4. **Laura** - The Ex (Peak 2024)
+### 4. **Lucia Diaz** — Friend (Stable)
 | Metric | Value | Clinical |
 |--------|------:|----------|
-| Lifetime | 23,105 msgs | |
-| Last contact | 17d ago | Recent |
-| Late-night | **39.6%** | Above baseline |
-| Ivan initiator | 51.1% | Balanced |
-| Ivan starts conv | 451 / 519 (46.5%) | Reciprocal |
-| Max streak | **145d** | CRITICAL honeymoon |
-| Voice% | 12.6% | High voice |
+| Lifetime | 5,155 msgs | 3.5y span |
+| Last contact | 2026-07-14 | Active |
+| Late-night | 16.2% | Below baseline |
+| Ivan initiator | ~41% | Near-balanced |
+| Velocity | 18.2/day | Sustained |
 
-**Pattern**: 145-day honeymoon streak. 99% drop 2025→2026. **Active rumination** at 39.6% late-night. High voice usage suggests intimacy.
+**Pattern**: Long-time friend, stable engagement. Below-baseline late-night.
 
-### 5. **Jonatan Verdún** - Current High-Volume
+### 5. **Thais** — Kink/Partner via Somosgay (Active)
 | Metric | Value | Clinical |
 |--------|------:|----------|
-| Lifetime | 34,526 msgs | 3y span |
-| Last contact | 23d ago | Recent |
-| Late-night | 24.8% | Below baseline |
-| Ivan initiator | 32.3% | They chase Ivan |
-| Ivan starts conv | varies | They initiate |
-| Max streak | 75d | Long |
-| Voice% | 4.8% | Low |
+| Lifetime | 3,825 msgs | Active via Somosgay |
+| Last contact | 2026-06-15 | Active |
+| Late-night | 21.7% | Near baseline |
+| Velocity | 64.8/day | High |
+| Channel | Somosgay group | Mixed modality |
 
-**Pattern**: Current highest-volume friend. Below-baseline late-night suggests daytime engagement. They initiate 68% — Ivan passive recipient.
+**Pattern**: Active partner via Somosgay gay social network. High velocity through group context.
 
-### 6. **Lourdes Youko Kurama** - Lost/Reunited
+### 6. **Nico/Cloud Nyx** — Kink Dom 🆕 2026
 | Metric | Value | Clinical |
 |--------|------:|----------|
-| Lifetime | 16,905 msgs | 5y span |
-| Last contact | 7d ago | Currently active |
-| Late-night | 35.3% | Slightly above |
-| Ivan initiator | 50.3% | Balanced |
-| Max streak | 55d | |
-| Voice% | 13.4% | High voice |
-
-**Pattern**: Reunited in 2025 after 594-day silence (Ivan reached out). Most emotional voice contact (222 emo-words in VNT).
-
-### 7. **Sonia (Mom)** - The Mother
-| Metric | Value | Clinical |
-|--------|------:|----------|
-| Lifetime | 11,305 msgs | 7y stable |
-| Last contact | 8d ago | Currently active |
-| Late-night | 29.7% | Below baseline |
-| Ivan initiator | 50.3% | Balanced |
-| Ivan starts conv | 410 / 771 (34.7%) | They initiate more |
-| Max streak | 21d | |
-| Voice% | 15.3% | High voice |
-
-**Pattern**: Family balanced. Highest voice% (15.3%) — voice is family modality. 7-year steady.
-
-### 8. **Nico/Nyx (Cloud_Nyx)** - Kink Dom 🆕 2026
-| Metric | Value | Clinical |
-|--------|------:|----------|
-| Lifetime | 3,539 msgs | NEW 2026 |
-| Last contact | 21d ago | Recent |
+| Lifetime | 7,437 msgs (combined: friend_brasilia + Cloud_Nyx) | NEW 2026 |
+| Last contact | 2026-07-19 | Recent |
 | Late-night | **52.6%** | HIGH rumination |
 | Ivan initiator | **14.8%** | They chase Ivan |
 | Ivan starts conv | 42 / 33 (56%) | They initiate more |
 | Max streak | 8d | |
 | Voice% | **0.3%** | TEXT-ONLY |
 
-**Pattern**: ⚠️ **HIGH late-night (52.6%)** = active rumination. They chase Ivan (sub role). Text-only (0.3% voice).
+**Pattern**: ⚠️ **HIGH late-night (52.6%)** = active rumination. They chase Ivan (sub role). Text-only (0.3% voice). Two channels: friend_brasilia (personal) + Cloud_Nyx (kink).
 
-### 9. **Gaby (Dr. Gabriella)** - NEW 2026
+### 7. **Sarah** — FWB Kink 🆕 2026 (via Somosgay)
 | Metric | Value | Clinical |
 |--------|------:|----------|
-| Lifetime | 5,985 msgs | NEW 2026 |
-| Last contact | 4d ago | Currently active |
-| Late-night | 15.4% | Below baseline |
-| Ivan initiator | 48.1% | Balanced |
-| Ivan starts conv | 17 / 38 (30.9%) | They initiate more |
-| Max streak | 26d | |
-| Voice% | **18.7%** | VERY HIGH voice |
-
-**Pattern**: NEW 2026. Below-baseline late-night (15.4%). **Very high voice (18.7%)** — voice = intimacy modality for Gaby. Sonia encouraging.
-
-### 10. **Sarah** - FWB Kink 🆕 2026
-| Metric | Value | Clinical |
-|--------|------:|----------|
-| Lifetime | 2,900 msgs | NEW 2026 |
-| Last contact | 7d ago | Currently active |
+| Lifetime | ~2,838 msgs (Somosgay) | NEW 2026 |
+| Last contact | 2026-07-19 | Recent |
 | Late-night | **43.7%** | Above baseline |
 | Ivan initiator | **3.0%** | EXTREME they chase |
 | Ivan starts conv | 1 / 52 (1.9%) | They initiate all |
@@ -138,11 +97,47 @@
 
 **Pattern**: ⚠️ Sarah group + 1:1. **Extreme they-chase pattern (3%)**. Late-night 43.7%. Text-only.
 
-### 11. **Nathaly (Nath)**
+### 8. **Kiki Adjacent** — Kiki's Friend Circle (Rising)
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Lifetime | 2,525 msgs | 228d span |
+| Last contact | 2026-07-19 | Very active |
+| Late-night | 18.5% | Below baseline |
+| Velocity | 36.1/day | High |
+| Growth | **+2,879%** | Fastest rising |
+
+**Pattern**: Ivan integrating with Kiki's friend circle. Fastest-rising relationship in dataset.
+
+### 9. **Dan** — Friend (Active)
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Lifetime | 2,588 msgs | 110d span |
+| Last contact | 2026-07-16 | Active |
+| Late-night | 22.6% | Near baseline |
+| Velocity | 30.4/day | High |
+
+**Pattern**: Active friend with sustained high-velocity engagement.
+
+### 10. **Sonia (Mom)** — The Mother
+| Metric | Value | Clinical |
+|--------|------:|----------|
+| Lifetime | 11,305 msgs | 7y stable |
+| Last contact | 2026-07-18 | Currently active |
+| Late-night | 29.7% | Below baseline |
+| Ivan initiator | 50.3% | Balanced |
+| Ivan starts conv | 410 / 771 (34.7%) | They initiate more |
+| Max streak | 21d | |
+| Voice% | 15.3% | High voice |
+
+**Pattern**: Family balanced. Highest voice% (15.3%) — voice is family modality. 7-year steady.
+
+### Cooling Contacts
+
+### 11. **Nathaly (Nath)** — Cooling
 | Metric | Value | Clinical |
 |--------|------:|----------|
 | Lifetime | 366 msgs | Low volume |
-| Last contact | 41d ago | Cooling |
+| Last contact | 2026-05-29 | Cooling |
 | Late-night | 39.6% | Above baseline |
 | Ivan initiator | 57.9% | Ivan chases |
 | Ivan starts conv | 36 / 12 (75%) | Ivan chases HEAVILY |
@@ -151,16 +146,15 @@
 
 **Pattern**: Documented FALLING. Ivan repair ratio 90.5% (top). Ivan still chases despite cooling.
 
-### 12. **Dayah** (Litworks Group)
+### 12. **Friend Alvaro** — Tier2 (Cooling)
 | Metric | Value | Clinical |
 |--------|------:|----------|
-| Lifetime | 426 msgs | Group context |
-| Last contact | 84d ago | Cooling |
-| Late-night | **77.7%** | EXTREME |
-| Ivan initiator | 7.7% | They chase Ivan |
-| Voice% | 0% | Text-only |
+| Lifetime | 4,269 msgs | 437d span |
+| Last contact | 2026-03-17 | Cooling |
+| Late-night | 28.1% | Near baseline |
+| Velocity | 27.7/day | Was high, now cooling |
 
-**Pattern**: ⚠️ EXTREME late-night (77.7%). Ivan completely passive in this group.
+**Pattern**: Former active contact, now cooling. Last contact 4+ months ago.
 
 ---
 
@@ -170,29 +164,29 @@
 
 | Range | Friends |
 |-------|---------|
-| **>45% (HIGH rumination)** | Nico (52.6%), Sarah (43.7%), **Dayah (77.7%)** |
-| **35-45% (above baseline)** | Magali (39.9%), Laura (39.6%), Lourdes (35.3%), Kiki (37.0%), Nathaly (39.6%) |
-| **<30% (below baseline)** | Mom (29.7%), Jonatan (24.8%), Gaby (15.4%), Ale (~10%) |
+| **>45% (HIGH rumination)** | Nico (52.6%), Sarah (43.7%) |
+| **35-45% (above baseline)** | Kiki (37.0%), Nathaly (39.6%) |
+| **<30% (below baseline)** | Mom (29.7%), Gaby (15.4%), Fran (~17%), Lucia (16.2%) |
 
-**Insight**: Kink partners (Nico, Sarah) and past intimacy (Laura, Dayah) show high late-night. Family (Mom, Gaby) shows low.
+**Insight**: Kink partners (Nico, Sarah) show high late-night. Family (Mom, Kiki) and current intimate friends (Gaby, Fran, Lucia) show low — these are daytime relationships.
 
 ### Initiator Pattern (Bimodal)
 
 | Range | Friends |
 |-------|---------|
 | **Ivan chases (>70%)** | Nathaly (75%) |
-| **Ivan balanced (45-55%)** | Ale?, Laura (51%), Magali (53%), Lourdes (50%), Sonia (50%), Gaby (48%), Kiki (49%) |
-| **They chase Ivan (<30%)** | Sarah (3%), Dayah (8%), Nico (15%), Jonatan (32%) |
+| **Ivan balanced (45-55%)** | Mom (50%), Kiki (49%), Gaby (48%), Fran (~50%), Lucia (~41%) |
+| **They chase Ivan (<30%)** | Sarah (3%), Nico (15%), Kiki Adjacent (~30%) |
 
-**Insight**: 7 friends in balanced zone (family + Kiki), 4 in they-chase (kink + Jonatan), 1 in Ivan-chases (Nathaly). Confirms bimodal pattern.
+**Insight**: 5+ friends in balanced zone (current active anchors), 3 in they-chase (kink + Kiki Adjacent), 1 in Ivan-chases (Nathaly). The balanced zone has expanded compared to historical patterns.
 
 ### Voice Modality (Hat 7, 32)
 
 | Range | Friends |
 |-------|---------|
 | **High voice (>15%)** | **Gaby (18.7%)**, Mom (15.3%) |
-| **Medium (5-15%)** | Laura (12.6%), Magali (11.2%), Lourdes (13.4%), Luana (15.2%), Kiki (7%) |
-| **Low (<5%)** | Ale (4.3%), Jonatan (4.8%), **Nico (0.3%)**, Sarah (0.3%), Dayah (0%), Nathaly (3.6%) |
+| **Medium (5-15%)** | Lucia (~12%), Kiki (7%), Fran (~7%) |
+| **Low (<5%)** | Nico (0.3%), Sarah (0.3%), Nathaly (3.6%) |
 
 **Insight**: Family + Gaby = voice. Kink partners (Nico, Sarah) = text. Modality reflects relationship temperature.
 
@@ -204,43 +198,51 @@
 - **Mom Sonia** + **Kiki (Sister)** = Balanced reciprocity + Voice modality = **secure attachment template**
 - Gaby is integrating into this family pattern (high voice, balanced)
 
-### Sequential Main Friends (2-3 year cycle)
-- **Magali (2021)** → **Ale (2022)** → **Laura (2024)** → **Jonatan (2025-2026)**
-- Each peak is the "current main", others cool
-- Suggests **idealization → devaluation** pattern
+### Concurrent Anchor Pattern (2026 shift)
+Unlike the 2021-2025 "sequential main friend" era, Ivan now maintains **concurrent close relationships**:
+- **Fran** (long-time friend, stable)
+- **Gaby** (intimate friend, voice-heavy)
+- **Lucia** (long-time friend, stable)
+- **Thais** (via Somosgay group)
+- **Nico/Cloud Nyx** (kink partner, two channels)
+- **Kiki Adjacent** (Kiki's friend circle, rising)
 
-### Kink Era 2026 (3 modalities)
+This is a **2026 shift** from sequential anchors to concurrent anchors.
+
+### Kink Era 2026 (Multiple modalities)
 - **Gaby** = Voice/warm/intimate (NEW 2026)
-- **Nico** = Text/dom/distance (sub role)
+- **Nico** = Text/dom/distance (sub role, two channels)
 - **Sarah** = Text/kink/extreme passive (sub role)
+- **Thais** = Somosgay group, mixed
 
 ### Cooling Contacts
 - **Nathaly**: Documented falling, Ivan still chases (75% — won't let go)
-- **Dayah**: 84d since last contact, extreme late-night pattern
+- **Friend Alvaro**: Last contact Mar 2026, cooling
+- **Historical**: Jonatan, Laura, Magali, Lourdes, Alejandro (no longer primary anchors)
 
 ---
 
 ## 🩺 Clinical Questions by Friend
 
-### For Laura (99% drop, 145-day streak)
-- "What feelings come up when you think about the 145-day honeymoon?"
-- "Is the 39.6% late-night about her?"
+### For Gaby (concurrent anchor, highest velocity)
+- "What makes Gaby stand out at 146 msgs/day?"
+- "Is the 18.7% voice share about intimacy or about her preference?"
 
-### For Nico/Sarah (kink era)
-- "What draws you to each of these three new partners?"
+### For Nico/Sarah (kink era, high late-night)
+- "What draws you to each of these kink partners?"
 - "Why is Nico/Sarah late-night but Gaby is daytime?"
 
 ### For Kiki (7-year constant)
 - "What does it mean to you that Kiki is the only constant?"
 - "What would change if Kiki was less available?"
 
+### For Fran (7-year stable friend)
+- "Why has Fran remained a constant across all 7 years?"
+- "What's different about Fran vs. the sequential anchors?"
+
 ### For Nathaly (falling but Ivan chases)
 - "What is keeping you reaching out when she's cooling?"
 - "What would happen if you stopped initiating?"
-
-### For Dayah (extreme late-night, very passive)
-- "Why is Dayah 77% late-night?"
-- "What about her is ruminative vs. functional?"
 
 ---
 
@@ -253,8 +255,11 @@
 - `_ANALYSIS/vnt_sentiment.json` — Voice note emotional content
 - `_ANALYSIS/grief_analysis.json` — Abandonment signals
 - `_ANALYSIS/recency_heatmap.json` — Recency per contact
+- `_ANALYSIS/gaby_relationship_analysis.json` — Gaby-specific metrics
+- `_ANALYSIS/relationship_comparison.json` — 102 chats scored
 
 ---
 
-*Last Updated: 2026-07-27*
+*Last Updated: 2026-08-22*
+*Refreshed: Jonatan/Laura/Magali/Ale/Lourdes deprioritized; Fran/Gaby/Thais/Lucia/Somosgay/Cloud_Nyx/Kiki_Adjacent as current roster*
 *Generated by `scripts/analyze_main7_subgroups.py`*

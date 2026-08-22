@@ -38,17 +38,20 @@ Ivan's network has **5 distinct clusters**:
 
 | Contact | Edges (groups shared) | Role |
 |---------|----------------------:|------|
-| Jonatan Verdún | 600+ groups | Current main friend |
-| Ale | 600+ groups | Lifelong friend |
-| Magali | 500+ groups | Best-friend era |
-| Laura | 400+ groups | Ex, 99% drop |
+| Fran | 600+ groups | 7y sustained friend |
+| Gaby | 100+ groups | Intimate friend (NEW 2026) |
+| Somosgay group | 300+ groups | Active kink/social hub |
+| Lucia Diaz | 200+ groups | Long-time friend |
+| Thais | 80+ groups | Active via Somosgay |
+| Nico/Cloud Nyx | 60+ groups | Kink partner (NEW 2026) |
+| Kiki Adjacent | 40+ groups | Kiki's friend circle, +2,879% growth |
 
 **Pattern**: Ivan's main friends share **many groups** — his network is highly interconnected at the top.
 
 ### Edge Analysis
 
 The **strongest edges** (most shared groups):
-- Jonatan + Ale: shared many school/work groups
+- Fran + Kiki Adjacent: shared Kiki's social circle
 - Kiki + Mom: shared family groups
 - Magali + Lourdes: shared FPUNA groups
 
@@ -101,16 +104,16 @@ This suggests **clique-like structure** in Ivan's main friend circle.
 | Range | # Chats | Pattern |
 |-------|--------:|---------|
 | Ivan >70% (chases) | ~30 | Orphan groups, Nathaly, etc. |
-| Ivan 50-70% (balanced high) | ~50 | Magali, Lourdes, family |
-| Ivan 30-50% (balanced low) | ~80 | Ale, Jonatan |
+| Ivan 50-70% (balanced high) | ~50 | Mom Sonia, Kiki, family |
+| Ivan 30-50% (balanced low) | ~80 | Fran, Gaby, Lucia Diaz |
 | Ivan <30% (passive) | ~200 | Kink partners, groups |
 
 ### Reciprocity Quality
 
 **Best balanced relationships**:
 - Ale (49.7% Ivan) — lifelong
-- Magali (52.7% Ivan) — best-friend era
-- Lourdes (50.3% Ivan) — reunited
+- Fran (~50% Ivan) — 7y sustained friend
+- Gaby (~29% Ivan) — intimate friend, NEW 2026
 - Mom Sonia (50.3% Ivan) — family
 
 **Ivan chases** (heavy initiator):
@@ -121,7 +124,7 @@ This suggests **clique-like structure** in Ivan's main friend circle.
 - Sarah (3%)
 - Dayah (8%)
 - Nico (15%)
-- Jonatan (32%)
+- Gaby (~29%)
 
 ---
 
@@ -129,7 +132,7 @@ This suggests **clique-like structure** in Ivan's main friend circle.
 
 | Cost Range | # Relationships | Pattern |
 |------------|----------------:|---------|
-| VERY HIGH (>70) | 2 | Jonatan, Magali |
+| VERY HIGH (>70) | 2 | Gaby, Lucia |
 | HIGH (50-70) | 55 | Main friends + Ivan-only groups |
 | MEDIUM (30-50) | 136 | Casual relationships |
 | LOW (15-30) | 27 | Low-effort ties |
@@ -225,7 +228,7 @@ This may reflect **different needs** being met by different partners.
 
 ### About Kink Era
 - "Why 3 new intimate partners now?"
-- "Is this expansion or replacement (for Laura)?"
+- "Is this concurrent anchor expansion or scattered attachment?"
 
 ---
 

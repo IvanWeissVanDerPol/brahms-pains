@@ -170,7 +170,7 @@ Sarah's chat is **part of a group** (Sarah_S_Neon, Sarah_Bum — multiple chats)
 |----------------------|-------:|---------------------------|-------:|
 | Gaby | 18.7% | Nico | 0.3% |
 | Mom Sonia | 15.3% | Sarah | 0.3% |
-| Laura | 12.6% | Dayah | 0.0% |
+| Gaby | 18.7% | Dayah | 0.0% |
 
 **Reading**: Ivan uses **voice for family/intimate warmth** but **text for kink/distance**.
 
@@ -196,27 +196,24 @@ Sarah's chat is **part of a group** (Sarah_S_Neon, Sarah_Bum — multiple chats)
 
 ## 📚 Compared to Past Relationships
 
-### Laura (2024 peak, 2025-26 decline)
+### Gaby (current intimate friend, 2026)
 
-- Late-night: 39.6% (above baseline)
-- Voice: 12.6% (high)
-- Initiator: 51.1% (balanced)
-- Streak: 145d (peak honeymoon)
-- Status: 99% drop 2024→2026
+- Late-night: 17.0% (below baseline)
+- Voice: 18.7% (very high)
+- Initiator: 29.3% Ivan (they chase Ivan)
+- Streak: 26d
+- Status: NEW 2026, concurrent anchor
 
-**Compared to 2026 partners**:
-- Laura was the **integrated** partner (voice + balanced + late-night)
-- 2026 partners are **modular** (each plays a distinct role)
+**Reading**: Gaby is Ivan's **primary intimate friend** with the highest velocity (146 msgs/day). Voice modality signals warmth/intimacy.
 
-### Jonatan (current main, 2026)
+### Fran (current anchor, 7y sustained)
 
-- Late-night: 24.8% (below baseline)
-- Voice: 4.8% (low)
-- Initiator: 32.3% (Ivan passive)
-- Streak: 75d
-- Pattern: **High-volume text friendship, low intimacy**
+- Late-night: 16.8% (below baseline)
+- Voice: ~7% (medium)
+- Initiator: ~50% (balanced)
+- Pattern: **High-volume sustained friendship, daytime engagement**
 
-**Reading**: Jonatan is **NOT a kink partner** — he's Ivan's "work friend" or "main friend" who doesn't fulfill the intimacy needs.
+**Reading**: Fran is Ivan's **most stable non-family anchor** — 7y sustained, balanced pattern, daytime engagement. NOT a kink partner.
 
 ---
 
@@ -249,7 +246,7 @@ Sarah's chat is **part of a group** (Sarah_S_Neon, Sarah_Bum — multiple chats)
 
 2. **Late-night as dispositional**: Ivan's late-night pattern (32% baseline) becomes **concentrated in kink partners** (43-77%). This suggests late-night is **a vulnerability window** where kink activation is more likely.
 
-3. **Voice as warmth**: Ivan reserves voice for warmth (Gaby, family, Laura) and uses text for distance (Nico, Sarah). This is a **clear attachment signal** — voice = secure/intimate, text = avoidant/distant.
+3. **Voice as warmth**: Ivan reserves voice for warmth (Gaby, family) and uses text for distance (Nico, Sarah). This is a **clear attachment signal** — voice = secure/intimate, text = avoidant/distant.
 
 ### Recommended Phase 2 Work
 

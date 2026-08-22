@@ -1,7 +1,7 @@
 # Ivan's Complete Empirical Profile — All 6 Analyses
 
-> **Generated:** 2026-07-27
-> **Source:** All 6 empirical analyses from 2026-07-27 cleanup
+> **Generated:** 2026-08-22 (refreshed)
+> **Source:** All 6 empirical analyses from 2026-07-27 + 2026-08-22 Gaby/corpus comparison
 > **Coverage:** 951 chats, 505,926 messages, 17,783 voice notes
 > **Purpose:** Comprehensive synthesis for clinical use
 
@@ -15,7 +15,7 @@
 | 2 | **Initiator Analysis** | 675 chats | 48.4% Ivan-initiated repair pattern |
 | 3 | **Recency Heatmap** | 947 chats | 13 abandoned tier1/tier2 |
 | 4 | **Conversation Timeline** | 947 chats / 7 years | 2026 = peak year (kink era) |
-| 5 | **VNT Sentiment** | 252 contacts | Lourdes most emotional (222 words) |
+| 5 | **VNT Sentiment** | 252 contacts | Fran/Somosgay/Lourdes most emotional |
 | 6 | **Voice vs Text** | 531 chats | Family voice-heavy, kink text-heavy |
 
 ---
@@ -47,22 +47,34 @@ Ivan either **pursues (>70%)** OR **is passively pursued (<30%)** — no middle.
 
 **Mom + Kiki are the only balanced zone.** This is the core attachment insight.
 
-### 3. Sequential Friendship Cycle (Hat 1, 14)
-Ivan has **one main close friend at a time**, lasting 2-3 years:
-- 2021: Magali (14k peak)
-- 2022: Ale (10k peak)
-- 2024: Laura (13k peak)
-- 2026: Jonatan (17k) + Kink trio
+### 3. Current Anchor Roster (Hat 1, 14)
+Ivan's **current main relationships** (active since Feb 2026, excluding cooling/dormant):
 
-**Kiki is the only constant** (7 years).
+| # | Contact | Role | Msgs | Vel/day | Aff | Status |
+|---|---------|------|------:|--------:|----:|--------|
+| 1 | **Somosgay group** | Gay social network (Thais/Sarah/Nico hub) | 15,598 | 89.6 | 12.0 | Very active |
+| 2 | **Mom Sonia** | Family anchor | 11,305 | 12.0 | 2.9 | Active |
+| 3 | **Kiki (sister)** | Family anchor | 7,838 | 11.8 | 3.9 | Active |
+| 4 | **Fran** | Long-time friend | 7,392 | 19.6 | 5.3 | Active |
+| 5 | **Gaby** (Dra. Gabriella GP) | Client + intimate friend | 5,985 | 146.0 | 55.2 | Very active |
+| 6 | **Lucia Diaz** | Friend | 5,155 | 18.2 | 16.4 | Active |
+| 7 | **Friend Brasilia** (Nico) | Friend + kink | 3,898 | 29.1 | 12.8 | Active |
+| 8 | **Thais** | Kink/partner | 3,825 | 64.8 | 19.2 | Active |
+| 9 | **Cloud Nyx** (Nico) | Kink/dom partner | 3,539 | 59.0 | 0.3 | Active |
+| 10 | **Kiki Adjacent** | Kiki's friend circle | 2,525 | 36.1 | 11.7 | Rising |
+| 11 | **Dan** | Friend | 2,588 | 30.4 | 8.1 | Active |
+| 12 | **Friend Alvaro** | Friend (tier2, last Mar 2026) | 4,269 | 27.7 | 13.3 | Cooling |
 
-### 4. Kink Era 2026
-**3 new intimate partners** started within months (Gaby/Nico/Sarah). Voice/text preference varies:
+**Note (2026-08-22)**: Jonatan Verdún, Laura, Magali Carreras, Alejandro Cabral, and Lourdes Youko Kurama are **no longer primary anchors**. They appear in this profile for historical context only. Current comparisons use Fran, Gaby, Thais, Lucia, Somosgay group, and Cloud Nyx as reference points.
+
+### 4. Kink Era 2026 (Active)
+**Multiple intimate partners** active concurrently (Gaby/Thais/Sarah/Nico/Cloud Nyx). Voice/text preference varies:
 - **Gaby**: 18.7% voice (intimate via voice)
 - **Nico**: 97.3% text (intimate via text)
 - **Sarah**: 95.1% text (intimate via text)
+- **Thais**: via Somosgay group, mixed modality
 
-Ivan uses **voice for family/intimate-warm**, **text for kink/groups**.
+Ivan uses **voice for family/intimate-warm**, **text for kink/distance**.
 
 ---
 
@@ -87,7 +99,7 @@ Ivan uses **voice for family/intimate-warm**, **text for kink/groups**.
 
 **48.4% of conversation gaps >7d are repaired by Ivan.**
 
-Top Ivan-Repairers:
+Top Ivan-Repairers (current, active):
 - Nathaly_Schinini: 90.5%
 - René_Pols_Poli: 77.8%
 - Cami_Maidana: 69.6%
@@ -110,8 +122,8 @@ Ivan maintains **4 Poli-family contacts** actively — pattern of family hierarc
 | El_Viajero | 24.4% | Friend |
 | Mark_Lorey | 23.6% | Friend |
 | Neko_Friend | 22.3% | Kink/pet |
-| **Gaby** | **18.7%** | **NEW 2026 intimate** |
-| Lid_854912 | 18.6% | Friend |
+| **Gaby** | **18.7%** | **Intimate friend** |
+| Lid_854912 | 18.6% | Friend (Gaby duplicate) |
 | **Yissel_Montiel** | 18.0% | Aspiradora seller |
 | **Mom Sonia** | 15.3% | Family |
 | **Luana** | 15.2% | Sister |
@@ -163,36 +175,36 @@ Ivan maintains **4 Poli-family contacts** actively — pattern of family hierarc
 ## 🎯 Comprehensive Clinical Insights
 
 ### 1. The 32% Late-Night = The Thread
-Connects everything: late-night, abandoned (Eros 51%), Laura rumination, voice notes, dorsal vagal shutdown. **This is Ivan's dispositional feature.**
+Connects everything: late-night, abandoned (Eros 51%), rumination, voice notes, dorsal vagal shutdown. **This is Ivan's dispositional feature.**
 
 ### 2. Bimodal Initiator = The Core Pattern
 Family zone = balanced. Everything else = pursuit OR passive. This is **attachment activation selectivity**.
 
-### 3. Sequential Main Friend = The Cycle
-Magali → Ale → Laura → Jonatan+Kink. **2-3 year cycle.** Suggests:
-- Idealization → devaluation pattern
-- Limited emotional bandwidth
-- Possible avoidant behavior under stress
+### 3. Current Anchor Pattern (2026-08-22 update)
+Ivan's **current main relationships** (Fran, Gaby, Thais, Somosgay, Lucia Diaz, Cloud Nyx, Kiki Adjacent) are **concurrent rather than sequential**. Unlike the 2021-2025 pattern of one-main-friend-at-a-time, Ivan is now maintaining multiple close relationships simultaneously.
+
+**Note**: Earlier "sequential main friend" framing (Magali → Ale → Laura → Jonatan) described the 2021-2025 era. The 2026 pattern is different — concurrent anchors with different modalities (voice/text, family/kink, individual/group).
 
 ### 4. Voice vs Text = Relationship Modality
-- **Voice**: Family, warm intimate (Gaby)
-- **Text**: Kink, groups, distance (Nico, Sarah)
+- **Voice**: Family, warm intimate (Gaby, Mom, Luana)
+- **Text**: Kink, groups, distance (Nico, Sarah, Thais via Somosgay)
 
 ### 5. Kiki as Constant = Anchor
 **7 years stable**. Only relationship that doesn't fit the cycle pattern. Clinically important.
 
-### 6. New Kink Era 2026 = Three Modalities
-- Gaby (voice/warm)
-- Nico (text/dom)
-- Sarah (text/kink)
+### 6. Kink Era 2026 = Concurrent Modalities
+- Gaby (voice/warm, intimate friend)
+- Thais (via Somosgay, mixed)
+- Nico/Cloud Nyx (text/dom, kink partner)
+- Sarah (text/kink, extreme passive)
 
-All within months of each other. May indicate post-Laura reconstruction.
+All concurrent rather than sequential.
 
 ---
 
 ## 📋 Top 5 Clinical Questions (Cross-Hat)
 
-1. **Hat 1**: What is the 2-3 year friendship cycle about?
+1. **Hat 1**: What is the concurrent-anchor pattern (Fran + Gaby + Thais + Somosgay) about?
 2. **Hat 4**: How does Ivan experience the Poli family fragmentation?
 3. **Hat 21**: What does the kink era fulfill?
 4. **Hat 31**: Are there unfinished endings with Joaquina/Eros?
@@ -211,6 +223,8 @@ All within months of each other. May indicate post-Laura reconstruction.
 - `_ANALYSIS/voice_vs_text.json` (531 chats)
 - `_ANALYSIS/grief_analysis.json` (13 abandoned)
 - `_ANALYSIS/conversation_repair.json` (2,275 gaps)
+- `_ANALYSIS/gaby_relationship_analysis.json` (per-chat Gaby metrics)
+- `_ANALYSIS/relationship_comparison.json` (102 chats, 8 axes)
 
 ### Scripts (re-runnable)
 - `scripts/analyze_time_patterns.py`
@@ -221,6 +235,8 @@ All within months of each other. May indicate post-Laura reconstruction.
 - `scripts/analyze_voice_vs_text.py`
 - `scripts/analyze_grief.py`
 - `scripts/analyze_conversation_repair.py`
+- `scripts/analyze_gaby_export.py`
+- `scripts/analyze_relationship_comparison.py`
 - `scripts/enrich_top_profiles.py`
 
 ### Documents (psychology-facing)
@@ -229,9 +245,11 @@ All within months of each other. May indicate post-Laura reconstruction.
 - `TREATMENT/CASE_CONCEPTUALIZATION_UPDATE_2026-07-27.md` (theoretical)
 - `RELATIONSHIPS/CONVERSATION_TIMELINE_2026-07-27.md` (timeline doc)
 - `RELATIONSHIPS/dynamics/EMPIRICAL_SUMMARY_2026-07-27.md` (top 10)
+- `RELATIONSHIPS/dynamics/MAIN_7_SUBGROUP_ANALYSIS_2026-07-27.md` (friend-by-friend)
 - `CORE_PSYCHOLOGY/grief_analysis/HAT_31_GRIEF_LOSS_ANALYSIS.md` (grief)
 - `CORE_PSYCHOLOGY/attachment_patterns/HAT_1_4_CONVERSATION_REPAIR.md` (repair)
 - `CORE_PSYCHOLOGY/attachment_patterns/ATTACHMENT_OVERVIEW.md` (updated)
+- `docs/GABY_ANALYSIS_2026-08-22.md` (Gaby deep analysis)
 
 ### Visual Dashboards (HTML)
 - `_ANALYSIS/timeline_dashboard.html` (friendship timeline)
@@ -241,8 +259,8 @@ All within months of each other. May indicate post-Laura reconstruction.
 - `_ANALYSIS/family_tree.html`
 - `_ANALYSIS/voice_notes_dashboard.html`
 
-### Updated Top 10 Profile Files
-- `RELATIONSHIPS/dynamics/{LAURA, MIKE_NYX, MAGALI_CARRERAS, LOURDES_YOUKO_KURAMA, JONATAN_VERDUN, SONIA, DEFI, KIKI_HERMANA, NICOLAS_DUARTE, SARAH}.md`
+### Updated Top Profile Files
+- `RELATIONSHIPS/dynamics/{GABRIELLA_GP, FRAN, THAIS, CLOUD_NYX, MOM_SONIA_WEISS, KIKI_WEISS_HERMANA, LUANA_WEISS, DAD_JOHN_VAN_DER_POL, SARA_KEKW, NICOLAS_DUARTE}.md`
 
 ---
 
@@ -254,19 +272,19 @@ All within months of each other. May indicate post-Laura reconstruction.
 3. Use timeline_dashboard.html to visualize 7-year history
 
 ### Phase 2: Top 3 Priorities (30 min)
-1. **Laura inquiry** (active rumination signal)
-2. **Kink era exploration** (3 new partners)
+1. **Current anchor exploration** (Fran + Gaby + Thais + Somosgay concurrent pattern)
+2. **Kink era exploration** (multiple concurrent partners)
 3. **Volunteer burnout** (Ci24 to 0)
 
 ### Phase 3: Cross-Hat Deep Dives (30 min)
 1. Late-night dispositional pattern (32% baseline)
 2. Initiator bimodality (no middle)
-3. Sequential friendship cycle (2-3 years)
+3. Concurrent vs sequential anchor pattern (2026 shift)
 
 ### Phase 4: Phase 2 Work Preview (15 min)
 1. Hat 31 grief work (Joaquina, Eros)
 2. Initiator asymmetry (where is Ivan the pursuer vs. pursued)
-3. Conversation repair capacity (Lourdes reunion)
+3. Conversation repair capacity
 
 ### Phase 5: Closing (5 min)
 - Homework: track late-night behavior for 1 week
@@ -275,5 +293,6 @@ All within months of each other. May indicate post-Laura reconstruction.
 
 ---
 
-*Last Updated: 2026-07-27*
+*Last Updated: 2026-08-22*
+*Refreshed: Jonatan/Laura/Magali/Ale/Lourdes deprioritized as comparison anchors; current roster (Fran, Gaby, Thais, Somosgay, Lucia, Cloud Nyx, Kiki Adjacent) promoted*
 *Comprehensive empirical profile synthesized from 6 analyses*

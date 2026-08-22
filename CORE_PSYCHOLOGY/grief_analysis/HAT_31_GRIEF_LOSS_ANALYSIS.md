@@ -62,7 +62,7 @@
 | **Total abandoned** | 13 | Moderate pattern |
 | **Total msgs in abandoned chats** | 10,010 | Significant emotional investment |
 | **Combined max streaks** | 76 days | Some had intense periods |
-| **Average abandonment time** | 2.3 years | Standard friendship lifecycle |
+| **Average abandonment time** | 2.3 years | Historical pattern; 2026 concurrent anchors shift this |
 | **Longest abandonment** | 1193 days | Joaquina_Ex |
 
 ### Closure Patterns
@@ -82,7 +82,7 @@
 ### 1. The Friendship Lifecycle Pattern Confirms
 
 Ivan's **main friendships peak for 2-3 years, then decline**. This is consistent with:
-- Anxious-preoccupied attachment cycle (idealization → devaluation)
+- Anxious-preoccupied attachment pattern (historical 2021-2025 era); 2026 concurrent shift may indicate change
 - Limited emotional bandwidth for multiple deep connections
 - Possibly avoidant behavior under stress
 
@@ -119,7 +119,7 @@ Many relationships simply run their course. The clinical question is **how Ivan 
 
 1. **Mapping the abandonments** — Visualize who Ivan has lost contact with over time
 2. **Letter-writing exercises** — Write (don't send) to Joaquina, Eros, Mikaela
-3. **Pattern recognition** — Help Ivan see the 2-3 year cycle as a feature, not a bug
+3. **Pattern recognition** — Help Ivan see the historical 2-3 year cycle as a feature, not a bug, while recognizing the 2026 concurrent shift
 4. **Re-engagement experiments** — Test sending a message to 1 abandoned contact to see what happens
 
 ### Specific Inquiries for Next Session
