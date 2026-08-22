@@ -188,3 +188,146 @@ specific human being with a specific frame.**
    repo excludes third-party contact PII (`ANALYSIS.md §8`, which dropped 8 `.vcf`
    files on the same grounds).
 4. **No pre-2026-05-31 history exists** for this contact anywhere in the corpus.
+
+---
+
+## 9. Duplicate chat — Gaby is counted twice in the corpus
+
+`tier3_extended/097__lid_854912___wa_lid_118262125854912_15538` (5,060 messages,
+2026-05-31 → 2026-07-20) is **the same conversation**, captured from the SQLite
+`msgstore` instead of the text export. Verified by content: identical opening message
+("Holis soy ivan"), and a set comparison of normalised text finds **3,795 of 3,795
+LID text messages present in the export — zero unique to the LID copy.** The LID chat
+is a strict subset; the export runs three days longer.
+
+Consequences, all currently live in the repo:
+
+| Impact | Detail |
+|---|---|
+| Double counting | ~5,060 messages counted twice in `corpus_stats.json` and every `_ANALYSIS` aggregate |
+| Split identity | Gaby appears as a named tier1 contact *and* as an unnamed tier3 LID contact |
+| Skewed comparisons | Cross-contact analyses treat the two as unrelated people |
+| Tier error | The LID copy sits in `tier3_extended`; its content is tier1 |
+
+**Recommended action:** keep the export as authoritative, move the LID copy to
+`_dropped/` with a pointer, and record the LID `118262125854912@lid` as a Gaby
+identity key. That LID also identifies her in `tier4_groups/Dentista_Gabi`, so
+recording it links all three surfaces.
+
+## 10. Where Gaby sits against the rest of the corpus
+
+Computed by `scripts/analyze_relationship_comparison.py` over the 102 one-to-one
+chats with ≥200 messages.
+
+| Contact | Msgs | Span | Vel. | Ivan opens | Ivan breaks | Their voice % | Affection | Distress | Boundary | Late % |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| **Gaby** | 5,985 | **52d** | **146.0** | **0.29** | **0.21** | **25.6** | **34.2** | **23.6** | **13.4** | 17.0 |
+| Laura | 23,105 | 967d | 38.5 | 0.48 | 0.44 | 12.1 | 49.8 | 11.0 | 2.9 | 28.2 |
+| Jonatan | 34,526 | 842d | 96.2 | 0.28 | 0.18 | 0.3 | 3.8 | 8.5 | 5.1 | 18.3 |
+| Magali | 28,457 | 2114d | 52.1 | 0.48 | 0.43 | 10.4 | 3.4 | 8.9 | 4.4 | 28.5 |
+| Alejandro | 23,000 | 2121d | 20.0 | 0.52 | 0.51 | 0.5 | 1.3 | 1.9 | 0.8 | 20.8 |
+| Lourdes | 16,905 | 1502d | 35.6 | 0.50 | 0.47 | 14.1 | 9.6 | 15.1 | 3.3 | 26.8 |
+| Sonia (mom) | 11,305 | 2119d | 12.0 | 0.34 | 0.34 | 21.1 | 2.0 | 3.1 | 1.5 | 9.8 |
+| Kiki (sister) | 7,838 | 2108d | 11.8 | 0.39 | 0.40 | 5.4 | 2.3 | 5.7 | 1.1 | 17.9 |
+| Dad | 1,864 | 1716d | 7.0 | 0.23 | 0.22 | 0.3 | 0.0 | 0.0 | 0.0 | 22.9 |
+| *corpus median* | *738* | — | *17.7* | *0.49* | *0.49* | *1.6* | *0.3* | *3.1* | *0.0* | *16.8* |
+
+*Vel. = messages per active day. Open/break = Ivan's share; low means he is the pursued
+party. Affection / distress / boundary = hits per 1,000 of their text messages.*
+
+Gaby's percentile across all 102 chats:
+
+| Axis | Value | Percentile |
+|---|---:|---:|
+| Velocity (msgs/active day) | 146.0 | **94th** |
+| Their affection | 34.2 | **98th** |
+| Their distress | 23.6 | **97th** |
+| Their boundary-setting | 13.4 | **98th** |
+| Their voice share | 25.6% | **94th** |
+| Ivan's affection | 21.0 | **97th** |
+| Ivan's sexual language | 14.9 | **91st** |
+
+**What the comparison establishes:**
+
+1. **Unmatched intensity per unit time.** 146 messages per active day against a corpus
+   median of 17.7 — 8×. The only chats above her are single-day spam blasts. Laura, the
+   2.6-year relationship, ran at 38.5. **Gaby reached ~4× Laura's daily intensity in
+   1/18th the elapsed time.**
+2. **Third-most-pursued relationship in the corpus.** Only Jonatan (0.28) and Dad (0.23)
+   open more of the days than Gaby does — and both are multi-year. Ivan's corpus median
+   open-share is 0.49; here it is 0.29.
+3. **She is the only contact high on affection *and* distress *and* boundary at once**
+   (98th / 97th / 98th). Laura scores higher on affection (49.8) but far lower on
+   distress (11.0) and boundary (2.9). The combination — intense warmth, heavy distress,
+   and repeated limit-setting in the same channel — has no other instance in the corpus.
+4. **Most voice-heavy non-family contact** (25.6%), above Sonia (21.1%). Voice is coded
+   elsewhere in this repo as the warmth/safety modality.
+5. **Not a rumination channel.** Late-night 17.0% sits at the corpus median (16.8%) and
+   far below Laura (28.2%) or Magali (28.5%). Against Ivan's 32% global baseline, this
+   relationship *pulls him toward daytime* — one of very few that does.
+
+## 11. The reciprocal half — care refused in both directions
+
+The first pass of this analysis measured Ivan's care-offering at 1.7 per 1k and Gaby's
+at **0.0**, which was a lexicon artefact: the regex covered Spanish comfort phrases
+("tranquil", "acá estoy") and missed the register she actually uses. Re-run with
+care-*giving* verbs, the direction reverses: **Gaby 24 messages, Ivan 7.**
+
+Her care is directed at his body and his sleep, and it escalates into open conflict
+about his refusal to accept it:
+
+> 07-06 — *"mi side.. mom.. 🤪 ahora jódete porque te voy a cuidar te guste o no."*
+> 07-15 — *"la que no se deja cuidar jina"* (each accusing the other)
+> 07-17 — *"déjate cuidar. de verdad."*
+> 07-17 — *"**si no te dejas cuidar no dejo que me cuides tampoco. deal!**"*
+> 07-20 — *"si hace falta.. deja que se te cuide carajo"*
+> 07-20 — *"puta ivan.. **aprende a recibir**.. te quiero garrotear y hablo en serio."*
+> 07-20 — *"te haces bolita.. no soy tu mamá.. pero si dejate cuidar por gente que te
+> quiere.. 😒 de verdad."*
+
+This materially revises §3 and §5. The dynamic is not one-directional inattention. It
+is **symmetrical care-refusal**: both parties give compulsively and receive badly, and
+Gaby is the only one of the two who names the pattern out loud — and proposes an
+explicit contract for it ("deal!"). Her last recorded words in the msgstore copy are
+about Ivan not letting himself be cared for.
+
+Health talk is correspondingly lopsided toward *him* as the subject: 28 of 42
+health-topic messages are Ivan's own (back pain, the lumbar MRI, blood labs), and her
+replies are monitoring — *"esos dolores que tenes en la espalda"*, *"no vas a cambiar
+ningún colchón por mi.. vas a hacerlo por vos y tu espalda"*.
+
+## 12. The instruction that changed without being renegotiated
+
+On **2026-06-19** Gaby set the terms explicitly:
+
+> *"jovencito… para que metas este caso en tus IAs y me devuelvas un análisis
+> estratégico. **No necesito motivación ni apoyo emocional.**"*
+
+By mid-July the ask had inverted — *"yo solo quiero que me abraces"* (07-23),
+*"necesito paz"* (07-23), *"a mi no me hace caso"* — but the change was never stated as
+a change. This is important for reading §5 fairly: the strategy-first response pattern
+is not simple obliviousness, it is **the June instruction still being executed in
+July**. She revised the terms implicitly, through indirectas, and then grew frustrated
+that the revision was not detected — *"NO entendes las putas indirectas"*, *"me
+desespera que no te das cuenta de nada"*.
+
+Both readings are true at once, and the clinical target is the *transition*, not
+either party's intent: an explicit renegotiation was never made by either side.
+
+---
+
+## 13. Open items (supersedes §7)
+
+| # | Item | Why |
+|---|---|---|
+| 1 | **Whisper backfill, 1,114 voice notes (~13h; 10.2h Gaby's)** | Largest blind spot in tier1. She is the 94th-percentile voice user in the corpus, so text-only metrics under-read her by design. Pipeline exists (`scripts/transcribe_audio.py`); attach point at `ANALYSIS.md §10`. |
+| 2 | **De-duplicate the LID copy** (§9) | Corpus aggregates currently double-count ~5,060 messages and split Gaby into two contacts. |
+| 3 | **Fix `analyze_initiators.py`** — day-opens and silence-breaks, not message share; re-run corpus-wide | §0. Mislabels every near-even chat as "Balanced". |
+| 4 | **Widen the care lexicon** (§11) | The first pass scored her care-giving at zero. Any conclusion about "who supports whom" drawn from the old lexicon is unsafe. |
+| 5 | **Boundary-statement tracker** (new script) | Detect repeated boundary assertions and whether emphasis rises (not received) or falls (received). Gaby is 98th percentile and rising. |
+| 6 | **Attunement-latency analyzer** (new script) | Time from distress marker to first empathic reply, classifying intervening messages as joke / solution / deflection. Turns "The Fixer" into a per-contact number. |
+| 7 | **Care-reciprocity metric** | Give/receive asymmetry per contact. §11 suggests refusal-to-receive may be a general Ivan pattern, not Gaby-specific — currently untested. |
+| 8 | **Third-party influence tracker** | Sonia as a pressure source inside relationships with stated boundaries. |
+| 9 | **Business→personal drift metric** | The 9.6% → 0.5% collapse generalises. |
+| 10 | **git-LFS for `media/audio/`** | 138 MB of `.opus` committed in this chat alone. |
+| 11 | **Ingest `DOC-20260822-WA0000.zip`** (610 MB, Drive) | Believed to cover 2026-07-23 → present, the month this analysis cannot see. |
