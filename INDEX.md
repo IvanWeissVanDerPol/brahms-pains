@@ -1,9 +1,31 @@
-# 🧠 psycology — Repository Index
+# � psycology — Repository Index
 
-> **Last updated**: 2026-07-27 (100% cleanup complete)
-> **Repo size**: 3.5 GB
-> **Status**: Active research, fully organized
+> **Last updated**: 2026-08-28 (post 08-27 session + corpus enrichment + reorganization)
+> **Repo size**: ~5.1 GB (4.5 GB of which are MRI DICOMs + audio voice notes tracked in git — see ⚠️ BINARY ASSETS below)
+> **Status**: Active research + 08-27 session analysis complete
 > **Naming coverage**: 100% (951/951 wa_messages, 267/267 VNT)
+> **Privacy**: PRIVATE repo, no MMPI-2 or IPIP-NEO data committed (gitignored)
+
+---
+
+## ⚠️ 2026-08-28 changes
+
+1. **`SESSIONS/2026-08-27/` restructured** — 19 analysis files moved into 4 logical subfolders (`01_speaker_id`, `02_psychology`, `03_therapy`, `04_clinical`); `00_session_raw/` kept empty by design (raw data lives in scratchpad, not repo)
+2. **Corpus enrichment** — 6 PSY files updated with 6-year corpus context; 3 new long-arc profile files added (`IVAN_LIFECYCLE_HISTORY.md`, `GABY_LONGITUDINAL.md`, `HOUSEHOLD_RELATIONAL_HISTORY.md`)
+3. **`inbox/` cleaned** — one file with banned-trademark content moved to `_review/` (pending content review before any merge)
+4. **`_review/` folder created** — sandbox for files flagged for safety/banlist review before commit
+
+## ⚠️ BINARY ASSETS — known large tracked files
+
+These files are tracked in git but should ideally be in git-LFS or excluded. They bloat the `.git/` directory significantly.
+
+| Asset | Count | Total size | Status |
+|---|---:|---:|---|
+| MRI DICOM files (`MEDICAL/MRI_2026-07-22_LUMBAR_PELVIS/scans/`) | 1,029 | ~2.5 GB | Tracked, should be LFS |
+| WhatsApp voice notes (`media/audio/`) | 15,193 | ~1.7 GB | Tracked, should be LFS |
+| `.git/objects/pack/` | — | 2.4 GB | Git history itself |
+
+**Recommendation:** Migrate to git-LFS in a future cleanup pass. Do NOT do this in the same commit as content changes — it's a destructive operation that rewrites git history.
 
 ---
 
@@ -14,9 +36,12 @@
 | New to this repo | [README.md](./README.md) |
 | Looking for a person | [RELATIONSHIPS/dynamics/](./RELATIONSHIPS/dynamics/) (252 profiles) |
 | Want dashboards | [SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html](./SOURCE_OF_TRUTH/wa_messages/_ANALYSIS/index.html) |
+| Looking for 08-27 session analysis | [SESSIONS/2026-08-27/INDEX.md](./SESSIONS/2026-08-27/INDEX.md) |
 | Looking for analysis | [docs/](./docs/) |
 | Want to understand structure | [docs/REPO_ROAST_AUDIT.md](./docs/REPO_ROAST_AUDIT.md) |
 | Latest cleanup details | [docs/CLEANUP_REPORT_2026-07-27.md](./docs/CLEANUP_REPORT_2026-07-27.md) |
+| **2026-08-28 enrichment details** | **This file** (above) |
+| Files flagged for review | [_review/](./_review/) |
 
 ---
 
@@ -56,6 +81,15 @@ psycology/
 │   └── FOR_PARTNERS.md
 │
 ├── ROLEPLAY_SESSIONS/                 # 4 therapy roleplay scripts
+
+├── SESSIONS/                          # ⭐ Voice-note session analyses
+│   └── 2026-08-27/                    # 19 files in 4 subfolders (see SESSIONS/2026-08-27/INDEX.md)
+│       ├── INDEX.md
+│       └── analysis/
+│           ├── 01_speaker_id/         # Speaker ID, mishears, absent chars
+│           ├── 02_psychology/         # 10 PSY + 3 long-arc profiles + index
+│           ├── 03_therapy/            # 5 THER plans
+│           └── 04_clinical/           # Per-speaker process + deepdive
 │
 ├── REPORTS/                           # Old reports
 │   ├── session_notes/
@@ -89,6 +123,8 @@ psycology/
 ├── config/                            # Static config (relationships, patterns)
 ├── tests/                             # Tests
 ├── logs/                              # Whisper process logs
+├── inbox/                             # Empty inbox (cleared 2026-08-28 — see _review/)
+├── _review/                           # Files flagged for safety/banlist review (added 2026-08-28)
 └── pyproject.toml, requirements.txt
 ```
 
