@@ -1,0 +1,509 @@
+{
+  "session_metadata": {
+    "source_file": "08-27-2026_20.31_spa.json",
+    "date_recorded": "2026-08-27 20:31",
+    "duration_seconds": 7277,
+    "duration_human": "2h 01m 17s",
+    "language": "spa",
+    "whisper_model": "large-v3",
+    "segment_count": 1201,
+    "analyzed_at": "2026-08-28T02:53:56.190714+00:00"
+  },
+  "cast": {
+    "in_room": [
+      {
+        "name": "Iván",
+        "speaker_labels": [
+          "Speaker 2",
+          "Speaker 6"
+        ],
+        "is_subject": true,
+        "fragments": "split by WhisperX during 365.9s silence gap",
+        "segment_count": 338,
+        "talk_time_seconds": 1598.9,
+        "talk_pct": 22.0
+      },
+      {
+        "name": "Gaby",
+        "speaker_labels": [
+          "Speaker 3",
+          "Speaker 4"
+        ],
+        "is_subject": true,
+        "fragments": "split by WhisperX",
+        "segment_count": 328,
+        "talk_time_seconds": 2518.6,
+        "talk_pct": 34.6
+      },
+      {
+        "name": "Lourdes (Youko Kurama)",
+        "speaker_labels": [
+          "Speaker 0"
+        ],
+        "is_subject": true,
+        "fragments": null,
+        "segment_count": 238,
+        "talk_time_seconds": 1117.7,
+        "talk_pct": 15.4
+      },
+      {
+        "name": "Ale Cabral",
+        "speaker_labels": [
+          "Speaker 1"
+        ],
+        "is_subject": true,
+        "fragments": null,
+        "segment_count": 186,
+        "talk_time_seconds": 723.4,
+        "talk_pct": 9.9
+      },
+      {
+        "name": "Kiki / Juki",
+        "speaker_labels": [
+          "Speaker 5"
+        ],
+        "is_subject": true,
+        "fragments": null,
+        "segment_count": 110,
+        "talk_time_seconds": 469.4,
+        "talk_pct": 6.4
+      }
+    ],
+    "subject_not_present": [
+      {
+        "name": "Cuqui",
+        "mentions": 31,
+        "role": "2nd Cuqui session subject"
+      }
+    ],
+    "confirmed_nonexistent": [
+      {
+        "name": "Gusy",
+        "actual": "\"como un huevón ahí\" Paraguayan slang",
+        "mentions": 1
+      }
+    ],
+    "noise": [
+      {
+        "speaker_label": "Speaker 7",
+        "segment_count": 1,
+        "tokens": 4,
+        "note": "ambient voice"
+      }
+    ]
+  },
+  "themes": [
+    {
+      "name": "the bed incident",
+      "severity": "high",
+      "first_mention_ts": 1616.0,
+      "last_mention_ts": 1696.0,
+      "speaker": "Gaby",
+      "resolved": false
+    },
+    {
+      "name": "autism late diagnosis",
+      "severity": "high",
+      "first_mention_ts": 6871.0,
+      "last_mention_ts": 6915.0,
+      "speaker": "Gaby",
+      "resolved": false
+    },
+    {
+      "name": "the TLP / BPD call",
+      "severity": "high",
+      "first_mention_ts": 4576.0,
+      "last_mention_ts": 4590.0,
+      "speaker": "Lourdes + Cuqui via Gaby",
+      "resolved": true
+    },
+    {
+      "name": "the orden de restricción prompt",
+      "severity": "high",
+      "first_mention_ts": 3353.0,
+      "last_mention_ts": 3353.0,
+      "speaker": "Lourdes",
+      "resolved": false
+    },
+    {
+      "name": "demasiado bueno / te digo sí a todo",
+      "severity": "high",
+      "first_mention_ts": 99.0,
+      "last_mention_ts": 3430.0,
+      "speaker": "Lourdes (and Kiki)",
+      "resolved": false
+    },
+    {
+      "name": "MRI / cancer scare",
+      "severity": "high",
+      "first_mention_ts": 785.0,
+      "last_mention_ts": 785.0,
+      "speaker": "Iván",
+      "resolved": false,
+      "note": "mentioned in passing, never processed"
+    },
+    {
+      "name": "the 50 brownies / effort asymmetry",
+      "severity": "medium",
+      "first_mention_ts": 1054.0,
+      "last_mention_ts": 5780.0,
+      "speaker": "Iván + Lourdes",
+      "resolved": false
+    },
+    {
+      "name": "I cannot fix anybody but myself",
+      "severity": "high",
+      "first_mention_ts": 3523.0,
+      "last_mention_ts": 3531.0,
+      "speaker": "Kiki",
+      "resolved": false,
+      "note": "Kiki self-disclosure"
+    },
+    {
+      "name": "A mí me dejaron afuera",
+      "severity": "medium",
+      "first_mention_ts": 3097.0,
+      "last_mention_ts": 3179.0,
+      "speaker": "Ale",
+      "resolved": false
+    },
+    {
+      "name": "Iván no puede decir que no",
+      "severity": "high",
+      "first_mention_ts": 1788.0,
+      "last_mention_ts": 1788.0,
+      "speaker": "Kiki",
+      "resolved": false
+    },
+    {
+      "name": "Dubai 2-year silence",
+      "severity": "medium",
+      "first_mention_ts": 6394.0,
+      "last_mention_ts": 6457.0,
+      "speaker": "Lourdes",
+      "resolved": true
+    },
+    {
+      "name": "the turtle / animal care",
+      "severity": "medium",
+      "first_mention_ts": 881.0,
+      "last_mention_ts": 3011.0,
+      "speaker": "multiple",
+      "resolved": false
+    },
+    {
+      "name": "como violín / como Gusy",
+      "severity": "medium",
+      "first_mention_ts": 1571.0,
+      "last_mention_ts": 1820.0,
+      "speaker": "Iván + Kiki",
+      "resolved": true
+    },
+    {
+      "name": "the 80 calls at 3am",
+      "severity": "high",
+      "first_mention_ts": 3226.0,
+      "last_mention_ts": 3308.0,
+      "speaker": "Ale",
+      "resolved": false,
+      "note": "safety issue"
+    },
+    {
+      "name": "Yeyo theory of neurodivergent clustering",
+      "severity": "low",
+      "first_mention_ts": 6937.0,
+      "last_mention_ts": 6937.0,
+      "speaker": "Lourdes",
+      "resolved": true
+    },
+    {
+      "name": "the trío / being included reluctantly",
+      "severity": "medium",
+      "first_mention_ts": 824.0,
+      "last_mention_ts": 1369.0,
+      "speaker": "Iván",
+      "resolved": false
+    },
+    {
+      "name": "Gaby drena energía accusation",
+      "severity": "high",
+      "first_mention_ts": 1399.0,
+      "last_mention_ts": 1399.0,
+      "speaker": "Gaby",
+      "resolved": false
+    },
+    {
+      "name": "Gaby mi mujer",
+      "severity": "medium",
+      "first_mention_ts": 3901.0,
+      "last_mention_ts": 3901.0,
+      "speaker": "Gaby",
+      "resolved": false
+    },
+    {
+      "name": "Petunio",
+      "severity": "low",
+      "first_mention_ts": 3451.0,
+      "last_mention_ts": 3652.0,
+      "speaker": "Kiki",
+      "resolved": false
+    },
+    {
+      "name": "Sofita",
+      "severity": "low",
+      "first_mention_ts": 6915.0,
+      "last_mention_ts": 6915.0,
+      "speaker": "Gaby",
+      "resolved": false,
+      "note": "cut off in transcript"
+    }
+  ],
+  "acts": [
+    {
+      "name": "Act 1 — The household fills up",
+      "start_ts": 0,
+      "end_ts": 1100,
+      "cast": [
+        "Iván",
+        "Lourdes",
+        "Ale"
+      ],
+      "focus": "Establishing household structure, who came in, who got excluded"
+    },
+    {
+      "name": "Act 2 — The bed incident and the diagnosis",
+      "start_ts": 1100,
+      "end_ts": 3500,
+      "cast": [
+        "Iván",
+        "Gaby",
+        "Kiki",
+        "Ale",
+        "Lourdes"
+      ],
+      "focus": "Bed incident disclosure, validation, TLP diagnosis, threat modeling"
+    },
+    {
+      "name": "Act 3 — The Kiki monologue and the boundary work",
+      "start_ts": 3500,
+      "end_ts": 5500,
+      "cast": [
+        "Iván",
+        "Gaby",
+        "Lourdes",
+        "Kiki"
+      ],
+      "focus": "Sibling intervention, \"Get your life together\", the protection speech"
+    },
+    {
+      "name": "Act 4 — The autism breakthrough and the close",
+      "start_ts": 5500,
+      "end_ts": 7277,
+      "cast": [
+        "Iván",
+        "Gaby",
+        "Lourdes",
+        "Kiki"
+      ],
+      "focus": "Autism disclosure, Dubai parallel, closing"
+    }
+  ],
+  "mishears": [
+    {
+      "heard": "Evan",
+      "correct": "Iván",
+      "count": 6,
+      "type": "name_hallucination",
+      "confidence": "certain"
+    },
+    {
+      "heard": "Gusy",
+      "correct": "\"como un huevón ahí\"",
+      "count": 1,
+      "type": "name_hallucination",
+      "confidence": "confirmed_nonexistent"
+    },
+    {
+      "heard": "Juki/Kuki",
+      "correct": "Kiki",
+      "count": 16,
+      "type": "name_spelling_variant",
+      "confidence": "certain"
+    },
+    {
+      "heard": "Lúa",
+      "correct": "Lua",
+      "count": 9,
+      "type": "accent_variant",
+      "confidence": "certain"
+    },
+    {
+      "heard": "ent11s",
+      "correct": "entonces",
+      "count": 12,
+      "type": "number_substituted_word",
+      "confidence": "certain"
+    },
+    {
+      "heard": "ha100do",
+      "correct": "haciendo",
+      "count": 3,
+      "type": "number_substituted_word",
+      "confidence": "certain"
+    },
+    {
+      "heard": "di100do",
+      "correct": "diciendo",
+      "count": 2,
+      "type": "number_substituted_word",
+      "confidence": "certain"
+    },
+    {
+      "heard": "cons10te",
+      "correct": "constante",
+      "count": 1,
+      "type": "number_substituted_word",
+      "confidence": "certain"
+    },
+    {
+      "heard": "gotísimo",
+      "correct": "ni gota",
+      "count": 1,
+      "type": "slang_misheard_as_english",
+      "confidence": "certain"
+    },
+    {
+      "heard": "alcoholé",
+      "correct": "alcohólico",
+      "count": 1,
+      "type": "slang_misheard_as_english",
+      "confidence": "certain"
+    }
+  ],
+  "absent_characters": [
+    {
+      "name": "Nate",
+      "mentions": 34,
+      "role": "Iván primary partner"
+    },
+    {
+      "name": "Belén",
+      "mentions": 33,
+      "role": "Nate's friend, lived in household, abusive family"
+    },
+    {
+      "name": "Nico",
+      "mentions": 14,
+      "role": "Lua's boyfriend"
+    },
+    {
+      "name": "Fer",
+      "mentions": 12,
+      "role": "supportive friend"
+    },
+    {
+      "name": "Lua pelinegro (Negro)",
+      "mentions": 4,
+      "role": "transfem, BDSM origin"
+    },
+    {
+      "name": "Lua rubia (Inés)",
+      "mentions": 2,
+      "role": "other Lua, tattoos/guitar"
+    },
+    {
+      "name": "Luba",
+      "mentions": 3,
+      "role": "host of excluding gathering"
+    },
+    {
+      "name": "Daya",
+      "mentions": 3,
+      "role": "attendee"
+    },
+    {
+      "name": "Mike",
+      "mentions": 2,
+      "role": "attendee"
+    },
+    {
+      "name": "Laura",
+      "mentions": 2,
+      "role": "referenced"
+    },
+    {
+      "name": "Yeyo",
+      "mentions": 1,
+      "role": "theorist"
+    },
+    {
+      "name": "Maite",
+      "mentions": 1,
+      "role": "Cuqui's trusted source"
+    },
+    {
+      "name": "Manuel",
+      "mentions": 1,
+      "role": "disputed Cuqui's TLP"
+    },
+    {
+      "name": "Fran",
+      "mentions": 1,
+      "role": "Sunday merienda"
+    },
+    {
+      "name": "KPE / Pedro",
+      "mentions": 1,
+      "role": "live streamer"
+    },
+    {
+      "name": "Petunio",
+      "mentions": 1,
+      "role": "Kiki's companion"
+    },
+    {
+      "name": "Samuel",
+      "mentions": 1,
+      "role": "turtle caretaker"
+    },
+    {
+      "name": "Sofita",
+      "mentions": 1,
+      "role": "named Gaby autism"
+    },
+    {
+      "name": "la mina",
+      "mentions": 40,
+      "role": "the assailant, TLP, breaking into houses"
+    }
+  ],
+  "next_session_agenda": [
+    "Did Gaby file the orden de restricción?",
+    "What is Gaby's relationship with her partner ('mi mujer') about this?",
+    "How does the autism diagnosis re-narrate Gaby's life?",
+    "Did Iván follow up on the MRI / cancer scare?",
+    "How does Ale's 'left out' pattern get processed?",
+    "What is Petunio to Kiki?",
+    "The 'I cannot fix anybody but myself' pattern extended to Iván",
+    "Cuqui's third session",
+    "The assailant's location and safety"
+  ],
+  "deepest_wound": {
+    "name": "demasiado bueno / te digo sí a todo",
+    "shared_across": [
+      "Iván",
+      "Gaby",
+      "Ale",
+      "Kiki",
+      "Lourdes"
+    ],
+    "evidence": [
+      "Iván: the host who provides but is not included",
+      "Gaby: the caregiver who drains energy",
+      "Ale: the co-resident who is left out of conversations",
+      "Kiki: the sister who tries to fix everyone",
+      "Lourdes: the friend who set a limit and lost 2 years"
+    ],
+    "session_status": "named in every act, never directly addressed as shared wound"
+  }
+}
