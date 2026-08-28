@@ -42,6 +42,7 @@ These files are tracked in git but should ideally be in git-LFS or excluded. The
 | Latest cleanup details | [docs/CLEANUP_REPORT_2026-07-27.md](./docs/CLEANUP_REPORT_2026-07-27.md) |
 | **2026-08-28 enrichment details** | **This file** (above) |
 | Files flagged for review | [_review/](./_review/) |
+| Drafts pending Iván review | [_drafts/](./_drafts/) |
 
 ---
 
@@ -125,6 +126,7 @@ psycology/
 ├── logs/                              # Whisper process logs
 ├── inbox/                             # Empty inbox (cleared 2026-08-28 — see _review/)
 ├── _review/                           # Files flagged for safety/banlist review (added 2026-08-28)
+├── _drafts/                           # Pending message drafts (added 2026-08-28 — not sent)
 └── pyproject.toml, requirements.txt
 ```
 
