@@ -11,6 +11,8 @@
 ```
 SESSIONS/2026-08-27/
 ├── INDEX.md                          (this file)
+├── SESSION_2026-08-27_RECAP_FOR_IVAN.md          Two-sided timeline (private, for Iván + psychologist)
+├── SESSION_2026-08-27_FELT_EXPERIENCE.md        Inner-experience reconstruction (framework + prompts, Iván fills in)
 └── analysis/
     ├── 00_session_raw/               (empty — raw data lives in scratchpad, not repo)
     ├── 01_speaker_id/                Speaker identification, mishears, absent characters
