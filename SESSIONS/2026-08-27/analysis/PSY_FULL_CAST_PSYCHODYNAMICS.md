@@ -11,6 +11,93 @@
 - **Cuqui** = absent subject, 2nd Cuqui session
 
 **Source:** `08-27-2026_20.31_spa.json`
+**Enriched:** 2026-08-28 with corpus-wide context from `TREATMENT/` + `PSYCHOLOGICAL_ANALYSIS_20HATS.md` + `docs/GABY_ANALYSIS_2026-08-22.md` (5,597 voice notes, 235K messages, 6+ years of data).
+
+---
+
+## Historical context — what's behind the 2026-08-27 snapshot
+
+**The 08-27 session is one moment in a much longer relational history.** Each speaker in this room has a documented multi-year relationship with Iván in the corpus. The snapshot below draws on TREATMENT files (Jan 2026, July 2026, Aug 2026), 20hats analysis (Jul 2026), and the Gaby deep analysis (Aug 2026).
+
+### Corpus-wide context for each speaker
+
+**Iván — the hub, ~6 years of voice-note history**
+- 5,597 voice notes analyzed, 22 questionnaire sections, 951 chats (100% named as of 2026-07-27)
+- 235,404 messages across 216 named contacts (data scope for 20hats analysis)
+- 20,733 voice notes in 2025 alone (avg 27/day)
+- Two named defense organizations in clinical files: **The Fixer** (compulsive service-giving), **The Mask** (intellectualization + chill-guy presentation), **The Firewall** (family compartmentalization), **Permission Structures** (cannot access vulnerability without external validation)
+- Two named self-systems: **The Engineer** (competent/productive) and **Brahm** (soft/needy — "I want to belong without earning it")
+- Origin wound: **"pesado"** (heavy/burdensome) labeling from age 2+, family-wide rejection of natural emotional needs
+- Sibling position: middle child between **Kyrian** (= Kiki, the elder sister in this room) and **Gonzalo**
+- Father: John Weiss, "Do Not Disturb" — minimal emotional engagement
+- Mother: Sonia Weiss, "Unpredictable Manager" — high variance
+- HIV-positive since disclosure, kink identity, depression — all hidden from family (the Firewall)
+- Therapist: Lalla (2x monthly, online)
+- 2026 anchor shift: from sequential main-friend pattern (2021-2025) to **concurrent anchors** (Fran/Gaby/Thais/Lucia/Somosgay/Cloud_Nyx)
+- **Kink era 2026**: 4 concurrent intimate partners (Gaby/Nico/Thais/Sarah)
+- Most recent breakthrough (Jan 2026): proactive HIV disclosure, explicit consent communication, reciprocal relationship dynamics
+- **The 08-27 "I cannot say no" pattern is the operational expression of The Fixer** — what shows up in voice-note practice as service-compulsion shows up in the household as saying yes to Cuqui
+
+**Ale (Alejandro Cabral) — 6 years of co-residency, low relational depth**
+- 23,000 messages, 2,121 days span (longest of any current contact except Mom)
+- **Velocity: 20.0 msgs/active day** — far below corpus median (17.7 is median, but Ale is well below his tier)
+- **Ivan initiates 52% / breaks silence 51%** — Ale is the "maintained" relationship (Ivan does the work)
+- **Affection: 1.3 / Distress: 1.9 / Boundary: 0.8** per 1,000 — the lowest emotional density in Iván's tier1 contacts
+- Late-night: 20.8% (above corpus median but well below Laura/Magali)
+- **Reading:** Ale is a **structural companion, not a primary intimate.** The 6-year co-residency is a friendship of physical proximity, not emotional investment. This matches the 08-27 read: peripheral observer, accepts being left out.
+- **The "me dejaron afuera" pattern is structural** — Ale has been at the periphery of Iván's intimate circle for 6 years, by mutual agreement (Ivan doesn't invest emotionally, Ale doesn't push)
+
+**Kiki (Kyrian / "Kiki") — 7 years of stable sister relationship**
+- 7,838 messages, 2,108 days span, **7-year stable sister relationship**
+- **Velocity: 11.8 msgs/day** (low) — quality over quantity
+- Ivan initiates 39% / breaks silence 40% — **balanced** (one of only 12 chats in corpus where Ivan is reciprocal)
+- Affection: 2.3 / Distress: 5.7 / Boundary: 1.1 — **modest emotional density** for a sibling
+- Late-night: 17.9%
+- **Reading:** Kiki is the **compartmentalized closest-family contact.** Per TREATMENT files: "Kyrian closest but still compartmentalized" — she's the family member Iván is most able to be authentic with, but not fully authentic. The 08-27 session is one of the few contexts where she speaks in full clinical precision — that is **new** register for her in the corpus.
+- **Sibling position confirms:** middle child between Kyrian (Kiki) and Gonzalo. Kiki is the **elder sister archetype** — she's done more work, she sees more clearly, she has the intervention permission.
+
+**Gaby (Dra. Gabriella González Pane) — 53 days of outlier intensity, 6-year "pursued" pattern**
+- **94th-98th percentile** on every emotional axis (see Gaby deep analysis)
+- 5,985 messages in **53 days** — 146 msgs/active day, **8× corpus median**
+- Ivan is the **pursued** party (he opens only 29% of days; she opens 70.7%)
+- Gaby escalates on **distress (22.3 → 30.1 per 1k), affection (21.3 → 59.3 per 1k), boundary-setting (7.1 → 18.4 per 1k)** between first and second half of window
+- **Care-reciprocity:** both refuse to receive care — but Gaby names it explicitly (*"aprende a recibir"*, *"si no te dejas cuidar no dejo que me cuides tampoco. deal!"*)
+- **The boundary that didn't hold:** On 2026-06-19 she set strategic terms ("no necesito motivación ni apoyo emocional"). By mid-July she wanted cuddles. The transition was never renegotiated explicitly — Iván kept executing the June instruction.
+- **The attunement failure (2026-07-23):** distress → joke → friendship-expansion plan, in 4 minutes. Canonical example of The Fixer activating.
+- **Third-party pressure from Sonia:** *sonia me dijo eso.. vos tenes que cogerle* — Gaby's mom is in the loop, pushing for sex.
+- **The business was the door:** Ometz Dental collapsed from 9.6% → 0.5% of traffic at peak volume. The dental clinic was the engagement's original purpose; became the least-discussed topic when Gaby was most stressed about it.
+- **Ometz Dental = Rubén Rubin + Ivan's 3D consulting** (Gaby's brother) — they were the actual stakeholders. Gaby is the patient-facing owner. The clinic launch was the **door that converted to a different room.**
+- **Reading:** Gaby is the **2026 anchor partner who broke through the Firewall in 53 days.** The 08-27 session is the household version of the same dynamic: she shows up at the hospital, takes the 80 calls, runs the household — **she is the pursued caretaker, and the relationship has converted from business to caregiving to something else.**
+
+**Lourdes (Youko Kurama) — 1,502 days, 594-day reunion gap**
+- 16,905 messages, 1,502 days span
+- **Velocity: 35.6 msgs/day** (above median, below Gaby)
+- Ivan initiates 50% / breaks silence 47% — **balanced** (Ivan's natural mode with peers)
+- Affection: 9.6 / Distress: 15.1 / Boundary: 3.3
+- Late-night: 26.8% (high)
+- **Lourdes reunion: 594d gap ended by Ivan outreach (historical)** — per SESSION_CHEAT_SHEET
+- **Mood Δ -0.18** — Lourdes' recent mood has cooled (per 20hats analysis, July 2026)
+- **Reading:** Lourdes is the **friend Ivan had to win back from 594 days of silence.** That reunion cost was real. The 08-27 session — where she's back in the room, holding clinical precision, calling the diagnostic frame — is **the cost-of-clarity position**. The 2-year exile wasn't avoidance; it was **the price of seeing clearly**. Now she's back, and the cost continues.
+- **The dual role (friend + Cuqui's therapist) is structurally new** — it post-dates the 08-27 voice-note data scope for Lourdes' contact (her chat history with Ivan doesn't include the clinical content). Lourdes may have taken on Cuqui after re-engagement.
+
+**Cuqui — absent from corpus, present only through third-party references**
+- No tier1 chat with Cuqui exists
+- Mentioned in: Gaby's chat (heavy distress references), Lourdes' chat (clinical references), household groups
+- TLP self-label per Lourdes; **disputed by Manuel (Cuqui's friend)** — both Cuqui and Lourdes have separately raised TLP as a possibility about Belén, not as a diagnosis
+- Aldea SOS background, abuse history — referenced by Lourdes
+- Daughter exists — welfare unclear
+
+### What this means for the 08-27 reading
+
+The 08-27 session is **not a snapshot of these relationships — it is a continuation.** Each pattern visible in the session has years of history behind it:
+
+1. **Iván's "no puedo decir que no" = The Fixer + Permission Structures, operational** — what shows in voice-note practice as service-compulsion shows in the household as saying yes to Cuqui
+2. **Gaby's "demasiado dulce" = the pursued caretaker pattern + care-reciprocity asymmetry, amplified** — she has escalated on every emotional axis with Iván in 53 days; the household is the next level
+3. **Kiki's "I cannot fix anyone" = the elder sister who has done her compartmentalized work** — the closest-family relationship that survives by being partially open
+4. **Ale's "me dejaron afuera" = 6 years of peripheral acceptance** — structural, not new
+5. **Lourdes' clinical precision = the cost-of-clarity position** — what she bought with 2 years of exile is what she's using in the room
+
+The session works **because** these patterns are familiar. The room **knows** each other. The danger is that the patterns are **also the wounds.**
 
 ---
 

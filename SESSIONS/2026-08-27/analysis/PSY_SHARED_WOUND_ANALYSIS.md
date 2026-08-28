@@ -23,6 +23,78 @@
 - Says yes to Gaby's care needs, Lourdes' calls, Ale's reports
 - **Cost:** exhaustion, deferred grief, deferred origin work
 
+**Enriched:** 2026-08-28 — the "demasiado bueno" pattern has a **named origin** in Ivan's case (the "pesado" wound, TREATMENT/CASE_CONCEPTUALIZATION §1.2). The pattern in the room is **not new** — it is the household expression of a developmental defense organization that runs across Ivan's whole relational life.
+
+---
+
+## The "pesado" origin — Ivan's specific developmental wound
+
+**Source:** `TREATMENT/CASE_CONCEPTUALIZATION.md` §1.2
+
+**What happened:** Age 2+, Ivan's natural emotional exuberance (loud, intense, needy) met with family-wide rejection labeling. He was called **"inchabola"** (ball-buster/annoying) and **"pesado"** (heavy/burdensome) as persistent descriptors. The whole family used these labels.
+
+**Internalized message:** *"My natural emotional needs make me burdensome. To belong, I must suppress needs and provide value."*
+
+**Behavioral adaptation:** Compulsive service-giving (The Fixer) as earning strategy.
+
+**Why it generalizes to the room:** The room is **full of people** Ivan has said yes to. Every yes is the pesado defense operating:
+- Yes to Gaby (the pursued caretaker, 80 calls, hospital arrival)
+- Yes to Cuqui (the absent subject who broke in, who calls 80 times)
+- Yes to Lourdes (the friend who became Cuqui's therapist, the dual role)
+- Yes to Ale (the co-resident he lets leave at 55 min)
+- Yes to Kiki (the sister he lets call him out — but this yes is **earned**, not pesado, because Kiki is the only one withstanding the pattern)
+
+**The "demasiado bueno" pattern is the household expression of the "pesado" defense.** Same defense, different scale.
+
+---
+
+## The pattern in the corpus — same wound, different magnitudes
+
+The "demasiado bueno" pattern is not unique to this session. It shows up across Ivan's relational life:
+
+- **With Gaby (53d):** Attunement failure (2026-07-23) — distress converted to solvable scope in 4 minutes
+- **With Ale (6y):** 23,000 messages, Ivan initiates 52%, breaks silence 51% — Ivan does the maintenance work for a relationship Ale has accepted at the periphery
+- **With Lourdes (4y reunion):** 594-day gap ended by Ivan outreach — Ivan pursued the reunion
+- **With Mom (7y):** 11,305 messages, balanced 50.3% but low affection density — Ivan maintains without intimacy
+- **With abandoned contacts (149):** No closure, the pattern extends to **relationships he can't fully release**
+- **In the AIW org (2026):** 33 repos, 7 cron agents, 6-department model — **the Fixer operating at organizational scale**
+
+**The 08-27 session is the same pattern at the household level.** Every yes Iván gave in that 2-hour conversation is the pesado defense operating. The Fixer makes it impossible to refuse — and the cost is exhaustion.
+
+---
+
+## What the room is actually carrying
+
+The "demasiado bueno" / "pesado" wound shows up **differently in each person**, but it's the same wound:
+
+| Speaker | Version | Direction | Operational cost |
+|---|---|---|---|
+| Iván | The host who cannot say no | Giving up self | Exhaustion, deferred grief |
+| Gaby | The pursued caretaker who gives too much | Giving to be loved | Self-blame (father's death), care-refusal asymmetry |
+| Kiki | "I cannot fix anybody but myself" | Reacted (stopped giving) | Isolation, code-switching cost |
+| Ale | "Me dejaron afuera" | Accepting exclusion | Low investment, structural peripheral |
+| Lourdes | 2-year exile | Cost-of-clarity | Mood cooling Δ-0.18, dual-role exposure |
+| Cuqui (absent) | 80 calls, breaking into houses | Giving to control | TLP self-label, assault pattern |
+
+**The shared wound is: the cost of being needed, wanted, included.** Everyone in the room has paid that cost. The session works because the cost is **distributed** — but distributed cost is still cost. The hub (Iván) absorbs the most.
+
+---
+
+## Therapeutic leverage
+
+**The pattern can be interrupted by:**
+- **Explicit "no"** — Kiki is the only one in the room who can deliver this safely (sibling permission)
+- **Permission structures** — the kink-era scaffolding provides external validation for vulnerability; same mechanism could work for limit-setting
+- **Reciprocal care** — Gaby names it ("aprende a recibir"); the contract is on the table
+- **The Engineer's pause** — when Ivan catches himself saying yes, he can use the analytical mind to override the defense
+
+**The pattern is reinforced by:**
+- **The household exhaustion** that makes saying yes the path of least resistance
+- **The polycule as compensation** — the chosen family is real, but it can't be built only on yeses
+- **The Fixer reward loop** — occasional appreciation ("such a good boy!") reinforces the compulsive service
+
+---
+
 ### Ale — **The co-resident who accepts being left out**
 - "Me dejaron afuera" (himself, +3097s)
 - Spelled "polycule" so the group had vocabulary

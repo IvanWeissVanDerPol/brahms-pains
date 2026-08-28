@@ -4,6 +4,138 @@
 
 **Note:** This is **observed-behavior mapping**, not diagnosis. Defenses are normal; it's the **flexibility and context-sensitivity** that matters.
 
+**Enriched:** 2026-08-28 with TREATMENT/CASE_CONCEPTUALIZATION.md (Jan 2026 named defense organizations: The Fixer, The Mask, The Firewall, Permission Structures) + corpus-wide behavioral evidence
+
+---
+
+## Ivan's named defense organizations (clinical summary, Jan 2026)
+
+**Source:** `TREATMENT/CASE_CONCEPTUALIZATION.md` §2 — these are the four named defense organizations documented by the prior psychologist. The 08-27 session shows each one **in active operation.**
+
+### The Fixer (primary defense, immature-mature mix)
+
+**Function:** Prevents abandonment through indispensability.
+
+**Mechanism:**
+- Compulsive cooking, cleaning, helping across ALL relationships
+- Immediate service response to any perceived need
+- Over-functioning in emotional labor
+- Creates one-sided relationships (giver-only)
+
+**Behavioral examples from corpus:**
+- 23,000 messages with Ale (6 years of co-residency): Ivan initiates 52%, breaks silence 51% — **Ivan does the maintenance work**
+- 11,305 messages with Mom Sonia (7 years): balanced 50.3% — but the affection density is 2.0 per 1k (low) and care offered 1.7 per 1k
+- **The 08-27 "no puedo decir que no" pattern** is The Fixer operating at the household level: Iván says yes to Cuqui's 80 calls, to Gaby's hospital arrival, to Lourdes' dual role, to Kiki's intervention, to Ale's exit — **the Fixer makes it impossible to refuse**
+
+**Cost:**
+- Exhaustion and burnout
+- Resentment accumulation
+- Blocks receiving (can't be helped)
+- No authentic intimacy (transactional only)
+
+**Evolution (Jan 2026):** Modified into bounded health advocacy (Sarah HIV help). Channeling into specific, time-limited support. Less depleting than emotional labor.
+
+### The Mask (secondary defense, neurotic)
+
+**Function:** Prevents vulnerability exposure.
+
+**Mechanism:**
+- "Chill guy" presentation
+- Intellectualization over feeling
+- Humor deflection
+- "I'm fine" automatic response
+- Minimization of struggle
+
+**Behavioral examples from corpus:**
+- "Sorry si soy muy IA en todo" (per 20hats analysis) — self-aware apology for AI-substituted processing
+- 20,733 voice notes in 2025 alone — **voice notes as verbal processing = intellectualization operationalized**
+- 23:00-02:00 voice-note peak — **night-time rumination regulation through the Mask**
+- **The 08-27 cancer scare** at +785s, dropped as an aside, no affect = The Mask is total
+
+**Cost:**
+- Loneliness persists despite connection
+- No one sees struggle until crisis
+- Shallow relationships (surface only)
+- Internal isolation (even with others present)
+
+**Clinical Marker:** "I'm fine" + flat affect = Mask is total. Requires gentle challenge: "Brahm might disagree."
+
+### The Firewall (family-specific defense, immature)
+
+**Function:** Protects from family judgment; protects family from his truth.
+
+**Mechanism:**
+- Complete compartmentalization
+- No overlap between family self and authentic self
+- HIV status: Hidden from all family (until Jan 2026 breakthrough)
+- Kink identity: Hidden from all family
+- Depression/anxiety: Minimized to family
+
+**Behavioral examples from corpus:**
+- Dad (1,864 messages, 7 years): **0% affection, 0% distress, 0% boundary content** — the Firewall is total with father
+- Mom (11,305 messages, 7 years): **2.0 affection per 1k** — the Firewall operates through warmth + non-disclosure
+- **The 08-27 session doesn't touch the origin family** — The Firewall is on
+
+**Cost:**
+- No authentic family relationships
+- Chronic hiding exhausting
+- No family support system
+- Potential breach risk (HIV medication, etc.)
+
+**Breakthrough (Jan 2026):** Proactive HIV disclosure — first time the Firewall was deliberately opened for a primary partner.
+
+### Permission Structures (adaptive strategy, mature-with-cost)
+
+**Function:** Allows Brahm (authentic self) access through external validation.
+
+**Mechanism:**
+- Explicit verbal permission required
+- "uwu" language as linguistic softening
+- D/s dynamics as structured permission container
+- External noticing ("You seem off") for self-awareness
+
+**Examples:**
+- "Can I has cuddles?" (not "Can I have cuddles?")
+- "Is it okay if I'm annoying?"
+- "Would it be weird if..."
+- Scene negotiations as permission frameworks
+
+**Behavioral examples from corpus:**
+- 2026 kink era: 4 concurrent intimate partners (Gaby/Nico/Thais/Sarah) — **Permission Structures operationalized through D/s**
+- The Gaby chat: explicit consent communication, scene negotiations, "uwu" register dominant in low-stress moments
+- **The 08-27 Kiki intervention** at +1788s = sister-as-permission-giver for Iván's vulnerability access
+
+**Cost:**
+- Cannot access vulnerability without scaffolding
+- Dependency on others' assertiveness
+- Limits Brahm to specific contexts (kink)
+- "I cannot initiate; I can only respond"
+
+**Therapeutic Leverage:**
+- Mirrors successful kink permission structures
+- Can model explicit permission in therapy
+- Gradual weaning possible (internal permission generation)
+
+### Dual-self model — Engineer vs. Brahm
+
+**Source:** `TREATMENT/CASE_CONCEPTUALIZATION.md` §3
+
+**System A: "The Engineer"**
+- Analytical, competent, logical
+- Productive, problem-solving, capable
+- Guarded, controlled, managed
+- "Be useful" as core directive
+- **08-27 manifestation:** Iván chairs the conversation, asks diagnostic questions, frames the polycule, translates emotional language to clinical language
+
+**System B: "Brahm"**
+- Soft, needy, vulnerable
+- Authentic emotional expression
+- Wants to belong without earning it
+- Cannot exist without permission structures
+- **08-27 manifestation:** The cancer scare (dropped, not processed); the household exhaustion (acknowledged but not felt); the grief about Ale being left out (named but not held)
+
+**The therapeutic target:** Integration. Not choosing Engineer or Brahm, but learning to hold both in the same room.
+
 ---
 
 ## Vaillant's hierarchy (for reference)

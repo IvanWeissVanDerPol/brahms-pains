@@ -24,6 +24,170 @@
 | Belén | "Su papá es abusivo" — referenced by Iván re: tortugas | Mourning (third-party) | 🟠 Medium |
 | Belén | TLP possibility raised by Cuqui and Lourdes (not a diagnosis) | N/A | 🟡 Speculative |
 
+**Enriched:** 2026-08-28 with TREATMENT + GABY_ANALYSIS_2026-08-22 + corpus-wide context. The Gaby trauma narrative has **major new material** from the Gaby deep analysis. Ivan's trauma narrative has the named **"pesado" wound** from clinical files.
+
+---
+
+## Ivan's trauma map (corpus-enriched)
+
+**Source:** `TREATMENT/CASE_CONCEPTUALIZATION.md` §1-3 + 20hats analysis + 08-27 session
+
+### Developmental trauma (chronic, structural)
+
+- **"Pesado" labeling at age 2+** — family-wide rejection of natural emotional exuberance (loud, intense, needy)
+- **Emotionally unavailable father** ("Do Not Disturb")
+- **Unpredictable mother** (high variance between warmth and criticism)
+- **No consistent secure base** for emotional needs
+- **Touch starvation** (physical affection withdrawn as consequence of "inchabola" labeling)
+- **Achievement valued over emotional expression**
+
+**Developmental trauma features (Herman's complex trauma criteria):**
+- Age-inappropriate emotional self-sufficiency
+- Parentified role ("good helper" identity)
+- Insecure attachment with anxious-avoidant features
+- Alexithymia (difficulty identifying internal states)
+
+### Acute + chronic trauma (adult, ongoing)
+
+- **Voice-note practice as rumination regulation** — 20,733 in 2025 (avg 27/day), peak 23:00-02:00
+- **Hyperarousal** (night-time voice-note practice) + **hypoarousal** (bored, free time) — classic nervous-system dysregulation
+- **149 dormant contacts** (>180d, no closure) = avoidance of relational closure = freeze response
+- **Abandoned relationships** (per HAT 31 grief): Joaquina_Ex (1193d), Eros_Dios_Del_Sexo (1135d, 51% late-night active rumination), 3 Poli-family contacts abandoned, Prima_Mikaela (1000d)
+- **HIV diagnosis** — disclosure managed through The Firewall until Jan 2026 breakthrough
+
+### Trauma surface in 08-27
+
+- **Cancer scare** (+785s, dropped without processing) = The Mask + isolation of affect, real-time
+- **MRI** (separate session, lumbar MRI 2026-07-22) = medical surveillance anxiety
+- **"Demasiado bueno" / "no puede decir que no"** — origin pattern, surfaced but not held
+- **Household exhaustion** (named but not felt) — the cost of The Fixer operating at scale
+
+---
+
+## Gaby's trauma map (corpus-enriched)
+
+**Source:** `docs/GABY_ANALYSIS_2026-08-22.md` + 08-27 session
+
+### Childhood/early trauma (chronic, structural)
+
+- **Lifelong caregiving** — "viví toda mi vida cuidándola a mi abuela, a mi hermana, a mi papá, a todo el mundo" (+4385s in session)
+- **Parentified child** — RCP-trained, chose a profession that lets her save people
+- **Family structure** — grandmother, sister, father all in her care
+
+### Acute trauma (single-event, catastrophic)
+
+- **Father died in her arms** (+6813s in session, named with graphic detail) — **driving, sudden, no warning**
+- **Blamed herself for years** — "profesional de blanco, yo sé hacer RCP" — the profession is also the wound
+- **Sonia (mother) complicating** — *sonia me dijo eso.. vos tenes que cogerle* (per Gaby deep analysis) — Gaby's own mother pushes for sex within weeks of the trauma anniversary
+
+### New trauma surface (08-27 + Gaby deep analysis)
+
+- **Late-autism disclosure** (cut off in 08-27 session, not yet named) — newly surfaced identity material
+- **Boundary that didn't hold** (June 19 → mid-July) — strategic instruction never renegotiated, Iván kept executing the June terms while she wanted cuddles
+- **Attunement failure (2026-07-23, timestamped):** distress → joke → friendship-expansion plan in 4 minutes. *Canonical example of The Fixer activating.*
+
+### Trauma surface in 08-27
+
+- Father death named with graphic detail
+- "Demasiado dulce" — same wound as Iván, opposite direction (over-giving vs. cannot-receive)
+- Hospital arrival = care-taking as identity
+- 80 calls at 3am as caregiver, not as friend
+
+### Care-reciprocity asymmetry (corpus-confirmed)
+
+- **Both Gaby and Iván refuse to receive care** — symmetrical pattern
+- **Only Gaby names it explicitly:** *"aprende a recibir"*, *"si no te dejas cuidar no dejo que me cuides tampoco. deal!"*, *"puta ivan.. aprende a recibir.. te quiero garrotear y hablo en serio."*
+- **Gaby proposes the contract** — she is the only one in the dyad who can name the pattern
+- **The 08-27 session is the household-level manifestation:** Gaby shows up at the hospital, takes the 80 calls, runs the household — **the pursued caretaker pattern** at scale
+
+---
+
+## Kiki's trauma map (corpus-enriched)
+
+**Source:** TREATMENT (sibling position) + 08-27 session
+
+### Developmental trauma
+
+- **Elder sister role** — parentified (similar to Gaby but different direction: she had to manage Iván, not a parent)
+- **Compartmentalization** — closest family but still compartmentalized (per TREATMENT)
+
+### Trauma surface in 08-27
+
+- **"I cannot fix anybody but myself"** (+3523s) — the wisdom of an elder sister who has done the work
+- **"Petunio"** — unresolved reference (private symbolic figure?)
+- **The intervention cost** — Kiki is the only one with permission to call Iván out, and the cost of that role is doing it alone
+- **Bicultural home** — Argentine professional register + Paraguayan sister register (code-switching)
+
+---
+
+## Lourdes' trauma map (corpus-enriched)
+
+**Source:** SESSION_CHEAT_SHEET (594d reunion gap) + 20hats analysis (mood Δ-0.18) + 08-27 session
+
+### Historical trauma
+
+- **594-day reunion gap ended by Ivan outreach** — Lourdes was absent for ~1.6 years before Ivan re-engaged
+- **The 2-year Dubai exile** referenced in 08-27 — cost-of-clarity position
+
+### Trauma surface in 08-27
+
+- **Dual role** (friend + Cuqui's therapist) — clinically and ethically exposed
+- **The cost of seeing clearly** — Lourdes paid for her clinical precision with 2 years of exile; now she's back, and the cost continues
+- **Mood cooling Δ-0.18** — Lourdes' recent mood has cooled (per 20hats, July 2026)
+
+---
+
+## Ale's trauma map (corpus-enriched)
+
+**Source:** 6-year co-residency data + 08-27 session
+
+### Chronic pattern
+
+- **6 years at the periphery** — Ivan initiates 52%, Ale initiates low; emotional density 1.3/1.9/0.8 (lowest in tier1)
+- **Acceptance of being left out** — structural, not new
+- **"Me dejaron afuera" pattern** — chronic, the symptom is leaving at 55min in 08-27
+
+### Acute exposure (08-27)
+
+- **The 80 calls at 3am reporting** — Ale is functional vigilance for Cuqui
+- **Being left out of Cuqui-exit decision** — the household decision was made without him
+- **Leaving at 55 min** — could be self-removal before being told to leave
+
+---
+
+## Cuqui's trauma map (corpus + session enriched)
+
+**Source:** Lourdes' clinical references + Gaby's distress references + 08-27 session
+
+### Confirmed
+
+- **Aldea SOS background** — institutional care history
+- **Abuse history** — referenced by Lourdes
+- **Bed incident** — boundary violation with/by Cuqui
+- **80 calls at 3am + breaking into houses** — acute assault pattern
+- **TLP self-label** — disputed by Manuel (Cuqui's friend), affirmed by Lourdes (therapist)
+- **Daughter** — child welfare implication, unaddressed
+
+### Uncertain
+
+- **TLP label** — raised as possibility, not diagnosis. Both Cuqui and Lourdes have separately raised TLP as a thought about Belén, not as a diagnosis
+- **Father's involvement** — unknown
+- **Pre-Aldea history** — unknown
+
+---
+
+## Belen (third-party, brief)
+
+**Source:** Session references + user clarification (2026-08-28)
+
+- **Abusive father** (turtle-killing household) — referenced by Iván
+- **TLP possibility** — raised by both Cuqui AND Lourdes as a thought, not as a diagnosis (per Iván's correction 2026-08-28)
+- **Friend of Nate, lived in the household**
+- **The 2a sesión** — supposed to be Cuqui + Belen
+
+---
+
+## Trauma inventory (updated, post-enrichment)
 ---
 
 ## Gaby's trauma — **Highest priority**

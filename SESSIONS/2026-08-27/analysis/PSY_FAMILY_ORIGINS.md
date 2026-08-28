@@ -11,6 +11,62 @@
 
 This file maps the **observable family-of-origin material** for each speaker. **Most speakers did NOT surface explicit origin material in this session** — what follows is what surfaced plus inferences.
 
+**Enriched:** 2026-08-28 with TREATMENT/CASE_CONCEPTUALIZATION.md + TREATMENT/CLINICAL_SUMMARY.md + 20hats analysis (full family-of-origin context for Iván documented)
+
+---
+
+## The Weiss-Van der Pol family (Iván's origin) — full map
+
+**Source:** `TREATMENT/CASE_CONCEPTUALIZATION.md` (Jan 2026 clinical summary by prior psychologist)
+
+**Family unit:**
+- **Father:** John Weiss ("Do Not Disturb" — minimal emotional engagement, emotionally unavailable)
+- **Mother:** Sonia Weiss ("Unpredictable Manager" — high variance between warmth and criticism)
+- **Sister:** Kyrian Weiss (= Kiki, the elder sister) — closest family but still compartmentalized
+- **Brother:** Gonzalo Weiss (middle? — relationship unclear in corpus)
+- **Iván** — middle child between Kyrian and Gonzalo
+- **Grandfather:** Jan Van der Pol (60 messages in corpus, low intensity)
+
+**Origin wound — the "pesado" labeling:**
+- **Age 2+:** Family-wide labeling as **"inchabola"** (ball-buster/annoying) and **"pesado"** (heavy/burdensome) as persistent descriptors
+- Natural childhood exuberance (loud, intense, needy) met with family-wide rejection
+- **Internalized message:** "My natural emotional needs make me burdensome. To belong, I must suppress needs and provide value."
+- **Behavioral adaptation:** Compulsive service-giving (The Fixer) as earning strategy
+- **Neurobiological impact:** Hypervigilance to rejection cues, chronic stress response (service compulsion), touch starvation (physical affection withdrawn), emotional compartmentalization (The Firewall)
+
+**Cultural layer:**
+- Dutch-Paraguayan bicultural background
+- Class mobility (middle to upper-middle)
+- Paraguayan heteronormative culture as contrast anchor
+- Sexuality and gender expression constrained
+
+**Family Member Map (per TREATMENT):**
+- **Kyrian (sister):** Closest, but still compartmentalized. **7-year stable relationship, 7,838 messages, balanced 49.1% initiation.**
+- **Mother/Father:** "Don't disturb" / "Unpredictable manager." **Mom at 50.3% initiation, 11,305 messages, 7-year stable. Dad at 23% initiation, 1,864 messages, 7-year stable but 0% emotional content.**
+- **Gonzalo (brother):** Relationship unclear in corpus. **Not in tier1.**
+- **Grandpa Jan:** Low-intensity contact. **60 messages, distant.**
+
+**Corpus-wide attachment distribution (per HAT 1/4 validation):**
+- **Reciprocal balanced (12 chats):** Mom, Kiki, Grandma Riet — these are the secure-base relationships
+- **Pursued by partner (anxious-preoccupied):** Gaby, Jonatan, Lourdes (post-reunion)
+- **Pursuer (deactivating):** Magali, Nico, Thais, Sarah
+- **Absent:** Dad (0% affection, 0% distress, 0% boundary content)
+
+**The bimodality maps directly onto origin wound:**
+- Iván pursues OR is pursued because he cannot hold balanced intimacy with primary attachment figures — only **with caregivers (Mom/Kiki/Grandma) and recent high-investment partners (Lourdes post-594d gap, Gaby 53d)** does he approach balance
+- The compensatory chosen family (polycule, AIW org, 20 hats, this session) **rebuilds the secure base** his origin family didn't provide
+
+**HIV-positive disclosure (Jan 2026 breakthrough):**
+- Per CASE_CONCEPTUALIZATION: HIV status hidden from all family (the Firewall)
+- Jan 2026: **proactive HIV disclosure** — first time Ivan broke through the Firewall to be fully authentic with a primary partner
+- This is the **earned-secure** marker — Ivan is **halfway through**, origin work is deferred to chosen family but no longer fully compartmentalized
+
+**What this means for the 08-27 reading:**
+- The session is **not** about Iván's origin family. The origin family is **largely absent** from the conversation — Ivan is processing the household-of-choice.
+- The 08-27 "no puedo decir que no" pattern is the **operational expression** of the pesado defense organization: the family-wide rejection at age 2 created the Fixer; the Fixer manifests in the household as saying yes to Cuqui
+- The polycule structure is the **reparative chosen family** that the origin family couldn't provide
+- **The next session's work** (origin family) is not in this room. It's in Lalla's (Ivan's actual therapist) room.
+
 ---
 
 ## Iván

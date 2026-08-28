@@ -128,10 +128,66 @@ See `PSY_SHARED_WOUND_ANALYSIS.md` for the deep dive.
 - ✅ Memory entries staged (review with `/memory pending`):
   - Mishear catalogue
   - Psycology repo status
-  - TLP attribution v1 (now superseded by v2)
   - TLP attribution v2 (current)
+  - TLP attribution v3 (Belén possibility added, 2026-08-28)
 - ✅ Skill `whisperx-session-analyzer` saved
 - ✅ All 15 PSY/THER files committed and pushed to private repo (commit `f30ee332`)
+- ✅ Index + Framework Lenses added (commit `a2b75ddb`)
+- ✅ Corpus enrichment added (6 PSY files updated + 3 NEW files: `IVAN_LIFECYCLE_HISTORY.md`, `GABY_LONGITUDINAL.md`, `HOUSEHOLD_RELATIONAL_HISTORY.md`)
+
+---
+
+## Enriched file summary (2026-08-28 corpus enrichment)
+
+### Updated files (historical context added)
+
+| File | What was added |
+|---|---|
+| `PSY_FULL_CAST_PSYCHODYNAMICS.md` | Per-speaker historical context (corpus-wide data per speaker: Ale 6y/23K msgs, Kiki 7y/7.8K msgs, Lourdes 4y/16.9K msgs, Gaby 53d/5.9K msgs); 5-pattern synthesis section; what each 08-27 pattern maps to in the corpus |
+| `PSY_ATTACHMENT_STYLES.md` | Corpus-wide attachment patterns; 9-contact comparison table; bimodality validation (12 balanced / 3 pursued / 4 pursuer / 1 absent); origin-wound → pattern mapping |
+| `PSY_FAMILY_ORIGINS.md` | Full Weiss-Van der Pol family map (John, Sonia, Kyrian, Gonzalo, Grandpa Jan); "pesado" origin wound documented; HIV-positive disclosure breakthrough (Jan 2026); bimodality-origin mapping |
+| `PSY_DEFENSE_MECHANISMS.md` | Four named defense organizations (Fixer, Mask, Firewall, Permission Structures) with corpus evidence; dual-self model (Engineer + Brahm) with 08-27 manifestations |
+| `PSY_TRAUMA_NARRATIVES.md` | Ivan's developmental + adult trauma map; Gaby's childhood + acute + new trauma surface; care-reciprocity asymmetry section; per-speaker trauma enrichment; Belen corrected (TLP possibility, not diagnosis) |
+| `PSY_SHARED_WOUND_ANALYSIS.md` | "Pesado" origin documented; pattern in corpus section (with Gaby, Ale, Lourdes, Mom, abandoned contacts, AIW org); therapeutic leverage section |
+
+### NEW files (corpus-enriched long-arc profiles)
+
+| File | Purpose |
+|---|---|
+| `IVAN_LIFECYCLE_HISTORY.md` | 7-stage lifecycle (early env 1988–1998 → adolescence → early adulthood → Jan 2026 breakthrough → 2026 anchor shift → 08-27 session → forecast); integrative frame |
+| `GABY_LONGITUDINAL.md` | Full 53-day Gaby profile; 12-section structure mirroring the deep analysis; care-reciprocity asymmetry; 08-27 manifestation; clinical reading |
+| `HOUSEHOLD_RELATIONAL_HISTORY.md` | Ale/Kiki/Lourdes long-arc profiles; dyadic structure; household role distribution; per-speaker therapeutic frames for next session |
+
+### Sources used for enrichment
+
+- `TREATMENT/CASE_CONCEPTUALIZATION.md` (Jan 2026, prior psychologist — defense organizations, origin wound, dual-self model)
+- `TREATMENT/CLINICAL_SUMMARY.md` (Jan 2026)
+- `TREATMENT/CASE_CONCEPTUALIZATION_UPDATE_2026-07-27.md` (July 2026 update)
+- `TREATMENT/SESSION_CHEAT_SHEET_2026-07-27.md` (July 2026)
+- `PSYCHOLOGICAL_ANALYSIS_20HATS.md` (July 2026, 26-hats multi-perspective)
+- `docs/GABY_ANALYSIS_2026-08-22.md` (Aug 2026, Gaby deep dive)
+- `SOURCE_OF_TRUTH/wa_messages/tier1_deep/` (Ale, Kiki, Lourdes, Gaby, Mom, Dad tier1 chats)
+
+---
+
+## What we DO have
+
+- 2-hour transcript with 5 in-room speakers + 1 absent subject
+- 1,201 segments with speaker attribution
+- WhisperX mishear catalogue (16 categories)
+- Speaker identification table (verified by silence-gap matching)
+- Cast relational map (corrected by Iván)
+- TLP provenance (formal vs possibility)
+- **6-year corpus context** for all in-room speakers (enriched 2026-08-28)
+- **Named defense organizations** for Iván (Fixer, Mask, Firewall, Permission Structures)
+- **Origin wound** documented for Iván ("pesado" labeling, age 2+)
+- **Care-reciprocity asymmetry** documented for Iván ↔ Gaby
+- **Household dyadic structure** mapped
+- **Therapeutic frames** per speaker for next session
+
+---
+
+*Index maintained 2026-08-28. Last enrichment: corpus-wide context added to 6 PSY files + 3 new long-arc profile files.*
 
 ---
 
