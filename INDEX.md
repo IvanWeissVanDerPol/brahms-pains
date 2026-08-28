@@ -39,6 +39,7 @@ These files are tracked in git but should ideally be in git-LFS or excluded. The
 | Looking for 08-27 session analysis | [SESSIONS/2026-08-27/INDEX.md](./SESSIONS/2026-08-27/INDEX.md) |
 | 08-27 two-sided recap (private) | [SESSION_2026-08-27_RECAP_FOR_IVAN.md](./SESSIONS/2026-08-27/SESSION_2026-08-27_RECAP_FOR_IVAN.md) |
 | 08-27 felt-experience framework | [SESSION_2026-08-27_FELT_EXPERIENCE.md](./SESSIONS/2026-08-27/SESSION_2026-08-27_FELT_EXPERIENCE.md) |
+| 08-27 psychology session questionnaire | [SESSION_2026-08-27_PSYCHOLOGY_QUESTIONNAIRE.md](./SESSIONS/2026-08-27/SESSION_2026-08-27_PSYCHOLOGY_QUESTIONNAIRE.md) |
 | Looking for analysis | [docs/](./docs/) |
 | Want to understand structure | [docs/REPO_ROAST_AUDIT.md](./docs/REPO_ROAST_AUDIT.md) |
 | Latest cleanup details | [docs/CLEANUP_REPORT_2026-07-27.md](./docs/CLEANUP_REPORT_2026-07-27.md) |
