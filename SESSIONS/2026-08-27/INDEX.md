@@ -29,7 +29,7 @@ SESSIONS/2026-08-27/
 
 | File | Purpose |
 |---|---|
-| `SPEAKER_IDENTIFICATION_TABLE_V2.md` | **Final cast**: 5 humans in room (Iván, Gaby, Lourdes, Ale, Kiki) + 1 absent subject (Cookie/Kuki) + 1 noise; Gusy doesn't exist (WhisperX artifact) |
+| `SPEAKER_IDENTIFICATION_TABLE_V2.md` | **Final cast**: 5 humans in room (Iván, Gaby, Lourdes, Ale, Kiki) + 1 absent subject (Cookie/Kuki — see `# TODO: ivan-review` below) + 1 noise; Gusy doesn't exist (WhisperX artifact) |
 | `SESSION_2026-08-27_MISHEARS.md` | WhisperX mishear catalogue (16 categories) for the voice-note pipeline |
 | `SESSION_2026-08-27_ABSENT_CHARACTERS.md` | Quick reference for ~20 named but absent people (Belén, Nate, Cookie/Kuki, Power, Lua pelinegro, Lua rubia, etc.) |
 | `SESSION_2026-08-27_ANALYSIS.json` | Structured data (machine-readable) |
@@ -70,15 +70,16 @@ SESSIONS/2026-08-27/
 
 ## 📋 04_clinical/ — Per-speaker process notes + deepdive
 
-| File | Speaker | Talk % |
-|---|---|---:|
+| File | Purpose |
+|---|---|
 | `SESSION_2026-08-27_DEEPDIVE_ISSUES.md` | **All** — Read this for the session overview: 5 acts, what was worked through, what wasn't, deepest wound | — |
 | `SESSION_2026-08-27_GABY_PROCESS.md` | Gaby | 34.6% |
 | `SESSION_2026-08-27_IVAN_PROCESS.md` | Iván (you) | 22.0% |
 | `SESSION_2026-08-27_LOURDES_PROCESS.md` | Lourdes (Youko Kurama) | 15.4% |
 | `SESSION_2026-08-27_ALE_WITNESS.md` | Ale Cabral | 9.9% |
 | `SESSION_2026-08-27_KIKI_SUPPORT.md` | Kiki / Juki | 6.4% |
-| `SESSION_2026-08-27_CUQUI_NARRATIVE.md` | Cookie/Kuki (absent) | — |
+| `SESSION_2026-08-27_COOKIE_KUKI_NARRATIVE.md` | Cookie/Kuki (renamed 2026-09-01 from CUQUI_NARRATIVE; see `# TODO: ivan-review` below) | — |
+| `SESSION_2026-08-27_BELEN_PROCESS.md` | **NEW 2026-09-01** — Belen (the rupture subject, was previously miscategorized) | — |
 
 ---
 

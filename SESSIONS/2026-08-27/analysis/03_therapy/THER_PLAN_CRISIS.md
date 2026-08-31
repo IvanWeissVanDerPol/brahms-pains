@@ -1,5 +1,22 @@
 # Crisis Plan — Cookie/Kuki / TLP Situation
 
+> **# TODO: ivan-review — STRUCTURAL REWRITE REQUIRED (added 2026-09-01 by Hermes):**
+>
+> **This entire document is based on a misattribution that needs to be corrected.** Per Iván 2026-09-01:
+>
+> - **Cookie/Kuki = a friend of Iván (long-time, nursing experience), NOT a TLP-labeled subject, NOT cut off, NOT has a daughter, NOT in crisis.** Cookie/Kuki is currently in Ivan's support structure and is doing well.
+> - **Belén = the rupture subject, the one whose behavior pattern matches TLP-criteria per Cookie/Kuki/Lourdes/Dan/Sarah's observations of her actions.** Belén is the actual subject of any "crisis" consideration in this thread.
+> - **Lourdes is NOT Cookie/Kuki's therapist.** Lourdes is a friend in her final year of psychology studies. She never had a clinical relationship with Cookie/Kuki.
+> - **"Manuel" was Gaby's ex, not Cookie/Kuki's contact.** The Manuel reference in this doc is misattributed.
+>
+> **The crisis plan below was written assuming Cookie/Kuki was in active crisis. That assumption is wrong.** The plan needs to either be:
+> 1. Rewritten as a crisis plan for **Belén** (who was the actual rupture subject, did make 80+ calls, did bang on doors, did make a rape accusation) — using the Stanley/Brown SPI framework still applies but the subject changes, OR
+> 2. Deleted entirely, since the rupture ended on 08-27, belén moved out 08-26, and the current safety status is "belén housed at lua rubia's, no current contact."
+>
+> **The mechanical rename (Cuqui → Cookie/Kuki) was applied to this doc but the underlying structure is wrong.** Ivan, decide whether to (1) rewrite as Belén crisis plan, (2) delete, or (3) keep as historical record with this banner.
+>
+> See `SESSION_2026-08-27_BELEN_PROCESS.md` (new file 2026-09-01) for the actual rupture-subject narrative.
+
 **Frame:** Stanley/Brown Safety Planning Intervention (SPI) + DBT crisis survival skills + child welfare considerations.
 
 **Status:** **HIGHEST PRIORITY.** This is the safety-grade material from the session.
