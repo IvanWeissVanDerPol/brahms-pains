@@ -226,3 +226,161 @@ If you don't want to answer a question in writing, say "skip" or "later" and I'l
 ---
 
 *Composed 2026-08-28 by Hermes on Iván's behalf. Will be revised as answers come in.*
+
+---
+
+## ANSWERS RECEIVED — 2026-08-28 to 2026-09-01 (compiled by Hermes, source = this chat thread)
+
+> **# TODO: ivan-review** (added 2026-09-01 by Hermes): The answers below were received across multiple conversation rounds from 2026-08-28 to 2026-09-01. Where answers are partial or contextual, I've marked them. The original questions are kept above for reference. Answers are organized by group, not by question number, for readability.
+
+### GROUP A — Answers
+
+**A1. The "completely off from the whole group" state — for how long?**
+- **Trigger (per Iván 2026-09-01):** "they said that they were uncomfortable with me, that I should ask more nomas, that I found out that even after everything I give I still don't do enough, that even when all the people I considered partners were in my house I wasn't considered partner to them"
+- **Duration:** Post-bed-incident, no fixed date. Cumulative weight: distance, lack of affection, lack of communication, lack of space, things said/done, exclusion from the orgy. Not a single event.
+- **Differential:** Same for all of them (nate/luas/belén) — "completely off romantically" AND "im done with them as friends also"
+- **Reconciliation path:** "if they ever message and apolygize maybe we can be friends... and not apology to me, to gaby and to cookie"
+
+**A2. The 08-23 threesome at Iván's house — what was Iván's actual role?**
+- **CORRECTED 2026-09-01 (this changed the entire narrative):** Iván **participated** for a period, then declined further.
+- **What Iván did:** "i stayed in the room of the threesome i kissed nate and belen and tasted some squirt from nate and cuddled belen while she sicored lua peli negro... i liked nates pussy, sucked lua peli negras dick, and grinded with belen but no sex"
+- **Sequence:** Iván initially declined (to go shower), then stayed because belén asked him to. Engaged for a period, then declined further because of exhaustion + pre-endoscopy.
+- **Participants:** nate, lua peli negra, belén, ivan. Lua rubia was NOT present.
+- **Awareness at time of "stay" invitation:** Iván knew about it. Belen was awake, engaged, actively participating throughout (per "explain better" — Iván confirmed option 1: awake and engaged, actively participating).
+- **Belén identity:** same Belén as the dawn-door-banging person.
+
+**A3. The "should have asked more" criticism — who actually said this?**
+- **Source order:** Nate first (days later, internally + to ivan by a 3rd party). Then lua rubia confirmed (in person, cried — alleged manipulative crying). Then lua peli negra confirmed. Then belén confirmed belén asked him to stay.
+- **Framing:** Both criticism-of-ivan AND boundary-for-themselves.
+
+**A4. The retraction of Belén's rape accusation — how complete?**
+- **Same day** retraction. Multiple story changes during panic to try to maintain housing access.
+- **Reached:** belén, kuki, ale (per Iván's recounting). No further spread. No written record.
+- **Source of ivan knowing:** Kuki told ivan.
+- **No one else named** by belén as having heard the accusation before retraction.
+
+**A5. The 3 AM-11 AM Belén presence — what was happening in those 8 hours?**
+- **CORRECTED 2026-09-01:** Not 8 hours inside gaby's house. **Belen was continuously OUTSIDE on the street from 3 AM to ~dawn.** Then once the building doors opened, she **squeezed between the security bars** into gaby's private residential part of the building, **banged on gaby's door**, and **tried to push her way inside demanding to speak with ivan.**
+- **Who was inside:** ivan gaby kuki ale — in gabys kitchen talking and having a session of therapy. No one else. Nate/luas/belen were elsewhere. Belen was in the street.
+- **What belén was doing:** spam calling them, ignored. Then banging on the door.
+- **What happened at the door:** Ale and gaby woke up and dealt with her. Cookie/Kuki stayed in bed sleeping. Iván was awake. They talked with her after she calmed down a bit.
+- **Iván's location:** Iván slept at gaby's house from ~5 AM to ~12:00 (he was there for the dawn-door-banging period).
+
+**A6. The two Lua messes — which Lua?**
+- **Primary grievance target:** Lua rubia (per "Lua rubia but lua pelinegro and nate also leave mess everythere, belen vcleand and organized a bit at least").
+- **Lua rubia's accessories/her business:** Lua rubia has a personal business of selling piercing and alternative clothes, she was doing design for websites and photography.
+- **All four left mess:** Both luas + nate + belén were visiting daily and all left mess. Lua rubia was the primary grievance target.
+- **Never raised before:** No, ivan never talked to either lua about the mess before 08-27.
+
+**A7. The 6-message burst to Nate — what was the body state?**
+- **Co-presence:** Ale and gaby paying attention (paying attention 0 = yes).
+- **Co-authorship:** No — Ivan wrote all of it.
+- **Flow:** Continuous.
+- **Nate responding in real time:** After ivan wrote, asked for a call.
+
+**A8. The 8-grievance list to Lua rubia — same question**
+- **Co-presence:** Ale and gaby present, but ivan wrote all of it.
+- **Time between lua's "don't reply here" and the list:** Seconds.
+- **Drafted vs in-the-moment:** In the moment.
+- **Built over the 6 minutes:** Built up in the minutes.
+
+### GROUP B — Answers
+
+**B1. "Cuqui's current status" — actually about Belén**
+- **Question framing was wrong:** "cuqui cookie kuki are all the same person, belen is belen." This question is about belen, not cookie/kuki.
+- **Belen status:** Belen was cut off by ivan. Cookie is amazing, ivan loves her. (Cookie is the friend in ivan support structure.)
+- **Belen contact with household:** Unknown — per "not a clue" (re lua rubia + belén co-housing status).
+- **Belen therapy status:** "she is not in therapy etc."
+- **The "daughter" reference:** Was about belen's brother (was misattributed as "daughter" in some PSY files).
+- **Belen at gaby's house 08-23 to 08-28:** Yes (the dawn-door-banging).
+
+**B2. The 80+ calls 3-6 AM pattern**
+- **Calls to whom:** Ale, ivan, gaby.
+- **Voice calls or texts:** Voice calls. No texts.
+- **One-time or pattern:** One-time event.
+- **Anyone block:** No.
+- **Engagement during calls:** No. Only engaged in the morning when she banged on the door — ale and gaby talked with her after she calmed down a bit.
+
+**B3. Kuki's role as medical-experience friend**
+- **Medical experience:** Nurse.
+- **Currently involved in anyone's care:** No.
+- **Conflicts with lua rubia:** Lots. Problems with lua's volume, lua's reactions and behaviours, lua being meangirl with cookie, lua + nate + lua peli negra + belén acting like pick-me girls.
+
+**B4. The Lua rubia "stepping back from the project" — what project?**
+- **Project:** Trial period of working as artist for AI Whisperers.
+- **Lead:** Iván.
+- **Already happened:** Yes, happened already.
+
+**B5. The "deferred to others' judgments" pattern in Gaby**
+- **# TODO: ivan-review** (added 2026-09-01): Per Iván 2026-09-01, "i think this are all things relevant to belen not gaby." This question was framed about Gaby but the actual pattern applies to belén (changed story multiple times during panic, deferred to kuki's confrontation, etc.). The Gaby process file's reference to this pattern needs to be moved to the belén process file. See `SESSION_2026-08-27_BELEN_PROCESS.md` (new file 2026-09-01).
+
+**B6. Iván's mother and "Mommy" references in 11:50 message**
+- **Same person or different:** Different. Mama = sonia (real mom). Mommy = gaby (kink joke).
+- **"Mommy" as kink title:** Yes, kink joke.
+- **Relationship with mom:** Kinda (complicated).
+
+### GROUP C — Answers
+
+**C1. The 07-22 MRI mentioned in recap — what was it for?**
+- **Purpose:** MRI showed i needed endoscopy.
+
+**C2. The turtle rescue — what's the status?**
+- **Current location:** In ivan house, living a better life with food and a correct environment.
+
+**C3. Ale's current living situation**
+- **Ale:** Long-time best friend and roommate. Belen moved out.
+- **Timeline:** Belen moved out 08-26 night, after the cookie confrontation.
+
+**C4. Nate's response to the 11:45-12:00 messages and "decision to have space"**
+- **Nate's response:** Said mean things to gaby, then accepted that ivan wants space but "always welcome."
+- **Current state:** No contact since. Iván's read: hard pass.
+- **Note:** "always welcome" interpreted as a standing casual offer, not active pursuit.
+
+**C5. Lua pelinegro's response**
+- **Channel:** The cutoff call was with both nate AND lua peli negra on the line (per "call was wth nate and lua peli negro").
+
+---
+
+## ADDITIONAL ANSWERS (received outside the A/B/C groups)
+
+**Endoscopy result:** Polyps not cancer (confirmed post-procedure).
+
+**"Mommy" context:** Gaby (kink joke between ivan and gaby).
+
+**Orgy details:** At lua peli negra's house (not "Luba gathering"). Guest list: lua rubia, lua peli negra, lua rubia's bf, nate, belén, dayah, + an external couple. Me and ale excluded, no context until after blow-up. Source of info: belén + lua rubia told ivan after the blow-up.
+
+**Nico + mike:** Nico is separately off from the rupture group (nate/luas/belén) because of his treatment of mike (gender-fluid friend, was nico's sub before, nico continues to treat him as sub despite that no longer being their relationship — a consent/relational-boundary failure). Dayah (mutual friend) confirmed external validation. Iván wants to talk to dayah first before deciding what to do with nico; current state: holding pattern.
+
+**Lua rubia "punish with absence" allegation:** A friend (now also out of lua rubia's life) reported that lua rubia said she would "punish me with her absence" after implying ivan was depressed and at suicide risk. This was reported the night before belén went to bang at gaby's door. Iván never felt at personal safety risk; read it as instrumental manipulation, not a genuine concern. Lua rubia may or may not know ivan knows.
+
+**Current state (post-cutoff):** "after the break up amazing." Sleep, eating, baseline functioning all improved post-cutoff. Important clinical data point: cutoff is working for ivan, not destabilizing him. But psychologist should track whether this is a stable change or a honeymoon phase.
+
+**AI autistic self-description (per Iván 2026-09-01):** "i am autistic my hyperfocus is AI." Self-described based on trait inventory + community signal (his friends are largely on the spectrum) + engineering context. Not formally diagnosed. Open to formal assessment if psychologist recommends. Want this in the questionnaire as a self-description, not as a formal dx.
+
+**Cutoff scope (per Iván 2026-09-01):** "im done with them as freinds also." Romantic AND platonic cutoff. "now i dont think so" regarding reconciliation.
+
+**Kiki (your sister) at 08-27 evening (per Iván 2026-09-01):** Already knew the polycule people, hadn't met them before 08-27 (option c earlier, but actually option a per ivan confirmation: she already knew them). She was at the 08-27 evening conversation at your house as family support. Doesn't know the brahm letter. No clinical context of her own that ivan is aware of.
+
+**Lourdes (per Iván 2026-09-01):** Friend, final-year psychology student (not therapist). Was at 08-27 evening processing conversation at ivan house. Was not anyone's clinician.
+
+**Cookie-calls-belén-from-your-phone (per Iván 2026-09-01):** Cookie called belén from ivan phone at gaby house, on speaker, asking why she lied. Belén shouted. Cookie hung up. Silence between that call and 80+ voice calls at 3am the next night — delayed reaction, not continuous escalation.
+
+**08-27 evening gathering (per Iván 2026-09-01):** Semi-planned — kiki came over to check on ivan (sister instinct after the morning event). Ale and gaby were already at ivan house. Lurdes was visiting or got pulled in. Ended up being a 5-person processing conversation (me + kiki + ale + gaby + lurdes), not pre-scheduled.
+
+**Belén moved out 08-26 night** (per Iván 2026-09-01), to lua rubia's house.
+
+**Belén's brother (not daughter):** The "daughter" reference in some PSY files was misattributed. It's about belen's brother, not a daughter.
+
+**Belén's rape accusation observer narrative:** Kuki + ale noticed belen changed her story multiple times during panic to try to maintain housing access.
+
+**Ivan is done with belen romantically + as friend** (per "im done with them as freinds also"). He wishes her the best and hopes she gets therapy.
+
+**08-27 evening conversation participants:** Ivan + kiki (sister) + ale + gaby + lurdes (psych student friend). 5 people. Not pre-scheduled but emerged organically as people gathered.
+
+**Turtles:** In ivan house, living a better life.
+
+**MRI (07-22):** Showed need for endoscopy (which then showed polyps, which turned out not to be cancer).
+
+---
+
+*This answers section compiled 2026-09-01 from the full conversation thread on ivan repo work. Sources are ivan statements to Hermes during the 2026-08-28 → 2026-09-01 working session.*
