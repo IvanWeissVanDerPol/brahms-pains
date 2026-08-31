@@ -21,7 +21,7 @@
 - **In-room at 08-27?** No — absent
 - **Mentions in transcript:** 4 explicit + scattered indirect references
 
-> **Session-level TLP/BPD disclaimer (added 2026-08-28, per Iván):** Lua pelinegro explicitly stated in the 08-27 session that **"we can't diagnose, we aren't professionals."** Any TLP/BPD attributions in this card or related files should be read as **session-level descriptive language**, NOT clinical diagnoses. This applies to all characters discussed in the session (Belén, the assaillante, Cuqui, etc.). Earlier drafts contained clinical-sounding language that overstepped the session-level context.
+> **Session-level TLP/BPD disclaimer (added 2026-08-28, per Iván):** Lua pelinegro explicitly stated in the 08-27 session that **"we can't diagnose, we aren't professionals."** Any TLP/BPD attributions in this card or related files should be read as **session-level descriptive language**, NOT clinical diagnoses. This applies to all characters discussed in the session (Belén, the belén, Cookie/Kuki, etc.). Earlier drafts contained clinical-sounding language that overstepped the session-level context.
 
 ### Role in Iván's life
 - **BDSM community contact:** Met Nate at BDSM events (upstream: Iván introduced Nate to BDSM). Connection to Iván is indirect through this chain

@@ -29,9 +29,9 @@ SESSIONS/2026-08-27/
 
 | File | Purpose |
 |---|---|
-| `SPEAKER_IDENTIFICATION_TABLE_V2.md` | **Final cast**: 5 humans in room (Iván, Gaby, Lourdes, Ale, Kiki) + 1 absent subject (Cuqui) + 1 noise; Gusy doesn't exist (WhisperX artifact) |
+| `SPEAKER_IDENTIFICATION_TABLE_V2.md` | **Final cast**: 5 humans in room (Iván, Gaby, Lourdes, Ale, Kiki) + 1 absent subject (Cookie/Kuki) + 1 noise; Gusy doesn't exist (WhisperX artifact) |
 | `SESSION_2026-08-27_MISHEARS.md` | WhisperX mishear catalogue (16 categories) for the voice-note pipeline |
-| `SESSION_2026-08-27_ABSENT_CHARACTERS.md` | Quick reference for ~20 named but absent people (Belén, Nate, Cuqui, Power, Lua pelinegro, Lua rubia, etc.) |
+| `SESSION_2026-08-27_ABSENT_CHARACTERS.md` | Quick reference for ~20 named but absent people (Belén, Nate, Cookie/Kuki, Power, Lua pelinegro, Lua rubia, etc.) |
 | `SESSION_2026-08-27_ANALYSIS.json` | Structured data (machine-readable) |
 
 ---
@@ -41,7 +41,7 @@ SESSIONS/2026-08-27/
 | File | Purpose |
 |---|---|
 | `PSY_FULL_INDEX.md` | **Start here** — Navigation, read-paths, what was NOT done |
-| `PSY_FULL_CAST_PSYCHODYNAMICS.md` | Per-person dynamics (5 in-room + Cuqui) |
+| `PSY_FULL_CAST_PSYCHODYNAMICS.md` | Per-person dynamics (5 in-room + Cookie/Kuki) |
 | `PSY_ATTACHMENT_STYLES.md` | Attach patterns per speaker + group |
 | `PSY_DEFENSE_MECHANISMS.md` | Freud/Anna Freud + Vaillant inventory + 4 named defenses (Fixer, Mask, Firewall, Permission Structures) |
 | `PSY_TRANSFERENCE_PATTERNS.md` | Therapeutic/triangular transference |
@@ -62,7 +62,7 @@ SESSIONS/2026-08-27/
 |---|---|
 | `THER_PLAN_INDIVIDUAL.md` | 8-week plan per speaker |
 | `THER_PLAN_GROUP.md` | Group work plan (next sessions) |
-| `THER_PLAN_CRISIS.md` | Crisis plan for Cuqui (highest priority) |
+| `THER_PLAN_CRISIS.md` | Crisis plan for Cookie/Kuki (highest priority) |
 | `THER_HOMEWORK.md` | Each speaker's week-of homework |
 | `THER_FRAMEWORK_LENSES.md` | Which frameworks to use going forward (decision tree) |
 
@@ -78,7 +78,7 @@ SESSIONS/2026-08-27/
 | `SESSION_2026-08-27_LOURDES_PROCESS.md` | Lourdes (Youko Kurama) | 15.4% |
 | `SESSION_2026-08-27_ALE_WITNESS.md` | Ale Cabral | 9.9% |
 | `SESSION_2026-08-27_KIKI_SUPPORT.md` | Kiki / Juki | 6.4% |
-| `SESSION_2026-08-27_CUQUI_NARRATIVE.md` | Cuqui (absent) | — |
+| `SESSION_2026-08-27_CUQUI_NARRATIVE.md` | Cookie/Kuki (absent) | — |
 
 ---
 

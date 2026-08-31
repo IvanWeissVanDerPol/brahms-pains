@@ -50,8 +50,8 @@ Ale is **a companionship of physical proximity** — Ivan does the maintenance w
 
 - **9.9% talk time** (quietest substantive speaker)
 - **Co-resident with Iván** (the only co-resident pair in the room)
-- **Reports Cuqui's 80 calls at 3am** (+3226s) — **functional vigilance**
-- **"Me dejaron afuera de todas las conversaciones"** (+3097s) — **excluded from Cuqui-exit decision**
+- **Reports Cookie/Kuki's 80 calls at 3am** (+3226s) — **functional vigilance**
+- **"Me dejaron afuera de todas las conversaciones"** (+3097s) — **excluded from Cookie/Kuki-exit decision**
 - **Spelled "polycule" for the group** (+487s) — **provides vocabulary**
 - **Leaves at ~55 min** (last segment ~3308s, session ends 7277s) — could be self-removal before being told to leave
 
@@ -64,7 +64,7 @@ Ale is **a companionship of physical proximity** — Ivan does the maintenance w
 
 ### The 80 calls at 3am (safety event)
 
-**This is the most dangerous transference failure of the session.** Ale is reporting Cuqui's behavior to the group as a substitute for **calling authorities**. The room's response is **diagnostic** ("TLP"), not **protective**.
+**This is the most dangerous transference failure of the session.** Ale is reporting Cookie/Kuki's behavior to the group as a substitute for **calling authorities**. The room's response is **diagnostic** ("TLP"), not **protective**.
 
 ### What the longitudinal context adds
 
@@ -176,7 +176,7 @@ Lourdes is **the friend Ivan had to win back from 594 days of silence.** That re
 - **21.0% talk time** (second-most speaking, after Gaby)
 - **Clinical precision** — "polycule", "BDSM", "TLP, trastorno límite de la personalidad"
 - **Names the "demasiado bueno" pattern** at +3430s
-- **Dual role** (friend + Cuqui's therapist) — clinically and ethically exposed
+- **Dual role** (friend + Cookie/Kuki's therapist) — clinically and ethically exposed
 - **Cost-of-clarity position** — paid for her clinical precision with 2 years of exile; now she's back, and the cost continues
 - **Mood cooling Δ-0.18** (per 20hats, July 2026) — recent mood has cooled
 
@@ -186,7 +186,7 @@ Lourdes is **the friend Ivan had to win back from 594 days of silence.** That re
 - She speaks in clinical register throughout
 - She names patterns others can't ("demasiado bueno", "no puede decir que no")
 - She is **the only non-Iván-mediate relation in the room** (Lourdes ↔ Gaby is the secondary link)
-- She is **also Cuqui's therapist** — dual role exposure
+- She is **also Cookie/Kuki's therapist** — dual role exposure
 
 ### What the longitudinal context adds
 
@@ -196,11 +196,11 @@ Lourdes is **the friend Ivan had to win back from 594 days of silence.** That re
 
 ### Therapeutic frame for Lourdes
 
-**The dual role must be resolved explicitly.** Lourdes cannot be both Cuqui's therapist and a friend to Ivan who is also Cuqui's hub. The clinical and ethical exposure is real.
+**The dual role must be resolved explicitly.** Lourdes cannot be both Cookie/Kuki's therapist and a friend to Ivan who is also Cookie/Kuki's hub. The clinical and ethical exposure is real.
 
 **Options:**
-1. Lourdes refers Cuqui to another therapist and remains friend + clinical consultant to Ivan's household
-2. Lourdes remains Cuqui's therapist but recuses from the household dynamic (does not attend 08-27-style sessions)
+1. Lourdes refers Cookie/Kuki to another therapist and remains friend + clinical consultant to Ivan's household
+2. Lourdes remains Cookie/Kuki's therapist but recuses from the household dynamic (does not attend 08-27-style sessions)
 3. Lourdes remains in the dual role but with explicit, named boundaries (which she then enforces)
 
 **The session's responsibility:** name the dual role, name the cost, name the choice.
@@ -217,7 +217,7 @@ Lourdes is **the friend Ivan had to win back from 594 days of silence.** That re
            Ale  Kiki Gaby Lourdes
               \   |   |  /
                \  |   | /
-              Cuqui (absent)
+              Cookie/Kuki (absent)
                   |
                 daughter
 ```
@@ -231,8 +231,8 @@ Lourdes is **the friend Ivan had to win back from 594 days of silence.** That re
 - **Ale ↔ Lourdes:** Mediated through Iván (no direct chat)
 - **Kiki ↔ Gaby:** Mediated through Iván (Dentista_Gabi group has 2 Kiki messages; otherwise no direct)
 - **Kiki ↔ Lourdes:** Mediated through Iván
-- **Gaby ↔ Lourdes:** The **only direct cross-link** in the room (Lourdes has been Cuqui's therapist, Gaby has been Cuqui's caretaker)
-- **All ↔ Cuqui:** Mediated through Iván (Cuqui has no direct tier1 chat)
+- **Gaby ↔ Lourdes:** The **only direct cross-link** in the room (Lourdes has been Cookie/Kuki's therapist, Gaby has been Cookie/Kuki's caretaker)
+- **All ↔ Cookie/Kuki:** Mediated through Iván (Cookie/Kuki has no direct tier1 chat)
 
 ### The household role distribution
 
@@ -243,7 +243,7 @@ Lourdes is **the friend Ivan had to win back from 594 days of silence.** That re
 | Intervener | Kiki | Calls out, names patterns, holds boundary | Cost of doing it alone |
 | Pursued caretaker | Gaby | Hospital arrival, 80 calls, caregiving | Care-reciprocity asymmetry at scale |
 | Clinical friend | Lourdes | Names diagnoses, holds precision | Dual-role exposure |
-| Acting-out subject | Cuqui | 80 calls, breaking in, TLP self-label | Acute + chronic, daughter welfare |
+| Acting-out subject | Cookie/Kuki | 80 calls, breaking in, TLP self-label | Acute + chronic, daughter welfare |
 
 ### The shared pattern (covered separately in PSY_SHARED_WOUND_ANALYSIS.md)
 
@@ -254,7 +254,7 @@ The "demasiado bueno" / "pesado" wound shows up differently in each person:
 - Kiki: "I cannot fix anybody but myself" (reacted, stopped giving)
 - Ale: "Me dejaron afuera" (accepting exclusion)
 - Lourdes: 2-year exile (cost of clarity)
-- Cuqui: 80 calls, breaking into houses (giving to control)
+- Cookie/Kuki: 80 calls, breaking into houses (giving to control)
 
 **The shared wound is: the cost of being needed, wanted, included.** Everyone in the room has paid that cost. The session works because the cost is **distributed** — but distributed cost is still cost. The hub (Iván) absorbs the most.
 
@@ -274,7 +274,7 @@ The "demasiado bueno" / "pesado" wound shows up differently in each person:
 
 ### For Lourdes
 
-- **The dual role must be resolved explicitly.** Lourdes cannot be both Cuqui's therapist and a friend to Iván who is also Cuqui's hub. The clinical and ethical exposure is real.
+- **The dual role must be resolved explicitly.** Lourdes cannot be both Cookie/Kuki's therapist and a friend to Iván who is also Cookie/Kuki's hub. The clinical and ethical exposure is real.
 - **The 594d reunion cost is still being paid.** The next session should ask: what is the cost of being back? Is the mood cooling Δ-0.18 the early warning?
 
 ### For the household system

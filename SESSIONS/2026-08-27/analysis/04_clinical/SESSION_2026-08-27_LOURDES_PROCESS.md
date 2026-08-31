@@ -145,7 +145,7 @@ Lourdes references **Yeyo's theory** that neurodivergent people cluster — the 
 | **Gaby** | Co-therapist alongside Iván. Validates her autism disclosure. |
 | **Ale** | Diagnoses the same wound: "demasiado buena". |
 | **Kiki** | Allied. Both defend Iván's right to set limits. |
-| **Cuqui** | Referenced in the session work. Subject, not participant. |
+| **Cookie/Kuki** | Referenced in the session work. Subject, not participant. |
 | **The assailant** | Diagnosed as TLP. Threat-modeled. Lourdes is the most concrete voice about her danger. |
 | **Yeyo** | Referenced for the neurodivergent-clustering theory. |
 | **Belén, Nate, Luas** | Known from prior context. Lourdes is mapping the cast as Iván narrates. |

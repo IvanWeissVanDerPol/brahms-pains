@@ -16,7 +16,7 @@
              \        |        /
               Kiki (sibling-therapist)
                      |
-                  Cuqui
+                  Cookie/Kuki
                   (absent subject)
 ```
 
@@ -28,10 +28,10 @@
 
 ### Gaby → Iván: **Maternal transference**
 
-Gaby treats Iván as a **person she can hand Cuqui to when she's exhausted** ("Yo le dije a Iván..."). This is **maternal transference** — Iván is the **rescuer figure**, the one who catches the patient when the caregiver is drained.
+Gaby treats Iván as a **person she can hand Cookie/Kuki to when she's exhausted** ("Yo le dije a Iván..."). This is **maternal transference** — Iván is the **rescuer figure**, the one who catches the patient when the caregiver is drained.
 
 **Evidence:**
-- "Cuidando a la Gaby en el hospital" — Iván was **already** in the maternal role for Gaby before Gaby transferred it to him for Cuqui
+- "Cuidando a la Gaby en el hospital" — Iván was **already** in the maternal role for Gaby before Gaby transferred it to him for Cookie/Kuki
 - The "50 brownies" — pre-emptive maternal giving, the kind of "I earned the right to be tired" defense
 
 **Cost to Gaby:** She cannot receive from Iván; she can only give. The transference **locks her in the maternal role**.
@@ -84,11 +84,11 @@ Iván positions Lourdes as **the one who got away clean** — the one who set th
 
 **Evidence:** Iván talks to Lourdes at length about boundaries, but **doesn't model them himself**.
 
-### Onto Cuqui (the absent one): **Diagnostic transference**
+### Onto Cookie/Kuki (the absent one): **Diagnostic transference**
 
-Iván transferred the **clinical gaze** onto Cuqui — "TLP", "BPD", "bed incident" — at the cost of relating to her as a person.
+Iván transferred the **clinical gaze** onto Cookie/Kuki — "TLP", "BPD", "bed incident" — at the cost of relating to her as a person.
 
-**The displacement:** Iván is **diagnosing Cuqui instead of grieving the cancer scare, the household exhaustion, or the household exit.**
+**The displacement:** Iván is **diagnosing Cookie/Kuki instead of grieving the cancer scare, the household exhaustion, or the household exit.**
 
 ---
 
@@ -100,7 +100,7 @@ The group meets because **everyone is exhausted and needs the others to confirm 
 
 ### Foulkes' shared unconscious
 
-The **shared unconscious theme** of the group is: **"I'm too nice and I'm tired of it."** Every speaker has a version. The group is **unconsciously working through this through Cuqui**, who has the most extreme version (no boundaries at all).
+The **shared unconscious theme** of the group is: **"I'm too nice and I'm tired of it."** Every speaker has a version. The group is **unconsciously working through this through Cookie/Kuki**, who has the most extreme version (no boundaries at all).
 
 ### The hidden leader
 
@@ -119,7 +119,7 @@ Gaby reports the hospital as "horrible", then **immediately** pivots to her fami
 Iván drops the cancer scare, **nobody picks it up**, and the room moves on. **This is a missed transference event**: Iván was reaching for care, the room was offering clinical gaze, and the moment **dissolved**.
 
 ### 3. The bed incident (+1616s)
-Gaby reports Cuqui's bed incident. The room responds with **the diagnostic frame** ("TLP"). **Countertransference failure**: the room **diagnoses** instead of **holding**. The bed incident is **a relational event** (a person broke a household rule); the room treats it as **a clinical event** (a symptom of a disorder).
+Gaby reports Cookie/Kuki's bed incident. The room responds with **the diagnostic frame** ("TLP"). **Countertransference failure**: the room **diagnoses** instead of **holding**. The bed incident is **a relational event** (a person broke a household rule); the room treats it as **a clinical event** (a symptom of a disorder).
 
 ### 4. The 80 calls (+3226s)
 Ale reports 80 calls at 3am. **This is a safety event, not a transference event** — but the room's response is **diagnostic** ("TLP"), not **protective**. **The transference failure here is the most dangerous**: a real-world risk being metabolized as a clinical curiosity.
@@ -134,9 +134,9 @@ Lourdes names the 2-year silence. **This is a transference event onto the whole 
 If Iván continues to host:
 
 1. **Recognize the rescuer position.** Every time he saves Gaby, Lourdes, or Ale, he confirms their stuckness. **Stop rescuing.** Let them call their own ambulances.
-2. **Use the diagnostic frame sparingly.** Naming TLP at +4576s was **functional** (gives the group a vocabulary). Naming TLP every time Cuqui comes up is **displacing** the relational work.
+2. **Use the diagnostic frame sparingly.** Naming TLP at +4576s was **functional** (gives the group a vocabulary). Naming TLP every time Cookie/Kuki comes up is **displacing** the relational work.
 3. **Pick up the missed moments.** The cancer scare, the late-autism disclosure, the "me dejaron afuera" — these were **gifts** to the room, and the room dropped them. Iván should **return to them** in next session.
-4. **Get supervision.** Iván is doing significant therapeutic work without clinical training. **Bring a real clinician into the loop** for Cuqui specifically.
+4. **Get supervision.** Iván is doing significant therapeutic work without clinical training. **Bring a real clinician into the loop** for Cookie/Kuki specifically.
 
 ---
 

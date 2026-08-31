@@ -3,7 +3,7 @@
 **File:** `08-27-2026_20.31_spa.json` (5.1 MB, 7277s = 2h 01m 17s, 1201 segments, 42,853 word tokens)
 **Generated:** 27 Aug 2026, 20:31 (PYT) · **Language:** spa · **Format:** WhisperX-style diarization
 **Diarization output:** 8 speaker IDs
-**Actual humans present:** 5 confirmed — **Cuqui is NOT in the room**, **Gusy is NOT a person (Whisper hallucination of Paraguayan slang "como un huevón ahí")**
+**Actual humans present:** 5 confirmed — **Cookie/Kuki is NOT in the room**, **Gusy is NOT a person (Whisper hallucination of Paraguayan slang "como un huevón ahí")**
 
 ---
 
@@ -20,7 +20,7 @@
 | **Speaker 6** | 21 | 43.0 | 0.6% | 290 | 1 | 6.7% | **Iván (fragment 2)** | ✅ Confirmed |
 | **Speaker 7** | 1 | 0.9 | 0.0% | 4 | 0 | 0.0% | **Noise / ambient voice** | ✅ Confirmed |
 
-**Cast size: 5 humans in the room, 1 noise, 1 absent subject (Cuqui). Gusy does not exist — WhisperX artifact.**
+**Cast size: 5 humans in the room, 1 noise, 1 absent subject (Cookie/Kuki). Gusy does not exist — WhisperX artifact.**
 
 ---
 
@@ -96,10 +96,10 @@ The grammar analysis I did earlier (triple-stacking "huevón" doesn't work) was 
 
 ### Ale Cabral (Speaker 1) — Co-resident / witness
 - 186 segments, 723.4s (9.9%)
-- **Lived in Cuqui's house** during the chaos — "venían a la casa y comían nuestra comida"
+- **Lived in Cookie/Kuki's house** during the chaos — "venían a la casa y comían nuestra comida"
 - **Was left out of conversations** — "a mí me dejaron afuera de todas las conversaciones"
 - **Worked during the chaos** — "yo decía 'tengo que trabajar porque estoy atrasado'"
-- **Co-resident / roommate perspective** — sees Ale's interactions with Cuqui from inside the household
+- **Co-resident / roommate perspective** — sees Ale's interactions with Cookie/Kuki from inside the household
 - Repo metadata: CLOSE, 23k msgs, RISING affection
 - Diagnosed role: **fact-witness, structural observer, third-party confirmer**
 
@@ -177,7 +177,7 @@ The grammar analysis I did earlier (triple-stacking "huevón" doesn't work) was 
 | Who is Speaker 6? | Gusy / unknown | **Iván (fragment 2)** |
 | Who is early-Session 5 (1478–1949s)? | Kiki | **Kiki** (consistent — same person, two registers) |
 | Who is mid-Session 5 (3094–3417s)? | Ale | **Kiki** (Argentine register — Kiki lived in Argentina) |
-| Who is "Cuqui" in speaker roster? | Possible 8th speaker | **Not present** — she's the topic |
+| Who is "Cookie/Kuki" in speaker roster? | Possible 8th speaker | **Not present** — she's the topic |
 | Who is "Gusy"? | Possible speaker | **Not present** — absentia reference or Whisper hallucination |
 | Cast size | 8 speakers | **5 humans in room + 1 noise** |
 
@@ -192,7 +192,7 @@ The grammar analysis I did earlier (triple-stacking "huevón" doesn't work) was 
 | **Lourdes** | Co-therapist / narrator | ✅ Yes | `SESSION_2026-08-27_LOURDES_PROCESS.md` |
 | **Ale** | Co-resident / witness | ✅ Yes (left early) | `SESSION_2026-08-27_ALE_WITNESS.md` |
 | **Kiki** | Sibling / advisor | ✅ Yes | `SESSION_2026-08-27_KIKI_SUPPORT.md` |
-| **Cuqui** | Subject (not present) | ❌ No | `SESSION_2026-08-27_CUQUI_NARRATIVE.md` |
+| **Cookie/Kuki** | Subject (not present) | ❌ No | `SESSION_2026-08-27_CUQUI_NARRATIVE.md` |
 
 Plus:
 - `SESSION_2026-08-27_CAST_MAP.md` — this file

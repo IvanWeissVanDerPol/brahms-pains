@@ -16,7 +16,7 @@
 > 1. **Gaby did not masturbate.** Iván was touching **Belén** in Gaby's house that night.
 > 2. **It was a kidney cyst, not ovarian.** ("Me tomé un Quiste" — quiste confirmed; mishears file shows "riñón" confirmed as kidney.)
 > 3. **The cyst explosion was unrelated to the touching.** It was a separate medical event that occurred the same night.
-> 4. **"La mina" = Belén.** The assaillante was **Belén** — the same person who lived in the household, who Iván had been touching, and who later accused Iván of rape.
+> 4. **"La mina" = Belén.** The belén was **Belén** — the same person who lived in the household, who Iván had been touching, and who later accused Iván of rape.
 > 5. **Who was in the bed that night:** **Iván, Ale, Belén, and Gaby** in Gaby's bed. Iván + Belén were touching (no sex, just teasing).
 
 ---
@@ -37,12 +37,12 @@ Gaby recounts the assault that happened in her own bed. The night of the inciden
 - Iván was **in the room** when it happened — not absent as originally drafted
 - The girl in her bed was **Belén** — known to the household, not a stranger
 - Gaby's relationship to the touching: she was present but the touching was between Iván and Belén, not involving Gaby
-- The girl "**iba cambiando la historia**" after Cuqui confronted her — Kiki reports the girl said "yo no quería, le dije varias veces que no" but then changed her story
+- The girl "**iba cambiando la historia**" after Cookie/Kuki confronted her — Kiki reports the girl said "yo no quería, le dije varias veces que no" but then changed her story
 - Iván was named by the girl as the person she was with (the false-consent narrative — this is the same Belén who later accused Iván of rape)
 - Kiki explicitly identifies this as **violación** ("si es que Iván era un violador... iba a funarle todo lo que sea")
 - Lourdes at +3353s says "**si tenés que poner una orden de restricción o algo así, no sé. Esa mina es densa.**"
 
-**The diagnostic move:** the group doesn't file the police report for Gaby — but Lourdes plants the seed. Cuqui already told Gaby she would have done it. The processing is about **Gaby's ambivalence about her own victimhood** and her pattern of **deferring to others' judgments**.
+**The diagnostic move:** the group doesn't file the police report for Gaby — but Lourdes plants the seed. Cookie/Kuki already told Gaby she would have done it. The processing is about **Gaby's ambivalence about her own victimhood** and her pattern of **deferring to others' judgments**.
 
 > **Critical relational complication (added 2026-08-28):** Iván was **physically present** in the bed when this happened, and was touching Belén. This means the "violation" Gaby experienced has Iván on **both sides** of it — present in the room, present as the toucher of the person whose presence in the bed violated Gaby, and present as the eventual subject of Belén's rape accusation. The 08-27 session did **not** process this directly. The questionnaire flags this as Section E, Question 9.
 
@@ -72,7 +72,7 @@ What comes out:
 - The diagnosis came from clinical testing + "la primera persona que me dijo: 'Vos, Sofita'" — whose mom? (cut off — "Sofita" might be a nickname for someone in her family)
 - The breakthrough is **shame release** — she can now re-narrate her life not as "crazy" but as "neurodivergent"
 
-This is the **deepest wound** in the session. Everything else (the assault, the household chaos, Cuqui's crisis) is the surface; this is the bedrock.
+This is the **deepest wound** in the session. Everything else (the assault, the household chaos, Cookie/Kuki's crisis) is the surface; this is the bedrock.
 
 ### Layer 4: Being told she "drains energy" (Act 2, 1399s)
 
@@ -82,7 +82,7 @@ Gaby reports that people in her circle **accused her of draining energy** from a
 
 This is the **childhood pattern** surfacing: being the one cared for while being told you're the one causing harm.
 
-### Layer 5: The "abrazo a Cuqui" defense (Act 4, 4888–4940s)
+### Layer 5: The "abrazo a Cookie/Kuki" defense (Act 4, 4888–4940s)
 
 > "Encima que hace algo genuino. O sea, realmente sí te quiso acompañar, sí te quiso acompañar. O sea, hacen algo que realmente les nace, no, no están obligados ni vos les ponés las patas y les decís: 'Vení, hacé esto'."
 
@@ -119,7 +119,7 @@ Gaby has a **female partner**. This is mentioned once, in passing, as a fact-cor
 | **Lourdes** | Co-therapist; gets the "¿orden de restricción?" prompt from her |
 | **Ale** | Co-resident; was at the hospital with her (kidney infection); was "al lado mío" during the bed incident |
 | **Kiki** | Defends her ("vos sos la imagen de la empresa, boludo" was actually Kiki defending *Iván*'s image but Gaby is the protected party); threatens the assailant |
-| **Cuqui** | Brought the assailant into Gaby's house; stood up for Gaby; is the subject of the session in absentia |
+| **Cookie/Kuki** | Brought the assailant into Gaby's house; stood up for Gaby; is the subject of the session in absentia |
 | **The "mina"** | Violated her bed; accused Iván of being the violator (false narrative); the source of the current crisis |
 | **Her partner ("mi mujer")** | Mentioned once; not centered |
 | **Sofita** | Mentioned at +6915s as "su mamá" — the first person who named her autism to her. Cut off in the transcript. |
@@ -131,7 +131,7 @@ Gaby has a **female partner**. This is mentioned once, in passing, as a fact-cor
 - **Gaby's female partner** is barely mentioned — only as a fact-correction. Whether the partner is fully aware of the session's content, whether the partner knows about the bed incident, is **not discussed**.
 - **Her "Sofita" reference** at +6915s — was cut off. Whose mom? Her own mom? An aunt? A friend? The autism diagnosis origin story is incomplete.
 - **The "orden de restricción" question** was raised by Lourdes but **Gaby didn't answer it directly** in the captured transcript.
-- **Why was the assailant at Gaby's house in the first place?** Cuqui brought her. Was Cuqui manipulated into it? Did Cuqui know the girl's intentions? This is processed but not resolved.
+- **Why was the assailant at Gaby's house in the first place?** Cookie/Kuki brought her. Was Cookie/Kuki manipulated into it? Did Cookie/Kuki know the girl's intentions? This is processed but not resolved.
 
 ---
 

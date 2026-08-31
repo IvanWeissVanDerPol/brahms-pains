@@ -56,7 +56,7 @@
 
 ### If the topic is...
 
-**Cuqui and her behavior**
+**Cookie/Kuki and her behavior**
 → **Primary:** Linehan (DBT) — evidence-based for TLP-pattern behaviors
 → **Secondary:** Bateman/Fonagy (MBT) — disorganized attachment
 → **Tertiary:** Herman (3-stage) — if trauma is primary
@@ -98,7 +98,7 @@
 → **Tertiary:** Yalom (factors) — what's working?
 → **Avoid:** Individual frameworks
 
-**The daughter (Cuqui's)**
+**The daughter (Cookie/Kuki's)**
 → **Primary:** Bowlby (child attachment) — her attachment pattern
 → **Secondary:** ACE screening — adverse experiences
 → **Tertiary:** Child welfare (systemic)
@@ -126,7 +126,7 @@
 
 ## Frame combinations to use
 
-### For Cuqui's full work
+### For Cookie/Kuki's full work
 1. **Herman (3-stage)** for the trauma layer
 2. **Linehan (DBT)** for the behavioral layer
 3. **Bateman/Fonagy (MBT)** for the relational layer

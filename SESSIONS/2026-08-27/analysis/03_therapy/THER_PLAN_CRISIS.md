@@ -1,17 +1,17 @@
-# Crisis Plan — Cuqui / TLP Situation
+# Crisis Plan — Cookie/Kuki / TLP Situation
 
 **Frame:** Stanley/Brown Safety Planning Intervention (SPI) + DBT crisis survival skills + child welfare considerations.
 
 **Status:** **HIGHEST PRIORITY.** This is the safety-grade material from the session.
 
 **TLP provenance (clarification):**
-- Cuqui self-labeled ("es TLP")
-- Manuel (Cuqui's friend/contact) disputed it
-- Lourdes (Cuqui's therapist) affirmed it
-- **Belén is NOT a formal TLP subject.** Both Cuqui and Lourdes have raised TLP as a **thought/possibility** about Belén — this is a friend's intuition, not a diagnosis. The label applies formally only to Cuqui.
+- Cookie/Kuki self-labeled ("es TLP")
+- Manuel (Cookie/Kuki's friend/contact) disputed it
+- Lourdes (Cookie/Kuki's therapist) affirmed it
+- **Belén is NOT a formal TLP subject.** Both Cookie/Kuki and Lourdes have raised TLP as a **thought/possibility** about Belén — this is a friend's intuition, not a diagnosis. The label applies formally only to Cookie/Kuki.
 - The label is treated here as **a friend's possibility + clinical position**, not a confirmed diagnosis
 
-**Disclaimer:** Not a clinical prescription. If Cuqui is in active crisis, contact local emergency services (Paraguay: 911; mental health crisis line).
+**Disclaimer:** Not a clinical prescription. If Cookie/Kuki is in active crisis, contact local emergency services (Paraguay: 911; mental health crisis line).
 
 ---
 
@@ -29,7 +29,7 @@
 | Disputed by Manuel | +4590s | 🟢 Information only (label is contested) |
 
 ### Risk pattern
-**The pattern suggests Cuqui is in the "active behavioral" phase of a chronic pattern:**
+**The pattern suggests Cookie/Kuki is in the "active behavioral" phase of a chronic pattern:**
 - Insight present (self-labels TLP)
 - Behavioral change absent (80 calls, breaking in, bed incident)
 - Pattern is escalating or stable
@@ -50,9 +50,9 @@
 2. **Document the bed incident** — write down what is known
 3. **Document the break-ins** — locations, dates, what's known
 4. **Address Lourdes' dual role** — friend or therapist, not both, decided explicitly
-5. **Identify Cuqui's current location** — is she safe tonight?
+5. **Identify Cookie/Kuki's current location** — is she safe tonight?
 
-### For Cuqui (if contact is appropriate)
+### For Cookie/Kuki (if contact is appropriate)
 1. **Written safety plan** — including:
    - 3 grounding contacts (who can she call?)
    - 3 places she can go
@@ -63,7 +63,7 @@
 4. **DBT skills** — TIPP (temperature, intense exercise, paced breathing, paired muscle relaxation)
 
 ### For the daughter
-1. **Identify her location** — is she with Cuqui? With another parent? In care?
+1. **Identify her location** — is she with Cookie/Kuki? With another parent? In care?
 2. **Identify her primary caregiver** — who is responsible for her daily care?
 3. **Contact child welfare** if needed (Paraguay: SNNA — Secretaría de la Niñez y la Adolescencia)
 
@@ -75,7 +75,7 @@
 1. **DBT program** — find a DBT program in Paraguay/Asunción area
 2. **Trauma-focused therapy** — EMDR or somatic experiencing for the Aldea SOS history
 3. **Mentalization-based therapy** (MBT) — for the disorganized attachment pattern
-4. **Medication evaluation** — if Cuqui is not already on medication, consider with psychiatrist
+4. **Medication evaluation** — if Cookie/Kuki is not already on medication, consider with psychiatrist
 
 ### Practical
 1. **Housing** — is her current housing stable?
@@ -103,8 +103,8 @@
 3. **Care plan** — who cares for her daily? What does she need?
 
 ### For the household
-1. **Re-include Cuqui gradually** — with structure, contracts, predictable ending
-2. **Distribute caregiving** — Cuqui is one person, not the central node
+1. **Re-include Cookie/Kuki gradually** — with structure, contracts, predictable ending
+2. **Distribute caregiving** — Cookie/Kuki is one person, not the central node
 3. **Address Lourdes' dual role** — transferred or defined
 
 ---
@@ -112,19 +112,19 @@
 ## Escalation triggers
 
 ### Call emergency services (911 in Paraguay) if
-- Cuqui is in immediate danger of harming herself or others
-- Cuqui is breaking into houses in real-time
+- Cookie/Kuki is in immediate danger of harming herself or others
+- Cookie/Kuki is breaking into houses in real-time
 - The daughter is in immediate danger
 
 ### Call Lourdes (if still treating) if
-- Cuqui is in acute distress but not emergency
-- Cuqui is escalating her calls (more than 80/day)
-- Cuqui is talking about self-harm or harm to others
+- Cookie/Kuki is in acute distress but not emergency
+- Cookie/Kuki is escalating her calls (more than 80/day)
+- Cookie/Kuki is talking about self-harm or harm to others
 
 ### Call child welfare (SNNA) if
 - The daughter's welfare is unclear
 - The daughter is being neglected or harmed
-- Cuqui cannot care for the daughter safely
+- Cookie/Kuki cannot care for the daughter safely
 
 ### Call a household meeting if
 - Multiple household members are affected
@@ -135,7 +135,7 @@
 
 ## Documentation template
 
-For each event involving Cuqui:
+For each event involving Cookie/Kuki:
 
 ```
 Date: ___________
@@ -153,7 +153,7 @@ Keep this log in a shared document (encrypted, with access control).
 
 ## The TLP label question
 
-**The room uses the TLP label.** Lourdes says TLP. Cuqui says TLP. Manuel disagrees.
+**The room uses the TLP label.** Lourdes says TLP. Cookie/Kuki says TLP. Manuel disagrees.
 
 **Why this matters:**
 - TLP/BPD has evidence-based treatments (DBT, MBT, TFP)
@@ -172,7 +172,7 @@ Keep this log in a shared document (encrypted, with access control).
 ## What to watch for in next session
 
 ### Red flags (immediate action)
-- Cuqui is in active crisis (suicidal ideation, harm to others)
+- Cookie/Kuki is in active crisis (suicidal ideation, harm to others)
 - The daughter is at risk
 - A break-in is happening or imminent
 
@@ -183,12 +183,12 @@ Keep this log in a shared document (encrypted, with access control).
 
 ### Green flags (improvement)
 - Calls decrease (80 → 20 → 5 → 1)
-- Cuqui engages with treatment
+- Cookie/Kuki engages with treatment
 - Daughter's welfare is addressed
-- Cuqui names her own pattern
+- Cookie/Kuki names her own pattern
 
 ---
 
 *File: `THER_PLAN_CRISIS.md`*
 *Frame: Stanley/Brown SPI + DBT crisis survival + child welfare considerations*
-*Disclaimer: not clinical prescription. If Cuqui is in active crisis, contact local emergency services.*
+*Disclaimer: not clinical prescription. If Cookie/Kuki is in active crisis, contact local emergency services.*

@@ -25,7 +25,7 @@
 **Behavioral examples from corpus:**
 - 23,000 messages with Ale (6 years of co-residency): Ivan initiates 52%, breaks silence 51% — **Ivan does the maintenance work**
 - 11,305 messages with Mom Sonia (7 years): balanced 50.3% — but the affection density is 2.0 per 1k (low) and care offered 1.7 per 1k
-- **The 08-27 "no puedo decir que no" pattern** is The Fixer operating at the household level: Iván says yes to Cuqui's 80 calls, to Gaby's hospital arrival, to Lourdes' dual role, to Kiki's intervention, to Ale's exit — **the Fixer makes it impossible to refuse**
+- **The 08-27 "no puedo decir que no" pattern** is The Fixer operating at the household level: Iván says yes to Cookie/Kuki's 80 calls, to Gaby's hospital arrival, to Lourdes' dual role, to Kiki's intervention, to Ale's exit — **the Fixer makes it impossible to refuse**
 
 **Cost:**
 - Exhaustion and burnout
@@ -155,7 +155,7 @@
 
 | Defense | Frequency | Evidence | Adaptive function |
 |---|---|---|---|
-| **Intellectualization** | High | "fake", "TLP", "polycule", "BDSM", clinical language for Cuqui | Translates affect to concept; lets him stay engaged without feeling |
+| **Intellectualization** | High | "fake", "TLP", "polycule", "BDSM", clinical language for Cookie/Kuki | Translates affect to concept; lets him stay engaged without feeling |
 | **Altruism (immature variant)** | High | "50 brownies", hospital visits, household logistics | Compulsive giving to avoid receiving |
 | **Suppression** | Medium | The cancer scare at +785s — drops it, moves on | Postpones affect (not the same as repression) |
 | **Isolation of affect** | Medium | Reports his own experience as if from outside ("Yo le dije a Iván...") | Keeps him functional during crisis |
@@ -194,7 +194,7 @@
 | **Avoidant identification** | High | "Me dejaron afuera" — accepts exclusion | Avoids the pain of wanting to be in |
 | **Suppression** | Medium | The 80 calls at 3am — reports, doesn't escalate | Avoids action |
 | **Passive observation** | High | Spelled "polycule", reports what others said | Safe contribution from periphery |
-| **Displacement (helpful)** | Low | Reports Cuqui's behavior to the group instead of acting alone | Functional |
+| **Displacement (helpful)** | Low | Reports Cookie/Kuki's behavior to the group instead of acting alone | Functional |
 
 **Pattern:** Ale uses **avoidant identification** as primary defense. He **wants connection but expects exclusion**, so he pre-positions at the edge. This is **mature in moderation** — he can still contribute meaningfully — but **immature when it prevents him from asserting his needs**.
 
@@ -209,26 +209,26 @@
 
 **Pattern:** Kiki uses **reaction formation** as primary defense — converting the helper impulse into its opposite ("I cannot fix anyone"). This is **mature** when integrated (which it appears to be), and **neurotic** when it leaves her isolated. The "Petunio" thread is the missing piece.
 
-### Cuqui (absent)
+### Cookie/Kuki (absent)
 
 | Defense | Frequency | Evidence | Adaptive function |
 |---|---|---|---|
-| **Splitting** | Very high (per room) | The room's shifting registers: "la mina", "mi paciente", "Cuqui" | The room is splitting her, but Cuqui may also be splitting the room |
+| **Splitting** | Very high (per room) | The room's shifting registers: "la mina", "mi paciente", "Cookie/Kuki" | The room is splitting her, but Cookie/Kuki may also be splitting the room |
 | **Acting out** | Very high | Bed incident, 80 calls at 3am, breaking into houses | Discharge of tension without reflection |
 | **Projective identification** | High | Forces Gaby into the caretaker role repeatedly | Externalizes internal states |
 | **Idealization/Devaluation** | High | "Es TLP" / "Manuel dijo: no, no sé qué cosa" | The room disagrees about her |
 | **Denial** | High (hypothesized) | Self-labels TLP without behavioral change | Insight without integration |
 
-**Pattern:** Cuqui's defenses are **immature-to-psychotic-level** on Vaillant's hierarchy. This is **consistent with** the TLP/BPD profile but **not diagnostic** — many other things present this way (complex PTSD, severe depression with personality features, dissociative disorders).
+**Pattern:** Cookie/Kuki's defenses are **immature-to-psychotic-level** on Vaillant's hierarchy. This is **consistent with** the TLP/BPD profile but **not diagnostic** — many other things present this way (complex PTSD, severe depression with personality features, dissociative disorders).
 
 ---
 
 ## Group-level defense pattern
 
 The group as a whole uses:
-- **Splitting** — Cuqui is simultaneously the assailant, the patient, and the daughter
+- **Splitting** — Cookie/Kuki is simultaneously the assailant, the patient, and the daughter
 - **Denial** — Nobody addressed the MRI scare, the household exclusion, or Lourdes' 2-year cost
-- **Projective identification** — The room **displaces** its own "too nice" pattern onto Cuqui
+- **Projective identification** — The room **displaces** its own "too nice" pattern onto Cookie/Kuki
 - **Acting out** — The bed incident, the 80 calls, the household exit were all **acted out**, not talked out
 - **Sublimation** — The session itself is a **mature sublimation** of the household's distress
 
@@ -245,7 +245,7 @@ The group as a whole uses:
 | Lourdes | Withdrawal | Setting limits | Permanent exile |
 | Ale | Avoidant identification | Contributing from edge | Never asserts needs |
 | Kiki | Reaction formation | "I can't fix anyone" | Permanent observer |
-| Cuqui | Splitting + acting out | (n/a — absent) | Crisis-grade behavior |
+| Cookie/Kuki | Splitting + acting out | (n/a — absent) | Crisis-grade behavior |
 
 ---
 

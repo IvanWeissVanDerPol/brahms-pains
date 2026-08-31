@@ -13,7 +13,7 @@
 - Lourdes (Speaker 0) — see `SESSION_2026-08-27_LOURDES_PROCESS.md`
 - Ale (Speaker 1) — see `SESSION_2026-08-27_ALE_WITNESS.md`
 - Kiki (Speaker 5) — see `SESSION_2026-08-27_KIKI_SUPPORT.md`
-- Cuqui — see `SESSION_2026-08-27_CUQUI_NARRATIVE.md`
+- Cookie/Kuki — see `SESSION_2026-08-27_CUQUI_NARRATIVE.md`
 
 ---
 
@@ -21,12 +21,12 @@
 
 ### La mina / la chica / la tipa (the assailant)
 - **Mentions:** ~40 across the transcript (no consistent name)
-- **Role:** The young woman who allegedly violated Gaby's bed, was confronted by Cuqui, retracted her accusation against Iván, has a Cuqui/Lourdes diagnosis of TLP (BPD), broke into Gaby's house, made 80+ calls to Ale from 3am
+- **Role:** The young woman who allegedly violated Gaby's bed, was confronted by Cookie/Kuki, retracted her accusation against Iván, has a Cookie/Kuki/Lourdes diagnosis of TLP (BPD), broke into Gaby's house, made 80+ calls to Ale from 3am
 - **Key facts:**
-  - Was brought into Gaby's house by Cuqui
+  - Was brought into Gaby's house by Cookie/Kuki
   - Had sex with Iván (per Kiki's recounting; the original account was disputed)
-  - Retracted her account after Cuqui confronted her
-  - Has **TLP (Borderline Personality Disorder)** per Cuqui and Lourdes
+  - Retracted her account after Cookie/Kuki confronted her
+  - Has **TLP (Borderline Personality Disorder)** per Cookie/Kuki and Lourdes
   - Has broken into Gaby's house to find Iván
   - Has made 80+ calls between 3am and morning
   - Was staying in the household with her pet turtles
@@ -52,19 +52,19 @@
 
 ### Belén
 - **Mentions:** 33
-- **Role:** Friend of Nate; lived in the household; "familia reabusiva"; brought a turtle from an abusive household; the "2a sesión" was supposed to be with Cuqui + Belén
-- **TLP/BPD status:** **NOT a TLP subject.** Both Cuqui and Lourdes raised TLP as a **thought/possibility** about Belén (not as a diagnosis). This is **not confirmed**, and is **not** the formal TLP pattern in the room — that belongs to Cuqui. Mentioned here only for completeness because it surfaced in discussion.
+- **Role:** Friend of Nate; lived in the household; "familia reabusiva"; brought a turtle from an abusive household; the "2a sesión" was supposed to be with Cookie/Kuki + Belén
+- **TLP/BPD status:** **NOT a TLP subject.** Both Cookie/Kuki and Lourdes raised TLP as a **thought/possibility** about Belén (not as a diagnosis). This is **not confirmed**, and is **not** the formal TLP pattern in the room — that belongs to Cookie/Kuki. Mentioned here only for completeness because it surfaced in discussion.
 - **Key facts:**
   - Was a friend of Nate (+969s)
   - Family is "reabusiva" (Ale +2475s)
   - Originally living with Nate "sin contexto de nada" (+2475s)
   - Moved to Iván's house
   - "Retrajo sus cosas" — pulled her things in
-  - Cuqui confronted her: "no es honor que estés acá" (+2556s)
+  - Cookie/Kuki confronted her: "no es honor que estés acá" (+2556s)
   - Has a turtle from her abusive family (+881s)
   - The turtle that died was partly Iván's responsibility (+944s)
   - Had a "trío" without Iván after inviting him to stay (+824s, +1268s)
-  - Was "onda terapia también con Cuqui" in the first session — acted as Cuqui's informal therapist (+1571s)
+  - Was "onda terapia también con Cookie/Kuki" in the first session — acted as Cookie/Kuki's informal therapist (+1571s)
 
 ### Lua pelinegro ("Negro")
 - **Mentions:** 4 (as "Lua pelinegro") + scattered
@@ -138,18 +138,18 @@
 
 ### Maite
 - **Mentions:** 1
-- **Role:** Someone Cuqui trusts enough to relay a serious message
+- **Role:** Someone Cookie/Kuki trusts enough to relay a serious message
 - **Key facts:**
-  - "**Maite te dijo que esto es muy serio**" (+2393s, Iván recounting Cuqui's visit)
-  - Cuqui came to Iván's parents' house to tell him what Maite had reported
-  - Maite is **the upstream source** for Cuqui's concern
+  - "**Maite te dijo que esto es muy serio**" (+2393s, Iván recounting Cookie/Kuki's visit)
+  - Cookie/Kuki came to Iván's parents' house to tell him what Maite had reported
+  - Maite is **the upstream source** for Cookie/Kuki's concern
 
 ### Manuel
 - **Mentions:** 1
-- **Role:** Someone who disputed Cuqui's TLP diagnosis
+- **Role:** Someone who disputed Cookie/Kuki's TLP diagnosis
 - **Key facts:**
   - "**Manuel dijo: 'No, no sé qué cosa, bla, bla'. Es TLP.**" (+4590s)
-  - Manuel disputed; Cuqui stood firm
+  - Manuel disputed; Cookie/Kuki stood firm
   - Lourdes independently confirmed TLP
 
 ### Fran
@@ -233,8 +233,8 @@
 | **Mike** | 2 | Attendee |
 | **Laura** | 2 | Referenced (possibly infidelity origin) |
 | **Yeyo** | 1 | Theorist (neurodivergent clustering) |
-| **Maite** | 1 | Cuqui's trusted source |
-| **Manuel** | 1 | Disputed Cuqui's TLP call |
+| **Maite** | 1 | Cookie/Kuki's trusted source |
+| **Manuel** | 1 | Disputed Cookie/Kuki's TLP call |
 | **Fran** | 1 | Sunday merienda |
 | **KPE / Pedro** | 1 | Live streamer, boundary violation |
 | **Petunio** | 1 | Kiki's pet/companion |

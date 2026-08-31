@@ -138,7 +138,7 @@ Kiki is the one pushing for **formal action** — both against the assailant ("y
 |---|---|
 | **Iván** | Primary target of both registers. Younger-sibling protective mode. "Get your life together. Tenés 26 ya." |
 | **Gaby** | Defended in early session (1478–1756s). Empathized with the assailant ("no quería quedar mal") — unusual for Kiki. |
-| **Cuqui** | Stood up for Gaby — Kiki retells this approvingly. Cuqui is a reference point for "what to do when someone says no". |
+| **Cookie/Kuki** | Stood up for Gaby — Kiki retells this approvingly. Cookie/Kuki is a reference point for "what to do when someone says no". |
 | **Lourdes** | Kiki interacts less with Lourdes; the cold/clear register is more sibling-facing. |
 | **Ale** | "**Ale estaba conmigo**" (+3340.9s) — Kiki retelling Ale's presence during the bed incident. |
 | **Petunio** | Mentioned twice (+3451s, +3652s) — the family pet, Kiki's companion. Petunio is Kiki's emotional reference for "having the reason but not saying the things". |

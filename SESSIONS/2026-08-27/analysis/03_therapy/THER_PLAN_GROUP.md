@@ -7,8 +7,8 @@
 - Ale = co-resident
 - Kiki = Iván's sister
 - Gaby = friend
-- Lourdes = friend, T-in-training, Cuqui's therapist
-- Cuqui = absent subject (potentially re-included with structure)
+- Lourdes = friend, T-in-training, Cookie/Kuki's therapist
+- Cookie/Kuki = absent subject (potentially re-included with structure)
 
 ---
 
@@ -47,7 +47,7 @@ Each "dropped moment" is named and processed. The room demonstrates it can hold 
 | 0–10 | Round-robin: "where are you with the dropped moments?" | All |
 | 10–30 | Each person tells their version of "too nice" pattern | All |
 | 30–50 | Group process: what's the function? What's the cost? | All |
-| 50–70 | The projection: are we processing Cuqui or ourselves? | All |
+| 50–70 | The projection: are we processing Cookie/Kuki or ourselves? | All |
 | 70–85 | Distribution experiment: each person takes one caregiving task | All |
 | 85–90 | Closing | All |
 
@@ -76,12 +76,12 @@ Lourdes' role is explicitly defined. The clinical-ethical issue is resolved.
 
 ---
 
-## Session 4 — Cuqui's safety + daughter
+## Session 4 — Cookie/Kuki's safety + daughter
 
 ### Focus
 **Address the safety events and the daughter's welfare.**
 
-### Structure (90 min) — without Cuqui
+### Structure (90 min) — without Cookie/Kuki
 | Min | Activity | Who |
 |---|---|---|
 | 0–10 | Round-robin | All |
@@ -96,26 +96,26 @@ A safety plan exists. The daughter's welfare is explicitly addressed. Authority 
 
 ---
 
-## Session 5 — Cuqui in the room (conditional)
+## Session 5 — Cookie/Kuki in the room (conditional)
 
 **CONDITIONAL:** Only if the safety plan from Session 4 is in place AND Lourdes' dual role is resolved from Session 3.
 
 ### Focus
-**Bring Cuqui into the room with structure.**
+**Bring Cookie/Kuki into the room with structure.**
 
 ### Structure (60 min — shorter, predictable ending)
 | Min | Activity | Who |
 |---|---|---|
 | 0–5 | Welcome + ground rules (read aloud) | Iván |
-| 5–15 | Cuqui: what do you need from this room? | Cuqui |
-| 15–25 | Each person: one thing they've been carrying about Cuqui | All |
+| 5–15 | Cookie/Kuki: what do you need from this room? | Cookie/Kuki |
+| 15–25 | Each person: one thing they've been carrying about Cookie/Kuki | All |
 | 25–45 | Group process | All |
-| 45–55 | Cuqui: what did you hear? | Cuqui |
+| 45–55 | Cookie/Kuki: what did you hear? | Cookie/Kuki |
 | 55–58 | Contracts for next week | All |
 | 58–60 | Grounding closing | All |
 
 ### Outcome
-Cuqui is in the room. The room demonstrates it can hold her. A contract exists for next week.
+Cookie/Kuki is in the room. The room demonstrates it can hold her. A contract exists for next week.
 
 ---
 
@@ -186,9 +186,9 @@ The group has a continuation structure. Each person commits to one ongoing pract
 3. **End with grounding** — what each person needs in next 24h
 4. **Document follow-ups** — who needs what by next session
 5. **Escalation plan** — if anyone is in active crisis
-6. **No Cuqui bashing** — the projection must be named, but Cuqui is a person
+6. **No Cookie/Kuki bashing** — the projection must be named, but Cookie/Kuki is a person
 
-### For sessions that include Cuqui
+### For sessions that include Cookie/Kuki
 1. **Predictable structure** — same time, same place, same length, same ending
 2. **Contracts first** — what's allowed, what's not
 3. **Shorter sessions** — 60 min, not 90

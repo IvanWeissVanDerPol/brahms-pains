@@ -5,9 +5,9 @@
 - **Iván + Kiki** = siblings (real family)
 - **Iván + Gaby** = friends (not household)
 - **Iván + Lourdes** = friends (therapist-in-training, clinical frame not announced in transcript)
-- **Cuqui** = absent subject (2nd Cuqui session)
+- **Cookie/Kuki** = absent subject (2nd Cookie/Kuki session)
 
-**Implication:** The household system is **smaller and tighter** than I first mapped. Iván is **the hub** — three of the five in-room people (Ale, Kiki, Gaby) and the absent subject (Cuqui) all connect through him. Lourdes is **the only** non-Iván-mediate relation in the room (Lourdes ↔ Gaby is the secondary link).
+**Implication:** The household system is **smaller and tighter** than I first mapped. Iván is **the hub** — three of the five in-room people (Ale, Kiki, Gaby) and the absent subject (Cookie/Kuki) all connect through him. Lourdes is **the only** non-Iván-mediate relation in the room (Lourdes ↔ Gaby is the secondary link).
 
 This file maps the **observable family-of-origin material** for each speaker. **Most speakers did NOT surface explicit origin material in this session** — what follows is what surfaced plus inferences.
 
@@ -63,7 +63,7 @@ This file maps the **observable family-of-origin material** for each speaker. **
 
 **What this means for the 08-27 reading:**
 - The session is **not** about Iván's origin family. The origin family is **largely absent** from the conversation — Ivan is processing the household-of-choice.
-- The 08-27 "no puedo decir que no" pattern is the **operational expression** of the pesado defense organization: the family-wide rejection at age 2 created the Fixer; the Fixer manifests in the household as saying yes to Cuqui
+- The 08-27 "no puedo decir que no" pattern is the **operational expression** of the pesado defense organization: the family-wide rejection at age 2 created the Fixer; the Fixer manifests in the household as saying yes to Cookie/Kuki
 - The polycule structure is the **reparative chosen family** that the origin family couldn't provide
 - **The next session's work** (origin family) is not in this room. It's in Lalla's (Ivan's actual therapist) room.
 
@@ -163,8 +163,8 @@ This **dual register** is **a feature, not a pathology** — it's the bilingual 
 
 ### What surfaced
 - **Co-resident with Iván** (the only household pair)
-- Reports Cuqui's 80 calls at 3am (+3226s) — **active vigilance**
-- "Me dejaron afuera de todas las conversaciones" (+3097s) — **excluded from the Cuqui-exit decision**
+- Reports Cookie/Kuki's 80 calls at 3am (+3226s) — **active vigilance**
+- "Me dejaron afuera de todas las conversaciones" (+3097s) — **excluded from the Cookie/Kuki-exit decision**
 - Spelled out "polycule" (+487s) — **provides vocabulary for the system**
 - Leaves at ~55 minutes
 
@@ -173,7 +173,7 @@ This **dual register** is **a feature, not a pathology** — it's the bilingual 
 - Ale is **the quietest speaker** — origin material likely exists but isn't being shared
 
 ### Pattern interpretation
-Ale is **the systems observer who lives in the system**. His exclusion from the Cuqui decision **re-enacts a familiar pattern** (the person who sees everything but isn't consulted). His leaving at 55 minutes could be:
+Ale is **the systems observer who lives in the system**. His exclusion from the Cookie/Kuki decision **re-enacts a familiar pattern** (the person who sees everything but isn't consulted). His leaving at 55 minutes could be:
 - Genuine scheduling
 - **Self-removal before being told to leave**
 - A signal that the work after that point was **not for him**
@@ -183,27 +183,27 @@ Ale is **the systems observer who lives in the system**. His exclusion from the 
 
 ---
 
-## Cuqui (absent)
+## Cookie/Kuki (absent)
 
 ### What surfaced
-- **Aldea SOS background** (+2574s, per Iván): "Cuqui tiene contexto de la aldea SOS, que eran niños que pasaban por abuso y tienen los psicóloga ahí"
+- **Aldea SOS background** (+2574s, per Iván): "Cookie/Kuki tiene contexto de la aldea SOS, que eran niños que pasaban por abuso y tienen los psicóloga ahí"
 - **Abuse history**: "como sufría abuso" (+4524s)
 - Has a daughter
-- Has been **labeled TLP** by Lourdes, by Cuqui herself, and **disputed** by Manuel
+- Has been **labeled TLP** by Lourdes, by Cookie/Kuki herself, and **disputed** by Manuel
 - Bed incident, 80 calls, breaking into houses
 
 ### Pattern interpretation (high confidence)
-Cuqui's origin is **the canonical trauma-survivor profile**:
+Cookie/Kuki's origin is **the canonical trauma-survivor profile**:
 - Aldea SOS = residential care for abused children in Paraguay
 - Disputed TLP label
-- Self-labels TLP ("Cuqui dijo TLP") — **insight without behavioral change**
+- Self-labels TLP ("Cookie/Kuki dijo TLP") — **insight without behavioral change**
 - Cycles through household placements (was at Gaby's, was at the polycule, was at Nate's, now... ?)
 
 ### The daughter's frame
-The daughter is **the most under-addressed topic** in the session. Cuqui's acting-out directly affects a child. **This is a child-welfare frame**, not just a clinical frame.
+The daughter is **the most under-addressed topic** in the session. Cookie/Kuki's acting-out directly affects a child. **This is a child-welfare frame**, not just a clinical frame.
 
 ### Process question
-"If Cuqui is in next session, the first 15 minutes need to be: 'what does Sofita need?' (or whatever the daughter's name is)."
+"If Cookie/Kuki is in next session, the first 15 minutes need to be: 'what does Sofita need?' (or whatever the daughter's name is)."
 
 ---
 
@@ -216,9 +216,9 @@ The daughter is **the most under-addressed topic** in the session. Cuqui's actin
 | Lourdes | Unspecified origin; professionalization of insight | 2-year exile as the cost of clarity |
 | Kiki | Older sister role (chosen or required) | Sibling-as-therapist for the household |
 | Ale | Unspecified origin; pattern of being left out | Reports from the periphery, leaves before being left out |
-| Cuqui | Aldea SOS + abuse history | Acting-out, splitting, safety issues |
+| Cookie/Kuki | Aldea SOS + abuse history | Acting-out, splitting, safety issues |
 
-**The room is full of people who had to take care of themselves early.** This is **a household of self-made adults** — each of them built their own structure because origin family didn't provide one. Cuqui, who had **the least structural support** (Aldea SOS, abuse history), is **the one the system can't hold**.
+**The room is full of people who had to take care of themselves early.** This is **a household of self-made adults** — each of them built their own structure because origin family didn't provide one. Cookie/Kuki, who had **the least structural support** (Aldea SOS, abuse history), is **the one the system can't hold**.
 
 ---
 
@@ -231,7 +231,7 @@ For each speaker, the question is: **"What did your family-of-origin teach you t
 - **Lourdes**: Professionalization was a survival strategy. **The 2-year exile** suggests the cost was high.
 - **Kiki**: Older-sister role was a survival strategy. **"I cannot fix anybody but myself"** is the integration — now the question is what she wants to do with herself.
 - **Ale**: Peripheral observation was a survival strategy. **The 80 calls reporting** is functional; the leaving is the symptom.
-- **Cuqui**: Aldea SOS was a survival strategy. **Acting out was a survival strategy.** The strategies are still running. The question is whether she can build new ones.
+- **Cookie/Kuki**: Aldea SOS was a survival strategy. **Acting out was a survival strategy.** The strategies are still running. The question is whether she can build new ones.
 
 ---
 

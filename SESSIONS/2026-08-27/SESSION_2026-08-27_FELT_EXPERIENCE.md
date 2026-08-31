@@ -14,7 +14,7 @@
 > **How to use this document:** Each section has **questions** in italics. **Fill in the answers from inside the experience**, not from outside analysis. If a section is hard, skip it and come back. If a question doesn't fit, write what does. Don't perform. Don't polish. The unpolished version is what the session needs.
 
 > **MAJOR CORRECTIONS (2026-08-28, per Iván):**
-> 1. **The 08-23 bed incident:** Iván, Ale, Belén, and Gaby were all in Gaby's bed. Iván and Belén were touching each other (no sex, just teasing). Gaby's **kidney cyst** (not ovarian) exploded separately, unrelated to the touching. **"La mine" = Belén** — same person as the dawn break-in person, the rape-accuser, the assaillante.
+> 1. **The 08-23 bed incident:** Iván, Ale, Belén, and Gaby were all in Gaby's bed. Iván and Belén were touching each other (no sex, just teasing). Gaby's **kidney cyst** (not ovarian) exploded separately, unrelated to the touching. **"La mine" = Belén** — same person as the dawn break-in person, the rape-accuser, the belén.
 > 2. **The dawn break-in (08-27 AM):** **Belén** broke into Gaby's house, not Nate.
 > 3. **BDSM-origin:** **Iván introduced Nate to BDSM** (not reverse). At BDSM events, Nate met Lua pelinegro and Iván met Lua rubia.
 > 4. **TLP disclaimer:** Lua pelinegro said in session "we can't diagnose, we aren't professionals." TLP labels are session-level descriptive language, not clinical diagnoses.
@@ -171,7 +171,7 @@ This is the section where you link the felt experience to your own defense files
 
 ### Kiki (Kyrian)
 
-*She named you "inchabola" and "pesado" growing up. The FireWall file says she has Hardware access only, no Software access. During 08-27, did that history sit with you? Did the fact that she has her own patterns (Cuqui's TLP, the family dynamics) make it harder or easier to reach her?*
+*She named you "inchabola" and "pesado" growing up. The FireWall file says she has Hardware access only, no Software access. During 08-27, did that history sit with you? Did the fact that she has her own patterns (Cookie/Kuki's TLP, the family dynamics) make it harder or easier to reach her?*
 
 ### The two transfem Luas
 

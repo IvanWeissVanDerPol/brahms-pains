@@ -3,7 +3,7 @@
 **Frame:** Each speaker has **3 small experiments** for the week. Not therapy-replacement — therapy-supporting.
 
 **Cast:**
-- Iván, Ale, Kiki, Gaby, Lourdes, Cuqui (absent)
+- Iván, Ale, Kiki, Gaby, Lourdes, Cookie/Kuki (absent)
 
 ---
 
@@ -41,7 +41,7 @@
 ## Ale — 3 experiments
 
 ### 1. Write a safety plan for the 80 calls
-**What:** A written plan. Concrete. With what you'll do if Cuqui calls again.
+**What:** A written plan. Concrete. With what you'll do if Cookie/Kuki calls again.
 - When will you answer?
 - When will you not answer?
 - When will you escalate (to Lourdes? to Iván? to authorities?)?
@@ -122,7 +122,7 @@
 
 ## Lourdes — 3 experiments
 
-### 1. Decide the Cuqui role explicitly
+### 1. Decide the Cookie/Kuki role explicitly
 **What:** Friend or therapist, not both. Decide explicitly. Tell the room.
 
 **Why:** The dual role is the unresolved clinical-ethical issue. **Deciding** is the next step.
@@ -145,7 +145,7 @@
 
 ---
 
-## Cuqui (if she's in next session) — 3 experiments
+## Cookie/Kuki (if she's in next session) — 3 experiments
 
 ### 1. Make one call instead of 80
 **What:** If you want to call someone, make one call instead of 80. Say what you need to say in that one call.

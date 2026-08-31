@@ -44,7 +44,7 @@
 | Week | Topic | Experiment |
 |---|---|---|
 | 1 | **The exclusion pattern** | When in your life have you been left out? Write a list |
-| 2 | **The 80 calls at 3am** | What's your plan? Write a safety plan for Cuqui (or transfer the issue) |
+| 2 | **The 80 calls at 3am** | What's your plan? Write a safety plan for Cookie/Kuki (or transfer the issue) |
 | 3 | **The peripheral contribution** | When do you contribute from the edge? Notice daily |
 | 4 | **Co-residency** | What does living with Iván give you? What does it cost? |
 | 5 | **Origin family** | What's the pattern at home? |
@@ -136,7 +136,7 @@
 | Week | Topic | Experiment |
 |---|---|---|
 | 1 | **The 2-year silence** | What did it cost? What did it give? |
-| 2 | **The dual role** | Are you Cuqui's therapist or her friend? Decide explicitly |
+| 2 | **The dual role** | Are you Cookie/Kuki's therapist or her friend? Decide explicitly |
 | 3 | **The clinical precision** | When is it a defense? When is it a skill? |
 | 4 | **The exile pattern** | When in your life have you had to leave to survive? |
 | 5 | **Re-engagement plan** | What's the structure? 1 hour/week with exit criteria |
@@ -155,15 +155,15 @@
 - Still in "character" mode
 
 ### Specialty referrals needed
-1. **Clinical supervision** — for the Cuqui work specifically
+1. **Clinical supervision** — for the Cookie/Kuki work specifically
 2. **Peer consultation** — for the friend-therapist boundary
 
 ---
 
-## Cuqui — 8-week plan (if she's in next session)
+## Cookie/Kuki — 8-week plan (if she's in next session)
 
 ### Theme: "From acting-out to mentalization"
-**The core work:** Cuqui needs to build a structure she can live inside.
+**The core work:** Cookie/Kuki needs to build a structure she can live inside.
 
 ### Weekly topics
 | Week | Topic | Experiment |

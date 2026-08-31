@@ -120,17 +120,17 @@ The questions are grouped by how much they matter for the psychologist session. 
 
 ## GROUP B — Important for the long-term analysis
 
-### B1. Cuqui's current status
+### B1. Cookie/Kuki's current status
 
-**What I know:** Cuqui was cut off by Iván ("Iván said no contact pending safety work"). Cuqui self-labels TLP.
+**What I know:** Cookie/Kuki was cut off by Iván ("Iván said no contact pending safety work"). Cookie/Kuki self-labels TLP.
 
 **What I don't know:**
-- Is Cuqui currently in contact with anyone in the household (Gaby, Lourdes, Kiki, Ale)?
-- Does Iván know how Cuqui is doing? Is she in therapy? In a clinic?
-- Is the daughter (mentioned in some PSY files) with Cuqui, with someone else, or in care?
-- Was Cuqui at Gaby's house at any point during 08-23 to 08-28?
+- Is Cookie/Kuki currently in contact with anyone in the household (Gaby, Lourdes, Kiki, Ale)?
+- Does Iván know how Cookie/Kuki is doing? Is she in therapy? In a clinic?
+- Is the daughter (mentioned in some PSY files) with Cookie/Kuki, with someone else, or in care?
+- Was Cookie/Kuki at Gaby's house at any point during 08-23 to 08-28?
 
-**Why it matters:** Cuqui is a recurring figure in the analysis files but absent from 08-27. Her current state matters because the "no contact pending safety work" decision is operative.
+**Why it matters:** Cookie/Kuki is a recurring figure in the analysis files but absent from 08-27. Her current state matters because the "no contact pending safety work" decision is operative.
 
 ### B2. The 80+ calls 3-6 AM pattern
 
@@ -169,7 +169,7 @@ The questions are grouped by how much they matter for the psychologist session. 
 
 ### B5. The "deferred to others' judgments" pattern in Gaby
 
-**What I know (per Gaby process file):** Gaby has a pattern of deferring to others' judgments about her own victimhood. She didn't file a police report; Lourdes planted the seed; Cuqui said she would have.
+**What I know (per Gaby process file):** Gaby has a pattern of deferring to others' judgments about her own victimhood. She didn't file a police report; Lourdes planted the seed; Cookie/Kuki said she would have.
 
 **What I don't know:**
 - Is this a long-standing pattern or specific to the bed incident?
@@ -199,7 +199,7 @@ The recap mentions "recent MRI 07-22." What was the MRI investigating? Was this 
 
 ### C2. The turtle rescue — what's the status?
 
-Kiki threatened to report the family to IMADES (Paraguayan animal welfare) re: turtles the assaillante brought. Where are the turtles now?
+Kiki threatened to report the family to IMADES (Paraguayan animal welfare) re: turtles the belén brought. Where are the turtles now?
 
 ### C3. Ale's current living situation
 

@@ -12,17 +12,17 @@
 |---|---|---|---|
 | Gaby | **Father died in her arms, suddenly, while she was driving**; RCP-trained, blamed herself for years | Mourning (unfinished) | 🔴 High |
 | Gaby | Late-autism disclosure (cut off) | Mourning (newly surfaced) | 🔴 High |
-| Cuqui | **Aldea SOS background**, abuse history | Safety (chronic) | 🔴 High |
-| Cuqui | Bed incident (boundary violation by/with Cuqui) | Safety | 🔴 High |
-| Cuqui | "La mina" — 80 calls at 3am, breaking into houses (assault pattern) | Safety (acute) | 🔴 High |
-| Cuqui | Daughter — child welfare implication | Safety (third-party) | 🔴 High |
+| Cookie/Kuki | **Aldea SOS background**, abuse history | Safety (chronic) | 🔴 High |
+| Cookie/Kuki | Bed incident (boundary violation by/with Cookie/Kuki) | Safety | 🔴 High |
+| Cookie/Kuki | "La mina" — 80 calls at 3am, breaking into houses (assault pattern) | Safety (acute) | 🔴 High |
+| Cookie/Kuki | Daughter — child welfare implication | Safety (third-party) | 🔴 High |
 | Kiki | "Pollo egoísta" implied; older-sister role | Mourning (older sibling wound) | 🟠 Medium |
 | Iván | Cancer scare dropped without processing | Mourning (deferred) | 🟠 Medium |
 | Iván | "Demasiado bueno" / "no puede decir que no" — origin pattern | Mourning (deferred) | 🟡 Unknown |
 | Lourdes | 2-year Dubai exile cost | Mourning (processed but costly) | 🟡 Low |
 | Ale | "Me dejaron afuera" pattern | Mourning (chronic) | 🟡 Unknown |
 | Belén | "Su papá es abusivo" — referenced by Iván re: tortugas | Mourning (third-party) | 🟠 Medium |
-| Belén | TLP possibility raised by Cuqui and Lourdes (not a diagnosis) | N/A | 🟡 Speculative |
+| Belén | TLP possibility raised by Cookie/Kuki and Lourdes (not a diagnosis) | N/A | 🟡 Speculative |
 
 **Enriched:** 2026-08-28 with TREATMENT + GABY_ANALYSIS_2026-08-22 + corpus-wide context. The Gaby trauma narrative has **major new material** from the Gaby deep analysis. Ivan's trauma narrative has the named **"pesado" wound** from clinical files.
 
@@ -131,7 +131,7 @@
 
 ### Trauma surface in 08-27
 
-- **Dual role** (friend + Cuqui's therapist) — clinically and ethically exposed
+- **Dual role** (friend + Cookie/Kuki's therapist) — clinically and ethically exposed
 - **The cost of seeing clearly** — Lourdes paid for her clinical precision with 2 years of exile; now she's back, and the cost continues
 - **Mood cooling Δ-0.18** — Lourdes' recent mood has cooled (per 20hats, July 2026)
 
@@ -149,13 +149,13 @@
 
 ### Acute exposure (08-27)
 
-- **The 80 calls at 3am reporting** — Ale is functional vigilance for Cuqui
-- **Being left out of Cuqui-exit decision** — the household decision was made without him
+- **The 80 calls at 3am reporting** — Ale is functional vigilance for Cookie/Kuki
+- **Being left out of Cookie/Kuki-exit decision** — the household decision was made without him
 - **Leaving at 55 min** — could be self-removal before being told to leave
 
 ---
 
-## Cuqui's trauma map (corpus + session enriched)
+## Cookie/Kuki's trauma map (corpus + session enriched)
 
 **Source:** Lourdes' clinical references + Gaby's distress references + 08-27 session
 
@@ -163,14 +163,14 @@
 
 - **Aldea SOS background** — institutional care history
 - **Abuse history** — referenced by Lourdes
-- **Bed incident** — boundary violation with/by Cuqui
+- **Bed incident** — boundary violation with/by Cookie/Kuki
 - **80 calls at 3am + breaking into houses** — acute assault pattern
-- **TLP self-label** — disputed by Manuel (Cuqui's friend), affirmed by Lourdes (therapist)
+- **TLP self-label** — disputed by Manuel (Cookie/Kuki's friend), affirmed by Lourdes (therapist)
 - **Daughter** — child welfare implication, unaddressed
 
 ### Uncertain
 
-- **TLP label** — raised as possibility, not diagnosis. Both Cuqui and Lourdes have separately raised TLP as a thought about Belén, not as a diagnosis
+- **TLP label** — raised as possibility, not diagnosis. Both Cookie/Kuki and Lourdes have separately raised TLP as a thought about Belén, not as a diagnosis
 - **Father's involvement** — unknown
 - **Pre-Aldea history** — unknown
 
@@ -181,9 +181,9 @@
 **Source:** Session references + user clarification (2026-08-28)
 
 - **Abusive father** (turtle-killing household) — referenced by Iván
-- **TLP possibility** — raised by both Cuqui AND Lourdes as a thought, not as a diagnosis (per Iván's correction 2026-08-28)
+- **TLP possibility** — raised by both Cookie/Kuki AND Lourdes as a thought, not as a diagnosis (per Iván's correction 2026-08-28)
 - **Friend of Nate, lived in the household**
-- **The 2a sesión** — supposed to be Cuqui + Belen
+- **The 2a sesión** — supposed to be Cookie/Kuki + Belen
 
 ---
 
@@ -219,44 +219,44 @@ Herman's stage 2: confronting the loss. Gaby has begun mourning her father but *
 
 ---
 
-## Cuqui's trauma — **Highest priority + safety**
+## Cookie/Kuki's trauma — **Highest priority + safety**
 
 ### What surfaced
-- **Aldea SOS background** (+2574s): "Cuqui tiene contexto de la aldea SOS, que eran niños que pasaban por abuso y tienen los psicóloga ahí"
+- **Aldea SOS background** (+2574s): "Cookie/Kuki tiene contexto de la aldea SOS, que eran niños que pasaban por abuso y tienen los psicóloga ahí"
 - **Abuse history** (+4524s): "como sufría abuso"
 - **Bed incident** (+1616s) — boundary violation, details unclear but serious
 - **80 calls at 3am** to Ale (+3226s) — **safety event**
 - **Breaking into houses** — referenced by group
 - **Has a daughter** — child welfare frame implicit
-- **TLP label** — disputed, but used by Cuqui herself
+- **TLP label** — disputed, but used by Cookie/Kuki herself
 
 ### Stage: **Safety (chronic, ongoing)**
-Herman's stage 1: establishing safety. Cuqui is **not in safety**:
+Herman's stage 1: establishing safety. Cookie/Kuki is **not in safety**:
 - She is making 80 calls at 3am
 - She is breaking into houses
 - She has a daughter whose welfare is unclear
 - Her TLP label (self-applied) suggests she knows something is wrong but cannot change the behavior
 
 ### Lourdes' role — **critical**
-Lourdes has been Cuqui's therapist. **This means Cuqui has had access to clinical care.** The question is **why** the boundary violations continue.
+Lourdes has been Cookie/Kuki's therapist. **This means Cookie/Kuki has had access to clinical care.** The question is **why** the boundary violations continue.
 
 **Possible readings:**
-1. Lourdes set a boundary (the 2-year silence was with Cuqui? or with Nate? unclear)
-2. Cuqui is not currently in active treatment with Lourdes
-3. Cuqui's TLP behaviors are **beyond what outpatient therapy can hold** — needs DBT or residential
+1. Lourdes set a boundary (the 2-year silence was with Cookie/Kuki? or with Nate? unclear)
+2. Cookie/Kuki is not currently in active treatment with Lourdes
+3. Cookie/Kuki's TLP behaviors are **beyond what outpatient therapy can hold** — needs DBT or residential
 
 ### The daughter's frame
-**The most under-addressed thread in the session.** Cuqui has a daughter. The daughter's needs are **the highest priority** in any future intervention:
+**The most under-addressed thread in the session.** Cookie/Kuki has a daughter. The daughter's needs are **the highest priority** in any future intervention:
 - Is the daughter safe?
-- Is the daughter in Cuqui's care, in another parent's care, in institutional care?
-- What does the daughter need that Cuqui cannot provide?
+- Is the daughter in Cookie/Kuki's care, in another parent's care, in institutional care?
+- What does the daughter need that Cookie/Kuki cannot provide?
 
 ### Recommended work
 1. **Safety planning** — written, with contact authorities trigger
 2. **DBT** (Dialectical Behavior Therapy) — evidence-based for BPD/TLP
 3. **Mentalization-based therapy** (Bateman/Fonagy) — addresses disorganized attachment
 4. **Lourdes' role** — **must be named explicitly** in next session
-5. **Daughter's welfare** — **first question** in any session that includes Cuqui
+5. **Daughter's welfare** — **first question** in any session that includes Cookie/Kuki
 6. **If Lourdes is still the treating clinician**: consider transfer to a non-friend, since the dual role compromises both
 
 ---
@@ -313,10 +313,10 @@ Kiki has integrated her position (cannot fix anyone) but **the cost is also unpr
 ### What surfaced
 - **2-year Dubai exile** — processed rationally, **expensive emotionally**
 - **Clinical role** — has professionalized her psychological insight
-- **Dual role** with Cuqui (friend + therapist) — **the unresolved tension**
+- **Dual role** with Cookie/Kuki (friend + therapist) — **the unresolved tension**
 
 ### Stage: **Mourning (processed but costly)**
-Lourdes has done her work. **The 2-year silence was the cost of clarity.** But the dual role with Cuqui is **the active unresolved issue**.
+Lourdes has done her work. **The 2-year silence was the cost of clarity.** But the dual role with Cookie/Kuki is **the active unresolved issue**.
 
 ### Recommended work
 1. **Re-engagement plan** — at the cost of moving, not staying away
@@ -328,7 +328,7 @@ Lourdes has done her work. **The 2-year silence was the cost of clarity.** But t
 ## Ale's trauma — **Chronic exclusion**
 
 ### What surfaced
-- **Excluded from Cuqui-exit decision** — "me dejaron afuera"
+- **Excluded from Cookie/Kuki-exit decision** — "me dejaron afuera"
 - **Co-resident with Iván** — sees the daily pattern
 - **80 calls at 3am** — receives them, reports them, doesn't escalate
 
@@ -350,12 +350,12 @@ Ale's exclusion is **recurring** ("me dejaron afuera") but **not catastrophic**.
 
 For any future session:
 
-1. **Start with safety check** — for everyone, not just Cuqui
-2. **Name the absent subject** — Cuqui is being processed; check the impact
+1. **Start with safety check** — for everyone, not just Cookie/Kuki
+2. **Name the absent subject** — Cookie/Kuki is being processed; check the impact
 3. **Watch for re-traumatization** — graphic detail, sudden shifts, dissociation
 4. **End with grounding** — what each person needs in the next 24 hours
 5. **Document follow-ups** — who needs what by next session
-6. **Escalation plan** — if anyone is in active crisis (Gaby's grief, Cuqui's safety, the daughter's welfare)
+6. **Escalation plan** — if anyone is in active crisis (Gaby's grief, Cookie/Kuki's safety, the daughter's welfare)
 
 ---
 

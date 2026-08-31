@@ -236,7 +236,7 @@ The 08-27 session is **the household-level expression of the same dynamic.**
 
 ### What this room asks of her
 
-The 08-27 session places Gaby **at scale** — not just Ivan's anchor but the household's caretaker. The pursued caretaker pattern she has practiced for 53 days with Ivan is being asked to operate across the polycule + Cuqui's acute crisis + the household infrastructure. The cost-reciprocity asymmetry that is bilateral with Ivan becomes multilateral in the household. **She gives, but cannot receive; the household needs her to keep giving.**
+The 08-27 session places Gaby **at scale** — not just Ivan's anchor but the household's caretaker. The pursued caretaker pattern she has practiced for 53 days with Ivan is being asked to operate across the polycule + Cookie/Kuki's acute crisis + the household infrastructure. The cost-reciprocity asymmetry that is bilateral with Ivan becomes multilateral in the household. **She gives, but cannot receive; the household needs her to keep giving.**
 
 ---
 
