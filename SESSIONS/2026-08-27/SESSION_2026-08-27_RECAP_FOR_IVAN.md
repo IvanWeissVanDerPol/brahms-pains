@@ -65,16 +65,24 @@
 - The valid core ("I need space, my people are getting hurt, I cannot be in this dynamic right now") got buried under the hurt
 
 ### D. The context you don't have logged but matters
-- **After the 08-23 bed incident, a follow-on sequence at Iván's house:** When Iván was going to take Gaby to the hospital, everyone went with **Belén** (Belén had gone to hide alone in the back of the house — a place full of mosquitos/dengue risk). After that, there was a talk session in Iván's room, and **Gaby left alone to the hospital** (the support went to Belén, not to Gaby).
-- **At the hospital:** Gaby talked with Belén and told her to take care of herself and always choose herself first. **Belén exploded, went to cry away from the group. Iván went after her** (followed/comforted her).
-- **BDSM origin (corrected):** **Iván introduced Nate to the BDSM community**, not the other way around. There, **Nate met Lua pelinegro**, and **Iván met Lua rubia**. Earlier drafts had this reversed.
-- **The "trio/dildos" incident context (corrected):** Iván came home ~11 PM from the hospital, exhausted, with an **endoscopy the next day** to check a polyp that **might be cancer**. Iván said "I'll go shower and sleep," **Belén asked Iván to stay** — nobody complained. Iván declined. Afterward, **Belén (and others)** said Iván should have "asked more" — i.e., the retroactive criticism was about a stay-invitation Iván declined because of exhaustion and pre-endoscopy anxiety. Not a trio "behind his back" in a sinister sense — a declined stay-invitation framed later as insufficient consent-seeking.
-- The assaillante (Belén) made 80+ calls between 3-6 AM
-- Gaby is medically fragile (kidney pain, kidney cyst explosion event, recent MRI 07-22, recent autism diagnosis)
-- Kuki is Iván's sister — she was directly named as someone excluded by Lua rubia
-- Ale is Iván's housemate/witness — he was at the Luba gathering that excluded Iván
-- Lourdes is a therapist-in-training — she raised the question of an "orden de restricción" against the assaillante
-- Your sisters, mom, and close friends (per your own words) have all been saying the household dynamic is hurting you
+- **08-23 night — bed incident at Gaby's house:** All four in bed: **Iván, Ale, Belén, Gaby**. **Iván was masturbating Belén** (touching her genitals for her pleasure — Belén did not touch Iván back; Iván gets pleasure from giving pleasure). **Ale was singing Bohemian Rhapsody to cover some sounds, mostly just present** (Ale's role was defensive/cover, not participating). **Gaby was on antibiotics + tramadol, and her kidney cyst exploded separately**, unrelated to the touching. In her disoriented state, Gaby discovered the situation that constituted the violation of her bed.
+- **08-23 night or after — threesome at Iván's house (different event):** Iván came home ~11 PM, said he'd shower and sleep, had an **endoscopy the next morning** to check for cancer (polyp). **Belén asked Iván to stay.** This was when there was a threesome in Iván's house. Iván declined the stay-invitation. Later criticized as "you should have asked more."
+  - **IMPORTANT: This is a SEPARATE EVENT from the bed incident at Gaby's house.** Earlier drafts conflated them. The "trio with my dildos" in Iván's 11:56 message to Nate could refer to either or both.
+- **08-23→08-24, ~5 AM hospital sequence:** Something happened ~5 AM; **Belén went to the air conditioner behind the house** (the mosquito area). Iván went to search for her; **Iván, Nate, and Lua pelinegro talked with Belén in Iván's room** while **Ale stayed with Gaby**. ~6 AM Gaby went to find Iván to go to the hospital, but **he was asleep already**; Gaby left alone to the hospital.
+- **At the hospital:** Gaby told Belén to take care of herself and always choose herself first. **Belén exploded, went to cry away from the group. Iván went after her** (followed/comforted her).
+- **BDSM origin (corrected 2026-08-28):** Per Iván's correction, the actual sequence was: **Iván met Nate on Tinder → they talked more at a mutual friend's party → Iván introduced Nate to Nico and to the BDSM group → through that group, Nate met Lua pelinegro → other people (including the Luas) then came to Iván's house.** So Iván is the BDSM introducer; Ale's recounting at +458s (which has Nate bringing Iván to BDSM) is wrong from Iván's POV.
+- **The 11:45 AM context — Iván was with Ale and Gaby in Gaby's living room** at the table, **discussing that Belén came at 3 AM to 11 AM to Gaby's house** (an **8-hour window** of Belén being at Gaby's house — the dawn break-in wasn't a brief event but an 8-hour presence). The messages to Nate were sent during this discussion.
+- **The 11:45-12:00 PM messages to Nate were two things at once:** (1) update / "WTF Belén" (telling Nate what happened with Belén), (2) ask for space from the group. Not a breakup announcement; a context dump + a space request.
+- **The assaillante (Belén) made 80+ calls between 3-6 AM** (separate from the in-person 3 AM-11 AM presence at Gaby's house)
+- **Gaby's house = Gaby's private home** (Gaby lives alone). All visits from the polycule were guests.
+- **Iván's house** = where **Belén was living with Ale**, and where the **Luas and Nate were visiting daily until late, leaving messes** (since ~July 1).
+- **Household mess detail:** ~2 months of accumulated mess from Lua — her accessories (clothes store), her towels, use of Iván's dryer and washer, weed brownies cooked in Iván's oven, general kitchen use always leaving a mess of the kitchen area.
+- **Gaby is medically fragile** (kidney cyst explosion event, kidney pain, recent MRI 07-22, recent autism diagnosis)
+- **Kuki (=Cookie) is Iván's friend with medical experience** (separate from Kiki = Iván's sister Kyrian). Kuki is **NOT** Iván's sister. **Kiki IS Iván's sister.** Earlier drafts conflated these.
+- **Belén's rape accusation was informal** — made to **Kuki** (the friend with medical experience), retracted and clarified to Kuki afterward
+- **Ale is Iván's housemate/witness** — he was at the Luba gathering that excluded Iván
+- **Lourdes is a therapist-in-training** — she raised the question of an "orden de restricción" against the assaillante
+- **Your sisters, mom, and close friends** (per your own words) have all been saying the household dynamic is hurting you
 
 ---
 
@@ -142,14 +150,20 @@ See §C above.
 
 Bring this recap. The questions worth raising with your psychologist:
 
-1. **Boundary vs. cutoff:** Is the space you're asking for a 7-day breathing window, or a permanent exit from the polycule? Both are valid, but they need different words and different actions.
+1. **Cutoff, not boundary (CORRECTED 2026-08-28):** Per Iván 2026-08-28, **Iván is completely off from the whole group** — no romantic or sexual interest in any of them (Nate, Lua pelinegro, Lua rubia, Belén). The "decision to have space" is not a 7-day breathing window; it describes Iván's **current state.** The 08-27 messages were written from disconnection, not from inside the relationship. Question for the psychologist: is the disconnection itself a defense (FireWall at full activation), a natural outcome of cumulative harm, or both? What's the difference between "disconnected because hurt" and "disconnected because the relationship is genuinely over"?
 2. **Belén's household access:** The 08-27 session named this as a safety issue. Lourdes raised an "orden de restricción." Who is filing it, by when, and what is the household's response if she returns? **Note: "la mina" / the assaillante / the dawn break-in person is Belén — same person throughout.**
 3. **Gaby's medical situation:** What is the kidney diagnosis and what does her recovery actually require from the household this week?
 4. **The FireWall + Fixer combination:** Your own analysis named this as your high-risk pattern. The Lua rubia conversation is a textbook instance. How do you want to interrupt the loop the next time it fires?
 5. **Kiki's role:** She was named in the Lua rubia messages without her consent. Does she want to be involved in any of this, and how do you protect her from being weaponized?
 6. **Your mom's, sisters', and Ale's alarm:** You named them as your support network. Have you told them what space you actually need, or are they worried because they don't know what's happening?
-7. **The after-bed-incident sequence (added 2026-08-28):** When Gaby needed to go to the hospital, the household support went to **Belén** (who had hidden alone in the mosquito-infested back area), and **Gaby left alone to the hospital.** At the hospital, Gaby told Belén to take care of herself, and **Belén exploded.** Iván followed/comforted Belén. What does this pattern — household support going to the disruptor rather than the patient — mean for the household's actual capacity to care for Gaby?
+7. **The after-bed-incident sequence (added 2026-08-28):** When Gaby needed to go to the hospital, the household support went to **Belén** (who had hidden alone in the mosquito-infested back area / air-conditioner area), and **Gaby left alone to the hospital.** At the hospital, Gaby told Belén to take care of herself, and **Belén exploded.** Iván followed/comforted Belén. What does this pattern — household support going to the disruptor rather than the patient — mean for the household's actual capacity to care for Gaby?
 8. **The "trio/dildos" reframing (added 2026-08-28):** What was framed as a trio-behind-Iván's-back is actually a declined stay-invitation (Iván was exhausted, had an endoscopy the next day for a polyp that might be cancer). How does the retroactive criticism ("you should have asked more") of a declined invitation land, and what does it say about the household's consent norms?
+9. **Two separate events (added 2026-08-28):** There are TWO different events being conflated in the record:
+   - **Event 1 (08-23 night, Gaby's house):** Bed incident with Iván + Ale + Belén + Gaby; Iván masturbating Belén (Belén didn't touch Iván back); Ale singing to cover sounds; Gaby's kidney cyst exploded separately.
+   - **Event 2 (same night or after, Iván's house):** Threesome that included Iván; Iván came home ~11 PM, exhausted, with endoscopy the next morning; Belén asked Iván to stay; Iván declined.
+   The 08-23 night, in particular, contained both events. What does it mean for Iván's nervous system that both events happened in the same ~24-hour period, on top of Gaby's medical crisis and the dawn break-in by Belén?
+10. **The 8-hour Belén presence (added 2026-08-28):** Belén was at Gaby's house from **3 AM to 11 AM** (an 8-hour window). The "dawn break-in" framing is misleading — it wasn't a brief event. Iván, Ale, and Gaby were discussing this in Gaby's living room at 11:45 AM when Iván sent the messages to Nate. What does it mean that the household discussion of 8 hours of unwanted presence preceded the message burst by minutes?
+11. **"More than partner fui friend" — past tense now? (added 2026-08-28):** Given Iván is completely off from the whole group, is this wound from a still-active "more than partner fui friend" pain, or a wound from a relationship that has now ended? The framing matters because the psychologist's response to "ongoing relational demotion" differs from "grieving a relationship that's over."
 
 ---
 
