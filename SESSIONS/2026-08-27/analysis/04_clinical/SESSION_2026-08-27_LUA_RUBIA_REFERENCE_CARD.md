@@ -13,6 +13,8 @@
 >
 > **Naming:** Iván has also referred to her as "Lua Inés" and possibly "Lua Lopez." These appear to be the same person based on attributes (transfem, tattoos, guitar, boyfriend Fer). The chat contact "Luaaa Bf Fer" is consistent with this. If the surname "Lopez" is the legal one, it's worth pinning down for future sessions.
 
+> **CORRECTION (2026-08-28):** The "Cookie" reference is **NOT Lua rubia.** Cookie / Kuki is a **separate friend** from a long time ago with **medical experience.** Lua rubia's 8 PM message mentions adapting to Cookie (a household member she's not), but they are two different people. The grievance of "playing doctor over Cookie" means Lua rubia tried to give medical input on something Cookie (with her medical experience) was already handling. This was previously conflated with "Lua playing doctor over Kiki" — Kiki is Iván's sister, Cookie is a separate household friend.
+
 ---
 
 ## 🟠 HOUSEHOLD CONTACT (referenced, not present at session)
@@ -30,9 +32,9 @@
 - **Mentions in transcript:** 2 explicit ("Lua rubia") + scattered indirect (more as the referent of "Bf Fer" contact)
 
 ### Role in Iván's life
-- **BDSM community contact** (BDSM origin same as Lua pelinegro, per Ale's testimony) — though her direct connection appears to have been via Nico, not via Lua pelinegro
+- **BDSM community contact** (BDSM origin: per Iván 2026-08-28, **Iván introduced Nate to the BDSM community**, where Nate met Lua pelinegro and **Iván met Lua rubia directly.** So Lua rubia's connection to Iván is direct — via the BDSM community, through Iván's introduction of Nate — not via Lua pelinegro as previously mapped. She also was once close with Nico (separately).
 - **Work/project contact:** Currently in a "**periodo de prueba**" with the company (per Iván's 08-27 8:15 PM message)
-- **Polycule member:** the household's poly structure is more complex than previously written — Lua rubia is connected through BDSM-community events, was close with Nico, now has boyfriend Fer; her structural position relative to Nate and Iván is not clearly documented in the corpus (not the same configuration as Lua pelinegro, who was Nate's ex)
+- **Polycule member:** the household's poly structure is more complex than previously written — Lua rubia is connected through BDSM-community events (via Iván's introduction of Nate), was close with Nico, now has boyfriend Fer; her structural position relative to Nate and Iván is not clearly documented in the corpus (not the same configuration as Lua pelinegro, who was Nate's ex)
 - **Personal relationship:** Iván's grievance is multi-axis — personal (felt excluded), domestic (household), professional (work performance), and family-of-origin-adjacent (her interactions with Kiki and Ale)
 
 ### Key facts (from 08-27 transcript)
@@ -88,17 +90,19 @@
 1. Zero care/concern from her toward Gaby during the medical crisis
 2. Call-spamming dawn hours (likely the same "80+ calls 3-6 AM" issue, or a separate harassment pattern)
 3. Household disorder (a recurring grievance)
-4. Lua overstepping with Kiki medically (vs. a professional nurse)
-| 5. Lua excluding Kuki in dense conversations about Kuki's situation, then jumping in with Ale showing off his **Uniqlo clothes** (per WhisperX + mishears correction: original "qlo" = "Uniqlo" clothing brand, not "look at my cock" — Iván later confirmed in transcript re-quote the parens "que ok" align with a clothing reference)
+4. Lua overstepping with **Cookie/Kuki** (a separate friend with medical experience) medically — Lua tried to give medical input on something Cookie was already handling with her own medical background
+5. Lua excluding Kuki in dense conversations about Kuki's situation (Kuki helping newborn kids with her breast milk and processing her trauma through that work), then **jumping in with Ale by showing him a picture of her ass** (per Iván 2026-08-28 correction — was previously mis-transcribed as "Uniqlo clothes" via WhisperX mishear). The jarring context: ass-pic shown mid-conversation about Kuki's breast milk/trauma work
 6. Treating men as less-than for unchangeable things (likely a reference to her gender-affirming stance or a comment made in passing)
 7. Underperformance at work during trial period
 8. "Wanting to scold him as if she's the boss"
 
+> **CORRECTION (2026-08-28) on the brownies:** Iván did **not** ask for the brownies or the THC oil. He sees the brownies as similar to everyone else smoking chill in his house — he doesn't mind people using his weed, but if he wants brownies, he makes them himself. She made gluten-free brownies for Gaby (with her needs in mind), but again, if needed, he can make them. **For Iván, the brownies were done to be on good terms with the group, not particularly for him.** The "50 brownies" in Lua's message is genuine effort on her side, but the receiving relationship is different from how she framed it (she frames as "I did this for you/Iván," Iván reads as "I did this for the group").
+
 **Both sides are valid in their feelings. Both sides have failed each other in specific ways. Neither side's behavior is described by the other as fully accurate.**
 
 ### Risk pattern (per Iván's own analysis work)
-- **The household "Cookie" question:** Cookie is referenced as someone important to Iván (and Kiki) who Lua tried to accommodate. **Who is Cookie?** The transcript doesn't clarify. Could be a pet, a partner, or someone Iván has not previously mentioned. Worth pinning down.
-- **Lua rubia also fits the "pursuer/pursued" trap** — she invested (brownies, accommodation) and is now feeling the deficit when reciprocity didn't match. This is a parallel pattern to Gaby's invest-and-wait pattern but inverted (Gaby waits, Lua pushes for in-person and a project exit)
+- **The household "Cookie" question:** **RESOLVED 2026-08-28** — Cookie / Kuki is a separate friend from a long time ago who has medical experience. Cookie is **NOT** Lua rubia. The reference in Lua's 8 PM message ("trying to adapt to Cookie") means Cookie is a household member that Lua was aware of and tried to accommodate.
+- **Lua rubia also fits the "pursuer/pursued" trap** — she invested (brownies, accommodation) and is now feeling the deficit when reciprocity didn't match. This is a parallel pattern to Gaby's invest-and-wait pattern but inverted (Gaby waits, Lua pushes for in-person and a project exit). Note: Iván reads her brownies-effort as for-the-group rather than for-him; she reads them as for-him. The reciprocity mismatch is real but the framing of who-receives-the-effort is also a mismatch.
 - **The "scold" word** is interesting on both sides — Lua wants to scold Iván for unnamed acts; Iván sent a list of grievances. Both are in the FireWall pattern from different angles. The "honest counterweight" is that both are right that something is wrong, and both are wrong that the chat is the place to resolve it
 
 ### What the corpus DOES NOT cover
@@ -111,13 +115,14 @@
 - The "50 brownies" reference (is Cookie a person who received them? A pet? A friend?)
 
 ### Open questions for next session
-1. **Who is Cookie?** Reference appears in Lua's message and in the 08-27 transcript indirectly. Need to clarify.
+1. **Who is Cookie?** **RESOLVED 2026-08-28** — separate friend from a long time ago with medical experience. Not Lua rubia.
 2. **What did Lua "do that she shouldn't have done"?** She references it twice. Without specifics, the in-person conversation she requested cannot happen.
 3. **Has Lua formally stepped back from the project, or is that contingent on the in-person conversation?** Her message has both an ultimatum and an offer to talk.
-4. **Did the 50 brownies go to Kiki, Cookie, or both?** This is a clue to what relationship she's trying to build.
+4. ~~Did the 50 brownies go to Kiki, Cookie, or both?~~ **RESOLVED 2026-08-28** — brownies were for the group generally; the gluten-free ones were for Gaby's needs. Iván never asked for any of it.
 5. **Is Iván willing to meet her in person?** If yes — that is the next concrete step. If no — the "space from the group" decision is now operative.
 6. **Is "Ferrex" in the corpus the same person as Fer (Lua's boyfriend)?** Small chat (29 msgs, transactional). Confirm or rule out. If yes — pull all 29 messages for context.
 7. **What is the "Nico drama" Lua learned about via gossip?** Ale mentions it but does not elaborate. This is **not** the 08-27 rupture with Lua rubia, but it's worth understanding for the household polycule map. See [`RELATIONSHIPS/dynamics/NICOLAS_DUARTE.md`](../../../RELATIONSHIPS/dynamics/NICOLAS_DUARTE.md) for Nico's full profile.
+8. **(Added 2026-08-28) BDSM-community origin:** Per Iván's correction, **Iván introduced Nate to the BDSM community**, and there Nate met Lua pelinegro while Iván met Lua rubia. So Lua rubia's connection to Iván is direct (via the BDSM community, through Iván's introduction of Nate), not via Lua pelinegro as previously mapped. The polycule geometry here matters because it means Lua rubia was originally part of Iván's introduction — not introduced through Lua pelinegro's network.
 
 ---
 

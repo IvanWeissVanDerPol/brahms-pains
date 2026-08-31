@@ -115,7 +115,7 @@ The grammar analysis I did earlier (triple-stacking "huevón" doesn't work) was 
 - **Hospital context**: "tirada en mi cama en el hospital con mis venas ahí encima… hecho peluda mi mano"
 - **44, almost 45 years old**: "a mis 44, casi 45 años supe que tenía autismo"
 - **Was on antibiotics + tramadol** during the assault
-- **Was on heavy meds + had an ovarian cyst explode** during the incident in her bed
+- **Was on heavy meds + had a kidney cyst explode** during the incident in her bed (note: not ovarian — see Gaby process file correction 2026-08-28)
 - **Reports being accused of "draining energy"** by others in her circle
 - **Has son** "Evan" (likely typo/Iván — refer to other analysis sections)
 - Diagnosed role: **primary therapist, late-session process discloser, hospital patient**

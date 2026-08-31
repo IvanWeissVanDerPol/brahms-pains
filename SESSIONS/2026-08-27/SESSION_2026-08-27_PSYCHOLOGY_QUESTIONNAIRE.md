@@ -87,15 +87,23 @@ The household recreates Iván's family-of-origin pattern: he is "inchabola" / "p
 
 | Time | Event | Source |
 |---|---|---|
-| Pre-08-27 | "2 weeks sin contexto" between Iván and partners (per Iván's recounting to Nate) | `SESSION_2026-08-27_NATE_REFERENCE_CARD.md` |
-| 08-27 dawn | Nate broke into Gaby's house to demand conversation | Iván's 11:45 message to Nate |
-| 08-27 morning | Gaby unwell: kidney pain, on antibiotics + tramadol (per Gaby process file) | `SESSION_2026-08-27_GABY_PROCESS.md` |
+| 08-23 night | Bed incident in Gaby's bed: Iván + Ale + Belén + Gaby; Iván and Belén touching (no sex, just teasing); Gaby's kidney cyst exploded separately | `SESSION_2026-08-27_GABY_PROCESS.md` (corrected 2026-08-28) |
+| 08-23→08-24 | At Iván's house: everyone went with Belén (who hid alone in mosquito area); Gaby left alone to hospital | Iván's recounting 2026-08-28 |
+| At hospital | Gaby told Belén "take care of yourself, always choose yourself first"; Belén exploded, went to cry away; Iván followed/comforted her | Iván's recounting 2026-08-28 |
+| Post-hospital, ~11 PM | Iván home, exhausted; **endoscopy the next day** for polyp that might be cancer | Iván's recounting 2026-08-28 |
+| Same night | Iván declined Belén's stay-invitation; nobody complained at the time | Iván's recounting 2026-08-28 |
+| After that | **Belén accused Iván of rape** (per Iván, later "misspoke" but accusation was made) | Per session + recap |
+| Pre-08-27 | "2 weeks sin contexto" between Iván and partners | `SESSION_2026-08-27_NATE_REFERENCE_CARD.md` |
+| 08-27 dawn | **Belén** (not Nate — corrected) broke into Gaby's house to demand conversation | Iván's 11:45 message to Nate |
+| 08-27 morning | Gaby unwell: kidney pain, on antibiotics + tramadol | `SESSION_2026-08-27_GABY_PROCESS.md` |
 | 11:45-12:00 | Iván sent 6 messages to Nate in 15 minutes | User paste in chat |
-| 12:00-20:00 | Gap (no outgoing messages to anyone in repo) | Gap analysis pending |
-| 20:00-20:21 | Session happened (2h 01m) | filename |
-| 8:00 PM | Lua rubia sent a long message to Iván (her POV documented) | User paste in chat |
-| 8:15-8:21 PM | Iván replied with 8 grievances in 2 messages | User paste in chat |
-| 8:22 PM | Lua rubia sent follow-up ("prefiero alejarme del proyecto") | User paste in chat |
+| 12:00-19:45 | Gap (no outgoing messages to anyone in repo) | Gap analysis pending |
+| ~20:00 | Lua rubia sent a long message to Iván (her POV documented) | User paste in chat |
+| ~20:15-20:21 | Iván replied with 8 grievances in 2 messages | User paste in chat |
+| 20:31-22:33 | Session happened (2h 01m) | filename |
+| 22:33 | Follow-up if any from Lua rubia ("prefiero alejarme del proyecto") | User paste in chat |
+
+> **Note on session timing (corrected 2026-08-28):** Earlier drafts placed the session at "20:00-20:21" — that was wrong. The session was **20:31-22:33** (2h01m). The Lua rubia exchange at 20:00-20:21 was a **chat exchange, not the in-room session.** Both happened on 08-27 but on different mediums (chat vs in-room) and the in-room session came **after** the Lua exchange. This changes the timeline interpretation: the chat exchange with Lua was a **pre-session** event.
 
 ### A8. Who is in the household (08-27)
 
@@ -122,18 +130,16 @@ The household recreates Iván's family-of-origin pattern: he is "inchabola" / "p
 
 | # | What | Source | Iván's framing |
 |---|---|---|---|
-| 1 | Dawn break-in by Nate at Gaby's house | 11:45 message to Nate | "Shouldn't have done that" |
-| 2 | 2 weeks of no context from partners | 11:56 message | "no es algo que le haría a mi pareja" |
-| 3 | Trio in Iván's bed with his dildos without asking | 11:56 message | "After the fact poner tenés que preguntar nomás más" |
-| 4 | "More than partner fui friend" — demoted inside his own polycule | 11:56 message | Structural wound |
-| 5 | "Mi casa les fue un safe space / Pero dejo de ser para mí" | 11:56 message | The household stopped being his |
-| 6 | Zero care/concern from Lua rubia during Gaby's crisis | 8:15 PM message | "cero mensajes a Gaby" |
-| 7 | Call-spamming at dawn | 8:15 PM message | Repeated pattern |
-| 8 | Lua rubia overstepping with Kiki medically vs. professional nurse | 8:15 PM message | "te querías pasar de médica" |
-| 9 | Lua rubia excluding Kuki, jumping in with Ale's Uniqlo | 8:15 PM message | "que ok pero ni trataste de incluirle" |
-| 10 | Treatment of men as less-than for unchangeable things | 8:15 PM message | Identity wound |
-| 11 | Workplace underperformance in trial period | 8:15 PM message | "assets que honestly AI could do better" |
-| 12 | "Wtf lgmt" closing | 8:21 PM message | Anger rising |
+| 1 | Dawn break-in by **Belén** (not Nate — corrected 2026-08-28) at Gaby's house | 11:45 message to Nate (recipient = Nate, perpetrator = Belén) | "Shouldn't have done that" |
+| 2 | 2 weeks sin contexto with partners | Same | "Es lo que no le haría a mi pareja/parejas" |
+| 3 | Trio-with-dildos grievance (CORRECTED 2026-08-28: declined stay-invitation framed retroactively as consent failure) | Same | "After the fact poner tenás que preguntar nomás más" |
+| 4 | Luba gathering exclusion (Iván and Ale not invited) | Ale's recounting in session | (Iván named this in the 11:50 message to Nate) |
+| 5 | Belén accused Iván of rape (later "misspoke" but accusation was made) | Per Iván + recap | "Entiendo que se expresó mal etc / Pero no está bien que esté cerca" |
+| 6 | 80+ calls 3-6 AM (Belén, the assaillante) | Ale's recounting in session | (Ale named this) |
+| 7 | Household became non-safe-space | Same | "Happy que sintieron que mi casa les fue un safe space / Pero dejo de ser para mí" |
+| 8 | Lua rubia's: zero messages to Gaby, call-spamming at dawn, household disorder, playing doctor over Cookie (separately, who has medical experience), excluding Kuki in dense conversation + showing Ale a picture of her ass mid-breast-milk-conversation, treating men as less, work underperformance | 8:15 PM message from Iván to Lua rubia | "Wtf lgmt" |
+| 9 | "More than partner fui friend" — felt demoted in polycule | Same | (Central wound) |
+| 10 | Lua rubia asking for in-person conversation then getting a list of grievances in chat | Pattern recognition | (Questionnaire Section E, Q1) |
 
 ### B2. Hurts done BY Iván (per other people's framing, as available)
 
@@ -256,19 +262,48 @@ These are the questions Iván most needs help with. Rank by what feels most urge
 
 ### E7. The Belén / rape accusation reference
 
-**Q:** Iván mentioned to Nate that Belén accused him of rape and "no está bien que esté cerca." What is the status of this accusation? Has it been formally retracted? Mediated? This intersects with the TLP attribution question (only Cuqui self-labeled; Lourdes affirmed; Manuel disputed).
+**Q:** Iván mentioned to Nate that Belén accused him of rape and "no está bien que esté cerca." What is the status of this accusation? Has it been formally retracted? Mediated?
 
-### E8. The morning break-in by Nate
+**Context (corrected 2026-08-28):**
+- "**La mina**" / the assaillante / the dawn break-in person / the person Iván was in the bed with on 08-23 = **Belén** (same person throughout). Earlier drafts treated these as separate characters.
+- **Belén was in the bed with Iván, Ale, and Gaby on 08-23** when the assault happened (Iván and Belén were touching; Gaby's kidney cyst exploded separately). Iván was **present** in the room when the bed incident occurred — earlier drafts incorrectly stated Iván was absent.
+- The TLP/BPD attribution question: per Iván 2026-08-28, **Lua pelinegro explicitly stated in session that "we can't diagnose, we aren't professionals."** TLP labels for any character should be read as session-level descriptive language, not clinical diagnoses. **Manuel** is Gaby's ex and **was not in the session** — earlier drafts incorrectly cited him as a TLP disputant.
 
-**Q:** Iván says "Shouldn't have done that" about Nate breaking in at dawn. But: boundary violations under emotional distress are also attempts at repair. How does Iván build a household structure where break-ins aren't the only escalation Nate knows?
+### E8. The dawn break-in (CORRECTED — was Belén, not Nate)
 
-### E9. The Gaby-assaillante pattern
+**Q:** Iván says "Shouldn't have done that" about the dawn break-in at Gaby's house. But: boundary violations under emotional distress are also attempts at repair. How does Iván build a household structure where break-ins aren't the only escalation path anyone knows?
 
-**Q:** Gaby was assaulted in her own bed, on heavy medication, by someone Iván had previously brought into the household. Iván was not there. This is a separate wound from the 08-27 relational rupture. What is Iván's responsibility here, and how does it interact with the present conflict?
+**Context (corrected 2026-08-28):** The perpetrator was **Belén**, not Nate. The 11:45-12:00 message thread to Nate mentioned the break-in because Nate is the recipient of context, not because Nate was the perpetrator. This matters because **Belén's break-in is part of a pattern** (also: stayed in Gaby's bed the night of the incident, accused Iván of rape, made 80+ calls 3-6 AM, hid in the mosquito area at Iván's house) — not an isolated event. The pattern question is bigger than the dawn break-in alone.
 
-### E10. The Cuqui / TLP attribution
+### E9. The Gaby–Belén pattern (CORRECTED — Iván was present)
 
-**Q:** The TLP/BPD attribution belongs only to Cuqui (self-labeled, Lourdes affirmed, Manuel disputed). Yet the household's general pattern (Belén, the assaillante, the relational ruptures) shows TLP-coded behaviors in multiple people. How does Iván hold this without over-attributing?
+**Q:** Gaby was assaulted in her own bed, on heavy medication. **Iván was in the bed** when it happened (along with Ale and Belén); Iván and Belén were touching each other (no sex, just teasing); Gaby's **kidney cyst** (not ovarian, and unrelated to the touching) exploded separately. This is a separate wound from the 08-27 relational rupture, but Iván is on **both sides** of it: present in the room, present as the toucher of the person whose presence in the bed violated Gaby, and present as the eventual subject of Belén's rape accusation. What is Iván's responsibility here, and how does it interact with the present conflict?
+
+**Additional context (per Iván 2026-08-28):** After the bed incident, when Gaby needed to go to the hospital, the household support went to **Belén** (who had hidden alone in the mosquito area), and **Gaby left alone to the hospital.** At the hospital, Gaby told Belén "take care of yourself, always choose yourself first," and **Belén exploded.** Iván followed/comforted her. This pattern (household support going to the disruptor rather than the patient) is part of what the psychologist should hear.
+
+### E10. The Cuqui / TLP attribution — corrected
+
+**Q:** Per Iván 2026-08-28, **Lua pelinegro explicitly stated in session that "we can't diagnose, we aren't professionals."** The TLP/BPD label belongs formally only to **Cuqui** (self-labeled; Lourdes affirmed). **Manuel is Gaby's ex and was not in the session** — earlier drafts incorrectly cited him as a TLP disputant. **Belén has never been formally labeled TLP**; both Cuqui AND Lourdes have raised TLP as a thought/possibility, which is not a diagnosis.
+
+How does Iván hold this without over-attributing clinical labels to people's behavior? What's the difference between "this person shows TLP-coded behaviors" (descriptive) and "this person has TLP" (diagnostic), and where does Iván draw that line?
+
+**The deeper question:** In the session and in the household discourse, TLP functioned as a **shortcut vocabulary** for relational chaos. With the disclaimer in mind, what other vocabulary could serve the same purpose without claiming clinical certainty?
+
+### E11. The "trio/dildos" reframing (added 2026-08-28)
+
+**Q:** What was framed in Iván's 11:56 message to Nate as "a trío in my bed with my dildos" is, per Iván 2026-08-28, actually a **declined stay-invitation** — Iván came home ~11 PM from the hospital, exhausted, with an endoscopy the next day for a polyp that might be cancer. Iván said "I'll shower and sleep," **Belén asked Iván to stay**, Iván declined, nobody complained at the time. **Afterward**, the criticism was "you should have asked more."
+
+What does it mean for a **declined invitation** to be retroactively reframed as a **consent failure on the declined-inviter's part**? How does Iván hold his own "no" against a household norm that says "you should have asked more" when he said no?
+
+**The deeper question:** Iván's "no" was about exhaustion, pre-procedure anxiety, and basic self-care. The household's "you should have asked more" effectively says that self-care-as-decline is insufficient consent. This pattern (if it generalizes) would mean the household has no protocol for "no, I'm tired."
+
+### E12. The BDSM-origin and Ale's recounting discrepancy (added 2026-08-28)
+
+**Q:** Per Iván 2026-08-28, **Iván introduced Nate to the BDSM community** (not the reverse). At BDSM events, Nate met Lua pelinegro and Iván met Lua rubia.
+
+**However**, Ale's recounting at +458s said: "**se juntó mucho tiempo con Nate, después con Nate le llevó a lo de BDSM.**" That has Nate bringing Iván to BDSM — i.e., Ale's recollection contradicts Iván's.
+
+Either Ale mis-recounted (memory is fallible; this was a 1-2 year old event), or there's a deeper disagreement about who introduced whom to what. For the psychologist: what does it mean for two people in the same household to have **opposite memories** of an origin story? Origin stories are foundational — they shape who-owes-what-to-whom in the polycule. If Ale's memory is correct, Nate owes Iván gratitude for the BDSM introduction; if Iván's memory is correct, Ale owes Nate. **The dispute itself is the data.**
 
 ---
 

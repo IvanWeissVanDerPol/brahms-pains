@@ -13,6 +13,28 @@
 
 > **How to use this document:** Each section has **questions** in italics. **Fill in the answers from inside the experience**, not from outside analysis. If a section is hard, skip it and come back. If a question doesn't fit, write what does. Don't perform. Don't polish. The unpolished version is what the session needs.
 
+> **MAJOR CORRECTIONS (2026-08-28, per Iván):**
+> 1. **The 08-23 bed incident:** Iván, Ale, Belén, and Gaby were all in Gaby's bed. Iván and Belén were touching each other (no sex, just teasing). Gaby's **kidney cyst** (not ovarian) exploded separately, unrelated to the touching. **"La mine" = Belén** — same person as the dawn break-in person, the rape-accuser, the assaillante.
+> 2. **The dawn break-in (08-27 AM):** **Belén** broke into Gaby's house, not Nate.
+> 3. **BDSM-origin:** **Iván introduced Nate to BDSM** (not reverse). At BDSM events, Nate met Lua pelinegro and Iván met Lua rubia.
+> 4. **TLP disclaimer:** Lua pelinegro said in session "we can't diagnose, we aren't professionals." TLP labels are session-level descriptive language, not clinical diagnoses.
+
+---
+
+## 🛏 THE 08-23 BED INCIDENT — What You Were Doing, What You Felt
+
+**Context (corrected):** That night, you (Iván), Ale, Belén, and Gaby were all in Gaby's bed. You and Belén were touching each other — no sex, just teasing. Gaby was on antibiotics + tramadol. **Gaby's kidney cyst exploded separately**, unrelated to the touching. In that disoriented state, Gaby discovered Belén's presence in the bed (the violation of her bed).
+
+*How did the touching between you and Belén feel? Was it wanted by both of you, or was one of you going along? What was Ale doing? Where was Gaby in the bed — right next to you, or on the other side?*
+
+*When the kidney cyst exploded and Gaby became disoriented, what did you do first? Did you know what was happening to her medically, or did you think it was the touching that caused it?*
+
+*When Gaby discovered the situation and processed it as a violation of her bed, what was that like to witness? Did you feel protective, confused, guilty, frozen?*
+
+*Belén later accused you of rape. Going back to the bed that night — what was true and what wasn't true in that accusation? What is the relationship between "I touched Belén, she asked me to stay, we said no to sex" and "Belén says it was rape"?*
+
+*You were physically present in the bed when the violation happened. Gaby experienced it as her bed being violated by someone you were touching. How do you hold that you were on both sides of the violation — present in the room, present as the toucher, and present as the eventual subject of the rape accusation?*
+
 ---
 
 ## ⏱ BEFORE 08-27 — The Slow Build
@@ -25,7 +47,7 @@
 
 *When you say "2 weeks sin contexto" — what was that period like inside? Was it silence, or was there a low-level hum? Did you know something was wrong before you could name it?*
 
-**The dawn break-in (Nate, 08-27 AM):**
+**The dawn break-in (CORRECTED — was Belén, not Nate, 08-27 AM):**
 
 *Where were you when Nate broke in? What woke you? What did the adrenaline do in your body — fast or slow? Fight, flight, freeze, or fawn? How long did it take your nervous system to come back down?*
 
@@ -91,8 +113,8 @@ You sent **eight grievances** in two messages (8:15 + 8:21):
 1. Zero messages to Gaby
 2. Call-spamming at dawn
 3. Household mess
-4. Playing doctor over a nurse
-5. Excluding Kuki + Ale showing off his Uniqlo
+4. Playing doctor over Cookie (separately, who has medical experience — Iván never asked for brownies/THC oil; she did them to be on good terms with the group, not for him specifically)
+5. Excluding Kuki in dense conversation + showing Ale a picture of her ass mid-conversation about Kuki's breast milk/trauma work
 6. Treating men as less-than
 7. Underperformance at work
 8. Wanting to scold him
@@ -159,7 +181,7 @@ This is the section where you link the felt experience to your own defense files
 
 ### Nate
 
-*You sent him 6 messages in 15 minutes. He broke into Gaby's house at dawn. The 08-27 conflict with Nate is built on a foundation of years of polycule configuration. What was the longest-standing pain underneath the burst?*
+*You sent him 6 messages in 15 minutes. **The dawn break-in was Belén, not Nate** (per Iván 2026-08-28); the 11:45-12:00 thread to Nate was a context update for Nate about a separate event involving Belén. The 08-27 conflict with Nate is built on a foundation of years of polycule configuration. What was the longest-standing pain underneath the burst?*
 
 ### Your sisters, your mom, Kiki, your friend, your Mommy
 

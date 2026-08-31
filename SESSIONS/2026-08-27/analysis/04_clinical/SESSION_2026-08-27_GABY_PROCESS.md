@@ -11,22 +11,40 @@
 
 ### Layer 1: The bed incident (Act 2, 1616–1696s)
 
-Gaby recounts the assault that happened in her own bed. She was on **antibiotics + tramadol** (heavy medication), had just had a **masturbation** when an **ovarian cyst exploded** ("Me tomé un Quiste y me explotó"), and in that disoriented state discovered the "mina" — the girl who violated her — **naked in her bed**.
+> **MAJOR CORRECTION (2026-08-28, per Iván):** The original draft of this file contained three factual errors. Corrected version below:
+>
+> 1. **Gaby did not masturbate.** Iván was touching **Belén** in Gaby's house that night.
+> 2. **It was a kidney cyst, not ovarian.** ("Me tomé un Quiste" — quiste confirmed; mishears file shows "riñón" confirmed as kidney.)
+> 3. **The cyst explosion was unrelated to the touching.** It was a separate medical event that occurred the same night.
+> 4. **"La mina" = Belén.** The assaillante was **Belén** — the same person who lived in the household, who Iván had been touching, and who later accused Iván of rape.
+> 5. **Who was in the bed that night:** **Iván, Ale, Belén, and Gaby** in Gaby's bed. Iván + Belén were touching (no sex, just teasing).
+
+---
+
+Gaby recounts the assault that happened in her own bed. The night of the incident:
+
+- **Iván, Ale, Belén, and Gaby** were all in Gaby's bed
+- Iván and Belén were **touching each other** (no sex, just teasing)
+- Gaby was on **antibiotics + tramadol** (heavy medication)
+- A **kidney cyst** (not ovarian) exploded in Gaby — separate medical event, unrelated to the touching
+- In that disoriented state, Gaby discovered the situation that constituted the violation of her bed
 
 **Key lines (verbatim):**
 - "yo no sabía ni qué carajo, pero que sí, que de repente **le veo a la tipa así en bola en mi cama**. Y yo no entendía más ni qué es lo que pasó."
 - "**En mi cama. En mi casa.**" (the two-part emphasis is Gaby grounding herself in the violation-of-place)
 
 **What was processed:**
-- Iván was **not there** when it happened — he was out, elsewhere
-- The girl had been brought to Gaby's house by Cuqui (the house Cuqui was living in at the time)
-- Gaby had no prior relationship with the girl ("yo no le conozco")
+- Iván was **in the room** when it happened — not absent as originally drafted
+- The girl in her bed was **Belén** — known to the household, not a stranger
+- Gaby's relationship to the touching: she was present but the touching was between Iván and Belén, not involving Gaby
 - The girl "**iba cambiando la historia**" after Cuqui confronted her — Kiki reports the girl said "yo no quería, le dije varias veces que no" but then changed her story
-- Iván was named by the girl as the person she was with (the false-consent narrative)
+- Iván was named by the girl as the person she was with (the false-consent narrative — this is the same Belén who later accused Iván of rape)
 - Kiki explicitly identifies this as **violación** ("si es que Iván era un violador... iba a funarle todo lo que sea")
 - Lourdes at +3353s says "**si tenés que poner una orden de restricción o algo así, no sé. Esa mina es densa.**"
 
 **The diagnostic move:** the group doesn't file the police report for Gaby — but Lourdes plants the seed. Cuqui already told Gaby she would have done it. The processing is about **Gaby's ambivalence about her own victimhood** and her pattern of **deferring to others' judgments**.
+
+> **Critical relational complication (added 2026-08-28):** Iván was **physically present** in the bed when this happened, and was touching Belén. This means the "violation" Gaby experienced has Iván on **both sides** of it — present in the room, present as the toucher of the person whose presence in the bed violated Gaby, and present as the eventual subject of Belén's rape accusation. The 08-27 session did **not** process this directly. The questionnaire flags this as Section E, Question 9.
 
 ### Layer 2: Hospital context (Act 2–3, multiple)
 

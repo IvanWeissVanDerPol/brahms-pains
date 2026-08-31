@@ -18,8 +18,7 @@
 - **Identity attributes (per transcript):**
   - **Iván's primary relationship** — "el polículo" partner
   - **Origin:** Met on Tinder (+124.2s)
-  - **Introduced Iván to BDSM events** (+458.6s) — entry point to kink community
-  - **Introduced Iván to Lua pelinegro** at BDSM — origin point for the polycule
+  - **BDSM-community origin (CORRECTED 2026-08-28):** **Iván introduced Nate to the BDSM community**, not the reverse. Then at BDSM events: **Nate met Lua pelinegro** and **Iván met Lua rubia directly.** So Nate's BDSM community entry was through Iván. (Earlier drafts had this reversed: "Introduced Iván to BDSM events" — wrong. Iván is the introducer.)
   - **Was previously in a relationship with Lua pelinegro** (+499s, +577s)
   - **Currently in polycule** with Iván (loosely), Lua pelinegro, Lua rubia
   - **Introduced Belén to the household** (+969s)
@@ -29,30 +28,36 @@
 
 ### Role in Iván's life
 - **Primary partner.** Multiple references place him as the central figure in the household's poly structure. The 08-27 session is largely about the household as configured around Nate's polycule
-- **BDSM community entry point.** Before Nate, Iván was not (or was minimally) part of kink events. After Nate, the household's kink community orientation is established
-- **Connector.** Brought in Lua pelinegro, Lua rubia (indirectly), and Belén. Almost every other absent household contact in the 08-27 transcript traces back to Nate
+- **BDSM community entry point — INVERTED (CORRECTED 2026-08-28):** Earlier drafts said "Before Nate, Iván was not (or was minimally) part of kink events. After Nate, the household's kink community orientation is established." This was wrong. **Iván introduced Nate to the BDSM community.** Before Iván's introduction, Nate was not in the kink scene. The household's kink community orientation is established by Iván, not Nate.
+- **Connector (with corrected direction):** Iván introduced Nate to BDSM → at BDSM events, Nate met Lua pelinegro, Iván met Lua rubia. **Belén entered the household separately (per Iván, introduced by Nate at +969s).** Almost every other absent household contact in the 08-27 transcript traces back through this chain, but with the **direction reversed** from earlier drafts.
 - **Co-resident?** Unclear. Some transcript hints suggest he's been at the house; some suggest he has his own place. The "drama at his own house" (+548s) implies he has his own space
 
 ### Key facts (from 08-27 transcript)
 - Met on Tinder (+124.2s)
-- Brought Iván to BDSM events; BDSM → Lua pelinegro (+458.6s)
+- **BDSM community entry (CORRECTED):** Iván introduced Nate to BDSM events; through the BDSM community, Nate met Lua pelinegro and Iván met Lua rubia (BDSM-origin reversed from earlier drafts)
 - Was in a relationship with Lua pelinegro (+499s, +577s)
 - **"Drama" at his own house** — unspecified incident involving a friend who tried to assault someone. Lua pelinegro intervened ("le llevó a la chica a su casa") (+548s, +569s). This is the most concrete incident involving Nate's household in the transcript
 - Introduced Belén to the household (+969s)
 - Was in a polycule with the Luas
 - **Not in the 08-27 session** — likely the "como Gusy" reference is about him? Or another attendee at the first session (this is a session-analysis open question)
+- **NOT the dawn break-in perpetrator (CORRECTED 2026-08-28):** The dawn break-in at Gaby's house was **Belén**, not Nate. Iván's recounting to Nate at 11:45 AM said "**Entro todo en la casa de Gaby a atropellar y demandar hablarme**" — earlier drafts attributed this to Nate; per Iván 2026-08-28, it was Belén. The 11:45-12:00 PM message thread was sent to Nate, but the *subject of complaint about the break-in* was Belén's behavior, with Nate as the recipient of context.
 
-### The 08-27 dawn incident (most recent material)
+### The 08-27 dawn incident (CORRECTED — perpetrator was Belén, not Nate)
 
-Per Iván's recounting to Nate at 08-27 11:45 AM:
+**Per Iván's recounting at 08-27 11:45 AM:**
 - Iván had told Nate he could not attend / could not talk in the moment. **"Nio un no"** = "no, a no"
-- Nate broke into Gaby's house at dawn to demand a conversation
-- **"Entro todo en la casa de Gaby a atropellar y demandar hablarme"**
+- **Belén (not Nate) broke into Gaby's house at dawn** to demand a conversation. (Correction per Iván 2026-08-28 — earlier drafts attributed this to Nate.)
+- **"Entro todo en la casa de Gaby a atropellar y demandar hablarme"** — the "demandó hablarme" was Belén demanding to talk to Iván
 - Gaby was not well — kidney pain, "hecha verga de sus riñones"
 - Gaby cannot heal if not at peace ("No puede curarse si no está en paz")
-- Nate stayed outside all night
+- **Belén stayed outside all night**
 
-**Pattern:** Boundary violation under emotional distress. Iván's framing is unambiguous: this was a no that was crossed. Nate's framing (not in the corpus) is presumably that the urgency of the relationship rupture justified breaking the boundary. **Both can be true simultaneously.**
+**Pattern:** Boundary violation under emotional distress. Iván's framing is unambiguous: this was a no that was crossed. **Belén's framing (not in the corpus)** is presumably that the urgency of the situation justified breaking the boundary. **Both can be true simultaneously.** The 11:45-12:00 PM message to Nate is partly **a context-update for Nate** (so Nate understands what's happening), partly **an unrelated grievance dump** about the broader polycule dynamics.
+
+> **Important reframe (added 2026-08-28):** Earlier drafts framed the 08-27 dawn incident as "Nate broke in." This is wrong — it was **Belén.** The Nate messages were sent at the same time but were a separate thread. This reframe matters because:
+> 1. **Belén's break-in is part of a pattern** (she also stayed in Gaby's bed the night of the incident, accused Iván of rape, made 80+ calls 3-6 AM, hid in the mosquito area at Iván's house) — it's not an isolated event.
+> 2. **Nate's role in the 11:45-12:00 PM exchange is as the recipient of context** for a separate event involving Belén. Iván was processing the dawn break-in AND the 2-week-no-context dynamic simultaneously.
+> 3. **The grievance burst ("6 messages in 15 minutes") conflated Belén's break-in with broader polycule grievances** (the trio, the dildos, the household non-safety), making the message thread harder to read than if each grievance had been sent separately.
 
 ### The 08-27 11:45-12:00 message exchange (Iván to Nate)
 
@@ -74,10 +79,10 @@ Per Iván's recounting to Nate at 08-27 11:45 AM:
 - The final "decision to have space and time" is framed by Iván as protective, not punitive
 
 **Valid hurts done to Iván by Nate (per Iván's recounting):**
-- The dawn break-in ("atropellar y demandar hablarme")
 - The 2 weeks without context
-- The trio in Iván's bed with his dildos (implicit)
-- "**More than partner fui friend**" — Iván's felt position was demoted from partner to friend inside his own polycule
+- The trio in Iván's bed with his dildos (CORRECTED 2026-08-28 context — see Lua rubia card and recap §D: this was a declined stay-invitation framed retroactively as insufficient consent-seeking)
+- **"More than partner fui friend"** — Iván's felt position was demoted from partner to friend inside his own polycule
+- (NOTE: **the dawn break-in was Belén, not Nate** — see "08-27 dawn incident" section above. Earlier drafts listed it under Nate. Iván's 11:45 AM message to Nate mentions the break-in because Nate is the recipient of context, not the perpetrator.)
 - "**Happy que sintieron que mi casa les fue un safe space / Pero dejo de ser para mí**" — the household was no longer Iván's safe space
 
 ### Risk pattern (per Iván's own analysis work)
