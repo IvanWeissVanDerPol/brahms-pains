@@ -188,8 +188,8 @@ The 08-27 voice-note session is **the moment when the chosen family shows up in 
 - **Ale** = the co-resident (6 years of peripheral acceptance, structural)
 - **Kiki** = the sister (the only one with permission to call Iván out)
 - **Gaby** = the pursued caretaker (53 days of outlier intensity, household-level manifestation)
-- **Lourdes** = the friend who became Cuqui's therapist (594d reunion cost, dual-role exposure)
-- **Cuqui** = the absent subject (the acting-out, the TLP self-label, the daughter with welfare implications)
+- **Lourdes** = the friend who became Cookie/Kuki's therapist (594d reunion cost, dual-role exposure)
+- **Cookie/Kuki** = the absent subject (the acting-out, the TLP self-label, the daughter with welfare implications)
 
 ### What is NOT in this moment
 

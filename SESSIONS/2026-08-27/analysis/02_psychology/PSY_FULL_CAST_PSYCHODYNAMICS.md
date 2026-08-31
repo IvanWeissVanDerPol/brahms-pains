@@ -8,7 +8,7 @@
 - **Kiki** = Iván's **sister** (real sibling)
 - **Gaby** = Iván's friend (not household)
 - **Lourdes** = Iván's friend, **therapist-in-training**
-- **Cuqui** = absent subject, 2nd Cuqui session
+- **Cookie/Kuki** = absent subject, 2nd Cookie/Kuki session
 
 **Source:** `08-27-2026_20.31_spa.json`
 **Enriched:** 2026-08-28 with corpus-wide context from `TREATMENT/` + `PSYCHOLOGICAL_ANALYSIS_20HATS.md` + `docs/GABY_ANALYSIS_2026-08-22.md` (5,597 voice notes, 235K messages, 6+ years of data).
@@ -36,7 +36,7 @@
 - 2026 anchor shift: from sequential main-friend pattern (2021-2025) to **concurrent anchors** (Fran/Gaby/Thais/Lucia/Somosgay/Cloud_Nyx)
 - **Kink era 2026**: 4 concurrent intimate partners (Gaby/Nico/Thais/Sarah)
 - Most recent breakthrough (Jan 2026): proactive HIV disclosure, explicit consent communication, reciprocal relationship dynamics
-- **The 08-27 "I cannot say no" pattern is the operational expression of The Fixer** — what shows up in voice-note practice as service-compulsion shows up in the household as saying yes to Cuqui
+- **The 08-27 "I cannot say no" pattern is the operational expression of The Fixer** — what shows up in voice-note practice as service-compulsion shows up in the household as saying yes to Cookie/Kuki
 
 **Ale (Alejandro Cabral) — 6 years of co-residency, low relational depth**
 - 23,000 messages, 2,121 days span (longest of any current contact except Mom)
@@ -78,12 +78,12 @@
 - **Lourdes reunion: 594d gap ended by Ivan outreach (historical)** — per SESSION_CHEAT_SHEET
 - **Mood Δ -0.18** — Lourdes' recent mood has cooled (per 20hats analysis, July 2026)
 - **Reading:** Lourdes is the **friend Ivan had to win back from 594 days of silence.** That reunion cost was real. The 08-27 session — where she's back in the room, holding clinical precision, calling the diagnostic frame — is **the cost-of-clarity position**. The 2-year exile wasn't avoidance; it was **the price of seeing clearly**. Now she's back, and the cost continues.
-- **The dual role (friend + Cuqui's therapist) is structurally new** — it post-dates the 08-27 voice-note data scope for Lourdes' contact (her chat history with Ivan doesn't include the clinical content). Lourdes may have taken on Cuqui after re-engagement.
+- **The dual role (friend + Cookie/Kuki's therapist) is structurally new** — it post-dates the 08-27 voice-note data scope for Lourdes' contact (her chat history with Ivan doesn't include the clinical content). Lourdes may have taken on Cookie/Kuki after re-engagement.
 
-**Cuqui — absent from corpus, present only through third-party references**
-- No tier1 chat with Cuqui exists
+**Cookie/Kuki — absent from corpus, present only through third-party references**
+- No tier1 chat with Cookie/Kuki exists
 - Mentioned in: Gaby's chat (heavy distress references), Lourdes' chat (clinical references), household groups
-- TLP self-label per Lourdes; **disputed by Manuel (Cuqui's friend)** — both Cuqui and Lourdes have separately raised TLP as a possibility about Belén, not as a diagnosis
+- TLP self-label per Lourdes; **disputed by Manuel (Cookie/Kuki's friend)** — both Cookie/Kuki and Lourdes have separately raised TLP as a possibility about Belén, not as a diagnosis
 - Aldea SOS background, abuse history — referenced by Lourdes
 - Daughter exists — welfare unclear
 
@@ -91,7 +91,7 @@
 
 The 08-27 session is **not a snapshot of these relationships — it is a continuation.** Each pattern visible in the session has years of history behind it:
 
-1. **Iván's "no puedo decir que no" = The Fixer + Permission Structures, operational** — what shows in voice-note practice as service-compulsion shows in the household as saying yes to Cuqui
+1. **Iván's "no puedo decir que no" = The Fixer + Permission Structures, operational** — what shows in voice-note practice as service-compulsion shows in the household as saying yes to Cookie/Kuki
 2. **Gaby's "demasiado dulce" = the pursued caretaker pattern + care-reciprocity asymmetry, amplified** — she has escalated on every emotional axis with Iván in 53 days; the household is the next level
 3. **Kiki's "I cannot fix anyone" = the elder sister who has done her compartmentalized work** — the closest-family relationship that survives by being partially open
 4. **Ale's "me dejaron afuera" = 6 years of peripheral acceptance** — structural, not new
@@ -109,11 +109,11 @@ The session works **because** these patterns are familiar. The room **knows** ea
             Ale     Kiki    Gaby      Lourdes
          (roommate) (sister) (friend) (friend, T-in-training)
                               |
-                          Cuqui
+                          Cookie/Kuki
                        (absent subject)
 ```
 
-**Iván is the hub.** Every other relation in this room connects through him. **Lourdes ↔ Gaby** is the only direct cross-link (Lourdes has been Cuqui's therapist, Gaby has been Cuqui's caretaker). **Ale ↔ Kiki** and **Ale ↔ Gaby** are mediated through Iván.
+**Iván is the hub.** Every other relation in this room connects through him. **Lourdes ↔ Gaby** is the only direct cross-link (Lourdes has been Cookie/Kuki's therapist, Gaby has been Cookie/Kuki's caretaker). **Ale ↔ Kiki** and **Ale ↔ Gaby** are mediated through Iván.
 
 ---
 
@@ -126,7 +126,7 @@ The session works **because** these patterns are familiar. The room **knows** ea
 | Kiki | Older sister / sibling-therapist | Reaction formation | "I cannot fix anybody but myself" |
 | Gaby | Friend / RCP-trained parentified child | Altruistic surrender | Father died in her arms |
 | Lourdes | Friend / therapist-in-training | Withdrawal / professionalization | 2-year exile cost |
-| Cuqui (absent) | The acting-out subject | Splitting + projective identification | Aldea SOS / abuse / TLP label |
+| Cookie/Kuki (absent) | The acting-out subject | Splitting + projective identification | Aldea SOS / abuse / TLP label |
 
 ---
 
@@ -161,8 +161,8 @@ Iván has **earned-secure attachment** features (he has built chosen family, he 
 ### Observable signature
 - 9.9% talk time, **leaves at ~55 min** (last segment ~3308s, session ends 7277s)
 - Co-resident with Iván (the only co-resident pair)
-- Reports Cuqui's 80 calls at 3am (+3226s) — **active vigilance**
-- "Me dejaron afuera de todas las conversaciones" (+3097s) — **excluded from Cuqui-exit decision**
+- Reports Cookie/Kuki's 80 calls at 3am (+3226s) — **active vigilance**
+- "Me dejaron afuera de todas las conversaciones" (+3097s) — **excluded from Cookie/Kuki-exit decision**
 - Spelled "polycule" for the group (+487s) — **provides vocabulary**
 - Quietest substantive speaker
 
@@ -179,7 +179,7 @@ Iván has **earned-secure attachment** features (he has built chosen family, he 
 - He **leaves at 55 min** — could be self-removal before being told to leave
 
 ### The 80 calls at 3am
-**This is a safety event.** Ale is reporting Cuqui's behavior to the group as a substitute for **calling authorities**. The room's response is **diagnostic** ("TLP"), not **protective**. **This is the most dangerous transference failure of the session.**
+**This is a safety event.** Ale is reporting Cookie/Kuki's behavior to the group as a substitute for **calling authorities**. The room's response is **diagnostic** ("TLP"), not **protective**. **This is the most dangerous transference failure of the session.**
 
 ### Recommended frame
 Ale is the **co-resident witness**. His **80 calls at 3am reporting** is functional vigilance. His **leaving at 55 min** is the symptom. The next session should ask: what did you miss by leaving?
@@ -245,14 +245,14 @@ The next session must: process the autism disclosure. And: process the father's 
 ### Observable signature
 - 15.4% talk time, third-most
 - **Clinical precision throughout** — "demasiado bueno", "demasiado dulce", "te digo sí a todo y no te pongo límites", "empatía recíproca"
-- **Has been Cuqui's therapist** ("mi paciente") — this is **the missing piece**: she has clinical responsibility for Cuqui
+- **Has been Cookie/Kuki's therapist** ("mi paciente") — this is **the missing piece**: she has clinical responsibility for Cookie/Kuki
 - **2-year Dubai silence** — cut contact with Nate (per inference) over monogamy/non-monogamy
 - "Mi personaje de Lourdes" — self-positions as character
 
 ### Position in the system
-**Lourdes is the only clinically-trained person in the room.** She has **named the patterns** ("too nice", "too sweet") and **set the limits** (2-year exile). She is **also** the person with **clinical responsibility for Cuqui** — which makes her **not just a friend but a treating clinician** in the room.
+**Lourdes is the only clinically-trained person in the room.** She has **named the patterns** ("too nice", "too sweet") and **set the limits** (2-year exile). She is **also** the person with **clinical responsibility for Cookie/Kuki** — which makes her **not just a friend but a treating clinician** in the room.
 
-**This is a major clinical-ethical issue**: she is **supervising/treating Cuqui** while also being a friend in the room where Cuqui is discussed. **Role boundaries matter here.**
+**This is a major clinical-ethical issue**: she is **supervising/treating Cookie/Kuki** while also being a friend in the room where Cookie/Kuki is discussed. **Role boundaries matter here.**
 
 ### Psychodynamic reading
 **Primary defense: Withdrawal / professionalization.**
@@ -261,41 +261,41 @@ The next session must: process the autism disclosure. And: process the father's 
 - The 2-year exile was **the cost of clarity**: she lost the relationship in order to keep her framework
 
 ### Recommended frame
-Lourdes has **earned-secure attachment** with **clinical responsibility for Cuqui**. The dual role in this session — friend + Cuqui's therapist — is **the structural issue the next session should address explicitly.** Is she treating Cuqui or being her friend? Both? **The boundary needs to be named.**
+Lourdes has **earned-secure attachment** with **clinical responsibility for Cookie/Kuki**. The dual role in this session — friend + Cookie/Kuki's therapist — is **the structural issue the next session should address explicitly.** Is she treating Cookie/Kuki or being her friend? Both? **The boundary needs to be named.**
 
 ---
 
-## Cuqui (absent) — The acting-out patient
+## Cookie/Kuki (absent) — The acting-out patient
 
 ### Observable signature
 - **NOT in the room.** 31 mentions, all 3rd person.
 - **Aldea SOS background** — residential care for abused children
-- **Has been labeled TLP** by Lourdes, by Cuqui herself, and **disputed** by Manuel
+- **Has been labeled TLP** by Lourdes, by Cookie/Kuki herself, and **disputed** by Manuel
 - **Bed incident, 80 calls at 3am, breaking into houses** — pattern of boundary violations
 - **Has a daughter** — child welfare is implicit
 - Lourdes has been her therapist
 
 ### Position in the system
-**Cuqui is the acting-out subject whose behavior the system is metabolizing without her.** She is also **Lourdes' patient**, which makes Lourdes' role ambiguous.
+**Cookie/Kuki is the acting-out subject whose behavior the system is metabolizing without her.** She is also **Lourdes' patient**, which makes Lourdes' role ambiguous.
 
 ### Psychodynamic reading
 **Primary defenses: Splitting + projective identification + acting out.**
-- The room splits Cuqui: assailant / patient / daughter / sister-in-spirit
+- The room splits Cookie/Kuki: assailant / patient / daughter / sister-in-spirit
 - The TLP label does real work (gives the group a framework) AND displaces the relational work (the bed incident is treated as symptom, not as a relational event)
 - The daughter's needs are **the under-addressed thread**
 
-### Why Cuqui isn't in the room
+### Why Cookie/Kuki isn't in the room
 Three readings:
 1. **Safety**: She's a danger to herself or others (80 calls, break-ins) → protective exclusion
 2. **Boundary**: She's being held at a firm distance after the bed incident → boundary work
 3. **System-preservation**: The room needs to work on itself without her re-activating the splitting
 
 ### Recommended frame
-Cuqui is the **patient** (Lourdes' clinical responsibility) and **the acting-out subject**. The next session should **explicitly address**:
+Cookie/Kuki is the **patient** (Lourdes' clinical responsibility) and **the acting-out subject**. The next session should **explicitly address**:
 - Lourdes' dual role (therapist + friend)
 - The daughter's needs
 - The TLP label — what is its function for the room?
-- A path to bringing Cuqui back into the room safely, if at all
+- A path to bringing Cookie/Kuki back into the room safely, if at all
 
 ---
 
@@ -305,14 +305,14 @@ Five people who all carry some version of **"too nice, says yes to everything, n
 
 But: **this is also a household of self-made adults** — each person built their own structure (origin family didn't provide one). They are skilled at **systems thinking** but not at **receiving care**.
 
-**Cuqui, who had the least structural support (Aldea SOS, abuse history), is the one the system can't hold.**
+**Cookie/Kuki, who had the least structural support (Aldea SOS, abuse history), is the one the system can't hold.**
 
 ---
 
 ## Process questions for next session
 
 **For the room:**
-"If you all have some version of 'too nice, says yes', how do you want to relate to Cuqui's version without projecting your own pattern onto her?"
+"If you all have some version of 'too nice, says yes', how do you want to relate to Cookie/Kuki's version without projecting your own pattern onto her?"
 
 **For Iván:**
 "What did you mean by 'autis' at +6871s? Whose diagnosis? And: what did your family-of-origin teach you about boundaries?"
@@ -329,9 +329,9 @@ But: **this is also a household of self-made adults** — each person built thei
 "What does 'mi mujer' mean in all this?"
 
 **For Lourdes:**
-"You've been Cuqui's therapist. Are you still? And: the 2-year exile — what did it cost you?"
+"You've been Cookie/Kuki's therapist. Are you still? And: the 2-year exile — what did it cost you?"
 
-**For Cuqui (when she's next in the room):**
+**For Cookie/Kuki (when she's next in the room):**
 "What do you need from these people, and what do you fear they'll ask you to give up?"
 
 ---

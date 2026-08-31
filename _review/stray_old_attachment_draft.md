@@ -7,8 +7,8 @@
 - Ale = co-resident (only)
 - Kiki = Iván's sister
 - Gaby = friend
-- Lourdes = friend, therapist-in-training, Cuqui's therapist
-- Cuqui = absent subject
+- Lourdes = friend, therapist-in-training, Cookie/Kuki's therapist
+- Cookie/Kuki = absent subject
 
 **Enriched:** 2026-08-28 with TREATMENT + 20hats + Gaby deep analysis (6+ years corpus context)
 
@@ -134,31 +134,31 @@ The "I cannot fix anyone" is **the defense as wisdom** — but it also leaves he
 **Evidence:**
 - 2-year Dubai silence was the **cost** of differentiation
 - Clinical precision throughout — names patterns with diagnostic language
-- **Cuqui's therapist** — has clinical responsibility for the absent subject
+- **Cookie/Kuki's therapist** — has clinical responsibility for the absent subject
 - "Mi personaje de Lourdes" — **self-cohesion through distance**
 - Dual-name (Lourdes / Youko Kurama) — **constructed self as survival strategy**
 
-**Working hypothesis:** Lourdes has **earned secure attachment** — has worked through origin-family patterns, can articulate them clearly. **The cost was 2 years of relationship loss** AND **the dual role of friend + Cuqui's therapist** which compromises both.
+**Working hypothesis:** Lourdes has **earned secure attachment** — has worked through origin-family patterns, can articulate them clearly. **The cost was 2 years of relationship loss** AND **the dual role of friend + Cookie/Kuki's therapist** which compromises both.
 
 **Test:**
 - Can Lourdes maintain the secure position without the Dubai exile?
 - Can she maintain the friend-therapist boundary?
 - The clinical role in this room is **the structural issue** that the next session must address
 
-### Cuqui (absent) — **Hypothesis: Disorganized/Fearful-Avoidant (TLP profile)**
+### Cookie/Kuki (absent) — **Hypothesis: Disorganized/Fearful-Avoidant (TLP profile)**
 
 **Evidence:**
 - The TLP label (BPD) maps to **disorganized attachment** in adult literature (Fonagy)
 - 80 calls at 3am — **hyperactivating strategies**
 - Bed incident — **boundary violation under relational pressure**
-- "Cuqui said TLP" — even the patient labels herself (insight without behavioral change = BPD feature, not deficit)
+- "Cookie/Kuki said TLP" — even the patient labels herself (insight without behavioral change = BPD feature, not deficit)
 - Broke into houses — **boundary dissolution**
 - Aldea SOS background + abuse history
 - Has a daughter
 
-**Working hypothesis:** Cuqui has **disorganized/fearful-avoidant attachment** consistent with a BPD presentation. **Not diagnostic** — mapping observed behavior to attachment categories.
+**Working hypothesis:** Cookie/Kuki has **disorganized/fearful-avoidant attachment** consistent with a BPD presentation. **Not diagnostic** — mapping observed behavior to attachment categories.
 
-**Test (if Cuqui is in next session):**
+**Test (if Cookie/Kuki is in next session):**
 - Can she tolerate a 50-minute session without calling 80 times?
 - Can the room tolerate her hyperactivating without splitting her?
 
@@ -172,11 +172,11 @@ The group is **not a securely attached system**. It has:
 - One **dismissing-avoidant sister** (Kiki)
 - One **preoccupied caregiver** (Gaby)
 - One **earned-secure therapist** (Lourdes)
-- One **disorganized subject** (Cuqui, absent)
+- One **disorganized subject** (Cookie/Kuki, absent)
 
 **The group functions through complementary defenses**, not through secure attachment. This is **a working system** but it is **exhausting the central node** (Gaby) and **excluding the periphery** (Ale).
 
-**The absent member (Cuqui) is the most disorganized** — and the system is trying to metabolize her without being metabolized by her. So far: **partially successful** (Cuqui is out, Gaby is drained, Ale is excluded, Lourdes is distanced, Kiki is observing).
+**The absent member (Cookie/Kuki) is the most disorganized** — and the system is trying to metabolize her without being metabolized by her. So far: **partially successful** (Cookie/Kuki is out, Gaby is drained, Ale is excluded, Lourdes is distanced, Kiki is observing).
 
 **The structural asymmetry:** Iván is the hub, but **only Ale lives with him**. Kiki is his sister but **she doesn't live there**. Lourdes and Gaby are friends but **don't live there**. The household-of-choice is **physically smaller than the system of friends**.
 
@@ -189,9 +189,9 @@ The group is **not a securely attached system**. It has:
 2. **Distribute the caregiving**: Gaby cannot be the only one who shows up. **Each person needs to be one specific thing for one specific person** (not "everything for everyone").
 3. **Bring the periphery in**: Ale is the systems observer. **Use him.** Don't exclude him from household decisions.
 4. **Re-integrate the exile**: Lourdes' 2-year silence cost her the relationship. **Bring her back** at the cost of moving, not at the cost of staying away.
-5. **Address Lourdes' dual role**: friend + Cuqui's therapist is **the structural conflict** the next session must name explicitly.
+5. **Address Lourdes' dual role**: friend + Cookie/Kuki's therapist is **the structural conflict** the next session must name explicitly.
 
-### For Cuqui (when she's next in the room)
+### For Cookie/Kuki (when she's next in the room)
 1. **Predictable structure**: same time, same place, same length, same ending
 2. **Clear contracts**: "You can call between sessions **once** per day. If you call 80 times, we..."
 3. **Mentalization focus** (Bateman/Fonagy): help her hold her own mind and others' minds as separate
@@ -222,7 +222,7 @@ The group is **not a securely attached system**. It has:
 ### For Lourdes specifically
 1. **Re-engagement plan**: 1 hour/week, structured, with exit criteria
 2. **Cost accounting**: what did the 2-year silence get her, and what did it cost?
-3. **Dual role**: **must be resolved** — friend or therapist for Cuqui, not both
+3. **Dual role**: **must be resolved** — friend or therapist for Cookie/Kuki, not both
 
 ---
 

@@ -11,7 +11,7 @@
 
 **This is NOT a clinical document.** All clinical labels are **differential hypotheses**, not diagnoses. Only qualified clinicians can diagnose, and only after longitudinal assessment.
 
-**The TLP/BPD label** applies formally only to **Cuqui** (self-labeled, Manuel disputed, Lourdes affirmed). It has been raised by Cuqui and Lourdes as a **thought/possibility** about **Belén** — this is NOT a diagnosis, just a friend's intuition that surfaced in discussion.
+**The TLP/BPD label** applies formally only to **Cookie/Kuki** (self-labeled, Manuel disputed, Lourdes affirmed). It has been raised by Cookie/Kuki and Lourdes as a **thought/possibility** about **Belén** — this is NOT a diagnosis, just a friend's intuition that surfaced in discussion.
 
 ---
 
@@ -23,8 +23,8 @@
 | **Ale** | Iván's friend, co-resident (only household pair) | In room |
 | **Kiki** | Iván's sister (real sibling) | In room |
 | **Gaby** | Iván's friend | In room |
-| **Lourdes** | Iván's friend, therapist-in-training, Cuqui's therapist | In room |
-| **Cuqui** | Absent subject | Out |
+| **Lourdes** | Iván's friend, therapist-in-training, Cookie/Kuki's therapist | In room |
+| **Cookie/Kuki** | Absent subject | Out |
 | **Belén** | Absent third party, ex-household | Out, TLP possibility raised by friends |
 
 ---
@@ -58,7 +58,7 @@ See `PSY_SHARED_WOUND_ANALYSIS.md` for the deep dive.
 ### The therapeutic plans (4 files)
 11. **`THER_PLAN_INDIVIDUAL.md`** — 8-week plan per speaker
 12. **`THER_PLAN_GROUP.md`** — next 8 sessions structure
-13. **`THER_PLAN_CRISIS.md`** — Cuqui safety + child welfare (highest priority)
+13. **`THER_PLAN_CRISIS.md`** — Cookie/Kuki safety + child welfare (highest priority)
 14. **`THER_HOMEWORK.md`** — week-of experiments
 
 ### Decision support
@@ -74,8 +74,8 @@ See `PSY_SHARED_WOUND_ANALYSIS.md` for the deep dive.
 ### If you want to understand the GROUP
 → Read `PSY_SHARED_WOUND_ANALYSIS.md`, then `PSY_GROUP_DYNAMICS.md`, then `PSY_TRANSFERENCE_PATTERNS.md`, then `THER_PLAN_GROUP.md`
 
-### If you want to understand the CRISIS (Cuqui)
-→ Read `THER_PLAN_CRISIS.md` first (highest priority), then `PSY_TRAUMA_NARRATIVES.md` section on Cuqui, then `PSY_DIAGNOSTIC_HYPOTHES.md` section on Cuqui
+### If you want to understand the CRISIS (Cookie/Kuki)
+→ Read `THER_PLAN_CRISIS.md` first (highest priority), then `PSY_TRAUMA_NARRATIVES.md` section on Cookie/Kuki, then `PSY_DIAGNOSTIC_HYPOTHES.md` section on Cookie/Kuki
 
 ### If you want to understand what to DO
 → Read `THER_FRAMEWORK_LENSES.md` (decision tree), then `THER_PLAN_GROUP.md` (next 8 sessions), then `THER_PLAN_INDIVIDUAL.md` (per-person work)
@@ -88,22 +88,22 @@ See `PSY_SHARED_WOUND_ANALYSIS.md` for the deep dive.
 ## What was NOT done
 
 ### Things that need a qualified clinician
-- **Differential diagnosis** (BPD vs C-PTSD for Cuqui) — needs SCID-5-PD or ITQ
+- **Differential diagnosis** (BPD vs C-PTSD for Cookie/Kuki) — needs SCID-5-PD or ITQ
 - **Adult autism assessment** for Gaby — needs ADOS-2 with adult specialist
 - **Prolonged grief therapy** for Gaby's father's death — needs Hofmann protocol
-- **DBT program** for Cuqui — needs certified DBT program
+- **DBT program** for Cookie/Kuki — needs certified DBT program
 - **EMDR / Somatic Experiencing** for the trauma — needs certified practitioner
-- **Child welfare assessment** for Cuqui's daughter — needs SNNA
+- **Child welfare assessment** for Cookie/Kuki's daughter — needs SNNA
 
 ### Things that need longitudinal data
 - Any diagnostic confirmation
 - Tracking the "too nice" pattern changes over time
-- Tracking Cuqui's call frequency (80 → ?)
+- Tracking Cookie/Kuki's call frequency (80 → ?)
 - Tracking Lourdes' re-engagement
 - Tracking Kiki's Petunio
 
 ### Things that need collateral
-- Cuqui's history (Aldea SOS records, prior treatment)
+- Cookie/Kuki's history (Aldea SOS records, prior treatment)
 - Iván's origin family history (almost completely absent)
 - Ale's origin family history
 - Kiki's origin family history (only fragments)

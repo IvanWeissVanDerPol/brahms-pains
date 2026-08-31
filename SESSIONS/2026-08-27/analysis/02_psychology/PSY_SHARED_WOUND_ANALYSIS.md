@@ -10,7 +10,7 @@
 - Kiki = sister
 - Gaby = friend
 - Lourdes = friend, T-in-training
-- Cuqui = absent subject
+- Cookie/Kuki = absent subject
 
 ---
 
@@ -39,8 +39,8 @@
 
 **Why it generalizes to the room:** The room is **full of people** Ivan has said yes to. Every yes is the pesado defense operating:
 - Yes to Gaby (the pursued caretaker, 80 calls, hospital arrival)
-- Yes to Cuqui (the absent subject who broke in, who calls 80 times)
-- Yes to Lourdes (the friend who became Cuqui's therapist, the dual role)
+- Yes to Cookie/Kuki (the absent subject who broke in, who calls 80 times)
+- Yes to Lourdes (the friend who became Cookie/Kuki's therapist, the dual role)
 - Yes to Ale (the co-resident he lets leave at 55 min)
 - Yes to Kiki (the sister he lets call him out — but this yes is **earned**, not pesado, because Kiki is the only one withstanding the pattern)
 
@@ -74,7 +74,7 @@ The "demasiado bueno" / "pesado" wound shows up **differently in each person**, 
 | Kiki | "I cannot fix anybody but myself" | Reacted (stopped giving) | Isolation, code-switching cost |
 | Ale | "Me dejaron afuera" | Accepting exclusion | Low investment, structural peripheral |
 | Lourdes | 2-year exile | Cost-of-clarity | Mood cooling Δ-0.18, dual-role exposure |
-| Cuqui (absent) | 80 calls, breaking into houses | Giving to control | TLP self-label, assault pattern |
+| Cookie/Kuki (absent) | 80 calls, breaking into houses | Giving to control | TLP self-label, assault pattern |
 
 **The shared wound is: the cost of being needed, wanted, included.** Everyone in the room has paid that cost. The session works because the cost is **distributed** — but distributed cost is still cost. The hub (Iván) absorbs the most.
 
@@ -98,7 +98,7 @@ The "demasiado bueno" / "pesado" wound shows up **differently in each person**, 
 ### Ale — **The co-resident who accepts being left out**
 - "Me dejaron afuera" (himself, +3097s)
 - Spelled "polycule" so the group had vocabulary
-- Reports Cuqui's 80 calls instead of escalating
+- Reports Cookie/Kuki's 80 calls instead of escalating
 - Leaves at 55 min before being told to leave
 - **Cost:** low-grade exclusion, not asserting needs, possible safety issue unaddressed
 
@@ -120,10 +120,10 @@ The "demasiado bueno" / "pesado" wound shows up **differently in each person**, 
 - 2-year Dubai silence — **the cost of differentiation**
 - Clinical precision throughout — names patterns
 - "Mi personaje de Lourdes" — self-positions as character
-- Dual role with Cuqui — friend + therapist
+- Dual role with Cookie/Kuki — friend + therapist
 - **Cost:** 2 years of relationship loss, possible isolation, clinical boundary ambiguity
 
-### Cuqui (absent) — **The one with no boundaries at all**
+### Cookie/Kuki (absent) — **The one with no boundaries at all**
 - 80 calls at 3am
 - Bed incident
 - Breaking into houses
@@ -145,7 +145,7 @@ This is **functional short-term** — the group has a shared task and everyone c
 - Lourdes: pays 2 years for clarity
 - Ale: is excluded
 - Kiki: is in observer position
-- Cuqui: is the acting-out
+- Cookie/Kuki: is the acting-out
 
 **No one is "winning" the pattern.** Everyone is paying for it differently.
 
@@ -164,7 +164,7 @@ The household of self-made adults is **functional because of** the "too nice" pa
 
 ### The pattern is **also the wound**
 
-The same flexibility becomes **boundary dissolution** (Cuqui's version).
+The same flexibility becomes **boundary dissolution** (Cookie/Kuki's version).
 The same generosity becomes **exhaustion** (Gaby's version).
 The same accommodating becomes **deferred affect** (Iván's version).
 
@@ -182,21 +182,21 @@ The same accommodating becomes **deferred affect** (Iván's version).
 ### What didn't work
 1. **The room dropped the moment** — cancer scare, autism disclosure, exclusion pattern all went unprocessed
 2. **The pattern reproduces itself** — Gaby keeps showing up, Ivan keeps saying yes, Ale keeps being excluded
-3. **The system has no exit** — Kiki can't fix anyone, Lourdes can't stay, Cuqui can't be in the room
+3. **The system has no exit** — Kiki can't fix anyone, Lourdes can't stay, Cookie/Kuki can't be in the room
 
 ---
 
 ## The deepest level
 
-**The room is processing its own "too nice" wound through Cuqui's version of it.**
+**The room is processing its own "too nice" wound through Cookie/Kuki's version of it.**
 
 This is **a classic group-as-a-whole dynamic**: the group finds its own unconscious pattern **externalized in a member**, and the work becomes **about that member** rather than about the group.
 
-**Functional reading:** the group is doing useful work. Cuqui is real. The pattern is real. Working on Cuqui is **also** working on the group.
+**Functional reading:** the group is doing useful work. Cookie/Kuki is real. The pattern is real. Working on Cookie/Kuki is **also** working on the group.
 
-**Dysfunctional reading:** the group is **avoiding its own work** by displacing it onto Cuqui. Cuqui becomes **the diagnosis**, not the symptom.
+**Dysfunctional reading:** the group is **avoiding its own work** by displacing it onto Cookie/Kuki. Cookie/Kuki becomes **the diagnosis**, not the symptom.
 
-**Both readings are true.** The work needs to **explicitly name the projection** without dissolving Cuqui's actual complexity.
+**Both readings are true.** The work needs to **explicitly name the projection** without dissolving Cookie/Kuki's actual complexity.
 
 ---
 
@@ -210,14 +210,14 @@ This is **a classic group-as-a-whole dynamic**: the group finds its own unconsci
 | Lourdes | Pays for clarity with relationships | Re-engagement plan at the cost of moving |
 | Kiki | Observes because she can't fix | Be inside the household; name Petunio |
 | Ale | Accepts being left out | Assert one need per session |
-| Cuqui | Has no boundaries because structure failed her | DBT + safety plan + daughter's welfare |
+| Cookie/Kuki | Has no boundaries because structure failed her | DBT + safety plan + daughter's welfare |
 
 ### For the system
 1. **Distribute caregiving** — Gaby is one node, not the central node
 2. **Address Lourdes' dual role** — friend or therapist, not both
 3. **Center Ale** — ask him to facilitate, follow his reports
-4. **Bring Cuqui back safely** — structure, contracts, predictable ending
-5. **Name the projection** — "we are processing our pattern through Cuqui"
+4. **Bring Cookie/Kuki back safely** — structure, contracts, predictable ending
+5. **Name the projection** — "we are processing our pattern through Cookie/Kuki"
 
 ### For the next session
 - Process the autism disclosure (Gaby)

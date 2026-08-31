@@ -29,7 +29,7 @@
 | File size | 5.1 MB | metadata |
 | Language | spa (Spanish primary, English tokens throughout) | metadata |
 | Cast (in-room) | 5 humans — Iván, Gaby, Lourdes, Ale, Kiki | `SPEAKER_IDENTIFICATION_TABLE_V2.md` |
-| Cast (absent subject) | Cuqui (referenced heavily, not present) | `SPEAKER_IDENTIFICATION_TABLE_V2.md` |
+| Cast (absent subject) | Cookie/Kuki (referenced heavily, not present) | `SPEAKER_IDENTIFICATION_TABLE_V2.md` |
 | WhisperX artifact | "Gusy" does not exist (paraguayan slang mishearing) | `SPEAKER_IDENTIFICATION_TABLE_V2.md` |
 
 ### A2. Talk-time distribution
@@ -53,7 +53,7 @@
 | **Act 1** | 0–1100s | Household fills up, lore dump, polycule structure mapped, "demasiado bueno" wound named | Cast established, nothing processed |
 | **Act 2** | 1100–3500s | Gaby arrives, bed incident disclosed, Kiki enters, confrontation timeline | Wound validated, Gaby present |
 | **Act 3** | 3500–5500s | Kiki's closing monologue, household-as-institution, Petunio's "26 years old" line | Kiki exits, structural critique delivered |
-| **Act 4** | 5500–6800s | "Espacio seguro" thesis, ordende restricción, the assaillante pattern, the dawn break-in | Containment discussed, "socializarlo" offered |
+| **Act 4** | 5500–6800s | "Espacio seguro" thesis, ordende restricción, the belén pattern, the dawn break-in | Containment discussed, "socializarlo" offered |
 | **Act 5** | 6800–7277s | Gaby's autism disclosure, Iván's mother history, "I'M THE BAD GUY", closing | No resolution; both end in tears |
 
 Source: `SESSION_2026-08-27_DEEPDIVE_ISSUES.md`
@@ -110,17 +110,19 @@ The household recreates Iván's family-of-origin pattern: he is "inchabola" / "p
 | Person | Role | 08-27 status | Reference |
 |---|---|---|---|
 | Iván | Primary | In-room | `SPEAKER_IDENTIFICATION_TABLE_V2.md` |
-| Gaby | Primary partner | In-room | `SESSION_2026-08-27_GABY_PROCESS.md` |
+| Gaby | Current romantic partner | In-room | `SESSION_2026-08-27_GABY_PROCESS.md` |
 | Kiki (Kyrian) | Sister | In-room (quiet) | `SESSION_2026-08-27_KIKI_SUPPORT.md` |
-| Ale | Friend, household edge | In-room (witness) | `SESSION_2026-08-27_ALE_WITNESS.md` |
-| Lourdes (Youko) | Therapist-in-training, friend | In-room | `SESSION_2026-08-27_LOURDES_PROCESS.md` |
-| Nate | Primary relationship (polycule hub) | Absent, dawn break-in | `SESSION_2026-08-27_NATE_REFERENCE_CARD.md` |
-| Lua pelinegro | Polycule member, transfem, BDSM | Absent | `SESSION_2026-08-27_LUA_PELINEGRO_REFERENCE_CARD.md` |
-| Lua rubia | Work/project, transfem | Absent (sent 8 PM message) | `SESSION_2026-08-27_LUA_RUBIA_REFERENCE_CARD.md` |
+| Ale | Friend, roommate, household edge | In-room (witness) | `SESSION_2026-08-27_ALE_WITNESS.md` |
+| Lourdes (Youko) | **Friend, final-year psychology student (NOT a therapist — see `# TODO: ivan-review` below)** | In-room (informal peer support) | `SESSION_2026-08-27_LOURDES_PROCESS.md` |
+| Nate | Primary ex-relationship (polycule hub) | Absent | `SESSION_2026-08-27_NATE_REFERENCE_CARD.md` |
+| Lua pelinegro | Ex-romantic partner, transfem, BDSM, primary polycule participant | Absent | `SESSION_2026-08-27_LUA_PELINEGRO_REFERENCE_CARD.md` |
+| Lua rubia | Side partner, transfem, work colleague (trial period at AI Whisperers, already stepped back) | Absent (sent 8 PM message) | `SESSION_2026-08-27_LUA_RUBIA_REFERENCE_CARD.md` |
 | Fer | Lua rubia's boyfriend | Absent (separate from Nico) | Lua rubia card |
-| Nico (Nicolás Duarte) | Kink-community friend, rigger | Absent (separate from Fer) | `RELATIONSHIPS/dynamics/NICOLAS_DUARTE.md` |
-| Belén | Nate's friend, lived in household, accused Iván of rape | Absent, kept away | Nate card (per Iván's recounting) |
-| Cuqui | Lourdes's friend, self-labeled TLP, central to family pattern | Absent but heavy subject | `SESSION_2026-08-27_CUQUI_NARRATIVE.md` |
+| Nico (Nicolás Duarte) | Kink-community friend, rigger | **Holding pattern** (pending conversation with dayah) | `RELATIONSHIPS/dynamics/NICOLAS_DUARTE.md` |
+| **Belén** | **Ex-romantic partner (weeks-long, since ~early Aug). The rupture subject. Moved out to lua rubia's on 08-26 night. The only TLP-pattern-labeled subject (informal attribution by cookie/kuki/lourdes/dan/sarah).** | Absent, kept away | `SESSION_2026-08-27_BELEN_PROCESS.md` |
+| **Cookie/Kuki** | **Friend, nurse (long-time), called belén to confront her the night before the dawn-door-banging. In Iván's support structure. NOT a TLP-labeled subject. NOT cut off. NOT has a daughter.** | Not at session, present at gaby's house during dawn-door-banging | `SESSION_2026-08-27_COOKIE_KUKI_NARRATIVE.md` (file renamed 2026-09-01; was CUQUI_NARRATIVE.md) |
+
+> **# TODO: ivan-review** (added 2026-09-01 by Hermes): The A8 table was rewritten to reflect the actual household per Iván 2026-09-01. The original draft had Cookie/Kuki (then called Cuqui) as "Lourdes's friend, self-labeled TLP, central to family pattern" — this is wrong on multiple counts. Cookie/Kuki is NOT Lourdes's friend (she's a separate friend of Iván's), NOT self-labeled TLP, and NOT the central absent subject. Lourdes is a friend, not a clinician. Belen is the rupture subject and the only TLP-pattern-labeled subject.
 
 ---
 
@@ -135,7 +137,7 @@ The household recreates Iván's family-of-origin pattern: he is "inchabola" / "p
 | 3 | Trio-with-dildos grievance (CORRECTED 2026-08-28: declined stay-invitation framed retroactively as consent failure) | Same | "After the fact poner tenás que preguntar nomás más" |
 | 4 | Luba gathering exclusion (Iván and Ale not invited) | Ale's recounting in session | (Iván named this in the 11:50 message to Nate) |
 | 5 | Belén accused Iván of rape (later "misspoke" but accusation was made) | Per Iván + recap | "Entiendo que se expresó mal etc / Pero no está bien que esté cerca" |
-| 6 | 80+ calls 3-6 AM (Belén, the assaillante) | Ale's recounting in session | (Ale named this) |
+| 6 | 80+ voice calls 3-6 AM (Belén, the rupture subject — same person throughout) | Ale's recounting in session | (Ale named this — calls were to ale, ivan, and gaby; no texts; one-time event; no one blocked her; only engaged at dawn after door-banging) |
 | 7 | Household became non-safe-space | Same | "Happy que sintieron que mi casa les fue un safe space / Pero dejo de ser para mí" |
 | 8 | Lua rubia's: zero messages to Gaby, call-spamming at dawn, household disorder, playing doctor over Cookie (separately, who has medical experience), excluding Kuki in dense conversation + showing Ale a picture of her ass mid-breast-milk-conversation, treating men as less, work underperformance | 8:15 PM message from Iván to Lua rubia | "Wtf lgmt" |
 | 9 | "More than partner fui friend" — felt demoted in polycule | Same | (Central wound) |
@@ -151,7 +153,7 @@ The household recreates Iván's family-of-origin pattern: he is "inchabola" / "p
 | 4 | Lua rubia: "I prefer to step back from the project" | Lua rubia's 8:22 PM message | Has offered to exit |
 | 5 | Nate (per break-in): Iván was unreachable / unavailable | Implied by Nate's dawn action | Boundary was set, but the underlying relational rupture was urgent |
 | 6 | The household's pattern of "talking about, not to" | Multiple (Lourdes, Kiki, Ale session context) | The FireWall pattern is named by others |
-| 7 | Gaby (per session context): Iván left her to deal with the assaillante alone, then came back | `SESSION_2026-08-27_GABY_PROCESS.md` | "Iván no estaba" when the assault happened |
+| 7 | Gaby (per session context): Iván left her to deal with the rupture aftermath alone, then came back | `SESSION_2026-08-27_GABY_PROCESS.md` | "Iván no estaba" when the assault happened |
 
 ### B3. Both-sides validation (Pre-Filled, Honesty Test)
 
@@ -254,7 +256,7 @@ These are the questions Iván most needs help with. Rank by what feels most urge
 
 ### E5. The household as conflict site
 
-**Q:** The household's structure (with Gaby's medical fragility, Ale's witness role, Kiki's distance, Lourdes's therapist-in-training presence, Cuqui's heavy absence) made the session **also a household crisis meeting**. How does Iván separate his own relational rupture from the household's structural crisis?
+**Q:** The household's structure (with Gaby's medical fragility, Ale's witness role, Kiki's distance, Lourdes's therapist-in-training presence, Cookie/Kuki's heavy absence) made the session **also a household crisis meeting**. How does Iván separate his own relational rupture from the household's structural crisis?
 
 ### E6. The 2 weeks of no context
 
@@ -265,7 +267,7 @@ These are the questions Iván most needs help with. Rank by what feels most urge
 **Q:** Iván mentioned to Nate that Belén accused him of rape and "no está bien que esté cerca." What is the status of this accusation? Has it been formally retracted? Mediated?
 
 **Context (corrected 2026-08-28):**
-- "**La mina**" / the assaillante / the dawn break-in person / the person Iván was in the bed with on 08-23 = **Belén** (same person throughout). Earlier drafts treated these as separate characters.
+- "**La mina**" / the belén / the dawn break-in person / the person Iván was in the bed with on 08-23 = **Belén** (same person throughout). Earlier drafts treated these as separate characters.
 - **Belén was in the bed with Iván, Ale, and Gaby on 08-23** when the assault happened (Iván and Belén were touching; Gaby's kidney cyst exploded separately). Iván was **present** in the room when the bed incident occurred — earlier drafts incorrectly stated Iván was absent.
 - The TLP/BPD attribution question: per Iván 2026-08-28, **Lua pelinegro explicitly stated in session that "we can't diagnose, we aren't professionals."** TLP labels for any character should be read as session-level descriptive language, not clinical diagnoses. **Manuel** is Gaby's ex and **was not in the session** — earlier drafts incorrectly cited him as a TLP disputant.
 
@@ -281,21 +283,28 @@ These are the questions Iván most needs help with. Rank by what feels most urge
 
 **Additional context (per Iván 2026-08-28):** After the bed incident, when Gaby needed to go to the hospital, the household support went to **Belén** (who had hidden alone in the mosquito area), and **Gaby left alone to the hospital.** At the hospital, Gaby told Belén "take care of yourself, always choose yourself first," and **Belén exploded.** Iván followed/comforted her. This pattern (household support going to the disruptor rather than the patient) is part of what the psychologist should hear.
 
-### E10. The Cuqui / TLP attribution — corrected
+### E10. The TLP attribution — corrected (CORRECTED 2026-09-01)
 
-**Q:** Per Iván 2026-08-28, **Lua pelinegro explicitly stated in session that "we can't diagnose, we aren't professionals."** The TLP/BPD label belongs formally only to **Cuqui** (self-labeled; Lourdes affirmed). **Manuel is Gaby's ex and was not in the session** — earlier drafts incorrectly cited him as a TLP disputant. **Belén has never been formally labeled TLP**; both Cuqui AND Lourdes have raised TLP as a thought/possibility, which is not a diagnosis.
+**Q:** Per Iván 2026-09-01, **Lua pelinegro explicitly stated in session that "we can't diagnose, we aren't professionals."** The TLP/BPD pattern attribution belongs to **Belén only** — Cookie/Kuki, Lourdes, Dan, and Sarah all noted Belen shows TLP-pattern behavior based on observed actions. **Manuel is Gaby's ex and was not in the session** — earlier drafts incorrectly cited him as a TLP disputant. **Belén has never been formally labeled TLP** — the attribution is observational/peer-intuition, not a clinical diagnosis.
+
+> **# TODO: ivan-review** (added 2026-09-01): the original E10 said "The TLP/BPD label belongs formally only to Cookie/Kuki (self-labeled; Lourdes affirmed)." This is wrong on multiple counts per Iván 2026-09-01:
+> - Cookie/Kuki is NOT self-labeled TLP. Cookie/Kuki is a friend who called belén to confront her and observed TLP-pattern behavior in belén.
+> - Cookie/Kuki is NOT Lourdes's patient. Lourdes is not a clinician.
+> - The only TLP-pattern attribution is to **Belén**, based on observed behavior, attributed by Cookie/Kuki, Lourdes, Dan, and Sarah.
 
 How does Iván hold this without over-attributing clinical labels to people's behavior? What's the difference between "this person shows TLP-coded behaviors" (descriptive) and "this person has TLP" (diagnostic), and where does Iván draw that line?
 
 **The deeper question:** In the session and in the household discourse, TLP functioned as a **shortcut vocabulary** for relational chaos. With the disclaimer in mind, what other vocabulary could serve the same purpose without claiming clinical certainty?
 
-### E11. The "trio/dildos" reframing (added 2026-08-28)
+### E11. The 08-23 threesome reframing (CORRECTED 2026-09-01 — was "trio/dildos reframing")
 
-**Q:** What was framed in Iván's 11:56 message to Nate as "a trío in my bed with my dildos" is, per Iván 2026-08-28, actually a **declined stay-invitation** — Iván came home ~11 PM from the hospital, exhausted, with an endoscopy the next day for a polyp that might be cancer. Iván said "I'll shower and sleep," **Belén asked Iván to stay**, Iván declined, nobody complained at the time. **Afterward**, the criticism was "you should have asked more."
+**Q:** What was framed in Iván's 11:56 message to Nate as "a trío in my bed with my dildos" is, per Iván 2026-09-01, actually a **partial-participation-then-decline-further** event — Iván came home ~11 PM from the hospital, exhausted, with an endoscopy the next day for a polyp that might be cancer. **Belén asked Iván to stay.** Iván initially declined (to go shower), then stayed because belén asked. Iván **participated for a period** — kissed nate, kissed belén, tasted fluid from nate, gave oral to lua peli negra, grinded with belén, no penetrative sex with belén — then **declined further** because of exhaustion and pre-procedure anxiety. **Belén was awake, engaged, actively participating throughout.** The retroactive criticism came from nate days later ("should have asked more"), framed as both criticism-of-ivan and boundary-for-themselves. Lua rubia and lua peli negra separately confirmed belén's account that she asked him to stay.
 
-What does it mean for a **declined invitation** to be retroactively reframed as a **consent failure on the declined-inviter's part**? How does Iván hold his own "no" against a household norm that says "you should have asked more" when he said no?
+What does it mean for a **partial-participation-then-decline-further** to be retroactively reframed as a **consent failure on the part of the participant**? How does Iván hold his own "no, I'm tired" against a household norm that says "you should have asked more" when he said no?
 
-**The deeper question:** Iván's "no" was about exhaustion, pre-procedure anxiety, and basic self-care. The household's "you should have asked more" effectively says that self-care-as-decline is insufficient consent. This pattern (if it generalizes) would mean the household has no protocol for "no, I'm tired."
+> **# TODO: ivan-review** (added 2026-09-01): the original E11 framed this as "declined stay-invitation" — that's wrong. Iván participated for a period. The retroactive criticism is harder to understand when the participation was actual, not declined.
+
+**The deeper question:** Iván's partial-participation was followed by exhaustion-based decline. The household's "you should have asked more" effectively says that engagement + decline is insufficient consent. This pattern (if it generalizes) would mean the household has no protocol for "I engaged, then I'm tired, so I'm stopping."
 
 ### E12. The BDSM-origin and Ale's recounting discrepancy (added 2026-08-28)
 
@@ -354,8 +363,8 @@ Probably: to be heard. To have the impact of her behavior (cero mensajes a Gaby,
 
 **Iván's best-current-answer:**
 
-- **Protected:** Gaby (by breaking in to confront Nate, by naming the assaillante's behavior, by being present at session). Ale (by being present, by listening). Kiki (by NOT engaging in the FireWall mode with her during session, even when she named the wound).
-- **Failed:** Gaby (by being absent during the assault, by adding the conflict to her recovery). Nate (by 2 weeks of no context). Lua rubia (by not engaging with her "no quiero que me respondas acá" — i.e., by responding anyway). The household (by allowing the rupture to be public rather than private).
+- **Protected:** Gaby (by being present in the room at dawn when belén banged on her door, by naming the rupture subject's behavior, by being present at session). Ale (by being present, by listening). Kiki (by NOT engaging in the FireWall mode with her during session, even when she named the wound). Cookie/Kuki (by valuing her as a friend and keeping her in the support structure, not letting the renames push her out).
+- **Failed:** Gaby (by being present in the bed when the assault happened, by adding the conflict to her recovery, by the rupture displacing cost onto her). Nate (by 2 weeks of no context). Lua rubia (by not engaging with her "no quiero que me respondas acá" — i.e., by responding anyway). The household (by allowing the rupture to be public rather than private).
 
 ### F7. "What is the wound underneath all of this?"
 
@@ -396,9 +405,10 @@ Probably: to be heard. To have the impact of her behavior (cero mensajes a Gaby,
 
 ### G5. Triggers since 08-27
 
-- Any contact from Nate, Lua pelinegro, Lua rubia, Belén, the assaillante?: ___
+- Any contact from Nate, Lua pelinegro, Lua rubia, Belén (the rupture subject)?: ___
 - Any messages you sent that you regret?: ___
 - Any moments where the Freeze or FireWall fired since 08-27?: ___
+- **# TODO: ivan-review** (added 2026-09-01): Per Iván 2026-09-01, nate has NOT reached out (he accepted the space decision but said "you're always welcome" — interpreted as a standing casual offer, not active pursuit). Per Iván 2026-09-01, lua rubia has sent the "stepping back from the project" message (already stepped back from the AI Whisperers trial period). Per Iván 2026-09-01, ivan has no current contact with belén or lua peli negra. Pre-fill these based on current state at session time.
 
 ### G6. What do you most want from this session?
 
@@ -421,14 +431,14 @@ Probably: to be heard. To have the impact of her behavior (cero mensajes a Gaby,
 
 ### H2. Household safety status
 
-| Concern | Current state |
-|---|---|
-| Assaillante at Gaby's door | Lourdes raised "orden de restricción" in session — needs follow-through |
-| Nate's dawn break-in | Single occurrence 08-27 AM |
-| Belén proximity | Kept away per Iván's recounting |
-| Gaby's medical state | Kidney pain, on antibiotics + tramadol per Gaby process file |
-| Lua rubia project status | Offered to step back 08-27 8:22 PM |
-| Lua pelinegro status | Avoidant withdrawal in effect (Iván's 08-27 statement) |
+|| Concern | Current state |
+|---|---|---|
+| **Belén at Gaby's door** | **Belén banged on gaby's door at dawn, squeezed between security bars into gaby's private residential area, tried to push her way inside demanding to speak with ivan.** Lourdes (friend, final-year psych student, NOT a clinician) raised "orden de restricción" possibility in session — informal suggestion, needs follow-through. **# TODO: ivan-review** (added 2026-09-01): per Iván 2026-09-01, belén has now moved out to lua rubia's. Current housing status: with lua rubia, status of housing stability uncertain. The original "dawn break-in" framing was misleading — belén was outside on the street from 3 AM, squeezed between bars at dawn, banged on the door, and tried to push her way in. |
+| Nate's dawn action | **# TODO: ivan-review** (added 2026-09-01): original draft listed this as "dawn break-in" — wrong. Nate was not the dawn-door-banging perpetrator. The 11:45-12:00 messages to Nate were a context-update, not a complaint about Nate's action. |
+| Belén proximity | Kept away per Iván's recounting. **# TODO: ivan-review** (added 2026-09-01): per Iván 2026-09-01, belén has now moved out to lua rubia's (08-26 night). She's housed but the rupture's cost includes housing displacement for her. |
+| Gaby's medical state | Kidney pain, on antibiotics + tramadol per Gaby process file. **# TODO: ivan-review** (added 2026-09-01): per Iván 2026-09-01, gaby is also on separate medication that's hitting her hard during the rupture; stressed to the point of seeing her doctor about it. The psychologist may want to consider referring gaby for separate support. |
+| Lua rubia project status | Offered to step back 08-27 8:22 PM. **# TODO: ivan-review** (added 2026-09-01): per Iván 2026-09-01, the "project" was the AI Whisperers trial period for lua rubia as artist. She has already stepped back. |
+| Lua pelinegro status | Avoidant withdrawal in effect (Iván's 08-27 statement). **# TODO: ivan-review** (added 2026-09-01): per Iván 2026-09-01, the cutoff call was made with both nate and lua peli negra on the line. |
 
 ### H3. Things NOT to discuss with any household member until session
 
@@ -436,10 +446,11 @@ Probably: to be heard. To have the impact of her behavior (cero mensajes a Gaby,
 - The 8 PM Lua exchange (private between Iván and Lua)
 - The 11:45-12:00 message burst to Nate (private between Iván and Nate)
 - The FireWall/Defenses file content — these are Iván's work, not household-facing
+- **# TODO: ivan-review** (added 2026-09-01): per Iván 2026-09-01, also keep confidential: the brahm letter (his fursona/alter-ego document) — does not need to be shared with the household. The 08-23 threesome detail (partial-participation-then-decline) — belén is unaware of the psychologist doc, but knows ivan is "AI autistic so maybe suspects."
 
 ### H4. Things that ARE safe to discuss with household members
 
-- The household access question (assaillante, household agreement)
+- The household access question (Belén, household agreement)
 - Gaby's medical support (kidney, antibiotics)
 - Ale's role and wellbeing
 - Kiki's involvement at her own pace
@@ -472,7 +483,7 @@ After the session, what would make it feel "successful"?
 
 ## APPENDIX — File Map for the Psychologist
 
-All files are in the private repo `IvanWeissVanDerPol/psycology`. Repo is local-only and not pushed to public.
+All files are in the private repo `IvanWeissVanDerPol/brahms-pains` (renamed from `psycology` on 2026-09-01; old URL returns 301 redirect to new). Repo is local-only and not pushed to public.
 
 ### Top-of-mind
 
@@ -487,11 +498,12 @@ All files are in the private repo `IvanWeissVanDerPol/psycology`. Repo is local-
 - `SESSIONS/2026-08-27/analysis/01_speaker_id/SESSION_2026-08-27_ABSENT_CHARACTERS.md` — absent people
 - `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_DEEPDIVE_ISSUES.md` — five-act structure
 - `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_ALE_WITNESS.md`
-- `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_CUQUI_NARRATIVE.md`
+- `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_COOKIE_KUKI_NARRATIVE.md` (renamed 2026-09-01; was CUQUI_NARRATIVE.md)
 - `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_GABY_PROCESS.md`
 - `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_IVAN_PROCESS.md`
 - `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_KIKI_SUPPORT.md`
 - `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_LOURDES_PROCESS.md`
+- `SESSIONS/2026-08-27/analysis/04_clinical/SESSION_2026-08-27_BELEN_PROCESS.md` (new 2026-09-01)
 
 ### Reference cards (absent contacts)
 
@@ -509,6 +521,10 @@ All files are in the private repo `IvanWeissVanDerPol/psycology`. Repo is local-
 - `CORE_PSYCHOLOGY/PSY_SHARED_WOUND_ANALYSIS.md`
 - `CORE_PSYCHOLOGY/PSY_FULL_CAST_PSYCHODYNAMICS.md`
 
+### Attachments (external to repo)
+
+- **The "Brahm letter"** — canva link: https://canva.link/zd93q97bo27xytf — Ivan's fursona/alter-ego document explaining his attachment pattern in intimate contexts. The rupture maps directly onto the warnings in this letter. Read before the session.
+
 ### Drafts (NOT SENT)
 
 - `_drafts/2026-08-28_NATE_REPLACEMENT.md` — replacement Nate message
@@ -518,6 +534,18 @@ All files are in the private repo `IvanWeissVanDerPol/psycology`. Repo is local-
 
 - `_review/cursor-loop-round42-shipping.md` — trademark content from inbox/
 - `_review/stray_old_attachment_draft.md` — stray file
+
+### Therapy plans (FLAGGED for Iván manual rewrite)
+
+> **# TODO: ivan-review** (added 2026-09-01): The therapy plans in `SESSIONS/2026-08-27/analysis/03_therapy/` assume Cookie/Kuki (then "Cuqui") was a separate subject with her own TLP story. Per Iván 2026-09-01, Cookie/Kuki = the friend in your support structure, NOT a TLP-labeled subject. The therapy plans need manual rewrite to reflect this. Flagged files:
+> - `THER_PLAN_CRISIS.md` — entire doc assumes "Crisis Plan for Cuqui / TLP situation" — needs rewrite as "Belén crisis plan" if a crisis plan is still needed
+> - `THER_PLAN_INDIVIDUAL.md` — the Cuqui 8-week plan section needs removal
+> - `THER_PLAN_GROUP.md` — references to "Cuqui" need replacement
+> - `THER_HOMEWORK.md` — references to "Cuqui" need replacement
+
+### Lourdes structural rewrite (FLAGGED)
+
+> **# TODO: ivan-review** (added 2026-09-01): The LOURDES_PROCESS.md file characterizes Lourdes as "co-therapist / co-facilitator." Per Iván 2026-09-01, Lourdes is a friend in her final year of psychology studies, NOT a clinician. The file needs a structural rewrite to remove the therapist framing and the "Cuqui's therapist" reference (which is wrong — Lourdes was never Cookie/Kuki's therapist because she's not a therapist at all).
 
 ---
 

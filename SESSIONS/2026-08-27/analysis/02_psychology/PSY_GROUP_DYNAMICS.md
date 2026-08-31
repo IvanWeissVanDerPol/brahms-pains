@@ -7,8 +7,8 @@
 - Ale (co-resident)
 - Kiki (Iván's sister)
 - Gaby (friend)
-- Lourdes (friend, T-in-training, Cuqui's therapist)
-- Cuqui (absent subject)
+- Lourdes (friend, T-in-training, Cookie/Kuki's therapist)
+- Cookie/Kuki (absent subject)
 
 ---
 
@@ -19,7 +19,7 @@ Bion identified three basic-assumption states that groups fall into when they **
 | Basic assumption | Group behavior | This group |
 |---|---|---|
 | **Dependency** | Looks to a leader for protection and direction | ✅ Dominant |
-| **Fight-flight** | Sees the absent member (Cuqui) as the threat | ✅ Secondary |
+| **Fight-flight** | Sees the absent member (Cookie/Kuki) as the threat | ✅ Secondary |
 | **Pairing** | Two members form a hope-of-salvation pair | ⚠️ Latent |
 
 ### Dependency in this group
@@ -27,13 +27,13 @@ Bion identified three basic-assumption states that groups fall into when they **
 
 But Iván is **also the most overloaded** (he can't say no). So **the dependency is on an exhausted leader** — which is **the structural problem of the system**.
 
-### Fight-flight toward Cuqui
-**Cuqui is the absent threat.** The group processes Cuqui without her, which lets them:
+### Fight-flight toward Cookie/Kuki
+**Cookie/Kuki is the absent threat.** The group processes Cookie/Kuki without her, which lets them:
 - Diagnose without being diagnosed
 - Set limits without being held to limits
 - Project their own "too nice" pattern onto someone with a more extreme version
 
-**The fight-flight is successful**: Cuqui is out, the group is intact, the work is being done. **But the projection is also functioning**: the group is processing **its own wound** through Cuqui, not just Cuqui's wound.
+**The fight-flight is successful**: Cookie/Kuki is out, the group is intact, the work is being done. **But the projection is also functioning**: the group is processing **its own wound** through Cookie/Kuki, not just Cookie/Kuki's wound.
 
 ### Pairing (latent)
 **Kiki and Lourdes** are **the two who see most clearly**:
@@ -58,14 +58,14 @@ But Iván is **also the most overloaded** (he can't say no). So **the dependency
 ### Storming — active
 **The storming is happening around:**
 - The TLP label (Lourdes vs Manuel)
-- Cuqui's exclusion from the room (Kiki's framing vs Lourdes' clinical concern)
+- Cookie/Kuki's exclusion from the room (Kiki's framing vs Lourdes' clinical concern)
 - Gaby's exhaustion (the room names it but doesn't redistribute the caregiving)
 - Iván's "no puedo decir que no" (Kiki names it; Iván doesn't directly address it)
 - Lourdes' 2-year exile (named but not processed)
 
 ### Norming — partial
 The group has:
-- An implicit rule that **Cuqui isn't in the room** (norm)
+- An implicit rule that **Cookie/Kuki isn't in the room** (norm)
 - An implicit rule that **the absent member is the one who has the wound** (norm)
 - An implicit rule that **Iván hosts** (norm)
 
@@ -92,7 +92,7 @@ Every speaker carries some version:
 - Ale: excluded, accepts being excluded
 - Kiki: "I cannot fix anyone" — the integrative form
 
-**The group is unconsciously working through this through Cuqui**, who has the most extreme version (no boundaries at all). This is **functional short-term** (the group has a shared task) and **dysfunctional long-term** (the group is projecting rather than working on its own pattern).
+**The group is unconsciously working through this through Cookie/Kuki**, who has the most extreme version (no boundaries at all). This is **functional short-term** (the group has a shared task) and **dysfunctional long-term** (the group is projecting rather than working on its own pattern).
 
 ---
 
@@ -124,11 +124,11 @@ Every speaker carries some version:
 | **Hub** | Iván | Hosts, frames, processes |
 | **Caregivers** | Gaby, Ale | Show up, do labor, get exhausted |
 | **Observers** | Kiki, Lourdes | Name patterns, set limits |
-| **Subject** | Cuqui (absent) | The one the system metabolizes |
+| **Subject** | Cookie/Kuki (absent) | The one the system metabolizes |
 
 ### Boundaries
 - **Open boundary** between Iván ↔ everyone else (he's the hub)
-- **Semi-permeable** between Gaby ↔ Lourdes (Cuqui's clinical/care pathway)
+- **Semi-permeable** between Gaby ↔ Lourdes (Cookie/Kuki's clinical/care pathway)
 - **Closed** between Ale ↔ Kiki (no direct exchange in the session)
 - **Closed** between Lourdes ↔ Ale (no direct exchange)
 
@@ -138,7 +138,7 @@ Iván → all
 Gaby ↔ Lourdes (clinical pathway)
 Ale → group (peripheral)
 Kiki → Iván (sibling pathway)
-Cuqui → absent
+Cookie/Kuki → absent
 ```
 
 **The communication is hub-and-spoke through Iván.** This is **functional in moderation** but **dysfunctional when the hub is exhausted**.
@@ -153,9 +153,9 @@ Cuqui → absent
 **Counter-indicated** because: **everyone has the same wound**. Gaby is not the only one with "too nice" pattern. **Promoting her to identified patient** lets the others off the hook.
 
 ### 2. Designated scapegoat
-**Cuqui** is the absent scapegoat — the one with the most extreme wound. The room treats her as the diagnosis.
+**Cookie/Kuki** is the absent scapegoat — the one with the most extreme wound. The room treats her as the diagnosis.
 
-**Counter-indicated** because: **Cuqui's wound is real and serious** (Aldea SOS, abuse history, daughter's welfare). Using her as the scapegoat **denies her actual complexity**.
+**Counter-indicated** because: **Cookie/Kuki's wound is real and serious** (Aldea SOS, abuse history, daughter's welfare). Using her as the scapegoat **denies her actual complexity**.
 
 ### 3. Hidden leader
 **The hidden leader is Gaby**, not Iván. She speaks the most, does the most labor, carries the most grief. The group **needs her exhaustion** because it's the proof that the system works.
@@ -174,7 +174,7 @@ Cuqui → absent
 1. **Rotate the host** — Iván doesn't always chair. Let Ale or Gaby or Lourdes chair one session.
 2. **Center the periphery** — start one session with Ale's report. Ask him to facilitate.
 3. **De-identify the patient** — name the shared pattern ("too nice") explicitly so Gaby isn't the only one with it.
-4. **Re-include the scapegoat** — bring Cuqui back into the room **safely and with structure**, not as a final step.
+4. **Re-include the scapegoat** — bring Cookie/Kuki back into the room **safely and with structure**, not as a final step.
 5. **Address Lourdes' dual role** — friend or therapist, not both.
 6. **Kiki + Lourdes pairing** — recognize the latent pairing, name it, decide whether to use it.
 

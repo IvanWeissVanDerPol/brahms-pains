@@ -6,7 +6,7 @@ Per-session analysis files from voice-note transcripts processed through the Her
 
 | Session | Date | Subject | Files |
 |---|---|---|---|
-| [2026-08-27](2026-08-27/) | 27 Aug 2026 | 2nd Cuqui session, Gaby's process, household crisis | 11 files |
+| [2026-08-27](2026-08-27/) | 27 Aug 2026 | 2nd Cookie/Kuki session, Gaby's process, household crisis | 11 files |
 
 ## Pipeline
 

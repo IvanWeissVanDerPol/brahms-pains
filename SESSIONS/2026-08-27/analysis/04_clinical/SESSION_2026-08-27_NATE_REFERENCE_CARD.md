@@ -107,7 +107,7 @@ This is the section that matters most for your psychologist.
 - A real boundary violation, regardless of Nate's emotional state
 - But: boundary violations under emotional distress are often attempts at repair, not attacks
 - Iván's framing ("Shouldn't have done that") is correct, but the next-session question is whether the household can build a structure where break-ins are not the only way Nate knows to escalate
-- The assaillante's 80+ calls at 3-6 AM and Nate's dawn break-in are parallel patterns — different actors, same household, same dynamic
+- The belén's 80+ calls at 3-6 AM and Nate's dawn break-in are parallel patterns — different actors, same household, same dynamic
 
 **The "_drafts/" replacement message:**
 - The draft (NOT SENT) reframes the same content in a way that asks for space without making it permanent
@@ -127,9 +127,9 @@ This is the section that matters most for your psychologist.
 1. **Is the "space from the group" decision a 7-day breathing window or a permanent exit?** The draft replacement message says "no estoy diciendo que la relación se terminó." Your original said "decision is final for me." These need to be reconciled — preferably with your psychologist, not with Nate.
 2. **The 2 weeks without context** — what was happening? Whose decision was it? Was Nate told to stay away, or did he choose to?
 3. **The trio incident** — what is the factual sequence? Who initiated? Who knew what when? This is the load-bearing fact of the conflict and only Iván has recounted it.
-4. **Belén's accusation of rape** — Iván mentioned it to Nate as a reason Belén "can't be close." This is a separate and serious matter. What is the status? Has it been retracted formally? Has a third party (Cuqui, Lourdes) mediated?
+4. **Belén's accusation of rape** — Iván mentioned it to Nate as a reason Belén "can't be close." This is a separate and serious matter. What is the status? Has it been retracted formally? Has a third party (Cookie/Kuki, Lourdes) mediated?
 5. **Has Nate reached out after the 08-27 messages?** If yes, what did he say? If no, how long is Iván willing to wait before initiating?
-6. **The dawn break-in** — is there a household agreement that can prevent this from happening with anyone (Nate, the assaillante, anyone)? The 08-27 session named household access as a safety issue. Lourdes raised an "orden de restricción" but for the assaillante, not Nate.
+6. **The dawn break-in** — is there a household agreement that can prevent this from happening with anyone (Nate, the belén, anyone)? The 08-27 session named household access as a safety issue. Lourdes raised an "orden de restricción" but for the belén, not Nate.
 
 ### Iván's own observation from session
 "**More than partner fui friend**" (+~11:56 AM in messages to Nate, but the sentiment recurs throughout the 08-27 transcript)

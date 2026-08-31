@@ -111,7 +111,7 @@ From the Speaker 6 fragment (which is Iván):
 - "**yo quedé de huevón como Gusy en la primera sesión, la primera parte**" (+1571s)
 - (Then Kiki confirms at +1820s): "**Que vos quedaste como violín en la primera sesión**"
 
-Iván admits he was **silent/useless** at the first session with Cuqui and Belén. He's naming his own non-participation as the pattern: **he shows up, he watches, he doesn't intervene**.
+Iván admits he was **silent/useless** at the first session with Cookie/Kuki and Belén. He's naming his own non-participation as the pattern: **he shows up, he watches, he doesn't intervene**.
 
 ---
 

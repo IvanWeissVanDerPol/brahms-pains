@@ -2,7 +2,7 @@
 
 **Format:** Process map. Chronological. What was worked through, in what order, by whom, with what affect.
 **Source:** `08-27-2026_20.31_spa.json` (5.1 MB, 7,277s = 2h 01m 17s)
-**Cast:** 5 humans (Iván, Gaby, Lourdes, Ale, Kiki) + 1 absent subject (Cuqui) + 1 noise
+**Cast:** 5 humans (Iván, Gaby, Lourdes, Ale, Kiki) + 1 absent subject (Cookie/Kuki) + 1 noise
 
 ---
 
@@ -57,10 +57,10 @@ The 2-hour session moves through **five distinct emotional/structural acts**, ea
    - She discovered the girl "**así en bola en mi cama**"
 5. **Kiki names it as violación** — +1788s: "Iván no puede decir que no... si es que Iván era un violador"
 6. **The retraction** — Kiki +1739s: "Estaba mintiendo"
-7. **The Cuqui intervention** — Kiki recounts Cuqui's confrontation at +1696s: "si vos le decís que no, tiene que ser no"
-8. **The Belén/Cuqui confrontation** — Ale +2556s: "Che, no es honor que estés acá"
-9. **The Cuqui call to the girl** — Iván +2780s: "Cuqui le da una llamada y le dijo: '¿Por qué mentiste?' Y empezó a gritar así la cosa y le cortó Cuqui"
-10. **The TLP diagnosis (Cuqui)** — Gaby +4588s: "Cuqui dijo TLP"
+7. **The Cookie/Kuki intervention** — Kiki recounts Cookie/Kuki's confrontation at +1696s: "si vos le decís que no, tiene que ser no"
+8. **The Belén/Cookie/Kuki confrontation** — Ale +2556s: "Che, no es honor que estés acá"
+9. **The Cookie/Kuki call to the girl** — Iván +2780s: "Cookie/Kuki le da una llamada y le dijo: '¿Por qué mentiste?' Y empezó a gritar así la cosa y le cortó Cookie/Kuki"
+10. **The TLP diagnosis (Cookie/Kuki)** — Gaby +4588s: "Cookie/Kuki dijo TLP"
 11. **Lourdes independently diagnoses TLP** — +4576s: "Ah, TLP, trastorno límite de la personalidad. Pero de manual es"
 12. **The orden de restricción prompt** — Lourdes +3353s: "si tenés que poner una orden de restricción o algo así, no sé"
 13. **The threat-modeling** — Lourdes +3372s: "van a venir a quemar tu compu, van a venir a hacer cualquier cosa"
@@ -228,7 +228,7 @@ These are the items the room **did not** work on. They are the **next session's 
 | **Lourdes** | 15.4% | Co-therapist, threat-modeler, clinical framer |
 | **Ale** | 9.9% | Co-resident witness, "left out" narrator |
 | **Kiki** | 6.4% | Sibling protection, "Get your life together" |
-| **Cuqui** | — | Subject of session, not present |
+| **Cookie/Kuki** | — | Subject of session, not present |
 | **Noise** | 0.1% | Ambient |
 
 ---

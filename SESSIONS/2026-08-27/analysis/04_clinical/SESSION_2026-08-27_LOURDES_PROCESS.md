@@ -1,5 +1,21 @@
 # Lourdes (Youko Kurama) — Session 2026-08-27 Process File
 
+> **# TODO: ivan-review — STRUCTURAL REWRITE REQUIRED (added 2026-09-01 by Hermes):**
+>
+> **This document characterizes Lourdes as "Co-therapist / co-facilitator." That framing is wrong.**
+>
+> Per Iván 2026-09-01:
+>
+> - **Lourdes is NOT a co-therapist.** She is a friend of Iván who is in her final year of psychology studies. She was present at the 08-27 evening processing conversation at Iván's house as informal peer support, NOT as a clinician.
+> - **Lourdes was NOT Cookie/Kuki's therapist.** Lourdes has never had a clinical relationship with Cookie/Kuki — she's a friend.
+> - The "therapist-in-training" framing in the original draft is incorrect. Lourdes is a psychology student, not a practicing therapist-in-training.
+>
+> The content below describes Lourdes' behavior in the session accurately (she did set frames, did name wounds, did raise the orden de restricción possibility, did share her own Dubai story), but the FRAMING of her as co-therapist overstates her clinical role and should be revised to "friend, peer support, psychology student."
+>
+> Ivan, decide whether to (1) rewrite this file to remove the co-therapist framing, (2) add a header note acknowledging the framing is historical, or (3) leave as-is for now.
+>
+> **Also flagging:** line 11 says "She's the co-therapist / co-facilitator — present to structure, validate, and translate." Lourdes did contribute structure/validation/translation, but as a friend and psych student, not as a clinician. The functional role is accurate; the title is overstated.
+
 **Speaker ID:** Speaker 0 (single label, 238 segments, 15.4% of session)
 **Time range:** 0–7277s (present from the start to the end)
 **Archetype:** Co-therapist / narrator-validator / the one who frames things for the room
@@ -145,7 +161,7 @@ Lourdes references **Yeyo's theory** that neurodivergent people cluster — the 
 | **Gaby** | Co-therapist alongside Iván. Validates her autism disclosure. |
 | **Ale** | Diagnoses the same wound: "demasiado buena". |
 | **Kiki** | Allied. Both defend Iván's right to set limits. |
-| **Cuqui** | Referenced in the session work. Subject, not participant. |
+| **Cookie/Kuki** | Referenced in the session work. Subject, not participant. |
 | **The assailant** | Diagnosed as TLP. Threat-modeled. Lourdes is the most concrete voice about her danger. |
 | **Yeyo** | Referenced for the neurodivergent-clustering theory. |
 | **Belén, Nate, Luas** | Known from prior context. Lourdes is mapping the cast as Iván narrates. |

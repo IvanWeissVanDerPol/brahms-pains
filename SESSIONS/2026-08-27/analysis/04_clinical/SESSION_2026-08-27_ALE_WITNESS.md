@@ -62,38 +62,38 @@ Ale spells out **how Nate entered Iván's circle**: through BDSM events, where I
 
 Ale **knows about the kidney infection** and **knows that Iván was accompanying Gaby to hospital**. He also says "**nos tuvimos que ir al hospital**" — plural — meaning Ale and Kiki (probably) also went. The group had to **insist on Gaby** going to the hospital, which she resisted.
 
-### Layer 7: The Belén/Cuqui conversation (Act 2, 2460–2626s)
+### Layer 7: The Belén/Cookie/Kuki conversation (Act 2, 2460–2626s)
 
 This is the **longest single block** of Ale's contribution and **the most detailed**:
 
-- "**Una de-- un día antes, Cuqui le habló primera vez bien a Belén, porque Belén, como comenté, es una chica que, eh, así su familia es reabusiva y cuando nosotros nos conocimos ella estaba viviendo con Nate, pero sin contexto de nada.**" (+2468s)
+- "**Una de-- un día antes, Cookie/Kuki le habló primera vez bien a Belén, porque Belén, como comenté, es una chica que, eh, así su familia es reabusiva y cuando nosotros nos conocimos ella estaba viviendo con Nate, pero sin contexto de nada.**" (+2468s)
 - "**Y después, cuando vino acá, vino y se quedó y después se quedó más y retrajo sus cosas.**" (+2488s)
-- "**Y después, en cierto momento, cuando era un viernes, Cuqui le habló a ella y le dijo tipo: 'Che, no es honor que estés acá'.**" (+2556s)
+- "**Y después, en cierto momento, cuando era un viernes, Cookie/Kuki le habló a ella y le dijo tipo: 'Che, no es honor que estés acá'.**" (+2556s)
 - "**Hay otras opciones y eso, no sé, yo tengo conocidos así que trabajan en cosas y...**" (+2568s)
 - "**Y sí, fue tipo, che, tipo, no te puedo dejar vivir acá [risas]. Y tampoco no sentías hablarlo y te ha tratado de recomendar otras cosas.**" (+2585s)
-- "**Y ahí en esa, esa noche, en esa conversación lo que dijo tipo, eh, eso de que: 'Ay, yo le dije a Iván que no quería no sé qué'. Y después así, y Cuqui le, y Cuqui le dijo tipo: 'Pero eso es muy grave, así tipo, ¿en serio?'**" (+2594s)
+- "**Y ahí en esa, esa noche, en esa conversación lo que dijo tipo, eh, eso de que: 'Ay, yo le dije a Iván que no quería no sé qué'. Y después así, y Cookie/Kuki le, y Cookie/Kuki le dijo tipo: 'Pero eso es muy grave, así tipo, ¿en serio?'**" (+2594s)
 
-Ale reconstructs **the timeline of the Cuqui-Belén confrontation**:
+Ale reconstructs **the timeline of the Cookie/Kuki-Belén confrontation**:
 1. Belén moved in with Nate, "**sin contexto de nada**" (no clarity about what she was doing there)
 2. She moved to Iván's house
 3. She stayed longer
 4. She brought her things, "**retrajo sus cosas**" (pulled in)
-5. Cuqui told her: "**no es honor que estés acá**" (you shouldn't be here)
-6. Cuqui offered other options
+5. Cookie/Kuki told her: "**no es honor que estés acá**" (you shouldn't be here)
+6. Cookie/Kuki offered other options
 7. **In that conversation, the girl said something about Iván** ("yo le dije a Iván que no quería no sé qué")
-8. Cuqui responded: "**eso es muy grave**"
+8. Cookie/Kuki responded: "**eso es muy grave**"
 
-The "**no es honor**" phrasing is important — Cuqui didn't say "no deberías estar" (you shouldn't be). She said "**no es honor que estés**" — there's something dishonorable about you being here. Cuqui is using a **moral frame**, not a practical one.
+The "**no es honor**" phrasing is important — Cookie/Kuki didn't say "no deberías estar" (you shouldn't be). She said "**no es honor que estés**" — there's something dishonorable about you being here. Cookie/Kuki is using a **moral frame**, not a practical one.
 
 ### Layer 8: Ale's own conversation with the girl (Act 2, 2726–2841s)
 
 - "**Y después yo le dije así que, que tipo, yo medio entiendo en qué contexto dijiste, pero a mí me sonó mal. Tipo, me sonaba que... Y sí, como que, por cierto, en cierto momento sonaba como que lo estabas acusando de, de tipo que te forzó.**" (+2730s)
 - "**Y después, bueno, que se retractó, pero dijo muchas cosas.**" (+2744s)
-- "**Y hasta ahí que yo sentí, Cuqui, parece que no sintió tanto, pero yo sentí que con otras personas y todo fue más un digo acusativa.**" (+2753s)
-- "**Cuqui me dijo que le eche, pero yo no, no, no sé, no le podía echar o no sé, no s-- realmente no sabía cómo echarme y, eh, me, me da penita también.**" (+2816s)
+- "**Y hasta ahí que yo sentí, Cookie/Kuki, parece que no sintió tanto, pero yo sentí que con otras personas y todo fue más un digo acusativa.**" (+2753s)
+- "**Cookie/Kuki me dijo que le eche, pero yo no, no, no sé, no le podía echar o no sé, no s-- realmente no sabía cómo echarme y, eh, me, me da penita también.**" (+2816s)
 - "**No, pero, pero a mí me da pena porque... Porque realmente sí es una persona abusada, sí, pero que tiene...**" (+2841s)
 
-**Critical disclosure**: Ale had **his own conversation with the girl** about what she said about Iván. He told her it sounded like she was **accusing Iván of forcing her**. She retracted, but said many things. **She asked Cuqui to kick her out** but Ale "**me da penita**" — he has compassion for her.
+**Critical disclosure**: Ale had **his own conversation with the girl** about what she said about Iván. He told her it sounded like she was **accusing Iván of forcing her**. She retracted, but said many things. **She asked Cookie/Kuki to kick her out** but Ale "**me da penita**" — he has compassion for her.
 
 Ale's read: she's an **abused person** who also **abuses**. He has pity for her but he can't ignore what she did.
 
@@ -101,16 +101,16 @@ Ale's read: she's an **abused person** who also **abuses**. He has pity for her 
 
 This is the **biggest Ale disclosure**:
 
-- "**A mí me dejaron afuera de todas las conversaciones. Tipo, cuando vino Cuqui y le dijo, le recomendó para que salga, yo no sabía que iba a ser eso. Después, cuando vino y...**" (+3097s)
+- "**A mí me dejaron afuera de todas las conversaciones. Tipo, cuando vino Cookie/Kuki y le dijo, le recomendó para que salga, yo no sabía que iba a ser eso. Después, cuando vino y...**" (+3097s)
 - "**Y después que, que así vino Iván y le dijo así, tipo, todo off, también yo no sabía que era todo off. Tipo, yo hasta ese momento estaba hablando con la gente y, tipo, a mi perspectiva, tipo, son gente que vienen a la casa nomás y yo estoy tipo... No sé, tipo, eh, seguro que va a estar todo mal entendido y tenés que preguntarle a Iván y no sé qué cosa, pero así hasta las 5 de la mañana, por ahí.**" (+3133s)
-- "**Y, y, y le dije a Cuqui que me pareció mal que le confronten porque yo sentía que esa chica no estaba bien.**" (+3179s)
+- "**Y, y, y le dije a Cookie/Kuki que me pareció mal que le confronten porque yo sentía que esa chica no estaba bien.**" (+3179s)
 
 **Ale is naming his own exclusion**:
-- Cuqui and Iván had private conversations that Ale didn't know about
+- Cookie/Kuki and Iván had private conversations that Ale didn't know about
 - The "todo off" (everything is off, everything is broken) was told to Iván, not Ale
 - Ale was "**hablando con la gente**" (talking to them) thinking everything was fine
 - He learned **after the fact** that things were bad
-- He told Cuqui he thought the confrontation was **too harsh** because the girl wasn't well
+- He told Cookie/Kuki he thought the confrontation was **too harsh** because the girl wasn't well
 
 This is **the second-largest "left out" disclosure in the session** (after Iván's). The whole household was making decisions without him.
 
@@ -141,7 +141,7 @@ Ale was on the receiving end of **80+ calls from 3am until morning**. The girl w
 | **Iván being excluded** | "ultimamente estaban excluyendo a Iván encima" |
 | **The BDSM → Lua pipeline** | "Nate le llevó a lo de BDSM. De BDSM lo conoció a Lua" |
 | **The Gaby hospital insistence** | Group had to insist Gaby go |
-| **The Cuqui-Belén timeline** | "no es honor que estés acá" → "eso es muy grave" |
+| **The Cookie/Kuki-Belén timeline** | "no es honor que estés acá" → "eso es muy grave" |
 | **His own conversation with the girl** | "me sonaba que lo estabas acusando de que te forzó" |
 | **Pity + clear-eyed** | "sí es una persona abusada, sí, pero que tiene..." |
 | **Left out of conversations** | "A mí me dejaron afuera de todas las conversaciones" |
@@ -157,7 +157,7 @@ Ale was on the receiving end of **80+ calls from 3am until morning**. The girl w
 | **Gaby** | Co-resident, was at the hospital with her, defended her kidney infection context |
 | **Kiki** | Allied (inferred from "nos tuvimos que ir al hospital") |
 | **Lourdes** | Co-therapist; they share the "demasiado buena/dulce" diagnosis |
-| **Cuqui** | Told Ale to kick the girl out. Ale disagreed ("me da penita"). |
+| **Cookie/Kuki** | Told Ale to kick the girl out. Ale disagreed ("me da penita"). |
 | **The girl** | Talked to her directly. Heard the retraction. Felt pity. |
 | **Belén** | "**familia reabusiva**", came to the house, "**retrajo sus cosas**" |
 | **Nate** | BDSM pipeline, introduced Lua, introduced Belén |

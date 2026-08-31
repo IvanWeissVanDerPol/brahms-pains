@@ -13,17 +13,19 @@
 
 > **How to use this document:** Each section has **questions** in italics. **Fill in the answers from inside the experience**, not from outside analysis. If a section is hard, skip it and come back. If a question doesn't fit, write what does. Don't perform. Don't polish. The unpolished version is what the session needs.
 
-> **MAJOR CORRECTIONS (2026-08-28, per Iván):**
-> 1. **The 08-23 bed incident:** Iván, Ale, Belén, and Gaby were all in Gaby's bed. Iván and Belén were touching each other (no sex, just teasing). Gaby's **kidney cyst** (not ovarian) exploded separately, unrelated to the touching. **"La mine" = Belén** — same person as the dawn break-in person, the rape-accuser, the assaillante.
-> 2. **The dawn break-in (08-27 AM):** **Belén** broke into Gaby's house, not Nate.
-> 3. **BDSM-origin:** **Iván introduced Nate to BDSM** (not reverse). At BDSM events, Nate met Lua pelinegro and Iván met Lua rubia.
-> 4. **TLP disclaimer:** Lua pelinegro said in session "we can't diagnose, we aren't professionals." TLP labels are session-level descriptive language, not clinical diagnoses.
+> **MAJOR CORRECTIONS (2026-08-28 per Iván, refined 2026-09-01 per Iván):**
+> 1. **The 08-23 bed incident:** Iván, Ale, Belén, and Gaby were all in Gaby's bed. Iván and Belén were touching each other (no penetrative sex, just teasing). Gaby's **kidney cyst** (not ovarian) exploded separately, unrelated to the touching. **"La mine" = Belén** — same person as the dawn-door-banging person, the rape-accuser.
+> 2. **The dawn door-banging (08-27 ~dawn):** **Belén** was outside on the street from 3 AM, then squeezed between the security bars into gaby's private residential area at dawn, banged on gaby's door, tried to push her way inside demanding to speak with ivan. (Not nate.)
+> 3. **The 08-23 threesome (CORRECTED 2026-09-01):** This is **partial-participation-then-decline-further**, not a "declined stay-invitation." Iván participated for a period (kissed nate, kissed belén, tasted fluid from nate, gave oral to lua peli negra, grinded with belén, no penetrative sex with belén), then declined further because of exhaustion and a next-morning endoscopy. The retroactive criticism ("you should have asked more") came from nate days later. **# TODO: ivan-review** — the felt-experience section on this event needs ivan to write what the partial-participation + decline felt like, since the prior framing as "declined to participate" is now wrong.
+> 4. **BDSM-origin:** **Iván introduced Nate to BDSM** (not reverse). At BDSM events, Nate met Lua pelinegro and Iván met Lua rubia.
+> 5. **TLP disclaimer:** Lua pelinegro said in session "we can't diagnose, we aren't professionals." TLP labels are session-level descriptive language, not clinical diagnoses. The only TLP-pattern attribution is to **Belén** (informal, by cookie/kuki/lourdes/dan/sarah based on observed behavior). Cookie/Kuki is NOT a TLP-labeled subject.
+> 6. **Lourdes = friend, not therapist** (added 2026-09-01): Lourdes is in her final year of psychology studies, was present as informal peer support, NOT as a clinician.
 
 ---
 
 ## 🛏 THE 08-23 BED INCIDENT — What You Were Doing, What You Felt
 
-**Context (corrected):** That night, you (Iván), Ale, Belén, and Gaby were all in Gaby's bed. You and Belén were touching each other — no sex, just teasing. Gaby was on antibiotics + tramadol. **Gaby's kidney cyst exploded separately**, unrelated to the touching. In that disoriented state, Gaby discovered Belén's presence in the bed (the violation of her bed).
+**Context (corrected):** That night, you (Iván), Ale, Belén, and Gaby were all in Gaby's bed. You and Belén were touching each other — no penetrative sex, just teasing. Gaby was on antibiotics + tramadol. **Gaby's kidney cyst exploded separately**, unrelated to the touching. In that disoriented state, Gaby discovered Belén's presence in the bed (the violation of her bed).
 
 *How did the touching between you and Belén feel? Was it wanted by both of you, or was one of you going along? What was Ale doing? Where was Gaby in the bed — right next to you, or on the other side?*
 
@@ -37,6 +39,22 @@
 
 ---
 
+## 🛏 THE 08-23 THREESOME — What You Were Doing, What You Felt
+
+**Context (corrected 2026-09-01):** That same night (~11 PM), back at your house in Ale's room, you came home from the hospital exhausted, with an endoscopy scheduled the next morning for a polyp (later confirmed non-cancerous). **Belén asked you to stay.** You initially declined (to go shower), then stayed because she asked. You participated in the threesome for a period — kissed Nate, kissed Belén, tasted fluid from Nate, gave oral sex to Lua peli negra, grinded with Belén, no penetrative sex with Belén. Then you declined further because of exhaustion and pre-procedure anxiety. Belen was awake, engaged, actively participating throughout. The retroactive criticism ("you should have asked more") came from Nate days later, framed as both criticism-of-you and boundary-for-themselves.
+
+*In the moment when Belén asked you to stay, what did you feel? Was it "yes because I want this" or "yes because I want to belong" or "yes because the alternative is going to shower alone"?*
+
+*During the partial-participation (kissing, tasting, oral, grinding), what was your body doing? Was the engagement with Nate different from the engagement with Belén? Were you aware of your exhaustion in the moment, or did it arrive later?*
+
+*When you decided to decline further, what was the sequence? Was it a clear decision or a slow withdrawal? Did you say "I'm stopping" out loud, or just... stop? What did the others do?*
+
+*Belén later accused you of rape. What was true and what wasn't true in that accusation, given what you remember about the partial-participation? How does the accusation land against your memory of having been present, engaged, and then having declined?*
+
+*The retroactive criticism ("you should have asked more") — when you first heard it, what did it do? Did it make you question your own memory? Did it make you angry? Did it land as a pattern you'd seen before (from your mother, the unpredictability wound)?*
+
+---
+
 ## ⏱ BEFORE 08-27 — The Slow Build
 
 **Body state in the days leading up to 08-27:**
@@ -47,9 +65,15 @@
 
 *When you say "2 weeks sin contexto" — what was that period like inside? Was it silence, or was there a low-level hum? Did you know something was wrong before you could name it?*
 
-**The dawn break-in (CORRECTED — was Belén, not Nate, 08-27 AM):**
+**The dawn door-banging (CORRECTED — was Belén, not Nate, 08-27 ~dawn; was not a "break-in" but a "banged-on-the-door demanding entry" event):**
 
-*Where were you when Nate broke in? What woke you? What did the adrenaline do in your body — fast or slow? Fight, flight, freeze, or fawn? How long did it take your nervous system to come back down?*
+*Where were you when this happened? What woke you? What did the adrenaline do in your body — fast or slow? Fight, flight, freeze, or fawn? How long did it take your nervous system to come back down?*
+
+*When Ale and Gaby went to the door, did you go too, or stay in bed? Cookie/Kuki was also in bed — what was that like, knowing she was there but didn't get up?*
+
+*What did you hear from the door? What did Belén say? What did Ale or Gaby say back? How long did the door conversation last?*
+
+*The original framing of this event was "8-hour presence at gaby's house" — that's wrong. Belen was outside on the street for ~5-6 hours (3 AM to ~dawn), then squeezed between the security bars and banged on the door for some minutes before Ale and Gaby talked with her. What was it like to know she was outside for that long? What was it like to hear her banged on the door demanding to see you?*
 
 ---
 
@@ -171,7 +195,9 @@ This is the section where you link the felt experience to your own defense files
 
 ### Kiki (Kyrian)
 
-*She named you "inchabola" and "pesado" growing up. The FireWall file says she has Hardware access only, no Software access. During 08-27, did that history sit with you? Did the fact that she has her own patterns (Cuqui's TLP, the family dynamics) make it harder or easier to reach her?*
+*She named you "inchabola" and "pesado" growing up. The FireWall file says she has Hardware access only, no Software access. During 08-27, did that history sit with you?*
+
+*She was present at the 08-27 evening processing conversation at your house (alongside you, ale, gaby, and lurdes). Did it feel different having her there in a sister capacity, vs. as a witness in a polycule context?*
 
 ### The two transfem Luas
 

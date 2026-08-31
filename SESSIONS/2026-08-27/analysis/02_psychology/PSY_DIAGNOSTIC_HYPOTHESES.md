@@ -5,14 +5,14 @@
 **Frame:** DSM-5-TR and ICD-11 categories are referenced as **patterns to consider**, not diagnoses to assign. Only qualified clinicians can diagnose, and only after longitudinal assessment.
 
 **The TLP/BPD label — provenance and status:**
-- **Cuqui** self-applied the label ("es TLP")
-- **Manuel** (Cuqui's friend/contact) disputed it
-- **Lourdes** (Cuqui's therapist) affirmed it
-- **Belén has NEVER been formally labeled TLP.** Both Cuqui AND Lourdes have raised TLP as a **thought/possibility** about Belén — this is **not a diagnosis**, just a friend's intuition that surfaced in discussion. The label applies formally only to Cuqui.
+- **Cookie/Kuki** self-applied the label ("es TLP")
+- **Manuel** (Cookie/Kuki's friend/contact) disputed it
+- **Lourdes** (Cookie/Kuki's therapist) affirmed it
+- **Belén has NEVER been formally labeled TLP.** Both Cookie/Kuki AND Lourdes have raised TLP as a **thought/possibility** about Belén — this is **not a diagnosis**, just a friend's intuition that surfaced in discussion. The label applies formally only to Cookie/Kuki.
 - **The label is treated here as a possibility**, not a confirmation. The differential between BPD and C-PTSD is the clinically-relevant question.
 
 **Cast:**
-- Iván, Ale, Kiki, Gaby, Lourdes, Cuqui (absent)
+- Iván, Ale, Kiki, Gaby, Lourdes, Cookie/Kuki (absent)
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-## Cuqui — Differential hypotheses
+## Cookie/Kuki — Differential hypotheses
 
 ### Primary clinical feature
 **Acting-out + boundary violations + abuse history + disputed TLP label**
@@ -67,7 +67,7 @@
 ### Differential list
 | Hypothesis | Evidence for | Evidence against | Test |
 |---|---|---|---|
-| **Borderline Personality Disorder** (DSM-5-TR F60.3) | TLP label; 80 calls at 3am; bed incident; breaking into houses; "Cuqui dijo TLP" | Disputed by Manuel; pattern could fit C-PTSD | SCID-5-PD; PAI-BOR |
+| **Borderline Personality Disorder** (DSM-5-TR F60.3) | TLP label; 80 calls at 3am; bed incident; breaking into houses; "Cookie/Kuki dijo TLP" | Disputed by Manuel; pattern could fit C-PTSD | SCID-5-PD; PAI-BOR |
 | **Complex PTSD** (ICD-11 6B41) | Aldea SOS; abuse history; relational chaos; daughter; TLP could be misdiagnosed C-PTSD | The behavioral pattern (80 calls, breaking in) is BPD-grade | ITQ; TSC; clinical interview |
 | **Antisocial Personality Disorder** (DSM-5-TR F60.2) | "La mina" breaking into houses; assaultive pattern | Not enough evidence of pre-18 conduct disorder | SCID-5-PD; collateral |
 | **Bipolar Disorder** (DSM-5-TR F31) | Self-label as "TLP"; possible mood dysregulation | Not described as episodic | MDQ; clinical interview |
@@ -79,11 +79,11 @@
 - **BPD** → DBT (Linehan), mentalization-based therapy (Bateman/Fonagy)
 - **C-PTSD** → phased treatment (Herman), EMDR, somatic experiencing, stabilization first
 
-**Cuqui's pattern fits both.** The Aldea SOS background + abuse history leans C-PTSD. The 80-calls + breaking-in pattern leans BPD.
+**Cookie/Kuki's pattern fits both.** The Aldea SOS background + abuse history leans C-PTSD. The 80-calls + breaking-in pattern leans BPD.
 
 **Recommended next step:** Lourdes or another clinician should administer the **ITQ (International Trauma Questionnaire)** to differentiate.
 
-### Recommended next steps (for Cuqui)
+### Recommended next steps (for Cookie/Kuki)
 1. **Safety planning** — written, immediate
 2. **DBT skills group** — even if not full BPD, the skills help
 3. **Trauma-focused therapy** — EMDR or somatic experiencing
@@ -102,7 +102,7 @@
 |---|---|---|---|
 | **No diagnosable condition** | Functional, working, has chosen family | Self-blame unclear | MMPI-2 (already in repo) |
 | **Dysthymia / Persistent Depressive Disorder** | Cancer scare dropped; "no puedo decir que no"; possible chronic low mood | Not described as chronic | PHQ-9 over time |
-| **Adjustment Disorder** | Recent stress (Cuqui situation, household) | Functional, has supports | Clinical interview |
+| **Adjustment Disorder** | Recent stress (Cookie/Kuki situation, household) | Functional, has supports | Clinical interview |
 | **Compulsive Personality Disorder** (OCPD) | "Demasiado bueno"; systems thinking; over-responsibility | Functional; not rigid | SCID-5-PD |
 | **GAD** (Generalized Anxiety Disorder) | "I cannot fix anybody but myself" — performance worry | Not surfaced | GAD-7 |
 
@@ -162,14 +162,14 @@
 | Hypothesis | Evidence for | Evidence against | Test |
 |---|---|---|---|
 | **No diagnosable condition** | Most differentiated; clear boundaries; clinical precision | Cost of 2-year exile | Clinical interview |
-| **Adjustment Disorder** | Recent Cuqui situation | Functional; has supports | PHQ-9 |
-| **Compassion fatigue** (from Cuqui work) | Has been Cuqui's therapist | Not surfaced | ProQOL |
+| **Adjustment Disorder** | Recent Cookie/Kuki situation | Functional; has supports | PHQ-9 |
+| **Compassion fatigue** (from Cookie/Kuki work) | Has been Cookie/Kuki's therapist | Not surfaced | ProQOL |
 
 ### Recommended next steps (for Lourdes)
 1. **Re-engagement plan** — at the cost of moving
 2. **Dual role resolution** — friend or therapist, not both
 3. **Cost accounting** — what did the 2-year silence cost?
-4. **Supervision** — for the Cuqui work specifically
+4. **Supervision** — for the Cookie/Kuki work specifically
 
 ---
 
@@ -179,34 +179,34 @@
 **Every speaker has a version.** This is **not coincidence** — it suggests either:
 - The pattern is **contagious** in close systems (mirror neurons, modeling)
 - The pattern is **functional** in Paraguay/Queer/ENM contexts (where being accommodating keeps you safe)
-- The pattern is **a defense against something specific** — possibly the household dynamics with Cuqui
+- The pattern is **a defense against something specific** — possibly the household dynamics with Cookie/Kuki
 
 ### 2. The TLP label does work
 **The TLP label is doing real work in the room:**
 - It gives the group a shared framework
-- It lets them name Cuqui's behavior
+- It lets them name Cookie/Kuki's behavior
 - It allows them to set limits ("la mina", "esa mina")
 - It displaces the relational work (the bed incident is a relational event, not just a symptom)
 
 **Risk:** the label **can also disable** — "she has TLP, so she can't help it" absolves the room of relational responsibility.
 
 ### 3. The absent-member-as-scapegoat pattern
-**Cuqui is not in the room. This is functional (safety, boundary) and dysfunctional (projection, scapegoating).**
+**Cookie/Kuki is not in the room. This is functional (safety, boundary) and dysfunctional (projection, scapegoating).**
 
-The room needs **both** — Cuqui's safety AND the room's ability to work on its own pattern without making Cuqui the only one with it.
+The room needs **both** — Cookie/Kuki's safety AND the room's ability to work on its own pattern without making Cookie/Kuki the only one with it.
 
 ### 4. The clinical-ethical issue (Lourdes' dual role)
 **This is the highest-priority clinical issue surfaced by the session.**
 
-Lourdes is Cuqui's therapist AND a friend in the room where Cuqui is being discussed. This **compromises both roles**:
+Lourdes is Cookie/Kuki's therapist AND a friend in the room where Cookie/Kuki is being discussed. This **compromises both roles**:
 - As therapist: she cannot be neutral
 - As friend: she cannot be fully present
 
-**Recommended:** Lourdes' role with Cuqui must be **named explicitly** in next session. Options:
-- Transfer Cuqui to a non-friend clinician
+**Recommended:** Lourdes' role with Cookie/Kuki must be **named explicitly** in next session. Options:
+- Transfer Cookie/Kuki to a non-friend clinician
 - Lourdes steps back from the friend role
 - Lourdes steps back from the therapist role
-- Establish strict boundaries: friend conversations don't include Cuqui
+- Establish strict boundaries: friend conversations don't include Cookie/Kuki
 
 ---
 
