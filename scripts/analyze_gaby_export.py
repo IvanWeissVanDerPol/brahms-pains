@@ -16,6 +16,7 @@ import re
 import statistics as st
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
+from itertools import pairwise
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
@@ -30,19 +31,19 @@ REPLY_CAP_MIN = 360  # ignore "replies" separated by more than this
 
 LEXICON = {
     "business": r"\b(roque|clinica|clínica|consultorio|paciente|pctes|marca|branding|dossier"
-                r"|ometz|web|pagina|página|precio|luque|asismed|logo|dominio|estrategia"
-                r"|negocio|socio|contrato)\b",
+    r"|ometz|web|pagina|página|precio|luque|asismed|logo|dominio|estrategia"
+    r"|negocio|socio|contrato)\b",
     "affection": r"\b(te quiero|love you|amor|besito|beso|abrazo|mimito|mimos|cuddle|hug|kiss"
-                 r"|cari(ñ|n)o|linda|hermosa|preciosa|bella|kido|mommy|mami|madre)\b",
+    r"|cari(ñ|n)o|linda|hermosa|preciosa|bella|kido|mommy|mami|madre)\b",
     "sexual": r"\b(coger|cogerle|sexo|sex|strap|pija|verga|culo|teta|caliente|horny|desnud"
-              r"|porn|orgasm|masturb|kink)\b",
+    r"|porn|orgasm|masturb|kink)\b",
     "distress": r"\b(ansiedad|ansiosa|angustia|no puedo|no doy más|cansada|cansado|agotad"
-                r"|estres|estrés|llorar|lloro|triste|deprim|no dormí|no dormi|insomnio"
-                r"|miedo|pánico|panico|no me siento bien)\b",
+    r"|estres|estrés|llorar|lloro|triste|deprim|no dormí|no dormi|insomnio"
+    r"|miedo|pánico|panico|no me siento bien)\b",
     "care_offer": r"\b(estoy acá|estoy aca|estoy aquí|te ayudo|contá conmigo|conta conmigo"
-                  r"|tranquil|respirá|respira|acá estoy|aca estoy|te escucho)\b",
+    r"|tranquil|respirá|respira|acá estoy|aca estoy|te escucho)\b",
     "boundary": r"\b(no soy|no voy a ser|no quiero|prefiero que no|límite|limite|no me gusta"
-                r"|no puedo dar|solo cuddles|no es lo que)\b",
+    r"|no puedo dar|solo cuddles|no es lo que)\b",
 }
 
 TYPE_NAMES = {0: "text", 1: "image", 2: "audio", 3: "video", 7: "doc"}
@@ -50,7 +51,7 @@ TYPE_NAMES = {0: "text", 1: "image", 2: "audio", 3: "video", 7: "doc"}
 
 def load(path: Path) -> list[dict]:
     """Loads a chat's messages with a localised `dt` attached to each."""
-    messages = json.loads(path.read_text(encoding="utf-8"))["messages"]
+    messages: list[dict] = json.loads(path.read_text(encoding="utf-8"))["messages"]
     for m in messages:
         m["dt"] = datetime.fromisoformat(m["ts_iso"]).astimezone(PY_TZ)
     return messages
@@ -89,7 +90,7 @@ def initiation(messages: list[dict]) -> dict:
     closes = Counter("ivan" if days[d][-1]["from_me"] else "gaby" for d in days)
 
     breaks: Counter = Counter()
-    for a, b in zip(messages, messages[1:]):
+    for a, b in pairwise(messages):
         if (b["dt"] - a["dt"]).total_seconds() / 3600 > SILENCE_H:
             breaks["ivan" if b["from_me"] else "gaby"] += 1
 
@@ -102,15 +103,13 @@ def initiation(messages: list[dict]) -> dict:
         "silence_breaks": dict(breaks),
         "ivan_open_share": round(opens["ivan"] / total_opens, 3),
         "ivan_break_share": round(breaks["ivan"] / total_breaks, 3),
-        "message_share_ivan": round(
-            sum(1 for m in messages if m["from_me"]) / len(messages), 3
-        ),
+        "message_share_ivan": round(sum(1 for m in messages if m["from_me"]) / len(messages), 3),
     }
 
 
 def latency(messages: list[dict]) -> dict:
     lats: dict = defaultdict(list)
-    for a, b in zip(messages, messages[1:]):
+    for a, b in pairwise(messages):
         if a["from_me"] != b["from_me"]:
             mins = (b["dt"] - a["dt"]).total_seconds() / 60
             if 0 <= mins <= REPLY_CAP_MIN:
@@ -138,11 +137,13 @@ def lexicon(messages: list[dict]) -> dict:
             halves = []
             for lo, hi in ((None, midpoint), (midpoint, None)):
                 base = [
-                    m for m in mine_texts
+                    m
+                    for m in mine_texts
                     if (lo is None or m["dt"] >= lo) and (hi is None or m["dt"] < hi)
                 ]
                 hit = [
-                    m for m in hits
+                    m
+                    for m in hits
                     if (lo is None or m["dt"] >= lo) and (hi is None or m["dt"] < hi)
                 ]
                 halves.append(round(1000 * len(hit) / max(len(base), 1), 1))
@@ -187,7 +188,7 @@ def hours(messages: list[dict]) -> dict:
     late = sum(v for k, v in h.items() if k >= 22 or k < 4)
     return {
         "by_hour": {str(k): h[k] for k in range(24) if h[k]},
-        "peak_hour": max(h, key=h.get),
+        "peak_hour": max(h, key=lambda k: h[k]),
         "late_night_pct": round(100 * late / len(messages), 1),
     }
 
@@ -221,7 +222,7 @@ def working_group() -> dict:
         "last": messages[-1]["ts_iso"],
         "by_sender": dict(senders.most_common()),
         "note": "154288881946676@lid is the Hermes agent; 118262125854912@lid is Gaby; "
-                "143576646291519@lid is Kiki.",
+        "143576646291519@lid is Kiki.",
     }
 
 
@@ -239,11 +240,15 @@ def main() -> None:
         "voice_notes": voice_notes(messages),
         "working_group": working_group(),
         "caveats": [
-            "Voice notes are not transcribed; Gaby's channel is voice-heavy, so every "
-            "text-derived metric here under-weights her.",
+            (
+                "Voice notes are not transcribed; Gaby's channel is voice-heavy, so every "
+                "text-derived metric here under-weights her."
+            ),
             "Window ends 2026-07-23 and does not cover the following month.",
-            "Text exports carry no phone JID, so this chat cannot be joined to the "
-            "SQLite corpus on sender identity — join on slug.",
+            (
+                "Text exports carry no phone JID, so this chat cannot be joined to the "
+                "SQLite corpus on sender identity — join on slug."
+            ),
         ],
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
